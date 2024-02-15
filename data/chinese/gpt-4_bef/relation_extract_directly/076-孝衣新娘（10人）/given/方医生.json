@@ -1,0 +1,37 @@
+{
+    "方敏月": [
+      ["方医生", "same person as x (different identity)"], 
+      ["方乘山", "father of x"], 
+      ["田红娇", "cousin of x"], 
+      ["张得采", "admirer of x"], 
+      ["姚孟仁", "student of x"], 
+      ["姚仲义", "student of x"]
+    ],
+    "方乘山": [
+      ["姚长寿", "colleague of x"]
+    ],
+    "姚长寿": [
+      ["方乘山", "colleague of x"], 
+      ["田红娇", "husband of x"], 
+      ["姚孟仁", "father of x"], 
+      ["姚仲义", "father of x"]
+    ],
+    "田红娇": [
+      ["姚长寿", "wife of x"], 
+      ["姚孟仁", "step mother of x"], 
+      ["姚仲义", "step mother of x"]
+    ],
+    "张得采": [
+      ["方医生", "admirer of x"]
+    ],
+    "姚孟仁": [
+      ["姚长寿", "son of x"]
+    ],
+    "姚仲义": [
+      ["姚长寿", "son of x"]
+    ],
+    "孟老爷": [
+      ["方乘山", "subordinate of x"], 
+      ["姚长寿", "subordinate of x"]
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "古思特": [
+      ["表演助手", "romantic relationships with x"], 
+      ["剧务戴维", "admirer of x"], 
+      ["保安凯文", "friend of x"], 
+      ["罗琳", "friend of x"]
+    ],
+    "魔术师古思特": [
+      ["表演助手", "romantic relationships with x"], 
+      ["剧务戴维", "admirer of x"], 
+      ["保安凯文", "friend of x"], 
+      ["罗琳", "friend of x"]
+    ],
+    "表演助手": [
+      ["古思特", "romantic relationships with x"], 
+      ["保安凯文", "helper of x"], 
+      ["罗琳", "friend of x"], 
+      ["剧务戴维", "friend of x"]
+    ],
+    "年轻靓丽的女子": [
+      ["古思特", "romantic relationships with x"]
+    ],
+    "四五十岁的中年大叔": [
+      ["古思特", "romantic relationships with x"]
+    ],
+    "罗琳": [
+      ["古思特", "friend of x"], 
+      ["魔术师古思特", "friend of x"], 
+      ["表演助手", "friend of x"]
+    ],
+    "剧务戴维": [
+      ["古思特", "admirer of x"], 
+      ["魔术师古思特", "admirer of x"], 
+      ["表演助手", "friend of x"]
+    ],
+    "凯文": [
+      ["表演助手", "helper of x"], 
+      ["古思特", "friend of x"], 
+      ["保安凯文", "friend of x"]
+    ],
+    "后勤格里夫": [
+      ["表演助手", "deceiver of x"], 
+      ["后勤格里夫", "creditor of x"], 
+      ["后勤格里夫", "suspect of x"], 
+      ["后勤格里夫", "perpetrator of x"]
+    ]
+}

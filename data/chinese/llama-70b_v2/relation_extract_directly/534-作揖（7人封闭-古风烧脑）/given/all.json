@@ -1,0 +1,22 @@
+{
+    "李延": [
+      ["李仲", "brother sister relationship of x, rival of x"], 
+      ["陈倩", "acquaintance of x, romantic interest of x, rival of x"], 
+      ["李钦仁", "father son relationship of x"]
+    ],
+    "李仲": [
+      ["李延", "brother sister relationship of x, rival of x"], 
+      ["陈倩", "romantic relationship of x, rival of x"], 
+      ["李钦仁", "father son relationship of x"]
+    ],
+    "陈倩": [
+      ["李延", "acquaintance of x, romantic interest of x, rival of x"], 
+      ["李仲", "romantic relationship of x, rival of x"], 
+      ["李钦仁", "father daughter relationship of x"]
+    ],
+    "李钦仁": [
+      ["李延", "father son relationship of x"], 
+      ["李仲", "father son relationship of x"], 
+      ["陈倩", "father daughter relationship of x"]
+    ]
+}

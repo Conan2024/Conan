@@ -1,0 +1,26 @@
+{
+    "李成": [
+      ["赵中正", "informant of x, helper of x"], 
+      ["赵中杨", "helped by x, informant of x"], 
+      ["张伟", "subordinate of x"], 
+      ["陈媚儿", "suspicious of x"]
+    ],
+    "赵中正": [
+      ["李成", "information receiver from x, helper of x"], 
+      ["赵中杨", "superior of x"], 
+      ["陈媚儿", "customer of x"]
+    ],
+    "赵中杨": [
+      ["李成", "helped by x, informant of x"], 
+      ["张伟", "subordinate of x"], 
+      ["陈媚儿", "romantic relationships with x"]
+    ],
+    "张伟": [
+      ["赵中杨", "superior of x"], 
+      ["李成", "superior of x"]
+    ],
+    "陈媚儿": [
+      ["赵中杨", "romantic relationships with x"], 
+      ["李成", "suspicious of x"]
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "苗如娅": [
+      ["田氏", "mother of x"], 
+      ["苗纳", "father of x"], 
+      ["苗氏", "aunt of x"], 
+      ["巴府山", "uncle of x"], 
+      ["鹃歌", "cousin of x"], 
+      ["隼", "cousin of x"], 
+      ["甘玛", "acquaintance of x, friend of x, co wives of x"], 
+      ["鬼印", "mentor of x, husband of x"], 
+      ["李德木", "relative of x, extramarital affair with x"], 
+      ["李良松", "acquaintance of x"], 
+      ["李高柏", "acquaintance of x, informant of x"], 
+      ["忱纱", "acquaintance of x"]
+    ],
+    "田氏": [
+      ["苗如娅", "mother of x"], 
+      ["苗纳", "wife of x"], 
+      ["苗氏", "sister in law of x"]
+    ],
+    "苗纳": [
+      ["苗如娅", "father of x"], 
+      ["田氏", "wife of x"], 
+      ["苗氏", "sister of x"], 
+      ["鬼印", "student of x"], 
+      ["甘玛", "informant of x"]
+    ],
+    "寨主巴府山": [
+      ["苗氏", "husband of x"], 
+      ["鹃歌", "father of x"], 
+      ["隼", "father of x"], 
+      ["鬼印", "business partner of x"], 
+      ["苗如娅", "niece of x"]
+    ],
+    "鬼印": [
+      ["苗纳", "replaced x's identity, mentor of x"], 
+      ["甘玛", "student of x, friend of x, mentor of x, co wives of x"], 
+      ["苗如娅", "student of x, helped by x, wife of x"], 
+      ["鹃歌", "fiance of x, helped by x"], 
+      ["李高柏", "acquaintance of x"], 
+      ["忱纱", "helper of x"], 
+      ["巴府山", "business partner of x"]
+    ],
+    "甘玛": [
+      ["苗纳", "helper of x"], 
+      ["鬼印", "helper of x, friend of x, mentor of x, co wives of x"], 
+      ["苗如娅", "acquaintance of x, friend of x, co wives of x"], 
+      ["隼", "fiance of x, helper of x"], 
+      ["忱纱", "acquaintance of x"]
+    ],
+    "苗氏": [
+      ["巴府山", "wife of x"], 
+      ["鹃歌", "mother of x"], 
+      ["隼", "mother of x"], 
+      ["苗纳", "sister in law of x"], 
+      ["苗如娅", "aunt of x"]
+    ],
+    "李德木": [
+      ["李良松", "sibling of x"], 
+      ["李高柏", "sibling of x"], 
+      ["苗如娅", "victim of x, extramarital affair with x"]
+    ],
+    "李良松": [
+      ["李德木", "sibling of x"], 
+      ["李高柏", "sibling of x"]
+    ],
+    "李高柏": [
+      ["李德木", "sibling of x"], 
+      ["李良松", "sibling of x"], 
+      ["苗如娅", "acquaintance of x, informant of x"], 
+      ["鬼印", "acquaintance of x"]
+    ],
+    "忱纱": [
+      ["甘玛", "acquaintance of x"]
+    ],
+    "鹃歌": [
+      ["巴府山", "child of x"], 
+      ["苗氏", "child of x"], 
+      ["隼", "same person as x (different identity)"], 
+      ["鬼印", "fiance of x, helped by x"], 
+      ["苗如娅", "cousin of x"]
+    ],
+    "隼": [
+      ["巴府山", "child of x"], 
+      ["苗氏", "child of x"], 
+      ["鹃歌", "same person as x (different identity)"], 
+      ["鬼印", "business partner of x"], 
+      ["苗如娅", "cousin of x"], 
+      ["甘玛", "fiance of x, helper of x"]
+    ]
+}

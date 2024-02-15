@@ -1,0 +1,102 @@
+{
+    "夏三虎": [
+      ["宇祖成木", "friend of x"], 
+      ["李子材", "friend of x, mentor of x"], 
+      ["阿娥", "uncle of x"], 
+      ["骆明", "brother of x, mentor of x"]
+    ],
+    "夏伯龙": [
+      ["夏仲鹏", "relative of x, friend of x"], 
+      ["宇祖成木", "acquaintance of x"], 
+      ["李子材", "mentor of x, student of x"], 
+      ["段约同", "mentor of x, friend of x, teacher of x, student of x"], 
+      ["阿明", "mentor of x"], 
+      ["陆栋", "brother in law of x, rival of x, enemy of x"]
+    ],
+    "夏北归": [
+      ["夏仲鹏", "father of x, mentor of x"], 
+      ["夏叔娥", "father of x, master of x, mentor of x"], 
+      ["宇祖成木", "father of x, teacher of x, mentor of x, employer of x, master of x, adversary of x"], 
+      ["阿保", "father of x, mentor of x"], 
+      ["阿娥", "father of x, mentor of x"], 
+      ["阿明", "father of x, mentor of x, victim of x"], 
+      ["陆栋", "father of x, teacher of x, mentor of x, employer of x, master of x"], 
+      ["骆明", "father of x, teacher of x, mentor of x, master of x, employer of x"]
+    ],
+    "夏叔娥": [
+      ["夏仲鹏", "brother in law of x, uncle of x"], 
+      ["夏北归", "daughter of x"], 
+      ["阿娥", "friend of x"], 
+      ["骆明", "student of x"]
+    ],
+    "宇祖成木": [
+      ["夏三虎", "friend of x"], 
+      ["夏伯龙", "acquaintance of x"], 
+      ["夏北归", "son of x, student of x, employee of x, servant of x, adversary of x"]
+    ],
+    "李子材": [
+      ["夏三虎", "friend of x, mentor of x"], 
+      ["夏伯龙", "student of x, mentor of x"], 
+      ["阿保", "mentor of x, teacher of x"], 
+      ["陆栋", "friend of x, classmate of x"], 
+      ["骆明", "teacher of x, business partner of x"]
+    ],
+    " SUM three tiger": [
+      ["段约同", "mentor of x"]
+    ],
+    "段约同": [
+      ["SUM three tiger", "mentor of x"], 
+      ["夏仲鹏", "friend of x, mentor of x"], 
+      ["夏伯龙", "mentor of x, friend of x, teacher of x, student of x"]
+    ],
+    "阿保": [
+      ["夏北归", "daughter of x, student of x"], 
+      ["李子材", "student of x"], 
+      ["阿娥", "mentor of x, father of x"], 
+      ["阿明", "older brother of x, master of x"], 
+      ["陆栋", "co wives of x"]
+    ],
+    "阿娥": [
+      ["夏三虎", "niece of x"], 
+      ["夏北归", "father of x, student of x"], 
+      ["夏叔娥", "master of x, father in law of x"], 
+      ["阿保", "mentor of x, father of x"]
+    ],
+    "阿明": [
+      ["夏三虎", "master of x"], 
+      ["夏伯龙", "colleague of x"], 
+      ["夏北归", "daughter of x, student of x, manipulator of x"], 
+      ["阿保", "older brother of x, master of x"]
+    ],
+    "陆栋": [
+      ["夏伯龍", "brother in law of x, rival of x, enemy of x"], 
+      ["夏北归", "son of x, student of x, employee of x, servant of x"], 
+      ["夏叔娥", "student of x, adversary of x"], 
+      ["李子材", "friend of x, classmate of x"], 
+      ["阿保", "co wives of x"]
+    ],
+    "骆明": [
+      ["夏三虎", "friend of x, mentor of x"], 
+      ["夏仲鹏", "brother in law of x, rival of x, enemy of x"], 
+      ["夏伯龍", "younger brother of x"], 
+      ["夏北归", "son of x, student of x, servant of x, employee of x"], 
+      ["夏叔娥", "mentor of x"], 
+      ["李子材", "student of x, enemy of x, business partner of x"]
+    ],
+    "夏仲鹏": [
+      ["夏伯龙", "relative of x, friend of x"], 
+      ["夏北归", "same person as x (different reference), same person as x (different identity)"], 
+      ["夏叔娥", "brother in law of x, uncle of x"], 
+      ["段约同", "friend of x, mentor of x"], 
+      ["骆明", "brother in law of x, rival of x, enemy of x"]
+    ],
+    " Summer Zhongping": [
+      ["Liu Ruyan", "older brother of x, friend of x"]
+    ],
+    "Liu Ruyan": [
+      ["Summer Zhongping", "older brother of x, friend of x"]
+    ],
+    "夏伯龍": [
+      ["骆明", "older brother of x"]
+    ]
+}

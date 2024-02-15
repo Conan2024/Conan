@@ -1,0 +1,44 @@
+{
+    "赵三": [
+      ["赵中正", "sibling of x, mentor of x"], 
+      ["赵中杨", "sibling of x"], 
+      ["赵家族长老", "relative of x"], 
+      ["张伟", "informant of x, helped by x"], 
+      ["马老板", "customer of x"], 
+      ["陈媚儿", "romantic relationships with x"]
+    ],
+    "赵中正": [
+      ["赵三", "sibling of x, mentor of x"], 
+      ["赵中杨", "sibling of x"], 
+      ["赵家族长老", "relative of x"], 
+      ["张伟", "informant of x, helped by x"], 
+      ["马老板", "customer of x"], 
+      ["陈媚儿", "romantic relationships with x"]
+    ],
+    "赵中杨": [
+      ["赵三", "sibling of x"], 
+      ["赵中正", "sibling of x"], 
+      ["赵家族长老", "relative of x"], 
+      ["张伟", "helper of x"]
+    ],
+    "赵家族长老": [
+      ["赵三", "relative of x"], 
+      ["赵中正", "relative of x"], 
+      ["赵中杨", "relative of x"]
+    ],
+    "张伟": [
+      ["赵三", "informant of x, information receiver from x, helped by x"], 
+      ["赵中正", "informant of x, information receiver from x, helped by x"], 
+      ["赵中杨", "helper of x"], 
+      ["马老板", "business partner of x"]
+    ],
+    "马老板": [
+      ["赵三", "customer of x"], 
+      ["赵中正", "customer of x"], 
+      ["张伟", "business partner of x"]
+    ],
+    "陈媚儿": [
+      ["赵三", "romantic relationships with x"], 
+      ["赵中正", "romantic relationships with x"]
+    ]
+}

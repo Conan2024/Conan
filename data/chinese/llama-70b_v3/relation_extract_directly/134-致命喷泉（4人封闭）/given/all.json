@@ -1,0 +1,32 @@
+{
+    "慕北": [
+      ["李国富", "friend of x"], 
+      ["何老六", "relative of x, acquaintance of x"], 
+      ["王邻居", "adversary of x"]
+    ],
+    "李国富": [
+      ["慕北", "friend of x"], 
+      ["何老六", "relative of x, acquaintance of x"], 
+      ["王邻居", "adversary of x"]
+    ],
+    "张洁": [
+      ["何老六", "relative of x, acquaintance of x"], 
+      ["王邻居", "adversary of x"]
+    ],
+    "何老六": [
+      ["慕北", "relative of x, acquaintance of x"], 
+      ["李国富", "relative of x, acquaintance of x"], 
+      ["张洁", "relative of x, acquaintance of x"], 
+      ["王邻居", "adversary of x"]
+    ],
+    "王大哥": [
+      ["王邻居", "adversary of x"]
+    ],
+    "王邻居": [
+      ["慕北", "adversary of x"], 
+      ["李国富", "adversary of x"], 
+      ["张洁", "adversary of x"], 
+      ["何老六", "adversary of x"], 
+      ["王大哥", "adversary of x"]
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "苏阳": [
+      ["林彤", "relationship 1: boyfriend/girlfriend of x, relationship 2: cardiothoracic surgeon/patient of x"], 
+      ["林院長", "mentor of x, teacher of x, informant of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by of x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by of x, dislike of x, disliked by of x, subject of x investigation for, deceiver of x, betrayer of x, deceived by of x, betrayed by of x, suspected by of x, suspicious of x, suspect of x, adversary of x, enemy of x, rival of x, manipulator of x, manipulated by of x, superior of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["顾晴", "相互感情 of x, 共同经历 of x, 医生 病人关系 of x, 救命恩人 of x"]
+    ],
+    "林彤": [
+      ["苏阳", "relationship 1: boyfriend/girlfriend of x, relationship 2: cardiothoracic surgeon/patient of x"], 
+      ["林夕", "former lover of x, estranged lover of x"], 
+      ["林院長", "student of x, mentee of x"], 
+      ["沈城", "former lover of x, estranged father of x"], 
+      ["顾晴", "相互感染 of x, 共同经历 of x, 感情依赖 of x, 心 subsequente药物治疗 of x"]
+    ],
+    "林院长": [
+      ["苏阳", "father of x, mentor of x, teacher of x, informant of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by of x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by of x, dislike of x, disliked by of x, subject of x investigation for, deceiver of x, betrayer of x, deceived by of x, betrayed by of x, suspected by of x, suspicious of x, suspect of x, adversary of x, enemy of x, rival of x, manipulator of x, manipulated by of x, superior of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["林彤", "teacher of x, mentor of x"], 
+      ["沈城", "father in law of x, master servant of x"], 
+      ["顾晴", "father in law of x, manipulate of x"]
+    ],
+    "沈城": [
+      ["林彤", "former lover of x, estranged daughter of x"], 
+      ["林夕", "former lover of x, estranged father of x"], 
+      ["林院长", "father in law of x, master servant of x"], 
+      ["顾晴", "father in law of x, mastermind behind 林彤's death of x"]
+    ],
+    "顾晴": [
+      ["苏阳", "相互感情 of x, 共同经历 of x, 医生 病人关系 of x, 救命恩人 of x"], 
+      ["林彤", "相互感染 of x, 共同经历 of x, 感情依赖 of x, 心 subsequente药物治疗 of x"], 
+      ["林夕", "相互感情 of x, 共同经历 of x, 亲密 relate of x"], 
+      ["林院长", "wife of x, bully of x"], 
+      ["沈城", "wife of x, co conspirator in 林彤's death of x"]
+    ],
+    "林夕": [
+      ["林彤", "current lover of x, sibling in law of x"], 
+      ["林院長", "student of x, acquaintance of x, colleague of x, subordinate of x, employee of x, servant of x, helper of x, perpetrator of x, victim of x, suspect of x, suspicious of x, adversary of x, enemy of x, rival of x, manipulator of x, manipulated by x"], 
+      ["沈城", "former lover of x, estranged daughter of x"], 
+      ["顾晴", "相互感情 of x, 共同经历 of x, 亲密 relate of x"]
+    ],
+    "林院長": [
+      ["林夕", "father of x, master of x, superior of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"]
+    ]
+}

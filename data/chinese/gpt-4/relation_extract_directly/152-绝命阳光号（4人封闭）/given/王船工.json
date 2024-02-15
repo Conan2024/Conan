@@ -1,0 +1,92 @@
+{
+    "王船工": [
+        [
+            "张大副",
+            "business partner of 王船工, crime partner of 王船工, suspect to 王船工"
+        ],
+        [
+            "王小工",
+            "child of 王船工"
+        ],
+        [
+            "玲船医",
+            "daughter in law of 王船工, helper of 王船工"
+        ],
+        [
+            "杨老板",
+            "employer of 王船工, suspect to 王船工, perpetrator of 王小工, business partner of 王船工, victim of 王船工 (planned)"
+        ]
+    ],
+    "张大副": [
+        [
+            "王船工",
+            "business partner of 张大副, crime partner of 张大副, manipulated by 王船工 (planned)"
+        ],
+        [
+            "王小工",
+            "perpetrator of 王小工"
+        ],
+        [
+            "杨老板",
+            "business partner of 张大副, adversary of 张大副"
+        ],
+        [
+            "玲船医",
+            "acquaintance of 王船工"
+        ]
+    ],
+    "王小工": [
+        [
+            "王船工",
+            "father of 王小工"
+        ],
+        [
+            "玲船医",
+            "wife of 王小工"
+        ],
+        [
+            "张大副",
+            "perpetrator of 王小工"
+        ],
+        [
+            "杨老板",
+            "perpetrator of 王小工, creditor of 王小工"
+        ]
+    ],
+    "玲船医": [
+        [
+            "王船工",
+            "father in law of 玲船医, helped by 玲船医"
+        ],
+        [
+            "王小工",
+            "husband of 玲船医"
+        ],
+        [
+            "杨老板",
+            "adversary of 玲船医, debtor of 玲船医"
+        ],
+        [
+            "张大副",
+            "acquaintance of 玲船医"
+        ]
+    ],
+    "杨老板": [
+        [
+            "王船工",
+            "employee of 杨老板, business partner of 杨老板, informant of 杨老板, suspect to 杨老板"
+        ],
+        [
+            "张大副",
+            "business partner of 杨老板, adversary of 杨老板"
+        ],
+        [
+            "玲船医",
+            "debtor of 玲船医, suspected by 玲船医"
+        ],
+        [
+            "王小工",
+            "perpetrator of 王小工"
+        ]
+    ]
+}

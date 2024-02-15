@@ -1,0 +1,22 @@
+{
+    "萧体育": [
+      ["薛媚娘", "romantic relationships with x, ex boyfriend of x"], 
+      ["庄清纯", "extramarital affair with x"], 
+      ["贾美丽", "ex girlfriend of x"]
+    ],
+    "薛媚娘": [
+      ["萧体育", "romantic relationships with x, ex girlfriend of x"], 
+      ["庄清纯", "romantic relationships with x"], 
+      ["贾美丽", "extramarital affair with x"]
+    ],
+    "庄清纯": [
+      ["萧体育", "extramarital affair with x"], 
+      ["薛媚娘", "romantic relationships with x"], 
+      ["贾美丽", "ex girlfriend of x"]
+    ],
+    "贾美丽": [
+      ["萧体育", "ex boyfriend of x"], 
+      ["薛媚娘", "extramarital affair with x"], 
+      ["庄清纯", "ex girlfriend of x"]
+    ]
+}

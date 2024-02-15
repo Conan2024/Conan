@@ -1,0 +1,98 @@
+{
+    "神父汤姆": [
+        [
+            "德雷克·里莫瑞特",
+            "mentor of 神父汤姆"
+        ],
+        [
+            "托尼",
+            "friend of x",
+            "mentor of x"
+        ],
+        [
+            "弗兰克",
+            "mentor of"
+        ],
+        [
+            "帕洛斯基医生",
+            "mentor of, friend of"
+        ]
+    ],
+    "德雷克·里莫瑞特": [
+        [
+            "神父汤姆",
+            "student of 德雷克·里莫瑞特"
+        ],
+        [
+            "托尼",
+            "mentor of"
+        ],
+        [
+            "弗兰克",
+            "priest of 德雷克·里莫瑞特",
+            "religious mentor of 德雷克·里莫瑞特"
+        ],
+        [
+            "帕洛斯基医生",
+            "mentor of"
+        ]
+    ],
+    "托尼": [
+        [
+            "神父汤姆",
+            "friend of x",
+            "student of x"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "student of"
+        ],
+        [
+            "弗兰克",
+            "romantic relationships with 弗兰克",
+            "co wives of 弗兰克"
+        ],
+        [
+            "帕洛斯基医生",
+            "doctor of 帕洛斯基"
+        ]
+    ],
+    "弗兰克": [
+        [
+            "神父汤姆",
+            "student of"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "parishioner of 弗兰克",
+            "spiritual guidance seeker from 弗兰克"
+        ],
+        [
+            "托尼",
+            "romantic relationships with 托尼",
+            "co wives of 托尼"
+        ],
+        [
+            "帕洛斯基医生",
+            "mentor of"
+        ]
+    ],
+    "帕洛斯基医生": [
+        [
+            "神父汤姆",
+            "mentored by, friend of"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "student of"
+        ],
+        [
+            "托尼",
+            "patient of 托尼"
+        ],
+        [
+            "弗兰克",
+            "student of"
+        ]
+    ]
+}

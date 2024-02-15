@@ -1,0 +1,35 @@
+{
+    "谭太太": [
+      ["采茜", "friend of x, x"], 
+      ["海悠", "employee of x, x"], 
+      ["婆婆", "wife of x, x"], 
+      ["廖公子", "son of x, x"], 
+      ["吕名然", "lover of x, x"], 
+      ["尚致", "classmate of x, x"], 
+      ["廖公子", "husband of x, x"], 
+      ["婆婆", "mother of x, x"]
+    ],
+    "采茜": [
+      ["谭太太", "friend of x, x"], 
+      ["海悠", "classmate of x, x"]
+    ],
+    "海悠": [
+      ["谭太太", "employer of x, x"], 
+      ["采茜", "classmate of x, x"]
+    ],
+    "婆婆": [
+      ["谭太太", "wife of x, x"], 
+      ["廖公子", "son of x, x"]
+    ],
+    "廖公子": [
+      ["谭太太", "husband of x, x"], 
+      ["婆婆", "mother of x, x"]
+    ],
+    "吕名然": [
+      ["谭太太", "lover of x, x"], 
+      ["尚致", "classmate of x, x"]
+    ],
+    "尚致": [
+      ["吕名然", "classmate of x, x"]
+    ]
+}

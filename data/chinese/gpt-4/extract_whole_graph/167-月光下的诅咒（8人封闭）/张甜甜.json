@@ -1,0 +1,84 @@
+{
+    "张甜甜/张萍": [
+        [
+            "张志",
+            "father of 张甜甜/张萍"
+        ],
+        [
+            "徐真",
+            "friend of 张甜甜/张萍"
+        ],
+        [
+            "郑晨",
+            "acquaintance of 张甜甜/张萍"
+        ],
+        [
+            "郑义",
+            "suspected by 张甜甜/张萍, possibly family of 郑晨"
+        ],
+        [
+            "刘磊",
+            "suspected by 张甜甜/张萍, perpetrator of 张甜甜/张萍's father"
+        ],
+        [
+            "美攸师傅",
+            "mentor of 张甜甜/张萍"
+        ]
+    ],
+    "张志": [
+        [
+            "张甜甜/张萍",
+            "father of 张甜甜/张萍"
+        ],
+        [
+            "郑义",
+            "victim of 郑义"
+        ]
+    ],
+    "刘磊": [
+        [
+            "张甜甜/张萍",
+            "suspect of 张甜甜/张萍"
+        ],
+        [
+            "郑义",
+            "deceiver of 郑义, adversary of 郑义"
+        ]
+    ],
+    "郑义": [
+        [
+            "张甜甜/张萍",
+            "suspected by 张甜甜/张萍"
+        ],
+        [
+            "刘磊",
+            "deceived by 刘磊, adversary of 刘磊"
+        ],
+        [
+            "郑晨",
+            "possible father of 郑晨"
+        ]
+    ],
+    "郑晨": [
+        [
+            "张甜甜/张萍",
+            "saved by 张甜甜/张萍, acquaintance of 张甜甜/张萍"
+        ],
+        [
+            "郑义",
+            "possible son of 郑义"
+        ]
+    ],
+    "美攸师傅": [
+        [
+            "张甜甜/张萍",
+            "student of 美攸师傅"
+        ]
+    ],
+    "徐真": [
+        [
+            "张甜甜/张萍",
+            "childhood crush of 张甜甜/张萍"
+        ]
+    ]
+}

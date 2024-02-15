@@ -1,0 +1,85 @@
+{
+    "盖尔•里莫瑞特": [
+      ["汉斯•里莫瑞特医生", "colleague of x, mentor of x"], 
+      ["德雷克•里莫瑞特", "father of x"], 
+      ["吉姆•梅森", "mentor of x"], 
+      ["护士长科斯塔", "mentor of x"], 
+      ["约翰逊", "teacher of x"], 
+      ["詹姆斯•菜利", "student of x, informant of x"], 
+      ["伊莱恩•卡特尔", "mentor of x"]
+    ],
+    "汉斯•里莫瑞特医生": [
+      ["盖尔•里莫瑞特", "colleague of x, student of x"], 
+      ["德雷克•里莫瑞特", "father of x"], 
+      ["吉姆•梅森", "teacher of x"], 
+      ["护士长科斯塔", "student of x"], 
+      ["约翰逊", "mentor of x"], 
+      ["詹姆斯•菜利", "mentor of x"], 
+      ["伊莱恩•卡特尔", "student of x, colleague of x"]
+    ],
+    "德雷克•里莫瑞特": [
+      ["盖尔•里莫瑞特", "son of x"], 
+      ["父亲", "son of x, biological father of x"], 
+      ["吉姆•梅森", "mentor of x"], 
+      ["护士长科斯塔", "mentor of x, teacher of x"], 
+      ["约翰逊", "father of x"], 
+      ["詹姆斯•菜利", "brother of x"], 
+      ["伊莱恩•卡特尔", "wife of x"]
+    ],
+    "吉姆•梅森": [
+      ["盖尔•里莫瑞特", "student of x"], 
+      ["汉斯•里莫瑞特医生", "student of x"], 
+      ["德雷克•里莫瑞特", "student of x"], 
+      ["父亲", "son of x"], 
+      ["护士长科斯塔", "mentor of x"], 
+      ["约翰逊", "business partner of x"], 
+      ["詹姆斯•菜利", "business partner of x, colleague of x"], 
+      ["伊莱恩•卡特尔", "romantic relationships with x"]
+    ],
+    "护士长科斯塔": [
+      ["盖尔•里莫瑞特", "student of x"], 
+      ["汉斯•里莫瑞特医生", "mentor of x"], 
+      ["德雷克•里莫瑞特", "student of x"], 
+      ["父亲", "child of x"], 
+      ["吉姆•梅森", "student of x"], 
+      ["约翰逊", "colleague of x"], 
+      ["詹姆斯•菜利", "mentor of x"], 
+      ["伊莱恩•卡特尔", "mentor of x"]
+    ],
+    "詹姆斯•菜利": [
+      ["盖尔•里莫瑞特", "mentor of x, information receiver from x"], 
+      ["汉斯•里莫瑞特医生", "student of x"], 
+      ["德雷克•里莫瑞特", "brother of x"], 
+      ["父亲", "father of x, husband of x"], 
+      ["吉姆•梅森", "business partner of x, colleague of x"], 
+      ["护士长科斯塔", "student of x"], 
+      ["约翰逊", "mentor of x"], 
+      ["伊莱恩•卡特尔", "friend of x"]
+    ],
+    "伊莱恩•卡特尔": [
+      ["盖尔•里莫瑞特", "student of x"], 
+      ["汉斯•里莫瑞特医生", "teacher of x, colleague of x"], 
+      ["德雷克•里莫瑞特", "husband of x"], 
+      ["父亲", "child of x"], 
+      ["吉姆•梅森", "romantic relationships with x"], 
+      ["护士长科斯塔", "student of x"], 
+      ["约翰逊", "romantic relationships with x, fiancee of x, ex husband of x"], 
+      ["詹姆斯•菜利", "friend of x"]
+    ],
+    "父亲": [
+      ["德雷克•里莫瑞特", "father of x"], 
+      ["吉姆•梅森", "father of x"], 
+      ["护士长科斯塔", "father of x"], 
+      ["约翰逊", "father of x"], 
+      ["詹姆斯•菜利", "father of x, husband of x"], 
+      ["伊莱恩•卡特尔", "father of x, mentor of x"]
+    ],
+    "约翰逊": [
+      ["汉斯•里莫瑞特医生", "student of x"], 
+      ["德雷克•里莫瑞特", "son of x"], 
+      ["父亲", "son of x"], 
+      ["护士长科斯塔", "colleague of x"], 
+      ["詹姆斯•菜利", "student of x"], 
+      ["伊莱恩•卡特尔", "romantic relationships with x, fiance of x, ex wife of x"]
+    ]
+}

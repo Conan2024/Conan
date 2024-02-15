@@ -1,0 +1,39 @@
+{
+    "朱迪": [
+      ["徐夫人", "wife of x"], 
+      ["姚长寿", "father in law of x"], 
+      ["方敏月", "lover of x"], 
+      ["短发女人", "acquaintance of x"], 
+      ["白头蛇", "business partner of x"], 
+      ["姚家不肖子孟仁之墓", "relative of x"]
+    ],
+    "徐夫人": [
+      ["朱迪", "husband of x"], 
+      ["姚长寿", "father in law of x"], 
+      ["姚孟仁", "son of x"]
+    ],
+    "姚长寿": [
+      ["朱��ди", "son in law of x"], 
+      ["徐夫人", "wife of x"], 
+      ["姚孟仁", "son of x"]
+    ],
+    "姚孟仁": [
+      ["朱迪", "brother in law of x"], 
+      ["徐夫人", "mother of x"], 
+      ["姚长寿", "father of x"]
+    ],
+    "方敏月": [
+      ["朱迪", "lover of x"]
+    ],
+    "短发女人": [
+      ["朱迪", "acquaintance of x"], 
+      ["白头蛇", "business partner of x"]
+    ],
+    "白头蛇": [
+      ["朱迪", "business partner of x"], 
+      ["姚家不肖子孟仁之墓", "relative of x"]
+    ],
+    "姚家不肖子孟仁之墓": [
+      ["朱迪", "relative of x"]
+    ]
+}

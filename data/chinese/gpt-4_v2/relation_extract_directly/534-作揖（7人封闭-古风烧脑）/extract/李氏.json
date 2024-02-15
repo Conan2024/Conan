@@ -1,0 +1,76 @@
+{
+    "方絮": [
+      ["same person as 李氏", "same person as x (different identity)"], 
+      ["方叶", "sibling of x"], 
+      ["方眠", "sibling of x"], 
+      ["方絮母亲", "mother of x"], 
+      ["收养的男孩", "childhood companion of x, romantic relationships with x, secret lover of x"], 
+      ["李仲", "child of x"], 
+      ["李延", "child of x"], 
+      ["李钦仁", "husband of x, perpetrator of x"], 
+      ["方竹", "same person as 收养的男孩 of x, helper of x"]
+    ],
+    "方叶": [
+      ["方眠", "sibling of x"], 
+      ["方絮母亲", "mother of x"], 
+      ["方絮", "sibling of x"], 
+      ["收养的男孩", "acquaintance of x, disliked by x"], 
+      ["方竹", "none of x"]
+    ],
+    "方眠": [
+      ["方叶", "sibling of x"], 
+      ["方絮母亲", "mother of x"], 
+      ["方絮", "sibling of x"], 
+      ["收养的男孩", "acquaintance of x, disliked by x"], 
+      ["方竹", "none of x"]
+    ],
+    "方絮母亲": [
+      ["方叶", "child of x"], 
+      ["方眠", "child of x"], 
+      ["方絮", "child of x"], 
+      ["收养的男孩", "adopted child of x"], 
+      ["方竹", "none of x"]
+    ],
+    "收养的男孩": [
+      ["方叶", "acquaintance of x, disliked by x"], 
+      ["方眠", "acquaintance of x, disliked by x"], 
+      ["方絮母亲", "adoptive mother of x"], 
+      ["方絮", "childhood companion of x, romantic relationships with x, secret lover of x"], 
+      ["方竹", "same person as x"]
+    ],
+    "李仲": [
+      ["李延", "sibling of x, twin brother of x"], 
+      ["李钦仁", "step son of x"], 
+      ["方絮", "child of x"], 
+      ["方竹", "none of x"], 
+      ["陈倩", "fiance of x"]
+    ],
+    "李延": [
+      ["李仲", "sibling of x, twin brother of x"], 
+      ["李钦仁", "step son of x, disliked by x"], 
+      ["方絮", "child of x"], 
+      ["方竹", "none of x"]
+    ],
+    "李钦仁": [
+      ["李仲", "step father of x, adversary of x"], 
+      ["李延", "step father of x, dislike of x"], 
+      ["方絮", "husband of x, perpetrator of x"], 
+      ["方竹", "enemy of x"], 
+      ["陈倩", "future father in law of x"]
+    ],
+    "陈倩": [
+      ["陈孜靖", "child of x"], 
+      ["李仲", "fiancee of x"]
+    ],
+    "陈孜靖": [
+      ["陈倩", "father of x"], 
+      ["李仲", "future son in law of x"]
+    ],
+    "方竹": [
+      ["李仲", "none of x"], 
+      ["李延", "none of x"], 
+      ["方絮", "same person as 收养的男孩 of x, helper of x"], 
+      ["收养的男孩", "same person as x"], 
+      ["李钦仁", "enemy of x"]
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "韩亦": [
+      ["刘奇", "dislike of x"], 
+      ["修仁杰", "friend of x"], 
+      ["林若彤", "sibling of x"], 
+      ["洪子廉", "superior of x"], 
+      ["张文远", "acquaintance of x"]
+    ],
+    "刘奇": [
+      ["韩亦", "dislike of x"], 
+      ["修仁杰", "friend of x"], 
+      ["林若彤", "adversary of x"]
+    ],
+    "修仁杰": [
+      ["韩亦", "friend of x"], 
+      ["刘奇", "friend of x"]
+    ],
+    "林若彤": [
+      ["韩亦", "sibling of x"], 
+      ["刘奇", "adversary of x"]
+    ],
+    "洪子廉": [
+      ["韩亦", "superior of x"], 
+      ["刘奇", "superior of x"]
+    ],
+    "张文远": [
+      ["韩亦", "acquaintance of x"], 
+      ["刘奇", "acquaintance of x"]
+    ]
+}

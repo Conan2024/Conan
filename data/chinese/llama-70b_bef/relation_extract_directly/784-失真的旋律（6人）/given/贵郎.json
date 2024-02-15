@@ -1,0 +1,63 @@
+{
+    "阮贵郎": [
+      ["黑莉", "acquaintance of x"], 
+      ["招楠", "same person as x (different reference)"], 
+      ["望娣", "same person as x (different identity)"], 
+      ["罗有课", "brother of x"], 
+      ["雪嫣", "sister of x"], 
+      ["阮太太", "mother of x"]
+    ],
+    "招楠": [
+      ["阮贵郎", "same person as x (different reference)"], 
+      ["望娣", "same person as x (different identity)"], 
+      ["罗有课", "brother of x"], 
+      ["雪嫣", "sister of x"], 
+      ["阮太太", "mother of x"]
+    ],
+    "望娣": [
+      ["阮贵郎", "same person as x (different reference)"], 
+      ["招楠", "same person as x (different identity)"], 
+      ["罗有课", "brother of x"], 
+      ["雪嫣", "sister of x"], 
+      ["阮太太", "mother of x"]
+    ],
+    "罗有课": [
+      ["阮贵郎", "brother of x"], 
+      ["招楠", "brother of x"], 
+      ["望娣", "sister of x"], 
+      ["阮太太", "mother of x"]
+    ],
+    "雪嫣": [
+      ["阮贵郎", "sister of x"], 
+      ["招楠", "sister of x"], 
+      ["望娣", "sister of x"], 
+      ["阮太太", "mother of x"]
+    ],
+    "阮太太": [
+      ["阮贵郎", "mother of x"], 
+      ["招楠", "mother of x"], 
+      ["望娣", "mother of x"], 
+      ["罗有课", "mother of x"]
+    ],
+    "罗秀才": [
+      ["阮贵郎", "teacher of x"], 
+      ["招楠", "teacher of x"], 
+      ["望娣", "teacher of x"]
+    ],
+    "黑莉": [
+      ["阮贵郎", "acquaintance of x"], 
+      ["招楠", "acquaintance of x"], 
+      ["望娣", "acquaintance of x"]
+    ],
+    "齐故飞": [
+      ["黑莉", "friend of x"], 
+      ["阮贵郎", "acquaintance of x"]
+    ],
+    "施密士男爵": [
+      ["阮贵郎", "employer of x"], 
+      ["招楠", "employer of x"], 
+      ["望娣", "employer of x"], 
+      ["罗有课", "employer of x"], 
+      ["雪嫣", "employer of x"]
+    ]
+}

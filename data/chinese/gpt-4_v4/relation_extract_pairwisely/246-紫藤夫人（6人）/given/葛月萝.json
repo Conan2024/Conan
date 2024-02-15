@@ -1,0 +1,108 @@
+{
+    "葛继先": [
+      ["葛月萝", "father of x"], 
+      ["葛月曼", "father of x"], 
+      ["张太太", "friend of x"], 
+      ["朱陵山", "father of x"], 
+      ["薛达财", "relative of x, brother in law of x"], 
+      ["乐婉", "superior of x, information receiver from x"], 
+      ["张俊诗", "acquaintance of x, possibly family of x"], 
+      ["稚筠", "grandfather of x"], 
+      ["于尚勇", "victim of x"]
+    ],
+    "葛月萝": [
+      ["葛继先", "child of x"], 
+      ["葛月曼", "same person as x (different identity), younger sister of x"], 
+      ["张太太", "friend of x"], 
+      ["朱陵山", "victim of x, wife of x, deceived by x, hate of x, suspected by x"], 
+      ["薛达财", "helper of x, helped by x, ex romantic relationships with x"], 
+      ["乐婉", "servant of x, quest companion of x, suspect to x"], 
+      ["张俊诗", "acquaintance of x, helped by x, friend of x"], 
+      ["稚筠", "same person as x (different identity), deceiver of x"], 
+      ["于尚勇", "victim of x"], 
+      ["稚筠", "same person as x (different identity)"]
+    ],
+    "葛月曼": [
+      ["葛继先", "child of x"], 
+      ["葛月萝", "same person as x (different identity), older sister of x"], 
+      ["张太太", "acquaintance of x, friend of x"], 
+      ["朱陵山", "perpetrator of x, father in law of x"], 
+      ["薛达财", "acquaintance of x, possibly family of x"], 
+      ["乐婉", "superior of x, acquaintance of x"], 
+      ["稚筠", "niece of x"], 
+      ["于尚勇", "suspected by x"]
+    ],
+    "张太太": [
+      ["葛继先", "friend of x"], 
+      ["葛月萝", "friend of x"], 
+      ["葛月曼", "acquaintance of x, friend of x"], 
+      ["朱陵山", "acquaintance of x, helper of x, helped by x, informant of x, suspect of x"], 
+      ["薛达财", "friend of x, helper of x"], 
+      ["乐婉", "friend of x, information receiver from x"], 
+      ["张俊诗", "wife of x"], 
+      ["稚筠", "aunt of x"], 
+      ["于尚勇", "friend of x, helper of x, informant of x"]
+    ],
+    "朱陵山": [
+      ["葛继先", "son in law of x"], 
+      ["葛月萝", "perpetrator of x, disliked by x, husband of x, deceiver of x, suspect to x"], 
+      ["葛月曼", "victim of x, husband of x"], 
+      ["张太太", "acquaintance of x, helper of x, helped by x, information receiver from x, suspected by x"], 
+      ["薛达财", "victim of x, adversary of x, deceiver of x"], 
+      ["葛月萝", "husband of x"], 
+      ["葛月萝", "victim of x, helped by x, perpetrator of x, husband of x, manipulated by x, deceived by x"], 
+      ["葛月萝", "husband of x"], 
+      ["葛月萝", "husband of x"]
+    ],
+    "薛达财": [
+      ["葛继先", "relative of x, brother in law of x"], 
+      ["葛月萝", "helper of x, helped by x, ex romantic relationships with x"], 
+      ["葛月曼", "acquaintance of x, possibly family of x"], 
+      ["张太太", "acquaintance of x, helped by x"], 
+      ["朱陵山", "adversary of x, deceived by x, suspected by x"], 
+      ["乐婉", "acquaintance of x"], 
+      ["张俊诗", "acquaintance of x, information receiver from x"], 
+      ["稚筠", "acquaintance of x, crime partner of x"], 
+      ["于尚勇", "acquaintance of x"]
+    ],
+    "乐婉": [
+      ["葛继先", "subordinate of x, suspected by x"], 
+      ["葛月萝", "servant of x, quest companion of x, suspected by x"], 
+      ["葛月曼", "subordinate of x, acquaintance of x"], 
+      ["张太太", "friend of x, informant of x"], 
+      ["葛月萝", "acquaintance of x, subordinate of x"], 
+      ["薛达财", "acquaintance of x"], 
+      ["张俊诗", "acquaintance of x"], 
+      ["稚筠", "acquaintance of x, subordinate of x"], 
+      ["于尚勇", "informant of x, information receiver from x"]
+    ],
+    "张俊诗": [
+      ["葛继先", "acquaintance of x, possibly family of x"], 
+      ["葛月萝", "acquaintance of x, helper of x, friend of x"], 
+      ["张太太", "husband of x"], 
+      ["葛月萝", "friend of x, helper of x, information receiver from x"], 
+      ["薛达财", "acquaintance of x, informant of x"], 
+      ["乐婉", "acquaintance of x"], 
+      ["葛月萝", "uncle of x"]
+    ],
+    "稚筠": [
+      ["葛继先", "grandchild of x"], 
+      ["葛月萝", "same person as x (different identity), deceived by x"], 
+      ["葛月曼", "aunt of x"], 
+      ["张太太", "niece of x"], 
+      ["葛月萝", "acquaintance of x"], 
+      ["薛达财", "acquaintance of x"], 
+      ["乐婉", "superior of x"], 
+      ["葛月萝", "niece of x"], 
+      ["葛月萝", "same person as x (different identity)"]
+    ],
+    "于尚勇": [
+      ["葛继先", "suspected by x"], 
+      ["葛月萝", "suspected by x"], 
+      ["葛月曼", "suspect to x"], 
+      ["张太太", "friend of x, seeker of help from x"], 
+      ["葛月萝", "suspected by x"], 
+      ["薛达财", "acquaintance of x"], 
+      ["乐婉", "helped by x, informant of x"]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "李仲": [
+      ["李钦仁", "child of x, son of x, biological son of x"], 
+      ["李延", "twin brother of x, older brother of x, sibling of x, biological brother of x"], 
+      ["李氏", "son of x"], 
+      ["陈孜靖", "business partner of x, future relative of x, future father in law of x"], 
+      ["陈倩", "fiance of x, romantic relationships with x, love of x, secret lover of x"], 
+      ["陈氏", "father in law of x"]
+    ],
+    "李钦仁": [
+      ["李仲", "father of x, biological father of x"], 
+      ["李延", "father of x, twin brother of x's child"], 
+      ["李氏", "husband of x"], 
+      ["陈孜靖", "business partner of x, father in law of x"], 
+      ["陈倩", "future father in law of x"], 
+      ["陈氏", "business partner of x"]
+    ],
+    "李延": [
+      ["李仲", "twin brother of x, younger brother of x, sibling of x, biological brother of x"], 
+      ["李钦仁", "child of x, twin brother of x"], 
+      ["李氏", "twin brother of x, son of x"], 
+      ["陈孜靖", "brother in law of x"], 
+      ["陈倩", "future relative of x, romantic relationships with x"]
+    ],
+    "李氏": [
+      ["李仲", "mother of x"], 
+      ["李钦仁", "wife of x"], 
+      ["李延", "mother of x"], 
+      ["陈孜靖", "mother in law of x"], 
+      ["陈倩", "future daughter in law of x"], 
+      ["陈氏", "wife of x's father, co wives of x's father, x's son's fiancee's mother in law"]
+    ],
+    "陈孜靖": [
+      ["李仲", "business partner of x, future relative of x, future son in law of x"], 
+      ["李钦仁", "business partner of x, future son in law of x"], 
+      ["李延", "brother in law of x"], 
+      ["李氏", "father in law of x"], 
+      ["陈倩", "father of x"], 
+      ["陈氏", "wife of x"]
+    ],
+    "陈倩": [
+      ["李仲", "fiancee of x, romantic relationships with x, love of x, secret admirer of x"], 
+      ["李钦仁", "future son in law of x"], 
+      ["李延", "future relative of x, romantic relationships with x"], 
+      ["李氏", "future mother in law of x"], 
+      ["陈孜靖", "child of x"], 
+      ["陈氏", "daughter of x"]
+    ],
+    "陈氏": [
+      ["李仲", "child of x's spouse"], 
+      ["李钦仁", "wife of x's business partner"], 
+      ["李氏", "father's wife of x's husband, co wives father's wife of x's husband, mother of x's fiance"], 
+      ["陈孜靖", "husband of x"], 
+      ["陈倩", "mother of x"]
+    ]
+}

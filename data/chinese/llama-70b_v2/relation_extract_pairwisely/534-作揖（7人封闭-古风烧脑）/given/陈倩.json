@@ -1,0 +1,42 @@
+{
+    "小茜": [
+      ["李仲", "childhood friend of x, classmate of x"], 
+      ["李家熟人", "childhood friend of x, classmate of x"], 
+      ["陈倩", "adoptive sister of x, close friend of x"], 
+      ["Chen Zhiwu's adopted daughter", "sister of x, object of x chen zhiwu's desire"]
+    ],
+    "李仲": [
+      ["小茜", "childhood friend of x, classmate of x"], 
+      ["李家熟人", "friend of x"], 
+      ["李钦仁", "father in law of x"], 
+      ["陈倩", "relationship 1: husband of x, relationship 2: perpetrator of x"], 
+      ["陈孜靖", "potential husband of x"]
+    ],
+    "李家熟人": [
+      ["小茜", "childhood friend of x, classmate of x"], 
+      ["李仲", "friend of x"], 
+      ["李钦仁", "father in law of x, potential suitor of x"], 
+      ["陈倩", "acquaintance of x, friend of x, romantic relationships with x, fiance of x"], 
+      ["陈孜靖", "father in law of x"]
+    ],
+    "李钦仁": [
+      ["李仲", "son in law of x"], 
+      ["李家熟人", "father in law of x, potential son in law of x"], 
+      ["陈孜靖", "father in law of x, master of x, savior of x"]
+    ],
+    "陈倩": [
+      ["小茜", "adoptive brother of x, close friend of x"], 
+      ["李仲", "relationship 1: wife of x, relationship 2: victim of x"], 
+      ["李家熟人", "acquaintance of x, friend of x, romantic relationships with x, fiance of x"], 
+      ["陈孜靖", "father daughter relationship of x, guardian ward relationship of x, master servant relationship of x, benefactor beneficiary relationship of x, employer employee relationship of x"]
+    ],
+    "Chen Zhiwu": [
+      ["小茜", "brother of x, lover of x"]
+    ],
+    "陈孜靖": [
+      ["李仲", "father in law of x, potential husband of x"], 
+      ["李家熟人", "father in law of x"], 
+      ["李钦仁", "father in law of x, master of x, savior of x"], 
+      ["陈倩", "father daughter relationship of x, guardian ward relationship of x, master servant relationship of x, benefactor beneficiary relationship of x, employer employee relationship of x"]
+    ]
+}

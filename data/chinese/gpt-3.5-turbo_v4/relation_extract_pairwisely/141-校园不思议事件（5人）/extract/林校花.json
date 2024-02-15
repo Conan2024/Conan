@@ -1,0 +1,54 @@
+{
+    "林校花": [
+      ["父亲", "father of x"], 
+      ["赵帅哥", "fondness of x"], 
+      ["郝闺蜜", "friend of x"], 
+      ["王学习", "romantic relationships with x"], 
+      ["李小弟", "friend of x, helper of x"]
+    ],
+    "父亲": [
+      ["林校花", "child of x"], 
+      ["携带配偶的身份替代者", "father of x"], 
+      ["王学习", "father of x"], 
+      ["李小弟", "father of x"]
+    ],
+    "张恶霸": [
+      ["赵帅哥", "romantic relationships with x"], 
+      ["嫌疑人", "victim of x"], 
+      ["王学习", "romantic relationships with x"]
+    ],
+    "赵帅哥": [
+      ["林校花", "fondness of x"], 
+      ["父亲", "friend of x"], 
+      ["张恶霸", "romantic relationships with x"], 
+      ["郝闺蜜", "friend of x"], 
+      ["王学习", "romantic relationships with x"], 
+      ["李小弟", "friend of x"]
+    ],
+    "郝闺蜜": [
+      ["林校花", "friend of x"], 
+      ["张恶霸", "friend of x"], 
+      ["赵帅哥", "friend of x"], 
+      ["林校花", "friend of x"], 
+      ["李小弟", "friend of x, helped by x"]
+    ],
+    "王学习": [
+      ["林校花", "romantic relationships with x"], 
+      ["父亲", "son of x"], 
+      ["张恶霸", "romantic relationships with x"], 
+      ["赵帅哥", "romantic relationships with x"], 
+      ["郝闺蜜", "classmate of x"], 
+      ["李小弟", "classmate of x"]
+    ],
+    "李小弟": [
+      ["林校花", "friend of x, helper of x"], 
+      ["父亲", "child of x"], 
+      ["張惡霸", "friend of x"], 
+      ["赵帅哥", "friend of x"], 
+      ["郝闺蜜", "friend of x, helper of x"], 
+      ["王学习", "classmate of x"]
+    ],
+    "張惡霸": [
+      ["李小弟", "friend of x"]
+    ]
+}

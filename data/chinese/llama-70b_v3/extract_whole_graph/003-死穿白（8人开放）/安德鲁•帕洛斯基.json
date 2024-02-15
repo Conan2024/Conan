@@ -1,0 +1,35 @@
+{
+    "安德鲁•帕洛斯基": [
+      ["汉斯·里莫瑞特", "friend of x, rival of x"], 
+      ["妻子", "lover of x"], 
+      ["儿子", "student of x"], 
+      ["汤姆", "mentor of x"], 
+      ["院长伯克利", "acquaintance of x"], 
+      ["护士长科斯塔", "colleague of x"], 
+      ["神父汤姆", "mentor of x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["安德鲁·帕洛斯基", "friend of x, rival of x"]
+    ],
+    "妻子": [
+      ["安德鲁·帕洛斯基", "lover of x"], 
+      ["医生", "colleague of x"]
+    ],
+    "儿子": [
+      ["安德鲁·帕洛斯基", "student of x"]
+    ],
+    "汤姆": [
+      ["安德鲁·帕洛斯基", "mentor of x"]
+    ],
+    "院长伯克利": [
+      ["安德鲁·帕洛斯基", "acquaintance of x"]
+    ],
+    "护士长科斯타": [
+      ["安德鲁·帕洛斯基", "colleague of x"], 
+      ["医生", "colleague of x"]
+    ],
+    "神父汤姆": [
+      ["安德鲁·帕洛斯基", "mentor of x"], 
+      ["医生", "mentor of x"]
+    ]
+}

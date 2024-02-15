@@ -1,0 +1,34 @@
+{
+    "雯秘书": [
+      ["杨老板", "employer of x"], 
+      ["很天真", "colleague of x"], 
+      ["很天真", "helped by x"], 
+      ["很天真", "killed by x"], 
+      ["玲船医", "informant of x"], 
+      ["王小工", "son of x"]
+    ],
+    "杨老板": [
+      ["雯秘书", "employee of x"], 
+      ["雯秘书", "mentor of x"], 
+      ["很天真", "colleague of x"], 
+      ["玲船医", "informant of x"]
+    ],
+    "很天真": [
+      ["杨老板", "colleague of x"], 
+      ["杨老板", "mentor of x"], 
+      ["雯秘书", "colleague of x"], 
+      ["雯秘书", "helped by x"], 
+      ["雯秘书", "murderer of x"]
+    ],
+    "玲船医": [
+      ["雯秘书", "informant of x"], 
+      ["杨老板", "informant of x"]
+    ],
+    "王小工": [
+      ["雯秘书", "son of x"], 
+      ["王船工", "ex romantic relationships with x"]
+    ],
+    "王船工": [
+      ["王小工", "ex romantic relationships with x"]
+    ]
+}

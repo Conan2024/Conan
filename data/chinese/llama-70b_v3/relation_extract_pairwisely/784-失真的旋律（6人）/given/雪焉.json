@@ -1,0 +1,93 @@
+{
+    "招楠": [
+      ["望娣", "sister of x, mentor of x"], 
+      ["王子摩", "step sister of x"], 
+      ["罗有诺", "sibling of x"], 
+      ["罗雪嫣", "sibling of x, mentor of x, friend of x"], 
+      ["贵郎", "older sister of x"], 
+      ["阮太太", "mentor of x"], 
+      ["黑莉", "friend of x, friend of x"], 
+      ["齐故飞", "sibling of x"]
+    ],
+    "望娣": [
+      ["招楠", "sister of x"], 
+      ["王子摩", "friend of x"], 
+      ["罗万利", "sister of x, rival of x, acquaintance of x"], 
+      ["罗有诺", "brother of x, rival of x"], 
+      ["罗雪嫣", "rival of x, enemy of x"], 
+      ["贵郎", "sibling of x"], 
+      ["阮太太", "adoptive mother of x, friend of x"], 
+      ["黑莉", "sister of x"], 
+      ["齐故飞", "employer of x"]
+    ],
+    "王子摩": [
+      ["招楠", "step sister of x, younger sister of x"], 
+      ["望娣", "friend of x"], 
+      ["罗万利", "father of x, son of x, master of x, servant of x, employer of x, employee of x"], 
+      ["黑莉", "employer of x, friend of x"], 
+      ["齐故飞", "older sister of x, friend of x"]
+    ],
+    "罗万利": [
+      ["望娣", "sister of x, rival of x, acquaintance of x"], 
+      ["王子摩", "father of x, son of x, master of x, servant of x, employer of x, employee of x"], 
+      ["罗有诺", "son of x"], 
+      ["罗雪嫣", "brother of x"], 
+      ["贵郎", "admirer of x, brother of x, friend of x, business partner of x, helper of x, student of x"]
+    ],
+    "罗有诺": [
+      ["招楠", "younger brother of x"], 
+      ["望娣", "sister of x, adversary of x"], 
+      ["罗万利", "son of x"], 
+      ["罗雪嫣", "brother of x, sister of x"], 
+      ["贵郎", "mentor of x"], 
+      ["黑莉", "sister of x, student of x, friend of x"]
+    ],
+    "罗雪嫣": [
+      ["招楠", "younger sister of x, student of x, friend of x"], 
+      ["望娣", "rival of x, enemy of x"], 
+      ["罗万利", "brother of x"], 
+      ["罗有诺", "brother of x, sister of x"], 
+      ["贵郎", "friend of x, sister of x, lover of x"], 
+      ["阮太太", "classmate of x, servant of x"], 
+      ["黑莉", "half sister of x, acquaintance of x, friend of x"], 
+      ["齐故飞", "student of x"]
+    ],
+    "贵郎": [
+      ["招楠", "older sister of x"], 
+      ["望娣", "sibling of x"], 
+      ["罗万利", "admirer of x, brother of x, friend of x, business partner of x, helper of x, student of x"], 
+      ["罗有诺", "mentor of x"], 
+      ["罗雪嫣", "friend of x, brother in law of x, husband of x"], 
+      ["阮太太", "son of x, mother of x"], 
+      ["黑莉", "rival of x, acquaintance of x, classmate of x, schoolmate of x"], 
+      ["齐故飞", "brother in law of x"]
+    ],
+    "阮太太": [
+      ["招楠", "daughter of x"], 
+      ["望娣", "adoptive daughter of x, student of x, friend of x"], 
+      ["罗万利", "mother in law of x, lover of x"], 
+      ["罗雪嫣", "classmate of x, employer of x"], 
+      ["贵郎", "mother of x, son of x"], 
+      ["黑莉", "friend of x"], 
+      ["齐故飞", "husband of x, lover of x, daughter of x"]
+    ],
+    "黑莉": [
+      ["招楠", "friend of x, friend of x"], 
+      ["望娣", "sister of x"], 
+      ["王子摩", "employer of x, friend of x"], 
+      ["罗有诺", "sister of x, student of x, friend of x"], 
+      ["罗雪嫣", "half sister of x, friend of x, acquaintance of x"], 
+      ["贵郎", "rival of x, acquaintance of x, classmate of x, schoolmate of x"], 
+      ["阮太太", "mother of x, friend of x"], 
+      ["齐故飞", "employer of x, friend of x"]
+    ],
+    "齐故飞": [
+      ["招楠", "younger brother of x"], 
+      ["望娣", "employer of x"], 
+      ["王子摩", "older sister of x, friend of x"], 
+      ["罗雪嫣", "student of x"], 
+      ["贵郎", "brother in law of x, sister of x"], 
+      ["阮太太", "wife of x, lover of x, adoptive father of x"], 
+      ["黑莉", "employer of x, friend of x"]
+    ]
+}

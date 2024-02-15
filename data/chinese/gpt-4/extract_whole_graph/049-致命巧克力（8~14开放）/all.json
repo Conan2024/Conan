@@ -1,0 +1,80 @@
+{
+    "迈克•杰森": [
+        [
+            "巴巴拉•杰森",
+            "mother of x"
+        ],
+        [
+            "比利•邦加",
+            "enemy of x, employer of x"
+        ],
+        [
+            "托马斯•劳伦",
+            "friend of x, helper of x"
+        ]
+    ],
+    "巴巴拉•杰森": [
+        [
+            "迈克•杰森",
+            "child of x"
+        ],
+        [
+            "比利•邦加",
+            "employee of x"
+        ]
+    ],
+    "比利•邦加": [
+        [
+            "迈克•杰森",
+            "victim of x, employee of x"
+        ],
+        [
+            "戴姆•巴巴拉•卡托斯",
+            "romantic relationships with x"
+        ],
+        [
+            "多丽丝•约翰逊博士",
+            "acquaintance of x, advisor of x"
+        ],
+        [
+            "贝特朗",
+            "business partner of x, rival of x"
+        ]
+    ],
+    "戴姆•巴巴拉•卡托斯": [
+        [
+            "比利•邦加",
+            "extramarital affair with x"
+        ]
+    ],
+    "迈克•拜森": [
+        [
+            "贝特朗",
+            "acquaintance of x"
+        ],
+        [
+            "迈克•杰森",
+            "same person as x (different identity)"
+        ],
+        [
+            "比利•邦加",
+            "enemy of x, mentee of x"
+        ]
+    ],
+    "多丽丝•约翰逊博士": [
+        [
+            "比利•邦加",
+            "advisor of x"
+        ]
+    ],
+    "贝特朗": [
+        [
+            "比利•邦加",
+            "business partner of x, rival of x"
+        ],
+        [
+            "迈克•拜森",
+            "alibi of x"
+        ]
+    ]
+}

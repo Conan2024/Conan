@@ -1,0 +1,57 @@
+{
+    "赵卫": [
+      ["爱新觉罗氏", "same person as x (different identity)"], 
+      ["光绪皇帝", "father of x"], 
+      ["瑜妃", "mother of x"], 
+      ["瑜妃的亲哥哥", "uncle of x"], 
+      ["西太后叶赫那拉氏", "suspected by x"], 
+      ["赵万雷", "perpetrator of x, step father of x"], 
+      ["冯双骥", "friend of x"], 
+      ["赵洛意", "half sister of x"], 
+      ["张御医", "service provider of x"], 
+      ["赵秋儿", "acquaintance of x"]
+    ],
+    "爱新觉罗氏": [
+      ["赵卫", "same person as x (different identity)"]
+    ],
+    "光绪皇帝": [
+      ["赵卫", "biological father of x"], 
+      ["瑜妃", "romantic relationships with x"]
+    ],
+    "瑜妃": [
+      ["赵卫", "biological mother of x"], 
+      ["光绪皇帝", "romantic relationships with x"], 
+      ["李叔逊", "sibling of x"], 
+      ["西太后叶赫那拉氏", "disliked by x"], 
+      ["赵万雷", "victim of x"], 
+      ["赵洛意", "biological mother of x"], 
+      ["冯双骥", "helper of x"]
+    ],
+    "瑜妃的亲哥哥": [
+      ["赵卫", "nephew of x"], 
+      ["瑜妃", "sibling of x"]
+    ],
+    "赵万雷": [
+      ["赵卫", "step father of x"], 
+      ["瑜妃", "perpetrator of x"], 
+      ["赵洛意", "father of x"]
+    ],
+    "冯双骥": [
+      ["赵卫", "friend of x"], 
+      ["瑜妃", "helper of x"]
+    ],
+    "李郁": [
+      ["瑜妃", "same person as x (different reference)"]
+    ],
+    "赵洛意": [
+      ["赵卫", "half sister of x"], 
+      ["瑜妃", "biological daughter of x"], 
+      ["赵万雷", "daughter of x"]
+    ],
+    "张御医": [
+      ["赵卫", "service provider of x"]
+    ],
+    "赵秋儿": [
+      ["赵卫", "acquaintance of x"]
+    ]
+}

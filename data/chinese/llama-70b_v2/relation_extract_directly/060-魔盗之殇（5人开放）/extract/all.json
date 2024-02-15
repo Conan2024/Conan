@@ -1,0 +1,28 @@
+{
+    "宣传罗琳": [
+      ["艾拉", "good friend of x, co worker of x"], 
+      ["助手艾拉", "plotting of x, magic assistant of x"]
+    ],
+    "助手艾拉": [
+      ["宣传罗琳", "plotting of x, magic assistant of x"], 
+      ["古思特", "magic assistant of x, supicious of x"]
+    ],
+    "保安凯文": [
+      ["艾拉", "friend of x"], 
+      ["凯文", "friend of x, 保安 of x"]
+    ],
+    "古思特": [
+      ["艾라", "old friend of x, 协商 of x"], 
+      ["宣传罗琳", "old friend of x, 协商 of x"]
+    ],
+    "罗琳": [
+      ["古思特", "old friend of x, 协商 of x"], 
+      ["宣传罗琳", "好友 of x"]
+    ],
+    "戴维": [
+      ["格里夫", "酒友 of x, probable accomplice of x"], 
+      ["罗琳", "曾经的伙伴 of x, current suspect of x"], 
+      ["艾拉", "co worker of x, current accomplice of x"], 
+      ["凯文", "保安 of x, current suspect of x"]
+    ]
+}

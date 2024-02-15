@@ -1,0 +1,14 @@
+{
+    "杜仲": [
+      ["玄冰教神曲使", "friend of x, mentor of x"], 
+      ["紫苏", "acquaintance of x, suspect of x, rival of x, enemy of x"]
+    ],
+    "玄冰教神曲使": [
+      ["杜仲", "friend of x, mentor of x"], 
+      ["紫苏", "martineta of x, acquaintance of x, friend of x, rival of x, enemy of x"]
+    ],
+    "紫苏": [
+      ["杜仲", "acquaintance of x, suspect of x, rival of x, enemy of x"], 
+      ["玄冰教神曲使", "martineta of x, acquaintance of x, friend of x, rival of x, enemy of x"]
+    ]
+}

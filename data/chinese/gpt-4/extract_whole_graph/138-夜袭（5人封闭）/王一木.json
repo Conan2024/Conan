@@ -1,0 +1,94 @@
+{
+    "王一木": [
+        [
+            "张元帅",
+            "subordinate of x, dislike of x, victim of x"
+        ],
+        [
+            "秦云生",
+            "friend of x, colleague of x, quest companion of x"
+        ],
+        [
+            "吴边城",
+            "colleague of x, acquaintance of x"
+        ],
+        [
+            "赵飞岩",
+            "manipulator of x, stranger to x"
+        ],
+        [
+            "李元昊",
+            "stranger to x"
+        ]
+    ],
+    "张元帅": [
+        [
+            "王一木",
+            "superior of x, disliker of x, killed by x"
+        ],
+        [
+            "秦云生",
+            "subordinate of x"
+        ],
+        [
+            "吴边城",
+            "subordinate of x"
+        ]
+    ],
+    "秦云生": [
+        [
+            "王一木",
+            "friend of x, colleague of x, quest companion of x"
+        ],
+        [
+            "张元帅",
+            "superior of x"
+        ],
+        [
+            "吴边城",
+            "colleague of x, roommate of x"
+        ]
+    ],
+    "吴边城": [
+        [
+            "王一木",
+            "colleague of x, acquaintance of x"
+        ],
+        [
+            "秦云生",
+            "colleague of x, roommate of x"
+        ],
+        [
+            "张元帅",
+            "superior of x"
+        ]
+    ],
+    "赵飞岩": [
+        [
+            "王一木",
+            "deceiver of x"
+        ],
+        [
+            "张元帅",
+            "killer of x"
+        ],
+        [
+            "李元昊",
+            "colleague of x"
+        ]
+    ],
+    "李元昊": [
+        [
+            "赵飞岩",
+            "colleague of x"
+        ],
+        [
+            "张元帅",
+            "victim of x"
+        ],
+        [
+            "王一木",
+            "stranger to x"
+        ]
+    ]
+}

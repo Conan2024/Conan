@@ -1,0 +1,122 @@
+{
+    "连君": [
+        [
+            "魏青",
+            "same person as x (different identity)"
+        ]
+    ],
+    "魏青": [
+        [
+            "瑶儿",
+            "wife of x"
+        ],
+        [
+            "霜儿",
+            "child of x"
+        ],
+        [
+            "江岚",
+            "enemy of x, victim of x"
+        ],
+        [
+            "夜酒",
+            "friend of x, helper of x"
+        ],
+        [
+            "夜雨",
+            "acquaintance of x"
+        ],
+        [
+            "南枫",
+            "enemy of x"
+        ]
+    ],
+    "瑶儿": [
+        [
+            "霜儿",
+            "mother of x"
+        ],
+        [
+            "魏青",
+            "husband of x"
+        ],
+        [
+            "江岚",
+            "victim of x, disliked by x"
+        ]
+    ],
+    "霜儿": [
+        [
+            "瑶儿",
+            "daughter of x"
+        ],
+        [
+            "魏青",
+            "father of x"
+        ],
+        [
+            "江岚",
+            "murderer of x"
+        ]
+    ],
+    "江岚": [
+        [
+            "魏青",
+            "enemy of x, adversary of x"
+        ],
+        [
+            "瑶儿",
+            "perpetrator of x, disliked by x"
+        ],
+        [
+            "霜儿",
+            "victim of x"
+        ],
+        [
+            "夜酒",
+            "perpetrator of x"
+        ],
+        [
+            "南枫",
+            "colleague of x"
+        ]
+    ],
+    "夜酒": [
+        [
+            "魏青",
+            "friend of x, helped by x"
+        ],
+        [
+            "江岚",
+            "enemy of x, betrayer of x"
+        ],
+        [
+            "夜雨",
+            "sibling of x"
+        ]
+    ],
+    "夜雨": [
+        [
+            "夜酒",
+            "sibling of x"
+        ],
+        [
+            "江岚",
+            "victim of x"
+        ],
+        [
+            "南枫",
+            "perpetrator of x"
+        ]
+    ],
+    "南枫": [
+        [
+            "夜雨",
+            "perpetrator of x"
+        ],
+        [
+            "江岚",
+            "colleague of x"
+        ]
+    ]
+}

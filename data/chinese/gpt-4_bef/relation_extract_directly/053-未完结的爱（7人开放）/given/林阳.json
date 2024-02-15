@@ -1,0 +1,41 @@
+{
+    "林阳": [
+      ["林惟仁", "adoptive father of x"], 
+      ["林夕", "sibling of x, patient of x"], 
+      ["顾晴", "romantic relationships with x, friend of x"], 
+      ["沈城", "acquaintance of x"], 
+      ["苏阳", "business partner of x"]
+    ],
+    "林惟仁": [
+      ["林阳", "father of x"], 
+      ["林夕", "biological father of x"], 
+      ["沈城", "employer of x"], 
+      ["苏阳", "acquaintance of x"]
+    ],
+    "林夕": [
+      ["林阳", "sibling of x"], 
+      ["林惟仁", "daughter of x"], 
+      ["顾晴", "friend of x"], 
+      ["苏阳", "fiance of x, patient of x"], 
+      ["顾宇", "ex boyfriend of x"]
+    ],
+    "顾晴": [
+      ["林阳", "romantic relationships with x, friend of x"], 
+      ["林夕", "friend of x"], 
+      ["顾宇", "sibling of x"]
+    ],
+    "沈城": [
+      ["林阳", "acquaintance of x"], 
+      ["林惟仁", "employee of x"], 
+      ["林夕", "employee of x"]
+    ],
+    "苏阳": [
+      ["林阳", "business partner of x"], 
+      ["林夕", "fiance of x, doctor of x"], 
+      ["林惟仁", "acquaintance of x"]
+    ],
+    "顾宇": [
+      ["林夕", "ex boyfriend of x"], 
+      ["顾晴", "brother of x"]
+    ]
+}

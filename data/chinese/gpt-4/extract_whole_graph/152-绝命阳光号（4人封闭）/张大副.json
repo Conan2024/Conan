@@ -1,0 +1,112 @@
+{
+    "张大副": [
+        [
+            "很天真",
+            "brother of 张大副"
+        ],
+        [
+            "杨老板",
+            "business partner of 张大副, manipulator of 张大副, enemy of 张大副, attempted perpetrator of 张大副"
+        ],
+        [
+            "雯秘书",
+            "acquaintance of 张大副"
+        ],
+        [
+            "王船工",
+            "employee of 张大副, helped by 张大副, manipulated by 张大副"
+        ],
+        [
+            "玲船医",
+            "informant of 张大副, manipulated by 张大副"
+        ],
+        [
+            "王小工",
+            "employee of 张大副, son of 王船工, victim of 张大副"
+        ]
+    ],
+    "很天真": [
+        [
+            "张大副",
+            "brother of 很天真"
+        ],
+        [
+            "杨老板",
+            "employer of 很天真, manipulator of 很天真"
+        ],
+        [
+            "王船工",
+            "acquaintance of 很天真"
+        ]
+    ],
+    "杨老板": [
+        [
+            "张大副",
+            "customer of 张大副, manipulated by 张大副, victim of 张大副"
+        ],
+        [
+            "很天真",
+            "employee of 杨老板, deceived by 杨老板, victim of 杨老板"
+        ],
+        [
+            "雯秘书",
+            "employer of 雯秘书"
+        ],
+        [
+            "王船工",
+            "stranger to 杨老板"
+        ]
+    ],
+    "雯秘书": [
+        [
+            "张大副",
+            "employee of 雯秘书"
+        ],
+        [
+            "杨老板",
+            "subordinate of 雯秘书"
+        ]
+    ],
+    "王船工": [
+        [
+            "张大副",
+            "employer of 王船工, manipulator of 王船工"
+        ],
+        [
+            "玲船医",
+            "romantic relationship with 王船工, informant of 王船工"
+        ],
+        [
+            "王小工",
+            "father of 王船工"
+        ]
+    ],
+    "玲船医": [
+        [
+            "张大副",
+            "informant of 玲船医, admirer of 玲船医"
+        ],
+        [
+            "王小工",
+            "romantic relationship with 玲船医, deceived by 玲船医"
+        ],
+        [
+            "王船工",
+            "spy of 玲船医"
+        ]
+    ],
+    "王小工": [
+        [
+            "张大副",
+            "employee of 王小工, murder victim of 王小工"
+        ],
+        [
+            "王船工",
+            "son of 王船工"
+        ],
+        [
+            "玲船医",
+            "romantic partner of 王小工, fiance of 王小工"
+        ]
+    ]
+}

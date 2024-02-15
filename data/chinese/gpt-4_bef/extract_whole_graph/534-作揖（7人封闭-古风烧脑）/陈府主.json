@@ -1,0 +1,65 @@
+{
+    "陈府主": [
+      ["李王爷", "acquaintance of x, colleague of x, enemy of x, murderer of x, manipulator of x, quest companion of x"], 
+      ["特尔特拉福德", "same person as x (different identity)"], 
+      ["陈孜靖", "same person as x (different reference)"], 
+      ["李仲", "father in law of x, victim of x"], 
+      ["方絮", "acquaintance of x, information receiver from x"], 
+      ["尔矢斯芭嗒王子", "friend of x, helped by x, admirer of x"], 
+      ["陈倩", "child of x, biological daughter of x"], 
+      ["小茜", "acquaintance of x"], 
+      ["金古国", "victim of x"], 
+      ["李府", "enemy of x, business partner of x"], 
+      ["李氏", "victim of x, acquaintance of x"], 
+      ["方府", "victim of x"]
+    ],
+    "李王爷": [
+      ["陈府主", "acquaintance of x, colleague of x, enemy of x, victim of x, manipulated by x, business partner of x"], 
+      ["方絮", "wife of x"], 
+      ["李仲", "child of x, biological son of x"], 
+      ["李延", "child of x, biological son of x, twin brother of x"], 
+      ["尔矢斯芭嗒王子", "acquaintance of x"]
+    ],
+    "李仲": [
+      ["陈府主", "son in law of x, victim of x"], 
+      ["李王爷", "father of x, victim of x"], 
+      ["方絮", "mother of x"], 
+      ["李延", "twin brother of x"], 
+      ["陈倩", "wife of x"]
+    ],
+    "李延": [
+      ["李王爷", "father of x"], 
+      ["方絮", "mother of x"], 
+      ["李仲", "twin brother of x"]
+    ],
+    "方絮": [
+      ["陈府主", "acquaintance of x"], 
+      ["李王爷", "wife of x"], 
+      ["李仲", "child of x, biological son of x"], 
+      ["李延", "child of x, biological son of x"], 
+      ["尔矢斯芭嗒王子", "acquaintance of x"]
+    ],
+    "尔矢斯芭嗒王子": [
+      ["陈府主", "friend of x, admirer of x, helped by x"], 
+      ["李王爷", "acquaintance of x"], 
+      ["方絮", "acquaintance of x"], 
+      ["小茜", "teacher of x"]
+    ],
+    "陈倩": [
+      ["陈府主", "child of x, biological daughter of x"], 
+      ["李仲", "husband of x"], 
+      ["李王爷", "father in law of x, attempted perpetrator of x, victim of x"], 
+      ["方絮", "mother in law of x"], 
+      ["小茜", "acquaintance of x"]
+    ],
+    "小茜": [
+      ["陈府主", "acquaintance of x"], 
+      ["尔矢斯芭嗒王子", "student of x"]
+    ],
+    "金古国": [
+      ["陈府主", "betrayed by x"]
+    ],
+    "方府": [
+      ["陈府主", "victim of x"]
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "黄东强": [
+        [
+            "县令",
+            "informant of x, helped by x"
+        ],
+        [
+            "村长丁有为",
+            "subordinate of x, colleague of x"
+        ],
+        [
+            "村长丁有为",
+            "victim of x"
+        ],
+        [
+            "刘飞",
+            "stranger to x"
+        ],
+        [
+            "寨主陈生",
+            "captive of x, coworker of x"
+        ],
+        [
+            "刘小蝶",
+            "adversary of x, captive of x"
+        ],
+        [
+            "面具男",
+            "captive of x, coworker of x"
+        ]
+    ],
+    "县令": [
+        [
+            "黄东强",
+            "information receiver from x, helper of x"
+        ],
+        [
+            "皇帝",
+            "subordinate of x"
+        ],
+        [
+            "官兵",
+            "subordinate of x"
+        ]
+    ],
+    "村长丁有为": [
+        [
+            "黄东强",
+            "superior of x, colleague of x"
+        ],
+        [
+            "刘飞",
+            "subject of investigation for x"
+        ],
+        [
+            "寨主陈生",
+            "captive of x"
+        ],
+        [
+            "刘小蝶",
+            "captive of x"
+        ],
+        [
+            "面具男",
+            "captive of x"
+        ]
+    ],
+    "刘飞": [
+        [
+            "刘小蝶",
+            "father of x"
+        ],
+        [
+            "寨主陈生",
+            "acquaintance of x"
+        ],
+        [
+            "面具男",
+            "stranger to x"
+        ],
+        [
+            "村长丁有为",
+            "suspect to x"
+        ]
+    ],
+    "寨主陈生": [
+        [
+            "刘小蝶",
+            "husband of x"
+        ],
+        [
+            "刘飞",
+            "father in law of x"
+        ],
+        [
+            "面具男",
+            "subordinate of x"
+        ],
+        [
+            "村长丁有为",
+            "captor of x"
+        ],
+        [
+            "黄东强",
+            "captor of x"
+        ]
+    ],
+    "刘小蝶": [
+        [
+            "寨主陈生",
+            "wife of x"
+        ],
+        [
+            "刘飞",
+            "child of x"
+        ],
+        [
+            "面具男",
+            "acquaintance of x"
+        ],
+        [
+            "村长丁有为",
+            "captor of x"
+        ],
+        [
+            "黄东强",
+            "enemy of x"
+        ]
+    ],
+    "面具男": [
+        [
+            "寨主陈生",
+            "superior of x"
+        ],
+        [
+            "刘小蝶",
+            "acquaintance of x"
+        ],
+        [
+            "刘飞",
+            "stranger to x"
+        ],
+        [
+            "村长丁有为",
+            "captor of x"
+        ],
+        [
+            "黄东强",
+            "captor of x"
+        ]
+    ],
+    "皇帝": [
+        [
+            "县令",
+            "superior of x"
+        ]
+    ],
+    "官兵": [
+        [
+            "县令",
+            "superior of x"
+        ]
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "韩乘务": [
+      ["刘奇大副", "dislike of x, ex romantic relationships with x, suspected by x"], 
+      ["修仁杰酒吧经理", "friend of x"], 
+      ["林若彤歌手", "ex romantic relationships with x, disliked by x"], 
+      ["洪子廉船长", "superior of x"], 
+      ["张文远二副", "colleague of x, possessing a weapon of x"]
+    ],
+    "刘奇大副": [
+      ["韩乘务", "disliked by x"], 
+      ["林若彤歌手", "romantic relationships with x"], 
+      ["洪子廉船长", "subordinate of x"]
+    ],
+    "修仁杰酒吧经理": [
+      ["韩乘务", "friend of x"]
+    ],
+    "林若彤歌手": [
+      ["韩乘务", "ex romantic relationships with x, disliked by x"], 
+      ["刘奇大副", "romantic relationships with x"]
+    ],
+    "洪子廉船长": [
+      ["韩乘务", "superior of x"], 
+      ["刘奇大副", "subordinate of x"]
+    ],
+    "张文远二副": [
+      ["韩乘务", "colleague of x, possessing a weapon of x"]
+    ]
+}

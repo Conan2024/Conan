@@ -1,0 +1,64 @@
+{
+    "贵叔": [
+      ["杜贵成", "same person as x (different reference)"], 
+      ["杜辉信", "son of x"], 
+      ["孟老爷", "subordinate of x, employee of x"], 
+      ["云凌", "acquaintance of x"], 
+      ["姚仲义", "acquaintance of x, helped by x"], 
+      ["陈均梦", "patient of x"], 
+      ["红夫人", "acquaintance of x, helped by x"], 
+      ["姚长寿", "patient of x"]
+    ],
+    "杜贵成": [
+      ["贵叔", "same person as x (different identity)"], 
+      ["杜辉信", "child of x"], 
+      ["孟老爷", "subordinate of x, employee of x"]
+    ],
+    "杜辉信": [
+      ["贵叔", "father of x"], 
+      ["方乘山", "mentor of x, employer of x"]
+    ],
+    "孟老爷": [
+      ["贵叔", "superior of x, employer of x"]
+    ],
+    "虞医师": [
+      ["贵叔", "patient of x"], 
+      ["姚仲义", "colleague of x, employee of x"], 
+      ["陈均梦", "patient of x"], 
+      ["红夫人", "service provider of x"], 
+      ["姚长寿", "service provider of x"]
+    ],
+    "云凌": [
+      ["贵叔", "acquaintance of x"], 
+      ["陈均梦", "friend of x, helper of x"], 
+      ["姚仲义", "acquaintance of x"]
+    ],
+    "姚仲义": [
+      ["贵叔", "acquaintance of x, helped by x"], 
+      ["虞医师", "colleague of x, employer of x"], 
+      ["陈均梦", "brother in law of x, colleague of x"], 
+      ["红夫人", "acquaintance of x"], 
+      ["姚长寿", "son of x"]
+    ],
+    "陈均梦": [
+      ["贵叔", "patient of x"], 
+      ["云凌", "helper of x, friend of x"], 
+      ["姚仲义", "sister in law of x, colleague of x"], 
+      ["红夫人", "acquaintance of x"], 
+      ["姚长寿", "daughter in law of x"]
+    ],
+    "红夫人": [
+      ["贵叔", "acquaintance of x, helped by x"], 
+      ["虞医师", "employer of x"], 
+      ["姚仲义", "mother of x"], 
+      ["陈均梦", "acquaintance of x"], 
+      ["姚长寿", "wife of x"]
+    ],
+    "姚长寿": [
+      ["贵叔", "patient of x"], 
+      ["虞医师", "patient of x"], 
+      ["姚仲义", "father of x"], 
+      ["陈均梦", "mother of x"], 
+      ["红夫人", "husband of x"]
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "杰克": [
+        [
+            "丽莎",
+            "lover of x, deceiver of x, quest companion of x, financial dependent of x, information receiver from x"
+        ],
+        [
+            "迪克",
+            "suspected by x"
+        ]
+    ],
+    "丽莎": [
+        [
+            "杰克",
+            "lover of x, deceived by x, quest companion of x, financial supporter of x"
+        ],
+        [
+            "迪克",
+            "business partner of x"
+        ]
+    ],
+    "迪克": [
+        [
+            "丽莎",
+            "business partner of x"
+        ]
+    ]
+}

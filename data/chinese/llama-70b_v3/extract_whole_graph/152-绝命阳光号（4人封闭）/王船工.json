@@ -1,0 +1,20 @@
+{
+    "王船工": [
+      ["张大副", "acquaintance of x"], 
+      ["王小工", "father of x, son of x"], 
+      ["玲船医", "wife of x"], 
+      ["杨老板", "business partner of x, enemy of x"], 
+      ["路人甲", "acquaintance of x"]
+    ],
+    "玲船医": [
+      ["王船工", "husband of x"], 
+      ["杨老板", "enemy of x"]
+    ],
+    "杨老板": [
+      ["王船工", "business partner of x, enemy of x"], 
+      ["玲船医", "enemy of x"]
+    ],
+    "张大副": [
+      ["王船工", "acquaintance of x"]
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "冯双骥": [
+      ["任师父", "student of x, admired by x"], 
+      ["李郁", "mentor of x"], 
+      ["赵万雷", "neighbour of x"], 
+      ["赵卫", "master of x"], 
+      ["赵洛意", "father of x"], 
+      ["冯竹", "child of x"], 
+      ["尹少鸣", "brother of x"], 
+      ["郭望山", "mentor of x, student of x"], 
+      ["赵秋儿", "future father in law of x"], 
+      ["齐岳", "mentor of x"]
+    ],
+    "任师父": [
+      ["冯双骥", "mentor of x, informant of x"], 
+      ["李郁", "mentor of x, teacher of x"], 
+      ["赵万雷", "master of x, teacher of x"], 
+      ["赵卫", "mentor of x"], 
+      ["赵洛意", "mentor of x"], 
+      ["冯竹", "teacher of x"], 
+      ["尹少鸣", "mentor of x"], 
+      ["郭望山", "teacher of x"], 
+      ["赵秋儿", "mentor of x, teacher of x"], 
+      ["齐岳", "teacher of x"]
+    ],
+    "李郁": [
+      ["冯双骥", "student of x"], 
+      ["任师父", "student of x"], 
+      ["赵万雷", "romantic relationships with x"], 
+      ["赵卫", "student of x"], 
+      ["赵洛意", "half sister of x"], 
+      ["冯竹", "sister of x"], 
+      ["尹少鸣", "friend of x"], 
+      ["郭望山", "student of x"], 
+      ["赵秋儿", "romantic relationships with x"], 
+      ["齐岳", "father of x"]
+    ],
+    "赵万雷": [
+      ["冯双骥", "neighbour of x"], 
+      ["任师父", "student of x"], 
+      ["李郁", "romantic relationships with x"], 
+      ["赵卫", "twin brother of x"], 
+      ["赵洛意", "father of x"], 
+      ["冯竹", "brother in law of x"], 
+      ["尹少鸣", "colleague of x, business partner of x"], 
+      ["郭望山", "friend of x"], 
+      ["赵秋儿", "half brother of x, fondness of x"], 
+      ["齐岳", "student of x"]
+    ],
+    "赵卫": [
+      ["冯双骥", "servant of x"], 
+      ["任师父", "student of x"], 
+      ["李郁", "mentor of x"], 
+      ["赵洛意", "mentor of x"], 
+      ["冯竹", "friend of x, mentor of x, saviour of x"], 
+      ["尹少鸣", "business partner of x"], 
+      ["郭望山", "father of x"], 
+      ["赵秋儿", "father of x"], 
+      ["齐岳", "classmate of x, friend of x"]
+    ],
+    "赵洛意": [
+      ["冯双骥", "daughter of x"], 
+      ["任师父", "student of x"], 
+      ["赵万雷", "son of x"], 
+      ["赵卫", "student of x"], 
+      ["冯竹", "friend of x"], 
+      ["尹少鸣", "friend of x"], 
+      ["郭望山", "student of x, helper of x"], 
+      ["赵秋儿", "sister of x"], 
+      ["齐岳", "co wives of x"]
+    ],
+    "冯竹": [
+      ["冯双骥", "father of x"], 
+      ["任师父", "student of x"], 
+      ["李郁", "sister of x"], 
+      ["赵万雷", "brother of x"], 
+      ["赵卫", "student of x, student of x"], 
+      ["赵洛意", "friend of x"], 
+      ["尹少鸣", "student of x"], 
+      ["郭望山", "twin brother of x, half brother of x, schoolmate of x, rival of x, employee of x, helper of x, acquaintance of x, friend of x"], 
+      ["赵秋儿", "lover of x"], 
+      ["齐岳", "friend of x"]
+    ],
+    "尹少鸣": [
+      ["冯双骥", "brother of x"], 
+      ["任师父", "student of x"], 
+      ["李郁", "friend of x"], 
+      ["赵万雷", "colleague of x, business partner of x"], 
+      ["赵卫", "business partner of x"], 
+      ["冯竹", "mentor of x"], 
+      ["郭望山", "friend of x, mentor of x"], 
+      ["赵秋儿", "romantic relationships with x"], 
+      ["齐岳", "friend of x"]
+    ],
+    "郭望山": [
+      ["冯双骥", "student of x, teacher of x"], 
+      ["任师父", "student of x"], 
+      ["李郁", "teacher of x"], 
+      ["赵万雷", "friend of x"], 
+      ["赵卫", "son of x"], 
+      ["赵洛意", "mentor of x, information receiver from x"], 
+      ["冯竹", "twin brother of x, half brother of x, schoolmate of x, rival of x, employer of x, helper of x, acquaintance of x, friend of x"], 
+      ["尹少鸣", "student of x"], 
+      ["赵秋儿", "informant of x, information receiver from x"], 
+      ["齐岳", "mentor of x"]
+    ],
+    "赵秋儿": [
+      ["冯双骥", "future son in law of x"], 
+      ["任师父", "student of x"], 
+      ["李郁", "romantic relationships with x"], 
+      ["赵万雷", "half sister of x, fondness of x"], 
+      ["赵卫", "daughter of x"], 
+      ["赵洛意", "sister of x"], 
+      ["冯竹", "lover of x"], 
+      ["尹少鸣", "romantic relationships with x"], 
+      ["郭望山", "informant of x, information receiver from x"], 
+      ["齐岳", "lover of x"]
+    ],
+    "齐岳": [
+      ["冯双骥", "student of x"], 
+      ["任师父", "student of x"], 
+      ["李郁", "son of x"], 
+      ["赵万雷", "teacher of x"], 
+      ["赵卫", "classmate of x, friend of x"], 
+      ["赵洛意", "co wives of x"], 
+      ["冯竹", "friend of x"], 
+      ["尹少鸣", "friend of x"], 
+      ["郭望山", "student of x"], 
+      ["赵秋儿", "lover of x"]
+    ]
+}

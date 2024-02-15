@@ -1,0 +1,22 @@
+{
+    "萧体育": [
+      ["庄清纯", "classmate of x"], 
+      ["薛媚娘", "colleague of x"], 
+      ["贾美丽", "student of x"], 
+      ["秦老大", "friend of x"]
+    ],
+    "庄清纯": [
+      ["萧体育", "classmate of x"], 
+      ["薛媚娘", "colleague of x"]
+    ],
+    "薛媚娘": [
+      ["萧体育", "colleague of x"], 
+      ["庄清纯", "colleague of x"]
+    ],
+    "贾美丽": [
+      ["萧体育", "student of x"]
+    ],
+    "秦老大": [
+      ["萧体育", "friend of x"]
+    ]
+}

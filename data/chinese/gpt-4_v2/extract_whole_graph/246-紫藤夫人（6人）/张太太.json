@@ -1,0 +1,52 @@
+{
+    "张太太": [
+      ["张俊诗", "husband of x"], 
+      ["葛月萝", "acquaintance of x, friend of x"], 
+      ["朱陵山", "husband of x's friend"], 
+      ["薛玉帆", "admirer of x, rebuffed by x"], 
+      ["稚筠", "biological daughter of x's cousin, niece of x"], 
+      ["乐婉", "employee of x"], 
+      ["于彦诚", "acquaintance of x"], 
+      ["于尚勇", "acquaintance of x"], 
+      ["葛月曼", "friend of x"], 
+      ["吕陆升", "acquaintance of x"]
+    ],
+    "张俊诗": [
+      ["张太太", "wife of x"], 
+      ["稚筠", "niece of x"]
+    ],
+    "葛月萝": [
+      ["葛继先", "daughter of x"], 
+      ["朱陵山", "wife of x"], 
+      ["张太太", "acquaintance of x, friend of x"]
+    ],
+    "朱陵山": [
+      ["葛月萝", "husband of x"], 
+      ["张太太", "husband of x's friend"]
+    ],
+    "薛玉帆": [
+      ["张太太", "admirer of x, rebuffed by x"]
+    ],
+    "稚筠": [
+      ["张太太", "niece of x, biological daughter of x's cousin"], 
+      ["张俊诗", "uncle of x (by marriage)"]
+    ],
+    "乐婉": [
+      ["张太太", "employee of x"]
+    ],
+    "于彦诚": [
+      ["张太太", "acquaintance of x"], 
+      ["于尚勇", "brother of x"]
+    ],
+    "于尚勇": [
+      ["张太太", "acquaintance of x"], 
+      ["于彦诚", "brother of x"]
+    ],
+    "葛月曼": [
+      ["张太太", "friend of x"], 
+      ["葛月萝", "sister of x"]
+    ],
+    "吕陆升": [
+      ["张太太", "acquaintance of x"]
+    ]
+}

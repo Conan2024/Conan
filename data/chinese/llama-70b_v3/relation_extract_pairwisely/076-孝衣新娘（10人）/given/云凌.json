@@ -1,0 +1,71 @@
+{
+    "云凌": [
+      ["任仲远", "friend of x, brother of x"], 
+      ["唐婉枫", "sibling of x, friend of x, classmate of x"], 
+      ["唐茂光", "father in law of x, colleague of x, friend of x, admirer of x"], 
+      ["姚仲义", "friend of x, business partner of x"], 
+      ["徐伯清", "friend of x, adversary of x"]
+    ],
+    "任仲远": [
+      ["云凌", "friend of x, brother of x"], 
+      ["唐茂光", "uncle of x"], 
+      ["姚仲义", "colleague of x"], 
+      ["徐伯清", "uncle of x, nephew of x, mentor of x, student of x, teacher of x"], 
+      ["红夫人", "informant of x, wife of x"], 
+      ["father of friend", "acquaintance of x"]
+    ],
+    "唐婉枫": [
+      ["云凌", "sibling of x, friend of x, classmate of x"], 
+      ["唐茂光", "business partner of x"], 
+      ["徐伯清", "stranger to x"], 
+      ["红夫人", "friend of x"], 
+      ["虞医师", "friend of x, colleague of x"]
+    ],
+    "唐茂光": [
+      ["云凌", "father in law of x, colleague of x, friend of x, admirer of x"], 
+      ["任仲远", "uncle of x"], 
+      ["唐婉枫", "business partner of x"], 
+      ["姚仲义", "colleague of x, mentor of x"], 
+      ["廖一乔", "business partner of x"], 
+      ["徐伯清", "helper of x"], 
+      ["红夫人", "friend of x"], 
+      ["虞医师", "friend of x, colleague of x"]
+    ],
+    "姚仲义": [
+      ["云凌", "friend of x, business partner of x, mentor of x"], 
+      ["任仲远", "colleague of x"], 
+      ["唐茂光", "colleague of x, mentor of x"], 
+      ["红夫人", "friend of x, enemy of x"], 
+      ["虞医师", "friend of x"]
+    ],
+    "廖一乔": [
+      ["唐茂光", "business partner of x"], 
+      ["徐伯清", "acquaintance of x, friend of x"], 
+      ["红夫人", "employee of x"], 
+      ["虞医师", "friend of x, mentor of x"]
+    ],
+    "徐伯清": [
+      ["云凌", "friend of x, adversary of x"], 
+      ["任仲远", "uncle of x, nephew of x, mentor of x, student of x, teacher of x"], 
+      ["唐婉枫", "husband of x, stranger to x"], 
+      ["唐茂光", "helper of x"], 
+      ["廖一乔", "acquaintance of x, friend of x"], 
+      ["红夫人", "acquaintance of x"], 
+      ["虞医师", "friend of x, colleague of x"]
+    ],
+    "红夫人": [
+      ["任仲远", "wife of x, informant of x"], 
+      ["唐婉枫", "friend of x"], 
+      ["唐茂光", "friend of x"], 
+      ["姚仲义", "mother of x"], 
+      ["徐伯清", "acquaintance of x"]
+    ],
+    "虞医师": [
+      ["medical professional", "friend of x"], 
+      ["唐婉枫", "friend of x, colleague of x"], 
+      ["唐茂光", "friend of x, colleague of x"], 
+      ["姚仲义", "friend of x, helper of x"], 
+      ["廖一乔", "friend of x"], 
+      ["徐伯清", "friend of x, colleague of x"]
+    ]
+}

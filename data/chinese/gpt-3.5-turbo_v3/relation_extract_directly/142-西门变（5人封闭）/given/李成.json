@@ -1,0 +1,64 @@
+{
+    "李成": [
+        [
+            "赵中正",
+            "business partner of x, employer of x"
+        ],
+        [
+            "赵中杨",
+            "colleague of x, superior of x, mentor of x"
+        ],
+        [
+            "陈媚儿",
+            "acquaintance of x"
+        ],
+        [
+            "张伟",
+            "colleague of x"
+        ]
+    ],
+    "赵中正": [
+        [
+            "李成",
+            "business partner of x"
+        ],
+        [
+            "赵中杨",
+            "relative of x"
+        ]
+    ],
+    "赵中杨": [
+        [
+            "李成",
+            "colleague of x, subordinate of x, student of x"
+        ],
+        [
+            "陈媚儿",
+            "acquaintance of x"
+        ],
+        [
+            "张伟",
+            "colleague of x"
+        ]
+    ],
+    "陈媚儿": [
+        [
+            "李成",
+            "acquaintance of x"
+        ],
+        [
+            "赵中杨",
+            "acquaintance of x"
+        ]
+    ],
+    "张伟": [
+        [
+            "李成",
+            "colleague of x"
+        ],
+        [
+            "赵中杨",
+            "colleague of x"
+        ]
+    ]
+}

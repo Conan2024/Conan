@@ -1,0 +1,34 @@
+{
+    "王学习": [
+      ["张恶霸", "bully of x, manipulated by x, attempted murderer of x, potential victim of x"], 
+      ["李小弟", "follower of x 张恶霸, companion of x in exploring the school"], 
+      ["赵帅哥", "friend of x 张恶霸, companion of x 张恶霸 in exploring the school"], 
+      ["林校花", "fiancee of x 张恶霸, companion of x 张恶霸 in exploring the school"], 
+      ["郝闺蜜", "friend of x 林校花, companion of x 张恶霸 in exploring the school"]
+    ],
+    "张恶霸": [
+      ["王学习", "victim of x, manipulated by x, potential perpetrator of x's death"], 
+      ["李小弟", "follower of x, accomplice in exploring the school"], 
+      ["赵帅哥", "friend of x, accomplice in exploring the school"], 
+      ["林校花", "fiancee of x, accomplice in exploring the school"], 
+      ["郝闺蜜", "friend of x 林校花, accomplice in exploring the school"]
+    ],
+    "李小弟": [
+      ["张恶霸", "follower of x, accomplice in exploring the school"], 
+      ["王学习", "companion of x 张恶霸 in exploring the school"]
+    ],
+    "赵帅哥": [
+      ["张恶霸", "friend of x, accomplice in exploring the school"], 
+      ["王学习", "companion of x 张恶霸 in exploring the school"]
+    ],
+    "林校花": [
+      ["张恶霸", "fiancee of x, accomplice in exploring the school"], 
+      ["王学习", "companion of x 张恶霸 in exploring the school"], 
+      ["郝闺蜜", "friend of x, accomplice in exploring the school"]
+    ],
+    "郝闺蜜": [
+      ["林校花", "friend of x, accomplice in exploring the school"], 
+      ["张恶霸", "accomplice in exploring the school"], 
+      ["王学习", "accomplice in exploring the school"]
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "云凌": [
+      ["任仲远", "学生与教师 of x, 朋友 of x, 哥哥/弟弟 of x, 师傅/徒弟 of x, 兄弟 of x"], 
+      ["唐婉枫", "姐弟/兄妹 of x, 父母 of x, 客人 of x, 朋友 of x, 同学 of x"], 
+      ["唐茂光", "father in law of x, family relationship of x, old friend of x, 同职 of x, 同 interests of x, respect of x, admiration of x"], 
+      ["姚仲义", "学生与教师 of x, 帮手与雇主 of x, 朋友 of x, 合伙 of x, 弟子与师父 of x"], 
+      ["廖一乔", "father daughter of x"], 
+      ["徐伯清", "学生与教师 of x, 朋友 of x, 尊长与弟子 of x, 潜在敌人 of x, 共同受试验者 of x"]
+    ],
+    "任仲远": [
+      ["云凌", "学生与教师 of x, 朋友 of x, 哥哥/弟弟 of x, 师傅/徒弟 of x, 兄弟 of x"], 
+      ["唐婉枫", "family friend of x"], 
+      ["唐茂光", "uncle nephew of x, father in law son in law of x"], 
+      ["姚仲义", "关系1 of x, 关系2 of x"], 
+      ["廖一乔", "relationship 1: familial of x, relationship 2: professional of x, relationship 3: gratitude of x"], 
+      ["徐伯清", "uncle of x, nephew of x, mentor of x, student of x, teacher of x"], 
+      ["红夫人", "informant of x, wife of x"], 
+      ["father of friend", "introducer to 虞医师 of x"]
+    ],
+    "唐婉枫": [
+      ["云凌", "姐弟/兄妹 of x, 父母 of x, 客人 of x, 朋友 of x, 同学 of x"], 
+      ["任仲远", "family friend of x"], 
+      ["唐茂光", "family relationship of x, business relationship of x, personal relationship of x"], 
+      ["廖一乔", "mother son relationship of x"], 
+      ["徐伯清", "wife of x (different reference), stranger to x"], 
+      ["红夫人", "relatives of x, family friends of x"], 
+      ["虞医师", "friend of x, colleague of x"]
+    ],
+    "唐茂光": [
+      ["云凌", "father in law of x, family relationship of x, old friend of x, 同职 of x, 同 interests of x, respect of x, admiration of x"], 
+      ["任仲远", "uncle nephew of x, son in law father in law of x"], 
+      ["唐婉枫", "family relationship of x, business relationship of x, personal relationship of x"], 
+      ["姚仲义", "great uncle of x, father's friend of x, comrade of x, benefactor of x, mentor of x, confidant of x"], 
+      ["廖一乔", "edad deapex ralph, business partner of x, co worker of x, fellow villager of x"], 
+      ["徐伯清", "close friend of x, fellow soldier of x, and helper of x, 新的恋人 of x"], 
+      ["红夫人", "father in law/son in law of x, friend of x"], 
+      ["虞医师", "朋友 of x, 同事 of x"]
+    ],
+    "姚仲义": [
+      ["云凌", "学生与教师 of x, 帮手与雇主 of x, 朋友 of x, 合伙 of x, 师父与弟子 of x"], 
+      ["任仲远", "关系1 of x, 关系2 of x"], 
+      ["唐茂光", "great uncle of x, father's friend of x, comrade of x, benefactor of x, mentor of x, confidant of x"], 
+      ["红夫人", "friend of x, enemy of x, savior of x"], 
+      ["虞医师", "friend of x, requested aid of x"]
+    ],
+    "廖一乔": [
+      ["云凌", "father daughter of x"], 
+      ["任仲远", "relationship 1: familial of x, relationship 2: professional of x, relationship 3: gratitude of x"], 
+      ["唐婉枫", "son mother relationship of x"], 
+      ["唐茂光", "edad deapex ralph, business partner of x, co worker of x, fellow villager of x"], 
+      ["徐伯清", "acquaintance of x, traveling companion of x, friend of x"], 
+      ["红夫人", "father daughter of x, husband wife of x, employer employee of x, master servant of x"], 
+      ["虞医师", "friend of x, mentor of x"]
+    ],
+    "徐伯清": [
+      ["云凌", "学生与教师 of x, 朋友 of x, 尊长与弟子 of x, 潜在敌人 of x, 共同受试验者 of x"], 
+      ["任仲远", "uncle of x, nephew of x, mentor of x, student of x, teacher of x"], 
+      ["唐婉枫", "husband of x (different identity), stranger to x, uncle in law of x"], 
+      ["唐茂光", "close friend of x, fellow soldier of x, and helper of x, 新的恋人 of x"], 
+      ["廖一乔", "acquaintance of x, traveling companion of x, friend of x"], 
+      ["红夫人", "romantic partner of x, acquaintance of x"], 
+      ["虞医师", "friend of x, colleague of x"]
+    ],
+    "红夫人": [
+      ["任仲远", "wife of x, informant of x"], 
+      ["唐婉枫", "relatives of x, family friends of x"], 
+      ["唐茂光", "mother in law/daughter in law of x, friend of x"], 
+      ["姚仲义", "mother of x"], 
+      ["廖一乔", "father daughter of x, wife husband of x, employee employer of x, servant master of x"], 
+      ["徐伯清", "romantic partner of x, acquaintance of x"]
+    ],
+    "虞医师": [
+      ["medical professional", "friend of x 云凌"], 
+      ["唐婉枫", "friend of x, colleague of x"], 
+      ["唐茂光", "朋友 of x, 同事 of x"], 
+      ["姚仲义", "friend of x, offered help of x"], 
+      ["廖一乔", "friend of x, mentee of x"], 
+      ["徐伯清", "friend of x, colleague of x"]
+    ]
+}

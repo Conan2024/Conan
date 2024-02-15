@@ -1,0 +1,52 @@
+{
+    "张大副": [
+      ["很天真", "business partner of x, acquaintance of x"], 
+      ["杨老板", "business partner of x"], 
+      ["王小工", "business partner of x, co conspirator of x"], 
+      ["王船工", "对手 of x, 毒品供应商 of x"], 
+      ["玲船医", "industry partner of x, co conspirator of x"], 
+      ["雯秘书", "superior of x, business partner of x, mentor of x, manipulator of x, adversary of x"]
+    ],
+    "很天真": [
+      ["张大副", "business partner of x, acquaintance of x"], 
+      ["王船工", "subordinate of x, colleague of x"], 
+      ["雯秘书", "relationship 1: superior of x, relationship 2: mentor of x"]
+    ],
+    "杨老板": [
+      ["张大副", "employer of x"], 
+      ["王小工", "relationship 1: 毒品供应商 of x, relationship 2: 酒吧老板 of x"], 
+      ["王船工", "employer of x, perpetratrof x"]
+    ],
+    "王小工": [
+      ["张大副", "business partner of x, co conspirator of x"], 
+      ["杨老板", "relationship 1: 毒品供应商 of x, relationship 2: 酒吧老板 of x"], 
+      ["王船工", "son in law of x, father in law of x"], 
+      ["玲船医", "друigos de x, killed by x"], 
+      ["雯秘书", "superior of x, manipulator of x, acquaintance of x, adversary of x"]
+    ],
+    "王船工": [
+      ["张大副", "对手 of x, 毒品供应商 of x"], 
+      ["很天真", "subordinate of x, colleague of x"], 
+      ["杨老板", "subordinate of x, victim of x"], 
+      ["王小工", "son in law of x, father in law of x"], 
+      ["玲船医", "对手 of x, potential ally of x"], 
+      ["雯秘书", "business partner of x, threat of x, ally of x, victim of x"]
+    ],
+    "玲船医": [
+      ["张大副", "industry partner of x, co conspirator of x"], 
+      ["王船工", "friend of x, potential ally of x"], 
+      ["雯秘书", "co conspirator of x, helper of x, informer of x, advisor of x, team member of x"]
+    ],
+    "雯秘书": [
+      ["张大副", "superior of x, business partner of x, mentor of x, manipulator of x, adversary of x"], 
+      ["很天真", "relationship 1: superior of x, relationship 2: mentor of x"], 
+      ["王小工", "superior of x, manipulator of x, acquaintance of x, adversary of x"], 
+      ["玲船医", "co conspirator of x, helper of x, informer of x, advisor of x, team member of x"]
+    ],
+    "name": [
+      ["王", "船 of x, 工 of x"]
+    ],
+    "relationship": [
+      ["s", "u of x, b of x, o of x, r of x, d of x, i of x, n of x, a of x, t of x, e of x, p of x, o of x, t of x, e of x, n of x, t of x, i of x, a of x, l of x, a of x, l of x, l of x, y of x"]
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "张伟": [
+      ["马老板", "subordinate of x, deceiver of x, suspicious of x"]
+    ],
+    "赵中杨": [
+      ["李成", "friend of x"]
+    ],
+    "李成": [
+      ["张伟", "superior of x"], 
+      ["赵中杨", "mentor of x, friend of x"]
+    ],
+    "赵三": [
+      ["马老板", "brother of x, business partner of x, buyer of x, manipulator of x, adversary of x, enemy of x"]
+    ],
+    "马老板": [
+      ["张伟", "subordinate of x, suspicious of x"], 
+      ["赵三", "brother of x, business partner of x, buyer of x, manipulator of x, adversary of x, enemy of x"]
+    ]
+}

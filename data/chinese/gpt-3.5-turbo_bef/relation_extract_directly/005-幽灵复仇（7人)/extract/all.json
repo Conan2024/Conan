@@ -1,0 +1,56 @@
+{
+    "李骆明": [
+      ["夏伯龙", "mentor of x"], 
+      ["夏仲鹏", "co wives of x"], 
+      ["岳东汶", "business partner of x"], 
+      ["夏叔娥", "romantic relationships with x"], 
+      ["吴百安", "perpetrator of x, victim of x"]
+    ],
+    "夏伯龙": [
+      ["李骆明", "mentor of x"], 
+      ["夏仲鹏", "sibling of x, co wives of x"], 
+      ["夏三虎", "replaced x's identity"], 
+      ["阿娥", "child of x"], 
+      ["岳东汶", "business partner of x"], 
+      ["夏叔娥", "child of x"]
+    ],
+    "夏仲鹏": [
+      ["李骆明", "co wives of x"], 
+      ["夏伯龙", "sibling of x, co wives of x"], 
+      ["夏三虎", "replaced x's identity"], 
+      ["岳东汶", "business partner of x"], 
+      ["夏叔娥", "romantic relationships with x"], 
+      ["夏家拳馆的师傅", "teacher of x"]
+    ],
+    "岳东汶": [
+      ["李骆明", "business partner of x"], 
+      ["夏伯龙", "business partner of x"], 
+      ["夏三虎", "business partner of x"], 
+      ["夏仲鹏", "business partner of x"], 
+      ["夏叔娥", "business partner of x"]
+    ],
+    "夏叔娥": [
+      ["李骆明", "romantic relationships with x"], 
+      ["夏伯龙", "child of x"], 
+      ["夏三虎", "child of x"], 
+      ["夏仲鹏", "romantic relationships with x"]
+    ],
+    "夏三虎": [
+      ["李骆明", "replaced x's identity"], 
+      ["夏伯龙", "replaced x's identity"], 
+      ["夏仲鹏", "replaced x's identity"], 
+      ["夏叔娥", "child of x"], 
+      ["宇祖成木", "information receiver from x"], 
+      ["吴百安", "replaced x's identity"], 
+      ["安琪", "perpetrator of x"]
+    ],
+    "宇祖成木": [
+      ["夏三虎", "information receiver from x"], 
+      ["吴百安", "perpetrator of x, victim of x"]
+    ],
+    "吴百安": [
+      ["李骆明", "perpetrator of x, victim of x"], 
+      ["夏三虎", "replaced x's identity"], 
+      ["宇祖成木", "victim of x"]
+    ]
+}

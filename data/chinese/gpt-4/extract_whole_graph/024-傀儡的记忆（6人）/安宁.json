@@ -1,0 +1,92 @@
+{
+    "吴笑": [
+        [
+            "吴百安",
+            "adoptive father of x"
+        ],
+        [
+            "安宁",
+            "same person as x (different identity)"
+        ]
+    ],
+    "吴百安": [
+        [
+            "吴笑",
+            "adoptive son of x"
+        ],
+        [
+            "夏叔娥",
+            "acquaintance of x"
+        ],
+        [
+            "易记者",
+            "informant of x"
+        ]
+    ],
+    "夏叔娥": [
+        [
+            "吴百安",
+            "victim of x"
+        ],
+        [
+            "吴笑",
+            "helped by x"
+        ]
+    ],
+    "易记者": [
+        [
+            "吴百安",
+            "subject of investigation for x"
+        ],
+        [
+            "易楚安",
+            "same person as x (different identity)"
+        ],
+        [
+            "夏叔娥",
+            "acquaintance of x"
+        ]
+    ],
+    "易楚安": [
+        [
+            "易记者",
+            "same person as x (different reference)"
+        ],
+        [
+            "吴笑",
+            "deceived by x, information receiver from x"
+        ],
+        [
+            "吴百安",
+            "acquaintance of x"
+        ]
+    ],
+    "易兰秦": [
+        [
+            "易楚安",
+            "sibling of x"
+        ]
+    ],
+    "易氏": [
+        [
+            "易楚安",
+            "mother of x"
+        ],
+        [
+            "易兰秦",
+            "mother of x"
+        ]
+    ],
+    "白同": [
+        [
+            "夏叔娥",
+            "helper of x"
+        ]
+    ],
+    "杜贵成": [
+        [
+            "吴笑",
+            "victim of x"
+        ]
+    ]
+}

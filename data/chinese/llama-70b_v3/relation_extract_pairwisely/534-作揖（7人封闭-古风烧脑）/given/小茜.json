@@ -1,0 +1,139 @@
+{
+    "奶奶": [
+      ["小茜", "grandmother of x"], 
+      ["方叶", "grandmother of x, mother in law of x"], 
+      ["方竹", "relative of x, mother of x"], 
+      ["方絮", "grandmother of x"], 
+      ["李仲", "mother of x"], 
+      ["李王爷", "mother in law of x, grandmother of x"], 
+      ["草藤居士", "grandmother of x, student of x"], 
+      ["陈倩", "mother in law of x"]
+    ],
+    "小茜": [
+      ["奶奶", "granddaughter of x"], 
+      ["方叶", "brother of x, brother of x, friend of x, enemy of x"], 
+      ["方柳", "daughter of x, daughter of x, niece of x, cousin of x, friend of x"], 
+      ["方眠", "sibling of x, brother of x, friend of x, acquaintance of x"], 
+      ["方絮", "sister in law of x"], 
+      ["李仲", "relative of x, acquaintance of x"], 
+      ["李延", "adoptive father of x"], 
+      ["李王爷", "uncle of x"], 
+      ["草藤居士", "adoptive father of x, friend of x, colleague of x, acquaintance of x"], 
+      ["陈倩", "friend of x, servant of x, sister of x, cousin of x, acquaintance of x"], 
+      ["陈倩", "friend of x"]
+    ],
+    "方叶": [
+      ["奶奶", "father of x, husband of x"], 
+      ["小茜", "brother of x, brother of x, friend of x, enemy of x"], 
+      ["方柳", "brother of x, uncle of x, enemy of x"], 
+      ["方眠", "father of x"], 
+      ["方竹", "father of x"], 
+      ["李仲", "uncle of x"], 
+      ["李延", "uncle of x"], 
+      ["李王爷", "father of x, uncle of x"], 
+      ["李钦仁", "father in law of x, colleague of x, enemy of x"], 
+      ["草藤居士", "father of x, friend of x, acquaintance of x, colleague of x"]
+    ],
+    "方柳": [
+      ["奶奶", "grandmother of x"], 
+      ["小茜", "daughter of x, daughter of x, niece of x, cousin of x, friend of x"], 
+      ["方叶", "brother of x, uncle of x"], 
+      ["方眠", "acquaintance of x, relative of x"], 
+      ["方竹", "friend of x"], 
+      ["方絮", "sister of x, wife of x"], 
+      ["李王爷", "uncle of x, friend of x"], 
+      ["李钦仁", "cousin of x"], 
+      ["草藤居士", "relative of x, friend of x"], 
+      ["陈倩", "friend of x, mentor of x, teacher of x"]
+    ],
+    "方眠": [
+      ["小茜", "sibling of x, brother of x, friend of x, acquaintance of x"], 
+      ["方叶", "daughter of x"], 
+      ["方柳", "acquaintance of x, relative of x"], 
+      ["方絮", "sister of x"], 
+      ["李仲", "cousin of x, uncle of x, aunt of x"], 
+      ["李延", "cousin of x"], 
+      ["李王爷", "brother in law of x, cousin of x, niece of x"], 
+      ["李钦仁", "cousin of x, helper of x"], 
+      ["草藤居士", "sister in law of x, master of x, mentor of x, friend of x"]
+    ],
+    "方竹": [
+      ["奶奶", "relative of x, son of x"], 
+      ["方柳", "friend of x"], 
+      ["方絮", "uncle of x"], 
+      ["李仲", "brother in law of x, uncle of x"], 
+      ["李延", "cousin of x"], 
+      ["李钦仁", "daughter of x"], 
+      ["草藤居士", "uncle of x"], 
+      ["陈倩", "brother in law of x, friend of x"]
+    ],
+    "方絮": [
+      ["奶奶", "aunt of x"], 
+      ["小茜", "sister in law of x"], 
+      ["方柳", "sister of x, wife of x"], 
+      ["方眠", "sister of x"], 
+      ["方竹", "aunt of x"], 
+      ["李仲", "wife of x, cousin of x"], 
+      ["李延", "cousin of x"], 
+      ["李王爷", "cousin of x"], 
+      ["李钦仁", "wife of x, friend of x"], 
+      ["草藤居士", "aunt of x"], 
+      ["陈倩", "sister of x, friend of x"]
+    ],
+    "李仲": [
+      ["奶奶", "son of x"], 
+      ["小茜", "relative of x, acquaintance of x"], 
+      ["方叶", "uncle of x"], 
+      ["方眠", "cousin of x, uncle of x, aunt of x"], 
+      ["方竹", "nephew of x"], 
+      ["方絮", "husband of x, cousin of x"], 
+      ["李王爷", "relative of x, niece of x"]
+    ],
+    "李延": [
+      ["小茜", "adoptive daughter of x"], 
+      ["方叶", "uncle of x"], 
+      ["方眠", "cousin of x"], 
+      ["方竹", "cousin of x"], 
+      ["方絮", "cousin of x"]
+    ],
+    "李王爷": [
+      ["奶奶", "father in law of x, husband of x"], 
+      ["小茜", "niece of x"], 
+      ["方叶", "father of x, brother of x"], 
+      ["方柳", "uncle of x, friend of x"], 
+      ["方眠", "sister in law of x, cousin of x, niece of x"], 
+      ["方絮", "cousin of x"], 
+      ["李仲", "relative of x, cousin of x"], 
+      ["李钦仁", "father of x"], 
+      ["草藤居士", "grandfather of x, adoptive father of x"], 
+      ["陈倩", "father in law of x, master of x, helper of x"]
+    ],
+    "李钦仁": [
+      ["方叶", "father in law of x, colleague of x, enemy of x"], 
+      ["方柳", "cousin of x"], 
+      ["方眠", "cousin of x"], 
+      ["方竹", "daughter of x"], 
+      ["方絮", "husband of x, friend of x"]
+    ],
+    "草藤居士": [
+      ["奶奶", "adoptive father of x"], 
+      ["小茜", "adoptive father of x, friend of x, colleague of x, acquaintance of x"], 
+      ["方叶", "father of x, friend of x, acquaintance of x, colleague of x"], 
+      ["方柳", "niece of x, cousin of x, friend of x"], 
+      ["方眠", "sister in law of x, servant of x, student of x, friend of x"], 
+      ["方竹", "adoptive father of x"], 
+      ["方絮", "father in law of x"], 
+      ["李王爷", "father of x, adoptive father of x"], 
+      ["陈倩", "father of x, friend of x"]
+    ],
+    "陈倩": [
+      ["奶奶", "daughter in law of x"], 
+      ["小茜", "friend of x, servant of x, sister of x, cousin of x, acquaintance of x"], 
+      ["小茜", "friend of x"], 
+      ["方柳", "student of x"], 
+      ["方竹", "brother in law of x, friend of x"], 
+      ["方絮", "sister of x, friend of x"], 
+      ["李王爷", "father in law of x, master of x, helper of x"], 
+      ["草藤居士", "father of x, friend of x"]
+    ]
+}

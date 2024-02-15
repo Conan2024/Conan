@@ -1,0 +1,53 @@
+{
+    "韦太太": [
+      ["吕守本", "father of x"], 
+      ["李氏", "mother of x"], 
+      ["吕名然", "sibling of x, victim of x"], 
+      ["谭仁昌", "extramarital affair with x"], 
+      ["欣雅", "acquaintance of x"], 
+      ["韦洋遥", "husband of x"], 
+      ["海悠", "disliked by x"]
+    ],
+    "吕守本": [
+      ["韦太太", "child of x"], 
+      ["吕名然", "child of x"], 
+      ["罗亨理", "subordinate of x"]
+    ],
+    "李氏": [
+      ["韦太太", "child of x"], 
+      ["吕守本", "husband of x"], 
+      ["吕名然", "child of x"]
+    ],
+    "吕名然": [
+      ["韦太太", "sibling of x"], 
+      ["吕守本", "father of x"], 
+      ["李氏", "mother of x"], 
+      ["谭仁昌", "employee of x, victim of x"]
+    ],
+    "明纱": [
+      ["谭仁昌", "husband of x"], 
+      ["欣雅", "adoptive sister of x"], 
+      ["海悠", "adoptive daughter of x"]
+    ],
+    "谭仁昌": [
+      ["韦太太", "lover of x"], 
+      ["明纱", "wife of x"], 
+      ["吕名然", "employer of x, victim of x"]
+    ],
+    "欣雅": [
+      ["韦太太", "acquaintance of x"], 
+      ["明纱", "adoptive sister of x"]
+    ],
+    "韦洋遥": [
+      ["韦太太", "wife of x"], 
+      ["谭仁昌", "business partner of x"]
+    ],
+    "海悠": [
+      ["韦太太", "disliked by x"], 
+      ["明纱", "adoptive mother of x"]
+    ],
+    "罗亨理": [
+      ["明纱", "child of x"], 
+      ["吕守本", "employer of x"]
+    ]
+}

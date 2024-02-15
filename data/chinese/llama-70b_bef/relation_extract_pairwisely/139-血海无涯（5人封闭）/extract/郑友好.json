@@ -1,0 +1,25 @@
+{
+    "郑友好": [
+      ["韦小弟", "classmate of x, friend of x"], 
+      ["妈妈", "friend of x, classmate of x"]
+    ],
+    "秦老大": [
+      ["郑友好", "helper of x, bully of x"], 
+      ["贾美丽", "friend of x"], 
+      ["韦小弟", "acquaintance of x, friend of x"]
+    ],
+    "贾美丽": [
+      ["秦老大", "friend of x"]
+    ],
+    "韦小弟": [
+      ["郑友好", "classmate of x, friend of x"], 
+      ["秦老大", "acquaintance of x, friend of x"]
+    ],
+    "妈妈": [
+      ["郑友好", "son of x"], 
+      ["秦老대", "acquaintance of x"]
+    ],
+    "秦老대": [
+      ["妈妈", "acquaintance of x"]
+    ]
+}

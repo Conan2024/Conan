@@ -1,0 +1,47 @@
+{
+    "罗宾•费依": [
+      ["丹尼尔", "friend of x, colleague of x"], 
+      ["玛丽娜", "acquaintance of x, suspicious of x"], 
+      ["杰奎琳", "acquaintance of x, rival of x"], 
+      ["乔纳森", "acquaintance of x, suspect of x"], 
+      ["露西•哈里森", "acquaintance of x, potential music protege of x"]
+    ],
+    "丹尼尔": [
+      ["罗宾•费依", "friend of x, colleague of x"], 
+      ["玛丽娜", "wife of x, love interest of x"], 
+      ["杰奎琳", "acquaintance of x, rival of x"], 
+      ["乔纳森", "son of x, suspect of x"], 
+      ["露西•哈里森", "daughter of x, potential music protege of x"]
+    ],
+    "玛丽娜": [
+      ["丹尼尔", "husband of x, love interest of x"], 
+      ["杰奎琳", "sister of x, rival of x"], 
+      ["乔纳森", "brother of x, suspect of x"], 
+      ["露西•哈里森", "daughter of x, potential music protege of x"]
+    ],
+    "杰奎琳": [
+      ["丹尼尔", "acquaintance of x, rival of x"], 
+      ["玛丽娜", "sister of x, rival of x"], 
+      ["乔纳森", "acquaintance of x, suspect of x"], 
+      ["露西•哈里森", "acquaintance of x, potential music protege of x"]
+    ],
+    "乔纳森": [
+      ["丹尼尔", "father of x, suspect of x"], 
+      ["玛丽娜", "mother of x, suspect of x"], 
+      ["杰奎琳", "acquaintance of x, suspect of x"], 
+      ["露西•哈里森", "sister of x, potential music protege of x"]
+    ],
+    "露西•哈里森": [
+      ["丹尼尔", "father of x, potential music mentor of x"], 
+      ["玛丽娜", "mother of x, potential music mentor of x"], 
+      ["杰奎琳", "acquaintance of x, potential music protege of x"], 
+      ["乔纳森", "brother of x, potential music protege of x"]
+    ],
+    "哈罗德•哈里森": [
+      ["玛丽娜", "wife of x, unfaithful of x"], 
+      ["杰奎琳", "daughter of x, unfaithful of x"]
+    ],
+    "艾米•摩根": [
+      ["罗宾•费依", "acquaintance of x, potential music protege of x"]
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "吴百安": [
+      ["吴笑", "aunt of x, grandfather of x"], 
+      ["夏三虎", "teacher of x, friend of x, helper of x"], 
+      ["夏仲鹏", "student of x, friend of x, suspect of x"], 
+      ["夏伯龙", "master of x, mentor of x, friend of x"], 
+      ["夏叔娥", "friend of x, colleague of x, suspect of x, seller of x, rival of x, patient of x, secret admirer of x"], 
+      ["岳客沙", "colleague of x"], 
+      ["易阿姨", "acquaintance of x, colleague of x, friend of x"], 
+      ["骆明", "acquaintance of x"]
+    ],
+    "吴笑": [
+      ["吴百安", "aunt of x, grandfather of x"], 
+      ["夏三虎", "relative of x, friend of x"], 
+      ["夏仲鹏", "teacher of x, friend of x, colleague of x"], 
+      ["夏伯龙", "uncle of x, teacher of x, friend of x, enemy of x"], 
+      ["岳客沙", "acquaintance of x"], 
+      ["易阿姨", "friend of x, mentor of x, suspicious of x"], 
+      ["骆明", "friend of x"]
+    ],
+    "夏三虎": [
+      ["吴百安", "teacher of x, friend of x, helper of x"], 
+      ["吴笑", "mentor of x, uncle of x"], 
+      ["夏伯龙", "nephew of x, mentor of x"], 
+      ["夏叔娥", "father of x, uncle of x, mentor of x, teacher of x, friend of x"], 
+      ["洛意丝", "suspect of x"], 
+      ["阿明", "mentor of x, student of x"], 
+      ["骆明", "brother of x, friend of x"]
+    ],
+    "夏仲鹏": [
+      ["吴百安", "teacher of x, friend of x"], 
+      ["吴笑", "teacher of x, friend of x, colleague of x"], 
+      ["夏三虎", "sibling of x"], 
+      ["夏伯龙", "father of x, teacher of x, mentor of x, relative of x"], 
+      ["岳客沙", "friend of x"], 
+      ["易阿姨", "relative of x, acquaintance of x"], 
+      ["洛意丝", "colleague of x"], 
+      ["骆明", "father of x, teacher of x, mentor of x, colleague of x, friend of x"]
+    ],
+    "夏伯龙": [
+      ["吴百安", "master of x, mentor of x, friend of x"], 
+      ["吴笑", "niece of x, student of x, friend of x, enemy of x"], 
+      ["夏三虎", "nephew of x, mentor of x"], 
+      ["夏仲鹏", "son of x, student of x, student of x, relative of x"], 
+      ["夏叔娥", "father of x, master of x, teacher of x"], 
+      ["易阿姨", "business partner of x, friend of x"]
+    ],
+    "夏叔娥": [
+      ["吴百安", "friend of x, colleague of x, victim of x, buyer of x, rival of x, patient of x, secret admirer of x"], 
+      ["夏三虎", "father of x, uncle of x, mentor of x, teacher of x, friend of x"], 
+      ["夏伯龍", "father of x, master of x, teacher of x"], 
+      ["岳客沙", "student of x, friend of x, mentor of x, rival of x, enemy of x, spy of x"], 
+      ["易阿姨", "friend of x"], 
+      ["洛意丝", "friend of x, rival of x, enemy of x, younger sister of x"]
+    ],
+    "岳客沙": [
+      ["吴百安", "student of x, acquaintance of x"], 
+      ["吴笑", "acquaintance of x"], 
+      ["夏仲鹏", "friend of x"], 
+      ["夏伯龍", "friend of x, friend of x"], 
+      ["夏叔娥", "teacher of x, mentor of x, rival of x, enemy of x, spy of x"], 
+      ["易阿姨", "student of x"], 
+      ["洛意丝", "student of x"], 
+      ["骆明", "rival of x"]
+    ],
+    "易阿姨": [
+      ["吴百安", "acquaintance of x, colleague of x, friend of x"], 
+      ["吴笑", "friend of x, mentor of x, suspicious of x"], 
+      ["夏仲鹏", "relative of x, acquaintance of x"], 
+      ["夏伯龙", "business partner of x, friend of x"], 
+      ["夏叔娥", "mother in law of x"], 
+      ["岳客沙", "student of x"], 
+      ["洛意丝", "acquaintance of x"], 
+      ["阿明", "acquaintance of x"], 
+      ["骆明", "acquaintance of x, friend of x"]
+    ],
+    "洛意丝": [
+      ["吴百安", "friend of x"], 
+      ["夏三虎", "informant of x"], 
+      ["夏仲鹏", "colleague of x"], 
+      ["夏叔娥", "friend of x, rival of x, enemy of x, older sister of x"], 
+      ["岳客沙", "student of x"], 
+      ["易阿姨", "acquaintance of x"], 
+      ["阿明", "friend of x"], 
+      ["骆明", "acquaintance of x, classmate of x, student of x"]
+    ],
+    "阿明": [
+      ["吴笑", "teacher of x, friend of x"], 
+      ["夏三虎", "mentor of x, student of x"], 
+      ["夏仲鹏", "uncle of x"], 
+      ["夏伯龍", "colleague of x"], 
+      ["易阿姨", "acquaintance of x"], 
+      ["洛意丝", "friend of x"], 
+      ["骆明", "teacher of x, mentor of x, friend of x"]
+    ],
+    "骆明": [
+      ["吴百安", "acquaintance of x"], 
+      ["吴笑", "friend of x"], 
+      ["夏三虎", "brother of x, friend of x"], 
+      ["夏仲鹏", "son of x, student of x, colleague of x, friend of x"], 
+      ["夏伯龍", "friend of x, brother of x"], 
+      ["岳客沙", "rival of x"], 
+      ["易阿姨", "acquaintance of x, friend of x"], 
+      ["洛意丝", "acquaintance of x, classmate of x, student of x"], 
+      ["阿明", "teacher of x, mentor of x, friend of x"]
+    ],
+    "夏伯龍": [
+      ["岳客沙", "friend of x, friend of x"], 
+      ["阿明", "colleague of x"], 
+      ["骆明", "friend of x, brother of x"]
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "盖尔·里莫瑞特": [
+      ["德雷克·里莫瑞特", "murderer of x, admired by x, extramarital affair with x, child of x, secret lover of x"], 
+      ["汉斯·里莫瑞特", "murderer of x, relative of x, acquaintance of x, wife of x"], 
+      ["护士长科斯塔", "helper of x, lawyer of x"]
+    ],
+    "德雷克·里莫瑞特": [
+      ["盖尔·里莫瑞特", "husband of x, x's victim's family, extramarital affair with x, lover of x"], 
+      ["汉斯·里莫瑞特", "same person as x (different identity), extramarital affair with x, same person as x (different identity), admired by x, secret lover of x"], 
+      ["护士长科斯塔", "acquaintance of x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["盖尔·里莫瑞特", "victim of x, husband of x"], 
+      ["德雷克·里莫瑞特", "same person as x (different identity), victim of x, extramarital affair with x, deceived by x"], 
+      ["护士长科斯塔", "superior of x, victim of x"]
+    ],
+    "护士长科斯塔": [
+      ["盖尔·里莫瑞特", "customer of x"], 
+      ["德雷克·里莫瑞特", "acquaintance of x"], 
+      ["汉斯·里莫瑞特", "subordinate of x, in the lawsuit against x"]
+    ]
+}

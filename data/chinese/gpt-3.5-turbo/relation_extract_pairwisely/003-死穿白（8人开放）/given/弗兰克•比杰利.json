@@ -1,0 +1,63 @@
+{
+    "弗兰克·比杰利": [
+        [
+            "托尼",
+            "brother of x",
+            "caretaker of x"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "brother of x",
+            "employer of x"
+        ],
+        [
+            "神父汤姆",
+            "helper of x",
+            "deceiver of x"
+        ]
+    ],
+    "托尼": [
+        [
+            "弗兰克·比杰利",
+            "brother of x"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "brother of x"
+        ],
+        [
+            "神父汤姆",
+            "helper of x"
+        ]
+    ],
+    "德雷克·里莫瑞特": [
+        [
+            "弗兰克·比杰利",
+            "brother in law of x",
+            "employee of x"
+        ],
+        [
+            "托尼",
+            "brother of x"
+        ],
+        [
+            "神父汤姆",
+            "helper of x",
+            "informant of x"
+        ]
+    ],
+    "神父汤姆": [
+        [
+            "弗兰克·比杰利",
+            "employer of x"
+        ],
+        [
+            "托尼",
+            "employer of x"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "mentor of x"
+        ]
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "王船工": [
+      ["船长", "helper of x"], 
+      ["张大副", "helper of x, colleague of x"], 
+      ["王小工", "father of x"], 
+      ["路人甲", "helper of x"], 
+      ["玲船医", "husband of x, father of x"], 
+      ["杨老板", "business partner of x"], 
+      ["很天真", "mentor of x, fondness of x"]
+    ],
+    "船长": [
+      ["王船工", "helper of x"], 
+      ["张大副", "adversary of x, colleague of x"], 
+      ["王小工", "father of x"], 
+      ["路人甲", "colleague of x, acquaintance of x, quest companion of x"], 
+      ["玲船医", "husband of x"], 
+      ["杨老板", "business partner of x, employer of x"], 
+      ["很天真", "acquaintance of x"]
+    ],
+    "张大副": [
+      ["王船工", "helper of x, colleague of x"], 
+      ["船长", "adversary of x, colleague of x"], 
+      ["路人甲", "helper of x, helper of x"], 
+      ["玲船医", "romantic relationships with x, helper of x"], 
+      ["杨老板", "crime partner of x"], 
+      ["很天真", "helper of x"]
+    ],
+    "王小工": [
+      ["王船工", "child of x"], 
+      ["船长", "child of x"], 
+      ["路人甲", "colleague of x"], 
+      ["玲船医", "wife of x"], 
+      ["杨老板", "quest companion of x"], 
+      ["很天真", "admirer of x, helped by x"]
+    ],
+    "路人甲": [
+      ["王船工", "mentor of x"], 
+      ["船长", "colleague of x, acquaintance of x, quest companion of x"], 
+      ["张大副", "helper of x, information receiver from x"], 
+      ["王小工", "colleague of x"], 
+      ["玲船医", "colleague of x, friend of x"], 
+      ["杨老板", "business partner of x"], 
+      ["很天真", "admirer of x"]
+    ],
+    "玲船医": [
+      ["王船工", "wife of x, child of x"], 
+      ["船长", "wife of x"], 
+      ["张大副", "romantic relationships with x, helped by x"], 
+      ["王小工", "husband of x"], 
+      ["路人甲", "colleague of x, friend of x"], 
+      ["杨老板", "romantic relationships with x"], 
+      ["很天真", "fondness of x, student of x"]
+    ],
+    "杨老板": [
+      ["王船工", "employee of x"], 
+      ["船长", "business partner of x, employee of x"], 
+      ["张大副", "crime partner of x"], 
+      ["王小工", "quest companion of x"], 
+      ["路人甲", "business partner of x"], 
+      ["玲船医", "romantic relationships with x"], 
+      ["很天真", "friend of x"]
+    ],
+    "很天真": [
+      ["王船工", "student of x, fondness of x"], 
+      ["船长", "acquaintance of x"], 
+      ["张大副", "helper of x"], 
+      ["王小工", "friend of x, saved by x"], 
+      ["路人甲", "admirer of x"], 
+      ["玲船医", "friend of x, mentor of x"], 
+      ["杨老板", "friend of x"]
+    ]
+}

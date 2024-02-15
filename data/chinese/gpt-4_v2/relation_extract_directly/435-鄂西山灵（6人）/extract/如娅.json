@@ -1,0 +1,95 @@
+{
+    "如娅": [
+      ["苗纳", "father of x"], 
+      ["田氏", "mother of x"], 
+      ["苗氏", "aunt of x"], 
+      ["巴府山", "uncle of x"], 
+      ["鹃歌", "cousin of x, ex fiancee of x's husband"], 
+      ["隼", "cousin of x"], 
+      ["甘玛", "acquaintance of x, adopted sister of x's husband"], 
+      ["鬼印", "husband of x, student of x's father, adopted brother of x"], 
+      ["李德木", "extramarital affair with x, deceased of x"], 
+      ["李良松", "acquaintance of x"], 
+      ["李高柏", "friend of x, student of x's cousin"], 
+      ["忱纱", "acquaintance of x"], 
+      ["宜伯", "helper of x, servant of x"], 
+      ["大嬷嬷", "acquaintance of x"]
+    ],
+    "苗纳": [
+      ["如娅", "child of x"], 
+      ["田氏", "wife of x, deceased of x"], 
+      ["鬼印", "student of x"]
+    ],
+    "田氏": [
+      ["如娅", "child of x"], 
+      ["苗纳", "husband of x, deceased of x"]
+    ],
+    "苗氏": [
+      ["如娅", "niece of x"], 
+      ["巴府山", "husband of x"], 
+      ["鹃歌", "child of x"], 
+      ["隼", "child of x"], 
+      ["鬼印", "son in law of x, deceased of x"]
+    ],
+    "巴府山": [
+      ["苗氏", "wife of x"], 
+      ["鹃歌", "child of x"], 
+      ["隼", "child of x"], 
+      ["鬼印", "son in law of x, deceased of x"]
+    ],
+    "鹃歌": [
+      ["巴府山", "father of x"], 
+      ["苗氏", "mother of x"], 
+      ["隼", "sibling of x"], 
+      ["如娅", "cousin of x"], 
+      ["鬼印", "fiance of x, deceased of x"]
+    ],
+    "隼": [
+      ["巴府山", "father of x"], 
+      ["苗氏", "mother of x"], 
+      ["鹃歌", "sibling of x"], 
+      ["如娅", "cousin of x"], 
+      ["甘玛", "fiancee of x"]
+    ],
+    "甘玛": [
+      ["如娅", "acquaintance of x, sister in law of x"], 
+      ["鬼印", "adopted brother of x, mentor of x"], 
+      ["隼", "fiance of x"]
+    ],
+    "鬼印": [
+      ["甘玛", "student of x, adopted sister of x"], 
+      ["如娅", "wife of x, deceased of x"], 
+      ["苗纳", "mentor of x, deceased of x"], 
+      ["鹃歌", "fiance of x, deceased of x"], 
+      ["隼", "future brother in law of x"]
+    ],
+    "李德木": [
+      ["如娅", "extramarital affair with x, deceased of x"], 
+      ["李良松", "sibling of x"], 
+      ["李高柏", "sibling of x"]
+    ],
+    "李良松": [
+      ["李德木", "sibling of x, deceased of x"], 
+      ["李高柏", "sibling of x"]
+    ],
+    "李高柏": [
+      ["如娅", "friend of x"], 
+      ["李德木", "sibling of x, deceased of x"], 
+      ["李良松", "sibling of x"]
+    ],
+    "郑函贞": [
+      ["忱纱", "acquaintance of x"]
+    ],
+    "忱纱": [
+      ["如娅", "acquaintance of x"], 
+      ["甘玛", "acquaintance of x"], 
+      ["郑函贞", "acquaintance of x"]
+    ],
+    "宜伯": [
+      ["如娅", "servant of x"], 
+      ["鬼印", "helper of x"]
+    ],
+    "大嬷嬷": [
+      ["如娅", "acquaintance of x"]
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "张文远(二副)": [
+      ["刘奇(大副)", "subordinate of x, dislike of x"], 
+      ["洪子廉(船长)", "superior of x"], 
+      ["韩亦暮(乘务)", "acquaintance of x"], 
+      ["修仁杰(经理)", "fiancee of x"], 
+      ["林若彤 (歌手)", "student of x"]
+    ],
+    "刘奇(大副)": [
+      ["张文远(二副)", "superior of x"], 
+      ["洪子廉(船长)", "adversary of x, dislike of x"], 
+      ["修仁杰(经理)", "employee of x"], 
+      ["林若彤 (歌手)", "extramarital affair with x"], 
+      ["杨晨林(前船长)", "mentor of x"]
+    ],
+    "洪子廉(船长)": [
+      ["张文远(二副)", "subordinate of x"], 
+      ["刘奇(大副)", "superior of x, mentor of x"], 
+      ["修仁杰(经理)", "employer of x, employee of x"], 
+      ["林若彤 (歌手)", "admirer of x, informant of x"], 
+      ["杨晨林(前船长)", "admired by x"]
+    ],
+    "韩亦暮(乘务)": [
+      ["张文远(二副)", "acquaintance of x"], 
+      ["修仁杰(经理)", "acquaintance of x"], 
+      ["林若彤 (歌手)", "helped by x"], 
+      ["杨晨林(前船长)", "mentor of x"]
+    ],
+    "修仁杰(经理)": [
+      ["张文远(二副)", "friend of x"], 
+      ["刘奇(大副)", "employer of x"], 
+      ["洪子廉(船长)", "employee of x, employer of x"], 
+      ["韩亦暮(乘务)", "acquaintance of x"], 
+      ["杨晨林(前船长)", "mentor of x"]
+    ],
+    "林若彤 (歌手)": [
+      ["张文远(二副)", "employee of x"], 
+      ["刘奇(大副)", "extramarital affair with x"], 
+      ["洪子廉(船长)", "informant of x"], 
+      ["韩亦暮(乘务)", "helper of x"]
+    ],
+    "杨晨林(前船长)": [
+      ["洪子廉(船长)", "possibly family of x, admirer of x"]
+    ]
+}

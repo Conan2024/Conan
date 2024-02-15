@@ -1,0 +1,44 @@
+{
+    "林阳": [
+      ["林惟仁", "adoptive father of x, victim of x, employer of x"], 
+      ["林夕", "adoptive sister of x"], 
+      ["顾晴", "girlfriend of x"], 
+      ["沈城", "informant of x, employee of x"], 
+      ["苏阳", "admirer of x, suspect of x, adversary of x"], 
+      ["顾宇", "acquaintance of x"]
+    ],
+    "林惟仁": [
+      ["林阳", "adoptive son of x, perpetrator of x"], 
+      ["林夕", "biological daughter of x"], 
+      ["沈城", "employee of x"], 
+      ["苏阳", "disliked by x, adversary of x"]
+    ],
+    "林夕": [
+      ["林阳", "adoptive brother of x, deceiver of x, deceived by x"], 
+      ["林惟仁", "father of x"], 
+      ["顾晴", "friend of x"], 
+      ["苏阳", "fiance of x"], 
+      ["沈城", "acquaintance of x"]
+    ],
+    "顾晴": [
+      ["林阳", "boyfriend of x, suspected by x"], 
+      ["林夕", "friend of x"], 
+      ["苏阳", "secret crush of x"], 
+      ["顾宇", "sibling of x"]
+    ],
+    "沈城": [
+      ["林阳", "informant of x"], 
+      ["林夕", "acquaintance of x"], 
+      ["林惟仁", "employer of x"]
+    ],
+    "苏阳": [
+      ["林阳", "rival in love of x, victim of x"], 
+      ["林夕", "fiance of x"], 
+      ["顾晴", "admired by x"], 
+      ["林惟仁", "adversary of x"]
+    ],
+    "顾宇": [
+      ["顾晴", "sibling of x"], 
+      ["林夕", "ex girlfriend of x"]
+    ]
+}

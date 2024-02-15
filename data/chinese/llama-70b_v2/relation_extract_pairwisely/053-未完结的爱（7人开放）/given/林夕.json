@@ -1,0 +1,56 @@
+{
+    "林夕": [
+      ["林惟仁", "father of x, doctor of x, employer of x"], 
+      ["林阳", "brother of x, son of x 林惟仁, sibling of x, child of x"], 
+      ["沈城", "acquaintance of x, friend of x"], 
+      ["苏阳", "恋人 of x, 朋友 of x, familiar stranger of x, 照顾者 of x"], 
+      ["顾宇", "boyfriend/girlfriend of x, stranger of x, friend of x"], 
+      ["顾晴", "friend of x, classmate of x, caretaker of x, lover of x"]
+    ],
+    "林惟仁": [
+      ["林夕", "daughter of x, patient of x, subordinate of x"], 
+      ["林阳", "father son of x, master apprentice of x"], 
+      ["沈城", "employer of x, loyal servant of x"], 
+      ["苏阳", "father son relationship of x, mentor mentee relationship of x, employer employee relationship of x"], 
+      ["顾宇", "father son relationship of x, mentor mentee relationship of x, employer employee relationship of x"], 
+      ["顾晴", "father daughter of x, doctor patient of x"]
+    ],
+    "林阳": [
+      ["林夕", "sister of x, sibling of x, child of x"], 
+      ["林惟仁", "brother in law of x, colleague of x"], 
+      ["沈城", "brother in law of x, co worker of x, friend of x"], 
+      ["苏阳", "brother in law of x, husband of x 顾晴"], 
+      ["顾宇", "boyfriend of x, ex boyfriend"], 
+      ["顾晴", "boyfriend of x, girlfriend of x"]
+    ],
+    "沈城": [
+      ["林夕", "employer of x, acquaintance of x"], 
+      ["林惟仁", "employer of x, loyal servant of x"], 
+      ["林阳", "brother in law of x, co worker of x, friend of x"], 
+      ["苏阳", "superior of x, employer of x"], 
+      ["顾晴", "employee of x, servant of x"]
+    ],
+    "苏阳": [
+      ["林夕", "恋人 of x, 朋友 of x, familiar stranger of x, 被照顾者 of x"], 
+      ["林惟仁", "father son relationship of x, mentor mentee relationship of x, subordinate superior relationship of x"], 
+      ["林阳", "brother in law of x, boyfriend of x 林夕"], 
+      ["顾宇", "关系1 of x, 关系2 of x"]
+    ],
+    "顾宇": [
+      ["林夕", "boyfriend/girlfriend of x, stranger of x, friend of x"], 
+      ["林惟仁", "son of x, mentee of x, employee of x"], 
+      ["林阳", "girlfriend of x, ex girlfriend"], 
+      ["苏阳", "关系1 of x, 关系2 of x"], 
+      ["顾晴", "close friend of x, confidant of x, and former girlfriend of x"]
+    ],
+    "顾晴": [
+      ["林夕", "friend of x, classmate of x, caretaker of x, lover of x"], 
+      ["林惟仁", "father daughter of x, doctor patient of x"], 
+      ["林阳", "boyfriend of x, girlfriend of x"], 
+      ["沈城", "employer of x, master of x"], 
+      ["顾宇", "close friend of x, confidant of x, and former boyfriend of x"]
+    ],
+    "苏陽": [
+      ["沈城", "subordinate of x, boyfriend of x"]
+    ]
+}

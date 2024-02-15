@@ -1,0 +1,34 @@
+{
+    "胡调研": [
+        [
+            "王村长",
+            "neighbour of x, quest companion of x"
+        ],
+        [
+            "李警察",
+            "informant of x, acquaintance of x"
+        ],
+        [
+            "赵慈善",
+            "attempted perpetrator of x, victim of x, adversary of x"
+        ]
+    ],
+    "王村长": [
+        [
+            "胡调研",
+            "neighbour of x, quest companion of x"
+        ]
+    ],
+    "李警察": [
+        [
+            "胡调研",
+            "informant of x, acquaintance of x"
+        ]
+    ],
+    "赵慈善": [
+        [
+            "胡调研",
+            "attempted perpetrator of x, victim of x, adversary of x"
+        ]
+    ]
+}

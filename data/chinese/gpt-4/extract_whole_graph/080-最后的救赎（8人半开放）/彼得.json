@@ -1,0 +1,92 @@
+{
+    "彼得": [
+        [
+            "李老师",
+            "perpetrator of x, victim of x"
+        ],
+        [
+            "朱莉",
+            "wife of x"
+        ],
+        [
+            "丹尼尔",
+            "adversary of x, schoolmate of x"
+        ],
+        [
+            "山姆",
+            "acquaintance of x, manipulator of x, manipulated by x"
+        ]
+    ],
+    "李老师": [
+        [
+            "彼得",
+            "victim of x, disliked by x"
+        ],
+        [
+            "朱莉",
+            "acquaintance of x"
+        ],
+        [
+            "丹尼尔",
+            "acquaintance of x"
+        ],
+        [
+            "山姆",
+            "stranger to x"
+        ]
+    ],
+    "朱莉": [
+        [
+            "彼得",
+            "husband of x"
+        ],
+        [
+            "李老师",
+            "stranger to x"
+        ],
+        [
+            "丹尼尔",
+            "acquaintance of x, enemy of x"
+        ],
+        [
+            "山姆",
+            "stranger to x"
+        ]
+    ],
+    "丹尼尔": [
+        [
+            "彼得",
+            "adversary of x, schoolmate of x"
+        ],
+        [
+            "李老师",
+            "acquaintance of x"
+        ],
+        [
+            "朱莉",
+            "acquaintance of x, enemy of x"
+        ],
+        [
+            "山姆",
+            "stranger to x"
+        ]
+    ],
+    "山姆": [
+        [
+            "彼得",
+            "acquaintance of x, manipulated by x"
+        ],
+        [
+            "李老师",
+            "stranger to x"
+        ],
+        [
+            "朱莉",
+            "stranger to x"
+        ],
+        [
+            "丹尼尔",
+            "stranger to x"
+        ]
+    ]
+}

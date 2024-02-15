@@ -1,0 +1,54 @@
+{
+    "赵秋儿": [
+      ["赵洛意", "servant of x, mentored by x, cohabitant with x, younger counterpart of x"], 
+      ["赵万雷", "servant of x, cared for by x, possible romantic interest of x, potential fiancée of x"], 
+      ["冯双骥", "subordinate of x, helped by x, informer of x, frightened by x"], 
+      ["冯竹", "acquaintance of x, disliked by x"], 
+      ["齐岳", "acquaintance of x"]
+    ],
+    "赵洛意": [
+      ["赵秋儿", "master of x, mentor of x, elder counterpart of x"], 
+      ["赵万雷", "child of x, daughter of x, biological daughter of x"], 
+      ["赵卫", "sibling of x"], 
+      ["冯双骥", "helper of x, acquaintance of x"], 
+      ["冯竹", "acquaintance of x, daughter of x's subordinate"], 
+      ["齐岳", "acquaintance of x, employer of x"]
+    ],
+    "赵万雷": [
+      ["赵秋儿", "master of x, cares for x, possible romantic interest in x"], 
+      ["赵洛意", "father of x, parent of x, biological father of x"], 
+      ["赵卫", "father of x"], 
+      ["冯双骥", "friend of x, superior of x"], 
+      ["冯竹", "father of x"], 
+      ["齐岳", "employer of x, superior of x"]
+    ],
+    "冯双骥": [
+      ["赵秋儿", "superior of x, helper of x, information receiver from x"], 
+      ["赵洛意", "servant of x, information receiver from x"], 
+      ["赵万雷", "friend of x, subordinate of x"], 
+      ["赵卫", "superior of x"], 
+      ["冯竹", "father of x"], 
+      ["齐岳", "colleague of x"]
+    ],
+    "冯竹": [
+      ["赵秋儿", "acquaintance of x, disliker of x"], 
+      ["赵洛意", "acquaintance of x, daughter of x's superior"], 
+      ["赵万雷", "child of x"], 
+      ["赵卫", "acquaintance of x, daughter of x's subordinate"], 
+      ["冯双骥", "child of x"], 
+      ["齐岳", "acquaintance of x, employee of x"]
+    ],
+    "齐岳": [
+      ["赵秋儿", "acquaintance of x"], 
+      ["赵洛意", "acquaintance of x, employee of x"], 
+      ["赵万雷", "employee of x, subordinate of x"], 
+      ["冯双骥", "colleague of x"], 
+      ["冯竹", "acquaintance of x, superior of x"]
+    ],
+    "赵卫": [
+      ["赵洛意", "sibling of x"], 
+      ["赵万雷", "child of x"], 
+      ["冯双骥", "acquaintance of x"], 
+      ["冯竹", "acquaintance of x, son of x's superior"]
+    ]
+}

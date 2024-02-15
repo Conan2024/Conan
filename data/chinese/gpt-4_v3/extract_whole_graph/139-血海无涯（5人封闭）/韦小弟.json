@@ -1,0 +1,138 @@
+{
+    "韦小弟": [
+        [
+            "父亲",
+            "child of x"
+        ],
+        [
+            "母亲",
+            "child of x"
+        ],
+        [
+            "秦专家",
+            "adversary of x"
+        ],
+        [
+            "秦老大",
+            "enemy of x"
+        ],
+        [
+            "秦老大的一个跟班小弟",
+            "acquaintance of x"
+        ],
+        [
+            "庄清纯",
+            "classmate of x, admirer of x"
+        ],
+        [
+            "贾美丽",
+            "classmate of x"
+        ],
+        [
+            "郑友好",
+            "classmate of x, helped by x"
+        ],
+        [
+            "萧体育",
+            "student of x"
+        ],
+        [
+            "薛媚娘",
+            "student of x"
+        ]
+    ],
+    "父亲": [
+        [
+            "韦小弟",
+            "father of x"
+        ],
+        [
+            "母亲",
+            "husband of x"
+        ]
+    ],
+    "母亲": [
+        [
+            "韦小弟",
+            "mother of x"
+        ],
+        [
+            "父亲",
+            "wife of x"
+        ]
+    ],
+    "秦专家": [
+        [
+            "韦小弟",
+            "victim of x"
+        ],
+        [
+            "秦老大",
+            "father of x"
+        ]
+    ],
+    "秦老大": [
+        [
+            "韦小弟",
+            "classmate of x, deceived by x"
+        ],
+        [
+            "秦专家",
+            "son of x"
+        ]
+    ],
+    "庄清纯": [
+        [
+            "韦小弟",
+            "classmate of x"
+        ],
+        [
+            "贾美丽",
+            "friend of x"
+        ]
+    ],
+    "贾美丽": [
+        [
+            "韦小弟",
+            "classmate of x"
+        ],
+        [
+            "庄清纯",
+            "friend of x"
+        ],
+        [
+            "秦老大",
+            "acquaintance of x"
+        ]
+    ],
+    "郑友好": [
+        [
+            "韦小弟",
+            "classmate of x, helper of x"
+        ],
+        [
+            "秦老大",
+            "subordinate of x"
+        ]
+    ],
+    "萧体育": [
+        [
+            "韦小弟",
+            "teacher of x"
+        ],
+        [
+            "薛媚娘",
+            "romantic relationships with x"
+        ]
+    ],
+    "薛媚娘": [
+        [
+            "韦小弟",
+            "teacher of x"
+        ],
+        [
+            "萧体育",
+            "romantic relationships with x"
+        ]
+    ]
+}

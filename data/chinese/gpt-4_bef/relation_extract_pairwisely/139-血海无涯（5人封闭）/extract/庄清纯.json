@@ -1,0 +1,152 @@
+{
+    "庄清纯": [
+      ["庄清纯的父亲", "biological father of x"], 
+      ["庄清纯的母亲", "biological mother of x, victim of x"], 
+      ["秦专家（继父）", "step father of x, disliked by x, suspected by x, enemy of x, saviour of x, perpetrator of x"], 
+      ["秦老大（异母哥哥）", "dislike of x, victim of x, murderer of x"], 
+      ["郑友好", "acquaintance of x, disliked by x"], 
+      ["韦小弟", "dislike of x, classmate of x"], 
+      ["贾美丽（女友）", "friend of x, victim of x, murderer of x"], 
+      ["萧体育（体育老师）", "victim of x, admirer of x, secret lover of x, girlfriend of x"], 
+      ["薛媚娘（音乐老师）", "student of x, romantic relationships with x, rival in love of x"], 
+      ["主治医师", "suspect of x"], 
+      ["护士", "suspect of x, victim of x"], 
+      ["真相大白私家侦探事务所", "customer of x, information receiver from x"]
+    ],
+    "庄清纯的父亲": [
+      ["庄清纯", "child of x"], 
+      ["庄清纯的母亲", "ex husband of x"], 
+      ["秦老大（异母哥哥）", "father of x"], 
+      ["郑友好", "acquaintance of x"], 
+      ["贾美丽（女友）", "perpetrator of x, victim of x"], 
+      ["主治医师", "suspected by x"], 
+      ["护士", "patient of x"], 
+      ["真相大白私家侦探事务所", "customer of x, information receiver from x"]
+    ],
+    "庄清纯的母亲": [
+      ["庄清纯", "biological daughter of x"], 
+      ["庄清纯的父亲", "ex wife of x"], 
+      ["秦专家（继父）", "ex wife of x, victim of x"], 
+      ["郑友好", "acquaintance of x"], 
+      ["贾美丽（女友）", "extramarital affair with x, victim of x"], 
+      ["薛媚娘（音乐老师）", "mother of x"], 
+      ["主治医师", "patient of x"], 
+      ["护士", "patient of x"], 
+      ["真相大白私家侦探事务所", "customer of x"]
+    ],
+    "秦专家（继父）": [
+      ["庄清纯", "step daughter of x, suspect of x, dislike of x"], 
+      ["庄清纯的母亲", "ex husband of x, perpetrator of x"], 
+      ["秦老大（异母哥哥）", "father of x"], 
+      ["郑友好", "acquaintance of x, friend of x"], 
+      ["韦小弟", "disliked by x"], 
+      ["贾美丽（女友）", "extramarital affair with x, manipulator of x"], 
+      ["萧体育（体育老师）", "suspect of x"], 
+      ["薛媚娘（音乐老师）", "extramarital affair with x, helped by x"], 
+      ["主治医师", "manipulator of x"], 
+      ["护士", "suspect of x, information receiver from x"], 
+      ["真相大白私家侦探事务所", "customer of x"]
+    ],
+    "秦老大（异母哥哥）": [
+      ["庄清纯", "disliked by x, victim of x"], 
+      ["庄清纯的父亲", "child of x"], 
+      ["庄清纯的母亲", "step son of x"], 
+      ["秦专家（继父）", "child of x"], 
+      ["郑友好", "friend of x, classmate of x"], 
+      ["韦小弟", "friend of x, schoolmate of x, classmate of x, admirer of x"], 
+      ["贾美丽（女友）", "half brother of x, romantic relationships with x"], 
+      ["薛媚娘（音乐老师）", "student of x"], 
+      ["主治医师", "patient of x"], 
+      ["护士", "step brother of x, half brother of x"]
+    ],
+    "郑友好": [
+      ["庄清纯", "acquaintance of x, dislike of x"], 
+      ["庄清纯的父亲", "acquaintance of x"], 
+      ["庄清纯的母亲", "acquaintance of x"], 
+      ["秦专家（继父）", "acquaintance of x, friend of x"], 
+      ["秦老大（异母哥哥）", "friend of x, classmate of x"], 
+      ["韦小弟", "friend of x"], 
+      ["贾美丽（女友）", "extramarital affair with x"], 
+      ["萧体育（体育老师）", "acquaintance of x, colleague of x"], 
+      ["薛媚娘（音乐老师）", "acquaintance of x"], 
+      ["主治医师", "acquaintance of x"], 
+      ["护士", "acquaintance of x"], 
+      ["真相大白私家侦探事务所", "informant of x"]
+    ],
+    "韦小弟": [
+      ["庄清纯", "acquaintance of x, admirer of x"], 
+      ["秦专家（继父）", "admirer of x"], 
+      ["秦老大（异母哥哥）", "friend of x, schoolmate of x, classmate of x, admired by x"], 
+      ["郑友好", "friend of x"], 
+      ["贾美丽（女友）", "admirer of x, acquaintance of x"], 
+      ["萧体育（体育老师）", "acquaintance of x, colleague of x"], 
+      ["薛媚娘（音乐老师）", "acquaintance of x"], 
+      ["真相大白私家侦探事务所", "customer of x"]
+    ],
+    "贾美丽（女友）": [
+      ["庄清纯", "friend of x, victim of x"], 
+      ["庄清纯的父亲", "victim of x, perpetrator of x"], 
+      ["庄清纯的母亲", "lover of x, murderer of x"], 
+      ["秦专家（继父）", "lover of x, manipulated by x"], 
+      ["秦老大（异母哥哥）", "romantic relationships with x, half brother of x"], 
+      ["郑友好", "victim of x"], 
+      ["韦小弟", "admired by x, acquaintance of x"], 
+      ["萧体育（体育老师）", "victim of x, ex romantic relationships with x, disliked by x"], 
+      ["薛媚娘（音乐老师）", "adversary of x, attempted perpetrator of x"], 
+      ["护士", "acquaintance of x"]
+    ],
+    "萧体育（体育老师）": [
+      ["庄清纯", "perpetrator of x, admirer of x, boyfriend of x"], 
+      ["秦专家（继父）", "suspected by x"], 
+      ["郑友好", "acquaintance of x, colleague of x"], 
+      ["韦小弟", "acquaintance of x, colleague of x"], 
+      ["贾美丽（女友）", "helped by x, ex romantic relationships with x"], 
+      ["薛媚娘（音乐老师）", "romantic relationships with x, boyfriend of x"], 
+      ["护士", "acquaintance of x"], 
+      ["真相大白私家侦探事务所", "customer of x"]
+    ],
+    "薛媚娘（音乐老师）": [
+      ["庄清纯", "teacher of x, victim of x"], 
+      ["庄清纯的母亲", "teacher of x"], 
+      ["秦专家（继父）", "extramarital affair with x, helper of x"], 
+      ["秦老大（异母哥哥）", "teacher of x"], 
+      ["郑友好", "teacher of x"], 
+      ["韦小弟", "teacher of x"], 
+      ["贾美丽（女友）", "victim of x"], 
+      ["萧体育（体育老师）", "romantic relationships with x, girlfriend of x"]
+    ],
+    "主治医师": [
+      ["庄清纯", "suspected by x, doctor of x"], 
+      ["庄清纯的父亲", "suspect of x"], 
+      ["庄清纯的母亲", "doctor of x"], 
+      ["秦专家（继父）", "manipulated by x"], 
+      ["秦老大（异母哥哥）", "doctor of x"], 
+      ["郑友好", "acquaintance of x"], 
+      ["护士", "colleague of x, superior of x"], 
+      ["真相大白私家侦探事务所", "deceiver of x"]
+    ],
+    "护士": [
+      ["庄清纯", "suspect to x, information receiver from x"], 
+      ["庄清纯的父亲", "service provider of x"], 
+      ["庄清纯的母亲", "service provider of x"], 
+      ["秦专家（继父）", "suspected by x"], 
+      ["秦老大（异母哥哥）", "relative of x"], 
+      ["郑友好", "acquaintance of x"], 
+      ["贾美丽（女友）", "acquaintance of x"], 
+      ["萧体育（体育老师）", "acquaintance of x"], 
+      ["主治医师", "colleague of x, subordinate of x"], 
+      ["真相大白私家侦探事务所", "information receiver from x, victim of x"]
+    ],
+    "真相大白私家侦探事务所": [
+      ["庄清纯", "service provider of x, informant of x"], 
+      ["庄清纯的父亲", "service provider of x"], 
+      ["庄清纯的母亲", "service provider of x"], 
+      ["秦专家（继父）", "service provider of x"], 
+      ["郑友好", "information receiver from x"], 
+      ["韦小弟", "service provider of x"], 
+      ["贾美丽（女友）", "service provider of x"], 
+      ["萧体育（体育老师）", "service provider of x"], 
+      ["主治医师", "information receiver from x, deceived by x"], 
+      ["护士", "informant of x"]
+    ]
+}

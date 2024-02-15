@@ -1,0 +1,134 @@
+{
+    "赵三": [
+        [
+            "赵中正",
+            "adoptive brother of x, friend of x, subordinate of x, helper of x"
+        ],
+        [
+            "赵中杨",
+            "adoptive brother of x, attempted murderer of x, enemy of x"
+        ],
+        [
+            "张伟",
+            "acquaintance of x, crime partner of x"
+        ],
+        [
+            "马老板",
+            "business partner of x, customer of x"
+        ],
+        [
+            "陈媚儿",
+            "stranger to x"
+        ]
+    ],
+    "赵中正": [
+        [
+            "赵三",
+            "adoptive brother of x, friend of x, superior of x"
+        ],
+        [
+            "赵中杨",
+            "biological brother of x, rival of x, jealous of x"
+        ],
+        [
+            "张伟",
+            "subordinate of x, informant of x"
+        ],
+        [
+            "马老板",
+            "acquaintance of x"
+        ],
+        [
+            "陈媚儿",
+            "stranger to x"
+        ]
+    ],
+    "赵中杨": [
+        [
+            "赵三",
+            "adoptive brother of x, victim of x"
+        ],
+        [
+            "赵中正",
+            "biological brother of x, adversary of x"
+        ],
+        [
+            "张伟",
+            "subordinate of x, information receiver from x"
+        ],
+        [
+            "马老板",
+            "acquaintance of x"
+        ],
+        [
+            "陈媚儿",
+            "romantic relationships with x"
+        ]
+    ],
+    "张伟": [
+        [
+            "赵三",
+            "acquaintance of x, crime partner of x"
+        ],
+        [
+            "赵中正",
+            "superior of x, informant to x"
+        ],
+        [
+            "赵中杨",
+            "superior of x, suspect of x"
+        ],
+        [
+            "马老板",
+            "stranger to x"
+        ],
+        [
+            "陈媚儿",
+            "stranger to x"
+        ]
+    ],
+    "马老板": [
+        [
+            "赵三",
+            "business partner of x, seller of x"
+        ],
+        [
+            "赵中正",
+            "acquaintance of x"
+        ],
+        [
+            "赵中杨",
+            "acquaintance of x"
+        ],
+        [
+            "张伟",
+            "stranger to x"
+        ],
+        [
+            "陈媚儿",
+            "stranger to x"
+        ]
+    ],
+    "陈媚儿": [
+        [
+            "赵三",
+            "stranger to x"
+        ],
+        [
+            "赵中正",
+            "stranger to x"
+        ],
+        [
+            "赵中杨",
+            "romantic relationships with x"
+        ],
+        [
+            "张伟",
+            "stranger to x"
+        ],
+        [
+            "马老板",
+            "stranger to x"
+        ]
+    ]
+}

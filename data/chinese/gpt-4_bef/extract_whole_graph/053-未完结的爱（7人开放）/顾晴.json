@@ -1,0 +1,33 @@
+{
+    "顾晴": [
+      ["顾明和", "child of x"], 
+      ["顾宇", "sibling of x"], 
+      ["林夕", "friend of x, victim of x"], 
+      ["苏阳", "extramarital affair with x, admired by x, dislike of x"], 
+      ["林彤", "adversary of x, jealous of x"], 
+      ["林惟仁", "acquaintance of x"], 
+      ["林阳", "romantic relationships with x, manipulated by x"]
+    ],
+    "顾宇": [
+      ["顾晴", "sibling of x"], 
+      ["顾明和", "child of x"], 
+      ["林夕", "ex romantic relationships with x"]
+    ],
+    "林夕": [
+      ["顾晴", "friend of x, attempted perpetrator of x"], 
+      ["林惟仁", "child of x"], 
+      ["苏阳", "romantic relationships with x"], 
+      ["顾宇", "ex romantic relationships with x"]
+    ],
+    "苏阳": [
+      ["顾晴", "admired by x, victim of x"], 
+      ["林夕", "romantic relationships with x"]
+    ],
+    "林彤": [
+      ["顾晴", "adversary of x, jealous by x"]
+    ],
+    "林阳": [
+      ["顾晴", "romantic relationships with x"], 
+      ["林夕", "sibling of x"]
+    ]
+}

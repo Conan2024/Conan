@@ -1,0 +1,72 @@
+{
+    "李保安": [
+        [
+            "田助理",
+            "Boyfriend",
+            "Cheating victim"
+        ],
+        [
+            "秦鸥",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "贾教授",
+            "boyfriend",
+            "assistant",
+            "perpetrator",
+            "enemy"
+        ]
+    ],
+    "田助理": [
+        [
+            "李保安",
+            "Girlfriend",
+            "Cheater"
+        ],
+        [
+            "秦鸥",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "贾教授",
+            "boyfriend",
+            "suspicious"
+        ]
+    ],
+    "秦鸥": [
+        [
+            "李保安",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "田助理",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "贾教授",
+            "Supervisor-Subordinate",
+            "Love Rival",
+            "Bully-Victim"
+        ]
+    ],
+    "贾教授": [
+        [
+            "李保安",
+            "superior",
+            "mentor",
+            "victim",
+            "adversary"
+        ],
+        [
+            "田助理",
+            "superior",
+            "suspicious"
+        ],
+        [
+            "秦鸥",
+            "Supervisor-Subordinate",
+            "Love Rival",
+            "Bully-Victim"
+        ]
+    ]
+}

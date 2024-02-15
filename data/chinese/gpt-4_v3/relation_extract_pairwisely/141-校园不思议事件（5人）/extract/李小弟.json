@@ -1,0 +1,176 @@
+{
+    "李小弟": [
+        [
+            "李大哥",
+            "victim of x, cousin of x, cousin of x"
+        ],
+        [
+            "张恶霸",
+            "quest companion of x, deceiver of x, enemy of x, suspected by x, manipulator of x"
+        ],
+        [
+            "王学习",
+            "acquaintance of x, quest companion of x, information receiver from x"
+        ],
+        [
+            "赵帅哥",
+            "acquaintance of x, quest companion of x, guest of x"
+        ],
+        [
+            "林校花",
+            "suspected by x, adversary of x, manipulator of x"
+        ],
+        [
+            "郝闺蜜",
+            "acquaintance of x, quest companion of x, suspect to x"
+        ]
+    ],
+    "李大哥": [
+        [
+            "李小弟",
+            "cousin of x"
+        ],
+        [
+            "张恶霸",
+            "victim of x"
+        ],
+        [
+            "王学习",
+            "acquaintance of x, crime partner of x, schoolmate of x"
+        ],
+        [
+            "林校花",
+            "cousin of x, 未婚妻的前男友 of x"
+        ],
+        [
+            "郝闺蜜",
+            "stranger to x"
+        ]
+    ],
+    "张恶霸": [
+        [
+            "李小弟",
+            "victim of x"
+        ],
+        [
+            "李大哥",
+            "perpetrator of x"
+        ],
+        [
+            "王学习",
+            "acquaintance of x, quest companion of x, schoolmate of x"
+        ],
+        [
+            "赵帅哥",
+            "friend of x, quest companion of x"
+        ],
+        [
+            "林校花",
+            "fiance of x"
+        ],
+        [
+            "郝闺蜜",
+            "admirer of x, secret lover of x"
+        ]
+    ],
+    "王学习": [
+        [
+            "李小弟",
+            "acquaintance of x, quest companion of x, informant of x"
+        ],
+        [
+            "李大哥",
+            "acquaintance of x, quest companion of x, information receiver from x"
+        ],
+        [
+            "张恶霸",
+            "acquaintance of x, quest companion of x, schoolmate of x"
+        ],
+        [
+            "赵帅哥",
+            "acquaintance of x, quest companion of x"
+        ],
+        [
+            "林校花",
+            "acquaintance of x"
+        ],
+        [
+            "郝闺蜜",
+            "acquaintance of x, quest companion of x"
+        ]
+    ],
+    "赵帅哥": [
+        [
+            "李小弟",
+            "acquaintance of x, quest companion of x, host of x"
+        ],
+        [
+            "张恶霸",
+            "friend of x, quest companion of x"
+        ],
+        [
+            "王学习",
+            "acquaintance of x, quest companion of x"
+        ],
+        [
+            "林校花",
+            "friend of x, admirer of x"
+        ],
+        [
+            "郝闺蜜",
+            "acquaintance of x, possibly family of x"
+        ]
+    ],
+    "林校花": [
+        [
+            "李小弟",
+            "subject of investigation for x"
+        ],
+        [
+            "李大哥",
+            "cousin of x, 未婚妻的前男友 of x"
+        ],
+        [
+            "张恶霸",
+            "fiancee of x"
+        ],
+        [
+            "王学习",
+            "acquaintance of x"
+        ],
+        [
+            "赵帅哥",
+            "fiancee of x"
+        ],
+        [
+            "郝闺蜜",
+            "friend of x"
+        ]
+    ],
+    "郝闺蜜": [
+        [
+            "李小弟",
+            "acquaintance of x, quest companion of x, suspect of x"
+        ],
+        [
+            "李大哥",
+            "extramarital affair with x"
+        ],
+        [
+            "张恶霸",
+            "admired by x"
+        ],
+        [
+            "王学习",
+            "acquaintance of x, quest companion of x"
+        ],
+        [
+            "赵帅哥",
+            "acquaintance of x"
+        ],
+        [
+            "林校花",
+            "friend of x"
+        ]
+    ]
+}

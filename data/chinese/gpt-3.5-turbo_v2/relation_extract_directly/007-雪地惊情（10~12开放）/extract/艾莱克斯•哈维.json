@@ -1,0 +1,31 @@
+{
+    "艾莱克斯•哈维": [
+      ["玛丽娜•哈里森", "friend of x"], 
+      ["艾米•摩根", "friend of x, debtor of x, information receiver from x, helper of x"], 
+      ["约翰•摩根", "acquaintance of x"], 
+      ["麦克斯•派克", "adversary of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["艾莱克斯•哈维", "friend of x"], 
+      ["杰奎琳•佩里", "sibling of x"], 
+      ["戴维斯•佩里", "lover of x"], 
+      ["哈罗德•哈里森", "spouse of x"]
+    ],
+    "杰奎琳•佩里": [
+      ["玛丽娜•哈里森", "sibling of x"], 
+      ["戴维斯•佩里", "child of x"]
+    ],
+    "哈罗德•哈里森": [
+      ["玛丽娜•哈里森", "spouse of x"]
+    ],
+    "戴维斯•佩里": [
+      ["玛丽娜•哈里森", "lover of x"], 
+      ["杰奎琳•佩里", "child of x"]
+    ],
+    "艾米•摩根": [
+      ["艾莱克斯•哈维", "friend of x, creditor of x, information receiver from x, information receiver from x, helper of x"]
+    ],
+    "麦克斯•派克": [
+      ["艾莱克斯•哈维", "adversary of x"]
+    ]
+}

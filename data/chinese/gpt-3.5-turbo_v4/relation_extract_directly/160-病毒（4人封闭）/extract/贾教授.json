@@ -1,0 +1,23 @@
+{
+    "贾教授": [
+      ["田助理", "employee of x"], 
+      ["秦鸥", "girlfriend of x"], 
+      ["学生打扮的女生", "romantic relationships with x"]
+    ],
+    "田助理": [
+      ["贾教授", "superior of x"], 
+      ["学生打扮的女生", "romantic relationships with x"], 
+      ["秦鸥", "girlfriend of x"]
+    ],
+    "学生打扮的女生": [
+      ["贾教授", "romantic relationships with x"], 
+      ["田助理", "romantic relationships with x"]
+    ],
+    "田助理的女友秦鸥": [
+      ["贾教授", "girlfriend of x"], 
+      ["田助理", "girlfriend of x"]
+    ],
+    "老板": [
+      ["贾教授", "colleague of x"]
+    ]
+}

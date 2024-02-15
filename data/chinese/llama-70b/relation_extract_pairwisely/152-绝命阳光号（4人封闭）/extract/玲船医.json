@@ -1,0 +1,130 @@
+{
+    "玲船医": [
+        [
+            "杨老板",
+            "employer-employee relationship",
+            "informant-information receiver relationship",
+            "co-conspirator relationship"
+        ],
+        [
+            "张大副",
+            "same colleagues",
+            "friends",
+            "potential enemies",
+            "helpful acquaintance"
+        ],
+        [
+            "王船工",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5, relationship 6"
+        ],
+        [
+            "王小工",
+            "恋人",
+            "妻子",
+            "船医",
+            "监视对象",
+            "嫌疑人"
+        ]
+    ],
+    "杨老板": [
+        [
+            "玲船医",
+            "employer-employee relationship",
+            "informant-information receiver relationship",
+            "co-conspirator relationship"
+        ],
+        [
+            "张大副",
+            "Employer of X",
+            "Mentor of X",
+            "Secretly in love with X"
+        ],
+        [
+            "王船工",
+            "Employer of X",
+            "Manipulator of X",
+            "Secretly in love with X"
+        ],
+        [
+            "王小工",
+            "Employer of X",
+            "Superior of X",
+            "Master of X",
+            "Mentor of X"
+        ]
+    ],
+    "张大副": [
+        [
+            "玲船医",
+            "same colleagues",
+            "friends",
+            "potential enemies",
+            "helpful acquaintance"
+        ],
+        [
+            "杨老板",
+            "Employee of X",
+            "Protege of X",
+            "Rival of X"
+        ],
+        [
+            "王船工",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "王小工",
+            "employer of Wang Xiaogang",
+            " acquaintance of Wang Xiaogang",
+            "bully of Wang Xiaogang"
+        ]
+    ],
+    "王船工": [
+        [
+            "玲船医",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5, relationship 6"
+        ],
+        [
+            "杨老板",
+            "Employee of X",
+            "Manipulated by X",
+            "Secretly in love with X"
+        ],
+        [
+            "张大副",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "王小工",
+            " Husband of X",
+            "Wife of X"
+        ]
+    ],
+    "王小工": [
+        [
+            "玲船医",
+            "恋人",
+            "妻子",
+            "船医",
+            "监视对象",
+            "嫌疑人"
+        ],
+        [
+            "杨老板",
+            "Employee of X",
+            "Subordinate of X",
+            "Servant of X",
+            "Apprentice of X"
+        ],
+        [
+            "张大副",
+            "employee of Zhang Daofu",
+            "acquaintance of Zhang Daofu",
+            "victim of Zhang Daofu"
+        ],
+        [
+            "王船工",
+            " Husband of X",
+            "Wife of X"
+        ]
+    ]
+}

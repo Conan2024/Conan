@@ -1,0 +1,88 @@
+{
+    "李小弟": [
+        [
+            "李大哥",
+            "older brother of x"
+        ],
+        [
+            "张恶霸",
+            "adversary of x, suspect to x"
+        ],
+        [
+            "王学习",
+            "acquaintance of x"
+        ],
+        [
+            "郝闺蜜",
+            "acquaintance of x"
+        ]
+    ],
+    "李大哥": [
+        [
+            "李小弟",
+            "younger brother of x"
+        ],
+        [
+            "张恶霸",
+            "victim of x"
+        ]
+    ],
+    "张恶霸": [
+        [
+            "李小弟",
+            "adversary of x, suspected by x"
+        ],
+        [
+            "李大哥",
+            "perpetrator of x"
+        ],
+        [
+            "赵帅哥",
+            "friend of x"
+        ],
+        [
+            "林校花",
+            "fiance of x"
+        ],
+        [
+            "郝闺蜜",
+            "romantic relationships with x"
+        ]
+    ],
+    "王学习": [
+        [
+            "李小弟",
+            "acquaintance of x"
+        ],
+        [
+            "张恶霸",
+            "acquaintance of x"
+        ]
+    ],
+    "赵帅哥": [
+        [
+            "张恶霸",
+            "friend of x"
+        ],
+        [
+            "林校花",
+            "acquaintance of x"
+        ]
+    ],
+    "林校花": [
+        [
+            "张恶霸",
+            "fiancee of x"
+        ]
+    ],
+    "郝闺蜜": [
+        [
+            "林校花",
+            "friend of x"
+        ],
+        [
+            "张恶霸",
+            "romantic relationships with x"
+        ]
+    ]
+}

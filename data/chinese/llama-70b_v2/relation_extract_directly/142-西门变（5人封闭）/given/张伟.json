@@ -1,0 +1,17 @@
+{
+    "张伟": [
+      ["赵中杨", "friend of x, savior of x, murderer of x"], 
+      ["赵三", "acquaintance of x, business partner of x"]
+    ],
+    "赵中杨": [
+      ["张伟", "friend of x, savior of x, victim of x"], 
+      ["赵三", "acquaintance of x, business partner of x"]
+    ],
+    "赵三": [
+      ["张伟", "acquaintance of x, business partner of x"], 
+      ["赵中杨", "acquaintance of x, business partner of x"]
+    ],
+    "马老板": [
+      ["张伟", "customer of x, employer of x"]
+    ]
+}

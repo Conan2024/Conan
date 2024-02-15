@@ -1,0 +1,77 @@
+{
+    "顾宇": [
+      ["林夕", "ex boyfriend of x, romantic relationships with x, dislike of x, disliked by x"], 
+      ["陈静雯", "admirer of x, boyfriend of x, suspect of x"], 
+      ["顾明和", "son of x"], 
+      ["顾晴", "sibling of x"], 
+      ["苏阳", "ex romantic relationships with x, adversary of x"], 
+      ["林惟仁", "acquaintance of x, suspect to x"], 
+      ["秦思琴", "attempted perpetrator of x, victim of x"], 
+      ["郑心媚", "informant of x, helped by x, admirer of x, girlfriend of x"], 
+      ["林夕", "ex girlfriend of x"]
+    ],
+    "林夕": [
+      ["顾宇", "ex girlfriend of x, romantic relationships with x, dislike of x, disliked by x"], 
+      ["陈静雯", "ex girlfriend of x, replaced x's identity"], 
+      ["顾明和", "acquaintance of x, future relative of x"], 
+      ["顾晴", "sibling of x"], 
+      ["顾宇", "ex boyfriend of x, ex romantic relationships with x"], 
+      ["林惟仁", "patient of x"], 
+      ["顾宇", "ex girlfriend of x, lover of x"], 
+      ["郑心媚", "same person as x (different identity), replaced x's identity"]
+    ],
+    "陈静雯": [
+      ["顾宇", "admirer of x, girlfriend of x"], 
+      ["林夕", "quest companion of x"], 
+      ["顾明和", "victim of x"], 
+      ["顾晴", "acquaintance of x, future relative of x, helped by x, informant of x, information receiver from x, suspected by x, possibly family of x"], 
+      ["林惟仁", "suspect of x, victim of x"], 
+      ["秦思琴", "victim of x, x's victim's family"], 
+      ["郑心媚", "child of x"]
+    ],
+    "顾明和": [
+      ["顾宇", "father of x"], 
+      ["林夕", "acquaintance of x, father in law of x"], 
+      ["陈静雯", "perpetrator of x, suspected by x"], 
+      ["顾晴", "father of x"], 
+      ["林惟仁", "business partner of x, suspect to x"], 
+      ["秦思琴", "perpetrator of x"], 
+      ["郑心媚", "perpetrator of x"]
+    ],
+    "顾晴": [
+      ["顾宇", "sibling of x"], 
+      ["林夕", "sibling of x"], 
+      ["顾明和", "child of x"], 
+      ["郑心媚", "sibling of x"]
+    ],
+    "苏阳": [
+      ["顾宇", "ex romantic relationships with x, adversary of x"], 
+      ["林夕", "fiance of x, romantic relationships with x"], 
+      ["林惟仁", "fiance of x"]
+    ],
+    "林惟仁": [
+      ["顾宇", "acquaintance of x, suspected by x"], 
+      ["林夕", "doctor of x, father of x"], 
+      ["陈静雯", "suspected by x, perpetrator of x's family"], 
+      ["顾明和", "business partner of x, suspected by x"], 
+      ["苏阳", "future father in law of x"], 
+      ["秦思琴", "perpetrator of x"], 
+      ["郑心媚", "deceiver of x, perpetrator of x"]
+    ],
+    "秦思琴": [
+      ["顾宇", "attempted perpetrator of x, victim of x"], 
+      ["陈静雯", "child of x"], 
+      ["顾明和", "victim of x, deceived by x"], 
+      ["林惟仁", "victim of x"], 
+      ["郑心媚", "same person as x (different reference), same person as x (different identity)"]
+    ],
+    "郑心媚": [
+      ["顾宇", "information receiver from x, helper of x, romantic relationships with x"], 
+      ["林夕", "same person as x (different reference), replaced x's identity"], 
+      ["陈静雯", "mother of x"], 
+      ["顾明和", "victim of x"], 
+      ["顾晴", "sibling of x"], 
+      ["林惟仁", "victim of x"], 
+      ["秦思琴", "same person as x (different reference), same person as x (different identity)"]
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "金彪": [
+        [
+            "葛雄",
+            "subordinate of x, friend of x, informant of x, trusted by x, helper of x, helped by x"
+        ],
+        [
+            "钱迪",
+            "business partner of x, acquaintance of x"
+        ],
+        [
+            "梁声",
+            "friend of x, cellmate of x, helped by x"
+        ]
+    ],
+    "葛雄": [
+        [
+            "金彪",
+            "superior of x, friend of x, trusts x, information receiver from x, helper of x"
+        ],
+        [
+            "钱迪",
+            "customer of x, business partner of x, suspect of x"
+        ],
+        [
+            "梁声",
+            "future employee of x"
+        ]
+    ],
+    "钱迪": [
+        [
+            "金彪",
+            "business partner of x, acquaintance of x"
+        ],
+        [
+            "葛雄",
+            "service provider of x, business partner of x, suspect to x"
+        ],
+        [
+            "钱夫人",
+            "husband of x"
+        ]
+    ],
+    "梁声": [
+        [
+            "金彪",
+            "friend of x, cellmate of x, helped by x"
+        ],
+        [
+            "葛雄",
+            "future employer of x"
+        ]
+    ],
+    "钱夫人": [
+        [
+            "钱迪",
+            "wife of x"
+        ],
+        [
+            "金彪",
+            "victim of x, stranger to x"
+        ],
+        [
+            "葛雄",
+            "planing perpetrator of x, stranger to x"
+        ]
+    ]
+}

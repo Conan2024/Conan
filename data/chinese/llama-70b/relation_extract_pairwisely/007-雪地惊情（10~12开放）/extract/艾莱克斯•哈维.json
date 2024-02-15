@@ -1,0 +1,434 @@
+{
+    "艾莱克斯•哈维": [
+        [
+            "玛丽娜•哈里森",
+            "friend"
+        ],
+        [
+            "哈罗德•哈里森",
+            "玛丽娜•哈里森",
+            "杰奎琳•佩里",
+            "艾米•摩根",
+            "戴维斯•佩里"
+        ],
+        [
+            "艾米•摩根",
+            "玛丽娜•哈里森",
+            "杰奎琳•佩里",
+            "哈罗德•哈里森",
+            "戴维斯•佩里"
+        ],
+        [
+            "露西",
+            "friend, acquaintance, business partner, colleague, classmate, neighbour, helped by, helped, suspect, victim"
+        ],
+        [
+            "乔纳森",
+            "朋友",
+            "哥哥",
+            "弟弟",
+            "老友",
+            "flatmate"
+        ],
+        [
+            "约翰•摩根",
+            "Acquaintance",
+            "Suspect",
+            "Rival",
+            "Helper",
+            "Information Receiver",
+            "Adversary"
+        ],
+        [
+            "麦克斯•派克",
+            "friend",
+            "classmate"
+        ]
+    ],
+    "玛丽娜•哈里森": [
+        [
+            "艾莱克斯•哈维",
+            "friend"
+        ],
+        [
+            "杰奎琳•佩里",
+            "妹妹",
+            "嫉妒"
+        ],
+        [
+            "哈罗德•哈里森",
+            "husband of X",
+            "wife of X"
+        ],
+        [
+            "戴维斯•佩里",
+            "romeztantinats",
+            "classmate"
+        ],
+        [
+            "艾米•摩根",
+            "杰奎琳•佩里",
+            "哈罗德•哈里森"
+        ],
+        [
+            "露西",
+            "Close Friend"
+        ],
+        [
+            "乔纳森",
+            "恋人"
+        ],
+        [
+            "约翰•摩根",
+            " acquaintance",
+            "friend"
+        ],
+        [
+            "麦克斯•派克",
+            "friend"
+        ]
+    ],
+    "哈罗德•哈里森": [
+        [
+            "艾莱克斯•哈维",
+            "玛丽娜•哈里森",
+            "杰奎琳•佩里",
+            "艾米•摩根"
+        ],
+        [
+            "玛丽娜•哈里森",
+            "husband of X",
+            "wife of X"
+        ],
+        [
+            "杰奎琳•佩里",
+            " Wife of X",
+            "软rible"
+        ],
+        [
+            "戴维斯•佩里",
+            "husband of X",
+            "哈里森一家"
+        ],
+        [
+            "艾米•摩根",
+            "朋友",
+            "同事"
+        ],
+        [
+            "露西",
+            " Relationship 1: Husband of X (different identity) Relationship 2: Son of X"
+        ],
+        [
+            "乔纳森",
+            " Husband of X (different identity)",
+            " Same person as X (different reference)"
+        ],
+        [
+            "约翰•摩根",
+            "杰奎琳•佩里",
+            "玛丽娜•哈里森"
+        ]
+    ],
+    "艾米•摩根": [
+        [
+            "艾莱克斯•哈维",
+            "玛丽娜•哈里森",
+            "杰奎琳•佩里",
+            "哈罗德•哈里森",
+            "戴维斯•佩里"
+        ],
+        [
+            "玛丽娜•哈里森",
+            "戴维斯•佩里"
+        ],
+        [
+            "杰奎琳•佩里",
+            "rivals",
+            "acquaintances"
+        ],
+        [
+            "哈罗德•哈里森",
+            "朋友",
+            "婚姻关系"
+        ],
+        [
+            "戴维斯•佩里",
+            "玛丽娜•哈里森"
+        ],
+        [
+            "露西",
+            "Friend",
+            "Confidant"
+        ],
+        [
+            "乔纳森",
+            "Friend, Saved her from a troublesome situation"
+        ],
+        [
+            "约翰•摩根",
+            " Husband of X",
+            "Wife of X"
+        ],
+        [
+            "麦克斯•派克",
+            " acquaintance, co-wives"
+        ]
+    ],
+    "露西": [
+        [
+            "艾莱克斯•哈维",
+            "friend, acquaintance, business partner, colleague, classmate, neighbour, helped by, helped, suspect, victim"
+        ],
+        [
+            "玛丽娜•哈里森",
+            "Close Friend"
+        ],
+        [
+            "杰奎琳•佩里",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "哈罗德•哈里森",
+            " Relationship 1: Wife of X (different reference) Relationship 2: Daughter of X"
+        ],
+        [
+            "戴维斯•佩里",
+            "Friend of X",
+            "Mentee of X"
+        ],
+        [
+            "艾米•摩根",
+            "Friend",
+            "Confidant"
+        ],
+        [
+            "乔纳森",
+            "close friend, romantic interest"
+        ],
+        [
+            "约翰•摩根",
+            " acquaintance, possible suspect in murder investigation"
+        ],
+        [
+            "麦克斯•派克",
+            "acquaintance",
+            "friend"
+        ]
+    ],
+    "乔纳森": [
+        [
+            "艾莱克斯•哈维",
+            "朋友",
+            "哥哥",
+            "弟弟",
+            "老友",
+            "flatmate"
+        ],
+        [
+            "玛丽娜•哈里森",
+            "父母"
+        ],
+        [
+            "杰奎琳•佩里",
+            "rivals, competitors"
+        ],
+        [
+            "哈罗德•哈里森",
+            " Same person as X (different reference)",
+            " Husband of X (different identity)"
+        ],
+        [
+            "戴维斯•佩里",
+            "boyfriend",
+            "client"
+        ],
+        [
+            "艾米•摩根",
+            "Friend, Helped her when she was in a difficult situation"
+        ],
+        [
+            "露西",
+            "close friend, romantic interest"
+        ],
+        [
+            "约翰•摩根",
+            "Friend",
+            "Collaborator"
+        ],
+        [
+            "麦克斯•派克",
+            "朋友",
+            "秘密",
+            "不明whitehat",
+            "不明whitehat"
+        ]
+    ],
+    "约翰•摩根": [
+        [
+            "艾莱克斯•哈维",
+            "Acquaintance",
+            "Suspect",
+            "Rival",
+            "Helper",
+            "Information Receiver",
+            "Adversary"
+        ],
+        [
+            "玛丽娜•哈里森",
+            " acquaintance",
+            "friend"
+        ],
+        [
+            "杰奎琳•佩里",
+            "rivalry, suspicion"
+        ],
+        [
+            "哈罗德•哈里森",
+            "麦克斯•派克",
+            "艾米•摩根"
+        ],
+        [
+            "戴维斯•佩里",
+            "Rival",
+            "Acquaintance"
+        ],
+        [
+            "艾米•摩根",
+            " Husband of X",
+            "Wife of X"
+        ],
+        [
+            "露西",
+            "acquaintance, possible suspect in murder investigation"
+        ],
+        [
+            "乔纳森",
+            "Friend",
+            "Collaborator"
+        ],
+        [
+            "麦克斯•派克",
+            " Acquaintance, Suspicious"
+        ]
+    ],
+    "麦克斯•派克": [
+        [
+            "艾莱克斯•哈维",
+            "friend",
+            "classmate"
+        ],
+        [
+            "玛丽娜•哈里森",
+            "friend"
+        ],
+        [
+            "杰奎琳•佩里",
+            "rivals",
+            "艾莱克스•哈维"
+        ],
+        [
+            "戴维斯•佩里",
+            "rivals, competitors"
+        ],
+        [
+            "艾米•摩根",
+            "acquaintance, co-wives"
+        ],
+        [
+            "露西",
+            "acquaintance",
+            "friend"
+        ],
+        [
+            "乔纳森",
+            "朋友",
+            "秘密",
+            "不明whitehat",
+            "嫉妒"
+        ],
+        [
+            "约翰•摩根",
+            " Acquaintance, Suspicious"
+        ]
+    ],
+    "杰奎琳•佩里": [
+        [
+            "玛丽娜•哈里森",
+            "姐姐",
+            "爱护"
+        ],
+        [
+            "哈罗德•哈里森",
+            " Husband of X",
+            "嫉妒X"
+        ],
+        [
+            "戴维斯•佩里",
+            "rivals",
+            "competitors"
+        ],
+        [
+            "艾米•摩根",
+            "rivals",
+            "acquaintances"
+        ],
+        [
+            "露西",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "乔纳森",
+            "rivals, competitors"
+        ],
+        [
+            "约翰•摩根",
+            "rivalry, suspicion"
+        ],
+        [
+            "麦克斯•派克",
+            "rivals",
+            "艾莱克斯•哈维"
+        ]
+    ],
+    "戴维斯•佩里": [
+        [
+            "玛丽娜•哈里森",
+            "romeztantinats",
+            "colleague"
+        ],
+        [
+            "杰奎琳•佩里",
+            "rivals",
+            "competitors"
+        ],
+        [
+            "哈罗德•哈里森",
+            "boyfriend of X",
+            "关系 1"
+        ],
+        [
+            "艾米•摩根",
+            "玛丽娜•哈里森"
+        ],
+        [
+            "露西",
+            "Friend of X",
+            "Mentor of X"
+        ],
+        [
+            "乔纳森",
+            "boyfriend",
+            "client"
+        ],
+        [
+            "约翰•摩根",
+            "Rival",
+            "Acquaintance"
+        ],
+        [
+            "麦克斯•派克",
+            "rivals, competitors"
+        ]
+    ]
+}

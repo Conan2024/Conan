@@ -1,0 +1,62 @@
+{
+    "凌霄": [
+        [
+            "师父",
+            "student of x",
+            "informant of x"
+        ],
+        [
+            "蜂",
+            "secret contact"
+        ],
+        [
+            "大师兄",
+            "fellow disciple of the same sect",
+            "colleague of the same organization"
+        ]
+    ],
+    "师父": [
+        [
+            "凌霄",
+            "mentor of x",
+            "information receiver from x"
+        ],
+        [
+            "蜂",
+            "secret informant of 蜂"
+        ],
+        [
+            "大师兄",
+            "mentor of"
+        ]
+    ],
+    "蜂": [
+        [
+            "凌霄",
+            "secret contact"
+        ],
+        [
+            "师父",
+            "information receiver from 师父"
+        ],
+        [
+            "大师兄",
+            "secret informant of x"
+        ]
+    ],
+    "大师兄": [
+        [
+            "凌霄",
+            "fellow disciple of the same sect",
+            "colleague of the same organization"
+        ],
+        [
+            "师父",
+            "student of"
+        ],
+        [
+            "蜂",
+            "employer of x"
+        ]
+    ]
+}

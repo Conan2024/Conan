@@ -1,0 +1,188 @@
+{
+    "韦小弟": [
+        [
+            "父亲",
+            "child of x",
+            "subject of investigation for x"
+        ],
+        [
+            "母亲",
+            "child of x"
+        ],
+        [
+            "秦专家",
+            "helper of x"
+        ],
+        [
+            "庄清纯",
+            "friend of x",
+            "classmate of x"
+        ],
+        [
+            "贾美丽",
+            "friend of x",
+            "classmate of x"
+        ],
+        [
+            "郑友好",
+            "fellow student of x",
+            "helper of x"
+        ]
+    ],
+    "父亲": [
+        [
+            "韦小弟",
+            "father of x",
+            "subject of investigation for x"
+        ],
+        [
+            "母亲",
+            "husband of x"
+        ],
+        [
+            "秦专家",
+            "father of x"
+        ],
+        [
+            "庄清纯",
+            "child of x",
+            "biological father of x"
+        ],
+        [
+            "贾美丽",
+            "fondness of x"
+        ],
+        [
+            "郑友好",
+            "father of 郑友好"
+        ]
+    ],
+    "母亲": [
+        [
+            "韦小弟",
+            "mother of x"
+        ],
+        [
+            "父亲",
+            "wife of x"
+        ],
+        [
+            "秦专家",
+            "extramarital affair with x"
+        ],
+        [
+            "贾美丽",
+            "mother of x"
+        ],
+        [
+            "郑友好",
+            "child of x"
+        ]
+    ],
+    "秦专家": [
+        [
+            "韦小弟",
+            "helper of x"
+        ],
+        [
+            "父亲",
+            "son of x"
+        ],
+        [
+            "母亲",
+            "extramarital affair with x"
+        ],
+        [
+            "庄清纯",
+            "ex romantic relationships with x"
+        ],
+        [
+            "贾美丽",
+            "lover of x"
+        ],
+        [
+            "郑友好",
+            "fondness of x"
+        ]
+    ],
+    "庄清纯": [
+        [
+            "韦小弟",
+            "friend of x",
+            "classmate of x"
+        ],
+        [
+            "父亲",
+            "father of x",
+            "biological daughter of x"
+        ],
+        [
+            "秦专家",
+            "ex romantic relationships with x"
+        ],
+        [
+            "贾美丽",
+            "friend of x"
+        ],
+        [
+            "郑友好",
+            "friend of x",
+            "helper of x"
+        ]
+    ],
+    "贾美丽": [
+        [
+            "韦小弟",
+            "friend of x",
+            "classmate of x"
+        ],
+        [
+            "父亲",
+            "child of x"
+        ],
+        [
+            "母亲",
+            "child of x"
+        ],
+        [
+            "秦专家",
+            "lover of x"
+        ],
+        [
+            "庄清纯",
+            "friend of x"
+        ],
+        [
+            "郑友好",
+            "ex romantic relationships with x"
+        ]
+    ],
+    "郑友好": [
+        [
+            "韦小弟",
+            "fellow student of x",
+            "helped by x"
+        ],
+        [
+            "父亲",
+            "child of 父亲"
+        ],
+        [
+            "母亲",
+            "mother of x"
+        ],
+        [
+            "秦专家",
+            "helped by x"
+        ],
+        [
+            "庄清纯",
+            "friend of x",
+            "helper of x"
+        ],
+        [
+            "贾美丽",
+            "ex romantic relationships with x"
+        ]
+    ]
+}

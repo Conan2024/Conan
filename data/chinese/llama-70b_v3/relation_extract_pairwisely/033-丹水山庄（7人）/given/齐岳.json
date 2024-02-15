@@ -1,0 +1,89 @@
+{
+    "冯双骥": [
+      ["双面虎", "employer of x, adversary of x"], 
+      ["尹少鸣", "employer of x, mentor of x"], 
+      ["赵卫", "employer of x, perpetrator of x, adversary of x"], 
+      ["赵洛意", "employer of x"], 
+      ["赵秋儿", "employer of x, superior of x"], 
+      ["郭望山", "employer of x"], 
+      ["齐岳", "enemy of x, adversary of x, rival of x, manipulator of x, manipulated by x, superior of x, employer of x, master of x, subordinate of x, employee of x"]
+    ],
+    "冯竹": [
+      ["冯双骥", "father of x, victim of x"], 
+      ["双面虎", "informant of x, enemy of x, bully of x"], 
+      ["尹少鸣", "colleague of x"], 
+      ["赵万雷", "employer of x, informant of x"], 
+      ["赵卫", "employee of x, enemy of x"], 
+      ["赵秋儿", "friend of x, master of x"]
+    ],
+    "双面虎": [
+      ["冯双骥", "employer of x, adversary of x"], 
+      ["冯竹", "perpetrator of x, enemy of x, bully of x"], 
+      ["尹少鸣", "acquaintance of x"], 
+      ["赵万雷", "acquaintance of x"], 
+      ["赵卫", "husband of x, perpetrator of x"], 
+      ["赵洛意", "acquaintance of x, mentor of x"], 
+      ["郭望山", "enemy of x, victim of x"]
+    ],
+    "尹少鸣": [
+      ["冯双骥", "friend of x, helper of x"], 
+      ["双面虎", "acquaintance of x"], 
+      ["赵万雷", "perpetrator of x, employer of x, adversary of x"], 
+      ["赵卫", "perpetrator of x, employer of x, adversary of x"], 
+      ["赵洛意", "perpetrator of x, suspect of x"], 
+      ["赵秋儿", "acquaintance of x"], 
+      ["郭望山", "brother in law of x, perpetrator of x, employer of x"]
+    ],
+    "赵万雷": [
+      ["冯竹", "employer of x"], 
+      ["双面虎", "acquaintance of x"], 
+      ["尹少鸣", "employer of x, adversary of x"], 
+      ["赵卫", "employer of x, mentor of x"], 
+      ["husband of mother", "master of x, friend of x"], 
+      ["husband", "master of x, father in law of x"], 
+      ["郭望山", "employer of x"], 
+      ["齐岳", "enemy of x, adversary of x, rival of x, bully of x, murderer of x, attempted murderer of x, friend of x, helper of x, informant of x, acquaintance of x"]
+    ],
+    "赵卫": [
+      ["冯双骥", "employer of x, victim of x, adversary of x"], 
+      ["冯竹", "employee of x, enemy of x"], 
+      ["双面虎", "wife of x, victim of x"], 
+      ["尹少鸣", "perpetrator of x, employer of x, adversary of x"], 
+      ["赵万雷", "friend of x, acquaintance of x"], 
+      ["赵洛意", "brother of x, master of x, friend of x"], 
+      ["赵秋儿", "daughter of x, acquaintance of x"], 
+      ["齐岳", "master of x, perpetrator of x"]
+    ],
+    "赵洛意": [
+      ["冯双骥", "employer of x"], 
+      ["双面虎", "acquaintance of x, mentor of x"], 
+      ["尹少鸣", "victim of x"], 
+      ["son of husband", "informant of x, friend of x"], 
+      ["赵卫", "sister of x, friend of x"], 
+      ["赵秋儿", "brother of x, adoptive father of x, mentor of x, master of x"], 
+      ["郭望山", "husband of x, perpetrator of x"]
+    ],
+    "赵秋儿": [
+      ["冯双骥", "informant of x, enemy of x"], 
+      ["冯竹", "friend of x, superior of x"], 
+      ["尹少鸣", "acquaintance of x"], 
+      ["wife", "daughter of x, step daughter of x"], 
+      ["赵卫", "employee of x, acquaintance of x"], 
+      ["赵洛意", "brother of x, adoptive daughter of x, daughter of x, servant of x"], 
+      ["郭望山", "wife of x, child of x"]
+    ],
+    "郭望山": [
+      ["冯双骥", "employee of x, subordinate of x"], 
+      ["双面虎", "enemy of x, victim of x"], 
+      ["尹少鸣", "brother in law of x, victim of x, employer of x"], 
+      ["赵洛意", "employer of x, husband of x"], 
+      ["赵秋儿", "husband of x, employer of x"], 
+      ["齐岳", "mentor of x, friend of x, rival of x, enemy of x"]
+    ],
+    "齐岳": [
+      ["冯双骥", "enemy of x, adversary of x, rival of x, manipulator of x, manipulated by x, superior of x, employer of x, master of x, subordinate of x, employee of x"], 
+      ["赵万雷", "enemy of x, adversary of x, rival of x, bully of x, murderer of x, attempted murderer of x, friend of x, helper of x, informant of x, acquaintance of x"], 
+      ["赵卫", "victim of x, informant of x"], 
+      ["郭望山", "mentor of x, friend of x, rival of x, enemy of x"]
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "赵帅哥": [
+        [
+            "grandmother",
+            "relative of x"
+        ],
+        [
+            "mother",
+            "stranger to x"
+        ],
+        [
+            "father",
+            "relative of x"
+        ],
+        [
+            "mother's new husband",
+            "relative of x"
+        ],
+        [
+            "mother's new husband's son",
+            "same person as x (different identity), step brother of x"
+        ],
+        [
+            "distant relatives",
+            "relative of x"
+        ],
+        [
+            "张恶霸",
+            "rival of x, enemy of x, step brother of x"
+        ],
+        [
+            "林校花",
+            "admirer of x, schoolmate of x"
+        ],
+        [
+            "林校花 and 张恶霸",
+            "fiancee of x, same person as x (different reference)"
+        ],
+        [
+            "张恶霸's mother",
+            "victim of x, mother of x, wife of x mother's new husband"
+        ],
+        [
+            "王学习",
+            "quest companion of x, classmate of x"
+        ],
+        [
+            "李小弟",
+            "acquaintance of x, quest companion of x"
+        ],
+        [
+            "郝闺蜜",
+            "acquaintance of x, quest companion of x"
+        ],
+        [
+            "school security guard",
+            "acquaintance of x, deceiver of x"
+        ]
+    ],
+    "张恶霸": [
+        [
+            "母亲",
+            "mother of x"
+        ],
+        [
+            "赵帅哥",
+            "victim of x, rival of x, enemy of x, step brother of x"
+        ],
+        [
+            "林校花",
+            "fiancee of x"
+        ],
+        [
+            "母亲's new husband",
+            "father of x"
+        ],
+        [
+            "王学习",
+            "quest companion of x, classmate of x"
+        ],
+        [
+            "李小弟",
+            "quest companion of x, classmate of x"
+        ],
+        [
+            "郝闺蜜",
+            "quest companion of x, classmate of x"
+        ]
+    ],
+    "林校花": [
+        [
+            "张恶霸",
+            "fiance of x"
+        ],
+        [
+            "赵帅哥",
+            "classmate of x, secret admirer of x"
+        ],
+        [
+            "王学习",
+            "quest companion of x, classmate of x"
+        ],
+        [
+            "李小弟",
+            "quest companion of x, classmate of x"
+        ],
+        [
+            "郝闺蜜",
+            "quest companion of x, classmate of x"
+        ]
+    ],
+    "王学习": [
+        [
+            "张恶霸",
+            "quest companion of x, classmate of x"
+        ],
+        [
+            "林校花",
+            "quest companion of x, classmate of x"
+        ],
+        [
+            "赵帅哥",
+            "quest companion of x, classmate of x"
+        ],
+        [
+            "李小弟",
+            "quest companion of x, classmate of x"
+        ],
+        [
+            "郝闺蜜",
+            "quest companion of x, classmate of x"
+        ]
+    ],
+    "李小弟": [
+        [
+            "张恶霸",
+            "quest companion of x, classmate of x"
+        ],
+        [
+            "林校花",
+            "quest companion of x, classmate of x"
+        ],
+        [
+            "王学习",
+            "quest companion of x, classmate of x"
+        ],
+        [
+            "赵帅哥",
+            "quest companion of x, classmate of x"
+        ],
+        [
+            "郝闺蜜",
+            "quest companion of x, classmate of x"
+        ]
+    ],
+    "郝闺蜜": [
+        [
+            "张恶霸",
+            "quest companion of x, classmate of x"
+        ],
+        [
+            "林校花",
+            "quest companion of x, classmate of x"
+        ],
+        [
+            "王学习",
+            "quest companion of x, classmate of x"
+        ],
+        [
+            "李小弟",
+            "quest companion of x, classmate of x"
+        ],
+        [
+            "赵帅哥",
+            "quest companion of x, classmate of x"
+        ]
+    ],
+    "school security guard": [
+        [
+            "赵帅哥",
+            "acquaintance of x, deceived by x"
+        ]
+    ]
+}

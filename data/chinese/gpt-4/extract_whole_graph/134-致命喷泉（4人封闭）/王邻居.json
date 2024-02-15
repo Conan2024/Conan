@@ -1,0 +1,42 @@
+{
+    "王邻居": [
+        [
+            "王邻居的妻子",
+            "missing"
+        ],
+        [
+            "李国富",
+            "acquaintance of 王邻居, debtor of 王邻居, adversarial relationship with 王邻居"
+        ],
+        [
+            "何老六",
+            "acquaintance of 王邻居"
+        ]
+    ],
+    "王邻居的妻子": [
+        [
+            "王邻居",
+            "husband of 王邻居的妻子"
+        ]
+    ],
+    "李国富": [
+        [
+            "王邻居",
+            "gambler with 王邻居, creditor of 李国富, victim of 李国富"
+        ],
+        [
+            "何老六",
+            "work colleague of 李国富"
+        ]
+    ],
+    "何老六": [
+        [
+            "王邻居",
+            "acquaintance of 何老六"
+        ],
+        [
+            "李国富",
+            "work colleague of 何老六"
+        ]
+    ]
+}

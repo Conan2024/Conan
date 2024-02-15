@@ -1,0 +1,66 @@
+{
+    "王船工": [
+      ["不重要船长", "colleague of x, possibly family of x"], 
+      ["张大副", "business partner of x, perpetrator of x, adversary of x, suspected by x"], 
+      ["王小工", "child of x"], 
+      ["路人甲", "informant of x, helper of x"], 
+      ["玲船医", "daughter in law of x, friend of x, information receiver from x, admirer of x"], 
+      ["王小工的妻子（已故）", "ex daughter in law of x"], 
+      ["杨老板", "suspect to x, adversary of x, employer of x"], 
+      ["很天真", "acquaintance of x, messenger of x"]
+    ],
+    "不重要船长": [
+      ["王船工", "colleague of x, possibly family of x"], 
+      ["张大副", "subordinate of x"], 
+      ["王小工", "subordinate of x, possibly family of x"], 
+      ["玲船医", "subordinate of x, possibly family of x"], 
+      ["王小工的妻子（已故）", "possibly family of x"], 
+      ["杨老板", "guest of x"]
+    ],
+    "张大副": [
+      ["王船工", "business partner of x, victim of x, suspected by x"], 
+      ["不重要船长", "superior of x"], 
+      ["王小工", "acquaintance of x, helped by x"], 
+      ["玲船医", "acquaintance of x"], 
+      ["杨老板", "business partner of x, customer of x"], 
+      ["很天真", "acquaintance of x, informant of x"]
+    ],
+    "王小工": [
+      ["王船工", "father of x"], 
+      ["不重要船长", "superior of x, possibly family of x"], 
+      ["张大副", "colleague of x"], 
+      ["玲船医", "wife of x"], 
+      ["王小工的妻子（已故）", "same person as x (different reference)"], 
+      ["杨老板", "creditor of x, victim of x"]
+    ],
+    "路人甲": [
+      ["王船工", "informant to x, helper to x"]
+    ],
+    "玲船医": [
+      ["王船工", "father in law of x, friend of x, information provider to x, admired by x"], 
+      ["不重要船长", "superior of x, possibly family of x"], 
+      ["张大副", "colleague of x"], 
+      ["王小工", "husband of x"], 
+      ["王小工的妻子（已故）", "same person as x (different reference)"], 
+      ["杨老板", "debtor of x, intended victim of x"]
+    ],
+    "王小工的妻子（已故）": [
+      ["王船工", "ex father in law of x"], 
+      ["不重要船长", "possibly family of x"], 
+      ["王小工", "same person as x (different identity)"], 
+      ["玲船医", "same person as x (different reference)"]
+    ],
+    "杨老板": [
+      ["王船工", "suspected by x, adversary of x, business partner of x"], 
+      ["不重要船长", "host of x"], 
+      ["张大副", "business partner of x, supplier to x"], 
+      ["王小工", "creditor of x, perpetrator of x"], 
+      ["玲船医", "debt collector of x, suspected perpetrator of x"], 
+      ["很天真", "employee of x"]
+    ],
+    "很天真": [
+      ["王船工", "acquaintance to x, messenger to x"], 
+      ["张大副", "acquaintance of x"], 
+      ["杨老板", "employee of x"]
+    ]
+}

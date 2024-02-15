@@ -1,0 +1,77 @@
+{
+    "Sleer&Leech": [
+      ["丹尼尔•佩里", "acquaintance of x, business partner of x, co conspirator of x, friend of x, informant of x, perpetrator of x, suspect of x, victim of x"], 
+      ["Acquaintance", "suspicious of x, manipulator of x, informant of x, co conspirator of x"], 
+      ["乔纳森•佩里", "colleague of x, friend of x, suspect of x, information source of x"], 
+      ["约翰•摩根", "client of x, business partner of x, or criminal accomplice of x"], 
+      ["艾米•摩根", "business partner of x"], 
+      ["露西•哈里森", "colleague of x, client of x, business partner of x, friend of x"], 
+      ["麦克斯•琼斯", "employee of x, acquaintance of x, business partner of x"]
+    ],
+    "丹尼尔•佩里": [
+      ["Sleer&Leech", "acquaintance of x, business partner of x, co conspirator of x, friend of x, informant of x, perpetrator of x, suspect of x, victim of x"], 
+      ["乔纳森•佩里", "friend of x, acquaintance of x"], 
+      ["国际刑警组织", "colleague of x"], 
+      ["约翰•摩根", "acquaintance of x, business partner of x, suspect of x"], 
+      ["艾米•摩根", "acquaintance of x"], 
+      ["露西•哈里森", "friend of x, acquaintance of x"], 
+      ["麦克斯•琼斯", "同事 of x, 朋友 of x, 合谋者 of x"]
+    ],
+    "乔•罗伯特森": [
+      ["Sleer&Leech", "acquaintance of x, suspicious of x, manipulator of x, informant of x, co conspirator of x"], 
+      ["艾米•摩根", "friend/acquaintance of x"], 
+      ["露西•哈里森", "同事 of x, 朋友 of x, 嫌疑人 of x"], 
+      ["麦克斯•琼斯", "同事 of x, 朋友 of x, 探险伙伴 of x, 調查對象 of x, 共谍 of x"]
+    ],
+    "乔纳森•佩里": [
+      ["Sleer&Leech", "colleague of x, friend of x, suspect of x, information source of x"], 
+      ["丹尼尔•佩里", "friend of x, acquaintance of x"], 
+      ["约翰•摩根", "victim of x, detective of x, suspicious of x"], 
+      ["艾米•摩根", "acquaintance/friend of x"], 
+      ["露西•哈里森", "同事 of x, 朋友 of x, 合谋者 of x"], 
+      ["麦克斯•琼斯", "同事 of x, 朋友 of x, 探险伙伴 of x, 谍报对手 of x, 亚文的支配 of x"]
+    ],
+    "露西•哈里森": [
+      ["a", "c of x, q of x, u of x, x, i of x, n of x, t of x, x, n of x, c of x, e of x"], 
+      ["Sleer&Leech", "colleague of x, client of x, business partner of x, friend of x"], 
+      ["丹尼尔•佩里", "friend of x, acquaintance of x"], 
+      ["乔•罗伯特森", "同事 of x, 朋友 of x, 嫌疑人 of x"], 
+      ["乔纳森•佩里", "同事 of x, 朋友 of x, 合谋者 of x"], 
+      ["国际刑警组织", "colleague of x, informant of x"], 
+      ["约翰•摩根", "wife of x, 涉及的人 of x"], 
+      ["麦克斯•琼斯", "同事 of x, 朋友 of x, 谍报关系 of x, 合谋者 of x"]
+    ],
+    "约翰•摩根": [
+      ["Sleer&Leech", "client of x, business partner of x, or criminal accomplice of x"], 
+      ["丹尼尔•佩里", "acquaintance of x, business partner of x, suspect of x"], 
+      ["乔纳森•佩里", "suspect of x"], 
+      ["国际刑警组织", "嫌疑人 of x, 死亡 of x"], 
+      ["艾米•摩根", "husband of x (different identity), killed by x"], 
+      ["露西•哈里森", "husband of x, 受害人 of x"], 
+      ["麦克斯•琼斯", "husband of x, wife of x, co wives of x, father of x, mother of x, child of x, brother of x, sister of x, relative of x, nephew of x, aunt of x, uncle of x, niece of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by x"]
+    ],
+    "艾米•摩根": [
+      ["Sleer&Leech", "acquaintance of x, suspicious of x"], 
+      ["丹尼尔•佩里", "acquaintance of x"], 
+      ["乔纳森•佩里", "acquaintance/friend of x"], 
+      ["国际刑警组织", "潜在的人脉 of x"], 
+      ["约翰•摩根", "wife of x (different reference), victim of x"]
+    ],
+    "麦克斯•琼斯": [
+      ["Sleer&Leech", "employee of x, acquaintance of x, business partner of x"], 
+      ["丹尼尔•佩里", "同事 of x, 朋友 of x, 合谋者 of x"], 
+      ["乔•罗伯特森", "同事 of x, 朋友 of x, 探险伙伴 of x, 調查對象 of x, 共谍 of x"], 
+      ["乔纳森•佩里", "同事 of x, 朋友 of x, 探险伙伴 of x, 谍报对手 of x, 亚文的支配 of x"], 
+      ["约翰•摩根", "husband of x, wife of x, co wives of x, father of x, mother of x, child of x, brother of x, sister of x, relative of x, nephew of x, aunt of x, uncle of x, niece of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by x"], 
+      ["露西•哈里森", "同事 of x, 朋友 of x, 谍报关系 of x, 合谋者 of x"]
+    ],
+    "国际刑警组织": [
+      ["丹尼尔•佩里", "colleague of x"], 
+      ["约翰•摩根", "侦探 of x, 谋杀 of x"], 
+      ["艾米•摩根", "潜在的人脉 of x"], 
+      ["露西•哈里森", "colleague of x, informant of x"]
+    ],
+    "艾미•摩根": [
+      ["乔•罗伯特森", "friend/acquaintance of x"]
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "庄清纯": [
+      ["庄清纯的父亲", "father of x"], 
+      ["庄清纯的母亲", "mother of x"], 
+      ["秦专家（继父）", "step father of x, enemy of x"], 
+      ["秦老大（异母哥哥）", "half brother of x, classmate of x, disliked by x"], 
+      ["郑友好", "acquaintance of x"], 
+      ["韦小弟", "acquaintance of x, admirer of x"], 
+      ["贾美丽（女友）", "ex girlfriend of x, victim of x, blackmailer of x, betrayer of x"], 
+      ["萧体育（体育老师）", "teacher of x, lover of x"], 
+      ["薛媚娘（音乐老师）", "teacher of x, possibly rival in love of x"], 
+      ["主治医师", "doctor of x's mother, suspected by x"], 
+      ["护士", "service provider of x"], 
+      ["真相大白私家侦探事务所", "information receiver from x, helper of x"]
+    ],
+    "庄清纯的父亲": [
+      ["庄清纯", "child of x的父亲"], 
+      ["庄清纯的母亲", "ex wife of x"]
+    ],
+    "庄清纯的母亲": [
+      ["庄清纯", "child of x的母亲"], 
+      ["庄清纯的父亲", "ex husband of x"], 
+      ["秦专家（继父）", "husband of x, probable perpetrator of x"]
+    ],
+    "秦专家（继父）": [
+      ["庄清纯", "step child of x, possible victim of x"], 
+      ["庄清纯的母亲", "wife of x, possible victim of x"], 
+      ["秦老大（异母哥哥）", "biological father of x"], 
+      ["贾美丽（女友）", "blackmailed by x, extramarital affair with x"]
+    ],
+    "秦老大（异母哥哥）": [
+      ["庄清纯", "half sister of x, classmate of x, disliked by x"], 
+      ["秦专家（继父）", "son of x"], 
+      ["郑友好", "friend of x"], 
+      ["韦小弟", "friend of x"], 
+      ["贾美丽（女友）", "acquaintance of x"]
+    ],
+    "郑友好": [
+      ["秦老大（异母哥哥）", "friend of x"]
+    ],
+    "韦小弟": [
+      ["秦老大（异母哥哥）", "friend of x"], 
+      ["庄清纯", "acquaintance of x, admired by x"]
+    ],
+    "贾美丽（女友）": [
+      ["庄清纯", "ex girlfriend of x, perpetrator of x"], 
+      ["秦专家（继父）", "extramarital affair with x, blackmailer of x"]
+    ],
+    "萧体育（体育老师）": [
+      ["庄清纯", "teacher of x, lover of x"], 
+      ["薛媚娘（音乐老师）", "romantic relationships with x"]
+    ],
+    "薛媚娘（音乐老师）": [
+      ["庄清纯", "teacher of x, possibly rival in love of x"], 
+      ["萧体育（体育老师）", "romantic relationships with x"]
+    ],
+    "主治医师": [
+      ["庄清纯的母亲", "doctor of x"], 
+      ["庄清纯", "suspected by x"], 
+      ["秦专家（继父）", "acquaintance of x"]
+    ],
+    "护士": [
+      ["庄清纯的母亲", "service provider of x"], 
+      ["庄清纯", "service provider of x"]
+    ],
+    "真相大白私家侦探事务所": [
+      ["庄清纯", "client of x"]
+    ]
+}

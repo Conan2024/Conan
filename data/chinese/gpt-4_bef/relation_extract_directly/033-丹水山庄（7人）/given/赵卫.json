@@ -1,0 +1,90 @@
+{
+    "赵卫": [
+      ["光绪皇帝", "father of x"], 
+      ["瑜妃", "mother of x"], 
+      ["李叔逊", "uncle of x"], 
+      ["赵万雷", "step father of x, perpetrator of x"], 
+      ["冯双骥", "helper of x"], 
+      ["赵洛意", "half sister of x"], 
+      ["张御医", "service provider of x, informant of x"], 
+      ["赵秋儿", "acquaintance of x"]
+    ],
+    "光绪皇帝": [
+      ["赵卫", "child of x"], 
+      ["瑜妃", "romantic relationships with x"], 
+      ["李叔逊", "brother in law of x"], 
+      ["赵万雷", "subordinate of x"], 
+      ["冯双骥", "subordinate of x"], 
+      ["赵洛意", "child of x"], 
+      ["张御医", "employee of x"]
+    ],
+    "瑜妃": [
+      ["光绪皇帝", "romantic relationships with x"], 
+      ["赵卫", "child of x"], 
+      ["李叔逊", "brother of x"], 
+      ["赵万雷", "victim of x, husband of x"], 
+      ["冯双骥", "helper of x"], 
+      ["赵洛意", "daughter of x"], 
+      ["张御医", "service provider of x"], 
+      ["赵秋儿", "possibly family of x"]
+    ],
+    "李叔逊": [
+      ["光绪皇帝", "brother in law of x"], 
+      ["瑜妃", "sister of x"], 
+      ["赵卫", "nephew of x"], 
+      ["赵万雷", "suspected by x"], 
+      ["冯双骥", "acquaintance of x"], 
+      ["赵洛意", "niece of x"], 
+      ["张御医", "acquaintance of x"], 
+      ["赵秋儿", "acquaintance of x"]
+    ],
+    "赵万雷": [
+      ["光绪皇帝", "superior of x"], 
+      ["瑜妃", "perpetrator of x, wife of x"], 
+      ["李叔逊", "suspect to x"], 
+      ["赵卫", "step son of x, victim of x"], 
+      ["冯双骥", "colleague of x, adversary of x"], 
+      ["赵洛意", "daughter of x"], 
+      ["张御医", "customer of x"], 
+      ["赵秋儿", "subordinate of x"]
+    ],
+    "冯双骥": [
+      ["光绪皇帝", "superior of x"], 
+      ["瑜妃", "helper of x"], 
+      ["李叔逊", "acquaintance of x"], 
+      ["赵卫", "helper of x"], 
+      ["赵万雷", "colleague of x, adversary of x"], 
+      ["赵洛意", "acquaintance of x"], 
+      ["张御医", "acquaintance of x"], 
+      ["赵秋儿", "acquaintance of x"]
+    ],
+    "赵洛意": [
+      ["光绪皇帝", "father of x"], 
+      ["瑜妃", "mother of x"], 
+      ["李叔逊", "uncle of x"], 
+      ["赵卫", "half brother of x"], 
+      ["赵万雷", "father of x"], 
+      ["冯双骥", "acquaintance of x"], 
+      ["张御医", "acquaintance of x"], 
+      ["赵秋儿", "servant of x"]
+    ],
+    "张御医": [
+      ["光绪皇帝", "employee of x"], 
+      ["瑜妃", "service provider of x"], 
+      ["李叔逊", "acquaintance of x"], 
+      ["赵卫", "service provider of x, informant of x"], 
+      ["赵万雷", "service provider of x"], 
+      ["冯双骥", "acquaintance of x"], 
+      ["赵洛意", "acquaintance of x"], 
+      ["赵秋儿", "acquaintance of x"]
+    ],
+    "赵秋儿": [
+      ["瑜妃", "possibly family of x"], 
+      ["李叔逊", "acquaintance of x"], 
+      ["赵卫", "acquaintance of x"], 
+      ["赵万雷", "superior of x"], 
+      ["冯双骥", "acquaintance of x"], 
+      ["赵洛意", "helper of x"], 
+      ["张御医", "acquaintance of x"]
+    ]
+}

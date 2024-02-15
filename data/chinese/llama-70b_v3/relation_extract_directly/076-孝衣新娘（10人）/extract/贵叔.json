@@ -1,0 +1,24 @@
+{
+    "贵叔": [
+      ["短发女人", "acquaintance of x"], 
+      ["年轻男人", "doctor of x"], 
+      ["姚仲义", "doctor of x"]
+    ],
+    "陈均梦": [
+      ["姚仲义", "friend of x, informant of x"]
+    ],
+    "姚仲义": [
+      ["贵叔", "friend of x"], 
+      ["陈均梦", "friend of x, informant of x"], 
+      ["姚长寿", "brother of x"]
+    ],
+    "姚长寿": [
+      ["姚仲义", "brother of x"]
+    ],
+    "长发姑娘": [
+      ["贵叔", "colleague of x"]
+    ],
+    "红夫人": [
+      ["姚仲义", "informant of x"]
+    ]
+}

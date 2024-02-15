@@ -1,0 +1,28 @@
+{
+    "于氏": [
+      ["周琏逸", "brother of x, uncle of x"], 
+      ["崔嫣楠", "same person as x (different reference), wife of x, mother of x, sibling of x, brother of x, friend of x"], 
+      ["崔寿亨", "brother of x, master of x, employer of x"]
+    ],
+    "周琏逸": [
+      ["于氏", "brother of x, uncle of x"], 
+      ["崔嫣楠", "same person as x (different reference), husband of x, father of x"], 
+      ["崔寿亨", "brother of x, master of x, employer of x"], 
+      ["宿年", "tenant of x, helper of x"]
+    ],
+    "崔嫣楠": [
+      ["周琏逸", "same person as x (different reference), husband of x, father of x"], 
+      ["于氏", "same person as x (different reference), wife of x, mother of x, sibling of x, brother of x, friend of x"], 
+      ["崔寿亨", "brother of x, master of x, employer of x"]
+    ],
+    "崔寿亨": [
+      ["周琏逸", "brother of x, uncle of x"], 
+      ["崔嫣楠", "same person as x (different reference), wife of x, mother of x, sibling of x, brother of x, friend of x"], 
+      ["宿年", "tenant of x, helper of x"]
+    ],
+    "宿年": [
+      ["周琏逸", "tenant of x, helper of x"], 
+      ["崔嫣楠", "same person as x (different reference), wife of x, mother of x, sibling of x, brother of x, friend of x"], 
+      ["崔寿亨", "brother of x, master of x, employer of x"]
+    ]
+}

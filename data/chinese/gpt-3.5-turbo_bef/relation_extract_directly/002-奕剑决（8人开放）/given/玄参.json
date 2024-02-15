@@ -1,0 +1,20 @@
+{
+    "玄参": [
+      ["杜仲", "same person as x (different identity), husband of x, mentor of x"], 
+      ["忍冬", "informant of x"], 
+      ["陆英", "helper of x"]
+    ],
+    "杜仲": [
+      ["玄参", "same person as x (different identity), wife of x, mentor of x"], 
+      ["忍冬", "informant of x"], 
+      ["陆英", "helper of x"]
+    ],
+    "忍冬": [
+      ["玄参", "informant of x"], 
+      ["杜仲", "informant of x"]
+    ],
+    "陆英": [
+      ["玄参", "helper of x"], 
+      ["杜仲", "helper of x"]
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "如娅": [
+      ["田氏", "disciple of x"], 
+      ["苗氏", "sibling like relationship of x, master apprentice relationship of x, colleague like relationship of x, friendly and supportive relationship of x"], 
+      ["巴府山", "uncle of x, friend of x, guardian of x"], 
+      ["李良松", "friend of x, mentor of x, teacher of x, family member of x, neighbor of x"], 
+      ["李高柏", "mentor of x, friend of x, acquaintance of x, student of x"], 
+      ["甘玛", "family member of x, foster child of x, successor of x, apprentice of x, friend of x"], 
+      ["鬼印", "friend of x, classmate of x, schoolmate of x, neighbor of x, helper of x, helped of x, acquaintance of x, colleague of x"]
+    ],
+    "苗纳": [
+      ["田氏", "close relationship of x"], 
+      ["苗氏", "father of x, master of x"], 
+      ["李德木", "mentor of x, friend of x, protector of x"], 
+      ["李良松", "mentor of x, friend of x, employer of x"], 
+      ["李高柏", "friend of x, mentor of x, teacher of x"], 
+      ["鬼印", "mentor of x, adoptive father of x"]
+    ],
+    "田氏": [
+      ["如娅", "daughter of x, teacher of x"], 
+      ["苗纳", "mother daughter relationship of x"], 
+      ["苗氏", "father in law of x, master servant of x"], 
+      ["巴府山", "husband of x, father of x 如娅"], 
+      ["李德木", "甘玛 of x, 李高柏 of x, 鬼印 of x, 鹃歌 of x"], 
+      ["李高柏", "mentor of x, teacher of x"], 
+      ["鬼印", "father in law of x, master of x"]
+    ],
+    "苗氏": [
+      ["如娅", "sibling like relationship of x, master apprentice relationship of x, colleague like relationship of x, friendly and supportive relationship of x"], 
+      ["苗纳", "sister of x, wife of x"], 
+      ["田氏", "brother in law of x, disciple master of x"], 
+      ["巴府山", "father in law of x"], 
+      ["李德木", "childhood friend of x, savior of x, mentor of x"], 
+      ["李良松", "adospted brother of x, family friend of x"], 
+      ["李高柏", "friend of x, mentor of x, benefactor of x, master apprentice of x, common goal of x"], 
+      ["甘玛", "family member of x, relative of x, neighbor of x, acquaintance of x, friend of x"], 
+      ["鬼印", "relation of x family, connection with events of x"]
+    ],
+    "巴府山": [
+      ["如娅", "niece of x, friend of x, guardian of x"], 
+      ["田氏", "husband of x, father in law of x 如娅"], 
+      ["苗氏", "son in law of x"], 
+      ["李德木", "雇农住的‘旧木屋’送给他们 of x"], 
+      ["李良松", "adoptive father son of x"], 
+      ["李高柏", "employer of x, landlord of x, benefactor of x"], 
+      ["甘玛", "father in law of x, leader of x sect, owner of x 姊陵坪 estate, close relationship with x's father"], 
+      ["鬼印", "father in law of x, master of x"]
+    ],
+    "李德木": [
+      ["苗纳", "mentor of x, friend of x, disciple of x"], 
+      ["田氏", "甘玛 of x, 李高柏 of x, 鬼印 of x, 鹃歌 of x"], 
+      ["苗氏", "childhood friend of x, saved by of x, mentored by of x"], 
+      ["巴府山", "send his younger brother  lee goa to study in 巫师家 of x"], 
+      ["李良松", "brother of x, friend of x"], 
+      ["李高柏", "brother of x, friend of x"], 
+      ["甘玛", "elder brother of x, savior of x"], 
+      ["鬼印", "brother in law of x"]
+    ],
+    "李良松": [
+      ["如娅", "friend of x, mentor of x, teacher of x, family member of x, neighbor of x"], 
+      ["苗纳", "mentor of x, friend of x, apprentice of x"], 
+      ["苗氏", "adopted sister of x, family friend of x"], 
+      ["巴府山", "adoptive son of x"], 
+      ["李德木", "brother of x, friend of x"], 
+      ["李高柏", "李德木 of x"], 
+      ["甘玛", "elder brother of x, savior of x"], 
+      ["鬼印", "brother in law of x"]
+    ],
+    "李高柏": [
+      ["如娅", "mentor of x, friend of x, acquaintance of x, student of x"], 
+      ["苗纳", "friend of x, mentor of x, teacher of x"], 
+      ["田氏", "mentor of x, teacher of x"], 
+      ["苗氏", "friend of x, mentee of x, beneficiary of x, apprentice of x, common goal of x"], 
+      ["巴府山", "assistant of x, employee of x"], 
+      ["李德木", "brother of x, friend of x"], 
+      ["李良松", "李德木 of x"], 
+      ["甘玛", "uncle niece relationship of x"], 
+      ["鬼印", "李德木 of x"]
+    ],
+    "甘玛": [
+      ["如娅", "family member of x, foster child of x, successor of x, apprentice of x, friend of x"], 
+      ["苗氏", "family member of x, relative of x, neighbor of x, acquaintance of x, friend of x"], 
+      ["巴府山", "father in law of x, member of x sect, lives on 姊陵坪 estate of x, close relationship with x"], 
+      ["李德木", "elder brother of x, savior of x"], 
+      ["李良松", "younger sister in law of x, wife of x younger brother"], 
+      ["李高柏", "uncle niece relationship of x"], 
+      ["鬼印", "friend of x, saved by of x"]
+    ],
+    "鬼印": [
+      ["如娅", "friend of x, classmate of x, schoolmate of x, neighbor of x, helper of x, helped of x, acquaintance of x, colleague of x"], 
+      ["苗纳", "mentor of x, adoptive father of x"], 
+      ["田氏", "disciple of x, son in law of x"], 
+      ["苗氏", "relation of x family, connection with events of x"], 
+      ["巴府山", "father in law of x, master of x"], 
+      ["李德木", "brother in law of x"], 
+      ["李良松", "brother in law of x"], 
+      ["李高柏", "如娅 of x"], 
+      ["甘玛", "friend of x, saved of x"]
+    ]
+}

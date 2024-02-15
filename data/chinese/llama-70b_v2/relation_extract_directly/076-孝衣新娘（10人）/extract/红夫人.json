@@ -1,0 +1,48 @@
+{
+    "田红娇": [
+      ["姚长寿", "husband of x, deceased of x"], 
+      ["姚孟仁", "son of x, deceased of x"], 
+      ["姚仲义", "son of x, alive of x"], 
+      [" Chen均梦", "daughter in law of x, alive of x"], 
+      ["朱迪", "brother in law of x, alive of x"], 
+      ["虞医师", "doctor of x, alive of x"], 
+      ["短发女人", "acquaintance of x, alive of x"]
+    ],
+    "姚长寿": [
+      ["田红娇", "wife of x, alive of x"], 
+      ["姚孟仁", "son of x, deceased of x"], 
+      ["姚仲义", "son of x, alive of x"], 
+      [" Chen均梦", "daughter in law of x, alive of x"], 
+      ["朱迪", "brother in law of x, alive of x"]
+    ],
+    "姚孟仁": [
+      ["田红娇", "mother of x, alive of x"], 
+      ["姚长寿", "father of x, deceased of x"], 
+      ["姚仲义", "brother of x, alive of x"]
+    ],
+    "姚仲义": [
+      ["田红娇", "mother of x, alive of x"], 
+      ["姚长寿", "father of x, deceased of x"], 
+      ["姚孟仁", "brother of x, deceased of x"]
+    ],
+    " Chen均梦": [
+      ["姚孟仁", "husband of x, deceased of x"], 
+      ["姚仲义", "brother in law of x, alive of x"]
+    ],
+    "朱迪": [
+      ["姚长寿", "brother in law of x, alive of x"], 
+      ["姚仲义", "nephew of x, alive of x"]
+    ],
+    "虞医师": [
+      ["姚仲义", "patient of x, alive of x"]
+    ],
+    "短发女人": [
+      ["姚仲义", "acquaintance of x, alive of x"]
+    ],
+    "贵叔": [
+      ["姚仲义", "friend of x, alive of x"]
+    ],
+    "胡人玉": [
+      ["田红娇", "acquaintance of x, alive of x"]
+    ]
+}

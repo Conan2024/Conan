@@ -1,0 +1,46 @@
+{
+    "李元昊": [
+        [
+            "张元帅",
+            "enemy of x, deceiver of x, student of x, spy of x"
+        ],
+        [
+            "赵飞岩",
+            "friend of x, quest companion of x"
+        ],
+        [
+            "吴边城",
+            "stranger to x"
+        ]
+    ],
+    "张元帅": [
+        [
+            "李元昊",
+            "superior of x, mentor of x, deceiver of x, victim of x"
+        ],
+        [
+            "赵飞岩",
+            "enemy of x"
+        ]
+    ],
+    "赵飞岩": [
+        [
+            "张元帅",
+            "victim of x"
+        ],
+        [
+            "李元昊",
+            "friend of x, quest companion of x"
+        ]
+    ],
+    "吴边城": [
+        [
+            "李元昊",
+            "stranger to x"
+        ],
+        [
+            "张元帅",
+            "subordinate of x"
+        ]
+    ]
+}

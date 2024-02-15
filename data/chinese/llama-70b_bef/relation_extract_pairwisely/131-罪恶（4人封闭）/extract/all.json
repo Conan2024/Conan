@@ -1,0 +1,40 @@
+{
+    "女友": [
+      ["李警察", "rival of x"], 
+      ["赵慈善", "rival of x"], 
+      ["王村长", "wife of x, concubine of x, daughter of x, sister of x, relative of x, acquaintance of x, friend of x, business partner of x, enemy of x"], 
+      ["张村民", "friend of x"]
+    ],
+    "李警察": [
+      ["女友", "rival of x"], 
+      ["赵慈善", "adversary of x"], 
+      ["王村长", "suspicious of x, adversary of x, deceiver of x, manipulator of x, superior of x"], 
+      ["胡调研", "rival of x, adversary of x"], 
+      ["张村民", "suspect of x, adversary of x"]
+    ],
+    "赵慈善": [
+      ["女友", "rival of x"], 
+      ["李警察", "adversary of x"]
+    ],
+    "王村长": [
+      ["女友", "wife of x, concubine of x, daughter of x, sister of x, relative of x, acquaintance of x, friend of x, business partner of x, enemy of x"], 
+      ["李警察", "suspicious of x, adversary of x, deceiver of x, manipulator of x, superior of x"], 
+      ["胡调研", "business partner of x, adversary of x"]
+    ],
+    "胡调研": [
+      ["李警察", "rival of x, adversary of x"], 
+      ["王村长", "business partner of x, adversary of x"], 
+      ["张村民", "adversary of x, rival of x"]
+    ],
+    "张村民": [
+      ["女友", "friend of x"], 
+      ["李警察", "victim of x, suspicious of x"], 
+      ["胡调研", "adversary of x, rival of x"]
+    ],
+    " Wang village chief": [
+      ["Zhang village resident", "rival of x, enemy of x"]
+    ],
+    "Zhang village resident": [
+      ["Wang village chief", "rival of x, enemy of x"]
+    ]
+}

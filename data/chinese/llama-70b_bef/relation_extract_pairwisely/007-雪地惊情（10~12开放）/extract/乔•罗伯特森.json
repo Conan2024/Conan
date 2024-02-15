@@ -1,0 +1,34 @@
+{
+    "露西•哈里森": [
+      ["麦克斯•派克", "acquaintance of x, colleague of x"], 
+      ["丹尼尔•佩里", "friend of x, acquaintance of x"], 
+      ["约翰•摩根", "wife of x"]
+    ],
+    "麦克斯•派克": [
+      ["约翰•摩根", "acquaintance of x, deceiver of x"], 
+      ["艾米•摩根", "acquaintance of x, colleague of x"], 
+      ["露西•哈里森", "acquaintance of x, colleague of x"]
+    ],
+    "丹尼尔•佩里": [
+      ["约翰•摩根", "acquaintance of x, business partner of x, suspect of x"], 
+      ["艾米•摩根", "acquaintance of x"], 
+      ["露西•哈里森", "friend of x, acquaintance of x"], 
+      ["乔纳森•佩里", "friend of x, acquaintance of x"]
+    ],
+    "约翰•摩根": [
+      ["麦克斯•派克", "acquaintance of x"], 
+      ["丹尼尔•佩里", "acquaintance of x, business partner of x, suspect of x"], 
+      ["艾米•摩根", "killed by x"], 
+      ["露西•哈里森", "husband of x"], 
+      ["乔纳森•佩里", "friend of x"]
+    ],
+    "艾米•摩根": [
+      ["麦克斯•派克", "colleague of x"], 
+      ["丹尼尔•佩里", "acquaintance of x"], 
+      ["约翰•摩根", "victim of x"]
+    ],
+    "乔纳森•佩里": [
+      ["丹尼尔•佩里", "friend of x, acquaintance of x"], 
+      ["约翰•摩根", "friend of x"]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "林夕": [
+      ["林彤", "daughter of x, sibling of x"], 
+      ["林惟仁", "daughter of x, enemy of x"], 
+      ["沈城", "biological father of x, enemy of x, deceased mother's husband of x, previous employer of x, current employer of x"], 
+      ["秦思琴", "step daughter of x, step mother of x"], 
+      ["苏阳", "enemy of x, rival of x, manipulator of x"], 
+      ["顾明和", "rival of x, enemy of x"]
+    ],
+    "林彤": [
+      ["林夕", "sister of x, daughter of x"], 
+      ["林惟仁", "doctor patient of x, enemy of x"], 
+      ["沈城", "biological father of x, adoptive father of x, enemy of x, rival of x, manipulator of x, manipulated person of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x"], 
+      ["秦思琴", "mother daughter relationship of x"], 
+      ["苏阳", "romantic relationship of x, doctor patient relationship of x"], 
+      ["顾明和", "relationship 1: cousin in law of x, relationship 2: indirect cause of x death, relationship 3: betrayal (romantic relationship with 林夕) of x"]
+    ],
+    "林惟仁": [
+      ["林夕", "daughter of x, enemy of x"], 
+      ["林彤", "doctor patient of x, enemy of x"], 
+      ["沈城", "仇人 of x"], 
+      ["秦思琴", "perpetrator of x injustice, enemy of x"], 
+      ["苏阳", "rival of x, enemy of x"], 
+      ["顾明和", "perpetrator of x injustice, enemy of x"]
+    ],
+    "沈城": [
+      ["林夕", "biological daughter of x, enemy of x, wife's husband of x, employer of x"], 
+      ["林彤", "biological father of x, adoptive father of x, enemy of x, rival of x, manipulator of x, manipulated person of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x"], 
+      ["林惟仁", "仇人 of x"], 
+      ["秦思琴", "relationship 1   husband of x, relationship 2   father of x, relationship 3   enemy of x, relationship 4   adversary of x, relationship 5   suspect of x"], 
+      ["苏阳", "rival of x, enemy of x"], 
+      ["顾明和", "仇人 of x"]
+    ],
+    "秦思琴": [
+      ["林夕", "step daughter of x, step mother of x"], 
+      ["林彤", "mother daughter relationship of x"], 
+      ["林惟仁", "victim of x injustice, deceased of x"], 
+      ["沈城", "relationship 1   wife of x, relationship 2   mother of x, relationship 3   enemy of x, relationship 4   business partner of x, relationship 5   victim of x"], 
+      ["苏阳", "husband of x, perpetrator of x"], 
+      ["顾明和", "husband of x, master of x, employer of x"]
+    ],
+    "苏阳": [
+      ["林夕", "enemy of x, rival of x, manipulated of x"], 
+      ["林彤", "romantic relationship of x, doctor patient relationship of x"], 
+      ["林惟仁", "rival of x, enemy of x"], 
+      ["沈城", "rival of x, enemy of x"], 
+      ["秦思琴", "wife of x, victim of x"], 
+      ["顾明和", "boyfriend of x daughter, doctor who treated daughter of x"]
+    ],
+    "顾明和": [
+      ["林夕", "rival of x, enemy of x"], 
+      ["林彤", "relationship 1: uncle in law of x, relationship 2: enemy of x, relationship 3: rival of x"], 
+      ["林惟仁", "perpetrator of x injustice, enemy of x"], 
+      ["沈城", "仇人 of x"], 
+      ["秦思琴", "wife of x, subordinate of x, employee of x"], 
+      ["苏阳", "boyfriend of x daughter, doctor who treated daughter of x"]
+    ]
+}

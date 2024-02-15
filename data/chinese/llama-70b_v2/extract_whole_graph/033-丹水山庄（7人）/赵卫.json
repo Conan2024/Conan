@@ -1,0 +1,24 @@
+{
+    "赵卫": [
+      ["赵万雷", "same person as x (different reference), 敌人 of x"], 
+      ["赵洛意", "妹妹 of x, 亲情 of x"], 
+      ["冯双骥", "保护人 of x, 师兄 of x"], 
+      ["赵秋儿", "贴身丫鬟 of x, 帮手 of x"]
+    ],
+    "赵万雷": [
+      ["赵卫", "same person as x (different reference), 敌人 of x"], 
+      ["赵洛意", "妹妹 of x, 亲情 of x"]
+    ],
+    "赵洛意": [
+      ["赵卫", "same person as x (different reference), 妹妹 of x"], 
+      ["赵万雷", "妹妹 of x, 亲情 of x"]
+    ],
+    "冯双骥": [
+      ["赵卫", "保护人 of x, 师兄 of x"], 
+      ["赵万雷", "敌人 of x"]
+    ],
+    "赵秋儿": [
+      ["赵卫", "贴身丫鬟 of x, 帮手 of x"], 
+      ["赵万雷", "敌人 of x"]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "安琪angel": [
+      ["兰秦", "same person as x (different identity)"], 
+      ["易莲芝", "mother of x"], 
+      ["易氏", "mother of x"], 
+      ["阿安", "sibling of x"], 
+      ["李大哥", "helper of x, admired by x"], 
+      ["阿同", "romantic relationships with x"], 
+      ["段约同", "romantic relationships with x"], 
+      ["宇祖成木", "debtor of x"], 
+      ["洛意丝", "mentor of x"]
+    ],
+    "兰秦": [
+      ["安琪angel", "same person as x (different reference)"]
+    ],
+    "易莲芝": [
+      ["安琪angel", "mother of x"], 
+      ["易氏", "same person as x (different reference)"]
+    ],
+    "易氏": [
+      ["安琪angel", "mother of x"], 
+      ["易莲芝", "same person as x (different identity)"], 
+      ["段阿姨", "friend of x"], 
+      ["白常恭", "creditor of x"]
+    ],
+    "阿安": [
+      ["安琪angel", "sibling of x"]
+    ],
+    "李大哥": [
+      ["安琪angel", "helper of x, admired by x"], 
+      ["宇祖成木", "friend of x, business partner of x"]
+    ],
+    "阿同": [
+      ["安琪angel", "romantic relationships with x"], 
+      ["段约同", "same person as x (different reference)"]
+    ],
+    "段约同": [
+      ["安琪angel", "romantic relationships with x"], 
+      ["阿同", "same person as x (different identity)"], 
+      ["段阿姨", "child of x"], 
+      ["白常恭", "suspected by x"], 
+      ["宇祖成木", "informant of x"]
+    ],
+    "段阿姨": [
+      ["段约同", "mother of x"]
+    ],
+    "白常恭": [
+      ["段约同", "adoptive father of x"], 
+      ["易氏", "debtor of x"]
+    ],
+    "宇祖成木": [
+      ["安琪angel", "debtor of x"], 
+      ["李大哥", "friend of x, business partner of x"], 
+      ["夏三虎", "victim of x, adversary of x"], 
+      ["段约同", "information receiver from x"]
+    ],
+    "夏三虎": [
+      ["宇祖成木", "perpetrator of x, adversary of x"]
+    ],
+    "洛意丝": [
+      ["安琪angel", "mentor of x"]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "赵秋儿 (the protagonist)": [
+      ["赵洛意", "friend of x, mentor of x"], 
+      ["赵万雷", "brother of x"], 
+      ["赵卫", "brother of x"], 
+      ["冯双骥", "student of x"], 
+      ["冯竹", "friend of x, mentor of x"], 
+      ["齐岳", "romantic relationships with x"], 
+      ["李姨", "wife of x"]
+    ],
+    "赵洛意": [
+      ["赵秋儿 (the protagonist)", "friend of x, student of x"], 
+      ["赵万雷", "half brother of x"], 
+      ["赵卫", "sibling of x"], 
+      ["冯双骥", "romantic relationships with of x"], 
+      ["冯竹", "friend of x"], 
+      ["齐岳", "father of x"], 
+      ["李姨", "future mother in law of x"]
+    ],
+    "赵万雷": [
+      ["赵秋儿 (the protagonist)", "sibling of x"], 
+      ["赵洛意", "half sister of x"], 
+      ["赵卫", "brother of x"], 
+      ["冯双骥", "brother of x"], 
+      ["冯竹", "acquaintance of x"], 
+      ["齐岳", "father of x 赵秋儿"], 
+      ["李姨", "brother of x"]
+    ],
+    "赵卫": [
+      ["赵秋儿 (the protagonist)", "brother of x"], 
+      ["赵洛意", "sibling of x"], 
+      ["赵万雷", "brother of x"], 
+      ["冯双骥", "savior of x"], 
+      ["冯竹", "brother in law of x"], 
+      ["齐岳", "mentor of x"], 
+      ["李姨", "friend of x 赵秋儿"]
+    ],
+    "冯双骥": [
+      ["赵秋儿 (the protagonist)", "mentor of x"], 
+      ["赵洛意", "romantic relationships with of x"], 
+      ["赵万雷", "brother of x"], 
+      ["赵卫", "saved by x"], 
+      ["冯竹", "father of x"], 
+      ["齐岳", "student of x"], 
+      ["李姨", "ex wife of x"]
+    ],
+    "冯竹": [
+      ["赵秋儿 (the protagonist)", "friend of x, student of x"], 
+      ["赵洛意", "friend of x"], 
+      ["赵万雷", "friend of x"], 
+      ["赵卫", "sister in law of x"], 
+      ["冯双骥", "son of x"], 
+      ["齐岳", "friend of x"], 
+      ["李姨", "helper of x"]
+    ],
+    "齐岳": [
+      ["赵秋儿 (the protagonist)", "romantic relationships with x"], 
+      ["赵洛意", "son of x"], 
+      ["赵万雷", "son in law of x"], 
+      ["赵卫", "student of x"], 
+      ["冯双骥", "mentor of x"], 
+      ["冯竹", "friend of x"], 
+      ["李姨", "mentor of x"]
+    ],
+    "李姨": [
+      ["赵秋儿 (the protagonist)", "husband of x"], 
+      ["赵洛意", "future son in law of x"], 
+      ["赵万雷", "sister of x"], 
+      ["赵卫", "friend of x 赵秋儿"], 
+      ["冯双骥", "ex husband of x"], 
+      ["冯竹", "helper of x"], 
+      ["齐岳", "student of x"]
+    ]
+}

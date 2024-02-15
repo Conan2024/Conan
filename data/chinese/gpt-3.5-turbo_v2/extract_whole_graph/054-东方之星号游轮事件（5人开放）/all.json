@@ -1,0 +1,42 @@
+{
+    "洪船长": [
+      ["刘奇", "student of x, helper of x"], 
+      ["修仁杰", "acquaintance of x"], 
+      ["韩亦暮", "subject of x investigation for x"], 
+      ["林若彤", "romantic relationships with x"], 
+      ["张文远", "dislike of x"], 
+      ["VVIP", "employer of x"], 
+      ["三合会", "business partner of x"]
+    ],
+    "刘奇": [
+      ["洪船长", "mentor of x, supervisor of x"], 
+      ["张文远", "dislike of x"], 
+      ["林若彤", "colleague of x"], 
+      ["三合会", "employee of x"]
+    ],
+    "修仁杰": [
+      ["洪船长", "acquaintance of x"], 
+      ["林若彤", "colleague of x"], 
+      ["VVIP", "supervisor of x"]
+    ],
+    "韩亦暮": [
+      ["洪船长", "disliked by x"]
+    ],
+    "林若彤": [
+      ["洪船长", "romantic relationships with x"], 
+      ["刘奇", "colleague of x"], 
+      ["修仁杰", "colleague of x"]
+    ],
+    "张文远": [
+      ["洪船长", "disliked by x"], 
+      ["刘奇", "dislike of x"]
+    ],
+    "VVIP": [
+      ["洪船长", "boss of x vvip"], 
+      ["修仁杰", "employer of x vvip"]
+    ],
+    "三合会": [
+      ["洪船长", "business partner of x"], 
+      ["刘奇", "employee of x"]
+    ]
+}

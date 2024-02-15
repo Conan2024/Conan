@@ -1,0 +1,54 @@
+{
+    "师父": [
+      ["陆英", "master apprentice of x, mentor mentee of x, father son of x"], 
+      ["凌霄", "master disciple relationship of x"], 
+      ["紫苏", "master disciple of x, mentor protege of x, co workers of x"], 
+      ["玄冰使", "master disciple of x, mentor mentee of x"], 
+      ["武林盟使", "mentor of x, teacher of x, acquaintance of x, classmate of x, friend of x"], 
+      ["二师叔", "master disciple of x, mentor mentee of x"]
+    ],
+    "陆英": [
+      ["师父", "master apprentice of x, mentor mentee of x, father son of x"], 
+      ["凌霄", "师弟 of x, 弟子 of x, 掌门 of x, 同門 of x, 友人 of x, 兄弟 of x, 情人 of x"], 
+      ["紫苏", "师徒关係 of x, 掌门之位繼承 of x, 同門之輩 of x, 私情 of x"], 
+      ["玄冰使", "师弟关系 of x, 同门弟子 of x, 情感关系 of x, 合作关系 of x, 对手关系 of x"], 
+      ["武林盟使", "师徒关係 of x, 长老关系 of x, 友人关系 of x, 潜在的競爭relationship of x, 對手relationship of x, 协力关系 of x"], 
+      ["二师叔", "师弟关係 of x, 长老 and 弟子 of x, 兄弟 of x, 戀愛关系 of x"]
+    ],
+    "凌霄": [
+      ["师父", "master disciple relationship of x"], 
+      ["陆英", "师弟 of x, 弟子 of x, 掌门 of x, same門 of x, 友人 of x, 兄弟 of x, 情人 of x"], 
+      ["紫苏", "friend of x, close friend of x"], 
+      ["玄冰使", "master of x, superior of x"], 
+      ["二师叔", "suspicious of x"]
+    ],
+    "紫苏": [
+      ["师父", "master disciple of x, mentor protege of x, co workers of x"], 
+      ["陆英", "师徒关係 of x, 掌门之位繼承 of x, 同門之輩 of x, 私情 of x"], 
+      ["凌霄", "friend of x, close friend of x"], 
+      ["玄冰使", "childhood friend of x, rivals in love of x"], 
+      ["二师叔", "childhood friend of x"]
+    ],
+    "玄冰使": [
+      ["师父", "master disciple of x, mentor mentee of x"], 
+      ["陆英", "师弟关系 of x, 同门弟子 of x, 情感关系 of x, 合作关系 of x, 对手关系 of x"], 
+      ["凌霄", "apprentice of x, subject of x investigation for x"], 
+      ["紫苏", "childhood friend of x, rivals in love of x"], 
+      ["武林盟使", "同门弟子 of x, 对敌 of x, rival of x"], 
+      ["二师叔", "acquaintance of x"]
+    ],
+    "武林盟使": [
+      ["师父", "mentor of x, teacher of x, acquaintance of x, classmate of x, friend of x"], 
+      ["陆英", "师徒关係 of x, 长老关系 of x, 友人关系 of x, 潜在的競爭relationship of x, 對手relationship of x, 协力关系 of x"], 
+      ["玄冰使", "同门弟子 of x, 对敌 of x, rival of x"], 
+      ["二师叔", "suspect of x"]
+    ],
+    "二师叔": [
+      ["师父", "master disciple of x, mentor mentee of x"], 
+      ["陆英", "师弟关係 of x, 长老 and 弟子 of x, 兄弟 of x, 戀愛关系 of x"], 
+      ["凌霄", "suspicious of x"], 
+      ["紫苏", "childhood friend of x, romantic interest of x"], 
+      ["玄冰使", "acquaintance of x"], 
+      ["武林盟使", "suspect of x"]
+    ]
+}

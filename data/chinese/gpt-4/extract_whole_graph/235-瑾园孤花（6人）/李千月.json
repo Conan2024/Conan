@@ -1,0 +1,202 @@
+{
+    "李千月": [
+        [
+            "裴有季",
+            "same person as x (different identity)"
+        ],
+        [
+            "裴知鹤",
+            "uncle of x"
+        ],
+        [
+            "秀姑",
+            "aunt of x"
+        ],
+        [
+            "明珠",
+            "cousin of x"
+        ],
+        [
+            "耿通贤",
+            "stranger to x"
+        ],
+        [
+            "琼花",
+            "acquaintance of x, customer of x, helped by x"
+        ],
+        [
+            "大叔",
+            "customer of x"
+        ],
+        [
+            "求财的少妇",
+            "customer of x"
+        ],
+        [
+            "寻失物的青年",
+            "customer of x"
+        ],
+        [
+            "寻人的丫鬟",
+            "customer of x"
+        ]
+    ],
+    "裴有季": [
+        [
+            "李千月",
+            "same person as x (different reference)"
+        ],
+        [
+            "裴知鹤",
+            "uncle of x"
+        ],
+        [
+            "秀姑",
+            "aunt of x"
+        ],
+        [
+            "明珠",
+            "cousin of x"
+        ]
+    ],
+    "裴知鹤": [
+        [
+            "裴有季",
+            "nephew of x"
+        ],
+        [
+            "李千月",
+            "nephew of x (different identity)"
+        ],
+        [
+            "秀姑",
+            "wife of x"
+        ],
+        [
+            "明珠",
+            "daughter of x"
+        ]
+    ],
+    "秀姑": [
+        [
+            "裴知鹤",
+            "husband of x"
+        ],
+        [
+            "裴有季",
+            "nephew of x"
+        ],
+        [
+            "李千月",
+            "nephew of x (different identity)"
+        ],
+        [
+            "明珠",
+            "daughter of x"
+        ],
+        [
+            "耿通贤",
+            "brother of x"
+        ]
+    ],
+    "明珠": [
+        [
+            "裴知鹤",
+            "father of x"
+        ],
+        [
+            "秀姑",
+            "mother of x"
+        ],
+        [
+            "裴有季",
+            "cousin of x"
+        ],
+        [
+            "李千月",
+            "cousin of x (different identity)"
+        ]
+    ],
+    "耿通贤": [
+        [
+            "秀姑",
+            "sister of x"
+        ],
+        [
+            "琼花",
+            "wife of x"
+        ],
+        [
+            "裴有季",
+            "stranger to x"
+        ],
+        [
+            "李千月",
+            "stranger to x (different identity)"
+        ],
+        [
+            "寻失物的青年",
+            "acquaintance of x"
+        ]
+    ],
+    "琼花": [
+        [
+            "耿通贤",
+            "husband of x"
+        ],
+        [
+            "裴有季",
+            "helper of x, helped by x"
+        ],
+        [
+            "李千月",
+            "helper of x, helped by x (different identity)"
+        ],
+        [
+            "求财的少妇",
+            "acquaintance of x"
+        ],
+        [
+            "寻失物的青年",
+            "acquaintance of x"
+        ],
+        [
+            "寻人的丫鬟",
+            "servant of x"
+        ]
+    ],
+    "求财的少妇": [
+        [
+            "李千月",
+            "fortune teller of x"
+        ],
+        [
+            "琼花",
+            "acquaintance of x"
+        ]
+    ],
+    "寻失物的青年": [
+        [
+            "李千月",
+            "customer of x"
+        ],
+        [
+            "耿通贤",
+            "acquaintance of x"
+        ],
+        [
+            "琼花",
+            "acquaintance of x"
+        ]
+    ],
+    "寻人的丫鬟": [
+        [
+            "李千月",
+            "service provider of x"
+        ],
+        [
+            "琼花",
+            "mistress of x"
+        ]
+    ]
+}

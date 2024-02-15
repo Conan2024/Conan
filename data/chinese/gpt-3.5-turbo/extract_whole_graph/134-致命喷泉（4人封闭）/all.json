@@ -1,0 +1,226 @@
+{
+    "何老六": [
+        [
+            "父亲 of 神仙女儿",
+            "father of x"
+        ],
+        [
+            "brother of 何小三",
+            "brother of x"
+        ],
+        [
+            "friend of 何大一",
+            "friend of x"
+        ],
+        [
+            "neighbor of 何大二",
+            "neighbor of x"
+        ],
+        [
+            "colleague of 何大四",
+            "colleague of x"
+        ],
+        [
+            "business partner of 何大五",
+            "business partner of x"
+        ],
+        [
+            "tenant of 何大六",
+            "tenant of x"
+        ]
+    ],
+    "神仙女儿": [
+        [
+            "daughter of 何老六",
+            "child of x"
+        ],
+        [
+            "girlfriend of 范文芳",
+            "romantic relationships with x"
+        ],
+        [
+            "friend of 何大一",
+            "friend of x"
+        ],
+        [
+            "neighbor of 何小二",
+            "neighbor of x"
+        ],
+        [
+            "business partner of 宋大三",
+            "business partner of x"
+        ]
+    ],
+    "范文芳": [
+        [
+            "girlfriend of 神仙女儿",
+            "romantic relationships with x"
+        ],
+        [
+            "business partner of 何大五",
+            "business partner of x"
+        ],
+        [
+            "classmate of 何小二",
+            "classmate of x"
+        ],
+        [
+            "landlord of 何大六",
+            "landlord of x"
+        ]
+    ],
+    "何小一": [
+        [
+            "brother of 何老六",
+            "brother of x"
+        ],
+        [
+            "ex boyfriend of 神仙女儿",
+            "ex boyfriend of x"
+        ],
+        [
+            "classmate of 何小二",
+            "classmate of x"
+        ],
+        [
+            "patient of 宋大三",
+            "patient of x"
+        ]
+    ],
+    "何小二": [
+        [
+            "brother of 何老六",
+            "brother of x"
+        ],
+        [
+            "neighbor of 神仙女儿",
+            "neighbor of x"
+        ],
+        [
+            "classmate of 范文芳",
+            "classmate of x"
+        ],
+        [
+            "doctor of 何小一",
+            "doctor of x"
+        ]
+    ],
+    "何小三": [
+        [
+            "brother of 何老六",
+            "brother of x"
+        ],
+        [
+            "classmate of 何大四",
+            "classmate of x"
+        ],
+        [
+            "employee of 宋大三",
+            "employee of x"
+        ]
+    ],
+    "何大一": [
+        [
+            "friend of 何老六",
+            "friend of x"
+        ],
+        [
+            "friend of 神仙女儿",
+            "friend of x"
+        ],
+        [
+            "classmate of 何小三",
+            "classmate of x"
+        ],
+        [
+            "servant of 宋大三",
+            "servant of x"
+        ]
+    ],
+    "何大二": [
+        [
+            "neighbor of 何老六",
+            "neighbor of x"
+        ],
+        [
+            "neighbor of 神仙女儿",
+            "neighbor of x"
+        ],
+        [
+            "tenant of 何大六",
+            "tenant of x"
+        ],
+        [
+            "guard of 宋大三",
+            "guard of x"
+        ]
+    ],
+    "何大四": [
+        [
+            "colleague of 何老六",
+            "colleague of x"
+        ],
+        [
+            "classmate of 何小三",
+            "classmate of x"
+        ],
+        [
+            "employer of 何大五",
+            "employer of x"
+        ]
+    ],
+    "何大五": [
+        [
+            "business partner of 何老六",
+            "business partner of x"
+        ],
+        [
+            "business partner of 范文芳",
+            "business partner of x"
+        ],
+        [
+            "employer of 何大四",
+            "employer of x"
+        ],
+        [
+            "customer of 宋大三",
+            "customer of x"
+        ]
+    ],
+    "何大六": [
+        [
+            "tenant of 何老六",
+            "tenant of x"
+        ],
+        [
+            "landlord of 范文芳",
+            "landlord of x"
+        ],
+        [
+            "buyer of 宋大三",
+            "buyer of x"
+        ]
+    ],
+    "宋大三": [
+        [
+            "business partner of 神仙女儿",
+            "business partner of x"
+        ],
+        [
+            "patient of 何小一",
+            "patient of x"
+        ],
+        [
+            "employee of 何小三",
+            "employee of x"
+        ],
+        [
+            "servant of 何大一",
+            "servant of x"
+        ],
+        [
+            "customer of 何大五",
+            "customer of x"
+        ]
+    ]
+}

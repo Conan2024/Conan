@@ -1,0 +1,157 @@
+{
+    "决明": [
+        [
+            "玄冰教使者",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "盗圣",
+            "master of disguise",
+            "thief",
+            "spy",
+            "acquaintance of X",
+            "classmate of X",
+            "schoolmate of X",
+            "neighbour of X"
+        ],
+        [
+            "紫苏",
+            "Undercover Enemy"
+        ],
+        [
+            "蜂",
+            "Co-conspirators",
+            "Thieves",
+            "Professional Rivals",
+            "Potential Allies",
+            "Enemies"
+        ],
+        [
+            "陆英",
+            "acquaintance"
+        ]
+    ],
+    "玄冰教使者": [
+        [
+            "决明",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "盗圣",
+            "Acquaintance"
+        ],
+        [
+            "紫苏",
+            "Acquaintance, Suspicious"
+        ],
+        [
+            "蜂",
+            "Perpetrator of X",
+            "Bully of X"
+        ],
+        [
+            "陆英",
+            "Suspect of X"
+        ]
+    ],
+    "盗圣": [
+        [
+            "决明",
+            "master of disguise",
+            "thief",
+            "spy",
+            "acquaintance of X",
+            "classmate of X",
+            "schoolmate of X",
+            "neighbour of X"
+        ],
+        [
+            "玄冰教使者",
+            "Acquaintance"
+        ],
+        [
+            "蜂",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "陆英",
+            " acquaintance, co-conspirator"
+        ]
+    ],
+    "紫苏": [
+        [
+            "决明",
+            "Suspicious of"
+        ],
+        [
+            "玄冰教使者",
+            "Acquaintance, Suspicious"
+        ],
+        [
+            "盗圣",
+            "Perpetrator-Victim",
+            "Enemy"
+        ],
+        [
+            "蜂",
+            "Colleague"
+        ],
+        [
+            "陆英",
+            " acquaintance, suspect"
+        ]
+    ],
+    "蜂": [
+        [
+            "决明",
+            "Co-conspirators",
+            "Thieves",
+            "Professional Rivals",
+            "Potential Allies",
+            "Enemies"
+        ],
+        [
+            "玄冰教使者",
+            " Victim of X",
+            "Target of X"
+        ],
+        [
+            "盗圣",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "紫苏",
+            "Colleague"
+        ],
+        [
+            "陆英",
+            "colleague, rival, enemy"
+        ]
+    ],
+    "陆英": [
+        [
+            "决明",
+            "acquaintance"
+        ],
+        [
+            "玄冰教使者",
+            "Victim of X"
+        ],
+        [
+            "盗圣",
+            "acquaintance, co-conspirator"
+        ],
+        [
+            "紫苏",
+            "acquaintance, suspect"
+        ],
+        [
+            "蜂",
+            "colleague, rival, enemy"
+        ]
+    ]
+}

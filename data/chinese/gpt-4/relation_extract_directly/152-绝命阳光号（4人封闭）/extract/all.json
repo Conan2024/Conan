@@ -1,0 +1,280 @@
+{
+    "雯秘书": [
+        [
+            "杨老板",
+            "subordinate of x, deceiver of x, murderer of x, enemy of x"
+        ],
+        [
+            "张大副",
+            "acquaintance of x, business partner of x"
+        ],
+        [
+            "玲船医",
+            "informant of x, deceptive source of information for x, victim of x"
+        ],
+        [
+            "很天真",
+            "colleague of x, deceptive source of information for x, victim of x"
+        ],
+        [
+            "王小工的妻子（已故）",
+            "stranger to x"
+        ],
+        [
+            "王小工",
+            "victim of x, manipulated by x"
+        ],
+        [
+            "王船工",
+            "potential business partner of x, possible family of x through son"
+        ],
+        [
+            "王小工（王船工的儿子）",
+            "stranger to x"
+        ]
+    ],
+    "杨老板": [
+        [
+            "雯秘书",
+            "superior of x, deceived by x"
+        ],
+        [
+            "张大副",
+            "business partner of x"
+        ],
+        [
+            "玲船医",
+            "information receiver from x, employee of x"
+        ],
+        [
+            "很天真",
+            "same person as x (different identity)"
+        ],
+        [
+            "王小工的妻子（已故）",
+            "stranger to x"
+        ],
+        [
+            "王小工",
+            "customer of x, manipulated by x"
+        ],
+        [
+            "王船工",
+            "acquaintance of x"
+        ],
+        [
+            "王小工（王船工的儿子）",
+            "stranger to x"
+        ]
+    ],
+    "张大副": [
+        [
+            "雯秘书",
+            "acquaintance of x, business partner of x"
+        ],
+        [
+            "杨老板",
+            "business partner of x"
+        ],
+        [
+            "玲船医",
+            "acquaintance of x, possible informant of x"
+        ],
+        [
+            "很天真",
+            "stranger to x"
+        ],
+        [
+            "王小工",
+            "stranger to x"
+        ],
+        [
+            "王船工",
+            "business partner of x"
+        ],
+        [
+            "王小工（王船工的儿子）",
+            "stranger to x"
+        ]
+    ],
+    "玲船医": [
+        [
+            "雯秘书",
+            "informant of x, deceived by x"
+        ],
+        [
+            "杨老板",
+            "informant of x"
+        ],
+        [
+            "张大副",
+            "acquaintance of x, possible informant of x"
+        ],
+        [
+            "很天真",
+            "stranger to x"
+        ],
+        [
+            "王小工",
+            "husband of x"
+        ],
+        [
+            "王船工",
+            "father in law of x, friend of x"
+        ],
+        [
+            "王小工（王船工的儿子）",
+            "husband of x"
+        ]
+    ],
+    "王船工": [
+        [
+            "雯秘书",
+            "business approach by x"
+        ],
+        [
+            "杨老板",
+            "acquaintance of x"
+        ],
+        [
+            "张大副",
+            "business partner of x"
+        ],
+        [
+            "玲船医",
+            "son's wife of x, friend of x"
+        ],
+        [
+            "王小工",
+            "father of x"
+        ],
+        [
+            "王小工（王船工的儿子）",
+            "same person as x"
+        ]
+    ],
+    "王小工": [
+        [
+            "雯秘书",
+            "victim of x, manipulated by x"
+        ],
+        [
+            "杨老板",
+            "customer of x, manipulated by x"
+        ],
+        [
+            "张大副",
+            "stranger to x"
+        ],
+        [
+            "玲船医",
+            "wife of x"
+        ],
+        [
+            "王船工",
+            "son of x"
+        ]
+    ],
+    "路人甲": [
+        [
+            "雯秘书",
+            "stranger to x"
+        ],
+        [
+            "杨老板",
+            "stranger to x"
+        ],
+        [
+            "张大副",
+            "stranger to x"
+        ],
+        [
+            "玲船医",
+            "stranger to x"
+        ],
+        [
+            "很天真",
+            "stranger to x"
+        ],
+        [
+            "王小工",
+            "stranger to x"
+        ],
+        [
+            "王船工",
+            "stranger to x"
+        ],
+        [
+            "王小工（王船工的儿子）",
+            "stranger to x"
+        ]
+    ],
+    "不重要船长": [
+        [
+            "雯秘书",
+            "stranger to x"
+        ],
+        [
+            "杨老板",
+            "stranger to x"
+        ],
+        [
+            "张大副",
+            "stranger to x"
+        ],
+        [
+            "玲船医",
+            "stranger to x"
+        ],
+        [
+            "很天真",
+            "stranger to x"
+        ],
+        [
+            "王小工",
+            "stranger to x"
+        ],
+        [
+            "王船工",
+            "stranger to x"
+        ],
+        [
+            "王小工（王船工的儿子）",
+            "stranger to x"
+        ]
+    ],
+    "很天真": [
+        [
+            "雯秘书",
+            "colleague of x, victim of x"
+        ],
+        [
+            "杨老板",
+            "same person as x (different identity)"
+        ],
+        [
+            "张大副",
+            "stranger to x"
+        ],
+        [
+            "玲船医",
+            "stranger to x"
+        ],
+        [
+            "王小工的妻子（已故）",
+            "stranger to x"
+        ],
+        [
+            "王小工",
+            "stranger to x"
+        ],
+        [
+            "王船工",
+            "stranger to x"
+        ],
+        [
+            "王小工（王船工的儿子）",
+            "stranger to x"
+        ]
+    ]
+}

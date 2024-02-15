@@ -1,0 +1,90 @@
+{
+    "林阳": [
+      ["林惟仁", "adoptive son of x, debtor of x, subject of x investigation for x, possible suspect to x, possible suspect of x"], 
+      ["林夕", "adoptive brother of x, sibling of x"], 
+      ["沈城", "employee of x, informant of x"], 
+      ["苏阳", "fiance of x sibling, business rival of x, possible suspect of x, debtor of x, medical professional of x"], 
+      ["林彤", "no relationship mentioned of x"], 
+      ["顾晴", "unrequited love of x, admirer of x, romantic relationships with x"], 
+      ["顾宇", "acquaintance of x, ex brother in law of x"], 
+      ["顾明", "acquaintance of x, father of lover of x, father in law of x, murder victim investigated by x"]
+    ],
+    "林惟仁": [
+      ["林阳", "adoptive father of x, creditor of x, victim of x"], 
+      ["林夕", "father of x, biological father of x"], 
+      ["沈城", "employee of x, servant of x"], 
+      ["苏阳", "adoptive father of x, suspect of x, in the lawsuit against x, victim of x"], 
+      ["顾晴", "friend of x's child, possible beneficiary of x's will, suspect by x"], 
+      ["顾宇", "father in law of x, ex future father in law of x"], 
+      ["顾明", "friend of x"]
+    ],
+    "林夕": [
+      ["林阳", "adoptive sister of x, sibling of x"], 
+      ["林惟仁", "child of x, daughter of x, biological daughter of x"], 
+      ["沈城", "child of x, mentee of x"], 
+      ["苏阳", "fiance of x, patient of x"], 
+      ["林彤", "same person as x (different identity)"], 
+      ["顾晴", "childhood friend of x, patient of x, ex romantic relationships with x, fiance of x's sibling, acquaintance of x"], 
+      ["顾宇", "ex boyfriend of x"], 
+      ["顾明", "acquaintance of x"]
+    ],
+    "沈城": [
+      ["林阳", "employer of x, information receiver from x"], 
+      ["林惟仁", "employer of x, master of x"], 
+      ["林夕", "parental figure of x, mentor of x"], 
+      ["苏阳", "informant of x, employee of x"], 
+      ["林阳", "informant of x"], 
+      ["顾晴", "servant of x"], 
+      ["顾宇", "servant of x"], 
+      ["顾明", "acquaintance of x, colleague of x"]
+    ],
+    "苏阳": [
+      ["林阳", "fiance of x sibling, business rival of x, suspected by of x, medical professional of x"], 
+      ["林惟仁", "adoptive son of x, suspect to x, adversary of x"], 
+      ["林夕", "fiancee of x, doctor of x"], 
+      ["沈城", "information receiver from x"], 
+      ["林彤", "fiance of x, future son in law of x"], 
+      ["顾晴", "admirer of x, romantic relationships with x, fiance of sibling of x"], 
+      ["顾宇", "fiance of x"], 
+      ["顾明", "relative of x, father in law of x"]
+    ],
+    "林彤": [
+      ["林阳", "no relationship mentioned of x"], 
+      ["林夕", "same person as x (different identity)"], 
+      ["林阳", "mentioned by x"], 
+      ["苏阳", "fiancee of x, future daughter in law of x"], 
+      ["顾晴", "acquaintance of x, possibly family of x"], 
+      ["顾宇", "sibling of x"], 
+      ["顾明", "acquaintance of x, possibly family of x"]
+    ],
+    "顾晴": [
+      ["林阳", "admirer by x, girlfriend of x"], 
+      ["林惟仁", "father of x's romantic interest, suspected by x"], 
+      ["林夕", "childhood friend of x, ex girlfriend of x's brother, acquaintance of x, admirer of x someone else"], 
+      ["沈城", "employer of x"], 
+      ["苏阳", "admired by x, ex romantic relationships with x"], 
+      ["林彤", "acquaintance of x, possibly family of x"], 
+      ["顾宇", "sibling of x"], 
+      ["顾明", "child of x"]
+    ],
+    "顾宇": [
+      ["林阳", "acquaintance of x, ex brother in law of x"], 
+      ["林惟仁", "ex son in law of x, future son in law of x"], 
+      ["林夕", "ex girlfriend of x"], 
+      ["沈城", "master of x"], 
+      ["苏阳", "fiancee of x"], 
+      ["林彤", "sibling of x"], 
+      ["顾晴", "sibling of x"], 
+      ["顾明", "son of x"]
+    ],
+    "顾明": [
+      ["林阳", "acquaintance of x, father of x's lover, potential future father in law of x, murder victim of x"], 
+      ["林惟仁", "friend of x"], 
+      ["林夕", "father of x's girlfriend"], 
+      ["沈城", "acquaintance of x, colleague of x"], 
+      ["苏阳", "relative of x, future son in law of x"], 
+      ["林彤", "acquaintance of x, possibly family of x"], 
+      ["顾晴", "father of x"], 
+      ["顾宇", "father of x"]
+    ]
+}

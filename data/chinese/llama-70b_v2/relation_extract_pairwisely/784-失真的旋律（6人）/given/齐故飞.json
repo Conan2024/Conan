@@ -1,0 +1,124 @@
+{
+    "招楠": [
+      ["故飞", "enemy of x"], 
+      ["望娣", "罗秀才 of x"], 
+      ["罗有诺", "relative of x, sister in law of x"], 
+      ["罗秀才", "opposer of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helpee of x, bully of x, perpetrator of x, victim of x, killed by of x, dislike of x, disliked by of x, subject of x investigation for, deceiver of x, betrayer of x, deceived by of x, betrayed by of x, suspect of x, suspicious of x, suspect of x, adversary of x, enemy of x, rival of x, manipulator of x, manipulated by of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x"], 
+      ["贵郎", "罗秀才 of x, 阮太太 of x, 黑莉 of x, 罗有诺 of x"], 
+      ["阮太太", "罗秀才 of x, 黑莉 of x, 贵郎 of x, 望娣 of x"], 
+      ["雪嫣", "罗秀才 of x"], 
+      ["黑莉", "relationship 1: 朋友 of x, relationship 2: 师妹/姐妹 of x"]
+    ],
+    "故飞": [
+      ["招楠", "enemy of x"], 
+      ["望娣", "学生与教师 of x, 兄妹 of x, 亲密朋友 of x, 保护者与受保护者 of x"], 
+      ["罗有诺", "acquaintance of x, rival of x, enemy of x"], 
+      ["罗秀才", "rival of x, enemy of x"], 
+      ["贵郎", "学生与教师 of x, 朋友 of x, flatmate of x, 兄弟 of x, 对手 of x"], 
+      ["阮太太", "landlord of x, dance teacher of x, friend of x, protector of x"], 
+      ["雪嫣", "儿女之 relatives 虐恋人 of x"], 
+      ["黑莉", "养弟妹 of x, 朋友 of x, 保护人 of x, 合謀者 of x"], 
+      ["齐清礼", "养父 of x, 义兄 of x, 朋友 of x, 敌人 of x, 利益关系 of x"]
+    ],
+    "望娣": [
+      ["招楠", "齐故飞 of x"], 
+      ["故飞", "学生与教师 of x, 兄妹 of x, 亲密朋友 of x, 保护者与受保护者 of x"], 
+      ["王子摩", "friend of x"], 
+      ["罗有诺", "罗秀才 of x"], 
+      ["罗秀才", "acquaintance of x"], 
+      ["贵郎", "罗秀才 of x, 阮太太 of x, 招楠 of x"], 
+      ["阮太太", "adoptive mother of x, caregiver of x"], 
+      ["雪嫣", "罗秀才 of x"], 
+      ["黑莉", "sisterly of x, protective of x, and supportive relationship of x"], 
+      ["齐清礼", "father daughter relationship of x, adoptive father daughter relationship of x, mentor mentee relationship of x, protector protected relationship of x, acquaintance of x, friend of x"]
+    ],
+    "王子摩": [
+      ["望娣", "friend of x"], 
+      ["罗有诺", "对敌 of x, 救赎者 of x"], 
+      ["罗秀才", "opponent of x, bully of x, perpetrator of x, murderer of x, attempted perpetrator of x, attempted murderer of x, suspect of x, adversary of x, enemy of x"], 
+      ["贵郎", "rival of x"], 
+      ["阮太太", "relation1 of x, relation2 of x"], 
+      ["黑莉", "brother in law of x, friend of x, savior of x"], 
+      ["齐清礼", "adoptive father of x, mentor of x, and protector of x"]
+    ],
+    "罗有诺": [
+      ["招楠", "relative of x, brother in law of x"], 
+      ["故飞", "friend of x"], 
+      ["望娣", "罗秀才 of x"], 
+      ["王子摩", "受欺负的人 of x, 被救赎的人 of x"], 
+      ["罗秀才", "friend of x"], 
+      ["贵郎", "罗秀才 of x, 招楠 of x, 招楠 of x, 罗秀才 of x"], 
+      ["阮太太", "acquaintance of x, neighbor of x, suspicious of x, rival of x, enemy of x"], 
+      ["雪嫣", "黑莉 of x, 招楠 of x, 罗秀才 of x"], 
+      ["黑莉", "罗秀才 of x, 招楠 of x"], 
+      ["齐清礼", "classmate of x, friend of x, roommate of x"]
+    ],
+    "罗秀才": [
+      ["招楠", "opposer of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helpee of x, bully of x, perpetrator of x, victim of x, killed by of x, dislike of x, disliked by of x, subject of x investigation for, deceiver of x, betrayer of x, deceived by of x, betrayed by of x, suspect of x, suspicious of x, suspect of x, adversary of x, enemy of x, rival of x, manipulator of x, manipulated by of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x"], 
+      ["故飞", "rival of x, enemy of x"], 
+      ["望娣", "acquaintance of x, bully of x"], 
+      ["王子摩", "opponent of x, bully of x, perpetrator of x, murderer of x, attempted perpetrator of x, attempted murderer of x, suspect of x, adversary of x, enemy of x"], 
+      ["罗有诺", "friend of x"], 
+      ["贵郎", "rival of x, bully of x"], 
+      ["阮太太", "family member of x, landlord of x, perpetrator of x, bully of x, murderer of x"], 
+      ["雪嫣", "perpetrator of x's harassment, bully of x 招楠"], 
+      ["黑莉", "对手 of x, villan of x"], 
+      ["齐清礼", "same person as x (different reference), same person as x (different identity), stranger to x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by x"]
+    ],
+    "贵郎": [
+      ["招楠", "罗秀才 of x, 阮太太 of x, 黑莉 of x, 罗有课 of x"], 
+      ["故飞", "学生与教师 of x, 朋友 of x, flatmate of x, 兄弟 of x, 对手 of x"], 
+      ["望娣", "罗秀才 of x, 阮太太 of x, 招楠 of x"], 
+      ["王子摩", "rival of x"], 
+      ["罗有诺", "罗秀才 of x, 招楠 of x, 招楠 of x, 罗秀才 of x"], 
+      ["罗秀才", "rival of x, victim of x"], 
+      ["阮太太", "son of x, student of x, teacher of x, assistant of x, friend of x"], 
+      ["雪嫣", "阮太太 of x, 罗秀才 of x, 招楠 of x, x"], 
+      ["黑莉", "招楠 of x, 罗秀才 of x, 罗有诺 of x, 雪嫣 of x"]
+    ],
+    "阮太太": [
+      ["招楠", "罗秀才 of x, 黑莉 of x, 贵郎 of x, 望娣 of x"], 
+      ["故飞", "tenant of x, student of x, friend of x, ward of x"], 
+      ["望娣", "adopted daughter of x, dependant of x"], 
+      ["王子摩", "relation1 of x, relation2 of x"], 
+      ["罗有诺", "acquaintance of x, neighbor of x, suspicious of x, rival of x, enemy of x"], 
+      ["罗秀才", "family member of x, landlady of x, victim of x, killed by of x, deceased of x"], 
+      ["贵郎", "son of x, student of x, teacher of x, assistant of x, friend of x"], 
+      ["雪嫣", "罗秀才 of x, 黑莉 of x, 招楠 of x"], 
+      ["黑莉", "招楠 of x, 贵郎 of x, 罗秀才 of x"], 
+      ["齐清礼", "husband of x, father in law of x, grandfather in law of x"]
+    ],
+    "雪嫣": [
+      ["招楠", "罗秀才 of x"], 
+      ["故飞", "儿女之 relatives 虐恋人 of x"], 
+      ["望娣", "罗秀才 of x"], 
+      ["罗有诺", "黑莉 of x, 招楠 of x, 罗秀才 of x"], 
+      ["罗秀才", "victim of x's harassment, acquaintance of x 黑莉"], 
+      ["贵郎", "阮太太 of x, 罗秀才 of x, 招楠 of x, x"], 
+      ["阮太太", "罗秀才 of x, 黑莉 of x, 招楠 of x"], 
+      ["黑莉", "acquaintance of x, classmate of x"], 
+      ["齐清礼", "敌人 of x"]
+    ],
+    "黑莉": [
+      ["招楠", "relationship 1: 朋友 of x, relationship 2: 师婆/姐妹 of x"], 
+      ["故飞", "养弟妹 of x, 朋友 of x, 保护人 of x, 合謀者 of x"], 
+      ["望娣", "sisterly of x, protective of x, and supportive relationship of x"], 
+      ["王子摩", "brother in law of x, friend of x, saved person of x"], 
+      ["罗有诺", "罗秀才 of x, 招楠 of x"], 
+      ["罗秀才", "儿amdamm of x, friend of x"], 
+      ["贵郎", "招楠 of x, 罗秀才 of x, 罗有诺 of x, 雪嫣 of x"], 
+      ["阮太太", "招楠 of x, 罗秀才 of x, 贵郎 of x"], 
+      ["雪嫣", "acquaintance of x, classmate of x"], 
+      ["齐清礼", "义妹 of x, 朋 friend of x"]
+    ],
+    "齐清礼": [
+      ["故飞", "养子 of x, 义兄 of x, 朋友 of x, 敌人 of x, 利益关系 of x"], 
+      ["望娣", "father daughter relationship of x, adoptive father daughter relationship of x, mentor mentee relationship of x, protector protected relationship of x, acquaintance of x, friend of x"], 
+      ["王子摩", "adoptive son of x, mentee of x, and protectee of x"], 
+      ["罗有诺", "classmate of x, friend of x, roommate of x"], 
+      ["罗秀才", "same person as x (different reference), same person as x (different identity), stranger to x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by x"], 
+      ["阮太太", "wife of x, mother in law of x, grandmother in law of x"], 
+      ["雪嫣", "敌人 of x"], 
+      ["黑莉", "义儿 of x, 朋友 of x"]
+    ]
+}

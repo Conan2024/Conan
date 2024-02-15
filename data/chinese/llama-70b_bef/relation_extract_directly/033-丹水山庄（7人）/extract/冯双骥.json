@@ -1,0 +1,46 @@
+{
+    "冯双骥": [
+      ["赵万雷", "mentor of x"], 
+      ["李郁", "acquaintance of x, colleague of x"], 
+      ["赵卫", "friend of x"], 
+      ["赵秋儿", "helper of x"], 
+      ["齐岳", "acquaintance of x, colleague of x"], 
+      ["尹少鸣", "acquaintance of x, nephew of x"], 
+      ["郭望山", "business partner of x"]
+    ],
+    "赵万雷": [
+      ["冯双骥", "mentor of x"], 
+      ["赵卫", "son of x"], 
+      ["赵洛意", "daughter of x"], 
+      ["赵秋儿", "helper of x"], 
+      ["齐岳", "acquaintance of x, colleague of x"], 
+      ["尹少鸣", "nephew of x"]
+    ],
+    "李郁": [
+      ["冯双骥", "acquaintance of x, colleague of x"], 
+      ["赵万雷", "husband of x, superior of x"]
+    ],
+    "赵卫": [
+      ["冯双骥", "friend of x"], 
+      ["赵万雷", "father of x"]
+    ],
+    "赵洛意": [
+      ["赵万雷", "father of x"]
+    ],
+    "赵秋儿": [
+      ["冯双骥", "helper of x"], 
+      ["赵万雷", "master of x, employer of x"]
+    ],
+    "齐岳": [
+      ["冯双骥", "acquaintance of x, colleague of x"], 
+      ["赵万雷", "master of x, employer of x"]
+    ],
+    "尹少鸣": [
+      ["冯双骥", "acquaintance of x, nephew of x"], 
+      ["赵万雷", "nephew of x"]
+    ],
+    "郭望山": [
+      ["冯双骥", "business partner of x"], 
+      ["赵万雷", "business partner of x"]
+    ]
+}

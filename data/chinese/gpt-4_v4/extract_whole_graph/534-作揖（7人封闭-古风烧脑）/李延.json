@@ -1,0 +1,39 @@
+{
+    "李延": [
+      ["李钦仁", "child of x"], 
+      ["李仲", "younger brother of x"], 
+      ["李氏", "child of x"], 
+      ["接生婆", "helper of x"], 
+      ["李府", "relative of x"], 
+      ["陈府", "acquaintance of x"], 
+      ["陈孜靖", "acquaintance of x"], 
+      ["陈倩", "admirer of x, admired by x, secret lover of x"]
+    ],
+    "李钦仁": [
+      ["李延", "father of x"], 
+      ["李仲", "father of x"], 
+      ["李氏", "husband of x"]
+    ],
+    "李仲": [
+      ["李延", "older brother of x"], 
+      ["李钦仁", "child of x"], 
+      ["李氏", "child of x"], 
+      ["陈倩", "fiance of x"]
+    ],
+    "陈倩": [
+      ["李延", "admired by x, secret admirer of x, secret lover of x"], 
+      ["李仲", "fiancee of x"], 
+      ["陈孜靖", "child of x"]
+    ],
+    "陈孜靖": [
+      ["陈倩", "father of x"]
+    ],
+    "李氏": [
+      ["李延", "mother of x"], 
+      ["李仲", "mother of x"], 
+      ["李钦仁", "wife of x"]
+    ],
+    "接生婆": [
+      ["李延", "helped by x"]
+    ]
+}

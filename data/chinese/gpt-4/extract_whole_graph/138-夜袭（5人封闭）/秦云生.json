@@ -1,0 +1,86 @@
+{
+    "秦云生": [
+        [
+            "秦云海",
+            "sibling of x, deceased by x"
+        ],
+        [
+            "张元帅",
+            "superior of x, victim of x, deceased by x"
+        ],
+        [
+            "吴边城",
+            "colleague of x, subordinate of x, information receiver from x"
+        ],
+        [
+            "王一木",
+            "colleague of x, friend of x"
+        ],
+        [
+            "赵飞岩",
+            "acquaintance of x"
+        ]
+    ],
+    "秦云海": [
+        [
+            "秦云生",
+            "sibling of x"
+        ],
+        [
+            "张元帅",
+            "superior of x, perpetrator of x"
+        ]
+    ],
+    "张元帅": [
+        [
+            "秦云生",
+            "subordinate of x, adversary of x, perpetrator by x, deceased by x"
+        ],
+        [
+            "秦云海",
+            "subordinate of x, killed by x"
+        ],
+        [
+            "吴边城",
+            "subordinate of x"
+        ],
+        [
+            "王一木",
+            "subordinate of x"
+        ],
+        [
+            "赵飞岩",
+            "enemy of x"
+        ]
+    ],
+    "吴边城": [
+        [
+            "秦云生",
+            "colleague of x, superior of x"
+        ],
+        [
+            "张元帅",
+            "superior of x"
+        ]
+    ],
+    "王一木": [
+        [
+            "张元帅",
+            "superior of x, adversary of x"
+        ],
+        [
+            "秦云生",
+            "colleague of x, friend of x"
+        ]
+    ],
+    "赵飞岩": [
+        [
+            "张元帅",
+            "victim of x, adversary of x"
+        ],
+        [
+            "秦云生",
+            "acquaintance of x"
+        ]
+    ]
+}

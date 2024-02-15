@@ -1,0 +1,17 @@
+{
+    "李延": [
+      ["李仲", "brother of x, sibling of x"], 
+      ["李钦仁", "father of x, parent of x"], 
+      ["李氏", "mother of x, parent of x"], 
+      ["陈倩", "love interest of x, potential future wife of x"], 
+      ["陈孜靖", "potential father in law of x, chen family head of x"]
+    ],
+    "陈倩": [
+      ["李延", "love interest of x, potential future husband of x"], 
+      ["陈孜靖", "father of x, parent of x"]
+    ],
+    "陈孜靖": [
+      ["陈倩", "daughter of x, child of x"], 
+      ["李延", "potential son in law of x"]
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "郑函贞": [
+      ["隼", "acquaintance of x, helper of x"], 
+      ["李高柏", "assistant of x, helper of x"], 
+      ["甘玛", "master of x, ally of x"], 
+      ["如娅", "ally of x, friend of x"]
+    ],
+    "隼": [
+      ["郑函贞", "acquaintance of x, helper of x"], 
+      ["甘玛", "master of x"], 
+      ["如娅", "ally of x"]
+    ],
+    "李高柏": [
+      ["郑函贞", "assistant of x, helper of x"], 
+      ["鬼印", "enemy of x"]
+    ],
+    "甘玛": [
+      ["郑函贞", "master of x, ally of x"], 
+      ["如娅", "ally of x"], 
+      ["鬼印", "enemy of x"]
+    ],
+    "如娅": [
+      ["郑函贞", "ally of x, friend of x"], 
+      ["甘玛", "ally of x"], 
+      ["鬼印", "enemy of x"]
+    ],
+    "鬼印": [
+      ["郑函贞", "enemy of x"], 
+      ["甘玛", "enemy of x"], 
+      ["如娅", "enemy of x"]
+    ],
+    "忱纱": [
+      ["郑函贞", "classmate of x, friend of x"], 
+      ["如娅", "friend of x"]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "罗琳": [
+      ["古思特", "friend of x"]
+    ],
+    "后勤格里夫": [
+      ["保安凯文", "same person as x (different reference)"]
+    ],
+    "保安凯文": [
+      ["后勤格里夫", "same person as x (different reference)"], 
+      ["古思特", "friend of x, acquaintance of x"]
+    ],
+    "古思特": [
+      ["罗琳", "master of x, bully of x"], 
+      ["保安凯文", "employer of x, master of x"]
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "章忠": [
+        [
+            "巫师",
+            "same person as x (different identity)"
+        ],
+        [
+            "王妙龄",
+            "ex-romantic relationships with x, mother of x's child"
+        ],
+        [
+            "狼人孩子",
+            "child of x, disliked by x"
+        ],
+        [
+            "狼人",
+            "same person as x (different reference)"
+        ],
+        [
+            "郑义",
+            "helper of x, helped by x, quest companion of x, subject of investigation for x"
+        ],
+        [
+            "美攸",
+            "customer of x, acquaintance of x, business partner of x"
+        ],
+        [
+            "徐真",
+            "customer of x, acquaintance of x"
+        ],
+        [
+            "九一二",
+            "creator of x"
+        ]
+    ],
+    "王妙龄": [
+        [
+            "章忠",
+            "ex-romantic relationships with x, father of x's child"
+        ],
+        [
+            "狼人孩子",
+            "child of x"
+        ]
+    ],
+    "狼人孩子": [
+        [
+            "王妙龄",
+            "mother of x"
+        ],
+        [
+            "章忠",
+            "father of x, disliked by x"
+        ]
+    ],
+    "郑义": [
+        [
+            "章忠",
+            "employee of x, helped by x"
+        ],
+        [
+            "被告",
+            "same person as x (different reference)"
+        ]
+    ],
+    "美攸": [
+        [
+            "章忠",
+            "service provider of x, business partner of x, customer of x"
+        ]
+    ],
+    "徐真": [
+        [
+            "章忠",
+            "customer of x, acquaintance of x"
+        ],
+        [
+            "刘磊",
+            "subordinate of x"
+        ]
+    ]
+}

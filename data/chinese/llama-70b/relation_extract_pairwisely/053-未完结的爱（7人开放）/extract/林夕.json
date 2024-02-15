@@ -1,0 +1,334 @@
+{
+    "林夕": [
+        [
+            "林惟仁",
+            "father, doctor, employer"
+        ],
+        [
+            "林阳",
+            "Brother, Son of 林惟仁",
+            "Sibling of X",
+            "Child of X"
+        ],
+        [
+            "顾宇",
+            "Boyfriend/Girlfriend, Stranger",
+            "Friend"
+        ],
+        [
+            "顾晴",
+            "friend, classmate, caretaker, lover"
+        ],
+        [
+            "苏阳",
+            "恋人, 朋友, Familiar Stranger, 照顾者"
+        ],
+        [
+            "沈城",
+            "acquaintance, friend"
+        ],
+        [
+            "陈静雯",
+            "boyfriend/girlfriend, acquaintance"
+        ],
+        [
+            "林夕的父亲",
+            "father-daughter relationship"
+        ],
+        [
+            "沈城",
+            "professional relationship"
+        ]
+    ],
+    "林惟仁": [
+        [
+            "林夕",
+            "daughter, patient, subordinate"
+        ],
+        [
+            "林阳",
+            "father-son",
+            "master-apprentice"
+        ],
+        [
+            "顾宇",
+            "father-son relationship, mentor-mentee relationship, employer-employee relationship"
+        ],
+        [
+            "顾晴",
+            "father-daughter",
+            "doctor-patient"
+        ],
+        [
+            "苏阳",
+            "father-son relationship, mentor-mentee relationship, employer-employee relationship"
+        ],
+        [
+            "沈城",
+            "employer",
+            "loyal servant"
+        ],
+        [
+            "陈静雯",
+            "father-daughter, doctor-patient"
+        ],
+        [
+            "林夕的父亲",
+            "related to 林夕 as father and daughter"
+        ]
+    ],
+    "林阳": [
+        [
+            "林夕",
+            "Sister of X",
+            "Sibling of X",
+            "Child of X"
+        ],
+        [
+            "林惟仁",
+            "brother-in-law",
+            "colleague"
+        ],
+        [
+            "顾宇",
+            "boyfriend",
+            "ex-boyfriend"
+        ],
+        [
+            "顾晴",
+            "boyfriend, girlfriend"
+        ],
+        [
+            "苏阳",
+            "Brother-in-law, Husband of 顾晴"
+        ],
+        [
+            "沈城",
+            "Brother-in-law, Co-worker, Friend"
+        ],
+        [
+            "陈静雯",
+            "Boyfriend/Girlfriend, Current Lover"
+        ],
+        [
+            "林夕的父亲",
+            "学生，subordinate"
+        ]
+    ],
+    "顾宇": [
+        [
+            "林夕",
+            "Boyfriend/Girlfriend, Stranger",
+            "Friend"
+        ],
+        [
+            "林惟仁",
+            "son, mentee, employee"
+        ],
+        [
+            "林阳",
+            "girlfriend",
+            "ex-girlfriend"
+        ],
+        [
+            "顾晴",
+            "close friend, confidant, and former girlfriend"
+        ],
+        [
+            "苏 Yang",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "沈城",
+            "romantic relationship"
+        ],
+        [
+            "陈静雯",
+            "girlfriend"
+        ],
+        [
+            "林夕的父亲",
+            "boyfriend of 林夕's friend"
+        ]
+    ],
+    "顾晴": [
+        [
+            "林夕",
+            "friend, classmate, caretaker, lover"
+        ],
+        [
+            "林惟仁",
+            "father-daughter",
+            "doctor-patient"
+        ],
+        [
+            "林阳",
+            "boyfriend, girlfriend"
+        ],
+        [
+            "顾宇",
+            "close friend, confidant, and former boyfriend"
+        ],
+        [
+            "苏阳",
+            " acquaintance, friend, classmate"
+        ],
+        [
+            "沈城",
+            " Acquaintance",
+            "Colleague"
+        ],
+        [
+            " Chen静雯",
+            "friend, classmate"
+        ],
+        [
+            "林夕的父亲",
+            "friend"
+        ]
+    ],
+    "苏阳": [
+        [
+            "林夕",
+            "恋人, 朋友, Familiar Stranger, 被照顾者"
+        ],
+        [
+            "林惟仁",
+            "father-son relationship, mentor-mentee relationship, subordinate-superior relationship"
+        ],
+        [
+            "林阳",
+            "Brother-in-law, Boyfriend of 林夕"
+        ],
+        [
+            "顾宇",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "顾晴",
+            "acquaintance, friend, classmate"
+        ],
+        [
+            "沈城",
+            "boyfriend"
+        ],
+        [
+            "陈静雯",
+            " Boyfriend, Lover"
+        ],
+        [
+            "林夕的父亲",
+            "照顾医生",
+            "追求者"
+        ]
+    ],
+    "沈城": [
+        [
+            "林夕",
+            "employer, acquaintance"
+        ],
+        [
+            "林惟仁",
+            "employer",
+            "loyal servant"
+        ],
+        [
+            "林阳",
+            "Brother-in-law, Co-worker, Friend"
+        ],
+        [
+            "顾宇",
+            "brotherly relationship"
+        ],
+        [
+            "顾晴",
+            " Acquaintance",
+            "Colleague"
+        ],
+        [
+            "苏阳",
+            "employer"
+        ],
+        [
+            "陈静雯",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "林夕的父亲",
+            "employer of 林夕's father",
+            "acquaintance of 林夕's father"
+        ]
+    ],
+    "陈静雯": [
+        [
+            "林夕",
+            "boyfriend/girlfriend, acquaintance"
+        ],
+        [
+            "林惟仁",
+            "father-daughter, doctor-patient"
+        ],
+        [
+            "林阳",
+            "Boyfriend/Girlfriend, Current Lover"
+        ],
+        [
+            "顾宇",
+            "boyfriend"
+        ],
+        [
+            "顾晴",
+            "friend, classmate"
+        ],
+        [
+            "苏阳",
+            "Boyfriend, Lover"
+        ],
+        [
+            "沈城",
+            "Employee of X",
+            "Servant of X"
+        ],
+        [
+            "林夕的父亲",
+            "Relative of X"
+        ]
+    ],
+    "林夕的父亲": [
+        [
+            "林夕",
+            "father-daughter relationship"
+        ],
+        [
+            "林惟仁",
+            "related to 林夕 as father and daughter"
+        ],
+        [
+            "林阳",
+            "教育ractor，Employer"
+        ],
+        [
+            "顾宇",
+            "father of 林夕's friend"
+        ],
+        [
+            "顾晴",
+            "father of 林夕"
+        ],
+        [
+            "苏阳",
+            "学生",
+            "照顾医生"
+        ],
+        [
+            "沈城",
+            "employee of 沈城",
+            "acquaintance of 沈城"
+        ],
+        [
+            "陈静雯",
+            "Father of X"
+        ]
+    ]
+}

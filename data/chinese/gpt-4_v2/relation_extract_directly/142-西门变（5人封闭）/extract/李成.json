@@ -1,0 +1,32 @@
+{
+    "李成": [
+      ["赵中正", "spy of x, manipulated by x"], 
+      ["赵中杨", "informant of x, friend of x, subordinate of x, protector of x, admirer of x"], 
+      ["张伟", "acquaintance of x"], 
+      ["陈媚儿", "suspected by x, acquaintance of x"]
+    ],
+    "赵中正": [
+      ["李成", "business partner of x, manipulator of x"], 
+      ["赵中杨", "sibling of x, attempted murderer of x"], 
+      ["张伟", "subordinate of x, acquaintance of x"], 
+      ["陈媚儿", "acquaintance of x"]
+    ],
+    "赵中杨": [
+      ["李成", "superior of x, friend of x, protected by x"], 
+      ["赵中正", "sibling of x, victim of x"], 
+      ["张伟", "subordinate of x, disgruntled subordinate of x"], 
+      ["陈媚儿", "fiancee of x, suspected accomplice of x"]
+    ],
+    "张伟": [
+      ["李成", "colleague of x"], 
+      ["赵中正", "superior of x"], 
+      ["赵中杨", "superior of x, mistrusted by x"], 
+      ["陈媚儿", "colleague of x"]
+    ],
+    "陈媚儿": [
+      ["李成", "suspected by x, colleague of x"], 
+      ["赵中正", "acquaintance of x"], 
+      ["赵中杨", "fiancee of x, suspected by x"], 
+      ["张伟", "colleague of x"]
+    ]
+}

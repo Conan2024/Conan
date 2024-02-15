@@ -1,0 +1,28 @@
+{
+    "伊莱恩·卡特尔": [
+      ["汉斯·里莫瑞特", "colleague of x, friend of x"]
+    ],
+    "帕洛斯基医生": [
+      ["汉斯·里莫瑞特", "colleague of x, friend of x"], 
+      ["理查德•伯克利", "mentor of x, colleague of x, superior of x, friend of x"], 
+      ["西尔维亚·科斯塔", "employee of x, informant of x, acquaintance of x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["伊莱恩·卡特尔", "colleague of x, friend of x"], 
+      ["帕洛斯基医生", "colleague of x, friend of x"], 
+      ["理查德•伯克利", "colleague of x, rival of x"], 
+      ["西尔维亚·科斯타", "employer of x, mentor of x, manipulator of x, adversary of x, rival of x"]
+    ],
+    "理查德•伯克利": [
+      ["帕洛斯基医生", "mentor of x, colleague of x, superior of x, friend of x"], 
+      ["汉斯·里莫瑞特", "colleague of x, rival of x"], 
+      ["西尔维亚·科斯塔", "employee of x, helped by x, informant of x, perpetrator of x, victim of x"]
+    ],
+    "西尔维亚·科斯타": [
+      ["帕洛斯基医生", "employee of x, informant of x, acquaintance of x"]
+    ],
+    "西尔维亚·科斯塔": [
+      ["汉斯·里莫瑞特", "employer of x, mentor of x, manipulator of x, adversary of x, rival of x"], 
+      ["理查德•伯克利", "employee of x, adversary of x, enemy of x"]
+    ]
+}

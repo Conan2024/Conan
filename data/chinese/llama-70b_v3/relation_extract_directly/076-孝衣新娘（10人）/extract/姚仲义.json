@@ -1,0 +1,23 @@
+{
+    "姚仲义": [
+      ["虞君鸿", "friend of x"], 
+      ["敏月姐", "sister of x"], 
+      ["方医生", "doctor of x"]
+    ],
+    "张得采": [
+      ["姚仲义", "cousin of x"]
+    ],
+    "虞君鸿": [
+      ["姚仲义", "friend of x"]
+    ],
+    "敏月姐": [
+      ["姚仲义", "sister of x"]
+    ],
+    "方医生": [
+      ["姚父", "doctor of x"]
+    ],
+    "姚父": [
+      ["姚仲义", "father of x"], 
+      ["徐夫人", "husband of x"]
+    ]
+}

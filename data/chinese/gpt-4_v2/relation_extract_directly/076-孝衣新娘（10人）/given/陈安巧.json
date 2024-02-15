@@ -1,0 +1,70 @@
+{
+    "陈安巧": [
+      ["陈均梦", "cousin of x"], 
+      ["陈轻梧", "employer of x, possible relative of x"], 
+      ["陈市田", "father of x"], 
+      ["姚长寿", "employer of x, debtor of x, suspect of x"], 
+      ["姚孟仁", "acquaintance of x"], 
+      ["姚仲义", "acquaintance of x, object of affection of x"], 
+      ["红夫人", "employer of x, trusted by x"]
+    ],
+    "陈均梦": [
+      ["陈安巧", "cousin of x"], 
+      ["陈轻梧", "father of x"], 
+      ["陈市田", "uncle of x"], 
+      ["姚长寿", "father in law of x"], 
+      ["姚孟仁", "husband of x"], 
+      ["姚仲义", "brother in law of x"], 
+      ["红夫人", "relative through marriage of x"]
+    ],
+    "陈轻梧": [
+      ["陈安巧", "service provider of x, relative of x"], 
+      ["陈均梦", "daughter of x"], 
+      ["姚长寿", "business partner of x, rival of x"], 
+      ["姚孟仁", "acquaintance of x"], 
+      ["红夫人", "acquaintance of x"], 
+      ["姚仲义", "acquaintance of x"]
+    ],
+    "陈市田": [
+      ["陈安巧", "father of x"], 
+      ["陈均梦", "niece of x"], 
+      ["陈轻梧", "sibling of x or relative of x"], 
+      ["姚长寿", "acquaintance of x"], 
+      ["姚孟仁", "acquaintance of x"], 
+      ["姚仲义", "acquaintance of x"]
+    ],
+    "姚长寿": [
+      ["陈安巧", "employer of x, creditor of x, suspect to x"], 
+      ["陈均梦", "son's wife of x"], 
+      ["陈轻梧", "business partner of x, rival of x"], 
+      ["姚孟仁", "son of x"], 
+      ["姚仲义", "son of x"], 
+      ["红夫人", "wife of x"]
+    ],
+    "姚孟仁": [
+      ["陈安巧", "married to relative of x x"], 
+      ["陈均梦", "wife of x"], 
+      ["陈轻梧", "acquaintance of x"], 
+      ["姚长寿", "son of x"], 
+      ["姚仲义", "sibling of x"], 
+      ["红夫人", "stepmother of x or relative through marriage of x"]
+    ],
+    "姚仲义": [
+      ["陈安巧", "object of affection of x, acquaintance of x"], 
+      ["陈均梦", "sister in law of x"], 
+      ["陈轻梧", "acquaintance of x"], 
+      ["陈市田", "acquaintance of x"], 
+      ["姚长寿", "son of x"], 
+      ["姚孟仁", "sibling of x"], 
+      ["红夫人", "stepmother of x"]
+    ],
+    "红夫人": [
+      ["陈安巧", "employee of x, trusted by x"], 
+      ["陈均梦", "relative through marriage of x"], 
+      ["陈轻梧", "acquaintance of x"], 
+      ["陈市田", "acquaintance of x"], 
+      ["姚长寿", "husband of x"], 
+      ["姚孟仁", "stepson of x"], 
+      ["姚仲义", "stepson of x"]
+    ]
+}

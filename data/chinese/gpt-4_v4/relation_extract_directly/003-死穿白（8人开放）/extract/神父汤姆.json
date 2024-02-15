@@ -1,0 +1,29 @@
+{
+    "牧师汤姆": [
+      ["德雷克·里莫瑞特", "friend of x, patient of x, information receiver from x"], 
+      ["汉斯·里莫瑞特", "manipulator of x, attempted perpetrator of x"], 
+      ["托尼", "admired by x, victim of x, deceiver of x"], 
+      ["弗兰克", "colleague of x, deceiver of x, manipulated by x"], 
+      ["帕洛斯基医生", "friend of x, suspect of x, helped by x, informant of x"], 
+      ["院长伯克利", "business partner of x"]
+    ],
+    "帕洛斯基医生": [
+      ["牧师汤姆", "friend of x, informant of x, information receiver from x"], 
+      ["汉斯·里莫瑞特", "disliked by x, x's victim's family"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["牧师汤姆", "manipulated by x, possibly family of x, relative of x"], 
+      ["帕洛斯基医生", "adversary of x, dislike of x"]
+    ],
+    "弗兰克": [
+      ["牧师汤姆", "employee of x, helped by x, employee of x, helped by x"], 
+      ["托尼", "same person as x (different identity), admired by x"]
+    ],
+    "托尼": [
+      ["牧师汤姆", "admired by x, adversary of x, deceived by x"], 
+      ["弗兰克", "same person as x (different identity), helped by x"]
+    ],
+    "院长伯克利": [
+      ["牧师汤姆", "employer of x, acquaintance of x, manipulated by x"]
+    ]
+}

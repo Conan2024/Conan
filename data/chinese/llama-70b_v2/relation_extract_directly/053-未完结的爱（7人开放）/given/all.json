@@ -1,0 +1,28 @@
+{
+    "林夕": [
+      ["顾宇", "ex boyfriend, potential ally of x"], 
+      ["苏阳", "boyfriend of x, fellow patient of x"], 
+      ["林阳", "养brother of x, potential accomplice of x"], 
+      ["沈城", "管家 of x, potential witness of x"]
+    ],
+    "顾宇": [
+      ["林夕", "ex girlfriend, friend of x"], 
+      ["林阳", "acquaintance of x, potential ally of x"]
+    ],
+    "苏阳": [
+      ["林夕", "boyfriend of x, fellow patient of x"], 
+      ["林阳", "acquaintance of x, potential ally of x"]
+    ],
+    "林阳": [
+      ["林夕", "养brother of x, potential accomplice of x"], 
+      ["顾宇", "acquaintance of x, potential ally of x"]
+    ],
+    "沈城": [
+      ["林夕", "potential witness of x, acquaintance of x"], 
+      ["林阳", "potential witness of x, acquaintance of x"]
+    ],
+    "顾晴": [
+      ["林夕", "suspect of x, potential enemy of x"], 
+      ["顾宇", "suspect of x, potential enemy of x"]
+    ]
+}

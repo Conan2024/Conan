@@ -1,0 +1,98 @@
+{
+    "李梅梅": [
+        [
+            "陈红灯",
+            "same person as x (different identity)"
+        ],
+        [
+            "王二",
+            "extramarital affair with x, information receiver from x"
+        ],
+        [
+            "姚钱树",
+            "informant of x, disliked by x, murderer of x"
+        ],
+        [
+            "李长青",
+            "girlfriend of x, manipulated by x, victim of x"
+        ],
+        [
+            "贾保姆",
+            "acquaintance of x"
+        ]
+    ],
+    "陈红灯": [
+        [
+            "王二",
+            "extramarital affair with x, information receiver from x"
+        ],
+        [
+            "姚钱树",
+            "Informant of x"
+        ],
+        [
+            "李长青",
+            "same person as x (different reference)"
+        ]
+    ],
+    "王二": [
+        [
+            "姚钱树",
+            "acquaintance of x"
+        ],
+        [
+            "陈红灯",
+            "extramarital affair with x, informant of x"
+        ],
+        [
+            "李长青",
+            "same person as x (different identity)"
+        ]
+    ],
+    "姚钱树": [
+        [
+            "陈红灯",
+            "customer of x"
+        ],
+        [
+            "王二",
+            "stranger to x"
+        ],
+        [
+            "李梅梅",
+            "murdered by x"
+        ],
+        [
+            "李长青",
+            "stranger to x"
+        ]
+    ],
+    "李长青": [
+        [
+            "李梅梅",
+            "boyfriend of x, manipulator of x"
+        ],
+        [
+            "陈红灯",
+            "same person as x (different reference)"
+        ],
+        [
+            "王二",
+            "same person as x (different identity)"
+        ],
+        [
+            "姚钱树",
+            "stranger to x"
+        ]
+    ],
+    "贾保姆": [
+        [
+            "李梅梅",
+            "acquaintance of x"
+        ],
+        [
+            "李长青",
+            "employee of x"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "林夕": [
+      ["苏阳", "fiance of x"], 
+      ["沈城", "servant of x"], 
+      ["林阳", "brother of x, friend of x"], 
+      ["顾晴", "friend of x, suspicious of x"]
+    ],
+    "苏阳": [
+      ["林夕", "fiance of x"], 
+      ["顾晴", "friend of x"]
+    ],
+    "沈城": [
+      ["林夕", "servant of x"], 
+      ["林阳", "acquaintance of x"]
+    ],
+    "林阳": [
+      ["林夕", "brother of x, friend of x"], 
+      ["顾晴", "friend of x"]
+    ],
+    "顾晴": [
+      ["苏阳", "friend of x"], 
+      ["林夕", "friend of x, suspicious of x"], 
+      ["林阳", "friend of x"]
+    ]
+}

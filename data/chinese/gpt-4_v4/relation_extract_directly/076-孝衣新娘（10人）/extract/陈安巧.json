@@ -1,0 +1,74 @@
+{
+    "陈安巧": [
+      ["陈均梦", "cousin of x"], 
+      ["陈轻梧", "superior of x, creditor of x"], 
+      ["陈市田", "father of x"], 
+      ["姚长寿", "superior of x"], 
+      ["姚孟仁", "acquaintance of x"], 
+      ["姚仲义", "secret admirer of x, quest companion of x"], 
+      ["红夫人", "acquaintance of x, admired by x"], 
+      ["神秘人", "acquaintance of x"]
+    ],
+    "陈均梦": [
+      ["陈安巧", "cousin of x"], 
+      ["陈轻梧", "father of x"], 
+      ["姚孟仁", "wife of x"], 
+      ["姚长寿", "father in law of x"], 
+      ["姚仲义", "brother in law of x"], 
+      ["红夫人", "sister in law of x"]
+    ],
+    "陈轻梧": [
+      ["陈安巧", "subordinate of x, helped by x"], 
+      ["陈均梦", "child of x"], 
+      ["陈市田", "relative of x"], 
+      ["姚孟仁", "business partner of x, possibly family of x"], 
+      ["姚长寿", "business partner of x, rival of x"], 
+      ["红夫人", "acquaintance of x"]
+    ],
+    "陈市田": [
+      ["陈安巧", "child of x"], 
+      ["陈均梦", "niece of x"], 
+      ["陈轻梧", "subordinate of x, debtor of x"]
+    ],
+    "姚长寿": [
+      ["陈安巧", "superior of x"], 
+      ["陈均梦", "daughter in law of x"], 
+      ["陈轻梧", "business partner of x, rival of x"], 
+      ["姚孟仁", "father of x"], 
+      ["姚仲义", "father of x"], 
+      ["红夫人", "husband of x"]
+    ],
+    "姚孟仁": [
+      ["陈安巧", "acquaintance of x"], 
+      ["陈均梦", "husband of x"], 
+      ["姚长寿", "child of x"], 
+      ["姚仲义", "older brother of x"]
+    ],
+    "姚仲义": [
+      ["陈安巧", "admired by x"], 
+      ["陈均梦", "sister in law of x"], 
+      ["姚长寿", "child of x"], 
+      ["红夫人", "step mother of x"]
+    ],
+    "红夫人": [
+      ["陈安巧", "admired by x"], 
+      ["陈均梦", "sister in law of x"], 
+      ["姚长寿", "wife of x"], 
+      ["姚仲义", "step mother of x"]
+    ],
+    "方医生": [
+      ["姚长寿", "doctor of x"]
+    ],
+    "神秘人": [
+      ["姚长寿", "acquaintance of x"]
+    ],
+    "徐伯清": [
+      ["短发女人", "acquaintance of x"]
+    ],
+    "虞医师": [
+      ["姚仲义", "friend of x"]
+    ],
+    "朱迪": [
+      ["红夫人", "acquaintance of x"]
+    ]
+}

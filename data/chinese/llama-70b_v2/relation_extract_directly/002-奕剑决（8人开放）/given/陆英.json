@@ -1,0 +1,34 @@
+{
+    "陆英": [
+      ["凌霄", "同门弟子 of x, 恋人 of x"], 
+      ["紫苏", "同门弟子 of x, rival of x"], 
+      ["杜仲", "师父 of x, mentor of x"], 
+      ["玄冰教", "related to x"], 
+      ["二师叔", "acquaintance of x"]
+    ],
+    "凌霄": [
+      ["陆英", "same gate of x"], 
+      ["紫苏", "rival of x"], 
+      ["杜仲", "teacher of x"]
+    ],
+    "紫苏": [
+      ["陆英", "same gate of x, rival of x"], 
+      ["凌霄", "rival of x"], 
+      ["杜仲", "teacher of x"]
+    ],
+    "杜仲": [
+      ["陆英", "mentee of x"], 
+      ["凌霄", "mentee of x"], 
+      ["紫苏", "mentee of x"]
+    ],
+    "玄冰教": [
+      ["陆英", "related to x"], 
+      ["凌霄", "related to x"], 
+      ["紫苏", "related to x"]
+    ],
+    "二师叔": [
+      ["陆英", "acquaintance of x"], 
+      ["凌霄", "acquaintance of x"], 
+      ["紫苏", "acquaintance of x"]
+    ]
+}

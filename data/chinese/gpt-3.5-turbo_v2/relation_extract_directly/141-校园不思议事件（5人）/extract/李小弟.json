@@ -1,0 +1,46 @@
+{
+    "李小弟": [
+      ["李大哥", "sibling of x, admired by of x, friends with of x"], 
+      ["表哥", "same person as 李大哥 (different reference) of x"], 
+      ["张恶霸", "enemy of x, business partner of x"], 
+      ["王学习", "acquaintance of x, informant of x"], 
+      ["赵帅哥", "friend of x, quest companion of x"], 
+      ["林校花", "romantic relationships with 张恶霸 of x, friend of x 郝闺蜜"], 
+      ["郝闺蜜", "friend of x 林校花"]
+    ],
+    "李大哥": [
+      ["李小弟", "sibling of x"], 
+      ["表哥", "same person as 李小弟 (different reference) of x"], 
+      ["李大哥的高中", "subject of x investigation for 李小弟"]
+    ],
+    "表哥": [
+      ["李小弟", "same person as 李大哥 (different reference) of x"], 
+      ["李大哥", "same person as x (different reference)"]
+    ],
+    "张恶霸": [
+      ["李小弟", "enemy of x, business partner of x"], 
+      ["王学习", "same high school as of x"], 
+      ["林校花", "romantic relationships with x"], 
+      ["郝闺蜜", "interest in of x"]
+    ],
+    "王学习": [
+      ["李小弟", "acquaintance of x, informant of x"], 
+      ["张恶霸", "same high school as of x"], 
+      ["赵帅哥", "friend of x"], 
+      ["郝闺蜜", "interest in of x"]
+    ],
+    "赵帅哥": [
+      ["李小弟", "friend of x, quest companion of x"], 
+      ["张恶霸", "friend of x"]
+    ],
+    "林校花": [
+      ["李小弟", "friends with 张恶霸 of x"], 
+      ["张恶霸", "romantic relationships with x"], 
+      ["郝闺蜜", "friend of x"]
+    ],
+    "郝闺蜜": [
+      ["李小弟", "friend of x 林校花"], 
+      ["张恶霸", "interest in of x"], 
+      ["林校花", "friend of x"]
+    ]
+}

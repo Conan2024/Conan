@@ -1,0 +1,74 @@
+{
+    "张二副": [
+      ["刘奇", "subordinate of x, adversary of x, dislike of x, suspected by x"], 
+      ["洪子廉", "subordinate of x, disliked by x"], 
+      ["韩亦暮", "co worker of x"], 
+      ["修仁杰", "co worker of x"], 
+      ["林若彤", "co worker of x"], 
+      ["VVIP", "servant of x, disliked by x"], 
+      ["杨晨林", "admirer of x"]
+    ],
+    "刘奇": [
+      ["张二副", "superior of x, adversary of x, dislike of x, suspect of x"], 
+      ["洪子廉", "subordinate of x"], 
+      ["韩亦暮", "co worker of x"], 
+      ["修仁杰", "co worker of x"], 
+      ["林若彤", "co worker of x"], 
+      ["VVIP", "service provider of x"], 
+      ["杨晨林", "acquaintance of x"]
+    ],
+    "洪子廉": [
+      ["张二副", "superior of x, disapprover of x"], 
+      ["刘奇", "superior of x"], 
+      ["韩亦暮", "co worker of x"], 
+      ["修仁杰", "co worker of x"], 
+      ["林若彤", "co worker of x"], 
+      ["VVIP", "service provider of x"], 
+      ["杨晨林", "successor of x"]
+    ],
+    "韩亦暮": [
+      ["张二副", "co worker of x"], 
+      ["刘奇", "co worker of x"], 
+      ["洪子廉", "co worker of x"], 
+      ["修仁杰", "co worker of x"], 
+      ["林若彤", "co worker of x"], 
+      ["VVIP", "service provider of x"], 
+      ["杨晨林", "acquaintance of x"]
+    ],
+    "修仁杰": [
+      ["张二副", "co worker of x"], 
+      ["刘奇", "co worker of x"], 
+      ["洪子廉", "co worker of x"], 
+      ["韩亦暮", "co worker of x"], 
+      ["林若彤", "co worker of x"], 
+      ["VVIP", "service provider of x"], 
+      ["杨晨林", "acquaintance of x"]
+    ],
+    "林若彤": [
+      ["张二副", "co worker of x"], 
+      ["刘奇", "co worker of x"], 
+      ["洪子廉", "co worker of x"], 
+      ["韩亦暮", "co worker of x"], 
+      ["修仁杰", "co worker of x"], 
+      ["VVIP", "entertainer of x"], 
+      ["杨晨林", "acquaintance of x"]
+    ],
+    "VVIP": [
+      ["张二副", "victim of x"], 
+      ["刘奇", "helper of x"], 
+      ["洪子廉", "helper of x"], 
+      ["韩亦暮", "service provider of x"], 
+      ["修仁杰", "service provider of x"], 
+      ["林若彤", "entertainer of x"], 
+      ["杨晨林", "acquaintance of x"]
+    ],
+    "杨晨林": [
+      ["张二副", "admired by x"], 
+      ["刘奇", "acquaintance of x"], 
+      ["洪子廉", "predecessor of x"], 
+      ["韩亦暮", "acquaintance of x"], 
+      ["修仁杰", "acquaintance of x"], 
+      ["林若彤", "acquaintance of x"], 
+      ["VVIP", "acquaintance of x"]
+    ]
+}

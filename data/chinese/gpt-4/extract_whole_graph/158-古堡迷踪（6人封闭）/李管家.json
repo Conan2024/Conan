@@ -1,0 +1,122 @@
+{
+    "李管家": [
+        [
+            "甄有钱",
+            "employee of x, helper of x, murderer of x"
+        ],
+        [
+            "甄公子",
+            "caretaker of x, servant of x"
+        ],
+        [
+            "王作家",
+            "acquaintance of x"
+        ],
+        [
+            "王国庆",
+            "acquaintance of x"
+        ],
+        [
+            "张小妹",
+            "caretaker of x, helper of x"
+        ]
+    ],
+    "甄有钱": [
+        [
+            "李管家",
+            "employer of x, helped by x, killed by x"
+        ],
+        [
+            "甄公子",
+            "father of x"
+        ],
+        [
+            "王作家",
+            "friend of x"
+        ],
+        [
+            "张小妹",
+            "biological father of x"
+        ],
+        [
+            "平民女人",
+            "extramarital affair with x"
+        ]
+    ],
+    "甄公子": [
+        [
+            "甄有钱",
+            "son of x"
+        ],
+        [
+            "李管家",
+            "caretaker of x, helped by x"
+        ],
+        [
+            "张小妹",
+            "half sibling of x, possibly family of x"
+        ]
+    ],
+    "王作家": [
+        [
+            "甄有钱",
+            "friend of x"
+        ],
+        [
+            "王国庆",
+            "father of x"
+        ],
+        [
+            "丁助手",
+            "employer of x"
+        ],
+        [
+            "李管家",
+            "acquaintance of x"
+        ]
+    ],
+    "王国庆": [
+        [
+            "王作家",
+            "son of x"
+        ],
+        [
+            "张小妹",
+            "romantic relationships with x"
+        ],
+        [
+            "李管家",
+            "acquaintance of x"
+        ]
+    ],
+    "张小妹": [
+        [
+            "甄有钱",
+            "biological daughter of x"
+        ],
+        [
+            "王国庆",
+            "romantic relationships with x"
+        ],
+        [
+            "李管家",
+            "adopted by x, helped by x"
+        ]
+    ],
+    "丁助手": [
+        [
+            "王作家",
+            "employee of x"
+        ]
+    ],
+    "平民女人": [
+        [
+            "甄有钱",
+            "extramarital affair with x"
+        ],
+        [
+            "张小妹",
+            "mother of x"
+        ]
+    ]
+}

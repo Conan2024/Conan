@@ -1,0 +1,246 @@
+{
+    "安德鲁·帕洛斯基": [
+        [
+            "斯科特",
+            "brother",
+            "friend"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "mentor of 汉斯·里莫瑞特"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "friend of x",
+            "colleague of x"
+        ],
+        [
+            "伊莱恩·卡特",
+            "mentor of x",
+            "helper of x"
+        ],
+        [
+            "院长伯克利",
+            "teacher of 院长伯克利",
+            "mentor of 院长伯克利"
+        ],
+        [
+            "护士长科斯塔",
+            "mentor of"
+        ],
+        [
+            "神父汤姆",
+            "student of 神父汤姆"
+        ]
+    ],
+    "斯科特": [
+        [
+            "安德鲁·帕洛斯基",
+            "brother",
+            "friend"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "mentor of"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "friend of x"
+        ],
+        [
+            "伊莱恩·卡特",
+            "wife of x"
+        ],
+        [
+            "院长伯克利",
+            "teacher of"
+        ],
+        [
+            "护士长科斯塔",
+            "colleague of x"
+        ],
+        [
+            "神父汤姆",
+            "friend of x",
+            "informant of x"
+        ]
+    ],
+    "汉斯·里莫瑞特": [
+        [
+            "安德鲁·帕洛斯基",
+            "student of 安德鲁·帕洛斯基"
+        ],
+        [
+            "斯科特",
+            "student of"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "brother"
+        ],
+        [
+            "伊莱恩·卡特",
+            "romantic relationships with x"
+        ],
+        [
+            "院长伯克利",
+            "mentor of x"
+        ],
+        [
+            "护士长科斯塔",
+            "mentored by x",
+            "helper of x"
+        ],
+        [
+            "神父汤姆",
+            "mentor of"
+        ]
+    ],
+    "伊莱恩·卡特": [
+        [
+            "安德鲁·帕洛斯基",
+            "student of x"
+        ],
+        [
+            "斯科特",
+            "husband of x"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "romantic relationships with x"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "friend of x"
+        ],
+        [
+            "院长伯克利",
+            "mentor of"
+        ],
+        [
+            "护士长科斯塔",
+            "mentor of 接班人"
+        ],
+        [
+            "神父汤姆",
+            "mentor of"
+        ]
+    ],
+    "院长伯克利": [
+        [
+            "安德鲁·帕洛斯基",
+            "student of 安德鲁·帕洛斯基"
+        ],
+        [
+            "斯科特",
+            "student of"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "student of x"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "mentor of"
+        ],
+        [
+            "伊莱恩·卡特",
+            "student of"
+        ],
+        [
+            "护士长科斯塔",
+            "mentor of x"
+        ],
+        [
+            "神父汤姆",
+            "mentor of 安德鲁•帕洛斯基"
+        ]
+    ],
+    "护士长科斯塔": [
+        [
+            "安德鲁·帕洛斯基",
+            "student of"
+        ],
+        [
+            "斯科特",
+            "colleague of x"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "mentor of x",
+            "superior of x"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "colleague of"
+        ],
+        [
+            "伊莱恩·卡特",
+            "student of 安德鲁•帕洛斯基"
+        ],
+        [
+            "院长伯克利",
+            "student of x"
+        ],
+        [
+            "神父汤姆",
+            "mentee of x"
+        ]
+    ],
+    "神父汤姆": [
+        [
+            "安德鲁·帕洛斯基",
+            "mentor of 安德鲁·帕洛斯基"
+        ],
+        [
+            "斯科特",
+            "friend of x",
+            "informant of x"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "student of"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "mentored by",
+            "teacher of"
+        ],
+        [
+            "伊莱恩·卡特",
+            "student of"
+        ],
+        [
+            "院长伯克利",
+            "student of 安德鲁•帕洛斯基"
+        ]
+    ],
+    "德雷克·里莫瑞特": [
+        [
+            "斯科特",
+            "friend of x"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "brother"
+        ],
+        [
+            "伊莱恩·卡特",
+            "friend of x",
+            "admirer of x"
+        ],
+        [
+            "院长伯克利",
+            "friend of"
+        ],
+        [
+            "护士长科斯塔",
+            "colleague of"
+        ],
+        [
+            "神父汤姆",
+            "mentor of",
+            "student of"
+        ]
+    ]
+}

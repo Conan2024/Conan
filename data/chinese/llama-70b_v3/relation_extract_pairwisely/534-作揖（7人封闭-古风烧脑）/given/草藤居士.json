@@ -1,0 +1,51 @@
+{
+    "小茜": [
+      ["尔矢斯芭嗒", "acquaintance of x"], 
+      ["方叶的女儿", "wife of x"], 
+      ["方竹", "colleague of x, lover of x, enemy of x"], 
+      ["草藤居士", "co wives of x, wife of x, mother of x, daughter of x, sister of x"], 
+      ["陈倩", "husband of x, enemy of x"]
+    ],
+    "尔矢斯芭嗒": [
+      ["小茜", "acquaintance of x"], 
+      ["方叶的女儿", "sister of x, friend of x, niece of x"], 
+      ["方竹", "friend of x, lover of x"], 
+      ["草藤居士", "master of x, business partner of x, lover of x"], 
+      ["陈倩", "friend of x"]
+    ],
+    "方叶的女儿": [
+      ["小茜", "husband of x"], 
+      ["尔矢斯芭嗒", "sister of x, friend of x, niece of x"], 
+      ["方竹", "lover of x"], 
+      ["陈倩", "wife of x"], 
+      ["陈孜靖", "wife of x, friend of x"]
+    ],
+    "方竹": [
+      ["小茜", "colleague of x, lover of x, enemy of x"], 
+      ["尔矢斯芭嗒", "friend of x, lover of x"], 
+      ["方叶的女儿", "lover of x, wife of x"], 
+      ["陈倩", "friend of x"], 
+      ["陈孜靖", "friend of x"]
+    ],
+    "草藤居士": [
+      ["小茜", "co wives of x, father of x, husband of x, friend of x"], 
+      ["尔矢斯芭嗒", "master of x, business partner of x, lover of x"], 
+      ["陈倩", "lover of x, friend of x, enemy of x"], 
+      ["陈孜靖", "lover of x"]
+    ],
+    "陈倩": [
+      ["小茜", "wife of x"], 
+      ["尔矢斯芭嗒", "friend of x"], 
+      ["方叶的女儿", "husband of x"], 
+      ["方竹", "friend of x"], 
+      ["草藤居士", "lover of x, friend of x, enemy of x"], 
+      ["陈孜靖", "acquaintance of x"]
+    ],
+    "陈孜靖": [
+      ["尔矢斯科lav嗒", "friend of x"], 
+      ["方叶的女儿", "wife of x, friend of x"], 
+      ["方竹", "friend of x"], 
+      ["草藤居士", "lover of x"], 
+      ["陈倩", "acquaintance of x"]
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "杨沧海": [
+        [
+            "老K",
+            "same person as x (different identity)"
+        ],
+        [
+            "海北",
+            "business partner of x, acquaintance of x"
+        ],
+        [
+            "白晓梅",
+            "lover of x, co-conspirator of x"
+        ],
+        [
+            "胡归",
+            "suspected by x, co-conspirator of x"
+        ]
+    ],
+    "老K": [
+        [
+            "杨沧海",
+            "same person as x (different reference)"
+        ]
+    ],
+    "海北": [
+        [
+            "杨沧海",
+            "business partner of x, customer of x"
+        ],
+        [
+            "白晓梅",
+            "extramarital affair with x"
+        ],
+        [
+            "胡归",
+            "father of x"
+        ]
+    ],
+    "白晓梅": [
+        [
+            "杨沧海",
+            "lover of x, co-conspirator of x"
+        ],
+        [
+            "海北",
+            "extramarital affair with x"
+        ]
+    ],
+    "胡归": [
+        [
+            "海北",
+            "son of x, biological son of x"
+        ],
+        [
+            "杨沧海",
+            "suspected by x, co-conspirator of x"
+        ]
+    ]
+}

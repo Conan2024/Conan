@@ -1,0 +1,62 @@
+{
+    "草藤居士": [
+      ["方竹", "same person as x (different identity)"], 
+      ["方府夫人", "adoptive mother of x"], 
+      ["方叶", "dislike of x, disliked by x"], 
+      ["方眠", "dislike of x, disliked by x"], 
+      ["方絮", "romantic relationships with x, secret lover of x"], 
+      ["李钦仁", "enemy of x, victim of x, replaced x's identity"], 
+      ["尔矢斯芭嗒", "same person as x (different reference)"], 
+      ["陈孜靖", "information receiver from x, mentor of x, friend of x"]
+    ],
+    "方府夫人": [
+      ["方竹", "adoptive son of x"], 
+      ["方叶", "biological son of x"], 
+      ["方眠", "biological daughter of x"], 
+      ["方絮", "biological daughter of x"]
+    ],
+    "方叶": [
+      ["方竹", "adoptive brother of x"], 
+      ["方眠", "sibling of x"], 
+      ["方絮", "sibling of x"]
+    ],
+    "方眠": [
+      ["方竹", "adoptive brother of x"], 
+      ["方叶", "sibling of x"], 
+      ["方絮", "sibling of x"]
+    ],
+    "方絮": [
+      ["方竹", "adoptive brother of x, romantic relationships with x"], 
+      ["方叶", "sibling of x"], 
+      ["方眠", "sibling of x"], 
+      ["李仲", "mother of x"], 
+      ["李延", "mother of x"]
+    ],
+    "陈孜靖": [
+      ["草藤居士", "student of x, friend of x"], 
+      ["陈倩", "father of x"], 
+      ["小茜", "adoptive father of x"]
+    ],
+    "李钦仁": [
+      ["方絮", "husband of x"], 
+      ["李仲", "father of x"], 
+      ["李延", "father of x"]
+    ],
+    "陈倩": [
+      ["小茜", "possibly family of x"], 
+      ["李仲", "fiancee of x"]
+    ],
+    "小茜": [
+      ["草藤居士", "adoptive daughter of x"], 
+      ["陈倩", "possibly family of x"]
+    ],
+    "李仲": [
+      ["方絮", "son of x"], 
+      ["李延", "sibling of x"], 
+      ["陈倩", "fiance of x"]
+    ],
+    "李延": [
+      ["方絮", "son of x"], 
+      ["李仲", "sibling of x"]
+    ]
+}

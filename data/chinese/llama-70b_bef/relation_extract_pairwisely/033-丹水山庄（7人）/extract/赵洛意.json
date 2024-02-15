@@ -1,0 +1,47 @@
+{
+    "赵洛意": [
+      ["尹少鸣", "friend of x, acquaintance of x"], 
+      ["赵万雷", "daughter of x, niece of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, acquaintance of x"], 
+      ["赵卫", "friend of x"], 
+      ["齐岳", "acquaintance of x, colleague of x, friend of x, classmate of x"]
+    ],
+    "尹少鸣": [
+      ["赵洛意", "friend of x, acquaintance of x"], 
+      ["赵卫", "friend of x, manipulator of x, helper of x, betrayer of x, suspect of x, victim of x"], 
+      ["丫鬟赵秋儿", "helper of x, bully of x"], 
+      ["冯竹", "helper of x"], 
+      ["齐岳", "subordinate of x, friend of x, acquaintance of x, classmate of x, schoolmate of x, helper of x, informant of x, victim of x"], 
+      ["赵安", "friend of x"]
+    ],
+    "赵万雷": [
+      ["赵洛意", "daughter of x, niece of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, acquaintance of x"], 
+      ["丫鬟赵秋儿", "father of x, employer of x, friend of x"], 
+      ["冯竹", "father of x, employer of x, mentor of x, friend of x, acquaintance of x"]
+    ],
+    "赵卫": [
+      ["赵洛意", "friend of x"], 
+      ["尹少鸣", "friend of x, manipulator of x, helper of x, betrayer of x, suspect of x, victim of x"], 
+      ["丫鬟赵秋儿", "friend of x, acquaintance of x, classmate of x, helper of x"]
+    ],
+    "冯竹": [
+      ["赵万雷", "father of x, employer of x, mentor of x, friend of x, acquaintance of x"], 
+      ["丫鬟赵秋儿", "friend of x, acquaintance of x, helper of x"], 
+      ["齐岳", "acquaintance of x, helper of x"]
+    ],
+    "齐岳": [
+      ["赵洛意", "acquaintance of x, colleague of x, friend of x, classmate of x"], 
+      ["尹少鸣", "subordinate of x, friend of x, acquaintance of x, classmate of x, schoolmate of x, helper of x, informant of x, victim of x"], 
+      ["冯竹", "acquaintance of x"], 
+      ["赵安", "helper of x"]
+    ],
+    "赵安": [
+      ["尹少鸣", "friend of x"], 
+      ["冯竹", "victim of x"]
+    ],
+    "丫鬟赵秋儿": [
+      ["尹少鸣", "helper of x, bully of x"], 
+      ["赵万雷", "father of x, employer of x, friend of x"], 
+      ["赵卫", "friend of x, acquaintance of x, classmate of x, helper of x"], 
+      ["冯竹", "friend of x, acquaintance of x, helper of x"]
+    ]
+}

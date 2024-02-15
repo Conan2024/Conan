@@ -1,0 +1,30 @@
+{
+    "古思特": [
+      ["宣传罗琳", "extramarital affair with x"], 
+      ["助手艾拉", "fiance of x"], 
+      ["后勤格里夫", "informant of x, helper of x"]
+    ],
+    "宣传罗琳": [
+      ["古思特", "extramarital affair with x"], 
+      ["助手艾拉", "friend of x, mentor of x"], 
+      ["保安凯文", "romantic relationships with x"], 
+      ["后勤格里夫", "informant of x"]
+    ],
+    "助手艾拉": [
+      ["古思特", "fiancee of x"], 
+      ["宣传罗琳", "friend of x, informant of x, informant of x"], 
+      ["保安凯文", "friend of x"], 
+      ["后勤格里夫", "friend of x"]
+    ],
+    "保安凯文": [
+      ["宣传罗琳", "romantic relationships with x"], 
+      ["助手艾拉", "friend of x"], 
+      ["后勤格里夫", "friend of x"]
+    ],
+    "后勤格里夫": [
+      ["古思特", "informant of x, helper of x"], 
+      ["宣传罗琳", "informant of x"], 
+      ["助手艾拉", "friend of x"], 
+      ["保安凯文", "friend of x"]
+    ]
+}

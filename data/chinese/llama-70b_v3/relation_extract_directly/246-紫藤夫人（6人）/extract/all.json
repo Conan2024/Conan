@@ -1,0 +1,39 @@
+{
+    "吕松年": [
+      ["于尚勇", "acquaintance of x"], 
+      ["葛继先", "acquaintance of x, helper of x"], 
+      ["葛月萝", "acquaintance of x, suspicious of x"], 
+      ["乐婉", "acquaintance of x, acquaintance of x"]
+    ],
+    "葛继先": [
+      ["吕松年", "acquaintance of x, helper of x"], 
+      ["葛月萝", "father of x, enemy of x"], 
+      ["于彦诚", "acquaintance of x, customer of x, colleague of x"]
+    ],
+    "葛月萝": [
+      ["吕松年", "acquaintance of x, suspicious of x"], 
+      ["葛继先", "father of x, enemy of x"], 
+      ["于彦诚", "acquaintance of x, customer of x"]
+    ],
+    "于彦诚": [
+      ["吕松年", "acquaintance of x, customer of x"], 
+      ["葛继先", "acquaintance of x, customer of x, colleague of x"]
+    ],
+    "薛达财": [
+      ["葛月萝", "enemy of x, killed by x"]
+    ],
+    "月曼": [
+      ["葛月萝", "sister of x"], 
+      ["葛继先", "father of x"]
+    ],
+    "张太太": [
+      ["葛月萝", "friend of x, classmate of x"], 
+      ["月曼", "friend of x, classmate of x"]
+    ],
+    " Zhong Lang": [
+      ["葛继先", "bully of x"]
+    ],
+    "莲花溪": [
+      ["于彦诚", "victim of x"]
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "乔•罗伯特森": [
+      ["艾米•摩根", "friend/acquaintance of x"], 
+      ["露西•哈里森", "同事 of x, 朋友 of x, 嫌疑人 of x"]
+    ],
+    "艾미•摩根": [
+      ["乔•罗伯特森", "friend/acquaintance of x"]
+    ],
+    "露西•哈里森": [
+      ["乔•罗伯特森", "同事 of x, 朋友 of x, 嫌疑人 of x"], 
+      ["麦克斯•派克", "acquaintance of x, colleague of x"], 
+      ["丹尼尔•佩里", "friend of x, acquaintance of x"], 
+      ["约翰•摩根", "wife of x, 涉及的人 of x"], 
+      ["乔纳森•佩里", "同事 of x, 朋友 of x, 合谋者 of x"]
+    ],
+    "麦克斯•派克": [
+      ["丹尼尔•佩里", "同事 of x, 朋友 of x, 合作伙伴 of x, 谋杀者 of x"], 
+      ["约翰•摩根", "acquaintance of x, deceiver of x"], 
+      ["艾米•摩根", "acquaintance of x, colleague of x"], 
+      ["露西•哈里森", "acquaintance of x, colleague of x"], 
+      ["乔纳森•佩里", "朋友 of x, 合谋者 of x"]
+    ],
+    "丹尼尔•佩里": [
+      ["麦克斯•派克", "同事 of x, 朋友 of x, 合作伙伴 of x, 谋杀者 of x"], 
+      ["约翰•摩根", "acquaintance of x, business partner of x, suspect of x"], 
+      ["艾米•摩根", "acquaintance of x"], 
+      ["露西•哈里森", "friend of x, acquaintance of x"], 
+      ["乔纳森•佩里", "friend of x, acquaintance of x"]
+    ],
+    "约翰•摩根": [
+      ["麦克斯•派克", "acquaintance of x, deceived of x"], 
+      ["丹尼尔•佩里", "acquaintance of x, business partner of x, suspect of x"], 
+      ["艾米•摩根", "husband of x (different identity), killed by x"], 
+      ["露西•哈里森", "husband of x, 受害人 of x"], 
+      ["乔纳森•佩里", "friend of x"]
+    ],
+    "艾米•摩根": [
+      ["麦克斯•派克", "colleague of x, potential love interest of x"], 
+      ["丹尼尔•佩里", "acquaintance of x"], 
+      ["约翰•摩根", "wife of x (different reference), victim of x"]
+    ],
+    "乔纳森•佩里": [
+      ["麦克斯•派克", "朋友 of x, 合谋者 of x"], 
+      ["丹尼尔•佩里", "friend of x, acquaintance of x"], 
+      ["约翰•摩根", "friend of x"], 
+      ["露西•哈里森", "同事 of x, 朋友 of x, 合谋者 of x"]
+    ]
+}

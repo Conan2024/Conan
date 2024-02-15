@@ -1,0 +1,27 @@
+{
+    "慕北": [
+      ["李国富", "subordinate of x"], 
+      ["何老六", "acquaintance of x"], 
+      ["张洁", "friend of x, informant of x"], 
+      ["警察", "same person as x (different identity)"]
+    ],
+    "李国富": [
+      ["慕北", "superior of x"], 
+      ["何老六", "subordinate of x"], 
+      ["张洁", "subordinate of x"], 
+      ["警察", "victim of x"]
+    ],
+    "何老六": [
+      ["慕北", "acquaintance of x"], 
+      ["李国富", "superior of x"], 
+      ["张洁", "acquaintance of x"]
+    ],
+    "张洁": [
+      ["慕北", "friend of x"], 
+      ["李国富", "superior of x"], 
+      ["何老六", "acquaintance of x"]
+    ],
+    "警察": [
+      ["慕北", "same person as x (different reference)"]
+    ]
+}

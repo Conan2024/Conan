@@ -1,0 +1,66 @@
+{
+    "周忱纱": [
+      ["郑函贞", "classmate of x, friend of x"], 
+      ["巴府山", "host of x, landlord of x, helper of x"], 
+      ["隼", "friend of x, informant of x"], 
+      ["甘玛", "friend of x, teacher of x, mentor of x"], 
+      ["李德木", "father of x, mentor of x, victim of x"]
+    ],
+    "郑函贞": [
+      ["周忱纱", "classmate of x, friend of x"], 
+      ["巴府山", "host of x, landlord of x"], 
+      ["隼", "friend of x, informant of x"], 
+      ["甘玛", "friend of x, teacher of x, mentor of x"]
+    ],
+    "李德木": [
+      ["周忱纱", "daughter of x, victim of x"], 
+      ["郑函贞", "friend of x, mentor of x"]
+    ],
+    "隼": [
+      ["周忱纱", "friend of x"], 
+      ["李德木", "friend of x"]
+    ],
+    "甘玛": [
+      ["周忱纱", "friend of x, teacher of x"], 
+      ["郑函贞", "friend of x, mentor of x"]
+    ],
+    "巴府山": [
+      ["周忱纱", "host of x, landlord of x"], 
+      ["郑函贞", "host of x, landlord of x"]
+    ],
+    "郑昌珉": [
+      ["周忱纱", "friend of x"], 
+      ["郑函贞", "son of x, friend of x"]
+    ],
+    "郑家太太": [
+      ["周忱纱", "friend of x"], 
+      ["郑函贞", "mother of x, friend of x"]
+    ],
+    "蔡玛": [
+      ["周忱纱", "friend of x, teacher of x"], 
+      ["郑函贞", "friend of x, mentor of x"]
+    ],
+    "如娅": [
+      ["甘玛", "sister of x, informant of x"], 
+      ["黑袍人", "friend of x, helper of x"]
+    ],
+    "黑袍人": [
+      ["如娅", "friend of x, helper of x"], 
+      ["巴府山", "friend of x, enemy of x"]
+    ],
+    "鬼印": [
+      ["甘玛", "brother of x, mentor of x"], 
+      ["黑袍人", "friend of x, enemy of x"]
+    ],
+    "周景鱼": [
+      ["周忱纱", "brother of x, friend of x"]
+    ],
+    "巴康寨": [
+      ["李德木", "victim of x"], 
+      ["郑Functions贞", "perpetrator of x"]
+    ],
+    "郑高柏": [
+      ["李德木", "acquaintance of x"], 
+      ["郑函贞", "acquaintance of x"]
+    ]
+}

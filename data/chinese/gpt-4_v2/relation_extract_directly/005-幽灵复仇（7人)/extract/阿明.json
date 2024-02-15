@@ -1,0 +1,84 @@
+{
+    "李骆明": [
+      ["李子材", "father of x"], 
+      ["李子俊", "uncle of x"], 
+      ["嘉善堂", "father of x's business"], 
+      ["夏伯龙", "acquaintance of x's father"], 
+      ["夏仲鹏", "enemy of x"], 
+      ["夏三虎", "adversary of x, attempted perpetrator of x's father"], 
+      ["岳东汶", "employer of x, friend of x's father"], 
+      ["上海岳氏药材公司", "employer of x"], 
+      ["夏叔娥", "romantic relationships with x, mentor of x"], 
+      ["安琪", "helped by x, admirer of x"], 
+      ["洋裙女生", "same person as 安琪 of x"], 
+      ["陆栋", "acquaintance of x"], 
+      ["阿保", "acquaintance of x"], 
+      ["段约同", "acquaintance of x"], 
+      ["吴百安", "victim of x, informant of x"], 
+      ["白常恭", "acquaintance of x"], 
+      ["水轩酒楼", "business partner of x"], 
+      ["明朝黄花梨", "product involved in x's business"], 
+      ["宇祖成木", "same person as 李子俊 of x, deceived by x"], 
+      ["田吉株式会社", "business partner of x's uncle"]
+    ],
+    "李子材": [
+      ["李骆明", "son of x"], 
+      ["李子俊", "sibling of x"], 
+      ["夏伯龙", "patient of x"], 
+      ["夏仲鹏", "former client of x"], 
+      ["夏三虎", "antagonist of x"]
+    ],
+    "李子俊": [
+      ["李骆明", "nephew of x"], 
+      ["李子材", "sibling of x"], 
+      ["宇祖成木", "same person as x"], 
+      ["夏三虎", "acquaintance of x"]
+    ],
+    "夏伯龙": [
+      ["李子俊", "patient of x 李子材"], 
+      ["夏叔娥", "father of x"], 
+      ["夏三虎", "sibling of x"], 
+      ["夏仲鹏", "sibling of x"]
+    ],
+    "夏仲鹏": [
+      ["夏伯龙", "sibling of x"], 
+      ["夏三虎", "sibling of x"]
+    ],
+    "夏三虎": [
+      ["李骆明", "victim of x, manipulator of x"], 
+      ["夏伯龙", "sibling of x, victim of x"], 
+      ["夏仲鹏", "sibling of x"], 
+      ["李子材", "perpetrator of x"], 
+      ["夏叔娥", "niece of x"], 
+      ["宇祖成木", "business partner of x"], 
+      ["吴百安", "business partner of x"]
+    ],
+    "夏叔娥": [
+      ["夏伯龙", "child of x"], 
+      ["夏仲鹏", "uncle of x"], 
+      ["夏三虎", "uncle of x"], 
+      ["李骆明", "student of x, romantic relationships with x"]
+    ],
+    "岳东汶": [
+      ["李骆明", "employer of x"], 
+      ["白常恭", "business partner of x"]
+    ],
+    "安琪": [
+      ["李骆明", "helped by x, admirer of x"], 
+      ["宇祖成木", "creditor of x"]
+    ],
+    "白常恭": [
+      ["李骆明", "perpetrator of x"], 
+      ["水轩酒楼", "owner of x"]
+    ],
+    "水轩酒楼": [
+      ["白常恭", "owner of x"]
+    ],
+    "段约同": [
+      ["李骆明", "acquaintance of x"]
+    ],
+    "吴百安": [
+      ["李骆明", "victim of x"], 
+      ["夏三虎", "business partner of x"]
+    ]
+}

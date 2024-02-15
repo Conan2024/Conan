@@ -1,0 +1,69 @@
+{
+    "云凌": [
+      ["廖一乔", "father of x"], 
+      ["唐婉枫", "mother of x, deceased of x"], 
+      ["唐茂光", "uncle of x"], 
+      ["任爷爷（任仲远）", "employee of x's father, possible friend of x's father, helper of x's father"], 
+      ["徐伯清", "unrequited love interest of x, acquaintance of x, suspect to x"], 
+      ["姚仲义", "acquaintance of x"], 
+      ["头发乱蓬的男人", "acquaintance of x, suspicious character to x"], 
+      ["虞医师", "acquaintance of x"], 
+      ["陈均梦", "acquaintance of x"]
+    ],
+    "廖一乔": [
+      ["云凌", "child of x"], 
+      ["唐婉枫", "husband of x"], 
+      ["唐茂光", "brother in law of x"], 
+      ["任爷爷（任仲远）", "helper of x"], 
+      ["徐伯清", "acquaintance of x"]
+    ],
+    "唐婉枫": [
+      ["云凌", "child of x"], 
+      ["廖一乔", "wife of x, deceased of x"], 
+      ["唐茂光", "sibling of x or possibly brother of x"]
+    ],
+    "唐茂光": [
+      ["云凌", "niece of x"], 
+      ["廖一乔", "brother in law of x"], 
+      ["唐婉枫", "sibling of x or possibly brother of x"]
+    ],
+    "任爷爷（任仲远）": [
+      ["廖一乔", "employee of x, friend of x"], 
+      ["云凌", "acquaintance of x"]
+    ],
+    "徐伯清": [
+      ["云凌", "romantic interests in x, protector of x, victim of x"], 
+      ["廖一乔", "acquaintance of x"], 
+      ["姚仲义", "acquaintance of x"], 
+      ["虞医师", "acquaintance of x"]
+    ],
+    "姚仲义": [
+      ["云凌", "acquaintance of x"], 
+      ["徐伯清", "acquaintance of x"], 
+      ["陈均梦", "brother in law of x"], 
+      ["虞医师", "employer of x"], 
+      ["红夫人", "son of x"], 
+      ["艳妆女人", "possibly 红夫人 of x"]
+    ],
+    "虞医师": [
+      ["陈均梦", "attempted perpetrator of x"], 
+      ["姚仲义", "employee of x"], 
+      ["徐伯清", "acquaintance of x"]
+    ],
+    "红夫人": [
+      ["姚仲义", "mother of x"]
+    ],
+    "陈均梦": [
+      ["姚仲义", "sister in law of x"], 
+      ["虞医师", "victim of x"]
+    ],
+    "贵叔": [
+      ["头发乱蓬的男人", "possibly same person as x (different identity)"]
+    ],
+    "头发乱蓬的男人": [
+      ["贵叔", "possibly same person as x (different identity)"]
+    ],
+    "艳妆女人": [
+      ["姚仲义", "step mother of x"]
+    ]
+}

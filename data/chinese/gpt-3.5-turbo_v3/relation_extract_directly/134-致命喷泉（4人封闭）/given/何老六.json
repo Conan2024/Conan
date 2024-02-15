@@ -1,0 +1,54 @@
+{
+    "何老六": [
+        [
+            "李国富",
+            "friend of x"
+        ],
+        [
+            "张洁",
+            "fondness of x, colleague of x"
+        ],
+        [
+            "慕北",
+            "informant of x"
+        ],
+        [
+            "王大哥",
+            "neighbour of x, debtor of x"
+        ],
+        [
+            "王邻居",
+            "customer of x"
+        ]
+    ],
+    "李国富": [
+        [
+            "何老六",
+            "friend of x"
+        ]
+    ],
+    "张洁": [
+        [
+            "何老六",
+            "fondness of x, colleague of x"
+        ]
+    ],
+    "慕北": [
+        [
+            "何老六",
+            "informant of x"
+        ]
+    ],
+    "王大哥": [
+        [
+            "何老六",
+            "neighbour of x, debtor of x"
+        ]
+    ],
+    "王邻居": [
+        [
+            "何老六",
+            "customer of x"
+        ]
+    ]
+}

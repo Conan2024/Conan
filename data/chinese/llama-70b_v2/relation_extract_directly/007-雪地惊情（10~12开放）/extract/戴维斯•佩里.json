@@ -1,0 +1,44 @@
+{
+    "戴维斯•佩里": [
+      ["玛丽娜•哈里森", "romantic relationship of x, suspicious of x murder"], 
+      ["杰奎琳•佩里", "dislike of x, rival of x"], 
+      ["露西•哈里森", "acquaintance of x, potential mentor of x"], 
+      ["哈罗德•哈里森", "rival of x, opposes 哥哥's career choice of x"], 
+      ["艾米•摩根", "potential friend of x, shared interest in law of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["戴维斯•佩里", "romantic relationship of x, suspect in murder of x"], 
+      ["杰奎琳•佩里", "rival of x, competes for 丹尼尔's attention of x"], 
+      ["露西•哈里森", "daughter of x, protective of x"], 
+      ["哈罗德•哈里森", "brother of x, disagrees with 哥哥's career choice of x"], 
+      ["艾米•摩根", "potential ally of x, shares interest in law of x"]
+    ],
+    "杰奎琳•佩里": [
+      ["戴维斯•佩里", "dislike of x, rival of x"], 
+      ["玛丽娜•哈里森", "rival of x, competes for 丹尼尔's attention of x"], 
+      ["露西•哈里森", "younger sister of x, protective of x"], 
+      ["哈罗德•哈里森", "brother of x, disagrees with 哥哥's career choice of x"], 
+      ["艾米•摩根", "potential ally of x, shares interest in law of x"]
+    ],
+    "露西•哈里森": [
+      ["戴维斯•佩里", "acquaintance of x, potential mentor of x"], 
+      ["玛丽娜•哈里森", "mother of x, protective of x"], 
+      ["杰奎琳•佩里", "younger sister of x, rival of x"], 
+      ["哈罗德•哈里森", "uncle of x, disagrees with 哥哥's career choice of x"], 
+      ["艾米•摩根", "potential ally of x, shares interest in law of x"]
+    ],
+    "哈罗德•哈里森": [
+      ["戴维斯•佩里", "rival of x, opposes 哥哥's career choice of x"], 
+      ["玛丽娜•哈里森", "sister of x, disagrees with career choice of x"], 
+      ["杰奎琳•佩里", "younger sister of x, rival of x"], 
+      ["露西•哈里森", "niece of x, protective of x"], 
+      ["艾米•摩根", "potential ally of x, shares interest in law of x"]
+    ],
+    "艾米•摩根": [
+      ["戴维斯•佩里", "potential friend of x, shared interest in law of x"], 
+      ["玛丽娜•哈里森", "potential ally of x, shared interest in law of x"], 
+      ["杰奎琳•佩里", "potential ally of x, shared interest in law of x"], 
+      ["露西•哈里森", "potential ally of x, shared interest in law of x"], 
+      ["哈罗德•哈里森", "potential ally of x, shared interest in law of x"]
+    ]
+}

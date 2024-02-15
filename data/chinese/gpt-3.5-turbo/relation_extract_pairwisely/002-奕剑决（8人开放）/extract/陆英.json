@@ -1,0 +1,186 @@
+{
+    "陆英": [
+        [
+            "杜仲",
+            "mentor of x"
+        ],
+        [
+            "凌霄",
+            [
+                "student of x",
+                "romantic relationships with x"
+            ]
+        ],
+        [
+            "紫苏",
+            "romantic relationships with x, informant of x"
+        ],
+        [
+            "mentor of 武林盟使"
+        ],
+        [
+            "二师叔",
+            "student of"
+        ]
+    ],
+    "杜仲": [
+        [
+            "陆英",
+            "student of x"
+        ],
+        [
+            "凌霄",
+            "teacher of x"
+        ],
+        [
+            "紫苏",
+            "student of 杜仲"
+        ],
+        [
+            "玄冰使",
+            "co-worker of x"
+        ],
+        [
+            "武林盟使",
+            "business partner of x",
+            "acquaintance of x"
+        ],
+        [
+            "二师叔",
+            "mentor of x"
+        ]
+    ],
+    "凌霄": [
+        [
+            "陆英",
+            [
+                "mentor of x",
+                "romantic relationships with x"
+            ]
+        ],
+        [
+            "杜仲",
+            "student of x"
+        ],
+        [
+            "紫苏",
+            "romantic relationships with 紫苏"
+        ],
+        [
+            "玄冰使",
+            "ex romantic relationships with 玄冰使"
+        ],
+        [
+            "武林盟使",
+            "entrance into the internal courtyard"
+        ],
+        [
+            "二师叔",
+            "student of x",
+            "possible romance with x"
+        ]
+    ],
+    "紫苏": [
+        [
+            "陆英",
+            "romantic relationships with x, information receiver from x"
+        ],
+        [
+            "杜仲",
+            "teacher of 紫苏"
+        ],
+        [
+            "凌霄",
+            "romantic relationships with 凌霄"
+        ],
+        [
+            "玄冰使",
+            "adversary of x",
+            "suspected by x"
+        ],
+        [
+            "武林盟使",
+            "acquaintance of x"
+        ],
+        [
+            "二师叔",
+            "fellow disciples"
+        ]
+    ],
+    "武林盟使": [
+        [
+            "student of 陆英"
+        ],
+        [
+            "杜仲",
+            "business partner of x",
+            "acquaintance of x"
+        ],
+        [
+            "凌霄",
+            "exit from the internal courtyard"
+        ],
+        [
+            "紫苏",
+            "acquaintance of x"
+        ],
+        [
+            "玄冰使",
+            "adversary of x"
+        ],
+        [
+            "二师叔",
+            "possible mentor of x"
+        ]
+    ],
+    "二师叔": [
+        [
+            "陆英",
+            "mentor of"
+        ],
+        [
+            "杜仲",
+            "student of x"
+        ],
+        [
+            "凌霄",
+            "mentor of x",
+            "possible romance with x"
+        ],
+        [
+            "紫苏",
+            "fellow disciples"
+        ],
+        [
+            "玄冰使",
+            "师父与二师叔的关系"
+        ],
+        [
+            "武林盟使",
+            "possible student of x"
+        ]
+    ],
+    "玄冰使": [
+        [
+            "杜仲",
+            "co-worker of x"
+        ],
+        [
+            "凌霄",
+            "ex romantic relationships with 凌霄"
+        ],
+        [
+            "紫苏",
+            "adversary of x",
+            "suspect of x"
+        ],
+        [
+            "武林盟使",
+            "adversary of x"
+        ],
+        [
+            "二师叔",
+            "师父与二师叔的关系"
+        ]
+    ]
+}

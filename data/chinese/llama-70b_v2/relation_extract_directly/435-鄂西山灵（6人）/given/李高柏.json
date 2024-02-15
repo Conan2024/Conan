@@ -1,0 +1,54 @@
+{
+    "周教授": [
+      ["李高柏", "classmate of x, friend of x"], 
+      ["巴府山", "employer of x, master of x"], 
+      ["如娅", "friend of x, acquaintance of x"], 
+      ["隼", "student of x, friend of x"], 
+      ["鬼印", "friend of x, acquaintance of x"], 
+      ["巴府山的女儿", "coworker of x"], 
+      ["李德木", "brother of x"], 
+      ["李良松", "brother of x"], 
+      ["甘玛", "friend of x, acquaintance of x"], 
+      ["李贞", "wife of x"]
+    ],
+    "李高柏": [
+      ["周教授", "classmate of x, friend of x"]
+    ],
+    "巴府山": [
+      ["李高柏", "employer of x, master of x"], 
+      ["李贞", "wife of x"]
+    ],
+    "如娅": [
+      ["李高柏", "friend of x, acquaintance of x"]
+    ],
+    "隼": [
+      ["李高柏", "student of x, friend of x"], 
+      ["巴府山", "son of x, employee of x"]
+    ],
+    "鬼印": [
+      ["李高柏", "friend of x, acquaintance of x"]
+    ],
+    "巴府山的女儿": [
+      ["李高柏", "coworker of x"], 
+      ["鬼印", "husband of x, friend of x"]
+    ],
+    "李德木": [
+      ["李高柏", "brother of x"]
+    ],
+    "李良松": [
+      ["李高柏", "brother of x"]
+    ],
+    "甘玛": [
+      ["李高柏", "friend of x, acquaintance of x"], 
+      ["鬼印", "sister of x, acquaintance of x"]
+    ],
+    "李贞": [
+      ["李高柏", "wife of x"]
+    ],
+    "李静": [
+      ["李高柏", "sister of x"]
+    ],
+    "巴府山的妹妹": [
+      ["李高柏", "sister of x, acquaintance of x"]
+    ]
+}

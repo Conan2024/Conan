@@ -1,0 +1,25 @@
+{
+    "格里夫": [
+      ["古思特", "enemy of x, victim of x, suspected by x"], 
+      ["艾拉", "victim of x, extramarital affair with x, romantic relationships with x"], 
+      ["罗琳", "acquaintance of x, possibly family of x"], 
+      ["凯文", "enemy of x, suspected by x"]
+    ],
+    "古思特": [
+      ["格里夫", "murderer of x, suspect to x"], 
+      ["艾拉", "lover of x"], 
+      ["戴维", "debtor of x"], 
+      ["凯文", "victim of x"]
+    ],
+    "艾拉": [
+      ["格里夫", "deceiver of x"]
+    ],
+    "戴维": [
+      ["古思特", "dislike of x, creditor of x"], 
+      ["格里夫", "friend of x"], 
+      ["罗琳", "admirer of x"]
+    ],
+    "罗琳": [
+      ["戴维", "admired by x"]
+    ]
+}

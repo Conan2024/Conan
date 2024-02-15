@@ -1,0 +1,32 @@
+{
+    "郭望山": [
+      ["赵万雷", "acquaintance of x, colleague of x, adversary of x"], 
+      ["花子狸", "学生与师傅 of x, 朋友 of x, 合伙 of x, 诈钱 of x, 帮手 of x, 谋杀 of x, 陷它 of x, 敌人 of x"]
+    ],
+    "任师父": [
+      ["廖老板", "业务合作 of x, 敌人 of x, 赞助人 of x, 被监管的 of x, 保护人 of x, 朋友 of x, 同事 of x, 上级 of x, 老朋友 of x, 尊敬的 of x"], 
+      ["虞义辰", "master and disciple of x, employer and employee of x, teacher and student of x, mentor and mentee of x, ally and partner of x"]
+    ],
+    "廖老板": [
+      ["任师父", "业务合作 of x, 敌人 of x, 赞助人 of x, 被监管的 of x, 保护人 of x, 朋友 of x, 同事 of x, 上级 of x, 老朋友 of x, 尊敬的 of x"], 
+      ["赵万雷", "employer of x, mentor of x, superior of x, business partner of x, personal friendship of x, informant of x, victim of x, perpetrator of x, rival of x"], 
+      ["虞义辰", "master and apprentice of x, employer and employee of x, business partners of x, mentor and mentee of x, friend of x"], 
+      ["花子狸", "superior of x, mentor of x, friend of x, mutual enemy of x, holder of x a secret"]
+    ],
+    "赵万雷": [
+      ["郭望山", "acquaintance of x, colleague of x, adversary of x"], 
+      ["廖老板", "employer of x, mentor of x, superior of x, business partner of x, personal friendship of x, informant of x, victim of x, perpetrator of x, rival of x"], 
+      ["虞义辰", "perpetrator of x crime, person who hired of x, provider of x explosives"]
+    ],
+    "虞义辰": [
+      ["任师父", "disciple and master of x, employee and employer of x, student and teacher of x, mentee and mentor of x, partner and ally of x"], 
+      ["廖老板", "master and apprentice of x, employer and employee of x, business partners of x, mentor and mentee of x, friend of x"], 
+      ["赵万雷", "person who killed wife of x, perpetrator of x crime, hired person of x"], 
+      ["花子狸", "acquaintance of x, informant of x, superior of x, employer of x, teacher of x, mentor of x, friend of x, neighbor of x, colleague of x, business partner of x"]
+    ],
+    "花子狸": [
+      ["郭望山", "学生与师傅 of x, 朋友 of x, 合伙 of x, 诈钱 of x, 帮手 of x, 谋杀 of x, 陷它 of x, 敌人 of x"], 
+      ["廖老板", "superior of x, mentor of x, friend of x, mutual enemy of x, unaware of x a secret"], 
+      ["虞义辰", "acquaintance of x, informant of x, superior of x, employer of x, teacher of x, mentor of x, friend of x, neighbor of x, colleague of x, business partner of x"]
+    ]
+}

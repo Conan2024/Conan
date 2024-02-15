@@ -1,0 +1,57 @@
+{
+    "张文远(二副)": [
+      ["刘奇(大副)", "subordinate of x, disliked by x, suspect to x, adversary of x"], 
+      ["洪子廉(船长)", "subordinate of x, disliked by x, colleague of x"], 
+      ["韩亦暮(乘务)", "acquaintance of x, colleague of x"], 
+      ["修仁杰(经理)", "acquaintance of x"], 
+      ["杨晨林(前船长)", "admired by x, subordinate of x"], 
+      ["修仁杰(经理)", "acquaintance of x"], 
+      ["杨晨林(前船长)", "admirer of x, student of x"]
+    ],
+    "刘奇(大副)": [
+      ["张文远(二副)", "superior of x, suspected by x, adversary of x"], 
+      ["洪子廉(船长)", "subordinate of x, disliked by x, suspect of x"], 
+      ["韩亦暮(乘务)", "superior of x"], 
+      ["修仁杰(经理)", "superior of x"], 
+      ["VVIP", "superior of x, disliked by x, deceiver of x"], 
+      ["杨晨林(前船长)", "subordinate of x"]
+    ],
+    "洪子廉(船长)": [
+      ["张文远(二副)", "superior of x"], 
+      ["刘奇(大副)", "superior of x, disliked by x"], 
+      ["韩亦暮(乘务)", "superior of x"], 
+      ["修仁杰(经理)", "colleague of x"], 
+      ["林若彤(歌手)", "acquaintance of x"], 
+      ["杨晨林(前船长)", "replaced x's identity, colleague of x"]
+    ],
+    "韩亦暮(乘务)": [
+      ["张文远(二副)", "acquaintance of x, colleague of x"], 
+      ["刘奇(大副)", "subordinate of x"], 
+      ["洪子廉(船长)", "subordinate of x"], 
+      ["修仁杰(经理)", "acquaintance of x"]
+    ],
+    "修仁杰(经理)": [
+      ["张文远(二副)", "acquaintance of x"], 
+      ["刘奇(大副)", "subordinate of x"], 
+      ["洪子廉(船长)", "subordinate of x"], 
+      ["韩亦暮(乘务)", "acquaintance of x"], 
+      ["张文远(二副)", "acquaintance of x"]
+    ],
+    "林若彤(歌手)": [
+      ["洪子廉(船长)", "acquaintance of x"], 
+      ["VVIP", "acquaintance of x"]
+    ],
+    "VVIP": [
+      ["张文远(二副)", "superior of x, deceiver of x"], 
+      ["刘奇(大副)", "deceived by x, customer of x"], 
+      ["林若彤(歌手)", "victim of x"], 
+      ["张文远(二副)", "deceived by x"]
+    ],
+    "杨晨林(前船长)": [
+      ["张文远(二副)", "mentor of x, superior of x"], 
+      ["刘奇(大副)", "superior of x"], 
+      ["洪子廉(船长)", "colleague of x"], 
+      ["修仁杰(经理)", "subordinate of x"], 
+      ["张文远(二副)", "admired by x, mentor of x"]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "古思特": [
+      ["凯文", "romantic relationships with x"], 
+      ["艾拉", "extramarital affair with x, romantic relationships with x"], 
+      ["格里夫", "employee of x"]
+    ],
+    "戴维": [
+      ["古思特", "helper of x"], 
+      ["凯文", "ex romantic relationships with x"], 
+      ["艾拉", "friend of x"], 
+      ["格里夫", "mentor of x, information receiver from x"]
+    ],
+    "凯文": [
+      ["古思特", "romantic relationships with x"], 
+      ["戴维", "informant of x"], 
+      ["艾拉", "colleague of x"]
+    ],
+    "艾拉": [
+      ["古思特", "extramarital affair with x, romantic relationships with x"], 
+      ["戴维", "friend of x"], 
+      ["凯文", "colleague of x"], 
+      ["格里夫", "friend of x"]
+    ],
+    "格里夫": [
+      ["古思特", "employer of x"], 
+      ["戴维", "student of x, informant of x"], 
+      ["艾拉", "friend of x"]
+    ]
+}

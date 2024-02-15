@@ -1,0 +1,39 @@
+{
+    "韩亦暮 (乘务)": [
+      ["刘奇 (大副)", "hate of x, jealous of x, attempted murderer of x"], 
+      ["林若彤 (歌手)", "romantic relationships with x"], 
+      ["洪子廉 (船长)", "rebellion against x"], 
+      ["张文远 (二副)", "colleague of x, possibly family of x"]
+    ],
+    "刘奇 (大副)": [
+      ["韩亦暮 (乘务)", "disliked by x"], 
+      ["修仁杰 (酒吧经理)", "romantic relationships with x, fondness of x"], 
+      ["林若彤 (歌手)", "romantic relationships with x"], 
+      ["洪子廉 (船长)", "deceiver of x, disliked by x"], 
+      ["张文远 (二副)", "colleague of x, suspected by x"]
+    ],
+    "修仁杰 (酒吧经理)": [
+      ["刘奇 (大副)", "romantic relationships with x"], 
+      ["林若彤 (歌手)", "romantic relationships with x"], 
+      ["洪子廉 (船长)", "romantic relationships with x"], 
+      ["张文远 (二副)", "friend of x"]
+    ],
+    "林若彤 (歌手)": [
+      ["韩亦暮 (乘务)", "romantic relationships with x"], 
+      ["刘奇 (大副)", "romantic relationships with x"], 
+      ["修仁杰 (酒吧经理)", "romantic relationships with x"], 
+      ["洪子廉 (船长)", "romantic relationships with x"], 
+      ["张文远 (二副)", "romantic relationships with x, acquaintance of x"]
+    ],
+    "张文远 (二副)": [
+      ["韩亦暮 (乘务)", "colleague of x, possibly family of x"], 
+      ["刘奇 (大副)", "colleague of x, suspected by x"], 
+      ["修仁杰 (酒吧经理)", "friend of x"], 
+      ["林若彤 (歌手)", "romantic relationships with x, acquaintance of x"]
+    ],
+    "洪子廉 (船长)": [
+      ["刘奇 (大副)", "authority over x, superior of x"], 
+      ["修仁杰 (酒吧经理)", "romantic relationships with x"], 
+      ["林若彤 (歌手)", "romantic relationships with x"]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "Old-face monk zhu": [
+      ["Old-face monk", "same person as x (different identity)"]
+    ],
+    "Old-face monk": [
+      ["Old-face monk zhu", "same person as x (different identity)"]
+    ],
+    "莫言凡": [
+      ["杨怜云", "fiancee of x"]
+    ],
+    "杨怜云": [
+      ["莫言凡", "fiance of x"]
+    ],
+    "existing character 1": [
+      ["new character 1", "fiance of x"]
+    ],
+    "new character 1": [
+      ["existing character 1", "fiancee of x"]
+    ],
+    "米青青花事务所": [
+      ["昔颜", "student of x"]
+    ],
+    "昔颜": [
+      ["米青青花事务所", "mentor of x"], 
+      ["李明月", "romantic relationships with x"]
+    ],
+    "Tang Ge": [
+      ["Zhou Sheng", "mentor of x"]
+    ],
+    "Zhou Sheng": [
+      ["Tang Ge", "student of x"]
+    ],
+    "李明月": [
+      ["昔颜", "romantic relationships with x"]
+    ],
+    "existing character 2": [
+      ["新人物2", "colleague of x"]
+    ],
+    "新人物2": [
+      ["existing character 2", "colleague of x"]
+    ],
+    "existing character 3": [
+      ["new character 1", "friend of x"]
+    ],
+    "character_3": [
+      ["character_2", "fiancee of x"]
+    ],
+    "character_2": [
+      ["character_3", "fiance of x"]
+    ],
+    "Chao Ling": [
+      ["Xian Ning", "wife of x"]
+    ],
+    "Xian Ning": [
+      ["Chao Ling", "husband of x"]
+    ]
+}

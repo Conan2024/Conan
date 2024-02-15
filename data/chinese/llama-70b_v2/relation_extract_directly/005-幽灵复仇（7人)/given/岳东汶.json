@@ -1,0 +1,41 @@
+{
+    "岳东汶": [
+      ["岳古", "father son of x"], 
+      ["岳客沙", "son father of x"], 
+      ["吴百安", "colleague of x, friend of x"], 
+      ["阿明", "employer employee of x"], 
+      ["白常恭", "acquaintance of x"], 
+      ["夏三虎", "borrower of x, friend of x"]
+    ],
+    "岳古": [
+      ["岳东汶", "father son of x"], 
+      ["岳客沙", "grandfather grandson of x"]
+    ],
+    "岳客沙": [
+      ["岳东汶", "son father of x"], 
+      ["岳古", "grandfather grandson of x"]
+    ],
+    "吴百安": [
+      ["岳东汶", "colleague of x, friend of x"], 
+      ["岳古", "former classmate of x"]
+    ],
+    "阿明": [
+      ["岳东汶", "employer employee of x"], 
+      ["白常恭", "acquaintance of x"]
+    ],
+    "白常恭": [
+      ["阿明", "acquaintance of x"], 
+      ["岳东汶", "borrower of x"]
+    ],
+    "夏三虎": [
+      ["岳东汶", "borrower of x, friend of x"], 
+      ["岳古", "former classmate of x"]
+    ],
+    "叔娥": [
+      ["岳客沙", "sister in law of x"], 
+      ["岳东汶", "sister in law of x"]
+    ],
+    "岳仲鹏": [
+      ["夏三虎", "brother in law of x"]
+    ]
+}

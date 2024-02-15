@@ -1,0 +1,60 @@
+{
+    "苏阳": [
+      ["林惟仁", "mentor of x, adversary of x, attempted perpetrator of x, victim of x"], 
+      ["林夕", "fiancee of x, user of x's help, unsuspecting recipient of x's deceit, admirer of x"], 
+      ["林彤", "ex girlfriend of x, deceased loved one of x, past recipient of x's help"], 
+      ["顾明和", "father of x's ex romantic interest, x's indirect murder victim"], 
+      ["顾晴", "unrequited lover of x, admirer of x"], 
+      ["顾宇", "rival in love of x, subject of x investigation for x"], 
+      ["沈城", "helper of x, father of x's ex girlfriend, potential victim of x"]
+    ],
+    "林惟仁": [
+      ["苏阳", "mentor of x, recipient of x's deceit, attempted manipulator of x, murder victim by x"], 
+      ["林夕", "father of x"], 
+      ["林彤", "perpetrator of x, deceiver of x"], 
+      ["沈城", "employer of x"], 
+      ["顾明和", "business associate of x"], 
+      ["顾宇", "acquaintance of x"], 
+      ["顾晴", "acquaintance of x"]
+    ],
+    "林夕": [
+      ["苏阳", "fiancee of x, recipient of x's love and care, deceived by x"], 
+      ["林惟仁", "daughter of x"], 
+      ["林彤", "recipient of x's heart, trigger of 苏阳's memories of x"], 
+      ["顾明和", "possible acquaintance of x"], 
+      ["顾晴", "acquaintance of x"], 
+      ["顾宇", "ex boyfriend of x"], 
+      ["沈城", "acquaintance of x"]
+    ],
+    "林彤": [
+      ["苏阳", "ex girlfriend of x, deceased loved one of x, past recipient of x's care"], 
+      ["林惟仁", "victim of x's plot"], 
+      ["沈城", "daughter of x"], 
+      ["林夕", "heart donor to x"]
+    ],
+    "顾明和": [
+      ["苏阳", "victim of x's indirect murder"], 
+      ["林惟仁", "business associate of x"], 
+      ["顾晴", "father of x"], 
+      ["顾宇", "father of x"], 
+      ["林夕", "possible acquaintance of x"]
+    ],
+    "顾晴": [
+      ["苏阳", "secret admirer of x, unrequited lover of x"], 
+      ["顾明和", "daughter of x"], 
+      ["顾宇", "sibling of x"], 
+      ["林夕", "acquaintance of x"]
+    ],
+    "顾宇": [
+      ["苏阳", "rival in love of x, subject of x's investigation"], 
+      ["林夕", "ex boyfriend of x"], 
+      ["顾明和", "son of x"], 
+      ["顾晴", "sibling of x"]
+    ],
+    "沈城": [
+      ["苏阳", "helper of x, potential victim of x"], 
+      ["林惟仁", "subordinate of x"], 
+      ["林夕", "acquaintance of x"], 
+      ["林彤", "father of x"]
+    ]
+}

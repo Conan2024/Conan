@@ -1,0 +1,58 @@
+{
+    "朱迪": [
+      ["白头蛇", "customer of x"], 
+      ["范金魁", "acquaintance of x"], 
+      ["姚仲义", "brother of x"], 
+      ["姚孟仁", "brother of x"], 
+      ["姚长寿", "father of x"], 
+      ["红夫人", "sister in law of x"], 
+      ["方敏月", "friend of x"]
+    ],
+    "白头蛇": [
+      ["朱迪", "customer of x"], 
+      ["姚仲义", "brother of x"], 
+      ["姚孟仁", "brother of x"], 
+      ["姚长寿", "father of x"]
+    ],
+    "范金魁": [
+      ["朱迪", "acquaintance of x"], 
+      ["姚仲义", "brother of x"], 
+      ["姚孟仁", "brother of x"], 
+      ["姚长寿", "father of x"]
+    ],
+    "姚仲义": [
+      ["朱迪", "brother of x"], 
+      ["白头蛇", "customer of x"], 
+      ["姚孟仁", "brother of x"], 
+      ["姚长寿", "father of x"], 
+      ["红夫人", "sister in law of x"]
+    ],
+    "姚孟仁": [
+      ["朱迪", "brother of x"], 
+      ["白头蛇", "customer of x"], 
+      ["姚仲义", "brother of x"], 
+      ["姚长寿", "father of x"], 
+      ["红夫人", "sister in law of x"]
+    ],
+    "姚长寿": [
+      ["朱迪", "father of x"], 
+      ["白头蛇", "customer of x"], 
+      ["姚仲义", "brother of x"], 
+      ["姚孟仁", "brother of x"], 
+      ["红夫人", "mother in law of x"]
+    ],
+    "红夫人": [
+      ["朱迪", "sister in law of x"], 
+      ["白头蛇", "customer of x"], 
+      ["姚仲义", "brother of x"], 
+      ["姚孟仁", "brother of x"], 
+      ["姚长寿", "mother in law of x"]
+    ],
+    "方敏月": [
+      ["朱迪", "friend of x"], 
+      ["白头蛇", "customer of x"], 
+      ["姚仲义", "brother of x"], 
+      ["姚孟仁", "brother of x"], 
+      ["姚长寿", "father of x"]
+    ]
+}

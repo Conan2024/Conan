@@ -1,0 +1,61 @@
+{
+    "赵帅哥": [
+      ["奶奶", "grandmother of x"], 
+      ["妈妈", "mother of x"], 
+      ["爸爸", "father of x"], 
+      ["有钱人", "step father of x"], 
+      ["张恶霸", "adversary of x, step brother of x"], 
+      ["林校花", "acquaintance of x, admirer of x"], 
+      ["李小弟", "acquaintance of x"], 
+      ["王学习", "acquaintance of x"], 
+      ["郝闺蜜", "acquaintance of x"], 
+      ["门卫", "acquaintance of x"]
+    ],
+    "奶奶": [
+      ["赵帅哥", "grandchild of x"], 
+      ["妈妈", "daughter in law of x"], 
+      ["爸爸", "son in law of x"]
+    ],
+    "妈妈": [
+      ["赵帅哥", "mother of x"], 
+      ["爸爸", "ex husband of x"], 
+      ["有钱人", "husband of x"], 
+      ["张恶霸", "step son of x"]
+    ],
+    "爸爸": [
+      ["赵帅哥", "father of x"], 
+      ["妈妈", "ex wife of x"], 
+      ["奶奶", "son in law of x"]
+    ],
+    "有钱人": [
+      ["妈妈", "wife of x, extramarital affair with x"], 
+      ["张恶霸", "biological son of x"], 
+      ["赵帅哥", "step son of x"]
+    ],
+    "张恶霸": [
+      ["妈妈", "step mother of x"], 
+      ["赵帅哥", "adversary of x, step brother of x"], 
+      ["有钱人", "father of x"], 
+      ["林校花", "fiance of x"]
+    ],
+    "林校花": [
+      ["张恶霸", "fiancee of x"], 
+      ["赵帅哥", "admirer of x"]
+    ],
+    "李小弟": [
+      ["赵帅哥", "acquaintance of x"], 
+      ["张恶霸", "acquaintance of x, classmate of x"], 
+      ["王学习", "acquaintance of x, classmate of x"]
+    ],
+    "王学习": [
+      ["赵帅哥", "acquaintance of x"], 
+      ["张恶霸", "acquaintance of x, classmate of x"], 
+      ["李小弟", "acquaintance of x, classmate of x"]
+    ],
+    "郝闺蜜": [
+      ["赵帅哥", "acquaintance of x"]
+    ],
+    "门卫": [
+      ["赵帅哥", "acquaintance of x"]
+    ]
+}

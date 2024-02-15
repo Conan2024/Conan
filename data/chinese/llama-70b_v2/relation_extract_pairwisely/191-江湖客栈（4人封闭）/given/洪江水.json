@@ -1,0 +1,39 @@
+{
+    "孟三春": [
+      ["张红生", "acquaintance of x"], 
+      ["张金银", "friend of x, acquaintance of x"], 
+      ["洪江水", "friend of x, roommate of x, drinking partner of x"], 
+      ["蔡思娘", "romantic interest of x"]
+    ],
+    "张红生": [
+      ["孟三春", "acquaintance of x"], 
+      ["张金银", "employer of x, master of x, superior of x"], 
+      ["洪寨主", "mentor of x, employer of x, superior of x, acquaintance of x, suspicious of x"], 
+      ["洪江水", "friend of x, mentor of x, benefactor of x"], 
+      ["蔡思娘", "mentor of x, employer of x, friend of x, romantic partner of x"]
+    ],
+    "张金银": [
+      ["孟三春", "friend of x, acquaintance of x"], 
+      ["张红生", "brother of x, suspicious of x, suspect of x"], 
+      ["洪寨主", "manipulator of x"], 
+      ["洪江水", "friend and mentor; senior and teacher; employer and master; acquaintance and colleague; inferior and subordinate; enemy and rival; victim and bully of x"], 
+      ["蔡思娘", "同事对象 of x"]
+    ],
+    "洪寨主": [
+      ["张红生", "mentor of x, employer of x, superior of x, acquaintance of x, suspicious of x"], 
+      ["洪江水", "father son of x, enemy of x, nemesis of x, rival of x, protege of x, mentor of x, past connection of x, friend of x, acquaintance of x"]
+    ],
+    "洪江水": [
+      ["孟三春", "friend of x, roommate of x, drinking partner of x, killer of x"], 
+      ["张红生", "friend of x, mentee of x, love interest of x"], 
+      ["张金银", "friend and mentor; senior and teacher; employer and master; acquaintance and colleague; inferior and subordinate; enemy and rival; victim and bully of x"], 
+      ["洪寨主", "father son of x, enemy of x, nemesis of x, rival of x, protege of x, mentor of x, past connection of x, friend of x, acquaintance of x"], 
+      ["蔡思娘", "enemy of x, rival of x, or adversary of x, romantic interest of x"]
+    ],
+    "蔡思娘": [
+      ["孟三春", "romantic interest of x"], 
+      ["张红生", "mentor of x, employer of x, friend of x, romantic partner of x"], 
+      ["张金银", "同事对象 of x, 情感关系 of x"], 
+      ["洪江水", "enemy of x, rival of x, or adversary of x, romantic interest of x"]
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "严义充": [
+      ["于尚勇", "acquaintance of x"], 
+      ["朱陵山", "friend of x"], 
+      ["吕松年", "brother of x"], 
+      ["葛继先", "business partner of x"], 
+      ["于彦诚", "nephew of x"]
+    ],
+    "吕松年": [
+      ["吕陆升", "brother of x"], 
+      ["朱陵山", "business partner of x"], 
+      ["葛继先", "business partner of x"], 
+      ["薛达财", "employee of x"], 
+      ["薛玉帆", "son of x"], 
+      ["于彦诚", "nephew of x"]
+    ],
+    "朱陵山": [
+      ["严义充", "friend of x"], 
+      ["葛继先", "master of x"], 
+      ["薛达财", "employee of x"], 
+      ["吕松年", "business partner of x"], 
+      ["于彦诚", "nephew of x"]
+    ],
+    "葛继先": [
+      ["吕松年", "business partner of x"], 
+      ["薛达财", "employee of x"], 
+      ["朱陵山", "master of x"], 
+      ["于彦诚", "nephew of x"]
+    ],
+    "薛达财": [
+      ["朱陵山", "master of x"], 
+      ["葛继先", "employee of x"], 
+      ["吕松年", "employee of x"], 
+      ["于彦诚", "nephew of x"]
+    ],
+    "薛玉帆": [
+      ["薛达财", "father of x"], 
+      ["吕松年", "uncle of x"], 
+      ["朱陵山", "friend of x"]
+    ],
+    "于彦诚": [
+      ["薛玉帆", "friend of x"], 
+      ["于尚勇", "brother of x"], 
+      ["吕松年", "nephew of x"]
+    ],
+    "乐婉": [
+      ["薛玉帆", "mother of x"], 
+      ["朱陵山", "friend of x"]
+    ],
+    "于尚勇": [
+      ["乐婉", "lover of x"], 
+      ["于彦诚", "brother of x"]
+    ]
+}

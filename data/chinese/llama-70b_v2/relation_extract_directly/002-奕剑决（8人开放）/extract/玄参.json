@@ -1,0 +1,16 @@
+{
+    "二师叔": [
+      ["玄参", "husband of x, mountain villain of x"], 
+      ["杜仲", "brother in law of x, martial arts students of x"], 
+      ["陆英", "suspect of x, interacted of x"]
+    ],
+    "玄参": [
+      ["二师叔", "husband of x, mountain villain of x"], 
+      ["杜仲", "brother in law of x, martial arts students of x"], 
+      ["陆英", "suspect of x, interacted of x"]
+    ],
+    "陆英": [
+      ["玄参", "suspect of x, interacted of x"], 
+      ["二师叔", "suspect of x, interacted of x"]
+    ]
+}

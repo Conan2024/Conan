@@ -1,0 +1,20 @@
+{
+    "玄参": [
+      ["杜仲", "异姓兄弟 of x"], 
+      ["忍冬", "teacher of x"], 
+      ["陆英", "mentor of x, student of x"]
+    ],
+    "杜仲": [
+      ["玄参", "异姓兄弟 of x"], 
+      ["陆英", "brother of x"]
+    ],
+    "忍冬": [
+      ["玄参", "student of x"], 
+      ["陆英", "friend of x"]
+    ],
+    "陆英": [
+      ["玄参", "teacher of x, classmate of x"], 
+      ["杜仲", "brother of x"], 
+      ["忍冬", "friend of x"]
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "乐婉": [
+      ["吕松年", "enemy of x"], 
+      ["张先生", "employee of x, acquaintance of x, friend of x, tenant of x"], 
+      ["张太太", "employer of x"], 
+      ["朱陵山", "acquaintance of x, helper of x"], 
+      ["葛月萝", "sister of x"], 
+      ["葛继先", "friend of x"], 
+      ["薛玉帆", "employee of x"]
+    ],
+    "于尚勇": [
+      ["于彦诚", "friend of x"], 
+      ["吕松年", "employee of x"], 
+      ["吕陆升", "employee of x, friend of x"], 
+      ["张先生", "employer of x"], 
+      ["张太太", "acquaintance of x"], 
+      ["朱陵山", "friend of x, rival of x"], 
+      ["葛月萝", "husband of x, informant of x"], 
+      ["葛继先", "husband of x, informant of x"], 
+      ["薛玉帆", "relative of x, acquaintance of x"]
+    ],
+    "于彦诚": [
+      ["于尚勇", "friend of x"], 
+      ["吕松年", "employer of x"], 
+      ["张太太", "employer of x, mentor of x"], 
+      ["朱陵山", "employer of x, friend of x"], 
+      ["葛月萝", "friend of x"], 
+      ["葛继先", "master of x"]
+    ],
+    "吕松年": [
+      ["乐婉", "enemy of x"], 
+      ["于尚勇", "employee of x"], 
+      ["于彦诚", "employee of x"], 
+      ["吕陆升", "employer of x, master of x, superior of x, customer of x, business partner of x"], 
+      ["朱陵山", "friend of x, helper of x"], 
+      ["葛月曼", "friend of x"], 
+      ["葛月萝", "friend of x"], 
+      ["葛继先", "employee of x, subordinate of x"], 
+      ["薛玉帆", "friend of x"]
+    ],
+    "吕陆升": [
+      ["乐婉", "employee of x"], 
+      ["于尚勇", "employee of x, friend of x"], 
+      ["吕松年", "employee of x, servant of x, subordinate of x, helper of x"], 
+      ["葛月萝", "employee of x, acquaintance of x"], 
+      ["葛继先", "employee of x, acquaintance of x"], 
+      ["薛玉帆", "acquaintance of x"]
+    ],
+    "张先生": [
+      ["乐婉", "employee of x, acquaintance of x, friend of x, landlord of x"], 
+      ["于尚勇", "employee of x, acquaintance of x"], 
+      ["张太太", "husband of x, employer of x"], 
+      ["朱陵山", "acquaintance of x"], 
+      ["葛月曼", "acquaintance of x, employer of x"], 
+      ["葛月萝", "employer of x, master of x"], 
+      ["薛玉帆", "employer of x, master of x, husband of x, acquaintance of x"]
+    ],
+    "张太太": [
+      ["乐婉", "employee of x"], 
+      ["于尚勇", "acquaintance of x"], 
+      ["于彦诚", "employee of x"], 
+      ["张先生", "wife of x, employee of x"], 
+      ["朱陵山", "acquaintance of x, helper of x"], 
+      ["葛月萝", "acquaintance of x, classmate of x"], 
+      ["葛继先", "employer of x, friend of x"], 
+      ["薛玉帆", "sibling of x"]
+    ],
+    "朱陵山": [
+      ["乐婉", "acquaintance of x, helper of x"], 
+      ["于尚勇", "friend of x, rival of x"], 
+      ["于彦诚", "employee of x, friend of x"], 
+      ["吕松年", "friend of x"], 
+      ["张先生", "acquaintance of x, friend of x"], 
+      ["张太太", "wife of x, acquaintance of x"], 
+      ["葛月曼", "husband of x, ex romantic relationships with x"], 
+      ["葛月萝", "husband of x, friend of x"], 
+      ["葛继先", "husband of x, extramarital affair with x"], 
+      ["薛玉帆", "husband of x, friend of x"]
+    ],
+    "葛月曼": [
+      ["吕松年", "friend of x"], 
+      ["张先生", "acquaintance of x, employee of x"], 
+      ["朱陵山", "wife of x, romantic relationships with x"], 
+      ["葛月萝", "relative of x"], 
+      ["薛玉帆", "older sister of x, rival of x"]
+    ],
+    "葛月萝": [
+      ["乐婉", "sister of x"], 
+      ["于尚勇", "wife of x, information receiver from x"], 
+      ["于彦诚", "friend of x"], 
+      ["吕松年", "friend of x"], 
+      ["吕陆升", "employee of x, acquaintance of x"], 
+      ["张先生", "employee of x, servant of x"], 
+      ["张太太", "acquaintance of x, classmate of x, friend of x"], 
+      ["朱陵山", "wife of x, sister of x"], 
+      ["葛月曼", "husband of x"], 
+      ["葛继先", "biological father of x"], 
+      ["薛玉帆", "husband of x, sibling of x"]
+    ],
+    "葛继先": [
+      ["乐婉", "friend of x"], 
+      ["于尚勇", "wife of x, information receiver from x"], 
+      ["吕松年", "employer of x, master of x"], 
+      ["吕陆升", "employer of x, acquaintance of x"], 
+      ["张太太", "employee of x, friend of x"], 
+      ["朱陵山", "wife of x, bully of x"], 
+      ["葛月萝", "biological daughter of x"]
+    ],
+    "薛玉帆": [
+      ["乐婉", "employee of x"], 
+      ["于尚勇", "relative of x, acquaintance of x"], 
+      ["吕松年", "friend of x"], 
+      ["张先生", "employer of x, master of x, lover of x, acquaintance of x"], 
+      ["张太太", "sibling of x"], 
+      ["朱陵山", "wife of x, friend of x"], 
+      ["葛月曼", "younger sister of x, rival of x"], 
+      ["葛月萝", "wife of x, sibling of x"]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "苗如娅": [
+      ["巴府山", "uncle niece of x, employer employee of x, enemy of x, past lover of x"], 
+      ["鹃歌", "cousin sister of x, colleague of x, past partner in crime of x"], 
+      ["苗纳", "brother sister of x, teacher student of x, rival of x, past adversary of x"], 
+      ["田氏", "mother daughter of x, deceiver deceived of x, past acquaintance of x"], 
+      ["苗氏", "aunt niece of x, manipulator manipulated of x, past friend of x"], 
+      ["李德木", "friend of x, classmate of x, confidant of x, past partner in crime of x"], 
+      ["李良松", "brother in law of x, friend of x, past ally of x"], 
+      ["李高柏", "brother in law of x, friend of x, apprentice of x, past adversary of x"]
+    ],
+    "巴府山": [
+      ["苗如娅", "uncle niece of x, employer employee of x, enemy of x, past lover of x"], 
+      ["鬼印", "friend of x, mentor of x, past acquaintance of x"], 
+      ["郑函贞", "acquaintance of x, suspected ally of x"]
+    ],
+    "鬼印": [
+      ["苗如娅", "mentor of x, teacher of x, past acquaintance of x"], 
+      ["巴府山", "friend of x, past ally of x"], 
+      ["李德木", "friend of x, classmate of x, confidant of x, past partner in crime of x"]
+    ],
+    "鹃歌": [
+      ["苗如娅", "cousin sister of x, colleague of x, past partner in crime of x"], 
+      ["李德木", "friend of x, classmate of x, confidant of x, past partner in crime of x"]
+    ],
+    "苗纳": [
+      ["苗如娅", "brother sister of x, teacher student of x, rival of x, past adversary of x"], 
+      ["李德木", "friend of x, classmate of x, confidant of x, past partner in crime of x"]
+    ],
+    "田氏": [
+      ["苗如娅", "mother daughter of x, deceiver deceived of x, past acquaintance of x"], 
+      ["李德木", "friend of x, classmate of x, confidant of x, past partner in crime of x"]
+    ],
+    "苗氏": [
+      ["苗如娅", "aunt niece of x, manipulator manipulated of x, past friend of x"], 
+      ["李德木", "friend of x, classmate of x, confidant of x, past partner in crime of x"]
+    ],
+    "李德木": [
+      ["苗如娅", "friend of x, classmate of x, confidant of x, past partner in crime of x"], 
+      ["巴府山", "friend of x, past ally of x"], 
+      ["鹃歌", "friend of x, classmate of x, confidant of x, past partner in crime of x"]
+    ],
+    "李良松": [
+      ["苗如娅", "brother in law of x, friend of x, past ally of x"], 
+      ["巴府山", "friend of x, past ally of x"]
+    ],
+    "李高柏": [
+      ["苗如娅", "brother in law of x, friend of x, apprentice of x, past adversary of x"], 
+      ["巴府山", "friend of x, past ally of x"]
+    ],
+    "郑函贞": [
+      ["巴府山", "acquaintance of x, suspected ally of x"], 
+      ["苗如娅", "acquaintance of x, suspected ally of x"]
+    ]
+}

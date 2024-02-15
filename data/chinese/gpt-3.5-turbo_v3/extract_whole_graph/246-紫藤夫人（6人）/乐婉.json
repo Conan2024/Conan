@@ -1,0 +1,54 @@
+{
+    "Alice": [
+        [
+            "Bob",
+            "friend of x"
+        ],
+        [
+            "Charlie",
+            "lover of x"
+        ]
+    ],
+    "Bob": [
+        [
+            "Alice",
+            "friend of x"
+        ],
+        [
+            "David",
+            "mentor of x"
+        ]
+    ],
+    "Charlie": [
+        [
+            "Alice",
+            "lover of x"
+        ],
+        [
+            "Bob",
+            "acquaintance of x"
+        ]
+    ],
+    "David": [
+        [
+            "Bob",
+            "mentor of x"
+        ],
+        [
+            "Eve",
+            "business partner of x"
+        ]
+    ],
+    "Eve": [
+        [
+            "David",
+            "business partner of x"
+        ]
+    ],
+    "乐婉": [
+        [
+            "David",
+            "informant of x"
+        ]
+    ]
+}

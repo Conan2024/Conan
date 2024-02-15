@@ -1,0 +1,24 @@
+{
+    "尹少鳴": [
+      ["虞北辰", "student of x"], 
+      ["赵洛意", "child of x"], 
+      ["赵万雷", "fathre of x"], 
+      ["冯双骥", "friend of x"], 
+      ["任", "informant of x"]
+    ],
+    "虞北辰": [
+      ["尹少鳴", "mentor of x"]
+    ],
+    "赵洛意": [
+      ["尹少鳴", "parent of x"]
+    ],
+    "赵万雷": [
+      ["尹少鳴", "child of x"]
+    ],
+    "冯双骥": [
+      ["尹少鳴", "friend of x"]
+    ],
+    "任": [
+      ["尹少鳴", "informant of x"]
+    ]
+}

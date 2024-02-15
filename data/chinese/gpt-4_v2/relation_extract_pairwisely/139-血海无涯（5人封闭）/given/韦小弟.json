@@ -1,0 +1,72 @@
+{
+    "韦小弟": [
+      ["韦小弟的父亲", "biological father of x, father of x, deceased by x, victim of x's enemy's family"], 
+      ["韦小弟的母亲", "child of x, son of x, information receiver from x, helped by x"], 
+      ["秦专家", "victim of x, adversary of x, enemy of x, revenge seeker of x, hate of x"], 
+      ["秦老大", "classmate of x, enemy of x, secret admirer of x, victim of x, manipulated by x, suspect to x, killer of x"], 
+      ["庄清纯", "classmate of x, admirer of x, quest companion of x"], 
+      ["贾美丽", "classmate of x, acquaintance of x"], 
+      ["郑友好", "classmate of x, acquaintance of x, quest companion of x, perpetrator of x"]
+    ],
+    "韦小弟的父亲": [
+      ["韦小弟", "biological son of x, son of x"], 
+      ["韦小弟的母亲", "husband of x"], 
+      ["秦专家", "victim of x, deceived by x, adversary of x"], 
+      ["秦老大", "victim of x, deceiver of x, disliked by x"], 
+      ["庄清纯", "acquaintance of x"], 
+      ["贾美丽", "acquaintance of x"], 
+      ["郑友好", "acquaintance of x, acquaintance of x"]
+    ],
+    "韦小弟的母亲": [
+      ["韦小弟", "mother of x, biological mother of x, informant of x, helper of x"], 
+      ["韦小弟的父亲", "wife of x"], 
+      ["秦专家", "enemy of x, victim of x"], 
+      ["秦老大", "mother of x, victim of x"], 
+      ["庄清纯", "acquaintance of x"], 
+      ["贾美丽", "acquaintance of x"], 
+      ["郑友好", "acquaintance of x, child's classmate of x"]
+    ],
+    "秦专家": [
+      ["韦小弟", "perpetrator of x, disliked by x, suspect to x, adversary of x"], 
+      ["韦小弟的父亲", "perpetrator of x, deceiver of x, adversary of x"], 
+      ["韦小弟的母亲", "perpetrator of x, adversary of x"], 
+      ["秦老大", "father of x, victim of x"], 
+      ["贾美丽", "suspected by x"], 
+      ["郑友好", "perpetrator of x, superior of x, disliked by x"]
+    ],
+    "秦老大": [
+      ["韦小弟", "classmate of x, son of x's enemy, victim of x, unaware antagonist of x, manipulator of x"], 
+      ["韦小弟的父亲", "perpetrator of x, deceiver of x, disliker of x"], 
+      ["韦小弟的母亲", "child of x's enemy, adversary of x"], 
+      ["秦专家", "child of x, perpetrator of x"], 
+      ["庄清纯", "classmate of x, son of x 韦小弟's father's adversary"], 
+      ["韦小弟", "classmate of x, adversary of x, victim of x"], 
+      ["郑友好", "helper of x, quest companion of x, information receiver from x"]
+    ],
+    "庄清纯": [
+      ["韦小弟", "classmate of x, admired by x"], 
+      ["韦小弟的父亲", "acquaintance of x"], 
+      ["韦小弟的母亲", "child's classmate's mother of x"], 
+      ["秦老大", "classmate of x"], 
+      ["贾美丽", "friend of x"], 
+      ["郑友好", "acquaintance of x"]
+    ],
+    "贾美丽": [
+      ["韦小弟", "classmate of x, acquaintance of x"], 
+      ["韦小弟的父亲", "acquaintance of x"], 
+      ["韦小弟的母亲", "acquaintance of x"], 
+      ["秦专家", "suspect of x"], 
+      ["韦小弟", "acquaintance of x"], 
+      ["庄清纯", "friend of x"], 
+      ["郑友好", "acquaintance of x, classmate of x"]
+    ],
+    "郑友好": [
+      ["韦小弟", "classmate of x, acquaintance of x, helped by x, victim of x"], 
+      ["韦小弟的父亲", "acquaintance of x, child's quest companion of x"], 
+      ["韦小弟的母亲", "acquaintance of x, classmate's mother of x"], 
+      ["秦专家", "victim of x, subordinate of x, disliker of x"], 
+      ["秦老大", "superior of x, helped by x, victim of x"], 
+      ["庄清纯", "acquaintance of x"], 
+      ["贾美丽", "acquaintance of x, classmate of x"]
+    ]
+}

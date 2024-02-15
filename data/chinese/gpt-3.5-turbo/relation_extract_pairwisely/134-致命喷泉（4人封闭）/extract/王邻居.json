@@ -1,0 +1,147 @@
+{
+    "你": [
+        [
+            "妻子",
+            "missing spouse"
+        ],
+        [
+            "警察",
+            "suspect of"
+        ],
+        [
+            "记者",
+            "seeker of help from x",
+            "helper of x"
+        ],
+        [
+            "李国富",
+            "debt collector of x, informant of x"
+        ],
+        [
+            "何老六",
+            "helper of x"
+        ]
+    ],
+    "妻子": [
+        [
+            "你",
+            "missing spouse"
+        ],
+        [
+            "警察",
+            "extramarital affair with x",
+            "perpetrator of x's family"
+        ],
+        [
+            "记者",
+            "adversary of x"
+        ],
+        [
+            "李国富",
+            "husband of x",
+            "extramarital affair with x"
+        ],
+        [
+            "何老六",
+            "husband of x",
+            "romantic relationships with x"
+        ]
+    ],
+    "警察": [
+        [
+            "你",
+            "subject of investigation for"
+        ],
+        [
+            "妻子",
+            "lover of x",
+            "suspect of x"
+        ],
+        [
+            "记者",
+            "subject of investigation for x"
+        ],
+        [
+            "李国富",
+            "suspected by 王邻居",
+            "debtor of 王邻居"
+        ],
+        [
+            "何老六",
+            "helper of x",
+            "concerned about x's well-being",
+            "suspicious of x"
+        ]
+    ],
+    "记者": [
+        [
+            "你",
+            "information receiver from x"
+        ],
+        [
+            "妻子",
+            "suspected by x"
+        ],
+        [
+            "警察",
+            "informant of x"
+        ],
+        [
+            "李国富",
+            "quest companion of x"
+        ],
+        [
+            "何老六",
+            "informant of x"
+        ]
+    ],
+    "李国富": [
+        [
+            "你",
+            "debtor of x, informant of x"
+        ],
+        [
+            "妻子",
+            "wife of x",
+            "extramarital affair with x"
+        ],
+        [
+            "警察",
+            "subject of investigation for 王邻居",
+            "creditor of 王邻居"
+        ],
+        [
+            "记者",
+            "quest companion of x"
+        ],
+        [
+            "何老六",
+            "co-worker of x"
+        ]
+    ],
+    "何老六": [
+        [
+            "你",
+            "suspected by x"
+        ],
+        [
+            "妻子",
+            "wife of x",
+            "romantic relationships with x"
+        ],
+        [
+            "警察",
+            "helper of x",
+            "concerned about x's well-being",
+            "suspected by x"
+        ],
+        [
+            "记者",
+            "information receiver from x"
+        ],
+        [
+            "李国富",
+            "co-worker of x"
+        ]
+    ]
+}

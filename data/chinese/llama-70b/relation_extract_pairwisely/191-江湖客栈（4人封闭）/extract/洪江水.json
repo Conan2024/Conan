@@ -1,0 +1,58 @@
+{
+    "洪江水": [
+        [
+            "张红生",
+            "master-servant, employer-employee, tenant-landlord, friend-acquaintance, crush"
+        ],
+        [
+            "蔡思娘",
+            "enemy, rival, or adversary",
+            "romantic interest"
+        ]
+    ],
+    "张红生": [
+        [
+            "洪江水",
+            "master-servant, employer-employee, tenant-landlord, friend-acquaintance, affection"
+        ],
+        [
+            "孟三春",
+            "acquaintance"
+        ],
+        [
+            "蔡思娘",
+            "mentor",
+            "employer",
+            "friend",
+            "romantic partner"
+        ]
+    ],
+    "蔡思娘": [
+        [
+            "洪江水",
+            "enemy, rival, or adversary",
+            "romantic interest"
+        ],
+        [
+            "孟三春",
+            "romantic interest"
+        ],
+        [
+            "张红生",
+            "mentor",
+            "employer",
+            "friend",
+            "romantic partner"
+        ]
+    ],
+    "孟三春": [
+        [
+            "张红生",
+            "acquaintance"
+        ],
+        [
+            "蔡思娘",
+            "romantic interest"
+        ]
+    ]
+}

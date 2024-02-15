@@ -1,0 +1,28 @@
+{
+    "玲船医": [
+      ["杨老板", "employer employee relationship of x, informant information receiver relationship of x, co conspirator relationship of x"], 
+      ["张大副", "same colleagues of x, friends of x, potential enemies of x, helpful acquaintance of x"], 
+      ["王小工", "恋人 of x, 妻子 of x, 船医 of x, 监视对象 of x, 嫌疑人 of x"]
+    ],
+    "杨老板": [
+      ["玲船医", "employer employee relationship of x, informant information receiver relationship of x, co conspirator relationship of x"], 
+      ["张大副", "employer of x, mentor of x, secretly in love with x"], 
+      ["王船工", "employer of x, manipulator of x, secretly in love with x"], 
+      ["王小工", "employer of x, superior of x, master of x, mentor of x"]
+    ],
+    "张大副": [
+      ["玲船医", "same colleagues of x, friends of x, potential enemies of x, helpful acquaintance of x"], 
+      ["杨老板", "employee of x, protege of x, rival of x"], 
+      ["王小工", "employer of x wang xiaogang, acquaintance of x wang xiaogang, bully of x wang xiaogang"]
+    ],
+    "王船工": [
+      ["杨老板", "employee of x, manipulated by x, secretly in love with x"], 
+      ["王小工", "husband of x, wife of x"]
+    ],
+    "王小工": [
+      ["玲船医", "恋人 of x, 妻子 of x, 船医 of x, 监视对象 of x, 嫌疑人 of x"], 
+      ["杨老板", "employee of x, subordinate of x, servant of x, apprentice of x"], 
+      ["张大副", "employee of x zhang daofu, acquaintance of x zhang daofu, victim of x zhang daofu"], 
+      ["王船工", "husband of x, wife of x"]
+    ]
+}

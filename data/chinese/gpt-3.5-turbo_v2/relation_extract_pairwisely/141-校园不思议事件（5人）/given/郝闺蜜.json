@@ -1,0 +1,14 @@
+{
+    "郝闺蜜": [
+      ["表姐", "friend of x, target of x"], 
+      ["林校花", "friend of x, helper of x"]
+    ],
+    "表姐": [
+      ["郝闺蜜", "friend of x, suicide victim of x"], 
+      ["林校花", "romantic relationships with x"]
+    ],
+    "林校花": [
+      ["郝闺蜜", "friend of x, helped by x"], 
+      ["表姐", "romantic relationships with x"]
+    ]
+}

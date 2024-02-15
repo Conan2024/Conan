@@ -1,0 +1,44 @@
+{
+    "慕北": [
+      ["李国富", "牌 friend of x, 捞 water suspicion of x, 借钱 of x"], 
+      ["张洁", "奸杀 partner of x, 共犯 of x"], 
+      ["何老六", "后门 value of x, 轮流 of x"], 
+      ["王大哥", "赌友 of x"], 
+      ["王邻居", "邻居 of x, 赌争 of x"]
+    ],
+    "李国富": [
+      ["慕北", "牌 friend of x, 捞 water suspicion of x, 借钱 of x"], 
+      ["张洁", "奸杀 partner of x, 共犯 of x"], 
+      ["何老六", "后门 value of x, 轮流 of x"], 
+      ["王大哥", "赌友 of x"], 
+      ["王邻居", "邻居 of x, 赌争 of x"]
+    ],
+    "张洁": [
+      ["慕北", "奸杀 partner of x, 共犯 of x"], 
+      ["李国富", "奸杀 partner of x, 共犯 of x"], 
+      ["何老六", "后门 value of x, 轮流 of x"], 
+      ["王大哥", "赌友 of x"], 
+      ["王邻居", "邻居 of x, 赌争 of x"]
+    ],
+    "何老六": [
+      ["慕北", "后门 value of x, 轮流 of x"], 
+      ["李国富", "后门 value of x, 轮流 of x"], 
+      ["张洁", "后门 value of x, 轮流 of x"], 
+      ["王大哥", "赌友 of x"], 
+      ["王邻居", "邻居 of x, 赌争 of x"]
+    ],
+    "王大哥": [
+      ["慕北", "赌友 of x"], 
+      ["李国富", "赌友 of x"], 
+      ["张洁", "赌友 of x"], 
+      ["何老六", "赌友 of x"], 
+      ["王邻居", "邻居 of x, 赌争 of x"]
+    ],
+    "王邻居": [
+      ["慕北", "邻居 of x, 赌争 of x"], 
+      ["李国富", "邻居 of x, 赌争 of x"], 
+      ["张洁", "邻居 of x, 赌争 of x"], 
+      ["何老六", "邻居 of x, 赌争 of x"], 
+      ["王大哥", "邻居 of x, 赌争 of x"]
+    ]
+}

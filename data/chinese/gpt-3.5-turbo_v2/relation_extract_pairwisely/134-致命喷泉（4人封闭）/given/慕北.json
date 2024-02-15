@@ -1,0 +1,32 @@
+{
+    "慕北": [
+      ["李国富", "boss of x"], 
+      ["何老六", "colleague of x"], 
+      ["张洁", "friend of x, close co worker of x"], 
+      ["警察", "student of x, acquaintance of x"]
+    ],
+    "李国富": [
+      ["慕北", "employee of x, victim of x"], 
+      ["何老六", "同事 of x"], 
+      ["张洁", "colleague of x, friend of x"], 
+      ["警察", "目标 of x"]
+    ],
+    "何老六": [
+      ["慕北", "colleague of x"], 
+      ["李国富", "同事 of x"], 
+      ["张洁", "acquaintance of x"], 
+      ["警察", "co worker of x, value for x"]
+    ],
+    "张洁": [
+      ["慕北", "friend of x, close co worker of x"], 
+      ["李国富", "colleague of x, friend of x"], 
+      ["何老六", "acquaintance of x"], 
+      ["警察", "fellow worker of x"]
+    ],
+    "警察": [
+      ["慕北", "mentor of x, informant of x"], 
+      ["李国富", "同事 of x"], 
+      ["何老六", "co worker of x, value for x"], 
+      ["张洁", "fellow worker of x"]
+    ]
+}

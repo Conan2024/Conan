@@ -1,0 +1,21 @@
+{
+    "修经理": [
+      ["刘奇", "same person as x (different reference), same person as x (different identity), perpetrator of x, liked by x"], 
+      ["韩亦暮", "romantic relationships with x, dislike of x"], 
+      ["林若彤", "relative of x, employee of x"], 
+      ["张文远", "colleague of x"]
+    ],
+    "刘奇": [
+      ["修经理", "same person as x (different reference), same person as x (different identity), victim of x, disliked by x"], 
+      ["韩亦暮", "extramarital affair with x, dislike of x"], 
+      ["林若彤", "relative of x"]
+    ],
+    "韩亦暮": [
+      ["修经理", "romantic relationships with x, dislike of x"], 
+      ["刘奇", "extramarital affair with x, dislike of x"]
+    ],
+    "林若彤": [
+      ["修经理", "relative of x, employee of x"], 
+      ["刘奇", "relative of x"]
+    ]
+}

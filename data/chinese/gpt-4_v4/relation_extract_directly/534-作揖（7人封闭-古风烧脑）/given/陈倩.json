@@ -1,0 +1,39 @@
+{
+    "陈倩": [
+      ["陈孜靖", "father of x, patient of x"], 
+      ["小茜", "sibling of x, possibly family of x"], 
+      ["李仲", "fiance of x, lover of x, helped by x, helper of x"], 
+      ["李钦仁", "future father in law of x, guest of x"]
+    ],
+    "李家熟人": [
+      ["陈倩", "acquaintance of x, helper of x"], 
+      ["陈孜靖", "acquaintance of x"], 
+      ["小茜", "acquaintance of x"], 
+      ["李仲", "same person as x (different reference)"], 
+      ["李钦仁", "employee of x"]
+    ],
+    "陈孜靖": [
+      ["陈倩", "helper of x, child of x"], 
+      ["小茜", "child of x"], 
+      ["李仲", "future son in law of x"], 
+      ["李钦仁", "business partner of x, colleague of x"]
+    ],
+    "小茜": [
+      ["陈倩", "sibling of x, possibly family of x"], 
+      ["陈孜靖", "adoptive father of x"], 
+      ["李仲", "acquaintance of x"], 
+      ["李钦仁", "acquaintance of x"]
+    ],
+    "李仲": [
+      ["陈倩", "fiance of x, lover of x, helped by x, admirer of x"], 
+      ["李钦仁", "child of x"], 
+      ["小茜", "acquaintance of x"], 
+      ["陈孜靖", "future father in law of x"]
+    ],
+    "李钦仁": [
+      ["陈倩", "future relative of x"], 
+      ["陈孜靖", "business partner of x, colleague of x"], 
+      ["小茜", "acquaintance of x"], 
+      ["李仲", "father of x"]
+    ]
+}

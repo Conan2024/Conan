@@ -1,0 +1,48 @@
+{
+    "张洁": [
+      ["爸爸", "child of x"], 
+      ["妈妈", "daughter of x"], 
+      ["李国富", "crime partner of x, subordinate of x, attempted victim of x, disliking of x, rebellious against x, hater of x, jealous of x"], 
+      ["何老六", "crime partner of x, acquaintance of x"], 
+      ["慕北", "secret lover of x, admirer of x, romantic relationships with x, jealous of x, crime partner of x, quest companion of x, colleague of x, co worker of x, attempted perpetrator of x"], 
+      ["王邻居", "acquaintance of x, colleague of x"]
+    ],
+    "爸爸": [
+      ["张洁", "father of x"], 
+      ["妈妈", "husband of x"], 
+      ["李国富", "victim of x"], 
+      ["王邻居", "acquaintance of x, neighbour of x"]
+    ],
+    "妈妈": [
+      ["张洁", "mother of x"], 
+      ["爸爸", "wife of x"], 
+      ["王邻居", "acquaintance of x"]
+    ],
+    "李国富": [
+      ["张洁", "crime partner of x, superior of x, potential victim of x, disliked by x, has authority over x, suspected of x being betrayed by x"], 
+      ["爸爸", "perpetrator of x"], 
+      ["何老六", "crime partner of x, colleague of x"], 
+      ["慕北", "superior of x, romantic relationships with x, quest companion of x"], 
+      ["王邻居", "business partner of x, gambling partner of x, acquaintance of x"]
+    ],
+    "何老六": [
+      ["张洁", "crime partner of x, acquaintance of x"], 
+      ["李国富", "crime partner of x, colleague of x"], 
+      ["慕北", "colleague of x, crime partner of x"], 
+      ["王邻居", "crime partner of x, gambling buddy of x"]
+    ],
+    "慕北": [
+      ["张洁", "colleague of x, romantic interest of x, crime partner of x, quest companion of x"], 
+      ["李国富", "subordinate of x, suspect to x, victim of x"], 
+      ["何老六", "colleague of x, crime partner of x"], 
+      ["王邻居", "colleague of x, acquaintance of x"]
+    ],
+    "王邻居": [
+      ["张洁", "acquaintance of x, colleague of x"], 
+      ["爸爸", "acquaintance of x, neighbour of x"], 
+      ["妈妈", "acquaintance of x"], 
+      ["李国富", "business partner of x, gambling partner of x, acquaintance of x"], 
+      ["何老六", "crime partner of x, gambling buddy of x"], 
+      ["慕北", "colleague of x, acquaintance of x"]
+    ]
+}

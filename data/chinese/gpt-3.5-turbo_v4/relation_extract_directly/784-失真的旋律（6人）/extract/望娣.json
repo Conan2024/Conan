@@ -1,0 +1,54 @@
+{
+    "阮望娣": [
+      ["王子摩", "husband of x"], 
+      ["黑莉", "romantic relationships with x"], 
+      ["齐故飞", "romantic relationships with x"], 
+      ["罗有诺", "romantic relationships with x"], 
+      ["招楠", "replaced x's identity"], 
+      ["贵郎", "sibling of x"], 
+      ["阮钱德", "father of x"], 
+      ["阮太太", "mother of x"], 
+      ["罗秀才", "informant of x, mentor of x"]
+    ],
+    "阮钱德": [
+      ["阮望娣", "child of x"]
+    ],
+    "阮太太": [
+      ["招楠", "replaced x's identity"], 
+      ["贵郎", "mother of x"], 
+      ["阮望娣", "mother of x"], 
+      ["罗秀才", "informant of x, mentor of x"]
+    ],
+    "招楠": [
+      ["阮望娣", "same person as x (different identity)"], 
+      ["贵郎", "sibling of x"], 
+      ["阮太太", "same person as x (different identity)"], 
+      ["黑莉", "romantic relationships with x"], 
+      ["齐故飞", "romantic relationships with x"]
+    ],
+    "贵郎": [
+      ["招楠", "sibling of x"], 
+      ["阮太太", "sibling of x"], 
+      ["阮望娣", "sibling of x"]
+    ],
+    "罗秀才": [
+      ["阮望娣", "informant of x, mentor of x"]
+    ],
+    "罗有诺": [
+      ["阮望娣", "romantic relationships with x"]
+    ],
+    "雪嫣": [
+      ["阮望娣", "romantic relationships with x"]
+    ],
+    "齐故飞": [
+      ["阮望娣", "romantic relationships with x"]
+    ],
+    "黑莉": [
+      ["阮望娣", "romantic relationships with x"]
+    ],
+    "王子摩": [
+      ["阮望娣", "husband of x"], 
+      ["黑莉", "lover of x"], 
+      ["黑莉", "secret lover of x"]
+    ]
+}

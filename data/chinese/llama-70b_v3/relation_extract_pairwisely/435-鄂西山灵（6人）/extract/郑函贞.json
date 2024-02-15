@@ -1,0 +1,65 @@
+{
+    "周教授": [
+      ["郑函贞", "friend of x"], 
+      ["忱纱", "friend of x, mentor of x"], 
+      ["巴府山", "acquaintance of x"], 
+      ["鹃歌", "friend of x"], 
+      ["鬼印", "mentor of x, friend of x"], 
+      ["Direction Guide", "lover of x"], 
+      ["詹天佑", "father in law of x, mentor of x, colleague of x"]
+    ],
+    "郑函贞": [
+      ["忱纱", "acquaintance of x"], 
+      ["巴府山", "guest of x, patient of x, friend of x, lover of x"], 
+      ["鹃歌", "friend of x, informant of x"], 
+      ["Direction Guide", "friend of x, mentor of x, teacher of x, informant of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, business partner of x, customer of x, tenant of x, patient of x, suspect of x"]
+    ],
+    "忱纱": [
+      ["郑函贞", "acquaintance of x"], 
+      ["周教授", "friend of x"], 
+      ["鹃歌", "sibling of x, classmate of x"], 
+      ["鬼印", "acquaintance of x"], 
+      ["Direction Guide", "acquaintance of x"], 
+      ["詹天佑", "friend of x"]
+    ],
+    "巴府山": [
+      ["郑函贞", "host of x, lover of x"], 
+      ["鹃歌", "father of x, husband of x"], 
+      ["鬼印", "fiance of x"], 
+      ["Direction Guide", "friend of x, business partner of x"]
+    ],
+    "鹃歌": [
+      ["郑函贞", "friend of x, informant of x"], 
+      ["周教授", "friend of x"], 
+      ["忱纱", "sibling of x"], 
+      ["巴府山", "daughter of x, wife of x"], 
+      ["鬼印", "friend of x"], 
+      ["Direction Guide", "friend of x"], 
+      ["詹天佑", "sibling of x, informant of x"]
+    ],
+    "鬼印": [
+      ["周教授", "friend of x"], 
+      ["忱纱", "acquaintance of x"], 
+      ["巴府山", "fiance of x"], 
+      ["鹃歌", "friend of x"], 
+      ["Direction Guide", "perpetrator of x"], 
+      ["詹天佑", "friend of x, mentor of x"]
+    ],
+    "Direction Guide": [
+      ["郑函贞", "friend of x, mentor of x, teacher of x, informant of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, business partner of x, customer of x, tenant of x, patient of x, suspect of x"], 
+      ["周教授", "lover of x"], 
+      ["忱纱", "mentor of x, teacher of x"], 
+      ["巴府山", "friend of x, business partner of x"], 
+      ["鹃歌", "friend of x"], 
+      ["鬼印", "victim of x"]
+    ],
+    "詹天佑": [
+      ["周教授", "father in law of x, colleague of x"], 
+      ["忱纱", "father of x, teacher of x, friend of x"], 
+      ["鹃歌", "sibling of x, informant of x"], 
+      ["鬼印", "friend of x, mentor of x"]
+    ],
+    "情人": [
+      ["周教授", "acquaintance of x, acquaintance of x"]
+    ]
+}

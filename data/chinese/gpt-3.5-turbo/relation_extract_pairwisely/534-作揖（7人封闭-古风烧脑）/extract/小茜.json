@@ -1,0 +1,88 @@
+{
+    "小茜": [
+        [
+            "existing character 1",
+            "wife of existing character 1"
+        ],
+        [
+            "existing character 2",
+            "fiancee of existing character 2"
+        ],
+        [
+            "new character 1",
+            "sister of x"
+        ],
+        [
+            "new character 2",
+            "student of 小茜"
+        ],
+        [
+            "May",
+            "fondness of x"
+        ],
+        [
+            "existing character 1",
+            "fondness of x"
+        ],
+        [
+            "菲菲",
+            "friend of x"
+        ],
+        [
+            "existing character 2",
+            "friend of"
+        ]
+    ],
+    "existing character 1": [
+        [
+            "小茜",
+            "husband of 小茜"
+        ]
+    ],
+    "new character 1": [
+        [
+            "小茜",
+            "sister of x"
+        ],
+        [
+            "new character 2",
+            [
+                "classmate of new character 2"
+            ]
+        ]
+    ],
+    "xiao yan": [
+        [
+            "new character 2",
+            [
+                "sister of x"
+            ]
+        ]
+    ],
+    "new character 2": [
+        [
+            "xiao yan",
+            [
+                "sister of x"
+            ]
+        ],
+        [
+            "new character 1",
+            [
+                "classmate of new character 1"
+            ]
+        ]
+    ],
+    "菲菲": [
+        [
+            "小茜",
+            "friend of x"
+        ]
+    ],
+    "existing character 2": [
+        [
+            "小茜",
+            "friend of"
+        ]
+    ]
+}

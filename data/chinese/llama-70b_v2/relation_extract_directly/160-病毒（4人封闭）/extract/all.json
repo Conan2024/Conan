@@ -1,0 +1,19 @@
+{
+    "秦鸥": [
+      ["田助理", "perpetrator of x, bully of x"], 
+      ["贾教授", "acquaintance of x, suspicious of x"], 
+      ["李保安", "girlfriend of x, perpetrator of x"]
+    ],
+    "田助理": [
+      ["秦鸥", "perpetrator of x, bully of x"], 
+      ["李保安", "bully of x, perpetrator of x"]
+    ],
+    "贾教授": [
+      ["秦鸥", "suspicious of x, acquaintance of x"], 
+      ["李保安", "acquaintance of x"]
+    ],
+    "李保安": [
+      ["秦鸥", "girlfriend of x, perpetrator of x"], 
+      ["田助理", "bully of x, perpetrator of x"]
+    ]
+}

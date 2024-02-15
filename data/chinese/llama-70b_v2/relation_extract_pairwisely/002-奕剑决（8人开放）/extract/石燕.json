@@ -1,0 +1,36 @@
+{
+    "type": [
+      ["v", "i of x, c of x, t of x, i of x, m of x"]
+    ],
+    "description": [
+      ["杜", "仲 of x, b of x, e of x, t of x, r of x, a of x, y of x, e of x, d of x, a of x, n of x, d of x, d of x, e of x, s of x, t of x, r of x, o of x, y of x, e of x, d of x, r of x, e of x, d of x, f of x, l of x, o of x, w of x, e of x, r of x, w of x, i of x, f of x, e of x, ' of x, s of x, l of x, i of x, f of x, e of x"]
+    ],
+    "石燕": [
+      ["杜仲", "学生 教师 of x, 师弟 师傅 of x, 敵人 of x, 刺客 目标 of x, 协助 帮助 of x"], 
+      ["陆英", "同谋者 of x, 师徒 of x, 敌人 of x"], 
+      ["天字位的某个弟子", "敵對enger of x, 追�target of x"]
+    ],
+    "杜仲": [
+      ["石燕", "敵人 of x, 刺客 目标 of x, 师傅 学生 of x, 协助 帮助 of x"], 
+      ["红花夫人", "former friend of x"], 
+      ["陆英", "acquaintance of x, fellow disciple of x, schoolmate of x"], 
+      ["天字位的某个弟子", "former acquaintance of x"]
+    ],
+    "陆英": [
+      ["石燕", "同谋者 of x, 师徒 of x, 敌人 of x"], 
+      ["红花夫人", "relation ship 1relation ship 2 of x"], 
+      ["杜仲", "acquaintance of x, fellow disciple of x, schoolmate of x"], 
+      ["天字位的某个弟子", "敵對的 of x"]
+    ],
+    "天字位的某个弟子": [
+      ["石燕", "敵對enger of x, 追�target of x"], 
+      ["红花夫人", "related to 弈剑诀 of x, same person as x (different reference)"], 
+      ["杜仲", "former acquaintance of x"], 
+      ["陆英", "敵對的 of x"]
+    ],
+    "红花夫人": [
+      ["杜仲", "mentee of x (different reference)"], 
+      ["陆英", "relation ship 1relation ship 2 of x"], 
+      ["天字位的某个弟子", "related to 弈剑诀 of x"]
+    ]
+}

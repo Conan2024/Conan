@@ -1,0 +1,138 @@
+{
+    "贵叔": [
+      ["杜贵成", "father of x"], 
+      ["杜辉信", "father of x"], 
+      ["孟老爷", "mentor of x"], 
+      ["虞医师", "mentor of x"], 
+      ["云凌", "mentor of x"], 
+      ["陈均梦", "friend of x"], 
+      ["红夫人", "husband of x"], 
+      ["姚长寿", "mentor of x"], 
+      ["短发女人", "adoptive sister of x, half sister of x, neighbour of x, fondness of x"]
+    ],
+    "杜贵成": [
+      ["贵叔", "son of x"], 
+      ["杜辉信", "sibling of x"], 
+      ["虞医师", "friend of x"], 
+      ["云凌", "student of x, admirer of x"], 
+      ["姚仲义", "half brother of x"], 
+      ["陈均梦", "mentor of x"], 
+      ["红夫人", "husband of x"], 
+      ["短发女人", "wife of x"]
+    ],
+    "杜辉信": [
+      ["贵叔", "son of x"], 
+      ["杜贵成", "sibling of x"], 
+      ["孟老爷", "half brother of x, colleague of x"], 
+      ["云凌", "friend of x"], 
+      ["姚仲义", "mentor of x, student of x"], 
+      ["陈均梦", "father of x"], 
+      ["红夫人", "extramarital affair with x"], 
+      ["姚长寿", "ex boyfriend of x"], 
+      ["长发姑娘", "helper of x, friend of x"], 
+      ["短发女人", "extramarital affair with x, secret lover of x"]
+    ],
+    "孟老爷": [
+      ["贵叔", "student of x"], 
+      ["杜辉信", "half brother of x, colleague of x"], 
+      ["虞医师", "friend of x, mentor of x"], 
+      ["姚仲义", "father of x"], 
+      ["陈均梦", "friend of x, helper of x"], 
+      ["红夫人", "wife of x"], 
+      ["姚长寿", "mentor of x"], 
+      ["长发姑娘", "lover of x"], 
+      ["短发女人", "employer of x"]
+    ],
+    "虞医师": [
+      ["贵叔", "student of x"], 
+      ["杜贵成", "friend of x"], 
+      ["孟老爷", "friend of x, student of x"], 
+      ["云凌", "student of x"], 
+      ["姚仲义", "friend of x"], 
+      ["陈均梦", "mentor of x"], 
+      ["红夫人", "secret lover of x"], 
+      ["姚长寿", "mentor of x"], 
+      ["长发姑娘", "student of x"], 
+      ["短发女人", "unsuccessful helper of x"]
+    ],
+    "云凌": [
+      ["贵叔", "student of x"], 
+      ["杜贵成", "mentor of x, informant of x"], 
+      ["杜辉信", "friend of x"], 
+      ["虞医师", "mentor of x"], 
+      ["姚仲义", "husband of x"], 
+      ["陈均梦", "student of x"], 
+      ["红夫人", "student of x"], 
+      ["长发姑娘", "helper of x"], 
+      ["短发女人", "informant of x"]
+    ],
+    "姚仲义": [
+      ["杜辉信", "teacher of x"], 
+      ["孟老爷", "son of x"], 
+      ["虞医师", "friend of x"], 
+      ["云凌", "wife of x"], 
+      ["陈均梦", "friend of x"], 
+      ["红夫人", "husband of x"], 
+      ["姚长寿", "half brother of x"], 
+      ["长发姑娘", "lover of x"], 
+      ["短发女人", "wife of x"]
+    ],
+    "陈均梦": [
+      ["贵叔", "friend of x"], 
+      ["杜贵成", "student of x"], 
+      ["杜辉信", "son of x"], 
+      ["孟老爷", "friend of x, helped by x"], 
+      ["虞医师", "student of x"], 
+      ["云凌", "mentor of x"], 
+      ["红夫人", "wife of x"], 
+      ["姚长寿", "father in law of x"], 
+      ["长发姑娘", "friend of x"], 
+      ["短发女人", "wife of x, lover of x"]
+    ],
+    "红夫人": [
+      ["贵叔", "wife of x"], 
+      ["杜贵成", "wife of x"], 
+      ["杜辉信", "extramarital affair with x"], 
+      ["孟老爷", "husband of x"], 
+      ["虞医师", "secret lover of x"], 
+      ["云凌", "teacher of x"], 
+      ["姚仲义", "wife of x"], 
+      ["陈均梦", "husband of x"], 
+      ["姚长寿", "wife of x"], 
+      ["长发姑娘", "wife of x"], 
+      ["短发女人", "concubine of x, secret lover of x"]
+    ],
+    "姚长寿": [
+      ["贵叔", "student of x"], 
+      ["杜辉信", "ex boyfriend of x"], 
+      ["孟老爷", "student of x"], 
+      ["虞医师", "student of x"], 
+      ["云凌", "mentor of x"], 
+      ["姚仲义", "half brother of x"], 
+      ["陈均梦", "son in law of x"], 
+      ["红夫人", "husband of x"], 
+      ["长发姑娘", "friend of x, mentor of x"], 
+      ["短发女人", "wife of x"]
+    ],
+    "长发姑娘": [
+      ["杜辉信", "helper of x, friend of x"], 
+      ["孟老爷", "lover of x"], 
+      ["虞医师", "mentor of x"], 
+      ["云凌", "saved by x"], 
+      ["姚仲义", "lover of x"], 
+      ["陈均梦", "friend of x"], 
+      ["红夫人", "husband of x"], 
+      ["姚长寿", "friend of x, student of x"]
+    ],
+    "短发女人": [
+      ["贵叔", "adoptive brother of x, half brother of x, neighbour of x, fondness of x"], 
+      ["杜辉信", "extramarital affair with x, secret lover of x"], 
+      ["孟老爷", "employee of x"], 
+      ["虞医师", "patient of x"], 
+      ["云凌", "mentor of x"], 
+      ["姚仲义", "husband of x"], 
+      ["陈均梦", "husband of x, lover of x"], 
+      ["红夫人", "secret lover of x"], 
+      ["姚长寿", "husband of x"]
+    ]
+}

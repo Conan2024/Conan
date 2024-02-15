@@ -1,0 +1,151 @@
+{
+    "艾莱克斯•哈维": [
+        [
+            "玛丽娜",
+            "relative of x, friend of x"
+        ],
+        [
+            "杰奎琳",
+            "relative of x"
+        ],
+        [
+            "哈里森",
+            "acquaintance of x"
+        ],
+        [
+            "佩里",
+            "acquaintance of x"
+        ],
+        [
+            "丹尼尔",
+            "dislike of x"
+        ],
+        [
+            "艾米",
+            "friend of x, debtor of x, information receiver from x"
+        ],
+        [
+            "哈罗德",
+            "acquaintance of x"
+        ],
+        [
+            "约翰",
+            "acquaintance of x, suspect of x"
+        ],
+        [
+            "露西",
+            "acquaintance of x"
+        ],
+        [
+            "乔纳森",
+            "acquaintance of x"
+        ],
+        [
+            "麦克斯•派克",
+            "acquaintance of x, suspected by x"
+        ],
+        [
+            "戴维斯",
+            "acquaintance of x"
+        ]
+    ],
+    "玛丽娜": [
+        [
+            "艾莱克斯•哈维",
+            "relative of x, friend of x"
+        ],
+        [
+            "杰奎琳",
+            "sibling of x"
+        ],
+        [
+            "哈里森",
+            "husband of x"
+        ],
+        [
+            "戴维斯",
+            "extramarital affair with x"
+        ]
+    ],
+    "杰奎琳": [
+        [
+            "艾莱克斯•哈维",
+            "relative of x"
+        ],
+        [
+            "玛丽娜",
+            "sibling of x"
+        ]
+    ],
+    "哈里森": [
+        [
+            "玛丽娜",
+            "wife of x"
+        ]
+    ],
+    "佩里": [],
+    "丹尼尔": [
+        [
+            "艾莱克斯•哈维",
+            "disliked by x"
+        ]
+    ],
+    "艾米": [
+        [
+            "艾莱克斯•哈维",
+            "friend of x, creditor of x, informant of x"
+        ],
+        [
+            "约翰",
+            "estranged spouse of x"
+        ]
+    ],
+    "哈罗德": [
+        [
+            "艾米",
+            "sibling of x"
+        ]
+    ],
+    "约翰": [
+        [
+            "艾米",
+            "estranged spouse of x"
+        ],
+        [
+            "麦克斯•派克",
+            "acquaintance of x"
+        ]
+    ],
+    "露西": [
+        [
+            "艾莱克斯•哈维",
+            "acquaintance of x"
+        ],
+        [
+            "乔纳森",
+            "romantic relationships with x"
+        ]
+    ],
+    "乔纳森": [
+        [
+            "艾莱克斯•哈维",
+            "acquaintance of x"
+        ],
+        [
+            "露西",
+            "romantic relationships with x"
+        ]
+    ],
+    "麦克斯•派克": [
+        [
+            "艾莱克斯•哈维",
+            "acquaintance of x, suspected by x"
+        ]
+    ],
+    "戴维斯": [
+        [
+            "玛丽娜",
+            "extramarital affair with x"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "张伟": [],
+    "赵中杨": [
+        [
+            "赵中正",
+            "sibling of x, attempted murderer of x"
+        ],
+        [
+            "赵三",
+            "subordinate of x, manipulator of x"
+        ],
+        [
+            "陈媚儿",
+            "romantic relationships with x, deceiver of x"
+        ],
+        [
+            "李成",
+            "manipulated by x, subordinate of x"
+        ]
+    ],
+    "赵中正": [
+        [
+            "赵中杨",
+            "sibling of x, attempted perpetrator of x"
+        ],
+        [
+            "赵三",
+            "subordinate of x, helper of x, quest companion of x"
+        ],
+        [
+            "陈媚儿",
+            "subordinate of x, helper of x, quest companion of x"
+        ],
+        [
+            "李成",
+            "subordinate of x, helper of x, quest companion of x"
+        ]
+    ],
+    "赵三": [
+        [
+            "赵中正",
+            "superior of x, friend of x"
+        ],
+        [
+            "赵中杨",
+            "superior of x, victim of x"
+        ]
+    ],
+    "陈媚儿": [
+        [
+            "赵中杨",
+            "romantic relationships with x, manipulated by x"
+        ],
+        [
+            "赵中正",
+            "superior of x, manipulator of x"
+        ]
+    ],
+    "李成": [
+        [
+            "赵中杨",
+            "superior of x, victim of x"
+        ],
+        [
+            "赵中正",
+            "manipulator of x, superior of x"
+        ]
+    ],
+    "马老板": []
+}

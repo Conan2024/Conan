@@ -1,0 +1,48 @@
+{
+    "吕采茜": [
+      ["明纱", "friend of x"], 
+      ["谭仁昌", "wife of x, friend of x, helper of x"], 
+      ["韦洋遥", "friend of x, acquaintance of x"]
+    ],
+    "明纱": [
+      ["吕采茜", "friend of x"], 
+      ["罗亨理", "business partner of x"], 
+      ["谭仁昌", "rival of x"], 
+      ["韦洋遥", "business partner of x"]
+    ],
+    "罗亨理": [
+      ["明纱", "business partner of x"], 
+      ["谭仁昌", "employer of x, master of x"], 
+      ["欣雅", "friend of x, acquaintance of x, classmate of x"], 
+      ["韦洋遥", "husband of x"], 
+      ["海悠", "friend of x, business partner of x"]
+    ],
+    "谭仁昌": [
+      ["吕采茜", "wife of x, friend of x"], 
+      ["明纱", "rival of x"], 
+      ["罗亨理", "employee of x, servant of x"], 
+      ["欣雅", "husband of x, friend of x"], 
+      ["韦洋遥", "husband of x, friend of x"]
+    ],
+    "欣雅": [
+      ["罗亨理", "friend of x, acquaintance of x, classmate of x"], 
+      ["谭仁昌", "wife of x, friend of x"], 
+      ["韦洋遥", "friend of x, acquaintance of x"], 
+      ["海悠", "friend of x"]
+    ],
+    "谭仁昌的母亲": [
+      ["吕采茜", "mother in law of x"]
+    ],
+    "韦洋遥": [
+      ["吕采茜", "wife of x, friend of x"], 
+      ["明纱", "business partner of x"], 
+      ["罗亨理", "wife of x"], 
+      ["谭仁昌", "wife of x, friend of x"], 
+      ["欣雅", "friend of x, acquaintance of x"]
+    ],
+    "海悠": [
+      ["罗亨理", "friend of x, business partner of x"], 
+      ["欣雅", "friend of x"], 
+      ["韦洋遥", "wife of x"]
+    ]
+}

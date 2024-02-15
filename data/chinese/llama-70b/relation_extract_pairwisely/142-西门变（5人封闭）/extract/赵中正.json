@@ -1,0 +1,120 @@
+{
+    "赵中正": [
+        [
+            "赵中杨",
+            "rival",
+            "enemy"
+        ],
+        [
+            "陈媚儿",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "李成",
+            "relationship 1 ",
+            "relationship 2 ",
+            "relationship 3 ",
+            "relationship 4 ",
+            "relationship 5 "
+        ],
+        [
+            "赵三",
+            "relationship 1",
+            "relationship 2",
+            "relationship 3",
+            "relationship 4"
+        ]
+    ],
+    "赵中杨": [
+        [
+            "赵中正",
+            "rival",
+            "enemy"
+        ],
+        [
+            "陈媚儿",
+            "Co-worker"
+        ],
+        [
+            "李成",
+            " enemy"
+        ],
+        [
+            "赵三",
+            "李成",
+            "陈媚儿"
+        ]
+    ],
+    "陈媚儿": [
+        [
+            "赵中正",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "赵中杨",
+            "Co-worker"
+        ]
+    ],
+    "李成": [
+        [
+            "赵中正",
+            "relationship 1 ",
+            "relationship 2 ",
+            "relationship 3 ",
+            "relationship 4 ",
+            "relationship 5 "
+        ],
+        [
+            "赵中杨",
+            "enemy"
+        ],
+        [
+            "赵三",
+            "Friend of X",
+            "Colleague of X"
+        ]
+    ],
+    "赵三": [
+        [
+            "赵中正",
+            "relationship 1",
+            "relationship 2",
+            "relationship 3",
+            "relationship 4"
+        ],
+        [
+            "赵中杨",
+            "赵中正",
+            "李成"
+        ],
+        [
+            "李成",
+            "Friend of X",
+            "Colleague of X"
+        ]
+    ],
+    "chen mou zi": [
+        [
+            "Li Ang",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "Li Ang": [
+        [
+            "Chen Mou Zi",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "chen meng niang": [
+        [
+            "zhao san",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "zhao san": [
+        [
+            "chen meng niang",
+            "relationship 1, relationship 2"
+        ]
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "保安凯文": [
+      ["剧务戴维", "colleague of x, friend of x"], 
+      ["助手艾拉", "colleague of x, friend of x"], 
+      ["古思特", "superior of x, subordinate of x, suspicious of x, rival of x, helper of x"], 
+      ["后勤格里夫", "colleague of x, business partner of x"], 
+      ["戴维", "colleague of x, business partner of x, friend of x"], 
+      ["罗琳", "colleague of x, business partner of x, friend of x"], 
+      ["魔术师古思特", "colleague of x, friend of x"], 
+      ["警察", "suspect of x"]
+    ],
+    "凯文": [
+      ["助手艾拉", "colleague of x"], 
+      ["宣传罗琳", "friend of x, colleague of x"], 
+      ["戴维", "colleague of x, acquaintance of x"], 
+      ["格里夫", "colleague of x, friend of x"], 
+      ["罗琳", "colleague of x, friend of x"], 
+      ["艾拉", "business partner of x"], 
+      ["魔术师古思特", "friend of x, colleague of x"], 
+      ["剧务戴维", "enemy of x, rival of x, suspect of x"]
+    ],
+    "剧务戴维": [
+      ["保安凯文", "colleague of x, friend of x"], 
+      ["古思特", "colleague of x, rival of x"], 
+      ["宣传罗琳", "acquaintance of x, friend of x"], 
+      ["格里夫", "employer of x, master of x"], 
+      ["罗琳", "acquaintance of x"]
+    ],
+    "助手艾라": [
+      ["保安凯文", "colleague of x, friend of x"], 
+      ["古思特", "business partner of x"]
+    ],
+    "古思特": [
+      ["保安凯文", "superior of x, subordinate of x, suspicious of x, rival of x, manipulator of x"], 
+      ["剧务戴维", "colleague of x, rival of x"], 
+      ["助手艾拉", "business partner of x"], 
+      ["后勤格里夫", "employer of x, master of x, superior of x"], 
+      ["宣传罗琳", "employer of x, superior of x"], 
+      ["戴维", "colleague of x, friend of x"], 
+      ["格里夫", "mentor of x, teacher of x"], 
+      ["罗琳", "friend of x, mentor of x"], 
+      ["艾拉", "husband of x, perpetrator of x, bully of x"], 
+      ["magician", "employer of x, acquaintance of x, friend of x"]
+    ],
+    "后勤格里夫": [
+      ["保安凯文", "colleague of x, business partner of x"], 
+      ["助手艾拉", "friend of x, acquaintance of x"], 
+      ["古思特", "employee of x, servant of x, subordinate of x"], 
+      ["宣传罗琳", "colleague of x, friend of x"], 
+      ["格里夫", "colleague of x, friend of x"], 
+      ["艾拉", "perpetrator of x, helped by x, rival of x"], 
+      ["魔术师古思特", "employer of x, master of x, superior of x"]
+    ],
+    "宣传罗琳": [
+      ["凯文", "friend of x, colleague of x"], 
+      ["凯文", "acquaintance of x"], 
+      ["剧务戴维", "acquaintance of x, friend of x"], 
+      ["古思特", "employee of x, subordinate of x"], 
+      ["后勤格里夫", "colleague of x, friend of x"], 
+      ["戴维", "acquaintance of x"], 
+      ["罗琳", "colleague of x, friend of x"], 
+      ["艾拉", "friend of x, colleague of x"]
+    ],
+    "戴维": [
+      ["保安凯文", "colleague of x, business partner of x, friend of x"], 
+      ["凯文", "colleague of x, acquaintance of x"], 
+      ["剧务", "colleague of x"], 
+      ["古思特", "colleague of x, friend of x"], 
+      ["宣传罗琳", "acquaintance of x"], 
+      ["格里夫", "friend of x, adversary of x, enemy of x, rival of x, manipulator of x, master of x, employer of x"], 
+      ["罗琳", "colleague of x"], 
+      ["艾拉", "friend of x"], 
+      ["魔术师古思特", "acquaintance of x"]
+    ],
+    "格里夫": [
+      ["凯文", "colleague of x, friend of x"], 
+      ["剧务戴维", "employee of x, subordinate of x"], 
+      ["助手艾拉", "friend of x"], 
+      ["古思特", "student of x, colleague of x, business partner of x"], 
+      ["后勤格里夫", "colleague of x, friend of x"], 
+      ["戴维", "friend of x, adversary of x, enemy of x, rival of x, manipulator of x, master of x, employer of x"], 
+      ["罗琳", "friend of x, classmate of x"], 
+      ["魔术师古思特", "colleague of x, friend of x"]
+    ],
+    "罗琳": [
+      ["保安凯文", "colleague of x, business partner of x, friend of x"], 
+      ["凯文", "colleague of x, friend of x"], 
+      ["剧务戴维", "acquaintance of x"], 
+      ["助手艾拉", "colleague of x, business partner of x"], 
+      ["古思特", "friend of x"], 
+      ["宣传罗琳", "colleague of x, friend of x"], 
+      ["戴维", "colleague of x"], 
+      ["格里夫", "friend of x, classmate of x"], 
+      ["艾拉", "colleague of x, friend of x"]
+    ],
+    "艾拉": [
+      ["凯文", "business partner of x"], 
+      ["剧务戴维", "friend of x, acquaintance of x"], 
+      ["助手艾拉", "acquaintance of x"], 
+      ["古思特", "wife of x, victim of x"], 
+      ["后勤格里夫", "perpetrator of x, helped by x, rival of x"], 
+      ["宣传罗琳", "friend of x, colleague of x"], 
+      ["戴维", "friend of x"], 
+      ["罗琳", "colleague of x, friend of x"]
+    ],
+    "魔术师古思特": [
+      ["保安凯文", "colleague of x, friend of x"], 
+      ["凯文", "friend of x, colleague of x"], 
+      ["助手艾拉", "acquaintance of x, employer of x"], 
+      ["古思特", "employer of x, acquaintance of x, friend of x"], 
+      ["后勤格里夫", "employee of x, servant of x, subordinate of x"], 
+      ["戴维", "acquaintance of x"], 
+      ["格里夫", "colleague of x, friend of x"]
+    ],
+    "助手艾拉": [
+      ["凯文", "colleague of x"], 
+      ["后勤格里夫", "friend of x, acquaintance of x"], 
+      ["格里夫", "friend of x"], 
+      ["罗琳", "colleague of x, business partner of x"], 
+      ["艾拉", "acquaintance of x"], 
+      ["魔术师古思特", "acquaintance of x"]
+    ]
+}

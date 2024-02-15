@@ -1,0 +1,61 @@
+{
+    "韩乘务": [
+      ["刘奇", "subordinate of x, perpetrator of x, dislike of x, attempted murderer of x, deceiver of x, suspected by x, victim of x"], 
+      ["修仁杰", "acquaintance of x, information receiver from x, confidante of x, work colleague of x"], 
+      ["林若彤", "dislike of x, adversary of x, deceiver of x"], 
+      ["洪子廉", "subordinate of x, punished by x, disliked by x"], 
+      ["张文远", "acquaintance of x, information receiver from x"]
+    ],
+    "刘奇": [
+      ["韩乘务", "superior of x, victim of x, deceived by x, bully of x"], 
+      ["修仁杰", "victim of x, disliked by x, superior of x, bully of x, attempted perpetrator of x"], 
+      ["林若彤", "suspected by x, disliked by x, secret lover of x, deceived by x"], 
+      ["洪子廉", "superior of x"], 
+      ["韩亦(乘务)", "subordinate of x, attempted perpetrator of x, dislike of x, disliked by x, victim of x"], 
+      ["VVIP", "victim of x, disliked by x"]
+    ],
+    "修仁杰": [
+      ["韩乘务", "acquaintance of x, confidant of x, work colleague of x, informed by x"], 
+      ["刘奇", "acquaintance of x, quest companion of x, information receiver from x, perpetrator of x"], 
+      ["林若彤", "acquaintance of x, possible information receiver from x, quest companion of x"], 
+      ["洪子廉", "acquaintance of x, possibly friend of x"], 
+      ["张文远", "acquaintance of x"], 
+      ["韩亦", "friend of x, information receiver from x, quest companion of x"]
+    ],
+    "林若彤": [
+      ["韩乘务", "disliked by x, deceived by x"], 
+      ["刘奇", "suspect of x, admirer of x, girlfriend of x"], 
+      ["修仁杰", "acquaintance of x, possible informant of x"], 
+      ["洪子廉", "superior of x, authority over x"], 
+      ["张文远", "acquaintance of x, possibly an extramarital affair with x"], 
+      ["VVIP", "suspected by x, disliked by x"]
+    ],
+    "洪子廉": [
+      ["韩乘务", "superior of x, punisher of x, disliker of x"], 
+      ["刘奇", "subordinate of x"], 
+      ["修仁杰", "acquaintance of x, superior of x"], 
+      ["林若彤", "subordinate of x, under the authority of x"], 
+      ["韩乘务", "superior of x"], 
+      ["VVIP", "superior of x"]
+    ],
+    "张文远": [
+      ["韩乘务", "acquaintance of x, subject of x investigation for x"], 
+      ["韩亦(乘务)", "acquaintance of x"], 
+      ["修仁杰", "acquaintance of x"], 
+      ["林若彤", "acquaintance of x, possibly suspect of x having an extramarital affair with x"], 
+      ["韩乘务", "acquaintance of x"], 
+      ["VVIP", "subordinate of x"]
+    ],
+    "VVIP": [
+      ["刘奇", "suspect of x"], 
+      ["林若彤", "subject of x gossip for x, dislike of x"], 
+      ["洪子廉", "subordinate of x"], 
+      ["张文远", "superior of x"]
+    ],
+    "韩亦(乘务)": [
+      ["刘奇", "superior of x, attempted victim of x, disliker of x, disliked by x, perpetrator of x"]
+    ],
+    "韩亦": [
+      ["修仁杰", "friend of x, informant of x, quest companion of x"]
+    ]
+}

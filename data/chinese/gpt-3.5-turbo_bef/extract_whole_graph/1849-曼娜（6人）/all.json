@@ -1,0 +1,32 @@
+{
+    "Alice": [
+      ["Bob", "husband of x"], 
+      ["Carol", "mother of x"], 
+      ["David", "father of x, employer of x"], 
+      ["Eve", "friend of x"]
+    ],
+    "Bob": [
+      ["Alice", "wife of x"], 
+      ["Carol", "mother in law of x"], 
+      ["David", "father in law of x"], 
+      ["Eve", "friend of x"]
+    ],
+    "Carol": [
+      ["Alice", "daughter of x"], 
+      ["Bob", "son in law of x"], 
+      ["David", "husband of x"], 
+      ["Eve", "grandmother of x"]
+    ],
+    "David": [
+      ["Alice", "daughter of x"], 
+      ["Bob", "son of x"], 
+      ["Carol", "wife of x"], 
+      ["Eve", "friend of x"]
+    ],
+    "Eve": [
+      ["Alice", "friend of x"], 
+      ["Bob", "friend of x"], 
+      ["Carol", "granddaughter of x"], 
+      ["David", "friend of x"]
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "洪子(船长)": [
+        [
+            "刘奇(大副)",
+            "subordinate of x, smuggling partner of x, protected by x"
+        ],
+        [
+            "修仁杰(酒吧经理)",
+            "acquaintance of x"
+        ],
+        [
+            "韩亦暮 (乘务)",
+            "subordinate of x, admonisher of x"
+        ],
+        [
+            "林若彤(歌手)",
+            "lover of x, gift recipient from x, protected by x"
+        ],
+        [
+            "张文远 (二副)",
+            "subordinate of x, report ignored by x"
+        ],
+        [
+            "VVIP",
+            "accidental harm by x, apologized to x"
+        ]
+    ],
+    "刘奇(大副)": [
+        [
+            "洪子(船长)",
+            "superior of x, smuggling partner of x, protected by x"
+        ],
+        [
+            "林若彤(歌手)",
+            "acquaintance of x"
+        ]
+    ],
+    "修仁杰(酒吧经理)": [
+        [
+            "洪子(船长)",
+            "acquaintance of x"
+        ],
+        [
+            "林若彤(歌手)",
+            "superior of x, responsible for x"
+        ]
+    ],
+    "韩亦暮 (乘务)": [
+        [
+            "洪子(船长)",
+            "superior of x, disciplined by x"
+        ],
+        [
+            "林若彤(歌手)",
+            "public argument with x"
+        ]
+    ],
+    "林若彤(歌手)": [
+        [
+            "洪子(船长)",
+            "lover of x, gift recipient from x, protected by x"
+        ],
+        [
+            "修仁杰(酒吧经理)",
+            "superior of x"
+        ],
+        [
+            "韩亦暮 (乘务)",
+            "public argument with x"
+        ]
+    ],
+    "张文远 (二副)": [
+        [
+            "洪子(船长)",
+            "superior of x, report ignored by x"
+        ],
+        [
+            "VVIP",
+            "apologized to x, responsibility for harm to x"
+        ]
+    ],
+    "VVIP": [
+        [
+            "洪子(船长)",
+            "apology receiver from x, accidental harm by x"
+        ],
+        [
+            "张文远 (二副)",
+            "apology receiver from x, victim of negligence by x"
+        ]
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "剧团宣传工作的员工": [
+        [
+            "魔术师古思特",
+            "同事",
+            "对手",
+            "诈骗的关系",
+            "财产争夺的关系",
+            "共谋室的关系"
+        ],
+        [
+            "现在的剧务戴维",
+            "Co-worker",
+            "Friend"
+        ],
+        [
+            "助手艾拉",
+            " acquaintance, colleague"
+        ],
+        [
+            "保安凯文",
+            " acquaintance, colleague"
+        ],
+        [
+            "后勤格里夫",
+            "Colleague",
+            "Friend"
+        ]
+    ],
+    "魔术师古思特": [
+        [
+            "剧团宣传工作的员工",
+            "同事",
+            "对手",
+            "诈骗的关系",
+            "财产争夺的关系",
+            "共谋室的关系"
+        ],
+        [
+            "现在的剧务戴维",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "助手艾拉",
+            "mentor",
+            "friend"
+        ],
+        [
+            "保安凯文",
+            "mentor",
+            "friend"
+        ],
+        [
+            "后勤格里夫",
+            "Master of X",
+            "Employer of X",
+            "Manipulator of X"
+        ]
+    ],
+    "现在的剧务戴维": [
+        [
+            "剧团宣传工作的员工",
+            "Co-worker",
+            "Friend"
+        ],
+        [
+            "魔术师古思特",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "助手艾拉",
+            "戴维"
+        ],
+        [
+            "保安凯文",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "后勤格里夫",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "助手艾拉": [
+        [
+            "剧团宣传工作的员工",
+            "acquaintance, colleague"
+        ],
+        [
+            "魔术师古思特",
+            "mentor",
+            "friend"
+        ],
+        [
+            "现在的剧务戴维",
+            "戴维"
+        ],
+        [
+            "保安凯文",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "后勤格里夫",
+            "friend",
+            "acquaintance"
+        ]
+    ],
+    "保安凯文": [
+        [
+            "剧团宣传工作的员工",
+            "acquaintance, colleague"
+        ],
+        [
+            "魔术师古思特",
+            "mentor",
+            "friend"
+        ],
+        [
+            "现在的剧务戴维",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "助手艾拉",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "后勤格里夫",
+            "friend",
+            "colleague"
+        ]
+    ],
+    "后勤格里夫": [
+        [
+            "剧团宣传工作的员工",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "魔术师古思特",
+            "Master of X",
+            "Employer of X",
+            "Manipulated by X"
+        ],
+        [
+            "现在的剧务戴维",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "助手艾拉",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "保安凯文",
+            "friend",
+            "colleague"
+        ]
+    ],
+    "戴维": [
+        [
+            "现在的剧务戴维"
+        ],
+        [
+            "古思特",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "凯文": [
+        [
+            "现在的剧务戴维"
+        ]
+    ],
+    "古思特": [
+        [
+            "现在的剧务戴维",
+            "戴维",
+            "凯文"
+        ],
+        [
+            "罗琳",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "罗琳": [
+        [
+            "戴维",
+            "relationship 1, relationship 2"
+        ]
+    ]
+}

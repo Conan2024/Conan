@@ -1,0 +1,66 @@
+{
+    "丹尼尔": [
+        [
+            "李老师",
+            "mentor of x, disliked by x"
+        ],
+        [
+            "朱莉",
+            "ex-romantic relationships with x, admired by x"
+        ],
+        [
+            "查理",
+            "friend of x"
+        ],
+        [
+            "彼得",
+            "adversary of x, extramarital affair with x's romantic interest, victim of x"
+        ]
+    ],
+    "李老师": [
+        [
+            "丹尼尔",
+            "student of x, disliker of x"
+        ],
+        [
+            "失踪女孩的母亲",
+            "suspected by x, perpetrator of x"
+        ],
+        [
+            "丹尼尔",
+            "subject of investigation for x"
+        ]
+    ],
+    "朱莉": [
+        [
+            "丹尼尔",
+            "ex-romantic interest of x, admirer of x"
+        ],
+        [
+            "彼得",
+            "wife of x"
+        ]
+    ],
+    "查理": [
+        [
+            "丹尼尔",
+            "friend of x"
+        ]
+    ],
+    "彼得": [
+        [
+            "朱莉",
+            "husband of x"
+        ],
+        [
+            "丹尼尔",
+            "rival in love of x, adversary of x"
+        ]
+    ],
+    "山姆": [
+        [
+            "丹尼尔",
+            "acquaintance of x"
+        ]
+    ]
+}

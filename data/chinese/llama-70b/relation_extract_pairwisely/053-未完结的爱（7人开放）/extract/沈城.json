@@ -1,0 +1,228 @@
+{
+    "沈城": [
+        [
+            "秦思琴",
+            "relationship 1 - husband",
+            "relationship 2 - father",
+            "relationship 3 - enemy",
+            "relationship 4 - adversary",
+            "relationship 5 - suspect"
+        ],
+        [
+            "林彤",
+            "relation1",
+            "relation2"
+        ],
+        [
+            "顾明和",
+            "仇人"
+        ],
+        [
+            "林惟仁",
+            "Enemy, Rival, Manipulator, Deceiver, Betrayer"
+        ],
+        [
+            "苏阳",
+            "rival",
+            " enemy"
+        ],
+        [
+            "林夕",
+            "enemy, stepfather, savior, opponent, benefactor"
+        ]
+    ],
+    "秦思琴": [
+        [
+            "沈城",
+            "relationship 1 - wife",
+            "relationship 2 - mother",
+            "relationship 3 - enemy",
+            "relationship 4 - business partner",
+            "relationship 5 - victim"
+        ],
+        [
+            "林彤",
+            "wife",
+            "daughter"
+        ],
+        [
+            "顾明和",
+            "husband of X",
+            "master of X",
+            "employer of X"
+        ],
+        [
+            "林惟仁",
+            "Wife of X",
+            "Victim of X"
+        ],
+        [
+            "苏阳",
+            "Husband of X",
+            "Perpetrator of X"
+        ],
+        [
+            "林夕",
+            "wife of X",
+            "daughter of X"
+        ]
+    ],
+    "林彤": [
+        [
+            "沈城",
+            "relation1",
+            "relation2"
+        ],
+        [
+            "秦思琴",
+            "daughter",
+            "wife"
+        ],
+        [
+            "顾明和",
+            "relationship 1: cousin-in-law",
+            "relationship 2: indirect cause of death",
+            "relationship 3: betrayal (romantic relationship with 林夕)"
+        ],
+        [
+            "林惟仁",
+            "Doctor-patient",
+            " enemy"
+        ],
+        [
+            "苏阳",
+            "romantic relationship",
+            "doctor-patient relationship"
+        ],
+        [
+            "林夕",
+            "cousin, deceased mother's sister's daughter"
+        ]
+    ],
+    "顾明和": [
+        [
+            "沈城",
+            "仇人"
+        ],
+        [
+            "秦思琴",
+            "wife of X",
+            "subordinate of X",
+            "employee of X"
+        ],
+        [
+            "林彤",
+            "relationship 1: uncle-in-law",
+            "relationship 2: enemy",
+            "relationship 3: rival"
+        ],
+        [
+            "林惟仁",
+            "Suspect of X",
+            "Enemy of X",
+            "Rival of X"
+        ],
+        [
+            "苏阳",
+            "林惟仁",
+            "林夕"
+        ],
+        [
+            "林夕",
+            "father-daughter",
+            "adversary",
+            "friend"
+        ]
+    ],
+    "林惟仁": [
+        [
+            "沈城",
+            "Enemy, Rival, Manipulator, Deceiver, Betrayer"
+        ],
+        [
+            "秦思琴",
+            "Husband of X",
+            "Perpetrator of X"
+        ],
+        [
+            "林彤",
+            "Doctor-patient",
+            "enemy"
+        ],
+        [
+            "顾明和",
+            "Suspect of X",
+            "Enemy of X",
+            "Rival of X"
+        ],
+        [
+            "苏阳",
+            "rival, enemy"
+        ],
+        [
+            "林夕",
+            "rival, enemy"
+        ]
+    ],
+    "苏阳": [
+        [
+            "沈城",
+            "rival",
+            "enemy"
+        ],
+        [
+            "秦思琴",
+            "Wife of X",
+            "Victim of X"
+        ],
+        [
+            "林彤",
+            "romantic relationship",
+            "doctor-patient relationship"
+        ],
+        [
+            "顾明和",
+            "林惟仁",
+            "林夕"
+        ],
+        [
+            "林惟仁",
+            "rival, enemy"
+        ],
+        [
+            "林夕",
+            "Ex-romantic relationships",
+            "Colleague"
+        ]
+    ],
+    "林夕": [
+        [
+            "沈城",
+            "enemy, stepdaughter, saved person, opponent, beneficiary"
+        ],
+        [
+            "秦思琴",
+            "husband of X",
+            "father of X"
+        ],
+        [
+            "林彤",
+            "cousin, deceased mother's sister's daughter"
+        ],
+        [
+            "顾明和",
+            "father-daughter",
+            "romantic partner",
+            "acquaintance"
+        ],
+        [
+            "林惟仁",
+            "rival, enemy"
+        ],
+        [
+            "苏阳",
+            "Ex-romantic relationships",
+            "Colleague"
+        ]
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "孙清洁": [
+      ["田助理", "blackmailed by x, victim of x, information receiver from x, adversary of x, deceiver of x"], 
+      ["李保安", "acquaintance of x, information receiver from x, helped by x"], 
+      ["贾教授", "acquaintance of x, information receiver from x"]
+    ],
+    "田助理": [
+      ["孙清洁", "blackmailer of x, perpetrator of x, deceived by x, adversary of x, informant of x"], 
+      ["李保安", "perpetrator of x, information receiver from x"], 
+      ["贾教授", "subordinate of x, information receiver from x"]
+    ],
+    "李保安": [
+      ["孙清洁", "acquaintance of x, informant of x, helper of x"], 
+      ["田助理", "victim of x, informant of x"], 
+      ["贾教授", "acquaintance of x, colleague of x"]
+    ],
+    "贾教授": [
+      ["孙清洁", "acquaintance of x, subject of x investigation for x"], 
+      ["田助理", "superior of x, information provider of x"], 
+      ["李保安", "acquaintance of x, colleague of x"]
+    ]
+}

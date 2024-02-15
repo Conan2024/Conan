@@ -1,0 +1,41 @@
+{
+    "戴维": [
+      ["罗琳", "sister of x, partner in crime of x, acquaintance of x, enemy of x"], 
+      ["古思特", "rival of x, enemy of x, former partner of x, manipulator of x"], 
+      ["凯文", "colleague of x, acquaintance of x, suspicious of x"], 
+      ["后勤格里夫", "acquaintance of x, suspicious of x"]
+    ],
+    "罗琳": [
+      ["戴维", "sister of x, partner in crime of x, acquaintance of x, enemy of x"], 
+      ["古思特", "rival of x, enemy of x, former partner of x"], 
+      ["凯文", "colleague of x, acquaintance of x"], 
+      ["后勤格里夫", "acquaintance of x"]
+    ],
+    "古思特": [
+      ["戴维", "rival of x, enemy of x, former partner of x, manipulator of x"], 
+      ["罗琳", "rival of x, enemy of x, former partner of x"], 
+      ["凯文", "colleague of x, acquaintance of x"]
+    ],
+    "凯文": [
+      ["戴维", "colleague of x, acquaintance of x, suspicious of x"], 
+      ["罗琳", "colleague of x, acquaintance of x"], 
+      ["古思特", "former partner of x, enemy of x"]
+    ],
+    "后勤格里夫": [
+      ["戴维", "acquaintance of x, suspicious of x"], 
+      ["罗琳", "acquaintance of x"], 
+      ["古思特", "acquaintance of x, suspicious of x"]
+    ],
+    "剧务戴维": [
+      ["罗琳", "acquaintance of x, business partner of x"], 
+      ["凯文", "acquaintance of x, business partner of x"]
+    ],
+    "助手艾拉": [
+      ["古思特", "boss of x, partner of x"], 
+      ["罗琳", "acquaintance of x, friend of x"], 
+      ["戴维", "acquaintance of x, friend of x"]
+    ],
+    " magic 术师古思特": [
+      ["戴维", "former partner of x, enemy of x"]
+    ]
+}

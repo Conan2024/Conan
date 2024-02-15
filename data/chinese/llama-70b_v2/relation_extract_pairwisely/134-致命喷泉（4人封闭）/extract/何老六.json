@@ -1,0 +1,32 @@
+{
+    "何老六": [
+      ["李国富", "acquaintance of x, co conspirator of x"], 
+      ["张洁", "accomplice of x, co worker of x, friend of x"], 
+      ["慕北", "同仁 of x, 夜间保安队员 of x, 奸杀团伙 of x, 共犯 of x, 救命恩人 of x, 欺负 of x"], 
+      ["王邻居", "accomplices of x, manipulator of x"]
+    ],
+    "李国富": [
+      ["何老六", "acquaintance of x, co conspirator of x"], 
+      ["张洁", "friend of x, partner in crime of x"], 
+      ["慕北", "master of x, manipulate of x"], 
+      ["王邻居", "acquaintance of x, perpetrator of x, and business partner of x"]
+    ],
+    "张洁": [
+      ["何老六", "accomplice of x, co worker of x, friend of x"], 
+      ["李国富", "friend of x, partner in crime of x"], 
+      ["慕北", "acquaintance of x, co worker of x"], 
+      ["王邻居", "co conspirator of x, accomplice of x"]
+    ],
+    "慕北": [
+      ["何老六", "同仁 of x, 夜间保安队员 of x, 奸杀团伙 of x, 共犯 of x, 救命恩人 of x, 欺负 of x"], 
+      ["李国富", "acquaintance of x, helped by x, manipulated by x"], 
+      ["张洁", "acquaintance of x, co worker of x"], 
+      ["王邻居", "acquaintance of x, co worker of x"]
+    ],
+    "王邻居": [
+      ["何老六", "accomplices of x, manipulated of x"], 
+      ["李国富", "acquaintance of x, perpetrator of x, and business partner of x"], 
+      ["张洁", "co conspirator of x, accomplice of x"], 
+      ["慕北", "acquaintance of x, co worker of x"]
+    ]
+}

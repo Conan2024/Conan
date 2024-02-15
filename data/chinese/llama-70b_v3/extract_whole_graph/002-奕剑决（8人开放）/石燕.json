@@ -1,0 +1,17 @@
+{
+    "石燕": [
+      ["红花夫人", "teacher of x"], 
+      ["杜仲", "enemy of x, bully of x"]
+    ],
+    "红花夫人": [
+      ["石燕", "teacher of x"], 
+      ["杜仲", "enemy of x, bully of x"]
+    ],
+    "杜仲": [
+      ["石燕", "enemy of x, bully of x"], 
+      ["红花夫人", "enemy of x, bully of x"]
+    ],
+    "山庄的大弟子陆英": [
+      ["杜仲", "enemy of x, bully of x"]
+    ]
+}

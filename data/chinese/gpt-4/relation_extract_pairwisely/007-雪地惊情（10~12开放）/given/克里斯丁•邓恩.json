@@ -1,0 +1,36 @@
+{
+    "克里斯丁•邓恩": [
+        [
+            "麦克斯•派克",
+            "informant of x, crime partner of x, employee of x, service provider of x, business partner of x, subordinates of x"
+        ],
+        [
+            "乔•罗伯特森",
+            "acquaintance of x, business partner of x, information receiver from x, suspected by x"
+        ],
+        [
+            "乔•罗伯特森",
+            "acquaintance of x, suspect to x"
+        ]
+    ],
+    "麦克斯•派克": [
+        [
+            "克里斯丁•邓恩",
+            "information receiver from x, crime partner of x, employer of x, customer of x, business partner of x, superior of x"
+        ],
+        [
+            "克里斯丁•邓恩",
+            "business partner of x, information receiver from x, helper of x"
+        ]
+    ],
+    "乔•罗伯特森": [
+        [
+            "克里斯丁•邓恩",
+            "business partner of x, suspect of x"
+        ],
+        [
+            "克里斯丁•邓恩",
+            "acquaintance of x, suspected by x"
+        ]
+    ]
+}

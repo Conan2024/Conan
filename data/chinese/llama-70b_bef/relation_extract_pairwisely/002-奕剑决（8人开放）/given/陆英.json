@@ -1,0 +1,27 @@
+{
+    "凌霄": [
+      ["恋人", "subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x"], 
+      ["紫苏", "friend of x"], 
+      ["陆英", "master of x, mentor of x, teacher of x, employee of x"]
+    ],
+    "恋人": [
+      ["凌霄", "subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x"], 
+      ["紫苏", "secret lover of x"]
+    ],
+    "杜仲": [
+      ["玄参", "master of x, employee of x, servant of x, colleague of x, business partner of x, customer of x"]
+    ],
+    "玄参": [
+      ["杜仲", "master of x, employee of x, servant of x, colleague of x, business partner of x, customer of x"], 
+      ["紫苏", "acquaintance of x, friend of x, classmate of x, schoolmate of x, colleague of x"], 
+      ["陆英", "master of x, teacher of x"]
+    ],
+    "紫苏": [
+      ["凌霄", "friend of x"], 
+      ["恋人", "secret lover of x"], 
+      ["玄参", "acquaintance of x, friend of x, classmate of x, schoolmate of x, colleague of x"]
+    ],
+    "陆英": [
+      ["凌霄", "master of x, mentor of x, teacher of x, employee of x"]
+    ]
+}

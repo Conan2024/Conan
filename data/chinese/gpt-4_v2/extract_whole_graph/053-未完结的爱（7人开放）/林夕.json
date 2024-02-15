@@ -1,0 +1,44 @@
+{
+    "林夕": [
+      ["林惟仁", "father of x"], 
+      ["林阳", "sibling of x"], 
+      ["顾宇", "ex boyfriend of x"], 
+      ["顾晴", "ex romantic relationships with x, friend of x"], 
+      ["苏阳", "romantic relationships with x, fiance of x"], 
+      ["沈城", "employee of x, acquaintance of x"]
+    ],
+    "林惟仁": [
+      ["林夕", "child of x"], 
+      ["林阳", "child of x"], 
+      ["沈城", "employer of x"]
+    ],
+    "林阳": [
+      ["林夕", "sibling of x"], 
+      ["林惟仁", "father of x"], 
+      ["顾晴", "romantic relationships with x"], 
+      ["林夕", "service provider of x (as a psychologist)"]
+    ],
+    "顾宇": [
+      ["林夕", "ex boyfriend of x"], 
+      ["顾晴", "sibling of x"]
+    ],
+    "顾晴": [
+      ["林夕", "friend of x, ex romantic relationships with x"], 
+      ["顾宇", "sibling of x"], 
+      ["林阳", "romantic relationships with x"], 
+      ["苏阳", "acquaintance of x"], 
+      ["林夕", "disliked by x"]
+    ],
+    "苏阳": [
+      ["林夕", "fiance of x, romantic relationships with x"], 
+      ["顾晴", "acquaintance of x"], 
+      ["林惟仁", "student of x (as a medical student)"], 
+      ["沈城", "colleague of x (both working for 林夕's family, in different capacities) of x"]
+    ],
+    "沈城": [
+      ["林夕", "employee of x, acquaintance of x"], 
+      ["林惟仁", "employee of x"], 
+      ["苏阳", "colleague of x"], 
+      ["林夕", "helper of x"]
+    ]
+}

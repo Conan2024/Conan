@@ -1,0 +1,27 @@
+{
+    "师父": [
+      ["武林盟使", "mentor of x, teacher of x, acquaintance of x, classmate of x, friend of x"]
+    ],
+    "凌霄": [
+      ["紫苏", "friend of x"], 
+      ["玄冰使", "master of x, superior of x"], 
+      ["二师叔", "suspicious of x"]
+    ],
+    "紫苏": [
+      ["凌霄", "friend of x"]
+    ],
+    "玄冰使": [
+      ["武林盟使", "rival of x"], 
+      ["二师叔", "acquaintance of x"]
+    ],
+    "武林盟使": [
+      ["师父", "mentor of x, teacher of x, acquaintance of x, classmate of x, friend of x"], 
+      ["玄冰使", "rival of x"], 
+      ["二师叔", "suspect of x"]
+    ],
+    "二师叔": [
+      ["凌霄", "suspicious of x"], 
+      ["玄冰使", "acquaintance of x"], 
+      ["武林盟使", "suspect of x"]
+    ]
+}

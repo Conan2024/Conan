@@ -1,0 +1,35 @@
+{
+    "张金银": [
+      ["洪长烈", "brother of x, enemy of x, rival of x, business partner of x, employee of x, acquaintance of x"], 
+      ["张金山", "brother of x, mentor of x"], 
+      ["洪江水", "friend of x, mentor of x"]
+    ],
+    "洪长烈": [
+      ["张金银", "brother of x, enemy of x, rival of x, business partner of x, employee of x, acquaintance of x"], 
+      ["洪江水", "older brother of x, mentor of x, teacher of x, employer of x, superior of x, subordinate of x, employee of x, servant of x"], 
+      ["蔡思娘", "husband of x, father of x, older brother of x, cousin of x, friend of x, mentor of x, teacher of x, employer of x, servant of x, enemy of x"]
+    ],
+    "张金山": [
+      ["张金银", "brother of x, mentor of x"], 
+      ["洪家寨少寨主", "enemy of x, friend of x"]
+    ],
+    "洪江水": [
+      ["张金银", "friend of x, mentor of x"], 
+      ["孟三春", "brother of x, rival of x, friend of x, colleague of x"], 
+      ["洪长烈", "older brother of x, mentor of x, teacher of x, employer of x, superior of x, subordinate of x, employee of x, servant of x"]
+    ],
+    "蔡思娘": [
+      ["张金银", "brother of x, sister in law of x, niece of x, uncle of x, friend of x, friend of x, mentor of x"], 
+      ["洪长烈", "husband of x, father of x, older brother of x, cousin of x, friend of x, mentor of x, teacher of x, employer of x, servant of x, enemy of x"], 
+      ["洪家寨少寨主", "sister of x, daughter of x, daughter of x, concubine of x, lover of x"]
+    ],
+    "孟三春": [
+      ["洪江水", "brother of x, mentor of x, rival of x, friend of x, colleague of x"], 
+      ["洪家寨少寨主", "colleague of x"]
+    ],
+    "洪家寨少寨主": [
+      ["孟三春", "colleague of x"], 
+      ["张金山", "enemy of x, friend of x"], 
+      ["蔡思娘", "sister of x, daughter of x, daughter of x, concubine of x, lover of x"]
+    ]
+}

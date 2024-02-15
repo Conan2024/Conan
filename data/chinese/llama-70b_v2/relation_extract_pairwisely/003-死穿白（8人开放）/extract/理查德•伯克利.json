@@ -1,0 +1,55 @@
+{
+    "理查德•伯克利": [
+      ["努力", "employer of x, superior of x, mentor of x, friend of x, enemy of x"], 
+      ["医生德雷克•里莫瑞特", "acquaintance of x, colleague of x, business partner of x"], 
+      ["警察伊莱恩•卡特尔", "employee of x, supervisor of x, mentor of x, teacher of x, informant of x, acquaintance of x, colleague of x, business partner of x"], 
+      ["小偷", "employee of x, colleague of x"]
+    ],
+    "努力": [
+      ["理查德•伯克利", "employer of x, superior of x, mentor of x, friend of x, enemy of x"], 
+      ["高效率", "把握机遇 of x"], 
+      ["把握机遇", "co worker of x"], 
+      ["医生德雷克•里莫瑞特", "employee of x, colleague of x, co worker of x, acquaintance of x, classmate of x, schoolmate of x, neighbor of x"], 
+      ["警察伊莱恩•卡特尔", "empleader employee of x, mentor mentee of x, informant information receiver of x, colleague colleague of x"], 
+      ["小偷", "合作关系 of x, 经济互利 relate of x"]
+    ],
+    "高效率": [
+      ["努力", "把握机遇 of x"], 
+      ["把握机遇", "friend of x, colleague of x"], 
+      ["医生德雷克•里莫瑞特", "colleague of x, co worker of x"], 
+      ["小偷", "医生 of x"]
+    ],
+    "relationship": [
+      ["r", "i of x, v of x, a of x, l of x"]
+    ],
+    "医生德雷克•里莫瑞特": [
+      ["理查德•伯克利", "acquaintance of x, colleague of x, business partner of x"], 
+      ["努力", "employee of x, colleague of x, co worker of x, acquaintance of x, classmate of x, schoolmate of x, neighbor of x"], 
+      ["高效率", "colleague of x, co worker of x"], 
+      ["把握机遇", "co worker of x, colleague of x, fellow researcher of x"], 
+      ["警察伊莱恩•卡特尔", "acquaintance of x, colleague of x, helper of x, informant of x, information receiver of x, laboratory technician of x, medical professional of x, mentor of x, researcher of x, student of x, teacher of x, friend of x"], 
+      ["小偷", "保安人员 of x"]
+    ],
+    "警察伊莱恩•卡特尔": [
+      ["理查德•伯克利", "supervisor of x, mentor of x, teacher of x, informant of x, acquaintance of x, colleague of x, business partner of x"], 
+      ["努力", "colleague colleague of x, mentor mentee of x, informant information receiver of x, employee empler of x"], 
+      ["把握机遇", "学生 教师 of x, 医生 患者 of x, 医疗机构 警方 of x"], 
+      ["医生德雷克•里莫瑞特", "acquaintance of x, colleague of x, friend of x, helped of x, helper of x, informant of x, information receiver of x, laboratory technician of x, medical professional of x, mentor of x, researcher of x, student of x, teacher of x"], 
+      ["小偷", "协商的合作伙伴 of x, 监管的对象 of x"]
+    ],
+    "小偷": [
+      ["理查德•伯克利", "employee of x, colleague of x"], 
+      ["努力", "合作关系 of x, 经济互利 relate of x"], 
+      ["高效率", "医生 of x"], 
+      ["把握机遇", "employee of x, colleague of x"], 
+      ["医生德雷克•里莫瑞特", "医院负责人 of x"], 
+      ["警察伊莱恩•卡特尔", "医生的助手 of x, 医院的敏感资产 of x"]
+    ],
+    "把握机遇": [
+      ["努力", "co worker of x"], 
+      ["高效率", "friend of x, colleague of x"], 
+      ["医生德雷克•里莫瑞特", "co worker of x, colleague of x, fellow researcher of x"], 
+      ["警察伊莱恩•卡特尔", "学生 教师 of x, 医生 患者 of x, 医疗机构 警方 of x"], 
+      ["小偷", "employee of x, colleague of x"]
+    ]
+}

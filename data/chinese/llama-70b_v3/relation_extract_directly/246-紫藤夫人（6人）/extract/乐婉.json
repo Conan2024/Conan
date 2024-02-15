@@ -1,0 +1,32 @@
+{
+    "乐婉": [
+      ["葛月萝", "sister of x"], 
+      ["葛继先", "father of x"], 
+      ["福伯", "employer of x, subordinate of x"], 
+      ["张太太", "employee of x"]
+    ],
+    "葛月萝": [
+      ["乐婉", "sister of x"]
+    ],
+    "葛继先": [
+      ["葛月萝", "father of x"]
+    ],
+    "福伯": [
+      ["乐婉", "subordinate of x"]
+    ],
+    "于尚勇": [
+      ["张太太", "friend of x"]
+    ],
+    "于彦诚": [
+      ["张太太", "friend of x"]
+    ],
+    "张太太": [
+      ["乐婉", "employee of x"]
+    ],
+    "虚弱青年": [
+      ["于彦诚", "friend of x"]
+    ],
+    "葛月曼": [
+      ["乐婉", "sister of x"]
+    ]
+}

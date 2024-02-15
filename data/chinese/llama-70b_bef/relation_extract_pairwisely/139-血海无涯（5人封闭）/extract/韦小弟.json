@@ -1,0 +1,28 @@
+{
+    "韦小弟": [
+      ["秦老大", "friend of x, acquaintance of x"], 
+      ["贾美丽", "friend of x, bully of x, enemy of x, rival of x, manipulator of x"], 
+      ["庄清纯", "enemy of x, classmate of x, friend of x, informant of x, helper of x, acquaintance of x"]
+    ],
+    "秦老大": [
+      ["韦小弟", "friend of x, acquaintance of x"], 
+      ["郑友好", "suspect of x, enemy of x"], 
+      ["贾美丽", "classmate of x, acquaintance of x"], 
+      ["庄清纯", "suspect of x, enemy of x"]
+    ],
+    "郑友好": [
+      ["秦老大", "suspect of x, enemy of x"], 
+      ["贾美丽", "acquaintance of x, classmate of x"]
+    ],
+    "贾美丽": [
+      ["韦小弟", "friend of x, bully of x, enemy of x, rival of x, manipulator of x"], 
+      ["秦老大", "classmate of x, acquaintance of x"], 
+      ["郑友好", "acquaintance of x, classmate of x"], 
+      ["庄清纯", "wife of x, friend of x, acquaintance of x, enemy of x, rival of x, manipulator of x, servant of x, subordinate of x, business partner of x"]
+    ],
+    "庄清纯": [
+      ["韦小弟", "enemy of x, classmate of x, friend of x, informant of x, helper of x, acquaintance of x"], 
+      ["秦老大", "suspect of x, enemy of x"], 
+      ["贾美丽", "wife of x, friend of x, acquaintance of x, enemy of x, rival of x, manipulator of x, servant of x, subordinate of x, business partner of x"]
+    ]
+}

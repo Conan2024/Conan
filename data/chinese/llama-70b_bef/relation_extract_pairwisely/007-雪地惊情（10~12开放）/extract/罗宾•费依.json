@@ -1,0 +1,46 @@
+{
+    "罗宾•费依": [
+      ["玛丽娜", "friend of x"], 
+      ["杰奎琳", "friend of x, student of x, colleague of x"], 
+      ["露西•哈里森", "friend of x"], 
+      ["哈罗德•哈里森", "friend of x, colleague of x"]
+    ],
+    "丹尼尔": [
+      ["玛丽娜", "friend of x"], 
+      ["杰奎琳", "colleague of x, friend of x"], 
+      ["哈罗德•哈里森", "friend of x"]
+    ],
+    "玛丽娜": [
+      ["罗宾•费依", "friend of x, lover of x"], 
+      ["丹尼尔", "friend of x"], 
+      ["乔纳森", "acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x"], 
+      ["露西•哈里森", "wife of x, same person as x (different reference), same person as x (different identity)"], 
+      ["哈罗德•哈里森", "husband of x, rival of x, bully of x"], 
+      ["艾米•摩根", "sister in law of x, rival of x"]
+    ],
+    "杰奎琳": [
+      ["罗宾•费依", "friend of x, colleague of x"], 
+      ["丹尼尔", "colleague of x, friend of x"], 
+      ["乔纳森", "brother in law of x, friend of x"]
+    ],
+    "乔纳森": [
+      ["玛丽娜", "father of x, mentor of x, teacher of x, student of x, colleague of x, business partner of x, customer of x"], 
+      ["杰奎琳", "brother in law of x, friend of x"]
+    ],
+    "露西•哈里森": [
+      ["罗宾•费依", "friend of x"], 
+      ["玛丽娜", "daughter of x, sister of x, wife of x"], 
+      ["乔纳森", "friend of x"]
+    ],
+    "哈罗德•哈里森": [
+      ["罗宾•费依", "friend of x, colleague of x"], 
+      ["丹尼尔", "friend of x"], 
+      ["玛丽娜", "wife of x, bully of x, suspect of x"]
+    ],
+    "艾米•摩根": [
+      ["玛丽娜", "sister in law of x, rival of x"]
+    ],
+    "杰奎琳•佩里": [
+      ["乔纳森", "suspect of x"]
+    ]
+}

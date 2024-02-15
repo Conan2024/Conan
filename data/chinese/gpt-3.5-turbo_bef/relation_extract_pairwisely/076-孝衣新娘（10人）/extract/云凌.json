@@ -1,0 +1,103 @@
+{
+    "廖一乔": [
+      ["唐婉枫", "father of x"], 
+      ["任爷爷", "student of x"], 
+      ["徐伯清", "mentor of x"], 
+      ["姚仲义", "father of x"], 
+      ["红夫人", "wife of x"], 
+      ["贵叔", "student of x"], 
+      ["陈均梦", "friend of x, classmate of x"]
+    ],
+    "唐婉枫": [
+      ["廖一乔", "daughter of x"], 
+      ["唐茂光", "wife of x"], 
+      ["任爷爷", "granddaughter of x, servant of x"], 
+      ["徐伯清", "wife of x"], 
+      ["姚仲义", "guest of x, helper of x"], 
+      ["红夫人", "fondness of x, friend of x"], 
+      ["贵叔", "wife of x"], 
+      ["陈均梦", "friend of x, mentor of x"], 
+      ["虞医师", "student of x"]
+    ],
+    "唐茂光": [
+      ["唐婉枫", "husband of x"], 
+      ["徐伯清", "brother of x"], 
+      ["姚仲义", "mentor of x"], 
+      ["红夫人", "husband of x"], 
+      ["贵叔", "friend of x"], 
+      ["陈均梦", "mentor of x"], 
+      ["虞医师", "friend of x, mentor of x"]
+    ],
+    "任爷爷": [
+      ["廖一乔", "teacher of x"], 
+      ["唐婉枫", "grandfather of x, employer of x"], 
+      ["徐伯清", "grandfather of x"], 
+      ["姚仲义", "mentor of x"], 
+      ["红夫人", "adoptive sister of x"], 
+      ["贵叔", "saviour of x"], 
+      ["虞医师", "friend of x"]
+    ],
+    "徐伯清": [
+      ["廖一乔", "student of x"], 
+      ["唐婉枫", "husband of x"], 
+      ["唐茂光", "brother of x"], 
+      ["任爷爷", "grandson of x"], 
+      ["姚仲义", "friend of x"], 
+      ["红夫人", "husband of x"], 
+      ["贵叔", "informant of x, information receiver from x"], 
+      ["虞医师", "colleague of x"]
+    ],
+    "姚仲义": [
+      ["廖一乔", "son of x"], 
+      ["唐婉枫", "host of x, helped by x"], 
+      ["唐茂光", "student of x"], 
+      ["任爷爷", "student of x"], 
+      ["徐伯清", "friend of x"], 
+      ["红夫人", "husband of x"], 
+      ["贵叔", "uncle of x"], 
+      ["陈均梦", "friend of x, romantic relationships with x"], 
+      ["虞医师", "mentor of x"]
+    ],
+    "红夫人": [
+      ["廖一乔", "husband of x"], 
+      ["唐婉枫", "fondness of x, friend of x"], 
+      ["唐茂光", "wife of x"], 
+      ["任爷爷", "adoptive brother of x"], 
+      ["徐伯清", "wife of x"], 
+      ["姚仲义", "wife of x"], 
+      ["贵叔", "wife of x"], 
+      ["陈均梦", "mother of x"], 
+      ["虞医师", "romantic relationships with x, ex romantic relationships with x"]
+    ],
+    "贵叔": [
+      ["廖一乔", "mentor of x"], 
+      ["唐婉枫", "husband of x"], 
+      ["唐茂光", "friend of x"], 
+      ["任爷爷", "saved by x"], 
+      ["徐伯清", "informant of x, information receiver from x"], 
+      ["姚仲义", "nephew of x"], 
+      ["红夫人", "husband of x"], 
+      ["陈均梦", "relative of x"], 
+      ["虞医师", "mentor of x"]
+    ],
+    "陈均梦": [
+      ["廖一乔", "friend of x, classmate of x"], 
+      ["唐婉枫", "student of x"], 
+      ["唐茂光", "student of x"], 
+      ["任爷爷", "student of x"], 
+      ["姚仲义", "friend of x, romantic relationships with x"], 
+      ["红夫人", "son of x"], 
+      ["贵叔", "relative of x"], 
+      ["虞医师", "mentor of x"]
+    ],
+    "虞医师": [
+      ["唐婉枫", "mentor of x"], 
+      ["唐茂光", "friend of x, student of x"], 
+      ["任爷爷", "friend of x"], 
+      ["徐伯清", "colleague of x"], 
+      ["姚仲义", "student of x"], 
+      ["红夫人", "romantic relationships with x, ex romantic relationships with x"], 
+      ["贵叔", "student of x"], 
+      ["陈均梦", "student of x"]
+    ]
+}

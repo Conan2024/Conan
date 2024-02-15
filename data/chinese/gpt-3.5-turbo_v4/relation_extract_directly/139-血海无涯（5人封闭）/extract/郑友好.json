@@ -1,0 +1,30 @@
+{
+    "郑友好": [
+      ["秦老大", "friend of x"], 
+      ["贾美丽", "admired by x"], 
+      ["韦小弟", "friend of x"], 
+      ["秦专家", "father of x"]
+    ],
+    "母亲": [
+      ["郑友好", "father of x"]
+    ],
+    "父亲": [
+      ["郑友好", "father of x"]
+    ],
+    "弟弟": [
+      ["郑友好", "sibling of x"], 
+      ["秦专家", "victim of x"]
+    ],
+    "秦老大的父亲": [
+      ["秦专家", "father of x"]
+    ],
+    "秦专家": [
+      ["母亲", "disliked by x"], 
+      ["母亲", "father of x"], 
+      ["秦老大", "father of x"]
+    ],
+    "贾美丽": [
+      ["庄清纯", "friend of x"], 
+      ["秦老大", "admired by x"]
+    ]
+}

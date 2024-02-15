@@ -1,0 +1,187 @@
+{
+    "张文远": [
+        [
+            "刘奇",
+            "Subordinate",
+            "Colleague"
+        ],
+        [
+            "洪子廉",
+            "Colleague, Superior"
+        ],
+        [
+            "韩亦暮",
+            " Colleague,  Informant"
+        ],
+        [
+            "修仁杰",
+            "Superior of x",
+            "Employee of X",
+            "Colleague of X"
+        ],
+        [
+            "林若彤",
+            "acquaintance"
+        ],
+        [
+            "VVIP",
+            "superior-subordinate",
+            "business",
+            "personal",
+            "conflict"
+        ]
+    ],
+    "刘奇": [
+        [
+            "张文远",
+            "Superior",
+            "Colleague"
+        ],
+        [
+            "洪子廉",
+            "Superior/Subordinate",
+            "Bully/Victim",
+            "Suspect/Suspicious"
+        ],
+        [
+            "韩亦暮",
+            "Superior-Subordinate",
+            "Bully-Victim"
+        ],
+        [
+            "修仁杰",
+            "relationship 1"
+        ],
+        [
+            "林若彤 ",
+            "colleague, acquaintance"
+        ]
+    ],
+    "洪子廉": [
+        [
+            "张文远",
+            "Colleague, Subordinate"
+        ],
+        [
+            "刘奇",
+            "Superior/Subordinate",
+            "Victim/Bully",
+            "Suspect/Suspicious"
+        ],
+        [
+            "韩亦暮",
+            "Colleague"
+        ],
+        [
+            "修仁杰",
+            "Friend"
+        ],
+        [
+            "林若彤",
+            "Friend"
+        ],
+        [
+            "VVIP",
+            "Superior of x",
+            "Employee of X"
+        ]
+    ],
+    "韩亦暮": [
+        [
+            "张文远",
+            "Colleague,  Informant"
+        ],
+        [
+            "刘奇",
+            "Superior-Subordinate",
+            "Victim-Bully"
+        ],
+        [
+            "洪子廉",
+            "Colleague"
+        ],
+        [
+            "VVIP",
+            "业务合作关系",
+            "敬重的客户"
+        ]
+    ],
+    "修仁杰": [
+        [
+            "张文远",
+            "Superior of x",
+            "Employee of X",
+            "Colleague of X"
+        ],
+        [
+            "刘奇",
+            "relationship 1"
+        ],
+        [
+            "洪子廉",
+            "Friend"
+        ],
+        [
+            "林若彤",
+            "Relationship 1: Acquaintance",
+            "Relationship 2: Business Partner"
+        ],
+        [
+            "VVIP",
+            " Customer of X"
+        ]
+    ],
+    "林若彤": [
+        [
+            "张文远",
+            "suspicious",
+            "rival",
+            "enemy"
+        ],
+        [
+            "洪子廉",
+            "Friend"
+        ],
+        [
+            "修仁杰",
+            "Relationship 1: Acquaintance",
+            "Relationship 2: Business Partner"
+        ]
+    ],
+    "VVIP": [
+        [
+            "张文远",
+            "superior-subordinate",
+            "business",
+            "personal",
+            "conflict"
+        ],
+        [
+            "洪子廉",
+            "Subordinate of X",
+            "Customer of X"
+        ],
+        [
+            "韩亦暮",
+            "直系下属"
+        ],
+        [
+            "修仁杰",
+            " Customer of X"
+        ],
+        [
+            "林若彤 ",
+            "stranger"
+        ]
+    ],
+    "林若彤 ": [
+        [
+            "刘奇",
+            "colleague, acquaintance"
+        ],
+        [
+            "VVIP",
+            "stranger"
+        ]
+    ]
+}

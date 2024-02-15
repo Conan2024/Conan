@@ -1,0 +1,61 @@
+{
+    "格里夫": [
+      ["表演助手", "helper of x"], 
+      ["魔术师古思特", "employee of x"], 
+      ["宣传罗琳", "employee of x"], 
+      ["古思特", "employer of x"], 
+      ["保安凯文", "enemy of x"], 
+      ["助手艾拉", "employee of x"]
+    ],
+    "魔术师古思特": [
+      ["格里夫", "employer of x"], 
+      ["宣传罗琳", "employee of x"], 
+      ["剧务戴维", "colleague of x"], 
+      ["助手艾拉", "employee of x"], 
+      ["凯文", "suspect of x, rival of x"], 
+      ["凯文", "suspect of x, rival of x"]
+    ],
+    "宣传罗琳": [
+      ["格里夫", "employee of x"], 
+      ["古思特", "employee of x"], 
+      ["剧务戴维", "colleague of x"], 
+      ["助手艾拉", "employee of x"], 
+      ["凯文", "possibly family of x"], 
+      ["凯文", "possibly family of x"]
+    ],
+    "保安凯文": [
+      ["格里夫", "enemy of x"], 
+      ["宣传罗琳", "possibly family of x"], 
+      ["魔术师古思特", "suspect of x, rival of x"]
+    ],
+    "助手艾拉": [
+      ["古斯特", "employee of x"], 
+      ["宣传罗琳", "employee of x"]
+    ],
+    "戴维": [
+      ["格里夫", "colleague of x"], 
+      ["魔术师古思特", "colleague of x"], 
+      ["宣传罗琳", "colleague of x"]
+    ],
+    "凯文": [
+      ["格里夫", "enemy of x"], 
+      ["魔术师古思特", "suspect of x, rival of x"], 
+      ["宣传罗琳", "possibly family of x"]
+    ],
+    "剧务戴维": [
+      ["格里夫", "colleague of x"], 
+      ["魔术师古思特", "colleague of x"], 
+      ["宣传罗琳", "colleague of x"]
+    ],
+    "罗琳": [
+      ["格里夫", "employee of x"], 
+      ["古思特", "employee of x"], 
+      ["剧务戴维", "colleague of x"], 
+      ["助手艾拉", "employee of x"], 
+      ["凯文", "possibly family of x"], 
+      ["凯文", "possibly family of x"]
+    ],
+    "艾拉": [
+      ["古斯特", "employee of x"]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "李仲": [
+      ["李钦仁", "son of x, twin brother of x"], 
+      ["李氏", "same person as x (different reference), son of x"], 
+      ["李延", "twin brother of x, sibling of x"], 
+      ["陈倩", "fiance of x, romantic relationships with x, admirer of x, admired by x"], 
+      ["陈孜靖", "fiance of x, future son in law of x, business partner of x"]
+    ],
+    "李钦仁": [
+      ["李仲", "father of x"], 
+      ["李氏", "wife of x"], 
+      ["李延", "father of x, biological father of x"], 
+      ["陈倩", "future father in law of x"], 
+      ["陈孜靖", "business partner of x, future father in law of x"]
+    ],
+    "李氏": [
+      ["李仲", "mother of x"], 
+      ["李钦仁", "husband of x"], 
+      ["李延", "mother of x"], 
+      ["陈倩", "future mother in law of x"], 
+      ["陈孜靖", "future mother in law of x"]
+    ],
+    "李延": [
+      ["李仲", "twin brother of x, sibling of x"], 
+      ["李钦仁", "child of x, son of x, biological son of x"], 
+      ["李氏", "child of x"], 
+      ["陈倩", "romantic relationships with x, fiance of x"], 
+      ["陈孜靖", "future father in law of x, attempted murderer of x"]
+    ],
+    "陈倩": [
+      ["李仲", "fiancee of x, romantic relationships with x, admirer of x, admired by x"], 
+      ["李钦仁", "future son in law of x"], 
+      ["李氏", "future daughter in law of x"], 
+      ["李延", "romantic relationships with x, fiancee of x"], 
+      ["陈孜靖", "child of x"]
+    ],
+    "陈孜靖": [
+      ["李仲", "father in law of x, future father in law of x, business partner of x"], 
+      ["李钦仁", "business partner of x, future son in law of x"], 
+      ["李氏", "future father in law of x"], 
+      ["李延", "future son in law of x, victim of x"], 
+      ["陈倩", "father of x"]
+    ]
+}

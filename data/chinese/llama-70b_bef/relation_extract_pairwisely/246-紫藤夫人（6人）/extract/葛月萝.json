@@ -1,0 +1,59 @@
+{
+    "葛月萝": [
+      ["月曼", "sister of x"], 
+      ["朱陵山", "husband of x"], 
+      ["乐婉", "step daughter of x, friend of x"], 
+      ["阿爸", "husband of x"], 
+      ["阿妈", "daughter of x, niece of x, cousin of x"], 
+      ["张俊诗", "uncle of x, friend of x"]
+    ],
+    "月曼": [
+      ["葛月萝", "sister of x"], 
+      ["张太太", "acquaintance of x"], 
+      ["张俊诗", "wife of x"]
+    ],
+    "朱陵山": [
+      ["葛月萝", "husband of x"], 
+      ["月曼", "husband of x"], 
+      ["阿爸", "husband of x, extramarital affair with x"], 
+      ["张太太", "husband of x, acquaintance of x"]
+    ],
+    "薛达财": [
+      ["乐婉", "adoptive father of x, father in law of x"], 
+      ["阿妈", "husband of x"]
+    ],
+    "乐婉": [
+      ["葛月萝", "step daughter of x, friend of x"], 
+      ["薛达财", "daughter in law of x"], 
+      ["阿爸", "daughter in law of x, employee of x"], 
+      ["阿妈", "friend of x, spy of x"]
+    ],
+    "阿爸": [
+      ["葛月萝", "father of x"], 
+      ["朱陵山", "father of x, perpetrator of x"], 
+      ["楽婉", "son in law of x, employer of x"], 
+      ["阿妈", "husband of x, father of x, master of x, employer of x"], 
+      ["张太太", "relative of x"], 
+      ["张俊诗", "father in law of x"]
+    ],
+    "阿妈": [
+      ["葛月萝", "daughter of x, niece of x, cousin of x"], 
+      ["薛达财", "wife of x"], 
+      ["乐婉", "friend of x, spy of x"], 
+      ["阿爸", "wife of x, mother of x, sister of x, daughter of x"], 
+      ["张太太", "relative of x, acquaintance of x"], 
+      ["张俊诗", "husband of x"]
+    ],
+    "张太太": [
+      ["月曼", "acquaintance of x"], 
+      ["朱陵山", "husband of x, acquaintance of x"], 
+      ["阿爸", "relative of x"], 
+      ["阿妈", "relative of x, acquaintance of x"]
+    ],
+    "张俊诗": [
+      ["葛月萝", "niece of x, employee of x, friend of x"], 
+      ["月曼", "husband of x"], 
+      ["阿爸", "son in law of x"], 
+      ["阿妈", "wife of x"]
+    ]
+}

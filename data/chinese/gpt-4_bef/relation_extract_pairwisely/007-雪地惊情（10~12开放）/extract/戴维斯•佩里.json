@@ -1,0 +1,69 @@
+{
+    "戴维斯•佩里": [
+      ["玛丽娜•哈里森", "romantic relationships with x, extramarital affair with x, admirer of x, quest companion of x"], 
+      ["丹尼尔", "friend of x, informant of x, helper of x, helped by x"], 
+      ["杰奎琳", "acquaintance of x, disliked by x"], 
+      ["约翰•摩根", "acquaintance of x, informant of x, perpetrator of x, victim of x, lawyer of x"], 
+      ["露西•哈里森", "acquaintance of x"], 
+      ["哈罗德•哈里森", "acquaintance of x"], 
+      ["艾米•摩根", "acquaintance of x, possibly family of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["戴维斯•佩里", "romantic relationships with x, extramarital affair with x, admired by x, quest companion of x"], 
+      ["丹尼尔", "sister in law of x, extramarital affair with x"], 
+      ["杰奎琳", "extramarital affair with x, acquaintance of x"], 
+      ["约翰•摩根", "extramarital affair with x"], 
+      ["露西•哈里森", "mother of x"], 
+      ["哈罗德•哈里森", "extramarital affair with x, sister in law of x"], 
+      ["艾米•摩根", "sister in law of x"]
+    ],
+    "丹尼尔": [
+      ["戴维斯•佩里", "friend of x, information receiver from x, helped by x"], 
+      ["玛丽娜•哈里森", "brother in law of x"], 
+      ["杰奎琳", "husband of x"], 
+      ["戴维斯•佩里", "acquaintance of x, helped by x"], 
+      ["露西•哈里森", "friend of x"], 
+      ["哈罗德•哈里森", "brother in law of x"], 
+      ["艾米•摩根", "brother in law of x"]
+    ],
+    "杰奎琳": [
+      ["戴维斯•佩里", "acquaintance of x"], 
+      ["玛丽娜•哈里森", "adversary of x, sister in law of x"], 
+      ["丹尼尔", "wife of x"], 
+      ["露西•哈里森", "mother of x"], 
+      ["哈罗德•哈里森", "brother in law of x"], 
+      ["艾米•摩根", "sister in law of x"]
+    ],
+    "约翰•摩根": [
+      ["戴维斯•佩里", "acquaintance of x, information receiver from x, victim of x"], 
+      ["玛丽娜•哈里森", "victim of x"], 
+      ["戴维斯•佩里", "acquaintance of x, information receiver from x"], 
+      ["哈罗德•哈里森", "brother in law of x"], 
+      ["艾米•摩根", "husband of x"]
+    ],
+    "露西•哈里森": [
+      ["玛丽娜•哈里森", "child of x"], 
+      ["丹尼尔", "child of x"], 
+      ["杰奎琳", "child of x"], 
+      ["哈罗德•哈里森", "daughter of x"], 
+      ["艾米•摩根", "possibly family of x, acquaintance of x"]
+    ],
+    "哈罗德•哈里森": [
+      ["戴维斯•佩里", "acquaintance of x"], 
+      ["玛丽娜•哈里森", "victim of x"], 
+      ["丹尼尔", "brother in law of x"], 
+      ["杰奎琳", "sister in law of x"], 
+      ["约翰•摩根", "brother in law of x"], 
+      ["露西•哈里森", "father of x"], 
+      ["艾米•摩根", "sibling of x"]
+    ],
+    "艾米•摩根": [
+      ["戴维斯•佩里", "acquaintance of x, possibly family of x"], 
+      ["玛丽娜•哈里森", "sister in law of x"], 
+      ["丹尼尔", "sister in law of x"], 
+      ["杰奎琳", "sister in law of x"], 
+      ["约翰•摩根", "wife of x"], 
+      ["露西•哈里森", "possibly family of x, acquaintance of x"], 
+      ["哈罗德•哈里森", "sibling of x"]
+    ]
+}

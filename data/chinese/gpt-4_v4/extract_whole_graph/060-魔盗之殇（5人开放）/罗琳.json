@@ -1,0 +1,31 @@
+{
+    "罗琳": [
+      ["艾拉", "friend of x, informant of x, information receiver from x"], 
+      ["戴维", "crime partner of x, admirer of x, disliked by x"], 
+      ["格里夫", "acquaintance of x"], 
+      ["凯文", "sibling of x, helper of x, quest companion of x"], 
+      ["古思特", "crime partner of x, attempted perpetrator of x, victim of x"]
+    ],
+    "艾拉": [
+      ["罗琳", "friend of x, admired by x, victim of x"], 
+      ["古思特", "admired by x, fiance of x, disliked by x"]
+    ],
+    "戴维": [
+      ["罗琳", "admirer of x, disliked by x"], 
+      ["凯文", "dislike of x"], 
+      ["古思特", "crime partner of x"]
+    ],
+    "格里夫": [
+      ["罗琳", "acquaintance of x"]
+    ],
+    "凯文": [
+      ["罗琳", "quest companion of x, sister of x, informant of x"], 
+      ["古思特", "acquaintance of x, helped by x"]
+    ],
+    "古思特": [
+      ["罗琳", "crime partner of x, disliked by x, perpetrator of x"], 
+      ["艾拉", "admirer of x, disliked by x"], 
+      ["戴维", "crime partner of x"], 
+      ["凯文", "acquaintance of x, liked by x"]
+    ]
+}

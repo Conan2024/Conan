@@ -1,0 +1,14 @@
+{
+    "托尼": [
+      ["神父汤姆", "friend of x"], 
+      ["医院的人", "seeker of x help from x"]
+    ],
+    "神父汤姆": [
+      ["托尼", "employer of x"], 
+      ["医院的人", "employer of x"]
+    ],
+    "医院的人": [
+      ["托尼", "helper of x"], 
+      ["神父汤姆", "employee of x"]
+    ]
+}

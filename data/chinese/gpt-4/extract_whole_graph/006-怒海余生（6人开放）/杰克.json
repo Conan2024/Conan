@@ -1,0 +1,92 @@
+{
+    "杰克": [
+        [
+            "母亲",
+            "mother of x"
+        ],
+        [
+            "父亲",
+            "father of x"
+        ],
+        [
+            "安妮",
+            "wife of x, victim of x"
+        ],
+        [
+            "约翰",
+            "lover of x, employee of x, quest companion of x"
+        ],
+        [
+            "小布莱克",
+            "business partner of x, acquaintance of x, information receiver from x"
+        ],
+        [
+            "老布莱克",
+            "victim of x, suspected by x, perpetrator of x"
+        ],
+        [
+            "杰西帕",
+            "acquaintance of x"
+        ],
+        [
+            "山姆",
+            "acquaintance of x"
+        ],
+        [
+            "哈克",
+            "sibling of x"
+        ]
+    ],
+    "老布莱克": [
+        [
+            "杰克",
+            "perpetrator of x, killed by x"
+        ],
+        [
+            "小布莱克",
+            "father of x"
+        ]
+    ],
+    "小布莱克": [
+        [
+            "杰克",
+            "business partner of x, client of x"
+        ],
+        [
+            "约翰",
+            "employer of x"
+        ],
+        [
+            "老布莱克",
+            "son of x, admired by x"
+        ]
+    ],
+    "安妮": [
+        [
+            "杰克",
+            "husband of x, perpetrator of x"
+        ]
+    ],
+    "约翰": [
+        [
+            "杰克",
+            "lover of x, helped by x, superior of x"
+        ],
+        [
+            "小布莱克",
+            "employee of x"
+        ]
+    ],
+    "杰西帕": [
+        [
+            "杰克",
+            "acquaintance of x"
+        ]
+    ],
+    "山姆": [
+        [
+            "杰克",
+            "acquaintance of x"
+        ]
+    ]
+}

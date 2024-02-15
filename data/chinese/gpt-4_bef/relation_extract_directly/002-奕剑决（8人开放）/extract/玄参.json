@@ -1,0 +1,39 @@
+{
+    "玄参": [
+      ["杜仲", "sworn brother of x, superior of x"], 
+      ["忍冬", "informant of x"], 
+      ["庄主", "same person as x (different identity)"], 
+      ["武林盟使者", "information receiver from x, deceived by x"], 
+      ["大弟子", "subordinate of x, student of x"]
+    ],
+    "杜仲": [
+      ["玄参", "sworn brother of x, subordinate of x"], 
+      ["忍冬", "suspected by x"], 
+      ["庄主", "same person as x (different reference)"], 
+      ["武林盟使者", "enemy of x"], 
+      ["大弟子", "suspected by x, subordinate of x"]
+    ],
+    "忍冬": [
+      ["杜仲", "suspect to x"], 
+      ["武林盟使者", "acquaintance of x"], 
+      ["大弟子", "acquaintance of x"]
+    ],
+    "庄主": [
+      ["玄参", "same person as x (different reference)"], 
+      ["杜仲", "same person as x (different identity)"], 
+      ["忍冬", "employer of x"], 
+      ["武林盟使者", "victim of x"], 
+      ["大弟子", "superior of x, suspected by x"]
+    ],
+    "武林盟使者": [
+      ["玄参", "deceived by x"], 
+      ["杜仲", "adversary of x"], 
+      ["庄主", "perpetrator of x"]
+    ],
+    "大弟子": [
+      ["玄参", "superior of x, teacher of x"], 
+      ["杜仲", "superior of x, mentor of x"], 
+      ["忍冬", "acquaintance of x"], 
+      ["庄主", "superior of x"]
+    ]
+}

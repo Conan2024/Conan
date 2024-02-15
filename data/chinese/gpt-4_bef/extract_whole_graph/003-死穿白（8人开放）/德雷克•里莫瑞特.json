@@ -1,0 +1,43 @@
+{
+    "德雷克•里莫瑞特": [
+      ["盖尔·里莫瑞特", "sister in law of x"], 
+      ["理查德·伯克利", "employer of x, colleague of x"], 
+      ["帕洛斯基医生", "mentor of x, employer of x, colleague of x"], 
+      ["伊莱恩·卡特尔", "acquaintance of x"], 
+      ["西尔维亚·科斯塔", "colleague of x"], 
+      ["汉斯·里莫瑞特", "same person as x (different identity), murderer of x"], 
+      ["吉姆·梅森", "x's victim's family, adversary of x"]
+    ],
+    "盖尔·里莫瑞特": [
+      ["德雷克•里莫瑞特", "brother in law of x"], 
+      ["汉斯·里莫瑞特", "husband of x"]
+    ],
+    "理查德·伯克利": [
+      ["德雷克•里莫瑞特", "employee of x, colleague of x"], 
+      ["汉斯·里莫瑞特", "subordinate of x, colleague of x"]
+    ],
+    "帕洛斯基医生": [
+      ["德雷克•里莫瑞特", "mentor of x, employer of x, colleague of x, disliked by x"], 
+      ["汉斯·里莫瑞特", "mentor of x, employer of x, suspected by x"]
+    ],
+    "伊莱恩·卡特尔": [
+      ["德雷克•里莫瑞特", "colleague of x"], 
+      ["汉斯·里莫瑞特", "colleague of x"]
+    ],
+    "西尔维亚·科斯塔": [
+      ["德雷克•里莫瑞特", "colleague of x"], 
+      ["汉斯·里莫瑞特", "colleague of x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["德雷克•里莫瑞特", "same person as x (different identity), victim of x"], 
+      ["盖尔·里莫瑞特", "wife of x"], 
+      ["理查德·伯克利", "employer of x, colleague of x"], 
+      ["帕洛斯基医生", "mentor of x, employer of x, colleague of x"], 
+      ["伊莱恩·卡特尔", "colleague of x"], 
+      ["西尔维亚·科斯塔", "colleague of x"], 
+      ["吉姆·梅森", "x's victim's family"]
+    ],
+    "吉姆·梅森": [
+      ["德雷克•里莫瑞特", "perpetrator of x"]
+    ]
+}

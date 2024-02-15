@@ -1,0 +1,44 @@
+{
+    "夕婷": [
+      ["顾楚梦", "husband of x"], 
+      ["敏兮", "friend of x"], 
+      ["杏儿", "friend of x"], 
+      ["蓝蕊", "friend of x"], 
+      ["申午生", "friend of x"], 
+      ["杨水巡", "father in law of x, enemy of x"], 
+      ["章方豪", "father of x, enemy of x"]
+    ],
+    "顾楚梦": [
+      ["夕婷", "wife of x"]
+    ],
+    "敏兮": [
+      ["夕婷", "friend of x"], 
+      ["杏儿", "brother of x, friend of x"], 
+      ["蓝蕊", "friend of x"], 
+      ["申午生", "friend of x"], 
+      ["杨水巡", "father of x, enemy of x"]
+    ],
+    "杏儿": [
+      ["夕婷", "friend of x"], 
+      ["顾楚梦", "father of x, uncle of x"], 
+      ["蓝蕊", "friend of x"]
+    ],
+    "蓝蕊": [
+      ["夕婷", "friend of x"], 
+      ["敏兮", "friend of x"], 
+      ["杏儿", "friend of x"]
+    ],
+    "申午生": [
+      ["夕婷", "friend of x"], 
+      ["敏兮", "friend of x"], 
+      ["杏儿", "friend of x"]
+    ],
+    "杨水巡": [
+      ["夕婷", "father in law of x, enemy of x"], 
+      ["敏兮", "father of x, enemy of x"]
+    ],
+    "章方豪": [
+      ["夕婷", "father of x, enemy of x"], 
+      ["蓝蕊", "father of x"]
+    ]
+}

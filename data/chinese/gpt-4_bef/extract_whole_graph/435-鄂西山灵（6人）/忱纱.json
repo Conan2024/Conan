@@ -1,0 +1,46 @@
+{
+    "周允棠": [
+      ["周忱纱", "child of x"], 
+      ["周景鱼", "son of x"], 
+      ["汪氏", "wife of x"]
+    ],
+    "周景鱼": [
+      ["周忱纱", "sibling of x"], 
+      ["周允棠", "father of x"], 
+      ["汪氏", "mother of x"]
+    ],
+    "汪氏": [
+      ["周忱纱", "child of x"], 
+      ["周允棠", "husband of x"], 
+      ["周景鱼", "son of x"]
+    ],
+    "郑函贞": [
+      ["郑昌珉", "father of x"], 
+      ["隼", "acquaintance of x"]
+    ],
+    "隼": [
+      ["巴府山", "son of x"], 
+      ["甘玛", "fiance of x"], 
+      ["周忱纱", "extramarital affair with x"], 
+      ["郑函贞", "acquaintance of x"]
+    ],
+    "巴府山": [
+      ["隼", "father of x"], 
+      ["周忱纱", "acquaintance of x"]
+    ],
+    "甘玛": [
+      ["隼", "fiancee of x"], 
+      ["周忱纱", "friend of x"], 
+      ["鬼印", "sibling of x"]
+    ],
+    "李德木": [
+      ["周忱纱", "acquaintance of x"], 
+      ["隼", "acquaintance of x"]
+    ],
+    "郑昌珉": [
+      ["郑函贞", "father of x"]
+    ],
+    "鬼印": [
+      ["甘玛", "sibling of x"]
+    ]
+}

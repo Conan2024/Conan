@@ -1,0 +1,58 @@
+{
+    "小茜": [
+      ["尔矢斯芭嗒", "friend of x, classmate of x, sister of x, family member of x"], 
+      ["方柳", "sibling rapport of x"], 
+      ["李仲", "childhood friend of x, classmate of x"], 
+      ["李延", "adoptive sister of x, romantic interest of x"], 
+      ["特尔特拉福德", "childhood friend of x, cousin of x"], 
+      ["陈倩", "adoptive sister of x, close friend of x"]
+    ],
+    "尔矢斯芭嗒": [
+      ["小茜", "friend of x, classmate of x, sister of x, family member of x"], 
+      ["方柳", "same person as x, acquaintance of x, helper of x, saved by x, friend of x"], 
+      ["李仲", "romantic partner or friend of x, rival or competitor of x, stranger with positive impact of x"], 
+      ["李延", "romantic partner of x, friend of x, schoolmate of x, relative of x, helped person of x, conflict resolution of x"], 
+      ["特尔特拉福德", "朋友 of x, 表兄弟 of x, 丈夫与妻 of x"], 
+      ["陈倩", "사촌 of x, 童養 of x, 朋友 of x, 情人 of x"]
+    ],
+    "方柳": [
+      ["小茜", "sibling rapport of x"], 
+      ["尔矢斯芭嗒", "same person as x, acquaintance of x, helper of x, saved by x, friend of x"], 
+      ["李仲", "relationship 1: husband of x, relationship 2: perpetrator of x"], 
+      ["李延", "relationship 1: lover of x, relationship 2: wife of x (different identity)"], 
+      ["特尔特拉福德", "potential romantic interest of x, friend of x"], 
+      ["陈倩", "father of x, husband of x, long lost son/daughter of x, brother of x, sister of x, son of x, grandson of x, friend of x, mentor of x, student of x, colleague of x, enemy of x, rival of x, neighbor of x, investor of x"]
+    ],
+    "李仲": [
+      ["小茜", "childhood friend of x, classmate of x"], 
+      ["尔矢斯芭嗒", "romantic partner or friend of x, rival or competitor of x, stranger with positive impact of x"], 
+      ["方柳", "relationship 1: wife of x, relationship 2: victim of x"], 
+      ["李延", "sibling of x"], 
+      ["特尔特拉福德", "husband of x, lover of x"], 
+      ["陈倩", "relationship 1: husband of x, relationship 2: perpetrator of x"]
+    ],
+    "李延": [
+      ["小茜", "adoptive brother of x, romantic interest of x"], 
+      ["尔矢斯芭嗒", "romantic partner of x, friend of x, schoolmate of x, relative of x, helped person of x, conflict resolution of x"], 
+      ["方柳", "relationship 1: lover of x, relationship 2: husband of x (different reference)"], 
+      ["李仲", "sibling of x"], 
+      ["特尔特拉福德", "father in law of x"], 
+      ["陈倩", "relationship 1: husband of x, relationship 2: perpetrator of x"]
+    ],
+    "特尔特拉福德": [
+      ["小茜", "childhood friend of x, cousin of x"], 
+      ["尔矢斯芭嗒", "朋友 of x, 表兄弟 of x, 丈夫与妻 of x"], 
+      ["方柳", "potential romantic interest of x, friend of x"], 
+      ["李仲", "wife of x, lover of x"], 
+      ["李延", "son in law of x"], 
+      ["陈倩", "father's friend of x, potential love interest of x, savior of x, rival of x"]
+    ],
+    "陈倩": [
+      ["小茜", "adoptive brother of x, close friend of x"], 
+      ["尔矢斯芭嗒", "사촌 of x, 童養 of x, 朋友 of x, 情人 of x"], 
+      ["方柳", "father of x, husband of x, long lost son/daughter of x, brother of x, sister of x, son of x, grandson of x, friend of x, mentor of x, student of x, colleague of x, enemy of x, rival of x, neighbor of x, investor of x"], 
+      ["李仲", "relationship 1: wife of x, relationship 2: victim of x"], 
+      ["李延", "relationship 1: wife of x, relationship 2: victim of x"], 
+      ["特尔特拉福德", "father's friend of x, potential love interest of x, savior of x, rival of x"]
+    ]
+}

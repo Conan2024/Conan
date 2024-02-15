@@ -1,0 +1,21 @@
+{
+    "安德鲁•帕洛斯基": [
+      ["汤姆神父", "mentor of x"]
+    ],
+    "妻子": [
+      ["儿子斯科特", "husband of x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["儿子斯科特", "friend of x, colleague of x"], 
+      ["汤姆神父", "mentor of x, friend of x"]
+    ],
+    "汤姆神父": [
+      ["儿子斯科特", "adoptive son of x, friend of x"], 
+      ["汉斯·里莫瑞特", "mentor of x, friend of x"]
+    ],
+    "儿子斯科特": [
+      ["妻子", "son of x"], 
+      ["汉斯·里莫瑞特", "mentor of x, friend of x"], 
+      ["汤姆神父", "mentor of x, teacher of x"]
+    ]
+}

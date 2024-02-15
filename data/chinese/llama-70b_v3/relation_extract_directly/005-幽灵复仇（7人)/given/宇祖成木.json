@@ -1,0 +1,31 @@
+{
+    "宇祖成木": [
+      ["阿明", "friend of x"], 
+      ["夏三虎", "friend of x, business partner of x"], 
+      ["安琪", "friend of x, acquaintance of x"], 
+      ["李子材", "brother of x"], 
+      ["李骆明", "brother of x"], 
+      ["吴百安", "classmate of x"]
+    ],
+    "阿明": [
+      ["宇祖成木", "friend of x"], 
+      ["夏三虎", "friend of x, business partner of x"]
+    ],
+    "夏三虎": [
+      ["宇祖成木", "friend of x, business partner of x"], 
+      ["阿明", "friend of x"]
+    ],
+    "安琪": [
+      ["宇祖成木", "friend of x, acquaintance of x"], 
+      ["阿明", "friend of x"]
+    ],
+    "李子材": [
+      ["宇祖成木", "brother of x"]
+    ],
+    "李骆明": [
+      ["宇祖成木", "brother of x"]
+    ],
+    "吴百安": [
+      ["李子材", "classmate of x"]
+    ]
+}

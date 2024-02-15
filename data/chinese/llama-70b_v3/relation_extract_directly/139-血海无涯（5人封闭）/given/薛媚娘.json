@@ -1,0 +1,40 @@
+{
+    "薛媚娘": [
+      ["秦老大", "lover of x, classmate of x"], 
+      ["萧体育", "boyfriend of x, acquaintance of x"], 
+      ["秦专家", "father in law of x, acquaintance of x"], 
+      ["秦夫人", "mother in law of x, acquaintance of x"], 
+      ["贾美丽", "friend of x, colleague of x"], 
+      ["庄清纯", "friend of x, colleague of x"]
+    ],
+    "秦老大": [
+      ["薛媚娘", "lover of x, student of x"], 
+      ["萧体育", "friend of x, classmate of x"], 
+      ["秦专家", "father of x, acquaintance of x"], 
+      ["秦夫人", "mother of x, acquaintance of x"], 
+      ["贾美丽", "friend of x, colleague of x"]
+    ],
+    "萧体育": [
+      ["薛媚娘", "girlfriend of x, classmate of x"], 
+      ["秦老大", "friend of x, classmate of x"], 
+      ["秦专家", "teacher of x, acquaintance of x"]
+    ],
+    "秦专家": [
+      ["薛媚娘", "daughter in law of x, acquaintance of x"], 
+      ["秦老大", "son of x, acquaintance of x"], 
+      ["秦夫人", "wife of x, acquaintance of x"]
+    ],
+    "秦夫人": [
+      ["薛媚娘", "daughter in law of x, acquaintance of x"], 
+      ["秦老大", "son of x, acquaintance of x"], 
+      ["秦专家", "husband of x, acquaintance of x"]
+    ],
+    "贾美丽": [
+      ["薛媚娘", "friend of x, colleague of x"], 
+      ["秦老大", "friend of x, colleague of x"]
+    ],
+    "庄清纯": [
+      ["薛媚娘", "friend of x, colleague of x"], 
+      ["秦老大", "friend of x, colleague of x"]
+    ]
+}

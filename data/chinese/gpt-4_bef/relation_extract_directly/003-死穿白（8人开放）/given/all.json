@@ -1,0 +1,74 @@
+{
+    "西尔维娅·科斯塔": [
+      ["护士长科斯塔", "same person as x (different identity)"], 
+      ["西尔维娅·科斯塔的母亲", "child of x"], 
+      ["汉斯·里莫瑞特", "colleague of x"], 
+      ["盖尔·里莫瑞特", "helped by x"], 
+      ["德雷克·里莫瑞特", "colleague of x"], 
+      ["帕洛斯基医生", "colleague of x, disliked by x"], 
+      ["伊莱恩·卡特尔", "colleague of x, helped by x"], 
+      ["理查德·伯克利", "subordinate of x, acquaintance of x"], 
+      ["詹姆斯·莱利", "creditor of x, manipulator of x, disliked by x"]
+    ],
+    "护士长科斯塔": [
+      ["西尔维娅·科斯塔", "same person as x (different reference)"], 
+      ["西尔维娅·科斯塔的母亲", "mother of x"], 
+      ["汉斯·里莫瑞特", "colleague of x"], 
+      ["盖尔·里莫瑞特", "helped by x"], 
+      ["德雷克·里莫瑞特", "colleague of x"], 
+      ["帕洛斯基医生", "colleague of x, disliked by x"], 
+      ["伊莱恩·卡特尔", "colleague of x, helped by x"], 
+      ["理查德·伯克利", "superior of x, acquaintance of x"], 
+      ["詹姆斯·莱利", "debtor of x, manipulated by x, dislike of x"]
+    ],
+    "西尔维娅·科斯塔的母亲": [
+      ["护士长科斯塔", "mother of x"], 
+      ["西尔维娅·科斯塔", "mother of x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["护士长科斯塔", "colleague of x"], 
+      ["西尔维娅·科斯塔", "colleague of x"], 
+      ["盖尔·里莫瑞特", "husband of x"], 
+      ["德雷克·里莫瑞特", "twin brother of x"], 
+      ["盖尔·里莫瑞特", "husband of x"], 
+      ["吉姆·梅森", "perpetrator of x"]
+    ],
+    "盖尔·里莫瑞特": [
+      ["护士长科斯塔", "lawyer of x"], 
+      ["汉斯·里莫瑞特", "wife of x"], 
+      ["德雷克·里莫瑞特", "sister in law of x"]
+    ],
+    "德雷克·里莫瑞特": [
+      ["护士长科斯塔", "colleague of x"], 
+      ["汉斯·里莫瑞特", "twin brother of x"], 
+      ["盖尔·里莫瑞特", "brother in law of x"], 
+      ["西尔维娅·科斯塔", "colleague of x"]
+    ],
+    "帕洛斯基医生": [
+      ["护士长科斯塔", "colleague of x"], 
+      ["西尔维娅·科斯塔", "colleague of x"], 
+      ["伊莱恩·卡特尔", "mentor of x"]
+    ],
+    "伊莱恩·卡特尔": [
+      ["护士长科斯塔", "colleague of x, helper of x"], 
+      ["帕洛斯基医生", "student of x"], 
+      ["西尔维娅·科斯塔", "colleague of x, helper of x"]
+    ],
+    "理查德·伯克利": [
+      ["护士长科斯塔", "superior of x, acquaintance of x"], 
+      ["西尔维娅·科斯塔", "superior of x, acquaintance of x"]
+    ],
+    "吉姆·梅森": [
+      ["汉斯·里莫瑞特", "victim of x"]
+    ],
+    "詹姆斯·莱利": [
+      ["护士长科斯塔", "creditor of x, manipulator of x, disliked by x"], 
+      ["西尔维娅·科斯塔", "creditor of x, manipulator of x, disliked by x"]
+    ],
+    "弗兰克·比杰利": [
+      ["托尼·比杀利", "father of x"]
+    ],
+    "托尼·比杀利": [
+      ["弗兰克·比杰利", "son of x"]
+    ]
+}

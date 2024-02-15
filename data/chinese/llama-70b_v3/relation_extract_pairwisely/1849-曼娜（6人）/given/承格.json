@@ -1,0 +1,127 @@
+{
+    "吕名然": [
+      ["尚致", "father of x"], 
+      ["廖公子", "bully of x, debtor of x, acquaintance of x"], 
+      ["张医师", "acquaintance of x"], 
+      ["承格", "superior of x"], 
+      ["红儿", "father of x, mother of x, mentor of x, rival of x, uncle of x"], 
+      ["谭太太", "colleague of x"], 
+      ["阿浮", "mentor of x"], 
+      ["韦太太", "friend of x"]
+    ],
+    "尚致": [
+      ["吕名然", "father of x"], 
+      ["廖公子", "friend of x"], 
+      ["张医师", "brother in law of x"], 
+      ["欣雅", "employee of x, acquaintance of x"], 
+      ["海悠", "biological father of x, adoptive father of x, mentor of x, employer of x, friend of x"], 
+      ["红儿", "son of x, friend of x, subordinate of x, employee of x, servant of x"], 
+      ["谭仁昌", "biological son of x, adoptive son of x, step son of x, friend of x, acquaintance of x, colleague of x, business partner of x, employee of x, subordinate of x"], 
+      ["谭太太", "biological son of x, adoptive son of x, step son of x, friend of x, acquaintance of x, colleague of x, business partner of x, employee of x, subordinate of x"], 
+      ["阿浮", "son of x, student of x, friend of x, colleague of x, business partner of x"]
+    ],
+    "廖公子": [
+      ["吕名然", "debtor of x, acquaintance of x"], 
+      ["尚致", "friend of x, mentor of x"], 
+      ["承格", "biological father of x, adoptive father of x, mentor of x, employer of x, friend of x"], 
+      ["欣雅", "employer of x, mother of x"], 
+      ["海悠", "son of x, employee of x, informant of x, helper of x, adversary of x, enemy of x, rival of x, manipulator of x, superior of x"], 
+      ["红儿", "employer of x, master of x, friend of x"], 
+      ["罗明纱", "brother of x, step father of x, relative of x"], 
+      ["谭仁昌", "father of x, helper of x"], 
+      ["谭太太", "friend of x"], 
+      ["阿浮", "host of x"], 
+      ["韦太太", "friend of x"]
+    ],
+    "张医师": [
+      ["吕名然", "acquaintance of x"], 
+      ["尚致", "brother in law of x"], 
+      ["承格", "father of x, mentor of x"], 
+      ["欣雅", "doctor of x, employer of x"], 
+      ["海悠", "mentor of x"], 
+      ["阿浮", "doctor of x, mentor of x, friend of x"], 
+      ["韦太太", "husband of x, doctor of x, friend of x, enemy of x"]
+    ],
+    "承格": [
+      ["吕名然", "subordinate of x, student of x, friend of x, rival of x"], 
+      ["廖公子", "biological father of x, adoptive father of x, mentor of x, employer of x, friend of x"], 
+      ["张医师", "son of x"], 
+      ["欣雅", "son of x, younger brother of x, friend of x, helper of x, informant of x"], 
+      ["海悠", "son of x, employee of x, acquaintance of x, friend of x, helper of x"], 
+      ["红儿", "mother of x"], 
+      ["罗明纱", "son of x, nephew of x, cousin of x, friend of x, employee of x, servant of x, patient of x, victim of x, perpetrator of x"], 
+      ["谭太太", "son of x, employee of x, acquaintance of x"], 
+      ["阿浮", "biological father of x, adoptive father of x, mentor of x, employer of x, friend of x"], 
+      ["韦太太", "son of x, younger brother of x, acquaintance of x"]
+    ],
+    "欣雅": [
+      ["尚致", "employee of x"], 
+      ["廖公子", "employer of x, mother of x"], 
+      ["张医师", "doctor of x, employer of x"], 
+      ["承格", "son of x, younger brother of x, friend of x, helper of x, informant of x"], 
+      ["海悠", "mother of x, employer of x, mentor of x"], 
+      ["红儿", "lover of x"], 
+      ["谭仁昌", "biological mother of x"], 
+      ["韦太太", "mother of x"]
+    ],
+    "海悠": [
+      ["尚致", "biological father of x, adoptive father of x, mentor of x, employer of x, friend of x"], 
+      ["廖公子", "son of x, employee of x, informant of x, helper of x, adversary of x, enemy of x, rival of x, manipulator of x, superior of x"], 
+      ["承格", "son of x, employee of x, acquaintance of x, friend of x, helper of x"], 
+      ["欣雅", "mother of x, employer of x, mentor of x"], 
+      ["红儿", "biological mother of x"], 
+      ["罗明纱", "son of x"], 
+      ["阿浮", "biological mother of x, son of x"], 
+      ["韦太太", "mother of x"]
+    ],
+    "红儿": [
+      ["吕名然", "father of x, mother of x, mentor of x, rival of x, uncle of x"], 
+      ["尚致", "son of x, friend of x, subordinate of x, employee of x, servant of x"], 
+      ["廖公子", "employer of x, master of x, friend of x"], 
+      ["承格", "mother of x"], 
+      ["欣雅", "lover of x"], 
+      ["海悠", "son of x"], 
+      ["韦太太", "son of x, adoptive mother of x, master of x, sibling of x, friend of x, mentor of x"]
+    ],
+    "罗明纱": [
+      ["廖公子", "brother of x, step son of x, relative of x"], 
+      ["承格", "son of x, nephew of x, cousin of x, friend of x, employer of x, master of x, subordinate of x, customer of x"], 
+      ["海悠", "son of x"], 
+      ["谭仁昌", "son of x, nephew of x, cousin of x, friend of x, employee of x, servant of x, tenant of x, patient of x, victim of x"]
+    ],
+    "谭仁昌": [
+      ["吕名然", "biological son of x"], 
+      ["尚致", "biological son of x, adoptive son of x, step son of x, friend of x, acquaintance of x, colleague of x, business partner of x, employee of x, subordinate of x"], 
+      ["廖公子", "father of x, helper of x"], 
+      ["欣雅", "biological son of x"], 
+      ["罗明纱", "son of x, nephew of x, cousin of x, friend of x, employer of x, master of x, subordinate of x, customer of x, buyer of x"], 
+      ["谭太太", "son of x, nephew of x, cousin of x, friend of x, servant of x, employee of x, business partner of x"]
+    ],
+    "谭太太": [
+      ["吕名然", "colleague of x"], 
+      ["尚致", "biological son of x, adoptive son of x, step son of x, friend of x, acquaintance of x, colleague of x, business partner of x, employee of x, subordinate of x"], 
+      ["廖公子", "friend of x"], 
+      ["承格", "son of x, employer of x, acquaintance of x"], 
+      ["谭仁昌", "son of x, nephew of x, cousin of x, friend of x, servant of x, employee of x, business partner of x"], 
+      ["韦太太", "employee of x, informant of x"]
+    ],
+    "阿浮": [
+      ["吕名然", "mentor of x"], 
+      ["尚致", "son of x, student of x, friend of x, colleague of x, business partner of x"], 
+      ["廖公子", "guest of x"], 
+      ["张医师", "doctor of x, mentor of x, friend of x"], 
+      ["承格", "biological son of x, adoptive son of x, subordinate of x, friend of x"], 
+      ["海悠", "biological mother of x, son of x"], 
+      ["红儿", "son of x"]
+    ],
+    "韦太太": [
+      ["吕名然", "friend of x"], 
+      ["廖公子", "acquaintance of x"], 
+      ["张医师", "husband of x, doctor of x, friend of x, enemy of x"], 
+      ["承格", "son of x, older brother of x, acquaintance of x"], 
+      ["欣雅", "daughter of x"], 
+      ["海悠", "son of x"], 
+      ["红儿", "son of x, adoptive mother of x, master of x, sibling of x, friend of x, mentor of x"], 
+      ["谭太太", "employee of x, informant of x"]
+    ]
+}

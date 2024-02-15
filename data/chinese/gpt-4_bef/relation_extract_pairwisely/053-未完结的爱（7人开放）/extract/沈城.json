@@ -1,0 +1,69 @@
+{
+    "沈杰": [
+      ["秦思琴", "husband of x, victim of x"], 
+      ["林彤", "adoptive father of x, helper of x, informant of x"], 
+      ["顾明和", "adversary of x, suspect of x, quest companion of x"], 
+      ["林惟仁", "employee of x, suspect to x, enemy of x, adversary of x, manipulator of x, perpetrator of x"], 
+      ["苏阳", "enemy of x, victim of x, hated by x"], 
+      ["林夕", "employee of x, adversary of x, suspect of x"], 
+      ["林氏", "employee of x, step father of x, enemy of x"]
+    ],
+    "秦思琴": [
+      ["沈杰", "wife of x"], 
+      ["林彤", "mother of x"], 
+      ["林惟仁", "wife of x, victim of x"], 
+      ["林夕", "possibly family of x, disliked by x"], 
+      ["林氏", "wife of x, victim of x"]
+    ],
+    "林彤": [
+      ["沈杰", "adoptive daughter of x, helped by x, information receiver from x"], 
+      ["秦思琴", "child of x"], 
+      ["顾明和", "acquaintance of x"], 
+      ["林惟仁", "step father of x, hated by x, suspect of x, helped by x"], 
+      ["苏阳", "ex boyfriend of x"], 
+      ["林夕", "step daughter of x, disliked by x"], 
+      ["林氏", "step daughter of x, child of x, biological daughter of x"]
+    ],
+    "顾明和": [
+      ["沈杰", "disliked by x, suspected by x, adversary of x"], 
+      ["林彤", "acquaintance of x, suspect to x"], 
+      ["林惟仁", "business partner of x, suspected by x"], 
+      ["苏阳", "acquaintance of x, suspect to x"], 
+      ["林夕", "enemy of x, perpetrator of x"], 
+      ["林氏", "employer of x, business partner of x, suspected by x, adversary of x, victim of x"]
+    ],
+    "林惟仁": [
+      ["沈杰", "employer of x, manipulated by x, victim of x"], 
+      ["秦思琴", "husband of x, perpetrator of x"], 
+      ["林彤", "step daughter of x, helped by x, patient of x"], 
+      ["顾明和", "business partner of x, adversary of x"], 
+      ["苏阳", "future father in law of x, suspect of x"], 
+      ["林夕", "father of x"], 
+      ["林氏", "employer of x"]
+    ],
+    "苏阳": [
+      ["沈杰", "suspected by x, perpetrator of x, deceiver of x"], 
+      ["林彤", "ex girlfriend of x"], 
+      ["顾明和", "acquaintance of x, suspected by x"], 
+      ["林惟仁", "future son in law of x, suspected by x"], 
+      ["林夕", "ex boyfriend of x, fiance of x, doctor of x, suspected by x, deceived by x"], 
+      ["林氏", "ex boyfriend of x, romantic relationships with x, suspected by x, suspect of x"]
+    ],
+    "林夕": [
+      ["沈杰", "employer of x, suspected by x, victim of x"], 
+      ["林彤", "step sister of x, possibly family of x"], 
+      ["顾明和", "victim of x, daughter of x"], 
+      ["林惟仁", "child of x"], 
+      ["苏阳", "fiancee of x, patient of x, attempted perpetrator of x, admirer of x"], 
+      ["林氏", "employee of x, disliked by x"]
+    ],
+    "林氏": [
+      ["沈杰", "employer of x, step daughter of x"], 
+      ["秦思琴", "husband of x, suspected by x, employer of x"], 
+      ["林彤", "step father of x, father of x, adoptive father of x"], 
+      ["顾明和", "employee of x, business partner of x, suspect to x, adversary of x, perpetrator of x"], 
+      ["林惟仁", "employee of x"], 
+      ["苏阳", "ex girlfriend of x, romantic relationships with x, deceiver of x, deceived by x, manipulator of x, enemy of x"], 
+      ["林夕", "employer of x, father of x, deceived by x"]
+    ]
+}

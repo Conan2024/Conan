@@ -1,0 +1,78 @@
+{
+    "于彦诚": [
+      ["于尚勇", "same person as x (different identity)"], 
+      ["张俊诗", "informant of x, information receiver from x"], 
+      ["张太太", "acquaintance of x, customer of x"], 
+      ["葛继先", "acquaintance of x"], 
+      ["葛月萝", "acquaintance of x"], 
+      ["朱陵山", "friend of x, acquaintance of x"], 
+      ["乐婉", "acquaintance of x, tenant of x"], 
+      ["稚筠", "acquaintance of x"], 
+      ["吕松年", "business partner of x, acquaintance of x"]
+    ],
+    "于尚勇": [
+      ["于彦诚", "same person as x (different identity)"], 
+      ["张俊诗", "informant of x"], 
+      ["张太太", "acquaintance of x"], 
+      ["葛继先", "acquaintance of x"], 
+      ["葛月萝", "acquaintance of x"], 
+      ["朱陵山", "acquaintance of x, acquaintance of x"], 
+      ["乐婉", "acquaintance of x, admirer of x"], 
+      ["稚筠", "acquaintance of x"], 
+      ["吕松年", "business partner of x, acquaintance of x"], 
+      ["薛玉帆", "attempted perpetrator of x, victim of x"]
+    ],
+    "张俊诗": [
+      ["张太太", "wife of x"], 
+      ["于彦诚", "informant of x, information receiver from x"], 
+      ["于尚勇", "informant of x"], 
+      ["稚筠", "relative of x"]
+    ],
+    "张太太": [
+      ["张俊诗", "wife of x"], 
+      ["于彦诚", "helped by x, customer of x"], 
+      ["于尚勇", "helped by x, helper of x"], 
+      ["稚筠", "aunt of x"], 
+      ["乐婉", "superior of x"], 
+      ["葛月曼", "friend of x"]
+    ],
+    "葛继先": [
+      ["葛月萝", "father of x"], 
+      ["葛月曼", "father of x"], 
+      ["朱陵山", "father in law of x"]
+    ],
+    "葛月萝": [
+      ["葛继先", "child of x"], 
+      ["葛月曼", "same person as x (different identity)"], 
+      ["朱陵山", "husband of x"]
+    ],
+    "葛月曼": [
+      ["葛继先", "child of x"], 
+      ["葛月萝", "same person as x (different identity)"], 
+      ["张太太", "friend of x"]
+    ],
+    "朱陵山": [
+      ["葛月萝", "husband of x"], 
+      ["葛继先", "son in law of x"], 
+      ["乐婉", "acquaintance of x"], 
+      ["于彦诚", "friend of x, acquaintance of x"], 
+      ["于尚勇", "acquaintance of x, acquaintance of x"]
+    ],
+    "乐婉": [
+      ["于彦诚", "tenant of x"], 
+      ["于尚勇", "acquaintance of x, romantic relationships with x"], 
+      ["张太太", "subordinate of x"]
+    ],
+    "稚筠": [
+      ["张俊诗", "relative of x"], 
+      ["张太太", "niece of x"], 
+      ["于尚勇", "acquaintance of x"]
+    ],
+    "吕松年": [
+      ["于彦诚", "business partner of x, acquaintance of x"], 
+      ["于尚勇", "business partner of x, acquaintance of x"]
+    ],
+    "薛玉帆": [
+      ["于尚勇", "perpetrator of x, victim of x"]
+    ]
+}

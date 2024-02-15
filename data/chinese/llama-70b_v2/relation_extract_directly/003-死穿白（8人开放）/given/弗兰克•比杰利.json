@@ -1,0 +1,14 @@
+{
+    "弗兰克•比杰利": [
+      ["托尼", "brother of x, caretaker of x"], 
+      ["神父汤姆", "acquaintance of x, co conspirator of x"]
+    ],
+    "托尼": [
+      ["弗兰克•比杰利", "brother of x, mentor of x"], 
+      ["神父汤姆", "priest of x, benefactor of x"]
+    ],
+    "神父汤姆": [
+      ["弗兰克•比杰利", "acquaintance of x, co conspirator of x"], 
+      ["托尼", "priest of x, benefactor of x"]
+    ]
+}

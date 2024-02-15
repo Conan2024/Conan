@@ -1,0 +1,24 @@
+{
+    "孟三春": [
+      ["蔡思娘", "husband of x, extramarital affair with x"]
+    ],
+    "张红生": [
+      ["张金银", "husband of x"], 
+      ["洪江水", "husband of x"], 
+      ["蔡思娘", "husband of x, lover of x"]
+    ],
+    "张金银": [
+      ["张红生", "wife of x"], 
+      ["洪江水", "colleague of x, business partner of x"], 
+      ["蔡思娘", "husband of x, superior of x, mentor of x, friend of x, adversary of x, enemy of x, rival of x, manipulator of x, deceiver of x, victim of x"]
+    ],
+    "蔡思娘": [
+      ["孟三春", "wife of x, lover of x"], 
+      ["张红生", "wife of x, lover of x"], 
+      ["张金银", "husband of x, superior of x, mentor of x, friend of x, adversary of x, enemy of x, rival of x, manipulator of x, deceiver of x, victim of x"]
+    ],
+    "洪江水": [
+      ["张红生", "wife of x"], 
+      ["张金银", "colleague of x, business partner of x"]
+    ]
+}

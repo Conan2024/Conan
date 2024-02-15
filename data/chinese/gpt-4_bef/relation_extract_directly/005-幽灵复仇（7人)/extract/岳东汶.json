@@ -1,0 +1,60 @@
+{
+    "岳东汶": [
+      ["岳古", "same person as x (different identity)"], 
+      ["中国武师", "acquaintance of x, admirer of x"], 
+      ["秋山佐满", "acquaintance of x"], 
+      ["吴百安", "business partner of x, friend of x"], 
+      ["岳客沙", "son of x"], 
+      ["阿明（李骆明）", "employee of x"], 
+      ["白常恭", "acquaintance of x, debtor of x"], 
+      ["夏三虎", "acquaintance of x, debtor of x, adversary of x"], 
+      ["夏仲鹏", "acquaintance of x"], 
+      ["叔娥", "acquaintance of x"], 
+      ["护士长", "employee of x"], 
+      ["阿伦", "employee of x"]
+    ],
+    "岳古": [
+      ["岳东汶", "same person as x (different reference)"]
+    ],
+    "中国武师": [
+      ["岳东汶", "acquaintance of x, admired by x"]
+    ],
+    "秋山佐满": [
+      ["岳东汶", "acquaintance of x"]
+    ],
+    "吴百安": [
+      ["岳东汶", "business partner of x, friend of x"]
+    ],
+    "岳客沙": [
+      ["岳东汶", "father of x"], 
+      ["叔娥", "acquaintance of x"]
+    ],
+    "阿明（李骆明）": [
+      ["岳东汶", "employee of x"], 
+      ["李子材", "son of x"]
+    ],
+    "白常恭": [
+      ["岳东汶", "acquaintance of x, debtor of x"]
+    ],
+    "夏三虎": [
+      ["岳东汶", "acquaintance of x, creditor of x, adversary of x"], 
+      ["夏仲鹏", "brother of x"], 
+      ["叔娥", "uncle of x"]
+    ],
+    "夏仲鹏": [
+      ["夏三虎", "brother of x"]
+    ],
+    "叔娥": [
+      ["岳东汶", "acquaintance of x"], 
+      ["夏三虎", "niece of x"]
+    ],
+    "护士长": [
+      ["岳东汶", "employer of x"]
+    ],
+    "阿伦": [
+      ["岳东汶", "employee of x"]
+    ],
+    "李子材": [
+      ["阿明（李骆明）", "father of x"]
+    ]
+}

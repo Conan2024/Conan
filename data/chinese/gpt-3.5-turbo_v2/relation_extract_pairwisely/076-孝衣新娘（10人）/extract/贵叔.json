@@ -1,0 +1,74 @@
+{
+    "杜贵成": [
+      ["杜辉信", "uncle nephew of x"], 
+      ["孟老爷", "son of x"], 
+      ["姚仲义", "friend of x, mentor of x"], 
+      ["陈均梦", "child of x"], 
+      ["云凌", "friend of x, mentor of x"], 
+      ["红夫人", "fiancee of x"], 
+      ["虞医师", "friend of x"]
+    ],
+    "杜辉信": [
+      ["杜贵成", "nephew uncle of x"], 
+      ["孟老爷", "father of x"], 
+      ["姚仲义", "friend of x"], 
+      ["陈均梦", "fiance of x"], 
+      ["云凌", "friend of x, mentor of x"], 
+      ["红夫人", "wife of x"], 
+      ["虞医师", "father of x"]
+    ],
+    "孟老爷": [
+      ["杜贵成", "father of x"], 
+      ["杜辉信", "son of x"], 
+      ["姚仲义", "business partner of x"], 
+      ["陈均梦", "employer of x"], 
+      ["云凌", "friend of x"], 
+      ["红夫人", "husband of x"], 
+      ["虞医师", "mentor of x"]
+    ],
+    "姚仲义": [
+      ["杜贵成", "friend of x, student of x"], 
+      ["杜辉信", "friend of x"], 
+      ["孟老爷", "business partner of x"], 
+      ["陈均梦", "brother of x, romantic relationships with x"], 
+      ["云凌", "half brother of x"], 
+      ["红夫人", "husband of x"], 
+      ["虞医师", "business partner of x"]
+    ],
+    "陈均梦": [
+      ["杜贵成", "parent of x"], 
+      ["杜辉信", "fiancee of x"], 
+      ["孟老爷", "employee of x"], 
+      ["姚仲义", "sister of x, romantic relationships with x"], 
+      ["云凌", "brother in law of x"], 
+      ["红夫人", "wife of x"], 
+      ["虞医师", "father of x"]
+    ],
+    "云凌": [
+      ["杜贵成", "friend of x"], 
+      ["杜辉信", "student of x"], 
+      ["孟老爷", "friend of x"], 
+      ["姚仲义", "half brother of x"], 
+      ["陈均梦", "brother in law of x"], 
+      ["红夫人", "wife of x 贵叔"], 
+      ["虞医师", "father of x"]
+    ],
+    "红夫人": [
+      ["杜贵成", "future mother in law of x"], 
+      ["杜辉信", "husband of x"], 
+      ["孟老爷", "wife of x"], 
+      ["姚仲义", "wife of x"], 
+      ["陈均梦", "husband of x"], 
+      ["云凌", "husband of x 贵叔"], 
+      ["虞医师", "wife of x"]
+    ],
+    "虞医师": [
+      ["杜贵成", "friend of x"], 
+      ["杜辉信", "son of x"], 
+      ["孟老爷", "student of x"], 
+      ["姚仲义", "business partner of x"], 
+      ["陈均梦", "son of x"], 
+      ["云凌", "son of x"], 
+      ["红夫人", "husband of x"]
+    ]
+}

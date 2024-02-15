@@ -1,0 +1,20 @@
+{
+    "韩乘务": [
+      ["刘奇大副", "dislike of x, adversary of x, attempted perpetrator of x"], 
+      ["修仁杰酒吧经理", "acquaintance of x"], 
+      ["洪子廉船长", "superior of x"], 
+      ["刘奇大副的照片", "dislike of x"]
+    ],
+    "刘奇大副": [
+      ["韩乘务", "disliked by x"], 
+      ["洪子廉船长", "superior of x"], 
+      ["刘奇大副的身份", "replaced x's identity"]
+    ],
+    "修仁杰酒吧经理": [
+      ["韩乘务", "acquaintance of x"]
+    ],
+    "洪子廉船长": [
+      ["韩乘务", "superior of x"], 
+      ["刘奇大副", "superior of x"]
+    ]
+}

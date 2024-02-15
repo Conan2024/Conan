@@ -1,0 +1,55 @@
+{
+    "苗如娅": [
+      ["巴府山", "employee of x, enemy of x"], 
+      ["鹃歌", "cousin of x, colleague of x"], 
+      ["苗纳", "student of x, rival of x"], 
+      ["田氏", "deceiver of x, acquaintance of x"], 
+      ["苗氏", "aunt of x"], 
+      ["李德木", "friend of x, classmate of x"], 
+      ["李良松", "brother in law of x, friend of x"], 
+      ["李高柏", "brother in law of x, friend of x"]
+    ],
+    "巴府山": [
+      ["苗如娅", "employee of x, enemy of x"], 
+      ["鬼印", "friend of x, mentor of x, acquaintance of x"], 
+      ["郑函贞", "acquaintance of x"]
+    ],
+    "鬼印": [
+      ["苗如娅", "mentor of x, teacher of x, acquaintance of x"], 
+      ["巴府山", "friend of x"], 
+      ["李德木", "friend of x, classmate of x"]
+    ],
+    "鹃歌": [
+      ["苗如娅", "cousin of x, colleague of x"], 
+      ["李德木", "friend of x, classmate of x"]
+    ],
+    "苗纳": [
+      ["苗如娅", "student of x, rival of x"], 
+      ["李德木", "friend of x, classmate of x"]
+    ],
+    "田氏": [
+      ["苗如娅", "deceiver of x, acquaintance of x"], 
+      ["李德木", "friend of x, classmate of x"]
+    ],
+    "苗氏": [
+      ["苗如娅", "aunt of x"], 
+      ["李德木", "friend of x, classmate of x"]
+    ],
+    "李德木": [
+      ["苗如娅", "friend of x, classmate of x"], 
+      ["巴府山", "friend of x"], 
+      ["鹃歌", "friend of x, classmate of x"]
+    ],
+    "李良松": [
+      ["苗如娅", "brother in law of x, friend of x"], 
+      ["巴府山", "friend of x"]
+    ],
+    "李高柏": [
+      ["苗如娅", "brother in law of x, friend of x"], 
+      ["巴府山", "friend of x"]
+    ],
+    "郑函贞": [
+      ["巴府山", "acquaintance of x"], 
+      ["苗如娅", "acquaintance of x"]
+    ]
+}

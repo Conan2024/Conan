@@ -1,0 +1,56 @@
+{
+    "林阳": [
+      ["林惟仁", "step father of x"], 
+      ["林夕", "brother of x"], 
+      ["顾晴", "romantic relationships with x"], 
+      ["沈城", "informant of x"], 
+      ["苏阳", "romantic relationships with x, suspect of x, attempted perpetrator of x, manipulated by x, ex boyfriend of x"], 
+      ["顾宇", "romantic relationships with x"]
+    ],
+    "林惟仁": [
+      ["林阳", "step son of x"], 
+      ["林夕", "father of x"], 
+      ["顾晴", "future father in law of x"], 
+      ["沈城", "guard of x"], 
+      ["苏阳", "father in law of x"], 
+      ["顾宇", "step father of x"]
+    ],
+    "林夕": [
+      ["林阳", "sister of x"], 
+      ["林惟仁", "child of x"], 
+      ["沈城", "helper of x, informant of x"], 
+      ["苏阳", "fiance of x"], 
+      ["顾宇", "ex boyfriend of x"]
+    ],
+    "顾晴": [
+      ["林阳", "romantic relationships with x"], 
+      ["林惟仁", "daughter in law of x"], 
+      ["沈城", "romantic relationships with x"], 
+      ["苏阳", "lover of x"], 
+      ["顾宇", "romantic relationships with x, ex romantic relationships with x"]
+    ],
+    "沈城": [
+      ["林阳", "helper of x"], 
+      ["林惟仁", "employer of x"], 
+      ["林夕", "helper of x, information receiver from x"], 
+      ["顾晴", "romantic relationships with x"], 
+      ["苏阳", "servant of x"], 
+      ["顾宇", "acquaintance of x"]
+    ],
+    "苏阳": [
+      ["林阳", "romantic relationships with x, suspect of x, attempted perpetrator of x, manipulated by x, ex girlfriend of x"], 
+      ["林惟仁", "future son in law of x"], 
+      ["林夕", "fiancee of x"], 
+      ["顾晴", "lover of x"], 
+      ["沈城", "helper of x"], 
+      ["顾宇", "romantic relationships with x"]
+    ],
+    "顾宇": [
+      ["林阳", "romantic relationships with x"], 
+      ["林惟仁", "step son of x"], 
+      ["林夕", "ex girlfriend of x"], 
+      ["顾晴", "romantic relationships with x, ex romantic relationships with x"], 
+      ["沈城", "acquaintance of x"], 
+      ["苏阳", "romantic relationships with x"]
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "石燕": [
+      ["杜仲", "same person as x (different reference)"], 
+      ["红花夫人", "mother of x, teacher of x, perpetrator of x"]
+    ],
+    "杜仲": [
+      ["石燕", "same person as x (different reference)"], 
+      ["红花夫人", "wife of x, perpetrator of x"]
+    ],
+    "红花夫人": [
+      ["石燕", "daughter of x, student of x, perpetrator of x"]
+    ],
+    "陆英": [
+      ["石燕", "acquaintance of x, helper of x"]
+    ],
+    "武林盟": [
+      ["石燕", "employee of x, master of x"]
+    ]
+}

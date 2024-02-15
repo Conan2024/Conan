@@ -1,0 +1,54 @@
+{
+    "小茜": [
+      ["尔矢斯芭嗒", "friend of x, classmate of x, sister of x"], 
+      ["李仲", "classmate of x"], 
+      ["李延", "adoptive sister of x"], 
+      ["特尔特拉福德", "cousin of x"], 
+      ["陈倩", "adoptive sister of x"]
+    ],
+    "尔矢斯芭嗒": [
+      ["小茜", "friend of x, classmate of x, sister of x"], 
+      ["方柳", "acquaintance of x, helper of x, saved by x, friend of x"], 
+      ["李延", "friend of x, schoolmate of x, relative of x, acquaintance of x"], 
+      ["特尔特拉福德", "friend of x, brother of x"], 
+      ["陈倩", "friend of x, lover of x"]
+    ],
+    "方柳": [
+      ["尔矢斯芭嗒", "acquaintance of x, helper of x, saved by x, friend of x"], 
+      ["李仲", "husband of x, perpetrator of x"], 
+      ["李延", "lover of x"], 
+      ["特尔特拉福德", "friend of x"], 
+      ["陈倩", "father of x, husband of x, brother of x, sister of x, son of x, grandson of x, friend of x, mentor of x, student of x, colleague of x, enemy of x, rival of x"]
+    ],
+    "李仲": [
+      ["小茜", "classmate of x"], 
+      ["方柳", "victim of x"], 
+      ["李延", "sibling of x"], 
+      ["特尔特拉福德", "husband of x, lover of x"], 
+      ["陈倩", "husband of x, perpetrator of x"]
+    ],
+    "李延": [
+      ["小茜", "adoptive brother of x"], 
+      ["尔矢斯芭嗒", "friend of x, schoolmate of x, relative of x, acquaintance of x"], 
+      ["方柳", "lover of x"], 
+      ["李仲", "sibling of x"], 
+      ["特尔特拉福德", "father in law of x"], 
+      ["陈倩", "husband of x, perpetrator of x"]
+    ],
+    "特尔特拉福德": [
+      ["小茜", "cousin of x"], 
+      ["尔矢斯芭嗒", "friend of x, brother of x"], 
+      ["方柳", "friend of x"], 
+      ["李仲", "wife of x, lover of x"], 
+      ["李延", "son in law of x"], 
+      ["陈倩", "rival of x"]
+    ],
+    "陈倩": [
+      ["小茜", "adoptive brother of x"], 
+      ["尔矢斯芭嗒", "friend of x, lover of x"], 
+      ["方柳", "father of x, husband of x, brother of x, sister of x, son of x, grandson of x, friend of x, mentor of x, student of x, colleague of x, enemy of x, rival of x"], 
+      ["李仲", "victim of x"], 
+      ["李延", "victim of x"], 
+      ["特尔特拉福德", "rival of x"]
+    ]
+}

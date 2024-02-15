@@ -1,0 +1,21 @@
+{
+    "张洁": [
+      ["李国富", "helper of x"]
+    ],
+    "李国富": [
+      ["张洁", "employer of x, superior of x"], 
+      ["王邻居", "friend of x"]
+    ],
+    "何老六": [
+      ["王邻居", "friend of x"]
+    ],
+    "慕北": [
+      ["李国富", "superior of x"], 
+      ["王邻居", "friend of x"]
+    ],
+    "王邻居": [
+      ["李国富", "friend of x"], 
+      ["何老六", "friend of x"], 
+      ["慕北", "friend of x"]
+    ]
+}

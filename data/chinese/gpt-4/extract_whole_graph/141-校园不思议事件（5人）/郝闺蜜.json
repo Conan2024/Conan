@@ -1,0 +1,50 @@
+{
+    "郝闺蜜": [
+        [
+            "表姐",
+            "relative of x, admired by x"
+        ],
+        [
+            "张恶霸",
+            "adversary of x, perpetrator of x, attempted victim of x"
+        ],
+        [
+            "林校花",
+            "acquaintance of x, friend of x"
+        ]
+    ],
+    "表姐": [
+        [
+            "郝闺蜜",
+            "relative of x, admirer of x"
+        ],
+        [
+            "张恶霸",
+            "victim of x"
+        ]
+    ],
+    "张恶霸": [
+        [
+            "郝闺蜜",
+            "adversary of x, victim of x"
+        ],
+        [
+            "表姐",
+            "perpetrator of x"
+        ],
+        [
+            "林校花",
+            "fiance of x, abuser of x"
+        ]
+    ],
+    "林校花": [
+        [
+            "张恶霸",
+            "fiancee of x, abused by x"
+        ],
+        [
+            "郝闺蜜",
+            "acquaintance of x, friend of x"
+        ]
+    ]
+}

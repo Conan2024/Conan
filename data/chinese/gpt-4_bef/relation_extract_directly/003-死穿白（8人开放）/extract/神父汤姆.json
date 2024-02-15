@@ -1,0 +1,22 @@
+{
+    "牧师汤姆": [
+      ["德雷克·里莫瑞特", "patient of x, information receiver from x"], 
+      ["托尼", "deceiver of x, admired by x"], 
+      ["弗兰克", "deceiver of x, manipulated by x"], 
+      ["帕洛斯基医生", "informant of x"]
+    ],
+    "帕洛斯基医生": [
+      ["汉斯·里莫瑞特", "disliked by x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["帕洛斯基医生", "dislike of x"]
+    ],
+    "弗兰克": [
+      ["牧师汤姆", "helped by x"], 
+      ["托尼", "sibling of x"]
+    ],
+    "托尼": [
+      ["牧师汤姆", "deceived by x"], 
+      ["弗兰克", "sibling of x"]
+    ]
+}

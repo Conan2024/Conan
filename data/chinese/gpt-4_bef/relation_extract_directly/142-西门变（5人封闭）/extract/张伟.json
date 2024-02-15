@@ -1,0 +1,47 @@
+{
+    "张伟": [
+      ["赵家二公子赵中杨", "subordinate of x, murderer of x, manipulated by x"], 
+      ["陈媚儿", "acquaintance of x"], 
+      ["李成", "acquaintance of x"], 
+      ["赵中正", "acquaintance of x"], 
+      ["赵三", "business partner of x, informant of x, manipulated by x"], 
+      ["马老板", "business partner of x, deceived by x, helper of x"]
+    ],
+    "赵中杨": [
+      ["张伟", "superior of x, victim of x"], 
+      ["赵家二公子", "same person as x (different reference)"], 
+      ["陈媚儿", "romantic relationships with x, fiancee of x"], 
+      ["李成", "subordinate of x, friend of x"], 
+      ["老族长", "child of x"], 
+      ["大公子赵中正", "sibling of x"], 
+      ["赵三", "subordinate of x"]
+    ],
+    "赵家二公子": [
+      ["赵中杨", "same person as x (different reference)"]
+    ],
+    "陈媚儿": [
+      ["赵中杨", "romantic relationships with x, fiance of x"], 
+      ["张伟", "acquaintance of x"]
+    ],
+    "李成": [
+      ["赵中杨", "superior of x, friend of x"], 
+      ["张伟", "acquaintance of x"]
+    ],
+    "老族长": [
+      ["赵中杨", "father of x"], 
+      ["大公子赵中正", "child of x"]
+    ],
+    "大公子赵中正": [
+      ["赵三", "superior of x"], 
+      ["赵中杨", "sibling of x"], 
+      ["张伟", "acquaintance of x"]
+    ],
+    "赵三": [
+      ["张伟", "business partner of x, information receiver from x, manipulator of x"], 
+      ["赵中正", "subordinate of x"], 
+      ["赵中杨", "acquaintance of x"]
+    ],
+    "马老板": [
+      ["张伟", "customer of x, manipulator of x, deceived by x"]
+    ]
+}

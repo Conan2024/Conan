@@ -1,0 +1,80 @@
+{
+    "陈倩": [
+      ["陈孜靖", "father of x"], 
+      ["陈氏", "mother of x"], 
+      ["丫墨", "servant of x"], 
+      ["小茜", "foster sister of x"], 
+      ["媒婆", "acquaintance of x"], 
+      ["李府府主李钦仁", "future father in law of x"], 
+      ["李仲", "fiance of x, saved by x, romantic relationships with x"], 
+      ["李氏夫人", "future mother in law of x"], 
+      ["喊住歹徒的书生", "same person as x (different identity)"], 
+      ["土匪", "adversary of x"], 
+      ["李王爷", "perpetrator of x, killed by x"]
+    ],
+    "陈孜靖": [
+      ["陈倩", "child of x"], 
+      ["陈氏", "wife of x (deceased)"], 
+      ["小茜", "adoptive daughter of x"], 
+      ["媒婆", "acquaintance of x"], 
+      ["李府府主李钦仁", "business partner of x"], 
+      ["李仲", "child of x's business partner"], 
+      ["李氏夫人", "wife of x's business partner"], 
+      ["李王爷", "business partner of x"]
+    ],
+    "陈氏": [
+      ["陈倩", "child of x"], 
+      ["陈孜靖", "husband of x"], 
+      ["丫墨", "servant of x"], 
+      ["小茜", "unrelated of x"]
+    ],
+    "丫墨": [
+      ["陈倩", "servant of x"], 
+      ["陈孜靖", "servant of x"], 
+      ["陈氏", "servant of x"], 
+      ["小茜", "acquaintance of x"]
+    ],
+    "小茜": [
+      ["陈倩", "foster sister of x"], 
+      ["陈孜靖", "adoptive father of x"], 
+      ["丫墨", "acquaintance of x"], 
+      ["陈氏", "unrelated of x"]
+    ],
+    "媒婆": [
+      ["陈倩", "acquaintance of x"], 
+      ["陈孜靖", "acquaintance of x"]
+    ],
+    "李府府主李钦仁": [
+      ["陈倩", "future daughter in law of x"], 
+      ["李仲", "father of x"], 
+      ["李氏夫人", "husband of x"], 
+      ["陈孜靖", "business partner of x"], 
+      ["李王爷", "same person as x (different identity)"]
+    ],
+    "李仲": [
+      ["陈倩", "fiance of x, saved x, romantic relationships with x"], 
+      ["李府府主李钦仁", "child of x"], 
+      ["李氏夫人", "child of x"], 
+      ["李王爷", "dislike of x, adversary of x"]
+    ],
+    "李氏夫人": [
+      ["李府府主李钦仁", "wife of x"], 
+      ["李仲", "child of x"], 
+      ["陈倩", "future daughter in law of x"]
+    ],
+    "喊住歹徒的书生": [
+      ["陈倩", "same person as x (different identity)"], 
+      ["土匪", "victim of x"], 
+      ["李府府主李钦仁", "employee of x"]
+    ],
+    "土匪": [
+      ["陈倩", "adversary of x"], 
+      ["李仲", "adversary of x"], 
+      ["喊住歹徒的书生", "perpetrator to x"]
+    ],
+    "李王爷": [
+      ["陈倩", "perpetrator of x, killed by x"], 
+      ["李府府主李钦仁", "same person as x (different identity)"], 
+      ["李仲", "dislike of x, attempted perpetrator of x, victim of x"]
+    ]
+}

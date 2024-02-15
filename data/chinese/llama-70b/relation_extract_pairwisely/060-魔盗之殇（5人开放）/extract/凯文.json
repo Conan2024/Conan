@@ -1,0 +1,94 @@
+{
+    "凯文": [
+        [
+            "罗琳",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "戴维",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "古思特",
+            "Master of X",
+            "Employer of X"
+        ],
+        [
+            "艾拉",
+            "friend"
+        ]
+    ],
+    "罗琳": [
+        [
+            "凯文",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "戴维",
+            "co-worker",
+            "friend"
+        ],
+        [
+            "古思特",
+            "master/apprentice, enemy/rival, co-conspirator"
+        ],
+        [
+            "艾拉",
+            "mentor, employer"
+        ]
+    ],
+    "戴维": [
+        [
+            "凯文",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "罗琳",
+            "co-worker",
+            "friend"
+        ],
+        [
+            "艾拉",
+            "Superior-Subordinate",
+            "Romantic Partners",
+            "Accomplices"
+        ]
+    ],
+    "古思特": [
+        [
+            "凯文",
+            "Employee of X",
+            "Colleague of X"
+        ],
+        [
+            "罗琳",
+            "master/apprentice, enemy/rival, co-conspirator"
+        ],
+        [
+            "艾拉",
+            "Master",
+            "manipulate"
+        ]
+    ],
+    "艾拉": [
+        [
+            "凯文",
+            "friend"
+        ],
+        [
+            "罗琳",
+            "mentor, employer"
+        ],
+        [
+            "戴维",
+            "Superior-Subordinate",
+            "Romantic Partners",
+            "Accomplices"
+        ],
+        [
+            "古思特",
+            "mentor",
+            "bully"
+        ]
+    ]
+}

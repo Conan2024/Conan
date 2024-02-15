@@ -1,0 +1,33 @@
+{
+    "后勤格里夫": [
+      ["魔术师古思特", "suspected by x, victim of x, subject of x investigation for x, disliked by x"], 
+      ["宣传罗琳", "suspected by x, colleague of x"], 
+      ["剧务戴维", "colleague of x, friend of x"], 
+      ["保安凯文", "suspected by x, subject of x investigation for x"], 
+      ["助手艾拉", "disliked by x, colleague of x"]
+    ],
+    "魔术师古思特": [
+      ["后勤格里夫", "suspect of x, deceived by x, perpetrator of x"], 
+      ["助手艾拉", "helper of x, admired by x"], 
+      ["宣传罗琳", "colleague of x"], 
+      ["剧务戴维", "colleague of x, debtor of x"], 
+      ["保安凯文", "suspect of x, manipulator of x"]
+    ],
+    "助手艾拉": [
+      ["魔术师古思特", "superior of x, romantic relationships with x"], 
+      ["后勤格里夫", "deceiver of x"]
+    ],
+    "宣传罗琳": [
+      ["剧务戴维", "admired by x"], 
+      ["后勤格里夫", "colleague of x, suspected by x"]
+    ],
+    "剧务戴维": [
+      ["宣传罗琳", "unsuccessful helper of x, admirer of x"], 
+      ["魔术师古思特", "creditor of x, manipulated by x"], 
+      ["后勤格里夫", "colleague of x, friend of x"]
+    ],
+    "保安凯文": [
+      ["魔术师古思特", "suspect of x, manipulated by x"], 
+      ["后勤格里夫", "suspected by x"]
+    ]
+}

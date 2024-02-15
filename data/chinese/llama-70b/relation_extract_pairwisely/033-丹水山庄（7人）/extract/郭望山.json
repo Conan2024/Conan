@@ -1,0 +1,236 @@
+{
+    "郭望山": [
+        [
+            "任师父",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "廖老板",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "赵万雷",
+            " acquaintance",
+            " colleague",
+            " adversary"
+        ],
+        [
+            "虞义辰",
+            "relationship 1, relationship 2, ..., relationship 10"
+        ],
+        [
+            "花子狸",
+            "学生与师傅",
+            "朋友",
+            "合伙",
+            "诈钱",
+            "帮手",
+            "谋杀",
+            "陷它",
+            "敌人"
+        ]
+    ],
+    "任师父": [
+        [
+            "郭望山",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "廖老板",
+            "业务合作",
+            "敌人",
+            "赞助人",
+            "被监管的",
+            "保护人",
+            "朋友",
+            "同事",
+            "上级",
+            "老朋友",
+            "尊敬的"
+        ],
+        [
+            "赵万雷",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "虞义辰",
+            "Master and Disciple",
+            "Employer and Employee",
+            "Teacher and Student",
+            "Mentor and Mentee",
+            "Ally and Partner"
+        ],
+        [
+            "花子狸",
+            "relationship 1",
+            "relationship 2"
+        ]
+    ],
+    "廖老板": [
+        [
+            "郭望山",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "任师父",
+            "业务合作",
+            "敌人",
+            "赞助人",
+            "被监管的",
+            "保护人",
+            "朋友",
+            "同事",
+            "上级",
+            "老朋友",
+            "尊敬的"
+        ],
+        [
+            "赵万雷",
+            "employer",
+            "mentor",
+            "superior",
+            "business partner",
+            "personal friendship",
+            "informant",
+            "victim",
+            "perpetrator",
+            "rival"
+        ],
+        [
+            "虞义辰",
+            "Master and Apprentice",
+            "Employer and Employee",
+            "Business Partners",
+            "Mentor and Mentee",
+            "Friend"
+        ],
+        [
+            "花子狸",
+            "superior",
+            "mentor",
+            "friend",
+            "mutual enemy",
+            "holder of a secret"
+        ]
+    ],
+    "赵万雷": [
+        [
+            "郭望山",
+            " acquaintance",
+            " colleague",
+            " adversary"
+        ],
+        [
+            "任师父",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "廖老板",
+            "employer",
+            "mentor",
+            "superior",
+            "business partner",
+            "personal friendship",
+            "informant",
+            "victim",
+            "perpetrator",
+            "rival"
+        ],
+        [
+            "虞义辰",
+            "perpetrator of crime",
+            "person who hired",
+            "provider of explosives"
+        ],
+        [
+            "花子狸",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5"
+        ]
+    ],
+    "虞义辰": [
+        [
+            "郭望山",
+            "relationship 1, relationship 2, ..., relationship 10"
+        ],
+        [
+            "任师父",
+            "Disciple and Master",
+            "Employee and Employer",
+            "Student and Teacher",
+            "Mentee and Mentor",
+            "Partner and Ally"
+        ],
+        [
+            "廖老板",
+            "Master and Apprentice",
+            "Employer and Employee",
+            "Business Partners",
+            "Mentor and Mentee",
+            "Friend"
+        ],
+        [
+            "赵万雷",
+            "person who killed wife",
+            "perpetrator of crime",
+            "hired person"
+        ],
+        [
+            "花子狸",
+            "acquaintance",
+            "informant",
+            "superior",
+            "employer",
+            "teacher",
+            "mentor",
+            "friend",
+            "neighbor",
+            "colleague",
+            "business partner"
+        ]
+    ],
+    "花子狸": [
+        [
+            "郭望山",
+            "学生与师傅",
+            "朋友",
+            "合伙",
+            "诈钱",
+            "帮手",
+            "谋杀",
+            "陷它",
+            "敌人"
+        ],
+        [
+            "任师父",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "廖老板",
+            "superior",
+            "mentor",
+            "friend",
+            "mutual enemy",
+            "unaware of a secret"
+        ],
+        [
+            "赵万雷",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5"
+        ],
+        [
+            "虞义辰",
+            "acquaintance",
+            "informant",
+            "superior",
+            "employer",
+            "teacher",
+            "mentor",
+            "friend",
+            "neighbor",
+            "colleague",
+            "business partner"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "李小弟": [
+      ["李大哥", "sibling of x, admired by x"], 
+      ["张恶霸", "information receiver from x, manipulated by x"], 
+      ["王学习", "information receiver from x"], 
+      ["赵帅哥", "acquaintance of x, information receiver from x"], 
+      ["林校花", "romantic relationships with x"]
+    ],
+    "李大哥": [
+      ["李小弟", "sibling of x, admired by x"], 
+      ["张恶霸", "manipulated by x"]
+    ],
+    "张恶霸": [
+      ["李小弟", "information receiver from x, manipulated by x"], 
+      ["李大哥", "manipulated by x"], 
+      ["王学习", "classmate of x, attempted perpetrator of x"], 
+      ["赵帅哥", "acquaintance of x"], 
+      ["林校花", "romantic relationships with x"]
+    ],
+    "王学习": [
+      ["李小弟", "information receiver from x"], 
+      ["张恶霸", "classmate of x, attempted perpetrator of x"], 
+      ["赵帅哥", "acquaintance of x"]
+    ],
+    "赵帅哥": [
+      ["李小弟", "acquaintance of x, information receiver from x"], 
+      ["张恶霸", "acquaintance of x"], 
+      ["王学习", "acquaintance of x"]
+    ],
+    "林校花": [
+      ["李小弟", "romantic relationships with x"], 
+      ["张恶霸", "romantic relationships with x"]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "弗兰克•比杰利": [
+        [
+            "托尼",
+            "same person as x (different identity), colleague of x, helped by x, helper of x, mentor of x"
+        ],
+        [
+            "莱利",
+            "business partner of x, mentor of x"
+        ],
+        [
+            "汤姆神父",
+            "superior of x, business partner of x, deceiver of x"
+        ]
+    ],
+    "托尼": [
+        [
+            "弗兰克•比杰利",
+            "same person as x (different identity), student of x, colleague of x, helped by x, helper of x, admirer of x"
+        ],
+        [
+            "莱利",
+            "colleague of x, mentor of x"
+        ],
+        [
+            "汤姆神父",
+            "deceived by x"
+        ]
+    ],
+    "莱利": [
+        [
+            "弗兰克•比杰利",
+            "student of x, business partner of x"
+        ],
+        [
+            "托尼",
+            "student of x, business partner of x"
+        ]
+    ],
+    "汤姆神父": [
+        [
+            "弗兰克•比杰利",
+            "subordinate of x, business partner of x, deceiver of x"
+        ],
+        [
+            "托尼",
+            "deceiver of x"
+        ]
+    ]
+}

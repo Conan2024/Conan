@@ -1,0 +1,43 @@
+{
+    "慕北": [
+      ["李国富", "mentor of x"], 
+      ["何老六", "colleague of x"], 
+      ["张洁", "friend of x"], 
+      ["何老六", "suspicious of x"], 
+      ["李国富", "suspected by x"], 
+      ["张洁", "helper of x"], 
+      ["李国富", "perpetrator of x"], 
+      ["李国富", "victor of x"], 
+      ["警察", "colleague of x"]
+    ],
+    "李国富": [
+      ["慕北", "student of x"], 
+      ["张洁", "friend of x"], 
+      ["何老六", "colleague of x"], 
+      ["慕北", "admired by x"], 
+      ["李国富", "manipulator of x 慕北"], 
+      ["李国富", "suspected by 慕北 of x"], 
+      ["李国富", "deceiver of x 慕北"], 
+      ["李国富", "victim of x"], 
+      ["警察", "colleague of x"]
+    ],
+    "何老六": [
+      ["慕北", "colleague of x"], 
+      ["李国富", "colleague of x"], 
+      ["慕北", "suspicious of x"], 
+      ["何老六", "suspected by 慕北 of x"], 
+      ["张洁", "colleague of x"], 
+      ["警察", "colleague of x"]
+    ],
+    "张洁": [
+      ["慕北", "friend of x"], 
+      ["李国富", "friend of x"], 
+      ["慕北", "helper of x"], 
+      ["何老六", "colleague of x"]
+    ],
+    "警察": [
+      ["慕北", "colleague of x"], 
+      ["李国富", "colleague of x"], 
+      ["何老六", "colleague of x"]
+    ]
+}

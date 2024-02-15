@@ -1,0 +1,19 @@
+{
+    "蔡思娘": [
+      ["孟三春", "colleague of x"], 
+      ["张金银", "colleague of x"]
+    ],
+    "孟三春": [
+      ["蔡思娘", "colleague of x"], 
+      ["张金银", "colleague of x"], 
+      ["张红生", "wife of x"]
+    ],
+    "张金银": [
+      ["蔡思娘", "colleague of x"], 
+      ["孟三春", "colleague of x"], 
+      ["张红生", "wife of x"]
+    ],
+    "张红生": [
+      ["孟三春", "husband of x"]
+    ]
+}

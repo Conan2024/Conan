@@ -1,0 +1,35 @@
+{
+    "赵秋儿": [
+      ["赵洛意", "friend of x, acquaintance of x"], 
+      ["管家冯双骥", "acquaintance of x, colleague of x"], 
+      ["大少爷赵卫", "classmate of x, schoolmate of x"], 
+      ["老爷赵万雷", "mentor of x, admirer of x, father in law of x"]
+    ],
+    "赵洛意": [
+      ["赵秋儿", "friend of x, acquaintance of x"], 
+      ["管家冯双骥", "acquaintance of x, colleague of x"], 
+      ["大少爷赵卫", "classmate of x, schoolmate of x"]
+    ],
+    "管家冯双骥": [
+      ["赵秋儿", "acquaintance of x, colleague of x"], 
+      ["赵洛意", "acquaintance of x, colleague of x"], 
+      ["大少爷赵卫", "classmate of x, schoolmate of x"], 
+      ["老爷赵万雷", "mentor of x, admirer of x"]
+    ],
+    "大少爷赵卫": [
+      ["赵秋儿", "classmate of x, schoolmate of x"], 
+      ["赵洛意", "classmate of x, schoolmate of x"], 
+      ["管家冯双骥", "classmate of x, schoolmate of x"], 
+      ["老爷赵万雷", "mentor of x, admirer of x"]
+    ],
+    "老爷赵万雷": [
+      ["赵秋儿", "mentor of x, admirer of x, father in law of x"], 
+      ["赵洛意", "mentor of x, admirer of x"], 
+      ["管家冯双骥", "mentor of x, admirer of x"], 
+      ["大少爷赵卫", "mentor of x, admirer of x"]
+    ],
+    "冯竹": [
+      ["赵秋儿", "business partner of x, customer of x"], 
+      ["赵洛意", "business partner of x, customer of x"]
+    ]
+}

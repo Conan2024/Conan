@@ -1,0 +1,59 @@
+{
+    "薛媚娘": [
+      ["中年女人", "suspected by x, saviour of x, replaced x's identity"], 
+      ["秦老大", "student of x, victim of x, lover of x"], 
+      ["萧体育", "lover of x, manipulator of x, deceived by x"], 
+      ["郑友好", "acquaintance of x"], 
+      ["韦小弟", "acquaintance of x"], 
+      ["音乐家秦专家", "superior of x, informant of x, manipulated by x"], 
+      ["秦夫人", "extramarital affair with x, disliked by x, step mother of x"], 
+      ["贾美丽", "student of x, victim of x"], 
+      ["庄清纯", "student of x"]
+    ],
+    "中年女人": [
+      ["薛媚娘", "replaced x's identity, relative of x, saved by x"]
+    ],
+    "秦老大": [
+      ["薛媚娘", "victim of x, admirer of x, manipulated by x"], 
+      ["音乐家秦专家", "child of x, informant of x"], 
+      ["秦夫人", "step mother of x, liked by x"], 
+      ["郑友好", "friend of x"], 
+      ["韦小弟", "friend of x"], 
+      ["贾美丽", "classmate of x, suspect of x"], 
+      ["庄清纯", "classmate of x"]
+    ],
+    "萧体育": [
+      ["薛媚娘", "lover of x, deceived by x"], 
+      ["秦老大", "superior of x"], 
+      ["郑友好", "superior of x"], 
+      ["韦小弟", "superior of x"]
+    ],
+    "郑友好": [
+      ["薛媚娘", "acquaintance of x"], 
+      ["秦老大", "friend of x"], 
+      ["韦小弟", "friend of x"]
+    ],
+    "韦小弟": [
+      ["薛媚娘", "acquaintance of x"], 
+      ["秦老大", "friend of x"], 
+      ["郑友好", "friend of x"]
+    ],
+    "音乐家秦专家": [
+      ["薛媚娘", "information receiver from x, manipulated by x"], 
+      ["秦老大", "father of x, suspected by x"], 
+      ["秦夫人", "husband of x"]
+    ],
+    "秦夫人": [
+      ["薛媚娘", "mother in law of x"], 
+      ["秦老大", "step mother of x, liked by x"], 
+      ["音乐家秦专家", "wife of x"]
+    ],
+    "贾美丽": [
+      ["薛媚娘", "student of x, victim of x, deceived by x"], 
+      ["秦老大", "classmate of x, suspected by x"]
+    ],
+    "庄清纯": [
+      ["薛媚娘", "student of x"], 
+      ["秦老大", "classmate of x"]
+    ]
+}

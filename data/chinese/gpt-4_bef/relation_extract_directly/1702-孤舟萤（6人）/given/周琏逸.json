@@ -1,0 +1,77 @@
+{
+    "周琏逸": [
+      ["周蒙当", "father of x"], 
+      ["于氏", "mother of x"], 
+      ["周持同", "uncle of x"], 
+      ["宿年", "uncle of x"], 
+      ["汪氏", "acquaintance of x"], 
+      ["嫣楠", "romantic relationships with x"], 
+      ["崔嫣楠", "same person as x (different identity)"], 
+      ["宝柑", "acquaintance of x"]
+    ],
+    "周蒙当": [
+      ["周琏逸", "child of x"], 
+      ["于氏", "husband of x"], 
+      ["周持同", "brother of x"], 
+      ["宿年", "brother in law of x"], 
+      ["汪氏", "acquaintance of x"], 
+      ["崔寿亨", "acquaintance of x"], 
+      ["崔嫣楠", "acquaintance of x"]
+    ],
+    "于氏": [
+      ["周琏逸", "child of x"], 
+      ["周蒙当", "wife of x"], 
+      ["周持同", "brother of x"], 
+      ["宿年", "son of x"]
+    ],
+    "周持同": [
+      ["于氏", "sister of x"], 
+      ["周蒙当", "brother of x"], 
+      ["周琏逸", "nephew of x"], 
+      ["宿年", "nephew of x"]
+    ],
+    "宿年": [
+      ["周琏逸", "nephew of x"], 
+      ["于氏", "mother of x"], 
+      ["周持同", "nephew of x"], 
+      ["周蒙当", "brother in law of x"], 
+      ["汪氏", "acquaintance of x"], 
+      ["崔嫣楠", "acquaintance of x"]
+    ],
+    "汪氏": [
+      ["周琏逸", "informant of x"], 
+      ["于氏", "servant of x"], 
+      ["周蒙当", "acquaintance of x"], 
+      ["周持同", "acquaintance of x"], 
+      ["宿年", "acquaintance of x"], 
+      ["崔寿亨", "wife of x"], 
+      ["嫣楠", "mother of x"]
+    ],
+    "崔寿亨": [
+      ["汪氏", "husband of x"], 
+      ["嫣楠", "father of x"], 
+      ["昔颜", "extramarital affair with x, concubine of x"], 
+      ["宝柑", "subordinate of x"], 
+      ["周蒙当", "acquaintance of x"], 
+      ["周持同", "acquaintance of x"], 
+      ["宿年", "acquaintance of x"]
+    ],
+    "嫣楠": [
+      ["周琏逸", "romantic relationships with x"], 
+      ["崔嫣楠", "same person as x (different identity)"], 
+      ["汪氏", "child of x"], 
+      ["崔寿亨", "child of x"], 
+      ["昔颜", "half sister of x"], 
+      ["宝柑", "acquaintance of x"]
+    ],
+    "昔颜": [
+      ["崔寿亨", "concubine of x"], 
+      ["嫣楠", "half sister of x"], 
+      ["宝柑", "acquaintance of x"]
+    ],
+    "宝柑": [
+      ["崔寿亨", "servant of x"], 
+      ["嫣楠", "servant of x"], 
+      ["昔颜", "servant of x"]
+    ]
+}

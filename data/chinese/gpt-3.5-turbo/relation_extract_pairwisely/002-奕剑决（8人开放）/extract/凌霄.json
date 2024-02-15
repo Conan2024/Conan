@@ -1,0 +1,53 @@
+{
+    "凌霄": [
+        [
+            "师父",
+            "student of x",
+            "informant of x",
+            "helper of x"
+        ],
+        [
+            "杜仲",
+            "business partner of x"
+        ]
+    ],
+    "师父": [
+        [
+            "凌霄",
+            "mentor of x",
+            "superior of x"
+        ],
+        [
+            "杜仲",
+            "mentor of x"
+        ],
+        [
+            "蜂成员",
+            "secret lover of x"
+        ]
+    ],
+    "杜仲": [
+        [
+            "凌霄",
+            "business partner of x"
+        ],
+        [
+            "师父",
+            "student of x"
+        ],
+        [
+            "蜂成员",
+            "secret contact with 蜂成员"
+        ]
+    ],
+    "蜂成员": [
+        [
+            "师父",
+            "informant of x"
+        ],
+        [
+            "杜仲",
+            "secret contact with 杜仲"
+        ]
+    ]
+}

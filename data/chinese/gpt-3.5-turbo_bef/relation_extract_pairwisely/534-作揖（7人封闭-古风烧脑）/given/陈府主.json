@@ -1,0 +1,79 @@
+{
+    "陈府主": [
+      ["特尔特拉福德", "employer of x"], 
+      ["陈孜靖", "father of x"], 
+      ["尔矢斯芭嗒", "mentor of x, romantic relationships with x, secret lover of x"], 
+      ["李仲", "friend of x, mentor of x"], 
+      ["陈倩", "father of x"], 
+      ["李延", "friend of x"], 
+      ["方絮", "father of x, employer of x"]
+    ],
+    "陈孜靖": [
+      ["陈府主", "son of x"], 
+      ["特尔特拉福德", "student of x"], 
+      ["李王爷", "admirer of x"], 
+      ["尔矢斯芭嗒", "friend of x, colleague of x"], 
+      ["李仲", "student of x"], 
+      ["陈倩", "daughter of x"], 
+      ["李延", "friend of x"], 
+      ["方絮", "wife of x"]
+    ],
+    "李王爷": [
+      ["特尔特拉福德", "information receiver from x"], 
+      ["陈孜靖", "admired by x"], 
+      ["尔矢斯芭嗒", "friend of x"], 
+      ["李仲", "father of x"], 
+      ["陈倩", "mentor of x, fondness of x"], 
+      ["李延", "father of x"], 
+      ["方絮", "husband of x"]
+    ],
+    "尔矢斯芭嗒": [
+      ["陈府主", "student of x, romantic relationships with x, secret lover of x"], 
+      ["特尔特拉福德", "student of x"], 
+      ["陈孜靖", "friend of x, colleague of x"], 
+      ["李王爷", "friend of x"], 
+      ["李仲", "sibling of x"], 
+      ["陈倩", "friend of x"], 
+      ["李延", "father in law of x"], 
+      ["方絮", "wife of x"]
+    ],
+    "李仲": [
+      ["陈府主", "student of x"], 
+      ["特尔特拉福德", "mentor of x"], 
+      ["陈孜靖", "teacher of x"], 
+      ["李王爷", "son of x"], 
+      ["尔矢斯芭嗒", "sibling of x"], 
+      ["李延", "brother of x"], 
+      ["方絮", "brother of x"]
+    ],
+    "李延": [
+      ["陈府主", "friend of x"], 
+      ["特尔特拉福德", "fondness of x"], 
+      ["陈孜靖", "friend of x"], 
+      ["李王爷", "son of x"], 
+      ["尔矢斯芭嗒", "son in law of x"], 
+      ["李仲", "brother of x"], 
+      ["陈倩", "friend of x"], 
+      ["方絮", "fiance of x"]
+    ],
+    "方絮": [
+      ["陈府主", "daughter of x, employee of x"], 
+      ["特尔特拉福德", "master of x"], 
+      ["李王爷", "wife of x"], 
+      ["尔矢斯芭嗒", "husband of x"], 
+      ["李仲", "sister of x"], 
+      ["李延", "fiancee of x"]
+    ],
+    "特尔特拉福德": [
+      ["陈孜靖", "mentor of x"], 
+      ["李王爷", "informant of x"], 
+      ["尔矢斯芭嗒", "mentor of x"], 
+      ["李延", "fondness of x"], 
+      ["方絮", "servant of x"]
+    ],
+    "陈倩": [
+      ["李王爷", "student of x, admired by x"], 
+      ["尔矢斯芭嗒", "friend of x"], 
+      ["李延", "friend of x"]
+    ]
+}

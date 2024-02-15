@@ -1,0 +1,49 @@
+{
+    "张金银": [
+      ["孟三春", "sworn brother of x, friend of x, business partner of x, attempted perpetrator of x"], 
+      ["张金山", "sibling of x, deceased of x, business partner of x"], 
+      ["洪长烈", "enemy of x, adversary of x"], 
+      ["洪二郎", "enemy of x, adversary of x"], 
+      ["张红生", "wife of x"], 
+      ["洪江水", "employee of x"], 
+      ["蔡思娘", "employee of x"]
+    ],
+    "孟三春": [
+      ["张金银", "sworn brother of x, friend of x, business partner of x, murderer of x"], 
+      ["张金山", "sworn brother of x, friend of x, business partner of x, victim of x"], 
+      ["洪长烈", "enemy of x, adversary of x, deceiver of x"], 
+      ["洪二郎", "enemy of x, adversary of x"], 
+      ["张红生", "wife of x"], 
+      ["洪江水", "employee of x, acquaintance of x, possibly family of x"], 
+      ["蔡思娘", "employee of x"]
+    ],
+    "张金山": [
+      ["张金银", "sibling of x"], 
+      ["孟三春", "sworn brother of x, friend of x, business partner of x"], 
+      ["洪长烈", "enemy of x, adversary of x"], 
+      ["洪二郎", "enemy of x, adversary of x"]
+    ],
+    "洪长烈": [
+      ["张金银", "enemy of x, adversary of x"], 
+      ["孟三春", "enemy of x, adversary of x"], 
+      ["洪二郎", "possible family of x"]
+    ],
+    "洪二郎": [
+      ["张金银", "enemy of x, adversary of x, escaped from x"], 
+      ["孟三春", "enemy of x, adversary of x, possible family of x"]
+    ],
+    "张红生": [
+      ["张金银", "husband of x"], 
+      ["孟三春", "husband of x"]
+    ],
+    "洪江水": [
+      ["张金银", "employee of x"], 
+      ["孟三春", "employee of x, recipient of x valuable from x, admirer of x"], 
+      ["洪长烈", "possibly family of x"], 
+      ["洪二郎", "possibly family of x, admirer of x"]
+    ],
+    "蔡思娘": [
+      ["张金银", "employee of x"], 
+      ["孟三春", "employee of x"]
+    ]
+}

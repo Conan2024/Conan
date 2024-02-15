@@ -1,0 +1,91 @@
+{
+    "李警察": [
+        [
+            "王村长",
+            "Suspect of X",
+            "Adversary of X"
+        ],
+        [
+            "胡调研",
+            "friend",
+            "colleague",
+            "mentor",
+            "suspect",
+            "acquaintance"
+        ],
+        [
+            "女友",
+            "Wife/Girlfriend",
+            "Protector/Savior",
+            "Motivation/Inspiration"
+        ]
+    ],
+    "王村长": [
+        [
+            "李警察",
+            "Suspect of X",
+            "Adversary of X"
+        ],
+        [
+            "胡调研",
+            " Same person as X "
+        ],
+        [
+            "赵慈善",
+            "friend, mentor, or colleague"
+        ],
+        [
+            "女友",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "胡调研": [
+        [
+            "李警察",
+            "friend",
+            "colleague",
+            "mentor",
+            "suspect",
+            "acquaintance"
+        ],
+        [
+            "王村长",
+            " Same person as X "
+        ],
+        [
+            "女友",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "女友": [
+        [
+            "李警察",
+            "Wife/Girlfriend",
+            "Informant/Information Receiver"
+        ],
+        [
+            "王村长",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "胡调研",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "赵慈善",
+            "relationship 1 ",
+            "relationship 2 "
+        ]
+    ],
+    "赵慈善": [
+        [
+            "王村长",
+            "friend, mentor, or colleague"
+        ],
+        [
+            "女友",
+            "relationship 1 ",
+            "relationship 2 "
+        ]
+    ]
+}

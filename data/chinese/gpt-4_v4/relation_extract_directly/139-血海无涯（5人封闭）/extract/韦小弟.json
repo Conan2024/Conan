@@ -1,0 +1,61 @@
+{
+    "韦小弟": [
+      ["韦小弟的父亲", "child of x"], 
+      ["韦小弟的母亲", "child of x"], 
+      ["秦专家", "adversary of x, suspect to x"], 
+      ["秦老大", "victim of x, adversary of x, schoolmate of x, classmate of x"], 
+      ["秦老大的一个跟班", "acquaintance of x, schoolmate of x, classmate of x"], 
+      ["萧体育（体育老师）", "student of x"], 
+      ["薛媚娘（音乐老师）", "student of x"], 
+      ["庄清纯", "admired by x, classmate of x, schoolmate of x"], 
+      ["贾美丽", "classmate of x, schoolmate of x"], 
+      ["郑友好", "acquaintance of x, helped by x, classmate of x, schoolmate of x"]
+    ],
+    "韦小弟的父亲": [
+      ["韦小弟", "father of x"], 
+      ["韦小弟的母亲", "husband of x"], 
+      ["秦专家", "victim of x, deceived by x"]
+    ],
+    "韦小弟的母亲": [
+      ["韦小弟", "mother of x"], 
+      ["韦小弟的父亲", "wife of x"], 
+      ["秦专家", "suspect of x, adversary of x"]
+    ],
+    "秦专家": [
+      ["韦小弟的父亲", "perpetrator of x"], 
+      ["韦小弟的母亲", "perpetrator of x"], 
+      ["韦小弟", "disliked by x, adversary of x"], 
+      ["秦老大", "father of x"]
+    ],
+    "秦老大": [
+      ["秦专家", "child of x"], 
+      ["韦小弟", "schoolmate of x, classmate of x, killed by x"], 
+      ["秦老大的一个跟班", "superior of x"], 
+      ["郑友好", "superior of x, disliked by x, superior of x"], 
+      ["贾美丽", "acquaintance of x, schoolmate of x, classmate of x"]
+    ],
+    "秦老大的一个跟班": [
+      ["秦老大", "minion of x"], 
+      ["韦小弟", "acquaintance of x, schoolmate of x, classmate of x"]
+    ],
+    "萧体育（体育老师）": [
+      ["韦小弟", "teacher of x"], 
+      ["薛媚娘（音乐老师）", "lover of x"]
+    ],
+    "薛媚娘（音乐老师）": [
+      ["韦小弟", "teacher of x"], 
+      ["萧体育（体育老师）", "lover of x"]
+    ],
+    "庄清纯": [
+      ["韦小弟", "admirer of x, classmate of x, schoolmate of x"]
+    ],
+    "贾美丽": [
+      ["韦小弟", "classmate of x, schoolmate of x"], 
+      ["庄清纯", "friend of x"]
+    ],
+    "郑友好": [
+      ["秦老大", "subordinate of x, helped by x, bully of x"], 
+      ["韦小弟", "quest companion of x, helper of x, classmate of x, schoolmate of x"], 
+      ["秦老大的一个跟班", "acquaintance of x"]
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "托尼比杰利": [
+        [
+            "安东尼 (Antonio)",
+            "same person as x (different identity)"
+        ],
+        [
+            "弗兰克·拜尔杰利 (Frank Bajireli)",
+            "sibling of x, admirer of x, admired by x"
+        ],
+        [
+            "詹姆斯·莱利 (James Lireli)",
+            "business partner of x, information receiver from x"
+        ],
+        [
+            "汤姆神父 (Father Tom)",
+            "mentor of x, admired by x"
+        ],
+        [
+            "护士长",
+            "stranger to x, acquaintance of x"
+        ]
+    ],
+    "安东尼 (Antonio)": [
+        [
+            "托尼比杰利",
+            "same person as x (different reference)"
+        ],
+        [
+            "弗兰克·拜尔杰利 (Frank Bajireli)",
+            "sibling of x, admirer of x, admired by x"
+        ],
+        [
+            "詹姆斯·莱利 (James Lireli)",
+            "business partner of x, information receiver from x"
+        ],
+        [
+            "汤姆神父 (Father Tom)",
+            "mentor of x, admired by x"
+        ],
+        [
+            "护士长",
+            "stranger to x, acquaintance of x"
+        ]
+    ],
+    "弗兰克·拜尔杰利 (Frank Bajireli)": [
+        [
+            "托尼比杰利",
+            "sibling of x, admirer of x, admired by x, helper of x, helped by x"
+        ],
+        [
+            "安东尼 (Antonio)",
+            "same person as x (different identity)"
+        ],
+        [
+            "詹姆斯·莱利 (James Lireli)",
+            "business partner of x, information receiver from x"
+        ],
+        [
+            "汤姆神父 (Father Tom)",
+            "patient of x"
+        ],
+        [
+            "护士长",
+            "stranger to x"
+        ]
+    ],
+    "詹姆斯·莱利 (James Lireli)": [
+        [
+            "托尼比杰利",
+            "business partner of x, informant of x"
+        ],
+        [
+            "安东尼 (Antonio)",
+            "business partner of x, informant of x"
+        ],
+        [
+            "弗兰克·拜尔杰利 (Frank Bajireli)",
+            "business partner of x, informant of x"
+        ],
+        [
+            "汤姆神父 (Father Tom)",
+            "acquaintance of x"
+        ],
+        [
+            "护士长",
+            "acquaintance of x"
+        ]
+    ],
+    "汤姆神父 (Father Tom)": [
+        [
+            "托尼比杰利",
+            "mentor of x, admired by x"
+        ],
+        [
+            "安东尼 (Antonio)",
+            "mentor of x, admired by x"
+        ],
+        [
+            "弗兰克·拜尔杰利 (Frank Bajireli)",
+            "healer of x, admired by x"
+        ],
+        [
+            "詹姆斯·莱利 (James Lireli)",
+            "acquaintance of x"
+        ],
+        [
+            "护士长",
+            "colleague of x"
+        ]
+    ],
+    "护士长": [
+        [
+            "托尼比杰利",
+            "stranger to x, possible acquaintance of x"
+        ],
+        [
+            "安东尼 (Antonio)",
+            "stranger to x, possible acquaintance of x"
+        ],
+        [
+            "弗兰克·拜尔杰利 (Frank Bajireli)",
+            "stranger to x"
+        ],
+        [
+            "詹姆斯·莱利 (James Lireli)",
+            "acquaintance of x"
+        ],
+        [
+            "汤姆神父 (Father Tom)",
+            "colleague of x"
+        ]
+    ]
+}

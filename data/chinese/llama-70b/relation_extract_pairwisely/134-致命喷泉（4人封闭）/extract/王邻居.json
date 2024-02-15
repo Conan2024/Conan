@@ -1,0 +1,44 @@
+{
+    "王邻居": [
+        [
+            "李国富",
+            " acquaintance, borrower, suspect"
+        ],
+        [
+            "何老六",
+            "Friend of X",
+            "Business Partner of X",
+            "Co-conspirator of X",
+            "Suspicious of X",
+            "Adversary of X"
+        ]
+    ],
+    "李国富": [
+        [
+            " Wang neighbor",
+            "acquaintance, lender, suspect"
+        ],
+        [
+            "何老六",
+            "Friend",
+            "Business Partner",
+            "Co-conspirator"
+        ]
+    ],
+    "何老六": [
+        [
+            "王邻居",
+            "Friend of X",
+            "Business Partner of X",
+            "Co-conspirator of X",
+            "Suspicious of X",
+            "Adversary of X"
+        ],
+        [
+            "李国富",
+            "Friend",
+            "Business Partner",
+            "Co-conspirator"
+        ]
+    ]
+}

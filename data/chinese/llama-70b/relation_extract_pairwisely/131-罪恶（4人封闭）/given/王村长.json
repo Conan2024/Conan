@@ -1,0 +1,94 @@
+{
+    "张村民": [
+        [
+            "李警察",
+            "acquaintance",
+            "suspect"
+        ],
+        [
+            "王村长",
+            "adopted son/daughter",
+            "fake son/daughter"
+        ],
+        [
+            "胡调研",
+            "Adversary",
+            "Enemy"
+        ],
+        [
+            "赵慈善",
+            " enemy, rival, manipulator, manipulated, inferior, subordinate, employee, servant, colleague, business partner, customer, buyer, tenant, patient "
+        ]
+    ],
+    "李警察": [
+        [
+            "张村民",
+            "acquaintance",
+            "suspect"
+        ],
+        [
+            "王村长",
+            "Suspicious",
+            "Adversary",
+            "Deceiver",
+            "Manipulator",
+            "Superior"
+        ],
+        [
+            "胡调研",
+            "Rival, Adversary"
+        ],
+        [
+            "赵慈善",
+            "Adversary, Investigator"
+        ]
+    ],
+    "王村长": [
+        [
+            "张村民",
+            "adoptive father/mother",
+            "fake father/mother"
+        ],
+        [
+            "李警察",
+            "Suspicious",
+            "Adversary",
+            "Deceiver",
+            "Manipulator",
+            "Superior"
+        ],
+        [
+            "胡调研",
+            "Superior-Subordinate",
+            "Business Partner",
+            "Adversary"
+        ]
+    ],
+    "胡调研": [
+        [
+            "张村民",
+            "Adversary",
+            "Enemy"
+        ],
+        [
+            "李警察",
+            "Rival, Adversary"
+        ],
+        [
+            "王村长",
+            "Superior-Subordinate",
+            "Business Partner",
+            "Adversary"
+        ]
+    ],
+    "赵慈善": [
+        [
+            "张村民",
+            " enemy, rival, manipulator, manipulated, inferior, subordinate, employee, servant, colleague, business partner, customer, buyer, tenant, patient "
+        ],
+        [
+            "李警察",
+            "Adversary, Investor"
+        ]
+    ]
+}

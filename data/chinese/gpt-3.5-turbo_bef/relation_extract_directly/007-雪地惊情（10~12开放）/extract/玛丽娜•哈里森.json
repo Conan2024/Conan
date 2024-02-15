@@ -1,0 +1,49 @@
+{
+    "玛丽娜•哈里森": [
+      ["哈罗德•哈里森", "wife of x"], 
+      ["露西•哈里森", "mother of x"], 
+      ["杰奎琳•佩里", "sibling of x"], 
+      ["丹尼尔•佩里", "fiance of x, ex romantic relationships with x"], 
+      ["戴维斯•佩里", "romantic relationships with x"], 
+      ["约翰•摩根", "dislike of x"]
+    ],
+    "哈罗德•哈里森": [
+      ["玛丽娜•哈里森", "husband of x"], 
+      ["露西•哈里森", "father of x"], 
+      ["杰奎琳•佩里", "possibly family of x"], 
+      ["丹尼尔•佩里", "possibly family of x"], 
+      ["艾米•摩根", "sibling of x"], 
+      ["艾莱克斯•哈维", "friend of x"]
+    ],
+    "露西•哈里森": [
+      ["玛丽娜•哈里森", "child of x"], 
+      ["哈罗德•哈里森", "child of x"], 
+      ["约翰•摩根", "dislike of x"]
+    ],
+    "杰奎琳•佩里": [
+      ["玛丽娜•哈里森", "sibling of x"], 
+      ["哈罗德•哈里森", "possibly family of x"], 
+      ["丹尼尔•佩里", "husband of x"]
+    ],
+    "丹尼尔•佩里": [
+      ["玛丽娜•哈里森", "fiancee of x, ex romantic relationships with x"], 
+      ["杰奎琳•佩里", "wife of x"], 
+      ["戴维斯•佩里", "sibling of x"], 
+      ["艾莱克斯•哈维", "friend of x"]
+    ],
+    "戴维斯•佩里": [
+      ["玛丽娜•哈里森", "romantic relationships with x"], 
+      ["丹尼尔•佩里", "sibling of x"]
+    ],
+    "艾米•摩根": [
+      ["哈罗德•哈里森", "sibling of x"]
+    ],
+    "艾莱克斯•哈维": [
+      ["哈罗德•哈里森", "friend of x"], 
+      ["丹尼尔•佩里", "friend of x"]
+    ],
+    "约翰•摩根": [
+      ["玛丽娜•哈里森", "dislike of x"], 
+      ["露西•哈里森", "dislike of x"]
+    ]
+}

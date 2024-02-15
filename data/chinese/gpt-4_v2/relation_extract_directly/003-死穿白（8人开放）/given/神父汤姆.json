@@ -1,0 +1,32 @@
+{
+    "神父汤姆": [
+      ["德雷克·里莫瑞特", "patient of x, information receiver from x"], 
+      ["帕洛斯基医生", "acquaintance of x, confessor to x"], 
+      ["汉斯·里莫瑞特", "victim of x"], 
+      ["弗兰克", "manipulated by x, helper of x"], 
+      ["托尼", "manipulated by x, believer in x"]
+    ],
+    "德雷克·里莫瑞特": [
+      ["神父汤姆", "doctor of x, confidant of x"], 
+      ["帕洛斯基医生", "colleague of x"], 
+      ["汉斯·里莫瑞特", "sibling of x, mourner of x"]
+    ],
+    "帕洛斯基医生": [
+      ["神父汤姆", "patient of x, admirer of x"], 
+      ["德雷克·里莫瑞特", "colleague of x, disliked by x"], 
+      ["汉斯·里莫瑞特", "disliked by x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["神父汤姆", "intended business partner of x"], 
+      ["德雷克·里莫瑞特", "sibling of x"], 
+      ["帕洛斯基医生", "disliked by x"]
+    ],
+    "弗兰克": [
+      ["神父汤姆", "helped by x, manipulator of x"], 
+      ["托尼", "sibling of x"]
+    ],
+    "托尼": [
+      ["神父汤姆", "believer in x"], 
+      ["弗兰克", "sibling of x"]
+    ]
+}

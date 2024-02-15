@@ -1,0 +1,64 @@
+{
+    "雯秘书": [
+      ["杨老板", "employer of x"], 
+      ["杨老板", "mentee of x"], 
+      ["很天真", "colleague of x"], 
+      ["很天真", "trusted by x"], 
+      ["很天真", "helped by x"], 
+      ["很天真", "killed by x"], 
+      ["玲船医", "informant of x"], 
+      ["玲船医", "reports to x"], 
+      ["玲船医", "conspiracy against x"], 
+      ["王小工", "son of x"], 
+      ["王船工", "supplier to x"], 
+      ["王船工", "in conflict with x"], 
+      ["王船工", "threat to x"], 
+      ["王船工", "potential ally of x"], 
+      ["王船工", "targeted by x"]
+    ],
+    "杨老板": [
+      ["雯秘书", "employee of x"], 
+      ["雯秘书", "mentor of x"], 
+      ["很天真", "colleague of x"], 
+      ["很天真", "loyal to x"], 
+      ["玲船医", "informant of x"], 
+      ["玲船医", "reports to x"], 
+      ["玲船医", "supporter of x"], 
+      ["王小工", "son killed by x"], 
+      ["王船工", "supplier to x"], 
+      ["王船工", "target of x"], 
+      ["王船工", "potential threat to x"]
+    ],
+    "很天真": [
+      ["杨老板", "colleague of x"], 
+      ["杨老板", "mentor of x"], 
+      ["雯秘书", "colleague of x"], 
+      ["雯秘书", "trusted by x"], 
+      ["雯秘书", "helped by x"], 
+      ["雯秘书", "murderer of x"]
+    ],
+    "玲船医": [
+      ["雯秘书", "informant of x"], 
+      ["雯秘书", "reports to x"], 
+      ["杨老板", "informant of x"], 
+      ["杨老板", "reports to x"], 
+      ["杨老板", "target of x"]
+    ],
+    "王小工": [
+      ["雯秘书", "son of x"], 
+      ["王船工", "ex romantic relationships with x"], 
+      ["王船工", "targeted by x"], 
+      ["王船工", "target of x"], 
+      ["杨老板", "son killed by x"]
+    ],
+    "王船工": [
+      ["雯秘书", "supplier to x"], 
+      ["雯秘书", "in conflict with x"], 
+      ["雯秘书", "threat to x"], 
+      ["雯秘书", "potential ally of x"], 
+      ["杨老板", "supplier to x"], 
+      ["杨老板", "target of x"], 
+      ["玲船医", "target of x"], 
+      ["王小工", "ex romantic relationships with x"]
+    ]
+}

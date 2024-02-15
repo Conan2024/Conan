@@ -1,0 +1,98 @@
+{
+    "何老六": [
+        [
+            "五个姐姐",
+            "sibling of 何老六"
+        ],
+        [
+            "父亲",
+            "father of 何老六"
+        ],
+        [
+            "李国富",
+            "crime partner of 何老六, colleague of 何老六, superior of 何老六, victim of 何老六"
+        ],
+        [
+            "张洁",
+            "crime partner of 何老六, colleague of 何老六"
+        ],
+        [
+            "慕北",
+            "colleague of 何老六"
+        ],
+        [
+            "王邻居",
+            "acquaintance of 何老六, debtor of 何老六"
+        ],
+        [
+            "二姐",
+            "sibling of 何老六, information receiver from 何老六"
+        ]
+    ],
+    "李国富": [
+        [
+            "何老六",
+            "crime partner of 李国富, colleague of 李国富, subordinate of 李国富, perpetrator of 李国富"
+        ],
+        [
+            "张洁",
+            "crime partner of 李国富, colleague of 李国富"
+        ],
+        [
+            "慕北",
+            "colleague of 李国富"
+        ],
+        [
+            "王邻居",
+            "creditor of 李国富, adversary of 李国富"
+        ]
+    ],
+    "张洁": [
+        [
+            "何老六",
+            "crime partner of 张洁, colleague of 张洁"
+        ],
+        [
+            "李国富",
+            "crime partner of 张洁, colleague of 张洁"
+        ]
+    ],
+    "慕北": [
+        [
+            "何老六",
+            "colleague of 慕北"
+        ],
+        [
+            "李国富",
+            "colleague of 慕北"
+        ]
+    ],
+    "王邻居": [
+        [
+            "何老六",
+            "acquaintance of 王邻居, information receiver from 王邻居"
+        ],
+        [
+            "李国富",
+            "creditor of 王邻居, adversary of 王邻居"
+        ]
+    ],
+    "五个姐姐": [
+        [
+            "何老六",
+            "sibling of 五个姐姐"
+        ]
+    ],
+    "父亲": [
+        [
+            "何老六",
+            "father of 父亲"
+        ]
+    ],
+    "二姐": [
+        [
+            "何老六",
+            "sibling of 二姐, informant of 二姐"
+        ]
+    ]
+}

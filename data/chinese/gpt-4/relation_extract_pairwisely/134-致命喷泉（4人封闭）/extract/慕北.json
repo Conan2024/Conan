@@ -1,0 +1,58 @@
+{
+    "卧底警察": [
+        [
+            "李国富",
+            "co-worker of x, subject of investigation for x, colleague of x"
+        ],
+        [
+            "何老六",
+            "colleague of x, quest companion of x, suspected by x"
+        ],
+        [
+            "张洁",
+            "colleague of x, quest companion of x, acquaintance of x, informant of x, information receiver from x, friend of x"
+        ]
+    ],
+    "李国富": [
+        [
+            "卧底警察",
+            "team leader of x, observed by x, co-worker of x"
+        ],
+        [
+            "何老六",
+            "colleague of x, superior of x, victim of x"
+        ],
+        [
+            "张洁",
+            "superior of x, colleague of x"
+        ]
+    ],
+    "何老六": [
+        [
+            "卧底警察",
+            "colleague of x, quest companion of x, suspect to x"
+        ],
+        [
+            "李国富",
+            "colleague of x, subordinate of x, suspected by x"
+        ],
+        [
+            "张洁",
+            "colleague of x, quest companion of x"
+        ]
+    ],
+    "张洁": [
+        [
+            "卧底警察",
+            "colleague of x, quest companion of x, acquaintance of x, informant to x, information provider of x, friend of x"
+        ],
+        [
+            "李国富",
+            "subordinate of x, colleague of x"
+        ],
+        [
+            "何老六",
+            "colleague of x, quest companion of x"
+        ]
+    ]
+}

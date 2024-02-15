@@ -1,0 +1,44 @@
+{
+    "玲船医": [
+      ["杨老板", "subordinate of x, informant of x, suspected by x, manipulated by x"], 
+      ["张大副", "helper of x, fiancee of x, informant of x, manipulated by x"], 
+      ["王小工", "acquaintance of x, fiancee of x, helped by x, fiancee of x, informant of x, manipulator of x"], 
+      ["王船工", "future relative of x, daughter in law of x, fiancee of x, informant of x, step daughter of x"], 
+      ["雯秘书", "colleague of x, subordinate of x, acquaintance of x, informant of x"]
+    ],
+    "杨老板": [
+      ["玲船医", "superior of x, information receiver from x, deceiver of x, suspect of x"], 
+      ["张大副", "business partner of x, superior of x, manipulator of x, information receiver from x"], 
+      ["王小工", "superior of x, information receiver from x"], 
+      ["王船工", "business partner of x, suspect to x"], 
+      ["雯秘书", "superior of x, information receiver from x"]
+    ],
+    "张大副": [
+      ["玲船医", "suspected by x, superior of x, information receiver from x, manipulator of x"], 
+      ["杨老板", "business partner of x, employee of x, informant of x, manipulated by x"], 
+      ["王小工", "father of x"], 
+      ["王船工", "superior of x, business partner of x, suspected by x, informant of x"], 
+      ["雯秘书", "business partner of x, information receiver from x"]
+    ],
+    "王小工": [
+      ["玲船医", "acquaintance of x, fiance of x, helper of x, husband of x, information receiver from x, manipulated by x"], 
+      ["杨老板", "subordinate of x, informant of x"], 
+      ["张大副", "child of x"], 
+      ["王船工", "child of x"], 
+      ["雯秘书", "acquaintance of x"]
+    ],
+    "王船工": [
+      ["玲船医", "relative of x, fiance of x, information receiver from x, future father in law of x, father in law of x"], 
+      ["杨老板", "business partner of x, suspected by x"], 
+      ["张大副", "subordinate of x, business partner of x, suspected by x, information receiver from x"], 
+      ["王小工", "father of x"], 
+      ["雯秘书", "information receiver from x"]
+    ],
+    "雯秘书": [
+      ["玲船医", "colleague of x, superior of x, acquaintance of x, information receiver from x"], 
+      ["杨老板", "subordinate of x, informant of x"], 
+      ["张大副", "helper of x, informant of x"], 
+      ["王小工", "information receiver from x"], 
+      ["王船工", "informant of x"]
+    ]
+}

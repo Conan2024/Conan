@@ -1,0 +1,148 @@
+{
+    "金伟": [
+        [
+            "钱大",
+            "same person as x (different identity)"
+        ],
+        [
+            "钱倩",
+            "sibling of x, admired by x, dislike of x, suspected by x, secretly crushed by x"
+        ],
+        [
+            "刘瑾",
+            "sibling's ex-romantic partner of x, acquaintance of x"
+        ],
+        [
+            "李东强",
+            "sibling's romantic relationships with x, victim of x, disliked by x, adversary of x"
+        ],
+        [
+            "黎仁清",
+            "helper of x, information receiver from x, quest companion of x"
+        ],
+        [
+            "黄龙",
+            "stranger to x, possibly family of x"
+        ],
+        [
+            "汪直",
+            "stranger to x, possibly family of x"
+        ],
+        [
+            "赵天虎",
+            "stranger to x, possibly family of x"
+        ]
+    ],
+    "钱大": [
+        [
+            "金伟",
+            "same person as x (different reference)"
+        ],
+        [
+            "钱倩",
+            "sister of x"
+        ],
+        [
+            "刘瑾",
+            "sister's boyfriend of x"
+        ],
+        [
+            "李东强",
+            "sister's lover of x, attempted murderer of x"
+        ]
+    ],
+    "钱倩": [
+        [
+            "钱大",
+            "sibling of x"
+        ],
+        [
+            "金伟",
+            "sibling of x"
+        ],
+        [
+            "刘瑾",
+            "ex-boyfriend of x"
+        ],
+        [
+            "李东强",
+            "romantic relationships with x"
+        ]
+    ],
+    "刘瑾": [
+        [
+            "钱倩",
+            "ex-girlfriend of x"
+        ],
+        [
+            "钱大",
+            "ex-girlfriend's brother of x"
+        ],
+        [
+            "金伟",
+            "ex-girlfriend's brother of x"
+        ]
+    ],
+    "李东强": [
+        [
+            "钱倩",
+            "girlfriend of x"
+        ],
+        [
+            "钱大",
+            "girlfriend's brother of x, attempted murder victim of x"
+        ],
+        [
+            "金伟",
+            "attacker of x, girlfriend's brother of x"
+        ]
+    ],
+    "黎仁清": [
+        [
+            "金伟",
+            "hired by x, potentially deceived by x"
+        ],
+        [
+            "黄龙",
+            "stranger to x"
+        ],
+        [
+            "汪直",
+            "stranger to x"
+        ],
+        [
+            "赵天虎",
+            "stranger to x"
+        ]
+    ],
+    "黄龙": [
+        [
+            "金伟",
+            "victim's family of x"
+        ],
+        [
+            "黎仁清",
+            "stranger to x"
+        ]
+    ],
+    "汪直": [
+        [
+            "金伟",
+            "victim's family of x"
+        ],
+        [
+            "黎仁清",
+            "stranger to x"
+        ]
+    ],
+    "赵天虎": [
+        [
+            "金伟",
+            "victim's family of x"
+        ],
+        [
+            "黎仁清",
+            "stranger to x"
+        ]
+    ]
+}

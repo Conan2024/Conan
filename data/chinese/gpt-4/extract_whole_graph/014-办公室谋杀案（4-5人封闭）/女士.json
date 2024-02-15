@@ -1,0 +1,32 @@
+{
+    "女士": [
+        [
+            "李无义",
+            "wife of x, victim of x, extramarital affair with x's superior, acquaintance of x"
+        ],
+        [
+            "经理",
+            "extramarital affair with x, admired by x, helper of x, admirer of x"
+        ]
+    ],
+    "李无义": [
+        [
+            "女士",
+            "husband of x"
+        ],
+        [
+            "经理",
+            "subordinate of x, adversary of x"
+        ]
+    ],
+    "经理": [
+        [
+            "女士",
+            "lover of x, helper of x"
+        ],
+        [
+            "李无义",
+            "superior of x, adversary of x"
+        ]
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "庄清纯": [
+      ["庄清纯的母亲", "mother of x"], 
+      ["秦专家", "step father of x"], 
+      ["秦老大", "step brother of x"], 
+      ["曾拈花惹草的内人", "dislike of x, disliked by x"], 
+      ["郑友好", "acquaintance of x"], 
+      ["韦小弟", "acquaintance of x, disliked by x"], 
+      ["贾美丽", "friend of x, disliked by x"], 
+      ["萧体育", "romantic relationships with x"], 
+      ["薛媚娘", "acquaintance of x, romantic relationships with x"]
+    ],
+    "贾美丽": [
+      ["庄清纯", "friend of x"], 
+      ["萧体育", "romantic relationships with x"], 
+      ["薛媚娘", "acquaintance of x"]
+    ],
+    "秦老大": [
+      ["庄清纯", "step sister of x"], 
+      ["郑友好", "acquaintance of x"], 
+      ["韦小弟", "acquaintance of x"]
+    ],
+    "萧体育": [
+      ["庄清纯", "romantic relationships with x"], 
+      ["贾美丽", "romantic relationships with x"]
+    ],
+    "薛媚娘": [
+      ["庄清纯", "acquaintance of x"], 
+      ["萧体育", "lover of x"]
+    ],
+    "庄清纯的母亲": [
+      ["庄清纯", "mother of x"]
+    ],
+    "郑友好": [
+      ["庄清纯", "acquaintance of x"], 
+      ["秦老大", "acquaintance of x"]
+    ],
+    "韦小弟": [
+      ["庄清纯", "acquaintance of x"], 
+      ["秦老大", "acquaintance of x"]
+    ]
+}

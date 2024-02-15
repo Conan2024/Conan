@@ -1,0 +1,66 @@
+{
+    "戴维斯•佩里": [
+      ["丹尼尔•佩里", "friend of x"], 
+      ["玛丽娜•哈里森", "extramarital affair with x, romantic relationships with x, suspect to x"], 
+      ["约翰•摩根", "perpetrator of x's family, subject of x investigation for x, suspect to x"], 
+      ["杰奎琳•佩里", "dislike of x"], 
+      ["露西•哈里森", "future relative of x, mentor of x"], 
+      ["哈罗德•哈里森", "dislike of x"], 
+      ["艾米•摩根", "enemy of x"]
+    ],
+    "丹尼尔•佩里": [
+      ["戴维斯•佩里", "friend of x"], 
+      ["杰奎琳•佩里", "wife of x"], 
+      ["露西•哈里森", "future relative of x"], 
+      ["哈罗德•哈里森", "dislike of x"], 
+      ["艾米•摩根", "enemy of x"]
+    ],
+    "杰奎琳•佩里": [
+      ["戴维斯•佩里", "dislike of x"], 
+      ["丹尼尔•佩里", "husband of x"], 
+      ["露西•哈里森", "future relative of x"], 
+      ["哈罗德•哈里森", "dislike of x"], 
+      ["艾米•摩根", "enemy of x"]
+    ],
+    "约翰•摩根": [
+      ["戴维斯•佩里", "perpetrator of x"], 
+      ["玛丽娜•哈里森", "romantic relationships with x"], 
+      ["露西•哈里森", "son of x"], 
+      ["哈罗德•哈里森", "dislike of x"], 
+      ["艾米•摩根", "attempted murderer of x, attempted perpetrator of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["戴维斯•佩里", "extramarital affair with x, romantic relationships with x, suspect to x"], 
+      ["约翰•摩根", "romantic relationships with x"], 
+      ["露西•哈里森", "mother of x"], 
+      ["哈罗德•哈里森", "dislike of x"], 
+      ["艾米•摩根", "enemy of x"]
+    ],
+    "露西•哈里森": [
+      ["戴维斯•佩里", "future relative of x, mentor of x"], 
+      ["丹尼尔•佩里", "future relative of x"], 
+      ["杰奎琳•佩里", "future relative of x"], 
+      ["约翰•摩根", "son of x"], 
+      ["玛丽娜•哈里森", "mother of x"], 
+      ["哈罗德•哈里森", "grandchild of x"], 
+      ["艾米•摩根", "grandchild of x"]
+    ],
+    "哈罗德•哈里森": [
+      ["戴维斯•佩里", "dislike of x"], 
+      ["丹尼尔•佩里", "dislike of x"], 
+      ["杰奎琳•佩里", "dislike of x"], 
+      ["约翙•摩根", "dislike of x"], 
+      ["玛丽娜•哈里森", "dislike of x"], 
+      ["露西•哈里森", "grandparent of x"], 
+      ["艾米•摩根", "dislike of x"]
+    ],
+    "艾米•摩根": [
+      ["戴维斯•佩里", "enemy of x"], 
+      ["丹尼尔•佩里", "enemy of x"], 
+      ["杰奎琳•佩里", "enemy of x"], 
+      ["约翙•摩根", "attempted murderer of x, attempted perpetrator of x"], 
+      ["玛丽娜•哈里森", "enemy of x"], 
+      ["露西•哈里森", "grandchild of x"], 
+      ["哈罗德•哈里森", "dislike of x"]
+    ]
+}

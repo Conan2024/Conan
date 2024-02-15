@@ -1,0 +1,44 @@
+{
+    "决明": [
+      ["盗圣", "same person as x (different identity), deceiver of x, thief of x, impostor of x"], 
+      ["玄冰教使者", "deceiver of x, thief of x"], 
+      ["陆英", "deceiver of x, thief of x, guest of x"], 
+      ["蜂", "thief of x, deceiver of x"], 
+      ["紫苏", "deceiver of x, acquaintance of x"]
+    ],
+    "盗圣": [
+      ["决明", "same person as x (different reference)"], 
+      ["玄冰教使者", "deceiver of x, thief of x, impersonator of x"], 
+      ["陆英", "same person as x (different identity), deceiver of x, colleague of x"], 
+      ["蜂", "same person as x (different identity), information receiver from x, deceiver of x"], 
+      ["紫苏", "same person as x (different identity), informant of x, quest companion of x, disguise of x"]
+    ],
+    "玄冰教使者": [
+      ["决明", "victim of x, deceived by x"], 
+      ["盗圣", "victim of x, deceived by x"], 
+      ["陆英", "deceiver of x, guest of x"], 
+      ["蜂", "deceiver of x, disguised by x, victim of x"], 
+      ["紫苏", "deceiver of x, disguised as x, information receiver from x, suspect to x"]
+    ],
+    "陆英": [
+      ["决明", "deceived by x, host of x"], 
+      ["盗圣", "deceived by x, victim of x, colleague of x"], 
+      ["玄冰教使者", "deceived by x, host of x"], 
+      ["蜂", "employer of x, superior of x"], 
+      ["紫苏", "superior of x"]
+    ],
+    "蜂": [
+      ["决明", "deceived by x, victim of x"], 
+      ["盗圣", "same person as x (different reference), information provider to x, deceived by x"], 
+      ["玄冰教使者", "deceived by x, impersonator of x, suspect of x"], 
+      ["陆英", "employee of x, subordinate of x"], 
+      ["紫苏", "deceiver of x"]
+    ],
+    "紫苏": [
+      ["决明", "deceived by x, acquaintance of x"], 
+      ["盗圣", "information receiver from x, quest companion of x"], 
+      ["玄冰教使者", "deceived by x, suspect of x"], 
+      ["陆英", "subordinate of x"], 
+      ["蜂", "deceived by x, acquaintance of x"]
+    ]
+}

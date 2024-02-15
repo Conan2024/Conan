@@ -1,0 +1,14 @@
+{
+    "紫苏": [
+      ["杜仲", "master of x, teacher of x"], 
+      ["玄冰教神曲使", "disciple of x, student of x"]
+    ],
+    "杜仲": [
+      ["紫苏", "master of x, teacher of x"], 
+      ["玄冰教神曲使", "friend of x, mentor of x"]
+    ],
+    "玄冰教神曲使": [
+      ["杜仲", "friend of x, mentor of x"], 
+      ["紫苏", "disciple of x, student of x"]
+    ]
+}

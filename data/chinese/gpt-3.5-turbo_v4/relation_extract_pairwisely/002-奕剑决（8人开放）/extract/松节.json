@@ -1,0 +1,101 @@
+{
+    "松节": [
+      ["玄冰教信使", "minion of x"], 
+      ["蜂", "informant of x"], 
+      ["杜仲", "colleague of x"], 
+      ["紫苏", "secret admirer of x"], 
+      ["informant of 武林盟", "acquaintance of x"], 
+      ["盗圣", "colleague of x"], 
+      ["忍冬", "informant of x, information receiver from x"], 
+      ["陆英", "informant of x, information receiver from x"], 
+      ["玄参", "informant of x, information receiver from x"]
+    ],
+    "玄冰教": [
+      ["松节", "messenger of x"], 
+      ["杜仲", "adversary of x"], 
+      ["紫苏", "informant of x"], 
+      ["武林盟", "colleague of x"], 
+      ["盗圣", "acquaintance of x"], 
+      ["忍冬", "service provider of x"], 
+      ["陆英", "secret admirer of x"], 
+      ["玄参", "informant of x"]
+    ],
+    "蜂": [
+      ["松节", "employer of x"], 
+      ["杜仲", "friend of x"], 
+      ["紫苏", "informant of x"], 
+      ["武林盟", "acquaintance of x"], 
+      ["盗圣", "information receiver from x"], 
+      ["忍冬", "informant of x"], 
+      ["陆英", "informant of x, information receiver from x"], 
+      ["玄参", "informant of x"]
+    ],
+    "杜仲": [
+      ["松节", "colleague of x"], 
+      ["玄冰教", "adversary of x"], 
+      ["蜂", "friend of x"], 
+      ["紫苏", "same person as x (different identity)"], 
+      ["武林盟", "mentor of x, student of x"], 
+      ["盗圣", "fiance of x, business partner of x"], 
+      ["陆英", "friend of x, helper of x, fondness of x"], 
+      ["玄参", "possibly family of x"]
+    ],
+    "紫苏": [
+      ["松节", "secret crush of x"], 
+      ["玄冰教", "information receiver from x"], 
+      ["蜂", "information receiver from x"], 
+      ["杜仲", "same person as x (different identity)"], 
+      ["武林盟", "fiance of x"], 
+      ["盗圣", "information receiver from x, information receiver from x"], 
+      ["陆英", "friend of x, informant of x"], 
+      ["玄参", "friend of x"]
+    ],
+    "武林盟": [
+      ["松节", "informant of x"], 
+      ["玄冰教", "colleague of x"], 
+      ["蜂", "acquaintance of x"], 
+      ["杜仲", "mentor of x, student of x"], 
+      ["紫苏", "fiancee of x"], 
+      ["忍冬", "colleague of x"], 
+      ["陆英", "quest companion of x"], 
+      ["玄参", "student of x"]
+    ],
+    "盗圣": [
+      ["玄冰教", "acquaintance of x"], 
+      ["蜂", "informant of x"], 
+      ["杜仲", "fiancee of x, business partner of x"], 
+      ["紫苏", "information receiver from x, information receiver from x"], 
+      ["忍冬", "acquaintance of x"], 
+      ["玄参", "co wives of x"]
+    ],
+    "忍冬": [
+      ["松节", "informant of x, information receiver from x"], 
+      ["玄冰教", "service provider of x"], 
+      ["蜂", "helper of x"], 
+      ["武林盟", "colleague of x"], 
+      ["盗圣", "acquaintance of x"], 
+      ["陆英", "friend of x, admired by x"], 
+      ["玄参", "colleague of x"]
+    ],
+    "陆英": [
+      ["松节", "suspected by x"], 
+      ["玄冰教", "secret admirer of x"], 
+      ["蜂", "informant of x, information receiver from x"], 
+      ["杜仲", "friend of x, helper of x"], 
+      ["紫苏", "friend of x, informant of x"], 
+      ["武林盟", "quest companion of x"], 
+      ["忍冬", "friend of x, admired by x"], 
+      ["玄参", "friend of x"]
+    ],
+    "玄参": [
+      ["松节", "informant of x, information receiver from x"], 
+      ["玄冰教", "information receiver from x"], 
+      ["蜂", "information receiver from x"], 
+      ["杜仲", "possibly family of x"], 
+      ["紫苏", "friend of x"], 
+      ["武林盟", "mentor of x"], 
+      ["盗圣", "co wives of x"], 
+      ["忍冬", "colleague of x"], 
+      ["陆英", "friend of x"]
+    ]
+}

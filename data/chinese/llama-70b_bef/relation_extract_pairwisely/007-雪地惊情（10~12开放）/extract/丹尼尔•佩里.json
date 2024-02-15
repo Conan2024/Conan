@@ -1,0 +1,34 @@
+{
+    "丹尼尔•佩里": [
+      ["玛丽娜•哈里森", "lover of x"], 
+      ["罗宾•费依", "colleague of x, friend of x, acquaintance of x"], 
+      ["乔•罗伯特森", "friend of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["丹尼尔•佩里", "lover of x"], 
+      ["哈罗德•哈里森", "husband of x, wife of x, same person as x (different identity)"]
+    ],
+    "哈罗德•哈里森": [
+      ["玛丽娜•哈里森", "husband of x, wife of x, same person as x (different identity)"], 
+      ["露西•哈里森", "husband of x, father of x"], 
+      ["罗宾•费依", "acquaintance of x, colleague of x, friend of x"]
+    ],
+    "露西•哈里森": [
+      ["哈罗德•哈里森", "daughter of x, sister of x"], 
+      ["罗宾•费依", "friend of x"]
+    ],
+    "戴维斯•佩里": [
+      ["乔•罗伯特森", "brother in law of x"]
+    ],
+    "罗宾•费依": [
+      ["丹尼尔•佩里", "colleague of x, friend of x, acquaintance of x"], 
+      ["哈罗德•哈里森", "acquaintance of x, colleague of x, friend of x"], 
+      ["露西•哈里森", "friend of x"], 
+      ["乔•罗伯特森", "colleague of x, friend of x"]
+    ],
+    "乔•罗伯特森": [
+      ["丹尼尔•佩里", "friend of x"], 
+      ["戴维斯•佩里", "brother in law of x"], 
+      ["罗宾•费依", "acquaintance of x, suspicious of x"]
+    ]
+}

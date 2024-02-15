@@ -1,0 +1,37 @@
+{
+    "沈城": [
+      ["秦思琴", "wife of x"], 
+      ["林彤", "step daughter of x"], 
+      ["林惟仁", "victim of x, enemy of x"], 
+      ["顾明和", "adversary of x"], 
+      ["苏阳", "disliked by x, helped by x, adversary of x"], 
+      ["林夕", "x's enemy's family, possibly family of x"]
+    ],
+    "秦思琴": [
+      ["沈城", "husband of x"], 
+      ["林彤", "biological mother of x"]
+    ],
+    "林彤": [
+      ["沈城", "relative of x"], 
+      ["秦思琴", "child of x"]
+    ],
+    "林惟仁": [
+      ["沈城", "perpetrator of x"], 
+      ["林夕", "father of x"], 
+      ["苏阳", "enemy of x, authority over x"]
+    ],
+    "顾明和": [
+      ["沈城", "adversary of x"]
+    ],
+    "苏阳": [
+      ["林彤", "ex boyfriend of x"], 
+      ["林夕", "fiance of x"], 
+      ["林惟仁", "subordinate of x, manipulated by x, adversary of x"], 
+      ["沈城", "attempted perpetrator of x, dislike of x, informant of x"]
+    ],
+    "林夕": [
+      ["沈城", "acquaintance of x"], 
+      ["林惟仁", "child of x"], 
+      ["苏阳", "fiancee of x"]
+    ]
+}

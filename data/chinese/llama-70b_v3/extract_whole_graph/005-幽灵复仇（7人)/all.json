@@ -1,0 +1,40 @@
+{
+    "岳东汶": [
+      ["岳古", "father of x"], 
+      ["孟老爷", "master of x"], 
+      ["吴百安", "colleague of x"], 
+      ["李子材", "classmate of x"], 
+      ["白常恭", "acquaintance of x"], 
+      ["夏三虎", "friend of x"]
+    ],
+    "李子材": [
+      ["岳子材", "son of x"], 
+      ["李骆明", "father of x"]
+    ],
+    "李骆明": [
+      ["李子材", "son of x"], 
+      ["岳东汶", "adoptive father of x"]
+    ],
+    "吴百安": [
+      ["岳东汶", "colleague of x"], 
+      ["吴百安", "wife of x"]
+    ],
+    "孟老爷": [
+      ["岳东汶", "master of x"], 
+      ["孟氏", "wife of x"]
+    ],
+    "孟氏": [
+      ["孟老爷", "husband of x"], 
+      ["岳子材", "mother of x"]
+    ],
+    "阿明": [
+      ["李骆明", "father of x"]
+    ],
+    "白常恭": [
+      ["岳东汶", "acquaintance of x"]
+    ],
+    "夏三虎": [
+      ["岳东汶", "friend of x"], 
+      ["夏仲鹏", "brother of x"]
+    ]
+}

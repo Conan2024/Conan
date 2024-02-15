@@ -1,0 +1,20 @@
+{
+    "理查德•伯克利": [
+      ["汉斯·里莫瑞特", "friend of x"], 
+      ["伊莱恩·卡特尔", "romantic relationships with x"], 
+      ["帕洛斯基医生", "mentoror of x"], 
+      ["西尔维亚·科斯塔", "colleague of x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["理查德•伯克利", "friend of x"]
+    ],
+    "伊莱恩·卡特尔": [
+      ["理查德•伯克利", "romantic relationships with x"]
+    ],
+    "帕洛斯基医生": [
+      ["理查德•伯克利", "mentor of x"]
+    ],
+    "西尔维亚·科斯塔": [
+      ["理查德•伯克利", "colleague of x"]
+    ]
+}

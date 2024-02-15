@@ -1,0 +1,82 @@
+{
+    "周琏逸": [
+        [
+            "周伟弘",
+            "sibling of x"
+        ],
+        [
+            "new character 1",
+            "child of x, friend of x"
+        ],
+        [
+            "庄户寿",
+            "friend of x, classmate of x, romantic relationships with x"
+        ],
+        [
+            "existing character 2",
+            "child of x"
+        ]
+    ],
+    "周伟弘": [
+        [
+            "周琏逸",
+            "sibling of x"
+        ]
+    ],
+    "Existing Character 1": [
+        [
+            "New Character 2",
+            "husband of x, father of x"
+        ]
+    ],
+    "New Character 2": [
+        [
+            "Existing Character 1",
+            "wife of x, child of x"
+        ]
+    ],
+    "zhou lian yi": [
+        [
+            "new character 3",
+            "business partner of x, employer of x"
+        ]
+    ],
+    "庄户寿": [
+        [
+            "周琏逸",
+            "friend of x, classmate of x, romantic relationships with x"
+        ]
+    ],
+    "existing character 2": [
+        [
+            "周琏逸",
+            "father of x"
+        ],
+        [
+            "周琏逸",
+            "husband of x"
+        ]
+    ],
+    "new character 1": [
+        [
+            "new character 3",
+            "friend of x"
+        ]
+    ],
+    "new character 2": [
+        [
+            "new character 3",
+            "wife of x"
+        ]
+    ],
+    "new character 3": [
+        [
+            "new character 1",
+            "friend of x"
+        ],
+        [
+            "new character 2",
+            "husband of x"
+        ]
+    ]
+}

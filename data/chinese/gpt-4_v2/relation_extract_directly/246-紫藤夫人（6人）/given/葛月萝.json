@@ -1,0 +1,45 @@
+{
+    "葛继先": [
+      ["葛月萝", "father of x"], 
+      ["葛月曼", "father of x"]
+    ],
+    "葛月萝": [
+      ["葛继先", "child of x"], 
+      ["朱陵山", "husband of x"], 
+      ["薛达财", "acquaintance of x"], 
+      ["乐婉", "former servant of x"], 
+      ["张太太", "friend of x, co conspirator of x"], 
+      ["葛月曼", "sibling of x, impersonated by x"]
+    ],
+    "葛月曼": [
+      ["葛继先", "child of x"], 
+      ["葛月萝", "sibling of x"], 
+      ["张太太", "same person as x (different identity)"]
+    ],
+    "张太太": [
+      ["葛月萝", "friend of x, co conspirator of x"], 
+      ["葛月曼", "same person as x (different identity)"], 
+      ["张俊诗", "husband of x"], 
+      ["稚筠", "aunt of x"]
+    ],
+    "朱陵山": [
+      ["葛月萝", "wife of x"], 
+      ["薛达财", "relative of x"]
+    ],
+    "薛达财": [
+      ["朱陵山", "relative of x"], 
+      ["葛月萝", "acquaintance of x"]
+    ],
+    "乐婉": [
+      ["葛月萝", "former servant of x"]
+    ],
+    "张俊诗": [
+      ["张太太", "wife of x"]
+    ],
+    "稚筠": [
+      ["张太太", "niece of x"]
+    ],
+    "于尚勇": [
+      ["葛继先", "acquaintance of x"]
+    ]
+}

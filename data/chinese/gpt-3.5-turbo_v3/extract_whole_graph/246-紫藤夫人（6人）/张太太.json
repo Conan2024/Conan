@@ -1,0 +1,58 @@
+{
+    "张太太": [
+        [
+            "老李",
+            "wife of x"
+        ],
+        [
+            "小李",
+            "mother of x"
+        ],
+        [
+            "小王",
+            "extramarital affair with x"
+        ]
+    ],
+    "老李": [
+        [
+            "张太太",
+            "husband of x"
+        ],
+        [
+            "小李",
+            "father of x"
+        ],
+        [
+            "小王",
+            "admirer of x"
+        ]
+    ],
+    "小李": [
+        [
+            "张太太",
+            "child of x"
+        ],
+        [
+            "老李",
+            "child of x"
+        ],
+        [
+            "小王",
+            "student of x"
+        ]
+    ],
+    "小王": [
+        [
+            "张太太",
+            "romantic relationships with x"
+        ],
+        [
+            "老李",
+            "admirer of x"
+        ],
+        [
+            "小李",
+            "mentor of x"
+        ]
+    ]
+}

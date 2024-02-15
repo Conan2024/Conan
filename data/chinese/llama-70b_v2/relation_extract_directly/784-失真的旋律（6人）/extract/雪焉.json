@@ -1,0 +1,46 @@
+{
+    "罗雪嫣": [
+      ["施密士男爵", "employee of x, ward of x"], 
+      ["贵郎", "brother in law of x, friend of x"], 
+      ["招楠", "sister in law of x, friend of x"], 
+      ["望娣", "sister in law of x, friend of x"], 
+      ["阮太太", "mother of x, guardian of x"], 
+      ["黑莉", "dancing student of x, friend of x"], 
+      ["王子摩", "acquaintance of x, friend of x"]
+    ],
+    "施密士男爵": [
+      ["罗雪嫣", "employee of x, ward of x"], 
+      ["贵郎", "student of x, friend of x"]
+    ],
+    "贵郎": [
+      ["罗雪嫣", "sister in law of x, friend of x"], 
+      ["招楠", "sister in law of x, friend of x"]
+    ],
+    "招楠": [
+      ["罗雪嫣", "sister in law of x, friend of x"], 
+      ["望娣", "sister in law of x, friend of x"]
+    ],
+    "望娣": [
+      ["罗雪嫣", "sister in law of x, friend of x"], 
+      ["招楠", "sister in law of x, friend of x"]
+    ],
+    "阮太太": [
+      ["罗雪嫣", "mother of x, guardian of x"], 
+      ["施密士男爵", "landlady of x, guardian of x"]
+    ],
+    "黑莉": [
+      ["王子摩", "friend of x, employer of x"], 
+      ["阮太太", "landlady of x"]
+    ],
+    "王子摩": [
+      ["罗雪嫣", "acquaintance of x, friend of x"], 
+      ["贵郎", "friend of x, employer of x"]
+    ],
+    "齐故飞": [
+      ["罗雪嫣", "acquaintance of x"], 
+      ["贵郎", "friend of x"]
+    ],
+    "罗有诺": [
+      ["罗雪嫣", "brother of x"]
+    ]
+}

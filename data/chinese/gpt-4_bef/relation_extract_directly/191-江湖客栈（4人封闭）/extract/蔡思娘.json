@@ -1,0 +1,28 @@
+{
+    "蔡思娘": [
+      ["孟三春", "adversary of x, jealous of x, suspicious of x"], 
+      ["张金银", "acquaintance of x"], 
+      ["张红生", "romantic relationships with x"]
+    ],
+    "孟三春": [
+      ["张金银", "business partner of x, friend of x"], 
+      ["张红生", "husband of x"], 
+      ["洪江水", "subordinate of x"]
+    ],
+    "张金银": [
+      ["蔡思娘", "acquaintance of x"], 
+      ["孟三春", "business partner of x, friend of x"], 
+      ["张红生", "business partner of x, friend of x"], 
+      ["洪江水", "subordinate of x"]
+    ],
+    "张红生": [
+      ["孟三春", "wife of x"], 
+      ["张金银", "business partner of x, friend of x"], 
+      ["洪江水", "subordinate of x"]
+    ],
+    "洪江水": [
+      ["孟三春", "superior of x"], 
+      ["张金银", "superior of x"], 
+      ["张红生", "superior of x"]
+    ]
+}

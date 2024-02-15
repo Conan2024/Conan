@@ -1,0 +1,196 @@
+{
+    "忍冬": [
+        [
+            "松节",
+            "relation ship 1",
+            "relationship 2"
+        ],
+        [
+            "武林盟的信使",
+            "co-worker of X",
+            "friend of X",
+            "acquaintance of X",
+            "helper of X"
+        ],
+        [
+            "玄参",
+            "相互推荐的朋友"
+        ],
+        [
+            "蜂",
+            "同行assoCIATE"
+        ],
+        [
+            "陸英",
+            "相互怀疑"
+        ]
+    ],
+    "松节": [
+        [
+            "忍冬",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "武林盟的信使",
+            "同一門派的信使"
+        ],
+        [
+            "玄参",
+            "同事（coworker）",
+            "合作者（collaborator）",
+            "至 mutable（mutual benefactor）",
+            "至 closely（close friend）",
+            "至 intimate（intimate friend）",
+            "至 confidant（trusted confidant）"
+        ],
+        [
+            "蜂",
+            "同一gang",
+            "co-workers",
+            "acquaintances",
+            "rivals"
+        ]
+    ],
+    "武林盟的信使": [
+        [
+            "忍冬",
+            "co-worker of X",
+            "friend of X",
+            "acquaintance of X",
+            "helper of X"
+        ],
+        [
+            "松节",
+            "同一門派的信使"
+        ],
+        [
+            "玄参",
+            "Relationship 1: 玄参 is a colleague of 武林盟的信使",
+            "Relationship 2: 玄参 is a superior of 武林盟的信使"
+        ],
+        [
+            "蜂",
+            "同事 (+)",
+            "潜入 (+)",
+            "见习 (+)",
+            "合作 (+)"
+        ],
+        [
+            "陆英",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect"
+        ]
+    ],
+    "玄参": [
+        [
+            "忍冬",
+            "相互推荐的朋友"
+        ],
+        [
+            "松节",
+            "同事（coworker）",
+            "合作者（collaborator）",
+            "至 enemy（nemesis）",
+            "至 closely（close friend）",
+            "至 intimate（intimate friend）",
+            "至 confidant（trusted confidant）"
+        ],
+        [
+            "武林盟的信使",
+            "Relationship 1: 玄参 is a colleague of 武林盟的信使",
+            "Relationship 2: 玄参 is a superior of 武林盟的信使"
+        ],
+        [
+            "蜂",
+            "同adrise",
+            "同rabge",
+            "盟友",
+            "密使",
+            "隶属",
+            " transformations",
+            "信仰",
+            "崇拜"
+        ],
+        [
+            "陆英",
+            "relation ship 1",
+            "relationship 2"
+        ]
+    ],
+    "蜂": [
+        [
+            "忍冬",
+            "同行assoCIATE"
+        ],
+        [
+            "松节",
+            "同一gang",
+            "co-workers",
+            "acquaintances",
+            "rivals"
+        ],
+        [
+            "武林盟的信使",
+            "同事 (+)",
+            "潜入 (+)",
+            "见习 (+)",
+            "合作 (+)"
+        ],
+        [
+            "玄参",
+            "同adrise",
+            "同rabge",
+            "盟友",
+            "密使",
+            "隶属",
+            "transformations",
+            "信仰",
+            "崇拜"
+        ],
+        [
+            "陆英",
+            "subordinate",
+            "superior",
+            "colleague",
+            "business partner",
+            "customer",
+            "tenant",
+            "patient",
+            "adversary",
+            "enemy",
+            "rival"
+        ]
+    ],
+    "陸英": [
+        [
+            "忍冬",
+            " captor-captive"
+        ]
+    ],
+    "陆英": [
+        [
+            "武林盟的信使",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect"
+        ],
+        [
+            "玄参",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "蜂",
+            "subordinate",
+            "superior",
+            "colleague",
+            "business partner",
+            "customer",
+            "tenant",
+            "patient",
+            "adversary",
+            "enemy",
+            "rival"
+        ]
+    ]
+}

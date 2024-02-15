@@ -1,0 +1,78 @@
+{
+    "小茜": [
+      ["方柳", "same person as x (different identity)"], 
+      ["方叶", "father of x"], 
+      ["奶奶", "grandmother of x"], 
+      ["方絮", "aunt of x"], 
+      ["方竹", "adoptive brother of x"], 
+      ["草藤居士", "adoptive father of x, mentor of x"], 
+      ["陈倩", "friend of x"], 
+      ["李仲", "acquaintance of x, dislike of x"], 
+      ["李钦仁", "enemy of x, attempted perpetrator of x"], 
+      ["李延", "romantic relationships with x, admired by x, deceiver of x, manipulated by x, helped by x"], 
+      ["方眠", "aunt of x"]
+    ],
+    "方柳": [
+      ["小茜", "same person as x (different reference)"]
+    ],
+    "方叶": [
+      ["小茜", "child of x"], 
+      ["奶奶", "son of x"], 
+      ["方絮", "sibling of x"], 
+      ["李钦仁", "business partner of x"], 
+      ["方眠", "sibling of x"]
+    ],
+    "奶奶": [
+      ["小茜", "grandchild of x"], 
+      ["方叶", "child of x"], 
+      ["方絮", "grandchild of x"], 
+      ["方眠", "grandchild of x"]
+    ],
+    "方絮": [
+      ["方柳", "child of x"], 
+      ["方叶", "sibling of x"], 
+      ["奶奶", "child of x"], 
+      ["李王爷", "husband of x"]
+    ],
+    "李王爷": [
+      ["方絮", "wife of x"], 
+      ["小茜", "niece of x"], 
+      ["陈倩", "attempted perpetrator of x"], 
+      ["方眠", "sister in law of x"], 
+      ["方叶", "business partner of x"]
+    ],
+    "草藤居士": [
+      ["小茜", "student of x"], 
+      ["陈倩", "mentor of x"], 
+      ["李钦仁", "acquaintance of x"]
+    ],
+    "陈倩": [
+      ["小茜", "friend of x"], 
+      ["草藤居士", "child of x"], 
+      ["李延", "victim of x, disliked by x"], 
+      ["李仲", "fiance of x"]
+    ],
+    "李仲": [
+      ["李钦仁", "child of x"], 
+      ["陈倩", "fiance of x"], 
+      ["小茜", "acquaintance of x, helped by x"], 
+      ["李延", "sibling of x"]
+    ],
+    "李钦仁": [
+      ["小茜", "perpetrator of x, enemy of x"], 
+      ["陈倩", "attempted perpetrator of x"], 
+      ["草藤居士", "acquaintance of x"]
+    ],
+    "李延": [
+      ["陈倩", "admirer of x, deceived by x"], 
+      ["小茜", "romantic relationships with x, admirer of x, deceiver of x, helped by x"], 
+      ["李仲", "sibling of x"], 
+      ["李钦仁", "child of x"]
+    ],
+    "方眠": [
+      ["小茜", "niece of x"], 
+      ["方絮", "sibling of x"], 
+      ["方叶", "sibling of x"], 
+      ["奶奶", "grandchild of x"]
+    ]
+}

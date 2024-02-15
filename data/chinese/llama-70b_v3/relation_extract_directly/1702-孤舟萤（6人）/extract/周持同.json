@@ -1,0 +1,36 @@
+{
+    "周持同": [
+      ["崔寿亨", "friend of x"], 
+      ["宝柑", "friend of x"], 
+      ["琏逸", "child of x"], 
+      ["嫣楠", "niece of x"]
+    ],
+    "崔寿亨": [
+      ["周持同", "friend of x"]
+    ],
+    "汪氏": [
+      ["崔寿亨", "wife of x"]
+    ],
+    "昔颜": [
+      ["崔寿亨", "sister of x"]
+    ],
+    "宝柑": [
+      ["周持同", "friend of x"], 
+      ["昔颜", "sister of x"]
+    ],
+    "于宿年": [
+      ["于宿年", "brother of x"]
+    ],
+    "琏逸": [
+      ["周持同", "child of x"], 
+      ["嫂子", "son of x"]
+    ],
+    "嫣楠": [
+      ["周持同", "niece of x"], 
+      ["嫂子", "daughter of x"]
+    ],
+    "太太": [
+      ["崔寿亨", "wife of x"], 
+      ["汪氏", "sister of x"]
+    ]
+}

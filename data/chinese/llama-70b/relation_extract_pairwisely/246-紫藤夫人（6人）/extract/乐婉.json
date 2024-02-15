@@ -1,0 +1,313 @@
+{
+    "乐婉": [
+        [
+            "葛继先",
+            "学生与教师",
+            "养育的儿女",
+            "快捷帮手",
+            "朋友",
+            "潜在的爱情对象"
+        ],
+        [
+            "葛月萝",
+            "妈妈",
+            "姐妹"
+        ],
+        [
+            "朱陵山",
+            "employee-employer",
+            "acquaintance-acquaintance",
+            "helper-helpee",
+            "benefactor-beneficiary"
+        ],
+        [
+            "于尚勇",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5"
+        ],
+        [
+            "于彦诚",
+            "relationship 1 ",
+            "relationship 2 ",
+            "relationship 3 ",
+            "relationship 4 "
+        ],
+        [
+            "张先生",
+            "employee, acquaintance, friend, tenant"
+        ],
+        [
+            "张太太",
+            "employer",
+            " cordial"
+        ]
+    ],
+    "葛继先": [
+        [
+            "乐婉",
+            "学生与教师",
+            "养育的儿女",
+            "快捷帮手",
+            "朋友",
+            "潜在的爱情对象"
+        ],
+        [
+            "葛月萝",
+            "relative"
+        ],
+        [
+            "朱陵山",
+            " Employee of X",
+            "Subordinate of X",
+            "Co-workers with X",
+            "Friend of X",
+            "Mentor of X"
+        ],
+        [
+            "于尚勇",
+            "Master of X",
+            "Employee of X",
+            "servant of X"
+        ],
+        [
+            "于彦诚",
+            "Friend"
+        ],
+        [
+            "张先生",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "张太太",
+            "Relative",
+            "Acquaintance"
+        ]
+    ],
+    "葛月萝": [
+        [
+            "乐婉",
+            "妈妈",
+            "姐妹"
+        ],
+        [
+            "葛继先",
+            "sibling"
+        ],
+        [
+            "朱陵山",
+            "Husband of X",
+            "养老女婿"
+        ],
+        [
+            "于尚勇",
+            "relationship 1: acquaintance",
+            "relationship 2: neighbor"
+        ],
+        [
+            "于彦诚",
+            "Friend"
+        ],
+        [
+            "张先生",
+            "employee - employer",
+            "acquaintance - acquaintance",
+            "friend - friend",
+            "inferior - superior",
+            "victim - perpetrator",
+            "enemy - enemy",
+            "neighbor - neighbor",
+            "stranger - stranger"
+        ],
+        [
+            "张太太",
+            "相互怜悯 (mutual respect)"
+        ]
+    ],
+    "朱陵山": [
+        [
+            "乐婉",
+            "employee-employer",
+            "acquaintance-acquaintance",
+            "helper-helpee",
+            "benefactor-beneficiary"
+        ],
+        [
+            "葛继先",
+            "Husband of X",
+            "Co-workers with X",
+            "Friend of X",
+            "Superior of X",
+            "Employer of X"
+        ],
+        [
+            "葛月萝",
+            "Wife of X",
+            "养老公"
+        ],
+        [
+            "于尚勇",
+            " Husband of X / Wife of X"
+        ],
+        [
+            "张太太",
+            "Employee of X",
+            "Servant of X"
+        ],
+        [
+            "张先生",
+            "employer-employee",
+            " acquaintance"
+        ],
+        [
+            "张太太",
+            "employer-employee",
+            " acquaintance"
+        ]
+    ],
+    "于尚勇": [
+        [
+            "乐婉",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5"
+        ],
+        [
+            "葛继先",
+            "Master of X",
+            "Employee of X",
+            "servant of X"
+        ],
+        [
+            "葛月萝",
+            "relationship 1: acquaintance",
+            "relationship 2: neighbor"
+        ],
+        [
+            "朱陵山",
+            "Husband of X / Wife of X"
+        ],
+        [
+            "于彦诚",
+            "Friend",
+            "Roommate"
+        ],
+        [
+            "张先生",
+            "employer"
+        ],
+        [
+            "张太太",
+            "acquaintance",
+            "fellow villager"
+        ]
+    ],
+    "于彦诚": [
+        [
+            "乐婉",
+            "relationship 1 ",
+            "relationship 2 ",
+            "relationship 3 ",
+            "relationship 4 "
+        ],
+        [
+            "葛继先",
+            "Friend"
+        ],
+        [
+            "葛月萝",
+            "Friend"
+        ],
+        [
+            "于尚勇",
+            "Friend",
+            "Roommate"
+        ],
+        [
+            "张先生",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "张太太",
+            "employer",
+            "mentor"
+        ]
+    ],
+    "张先生": [
+        [
+            "乐婉",
+            "employee, acquaintance, friend, landlord"
+        ],
+        [
+            "葛继先",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "葛月萝",
+            "employee - employer",
+            "acquaintance - acquaintance",
+            "friend - friend",
+            "inferior - superior",
+            "perpetrator - victim",
+            "enemy - enemy",
+            "neighbor - neighbor",
+            "stranger - stranger"
+        ],
+        [
+            "朱陵山",
+            "employer-employee",
+            "acquaintance"
+        ],
+        [
+            "于尚勇",
+            "employee",
+            "acquaintance"
+        ],
+        [
+            "于彦诚",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "张太太",
+            " Husband of X",
+            "employer of X"
+        ]
+    ],
+    "张太太": [
+        [
+            "乐婉",
+            "employee",
+            "cordial"
+        ],
+        [
+            "葛继先",
+            "Relative",
+            "Acquaintance"
+        ],
+        [
+            "葛月萝",
+            "相互怜悯 (mutual respect)"
+        ],
+        [
+            "朱陵山",
+            "Master of X",
+            "Employer of X"
+        ],
+        [
+            "朱陵山",
+            "employer-employee",
+            "acquaintance"
+        ],
+        [
+            "于尚勇",
+            "acquaintance",
+            "fellow villager"
+        ],
+        [
+            "于彦诚",
+            "employee",
+            "protege"
+        ],
+        [
+            "张先生",
+            "Wife of X",
+            "employee of X"
+        ]
+    ]
+}

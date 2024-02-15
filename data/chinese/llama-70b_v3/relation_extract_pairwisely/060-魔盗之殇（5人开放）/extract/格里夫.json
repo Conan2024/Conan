@@ -1,0 +1,34 @@
+{
+    "剧务戴维": [
+      ["宣传罗琳", "acquaintance of x, friend of x, friend of x"], 
+      ["保安凯文", "suspect of x"], 
+      ["古斯特", "colleague of x, business partner of x"]
+    ],
+    "宣传罗琳": [
+      ["剧务戴维", "acquaintance of x, friend of x, friend of x"], 
+      ["保安凯文", "enemy of x"], 
+      ["艾拉", "friend of x, colleague of x"], 
+      ["古斯特", "colleague of x, business partner of x, acquaintance of x, friend of x"]
+    ],
+    "艾拉": [
+      ["剧务戴维", "friend of x, acquaintance of x"], 
+      ["宣传罗琳", "friend of x, colleague of x"], 
+      ["保安凯文", "colleague of x, friend of x"], 
+      ["古斯特", "colleague of x, acquaintance of x"]
+    ],
+    "凯文": [
+      ["剧务戴维", "enemy of x, rival of x, suspect of x"]
+    ],
+    "保安凯文": [
+      ["剧务戴维", "suspect of x"], 
+      ["宣传罗琳", "enemy of x"], 
+      ["艾拉", "colleague of x, friend of x"], 
+      ["古斯特", "suspect of x"]
+    ],
+    "古斯特": [
+      ["剧务戴维", "colleague of x, business partner of x"], 
+      ["宣传罗琳", "colleague of x, business partner of x, acquaintance of x, friend of x"], 
+      ["保安凯文", "rival of x"], 
+      ["艾拉", "colleague of x, acquaintance of x"]
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "卧底警察": [
+      ["古思特", "suspected by x, adversary of x, deceived by x"], 
+      ["艾拉", "victim of x, adversary of x"], 
+      ["戴维", "crime partner of x, friend of x"], 
+      ["罗琳", "acquaintance of x"], 
+      ["凯文", "suspect of x"]
+    ],
+    "古思特": [
+      ["艾拉", "helper of x, lover of x"], 
+      ["戴维", "subordinate of x, debtor of x"], 
+      ["罗琳", "colleague of x"], 
+      ["凯文", "manipulator of x"], 
+      ["卧底警察", "suspected by x, manipulated by x"]
+    ],
+    "艾拉": [
+      ["古思特", "mentor of x, admired by x"], 
+      ["卧底警察", "disliked by x, deceiver of x"]
+    ],
+    "戴维": [
+      ["古思特", "superior of x, creditor of x"], 
+      ["罗琳", "admirer of x"], 
+      ["卧底警察", "friend of x, friend of x"]
+    ],
+    "罗琳": [
+      ["戴维", "disliked by x"], 
+      ["凯文", "acquaintance of x"], 
+      ["古思特", "colleague of x"], 
+      ["卧底警察", "acquaintance of x"]
+    ],
+    "凯文": [
+      ["古思特", "manipulated by x"], 
+      ["罗琳", "acquaintance of x"], 
+      ["卧底警察", "manipulator of x"]
+    ]
+}

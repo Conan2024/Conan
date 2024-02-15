@@ -1,0 +1,41 @@
+{
+    "周忱纱": [
+      ["甘玛", "friend of x, teacher of x"], 
+      ["巴府山", "employer of x, acquaintance of x"], 
+      ["隼", "acquaintance of x, friend of x"], 
+      ["郑函贞", "colleague of x, friend of x"], 
+      ["汪氏", "mother of x"]
+    ],
+    "甘玛": [
+      ["周忱纱", "friend of x, teacher of x"], 
+      ["巴府山", "husband of x, acquaintance of x"], 
+      ["隼", "acquaintance of x"], 
+      ["郑函贞", "colleague of x"], 
+      ["汪氏", "mother in law of x"]
+    ],
+    "巴府山": [
+      ["周忱纱", "employer of x, acquaintance of x"], 
+      ["甘玛", "husband of x, friend of x"], 
+      ["隼", "acquaintance of x"], 
+      ["郑函贞", "colleague of x"], 
+      ["汪氏", "mother in law of x"]
+    ],
+    "隼": [
+      ["周忱纱", "acquaintance of x, friend of x"], 
+      ["甘玛", "acquaintance of x"], 
+      ["巴府山", "acquaintance of x"], 
+      ["郑函贞", "colleague of x"]
+    ],
+    "郑函贞": [
+      ["周忱纱", "colleague of x, friend of x"], 
+      ["甘玛", "colleague of x"], 
+      ["巴府山", "colleague of x"], 
+      ["隼", "acquaintance of x"]
+    ],
+    "汪氏": [
+      ["周忱纱", "daughter of x"], 
+      ["甘玛", "daughter in law of x"], 
+      ["巴府山", "son in law of x"], 
+      ["隼", "acquaintance of x"]
+    ]
+}

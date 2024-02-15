@@ -1,0 +1,102 @@
+{
+    "安德鲁•帕洛斯基": [
+        [
+            "妻子",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "汤姆神父",
+            "mentor",
+            "confidant",
+            "witness"
+        ]
+    ],
+    "妻子": [
+        [
+            "安德鲁•帕洛斯基",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "儿子斯科特",
+            "husband of X"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "relationship 1: 妻子死亡后，你开始酗酒，减少了手术次数，对下属和同事更粗暴无理，但仍然坚持为妻子进行心脏移植手术的技术。relationship 2: 你认为汉斯·里莫瑞特天生就应该成为一个杰出的外科医生，但自己的自负和对其的嫉妒阻碍了自己的发展。"
+        ],
+        [
+            "汤姆神父",
+            "relationship 1: 师傅",
+            "relationship 2: 接触"
+        ]
+    ],
+    "汉斯·里莫瑞特": [
+        [
+            "安德鲁•帕洛斯基",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "妻子",
+            "relationship 1: 你曾经是我的偶数恩师，教我一切，但我已经超越了你。relationship 2: 你的儿子斯科特成为了一起摩托车事故的受害者，我已经尽力救治，后续的抢救无济于事。"
+        ],
+        [
+            "儿子斯科特",
+            "mentee, friend",
+            "医生",
+            "professional, colleague"
+        ],
+        [
+            "汤姆神父",
+            "mentor",
+            "protege",
+            "friend"
+        ]
+    ],
+    "汤姆神父": [
+        [
+            "安德鲁•帕洛斯基",
+            "mentee",
+            "confidant",
+            "witness"
+        ],
+        [
+            "妻子",
+            "relationship 1: 学生",
+            "relationship 2: 精神方向"
+        ],
+        [
+            "儿子斯科特",
+            "adoptive son",
+            "protege",
+            "friend"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "mentor",
+            "confidant",
+            "friend"
+        ]
+    ],
+    "儿子斯科特": [
+        [
+            "妻子",
+            "son of X"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "mentor, friend",
+            "儿子",
+            "family, inherited"
+        ],
+        [
+            "汤姆神父",
+            "mentor",
+            "teacher",
+            "Helped by"
+        ]
+    ]
+}

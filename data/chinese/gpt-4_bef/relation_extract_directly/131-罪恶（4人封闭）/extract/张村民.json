@@ -1,0 +1,34 @@
+{
+    "张村民": [
+      ["父亲", "father of x"], 
+      ["王村长", "acquaintance of x, information receiver from x"], 
+      ["那群人", "perpetrator of x"], 
+      ["为首的人", "perpetrator of x"], 
+      ["李警察", "suspected by x, adversary of x"], 
+      ["胡调研", "acquaintance of x"]
+    ],
+    "父亲": [
+      ["张村民", "child of x"], 
+      ["那群人", "victim of x"], 
+      ["为首的人", "perpetrator of x"]
+    ],
+    "王村长": [
+      ["张村民", "acquaintance of x"], 
+      ["父亲", "helper of x, employer of x"]
+    ],
+    "那群人": [
+      ["张村民", "adversary of x"]
+    ],
+    "为首的人": [
+      ["张村民", "adversary of x"]
+    ],
+    "母亲": [
+      ["张村民", "child of x"]
+    ],
+    "李警察": [
+      ["张村民", "adversary of x"]
+    ],
+    "胡调研": [
+      ["张村民", "acquaintance of x"]
+    ]
+}

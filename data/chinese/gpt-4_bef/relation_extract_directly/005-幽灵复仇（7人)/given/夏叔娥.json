@@ -1,0 +1,59 @@
+{
+    "夏叔娥": [
+      ["夏伯龙", "father of x"], 
+      ["夏仲鹏", "uncle of x, mentor of x"], 
+      ["夏三虎", "uncle of x"], 
+      ["骆明", "friend of x"], 
+      ["阿明", "friend of x, same person as x (different reference)"], 
+      ["岳客沙", "acquaintance of x"], 
+      ["吴百安", "acquaintance of x, information receiver from x"], 
+      ["吴笑", "acquaintance of x"], 
+      ["洛意丝", "friend of x"], 
+      ["易阿姨", "acquaintance of x"]
+    ],
+    "夏伯龙": [
+      ["夏叔娥", "child of x"], 
+      ["夏仲鹏", "sibling of x"], 
+      ["夏三虎", "sibling of x"]
+    ],
+    "夏仲鹏": [
+      ["夏叔娥", "niece of x, student of x"], 
+      ["夏伯龙", "sibling of x"], 
+      ["夏三虎", "sibling of x"], 
+      ["吴百安", "acquaintance of x, information receiver from x"]
+    ],
+    "夏三虎": [
+      ["夏叔娥", "niece of x, quest companion of x"], 
+      ["夏伯龙", "sibling of x"], 
+      ["夏仲鹏", "sibling of x"], 
+      ["阿明", "same person as x (different reference)"], 
+      ["岳客沙", "acquaintance of x"]
+    ],
+    "骆明": [
+      ["夏叔娥", "mentor of x"], 
+      ["阿明", "same person as x (different reference)"]
+    ],
+    "阿明": [
+      ["夏叔娥", "mentor of x"], 
+      ["骆明", "same person as x (different reference)"]
+    ],
+    "岳客沙": [
+      ["夏叔娥", "mentor of x, helper of x"], 
+      ["夏三虎", "acquaintance of x"]
+    ],
+    "吴百安": [
+      ["夏叔娥", "informant of x"], 
+      ["夏仲鹏", "acquaintance of x, information receiver from x"], 
+      ["吴笑", "father of x"]
+    ],
+    "吴笑": [
+      ["夏叔娥", "acquaintance of x"], 
+      ["吴百安", "child of x"]
+    ],
+    "洛意丝": [
+      ["夏叔娥", "friend of x"]
+    ],
+    "易阿姨": [
+      ["夏叔娥", "acquaintance of x, seeker of help from x"]
+    ]
+}

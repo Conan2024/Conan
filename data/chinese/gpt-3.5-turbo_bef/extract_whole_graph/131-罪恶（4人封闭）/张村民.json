@@ -1,0 +1,23 @@
+{
+    "张村民": [
+      ["胡调研", "acquaintance of x"], 
+      ["赵慈善", "information receiver from x"], 
+      ["李警察", "informant of x"], 
+      ["王村长", "mentor of x"]
+    ],
+    "父亲": [
+      ["张村民", "father of x"]
+    ],
+    "胡调研": [
+      ["张村民", "acquaintance of x"]
+    ],
+    "赵慈善": [
+      ["张村民", "information receiver from x"]
+    ],
+    "李警察": [
+      ["张村民", "informant of x"]
+    ],
+    "王村长": [
+      ["张村民", "mentor of x"]
+    ]
+}

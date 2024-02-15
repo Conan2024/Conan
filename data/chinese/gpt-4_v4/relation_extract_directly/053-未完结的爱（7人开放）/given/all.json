@@ -1,0 +1,46 @@
+{
+    "林夕": [
+      ["林惟仁", "father of x, service provider of x, information receiver from x"], 
+      ["林阳", "same person as x (different identity), service provider of x"], 
+      ["顾宇", "admirer of x, ex boyfriend of x"], 
+      ["顾晴", "acquaintance of x, disliked by x, suspected by x"], 
+      ["苏阳", "helper of x, fiance of x, lover of x"], 
+      ["沈城", "subordinate of x, helper of x"], 
+      ["陈静雯", "jealous of x, guest of x"]
+    ],
+    "林惟仁": [
+      ["林夕", "child of x, superior of x"], 
+      ["林阳", "child of x"], 
+      ["苏阳", "superior of x, mentor of x"], 
+      ["沈城", "subordinate of x, subordinate of x"]
+    ],
+    "林阳": [
+      ["林夕", "same person as x (different identity), service provider of x"], 
+      ["林惟仁", "father of x"], 
+      ["顾晴", "lover of x"], 
+      ["沈城", "acquaintance of x"]
+    ],
+    "顾宇": [
+      ["林夕", "admirer of x, ex boyfriend of x"], 
+      ["顾晴", "same person as x (different identity)"]
+    ],
+    "顾晴": [
+      ["林夕", "disliked by x"], 
+      ["顾宇", "same person as x (different identity)"], 
+      ["林阳", "lover of x"], 
+      ["苏阳", "acquaintance of x, suspected by x"]
+    ],
+    "苏阳": [
+      ["林夕", "helper of x, fiance of x, lover of x"], 
+      ["林惟仁", "student of x, subordinate of x, subordinate of x"], 
+      ["顾晴", "acquaintance of x, suspected by x"]
+    ],
+    "沈城": [
+      ["林夕", "subordinate of x, helper of x"], 
+      ["林惟仁", "subordinate of x, subordinate of x, subordinate of x"], 
+      ["林阳", "acquaintance of x"]
+    ],
+    "陈静雯": [
+      ["林夕", "acquaintance of x, guest of x"]
+    ]
+}

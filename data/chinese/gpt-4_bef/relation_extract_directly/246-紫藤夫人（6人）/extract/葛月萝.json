@@ -1,0 +1,77 @@
+{
+    "葛月萝": [
+      ["葛继先", "father of x"], 
+      ["葛月曼", "sibling of x"], 
+      ["朱陵山", "husband of x"], 
+      ["薛达财", "acquaintance of x"], 
+      ["潮虎王", "perpetrator of x"], 
+      ["于尚勇", "acquaintance of x"], 
+      ["张太太", "friend of x"], 
+      ["张俊诗", "acquaintance of x"], 
+      ["薛玉帆", "acquaintance of x"], 
+      ["张家", "acquaintance of x"], 
+      ["葛家", "same person as x (different identity)"], 
+      ["葛万黎", "grandfather of x"], 
+      ["葛安塞", "relative of x"], 
+      ["冯家", "possibly family of x"], 
+      ["稚筠", "acquaintance of x"]
+    ],
+    "袁世凯": [
+      ["清宣统皇帝", "acquaintance of x"]
+    ],
+    "葛继先": [
+      ["葛月曼", "child of x"], 
+      ["葛月萝", "child of x"], 
+      ["朱陵山", "son in law of x"], 
+      ["潮虎王", "victim of x"]
+    ],
+    "葛月曼": [
+      ["葛月萝", "sibling of x"], 
+      ["张太太", "same person as x (different identity)"], 
+      ["葛家", "child of x"]
+    ],
+    "朱陵山": [
+      ["葛月萝", "husband of x"], 
+      ["潮虎王", "enemy of x"]
+    ],
+    "薛达财": [
+      ["朱陵山", "cousin of x"], 
+      ["葛月萝", "acquaintance of x"]
+    ],
+    "潮虎王": [
+      ["葛继先", "perpetrator of x"], 
+      ["朱陵山", "victim of x"], 
+      ["葛月萝", "perpetrator of x"]
+    ],
+    "于尚勇": [
+      ["葛月萝", "suspected by x"], 
+      ["张太太", "acquaintance of x"]
+    ],
+    "张太太": [
+      ["葛月曼", "same person as x (different identity)"], 
+      ["张俊诗", "husband of x"], 
+      ["葛月萝", "friend of x"]
+    ],
+    "张家": [
+      ["葛家", "acquaintance of x"]
+    ],
+    "葛家": [
+      ["张家", "acquaintance of x"], 
+      ["葛月萝", "same person as x (different identity)"]
+    ],
+    "葛万黎": [
+      ["葛安塞", "adoptive brother of x"]
+    ],
+    "葛安塞": [
+      ["葛继先", "adoptive father of x"], 
+      ["葛万黎", "adoptive brother of x"]
+    ],
+    "冯家": [
+      ["葛月萝", "possibly family of x"], 
+      ["葛月曼", "possibly family of x"]
+    ],
+    "稚筠": [
+      ["张太太", "niece of x"], 
+      ["葛月萝", "acquaintance of x"]
+    ]
+}

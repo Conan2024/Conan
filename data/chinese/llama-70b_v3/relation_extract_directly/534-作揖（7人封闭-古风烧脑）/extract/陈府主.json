@@ -1,0 +1,32 @@
+{
+    "陈府主": [
+      ["李王爷", "friend of x, business partner of x"], 
+      ["王子", "acquaintance of x"], 
+      ["李仲", "friend of x"], 
+      ["李延", "friend of x"], 
+      ["陳倩", "daughter of x, victim of x"]
+    ],
+    "李王爷": [
+      ["陈府主", "friend of x, business partner of x"], 
+      ["王子", "manipulator of x"], 
+      ["李仲", "friend of x"], 
+      ["李延", "friend of x"]
+    ],
+    "王子": [
+      ["陈府主", "acquaintance of x"], 
+      ["李王爷", "manipulator of x"]
+    ],
+    "李仲": [
+      ["陈府主", "friend of x"], 
+      ["李王爷", "friend of x"], 
+      ["王子", "manipulator of x"]
+    ],
+    "李延": [
+      ["陈府主", "friend of x"], 
+      ["李王爷", "friend of x"], 
+      ["王子", "manipulator of x"]
+    ],
+    "陳倩": [
+      ["陈府主", "daughter of x, victim of x"]
+    ]
+}

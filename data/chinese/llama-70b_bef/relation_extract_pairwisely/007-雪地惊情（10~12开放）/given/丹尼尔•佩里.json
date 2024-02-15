@@ -1,0 +1,60 @@
+{
+    "丹尼尔•佩里": [
+      ["乔•罗伯特森", "friend of x"], 
+      ["玛丽娜•哈里森", "lover of x"], 
+      ["约翰•摩根", "friend of x, mentor of x, rival of x"], 
+      ["罗宾•费依", "colleague of x, friend of x, acquaintance of x"], 
+      ["艾米•摩根", "friend of x, colleague of x, mentor of x, acquaintance of x"]
+    ],
+    "乔•罗伯特森": [
+      ["丹尼尔•佩里", "friend of x"], 
+      ["乔纳森•佩里", "acquaintance of x, colleague of x"], 
+      ["哈罗德•哈里森", "acquaintance of x, colleague of x"], 
+      ["杰奎琳•佩里", "friend of x"], 
+      ["约翰•摩根", "acquaintance of x, colleague of x, friend of x, mentor of x, teacher of x, student of x"], 
+      ["艾米•摩根", "acquaintance of x, friend of x"]
+    ],
+    "乔纳森•佩里": [
+      ["乔•罗伯特森", "acquaintance of x, colleague of x"], 
+      ["约翰•摩根", "friend of x"]
+    ],
+    "哈罗德•哈里森": [
+      ["乔•罗伯特森", "acquaintance of x, colleague of x"], 
+      ["玛丽娜•哈里森", "husband of x, same person as x (different identity)"], 
+      ["罗宾•费依", "acquaintance of x, colleague of x, friend of x"], 
+      ["艾米•摩根", "husband of x, extramarital affair with x, romantic relationships with x"], 
+      ["露西•哈里森", "husband of x, father of x"]
+    ],
+    "杰奎琳•佩里": [
+      ["乔•罗伯特森", "friend of x"], 
+      ["艾米•摩根", "wife of x, co wives of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["丹尼尔•佩里", "lover of x"], 
+      ["哈罗德•哈里森", "wife of x, same person as x (different reference)"], 
+      ["艾米•摩根", "rival in love of x"]
+    ],
+    "约翰•摩根": [
+      ["丹尼尔•佩里", "friend of x, mentor of x, rival of x"], 
+      ["乔•罗伯特森", "acquaintance of x, colleague of x, friend of x, mentor of x, teacher of x, student of x"], 
+      ["乔纳森•佩里", "friend of x"], 
+      ["艾米•摩根", "husband of x"]
+    ],
+    "罗宾•费依": [
+      ["丹尼尔•佩里", "colleague of x, friend of x, acquaintance of x"], 
+      ["哈罗德•哈里森", "acquaintance of x, colleague of x, friend of x"], 
+      ["露西•哈里森", "friend of x"]
+    ],
+    "艾米•摩根": [
+      ["丹尼尔•佩里", "friend of x, colleague of x, mentor of x, acquaintance of x"], 
+      ["乔•罗伯特森", "acquaintance of x, friend of x"], 
+      ["哈罗德•哈里森", "wife of x, romantic relationships with x, extramarital affair with x"], 
+      ["杰奎琳•佩里", "husband of x, co wives of x"], 
+      ["玛丽娜•哈里森", "rival in love of x"], 
+      ["约翰•摩根", "wife of x"]
+    ],
+    "露西•哈里森": [
+      ["哈罗德•哈里森", "daughter of x, sister of x"], 
+      ["罗宾•费依", "friend of x"]
+    ]
+}

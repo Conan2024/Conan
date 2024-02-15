@@ -1,0 +1,37 @@
+{
+    "李高柏": [
+      ["巴府山", "employer of x, acquaintance of x"], 
+      ["鬼印", "acquaintance of x, manipulator of x"], 
+      ["李德木", "brother of x, rival of x"], 
+      ["甘玛", "acquaintance of x, helper of x"]
+    ],
+    "李德木": [
+      ["李高柏", "brother of x, rival of x"], 
+      ["巴府山", "mentor of x, acquaintance of x"]
+    ],
+    "巴府山": [
+      ["李高柏", "employer of x, acquaintance of x"], 
+      ["李德木", "mentor of x, acquaintance of x"], 
+      ["鬼印", "acquaintance of x, manipulator of x"]
+    ],
+    "鬼印": [
+      ["李高柏", "acquaintance of x, manipulator of x"], 
+      ["李德木", "friend of x"]
+    ],
+    "甘玛": [
+      ["李高柏", "acquaintance of x, helper of x"]
+    ],
+    "周教授": [
+      ["李高柏", "colleague of x, mentor of x"]
+    ],
+    "郑函贞": [
+      ["李高柏", "colleague of x, employer of x"]
+    ],
+    "如娅": [
+      ["李高柏", "friend of x"], 
+      ["李德木", "husband of x, acquaintance of x"]
+    ],
+    "李良松": [
+      ["李高柏", "brother of x, acquaintance of x"]
+    ]
+}

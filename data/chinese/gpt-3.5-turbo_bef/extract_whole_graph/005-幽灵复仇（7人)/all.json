@@ -1,0 +1,22 @@
+{
+    "阿明": [
+      ["小明", "friend of x"], 
+      ["小丽", "ex girlfriend of x"], 
+      ["马云", "admired by x"], 
+      ["李明", "colleague of x"]
+    ],
+    "小明": [
+      ["阿明", "friend of x"], 
+      ["小丽", "girlfriend of x"]
+    ],
+    "小丽": [
+      ["阿明", "ex boyfriend of x"], 
+      ["小明", "girlfriend of x"]
+    ],
+    "马云": [
+      ["阿明", "admired by x"]
+    ],
+    "李明": [
+      ["阿明", "colleague of x"]
+    ]
+}

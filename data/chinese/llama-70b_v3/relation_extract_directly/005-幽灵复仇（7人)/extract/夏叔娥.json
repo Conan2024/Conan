@@ -1,0 +1,47 @@
+{
+    "夏叔娥": [
+      ["吴百安", "friend of x"], 
+      ["夏仲鹏", "uncle of x"], 
+      ["阿明", "master of x"], 
+      ["岳客沙", "student of x"]
+    ],
+    "吴百安": [
+      ["夏叔娥", "friend of x"]
+    ],
+    "夏仲鹏": [
+      ["夏叔娥", "uncle of x"]
+    ],
+    "阿明": [
+      ["夏叔娥", "master of x"]
+    ],
+    "岳客沙": [
+      ["夏叔娥", "student of x"]
+    ],
+    "吴伯伯": [
+      ["夏叔娥", "friend of x"]
+    ],
+    "洛意丝": [
+      ["夏叔娥", "friend of x"]
+    ],
+    "骆明": [
+      ["夏叔娥", "guest of x"]
+    ],
+    "岳父": [
+      ["岳客沙", "father of x"]
+    ],
+    "易父": [
+      ["易阿姨", "father of x"]
+    ],
+    "骆父": [
+      ["骆明", "father of x"]
+    ],
+    "祖上": [
+      ["夏叔娥", "grandfather of x"]
+    ],
+    "祖下": [
+      ["夏叔娥", "grandmother of x"]
+    ],
+    "老板": [
+      ["吴伯伯", "friend of x"]
+    ]
+}

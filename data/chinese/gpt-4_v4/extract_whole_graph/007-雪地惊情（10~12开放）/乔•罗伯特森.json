@@ -1,0 +1,28 @@
+{
+    "乔•罗伯特森": [
+      ["麦克斯•派克", "acquaintance of x, seeker of help from x, informant of x, suspected by x, manipulator of x"], 
+      ["丹尼尔•佩里", "acquaintance of x, suspected by x"], 
+      ["约翰•摩根", "victim of x"]
+    ],
+    "麦克斯•派克": [
+      ["乔•罗伯特森", "friend of x, manipulated by x, information receiver from x"], 
+      ["约翰•摩根", "colleague of x"]
+    ],
+    "丹尼尔•佩里": [
+      ["乔•罗伯特森", "acquaintance of x"]
+    ],
+    "艾米•摩根": [
+      ["约翰•摩根", "wife of x, ex romantic relationships with x"]
+    ],
+    "约翰•摩根": [
+      ["乔•罗伯特森", "victim of x"], 
+      ["艾米•摩根", "husband of x, ex romantic relationships with x"], 
+      ["麦克斯•派克", "colleague of x"]
+    ],
+    "露西•哈里森": [
+      ["乔纳森•佩里", "lover of x"]
+    ],
+    "乔纳森•佩里": [
+      ["露西•哈里森", "lover of x"]
+    ]
+}

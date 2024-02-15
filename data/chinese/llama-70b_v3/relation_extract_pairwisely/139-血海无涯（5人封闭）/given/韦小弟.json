@@ -1,0 +1,60 @@
+{
+    "庄清纯": [
+      ["秦老大", "friend of x, classmate of x, classmate of x"], 
+      ["贾美丽", "classmate of x"], 
+      ["韦小弟", "classmate of x, acquaintance of x"], 
+      ["韦小弟的父亲", "classmate of x, teacher of x, colleague of x, friend of x"]
+    ],
+    "秦专家": [
+      ["秦老大", "mentor of x, teacher of x, bully of x"], 
+      ["贾美丽", "friend of x"], 
+      ["郑友好", "acquaintance of x"], 
+      ["韦小弟", "father in law of x, mentor of x, teacher of x, perpetrator of x, adversary of x, enemy of x"], 
+      ["韦小弟的父亲", "friend of x, mentor of x, colleague of x, student of x"]
+    ],
+    "秦老大": [
+      ["庄清纯", "friend of x, classmate of x, classmate of x"], 
+      ["秦专家", "son of x, acquaintance of x, classmate of x, schoolmate of x, friend of x"], 
+      ["贾美丽", "friend of x"], 
+      ["郑友好", "friend of x, classmate of x"], 
+      ["韦小弟", "friend of x, classmate of x, schoolmate of x, acquaintance of x, rival of x"], 
+      ["韦小弟的母亲", "enemy of x"], 
+      ["韦小弟的父亲", "student of x"]
+    ],
+    "贾美丽": [
+      ["庄清纯", "classmate of x"], 
+      ["秦专家", "friend of x"], 
+      ["秦老大", "friend of x"], 
+      ["郑友好", "classmate of x"], 
+      ["韦小弟", "classmate of x, classmate of x, friend of x"], 
+      ["韦小弟的母亲", "friend of x, adversary of x"]
+    ],
+    "郑友好": [
+      ["秦专家", "acquaintance of x"], 
+      ["秦老大", "helper of x, classmate of x"], 
+      ["贾美丽", "classmate of x"], 
+      ["韦小弟的父亲", "friend of x, colleague of x, mentor of x, student of x"]
+    ],
+    "韦小弟": [
+      ["庄清纯", "classmate of x, acquaintance of x"], 
+      ["秦专家", "father in law of x, mentor of x, teacher of x, perpetrator of x, adversary of x, enemy of x"], 
+      ["秦老大", "friend of x, classmate of x, schoolmate of x, acquaintance of x, rival of x"], 
+      ["贾美丽", "enemy of x, rival of x"], 
+      ["韦小弟的母亲", "sibling of x, child of x, relative of x"], 
+      ["韦小弟的父亲", "father of x, son of x, child of x, nephew of x, cousin of x"]
+    ],
+    "韦小弟的母亲": [
+      ["贾美丽", "friend of x, adversary of x"], 
+      ["郑友好", "son of x"], 
+      ["韦小弟", "sibling of x, child of x, relative of x"], 
+      ["韦小弟的父亲", "husband of x, father of x"]
+    ],
+    "韦小弟的父亲": [
+      ["庄清纯", "classmate of x, teacher of x, colleague of x, friend of x"], 
+      ["秦专家", "friend of x, mentor of x, colleague of x, student of x"], 
+      ["秦老大", "student of x"], 
+      ["郑友好", "friend of x, colleague of x, mentor of x, student of x"], 
+      ["韦小弟", "father of x, son of x, child of x, nephew of x, cousin of x"], 
+      ["韦小弟的母亲", "wife of x, mother of x"]
+    ]
+}

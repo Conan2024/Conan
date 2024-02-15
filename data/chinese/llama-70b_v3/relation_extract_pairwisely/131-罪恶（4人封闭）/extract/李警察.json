@@ -1,0 +1,19 @@
+{
+    "李警察": [
+      ["王村长", "suspect of x, adversary of x"], 
+      ["胡调研", "friend of x, colleague of x, mentor of x, suspect of x, acquaintance of x"]
+    ],
+    "王村长": [
+      ["李警察", "suspect of x, adversary of x"], 
+      ["赵慈善", "friend of x, mentor of x, colleague of x"]
+    ],
+    "胡调研": [
+      ["李警察", "friend of x, colleague of x, mentor of x, suspect of x, acquaintance of x"]
+    ],
+    "女友": [
+      ["李警察", "informant of x"]
+    ],
+    "赵慈善": [
+      ["王村长", "friend of x, mentor of x, colleague of x"]
+    ]
+}

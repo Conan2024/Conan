@@ -1,0 +1,238 @@
+{
+    "冯双骥": [
+        [
+            "冯竹",
+            "赵洛意"
+        ],
+        [
+            "赵万雷",
+            "关系1",
+            "关系2"
+        ],
+        [
+            "赵卫",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "赵洛意",
+            "Employer",
+            "Master",
+            "Superior"
+        ],
+        [
+            "赵秋儿",
+            "Master of X",
+            "Employer of X",
+            "Mentor of X"
+        ],
+        [
+            "齐岳",
+            "Employee of X",
+            "Servant of X"
+        ]
+    ],
+    "冯竹": [
+        [
+            "冯双骥",
+            "赵洛意"
+        ],
+        [
+            "赵万雷",
+            "Employer-Employee",
+            "Master-Servant"
+        ],
+        [
+            "赵卫",
+            "brother-in-law, husband of 赵洛意 "
+        ],
+        [
+            "赵洛意",
+            "Relationship 1: Servant-Master/Attendant-Employer",
+            "Relationship 2: Confidant/Close Friend"
+        ],
+        [
+            "赵秋儿",
+            "Employer-Employee",
+            "Master-Servant",
+            "father-daughter"
+        ],
+        [
+            "齐岳",
+            "acquaintance",
+            "helper"
+        ]
+    ],
+    "赵洛意": [
+        [
+            "冯双骥",
+            "冯竹"
+        ],
+        [
+            "冯双骥",
+            "Servant",
+            "Subordinate",
+            "Helper"
+        ],
+        [
+            "冯竹",
+            "Relationship 1: Servant-Master/Attendant-Employer",
+            "Relationship 2: Confidant/Close Friend"
+        ],
+        [
+            "赵万雷",
+            "Disciple of X",
+            "Employee of X",
+            "Protege of X"
+        ],
+        [
+            "赵卫",
+            "Father of X",
+            "Mentor of X"
+        ],
+        [
+            "赵秋儿",
+            "Friend",
+            "Mentor"
+        ]
+    ],
+    "赵万雷": [
+        [
+            "冯双骥",
+            "关系1",
+            "关系2"
+        ],
+        [
+            "冯竹",
+            "Employer-Employee",
+            "Master-Servant"
+        ],
+        [
+            "赵卫",
+            "Older Brother",
+            "Mentor",
+            "Benefactor",
+            "洗漱物品"
+        ],
+        [
+            "赵洛意",
+            "Master of X",
+            "Employer of X",
+            "Mentor of X"
+        ],
+        [
+            "赵秋儿",
+            "Husband of X",
+            "Father of X",
+            "Master of X",
+            "Employer of X"
+        ],
+        [
+            "齐岳",
+            "Employee of X",
+            "Servant of X",
+            "Informant of X"
+        ]
+    ],
+    "赵卫": [
+        [
+            "冯双骥",
+            "Employee of X",
+            "Servant of X"
+        ],
+        [
+            "冯竹",
+            "brother-in-law, husband of 赵洛意 "
+        ],
+        [
+            "赵万雷",
+            "Older Brother",
+            "Mentor",
+            "Benefactor",
+            "洗漱物品"
+        ],
+        [
+            "赵洛意",
+            "Master of X",
+            "Employer of X"
+        ],
+        [
+            "赵秋儿",
+            "Older Sister",
+            "Guardian"
+        ],
+        [
+            "齐岳",
+            "Master of X",
+            "Employee of X"
+        ]
+    ],
+    "赵秋儿": [
+        [
+            "冯双骥",
+            "Master of X",
+            "Employer of X",
+            "Mentor of X"
+        ],
+        [
+            "冯竹",
+            "Employer-Employee",
+            "Master-Servant",
+            "daughter-father"
+        ],
+        [
+            "赵万雷",
+            "Wife of X",
+            "Mother of X",
+            "Slave of X",
+            "Employee of X"
+        ],
+        [
+            "赵卫",
+            "Older Brother",
+            "Protector"
+        ],
+        [
+            "赵洛意",
+            "Friend",
+            "Mentee"
+        ],
+        [
+            "齐岳",
+            "Acquaintance",
+            "Helped by",
+            "Friend",
+            "Confidant"
+        ]
+    ],
+    "齐岳": [
+        [
+            "冯双骥",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "冯竹",
+            "acquaintance",
+            "helped"
+        ],
+        [
+            "赵万雷",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ],
+        [
+            "赵卫",
+            "master of X",
+            "subordinate of X"
+        ],
+        [
+            "赵秋儿",
+            "Acquaintance",
+            "Helper of",
+            "Friend",
+            "Mentor"
+        ]
+    ]
+}

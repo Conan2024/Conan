@@ -1,0 +1,54 @@
+{
+    "齐故飞": [
+      ["招楠", "friend of x, classmate of x, love interest of x"], 
+      ["黑莉", "friend of x, colleague of x, rival of x"], 
+      ["贵郎", "brother of x, student of x, acquaintance of x"], 
+      ["罗有诺", "friend of x, suspect of x, roommate of x"], 
+      ["王子摩", "acquaintance of x, suspect of x"]
+    ],
+    "黑莉": [
+      ["齐故飞", "friend of x, colleague of x, rival of x"], 
+      ["招楠", "friend of x, colleague of x, rival of x"], 
+      ["贵郎", "friend of x, colleague of x, rival of x"], 
+      ["罗有诺", "friend of x, suspect of x"]
+    ],
+    "招楠": [
+      ["齐故飞", "friend of x, classmate of x, love interest of x"], 
+      ["黑莉", "friend of x, colleague of x, rival of x"], 
+      ["贵郎", "brother of x, student of x, acquaintance of x"], 
+      ["罗有诺", "friend of x, suspect of x"]
+    ],
+    "贵郎": [
+      ["齐故飞", "brother of x, student of x, acquaintance of x"], 
+      ["黑莉", "friend of x, colleague of x, rival of x"], 
+      ["招楠", "brother of x, student of x, acquaintance of x"]
+    ],
+    "阮太太": [
+      ["招楠", "landlady of x, guardian of x"], 
+      ["黑莉", "landlady of x, guardian of x"], 
+      ["贵郎", "landlady of x, guardian of x"]
+    ],
+    "罗秀才": [
+      ["招楠", "teacher of x, perpetrator of x"], 
+      ["黑莉", "sister of x, friend of x"]
+    ],
+    "罗有诺": [
+      ["阮太太", "mother of x"], 
+      ["雪嫣", "sister of x"]
+    ],
+    "雪嫣": [
+      ["阮太太", "sister of x"], 
+      ["罗有诺", "sister of x"]
+    ],
+    "阮宅": [
+      ["阮太太", "owner of x"], 
+      ["招楠", "tenant of x"]
+    ],
+    "王子摩": [
+      ["齐故飞", "acquaintance of x, suspect of x"], 
+      ["黑莉", "acquaintance of x, suspect of x"]
+    ],
+    "阮招楠": [
+      ["王子摩", "wife of x"]
+    ]
+}

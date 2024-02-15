@@ -1,0 +1,30 @@
+{
+    "黑莉": [
+      ["招楠", "friend of x, mentor of x"], 
+      ["贵郎", "acquaintance of x, friend of x"], 
+      ["阮太太", "tenant of x"], 
+      ["望娣", "sibling of x, friend of x"], 
+      ["罗秀才", "acquaintance of x, teacher of x"]
+    ],
+    "贵郎": [
+      ["黑莉", "acquaintance of x, friend of x"], 
+      ["招楠", "friend of x"], 
+      ["阮太太", "mother of x"]
+    ],
+    "阮太太": [
+      ["黑莉", "tenant of x"], 
+      ["贵郎", "son of x"]
+    ],
+    "望娣": [
+      ["黑莉", "sibling of x, friend of x"], 
+      ["贵郎", "brother of x, friend of x"]
+    ],
+    "罗秀才": [
+      ["黑莉", "acquaintance of x, teacher of x"], 
+      ["贵郎", "acquaintance of x"]
+    ],
+    "招楠": [
+      ["黑莉", "friend of x, mentor of x"], 
+      ["贵郎", "friend of x"]
+    ]
+}

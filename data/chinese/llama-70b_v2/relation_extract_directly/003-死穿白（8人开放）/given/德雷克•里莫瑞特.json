@@ -1,0 +1,30 @@
+{
+    "德雷克•里莫瑞特": [
+      ["汉斯•里莫瑞特", "brother of x, real hanus of x"], 
+      ["盖尔•里莫瑞特", "sister in law of x, wife of x hanus"], 
+      ["理查德•伯克利", "colleague of x, helper of x"]
+    ],
+    "汉斯•里莫瑞特": [
+      ["德雷克•里莫瑞特", "brother of x, substitute of x"], 
+      ["盖尔•里莫瑞特", "wife of x, sister in law of x"]
+    ],
+    "盖尔•里莫瑞特": [
+      ["德雷克•里莫瑞特", "brother in law of x, husband of x hanus"], 
+      ["汉斯•里莫瑞特", "husband of x, brother in law of x"]
+    ],
+    "理查德•伯克利": [
+      ["德雷克•里莫瑞特", "colleague of x, helper of x"], 
+      ["汉斯•里莫瑞特", "colleague of x, helper of x"]
+    ],
+    "帕洛斯基医生": [
+      ["德雷克•里莫瑞特", "colleague of x, friend of x"], 
+      ["理查德•伯克利", "colleague of x, friend of x"]
+    ],
+    "伊莱恩•卡特尔": [
+      ["帕洛斯基医生", "supervisor of x, teacher of x"], 
+      ["德雷克•里莫瑞特", "acquaintance of x"]
+    ],
+    "西尔维亚•科斯塔": [
+      ["德雷克•里莫瑞特", "colleague of x, acquaintance of x"]
+    ]
+}

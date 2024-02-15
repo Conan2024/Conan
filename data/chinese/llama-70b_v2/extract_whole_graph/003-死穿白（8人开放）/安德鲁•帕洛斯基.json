@@ -1,0 +1,49 @@
+{
+    "安德鲁•帕洛斯基": [
+      ["汉斯·里莫瑞特", "co worker of x, friend of x, rival of x"], 
+      ["妻子", "love of x, family of x, colleague's wife of x"], 
+      ["儿子", "family of x, student of x, colleague's son of x"], 
+      ["汤姆", "spiritual guide of x, mentor of x"], 
+      ["卡特", "immediate supervisor of x, tormentor of x"], 
+      ["院长伯克利", "supervisor of x, acquaintance of x"], 
+      ["护士长科斯塔", "colleague of x, uncooperative of x"], 
+      ["神父汤姆", "mentor of x, confidant of x"], 
+      ["盖尔·里莫瑞特", "colleague's spouse of x, unknown of x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["安德鲁·帕洛斯基", "co worker of x, friend of x, rival of x"], 
+      ["帕洛斯基的妻子", "colleague's wife of x"]
+    ],
+    "妻子": [
+      ["安德鲁·帕洛斯基", "love of x, family of x, colleague's wife of x"], 
+      ["医生", "colleague of x"]
+    ],
+    "儿子": [
+      ["安德鲁·帕洛斯基", "family of x, student of x, colleague's son of x"], 
+      ["医生", "colleague's son of x"]
+    ],
+    "汤姆": [
+      ["安德鲁·帕洛斯基", "spiritual guide of x, mentor of x"], 
+      ["医生", "colleague's spiritual guide of x"]
+    ],
+    "卡特": [
+      ["安德鲁·帕洛斯基", "immediate supervisor of x, tormentor of x"], 
+      ["医生", "colleague's immediate supervisor of x"]
+    ],
+    "院长伯克利": [
+      ["安德鲁·帕洛斯基", "supervisor of x, acquaintance of x"], 
+      ["医生", "supervisor of x"]
+    ],
+    "护士长科斯타": [
+      ["安德鲁·帕洛斯基", "colleague of x, uncooperative of x"], 
+      ["医生", "colleague of x"]
+    ],
+    "神父汤姆": [
+      ["安德鲁·帕洛斯基", "mentor of x, confidant of x"], 
+      ["医生", "colleague's mentor of x"]
+    ],
+    "盖尔·里莫瑞特": [
+      ["安德鲁·帕洛斯基", "colleague's spouse of x, unknown of x"], 
+      ["医生", "colleague's spouse of x"]
+    ]
+}

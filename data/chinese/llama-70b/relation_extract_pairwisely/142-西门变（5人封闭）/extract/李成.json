@@ -1,0 +1,106 @@
+{
+    "李成": [
+        [
+            "赵中正",
+            "Brother of X",
+            "Sibling of X"
+        ],
+        [
+            "赵中杨",
+            "Master",
+            "Employer"
+        ],
+        [
+            "陈媚儿",
+            "savior",
+            "confidant",
+            "enemy",
+            "friend"
+        ],
+        [
+            "张伟",
+            "master-servant",
+            "spy",
+            "friend"
+        ]
+    ],
+    "赵中正": [
+        [
+            "李成",
+            "Brother of X",
+            "Sibling of X"
+        ],
+        [
+            "赵中杨",
+            "Older Brother"
+        ],
+        [
+            "陈媚儿",
+            "Perpetrator of X",
+            "Attempted Murderer of X"
+        ],
+        [
+            "张伟",
+            "Master- Servant",
+            "Perpetrator- Victim"
+        ]
+    ],
+    "赵中杨": [
+        [
+            "李成",
+            "Servant",
+            "Employee"
+        ],
+        [
+            "赵中正",
+            "Younger Brother"
+        ],
+        [
+            "陈媚儿",
+            "master-servant, friend"
+        ],
+        [
+            "张伟",
+            "Friend, Savior"
+        ]
+    ],
+    "陈媚儿": [
+        [
+            "李成",
+            "savior",
+            "confidant",
+            "enemy",
+            "friend"
+        ],
+        [
+            "赵中正",
+            "Victim of X",
+            "Attempted Perpetrator of X"
+        ],
+        [
+            "赵中杨",
+            "master-servant, friend"
+        ],
+        [
+            "张伟",
+            "master"
+        ]
+    ],
+    "张伟": [
+        [
+            "李成",
+            "master-servant",
+            "unaware of spy",
+            "friend"
+        ],
+        [
+            "赵中正",
+            "Master- Servant",
+            "Perpetrator- Victim"
+        ],
+        [
+            "赵中杨",
+            "Friend, Saved"
+        ]
+    ]
+}

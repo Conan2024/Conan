@@ -1,0 +1,146 @@
+{
+    "山姆": [
+        [
+            "父亲",
+            "son of x"
+        ],
+        [
+            "老布莱克",
+            "information receiver from x, employee of x"
+        ],
+        [
+            "安妮",
+            "lover of x, romantic relationships with x"
+        ],
+        [
+            "杰克",
+            "adversary of x, romantic rival of x"
+        ],
+        [
+            "小布莱克",
+            "acquaintance of x, colleague of x, friend of x"
+        ],
+        [
+            "杰西帕",
+            "acquaintance of x, child of x's father's colleague, helper of x"
+        ],
+        [
+            "科恩•帕克",
+            "acquaintance of x"
+        ]
+    ],
+    "父亲": [
+        [
+            "老布莱克",
+            "colleague of x"
+        ],
+        [
+            "小布莱克",
+            "father of x's colleague"
+        ],
+        [
+            "山姆",
+            "father of x"
+        ],
+        [
+            "杰西帕",
+            "father of x's colleague"
+        ]
+    ],
+    "老布莱克": [
+        [
+            "山姆",
+            "employer of x, patient of x"
+        ],
+        [
+            "小布莱克",
+            "father of x"
+        ],
+        [
+            "杰西帕",
+            "employer of x's father"
+        ],
+        [
+            "安妮",
+            "kill target of x's lover, disliked by x"
+        ],
+        [
+            "科恩•帕克",
+            "employer of x"
+        ]
+    ],
+    "安妮": [
+        [
+            "山姆",
+            "lover of x, manipulator of x"
+        ],
+        [
+            "杰克",
+            "wife of x, victim of x"
+        ],
+        [
+            "老布莱克",
+            "target of x's hatred"
+        ],
+        [
+            "小布莱克",
+            "acquaintance of x"
+        ]
+    ],
+    "杰克": [
+        [
+            "安妮",
+            "husband of x, perpetrator of x"
+        ],
+        [
+            "山姆",
+            "enemy of x, deceived by x"
+        ],
+        [
+            "小布莱克",
+            "business partner of x"
+        ]
+    ],
+    "小布莱克": [
+        [
+            "老布莱克",
+            "son of x, disliked by x"
+        ],
+        [
+            "山姆",
+            "acquaintance of x, friend of x, client of x"
+        ],
+        [
+            "杰西帕",
+            "admired by x"
+        ],
+        [
+            "杰克",
+            "business partner of x"
+        ]
+    ],
+    "杰西帕": [
+        [
+            "老布莱克",
+            "daughter of x's employee"
+        ],
+        [
+            "山姆",
+            "acquaintance of x, colleague of x"
+        ],
+        [
+            "小布莱克",
+            "admired by x"
+        ]
+    ],
+    "科恩•帕克": [
+        [
+            "老布莱克",
+            "employee of x"
+        ],
+        [
+            "山姆",
+            "acquaintance of x"
+        ]
+    ]
+}

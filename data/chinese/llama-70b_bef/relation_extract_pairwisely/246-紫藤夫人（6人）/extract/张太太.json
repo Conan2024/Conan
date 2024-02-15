@@ -1,0 +1,52 @@
+{
+    "张太太": [
+      ["张俊诗", "husband of x"], 
+      ["于尚勇", "friend of x"]
+    ],
+    "张俊诗": [
+      ["张太太", "wife of x"], 
+      ["葛继先", "husband of x"], 
+      ["月萝", "husband of x, father of x"], 
+      ["于尚勇", "husband of x, doctor of x, employer of x, landlord of x"], 
+      ["稚筠", "father of x, uncle of x, cousin of x, brother in law of x, husband of x"], 
+      ["乐婉", "lover of x, friend of x, acquaintance of x, colleague of x, business partner of x, customer of x, student of x"]
+    ],
+    "葛继先": [
+      ["张俊诗", "father in law of x"], 
+      ["月萝", "acquaintance of x"], 
+      ["朱陵山", "relative of x"], 
+      ["稚筠", "father of x, grandfather of x, uncle of x"]
+    ],
+    "月萝": [
+      ["张俊诗", "wife of x, daughter of x"], 
+      ["朱陵山", "relative of x"], 
+      ["于尚勇", "friend of x"]
+    ],
+    "朱陵山": [
+      ["葛继先", "husband of x"], 
+      ["于彦诚", "friend of x"], 
+      ["乐婉", "relative of x, friend of x, acquaintance of x"]
+    ],
+    "于彦诚": [
+      ["朱陵山", "friend of x"], 
+      ["于尚勇", "acquaintance of x"]
+    ],
+    "于尚勇": [
+      ["张太太", "friend of x"], 
+      ["张俊诗", "friend of x, patient of x, employee of x, tenant of x"], 
+      ["月萝", "friend of x"], 
+      ["于彦诚", "acquaintance of x"], 
+      ["niece", "uncle of x, cousin of x"]
+    ],
+    "稚筠": [
+      ["张俊诗", "father of x, uncle of x, cousin of x, brother in law of x, husband of x"], 
+      ["葛继先", "father of x, grandfather of x, uncle of x"], 
+      ["niece", "uncle of x, cousin of x"], 
+      ["乐婉", "niece of x"]
+    ],
+    "乐婉": [
+      ["张俊诗", "lover of x, friend of x, acquaintance of x, colleague of x, business partner of x, customer of x, student of x"], 
+      ["朱陵山", "relative of x, friend of x, acquaintance of x"], 
+      ["稚筠", "daughter in law of x"]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "麦克斯•派克": [
+      ["乔•罗伯特森", "coworker of x, accomplice of x, friend of x"], 
+      ["哈罗德•哈里森", "乔•罗伯特森 of x, 玛丽娜•哈里森 of x, 露西•哈里森 of x"], 
+      ["玛丽娜•哈里森", "colleague of x, business partner of x, associate of x, acquaintance of x, friend of x"], 
+      ["露西•哈里森", "acquaintance of x, co conspirator of x, partner in crime of x, rival of x, enemy of x"], 
+      ["克里斯丁•邓恩", "乔•罗伯特森 of x, 哈罗德•哈里森 of x, 玛丽娜•哈里森 of x, 露西•哈里森 of x"], 
+      ["丹尼尔", "乔•罗伯特森 of x, 哈罗德•哈里森 of x, 玛丽娜•哈里森 of x, 露西•哈里森 of x"]
+    ],
+    "乔•罗伯特森": [
+      ["麦克斯•派克", "coworker of x, accomplice of x, friend of x"], 
+      ["哈罗德•哈里森", "friend of x, co conspirator of x"], 
+      ["玛丽娜•哈里森", "friend of x, co conspirator of x"], 
+      ["丹尼尔", "cooperative partner of x"]
+    ],
+    "哈罗德•哈里森": [
+      ["麦克斯•派克", "玛丽娜•哈里森 of x, 露西•哈里森 of x"], 
+      ["乔•罗伯特森", "friend of x, co conspirator of x"], 
+      ["玛丽娜•哈里森", "coworker of x, classmate of x"], 
+      ["露西•哈里森", "husband of x, father of x, son of x, brother of x, friend of x, helper of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x"], 
+      ["克里斯丁•邓恩", "acquaintance of x"], 
+      ["丹尼尔", "对手 of x, 竞争对手 of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["麦克斯•派克", "husband of x, stranger of x, acquaintance of x, friend of x"], 
+      ["乔•罗伯特森", "friend of x, co conspirator of x"], 
+      ["哈罗德•哈里森", "spouse of x, friend of x"], 
+      ["露西•哈里森", "妻子 of x, 朋友 of x"], 
+      ["克里斯丁•邓恩", "acquaintance of x"], 
+      ["丹尼尔", "朋友 of x, 同谋报复者 of x, 嫌疑人 of x"]
+    ],
+    "露西•哈里森": [
+      ["麦克斯•派克", "acquaintance of x, co conspirator of x, partner in crime of x, rival of x, enemy of x"], 
+      ["哈罗德•哈里森", "wife of x, mother of x, daughter of x, sister of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x"], 
+      ["玛丽娜•哈里森", "儿女 of x, 朋友 of x"], 
+      ["克里斯丁•邓恩", "acquaintance of x"]
+    ],
+    "克里斯丁•邓恩": [
+      ["麦克斯•派克", "乔•罗伯特森 of x, 哈罗德•哈里森 of x, 玛丽娜•哈里森 of x, 露西•哈里森 of x"], 
+      ["哈罗德•哈里森", "acquaintance of x"], 
+      ["玛丽娜•哈里森", "acquaintance of x"], 
+      ["露西•哈里森", "acquaintance of x"], 
+      ["丹尼尔", "acquaintance of x"]
+    ],
+    "丹尼尔": [
+      ["麦克斯•派克", "乔•罗伯特森 of x, 哈罗德•哈里森 of x, 玛丽娜•哈里森 of x, 露西•哈里森 of x"], 
+      ["乔•罗伯特森", "cooperative partner of x"], 
+      ["哈罗德•哈里森", "对手 of x, 竞争对手 of x"], 
+      ["玛丽娜•哈里森", "朋友 of x, 同谋报复者 of x, 嫌疑人 of x"], 
+      ["克里斯丁•邓恩", "acquaintance of x"]
+    ]
+}

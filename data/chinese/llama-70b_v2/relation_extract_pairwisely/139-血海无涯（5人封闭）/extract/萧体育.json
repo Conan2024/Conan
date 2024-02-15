@@ -1,0 +1,28 @@
+{
+    "萧体育": [
+      ["薛媚娘", "relationship 1: boyfriend   girlfriend of x, relationship 2: student   teacher of x, relationship 3: colleague   colleague of x, relationship 4: friend   friend of x"], 
+      ["庄清纯", "boyfriend and girlfriend of x, extramarital affair, romantic relationships of x, secret lovers of x, forbidden love of x, illicit relationship of x, on again of x, off again relationship of x, complicated relationship of x, conflicted relationship of x, star crossed lovers of x"], 
+      ["贾美丽", "wife of x, romantic relationships with x, extramarital affair with x"]
+    ],
+    "薛媚娘": [
+      ["萧体育", "relationship 1: boyfriend   girlfriend of x, relationship 2: student   teacher of x, relationship 3: colleague   colleague of x, relationship 4: friend   friend of x"], 
+      ["庄清纯", "wife of x, lover of x"], 
+      ["秦老大", "boyfriend of x, cheater of x"]
+    ],
+    "庄清纯": [
+      ["萧体育", "boyfriend and girlfriend of x, extramarital affair, romantic relationships of x, secret lovers of x, forbidden love of x, illicit relationship of x, on again of x, off again relationship of x, complicated relationship of x, conflicted relationship of x, star crossed lovers of x"], 
+      ["薛媚娘", "husband of x, lover of x"], 
+      ["贾美丽", "classmate of x, friend of x"], 
+      ["秦老大", "恋人 of x, 密友 of x, 同事 of x, 邻居 of x"]
+    ],
+    "贾美丽": [
+      ["萧体育", "husband of x, romantic relationships with x, extramarital affair with x"], 
+      ["庄清纯", "classmate of x, friend of x"], 
+      ["秦老大", "enemy of x"]
+    ],
+    "秦老大": [
+      ["薛媚娘", "girlfriend of x, cheater of x"], 
+      ["庄清纯", "恋人 of x, 密友 of x, 同事 of x, 邻居 of x"], 
+      ["贾美丽", "acquaintance of x"]
+    ]
+}

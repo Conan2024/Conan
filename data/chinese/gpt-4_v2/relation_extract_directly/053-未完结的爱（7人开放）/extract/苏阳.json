@@ -1,0 +1,54 @@
+{
+    "苏阳": [
+      ["林惟仁", "student of x, enemy of x, murderer of x"], 
+      ["林夕", "fiance of x, same person as 林彤 (different identity) of x, romantic relationships with x"], 
+      ["林彤", "ex romantic relationships with x, deceased of x, organ donor of x 林夕"], 
+      ["顾明和", "father of x 顾晴, adversary of x, murder victim of x (indirect), disliked by x"], 
+      ["顾晴", "admirer of x, unreciprocated love of x, acquaintance of x"], 
+      ["沈城", "father of x 林彤, in law of x, disliked by x"], 
+      ["秦思琴", "mother in law of x (deceased)"], 
+      ["林阳", "acquaintance of x"]
+    ],
+    "林惟仁": [
+      ["苏阳", "mentor of x, victim of x, blackmailed by x"], 
+      ["林夕", "father of x"], 
+      ["林彤", "directly responsible for death of x"], 
+      ["顾明和", "business associate of x"], 
+      ["沈城", "employee of x"]
+    ],
+    "林夕": [
+      ["苏阳", "fiancee of x, same person as 林彤 (different identity) of x, romantic relationships with x"], 
+      ["林惟仁", "daughter of x, murderer of x (indirect)"], 
+      ["林彤", "same person as x (different identity), organ recipient of x"], 
+      ["顾宇", "ex boyfriend of x"]
+    ],
+    "顾明和": [
+      ["苏阳", "murdered indirectly by x, adversary of x"], 
+      ["顾晴", "father of x"], 
+      ["顾宇", "father of x (speculative)"]
+    ],
+    "顾晴": [
+      ["苏阳", "admirer of x, unreciprocated love of x"], 
+      ["林夕", "friend of x, rival in love of x"], 
+      ["顾明和", "daughter of x"]
+    ],
+    "沈城": [
+      ["苏阳", "in law of x, disliked by x"], 
+      ["林惟仁", "employee of x"], 
+      ["林彤", "father of x"], 
+      ["秦思琴", "husband of x (deceased)"]
+    ],
+    "秦思琴": [
+      ["沈城", "wife of x (deceased)"], 
+      ["林彤", "mother of x (deceased)"], 
+      ["林夕", "mother of x (deceased, identity not directly stated) of x"], 
+      ["苏阳", "mother in law of x (deceased)"]
+    ],
+    "林阳": [
+      ["苏阳", "acquaintance of x"]
+    ],
+    "顾宇": [
+      ["林夕", "ex boyfriend of x, still has feelings for x"], 
+      ["顾明和", "son of x (speculative)"]
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "石燕": [
+      ["武林盟的调查人员", "deceiver of x, secret adversary of x, murderer of x"], 
+      ["蜂", "deceiver of x, perpetrator of x"], 
+      ["红花夫人", "student of x, child of x, mentee of x, aided by x, quest companion of x"], 
+      ["杜仲", "perpetrator of x, student of x's victim, deceiver of x, possessor of x's belongings"], 
+      ["陆英", "enemy of x, perpetrator of x, deceiver of x"]
+    ],
+    "武林盟的调查人员": [
+      ["石燕", "deceived by x, victim of x"], 
+      ["蜂", "deceiver of x, murderer of x, student of x, impersonator of x"], 
+      ["红花夫人", "same person as x (different identity), student of x, informant of x, manipulated by x"], 
+      ["杜仲", "perpetrator of x, deceiver of x, enemy of x"], 
+      ["陆英", "deceiver of x"]
+    ],
+    "蜂": [
+      ["石燕", "deceived by x, victim of x"], 
+      ["武林盟的调查人员", "victim of x, deceived by x, teacher of x"], 
+      ["红花夫人", "student of x, child of x, helper of x, revenge seeker of x's enemy"], 
+      ["杜仲", "perpetrator of x, teacher of x"], 
+      ["陆英", "perpetrator of x"]
+    ],
+    "红花夫人": [
+      ["石燕", "mentor of x, mother of x (non biological), helper of x, aid provider of x, quest companion of x"], 
+      ["武林盟的调查人员", "mentor of x, information receiver from x, manipulator of x"], 
+      ["蜂", "mentor of x, mother of x, helped by x, victim's mentor of x"], 
+      ["杜仲", "teacher of x, romantic relationships with x, deceived by x"]
+    ],
+    "杜仲": [
+      ["石燕", "victim of x, deceived x, teacher of x's victim"], 
+      ["武林盟的调查人员", "victim of x, deceived by x, teacher of x"], 
+      ["蜂", "victim of x, student of x"], 
+      ["红花夫人", "student of x, romantic relationships with x, deceiver of x"], 
+      ["陆英", "victim of x"]
+    ],
+    "陆英": [
+      ["石燕", "victim of x, deceived by x, adversary of x"], 
+      ["武林盟的调查人员", "information receiver from x, deceived by x"], 
+      ["蜂", "subject of x investigation for x"], 
+      ["杜仲", "master of x"]
+    ]
+}

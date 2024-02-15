@@ -1,0 +1,126 @@
+{
+    "张伟": [
+        [
+            "赵三",
+            "Friend/Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "赵中杨",
+            " acquaintance, business partner, co-conspirator"
+        ],
+        [
+            "赵中正",
+            "Business Partner, acquaintance"
+        ],
+        [
+            "陈媚儿",
+            "Friend"
+        ],
+        [
+            "马老板",
+            "Business Partner, acquaintance"
+        ]
+    ],
+    "赵三": [
+        [
+            "张伟",
+            "Friend/Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "赵中杨",
+            "friend, rival"
+        ],
+        [
+            "赵中正",
+            "adoptive brother, perpetrator"
+        ],
+        [
+            "陈媚儿",
+            "Servant-Master",
+            "Business Partners",
+            "Unrequited Love"
+        ],
+        [
+            "马老板",
+            "subordinate",
+            "spy",
+            "rival",
+            "business partner",
+            "personal relationship"
+        ]
+    ],
+    "赵中杨": [
+        [
+            "张伟",
+            "acquaintance, business partner, co-conspirator"
+        ],
+        [
+            "赵三",
+            "friend, rival"
+        ],
+        [
+            "赵中正",
+            "brother"
+        ],
+        [
+            "陈媚儿",
+            "Wife of X"
+        ]
+    ],
+    "赵中正": [
+        [
+            "张伟",
+            "Business Partner, acquaintance"
+        ],
+        [
+            "赵三",
+            "adoptive brother, victim"
+        ],
+        [
+            "赵中杨",
+            "brother"
+        ]
+    ],
+    "陈媚儿": [
+        [
+            "张伟",
+            "Friend"
+        ],
+        [
+            "赵三",
+            "Servant-Master",
+            "Business Partners",
+            "Unrequited Love"
+        ],
+        [
+            "赵中杨",
+            "Husband of X"
+        ],
+        [
+            "马老板",
+            "relationship 1: Employer-Employee",
+            "relationship 2: Informant"
+        ]
+    ],
+    "马老板": [
+        [
+            "张伟",
+            "Business Partner, acquaintance"
+        ],
+        [
+            "赵三",
+            "subordinate",
+            "spy",
+            "rival",
+            "business partner",
+            "personal relationship"
+        ],
+        [
+            "陈媚儿",
+            "relationship 1: Employer-Employee",
+            "relationship 2: Informant"
+        ]
+    ]
+}

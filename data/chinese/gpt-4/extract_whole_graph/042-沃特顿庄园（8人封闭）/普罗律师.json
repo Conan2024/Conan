@@ -1,0 +1,62 @@
+{
+    "普罗律师": [
+        [
+            "罗杰爵士",
+            "employee of x, friend of x, child of x, possibly family of x, blackmailed by x, victim of x"
+        ],
+        [
+            "罗格",
+            "jealous of x, disliked by x, adversary of x, suspected by x"
+        ],
+        [
+            "马尔医生",
+            "colleague of x, acquaintance of x, rejected helper of x"
+        ],
+        [
+            "艾秘书",
+            "suspected by x, acquainted by x"
+        ],
+        [
+            "兰迪",
+            "acquaintance of x, helped by x"
+        ]
+    ],
+    "罗杰爵士": [
+        [
+            "普罗律师",
+            "employer of x, friend of x, father of x, blackmailer of x, victim of x"
+        ],
+        [
+            "罗格",
+            "fondness of x"
+        ]
+    ],
+    "罗格": [
+        [
+            "普罗律师",
+            "jealous by x, disliked by x, suspect to x, adversary of x"
+        ]
+    ],
+    "马尔医生": [
+        [
+            "普罗律师",
+            "colleague of x, acquaintance of x, rejected by x"
+        ]
+    ],
+    "艾秘书": [
+        [
+            "普罗律师",
+            "suspected by x, acquaintance of x"
+        ],
+        [
+            "罗杰爵士",
+            "employee of x, manipulator of x"
+        ]
+    ],
+    "兰迪": [
+        [
+            "普罗律师",
+            "acquaintance of x, seeker of help from x"
+        ]
+    ]
+}

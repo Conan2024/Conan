@@ -1,0 +1,64 @@
+{
+    "肖元武": [
+        [
+            "肖千山",
+            "father of x"
+        ],
+        [
+            "南语风",
+            "business partner of x, informant of x, quest companion of x"
+        ],
+        [
+            "李齐心",
+            "suspected by x, victim of x"
+        ],
+        [
+            "狙击手",
+            "employee of x"
+        ]
+    ],
+    "肖千山": [
+        [
+            "肖元武",
+            "son of x"
+        ],
+        [
+            "李齐心",
+            "colleague of x, attempted perpetrator of x"
+        ],
+        [
+            "南语风",
+            "acquaintance of x, colleague of x, possibly family of x"
+        ]
+    ],
+    "南语风": [
+        [
+            "肖元武",
+            "business partner of x, information receiver from x, quest companion of x"
+        ],
+        [
+            "李齐心",
+            "subordinate of x, dislike of x, perpetrator of x"
+        ],
+        [
+            "肖千山",
+            "acquaintance of x, colleague of x, possibly family of x"
+        ]
+    ],
+    "李齐心": [
+        [
+            "肖元武",
+            "suspect of x, victim of x"
+        ],
+        [
+            "肖千山",
+            "colleague of x, attempted perpetrator of x"
+        ]
+    ],
+    "狙击手": [
+        [
+            "肖元武",
+            "employee of x"
+        ]
+    ]
+}

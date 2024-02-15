@@ -1,0 +1,128 @@
+{
+    "冯双骥": [
+      ["任师父", "student of x, adoptive son of x"], 
+      ["李郁", "helper of x, information receiver from x, trusted by x, illicit lover with x, secretly helped by x"], 
+      ["赵万雷", "helper of x, employee of x, co conspirator with x, secret lover of x, murderer of x"], 
+      ["赵卫", "guardian of x, storyteller of x, emotional support for x, substitute father figure of x, secret keeper of x, unwitting manipulator of x"], 
+      ["赵洛意", "helper of x, secret lover of x, father of x's child"], 
+      ["冯竹", "father of x"], 
+      ["尹少鸣", "deceiver of x, suspect of x, secret admirer of x, manipulated by x, collaborator with x"], 
+      ["郭望山", "acquaintance of x, business partner of x"], 
+      ["赵秋儿", "helper of x, helper of x's child, secret lover of x"], 
+      ["齐岳", "employee of x, helper of x, possibly family of x"]
+    ],
+    "任师父": [
+      ["冯双骥", "mentor of x, adoptive father of x"], 
+      ["李郁", "teacher of x, mentor of x"], 
+      ["赵万雷", "mentor of x, friend of x"], 
+      ["赵卫", "mentor of x"], 
+      ["赵洛意", "mentor of x"], 
+      ["冯竹", "mentor of x"], 
+      ["尹少鸣", "mentor of x"], 
+      ["赵秋儿", "acquaintance of x"], 
+      ["齐岳", "mentor of x, information receiver from x"]
+    ],
+    "李郁": [
+      ["冯双骥", "employer of x, trusting x, helped by x, affair with x"], 
+      ["任师父", "student of x"], 
+      ["赵万雷", "wife of x, extramarital affair with x, victim of x"], 
+      ["赵卫", "mother of x"], 
+      ["赵洛意", "mother of x, extramarital affair with x"], 
+      ["冯竹", "affair with x, child of x"], 
+      ["冯双骥", "extramarital affair with x, child of x, helper of x, helped by x, quest companion of x, information receiver from x, lover of x, secret lover of x, adulterer of x, subordinate of x"], 
+      ["赵秋儿", "employer of x, x’s victim's family"], 
+      ["齐岳", "acquaintance of x"]
+    ],
+    "赵万雷": [
+      ["冯双骥", "superior of x, employer of x, victim of x"], 
+      ["任师父", "student of x, friend of x"], 
+      ["李郁", "husband of x, perpetrator of x, deceived by x"], 
+      ["赵卫", "father of x"], 
+      ["赵洛意", "father of x"], 
+      ["冯竹", "helper of x, secret lover of x, plotter against x, murderer of x"], 
+      ["尹少鸣", "victim of x, employer of x, manipulated by x"], 
+      ["郭望山", "customer of x, business partner of x"], 
+      ["赵秋儿", "employer of x"], 
+      ["齐岳", "helper of x, employer of x, acquaintance of x, superior of x"]
+    ],
+    "赵卫": [
+      ["冯双骥", "guardian of x, storyteller of x, emotional support for x, substitute father figure of x, secret keeper of x, unwitting manipulator of x"], 
+      ["任师父", "student of x"], 
+      ["李郁", "child of x"], 
+      ["赵万雷", "son of x"], 
+      ["赵洛意", "sibling of x, brother of x, biological son of x"], 
+      ["冯竹", "sibling of x"], 
+      ["尹少鸣", "victim of x"], 
+      ["郭望山", "employer of x, x's victim's family"], 
+      ["赵秋儿", "child of x"], 
+      ["齐岳", "friend of x, possibly family of x, acquaintance of x, quest companion of x, information receiver from x"]
+    ],
+    "赵洛意": [
+      ["冯双骥", "helped by x, child of x, admirer of x"], 
+      ["任师父", "student of x"], 
+      ["李郁", "child of x"], 
+      ["赵万雷", "daughter of x"], 
+      ["赵卫", "sibling of x, sister of x, biological daughter of x"], 
+      ["冯竹", "child of x, daughter of x"], 
+      ["冯双骥", "child of x, possibly family of x, victim of x"], 
+      ["赵秋儿", "child of x, helper of x, helped by x"], 
+      ["齐岳", "acquaintance of x, possibly family of x, quest companion of x, protected by x"]
+    ],
+    "冯竹": [
+      ["冯双骥", "child of x"], 
+      ["任师父", "student of x"], 
+      ["李郁", "mother of x, extramarital affair with x"], 
+      ["赵万雷", "helper of x, helped by x, secret lover of x, victim's family of x"], 
+      ["赵卫", "sibling of x"], 
+      ["赵洛意", "father of x"], 
+      ["尹少鸣", "possible informant of x"], 
+      ["郭望山", "acquaintance of x, customer of x"], 
+      ["赵秋儿", "acquaintance of x"], 
+      ["齐岳", "student of x, helper of x"]
+    ],
+    "尹少鸣": [
+      ["冯双骥", "informant of x, possibly family of x, subordinate of x, manipulator of x, suspect to x"], 
+      ["任师父", "student of x"], 
+      ["赵万雷", "perpetrator of x, employee of x, manipulator of x"], 
+      ["赵卫", "perpetrator of x"], 
+      ["冯竹", "possible information receiver from x"], 
+      ["郭望山", "suspected by x, information receiver from x"], 
+      ["赵秋儿", "perpetrator of x"], 
+      ["齐岳", "informant of x, quest companion of x"]
+    ],
+    "郭望山": [
+      ["冯双骥", "acquaintance of x, business partner of x"], 
+      ["冯双骥", "acquaintance of x, business partner of x, colleague of x, customer of x, information receiver from x"], 
+      ["赵万雷", "service provider of x, business partner of x"], 
+      ["赵卫", "employee of x, perpetrator of x's family"], 
+      ["赵洛意", "business partner of x, guest of x"], 
+      ["冯竹", "acquaintance of x, service provider of x"], 
+      ["尹少鸣", "suspect of x, informant of x"], 
+      ["赵秋儿", "acquaintance of x, business partner of x"], 
+      ["齐岳", "acquaintance of x, business partner of x"]
+    ],
+    "赵秋儿": [
+      ["冯双骥", "helped by x, protected by x, lover of x's father/husband"], 
+      ["任师父", "acquaintance of x"], 
+      ["李郁", "employee of x, friend of x"], 
+      ["赵万雷", "employee of x"], 
+      ["赵卫", "servant of x"], 
+      ["赵洛意", "maid of x, same person as x (different reference), friend of x"], 
+      ["冯竹", "acquaintance of x"], 
+      ["尹少鸣", "victim of x"], 
+      ["郭望山", "acquaintance of x"], 
+      ["齐岳", "acquaintance of x, colleague of x"]
+    ],
+    "齐岳": [
+      ["冯双骥", "employer of x, helped by x"], 
+      ["任师父", "student of x, informant of x"], 
+      ["李郁", "acquaintance of x"], 
+      ["赵万雷", "helped by x, employee of x, acquaintance of x, subordinate of x"], 
+      ["赵卫", "friend of x, possibly family of x, acquaintance of x, quest companion of x, informant of x"], 
+      ["赵洛意", "acquaintance of x, possibly family of x, protector of x, superior of x"], 
+      ["冯竹", "mentor of x, helped by x"], 
+      ["尹少鸣", "information receiver from x, quest companion of x"], 
+      ["郭望山", "acquaintance of x, helper of x"], 
+      ["赵秋儿", "acquaintance of x, colleague of x"]
+    ]
+}

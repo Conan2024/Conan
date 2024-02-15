@@ -1,0 +1,22 @@
+{
+    "你": [
+      ["山庄庄主杜仲", "friend of x"], 
+      ["二把手玄参", "friend of x, quest companion of x"], 
+      ["红花夫人", "romantic relationships with x, lover of x"]
+    ],
+    "山庄庄主杜仲": [
+      ["你", "friend of x"], 
+      ["二把手玄参", "subordinate of x"], 
+      ["红花夫人", "lover of x"]
+    ],
+    "二把手玄参": [
+      ["你", "friend of x, quest companion of x"], 
+      ["山庄庄主杜仲", "superior of x"], 
+      ["红花夫人", "possibly family of x"]
+    ],
+    "红花夫人": [
+      ["你", "romantic relationships with x, lover of x"], 
+      ["山庄庄主杜仲", "lover of x"], 
+      ["二把手玄参", "possibly family of x"]
+    ]
+}

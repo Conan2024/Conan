@@ -1,0 +1,44 @@
+{
+    "你": [
+      ["杨老板", "fiance of x"], 
+      ["张大副", "fellow crew members of x"], 
+      ["王船工", "exchanged secret information with"], 
+      ["王小工", "boyfriend of x"], 
+      ["雯秘书", "infornation receiver from of x"]
+    ],
+    "杨老板": [
+      ["你", "fiancee of x"], 
+      ["张大副", "business partner of x, suspicious of x"], 
+      ["王船工", "business partner of x"], 
+      ["王小工", "employee of x"], 
+      ["雯秘书", "helper of x"]
+    ],
+    "张大副": [
+      ["你", "fellow crew members of x"], 
+      ["杨老板", "business partner of x, suspicious of x"], 
+      ["王船工", "fiance of x"], 
+      ["王小工", "co worker of x, secret business dealings with of x"], 
+      ["雯秘书", "co worker of x"]
+    ],
+    "王船工": [
+      ["你", "exchanged secret information with"], 
+      ["杨老板", "business partner of x"], 
+      ["张大副", "fiancee of x"], 
+      ["王小工", "ex father in law of x"], 
+      ["雯秘书", "fiancee of x"]
+    ],
+    "王小工": [
+      ["你", "girlfriend of x"], 
+      ["杨老板", "employer of x"], 
+      ["张大副", "employee of x, secret business dealings with of x"], 
+      ["王船工", "ex son in law of x"], 
+      ["雯秘书", "girlfriend of x"]
+    ],
+    "雯秘书": [
+      ["你", "informant of x"], 
+      ["杨老板", "information receiver from x"], 
+      ["张大副", "co worker of x"], 
+      ["王船工", "fiance of x"], 
+      ["王小工", "boyfriend of x"]
+    ]
+}

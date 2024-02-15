@@ -1,0 +1,32 @@
+{
+    "弗兰克•比杰利": [
+        [
+            "托尼",
+            "older brother of x, mentor of x, deceiver of x"
+        ],
+        [
+            "神父汤姆",
+            "superior of x, crime partner of x, deceiver of x"
+        ]
+    ],
+    "托尼": [
+        [
+            "弗兰克•比杰利",
+            "student of x, younger brother of x, deceived by x"
+        ],
+        [
+            "神父汤姆",
+            "admired by x"
+        ]
+    ],
+    "神父汤姆": [
+        [
+            "弗兰克•比杰利",
+            "subordinate of x, crime partner of x"
+        ],
+        [
+            "托尼",
+            "admired by x"
+        ]
+    ]
+}

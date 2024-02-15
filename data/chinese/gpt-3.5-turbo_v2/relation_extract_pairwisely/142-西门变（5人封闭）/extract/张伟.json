@@ -1,0 +1,58 @@
+{
+    "张伟": [
+      ["赵家二公子赵中杨", "servant of x"], 
+      ["赵中正", "informant of x, helper of x"], 
+      ["陈媚儿", "servant of x"], 
+      ["李成", "helper of x"], 
+      ["赵三", "business partner of x"], 
+      ["马老板", "business partner of x"]
+    ],
+    "赵家二公子赵中杨": [
+      ["张伟", "master of x"], 
+      ["赵中正", "mentor of x, business partner of x"], 
+      ["陈媚儿", "fiancee of x"], 
+      ["李成", "bodyguard of x"], 
+      ["赵三", "ally of x"], 
+      ["马老板", "business partner of x"]
+    ],
+    "赵中正": [
+      ["张伟", "informant of x, helper of x"], 
+      ["赵家二公子赵中杨", "mentor of x, business partner of x"], 
+      ["陈媚儿", "husband of x"], 
+      ["李成", "ex girlfriend of x"], 
+      ["赵三", "secret partner in crime of x"], 
+      ["马老板", "business partner of x, secret lover of x"]
+    ],
+    "陈媚儿": [
+      ["张伟", "employer of x"], 
+      ["赵家二公子赵中杨", "fiance of x"], 
+      ["赵中正", "wife of x"], 
+      ["李成", "friend of x"], 
+      ["赵三", "romantic relationships with x"], 
+      ["马老板", "secret lover of x, lover of x"]
+    ],
+    "李成": [
+      ["张伟", "patient of x"], 
+      ["赵家二公子赵中杨", "master of x"], 
+      ["赵中正", "ex boyfriend of x"], 
+      ["陈媚儿", "friend of x"], 
+      ["赵三", "friend of x, helper of x"], 
+      ["马老板", "business partner of x"]
+    ],
+    "赵三": [
+      ["张伟", "business partner of x"], 
+      ["赵家二公子赵中杨", "ally of x"], 
+      ["赵中正", "secret partner in crime of x"], 
+      ["陈媚儿", "romantic relationships with x"], 
+      ["李成", "friend of x, helped by x"], 
+      ["马老板", "business partner of x"]
+    ],
+    "马老板": [
+      ["张伟", "business partner of x"], 
+      ["赵家二公子赵中杨", "business partner of x"], 
+      ["赵中正", "business partner of x, secret lover of x"], 
+      ["陈媚儿", "secret lover of x, lover of x"], 
+      ["李成", "business partner of x"], 
+      ["赵三", "business partner of x"]
+    ]
+}

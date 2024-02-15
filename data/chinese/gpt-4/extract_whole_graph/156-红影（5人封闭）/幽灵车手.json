@@ -1,0 +1,32 @@
+{
+    "幽灵车手（关若兰）": [
+        [
+            "萧千山（萧队长）",
+            "admired by x, deceiver of x, disliked by x"
+        ],
+        [
+            "李齐心",
+            "attempted perpetrator of x, enemy of x, disliked by x, victim of x"
+        ]
+    ],
+    "萧千山（萧队长）": [
+        [
+            "幽灵车手（关若兰）",
+            "admirer of x, deceived by x, dislike of x"
+        ],
+        [
+            "李齐心",
+            "stranger to x"
+        ]
+    ],
+    "李齐心": [
+        [
+            "幽灵车手（关若兰）",
+            "perpetrator of x, enemy of x, disliked by x, attempted victim of x"
+        ],
+        [
+            "萧千山（萧队长）",
+            "stranger to x"
+        ]
+    ]
+}

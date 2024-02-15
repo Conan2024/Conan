@@ -1,0 +1,62 @@
+{
+    "李警察": [
+        [
+            "王村长",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "胡调研",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "赵慈善",
+            "同事"
+        ]
+    ],
+    "王村长": [
+        [
+            "李警察",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "胡调研",
+            "friend"
+        ],
+        [
+            "赵慈善",
+            "监管者-被监管者",
+            "敌人",
+            "危险人物"
+        ]
+    ],
+    "胡调研": [
+        [
+            "李警察",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "王村长",
+            "friend"
+        ],
+        [
+            "赵慈善",
+            "Investigator - Suspect"
+        ]
+    ],
+    "赵慈善": [
+        [
+            "李警察",
+            "同事"
+        ],
+        [
+            "王村长",
+            "监管者-被监管者",
+            "敌人",
+            "危险人物"
+        ],
+        [
+            "胡调研",
+            "Suspect - Investigator"
+        ]
+    ]
+}

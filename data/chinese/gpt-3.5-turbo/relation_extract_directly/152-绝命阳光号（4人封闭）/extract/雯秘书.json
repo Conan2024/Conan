@@ -1,0 +1,201 @@
+{
+    "雯秘书": [
+        [
+            "杨老板",
+            "employer of 雯秘书"
+        ],
+        [
+            "很天真",
+            "co-worker of 雯秘书"
+        ],
+        [
+            "张大副",
+            "trade partner of 雯秘书"
+        ],
+        [
+            "玲船医",
+            "informant of 雯秘书",
+            "source of information for 雯秘书"
+        ],
+        [
+            "王船工",
+            "trade partner of 雯秘书"
+        ],
+        [
+            "王小工",
+            "potential ally for 雯秘书"
+        ],
+        [
+            "杨老板",
+            "adversary of 雯秘书"
+        ],
+        [
+            "很天真",
+            "victim of 雯秘书"
+        ],
+        [
+            "杨老板",
+            "suspected by 雯秘书"
+        ],
+        [
+            "杨老板",
+            "enemy of 雯秘书"
+        ],
+        [
+            "很天真",
+            "victim of 雯秘书"
+        ]
+    ],
+    "杨老板": [
+        [
+            "雯秘书",
+            "employee of 杨老板"
+        ],
+        [
+            "很天真",
+            "co-worker with 杨老板"
+        ],
+        [
+            "张大副",
+            "trade partner of 杨老板"
+        ],
+        [
+            "很天真",
+            "victim of 杨老板"
+        ],
+        [
+            "很天真",
+            "manipulated by 杨老板"
+        ],
+        [
+            "杨老板",
+            "adversary of 很天真"
+        ],
+        [
+            "雯秘书",
+            "adversary of 杨老板"
+        ],
+        [
+            "王小工",
+            "potential victim of 杨老板"
+        ],
+        [
+            "杨老板",
+            "suspected by 雯秘书"
+        ],
+        [
+            "杨老板",
+            "enemy of 雯秘书"
+        ],
+        [
+            "很天真",
+            "victim of 雯秘书"
+        ]
+    ],
+    "很天真": [
+        [
+            "杨老板",
+            "co-worker with 很天真"
+        ],
+        [
+            "雯秘书",
+            "co-worker with 很天真"
+        ],
+        [
+            "杨老板",
+            "suspected by 很天真"
+        ],
+        [
+            "杨老板",
+            "adversary of 很天真"
+        ],
+        [
+            "杨老板",
+            "manipulator of 很天真"
+        ],
+        [
+            "杨老板",
+            "enemy of 很天真"
+        ],
+        [
+            "杨老板",
+            "attempted perpetrator of 很天真"
+        ],
+        [
+            "杨老板",
+            "superior of 很天真"
+        ],
+        [
+            "很天真",
+            "victim of 杨老板"
+        ],
+        [
+            "雯秘书",
+            "victim of 很天真"
+        ]
+    ],
+    "张大副": [
+        [
+            "杨老板",
+            "trade partner of 张大副"
+        ],
+        [
+            "雯秘书",
+            "informant of 张大副"
+        ],
+        [
+            "王船工",
+            "trade partner of 张大副"
+        ]
+    ],
+    "玲船医": [
+        [
+            "杨老板",
+            "informant of 玲船医"
+        ],
+        [
+            "雯秘书",
+            "manipulator of 玲船医"
+        ],
+        [
+            "雯秘书",
+            "informant of 玲船医"
+        ],
+        [
+            "杨老板",
+            "adversary of 玲船医"
+        ],
+        [
+            "杨老板",
+            "suspected by 玲船医"
+        ]
+    ],
+    "王船工": [
+        [
+            "雯秘书",
+            "potential ally for 王船工"
+        ],
+        [
+            "雯秘书",
+            "trade partner of 王船工"
+        ],
+        [
+            "杨老板",
+            "trade partner of 王船工"
+        ],
+        [
+            "王小工",
+            "child of 王船工"
+        ]
+    ],
+    "王小工": [
+        [
+            "雯秘书",
+            "potential ally for 王小工"
+        ],
+        [
+            "王船工",
+            "child of 王小工"
+        ]
+    ]
+}

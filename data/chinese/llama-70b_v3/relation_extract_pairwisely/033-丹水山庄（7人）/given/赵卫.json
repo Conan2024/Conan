@@ -1,0 +1,71 @@
+{
+    "光绪皇帝": [
+      ["冯双骥", "grandfather of x, master of x"], 
+      ["张御医", "father of x, employer of x, perpetrator of x, adversary of x, manipulator of x"], 
+      ["李叔逊", "father of x, husband of x, employer of x, master of x"], 
+      ["瑜妃", "husband of x, father of x"], 
+      ["赵万雷", "father in law of x, grandson of x"], 
+      ["赵卫", "father of x, master of x, enemy of x"]
+    ],
+    "冯双骥": [
+      ["光绪皇帝", "grandson of x, servant of x"], 
+      ["赵万雷", "husband of x, master of x, perpetrator of x"], 
+      ["赵卫", "father in law of x, friend of x"], 
+      ["赵洛意", "biological father of x"], 
+      ["赵秋儿", "father of x"]
+    ],
+    "张御医": [
+      ["光绪皇帝", "father of x, employer of x, informant of x, helper of x, adversary of x"], 
+      ["李叔逊", "enemy of x"], 
+      ["赵万雷", "master of x"], 
+      ["赵洛意", "brother in law of x, uncle of x"], 
+      ["赵秋儿", "adversary of x"]
+    ],
+    "李叔逊": [
+      ["光绪皇帝", "mother of x, wife of x, servant of x, subordinate of x"], 
+      ["张御医", "enemy of x"], 
+      ["瑜妃", "mother in law of x, son in law of x, master of x"], 
+      ["赵万雷", "enemy of x, deceived by x"], 
+      ["赵卫", "father of x, adoptive father of x, mentor of x, teacher of x, friend of x, acquaintance of x, colleague of x, business partner of x"], 
+      ["赵秋儿", "biological father of x, master of x, perpetrator of x, adversary of x"]
+    ],
+    "瑜妃": [
+      ["光绪皇帝", "wife of x, mother of x"], 
+      ["李叔逊", "mother in law of x, daughter of x, servant of x"], 
+      ["赵万雷", "husband of x, mother of x, victim of x"], 
+      ["赵卫", "mother of x, adoptive mother of x"]
+    ],
+    "赵万雷": [
+      ["光绪皇帝", "father in law of x, adversary of x, manipulator of x, adoptive father of x"], 
+      ["冯双骥", "wife of x, servant of x, victim of x"], 
+      ["张御医", "murderer of x"], 
+      ["李叔逊", "adoptive father of x, enemy of x, betrayer of x"], 
+      ["瑜妃", "father of x, husband of x, murderer of x"], 
+      ["赵卫", "father of x, husband of x, enemy of x"], 
+      ["赵洛意", "biological father of x, adoptive father of x, step daughter of x"], 
+      ["赵秋儿", "biological father of x, adoptive father of x, step daughter of x"]
+    ],
+    "赵卫": [
+      ["光绪皇帝", "father of x, master of x, enemy of x"], 
+      ["冯双骥", "daughter in law of x"], 
+      ["李叔逊", "father of x, adoptive father of x, mentor of x, teacher of x, friend of x, acquaintance of x, colleague of x, business partner of x"], 
+      ["瑜妃", "son of x"], 
+      ["赵万雷", "son of x, son of x"], 
+      ["赵洛意", "biological father of x, adoptive father of x, biological daughter of x, adoptive daughter of x, sibling of x, uncle of x, niece of x, student of x"], 
+      ["赵秋儿", "biological father of x, adoptive father of x, uncle of x, brother of x"]
+    ],
+    "赵洛意": [
+      ["冯双骥", "half sister of x, daughter of x"], 
+      ["张御医", "brother in law of x, nephew of x"], 
+      ["赵万雷", "adoptive sister of x, step daughter of x"], 
+      ["赵卫", "biological father of x, adoptive father of x, biological daughter of x, adoptive daughter of x, sibling of x, uncle of x, niece of x, student of x"], 
+      ["赵秋儿", "biological father of x, adoptive father of x"]
+    ],
+    "赵秋儿": [
+      ["冯双骥", "father of x"], 
+      ["张御医", "adversary of x"], 
+      ["李叔逊", "biological daughter of x, servant of x, victim of x, enemy of x"], 
+      ["赵万雷", "biological father of x, adoptive father of x, step daughter of x, adoptive sister of x"], 
+      ["赵卫", "biological father of x, adoptive father of x, uncle of x, brother of x"]
+    ]
+}

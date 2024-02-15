@@ -1,0 +1,50 @@
+{
+    "吕松年": [
+      ["于尚勇", "acquaintance of x, partner in crime of x"], 
+      ["葛继先", "acquaintance of x, helped by of x, partner in crime of x"], 
+      ["葛月萝", "acquaintance of x, suspicious of x, similar in appearance but different in personality and interests of x"], 
+      ["乐婉", "acquaintance of x, met at 吕家酒馆 of x"]
+    ],
+    "葛继先": [
+      ["吕松年", "acquaintance of x, helped by of x, partner in crime of x"], 
+      ["葛月萝", "father of x, murder victim of x, enemy of x"], 
+      ["于彦诚", "acquaintance of x, customer of x, associate of x 吕松年"]
+    ],
+    "葛月萝": [
+      ["吕松年", "acquaintance of x, suspicious of x, similar in appearance but different in personality and interests of x"], 
+      ["葛继先", "father of x, murder victim of x, enemy of x"], 
+      ["于彦诚", "acquaintance of x, customer of x"]
+    ],
+    "于彦诚": [
+      ["吕松年", "acquaintance of x, customer of x, associate of x 葛继先"], 
+      ["葛继先", "acquaintance of x, customer of x, associate of x 吕松年"]
+    ],
+    "薛达财": [
+      ["葛月萝", "enemy of x, killed by x"]
+    ],
+    "月曼": [
+      ["葛月萝", "sister of x, similar in appearance but different in personality and interests of x"], 
+      ["葛继先", "father of x, murder victim of x"]
+    ],
+    "张太太": [
+      ["葛月萝", "friend of x, classmate of x"], 
+      ["月曼", "friend of x, classmate of x"]
+    ],
+    "薛家": [
+      ["葛继先", "family of x, murder victim of x"]
+    ],
+    " Zhong Lang": [
+      ["葛继先", "opponent of x, bully of x"]
+    ],
+    "鸟枪": [
+      ["于彦诚", "uses to threaten 葛月萝 of x"]
+    ],
+    "半边莲": [
+      ["葛月萝", "uses to resolve the poison of x"], 
+      ["张太太", "gives to 葛月萝 of x"]
+    ],
+    "莲花溪": [
+      ["葛月萝", "goes there to find the antidote of x"], 
+      ["于彦诚", "dies there after being shot by 葛月萝 of x"]
+    ]
+}

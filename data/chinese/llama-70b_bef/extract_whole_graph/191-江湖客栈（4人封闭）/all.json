@@ -1,0 +1,26 @@
+{
+    "洪江水": [
+      ["孟三春", "friend of x, murderer of x"], 
+      ["张金银", "acquaintance of x, employer of x"], 
+      ["蔡思娘", "colleague of x, friend of x"], 
+      ["洪长烈", "friend of x"]
+    ],
+    "孟三春": [
+      ["洪江水", "friend of x, victim of x"], 
+      ["张金银", "friend of x, employer of x"], 
+      ["蔡思娘", "colleague of x"]
+    ],
+    "张金银": [
+      ["洪江水", "acquaintance of x, employer of x"], 
+      ["孟三春", "friend of x, employer of x"], 
+      ["蔡思娘", "colleague of x"]
+    ],
+    "蔡思娘": [
+      ["洪江水", "colleague of x, friend of x"], 
+      ["孟三春", "colleague of x"], 
+      ["张金银", "colleague of x"]
+    ],
+    "洪长烈": [
+      ["洪江水", "friend of x"]
+    ]
+}

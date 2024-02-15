@@ -1,0 +1,96 @@
+{
+    "丁有为": [
+        [
+            "黄东强",
+            "subordinate of x"
+        ],
+        [
+            "刘小蝶",
+            "acquaintance of x"
+        ],
+        [
+            "刘飞",
+            "acquaintance of x, helper of x"
+        ],
+        [
+            "陈胜",
+            "adversary of x, victim of x"
+        ],
+        [
+            "寨主夫人",
+            "acquaintance of x"
+        ],
+        [
+            "面具男",
+            "acquaintance of x"
+        ]
+    ],
+    "黄东强": [
+        [
+            "丁有为",
+            "superior of x"
+        ],
+        [
+            "陈胜",
+            "acquaintance of x"
+        ],
+        [
+            "刘飞",
+            "acquaintance of x"
+        ]
+    ],
+    "刘小蝶": [
+        [
+            "陈胜",
+            "wife of x"
+        ],
+        [
+            "刘飞",
+            "daughter of x"
+        ],
+        [
+            "丁有为",
+            "acquaintance of x"
+        ]
+    ],
+    "刘飞": [
+        [
+            "刘小蝶",
+            "father of x"
+        ],
+        [
+            "丁有为",
+            "acquaintance of x, helped by x"
+        ]
+    ],
+    "陈胜": [
+        [
+            "刘小蝶",
+            "husband of x"
+        ],
+        [
+            "丁有为",
+            "adversary of x"
+        ],
+        [
+            "黄东强",
+            "subordinate of x"
+        ],
+        [
+            "面具男",
+            "subordinate of x"
+        ]
+    ],
+    "寨主夫人": [
+        [
+            "刘小蝶",
+            "same person as x (different reference)"
+        ]
+    ],
+    "面具男": [
+        [
+            "陈胜",
+            "superior of x"
+        ]
+    ]
+}

@@ -1,0 +1,203 @@
+{
+    "露西•哈里森": [
+        [
+            "乔纳森•佩里",
+            "哈罗德和玛丽娜•哈里森",
+            "杰奎琳•佩里",
+            "丹尼尔•佩里",
+            "戴维斯•佩里",
+            "艾米•摩根"
+        ],
+        [
+            "哈罗德和玛丽娜•哈里森",
+            "乔纳森•佩里",
+            "杰奎琳•佩里",
+            "丹尼尔•佩里",
+            "戴维斯•佩里",
+            "艾米•摩根"
+        ],
+        [
+            "丹尼尔•佩里",
+            "relationship 1, relationship 2",
+            "relationship 3"
+        ],
+        [
+            "艾米•摩根",
+            "friend, classmate"
+        ]
+    ],
+    "乔纳森•佩里": [
+        [
+            "露西•哈里森",
+            "哈罗德和玛丽娜•哈里森",
+            "杰奎琳•佩里",
+            "丹尼尔•佩里",
+            "戴维斯•佩里",
+            "艾米•摩根"
+        ],
+        [
+            "哈罗德和玛丽娜•哈里森",
+            " Romantic Relationship, Brother-in-law"
+        ],
+        [
+            "杰奎琳•佩里",
+            "romantic relationship",
+            "co-workers"
+        ],
+        [
+            "丹尼尔•佩里",
+            "brother-in-law, friend"
+        ],
+        [
+            "艾米•摩根",
+            "关系 1, 关系 2"
+        ],
+        [
+            "哈罗德和玛丽娜•哈里森",
+            "表兄 Relationship",
+            "romantic relationship"
+        ]
+    ],
+    "哈罗德和玛丽娜•哈里森": [
+        [
+            "露西•哈里森",
+            "乔纳森•佩里",
+            "杰奎琳•佩里",
+            "丹尼尔•佩里",
+            "戴维斯•佩里",
+            "艾米•摩根"
+        ],
+        [
+            "乔纳森•佩里",
+            " Romantic Relationship, Brother-in-law"
+        ],
+        [
+            "杰奎琳•佩里",
+            "丹尼尔•佩里",
+            "乔纳森•佩里",
+            "戴维斯•佩里"
+        ],
+        [
+            "丹尼尔•佩里",
+            "父 Mother Relationship",
+            "父Child Relationship"
+        ],
+        [
+            "戴维斯•佩里",
+            "父 Mother Relationship",
+            "父Child Relationship"
+        ],
+        [
+            "艾米•摩根",
+            "杰奎琳•佩里"
+        ]
+    ],
+    "丹尼尔•佩里": [
+        [
+            "露西•哈里森",
+            "relationship 1, relationship 2",
+            "relationship 3"
+        ],
+        [
+            "乔纳森•佩里",
+            "brother-in-law, friend"
+        ],
+        [
+            "哈罗德和玛丽娜•哈里森",
+            "兄妹 Relationship",
+            "musical partnership"
+        ],
+        [
+            "杰奎琳•佩里",
+            "co-workers"
+        ],
+        [
+            "戴维斯•佩里",
+            "relative, friend, confidant, benefactor"
+        ],
+        [
+            "艾米•摩根",
+            "friend",
+            "confidant"
+        ]
+    ],
+    "艾米•摩根": [
+        [
+            "露西•哈里森",
+            "friend, classmate"
+        ],
+        [
+            "乔纳森•佩里",
+            "关系 1, 关系 2"
+        ],
+        [
+            "哈罗德和玛丽娜•哈里森",
+            "friendship"
+        ],
+        [
+            "哈罗德和玛丽娜•哈里森",
+            "杰奎琳•佩里"
+        ],
+        [
+            "丹尼尔•佩里",
+            "friend",
+            "confidant"
+        ],
+        [
+            "戴维斯•佩里",
+            "Friend of X",
+            "Informant of X",
+            "Suspect of X"
+        ]
+    ],
+    "杰奎琳•佩里": [
+        [
+            "乔纳森•佩里",
+            "romantic relationship",
+            "co-workers"
+        ],
+        [
+            "哈罗德和玛丽娜•哈里森",
+            "乔纳森•佩里",
+            "丹尼尔•佩里",
+            "艾米•摩根"
+        ],
+        [
+            "哈罗德和玛丽娜•哈里森",
+            "姨妈 Relationship"
+        ],
+        [
+            "丹尼尔•佩里",
+            "co-workers"
+        ],
+        [
+            "戴维斯•佩里",
+            "乔纳森•佩里"
+        ]
+    ],
+    "戴维斯•佩里": [
+        [
+            "丹尼尔•佩里",
+            "弟弟 Relationship"
+        ],
+        [
+            "哈罗德和玛丽娜•哈里森",
+            "兄妹 Relationship",
+            "姨父 Relationship"
+        ],
+        [
+            "杰奎琳•佩里",
+            "乔纳森•佩里"
+        ],
+        [
+            "丹尼尔•佩里",
+            "relative, friend, confidant, benefactor"
+        ],
+        [
+            "艾米•摩根",
+            " Helper of X",
+            "Friend of X",
+            "Informant of X"
+        ]
+    ]
+}

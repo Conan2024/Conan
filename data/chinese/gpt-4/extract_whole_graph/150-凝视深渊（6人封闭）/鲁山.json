@@ -1,0 +1,46 @@
+{
+    "柳善": [
+        [
+            "鲁山",
+            "same person as x (different identity)"
+        ],
+        [
+            "柳庄主",
+            "child of x"
+        ],
+        [
+            "谭羽",
+            "enemy of x, adversary of x"
+        ]
+    ],
+    "鲁山": [
+        [
+            "柳善",
+            "same person as x (different reference)"
+        ],
+        [
+            "小二",
+            "helper of x"
+        ],
+        [
+            "谭羽",
+            "enemy of x, adversary of x"
+        ]
+    ],
+    "柳庄主": [
+        [
+            "柳善",
+            "father of x"
+        ]
+    ],
+    "谭羽": [
+        [
+            "柳善",
+            "enemy of x, victim of x"
+        ],
+        [
+            "鲁山",
+            "enemy of x, victim of x"
+        ]
+    ]
+}

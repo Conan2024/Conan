@@ -1,0 +1,87 @@
+{
+    "郭望山": [
+      ["赵万雷", "student of x"], 
+      ["冯双骥", "son of x"], 
+      ["花子狸", "romantic relationships with x"], 
+      ["任师父", "mentor of x, student of x"], 
+      ["虞义辰", "friend of x"], 
+      ["廖老板", "employee of x"], 
+      ["赵洛意", "father in law of x"], 
+      ["赵家太太", "acquaintance of x"]
+    ],
+    "赵万雷": [
+      ["郭望山", "teacher of x"], 
+      ["冯双骥", "student of x"], 
+      ["花子狸", "friend of x"], 
+      ["任师父", "mentor of x"], 
+      ["虞义辰", "friend of x, mentor of x"], 
+      ["廖老板", "business partner of x"], 
+      ["赵洛意", "sibling of x"], 
+      ["赵家太太", "husband of x"]
+    ],
+    "冯双骥": [
+      ["郭望山", "father of x"], 
+      ["花子狸", "fondness of x"], 
+      ["任师父", "student of x"], 
+      ["虞义辰", "helper of x"], 
+      ["廖老板", "colleague of x"], 
+      ["赵洛意", "employer of x"]
+    ],
+    "花子狸": [
+      ["郭望山", "romantic relationships with x"], 
+      ["赵万雷", "friend of x"], 
+      ["冯双骥", "fondness of x"], 
+      ["任师父", "student of x"], 
+      ["虞义辰", "acquaintance of x"], 
+      ["廖老板", "acquaintance of x, helper of x, in the lawsuit against x"], 
+      ["赵洛意", "friend of x"], 
+      ["赵家太太", "suspected by x, informant of x"]
+    ],
+    "任师父": [
+      ["郭望山", "student of x, mentor of x"], 
+      ["赵万雷", "student of x"], 
+      ["冯双骥", "teacher of x"], 
+      ["花子狸", "mentor of x"], 
+      ["虞义辰", "mentor of x"], 
+      ["廖老板", "friend of x"], 
+      ["赵洛意", "mentor of x, teacher of x"], 
+      ["赵家太太", "mentor of x, helper of x"]
+    ],
+    "虞义辰": [
+      ["郭望山", "friend of x"], 
+      ["赵万雷", "student of x"], 
+      ["冯双骥", "helper of x"], 
+      ["花子狸", "acquaintance of x"], 
+      ["任师父", "student of x"], 
+      ["廖老板", "friend of x, acquaintance of x"], 
+      ["赵洛意", "friend of x, mentor of x"], 
+      ["赵家太太", "extramarital affair with x"]
+    ],
+    "赵洛意": [
+      ["郭望山", "son in law of x"], 
+      ["赵万雷", "sibling of x"], 
+      ["冯双骥", "employee of x"], 
+      ["花子狸", "friend of x"], 
+      ["任师父", "student of x"], 
+      ["虞义辰", "friend of x, student of x"], 
+      ["廖老板", "employee of x"], 
+      ["赵家太太", "co wives of x"]
+    ],
+    "赵家太太": [
+      ["郭望山", "acquaintance of x"], 
+      ["赵万雷", "wife of x"], 
+      ["花子狸", "suspect of x, informant of x"], 
+      ["任师父", "student of x"], 
+      ["虞义辰", "extramarital affair with x"], 
+      ["廖老板", "employee of x"], 
+      ["赵洛意", "co wives of x"]
+    ],
+    "廖老板": [
+      ["冯双骥", "colleague of x"], 
+      ["花子狸", "acquaintance of x, helped by x, employer of x"], 
+      ["任师父", "friend of x"], 
+      ["虞义辰", "friend of x"], 
+      ["赵洛意", "employer of x"], 
+      ["赵家太太", "employer of x"]
+    ]
+}

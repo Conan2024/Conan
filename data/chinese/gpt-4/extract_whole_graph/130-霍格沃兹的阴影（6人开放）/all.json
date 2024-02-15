@@ -1,0 +1,72 @@
+{
+    "艾米": [
+        [
+            "玛莎",
+            "cousin of x"
+        ]
+    ],
+    "玛莎": [
+        [
+            "艾米",
+            "cousin of x"
+        ]
+    ],
+    "费尔奇": [
+        [
+            "麦格教授",
+            "subordinate of x"
+        ],
+        [
+            "邓布利多",
+            "employee of x"
+        ],
+        [
+            "蒂娜·范考夫",
+            "acquaintance of x"
+        ],
+        [
+            "查尔斯",
+            "dislike of x"
+        ],
+        [
+            "埃罗",
+            "acquaintance of x"
+        ]
+    ],
+    "麦格教授": [
+        [
+            "费尔奇",
+            "superior of x"
+        ],
+        [
+            "邓布利多",
+            "subordinate of x"
+        ]
+    ],
+    "邓布利多": [
+        [
+            "费尔奇",
+            "employer of x"
+        ],
+        [
+            "麦格教授",
+            "employer of x"
+        ]
+    ],
+    "埃罗": [
+        [
+            "蒂娜·范考夫",
+            "possibly delivered a letter to x, acquaintance of x"
+        ]
+    ],
+    "查尔斯": [
+        [
+            "蒂娜·范考夫",
+            "acquaintance of x"
+        ],
+        [
+            "费尔奇",
+            "disliked by x"
+        ]
+    ]
+}

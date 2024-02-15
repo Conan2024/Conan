@@ -1,0 +1,68 @@
+{
+    "李骆明": [
+      ["李子材", "biological father of x"], 
+      ["岳东汶", "superior of x, helper of x"], 
+      ["夏伯龙", "victim of x"], 
+      ["夏仲鹏", "acquaintance of x"], 
+      ["夏三虎", "perpetrator of x, enemy of x"], 
+      ["夏叔娥", "mentor of x"], 
+      ["宇祖成木", "same person as x (different identity)"], 
+      ["李子俊", "uncle of x"], 
+      ["安琪", "saviour of x"], 
+      ["白常恭", "customer of x"], 
+      ["吴百安", "murderer of x"]
+    ],
+    "李子材": [
+      ["李子俊", "same person as x (different identity)"], 
+      ["夏伯龙", "patient of x"], 
+      ["夏三虎", "dislike of x"], 
+      ["李骆明", "biological father of x"]
+    ],
+    "夏伯龙": [
+      ["夏仲鹏", "same person as x (different identity)"], 
+      ["夏三虎", "same person as x (different identity)"]
+    ],
+    "夏仲鹏": [
+      ["夏伯龙", "same person as x (different identity)"], 
+      ["夏三虎", "same person as x (different identity)"]
+    ],
+    "夏三虎": [
+      ["夏伯龙", "same person as x (different identity)"], 
+      ["夏仲鹏", "same person as x (different identity)"], 
+      ["夏叔娥", "niece of x"], 
+      ["吴百安", "business partner of x"], 
+      ["李骆明", "victim of x, perpetrator of x, enemy of x"]
+    ],
+    "夏叔娥": [
+      ["夏伯龙", "biological father of x"], 
+      ["夏三虎", "uncle of x"], 
+      ["李骆明", "student of x"]
+    ],
+    "岳东汶": [
+      ["李骆明", "subordinate of x, helped by x"]
+    ],
+    "李子俊": [
+      ["李骆明", "nephew of x"], 
+      ["李子材", "same person as x (different identity)"]
+    ],
+    "宇祖成木": [
+      ["李骆明", "sworn brother of x"], 
+      ["夏三虎", "friend of x"], 
+      ["安琪", "deceiver of x"], 
+      ["李子俊", "same person as x (different identity)"]
+    ],
+    "安琪": [
+      ["李骆明", "saved by x"], 
+      ["宇祖成木", "deceived by x"]
+    ],
+    "白常恭": [
+      ["李骆明", "debtor of x"]
+    ],
+    "吴百安": [
+      ["李骆明", "killed by x"], 
+      ["夏三虎", "product provider of x"]
+    ],
+    "段约同": [
+      ["李骆明", "suspect to x"]
+    ]
+}

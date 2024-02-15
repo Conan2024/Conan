@@ -1,0 +1,42 @@
+{
+    "决明": [
+      ["玄冰教使者", "friend of x, acquaintance of x"], 
+      ["盗圣", "master of x, thief of x, spy of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x"], 
+      ["蜂", "adversary of x, rival of x, enemy of x"], 
+      ["陆英", "acquaintance of x"]
+    ],
+    "玄冰教使者": [
+      ["决明", "friend of x, acquaintance of x"], 
+      ["盗圣", "acquaintance of x"], 
+      ["紫苏", "acquaintance of x, suspicious of x"], 
+      ["蜂", "perpetrator of x, bully of x"], 
+      ["陆英", "suspect of x"]
+    ],
+    "盗圣": [
+      ["决明", "master of x, thief of x, spy of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x"], 
+      ["玄冰教使者", "acquaintance of x"], 
+      ["蜂", "colleague of x, business partner of x"], 
+      ["陆英", "acquaintance of x"]
+    ],
+    "紫苏": [
+      ["决明", "suspicious of x"], 
+      ["玄冰教使者", "acquaintance of x, suspicious of x"], 
+      ["盗圣", "enemy of x"], 
+      ["蜂", "colleague of x"], 
+      ["陆英", "acquaintance of x, suspect of x"]
+    ],
+    "蜂": [
+      ["决明", "adversary of x, rival of x, enemy of x"], 
+      ["玄冰教使者", "victim of x"], 
+      ["盗圣", "colleague of x, business partner of x"], 
+      ["紫苏", "colleague of x"], 
+      ["陆英", "colleague of x, rival of x, enemy of x"]
+    ],
+    "陆英": [
+      ["决明", "acquaintance of x"], 
+      ["玄冰教使者", "victim of x"], 
+      ["盗圣", "acquaintance of x"], 
+      ["紫苏", "acquaintance of x, suspect of x"], 
+      ["蜂", "colleague of x, rival of x, enemy of x"]
+    ]
+}

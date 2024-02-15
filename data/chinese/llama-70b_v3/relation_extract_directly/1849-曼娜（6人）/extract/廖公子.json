@@ -1,0 +1,23 @@
+{
+    "廖公子": [
+      ["谭仁昌", "adversary of x, enemy of x"], 
+      ["谭太太", "sister in law of x, suspect of x"]
+    ],
+    "谭太太": [
+      ["廖公子", "adversary of x, enemy of x"], 
+      ["谭仁昌", "husband of x, manipulator of x"]
+    ],
+    "谭仁昌": [
+      ["廖公子", "adversary of x, enemy of x"], 
+      ["吕名然", "friend of x"]
+    ],
+    "尚致": [
+      ["谭仁昌", "acquaintance of x, suspect of x"]
+    ],
+    "承格": [
+      ["谭仁昌", "father of x"]
+    ],
+    "斯文男人": [
+      ["吕名然", "friend of x"]
+    ]
+}

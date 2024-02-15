@@ -1,0 +1,110 @@
+{
+    "陈均梦": [
+      ["姚孟仁", "wife of x"], 
+      ["陈轻梧", "child of x"], 
+      ["姚长寿", "daugther in law of x, quest companion of x, information receiver from x, victim of x, saviour of x"], 
+      ["孟老爷", "father of x, employer of x, information receiver from x"], 
+      ["陈市田", "father of x"], 
+      ["红夫人", "mother in law of x, step mother in law of x"], 
+      ["姚仲义", "brother in law of x, possibly family of x, friend of x, helper of x, information receiver from x, informant of x"], 
+      ["贵叔", "doctor of x, saviour of x"], 
+      ["陈安巧", "maid of x, message courier for x, informant of x, helper of x, family relative of x, acquaintance of x"]
+    ],
+    "姚孟仁": [
+      ["陈均梦", "husband of x"], 
+      ["陈轻梧", "father in law of x"], 
+      ["姚长寿", "child of x"], 
+      ["孟老爷", "business partner of x, possibly family of x"], 
+      ["陈市田", "acquaintance of x"], 
+      ["红夫人", "step son of x"], 
+      ["姚仲义", "husband of x, brother of x, deceased of x"], 
+      ["贵叔", "helper of x's wife"], 
+      ["陈安巧", "wife of x"]
+    ],
+    "陈轻梧": [
+      ["陈均梦", "father of x"], 
+      ["姚孟仁", "son in law of x"], 
+      ["姚长寿", "colleague of x, father in law of x"], 
+      ["孟老爷", "employee of x, colleague of x"], 
+      ["陈市田", "superior of x, suspect of x"], 
+      ["红夫人", "acquaintance of x, colleague of x"], 
+      ["姚仲义", "father in law of x"], 
+      ["陈安巧", "father of x"]
+    ],
+    "姚长寿": [
+      ["陈均梦", "father in law of x, quest giver to x, information provider of x, perpetrator of x, saviour of x"], 
+      ["姚孟仁", "father of x"], 
+      ["陈轻梧", "colleague of x, father of x's son in law"], 
+      ["孟老爷", "subordinate of x, colleague of x, possible acquaintance of x"], 
+      ["陈市田", "former subordinate of x, possibly friend of x"], 
+      ["红夫人", "husband of x"], 
+      ["姚仲义", "father of x"], 
+      ["贵叔", "doctor of x"], 
+      ["陈安巧", "subordinate of x, employee of x"]
+    ],
+    "孟老爷": [
+      ["陈均梦", "child of x, employer of x, informant of x"], 
+      ["姚孟仁", "employee of x, possibly family of x"], 
+      ["陈轻梧", "superior of x, business partner of x"], 
+      ["姚长寿", "superior of x, colleague of x, possible acquaintance of x"], 
+      ["陈市田", "superior of x, employer of x"], 
+      ["红夫人", "ex employer of x, possible co conspirator of x"], 
+      ["姚仲义", "employer of x"], 
+      ["贵叔", "boss of x, suspect of x"], 
+      ["陈安巧", "employer of x, employer of x's family member"]
+    ],
+    "陈市田": [
+      ["陈均梦", "child of x"], 
+      ["姚孟仁", "acquaintance of x"], 
+      ["陈轻梧", "subordinate of x, suspected by x"], 
+      ["姚长寿", "former superior of x, possibly friend of x"], 
+      ["孟老爷", "subordinate of x, employee of x"], 
+      ["红夫人", "acquaintance of x"], 
+      ["姚仲义", "acquaintance of x, employee of x"], 
+      ["贵叔", "unknown relationship of x"], 
+      ["陈安巧", "father of x"]
+    ],
+    "红夫人": [
+      ["陈均梦", "step daughter in law of x"], 
+      ["姚孟仁", "step mother of x"], 
+      ["陈轻梧", "acquaintance of x, colleague of x"], 
+      ["姚长寿", "wife of x"], 
+      ["孟老爷", "ex employee of x, possible co conspirator with x"], 
+      ["陈市田", "acquaintance of x"], 
+      ["姚仲义", "step mother of x"], 
+      ["贵叔", "step mother of x, wife of x"], 
+      ["陈安巧", "acquaintance of x"]
+    ],
+    "姚仲义": [
+      ["陈均梦", "sister in law of x, possibly family of x, friend of x, helped by x, informant to x, information provider to x"], 
+      ["姚孟仁", "brother of x, brother in law of x"], 
+      ["陈轻梧", "son in law of x"], 
+      ["姚长寿", "child of x"], 
+      ["孟老爷", "employee of x"], 
+      ["陈市田", "employer of x, acquaintance of x"], 
+      ["红夫人", "step son of x"], 
+      ["贵叔", "acquaintance of x, helper of x"], 
+      ["陈安巧", "acquaintance of x, possibly family of x, brother in law of x"]
+    ],
+    "贵叔": [
+      ["陈均梦", "patient of x, saved by x"], 
+      ["姚孟仁", "information receiver from x, informant of x"], 
+      ["姚长寿", "patient of x"], 
+      ["孟老爷", "employee of x, helper of x, possibly family of x, suspected by x"], 
+      ["陈市田", "unknown relationship of x"], 
+      ["红夫人", "step son of x, husband of x"], 
+      ["姚仲义", "acquaintance of x, helped by x"], 
+      ["陈安巧", "doctor of x, saviour of x, admirer of x"]
+    ],
+    "陈安巧": [
+      ["陈均梦", "served by x, providing information to x, helping x, related to x, acquainted with x"], 
+      ["姚孟仁", "husband of x"], 
+      ["陈轻梧", "child of x"], 
+      ["姚长寿", "superior of x, employer of x"], 
+      ["孟老爷", "employee of x, employee of x's family member"], 
+      ["陈市田", "child of x"], 
+      ["红夫人", "acquaintance of x, subordinate of x, informant of x, information receiver from x"], 
+      ["姚仲义", "acquaintance of x, possibly family of x, sister in law of x"], 
+      ["貴叔", "patient of x, saved by x, admired by x"]
+    ]
+}

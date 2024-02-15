@@ -1,0 +1,96 @@
+{
+    "张老板": [
+        [
+            "姚钱树",
+            "acquaintance of x, business partner of x"
+        ],
+        [
+            "王姐",
+            "extramarital affair with x"
+        ],
+        [
+            "李长青",
+            "neighbour of x"
+        ],
+        [
+            "贾保姆",
+            "acquaintance of x"
+        ]
+    ],
+    "姚钱树": [
+        [
+            "张老板",
+            "acquaintance of x, business partner of x"
+        ],
+        [
+            "王姐",
+            "wife of x"
+        ],
+        [
+            "李长青",
+            "stranger to x"
+        ],
+        [
+            "贾保姆",
+            "wife's friend's employee of x"
+        ],
+        [
+            "小三",
+            "extramarital affair with x"
+        ]
+    ],
+    "王姐": [
+        [
+            "张老板",
+            "extramarital affair with x"
+        ],
+        [
+            "姚钱树",
+            "husband of x"
+        ],
+        [
+            "李长青",
+            "neighbour's employer's friend of x"
+        ],
+        [
+            "贾保姆",
+            "friend of x"
+        ]
+    ],
+    "李长青": [
+        [
+            "张老板",
+            "neighbour of x"
+        ],
+        [
+            "贾保姆",
+            "employer of x"
+        ],
+        [
+            "王姐",
+            "friend of employee of x"
+        ],
+        [
+            "姚钱树",
+            "stranger to x"
+        ]
+    ],
+    "贾保姆": [
+        [
+            "张老板",
+            "acquaintance of x"
+        ],
+        [
+            "王姐",
+            "friend of x"
+        ],
+        [
+            "李长青",
+            "employer of x"
+        ],
+        [
+            "姚钱树",
+            "employer's wife's friend of x"
+        ]
+    ]
+}

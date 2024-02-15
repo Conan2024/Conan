@@ -1,0 +1,58 @@
+{
+    "廖雪寒": [
+      ["廖一乔", "father of x 廖公子"], 
+      ["红儿", "employee of x 廖公子, debtor of x 廖公子"], 
+      ["罗亨理", "business partner of x 廖公子, debtor of x 廖公子"], 
+      ["吕名然", "acquaintance of x 廖公子, victim of x 廖公子 (manipulation)"], 
+      ["罗明纱", "business partner of x 廖公子, debtor of x 廖公子"], 
+      ["谭仁昌", "acquaintance of x 廖公子"], 
+      ["谭承格", "acquaintance of x 廖公子"], 
+      ["茱丽", "helper of x 廖公子, helped by 廖公子 of x"], 
+      ["张医师", "helper of x 廖公子"]
+    ],
+    "红儿": [
+      ["廖雪寒", "employee of x 廖公子, debtor of x 廖公子"], 
+      ["红儿的母亲", "relative of x"]
+    ],
+    "罗亨理": [
+      ["廖雪寒", "business partner of x, creditor of x"], 
+      ["吕名然", "subordinate of x"], 
+      ["罗明纱", "sibling of x"], 
+      ["谭仁昌", "brother in law of x"]
+    ],
+    "吕名然": [
+      ["廖雪寒", "acquaintance of x, victim of x (manipulation)"], 
+      ["罗亨理", "manager for x"], 
+      ["谭仁昌", "employee of x"]
+    ],
+    "罗明纱": [
+      ["廖雪寒", "business partner of x, creditor of x"], 
+      ["罗亨理", "sibling of x"], 
+      ["谭仁昌", "sister in law of x"]
+    ],
+    "谭仁昌": [
+      ["廖雪寒", "acquaintance of x"], 
+      ["罗亨理", "brother in law of x"], 
+      ["罗明纱", "wife of x"], 
+      ["谭承格", "adoptive son of x"], 
+      ["吕名然", "employer of x"]
+    ],
+    "谭承格": [
+      ["廖雪寒", "acquaintance of x"], 
+      ["谭仁昌", "adoptive father of x"]
+    ],
+    "阿萍": [
+      ["谭太太", "servant of x"]
+    ],
+    "海悠": [
+      ["海悠的母亲", "child of x"]
+    ],
+    "茱丽": [
+      ["廖雪寒", "helper of x, helped by x"], 
+      ["张医师", "wife of x"]
+    ],
+    "张医师": [
+      ["廖雪寒", "helper of x"], 
+      ["茱丽", "husband of x"]
+    ]
+}

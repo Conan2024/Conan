@@ -1,0 +1,134 @@
+{
+    "你": [
+        [
+            "杨老板",
+            "fiance of x"
+        ],
+        [
+            "张大副",
+            "same person as x (different reference)"
+        ],
+        [
+            "王船工",
+            "informant of x"
+        ],
+        [
+            "王小工",
+            "boyfriend of x"
+        ],
+        [
+            "雯秘书",
+            "information receiver from x"
+        ]
+    ],
+    "杨老板": [
+        [
+            "你",
+            "fiancee of x"
+        ],
+        [
+            "张大副",
+            "business partner of x, suspicious of x"
+        ],
+        [
+            "王船工",
+            "business partner of x"
+        ],
+        [
+            "王小工",
+            "employee of x"
+        ],
+        [
+            "雯秘书",
+            "helper of x"
+        ]
+    ],
+    "张大副": [
+        [
+            "你",
+            "same person as x (different reference)"
+        ],
+        [
+            "杨老板",
+            "business partner of x, suspicious of x"
+        ],
+        [
+            "王船工",
+            "fiance of x"
+        ],
+        [
+            "王小工",
+            "colleague of x, business partner of x"
+        ],
+        [
+            "雯秘书",
+            "colleague of x"
+        ]
+    ],
+    "王船工": [
+        [
+            "你",
+            "informant of x"
+        ],
+        [
+            "杨老板",
+            "business partner of x"
+        ],
+        [
+            "张大副",
+            "fiancee of x"
+        ],
+        [
+            "王小工",
+            "ex father in law of x"
+        ],
+        [
+            "雯秘书",
+            "fiancee of x"
+        ]
+    ],
+    "王小工": [
+        [
+            "你",
+            "girlfriend of x"
+        ],
+        [
+            "杨老板",
+            "employer of x"
+        ],
+        [
+            "张大副",
+            "employee of x, business partner of x"
+        ],
+        [
+            "王船工",
+            "ex son in law of x"
+        ],
+        [
+            "雯秘书",
+            "girlfriend of x"
+        ]
+    ],
+    "雯秘书": [
+        [
+            "你",
+            "informant of x"
+        ],
+        [
+            "杨老板",
+            "information receiver from x"
+        ],
+        [
+            "张大副",
+            "colleague of x"
+        ],
+        [
+            "王船工",
+            "fiance of x"
+        ],
+        [
+            "王小工",
+            "boyfriend of x"
+        ]
+    ]
+}

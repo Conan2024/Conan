@@ -1,0 +1,27 @@
+{
+    "承格": [
+      ["Former Mentor", "mentor of x"], 
+      ["Katara", "friend of x"], 
+      ["Zuko", "helper of x"], 
+      ["Toph", "helper of x"], 
+      ["Aang", "helper of x"]
+    ],
+    "Katara": [
+      ["承格", "friend of x"], 
+      ["Zuko", "romantic relationships with x"], 
+      ["Aang", "fiancee of x"]
+    ],
+    "Zuko": [
+      ["Katara", "romantic relationships with x"], 
+      ["Aang", "adversary of x"], 
+      ["承格", "helper of x"]
+    ],
+    "Toph": [
+      ["承格", "helper of x"]
+    ],
+    "Aang": [
+      ["Katara", "fiancee of x"], 
+      ["Zuko", "adversary of x"], 
+      ["承格", "helper of x"]
+    ]
+}

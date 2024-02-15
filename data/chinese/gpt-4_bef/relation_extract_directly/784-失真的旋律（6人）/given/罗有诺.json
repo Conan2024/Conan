@@ -1,0 +1,90 @@
+{
+    "罗有诺": [
+      ["罗万利", "father of x"], 
+      ["雪嫣", "sibling of x"], 
+      ["阮太太", "mother in law of x, helped by x, deceiver of x, dislike of x, disliked by x, suspect of x"], 
+      ["望娣", "lover of x, helped by x"], 
+      ["招楠", "acquaintance of x"], 
+      ["贵郎", "student of x, acquaintance of x"], 
+      ["齐故飞", "guest of x, acquaintance of x, helper of x"], 
+      ["黑莉", "acquaintance of x"]
+    ],
+    "罗万利": [
+      ["罗有诺", "father of x"], 
+      ["雪嫣", "father of x"], 
+      ["阮太太", "acquaintance of x"], 
+      ["望娣", "acquaintance of x"], 
+      ["招楠", "acquaintance of x"], 
+      ["贵郎", "teacher of x"]
+    ],
+    "雪嫣": [
+      ["罗有诺", "sibling of x"], 
+      ["罗万利", "daughter of x"], 
+      ["阮太太", "helped by x"], 
+      ["望娣", "friend of x"], 
+      ["招楠", "acquaintance of x"], 
+      ["贵郎", "acquaintance of x"], 
+      ["齐故飞", "acquaintance of x"], 
+      ["黑莉", "acquaintance of x"]
+    ],
+    "阮太太": [
+      ["罗有诺", "mother in law of x, helped by x, deceiver of x, dislike of x, disliked by x, suspect of x"], 
+      ["罗万利", "acquaintance of x"], 
+      ["雪嫣", "employer of x"], 
+      ["望娣", "mother of x"], 
+      ["招楠", "mother of x"], 
+      ["贵郎", "mother of x"], 
+      ["齐故飞", "acquaintance of x"], 
+      ["黑莉", "acquaintance of x"]
+    ],
+    "望娣": [
+      ["罗有诺", "lover of x, liked by x, helped by x"], 
+      ["罗万利", "acquaintance of x"], 
+      ["雪嫣", "friend of x"], 
+      ["阮太太", "daughter of x"], 
+      ["招楠", "sibling of x"], 
+      ["贵郎", "sibling of x"], 
+      ["齐故飞", "acquaintance of x"], 
+      ["黑莉", "acquaintance of x"]
+    ],
+    "招楠": [
+      ["罗有诺", "acquaintance of x"], 
+      ["罗万利", "acquaintance of x"], 
+      ["雪嫣", "acquaintance of x"], 
+      ["阮太太", "daughter of x"], 
+      ["望娣", "sibling of x"], 
+      ["贵郎", "sibling of x"], 
+      ["齐故飞", "acquaintance of x"], 
+      ["黑莉", "acquaintance of x"]
+    ],
+    "贵郎": [
+      ["罗有诺", "student of x, acquaintance of x"], 
+      ["罗万利", "student of x"], 
+      ["雪嫣", "acquaintance of x"], 
+      ["阮太太", "son of x"], 
+      ["望娣", "sibling of x"], 
+      ["招楠", "sibling of x"], 
+      ["齐故飞", "acquaintance of x"], 
+      ["黑莉", "acquaintance of x"]
+    ],
+    "齐故飞": [
+      ["罗有诺", "guest of x, acquaintance of x, helper of x"], 
+      ["罗万利", "acquaintance of x"], 
+      ["雪嫣", "acquaintance of x"], 
+      ["阮太太", "acquaintance of x"], 
+      ["望娣", "acquaintance of x"], 
+      ["招楠", "acquaintance of x"], 
+      ["贵郎", "acquaintance of x"], 
+      ["黑莉", "romantic relationships with x"]
+    ],
+    "黑莉": [
+      ["罗有诺", "acquaintance of x"], 
+      ["罗万利", "acquaintance of x"], 
+      ["雪嫣", "acquaintance of x"], 
+      ["阮太太", "acquaintance of x"], 
+      ["望娣", "acquaintance of x"], 
+      ["招楠", "acquaintance of x"], 
+      ["贵郎", "acquaintance of x"], 
+      ["齐故飞", "romantic relationships with x"]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "张太太": [
+      ["于尚勇", "friend of x"], 
+      ["张俊诗", "husband of x"], 
+      ["葛月曼", "friend of x"], 
+      ["葛月萝", "friend of x"], 
+      ["葛继先", "father in law of x"], 
+      ["于彦诚", "younger brother of x"], 
+      ["薛玉帆", "acquaintance of x"]
+    ],
+    "于尚勇": [
+      ["张太太", "friend of x"], 
+      ["于彦诚", "younger brother of x"], 
+      ["葛月曼", "friend of x"], 
+      ["葛月萝", "friend of x"]
+    ],
+    "张俊诗": [
+      ["张太太", "wife of x"], 
+      ["葛月曼", "sister in law of x"], 
+      ["葛月萝", "sister in law of x"], 
+      ["葛继先", "father in law of x"]
+    ],
+    "葛月曼": [
+      ["张太太", "friend of x"], 
+      ["葛月萝", "sister of x"], 
+      ["葛继先", "father of x"]
+    ],
+    "葛月萝": [
+      ["张太太", "friend of x"], 
+      ["葛月曼", "sister of x"], 
+      ["葛继先", "father of x"]
+    ],
+    "葛继先": [
+      ["张太太", "father in law of x"], 
+      ["葛月曼", "daughter of x"], 
+      ["葛月萝", "daughter of x"]
+    ],
+    "于彦诚": [
+      ["张太太", "younger brother of x"], 
+      ["于尚勇", "brother of x"]
+    ],
+    "薛玉帆": [
+      ["张太太", "acquaintance of x"], 
+      ["于彦诚", "friend of x"]
+    ]
+}

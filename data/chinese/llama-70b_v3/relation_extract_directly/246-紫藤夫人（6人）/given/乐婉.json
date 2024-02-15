@@ -1,0 +1,35 @@
+{
+    "乐婉": [
+      ["张太太", "friend of x"], 
+      ["葛月萝", "admirer of x"]
+    ],
+    "张太太": [
+      ["乐婉", "friend of x"], 
+      ["于彦诚", "friend of x"]
+    ],
+    "葛月萝": [
+      ["乐婉", "admirer of x"]
+    ],
+    "于彦诚": [
+      ["张太太", "friend of x"], 
+      ["吕陆升", "enemy of x"]
+    ],
+    "吕陆升": [
+      ["于彦诚", "enemy of x"]
+    ],
+    "新addle": [
+      ["乐婉", "friend of x"]
+    ],
+    "新character": [
+      ["张太太", "friend of x"]
+    ],
+    "于尚勇": [
+      ["乐婉", "brother of x"]
+    ],
+    "葛月曼": [
+      ["张太太", "mother of x"]
+    ],
+    "薛玉帆": [
+      ["吕陆升", "friend of x"]
+    ]
+}

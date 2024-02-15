@@ -1,0 +1,118 @@
+{
+    "孙清洁": [
+        [
+            "田助理",
+            "colleague of 孙清洁"
+        ],
+        [
+            "田助理",
+            "blackmailer of 孙清洁"
+        ],
+        [
+            "孙清洁",
+            "blackmailed by 田助理"
+        ],
+        [
+            "李保安",
+            "friend of 孙清洁"
+        ],
+        [
+            "李保安",
+            "blackmailed by 田助理"
+        ],
+        [
+            "贾教授",
+            "employeerr of 孙清洁"
+        ],
+        [
+            "贾教授",
+            "subject of admiration for 孙清洁"
+        ],
+        [
+            "贾教授",
+            "involved in a scandal with 田助理"
+        ],
+        [
+            "贾教授",
+            "admired by 孙清洁"
+        ],
+        [
+            "田助理",
+            "involved in a scandal with 贾教授"
+        ],
+        [
+            "田助理",
+            "blackmailer of 李保安"
+        ],
+        [
+            "孙清洁",
+            "witness to scandal involving 田助理"
+        ],
+        [
+            "孙清洁",
+            "sender of compromising video to 田助理"
+        ]
+    ],
+    "田助理": [
+        [
+            "孙清洁",
+            "colleague of 田助理"
+        ],
+        [
+            "田助理",
+            "blackmailer of 孙清洁"
+        ],
+        [
+            "孙清洁",
+            "blackmailed by 田助理"
+        ],
+        [
+            "李保安",
+            "blackmailed by 田助理"
+        ],
+        [
+            "贾教授",
+            "involved in a scandal with 田助理"
+        ],
+        [
+            "田助理",
+            "involved in a scandal with 贾教授"
+        ],
+        [
+            "田助理",
+            "affair with student"
+        ]
+    ],
+    "李保安": [
+        [
+            "孙清洁",
+            "friend of 李保安"
+        ],
+        [
+            "孙清洁",
+            "blackmailed by 田助理"
+        ],
+        [
+            "田助理",
+            "blackmailer of 李保安"
+        ],
+        [
+            "李保安",
+            "lost phone"
+        ]
+    ],
+    "贾教授": [
+        [
+            "孙清洁",
+            "employee of 贾教授"
+        ],
+        [
+            "孙清洁",
+            "admired by 贾教授"
+        ],
+        [
+            "贾教授",
+            "involved in a scandal with 田助理"
+        ]
+    ]
+}

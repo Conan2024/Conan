@@ -1,0 +1,42 @@
+{
+    "雯秘书": [
+      ["杨老板", "employer of x"], 
+      ["玲船医", "informant of x"], 
+      ["杨老板", "adversary of x"], 
+      ["很天真", "victim of x"], 
+      ["杨老板", "suspected by x"], 
+      ["杨老板", "enemy of x"], 
+      ["很天真", "victim of x"]
+    ],
+    "杨老板": [
+      ["雯秘书", "employee of x"], 
+      ["很天真", "victim of x"], 
+      ["很天真", "manipulated by x"], 
+      ["雯秘书", "adversary of x"]
+    ],
+    "很天真": [
+      ["杨老板", "suspected by x"], 
+      ["杨老板", "adversary of x"], 
+      ["杨老板", "manipulator of x"], 
+      ["杨老板", "enemy of x"], 
+      ["杨老板", "attempted perpetrator of x"], 
+      ["杨老板", "superior of x"], 
+      ["雯秘书", "victim of x"]
+    ],
+    "张大副": [
+      ["雯秘书", "informant of x"]
+    ],
+    "玲船医": [
+      ["杨老板", "informant of x"], 
+      ["雯秘书", "manipulator of x"], 
+      ["雯秘书", "informant of x"], 
+      ["杨老板", "adversary of x"], 
+      ["杨老板", "suspected by x"]
+    ],
+    "王船工": [
+      ["王小工", "child of x"]
+    ],
+    "王小工": [
+      ["王船工", "child of x"]
+    ]
+}

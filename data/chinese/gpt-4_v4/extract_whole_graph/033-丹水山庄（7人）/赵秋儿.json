@@ -1,0 +1,35 @@
+{
+    "赵秋儿": [
+      ["赵洛意", "child of x, father of x, superior of x, lover of x, helped by x, lover of x, saviour of x"], 
+      ["赵万雷", "superior of x, lover of x, helped by x, lover of x, saviour of x"], 
+      ["赵卫", "acquaintance of x"], 
+      ["冯双骥", "superior of x, superior of x, adversary of x, disliked by x, informant of x, information receiver from x"], 
+      ["冯竹", "acquaintance of x, colleague of x, relative of x"], 
+      ["齐岳", "colleague of x, acquaintance of x, adversary of x"]
+    ],
+    "赵洛意": [
+      ["赵秋儿", "friend of x, admired by x, admirer of x, mother of x, mentor of x"], 
+      ["赵万雷", "father of x"], 
+      ["赵卫", "same person as x (different identity), sibling of x"]
+    ],
+    "赵万雷": [
+      ["赵秋儿", "admired by x, subordinate of x, helped by x"], 
+      ["赵洛意", "child of x, child of x"], 
+      ["赵卫", "child of x, child of x"]
+    ],
+    "赵卫": [
+      ["赵洛意", "same person as x (different identity), sister of x"], 
+      ["赵万雷", "father of x"]
+    ],
+    "冯双骥": [
+      ["赵秋儿", "superior of x, adversary of x"], 
+      ["冯竹", "father of x"]
+    ],
+    "冯竹": [
+      ["赵秋儿", "colleague of x, acquaintance of x, relative of x"], 
+      ["冯双骥", "child of x, child of x"]
+    ],
+    "齐岳": [
+      ["赵秋儿", "colleague of x, acquaintance of x, adversary of x"]
+    ]
+}

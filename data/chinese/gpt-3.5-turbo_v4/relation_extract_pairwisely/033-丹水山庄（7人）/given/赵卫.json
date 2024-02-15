@@ -1,0 +1,89 @@
+{
+    "赵卫": [
+      ["光绪皇帝", "father of x"], 
+      ["瑜妃", "son of x"], 
+      ["李叔逊", "sibling of x"], 
+      ["赵万雷", "son in law of x"], 
+      ["冯双骥", "father of x"], 
+      ["赵洛意", "sibling of x"], 
+      ["张御医", "student of x, helper of x"], 
+      ["赵秋儿", "fondness of x, informant of x"]
+    ],
+    "光绪皇帝": [
+      ["赵卫", "child of x"], 
+      ["瑜妃", "husband of x"], 
+      ["李叔逊", "father of x, perpetrator of x's family"], 
+      ["赵万雷", "father of x"], 
+      ["冯双骥", "friend of x"], 
+      ["赵洛意", "child of x"], 
+      ["赵万雷", "extramarital affair with x, debtor of x, doctor of x"], 
+      ["赵秋儿", "husband of x"]
+    ],
+    "瑜妃": [
+      ["赵卫", "mother of x"], 
+      ["光绪皇帝", "wife of x"], 
+      ["李叔逊", "husband of x"], 
+      ["赵万雷", "wife of x"], 
+      ["冯双骥", "wife of x"], 
+      ["赵洛意", "daughter of x"], 
+      ["张御医", "romantic relationships with x, informant of x"], 
+      ["赵秋儿", "romantic relationships with x"]
+    ],
+    "李叔逊": [
+      ["赵卫", "mentor of x"], 
+      ["光绪皇帝", "brother in law of x"], 
+      ["瑜妃", "wife of x"], 
+      ["赵万雷", "helper of x"], 
+      ["冯双骥", "friend of x"], 
+      ["赵洛意", "adversary of x"], 
+      ["赵万雷", "mentor of x"], 
+      ["赵秋儿", "sibling of x"]
+    ],
+    "赵万雷": [
+      ["赵卫", "father in law of x"], 
+      ["光绪皇帝", "son of x"], 
+      ["瑜妃", "husband of x"], 
+      ["李叔逊", "perpetrator of x"], 
+      ["冯双骥", "helper of x, informant of x"], 
+      ["赵洛意", "husband of x"], 
+      ["赵秋儿", "husband of x"]
+    ],
+    "冯双骥": [
+      ["赵卫", "helped by x"], 
+      ["光绪皇帝", "friend of x"], 
+      ["瑜妃", "husband of x"], 
+      ["李叔逊", "helper of x"], 
+      ["赵万雷", "helper of x"], 
+      ["赵洛意", "helper of x"], 
+      ["张御医", "mentor of x, doctor of x"], 
+      ["赵秋儿", "helped by x"]
+    ],
+    "赵洛意": [
+      ["赵卫", "sibling of x"], 
+      ["光绪皇帝", "father of x"], 
+      ["瑜妃", "mother of x"], 
+      ["李叔逊", "brother of x"], 
+      ["赵万雷", "wife of x"], 
+      ["冯双骥", "helped by x"], 
+      ["张御医", "mentor of x, doctor of x"], 
+      ["赵秋儿", "sister of x"]
+    ],
+    "张御医": [
+      ["赵卫", "mentor of x, informant of x"], 
+      ["赵万雷", "superior of x"], 
+      ["瑜妃", "informant of x"], 
+      ["李叔逊", "doctor of x"], 
+      ["冯双骥", "helper of x, informant of x"], 
+      ["赵洛意", "student of x"], 
+      ["赵秋儿", "doctor of x"]
+    ],
+    "赵秋儿": [
+      ["赵卫", "fondness of x, informant of x"], 
+      ["光绪皇帝", "wife of x"], 
+      ["李叔逊", "sibling of x"], 
+      ["赵万雷", "wife of x"], 
+      ["冯双骥", "helper of x"], 
+      ["赵洛意", "sister of x"], 
+      ["张御医", "patient of x"]
+    ]
+}

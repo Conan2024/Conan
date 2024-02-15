@@ -1,0 +1,44 @@
+{
+    "洪船长": [
+      ["刘奇", "subordinate of x, friend of x, criminal partner of x, business partner of x"], 
+      ["修仁杰", "colleague of x, acquaintance of x"], 
+      ["韩亦暮", "subordinate of x, disliked by x"], 
+      ["林若彤", "lover of x, secret lover of x, helped by x"], 
+      ["张文远", "subordinate of x, disliked by x, suspect to x"]
+    ],
+    "刘奇": [
+      ["洪船长", "superior of x, friend of x, criminal partner of x, business partner of x"], 
+      ["张文远", "colleague of x"], 
+      ["修仁杰", "colleague of x"], 
+      ["韩亦暮", "colleague of x"], 
+      ["林若彤", "colleague of x, acquaintance of x"]
+    ],
+    "修仁杰": [
+      ["洪船长", "colleague of x, acquaintance of x"], 
+      ["韩亦暮", "superior of x"], 
+      ["林若彤", "subordinate of x, protector of x"], 
+      ["刘奇", "colleague of x"], 
+      ["张文远", "colleague of x"]
+    ],
+    "韩亦暮": [
+      ["洪船长", "superior of x, disliker of x"], 
+      ["刘奇", "colleague of x"], 
+      ["修仁杰", "subordinate of x, student of x"], 
+      ["林若彤", "colleague of x, adversary of x"], 
+      ["张文远", "colleague of x"]
+    ],
+    "林若彤": [
+      ["洪船长", "lover of x, secret lover of x, helped by x"], 
+      ["刘奇", "colleague of x, acquaintance of x"], 
+      ["修仁杰", "superior of x, protector of x"], 
+      ["韩亦暮", "colleague of x, adversary of x"], 
+      ["张文远", "colleague of x"]
+    ],
+    "张文远": [
+      ["洪船长", "superior of x, dislike of x, suspect by x"], 
+      ["刘奇", "colleague of x"], 
+      ["修仁杰", "colleague of x"], 
+      ["韩亦暮", "colleague of x"], 
+      ["林若彤", "colleague of x"]
+    ]
+}

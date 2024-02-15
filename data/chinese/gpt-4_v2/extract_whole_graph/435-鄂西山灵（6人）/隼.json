@@ -1,0 +1,59 @@
+{
+    "隼": [
+      ["巴府山", "father of x"], 
+      ["苗氏", "mother of x"], 
+      ["苗纳", "uncle of x, deceased by x's story"], 
+      ["鬼印", "acquaintance of x, brother in law of x, mentor of x"], 
+      ["如娅", "cousin of x"], 
+      ["鹃歌", "sibling of x"], 
+      ["李高柏", "acquaintance of x, former classmate of x"], 
+      ["周教授", "acquaintance of x"], 
+      ["忱纱", "secret crush of x, romantic relationships with x"], 
+      ["甘玛", "fiancee of x"]
+    ],
+    "巴府山": [
+      ["鬼印", "friend of x"], 
+      ["周教授", "acquaintance of x"], 
+      ["隼", "son of x"]
+    ],
+    "苗氏": [
+      ["苗纳", "brother of x"], 
+      ["隼", "son of x"], 
+      ["巴府山", "husband of x"]
+    ],
+    "苗纳": [
+      ["鬼印", "mentor of x"], 
+      ["苗氏", "sister of x"], 
+      ["隼", "nephew of x"]
+    ],
+    "鬼印": [
+      ["如娅", "husband of x"], 
+      ["巴府山", "friend of x, admirer of x"], 
+      ["隼", "acquaintance of x, brother in law of x, student of x"], 
+      ["鹃歌", "fiance of x"], 
+      ["甘玛", "sibling of x"]
+    ],
+    "如娅": [
+      ["鬼印", "wife of x"], 
+      ["隼", "cousin of x"]
+    ],
+    "鹃歌": [
+      ["隼", "sibling of x"], 
+      ["鬼印", "fiancee of x"]
+    ],
+    "李高柏": [
+      ["隼", "acquaintance of x, former classmate of x"]
+    ],
+    "忱纱": [
+      ["周教授", "daughter of x"], 
+      ["隼", "romantic relationships with x, secret lover of x"]
+    ],
+    "甘玛": [
+      ["鬼印", "sibling of x"], 
+      ["隼", "fiance of x"]
+    ],
+    "周教授": [
+      ["忱纱", "father of x"], 
+      ["隼", "acquaintance of x"]
+    ]
+}

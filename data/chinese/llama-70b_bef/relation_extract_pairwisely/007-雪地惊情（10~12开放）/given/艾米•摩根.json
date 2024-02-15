@@ -1,0 +1,44 @@
+{
+    "乔•罗伯特森": [
+      ["安娜", "co wives of x, relative of x, friend of x, acquaintance of x, classmate of x, neighbour of x"], 
+      ["艾米•摩根", "husband of x, friend of x, business partner of x"], 
+      ["露西•哈里森", "sibling of x, friend of x, colleague of x, acquaintance of x"], 
+      ["麦克斯•派克", "friend of x"]
+    ],
+    "安娜": [
+      ["乔•罗伯特森", "co wives of x, relative of x, friend of x, acquaintance of x, classmate of x, neighbour of x"], 
+      ["约翰•摩根", "husband of x"], 
+      ["艾米•摩根", "friend of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["艾米•摩根", "friend of x, sister in law of x, colleague of x"]
+    ],
+    "约翰•摩根": [
+      ["安娜", "wife of x"], 
+      ["艾米•摩根", "husband of x"], 
+      ["艾莱克斯•哈维", "friend of x"]
+    ],
+    "艾米•摩根": [
+      ["乔•罗伯特森", "husband of x, friend of x, business partner of x"], 
+      ["哈罗德•哈里森", "sister of x, friend of x"], 
+      ["安娜", "friend of x, mentor of x"], 
+      ["玛丽娜•哈里森", "friend of x, brother in law of x, colleague of x"], 
+      ["约翰•摩根", "wife of x, sibling of x"], 
+      ["麦克斯•派克", "friend of x, mentor of x, colleague of x, customer of x"]
+    ],
+    "艾莱克斯•哈维": [
+      ["约翰•摩根", "friend of x"], 
+      ["麦克斯•派克", "friend of x, suspicious of x"]
+    ],
+    "露西•哈里森": [
+      ["乔•罗伯特森", "sibling of x, friend of x, colleague of x, acquaintance of x"]
+    ],
+    "麦克斯•派克": [
+      ["乔•罗伯特森", "friend of x"], 
+      ["艾米•摩根", "friend of x, mentor of x, colleague of x, customer of x"], 
+      ["艾莱克斯•哈维", "friend of x, suspicious of x"]
+    ],
+    "哈罗德•哈里森": [
+      ["艾米•摩根", "brother of x, friend of x"]
+    ]
+}

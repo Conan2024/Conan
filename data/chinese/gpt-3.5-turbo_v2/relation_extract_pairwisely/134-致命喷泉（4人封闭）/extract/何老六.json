@@ -1,0 +1,74 @@
+{
+    "何老六": [
+      ["五个姐姐", "sibling of x"], 
+      ["父亲", "child of x, victim of x"], 
+      ["李国富", "colleague of x"], 
+      ["张洁", "fellow coworkers of x"], 
+      ["慕北", "co workers in the same crime group of x"], 
+      ["王大哥", "romantic relationships with x, helper of x"], 
+      ["王邻居", "neighbor of x"]
+    ],
+    "五个姐姐": [
+      ["何老六", "sibling of x"], 
+      ["父亲", "child of x"], 
+      ["李国富", "fiance of x"], 
+      ["张洁", "sibling of x"], 
+      ["慕北", "sibling of x"], 
+      ["王大哥", "husband of x"], 
+      ["王邻居", "friend of x"]
+    ],
+    "父亲": [
+      ["何老六", "father of x, perpetrator of x"], 
+      ["五个姐姐", "father of x"], 
+      ["李国富", "father of x"], 
+      ["张洁", "child of x"], 
+      ["慕北", "child of x"], 
+      ["王大哥", "son of x"], 
+      ["王邻居", "neighbour of x"]
+    ],
+    "李国富": [
+      ["何老六", "employer of x"], 
+      ["五个姐姐", "fiancee of x"], 
+      ["父亲", "son of x"], 
+      ["张洁", "fellow nighttime security of xficer"], 
+      ["慕北", "romantic relationships with x, co workers of x"], 
+      ["王大哥", "fondness of x"], 
+      ["王邻居", "neighbor of x"]
+    ],
+    "张洁": [
+      ["何老六", "fellow coworkers of x"], 
+      ["五个姐姐", "sibling of x"], 
+      ["父亲", "father of x"], 
+      ["李国富", "fellow nighttime security of xficer"], 
+      ["慕北", "friend of x, colleague of x"], 
+      ["王大哥", "friend of x, acquaintance of x"], 
+      ["王邻居", "neighbour of x, acquaintance of x"]
+    ],
+    "慕北": [
+      ["何老六", "co workers in the same crime group of x"], 
+      ["五个姐姐", "sibling of x"], 
+      ["父亲", "father of x"], 
+      ["李国富", "romantic relationships with x, co workers of x"], 
+      ["张洁", "friend of x, colleague of x"], 
+      ["王大哥", "neighbor of x"], 
+      ["王邻居", "neighbor of x"]
+    ],
+    "王大哥": [
+      ["何老六", "romantic relationships with x, helper of x"], 
+      ["五个姐姐", "wife of x"], 
+      ["父亲", "father of x"], 
+      ["李国富", "fondness of x"], 
+      ["张洁", "friend of x, acquaintance of x"], 
+      ["慕北", "neighbor of x"], 
+      ["王邻居", "neighbor of x"]
+    ],
+    "王邻居": [
+      ["何老六", "neighbor of x"], 
+      ["五个姐姐", "friend of x"], 
+      ["父亲", "neighbour of x"], 
+      ["李国富", "neighbor of x"], 
+      ["张洁", "neighbour of x, acquaintance of x"], 
+      ["慕北", "neighbor of x"], 
+      ["王大哥", "neighbor of x"]
+    ]
+}

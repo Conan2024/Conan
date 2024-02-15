@@ -1,0 +1,16 @@
+{
+    "李国富": [
+      ["张洁", "supervisor/subordinate of x, suspicious/suspect of x"], 
+      ["何老六", "colleague of x"]
+    ],
+    "张洁": [
+      ["李国富", "colleague of x, informant of x"], 
+      ["何老六", "colleague of x, friend of x"]
+    ],
+    "何老六": [
+      ["李国富", "colleague of x"]
+    ],
+    "何老six": [
+      ["张洁", "colleague of x, friend of x"]
+    ]
+}

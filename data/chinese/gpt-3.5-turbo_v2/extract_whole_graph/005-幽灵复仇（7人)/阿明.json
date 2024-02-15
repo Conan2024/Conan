@@ -1,0 +1,65 @@
+{
+    "阿明": [
+      ["钱明", "friend of x"], 
+      ["小红", "friend of x"], 
+      ["王刚", "friend of x"], 
+      ["李华", "friend of x"], 
+      ["阿明的妻子", "wife of x"], 
+      ["钱明的妻子", "wife of x 钱明"], 
+      ["阿明的父母", "parents of x"], 
+      ["钱明的父母", "parents of x 钱明"], 
+      ["阿明的兄弟姐妹", "siblings of x"], 
+      ["钱明的兄弟姐妹", "siblings of x 钱明"]
+    ],
+    "钱明": [
+      ["阿明", "friend of x"], 
+      ["小红", "friend of x"], 
+      ["王刚", "friend of x"], 
+      ["李华", "friend of x"], 
+      ["阿明的妻子", "husband of x的妻子"], 
+      ["阿明的父母", "parents of x"], 
+      ["钱明的父母", "parents of x"], 
+      ["阿明的兄弟姐妹", "siblings of x"], 
+      ["钱明的兄弟姐妹", "siblings of x"]
+    ],
+    "小红": [
+      ["阿明", "friend of x"], 
+      ["钱明", "friend of x"], 
+      ["王刚", "romantic relationships with x"], 
+      ["李华", "friend of x"]
+    ],
+    "王刚": [
+      ["阿明", "friend of x"], 
+      ["钱明", "romantic relationships with x"], 
+      ["小红", "romantic relationships with x"], 
+      ["李华", "friend of x"]
+    ],
+    "李华": [
+      ["阿明", "friend of x"], 
+      ["钱明", "friend of x"], 
+      ["小红", "friend of x"], 
+      ["王刚", "friend of x"]
+    ],
+    "阿明的妻子": [
+      ["阿明", "wife of x"]
+    ],
+    "钱明的妻子": [
+      ["钱明", "husband of x的妻子"]
+    ],
+    "阿明的父母": [
+      ["阿明", "parents of x"], 
+      ["钱明", "parents of x"]
+    ],
+    "钱明的父母": [
+      ["阿明", "parents of x 钱明"], 
+      ["钱明", "parents of x"]
+    ],
+    "阿明的兄弟姐妹": [
+      ["阿明", "siblings of x"], 
+      ["钱明", "siblings of x"]
+    ],
+    "钱明的兄弟姐妹": [
+      ["阿明", "siblings of x 钱明"], 
+      ["钱明", "siblings of x"]
+    ]
+}

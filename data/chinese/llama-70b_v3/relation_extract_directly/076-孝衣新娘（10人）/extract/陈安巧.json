@@ -1,0 +1,30 @@
+{
+    "陈安巧": [
+      ["姚长寿", "uncle of x"], 
+      ["红夫人", "sister of x"], 
+      ["短发女人", "friend of x"]
+    ],
+    "姚长寿": [
+      ["陈安巧", "uncle of x"], 
+      ["姚孟仁", "son of x"], 
+      ["姚仲义", "son of x"], 
+      ["红夫人", "friend of x"]
+    ],
+    "姚孟仁": [
+      ["姚长寿", "father of x"], 
+      ["短发女人", "friend of x"]
+    ],
+    "姚仲义": [
+      ["姚长寿", "son of x"], 
+      ["短发女人", "friend of x"]
+    ],
+    "红夫人": [
+      ["陈安巧", "sister of x"], 
+      ["姚长寿", "friend of x"]
+    ],
+    "短发女人": [
+      ["陈安巧", "friend of x"], 
+      ["姚孟仁", "friend of x"], 
+      ["姚仲义", "friend of x"]
+    ]
+}

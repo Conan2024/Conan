@@ -1,0 +1,160 @@
+{
+    "吕名然": [
+      ["廖一乔", "father of x"], 
+      ["张医师", "friend of x, helper of x"], 
+      ["红儿", "father in law of x, manipulator of x, helper of x"], 
+      ["罗亨理", "sister of x, bully of x, lover of x, colleague of x, enemy of x, friend of x"], 
+      ["罗明纱", "doctor of x"], 
+      ["谭仁昌", "son of x"], 
+      ["阿萍", "son of x, student of x, friend of x, enemy of x"], 
+      ["韦太太", "son of x, brother of x, uncle of x, cousin of x"]
+    ],
+    "廖一乔": [
+      ["吕名然", "father of x"], 
+      ["张医师", "father in law of x"], 
+      ["承格", "father of x, business partner of x"], 
+      ["海悠", "sister of x, father of x, acquaintance of x"], 
+      ["红儿", "colleague of x"], 
+      ["罗亨理", "colleague of x"], 
+      ["罗明纱", "father in law of x"], 
+      ["茱丽", "father of x, employer of x, acquaintance of x"], 
+      ["谭仁昌", "son of x, business partner of x, friend of x"], 
+      ["谭尚致", "father of x, son of x, business partner of x, friend of x"], 
+      ["阿萍", "son of x"], 
+      ["韦太太", "business partner of x, friend of x, mentor of x"]
+    ],
+    "廖雪寒": [
+      ["张医师", "doctor of x, teacher of x, acquaintance of x"], 
+      ["承格", "father of x, sister of x, doctor of x"], 
+      ["海悠", "sister of x, doctor of x"], 
+      ["红儿", "sister of x"], 
+      ["罗亨理", "adoptive mother of x"], 
+      ["茱丽", "biological mother of x, biological father of x, sibling of x, cousin of x, student of x, nephew of x, friend of x"], 
+      ["谭仁昌", "business partner of x"], 
+      ["谭尚致", "father of x, business partner of x"], 
+      ["阿萍", "enemy of x, rival of x, manipulator of x, adversary of x"]
+    ],
+    "张医师": [
+      ["吕名然", "friend of x, helper of x"], 
+      ["廖一乔", "father in law of x"], 
+      ["廖雪寒", "doctor of x, teacher of x, acquaintance of x"], 
+      ["罗亨理", "doctor of x"], 
+      ["罗明纱", "doctor of x"], 
+      ["茱丽", "colleague of x"], 
+      ["谭仁昌", "doctor of x"], 
+      ["阿萍", "friend of x"], 
+      ["韦太太", "doctor of x"]
+    ],
+    "承格": [
+      ["廖一乔", "business partner of x"], 
+      ["廖雪寒", "sister of x, father of x, doctor of x"], 
+      ["海悠", "colleague of x, acquaintance of x"], 
+      ["红儿", "sister of x"], 
+      ["罗亨理", "colleague of x, acquaintance of x, classmate of x, schoolmate of x, helper of x"], 
+      ["罗明纱", "colleague of x, acquaintance of x, classmate of x, schoolmate of x, helper of x"], 
+      ["茱丽", "friend of x, employer of x"], 
+      ["谭仁昌", "father in law of x, acquaintance of x, acquaintance of x, fiance of x, fiancee of x"], 
+      ["谭尚致", "relative of x"], 
+      ["Business Partner", "helper of x, rival of x, manipulator of x"], 
+      ["韦太太", "father in law of x, manipulator of x"]
+    ],
+    "海悠": [
+      ["廖一乔", "sister of x, father of x, acquaintance of x"], 
+      ["承格", "colleague of x, acquaintance of x"], 
+      ["罗明纱", "daughter of x, student of x, student of x"], 
+      ["茱丽", "acquaintance of x, friend of x"], 
+      ["r", "colleague of x, sibling of x, colleague of x, sibling of x"]
+    ],
+    "红儿": [
+      ["吕名然", "wife of x, friend of x"], 
+      ["廖一乔", "colleague of x"], 
+      ["廖雪寒", "sister of x"], 
+      ["承格", "older brother of x, father of x"], 
+      ["罗亨理", "enemy of x"], 
+      ["罗明纱", "enemy of x"], 
+      ["谭仁昌", "uncle of x"], 
+      ["谭尚致", "cousin of x"], 
+      ["阿萍", "sibling of x"]
+    ],
+    "罗亨理": [
+      ["吕名然", "sister of x, bully of x, lover of x, colleague of x, enemy of x, friend of x"], 
+      ["廖一乔", "colleague of x"], 
+      ["廖雪寒", "adoptive mother of x"], 
+      ["张医师", "doctor of x"], 
+      ["承格", "colleague of x, acquaintance of x, classmate of x, schoolmate of x"], 
+      ["红儿", "enemy of x"], 
+      ["罗明纱", "father in law of x, business partner of x"], 
+      ["茱丽", "sister of x, friend of x, student of x, child of x, victim of x"], 
+      ["谭仁昌", "friend of x, colleague of x, business partner of x, customer of x, patient of x"], 
+      ["谭尚致", "father in law of x"], 
+      ["阿萍", "relative of x"], 
+      ["韦太太", "friend of x"]
+    ],
+    "罗明纱": [
+      ["吕名然", "doctor of x"], 
+      ["廖一乔", "husband of x, employer of x"], 
+      ["张医师", "doctor of x"], 
+      ["承格", "colleague of x, acquaintance of x, classmate of x, schoolmate of x"], 
+      ["海悠", "adoptive mother of x, mentor of x"], 
+      ["红儿", "enemy of x"], 
+      ["罗亨理", "father in law of x, business partner of x"], 
+      ["茱丽", "friend of x"], 
+      ["谭仁昌", "friend of x, employer of x"], 
+      ["谭尚致", "father in law of x"], 
+      ["阿萍", "friend of x, classmate of x"], 
+      ["韦太太", "friend of x"]
+    ],
+    "茱丽": [
+      ["廖一乔", "employee of x, acquaintance of x"], 
+      ["廖雪寒", "biological mother of x, biological father of x, sibling of x, cousin of x, student of x, nephew of x, friend of x"], 
+      ["张医师", "colleague of x"], 
+      ["承格", "friend of x, employee of x"], 
+      ["海悠", "acquaintance of x, friend of x"], 
+      ["罗亨理", "sister of x, friend of x, student of x, child of x, victim of x"], 
+      ["罗明纱", "friend of x"], 
+      ["谭尚致", "husband of x, father of x"], 
+      ["阿萍", "friend of x, acquaintance of x"]
+    ],
+    "谭仁昌": [
+      ["吕名然", "father of x, mentor of x, teacher of x"], 
+      ["廖一乔", "son of x, business partner of x, friend of x"], 
+      ["廖雪寒", "business partner of x"], 
+      ["张医师", "doctor of x"], 
+      ["承格", "son in law of x, acquaintance of x, acquaintance of x, fiance of x, fiancee of x"], 
+      ["红儿", "nephew of x, son of x"], 
+      ["罗亨理", "friend of x, colleague of x, business partner of x, customer of x, patient of x"], 
+      ["罗明纱", "friend of x, employer of x"], 
+      ["谭尚致", "father of x"], 
+      ["阿萍", "father in law of x"], 
+      ["韦太太", "mentor of x"]
+    ],
+    "谭尚致": [
+      ["廖一乔", "father of x, son of x, business partner of x, friend of x"], 
+      ["承格", "father of x"], 
+      ["红儿", "cousin of x"], 
+      ["罗亨理", "son in law of x"], 
+      ["罗明纱", "son in law of x, business partner of x, colleague of x"], 
+      ["茱丽", "wife of x, mother of x"], 
+      ["阿萍", "father of x, employer of x, mentor of x, superior of x"]
+    ],
+    "阿萍": [
+      ["吕名然", "son of x, student of x, friend of x, enemy of x"], 
+      ["廖一乔", "son of x"], 
+      ["廖雪寒", "enemy of x, rival of x, manipulator of x, adversary of x"], 
+      ["张医师", "friend of x"], 
+      ["红儿", "sibling of x"], 
+      ["罗亨理", "relative of x"], 
+      ["罗明纱", "friend of x, classmate of x"], 
+      ["茱丽", "friend of x, acquaintance of x"], 
+      ["谭尚致", "daughter of x, employee of x, subordinate of x"]
+    ],
+    "韦太太": [
+      ["吕名然", "mother of x, sister of x, wife of x, aunt of x"], 
+      ["廖一乔", "business partner of x, friend of x, mentor of x"], 
+      ["张医师", "doctor of x"], 
+      ["承格", "husband of x, enemy of x"], 
+      ["罗亨理", "friend of x"], 
+      ["罗明纱", "friend of x"], 
+      ["谭仁昌", "mentor of x"]
+    ]
+}

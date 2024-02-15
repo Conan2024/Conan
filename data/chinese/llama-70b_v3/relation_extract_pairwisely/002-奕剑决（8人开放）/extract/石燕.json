@@ -1,0 +1,28 @@
+{
+    "type": [
+      ["v", "friend of x, friend of x, teacher of x, friend of x"]
+    ],
+    "description": [
+      ["杜", "acquaintance of x, brother of x, colleague of x, teacher of x, acquaintance of x, friend of x, colleague of x, friend of x, colleague of x, sibling of x, teacher of x, acquaintance of x, colleague of x, acquaintance of x, colleague of x, wife of x, colleague of x, acquaintance of x, wife of x, friend of x, colleague of x, sibling of x, friend of x, colleague of x"]
+    ],
+    "石燕": [
+      ["杜仲", "teacher of x, enemy of x"], 
+      ["陆英", "mentor of x, enemy of x"], 
+      ["天字位的某个弟子", "enemy of x"]
+    ],
+    "杜仲": [
+      ["石燕", "enemy of x"], 
+      ["陆英", "acquaintance of x, schoolmate of x"]
+    ],
+    "陆英": [
+      ["石燕", "mentor of x, enemy of x"], 
+      ["杜仲", "acquaintance of x, schoolmate of x"]
+    ],
+    "天字位的某个弟子": [
+      ["石燕", "enemy of x"], 
+      ["红花夫人", "acquaintance of x, same person as x (different reference)"]
+    ],
+    "红花夫人": [
+      ["天字位的某个弟子", "acquaintance of x"]
+    ]
+}

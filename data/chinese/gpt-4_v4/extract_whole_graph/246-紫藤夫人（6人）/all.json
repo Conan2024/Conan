@@ -1,0 +1,62 @@
+{
+    "吕松年": [
+      ["吕陆升", "same person as x (different identity)"], 
+      ["葛继先", "perpetrator of x, suspected by x"], 
+      ["严义充", "perpetrator of x"], 
+      ["于尚勇", "acquaintance of x"], 
+      ["薛达财", "acquaintance of x"], 
+      ["葛月萝", "acquaintance of x"], 
+      ["朱陵山", "business partner of x, suspected by x"]
+    ],
+    "吕陆升": [
+      ["吕松年", "same person as x (different identity)"], 
+      ["葛继先", "victim of x"], 
+      ["葛月曼", "acquaintance of x, disliked by x"], 
+      ["于尚勇", "acquaintance of x"], 
+      ["薛达财", "acquaintance of x"], 
+      ["葛月萝", "acquaintance of x"], 
+      ["朱陵山", "acquaintance of x, suspected by x"]
+    ],
+    "葛继先": [
+      ["葛月萝", "father of x"], 
+      ["朱陵山", "father in law of x"], 
+      ["葛月曼", "father of x"], 
+      ["吕松年", "victim of x"], 
+      ["吕陆升", "victim of x"]
+    ],
+    "葛月萝": [
+      ["葛继先", "child of x"], 
+      ["朱陵山", "husband of x"], 
+      ["葛月曼", "same person as x (different identity)"]
+    ],
+    "葛月曼": [
+      ["葛继先", "child of x"], 
+      ["葛月萝", "same person as x (different identity)"]
+    ],
+    "朱陵山": [
+      ["葛月萝", "husband of x"], 
+      ["葛继先", "son in law of x"]
+    ],
+    "于尚勇": [
+      ["于彦诚", "same person as x (different identity)"], 
+      ["葛继先", "acquaintance of x"], 
+      ["吕松年", "acquaintance of x"], 
+      ["吕陆升", "acquaintance of x"]
+    ],
+    "薛达财": [
+      ["朱陵山", "acquaintance of x"], 
+      ["葛继先", "acquaintance of x"], 
+      ["葛月曼", "acquaintance of x"], 
+      ["薛玉帆", "father of x"]
+    ],
+    "薛玉帆": [
+      ["薛达财", "child of x"]
+    ],
+    "严义充": [
+      ["吕松年", "victim of x"], 
+      ["葛继先", "acquaintance of x"]
+    ],
+    "于彦诚": [
+      ["于尚勇", "same person as x (different identity)"]
+    ]
+}

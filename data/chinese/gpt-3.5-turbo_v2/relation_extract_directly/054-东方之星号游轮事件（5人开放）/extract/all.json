@@ -1,0 +1,33 @@
+{
+    "洪子廉(船长)": [
+      ["刘奇", "mentor of x"], 
+      ["修仁杰(酒吧经理)", "business partner of x"], 
+      ["韩亦暮 (乘务)", "romantic relationships with of x, ex boyfriend of x ex boyfriend of x"], 
+      ["林若彤(歌手)", "lover of x, romantic relationships with of x"], 
+      ["张文远 (二副)", "subordinate of x"]
+    ],
+    "刘奇": [
+      ["洪子廉(船长)", "student of x"], 
+      ["洪子廉(船长)", "product provider of x"], 
+      ["修仁杰(酒吧经理)", "quest companion of x"], 
+      ["修仁杰(酒吧经理)", "customer of x"]
+    ],
+    "修仁杰(酒吧经理)": [
+      ["洪子廉(船长)", "business partner of x"], 
+      ["刘奇", "quest companion of x"], 
+      ["韩亦暮", "colleague of x"], 
+      ["林若彤(歌手)", "employee of x"]
+    ],
+    "韩亦暮 (乘务)": [
+      ["洪子廉(船长)", "romantic relationships with of x, ex boyfriend of x ex boyfriend of x"], 
+      ["林若彤(歌手)", "romantic relationships with of x"]
+    ],
+    "林若彤(歌手)": [
+      ["洪子廉(船长)", "lover of x, romantic relationships with of x"], 
+      ["修仁杰(酒吧经理)", "employee of x"], 
+      ["韩亦暮 (乘务)", "romantic relationships with of x"]
+    ],
+    "张文远 (二副)": [
+      ["洪子廉(船长)", "subordinate of x"]
+    ]
+}

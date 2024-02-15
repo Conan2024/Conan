@@ -1,0 +1,24 @@
+{
+    "紫苏": [
+      ["./玄冰教", "ally of x, friend of x"], 
+      ["./师父", "master of x, manipulator of x"], 
+      ["./二师叔", "acquaintance of x, colleague of x"], 
+      ["./易剑山庄", "colleague of x, rival of x"]
+    ],
+    "师父": [
+      ["./紫苏", "suspect of x, adversary of x"], 
+      ["./玄冰教", "ally of x, friend of x"]
+    ],
+    "二师叔": [
+      ["./紫苏", "ally of x, friend of x"], 
+      ["./易剑山庄", "colleague of x, rival of x"]
+    ],
+    "玄冰教": [
+      ["./紫苏", "ally of x, friend of x"], 
+      ["./师父", "ally of x, friend of x"]
+    ],
+    "易剑山庄": [
+      ["./紫苏", "colleague of x, rival of x"], 
+      ["./二师叔", "colleague of x, rival of x"]
+    ]
+}

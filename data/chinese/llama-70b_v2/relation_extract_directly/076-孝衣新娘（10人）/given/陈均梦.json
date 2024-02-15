@@ -1,0 +1,35 @@
+{
+    "陳均梦": [
+      ["姚仲义", "friend of x"], 
+      ["姚孟仁", "husband of x"], 
+      ["贵叔", "doctor of x"], 
+      ["姚長寿", "father in law of x"], 
+      ["陈安巧", "friend of x"]
+    ],
+    "姚仲义": [
+      ["姚孟仁", "brother in law of x"]
+    ],
+    "姚孟仁": [
+      ["陳均梦", "husband of x"], 
+      ["姚長寿", "son of x"], 
+      ["贵叔", "doctor of x"]
+    ],
+    "贵叔": [
+      ["陳均梦", "doctor of x"], 
+      ["姚孟仁", "doctor of x"]
+    ],
+    "姚長寿": [
+      ["陳均梦", "father in law of x"], 
+      ["姚孟仁", "son of x"]
+    ],
+    "陈安巧": [
+      ["陳均梦", "friend of x"], 
+      ["姚長寿", "stepmother of x"]
+    ],
+    "红夫人": [
+      ["姚长寿", "wife of x"]
+    ],
+    "陈市田": [
+      ["陈安巧", "father of x"]
+    ]
+}

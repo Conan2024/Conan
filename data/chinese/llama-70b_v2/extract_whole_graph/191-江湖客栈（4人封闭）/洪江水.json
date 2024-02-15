@@ -1,0 +1,20 @@
+{
+    "洪江水": [
+      ["孟三春", "friend of x, drinking buddy of x"], 
+      ["张红生", "acquaintance of x, fellow employee of x"], 
+      ["蔡思娘", "friend of x, confidant of x"], 
+      ["寨主", "father of x, deceased of x"]
+    ],
+    "孟三春": [
+      ["洪江水", "friend of x, drinking buddy of x"], 
+      ["张红生", "brother of x, business partner of x"]
+    ],
+    "张红生": [
+      ["洪江水", "acquaintance of x, fellow employee of x"], 
+      ["孟三春", "brother of x, business partner of x"]
+    ],
+    "蔡思娘": [
+      ["洪江水", "friend of x, confidant of x"], 
+      ["孟三春", "suspected lover of x"]
+    ]
+}

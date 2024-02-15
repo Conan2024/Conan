@@ -1,0 +1,87 @@
+{
+    "楽婉": [
+      ["于尚勇", "husband of x"], 
+      ["张俊诗", "friend of x"], 
+      ["朱陵山", "husband of x, stranger to x"]
+    ],
+    "于尚勇": [
+      ["张俊诗", "acquaintance of x, business partner of x, friend of x"], 
+      ["朱陵山", "husband of x, extramarital affair with x"], 
+      ["葛月萝", "friend of x, mentor of x, rival of x, enemy of x"], 
+      ["葛继先", "husband of x"], 
+      ["薛达财", "friend of x, acquaintance of x"]
+    ],
+    "张俊诗": [
+      ["乐婉", "friend of x"], 
+      ["于尚勇", "acquaintance of x, business partner of x, friend of x"], 
+      ["稚筠", "husband of x, stranger to x"], 
+      ["葛月曼", "husband of x, superior of x"], 
+      ["葛月萝", "friend of x, mentor of x, rival of x, enemy of x, colleague of x, business partner of x, customer of x"], 
+      ["葛继先", "friend of x, business partner of x, superior of x, customer of x, acquaintance of x"], 
+      ["薛达财", "husband of x, father of x"]
+    ],
+    "乐婉": [
+      ["葛月曼", "employee of x, informant of x"], 
+      ["葛月萝", "servant of x"], 
+      ["葛继先", "employee of x, informant of x"], 
+      ["薛达财", "employee of x, informant of x"]
+    ],
+    "张太太": [
+      ["朱陵山", "acquaintance of x, customer of x"], 
+      ["葛月曼", "friend of x, mentor of x, teacher of x, employer of x"], 
+      ["薛达财", "husband of x"]
+    ],
+    "朱陵山": [
+      ["乐婉", "wife of x, stranger to x"], 
+      ["于尚勇", "wife of x, romantic relationships with x"], 
+      ["张太太", "acquaintance of x, customer of x"], 
+      ["稚筠", "husband of x, father of x"], 
+      ["葛月曼", "husband of x, extramarital affair with x"], 
+      ["葛月萝", "husband of x, extramarital affair with x"], 
+      ["葛继先", "husband of x, extramarital affair with x"]
+    ],
+    "稚筠": [
+      ["张俊诗", "wife of x, stranger to x"], 
+      ["朱陵山", "wife of x, mother of x"], 
+      ["葛月曼", "cousin of x"], 
+      ["葛月萝", "cousin of x, acquaintance of x"], 
+      ["葛继先", "husband of x, father of x"], 
+      ["薛达财", "relative of x"]
+    ],
+    "葛月曼": [
+      ["乐婉", "employer of x, victim of x"], 
+      ["张俊诗", "husband of x, superior of x"], 
+      ["张太太", "friend of x, mentor of x, teacher of x, employer of x"], 
+      ["朱陵山", "wife of x, same person as x (different reference)"], 
+      ["稚筠", "older sister of x"], 
+      ["葛月萝", "relative of x"], 
+      ["葛继先", "relative of x"], 
+      ["薛达财", "husband of x, father of x"]
+    ],
+    "葛月萝": [
+      ["乐婉", "servant of x"], 
+      ["于尚勇", "friend of x, mentor of x, rival of x, enemy of x"], 
+      ["张俊诗", "friend of x, mentor of x, rival of x, enemy of x, colleague of x, business partner of x, customer of x"], 
+      ["朱陵山", "wife of x, bully of x"], 
+      ["稚筠", "cousin of x, acquaintance of x"], 
+      ["葛月曼", "sister of x"], 
+      ["葛继先", "relative of x"], 
+      ["薛达财", "friend of x"]
+    ],
+    "葛继先": [
+      ["乐婉", "employer of x, mentor of x"], 
+      ["于尚勇", "wife of x, daughter of x"], 
+      ["张俊诗", "friend of x, business partner of x, superior of x, customer of x, acquaintance of x"], 
+      ["朱陵山", "wife of x, bully of x"], 
+      ["稚筠", "father in law of x, husband of x"], 
+      ["葛月萝", "father of x"]
+    ],
+    "薛达财": [
+      ["乐婉", "employer of x, mentor of x"], 
+      ["于尚勇", "friend of x, acquaintance of x"], 
+      ["张俊诗", "wife of x, mother of x"], 
+      ["稚筠", "husband of x"], 
+      ["葛月曼", "wife of x, mother of x"], 
+      ["葛月萝", "friend of x"]
+    ]
+}

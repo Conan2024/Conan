@@ -1,0 +1,53 @@
+{
+    "嫣楠": [
+      ["汪昔容", "mother of x"], 
+      ["昔颜", "aunt of x"], 
+      ["崔寿亨", "father of x"], 
+      ["宝柑", "servant of x, adoptive mother of x"], 
+      ["于氏", "acquaintance of x"], 
+      ["周蒙当", "acquaintance of x"], 
+      ["宿年", "boyfriend of x, teacher of x"], 
+      ["周持同", "acquaintance of x"], 
+      ["甜愁", "secret lover of x"]
+    ],
+    "汪昔容": [
+      ["昔颜", "sibling of x"], 
+      ["崔寿亨", "husband of x"], 
+      ["嫣楠", "child of x"]
+    ],
+    "昔颜": [
+      ["汪昔容", "sibling of x"], 
+      ["嫣楠", "niece of x"], 
+      ["崔寿亨", "concubine of x"]
+    ],
+    "崔寿亨": [
+      ["汪昔容", "wife of x"], 
+      ["昔颜", "concubine of x"], 
+      ["嫣楠", "child of x"], 
+      ["宝柑", "subordinate of x"]
+    ],
+    "琏逸": [
+      ["周蒙当", "father of x"], 
+      ["于氏", "mother of x"], 
+      ["周持同", "uncle of x"], 
+      ["宿年", "relative of x"]
+    ],
+    "宿年": [
+      ["于氏", "sibling of x"], 
+      ["琏逸", "nephew of x"], 
+      ["嫣楠", "girlfriend of x, student of x"]
+    ],
+    "周蒙当": [
+      ["琏逸", "child of x"], 
+      ["于氏", "husband of x"], 
+      ["周持同", "sibling of x"]
+    ],
+    "周持同": [
+      ["琏逸", "nephew of x"], 
+      ["周蒙当", "sibling of x"]
+    ],
+    "宝柑": [
+      ["昔颜", "servant of x"], 
+      ["嫣楠", "servant of x, adoptive mother of x"]
+    ]
+}

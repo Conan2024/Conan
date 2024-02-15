@@ -1,0 +1,66 @@
+{
+    "特尔特拉福德": [
+      ["陈孜靖", "same person as x (different identity)"]
+    ],
+    "陈孜靖": [
+      ["特尔特拉福德", "same person as x (different reference)"], 
+      ["李王爷", "friend of x, business partner of x"], 
+      ["尔矢斯芭嗒王子", "acquaintance of x, helped by x"], 
+      ["方府", "acquaintance of x"], 
+      ["方絮", "suspected by x"], 
+      ["陈倩", "child of x"], 
+      ["小茜", "acquaintance of x"]
+    ],
+    "李王爷": [
+      ["陈孜靖", "friend of x, business partner of x"], 
+      ["方府", "business partner of x"], 
+      ["方絮", "wife of x"], 
+      ["李仲", "child of x"], 
+      ["李延", "child of x"], 
+      ["小茜", "acquaintance of x, victim of x"], 
+      ["陈倩", "attempted perpetrator of x"]
+    ],
+    "尔矢斯芭嗒王子": [
+      ["陈孜靖", "helped by x"], 
+      ["方府", "guest of x"], 
+      ["小茜", "adoptive father of x"], 
+      ["方絮", "informant of x"]
+    ],
+    "方府": [
+      ["李王爷", "business partner of x"], 
+      ["方絮", "parent of x"], 
+      ["尔矢斯芭嗒王子", "host of x"]
+    ],
+    "方絮": [
+      ["李王爷", "husband of x"], 
+      ["方府", "child of x"], 
+      ["尔矢斯芭嗒王子", "informant of x"], 
+      ["陈孜靖", "suspected by x"]
+    ],
+    "李仲": [
+      ["李王爷", "child of x"], 
+      ["李延", "sibling of x"], 
+      ["陈倩", "fiance of x"]
+    ],
+    "李延": [
+      ["李王爷", "child of x"], 
+      ["李仲", "twin brother of x"]
+    ],
+    "李氏": [
+      ["李王爷", "wife of x or possibly mother of x"], 
+      ["李仲", "possibly mother of x"], 
+      ["李延", "possibly mother of x"]
+    ],
+    "陈倩": [
+      ["陈孜靖", "child of x"], 
+      ["李仲", "fiancee of x"], 
+      ["小茜", "acquaintance of x"], 
+      ["李王爷", "victim of x"]
+    ],
+    "小茜": [
+      ["尔矢斯芭嗒王子", "adopted child of x"], 
+      ["李王爷", "dislike of x, disliked by x"], 
+      ["陈倩", "acquaintance of x"], 
+      ["陈孜靖", "acquaintance of x"]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "哈娜": [
+        [
+            "瓦伦",
+            "friend of x"
+        ],
+        [
+            "迪克",
+            "perpetrator of x, feared by x"
+        ],
+        [
+            "丽莎",
+            "friend of x"
+        ]
+    ],
+    "瓦伦": [
+        [
+            "哈娜",
+            "friend of x"
+        ],
+        [
+            "丽莎",
+            "friend of x"
+        ],
+        [
+            "迪克",
+            "husband of x"
+        ]
+    ],
+    "丽莎": [
+        [
+            "瓦伦",
+            "friend of x"
+        ],
+        [
+            "哈娜",
+            "friend of x"
+        ]
+    ],
+    "迪克": [
+        [
+            "瓦伦",
+            "wife of x"
+        ],
+        [
+            "哈娜",
+            "victim of x"
+        ]
+    ]
+}

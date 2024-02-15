@@ -1,0 +1,36 @@
+{
+    "赵帅哥": [
+      ["张恶霸", "好友 of x, nemesis of x"], 
+      ["林校花", "朋友 of x, crush of x"], 
+      ["王学习", "同学 of x, acquaintance of x"], 
+      ["李小弟", "同学 of x, acquaintance of x"]
+    ],
+    "张恶霸": [
+      ["赵帅哥", "好友 of x, nemesis of x"], 
+      ["林校花", "未婚妻 of x, love interest of x"], 
+      ["王学习", "同学 of x, acquaintance of x"], 
+      ["李小弟", "同学 of x, acquaintance of x"]
+    ],
+    "林校花": [
+      ["赵帅哥", "朋友 of x, crush of x"], 
+      ["张恶霸", "未婚妻 of x, love interest of x"], 
+      ["王学习", "同学 of x, acquaintance of x"], 
+      ["李小弟", "同学 of x, acquaintance of x"]
+    ],
+    "王学习": [
+      ["赵帅哥", "同学 of x, acquaintance of x"], 
+      ["张恶霸", "同学 of x, acquaintance of x"], 
+      ["林校花", "同学 of x, acquaintance of x"], 
+      ["李小弟", "同学 of x, acquaintance of x"]
+    ],
+    "李小弟": [
+      ["赵帅哥", "同学 of x, acquaintance of x"], 
+      ["张恶霸", "同学 of x, acquaintance of x"], 
+      ["林校花", "同学 of x, acquaintance of x"], 
+      ["王学习", "同学 of x, acquaintance of x"]
+    ],
+    "郝闺蜜": [
+      ["张恶霸", "猫咪 of x, pet of x"], 
+      ["赵帅哥", "敌人 of x, enemy of x"]
+    ]
+}

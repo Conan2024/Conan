@@ -1,0 +1,78 @@
+{
+    "于尚勇": [
+      ["吕松年", "son in law of x, father in law of x"], 
+      ["吕陆升", "husband of x, father of x"], 
+      ["张太太", "husband of x, acquaintance of x"], 
+      ["niece", "uncle of x, cousin of x"], 
+      ["葛月曼", "friend of x"], 
+      ["葛月萝", "friend of x, saved by x"], 
+      ["葛继先", "cousin of x, friend of x"]
+    ],
+    "于彦诚": [
+      ["张太太", "husband of x, stranger to x, acquaintance of x"], 
+      ["茱丽", "acquaintance of x, business partner of x, friend of x, helper of x"], 
+      ["葛月曼", "cousin of x, friend of x, rival of x, enemy of x, helper of x, acquaintance of x, classmate of x, schoolmate of x, colleague of x, business partner of x, customer of x, tenant of x, patient of x"]
+    ],
+    "吕松年": [
+      ["于尚勇", "son in law of x, father in law of x"], 
+      ["吕陆升", "husband of x, father of x, son of x, brother of x, uncle of x, nephew of x"], 
+      ["茱丽", "husband of x"], 
+      ["葛月曼", "friend of x, acquaintance of x"], 
+      ["葛月萝", "friend of x"], 
+      ["葛继先", "relative of x"]
+    ],
+    "吕陆升": [
+      ["于尚勇", "husband of x, son of x"], 
+      ["吕松年", "wife of x, daughter of x, sister of x, brother of x, uncle of x, nephew of x"], 
+      ["稚筠", "uncle of x"], 
+      ["茱丽", "husband of x"], 
+      ["葛月萝", "father in law of x, acquaintance of x"]
+    ],
+    "张太太": [
+      ["于尚勇", "husband of x, acquaintance of x"], 
+      ["于彦诚", "wife of x, acquaintance of x, husband of x"], 
+      ["稚筠", "sister of x, niece of x, friend of x"], 
+      ["茱丽", "wife of x"], 
+      ["葛月曼", "sister of x, friend of x"], 
+      ["葛月萝", "sister of x, grandparent of x, friend of x"]
+    ],
+    "稚筠": [
+      ["niece", "uncle of x, cousin of x"], 
+      ["张太太", "sister of x, niece of x, friend of x"], 
+      ["茱丽", "relative of x, niece of x"], 
+      ["葛月曼", "acquaintance of x"], 
+      ["葛月萝", "cousin of x"], 
+      ["葛继先", "husband of x"]
+    ],
+    "茱丽": [
+      ["于彦诚", "acquaintance of x, business partner of x, friend of x, helper of x"], 
+      ["吕松年", "wife of x"], 
+      ["吕陆升", "wife of x"], 
+      ["张太太", "husband of x"], 
+      ["稚筠", "relative of x, aunt of x"], 
+      ["葛继先", "husband of x"]
+    ],
+    "葛月曼": [
+      ["于尚勇", "friend of x"], 
+      ["于彦诚", "cousin of x, friend of x, rival of x, enemy of x, helper of x, acquaintance of x, classmate of x, schoolmate of x, colleague of x, business partner of x, customer of x, tenant of x, patient of x"], 
+      ["吕松年", "friend of x, acquaintance of x"], 
+      ["张太太", "sister of x, friend of x"], 
+      ["稚筠", "sister in law of x, acquaintance of x"], 
+      ["葛月萝", "sister of x"], 
+      ["葛继先", "relative of x"]
+    ],
+    "葛月萝": [
+      ["于尚勇", "friend of x, saved by x"], 
+      ["吕松年", "friend of x"], 
+      ["吕陆升", "father in law of x, acquaintance of x"], 
+      ["张太太", "sister of x, grandparent of x, friend of x"], 
+      ["稚筠", "cousin of x"], 
+      ["葛月曼", "sister of x"], 
+      ["葛继先", "relative of x"]
+    ],
+    "葛继先": [
+      ["于尚勇", "cousin of x, friend of x"], 
+      ["葛月曼", "father of x"], 
+      ["葛月萝", "father of x"]
+    ]
+}

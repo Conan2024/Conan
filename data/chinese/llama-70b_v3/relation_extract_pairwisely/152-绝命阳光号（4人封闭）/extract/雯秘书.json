@@ -1,0 +1,51 @@
+{
+    "杨老板": [
+      ["你", "superior of x, employer of x, mentor of x, adversary of x, enemy of x, rival of x, manipulator of x, victim of x, deceiver of x, betrayer of x, suspicious of x, suspect of x, informant of x"], 
+      ["张大副", "employee of x, business partner of x, helped by x, informant of x"], 
+      ["王船工", "employer of x, perpetrator of x"], 
+      ["王小工", "colleague of x"]
+    ],
+    "你": [
+      ["杨老板", "superior of x, employer of x, mentor of x, adversary of x, enemy of x, rival of x, manipulator of x, victim of x, deceiver of x, betrayer of x, suspicious of x, suspect of x, informant of x"], 
+      ["张大副", "friend of x"], 
+      ["玲船医", "perpetrator of x, bully of x, murderer of x"], 
+      ["王船工", "enemy of x, suspect of x"], 
+      ["王小工", "acquaintance of x"], 
+      ["毒瘾", "employer of x, master of x, superior of x, adversary of x, enemy of x"]
+    ],
+    "张大副": [
+      ["杨老板", "victim of x"], 
+      ["你", "friend of x"], 
+      ["玲船医", "business partner of x"], 
+      ["王小工", "business partner of x"], 
+      ["毒瘾", "business partner of x, rival of x"]
+    ],
+    "玲船医": [
+      ["你", "perpetrator of x, bully of x, murderer of x"], 
+      ["张大副", "business partner of x"], 
+      ["王船工", "acquaintance of x"], 
+      ["王小工", "friend of x"], 
+      ["毒瘾", "enemy of x, friend of x"]
+    ],
+    "王船工": [
+      ["杨老板", "subordinate of x, victim of x"], 
+      ["你", "enemy of x, suspect of x"], 
+      ["玲船医", "acquaintance of x"], 
+      ["王小工", "father of x"], 
+      ["毒瘾", "perpetrator of x, manipulator of x"]
+    ],
+    "王小工": [
+      ["杨老板", "colleague of x"], 
+      ["你", "acquaintance of x"], 
+      ["张大副", "business partner of x"], 
+      ["玲船医", "friend of x"], 
+      ["毒瘾", "perpetrator of x"]
+    ],
+    "毒瘾": [
+      ["你", "employer of x, master of x, superior of x, adversary of x, enemy of x"], 
+      ["张大副", "business partner of x, rival of x"], 
+      ["玲船医", "enemy of x, friend of x"], 
+      [" Wang shipwork", "perpetrator of x, manipulator of x"], 
+      ["王小工", "victim of x"]
+    ]
+}

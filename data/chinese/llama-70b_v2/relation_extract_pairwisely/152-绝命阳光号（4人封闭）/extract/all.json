@@ -1,0 +1,103 @@
+{
+    "你": [
+      ["路人甲", "弟弟 of x, 杨老板 of x, 雯秘书 of x, 王船工 of x, 玲船医 of x"], 
+      ["王船工", "玲船医 of x, 杨老板 of x, 弟弟 of x"], 
+      ["杨老板", "弟弟 of x, 王船工 of x, 玲船医 of x"], 
+      ["雯秘书", "business partner of x, friend of x"], 
+      ["王小工", "玲船医 of x, 王船工 of x, 杨老板 of x, 弟弟 of x, 雯秘书 of x"], 
+      ["毒瘾", "business partner of x, co conspirator of x"], 
+      ["玲船医", "张大副 of x, 王船工 of x"], 
+      ["很天真", "co worker of x"]
+    ],
+    "路人甲": [
+      ["你", "弟弟 of x, 杨老板 of x, 雯秘书 of x, 王船工 of x, 玲船医 of x"], 
+      ["张大副", "朋友 of x, 同事 of x, 敌人 of x, 竞争对手 of x, mentor of x, 学生 of x, 工作伙伴 of x, 供应商 of x, 客户 of x"], 
+      ["왕船工", "handled subordinate of x"], 
+      ["杨老板", "弟弟 of x, 玲船医 of x, 王船工 of x, 王小工 of x, 雯秘书 of x"], 
+      ["雯秘书", "business partner of x, co conspirator of x"], 
+      ["王小工", "friend of x, business partner of x"], 
+      ["毒瘾", "弟弟 of x, 杨老板 of x, 雯秘书 of x, 王船工 of x, 玲船医 of x, 王小工 of x"], 
+      ["玲船医", "friend of x, colleague of x, business partner of x, customer of x, acquaintance of x, classmate of x"], 
+      ["很天真", "弟弟 of x, 杨老板 of x, 雯秘书 of x, 王船工 of x, 玲船医 of x, friend of x, acquaintance of x"]
+    ],
+    "张大副": [
+      ["你", "玲船医 of x"], 
+      ["路人甲", "朋友 of x, same person of x, 敌人 of x, 竞争对手 of x, mentor of x, 学生 of x, 工作伙伴 of x, supplier of x, customer of x"], 
+      ["王船工", "superior of x, mentor of x, friend of x, manipulator of x"], 
+      ["雯秘书", "业务партнер of x, 共谋者 of x"], 
+      ["王小工", "mentor of x, employer of x, manipulator of x, enemy of x"]
+    ],
+    "王船工": [
+      ["你", "玲船医 of x, 杨老板 of x, 王小工 of x"], 
+      ["你", "王小工 of x, 玲船医 of x, 杨老板 of x"], 
+      ["你", "玲船医 of x"], 
+      ["路人甲", "handled subordinate of x, accomplice of x"], 
+      ["张大副", "superior of x, mentor of x, friend of x, manipulated of x"], 
+      ["杨老板", "employee of x, acquaintance of x, co worker of x, fellow criminal of x"], 
+      ["雯秘书", "employee of x, colleague of x"], 
+      ["王小工", "employee of x, helped by x, informant of x, acquaintance of x, classmate of x, schoolmate of x"], 
+      ["毒瘾", "employee of x"], 
+      ["玲船医", "业务партнер of x, 共同谋杀 of x"], 
+      ["很天真", "brother of x"]
+    ],
+    "杨老板": [
+      ["你", "雯秘书 of x, employee of x, perpetrator of x"], 
+      ["你", "王小工 of x, 王船工 of x, 雯秘书 of x"], 
+      ["路人甲", "弟弟 of x, 玲船医 of x, 王船工 of x, 王小工 of x, 雯秘书 of x"], 
+      ["王船工", "employee of x, acquaintance of x, co worker of x, fellow criminal of x"], 
+      ["雯秘书", "business partner of x, buyer of x, tenant of x"], 
+      ["毒瘾", "employee of x, business partner of x"], 
+      ["玲船医", "employee of x, business partner of x, customer of x, buyer of x"], 
+      ["很天真", "employee of x, subordinate of x, right hand man of x, trusted person of x, partner in crime of x"]
+    ],
+    "雯秘书": [
+      ["你", "business partner of x, friend of x"], 
+      ["路人甲", "business partner of x, co conspirator of x"], 
+      ["张大副", "业务партнер of x, 共谋者 of x"], 
+      ["王船工", "boss of x, employer of x"], 
+      ["杨老板", "business partner of x, secretary of x, informant of x"], 
+      ["王小工", "张大副 of x, 杨老板 of x"], 
+      ["毒瘾", "杨老板 of x"], 
+      ["玲船医", "coworker of x, acquaintance of x"]
+    ],
+    "王小工": [
+      ["你", "玲船医 of x, 王船工 of x, 杨老板 of x"], 
+      ["路人甲", "friend of x, business partner of x"], 
+      ["张大副", "mentor of x, employer of x, manipulator of x, enemy of x"], 
+      ["王船工", "father of x, mentor of x, teacher of x, employee of x, helped by x, informant of x"], 
+      ["雯秘书", "张大副 of x, 杨老板 of x"], 
+      ["毒瘾", "family member of x, co worker of x"], 
+      ["玲船医", "son in law of x, coworker of x"], 
+      ["很天真", "employee of x, colleague of x, business partner of x, friend of x, acquaintance of x, информа receiver from x"]
+    ],
+    "玲船医": [
+      ["你", "王小工 of x, 王船工 of x"], 
+      ["你", "张大副 of x"], 
+      ["路人甲", "friend of x, colleague of x, business partner of x, customer of x, acquaintance of x, classmate of x"], 
+      ["王船工", "业务 parcours of x, 共同谋杀 of x"], 
+      ["杨老板", "employee of x, business partner of x, informant of x, acquaintance of x"], 
+      ["雯秘书", "coworker of x, acquaintance of x"], 
+      ["王小工", "wife of x, spy of x"], 
+      ["毒瘾", "superior of x, employer of x, co worker of x, informant of x, person of interest of x, acquaintance of x, classmate of x, schoolmate of x"], 
+      ["很天真", "friend of x, coworker of x"]
+    ],
+    "毒瘾": [
+      ["你", "business partner of x, co conspirator of x"], 
+      ["路人甲", "弟弟 of x, 杨老板 of x, 雯秘书 of x, 王船工 of x, 玲船匚 of x, 王小工 of x"], 
+      ["王船工", "employer of x"], 
+      ["杨老板", "employee of x, business partner of x"], 
+      ["雯秘书", "张大副 of x"], 
+      ["王小工", "family member of x, co worker of x"], 
+      ["玲船医", "employee of x, co worker of x, informant of x, person of interest of x, acquaintance of x, classmate of x, schoolmate of x"], 
+      ["很天真", "王船工 of x, 玲船医 of x"]
+    ],
+    "很天真": [
+      ["你", "brother of x"], 
+      ["路人甲", "弟弟 of x, 杨老板 of x, 雯秘书 of x, 王船工 of x, 玲船医 of x, friend of x, acquaintance of x"], 
+      ["王船工", "brother of x"], 
+      ["杨老板", "brother of x, good friend of x, trusted person of x, partner in crime of x"], 
+      ["王小工", "brother of x, son of x, nephew of x, cousin of x, friend of x, acquaintance of x"], 
+      ["毒瘾", "王船工 of x, 玲船医 of x"], 
+      ["玲船医", "friend of x, coworker of x"]
+    ]
+}

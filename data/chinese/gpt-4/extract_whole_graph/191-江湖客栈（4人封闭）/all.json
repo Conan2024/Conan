@@ -1,0 +1,162 @@
+{
+    "张红生": [
+        [
+            "孟三春",
+            "wife of x"
+        ],
+        [
+            "洪三妹",
+            "same person as x (different identity)"
+        ],
+        [
+            "洪二郎",
+            "same person as x (different reference)"
+        ],
+        [
+            "洪长烈",
+            "child of x"
+        ],
+        [
+            "洪江水",
+            "employee of x, acquaintance of x"
+        ],
+        [
+            "蔡思娘",
+            "employer of x, admired by x, rejecter of x"
+        ],
+        [
+            "张金银",
+            "enemy of x, suspect of x"
+        ],
+        [
+            "张金山",
+            "victim of x"
+        ],
+        [
+            "蔡家",
+            "business partner of x"
+        ],
+        [
+            "燕矶山山贼",
+            "adversary of x"
+        ],
+        [
+            "燕山堂",
+            "former adversary of x"
+        ],
+        [
+            "燕山堂的人马",
+            "victim of x"
+        ],
+        [
+            "燕矶山",
+            "possibly family of x"
+        ]
+    ],
+    "孟三春": [
+        [
+            "洪三妹/张红生",
+            "husband of x"
+        ],
+        [
+            "洪长烈",
+            "perpetrator of x"
+        ],
+        [
+            "洪江水",
+            "business partner of x"
+        ],
+        [
+            "蔡思娘",
+            "disliked by x"
+        ],
+        [
+            "张金银",
+            "ex romantic relationships with x, brother of x, attempted perpetrator of x"
+        ],
+        [
+            "张金山",
+            "victim of x, brother of x"
+        ]
+    ],
+    "洪长烈": [
+        [
+            "洪三妹/张红生",
+            "father of x"
+        ],
+        [
+            "孟三春",
+            "victim of x"
+        ],
+        [
+            "燕山堂",
+            "enemy of x"
+        ]
+    ],
+    "洪江水": [
+        [
+            "张红生",
+            "employee of x, helped by x"
+        ]
+    ],
+    "蔡思娘": [
+        [
+            "张红生",
+            "employee of x, admirer of x, helper of x"
+        ],
+        [
+            "孟三春",
+            "colleague of x, disliker of x"
+        ]
+    ],
+    "张金银": [
+        [
+            "孟三春",
+            "ex romantic relationships with x, brother of x"
+        ],
+        [
+            "张金山",
+            "sibling of x"
+        ],
+        [
+            "张红生",
+            "enemy of x"
+        ]
+    ],
+    "张金山": [
+        [
+            "孟三春",
+            "victim of x, sibling of x"
+        ],
+        [
+            "张金银",
+            "sibling of x"
+        ],
+        [
+            "张红生",
+            "adversary of x"
+        ]
+    ],
+    "燕山堂": [
+        [
+            "张红生/洪三妹",
+            "former adversary of x"
+        ],
+        [
+            "孟三春",
+            "part of x"
+        ],
+        [
+            "张金银",
+            "part of x"
+        ],
+        [
+            "张金山",
+            "part of x"
+        ],
+        [
+            "洪长烈",
+            "enemy of x"
+        ]
+    ]
+}

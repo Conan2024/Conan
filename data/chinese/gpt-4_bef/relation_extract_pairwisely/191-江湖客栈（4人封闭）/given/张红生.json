@@ -1,0 +1,89 @@
+{
+    "张红生": [
+      ["孟三春", "wife of x, enemy of x"], 
+      ["蔡思娘", "employer of x"], 
+      ["洪长烈", "child of x, same person as x (different identity), daughter of x, biological daughter of x"], 
+      ["张金银", "enemy of x, victim of x"], 
+      ["张金山", "enemy of x, perpetrator of x, victim of x, possibly family of x"], 
+      ["洪三妹", "same person as x (different identity)"], 
+      ["洪二郎", "same person as x (different identity)"]
+    ],
+    "孟三春": [
+      ["张红生", "husband of x, victim of x, deceived by x"], 
+      ["洪江水", "enemy of x, suspected by x"], 
+      ["蔡思娘", "employer of x, disliked by x, victim of x"], 
+      ["洪长烈", "enemy of x, murderer of x"], 
+      ["张金银", "ex romantic relationships with x"], 
+      ["张金山", "acquaintance of x, colleague of x, quest companion of x, victim of x, hated by x"], 
+      ["洪三妹", "same person as x (different identity), victim of x, enemy of x, deceived by x, perpetrator of x, romantic relationships with x"], 
+      ["洪二郎", "victim of x, husband of x"]
+    ],
+    "洪江水": [
+      ["张红生", "employee of x"], 
+      ["孟三春", "enemy of x, victim of x"], 
+      ["蔡思娘", "colleague of x"], 
+      ["洪长烈", "child of x"], 
+      ["张金银", "suspected by x, quest companion of x"], 
+      ["张金山", "victim of x"], 
+      ["洪三妹", "child of x"], 
+      ["洪二郎", "same person as x (different identity), same person as x (different reference)"]
+    ],
+    "蔡思娘": [
+      ["张红生", "employee of x, admirer of x"], 
+      ["孟三春", "employee of x, admirer of x, romantic relationships with x, dislike of x, perpetrator of x"], 
+      ["洪江水", "colleague of x"], 
+      ["洪长烈", "extramarital affair with x, quest companion of x, admirer of x, suspected by x"], 
+      ["张金银", "co wives of x, romantic relationships with x, extramarital affair with x"], 
+      ["洪三妹", "employee of x, admirer of x, romantic relationships with x"], 
+      ["洪二郎", "acquaintance of x, extramarital affair with x, romantic relationships with x, admirer of x"]
+    ],
+    "洪长烈": [
+      ["张红生", "father of x, biological father of x"], 
+      ["孟三春", "victim of x"], 
+      ["洪江水", "father of x"], 
+      ["蔡思娘", "victim of x, quest companion of x"], 
+      ["张金银", "adversary of x, victim of x"], 
+      ["张金山", "enemy of x"], 
+      ["洪三妹", "father of x"], 
+      ["洪二郎", "same person as x (different identity), father of x"]
+    ],
+    "张金银": [
+      ["张红生", "adversary of x, perpetrator of x"], 
+      ["孟三春", "ex romantic relationships with x, business partner of x, quest companion of x, suspected by x, adversary of x, perpetrator of x"], 
+      ["洪江水", "suspect of x, quest companion of x"], 
+      ["蔡思娘", "wife of x, romantic relationships with x, extramarital affair with x"], 
+      ["洪长烈", "adversary of x, perpetrator of x"], 
+      ["张金山", "sibling of x"], 
+      ["洪三妹", "enemy of x, adversary of x"], 
+      ["洪二郎", "adversary of x, possibly family of x"]
+    ],
+    "张金山": [
+      ["张红生", "victim of x, enemy of x, possibly family of x"], 
+      ["孟三春", "acquaintance of x, colleague of x, quest companion of x, perpetrator of x, hate of x"], 
+      ["洪江水", "perpetrator of x"], 
+      ["洪长烈", "murderer of x"], 
+      ["张金银", "sibling of x"], 
+      ["洪三妹", "adversary of x, victim of x"], 
+      ["洪二郎", "same person as x (different identity), victim of x"]
+    ],
+    "洪三妹": [
+      ["张红生", "same person as x (different identity)"], 
+      ["孟三春", "same person as x (different identity), perpetrator of x, wife of x, enemy of x, deceiver of x, victim of x, romantic relationships with x"], 
+      ["洪江水", "father of x"], 
+      ["蔡思娘", "employer of x, admired by x"], 
+      ["洪长烈", "child of x"], 
+      ["张金银", "enemy of x, adversary of x"], 
+      ["张金山", "perpetrator of x, adversary of x"], 
+      ["洪二郎", "same person as x (different identity)"]
+    ],
+    "洪二郎": [
+      ["张红生", "same person as x (different identity)"], 
+      ["孟三春", "wife of x"], 
+      ["洪江水", "same person as x (different identity), same person as x (different reference)"], 
+      ["蔡思娘", "same person as x (different identity)"], 
+      ["洪长烈", "same person as x (different reference), child of x"], 
+      ["张金银", "same person as x (different identity)"], 
+      ["张金山", "same person as x (different identity), perpetrator of x"], 
+      ["洪三妹", "same person as x (different reference)"]
+    ]
+}

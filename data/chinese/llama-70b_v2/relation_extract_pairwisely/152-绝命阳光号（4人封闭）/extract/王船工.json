@@ -1,0 +1,44 @@
+{
+    "王船工": [
+      ["张大副", "employee employer of x, drug trafficker enforcer of x, accomplice mastermind of x, victim perpetrator of x, enemy adversary of x"], 
+      ["路人甲", "friend of x, acquaintance of x, rival of x, suspect of x, helper of x"], 
+      ["王小工", "父子 of x, 老板と徒弟 of x, 同事 of x, 干掉关系 of x, 敌人 of x"], 
+      ["杨老板", "employer of x, master of x, perpetrator of x, manipulator of x, deceiver of x"]
+    ],
+    "张大副": [
+      ["王船工", "employee employer of x, drug trafficker enforcer of x, accomplice mastermind of x, victim perpetrator of x, enemy adversary of x"], 
+      ["路人甲", "business partner of x, co conspirator of x"], 
+      ["玲船医", "业务parтнер of x, 共谋凶手 of x"], 
+      ["王小工", "employer of x, master of x, superior of x"], 
+      ["杨老板", "business partner of x, accomplice in crime of x"]
+    ],
+    "路人甲": [
+      ["王船工", "friend of x, acquaintance of x, rival of x, suspect of x, helper of x"], 
+      ["张大副", "business partner of x, co conspirator of x"], 
+      ["玲船医", "acquaintance of x"], 
+      ["王小工", "friend of x, business partner of x"], 
+      ["杨老板", "acquaintance of x, business partner of x, co conspirator of x, friend of x, mentee of x, rival of x, subordinate of x, superior of x"]
+    ],
+    "玲船医": [
+      ["张大副", "儿媳妇 of x, 共谋凶手 of x"], 
+      ["路人甲", "acquaintance of x"], 
+      ["王小工", "relative of x, friend of x"], 
+      ["杨老板", "friend of x, acquaintance of x"]
+    ],
+    "王小工": [
+      ["王船工", "父子 of x, 老板と徒弟 of x, 同事 of x, 干掉关系 of x, 敌人 of x"], 
+      ["张大副", "employee of x, subordinate of x, suspect of x"], 
+      ["路人甲", "friend of x, business partner of x"], 
+      ["杨老板", "friend of x, drug dealer of x, suspected murderer of x"]
+    ],
+    "杨老板": [
+      ["王船工", "employee of x, servant of x, victim of x, manipulated by x, deceived by x"], 
+      ["张大副", "business partner of x, accomplice in crime of x"], 
+      ["路人甲", "acquaintance of x, business partner of x, co conspirator of x, friend of x, mentee of x, rival of x, subordinate of x, superior of x"], 
+      ["玲船医", "friend of x, acquaintance of x"], 
+      ["王小工", "customer of x, friend of x, suspect of x"]
+    ],
+    " Wang Xiaogong": [
+      ["玲船医", "relative of x, friend of x"]
+    ]
+}

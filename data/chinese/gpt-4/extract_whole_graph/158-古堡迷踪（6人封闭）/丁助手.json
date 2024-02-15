@@ -1,0 +1,176 @@
+{
+    "丁助手": [
+        [
+            "王作家",
+            "subordinate of x, employee of x"
+        ],
+        [
+            "王国庆",
+            "acquaintance of x"
+        ],
+        [
+            "甄有钱",
+            "acquaintance of x, victim of x"
+        ],
+        [
+            "甄公子",
+            "acquaintance of x"
+        ],
+        [
+            "李管家",
+            "stranger to x"
+        ],
+        [
+            "张小妹",
+            "stranger to x"
+        ]
+    ],
+    "王作家": [
+        [
+            "丁助手",
+            "superior of x, employer of x"
+        ],
+        [
+            "甄有钱",
+            "friend of x, patient of x"
+        ],
+        [
+            "王国庆",
+            "son of x"
+        ],
+        [
+            "甄公子",
+            "stranger to x"
+        ],
+        [
+            "李管家",
+            "acquaintance of x"
+        ],
+        [
+            "张小妹",
+            "acquaintance of x"
+        ]
+    ],
+    "王国庆": [
+        [
+            "丁助手",
+            "acquaintance of x"
+        ],
+        [
+            "王作家",
+            "father of x"
+        ],
+        [
+            "张小妹",
+            "romantic relationships with x, fiance of x"
+        ],
+        [
+            "甄有钱",
+            "acquaintance of x"
+        ],
+        [
+            "甄公子",
+            "acquaintance of x"
+        ],
+        [
+            "李管家",
+            "acquaintance of x"
+        ]
+    ],
+    "甄有钱": [
+        [
+            "王作家",
+            "friend of x, information receiver from x"
+        ],
+        [
+            "甄公子",
+            "son of x"
+        ],
+        [
+            "丁助手",
+            "perpetrator of x"
+        ],
+        [
+            "李管家",
+            "employee of x"
+        ],
+        [
+            "张小妹",
+            "child of x's employee"
+        ]
+    ],
+    "甄公子": [
+        [
+            "甄有钱",
+            "father of x"
+        ],
+        [
+            "丁助手",
+            "acquaintance of x"
+        ],
+        [
+            "王国庆",
+            "acquaintance of x"
+        ],
+        [
+            "李管家",
+            "employee of x's father"
+        ],
+        [
+            "张小妹",
+            "acquaintance of x"
+        ]
+    ],
+    "李管家": [
+        [
+            "甄有钱",
+            "employee of x"
+        ],
+        [
+            "张小妹",
+            "father of x"
+        ],
+        [
+            "丁助手",
+            "stranger to x"
+        ],
+        [
+            "王作家",
+            "acquaintance of x's employer"
+        ],
+        [
+            "王国庆",
+            "acquaintance of x's employer"
+        ],
+        [
+            "甄公子",
+            "child of x's employer"
+        ]
+    ],
+    "张小妹": [
+        [
+            "李管家",
+            "daughter of x"
+        ],
+        [
+            "王国庆",
+            "romantic relationships with x, fiancee of x"
+        ],
+        [
+            "丁助手",
+            "stranger to x"
+        ],
+        [
+            "王作家",
+            "acquaintance of x's father"
+        ],
+        [
+            "甄有钱",
+            "child of x's father's employer"
+        ],
+        [
+            "甄公子",
+            "acquaintance of x's father's employer"
+        ]
+    ]
+}

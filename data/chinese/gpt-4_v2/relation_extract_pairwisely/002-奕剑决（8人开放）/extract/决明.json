@@ -1,0 +1,73 @@
+{
+    "玄冰教使•决明": [
+      ["盗圣", "same person as x (different identity), impersonator of x, deceiver of x, thief of x"], 
+      ["易剑山庄庄主", "deceiver of x, thief of x, disguised as x's subordinate, secret adversary of x"], 
+      ["紫苏", "deceiver of x, thief of x, quest companion of x, suspect to x"], 
+      ["山庄三弟子", "deceiver of x"], 
+      ["山庄弟子", "deceiver of x, spy of x, thief of x, impostor of x"], 
+      ["陆英", "deceiver of x, thief of x"], 
+      ["玄冰圣教", "deceiver of x, impersonator of x, thief of x, informant of x"]
+    ],
+    "盗圣": [
+      ["玄冰教使•决明", "same person as x (different reference), impersonated by x, deceived by x, victim of x"], 
+      ["易剑山庄庄主", "thief of x, impostor of x, information receiver from x, acquaintance of x"], 
+      ["紫苏", "deceiver of x"], 
+      ["山庄三弟子", "deceiver of x"], 
+      ["山庄弟子", "deceiver of x, impostor of x"], 
+      ["陆英", "impersonator of x, guest of x, deceiver of x, quest companion of x, suspect of x, impostor of x, alleged ally of x"], 
+      ["玄冰圣教", "disguised as messenger of x, thief of x, deceiver of x"]
+    ],
+    "易剑山庄庄主": [
+      ["玄冰教使•决明", "deceived by x, victim of x"], 
+      ["盗圣", "victim of x, deceived by x"], 
+      ["紫苏", "superior of x"], 
+      ["山庄三弟子", "superior of x"], 
+      ["山庄弟子", "superior of x"], 
+      ["陆英", "victim of x, superior of x, employer of x"], 
+      ["玄冰圣教", "suspected by x, blackmailed by x, customer of x"]
+    ],
+    "紫苏": [
+      ["玄冰教使•决明", "deceived by x, suspect of x"], 
+      ["盗圣", "deceived by x, possibly family of x"], 
+      ["易剑山庄庄主", "subordinate of x"], 
+      ["山庄三弟子", "acquaintance of x"], 
+      ["陆英", "mountain villa's third disciple of x, knows about xuanbing sect, has secrets of x"], 
+      ["玄冰圣教", "acquaintance of x, possibly family of x"]
+    ],
+    "山庄三弟子": [
+      ["玄冰教使•决明", "deceived by x"], 
+      ["盗圣", "deceived by x, informant of x"], 
+      ["易剑山庄庄主", "subordinate of x"], 
+      ["紫苏", "acquaintance of x"], 
+      ["山庄弟子", "same person as x (different identity)"], 
+      ["陆英", "acquaintance of x, colleague of x"], 
+      ["玄冰圣教", "victim of x, information receiver from x"]
+    ],
+    "山庄弟子": [
+      ["玄冰教使•决明", "deceived by x, victim of x, suspect of x"], 
+      ["盗圣", "deceived by x, acquaintance of x"], 
+      ["易剑山庄庄主", "subordinate of x"], 
+      ["紫苏", "acquaintance of x"], 
+      ["山庄三弟子", "same person as x (different identity)"], 
+      ["陆英", "superior of x, coworker of x"], 
+      ["玄冰圣教", "subject of x investigation for x, information receiver from x"]
+    ],
+    "陆英": [
+      ["玄冰教使•决明", "victim of x, deceived by x"], 
+      ["盗圣", "deceived by x, host of x, unsuspecting victim of x, inadvertently trusting x"], 
+      ["易剑山庄庄主", "subordinate of x, employee of x, attempted perpetrator of x"], 
+      ["紫苏", "mountain villa's first disciple of x, summoned the disguised thief for a meeting of x"], 
+      ["山庄三弟子", "acquaintance of x, colleague of x"], 
+      ["山庄弟子", "subordinate of x, coworker of x"], 
+      ["玄冰圣教", "victim of x"]
+    ],
+    "玄冰圣教": [
+      ["玄冰教使•决明", "deceived by x, victim of x"], 
+      ["盗圣", "deceived by x, victim of x"], 
+      ["易剑山庄庄主", "suspect of x, blackmailer of x, product provider of x"], 
+      ["紫苏", "child of x, member of x"], 
+      ["山庄三弟子", "deceiver of x, attempted perpetrator of x"], 
+      ["山庄弟子", "sender of x, suspect of x"], 
+      ["陆英", "perpetrator of x"]
+    ]
+}

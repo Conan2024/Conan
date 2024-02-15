@@ -1,0 +1,18 @@
+{
+    "贾教授": [
+      ["田助理", "subordinate of x, perpetrator of x"], 
+      ["秦鸥", "acquaintance of x, victim of x"], 
+      ["清洁工大姐", "neutral of x"]
+    ],
+    "田助理": [
+      ["贾教授", "superior of x, target of x"], 
+      ["秦鸥", "girlfriend of x, accomplice of x"]
+    ],
+    "秦鸥": [
+      ["贾教授", "victim of x, acquaintance of x"], 
+      ["田助理", "girlfriend of x, accomplice of x"]
+    ],
+    "清洁工大姐": [
+      ["贾教授", "neutral of x"]
+    ]
+}

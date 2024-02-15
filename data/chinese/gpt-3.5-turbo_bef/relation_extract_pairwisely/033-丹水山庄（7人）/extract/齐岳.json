@@ -1,0 +1,56 @@
+{
+    "鲁泰": [
+      ["双面虎", "acquaintance of x"], 
+      ["赵万雷", "father of x"], 
+      ["赵秋儿", "wife of x"], 
+      ["冯竹", "co wives of x"], 
+      ["郭望山", "brother of x"]
+    ],
+    "双面虎": [
+      ["鲁泰", "acquaintance of x"], 
+      ["赵万雷", "suspicious of x, thief of x"], 
+      ["赵洛意", "friend of x, mentor of x"], 
+      ["冯双骥", "adoptive father of x"], 
+      ["冯竹", "master of x"], 
+      ["郭望山", "extramarital affair with x"]
+    ],
+    "赵万雷": [
+      ["鲁泰", "son of x"], 
+      ["双面虎", "suspected by x, victim of x"], 
+      ["赵洛意", "ex husband of x"], 
+      ["赵秋儿", "father of x"], 
+      ["冯双骥", "father of x"], 
+      ["冯竹", "friend of x"]
+    ],
+    "赵洛意": [
+      ["双面虎", "student of x"], 
+      ["赵万雷", "ex wife of x"], 
+      ["赵秋儿", "sister of x"], 
+      ["冯双骥", "friend of x, schoolmate of x"]
+    ],
+    "赵秋儿": [
+      ["鲁泰", "husband of x"], 
+      ["赵万雷", "daughter of x"], 
+      ["赵洛意", "sister of x"], 
+      ["冯双骥", "friend of x, helper of x"], 
+      ["冯竹", "student of x"]
+    ],
+    "冯双骥": [
+      ["鲁泰", "mentor of x"], 
+      ["赵万雷", "son of x"], 
+      ["赵洛意", "friend of x, schoolmate of x"], 
+      ["赵秋儿", "friend of x, helper of x"], 
+      ["冯竹", "sibling of x"]
+    ],
+    "冯竹": [
+      ["鲁泰", "co wives of x"], 
+      ["双面虎", "servant of x"], 
+      ["赵秋儿", "teacher of x"], 
+      ["冯双骥", "sibling of x"]
+    ],
+    "郭望山": [
+      ["鲁泰", "brother of x"], 
+      ["双面虎", "extramarital affair with x"], 
+      ["冯双骥", "student of x"]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "任": [
+      ["冯 Double骥", "colleague of x, rival of x, acquaintance of x"], 
+      ["赵만雷", "uncle of x, employer of x"], 
+      ["赵洛意", "sister of x, friend of x"], 
+      ["郭望山", "acquaintance of x"]
+    ],
+    "冯Double骥": [
+      ["任", "colleague of x, rival of x, acquaintance of x"], 
+      ["赵만雷", "master of x, employer of x"], 
+      ["赵洛意", "sister of x, friend of x"], 
+      ["郭望山", "acquaintance of x"]
+    ],
+    "赵만雷": [
+      ["任", "uncle of x, employer of x"], 
+      ["冯Double骥", "master of x, employer of x"], 
+      ["赵洛意", "father of x, mentor of x"], 
+      ["郭望山", "acquaintance of x"]
+    ],
+    "赵洛意": [
+      ["任", "sister of x, friend of x"], 
+      ["冯Double骥", "sister of x, friend of x"], 
+      ["赵만雷", "father of x, mentor of x"], 
+      ["郭望山", "acquaintance of x"]
+    ],
+    "郭望山": [
+      ["任", "acquaintance of x"], 
+      ["冯Double骥", "acquaintance of x"], 
+      ["赵만雷", "acquaintance of x"], 
+      ["赵洛意", "acquaintance of x"]
+    ]
+}

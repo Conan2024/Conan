@@ -1,0 +1,71 @@
+{
+    "罗有诺": [
+      ["罗万利", "father of x"], 
+      ["雪嫣", "sibling of x"], 
+      ["阮太太", "informant of x, helped by x, employer of x"], 
+      ["望娣", "secret lover of x, romantic relationships with x, neighbor of x"], 
+      ["招楠", "acquaintance of x"], 
+      ["贵郎", "student of x, younger brother of x's romantic interest (望娣)"], 
+      ["雪嫣", "sibling of x"], 
+      ["孙氏", "mother of x (deceased)"], 
+      ["舞蹈老师", "acquaintance of x"], 
+      ["齐故飞", "guest of x"], 
+      ["黑莉", "acquaintance of x"]
+    ],
+    "罗万利": [
+      ["罗有诺", "child of x"], 
+      ["雪嫣", "child of x"], 
+      ["孙氏", "husband of x (deceased)"]
+    ],
+    "雪嫣": [
+      ["罗有诺", "sibling of x"], 
+      ["罗万利", "father of x"], 
+      ["孙氏", "mother of x (deceased)"], 
+      ["贵郎", "former colleague of x (when she was a maid at the manor)"]
+    ],
+    "阮太太": [
+      ["望娣", "mother of x"], 
+      ["招楠", "mother of x"], 
+      ["贵郎", "mother of x"], 
+      ["罗有诺", "landlord of x, information receiver from x"], 
+      ["雪嫣", "landlord of x"]
+    ],
+    "望娣": [
+      ["阮太太", "child of x"], 
+      ["招楠", "sibling of x"], 
+      ["贵郎", "sibling of x"], 
+      ["罗有诺", "secret lover of x, romantic relationships with x"], 
+      ["黑莉", "neighbor of x"]
+    ],
+    "招楠": [
+      ["阮太太", "child of x"], 
+      ["望娣", "sibling of x"], 
+      ["贵郎", "sibling of x"], 
+      ["罗有诺", "neighbor of x"]
+    ],
+    "贵郎": [
+      ["阮太太", "child of x"], 
+      ["招楠", "sibling of x"], 
+      ["望娣", "sibling of x"], 
+      ["罗有诺", "student of x"], 
+      ["雪嫣", "acquaintance of x"]
+    ],
+    "孙氏": [
+      ["罗有诺", "mother of x (deceased)"], 
+      ["雪嫣", "mother of x (deceased)"], 
+      ["罗万利", "wife of x (deceased)"]
+    ],
+    "舞蹈老师": [
+      ["罗有诺", "acquaintance of x"], 
+      ["招楠", "teacher of x"]
+    ],
+    "齐故飞": [
+      ["罗有诺", "guest of x"], 
+      ["黑莉", "travel companion of x"], 
+      ["舞蹈老师", "student of x"]
+    ],
+    "黑莉": [
+      ["齐故飞", "travel companion of x"], 
+      ["罗有诺", "acquaintance of x"]
+    ]
+}

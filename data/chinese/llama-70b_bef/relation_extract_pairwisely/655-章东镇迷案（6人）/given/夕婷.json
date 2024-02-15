@@ -1,0 +1,114 @@
+{
+    "夕婷": [
+      ["敏兮", "friend of x, classmate of x, schoolmate of x"], 
+      ["杏儿", "sister in law of x, acquaintance of x"], 
+      ["穆叔宜", "relative of x, acquaintance of x, friend of x"], 
+      ["蓝蕊", "classmate of x, friend of x"]
+    ],
+    "敏兮": [
+      ["夕婷", "friend of x, classmate of x, schoolmate of x"], 
+      ["杏儿", "friend of x, classmate of x"], 
+      ["林氏", "mother of x, daughter of x"]
+    ],
+    "杏儿": [
+      ["夕婷", "sister in law of x, acquaintance of x"], 
+      ["敏兮", "friend of x, classmate of x"], 
+      ["杨水巡", "sister in law of x"], 
+      ["申午生", "sister in law of x, friend of x"], 
+      ["穆夕婷", "cousin of x, aunt of x, friend of x"], 
+      ["蓝蕊", "classmate of x"]
+    ],
+    "杨水巡": [
+      ["杏儿", "brother in law of x"], 
+      ["林氏", "father in law of x, friend of x, superior of x"], 
+      ["穆叔宜", "father in law of x, son in law of x"], 
+      ["穆夕婷", "friend of x, teacher of x, mentor of x"], 
+      ["穆存", "father in law of x"], 
+      ["蓝蕊", "friend of x"], 
+      ["顾楚梦", "father in law of x"]
+    ],
+    "林氏": [
+      ["敏兮", "mother of x, daughter of x"], 
+      ["杨水巡", "father in law of x, friend of x, subordinate of x"], 
+      ["申午生", "mentor of x, friend of x, superior of x, employer of x, customer of x, business partner of x, patient of x, victim of x"], 
+      ["白老师", "student of x, teacher of x, mentor of x"], 
+      ["穆伯宣", "brother of x"], 
+      ["穆叔宜", "brother in law of x, father in law of x, sister in law of x"], 
+      ["穆存", "husband of x"], 
+      ["蓝蕊", "friend of x, classmate of x, mentor of x"], 
+      ["顾楚梦", "husband of x"]
+    ],
+    "申午生": [
+      ["杏儿", "brother in law of x, friend of x"], 
+      ["林氏", "student of x, acquaintance of x, subordinate of x, employee of x, customer of x, business partner of x, doctor of x, perpetrator of x"], 
+      ["白老师", "mentor of x, friend of x"], 
+      ["穆仲定", "friend of x"], 
+      ["穆伯宣", "brother in law of x, friend of x, informant of x"], 
+      ["穆夕婷", "friend of x, mentor of x"], 
+      ["蓝蕊", "friend of x"]
+    ],
+    "白老师": [
+      ["father of friend", "teacher of x"], 
+      ["林氏", "student of x, teacher of x, mentor of x"], 
+      ["申午生", "mentor of x, friend of x"], 
+      ["穆伯宣", "teacher of x, mentor of x, friend of x"], 
+      ["穆叔宜", "teacher of x, mentor of x, friend of x"], 
+      ["穆夕婷", "teacher of x, mentor of x, friend of x"], 
+      ["顾楚梦", "teacher of x, mentor of x, friend of x"]
+    ],
+    "穆仲定": [
+      ["穆伯宣", "brother in law of x"], 
+      ["穆叔宜", "brother in law of x"], 
+      ["穆存", "brother in law of x"]
+    ],
+    "穆伯宣": [
+      ["林氏", "brother of x"], 
+      ["申午生", "friend of x"], 
+      ["白老师", "teacher of x, mentor of x, friend of x"], 
+      ["穆仲定", "sister in law of x"], 
+      ["穆夕婷", "older brother of x, father of x, friend of x"]
+    ],
+    "穆叔宜": [
+      ["夕婷", "relative of x, acquaintance of x, friend of x"], 
+      ["杏儿", "mentor of x"], 
+      ["杨水巡", "father in law of x, son in law of x"], 
+      ["林氏", "wife of x, brother of x, father of x, sister of x"], 
+      ["白老师", "teacher of x, mentor of x, friend of x"], 
+      ["穆仲定", "sister in law of x"], 
+      ["穆伯宣", "spy of x"], 
+      ["穆存", "daughter of x, younger sister of x"], 
+      ["蓝蕊", "friend of x, classmate of x"]
+    ],
+    "穆夕婷": [
+      ["杏儿", "older sister of x, cousin of x, aunt of x, friend of x"], 
+      ["杨水巡", "friend of x, teacher of x, mentor of x"], 
+      ["申午生", "friend of x, mentor of x"], 
+      ["白老师", "teacher of x, mentor of x, friend of x"], 
+      ["穆仲定", "younger sister of x"], 
+      ["穆伯宣", "older brother of x, father of x, friend of x"], 
+      ["蓝蕊", "friend of x, classmate of x"]
+    ],
+    "穆存": [
+      ["杨水巡", "son in law of x"], 
+      ["林氏", "wife of x, father of x"], 
+      ["穆仲定", "son in law of x, father in law of x"], 
+      ["穆伯宣", "father of x"], 
+      ["穆叔宜", "father of x"], 
+      ["蓝蕊", "father in law of x"]
+    ],
+    "蓝蕊": [
+      ["夕婷", "classmate of x, friend of x"], 
+      ["杏儿", "classmate of x"], 
+      ["林氏", "friend of x, classmate of x, mentor of x"], 
+      ["申午生", "friend of x"], 
+      ["穆叔宜", "friend of x, classmate of x"], 
+      ["穆夕婷", "friend of x, classmate of x"], 
+      ["穆存", "father in law of x"], 
+      ["顾楚梦", "classmate of x"]
+    ],
+    "顾楚梦": [
+      ["林氏", "wife of x"], 
+      ["白老师", "teacher of x, mentor of x, friend of x"], 
+      ["蓝蕊", "classmate of x"]
+    ]
+}

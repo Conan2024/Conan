@@ -1,0 +1,75 @@
+{
+    "尔矢斯芭嗒": [
+      ["方絮", "biological son of x, adopted son of x, son of x sister or brother, cousin of x, half brother of x, servant or apprentice of x, student of x, friend or classmate of x"], 
+      ["李仲", "儿子 of x, 养father of x, master of x"], 
+      ["李延", "father of x, brother of x, friend of x, mentor of x, ally of x, neighbor of x"], 
+      ["李王爷", "relationship 1: host guest of x, relationship 2: co conspirator of x"], 
+      ["chen-fu-zhe", "subject of x investigation, suspect of x, rival of x, ally of x, victim of x"]
+    ],
+    "方絮": [
+      ["尔矢斯芭嗒", "biological son of x, adopted son of x, son of x sister or brother, cousin of x, half brother of x, servant or apprentice of x, student of x, friend or classmate of x"], 
+      ["李仲", "husband of x (different identity)"], 
+      ["李延", "wife of x"], 
+      ["李王爷", "friend of x, mentor of x"], 
+      ["特尔特拉福德", "relatives of x, wife of x"], 
+      ["陈倩", "wife of x, rival of x"], 
+      ["陈孜靖", "wife of x, sister in law of x, adoptive mother of x, servant of x, friend of x"]
+    ],
+    "李仲": [
+      ["尔矢斯芭嗒", "兄长 of x, 儿子 of x, servant of x"], 
+      ["方絮", "wife of x (different reference)"], 
+      ["李延", "brother of x"], 
+      ["李王爷", "friend of x, business partner of x"], 
+      ["特尔特拉福德", "同父异母的兄弟 of x"], 
+      ["陈倩", "father daughter relationship of x"], 
+      ["陈府主", "son of x, father of x, brother of x, son in law of x"]
+    ],
+    "李延": [
+      ["尔矢斯芭嗒", "son of x, brother of x, friend of x, apprentice of x, spy of x, neighbor of x"], 
+      ["方絮", "husband of x"], 
+      ["李仲", "brother of x"], 
+      ["李王爷", "adoptive father of x, mentor of x"], 
+      ["特尔特拉福德", "relatives of x, brother and sister of x"], 
+      ["陈倩", "son of x, brother of x"]
+    ],
+    "李王爷": [
+      ["尔矢斯芭嗒", "relationship 1: host guest of x, relationship 2: co conspirator of x"], 
+      ["方絮", "friend of x, teacher of x"], 
+      ["李仲", "friend of x, business partner of x"], 
+      ["李延", "adoptive son of x, mentee of x"], 
+      ["特尔特拉福德", "mentor of x, benefactor of x"], 
+      ["陈倩", "father in law of x, superior/employer of x, friend of x, conspirator of x"], 
+      ["陈府主", "son of x"]
+    ],
+    "陈倩": [
+      ["方絮", "husband of x, rival of x"], 
+      ["李仲", "father daughter relationship of x"], 
+      ["李王爷", "father in law of x, daughter in law of x, friend of x, conspirator of x"], 
+      ["特尔特拉福德", "关系 1 of x, 关系 2 of x"]
+    ],
+    "陈孜靖": [
+      ["王者", "peror of x, king of x, relation of x, friend of x, ally of x"], 
+      ["方絮", "wife of x, brother in law of x, adoptive father of x, master of x, friend of x"]
+    ],
+    "特尔特拉福德": [
+      ["方絮", "father of x, friend of x"], 
+      ["李仲", "父亲 of x"], 
+      ["李延", "relatives of x, brother and sister of x"], 
+      ["李王爷", "protégé of x, subordinate of x, rival of x"], 
+      ["陈倩", "关系 1 of x, 关系 2 of x"], 
+      ["陈府主", "father of x, mentor of x, manipulator of x"]
+    ],
+    "陈府主": [
+      ["李仲", "son of x, father of x, brother of x, son in law of x"], 
+      ["特尔特拉福德", "son of x, mentee of x, pawn of x"]
+    ],
+    "chen Fou": [
+      ["李延", "father of x, uncle of x"]
+    ],
+    "name": [
+      ["陈", "孜 of x, 靖 of x"]
+    ],
+    "relationships": [
+      ["son", "adoptive x, step x, x in law, daughter in law of x, grandx, granddaughter of x, nephew of x, niece of x, friend of x"]
+    ]
+}

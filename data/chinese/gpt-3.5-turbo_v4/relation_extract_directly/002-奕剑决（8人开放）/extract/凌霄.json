@@ -1,0 +1,18 @@
+{
+    "凌霄": [
+      ["师父", "mentor of x"], 
+      ["杜仲", "acquaintance of x"], 
+      ["蜂成员", "informant of x, same person as x (different reference)"]
+    ],
+    "师父": [
+      ["凌霄", "student of x"], 
+      ["蜂成员", "informant of x"]
+    ],
+    "杜仲": [
+      ["凌霄", "acquaintance of x"]
+    ],
+    "蜂成员": [
+      ["凌霄", "informant of x, same person as x (different reference)"], 
+      ["师父", "informant of x"]
+    ]
+}

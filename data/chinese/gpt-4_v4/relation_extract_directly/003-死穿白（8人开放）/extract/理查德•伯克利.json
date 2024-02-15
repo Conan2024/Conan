@@ -1,0 +1,66 @@
+{
+    "理查德•伯克利": [
+      ["底特律布莱顿医院医生", "superior of x"], 
+      ["律师朋友", "acquaintance of x, crime partner of x"], 
+      ["第十五区警察", "suspected by x"], 
+      ["伊莱恩·卡特尔", "superior of x, information receiver from x, suspect of x"], 
+      ["帕洛斯基医生", "superior of x, colleague of x"], 
+      ["德雷克·里莫瑞特", "superior of x, victim of x"], 
+      ["小偷", "employee of x"], 
+      ["汉斯·里莫瑞特（死者）", "colleague of x, disliked by x"], 
+      ["吉姆·梅森", "acquaintance of x, colleague of x"], 
+      ["法律部门成员", "subordinate of x"], 
+      ["汉斯的妻子", "acquaintance of x, possibly family of x"], 
+      ["汉斯的兄弟", "acquaintance of x, possibly family of x"], 
+      ["西尔维亚·科斯塔", "subordinate of x, admired by x"], 
+      ["神父汤姆", "acquaintance of x, admired by x"]
+    ],
+    "底特律布莱顿医院医生": [
+      ["理查德•伯克利", "subordinate of x"]
+    ],
+    "律师朋友": [
+      ["理查德•伯克利", "acquaintance of x, crime partner of x"]
+    ],
+    "第十五区警察": [
+      ["理查德•伯克利", "suspect of x"]
+    ],
+    "伊莱恩·卡特尔": [
+      ["理查德•伯克利", "superior of x, informant of x"], 
+      ["帕洛斯基医生", "subordinate of x"]
+    ],
+    "帕洛斯基医生": [
+      ["理查德•伯克利", "colleague of x, superior of x"], 
+      ["伊莱恩·卡特尔", "superior of x"]
+    ],
+    "德雷克·里莫瑞特": [
+      ["理查德•伯克利", "victim of x"]
+    ],
+    "小偷": [
+      ["理查德•伯克利", "employee of x"]
+    ],
+    "汉斯·里莫瑞特（死者）": [
+      ["理查德•伯克利", "disliked by x, in the lawsuit against x"], 
+      ["汉斯的妻子", "husband of x"], 
+      ["汉斯的兄弟", "sibling of x"]
+    ],
+    "吉姆·梅森": [
+      ["汉斯·里莫瑞特（死者）", "adversary of x"]
+    ],
+    "法律部门成员": [
+      ["理查德•伯克利", "subordinate of x"]
+    ],
+    "汉斯的妻子": [
+      ["汉斯·里莫瑞特（死者）", "wife of x"], 
+      ["理查德•伯克利", "acquaintance of x"]
+    ],
+    "汉斯的兄弟": [
+      ["汉斯·里莫瑞特（死者）", "sibling of x"], 
+      ["理查德•伯克利", "acquaintance of x"]
+    ],
+    "西尔维亚·科斯塔": [
+      ["理查德•伯克利", "subordinate of x"]
+    ],
+    "神父汤姆": [
+      ["理查德•伯克利", "acquaintance of x"]
+    ]
+}

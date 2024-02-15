@@ -1,0 +1,46 @@
+{
+    "云凌": [
+      ["唐茂光", "father in law of x"]
+    ],
+    "任仲远": [
+      ["徐伯清", "uncle of x, nephew of x, mentor of x, student of x, teacher of x"], 
+      ["红夫人", "informant of x, wife of x"]
+    ],
+    "唐婉枫": [
+      ["虞医师", "friend of x, colleague of x"]
+    ],
+    "唐茂光": [
+      ["云凌", "father in law of x"], 
+      ["姚仲义", "mentor of x"], 
+      ["廖一乔", "business partner of x"], 
+      ["红夫人", "friend of x"]
+    ],
+    "姚仲义": [
+      ["唐茂光", "mentor of x"], 
+      ["红夫人", "friend of x, enemy of x"], 
+      ["虞医师", "friend of x"]
+    ],
+    "廖一乔": [
+      ["唐茂光", "business partner of x"], 
+      ["徐伯清", "acquaintance of x, friend of x"], 
+      ["虞医师", "friend of x, mentor of x"]
+    ],
+    "徐伯清": [
+      ["任仲远", "uncle of x, nephew of x, mentor of x, student of x, teacher of x"], 
+      ["廖一乔", "acquaintance of x, friend of x"], 
+      ["红夫人", "acquaintance of x"], 
+      ["虞医师", "friend of x, colleague of x"]
+    ],
+    "红夫人": [
+      ["任仲远", "wife of x, informant of x"], 
+      ["唐茂光", "friend of x"], 
+      ["姚仲义", "mother of x"], 
+      ["徐伯清", "acquaintance of x"]
+    ],
+    "虞医师": [
+      ["唐婉枫", "friend of x, colleague of x"], 
+      ["姚仲义", "friend of x"], 
+      ["廖一乔", "friend of x"], 
+      ["徐伯清", "friend of x, colleague of x"]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "凌霄": [
+      ["师父", "student of x, suspect to x, perpetrator of x, information receiver from x, subordinate of x, business partner of x"], 
+      ["蜂", "informant of x, customer of x"], 
+      ["大师兄", "sibling of x, colleague of x"]
+    ],
+    "师父": [
+      ["凌霄", "mentor of x, suspected by x, victim of x, superior of x, business partner of x"], 
+      ["大师兄", "mentor of x, superior of x"]
+    ],
+    "蜂": [
+      ["凌霄", "information provider of x, service provider of x"]
+    ],
+    "大师兄": [
+      ["凌霄", "sibling of x, colleague of x"], 
+      ["师父", "student of x, subordinate of x"]
+    ]
+}

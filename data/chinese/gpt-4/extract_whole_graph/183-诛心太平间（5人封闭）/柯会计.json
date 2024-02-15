@@ -1,0 +1,102 @@
+{
+    "柯会计": [
+        [
+            "贾医生",
+            "secret admirer of x, admirer of x, helped by x"
+        ],
+        [
+            "王护士",
+            "informant of x, acquaintance of x"
+        ],
+        [
+            "潘副院长",
+            "suspected by x, superior of x, subject of investigation for x"
+        ],
+        [
+            "甄主任",
+            "adversary of x, suspect of x, suspected by x, murderer of x"
+        ],
+        [
+            "魏女儿",
+            "stranger to x"
+        ]
+    ],
+    "贾医生": [
+        [
+            "柯会计",
+            "admired by x, patient of x"
+        ],
+        [
+            "王护士",
+            "colleague of x"
+        ],
+        [
+            "潘副院长",
+            "colleague of x"
+        ],
+        [
+            "甄主任",
+            "victim of x"
+        ],
+        [
+            "魏女儿",
+            "acquaintance of x"
+        ]
+    ],
+    "王护士": [
+        [
+            "柯会计",
+            "information receiver from x, colleague of x"
+        ],
+        [
+            "贾医生",
+            "colleague of x"
+        ]
+    ],
+    "潘副院长": [
+        [
+            "柯会计",
+            "subject of investigation for x, subordinate of x"
+        ],
+        [
+            "贾医生",
+            "superior of x"
+        ],
+        [
+            "甄主任",
+            "colleague of x, adversary of x"
+        ]
+    ],
+    "甄主任": [
+        [
+            "柯会计",
+            "perpetrator of x, enemy of x"
+        ],
+        [
+            "贾医生",
+            "perpetrator of x"
+        ],
+        [
+            "潘副院长",
+            "rival of x, suspected by x"
+        ],
+        [
+            "魏女儿",
+            "acquaintance of x"
+        ]
+    ],
+    "魏女儿": [
+        [
+            "贾医生",
+            "acquaintance of x"
+        ],
+        [
+            "甄主任",
+            "acquaintance of x"
+        ],
+        [
+            "柯会计",
+            "stranger to x"
+        ]
+    ]
+}

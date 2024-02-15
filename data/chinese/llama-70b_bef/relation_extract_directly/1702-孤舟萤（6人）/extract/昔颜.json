@@ -1,0 +1,77 @@
+{
+    "昔颜": [
+      ["崔寿亨", "husband of x, enemy of x"], 
+      ["姐姐", "sister of x, rival of x"], 
+      ["宝柑", "servant of x, friend of x"], 
+      ["宝柳", "sister in law of x, enemy of x"], 
+      ["琏逸", "nephew of x, friend of x"], 
+      ["嫣楠", "niece of x, friend of x"]
+    ],
+    "姐姐": [
+      ["昔颜", "sister of x, rival of x"], 
+      ["崔寿亨", "husband of x, enemy of x"], 
+      ["周蒙当", "acquaintance of x"], 
+      ["宝柑", "servant of x, friend of x"], 
+      ["宝柳", "sister in law of x, enemy of x"], 
+      ["琏逸", "nephew of x, friend of x"], 
+      ["嫣楠", "niece of x, friend of x"]
+    ],
+    "崔寿亨": [
+      ["昔颜", "wife of x, enemy of x"], 
+      ["姐姐", "wife of x, enemy of x"], 
+      ["周蒙当", "acquaintance of x"], 
+      ["宝柑", "servant of x, friend of x"], 
+      ["宝柳", "sister in law of x, enemy of x"], 
+      ["琏逸", "nephew of x, friend of x"], 
+      ["嫣楠", "niece of x, friend of x"]
+    ],
+    "周蒙当": [
+      ["昔颜", "lover of x, friend of x"], 
+      ["姐姐", "acquaintance of x"], 
+      ["崔寿亨", "acquaintance of x"], 
+      ["宝柑", "friend of x, servant of x"], 
+      ["宝柳", "sister in law of x, enemy of x"], 
+      ["琏逸", "nephew of x, friend of x"], 
+      ["嫣楠", "niece of x, friend of x"]
+    ],
+    "周持同": [
+      ["崔寿亨", "friend of x"], 
+      ["周蒙当", "friend of x"]
+    ],
+    "宝柑": [
+      ["昔颜", "friend of x, servant of x"], 
+      ["姐姐", "friend of x, servant of x"], 
+      ["崔寿亨", "master of x, enemy of x"], 
+      ["周蒙当", "friend of x, servant of x"], 
+      ["宝柳", "sister in law of x, enemy of x"], 
+      ["琏逸", "nephew of x, friend of x"], 
+      ["嫣楠", "niece of x, friend of x"]
+    ],
+    "宝柳": [
+      ["昔颜", "sister in law of x, enemy of x"], 
+      ["姐姐", "sister in law of x, enemy of x"], 
+      ["崔寿亨", "husband of x, enemy of x"], 
+      ["周蒙当", "acquaintance of x"], 
+      ["宝柑", "sister in law of x, enemy of x"], 
+      ["琏逸", "nephew of x, friend of x"], 
+      ["嫣楠", "niece of x, friend of x"]
+    ],
+    "琏逸": [
+      ["昔颜", "nephew of x, friend of x"], 
+      ["姐姐", "nephew of x, friend of x"], 
+      ["崔寿亨", "nephew of x, friend of x"], 
+      ["周蒙当", "nephew of x, friend of x"], 
+      ["宝柑", "nephew of x, friend of x"], 
+      ["宝柳", "nephew of x, friend of x"], 
+      ["嫣楠", "niece of x, friend of x"]
+    ],
+    "嫣楠": [
+      ["昔颜", "niece of x, friend of x"], 
+      ["姐姐", "niece of x, friend of x"], 
+      ["崔寿亨", "niece of x, friend of x"], 
+      ["周蒙当", "niece of x, friend of x"], 
+      ["宝柑", "niece of x, friend of x"], 
+      ["宝柳", "niece of x, friend of x"], 
+      ["琏逸", "niece of x, friend of x"]
+    ]
+}

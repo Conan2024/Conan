@@ -1,0 +1,86 @@
+{
+    "周允棠": [
+      ["周教授", "friend of x, colleague of x, same person as x (different reference)"], 
+      ["周景鱼", "friend of x"], 
+      ["巴府山", "student of x, friend of x, lover of x"], 
+      ["忱纱", "father of x, mentor of x, colleague of x, friend of x"], 
+      ["李德木", "mentor of x"], 
+      ["鹃歌", "secret lover of x"], 
+      ["黑袍人", "friend of x, mentor of x, teacher of x"]
+    ],
+    "周教授": [
+      ["周允棠", "friend of x, colleague of x, mentor of x, teacher of x, same person as x (different reference)"], 
+      ["周景鱼", "friend of x, mentor of x"], 
+      ["忱纱", "friend of x, mentor of x"], 
+      ["郑函贞", "father in law of x, mentor of x, colleague of x"], 
+      ["郑昌珉", "father in law of x, mentor of x, colleague of x"], 
+      ["鬼印", "mentor of x, friend of x"], 
+      ["黑袍人", "father in law of x, friend of x, colleague of x, mentor of x"]
+    ],
+    "周景鱼": [
+      ["周允棠", "friend of x"], 
+      ["周教授", "friend of x"], 
+      ["忱纱", "romantic relationships with x"], 
+      ["郑昌珉", "friend of x, colleague of x"], 
+      ["黑袍人", "friend of x, colleague of x, same person as x (different reference)"]
+    ],
+    "巴府山": [
+      ["周允棠", "teacher of x, friend of x, father in law of x"], 
+      ["张氏", "employer of x, master of x, superior of x"], 
+      ["郑昌珉", "employer of x"], 
+      ["鹃歌", "father of x, husband of x"]
+    ],
+    "张氏": [
+      ["巴府山", "employer of x, master of x, superior of x"], 
+      ["李德木", "husband of x"], 
+      ["郑函贞", "mentor of x"], 
+      ["鹃歌", "secret lover of x"], 
+      ["黑袍人", "subordinate of x, acquaintance of x, helper of x, friend of x, mentor of x, student of x, informant of x"]
+    ],
+    "忱纱": [
+      ["周允棠", "father of x, mentor of x, colleague of x, friend of x"], 
+      ["周教授", "friend of x"], 
+      ["周景鱼", "romantic relationships with x"], 
+      ["郑函贞", "helper of x, informant of x, acquaintance of x"], 
+      ["郑昌珉", "colleague of x, friend of x"], 
+      ["黑袍人", "rival of x"]
+    ],
+    "李德木": [
+      ["周允棠", "mentor of x"], 
+      ["张氏", "wife of x"], 
+      ["鬼印", "romantic relationships with x"], 
+      ["黑袍人", "friend of x, colleague of x"]
+    ],
+    "郑函贞": [
+      ["周教授", "father in law of x, colleague of x"], 
+      ["张氏", "employee of x, friend of x, rival of x"], 
+      ["忱纱", "helper of x, informant of x, acquaintance of x"], 
+      ["黑袍人", "friend of x, colleague of x, mentor of x, student of x, business partner of x, customer of x, superior of x, subordinate of x"]
+    ],
+    "郑昌珉": [
+      ["周教授", "father in law of x, colleague of x"], 
+      ["周景鱼", "father of x, mentor of x"], 
+      ["巴府山", "employee of x"], 
+      ["忱纱", "colleague of x, friend of x"], 
+      ["鹃歌", "romantic relationships with x"]
+    ],
+    "鬼印": [
+      ["周教授", "friend of x"], 
+      ["李德木", "romantic relationships with x"]
+    ],
+    "鹃歌": [
+      ["周允棠", "secret lover of x"], 
+      ["巴府山", "daughter of x, wife of x"], 
+      ["张氏", "secret lover of x"], 
+      ["郑昌珉", "romantic relationships with x"]
+    ],
+    "黑袍人": [
+      ["周允棠", "friend of x, student of x"], 
+      ["周教授", "son in law of x, boyfriend of x, colleague of x"], 
+      ["周景鱼", "friend of x, colleague of x, same person as x (different reference)"], 
+      ["张氏", "superior of x, acquaintance of x, friend of x, informant of x"], 
+      ["忱纱", "rival of x"], 
+      ["李德木", "friend of x, colleague of x"], 
+      ["郑函贞", "friend of x, colleague of x, mentor of x, student of x, business partner of x, customer of x, superior of x, subordinate of x"]
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "紫苏": [
+      ["陆英", "acquaintance of x, informant of x"], 
+      ["杜仲", "brother of x, sworn brother of x"], 
+      ["玄参", "brother of x, sworn brother of x"], 
+      ["二师叔", "acquaintance of x, informant of x"], 
+      ["凌霄", "acquaintance of x, informant of x"], 
+      ["戌时知鱼轩", "suspect of x"]
+    ],
+    "杜仲": [
+      ["紫苏", "brother of x, sworn brother of x"], 
+      ["玄参", "brother of x, sworn brother of x"], 
+      ["二师叔", "acquaintance of x, informant of x"], 
+      ["凌霄", "acquaintance of x, informant of x"]
+    ],
+    "玄参": [
+      ["紫苏", "brother of x, sworn brother of x"], 
+      ["杜仲", "brother of x, sworn brother of x"], 
+      ["二师叔", "acquaintance of x, informant of x"]
+    ],
+    "二师叔": [
+      ["紫苏", "acquaintance of x, informant of x"], 
+      ["杜仲", "acquaintance of x, informant of x"], 
+      ["玄参", "acquaintance of x, informant of x"]
+    ],
+    "凌霄": [
+      ["紫苏", "acquaintance of x, informant of x"], 
+      ["杜仲", "acquaintance of x, informant of x"], 
+      ["玄参", "acquaintance of x, informant of x"]
+    ],
+    "戌时知鱼轩": [
+      ["紫苏", "suspect of x"]
+    ],
+    "陆英": [
+      ["紫苏", "acquaintance of x, informant of x"]
+    ]
+}

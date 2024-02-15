@@ -1,0 +1,116 @@
+{
+    "伊莱恩·卡特尔": [
+        [
+            "帕洛斯基医生",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "relationship 1: Colleague",
+            "relationship 2: Supervisor-Supervisee",
+            "relationship 3: Mentor-Mentee",
+            "relationship 4: Friend"
+        ],
+        [
+            "理查德•伯克利",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "帕洛斯基医生": [
+        [
+            "伊莱恩·卡特尔",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "Colleague",
+            "Research Partner",
+            "Friend",
+            "Confidant"
+        ],
+        [
+            "理查德•伯克利",
+            "mentor",
+            "colleague",
+            "superior",
+            "friend"
+        ],
+        [
+            "西尔维亚·科斯塔",
+            " Employee of X",
+            " Informant of X",
+            " Acquaintance of X"
+        ]
+    ],
+    "汉斯·里莫瑞特": [
+        [
+            "伊莱恩·卡特尔",
+            "relationship 1: Colleague",
+            "relationship 2: Supervisor-Supervisee",
+            "relationship 3: Mentor-Mentee",
+            "relationship 4: Friend"
+        ],
+        [
+            "帕洛斯基医生",
+            "Colleague",
+            "Research Partner",
+            "Friend",
+            "Confidant"
+        ],
+        [
+            "理查德•伯克利",
+            "利图关系, 合作关系, 谋杀关系, employer-employee relationship, 竞争关系"
+        ],
+        [
+            "西尔维亚·科斯타",
+            "employer, mentor, manipulator, adversary, rival"
+        ]
+    ],
+    "理查德•伯克利": [
+        [
+            "伊莱恩·卡特尔",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "帕洛斯基医生",
+            "mentor",
+            "colleague",
+            "superior",
+            "friend"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "利图关系, 合作关系, 谋杀关系, employer-employee relationship, 竞争关系"
+        ],
+        [
+            "西尔维亚·科斯塔",
+            "Employee of X",
+            "Helped by X",
+            "Informant of X",
+            "perpetrator of X",
+            "Victim of X"
+        ]
+    ],
+    "西尔维亚·科斯타": [
+        [
+            "帕洛斯基医生",
+            " Employee of X",
+            " Informant of X",
+            " Acquaintance of X"
+        ]
+    ],
+    "西尔维亚·科斯塔": [
+        [
+            "汉斯·里莫瑞特",
+            "employer, mentor, manipulator, adversary, rival"
+        ],
+        [
+            "理查德•伯克利",
+            " Employee of X",
+            "Co-conspirator of X",
+            "Accomplice of X",
+            "Adversary of X",
+            "Enemy of X"
+        ]
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "孙清洁": [
+        [
+            "田助理",
+            "blackmailed by x, victim of x, informant of x"
+        ],
+        [
+            "李保安",
+            "acquaintance of x, co victim of x, helped by x"
+        ],
+        [
+            "贾教授",
+            "acquaintance of x"
+        ],
+        [
+            "未知女学生",
+            "stranger to x"
+        ]
+    ],
+    "田助理": [
+        [
+            "孙清洁",
+            "blackmailer of x, perpetrator of x, information receiver from x"
+        ],
+        [
+            "李保安",
+            "blackmailer of x"
+        ],
+        [
+            "贾教授",
+            "subordinate of x, colleague of x"
+        ],
+        [
+            "未知女学生",
+            "romantic relationships with x"
+        ]
+    ],
+    "李保安": [
+        [
+            "孙清洁",
+            "acquaintance of x, co victim of x, helper of x"
+        ],
+        [
+            "田助理",
+            "victim of x"
+        ]
+    ],
+    "贾教授": [
+        [
+            "孙清洁",
+            "acquaintance of x"
+        ],
+        [
+            "田助理",
+            "superior of x, colleague of x"
+        ]
+    ],
+    "未知女学生": [
+        [
+            "孙清洁",
+            "stranger to x"
+        ],
+        [
+            "田助理",
+            "romantic relationships with x"
+        ]
+    ]
+}

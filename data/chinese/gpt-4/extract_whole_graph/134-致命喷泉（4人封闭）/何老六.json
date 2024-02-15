@@ -1,0 +1,88 @@
+{
+    "何老六": [
+        [
+            "五个姐姐",
+            "sibling of 何老六"
+        ],
+        [
+            "李国富",
+            "colleague of 何老六, crime partner of 何老六, deceived by 何老六"
+        ],
+        [
+            "张洁",
+            "colleague of 何老六, crime partner of 何老六"
+        ],
+        [
+            "慕北",
+            "colleague of 何老六"
+        ],
+        [
+            "王邻居",
+            "acquaintance of 何老六, gambling partner of 何老六, creditor of 何老六"
+        ],
+        [
+            "父亲",
+            "father of 何老六"
+        ],
+        [
+            "二姐",
+            "sibling of 何老六, helped by 何老六"
+        ]
+    ],
+    "李国富": [
+        [
+            "张洁",
+            "colleague of 李国富, crime partner of 李国富"
+        ],
+        [
+            "慕北",
+            "colleague of 李国富"
+        ],
+        [
+            "王邻居",
+            "gambling partner of 李国富, debtor of 李国富"
+        ],
+        [
+            "何老六",
+            "subordinate of 李国富, crime partner of 李国富"
+        ]
+    ],
+    "张洁": [
+        [
+            "李国富",
+            "colleague of 张洁, crime partner of 张洁"
+        ],
+        [
+            "何老六",
+            "colleague of 张洁, crime partner of 张洁"
+        ],
+        [
+            "慕北",
+            "colleague of 张洁"
+        ]
+    ],
+    "慕北": [
+        [
+            "何老六",
+            "colleague of 慕北"
+        ],
+        [
+            "李国富",
+            "colleague of 慕北"
+        ],
+        [
+            "张洁",
+            "colleague of 慕北"
+        ]
+    ],
+    "王邻居": [
+        [
+            "李国富",
+            "gambling partner of 王邻居, creditor of 王邻居"
+        ],
+        [
+            "何老六",
+            "gambling partner of 王邻居"
+        ]
+    ]
+}

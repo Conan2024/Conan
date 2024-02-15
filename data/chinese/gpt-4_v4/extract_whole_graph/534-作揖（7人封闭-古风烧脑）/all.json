@@ -1,0 +1,59 @@
+{
+    "陈府主": [
+      ["特尔特拉福德", "same person as x (different identity)"], 
+      ["陈孜靖", "same person as x (different reference)"], 
+      ["尔矢斯芭嗒王子", "friend of x, information receiver from x"], 
+      ["李府李王爷", "business partner of x, manipulator of x"], 
+      ["方府大千金方絮", "acquaintance of x, suspected by x"], 
+      ["李仲", "son in law of x"], 
+      ["陈倩", "child of x, biological daughter of x"], 
+      ["小茜", "acquaintance of x, quest companion of x"], 
+      ["李延", "acquaintance of x, deceiver of x"]
+    ],
+    "特尔特拉福德": [
+      ["陈孜靖", "same person as x (different reference)"], 
+      ["尔矢斯芭嗒王子", "helper of x, deceiver of x"]
+    ],
+    "陈孜靖": [
+      ["特尔特拉福德", "same person as x (different identity)"], 
+      ["丰泽县", "neighbour of x"]
+    ],
+    "尔矢斯芭嗒王子": [
+      ["特尔特拉福德/陈府主/陈孜靖", "helped by x, deceived by x"], 
+      ["方府大千金方絮", "ex romantic relationships with x"], 
+      ["陈倩", "adoptive father of x"], 
+      ["小甚至", "adoptive father of x, teacher of x"]
+    ],
+    "李府李王爷": [
+      ["陈府主/特尔特拉福德/陈孜靖", "superior of x, customer of x, deceived by x"], 
+      ["李仲", "father of x"], 
+      ["李延", "father of x"], 
+      ["方府大千金方絮", "husband of x"]
+    ],
+    "方府大千金方絮": [
+      ["陈府主/特尔特拉福德/陈孜靖", "suspected by x"], 
+      ["尔矢斯芭嗒王子", "ex romantic relationships with x"], 
+      ["李府李王爷", "wife of x"]
+    ],
+    "李仲": [
+      ["李府李王爷", "child of x, son in law of x"], 
+      ["陈府主/特尔特拉福德/陈孜靖", "son in law of x"], 
+      ["小茜", "attempted perpetrator of x"]
+    ],
+    "陈倩": [
+      ["陈府主/特尔特拉福德/陈孜靖", "child of x, biological daughter of x"], 
+      ["尔矢斯芭嗒王子", "sibling of x"], 
+      ["李府李王爷", "perpetrator of x"], 
+      ["小茜", "acquaintance of x"]
+    ],
+    "小茜": [
+      ["尔矢斯芭嗒王子", "student of x, child of x"], 
+      ["李府李王爷", "dislike of x, victim of x"], 
+      ["陈府主/特尔特拉福德/陈孜靖", "helped by x"], 
+      ["李仲", "saviour of x"]
+    ],
+    "李延": [
+      ["李府李王爷", "child of x"], 
+      ["陈府主/特尔特拉福德/陈孜靖", "same person as x (different identity)"]
+    ]
+}

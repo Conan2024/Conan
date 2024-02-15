@@ -1,0 +1,22 @@
+{
+    "剧务戴维": [
+      ["宣传罗琳", "colleague of x"], 
+      ["保安凯文", "suspect of x"]
+    ],
+    "宣传罗琳": [
+      ["剧务戴维", "colleague of x"], 
+      ["古思特", "colleague of x"]
+    ],
+    "保安凯文": [
+      ["剧务戴维", "suspect of x"], 
+      ["古思特", "colleague of x"]
+    ],
+    "艾拉": [
+      ["古思特", "business partner of x"]
+    ],
+    "古思特": [
+      ["宣传罗琳", "colleague of x"], 
+      ["保安凯文", "colleague of x"], 
+      ["艾拉", "business partner of x"]
+    ]
+}

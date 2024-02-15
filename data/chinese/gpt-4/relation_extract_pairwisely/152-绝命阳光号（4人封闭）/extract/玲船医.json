@@ -1,0 +1,134 @@
+{
+    "玲船医（主角）": [
+        [
+            "杨老板",
+            "informant of x, employee of x, helper of x, manipulated by x, victim of x"
+        ],
+        [
+            "张大副",
+            "informant of x, quest companion of x, fiancee of x, ex fiancee of x, manipulated by x"
+        ],
+        [
+            "王船工",
+            "informant of x, girlfriend of x, fiancee of x, helped by x, manipulator of x, secret lover of x"
+        ],
+        [
+            "雯秘书",
+            "informant of x, acquainted by x, subordinate of x"
+        ],
+        [
+            "王小工",
+            "girlfriend of x, fiancee of x, co-worker of x, helper of x, helper of x's father, information receiver from x's father, monitored by x's father, helper of x's murder suspect"
+        ]
+    ],
+    "杨老板": [
+        [
+            "玲船医（主角）",
+            "information receiver from x, employer of x, manipulator of x, superior of x, attempted perpetrator of x"
+        ],
+        [
+            "张大副",
+            "business partner of x, employer of x, informant of x"
+        ],
+        [
+            "王船工",
+            "acquaintance of x, business partner of x, suspect of x"
+        ],
+        [
+            "雯秘书",
+            "employer of x, boss of x"
+        ],
+        [
+            "王小工",
+            "employer of x, manipulator of x, customer of x"
+        ]
+    ],
+    "张大副": [
+        [
+            "玲船医（主角）",
+            "information receiver from x, manipulator of x"
+        ],
+        [
+            "杨老板",
+            "business partner of x, employee of x, information receiver from x"
+        ],
+        [
+            "王船工",
+            "superior of x, informant of x, business partner of x, suspected by x"
+        ],
+        [
+            "雯秘书",
+            "acquaintance of x, information receiver from x"
+        ],
+        [
+            "王小工",
+            "employer of x, superior of x"
+        ]
+    ],
+    "王船工": [
+        [
+            "玲船医（主角）",
+            "victim of x, deceived by x, father in law of x, employer of x"
+        ],
+        [
+            "杨老板",
+            "acquaintance of x, business partner of x, suspected by x"
+        ],
+        [
+            "张大副",
+            "subordinate of x, information receiver from x, business partner of x, suspect to x"
+        ],
+        [
+            "雯秘书",
+            "information receiver from x, colleague of x"
+        ],
+        [
+            "王小工",
+            "father of x"
+        ]
+    ],
+    "雯秘书": [
+        [
+            "玲船医（主角）",
+            "information receiver from x, superior of x"
+        ],
+        [
+            "杨老板",
+            "employee of x, subordinate of x"
+        ],
+        [
+            "张大副",
+            "acquaintance of x, informant of x"
+        ],
+        [
+            "王船工",
+            "informant of x, colleague of x"
+        ],
+        [
+            "王小工",
+            "information receiver from 玲船医, messenger of 杨老板"
+        ]
+    ],
+    "王小工": [
+        [
+            "玲船医（主角）",
+            "ex boyfriend of x, deceased, monitored by x, victim of x's scheme, x's murder suspect's target's son"
+        ],
+        [
+            "杨老板",
+            "subordinate of x, manipulated by x, service provider of x"
+        ],
+        [
+            "张大副",
+            "subordinate of x, employee of x"
+        ],
+        [
+            "王船工",
+            "child of x"
+        ],
+        [
+            "雯秘书",
+            "stranger to 雯秘书"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "奶奶": [
+      ["小茜", "mentor of x"], 
+      ["李仲", "friend of x, acquaintance of x"]
+    ],
+    "小茜": [
+      ["奶奶", "mentor of x"], 
+      ["李仲", "friend of x, acquaintance of x"], 
+      ["李延", "lover of x, adversary of x"]
+    ],
+    "方叶": [
+      ["小茜", "same person as x (different reference), child of x"], 
+      ["李仲", "father of x, husband of x"]
+    ],
+    "方絮": [
+      ["小茜", "same person as x (different reference), child of x"], 
+      ["李仲", "mother of x, wife of x"]
+    ],
+    "方眠": [
+      ["小茜", "same person as x (different identity), sibling of x"], 
+      ["李仲", "same person as x (different reference), brother of x"]
+    ],
+    "李仲": [
+      ["小茜", "friend of x, acquaintance of x"], 
+      ["李延", "lover of x, adversary of x"]
+    ],
+    "李延": [
+      ["小茜", "lover of x, adversary of x"], 
+      ["李仲", "friend of x, acquaintance of x"]
+    ],
+    "李王爷": [
+      ["李仲", "husband of x, father in law of x"], 
+      ["李钦仁", "same person as x (different reference), brother of x"]
+    ],
+    "李钦仁": [
+      ["李仲", "same person as x (different reference), brother of x"], 
+      ["陈倩", "same person as x (different reference), friend of x"]
+    ],
+    "草藤居士": [
+      ["李仲", "employer of x"]
+    ],
+    "陈倩": [
+      ["李延", "same person as x (different reference), friend of x"], 
+      ["李钦仁", "same person as x (different reference), friend of x"]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "凯文": [
+      ["艾拉", "helper of x"], 
+      ["罗琳", "sibling of x"], 
+      ["戴维", "dislike of x"], 
+      ["格里夫", "dislike of x"]
+    ],
+    "艾拉": [
+      ["凯文", "helper of x"], 
+      ["古思特", "fiancee of x"]
+    ],
+    "罗琳": [
+      ["凯文", "sibling of x"], 
+      ["古思特", "ex romantic relationships with x"], 
+      ["戴维", "ex romantic relationships with x"]
+    ],
+    "古思特": [
+      ["艾拉", "fiance of x"], 
+      ["罗琳", "ex romantic relationships with x"], 
+      ["戴维", "business partner of x"]
+    ],
+    "戴维": [
+      ["凯文", "dislike of x"], 
+      ["罗琳", "ex romantic relationships with x"], 
+      ["古思特", "business partner of x"], 
+      ["格里夫", "dislike of x"]
+    ],
+    "格里夫": [
+      ["凯文", "dislike of x"], 
+      ["戴维", "dislike of x"]
+    ]
+}

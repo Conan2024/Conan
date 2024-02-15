@@ -1,0 +1,124 @@
+{
+    "麦克斯•派克": [
+        [
+            "乔•罗伯特森",
+            "friend of x, crime partner of x, information receiver from x"
+        ],
+        [
+            "麦克斯•琼斯",
+            "same person as x (different identity)"
+        ],
+        [
+            "克里斯丁•邓恩",
+            "informant of x"
+        ],
+        [
+            "Sleer&Leech",
+            "subordinate of x"
+        ],
+        [
+            "约翰•摩根",
+            "acquaintance of x"
+        ],
+        [
+            "哈罗德•哈里森",
+            "colleague of x, suspected by x"
+        ],
+        [
+            "玛丽娜•哈里森",
+            "acquaintance of x"
+        ],
+        [
+            "露西•哈里森",
+            "acquaintance of x, victim of x"
+        ],
+        [
+            "丹尼尔",
+            "victim of x, suspect of x"
+        ]
+    ],
+    "乔•罗伯特森": [
+        [
+            "麦克斯•派克",
+            "friend of x, crime partner of x"
+        ],
+        [
+            "麦克斯•琼斯",
+            "acquaintance of x"
+        ]
+    ],
+    "麦克斯•琼斯": [
+        [
+            "麦克斯•派克",
+            "same person as x (different reference)"
+        ],
+        [
+            "克里斯丁•邓恩",
+            "informant of x"
+        ],
+        [
+            "Sleer&Leech",
+            "subordinate of x"
+        ]
+    ],
+    "克里斯丁•邓恩": [
+        [
+            "麦克斯•琼斯",
+            "informant of x"
+        ],
+        [
+            "麦克斯•派克",
+            "informant of x, quest companion of x"
+        ]
+    ],
+    "Sleer&Leech": [
+        [
+            "麦克斯•琼斯",
+            "superior of x"
+        ],
+        [
+            "麦克斯•派克",
+            "superior of x"
+        ]
+    ],
+    "约翰•摩根": [
+        [
+            "麦克斯•派克",
+            "acquaintance of x"
+        ]
+    ],
+    "哈罗德•哈里森": [
+        [
+            "麦克斯•派克",
+            "colleague of x, suspect of x"
+        ]
+    ],
+    "玛丽娜•哈里森": [
+        [
+            "麦克斯•派克",
+            "acquaintance of x"
+        ],
+        [
+            "戴维斯",
+            "extramarital affair with x"
+        ]
+    ],
+    "露西•哈里森": [
+        [
+            "麦克斯•派克",
+            "adversary of x"
+        ]
+    ],
+    "丹尼尔": [
+        [
+            "麦克斯•派克",
+            "victim of x, suspect to x"
+        ]
+    ],
+    "戴维斯": [
+        [
+            "玛丽娜•哈里森",
+            "extramarital affair with x"
+        ]
+    ]
+}

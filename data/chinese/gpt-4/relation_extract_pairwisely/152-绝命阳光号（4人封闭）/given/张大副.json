@@ -1,0 +1,184 @@
+{
+    "张大副": [
+        [
+            "很天真",
+            "brother of x"
+        ],
+        [
+            "杨老板",
+            "business partner of x, perpetrator of x, helper of x, helped by x"
+        ],
+        [
+            "雯秘书",
+            "acquaintance of x, colleague of x, business partner of x, crime partner of x, information receiver from x, suspect of x"
+        ],
+        [
+            "王船工",
+            "crime partner of x, quest companion of x, superior of x, manipulator of x"
+        ],
+        [
+            "玲船医",
+            "manipulator of x, superior of x, employer of x, has untrustworthy relationship with x"
+        ],
+        [
+            "王小工",
+            "superior of x, quest companion of x, suspected by x, superior of x's victim's family"
+        ]
+    ],
+    "很天真": [
+        [
+            "张大副",
+            "sibling of x"
+        ],
+        [
+            "杨老板",
+            "employee of x, subordinate of x"
+        ],
+        [
+            "雯秘书",
+            "colleague of x, subordinate of x"
+        ],
+        [
+            "王船工",
+            "acquaintance of x, information receiver from x"
+        ],
+        [
+            "玲船医",
+            "stranger to x"
+        ],
+        [
+            "王小工",
+            "sibling of x, acquaintance of x"
+        ]
+    ],
+    "杨老板": [
+        [
+            "张大副",
+            "customer of x, victim of x, information receiver from x, helped by x"
+        ],
+        [
+            "很天真",
+            "employer of x, superior of x"
+        ],
+        [
+            "雯秘书",
+            "employer of x, superior of x"
+        ],
+        [
+            "王船工",
+            "employer of x, victim of x"
+        ],
+        [
+            "玲船医",
+            "customer of x"
+        ],
+        [
+            "王小工",
+            "perpetrator of x"
+        ]
+    ],
+    "雯秘书": [
+        [
+            "张大副",
+            "acquaintance of x, colleague of x, business partner of x, crime partner of x, information provider to x, suspected by x"
+        ],
+        [
+            "很天真",
+            "colleague of x, superior of x"
+        ],
+        [
+            "杨老板",
+            "employee of x, subordinate of x"
+        ],
+        [
+            "王船工",
+            "stranger to x"
+        ],
+        [
+            "玲船医",
+            "colleague of x, subordinate of x"
+        ],
+        [
+            "王小工",
+            "stranger to x"
+        ]
+    ],
+    "王船工": [
+        [
+            "张大副",
+            "crime partner of x, quest companion of x, subordinate of x, manipulated by x"
+        ],
+        [
+            "很天真",
+            "acquaintance of x, informant of x"
+        ],
+        [
+            "杨老板",
+            "employee of x, perpetrator of x"
+        ],
+        [
+            "雯秘书",
+            "stranger to x"
+        ],
+        [
+            "玲船医",
+            "accomplice in crime of x, victim's family of x, manipulated by x"
+        ],
+        [
+            "王小工",
+            "father of x"
+        ]
+    ],
+    "玲船医": [
+        [
+            "张大副",
+            "manipulated by x, subordinate of x, employee of x, informant of x, secretly spying on someone for x, engaged in deception for x"
+        ],
+        [
+            "很天真",
+            "stranger to x"
+        ],
+        [
+            "杨老板",
+            "service provider of x"
+        ],
+        [
+            "雯秘书",
+            "colleague of x, superior of x"
+        ],
+        [
+            "王船工",
+            "fiancee of x's son, informant of x, manipulator of x"
+        ],
+        [
+            "王小工",
+            "deceiver of x, fiancee of x, informant of x, manipulator of x"
+        ]
+    ],
+    "王小工": [
+        [
+            "张大副",
+            "subordinate of x, victim of x's indirect actions, child of subordinate of x"
+        ],
+        [
+            "很天真",
+            "acquaintance of x"
+        ],
+        [
+            "杨老板",
+            "killed by x"
+        ],
+        [
+            "雯秘书",
+            "stranger to x"
+        ],
+        [
+            "王船工",
+            "child of x"
+        ],
+        [
+            "玲船医",
+            "deceived by x, fiance of x, victim of x"
+        ]
+    ]
+}

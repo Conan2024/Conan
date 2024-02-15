@@ -1,0 +1,65 @@
+{
+    "依琳•卡特 (Eileen Carter)": [
+      ["伯克利 (Berkeley)", "superior of x, mentor of x, informant of x"], 
+      ["帕洛斯基医生 (Dr. Paloski)", "superior of x, mentor of x"], 
+      ["汉斯·里莫瑞提 (Hans Rimoriti)", "relative of x"], 
+      ["吉姆·梅森 (Jim Mason)", "acquaintance of x"], 
+      ["科斯塔护士长 (Head Nurse Costa)", "helper of x, friend of x"], 
+      ["盖尔·里莫瑞特 (Gale Rimoriti)", "acquaintance of x, possibly family of x"], 
+      ["德雷克·里莫瑞特 (Dr. Drake Rimoriti)", "admired by x, colleague of x, mentor of x"], 
+      ["汤姆神父 (Father Tom)", "acquaintance of x, suspected by x"], 
+      ["埃里克 (Eric)", "patient of x"]
+    ],
+    "伯克利 (Berkeley)": [
+      ["依琳•卡特 (Eileen Carter)", "informant of x, subordinate of x"], 
+      ["帕洛斯基医生 (Dr. Paloski)", "colleague of x, superior of x"], 
+      ["科斯塔护士长 (Head Nurse Costa)", "superior of x"], 
+      ["德雷克·里莫瑞特 (Dr. Drake Rimoriti)", "superior of x"]
+    ],
+    "帕洛斯基医生 (Dr. Paloski)": [
+      ["依琳•卡特 (Eileen Carter)", "subordinate of x, student of x"], 
+      ["伯克利 (Berkeley)", "subordinate of x, colleague of x"], 
+      ["科斯塔护士长 (Head Nurse Costa)", "colleague of x"], 
+      ["德雷克·里莫瑞特 (Dr. Drake Rimoriti)", "colleague of x"]
+    ],
+    "科斯塔护士长 (Head Nurse Costa)": [
+      ["依琳•卡特 (Eileen Carter)", "helper of x, mentor of x"], 
+      ["伯克利 (Berkeley)", "subordinate of x"], 
+      ["帕洛斯基医生 (Dr. Paloski)", "colleague of x"], 
+      ["德雷克·里莫瑞特 (Dr. Drake Rimoriti)", "colleague of x"], 
+      ["盖尔·里莫瑞特 (Gale Rimoriti)", "customer of x"]
+    ],
+    "汉斯·里莫瑞提 (Hans Rimoriti)": [
+      ["吉姆·梅森 (Jim Mason)", "adversary of x"], 
+      ["科斯塔护士长 (Head Nurse Costa)", "colleague of x"], 
+      ["盖尔·里莫瑞特 (Gale Rimoriti)", "husband of x"], 
+      ["德雷克·里莫瑞特 (Dr. Drake Rimoriti)", "twin brother of x"]
+    ],
+    "吉姆·梅森 (Jim Mason)": [
+      ["汉斯·里莫瑞提 (Hans Rimoriti)", "adversary of x"], 
+      ["依琳•卡特 (Eileen Carter)", "acquaintance of x"]
+    ],
+    "盖尔·里莫瑞特 (Gale Rimoriti)": [
+      ["依琳•卡特 (Eileen Carter)", "acquaintance of x, possibly family of x"], 
+      ["科斯塔护士长 (Head Nurse Costa)", "lawyer of x"], 
+      ["汉斯·里莫瑞提 (Hans Rimoriti)", "wife of x"], 
+      ["德雷克·里莫瑞特 (Dr. Drake Rimoriti)", "sister in law of x"]
+    ],
+    "德雷克·里莫瑞特 (Dr. Drake Rimoriti)": [
+      ["依琳•卡特 (Eileen Carter)", "admired by x, colleague of x, mentor of x"], 
+      ["帕洛斯基医生 (Dr. Paloski)", "colleague of x"], 
+      ["科斯塔护士长 (Head Nurse Costa)", "colleague of x"], 
+      ["汉斯·里莫瑞提 (Hans Rimoriti)", "twin brother of x"], 
+      ["盖尔·里莫瑞特 (Gale Rimoriti)", "brother in law of x"], 
+      ["汤姆神父 (Father Tom)", "acquaintance of x"], 
+      ["埃里克 (Eric)", "doctor of x"]
+    ],
+    "汤姆神父 (Father Tom)": [
+      ["依琳•卡特 (Eileen Carter)", "acquaintance of x, suspected by x"], 
+      ["德雷克·里莫瑞特 (Dr. Drake Rimoriti)", "acquaintance of x"]
+    ],
+    "埃里克 (Eric)": [
+      ["依琳•卡特 (Eileen Carter)", "patient of x"], 
+      ["德雷克·里莫瑞特 (Dr. Drake Rimoriti)", "patient of x"]
+    ]
+}

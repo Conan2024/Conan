@@ -1,0 +1,49 @@
+{
+    "胡人玉": [
+      ["范金魁", "same person as x (different identity)"], 
+      ["金胡子", "same person as x (different identity)"], 
+      ["姚长寿", "adversary of x, victim of x"], 
+      ["方乘山", "acquaintance of x"], 
+      ["杜老总管", "attempted perpetrator of x, victim of x"], 
+      ["李宽生", "friend of x"], 
+      ["李广生", "friend of x"], 
+      ["虞北辰", "acquaintance of x"], 
+      ["长发姑娘", "fondness of x, helped by x"], 
+      ["苏州女孩", "fondness of x, helped by x"]
+    ],
+    "范金魁": [
+      ["胡人玉", "same person as x (different identity)"]
+    ],
+    "金胡子": [
+      ["胡人玉", "same person as x (different identity)"]
+    ],
+    "田红娇": [
+      ["姚长寿", "wife of x"], 
+      ["方乘山", "niece of x"]
+    ],
+    "姚长寿": [
+      ["胡人玉", "adversary of x, perpetrator of x"], 
+      ["田红娇", "husband of x"], 
+      ["方乘山", "attempted perpetrator of x, business partner of x"]
+    ],
+    "方乘山": [
+      ["胡人玉", "acquaintance of x"], 
+      ["姚长寿", "business partner of x"], 
+      ["田红娇", "uncle of x"]
+    ],
+    "李宽生": [
+      ["胡人玉", "friend of x"]
+    ],
+    "李广生": [
+      ["胡人玉", "friend of x"]
+    ],
+    "虞北辰": [
+      ["胡人玉", "acquaintance of x"]
+    ],
+    "长发姑娘": [
+      ["胡人玉", "fondness of x, helped by x"]
+    ],
+    "苏州女孩": [
+      ["胡人玉", "fondness of x, helped by x"]
+    ]
+}

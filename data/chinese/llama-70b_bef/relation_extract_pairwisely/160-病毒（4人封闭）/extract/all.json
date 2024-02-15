@@ -1,0 +1,52 @@
+{
+    "大姐": [
+      ["秦鸥", "friend of x"], 
+      ["贾教授", "wife of x, colleague of x, superior of x, enemy of x, rival of x"], 
+      ["田助理", "perpetrator of x, adversary of x"], 
+      ["保安", "acquaintance of x, colleague of x"], 
+      ["孙清洁", "colleague of x, friend of x, classmate of x"]
+    ],
+    "秦鸥": [
+      ["大姐", "friend of x"], 
+      ["李保安", "acquaintance of x, colleague of x"], 
+      ["田助理", "perpetrator of x, adversary of x"], 
+      ["保安", "rival of x, acquaintance of x"], 
+      ["孙清洁", "colleague of x, admirer of x"]
+    ],
+    "李保安": [
+      ["秦鸥", "acquaintance of x, colleague of x"], 
+      ["贾教授", "acquaintance of x"], 
+      ["田助理", "acquaintance of x"], 
+      ["保安", "friend of x, colleague of x"], 
+      ["孙清洁", "friend of x, colleague of x"]
+    ],
+    "贾教授": [
+      ["大姐", "wife of x, colleague of x, superior of x, enemy of x, rival of x"], 
+      ["李保安", "acquaintance of x"], 
+      ["田助理", "perpetrator of x, bully of x"], 
+      ["保安", "perpetrator of x, adversary of x"]
+    ],
+    "田助理": [
+      ["大姐", "perpetrator of x, adversary of x"], 
+      ["秦鸥", "perpetrator of x, adversary of x"], 
+      ["李保安", "acquaintance of x"], 
+      ["贾教授", "perpetrator of x, bully of x"], 
+      ["保安", "perpetrator of x, bully of x, attempted perpetrator of x, attempted murderer of x"], 
+      ["孙清洁", "attempted perpetrator of x, bully of x, extramarital affair with x, romantic relationships with x, fiance of x, fiancee of x, co wives of x, husband of x, wife of x"]
+    ],
+    "保安": [
+      ["大姐", "acquaintance of x, colleague of x"], 
+      ["秦鸥", "rival of x, acquaintance of x"], 
+      ["李保安", "friend of x, colleague of x"], 
+      ["贾教授", "victim of x, suspicious of x"], 
+      ["田助理", "victim of x, killed by x, suspicious of x, suspect of x"], 
+      ["孙清洁", "friend of x"]
+    ],
+    "孙清洁": [
+      ["大姐", "colleague of x, friend of x, classmate of x"], 
+      ["秦鸥", "colleague of x, admirer of x"], 
+      ["李保安", "friend of x, colleague of x"], 
+      ["田助理", "victim of x, killed by x, dislike of x, disliked by x, suspected by x, suspicious of x, suspect of x, adversary of x, enemy of x, rival of x, manipulator of x, manipulated by x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["保安", "friend of x"]
+    ]
+}

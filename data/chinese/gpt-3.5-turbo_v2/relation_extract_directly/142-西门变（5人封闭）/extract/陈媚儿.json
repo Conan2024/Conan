@@ -1,0 +1,37 @@
+{
+    "陈媚儿": [
+      ["地痞们", "dislike of x, disliked by x"], 
+      ["陈媚儿的父母", "parents of x"], 
+      ["小少爷", "same person as x (different identity), admired by x"], 
+      ["赵中杨", "romantic relationships with x, victim of x"], 
+      ["赵中正", "business partner of x, informant of x"], 
+      ["赵家二公子", "same person as x (different identity), perpetrator of x's family, ruthless of x, deceivers of x's family"], 
+      ["李成", "helper of x, saved by x"]
+    ],
+    "地痞们": [
+      ["陈媚儿", "dislike of x, disliked by x"]
+    ],
+    "陈媚儿的父母": [
+      ["陈媚儿", "child of x"], 
+      ["地痞们", "dislike of x, disliked by x"]
+    ],
+    "小少爷": [
+      ["陈媚儿", "same person as x (different identity), admired by x"]
+    ],
+    "赵中杨": [
+      ["陈媚儿", "romantic relationships with x, perpetrator of x"], 
+      ["赵中正", "information receiver from x"], 
+      ["李成", "subject of x investigation for x"]
+    ],
+    "赵中正": [
+      ["陈媚儿", "business partner of x, informant of x"], 
+      ["赵中杨", "information receiver from x"]
+    ],
+    "赵家二公子": [
+      ["陈媚儿", "same person as x (different identity), perpetrator of x's family, ruthless of x, deceivers of x's family"]
+    ],
+    "李成": [
+      ["陈媚儿", "helper of x, saved by x"], 
+      ["赵中杨", "subject of x investigation for x"]
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "林校花": [
+        [
+            "张恶霸",
+            "未婚夫和妻",
+            "敌人",
+            "监视对象",
+            "情人",
+            "朋友"
+        ],
+        [
+            "赵帅哥",
+            "accomplice"
+        ],
+        [
+            "郝闺蜜",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5"
+        ],
+        [
+            "王学习",
+            "relationship 1, relationship 2, ..., relationship 10"
+        ],
+        [
+            "李小弟",
+            "嫁给",
+            "未婚妻",
+            "爱上",
+            "追求幸福",
+            "共同进程"
+        ]
+    ],
+    "张恶霸": [
+        [
+            "林校花",
+            "未婚夫和妻",
+            "敌人",
+            "监视对象",
+            "情人",
+            "朋友"
+        ],
+        [
+            "赵帅哥",
+            "boyfriend",
+            "rival",
+            "adversary"
+        ],
+        [
+            "郝闺蜜",
+            "boyfriend",
+            "rival",
+            "adversary"
+        ],
+        [
+            "王学习",
+            " enemy, rival, manipulator, victim"
+        ],
+        [
+            "李小弟",
+            " enemy, rival, manipulator, betrayer"
+        ]
+    ],
+    "赵帅哥": [
+        [
+            "林校花",
+            "accomplice"
+        ],
+        [
+            "张恶霸",
+            "girlfriend",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "郝闺蜜",
+            "friend",
+            "confidant"
+        ],
+        [
+            "王学习",
+            "林校花"
+        ],
+        [
+            "李小弟",
+            "friend, helper"
+        ]
+    ],
+    "郝闺蜜": [
+        [
+            "林校花",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5"
+        ],
+        [
+            "张恶霸",
+            "boyfriend",
+            "rival",
+            "adversary"
+        ],
+        [
+            "赵帅哥",
+            "friend",
+            "confidant"
+        ],
+        [
+            "王学习",
+            "Childhood friend",
+            "Closest friend"
+        ],
+        [
+            "李小弟",
+            "Childhood friend",
+            "Closest friend"
+        ]
+    ],
+    "王学习": [
+        [
+            "林校花",
+            "relationship 1, relationship 2, ..., relationship 10"
+        ],
+        [
+            "张恶霸",
+            "enemy, rival, manipulated, bully"
+        ],
+        [
+            "赵帅哥",
+            "林校花"
+        ],
+        [
+            "郝闺蜜",
+            "Childhood friend",
+            "Closest friend"
+        ],
+        [
+            "李小弟",
+            "张恶霸",
+            "赵帅哥"
+        ]
+    ],
+    "李小弟": [
+        [
+            "林校花",
+            "嫁给",
+            "未婚妻",
+            "爱上",
+            "追求幸福",
+            "共同进程"
+        ],
+        [
+            "张恶霸",
+            "enemy, rival, manipulated, betrayed"
+        ],
+        [
+            "赵帅哥",
+            "friend, helper"
+        ],
+        [
+            "郝闺蜜",
+            "Childhood friend",
+            "Closest friend"
+        ],
+        [
+            "王学习",
+            "张恶霸",
+            "赵帅哥"
+        ]
+    ]
+}

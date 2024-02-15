@@ -1,0 +1,39 @@
+{
+    "尹少鸣": [
+      ["虞北辰", "child of x, possibly family of x"], 
+      ["任", "relative of x, mother of x"], 
+      ["赵洛意", "saviour of x, acquaintance of x, helper of x, informant of x, possibly family of x"], 
+      ["赵万雷", "acquaintance of x, acquaintance of x, suspected by x"], 
+      ["冯双骥", "acquaintance of x, suspected by x, informant of x"]
+    ],
+    "虞北辰": [
+      ["尹少鸣", "father of x, possibly family of x"], 
+      ["任", "father of x"], 
+      ["冯双骥", "same person as x (different reference)"]
+    ],
+    "任": [
+      ["尹少鸣", "child of x"], 
+      ["虞北辰", "child of x"], 
+      ["赵洛意", "relative of x, mother of x"], 
+      ["赵万雷", "mother in law of x"], 
+      ["冯双骥", "relative of x"]
+    ],
+    "赵洛意": [
+      ["尹少鸣", "acquaintance of x, helped by x, saved by x, information receiver from x, possibly family of x"], 
+      ["任", "child of x"], 
+      ["任", "grandchild of x"], 
+      ["赵万雷", "child of x"]
+    ],
+    "赵万雷": [
+      ["尹少鸣", "possibly family of x, helper of x, informant of x"], 
+      ["任", "son in law of x"], 
+      ["赵洛意", "father of x"], 
+      ["冯双骥", "superior of x"]
+    ],
+    "冯双骥": [
+      ["尹少鸣", "information receiver from x, suspect to x"], 
+      ["虞北辰", "same person as x (different reference)"], 
+      ["任", "relative of x"], 
+      ["赵万雷", "subordinate of x"]
+    ]
+}

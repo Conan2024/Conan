@@ -1,0 +1,18 @@
+{
+    "罗琳": [
+      ["魔术师古思特", "romantic relationships with x"], 
+      ["助手艾拉", "friend of x"], 
+      ["剧务戴维", "ex romantic relationships with x, dislike of x"], 
+      ["保安凯文", "sibling of x"]
+    ],
+    "助手艾拉": [
+      ["罗琳", "friend of x"], 
+      ["魔术师古思特", "admirer of x"]
+    ],
+    "剧务戴维": [
+      ["罗琳", "ex romantic relationships with x, dislike of x"]
+    ],
+    "保安凯文": [
+      ["罗琳", "sibling of x"]
+    ]
+}

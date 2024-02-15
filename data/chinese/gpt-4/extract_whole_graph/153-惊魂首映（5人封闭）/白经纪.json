@@ -1,0 +1,50 @@
+{
+    "白经纪": [
+        [
+            "甄演员",
+            "girlfriend of x, employee of x, business partner of x"
+        ],
+        [
+            "程导演",
+            "acquaintance of x"
+        ],
+        [
+            "严歌手",
+            "acquaintance of x"
+        ]
+    ],
+    "甄演员": [
+        [
+            "白经纪",
+            "boyfriend of x, employer of x, business partner of x"
+        ],
+        [
+            "程导演",
+            "acquaintance of x"
+        ],
+        [
+            "严歌手",
+            "acquaintance of x, disliked by x"
+        ]
+    ],
+    "程导演": [
+        [
+            "白经纪",
+            "acquaintance of x"
+        ],
+        [
+            "甄演员",
+            "acquaintance of x"
+        ]
+    ],
+    "严歌手": [
+        [
+            "白经纪",
+            "acquaintance of x, disliker of x"
+        ],
+        [
+            "甄演员",
+            "acquaintance of x, disliker of x, possibly infatuated with x"
+        ]
+    ]
+}

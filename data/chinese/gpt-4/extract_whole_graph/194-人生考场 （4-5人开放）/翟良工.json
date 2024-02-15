@@ -1,0 +1,76 @@
+{
+    "翟良工": [
+        [
+            "父母",
+            "child of x"
+        ],
+        [
+            "吴经纶",
+            "roommate of x, adversary of x, deceiver of x, blackmailed by x, envy of x, suspected by x, victim of x"
+        ],
+        [
+            "顾何琼",
+            "admirer of x, acquaintance of x"
+        ],
+        [
+            "池碧霄",
+            "acquaintance of x"
+        ]
+    ],
+    "吴经纶": [
+        [
+            "翟良工",
+            "roommate of x, adversary of x, superior of x, blackmailer of x, deceived by x"
+        ],
+        [
+            "顾何琼",
+            "boyfriend of x"
+        ],
+        [
+            "池碧霄",
+            "friend of x"
+        ],
+        [
+            "父母",
+            "son of x"
+        ]
+    ],
+    "顾何琼": [
+        [
+            "翟良工",
+            "admired by x, acquaintance of x"
+        ],
+        [
+            "吴经纶",
+            "girlfriend of x"
+        ],
+        [
+            "池碧霄",
+            "roommate of x"
+        ]
+    ],
+    "池碧霄": [
+        [
+            "翟良工",
+            "acquaintance of x"
+        ],
+        [
+            "吴经纶",
+            "friend of x"
+        ],
+        [
+            "顾何琼",
+            "roommate of x"
+        ]
+    ],
+    "父母": [
+        [
+            "翟良工",
+            "parents of x"
+        ],
+        [
+            "吴经纶",
+            "employers of x"
+        ]
+    ]
+}

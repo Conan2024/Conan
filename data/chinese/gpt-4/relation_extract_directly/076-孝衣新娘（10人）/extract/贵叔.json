@@ -1,0 +1,218 @@
+{
+    "杜贵成": [
+        [
+            "孟老爷",
+            "subordinate of x"
+        ],
+        [
+            "杜辉信",
+            "same person as x (different reference)"
+        ],
+        [
+            "短发女人",
+            "stranger to x"
+        ],
+        [
+            "年轻男人",
+            "stranger to x"
+        ],
+        [
+            "长发姑娘",
+            "stranger to x"
+        ],
+        [
+            "白净青年",
+            "stranger to x"
+        ],
+        [
+            "姚仲义",
+            "acquaintance of x"
+        ],
+        [
+            "陈均梦",
+            "patient of x"
+        ],
+        [
+            "云凌",
+            "stranger to x"
+        ],
+        [
+            "虞医师",
+            "stranger to x, helper of x"
+        ],
+        [
+            "红夫人",
+            "acquaintance of x"
+        ],
+        [
+            "姚长寿",
+            "acquaintance of x, patient of x"
+        ]
+    ],
+    "孟老爷": [
+        [
+            "杜贵成",
+            "superior of x"
+        ],
+        [
+            "杜辉信",
+            "employee of x"
+        ],
+        [
+            "方乘山",
+            "stranger to x"
+        ]
+    ],
+    "杜辉信": [
+        [
+            "杜贵成",
+            "father of x"
+        ],
+        [
+            "孟老爷",
+            "employee of x"
+        ],
+        [
+            "方乘山",
+            "superior of x"
+        ]
+    ],
+    "短发女人": [
+        [
+            "杜贵成",
+            "stranger to x"
+        ],
+        [
+            "云凌",
+            "same person as x (different identity)"
+        ]
+    ],
+    "年轻男人": [
+        [
+            "杜贵成",
+            "stranger to x"
+        ],
+        [
+            "虞医师",
+            "same person as x (different identity)"
+        ]
+    ],
+    "长发姑娘": [
+        [
+            "杜贵成",
+            "patient of x"
+        ],
+        [
+            "陈均梦",
+            "same person as x (different identity)"
+        ]
+    ],
+    "白净青年": [
+        [
+            "杜贵成",
+            "stranger to x"
+        ],
+        [
+            "姚仲义",
+            "same person as x (different identity)"
+        ]
+    ],
+    "姚仲义": [
+        [
+            "杜贵成",
+            "acquaintance of x"
+        ],
+        [
+            "陈均梦",
+            "brother in law of x"
+        ],
+        [
+            "姚长寿",
+            "son of x"
+        ],
+        [
+            "红夫人",
+            "daughter in law of x"
+        ],
+        [
+            "虞医师",
+            "employer of x"
+        ]
+    ],
+    "陈均梦": [
+        [
+            "杜贵成",
+            "patient of x"
+        ],
+        [
+            "姚仲义",
+            "sister in law of x"
+        ],
+        [
+            "姚长寿",
+            "relative of x"
+        ],
+        [
+            "红夫人",
+            "acquaintance of x"
+        ]
+    ],
+    "云凌": [
+        [
+            "杜贵成",
+            "stranger to x"
+        ],
+        [
+            "短发女人",
+            "same person as x (different identity)"
+        ]
+    ],
+    "虞医师": [
+        [
+            "杜贵成",
+            "patient of x"
+        ],
+        [
+            "年轻男人",
+            "same person as x (different identity)"
+        ]
+    ],
+    "红夫人": [
+        [
+            "杜贵成",
+            "acquaintance of x"
+        ],
+        [
+            "姚长寿",
+            "wife of x"
+        ],
+        [
+            "姚仲义",
+            "mother in law of x"
+        ]
+    ],
+    "姚长寿": [
+        [
+            "杜贵成",
+            "patient of x"
+        ],
+        [
+            "红夫人",
+            "husband of x"
+        ],
+        [
+            "姚仲义",
+            "father of x"
+        ]
+    ],
+    "方乘山": [
+        [
+            "孟老爷",
+            "possibly family of x"
+        ],
+        [
+            "杜辉信",
+            "subordinate of x"
+        ]
+    ]
+}

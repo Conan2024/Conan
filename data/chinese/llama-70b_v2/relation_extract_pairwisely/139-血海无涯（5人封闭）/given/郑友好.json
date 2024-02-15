@@ -1,0 +1,30 @@
+{
+    "庄清纯": [
+      ["秦老大", "acquaintance of x, classmate of x, friend of x, helped by of x, helped of x, informant of x, information receiver from of x, neutral of x, 无关的 of x, 走狗 of x"], 
+      ["贾美丽", "classmate of x, friend of x"], 
+      ["郑友好", "学生与老师 of x, 朋友 of x, 同学 of x, 帮手 of x, 被保护者 of x"], 
+      ["韦小弟", "friend of x, classmate of x"]
+    ],
+    "秦老大": [
+      ["庄清纯", "acquaintance of x, classmate of x, friend of x, helped by of x, helped of x, informant of x, information receiver from of x, neutral of x, 无关的 of x, 走狗 of x"], 
+      ["贾美丽", "friend of x"], 
+      ["郑友好", "savior of x, friend of x, classmate of x"], 
+      ["韦小弟", "acquaintance of x, friend of x"]
+    ],
+    "贾美丽": [
+      ["庄清纯", "classmate of x, friend of x"], 
+      ["秦老大", "friend of x"], 
+      ["韦小弟", "朋友 of x, 有亲戚 of x, 同班同学 of x"]
+    ],
+    "郑友好": [
+      ["庄清纯", "学生与老师 of x, 朋友 of x, 同学 of x, 帮手 of x, 被保护者 of x"], 
+      ["秦老大", "savior of x, friend of x, classmate of x"], 
+      ["韦小弟", "classmate of x, friend of x"]
+    ],
+    "韦小弟": [
+      ["庄清纯", "friend of x, classmate of x"], 
+      ["秦老大", "acquaintance of x, friend of x"], 
+      ["贾美丽", "朋友 of x, 有亲戚 of x, 同班同学 of x"], 
+      ["郑友好", "classmate of x, friend of x"]
+    ]
+}

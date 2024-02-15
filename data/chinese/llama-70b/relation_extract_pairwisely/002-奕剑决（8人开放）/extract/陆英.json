@@ -1,0 +1,237 @@
+{
+    "师父": [
+        [
+            "陆英",
+            "master-apprentice, mentor-mentee, father-son"
+        ],
+        [
+            "凌霄",
+            "Master-Disciple Relationship"
+        ],
+        [
+            "紫苏",
+            "Master-Disciple, Mentor-Protege, Co-workers"
+        ],
+        [
+            "玄冰使",
+            "Master-Disciple",
+            "mentor-mentee"
+        ],
+        [
+            "武林盟使",
+            "mentor of X",
+            "teacher of X",
+            "acquaintance of X",
+            "classmate of X",
+            "friend of X"
+        ],
+        [
+            "二师叔",
+            "Master-Disciple",
+            "mentor-mentee"
+        ]
+    ],
+    "陆英": [
+        [
+            "师父",
+            "master-apprentice, mentor-mentee, father-son"
+        ],
+        [
+            "凌霄",
+            "师弟, 弟子, 掌门, 同門, 友人, 兄弟, 情人"
+        ],
+        [
+            "紫苏",
+            "师徒关係",
+            "掌门之位繼承",
+            "同門之輩",
+            "私情"
+        ],
+        [
+            "玄冰使",
+            "师弟关系",
+            "同门弟子",
+            "情感关系",
+            "合作关系",
+            "对手关系"
+        ],
+        [
+            "武林盟使",
+            "师徒关係",
+            "长老关系",
+            "友人关系",
+            "潜在的競爭Relationship",
+            "對手Relationship",
+            "协力关系"
+        ],
+        [
+            "二师叔",
+            "师弟关係",
+            "长老 AND 弟子",
+            "兄弟",
+            "戀愛关系"
+        ]
+    ],
+    "凌霄": [
+        [
+            "师父",
+            "Master-Disciple Relationship"
+        ],
+        [
+            "陆英",
+            "师弟, 弟子, 掌门,  same門, 友人, 兄弟, 情人"
+        ],
+        [
+            "紫苏",
+            "Friend, Close Friend"
+        ],
+        [
+            "玄冰使",
+            "Master of X",
+            "Superior of X",
+            "Relationship 1"
+        ],
+        [
+            "武林盟使",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "二师叔",
+            "Suspicious"
+        ]
+    ],
+    "紫苏": [
+        [
+            "师父",
+            "Master-Disciple, Mentor-Protege, Co-workers"
+        ],
+        [
+            "陆英",
+            "师徒关係",
+            "掌门之位繼承",
+            "同門之輩",
+            "私情"
+        ],
+        [
+            "凌霄",
+            "Friend, Close Friend"
+        ],
+        [
+            "玄冰使",
+            "Childhood friend",
+            "Rivals in love"
+        ],
+        [
+            "武林盟使",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "二师叔",
+            "Childhood friend"
+        ]
+    ],
+    "玄冰使": [
+        [
+            "师父",
+            "Master-Disciple",
+            "mentor-mentee"
+        ],
+        [
+            "陆英",
+            "师弟关系",
+            "同门弟子",
+            "情感关系",
+            "合作关系",
+            "对手关系"
+        ],
+        [
+            "凌霄",
+            "Apprentice of X",
+            "Subject of investigation for X",
+            "Relationship 2"
+        ],
+        [
+            "紫苏",
+            "Childhood friend",
+            "Rivals in love"
+        ],
+        [
+            "武林盟使",
+            "同门弟子",
+            "对敌",
+            "rival"
+        ],
+        [
+            "二师叔",
+            "Acquaintance"
+        ]
+    ],
+    "武林盟使": [
+        [
+            "师父",
+            "mentor of X",
+            "teacher of X",
+            "acquaintance of X",
+            "classmate of X",
+            "friend of X"
+        ],
+        [
+            "陆英",
+            "师徒关係",
+            "长老关系",
+            "友人关系",
+            "潜在的競爭Relationship",
+            "對手Relationship",
+            "协力关系"
+        ],
+        [
+            "凌霄",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "紫苏",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "玄冰使",
+            "同门弟子",
+            "对敌",
+            "rival"
+        ],
+        [
+            "二师叔",
+            "Suspect of X"
+        ]
+    ],
+    "二师叔": [
+        [
+            "师父",
+            "Master-Disciple",
+            "mentor-mentee"
+        ],
+        [
+            "陆英",
+            "师弟关係",
+            "长老 AND 弟子",
+            "兄弟",
+            "戀愛关系"
+        ],
+        [
+            "凌霄",
+            "Suspicious"
+        ],
+        [
+            "紫苏",
+            "Childhood friend",
+            "Romantic interest"
+        ],
+        [
+            "玄冰使",
+            "Acquaintance"
+        ],
+        [
+            "武林盟使",
+            "Suspect of X"
+        ]
+    ]
+}

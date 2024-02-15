@@ -1,0 +1,25 @@
+{
+    "修仁杰": [
+      ["刘奇", "acquaintance of x"], 
+      ["张文远", "subordinate of x, friend of x"]
+    ],
+    "刘奇": [
+      ["张文远", "superior of x, acquaintance of x"], 
+      ["韩亦暮", "acquaintance of x"]
+    ],
+    "张文远": [
+      ["刘奇", "subordinate of x, friend of x"], 
+      ["修仁杰", "acquaintance of x"]
+    ],
+    "韩亦暮": [
+      ["刘奇", "acquaintance of x"], 
+      ["张文远", "acquaintance of x"]
+    ],
+    "洪子廉": [
+      ["张文远", "superior of x, acquaintance of x"], 
+      ["刘奇", "subordinate of x, enemy of x"]
+    ],
+    "林若彤": [
+      ["张文远", "acquaintance of x"]
+    ]
+}

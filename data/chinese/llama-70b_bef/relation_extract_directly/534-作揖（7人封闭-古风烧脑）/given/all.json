@@ -1,0 +1,14 @@
+{
+    "李延": [
+      ["李仲", "rival of x"], 
+      ["陈倩", "acquaintance of x, rival of x"]
+    ],
+    "李仲": [
+      ["李延", "rival of x"], 
+      ["陈倩", "rival of x"]
+    ],
+    "陈倩": [
+      ["李延", "acquaintance of x, rival of x"], 
+      ["李仲", "rival of x"]
+    ]
+}

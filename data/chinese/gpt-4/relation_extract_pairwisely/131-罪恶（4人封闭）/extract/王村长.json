@@ -1,0 +1,308 @@
+{
+    "王村长": [
+        [
+            "张村民",
+            "superior of x, acquaintance of x"
+        ],
+        [
+            "王村长的父亲",
+            "father of 王村长, mentor of 王村长"
+        ],
+        [
+            "扶贫组的人",
+            "suspected by, deceiver of, information receiver from, adversary of"
+        ],
+        [
+            "商人",
+            "enemy of x, deceiver of x, informant of x, authority over x"
+        ],
+        [
+            "赵慈善",
+            "perpetrator of x, enemy of x, deceiver of x, murderer of x"
+        ],
+        [
+            "李警察",
+            "suspect to x, subject of investigation for x, potential informer of x"
+        ],
+        [
+            "胡调研",
+            "deceiver of x, informant of x, suspected by x"
+        ],
+        [
+            "赵慈善",
+            "enemy of x, suspect to x, deceiving x, victim of x"
+        ]
+    ],
+    "张村民": [
+        [
+            "王村长",
+            "subordinate of x, acquaintance of x"
+        ],
+        [
+            "王村长的父亲",
+            "acquaintance of x"
+        ],
+        [
+            "扶贫组的人",
+            "stranger to x"
+        ],
+        [
+            "商人",
+            "stranger to x"
+        ],
+        [
+            "慈善家",
+            "stranger to x"
+        ],
+        [
+            "李警察",
+            "stranger to x"
+        ],
+        [
+            "胡调研",
+            "acquaintance of x, information receiver from x"
+        ],
+        [
+            "赵慈善",
+            "stranger to x"
+        ]
+    ],
+    "王村长的父亲": [
+        [
+            "王村长",
+            "child of 王村长的父亲"
+        ],
+        [
+            "张村民",
+            "acquaintance of x"
+        ],
+        [
+            "扶贫组的人",
+            "father of x, possible obstacle to x"
+        ],
+        [
+            "商人",
+            "same person as x (different identity), relative of x"
+        ],
+        [
+            "慈善家",
+            "victim of x"
+        ],
+        [
+            "李警察",
+            "suspected by x"
+        ],
+        [
+            "胡调研",
+            "father of x"
+        ],
+        [
+            "赵慈善",
+            "victim of x"
+        ]
+    ],
+    "扶贫组的人": [
+        [
+            "王村长",
+            "suspect of, deceived by, informant of, adversary of"
+        ],
+        [
+            "张村民",
+            "stranger to x"
+        ],
+        [
+            "王村长的父亲",
+            "child of x, adversary of x"
+        ],
+        [
+            "商人",
+            "stranger to x"
+        ],
+        [
+            "慈善家",
+            "information receiver from x"
+        ],
+        [
+            "李警察",
+            "acquaintance of x, colleague of x"
+        ],
+        [
+            "胡调研",
+            "colleague of x"
+        ],
+        [
+            "赵慈善",
+            "acquaintance of x, guest of x, information receiver from x, suspect to x, victim of x"
+        ]
+    ],
+    "商人": [
+        [
+            "王村长",
+            "victim of x, deceived by x, subordinate of x"
+        ],
+        [
+            "张村民",
+            "stranger to x"
+        ],
+        [
+            "王村长的父亲",
+            "same person as x (different identity), relative of x"
+        ],
+        [
+            "扶贫组的人",
+            "stranger to x"
+        ],
+        [
+            "慈善家",
+            "attempted perpetrator of x, disliked by x, suspected by x"
+        ],
+        [
+            "李警察",
+            "suspect of x"
+        ],
+        [
+            "胡调研",
+            "stranger to x, information receiver from x, victim of x"
+        ],
+        [
+            "赵慈善",
+            "victim of x, deceiver of x, disliked by x"
+        ]
+    ],
+    "赵慈善": [
+        [
+            "王村长",
+            "victim of x, adversary of x, deceived by x"
+        ],
+        [
+            "王村长",
+            "enemy of x, deceived by x, suspect of x, murdered by x"
+        ],
+        [
+            "张村民",
+            "stranger to x"
+        ],
+        [
+            "王村长的父亲",
+            "perpetrator of x"
+        ],
+        [
+            "扶贫组的人",
+            "helper of x, quest companion of x, suspected by x, perpetrator of x"
+        ],
+        [
+            "商人",
+            "perpetrator of x, deceived by x, dislike of x"
+        ],
+        [
+            "慈善家",
+            "deceived by x, killed by x"
+        ],
+        [
+            "李警察",
+            "victim of x"
+        ],
+        [
+            "胡调研",
+            "victim of x, deceived by x"
+        ]
+    ],
+    "李警察": [
+        [
+            "王村长",
+            "informant of x, investigator of x, suspect of x"
+        ],
+        [
+            "张村民",
+            "stranger to x"
+        ],
+        [
+            "王村长的父亲",
+            "subject of investigation for x"
+        ],
+        [
+            "扶贫组的人",
+            "acquaintance of x, colleague of x"
+        ],
+        [
+            "商人",
+            "subject of investigation for x"
+        ],
+        [
+            "慈善家",
+            "suspected by x"
+        ],
+        [
+            "胡调研",
+            "informant of x, subject of investigation for x, suspected by x"
+        ],
+        [
+            "赵慈善",
+            "suspect of x"
+        ]
+    ],
+    "胡调研": [
+        [
+            "王村长",
+            "deceived by x, information receiver from x, suspect of x"
+        ],
+        [
+            "张村民",
+            "acquaintance of x, informant of x"
+        ],
+        [
+            "王村长的父亲",
+            "child of x"
+        ],
+        [
+            "扶贫组的人",
+            "colleague of x"
+        ],
+        [
+            "商人",
+            "stranger to x, suspect of x, deceived by x"
+        ],
+        [
+            "慈善家",
+            "suspected by x, information receiver from x"
+        ],
+        [
+            "李警察",
+            "informant of x, information receiver from x, suspect of x"
+        ],
+        [
+            "赵慈善",
+            "informant of x, information receiver from x"
+        ]
+    ],
+    "慈善家": [
+        [
+            "张村民",
+            "victim of x"
+        ],
+        [
+            "王村长的父亲",
+            "murderer of x"
+        ],
+        [
+            "扶贫组的人",
+            "informant of x, quest companion of x, helper of x"
+        ],
+        [
+            "商人",
+            "victim of x, deceiver of x"
+        ],
+        [
+            "李警察",
+            "victim of x"
+        ],
+        [
+            "胡调研",
+            "victim of x, disliked by x"
+        ],
+        [
+            "赵慈善",
+            "victim of x"
+        ]
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "伊莱恩·卡特尔": [
+      ["德雷克·里莫瑞特", "colleague of x"], 
+      ["护士长科斯塔", "colleague of x, suspect of x, informant of x, acquaintance of x"]
+    ],
+    "依琳·卡特": [
+      ["帕洛斯基医生", "colleague of x"], 
+      ["德雷克·里莫瑞特", "suspect of x, mentor of x, student of x"], 
+      ["汉斯·里莫瑞特", "colleague of x, suspect of x, acquaintance of x, informant of x"]
+    ],
+    "伊莱恩•卡特尔": [
+      ["colleague", "acquaintance of x"], 
+      ["学生", "suspect of x"]
+    ],
+    "帕洛斯基医生": [
+      ["依琳·卡特", "colleague of x"], 
+      ["吉姆梅森", "acquaintance of x"], 
+      ["德雷克·里莫瑞特", "relative of x"], 
+      ["护士长科斯타", "colleague of x"]
+    ],
+    "德雷克·里莫瑞特": [
+      ["伊莱恩·卡特尔", "colleague of x"], 
+      ["依琳·卡特", "suspect of x, mentor of x, student of x"], 
+      ["帕洛斯基医生", "relative of x"], 
+      ["院长伯克利", "colleague of x, mentor of x, teacher of x, informant of x, acquaintance of x"]
+    ],
+    "护士长科斯塔": [
+      ["伊莱恩·卡特尔", "colleague of x, suspect of x, informant of x, acquaintance of x"]
+    ],
+    "汉斯•里莫瑞特": [
+      ["上司", "suspect of x"]
+    ],
+    "院长伯克利": [
+      ["德雷克·里莫瑞特", "subordinate of x, employee of x, servant of x, colleague of x, business partner of x"]
+    ],
+    "吉姆梅森": [
+      ["帕洛斯基医生", "acquaintance of x"], 
+      ["汉斯·里莫瑞特", "acquaintance of x"]
+    ],
+    "护士长科斯타": [
+      ["帕洛斯基医生", "colleague of x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["依琳·卡特", "colleague of x, suspect of x, acquaintance of x"], 
+      ["吉姆梅森", "acquaintance of x"]
+    ]
+}

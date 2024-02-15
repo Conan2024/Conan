@@ -1,0 +1,128 @@
+{
+    "盖尔•里莫瑞特": [
+        [
+            "汉斯•里莫瑞特医生",
+            "murderer of x, wife of x"
+        ],
+        [
+            "德雷克•里莫瑞特",
+            "sibling of x, extramarital affair with x"
+        ],
+        [
+            "盖尔的父亲",
+            "father of x"
+        ],
+        [
+            "科斯塔护士长",
+            "helper of x, helped by x"
+        ],
+        [
+            "吉姆•梅森",
+            "lawyer of x, suspected by x"
+        ],
+        [
+            "伊莱恩•卡特尔",
+            "acquaintance of x"
+        ],
+        [
+            "约翰逊",
+            "friend of x, host of x"
+        ],
+        [
+            "詹姆斯•菜利",
+            "helped by x, informant of x, informant of x"
+        ]
+    ],
+    "汉斯•里莫瑞特医生": [
+        [
+            "盖尔•里莫瑞特",
+            "victim of x, husband of x"
+        ],
+        [
+            "德雷克•里莫瑞特",
+            "same person as x (different identity)"
+        ],
+        [
+            "科斯塔护士长",
+            "colleague of x"
+        ],
+        [
+            "罗伯特•凯西",
+            "patient of x"
+        ],
+        [
+            "吉姆•梅森",
+            "in the lawsuit against x, doctor of x"
+        ],
+        [
+            "约翰逊",
+            "friend of x"
+        ]
+    ],
+    "德雷克•里莫瑞特": [
+        [
+            "盖尔•里莫瑞特",
+            "husband of x, extramarital affair with x"
+        ],
+        [
+            "汉斯•里莫瑞特医生",
+            "same person as x (different identity), sibling of x"
+        ]
+    ],
+    "科斯塔护士长": [
+        [
+            "盖尔•里莫瑞特",
+            "helper of x"
+        ],
+        [
+            "汉斯•里莫瑞特医生",
+            "colleague of x"
+        ],
+        [
+            "罗伯特•凯西",
+            "service provider of x"
+        ]
+    ],
+    "罗伯特•凯西": [
+        [
+            "汉斯•里莫瑞特医生",
+            "doctor of x"
+        ],
+        [
+            "科斯塔护士长",
+            "patient of x"
+        ]
+    ],
+    "吉姆•梅森": [
+        [
+            "盖尔•里莫瑞特",
+            "in the lawsuit against x"
+        ],
+        [
+            "汉斯•里莫瑞特医生",
+            "in the lawsuit against x"
+        ]
+    ],
+    "伊莱恩•卡特尔": [
+        [
+            "盖尔•里莫瑞特",
+            "acquaintance of x"
+        ]
+    ],
+    "约翰逊": [
+        [
+            "盖尔•里莫瑞特",
+            "friend of x, host of x"
+        ],
+        [
+            "汉斯•里莫瑞特医生",
+            "friend of x"
+        ]
+    ],
+    "詹姆斯•菜利": [
+        [
+            "盖尔•里莫瑞特",
+            "service provider of x, customer of x"
+        ]
+    ]
+}

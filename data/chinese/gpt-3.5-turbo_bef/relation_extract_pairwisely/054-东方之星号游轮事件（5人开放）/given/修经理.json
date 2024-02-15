@@ -1,0 +1,42 @@
+{
+    "修仁杰 (酒吧经理)": [
+      ["刘奇 (大副)", "friend of x"], 
+      ["洪子廉 (船长)", "acquaintance of x"], 
+      ["韩亦暮 (乘务)", "romantic relationships with x"], 
+      ["张文远 (二副)", "friend of x"]
+    ],
+    "刘奇 (大副)": [
+      ["修仁杰 (酒吧经理)", "business partner of x"], 
+      ["洪子廉 (船长)", "friend of x"], 
+      ["韩亦暮 (乘务)", "ex romantic relationships with x"], 
+      ["林若彤 (歌手)", "romantic relationships with x"], 
+      ["张文远 (二副)", "romantic relationships with x"]
+    ],
+    "洪子廉 (船长)": [
+      ["修仁杰 (酒吧经理)", "acquaintance of x"], 
+      ["刘奇 (大副)", "friend of x"], 
+      ["韩亦暮 (乘务)", "romantic relationships with x"], 
+      ["林若彤 (歌手)", "fondness of x, employer of x"], 
+      ["张文远 (二副)", "subordinate of x"]
+    ],
+    "韩亦暮 (乘务)": [
+      ["修仁杰 (酒吧经理)", "extramarital affair with x"], 
+      ["刘奇 (大副)", "romantic relationships with x"], 
+      ["洪子廉 (船长)", "romantic relationships with x"], 
+      ["林若彤 (歌手)", "admirer of x, admired by x"], 
+      ["张文远 (二副)", "friend of x, helper of x"]
+    ],
+    "林若彤 (歌手)": [
+      ["刘奇 (大副)", "romantic relationships with x"], 
+      ["洪子廉 (船长)", "employee of x"], 
+      ["韩亦暮 (乘务)", "admirer of x, admired by x"], 
+      ["张文远 (二副)", "superior of x"]
+    ],
+    "张文远 (二副)": [
+      ["修仁杰 (酒吧经理)", "friend of x"], 
+      ["刘奇 (大副)", "romantic relationships with x"], 
+      ["洪子廉 (船长)", "superior of x"], 
+      ["韩亦暮 (乘务)", "friend of x"], 
+      ["林若彤 (歌手)", "employee of x"]
+    ]
+}

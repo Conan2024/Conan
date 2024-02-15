@@ -1,0 +1,57 @@
+{
+    "林若彤": [
+      ["刘奇", "romantic relationship of x, acquaintance of x"], 
+      ["洪子廉", "romantic relationship of x, secret relationship of x"], 
+      ["张文远", "acquaintance of x, colleague of x"], 
+      ["韩亦暮", "rival of x, enemy of x"], 
+      ["修仁杰", "秘密 paramour of x, bully of x"], 
+      ["案发情形", "romantic relationship with 洪子廉 of x, acquaintance of x 刘奇, suspect of x"]
+    ],
+    "刘奇": [
+      ["林若彤", "romantic relationship of x, persistent suitor of x"], 
+      ["洪子廉", "boyfriend of x, secret lover of x"], 
+      ["张文远", "acquaintance of x, co worker of x"], 
+      ["修仁杰", "relationship 1: superior subordinate of x, relationship 2: friend of x"], 
+      ["案发情形", "romantic relationship of x"]
+    ],
+    "洪子廉": [
+      ["林若彤", "romantic relationship of x, secret relationship of x"], 
+      ["刘奇", "girlfriend of x, secret lover of x"], 
+      ["张文远", "boyfriend of x, secret lover of x"], 
+      ["韩亦暮", "boyfriend of x, suspect of x"], 
+      ["修仁杰", "boyfriend of x, secret lover of x"], 
+      ["案发情形", "romantic relationship of x"]
+    ],
+    "张文远": [
+      ["林若彤", "acquaintance of x, colleague of x"], 
+      ["刘奇", "acquaintance of x, co worker of x"], 
+      ["洪子廉", "girlfriend of x, secret lover of x"], 
+      ["韩亦暮", "acquaintance of x, helper of x"], 
+      ["修仁杰", "colleague of x, friend of x"], 
+      ["案发情形", "accoyntance of x, helper of x"]
+    ],
+    "韩亦暮": [
+      ["林若彤", "rival of x, enemy of x"], 
+      ["刘奇", "ex romantic relationships, stranger to x"], 
+      ["洪子廉", "boyfriend of x, suspect of x"], 
+      ["张文远", "acquaintance of x, helped of x"], 
+      ["修仁杰", "subordinate of x, colleague of x"], 
+      ["案发情形", "对手 of x, 敌人 of x"]
+    ],
+    "修仁杰": [
+      ["林若彤", "秘密 paramour of x, victim of x"], 
+      ["刘奇", "relationship 1: superior subordinate of x, relationship 2: friend of x"], 
+      ["洪子廉", "girlfriend of x, secret lover of x"], 
+      ["张文远", "colleague of x, friend of x"], 
+      ["韩亦暮", "supervisor of x, acquaintance of x"], 
+      ["案发情形", "employer of x, master of x, superior of x"]
+    ],
+    "案发情形": [
+      ["林若彤", "romantic relationship with 洪子廉 of x, acquaintance of x 刘奇, murderer of x"], 
+      ["刘奇", "romantic relationship of x, perpetrator of x"], 
+      ["洪子廉", "romantic relationship of x"], 
+      ["张文远", "accoyntance of x, helper of x"], 
+      ["韩亦暮", "林 пес手 of x, 刘奇 of x"], 
+      ["修仁杰", "employer of x, master of x, superior of x"]
+    ]
+}

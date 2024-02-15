@@ -1,0 +1,71 @@
+{
+    "罗有诺": [
+      ["罗万利", "father of x"], 
+      ["雪嫣", "same person as x (different identity)"], 
+      ["阮太太", "helped by x, superior of x, informant of x"], 
+      ["望娣", "lover of x, neighbour of x, secret lover of x"], 
+      ["招楠", "acquaintance of x"], 
+      ["贵郎", "student of x, relative of x"], 
+      ["雪嫣", "same person as x (different identity)"], 
+      ["孙氏", "mother of x"], 
+      ["舞蹈老师", "acquaintance of x"], 
+      ["齐故飞", "guest of x"], 
+      ["黑莉", "acquaintance of x"]
+    ],
+    "罗万利": [
+      ["罗有诺", "child of x"], 
+      ["雪嫣", "child of x"], 
+      ["孙氏", "husband of x"]
+    ],
+    "雪嫣": [
+      ["罗有诺", "same person as x (different identity)"], 
+      ["罗万利", "father of x"], 
+      ["孙氏", "mother of x"], 
+      ["贵郎", "acquaintance of x"]
+    ],
+    "阮太太": [
+      ["望娣", "mother of x"], 
+      ["招楠", "mother of x"], 
+      ["贵郎", "mother of x"], 
+      ["罗有诺", "landlord of x, information receiver from x"], 
+      ["雪嫣", "landlord of x"]
+    ],
+    "望娣": [
+      ["阮太太", "child of x"], 
+      ["招楠", "same person as x (different identity)"], 
+      ["贵郎", "same person as x (different identity)"], 
+      ["罗有诺", "lover of x, secret lover of x"], 
+      ["黑莉", "neighbour of x"]
+    ],
+    "招楠": [
+      ["阮太太", "child of x"], 
+      ["望娣", "same person as x (different identity)"], 
+      ["贵郎", "same person as x (different identity)"], 
+      ["罗有诺", "neighbour of x"]
+    ],
+    "贵郎": [
+      ["阮太太", "child of x"], 
+      ["招楠", "same person as x (different identity)"], 
+      ["望娣", "same person as x (different identity)"], 
+      ["罗有诺", "student of x"], 
+      ["雪嫣", "acquaintance of x"]
+    ],
+    "孙氏": [
+      ["罗有诺", "mother of x"], 
+      ["雪嫣", "mother of x"], 
+      ["罗万利", "wife of x"]
+    ],
+    "舞蹈老师": [
+      ["罗有诺", "acquaintance of x"], 
+      ["招楠", "teacher of x"]
+    ],
+    "齐故飞": [
+      ["罗有诺", "guest of x"], 
+      ["黑莉", "friend of x"], 
+      ["舞蹈老师", "student of x"]
+    ],
+    "黑莉": [
+      ["齐故飞", "friend of x"], 
+      ["罗有诺", "acquaintance of x"]
+    ]
+}

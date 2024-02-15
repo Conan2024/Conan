@@ -1,0 +1,53 @@
+{
+    "尹少鳴": [
+      ["虞北辰", "father of x"], 
+      ["任（尹少鳴的母亲姓氏）", "mother of x"], 
+      ["外公", "grandfather of x"], 
+      ["赵洛意", "saviour of x, romantic relationships with x, liked by x"], 
+      ["赵万雷", "acquaintance of x"], 
+      ["冯双骥", "suspect to x, acquaintance of x"], 
+      ["郭望山", "acquaintance of x"], 
+      ["赵秋儿", "acquaintance of x"], 
+      ["齐岳", "acquaintance of x"]
+    ],
+    "虞北辰": [
+      ["尹少鳴", "child of x"], 
+      ["任（尹少鳴的母亲姓氏）", "wife of x"]
+    ],
+    "任（尹少鳴的母亲姓氏）": [
+      ["虞北辰", "husband of x"]
+    ],
+    "外公": [
+      ["尹少鳴", "grandchild of x"]
+    ],
+    "赵洛意": [
+      ["尹少鳴", "saved by x, romantic relationships with x, admirer of x"], 
+      ["赵万雷", "child of x"], 
+      ["冯双骥", "subordinate of x"], 
+      ["赵秋儿", "sibling of x"]
+    ],
+    "赵万雷": [
+      ["赵洛意", "father of x"], 
+      ["赵秋儿", "father of x"], 
+      ["冯双骥", "employer of x"], 
+      ["尹少鳴", "acquaintance of x"]
+    ],
+    "冯双骥": [
+      ["赵洛意", "subordinate of x"], 
+      ["赵万雷", "employee of x"], 
+      ["尹少鳴", "suspect of x, deceiver of x"], 
+      ["赵秋儿", "subordinate of x"]
+    ],
+    "郭望山": [
+      ["尹少鳴", "acquaintance of x"]
+    ],
+    "赵秋儿": [
+      ["赵洛意", "sibling of x"], 
+      ["赵万雷", "child of x"], 
+      ["冯双骥", "subordinate of x"], 
+      ["尹少鳴", "acquaintance of x"]
+    ],
+    "齐岳": [
+      ["尹少鳴", "acquaintance of x"]
+    ]
+}

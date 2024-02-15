@@ -1,0 +1,77 @@
+{
+    "林校花": [
+      ["父亲", "parent of x"], 
+      ["表姐", "sibling of x"], 
+      ["赵帅哥", "romantic relationships with of x"], 
+      ["闺蜜郝闺蜜", "friend of x"], 
+      ["张恶霸", "fiance of x"], 
+      ["王学习", "acquaintance of x"], 
+      ["李小弟", "acquaintance of x"], 
+      ["校长像", "acquaintance of x"]
+    ],
+    "你": [
+      ["父亲", "child of x"], 
+      ["母亲", "child of x"], 
+      ["闺蜜郝闺蜜", "friend of x"], 
+      ["林校花", "friend of x"], 
+      ["张恶霸", "friend of x"], 
+      ["赵帅哥", "romantic relationships with of x"]
+    ],
+    "表哥": [
+      ["林校花", "sibling of x"]
+    ],
+    "校草李大哥": [
+      ["赵帅哥", "fiance of x"]
+    ],
+    "赵帅哥": [
+      ["林校花", "romantic relationships with of x"], 
+      ["校草李大哥", "fiance of x"], 
+      ["你", "romantic relationships with of x"], 
+      ["闺蜜郝闺蜜", "acquaintance of x"]
+    ],
+    "郝闺蜜": [
+      ["你", "friend of x"], 
+      ["林校花", "friend of x"], 
+      ["赵帅哥", "acquaintance of x"], 
+      ["张恶霸", "acquaintance of x"], 
+      ["王学习", "acquaintance of x"], 
+      ["校长像", "acquaintance of x"]
+    ],
+    "王学习": [
+      ["林校花", "acquaintance of x"], 
+      ["郝闺蜜", "acquaintance of x"], 
+      ["张恶霸", "acquaintance of x"], 
+      ["李小弟", "acquaintance of x"]
+    ],
+    "妈妈": [
+      ["你", "parent of x"]
+    ],
+    "爸爸": [
+      ["你", "parent of x"]
+    ],
+    "李大哥": [
+      ["校草李大哥", "romantic relationships with of x"]
+    ],
+    "张恶霸": [
+      ["林校花", "fiance of x"], 
+      ["你", "friend of x"], 
+      ["赵帅哥", "fiance of x"], 
+      ["郝闺蜜", "acquaintance of x"], 
+      ["王学习", "acquaintance of x"]
+    ],
+    "表姐": [
+      ["林校花", "sibling of x"]
+    ],
+    "父亲": [
+      ["林校花", "parent of x"], 
+      ["你", "parent of x"]
+    ],
+    "李小弟": [
+      ["你", "acquaintance of x"], 
+      ["王学习", "acquaintance of x"]
+    ],
+    "校长像": [
+      ["林校花", "acquaintance of x"], 
+      ["郝闺蜜", "acquaintance of x"]
+    ]
+}

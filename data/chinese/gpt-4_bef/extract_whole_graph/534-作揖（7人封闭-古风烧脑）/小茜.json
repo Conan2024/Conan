@@ -1,0 +1,83 @@
+{
+    "小茜": [
+      ["方柳", "same person as x (different identity)"], 
+      ["方叶", "father of x"], 
+      ["奶奶 (小茜的)", "grandmother of x"], 
+      ["方絮", "aunt of x"], 
+      ["方眠", "aunt of x"], 
+      ["李府李王爷", "enemy of x"], 
+      ["方竹", "acquaintance of x"], 
+      ["草藤居士", "adoptive father of x"], 
+      ["陈倩", "friend of x"], 
+      ["李延", "romantic relationships with x"], 
+      ["李钦仁", "perpetrator of x, victim of x"], 
+      ["陈府", "guest of x"], 
+      ["李府", "enemy of x"], 
+      ["陈孜靖", "host of x"]
+    ],
+    "方叶": [
+      ["小茜", "child of x"], 
+      ["方府孙女", "daughter of x"], 
+      ["方絮", "sibling of x"], 
+      ["方眠", "sibling of x"], 
+      ["方竹", "acquaintance of x"], 
+      ["李钦仁", "victim of x"], 
+      ["李府李钦仁", "suspect of x"]
+    ],
+    "奶奶 (小茜的)": [
+      ["小茜", "grandchild of x"]
+    ],
+    "方絮": [
+      ["小茜", "niece of x"], 
+      ["方叶", "sibling of x"], 
+      ["方眠", "sibling of x"]
+    ],
+    "方眠": [
+      ["小茜", "niece of x"], 
+      ["方叶", "sibling of x"], 
+      ["方絮", "sibling of x"]
+    ],
+    "方竹": [
+      ["方叶", "informant of x"], 
+      ["小茜", "acquaintance of x"]
+    ],
+    "草藤居士": [
+      ["小茜", "adoptive father of x"]
+    ],
+    "陈倩": [
+      ["小茜", "friend of x"], 
+      ["陈府", "daughter of x"]
+    ],
+    "李延": [
+      ["小茜", "romantic relationships with x, deceived by x"]
+    ],
+    "李仲": [
+      ["李府", "son of x"], 
+      ["陈倩", "fiance of x"]
+    ],
+    "李钦仁": [
+      ["方府孙女", "perpetrator of x"], 
+      ["方叶", "suspected by x"], 
+      ["小茜", "perpetrator of x, victim of x"], 
+      ["李王爷", "same person as x (different reference)"], 
+      ["李延", "father of x"], 
+      ["李府", "master of x"]
+    ],
+    "李王爷": [
+      ["李钦仁", "same person as x (different reference)"], 
+      ["小茜", "enemy of x"]
+    ],
+    "陈孜靖": [
+      ["陈倩", "father of x"]
+    ],
+    "陈府": [
+      ["陈倩", "daughter of x"], 
+      ["小茜", "guest of x"], 
+      ["李仲", "son in law of x"]
+    ],
+    "李府": [
+      ["李钦仁", "master of x"], 
+      ["李延", "son of x"], 
+      ["李仲", "son of x"]
+    ]
+}

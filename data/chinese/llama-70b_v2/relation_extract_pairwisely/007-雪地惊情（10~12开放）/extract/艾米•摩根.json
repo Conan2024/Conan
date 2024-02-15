@@ -1,0 +1,38 @@
+{
+    "艾米•摩根": [
+      ["哈罗德•哈里森", "玛丽娜•哈里森 of x, 露西•哈里森 of x, 麦克斯•派克 of x, 艾莱克斯•哈维 of x"], 
+      ["玛丽娜•哈里森", "朋友 of x, 邻居 of x, 同事 of x, 知彼 of x"], 
+      ["露西•哈里森", "姐妹 of x, 弟妹 of x, 亲密朋友 of x, 同事 of x, 邻居 of x"], 
+      ["麦克斯•派克", "friend of x, mentor of x, colleague of x, customer of x, neighbor of x"], 
+      ["艾莱克斯•哈维", "弟弟 of x, 最近的朋友 of x"]
+    ],
+    "哈罗德•哈里森": [
+      ["艾米•摩根", "玛丽娜•哈里森 of x, 露西•哈里森 of x, 麦克斯•派克 of x"], 
+      ["玛丽娜•哈里森", "兄弟 of x, closest friend of x"], 
+      ["露西•哈里森", "brother in law and sister in law of x"], 
+      ["艾莱克斯•哈维", "兄弟 of x, closest friend of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["艾米•摩根", "朋友 of x, 邻居 of x, 同事 of x, 知彼 of x"], 
+      ["哈罗德•哈里森", "姐妹 of x, nemesis of x"], 
+      ["麦克斯•派克", "rivals of x"]
+    ],
+    "露西•哈里森": [
+      ["艾米•摩根", "姐妹 of x, 弟妹 of x, 亲密朋友 of x, 同事 of x, 邻居 of x"], 
+      ["哈罗德•哈里森", "sister in law and brother in law of x"], 
+      ["麦克斯•派克", "friendship of x, suspicion of x, rivalry of x, attraction of x"], 
+      ["艾莱克斯•哈维", "friend of x, confidant of x, romantic partner of x"]
+    ],
+    "麦克斯•派克": [
+      ["艾米•摩根", "friend of x, mentor of x, colleague of x, customer of x, neighbor of x"], 
+      ["玛丽娜•哈里森", "rivals of x"], 
+      ["露西•哈里森", "friendship of x, suspicion of x, rivalry of x, attraction of x"], 
+      ["艾莱克斯•哈维", "acquaintance of x, suspect of x"]
+    ],
+    "艾莱克斯•哈维": [
+      ["艾米•摩根", "朋友 of x, 借款人 of x"], 
+      ["哈罗德•哈里森", "姐妹 of x, closest friend of x"], 
+      ["露西•哈里森", "friend of x, confidant of x, romantic partner of x"], 
+      ["麦克斯•派克", "acquaintance of x, borrower of x"]
+    ]
+}

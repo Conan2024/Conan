@@ -1,0 +1,125 @@
+{
+    "孙清洁": [
+        [
+            "李保安",
+            "friend",
+            "colleague",
+            "superior",
+            "subordinate",
+            "acquaintance",
+            "manipulator",
+            "enemy",
+            "rival",
+            "helper",
+            "informant"
+        ],
+        [
+            "田助理",
+            "rival"
+        ],
+        [
+            "秦鸥",
+            "关系 1",
+            "关系 2"
+        ],
+        [
+            "贾教授",
+            "friend, colleague"
+        ]
+    ],
+    "李保安": [
+        [
+            "孙清洁",
+            "friend",
+            "colleague",
+            "superior",
+            "subordinate",
+            "acquaintance",
+            "manipulator",
+            "enemy",
+            "rival",
+            "helper",
+            "informant"
+        ],
+        [
+            "田助理",
+            "coworker",
+            "blackmailer"
+        ],
+        [
+            "秦鸥",
+            "acquaintance",
+            "colleague",
+            "helpful",
+            "personal"
+        ],
+        [
+            "贾教授",
+            "coworker",
+            "rival",
+            "victim-perpetrator"
+        ]
+    ],
+    "田助理": [
+        [
+            "孙清洁",
+            "subordinate",
+            "bully"
+        ],
+        [
+            "李保安",
+            "superior",
+            "inappropriate behavior"
+        ],
+        [
+            "秦鸥",
+            "bully"
+        ],
+        [
+            "贾教授",
+            "bully"
+        ]
+    ],
+    "秦鸥": [
+        [
+            "孙清洁",
+            "关系 1",
+            "关系 2"
+        ],
+        [
+            "李保安",
+            "acquaintance",
+            "colleague",
+            "helpful",
+            "personal"
+        ],
+        [
+            "田助理",
+            "victim"
+        ],
+        [
+            "贾教授",
+            "敵對者"
+        ]
+    ],
+    "贾教授": [
+        [
+            "孙清洁",
+            "friend, colleague"
+        ],
+        [
+            "李保安",
+            "coworker",
+            "rival",
+            "perpetrator"
+        ],
+        [
+            "田助理",
+            "bully"
+        ],
+        [
+            "秦鸥",
+            "敵對者"
+        ]
+    ]
+}

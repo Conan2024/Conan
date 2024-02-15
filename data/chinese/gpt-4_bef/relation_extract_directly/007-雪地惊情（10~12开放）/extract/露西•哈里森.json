@@ -1,0 +1,74 @@
+{
+    "露西•哈里森": [
+      ["妈妈（未具名）", "mother of x"], 
+      ["小姨杰奎琳", "aunt of x"], 
+      ["乔纳森", "romantic relationships with x, cousin of x"], 
+      ["父亲（未具名）", "father of x"], 
+      ["艾莱克斯", "acquaintance of x"], 
+      ["姑父约翰•摩根", "uncle of x"], 
+      ["哈罗德•哈里森", "father of x"], 
+      ["玛丽娜•哈里森", "mother of x"], 
+      ["艾米•摩根", "acquaintance of x"]
+    ],
+    "妈妈（未具名）": [
+      ["露西•哈里森", "child of x"], 
+      ["小姨杰奎琳", "sister of x, business partner of x"], 
+      ["父亲（未具名）", "husband of x"], 
+      ["艾莱克斯", "cousin of x"], 
+      ["姑父约翰•摩根", "brother in law of x"], 
+      ["哈罗德•哈里森", "husband of x"], 
+      ["玛丽娜•哈里森", "same person as x (different reference)"]
+    ],
+    "小姨杰奎琳": [
+      ["露西•哈里森", "niece of x"], 
+      ["妈妈（未具名）", "sister of x, business partner of x"], 
+      ["乔纳森", "child of x"], 
+      ["丹尼尔•佩里", "husband of x"], 
+      ["戴维斯•佩里", "brother in law of x"]
+    ],
+    "乔纳森": [
+      ["露西•哈里森", "romantic relationships with x, cousin of x"], 
+      ["小姨杰奎琳", "mother of x"], 
+      ["丹尼尔•佩里", "father of x"], 
+      ["戴维斯•佩里", "uncle of x"], 
+      ["艾米•摩根", "cousin of x"]
+    ],
+    "父亲（未具名）": [
+      ["露西•哈里森", "child of x"], 
+      ["妈妈（未具名）", "wife of x"], 
+      ["哈罗德•哈里森", "same person as x (different reference)"], 
+      ["玛丽娜•哈里森", "wife of x"]
+    ],
+    "艾莱克斯": [
+      ["露西•哈里森", "acquaintance of x"], 
+      ["妈妈（未具名）", "cousin of x"]
+    ],
+    "姑父约翰•摩根": [
+      ["露西•哈里森", "uncle of x"]
+    ],
+    "哈罗德•哈里森": [
+      ["露西•哈里森", "father of x"], 
+      ["妈妈（未具名）", "husband of x"], 
+      ["玛丽娜•哈里森", "same person as x (different reference)"]
+    ],
+    "玛丽娜•哈里森": [
+      ["露西•哈里森", "mother of x"], 
+      ["妈妈（未具名）", "same person as x (different reference)"], 
+      ["父亲（未具名）", "husband of x"], 
+      ["哈罗德•哈里森", "husband of x"]
+    ],
+    "丹尼尔•佩里": [
+      ["小姨杰奎琳", "wife of x"], 
+      ["乔纳森", "child of x"], 
+      ["戴维斯•佩里", "brother of x"]
+    ],
+    "戴维斯•佩里": [
+      ["小姨杰奎琳", "sister in law of x"], 
+      ["乔纳森", "nephew of x"], 
+      ["丹尼尔•佩里", "brother of x"]
+    ],
+    "艾米•摩根": [
+      ["露西•哈里森", "acquaintance of x"], 
+      ["乔纳森", "cousin of x"]
+    ]
+}

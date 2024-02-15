@@ -1,0 +1,32 @@
+{
+    "忘忧": [
+      ["杜仲", "sworn brother of x, quest companion of x, information receiver from x"], 
+      ["玄参", "sworn brother of x, friend of x"], 
+      ["杜仲的孩子", "quest companion of x, seeker of x help from x, helper of x"], 
+      ["红花夫人", "information receiver from x, quest companion of x"]
+    ],
+    "杜仲": [
+      ["忘忧", "sworn brother of x, quest giver to x, informant of x"], 
+      ["玄参", "sworn brother of x"], 
+      ["杜仲的孩子", "father of x"], 
+      ["红花夫人", "romantic relationships with x, child of x"]
+    ],
+    "玄参": [
+      ["忘忧", "sworn brother of x, friend of x"], 
+      ["杜仲", "sworn brother of x"], 
+      ["杜仲的孩子", "sworn brother of x's child"], 
+      ["红花夫人", "acquaintance of x"]
+    ],
+    "杜仲的孩子": [
+      ["忘忧", "information receiver from x, helped by x"], 
+      ["杜仲", "child of x"], 
+      ["玄参", "child of x's sworn brother"], 
+      ["红花夫人", "child of x, mother of x"]
+    ],
+    "红花夫人": [
+      ["忘忧", "information provider to x"], 
+      ["杜仲", "romantic relationships with x, mother of x"], 
+      ["玄参", "acquaintance of x"], 
+      ["杜仲的孩子", "mother of x, child of x"]
+    ]
+}

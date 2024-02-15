@@ -1,0 +1,76 @@
+{
+    "池碧霄": [
+        [
+            "父母",
+            "father of x, mother of x"
+        ],
+        [
+            "吴经纶",
+            "childhood friend of x, disliked by x, used by x"
+        ],
+        [
+            "顾何琼",
+            "roommate of x, friend of x, manipulated by x"
+        ],
+        [
+            "杜宏博",
+            "informant of x, manipulated by x, adversary of x, victim of x"
+        ],
+        [
+            "翟良工",
+            "acquaintance of x"
+        ]
+    ],
+    "顾何琼": [
+        [
+            "池碧霄",
+            "roommate of x, friend of x, manipulated by x, deceived by x"
+        ],
+        [
+            "吴经纶",
+            "ex-boyfriend of x"
+        ],
+        [
+            "杜宏博",
+            "victim of x, manipulated by x"
+        ]
+    ],
+    "吴经纶": [
+        [
+            "池碧霄",
+            "childhood friend of x, admirer of x, used by x, manipulated by x"
+        ],
+        [
+            "顾何琼",
+            "ex-boyfriend of x"
+        ],
+        [
+            "翟良工",
+            "roommate of x, acquaintance of x"
+        ]
+    ],
+    "翟良工": [
+        [
+            "池碧霄",
+            "acquaintance of x"
+        ],
+        [
+            "吴经纶",
+            "roommate of x"
+        ],
+        [
+            "顾何琼",
+            "stranger to x"
+        ]
+    ],
+    "杜宏博": [
+        [
+            "池碧霄",
+            "blackmailed by x, perpetrator to x, deceived by x, killed by x"
+        ],
+        [
+            "顾何琼",
+            "perpetrator of x, manipulator of x"
+        ]
+    ]
+}

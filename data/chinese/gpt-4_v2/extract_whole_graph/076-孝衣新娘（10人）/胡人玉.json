@@ -1,0 +1,52 @@
+{
+    "范金魁": [
+      ["胡人玉", "same person as x (different identity)"], 
+      ["金胡子", "same person as x (different identity)"], 
+      ["田红娇", "ex fiancee of x"], 
+      ["李宽生", "friend of x"], 
+      ["李广生", "friend of x"], 
+      ["方乘山", "employer of x"], 
+      ["杜老总管", "employer of x"], 
+      ["虞北辰", "acquaintance of x"], 
+      ["杜辉信", "enemy of x, victim of x"], 
+      ["姚长寿", "adversary of x, suspected by x"], 
+      ["苏州女孩", "admired by x, helped by x"], 
+      ["白头蛇", "business partner of x"]
+    ],
+    "胡人玉": [
+      ["范金魁", "same person as x (different reference)"], 
+      ["金胡子", "same person as x (different reference)"], 
+      ["姚长寿", "possible business partner of x"], 
+      ["苏州女孩", "secret admirer of x"]
+    ],
+    "金胡子": [
+      ["范金魁", "same person as x (different reference)"], 
+      ["胡人玉", "same person as x (different reference)"], 
+      ["白头蛇", "business partner of x"]
+    ],
+    "田红娇": [
+      ["范金魁", "ex fiancee of x"], 
+      ["姚长寿", "husband of x"], 
+      ["方乘山", "niece of x"]
+    ],
+    "杜辉信": [
+      ["范金魁", "victim of x, enemy of x"]
+    ],
+    "姚长寿": [
+      ["范金魁", "adversary of x, suspected by x"], 
+      ["胡人玉", "acquaintance of x, possible business partner of x"], 
+      ["田红娇", "husband of x"]
+    ],
+    "苏州女孩": [
+      ["范金魁", "admired by x, helped by x"], 
+      ["胡人玉", "secret admirer of x"]
+    ],
+    "白头蛇": [
+      ["范金魁", "business partner of x"], 
+      ["金胡子", "business partner of x"]
+    ],
+    "方乘山": [
+      ["范金魁", "employer of x"], 
+      ["田红娇", "uncle of x"]
+    ]
+}

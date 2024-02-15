@@ -1,0 +1,69 @@
+{
+    "段约同": [
+      ["白常恭", "adoptive father of x"], 
+      ["段和君", "mother of x"], 
+      ["岳客沙", "friend of x"], 
+      ["安琪 (兰秦)", "girlfriend of x, childhood friend of x"], 
+      ["易阿姨", "mother's friend of x, money lender to x's adoptive father"], 
+      ["李子材", "possible biological father of x"], 
+      ["吴百安", "investigation subject for x"], 
+      ["宇祖成木", "acquaintance of x, linked_character of x"], 
+      ["夏三虎", "linked_character of x"], 
+      ["夏伯龙", "linked_character of x"], 
+      ["夏仲鹏", "linked_character of x"]
+    ],
+    "白常恭": [
+      ["段约同", "adoptive son of x"], 
+      ["段和君", "husband of x"], 
+      ["易阿姨", "debtor of x"]
+    ],
+    "段和君": [
+      ["段约同", "child of x"], 
+      ["白常恭", "wife of x"]
+    ],
+    "岳客沙": [
+      ["段约同", "big brother figure to x, helper of x"], 
+      ["岳东汶", "son of x"]
+    ],
+    "安琪 (兰秦)": [
+      ["段约同", "girlfriend of x, childhood friend of x"], 
+      ["易阿姨", "daughter of x"]
+    ],
+    "易阿姨": [
+      ["安琪 (兰秦)", "mother of x"], 
+      ["段约同", "son's childhood friend's mother of x"], 
+      ["白常恭", "creditor of x"]
+    ],
+    "李子材": [
+      ["段约同", "possible biological father of x"]
+    ],
+    "吴百安": [
+      ["段约同", "victim of x"], 
+      ["吴笑", "father of x"], 
+      ["岳客沙", "employee of x's father"], 
+      ["宇祖成木", "acquaintance of x, classmate of x's suspected biological father"]
+    ],
+    "宇祖成木": [
+      ["段约同", "acquaintance of x, provided information to x"], 
+      ["吴百安", "acquaintance of x's victim, linked_character of x"]
+    ],
+    "夏三虎": [
+      ["段约同", "linked_character of x"], 
+      ["夏伯龙", "younger brother of x"], 
+      ["夏仲鹏", "older brother of x"]
+    ],
+    "夏伯龙": [
+      ["夏三虎", "older brother of x"], 
+      ["夏仲鹏", "older brother of x"]
+    ],
+    "夏仲鹏": [
+      ["夏三虎", "younger brother of x"], 
+      ["夏伯龙", "younger brother of x"]
+    ],
+    "吴笑": [
+      ["吴百安", "son of x"]
+    ],
+    "岳东汶": [
+      ["岳客沙", "father of x"]
+    ]
+}

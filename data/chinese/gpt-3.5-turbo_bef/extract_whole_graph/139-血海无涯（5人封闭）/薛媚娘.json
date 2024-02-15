@@ -1,0 +1,65 @@
+{
+    "薛媚娘": [
+      ["萧体育", "lover of x, boyfriend of x"], 
+      ["秦老大", "romantic relationships with x"], 
+      ["贾美丽", "informant of x, manipulated by x"], 
+      ["秦专家", "admired by x, manipulated by x"], 
+      ["庄清纯", "classmate of x"], 
+      ["中年女人", "saved by x"], 
+      ["秦夫人", "secret lover of x"], 
+      ["小混混", "manipulated by x"], 
+      ["警察", "information receiver from x"]
+    ],
+    "贾美丽": [
+      ["薛媚娘", "informant of x, manipulated by x"], 
+      ["庄清纯", "classmate of x"], 
+      ["小混混", "manipulated by x"], 
+      ["秦专家", "adversary of x"], 
+      ["警察", "information receiver from x"]
+    ],
+    "萧体育": [
+      ["薛媚娘", "lover of x, girlfriend of x"], 
+      ["庄清纯", "student of x"], 
+      ["秦老大", "rival of x"], 
+      ["秦专家", "superior of x"]
+    ],
+    "秦老大": [
+      ["薛媚娘", "romantic relationships with x"], 
+      ["萧体育", "rival of x"], 
+      ["庄清纯", "classmate of x"], 
+      ["秦专家", "adversary of x"], 
+      ["警察", "information receiver from x"]
+    ],
+    "秦专家": [
+      ["薛媚娘", "admired by x, manipulated by x"], 
+      ["贾美丽", "adversary of x"], 
+      ["萧体育", "superior of x"], 
+      ["秦老大", "adversary of x"], 
+      ["庄清纯", "student of x"]
+    ],
+    "庄清纯": [
+      ["萧体育", "student of x"], 
+      ["秦老大", "classmate of x"], 
+      ["秦专家", "student of x"], 
+      ["薛媚娘", "classmate of x"], 
+      ["贾美丽", "classmate of x"]
+    ],
+    "中年女人": [
+      ["薛媚娘", "helper of x"]
+    ],
+    "秦夫人": [
+      ["薛媚娘", "secret lover of x"]
+    ],
+    "小混混": [
+      ["薛媚娘", "manipulated by x"], 
+      ["贾美丽", "manipulated by x"]
+    ],
+    "贾美丽的父母": [
+      ["贾美丽", "information receiver from x"]
+    ],
+    "警察": [
+      ["薛媚娘", "information receiver from x"], 
+      ["贾美丽", "information receiver from x"], 
+      ["秦老大", "information receiver from x"]
+    ]
+}

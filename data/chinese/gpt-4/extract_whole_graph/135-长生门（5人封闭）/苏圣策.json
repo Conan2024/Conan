@@ -1,0 +1,116 @@
+{
+    "苏圣策": [
+        [
+            "商人",
+            "acquaintance of x, product provider of x"
+        ],
+        [
+            "武林中人",
+            "patient of x"
+        ],
+        [
+            "自己的孩子",
+            "biological father of x"
+        ],
+        [
+            "商人的孩子",
+            "same person as x (different reference)"
+        ],
+        [
+            "楚万户",
+            "acquaintance of x, employer of x, deceiver of x"
+        ],
+        [
+            "楚川",
+            "biological son of x, same person as x (different identity)"
+        ],
+        [
+            "马三",
+            "patient of x, suspected by x, deceiver of x"
+        ],
+        [
+            "李浩",
+            "acquaintance of x, informed by x"
+        ],
+        [
+            "王婷婷",
+            "acquaintance of x"
+        ]
+    ],
+    "楚万户": [
+        [
+            "商人",
+            "same person as x (different identity)"
+        ],
+        [
+            "马三",
+            "employee of x"
+        ],
+        [
+            "李浩",
+            "employee of x"
+        ],
+        [
+            "王婷婷",
+            "wife of x"
+        ],
+        [
+            "楚川",
+            "adoptive father of x"
+        ]
+    ],
+    "商人": [
+        [
+            "楚万户",
+            "same person as x (different reference)"
+        ],
+        [
+            "苏圣策",
+            "customer of x, deceived by x"
+        ],
+        [
+            "商人的孩子",
+            "replaced x's identity"
+        ]
+    ],
+    "楚川": [
+        [
+            "楚万户",
+            "son of x (different reference), same person as x (different identity)"
+        ],
+        [
+            "苏圣策",
+            "biological father of x, same person as x (different identity)"
+        ]
+    ],
+    "李浩": [
+        [
+            "苏圣策",
+            "information receiver from x"
+        ],
+        [
+            "马三",
+            "informer of x"
+        ]
+    ],
+    "马三": [
+        [
+            "楚万户",
+            "employer of x"
+        ],
+        [
+            "苏圣策",
+            "patient of x, deceiver of x"
+        ],
+        [
+            "李浩",
+            "informant of x"
+        ]
+    ],
+    "王婷婷": [
+        [
+            "楚万户",
+            "wife of x"
+        ]
+    ]
+}

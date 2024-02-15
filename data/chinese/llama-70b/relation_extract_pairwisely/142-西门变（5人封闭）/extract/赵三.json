@@ -1,0 +1,118 @@
+{
+    "赵三": [
+        [
+            "赵中正",
+            "adoptive brother, perpetrator"
+        ],
+        [
+            "赵中杨",
+            "friend, rival"
+        ],
+        [
+            "张伟",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "马老板",
+            "subordinate",
+            "spy",
+            "rival",
+            "business partner",
+            "personal relationship"
+        ],
+        [
+            "陈媚儿",
+            "Servant-Master",
+            "Business Partners",
+            "Unrequited Love"
+        ]
+    ],
+    "赵中正": [
+        [
+            "赵三",
+            "adoptive brother, victim"
+        ],
+        [
+            "张伟",
+            "Business Partner",
+            "Co-conspirator"
+        ]
+    ],
+    "赵中杨": [
+        [
+            "赵三",
+            "friend, rival"
+        ],
+        [
+            "张伟",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "陈媚儿",
+            "Wife of X"
+        ]
+    ],
+    "张伟": [
+        [
+            "赵三",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "赵中正",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "赵中杨",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "马老板",
+            "Business Partner, acquaintance"
+        ],
+        [
+            "陈媚儿",
+            "Friend"
+        ]
+    ],
+    "马老板": [
+        [
+            "赵三",
+            "subordinate",
+            "spy",
+            "rival",
+            "business partner",
+            "personal relationship"
+        ],
+        [
+            "张伟",
+            "Business Partner, acquaintance"
+        ],
+        [
+            "陈媚儿",
+            "Lover"
+        ]
+    ],
+    "陈媚儿": [
+        [
+            "赵三",
+            "Servant-Master",
+            "Business Partners",
+            "Unrequited Love"
+        ],
+        [
+            "赵中杨",
+            "Husband of X"
+        ],
+        [
+            "张伟",
+            "Friend"
+        ],
+        [
+            "马老板",
+            "Mistress"
+        ]
+    ]
+}

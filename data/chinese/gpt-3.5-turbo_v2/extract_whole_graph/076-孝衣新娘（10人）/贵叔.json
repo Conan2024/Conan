@@ -1,0 +1,59 @@
+{
+    "贵叔": [
+      ["杨洛", "father of x"], 
+      ["贵妇", "husband of x"], 
+      ["杨洛夫人", "wife of x"], 
+      ["江湖人士", "acquaintance of x"], 
+      ["阴谋集团成员", "suspected by x"], 
+      ["贵宅管家", "employee of x"], 
+      ["玄武堂弟子", "mentor of x"], 
+      ["杨家家族成员", "relative of x"]
+    ],
+    "杨洛": [
+      ["贵叔", "son of x"], 
+      ["贵妇", "extramarital affair with x"], 
+      ["杨洛夫人", "ex wife of x"], 
+      ["江湖人士", "quest companion of x"], 
+      ["阴谋集团成员", "superior of x"], 
+      ["江湖人士", "colleague of x"], 
+      ["贵宅管家", "business partner of x"], 
+      ["玄武堂弟子", "teacher of x"]
+    ],
+    "贵妇": [
+      ["贵叔", "wife of x"], 
+      ["杨洛", "extramarital affair with x"], 
+      ["杨洛夫人", "ex wife of x"], 
+      ["江湖人士", "informant of x"], 
+      ["贵宅管家", "service provider of x"]
+    ],
+    "杨洛夫人": [
+      ["贵叔", "mother of x"], 
+      ["杨洛", "ex wife of x"], 
+      ["贵妇", "wife of x"], 
+      ["江湖人士", "acquaintance of x"]
+    ],
+    "江湖人士": [
+      ["贵叔", "informant of x"], 
+      ["杨洛", "quest companion of x"], 
+      ["杨洛夫人", "acquaintance of x"], 
+      ["贵宅管家", "business partner of x"]
+    ],
+    "阴谋集团成员": [
+      ["贵叔", "suspected by x"], 
+      ["杨洛", "superior of x"], 
+      ["贵妇", "information receiver from x"]
+    ],
+    "贵宅管家": [
+      ["贵叔", "employee of x"], 
+      ["杨洛", "business partner of x"], 
+      ["贵妇", "service provider of x"], 
+      ["江湖人士", "business partner of x"]
+    ],
+    "玄武堂弟子": [
+      ["贵叔", "mentor of x"], 
+      ["杨洛", "teacher of x"]
+    ],
+    "杨家家族成员": [
+      ["贵叔", "relative of x"]
+    ]
+}

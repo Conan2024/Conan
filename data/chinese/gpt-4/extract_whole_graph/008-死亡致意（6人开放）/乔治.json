@@ -1,0 +1,160 @@
+{
+    "乔治": [
+        [
+            "自己",
+            "same person as x (different reference)"
+        ],
+        [
+            "1601肯",
+            "acquaintance of x"
+        ],
+        [
+            "约翰",
+            "acquaintance of x"
+        ],
+        [
+            "1603克拉克",
+            "stranger to x"
+        ],
+        [
+            "1603安德鲁",
+            "acquaintance of x"
+        ],
+        [
+            "狱警斯蒂文",
+            "dislike of x, suspected by x"
+        ],
+        [
+            "强尼",
+            "victim of x, disliked by x"
+        ]
+    ],
+    "1601肯": [
+        [
+            "约翰",
+            "rival of x"
+        ],
+        [
+            "1603安德鲁",
+            "stranger to x"
+        ],
+        [
+            "狱警斯蒂文",
+            "stranger to x"
+        ],
+        [
+            "强尼",
+            "subordinate of x"
+        ]
+    ],
+    "约翰": [
+        [
+            "1601肯",
+            "rival of x"
+        ],
+        [
+            "1603安德鲁",
+            "stranger to x"
+        ],
+        [
+            "狱警斯蒂文",
+            "stranger to x"
+        ],
+        [
+            "强尼",
+            "subordinate of x"
+        ]
+    ],
+    "1603克拉克": [
+        [
+            "强尼",
+            "stranger to x"
+        ],
+        [
+            "乔治",
+            "stranger to x"
+        ],
+        [
+            "1603安德鲁",
+            "cellmate of x"
+        ]
+    ],
+    "1603安德鲁": [
+        [
+            "乔治",
+            "acquaintance of x"
+        ],
+        [
+            "1601肯",
+            "stranger to x"
+        ],
+        [
+            "约翰",
+            "stranger to x"
+        ],
+        [
+            "狱警斯蒂文",
+            "stranger to x"
+        ],
+        [
+            "强尼",
+            "stranger to x"
+        ],
+        [
+            "1603克拉克",
+            "cellmate of x"
+        ]
+    ],
+    "狱警斯蒂文": [
+        [
+            "乔治",
+            "disliked by x"
+        ],
+        [
+            "1601肯",
+            "stranger to x"
+        ],
+        [
+            "约翰",
+            "stranger to x"
+        ],
+        [
+            "1603克拉克",
+            "stranger to x"
+        ],
+        [
+            "1603安德鲁",
+            "stranger to x"
+        ],
+        [
+            "强尼",
+            "business partner of x"
+        ]
+    ],
+    "强尼": [
+        [
+            "乔治",
+            "perpetrator of x, victim of x"
+        ],
+        [
+            "1601肯",
+            "superior of x"
+        ],
+        [
+            "约翰",
+            "superior of x"
+        ],
+        [
+            "狱警斯蒂文",
+            "business partner of x"
+        ],
+        [
+            "1603克拉克",
+            "stranger to x"
+        ],
+        [
+            "1603安德鲁",
+            "stranger to x"
+        ]
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "周教授": [
+      ["如娅", "关系1 of x, 关系2 of x"], 
+      ["山灵", "mentor of x"], 
+      ["巴府山", "employer of x, mentor of x"], 
+      ["巴府山的女儿", "stranger to x, acquaintance of x"], 
+      ["李高柏", "teacher student of x, mentor mentee of x"], 
+      ["郑函贞", "friend of x, mentor of x"], 
+      ["隼", "friend of x, mentor of x"]
+    ],
+    "如娅": [
+      ["周教授", "关系1 of x, 关系2 of x"], 
+      ["山灵", "acquaintance of x, friend of x"], 
+      ["巴府山", "李高柏 of x"], 
+      ["巴府山的女儿", "friend of x, acquaintance of x"], 
+      ["李德木", "acquaintance of x, classmate of x, colleague of x, friend of x, roommate of x, schoolmate of x"], 
+      ["李良松", "acquaintance of x, childhood friend of x"], 
+      ["李高柏", "friend of x, classmate of x, schoolmate of x"], 
+      ["甘玛", "friend of x, classmate of x"], 
+      ["郑函贞", "acquaintance of x, classmate of x, schoolmate of x, nephew of x, aunt of x, uncle of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver of x, acquaintance of x, classmate of x, schoolmate of x, nephew of x, aunt of x, uncle of x, cousin of x"], 
+      ["隼", "acquaintance of x, classmate of x, colleague of x, friend of x, roommate of x, schoolmate of x"], 
+      ["鬼印", "兄弟hangout of x, friend of x"]
+    ],
+    "山灵": [
+      ["周教授", "mentee of x"], 
+      ["如娅", "acquaintance of x, friend of x"], 
+      ["巴府山", "husband of x 如娅"], 
+      ["巴府山的女儿", "relative of x"], 
+      ["李德木", "acquaintance of x, classmate of x, colleague of x, friend of x, helper of x, mentor of x, student of x, teacher of x"], 
+      ["李良松", "friend of x, mentor of x"], 
+      ["李高柏", "friend of x, mentor of x, guardian of x, teacher of x"], 
+      ["郑函贞", "master of x, teacher of x, friend of x, loyalty of x"], 
+      ["隼", "father in law/son in law of x, employer/employee of x, teacher/student of x, mentor/mentee of x, friend of x"], 
+      ["鬼印", "兄弟 of x"]
+    ],
+    "巴府山": [
+      ["周教授", "employer of x, mentor of x"], 
+      ["如娅", "李高柏 of x"], 
+      ["山灵", "father of x 隼"], 
+      ["巴府山的女儿", "husband of x"], 
+      ["李德木", "employer of x, master of x, superior of x, tenant of x"], 
+      ["李良松", "employer of x, master of x, superior of x"], 
+      ["李高柏", "relation1 of x, relation2 of x"], 
+      ["甘玛", "employer of x, master of x"], 
+      ["隼", "employer of x, master of x"], 
+      ["鬼印", "employer of x, master of x, superior of x, perpetrator of x"]
+    ],
+    "巴府山的女儿": [
+      ["周教授", "stranger to x, acquaintance of x"], 
+      ["如娅", "fiancee of x, sister of x"], 
+      ["山灵", "fiancé of x"], 
+      ["巴府山", "wife of x"], 
+      ["李德木", "relative of x, friend of x"], 
+      ["李良松", "fiancé of x, brother of x, friend of x, servant of x, student of x"], 
+      ["甘玛", "李高柏 of x"], 
+      ["郑函贞", "wife of x, sister of x, daughter of x, niece of x, cousin of x, friend of x"], 
+      ["隼", "关系1 of x, 关系2 of x"], 
+      ["鬼印", "relative of x"]
+    ],
+    "李德木": [
+      ["如娅", "acquaintance of x, classmate of x, colleague of x, friend of x, roommate of x, schoolmate of x"], 
+      ["山灵", "acquaintance of x, classmate of x, colleague of x, friend of x, helper of x, mentor of x, student of x, teacher of x"], 
+      ["巴府山", "friend of x, mentor of x, teacher of x, student of x"], 
+      ["巴府山的女儿", "brother of x, friend of x"], 
+      ["李良松", "friendship of x"], 
+      ["郑函贞", "brother in law of x, friend of x"], 
+      ["隼", "brother in law of x, friend of x"], 
+      ["鬼印", "brother in law of x, друigos of x"]
+    ],
+    "李良松": [
+      ["如娅", "acquaintance of x, childhood friend of x"], 
+      ["山灵", "friend of x, mentored of x"], 
+      ["巴府山", "employee of x, servant of x, subordinate of x"], 
+      ["巴府山的女儿", "fiancé of x, brother of x, friend of x, servant of x, student of x"], 
+      ["李德木", "friendship of x"], 
+      ["李高柏", "兄弟 of x, 干友 of x, 帮手 of x, 学生 of x, 伙伴 of x, 合伙 of x, 朋友 of x"], 
+      ["甘玛", "关系1 of x, 关系2 of x"], 
+      ["郑函贞", "brother in law of x, friend of x"], 
+      ["隼", "brother in law of x, friend of x"], 
+      ["鬼印", "brother in law of x, друigos of x"]
+    ],
+    "李高柏": [
+      ["周教授", "teacher student of x, mentor mentee of x"], 
+      ["如娅", "friend of x, classmate of x, schoolmate of x"], 
+      ["山灵", "friend of x, mentee of x, ward of x, student of x"], 
+      ["巴府山", "relation1 of x, relation2 of x"], 
+      ["李良松", "兄弟 of x, 干友 of x, 帮手 of x, 学生 of x, 伙伴 of x, 合伙 of x, 朋友 of x"], 
+      ["甘玛", "friend of x, mentor of x, romantic partner of x"], 
+      ["郑函贞", "friend of x, mentor of x, colleague of x"], 
+      ["隼", "brother of x, apprentice of x, friend of x, helper of x, student of x"], 
+      ["鬼印", "victim of x"]
+    ],
+    "Teacher-Student": [
+      [" Grosvenor", "学生与教师 of x, 好友 of x, 帮助者 of x"]
+    ],
+    "Grosvenor": [
+      ["Teacher-Student", "学生与教师 of x, 好友 of x, 帮助者 of x"]
+    ],
+    "郑函贞": [
+      ["周教授", "friend of x, mentee of x"], 
+      ["如娅", "acquaintance of x, classmate of x, schoolmate of x, nephew of x, aunt of x, uncle of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver of x, acquaintance of x, classmate of x, schoolmate of x, nephew of x, aunt of x, uncle of x, cousin of x"], 
+      ["山灵", "fiancé of x, student of x, reincarnation of x, trust of x"], 
+      ["바府山的女儿", "husband of x, brother of x, son of x, uncle of x, friend of x"], 
+      ["李德木", "brother in law of x, friend of x"], 
+      ["李良松", "sister in law of x, friend of x"], 
+      ["李高柏", "friend of x, mentee of x, colleague of x"], 
+      ["甘玛", "friend of x, classmate of x"], 
+      ["隼", "mentee of x, student of x, and friend of x"], 
+      ["鬼印", "friend of x, mentor of x"]
+    ],
+    "隼": [
+      ["周教授", "friend of x, mentee of x"], 
+      ["如娅", "acquaintance of x, classmate of x, colleague of x, friend of x, roommate of x, schoolmate of x"], 
+      ["山灵", "father in law/son in law of x, employer/employee of x, teacher/student of x, mentor/mentee of x, friend of x"], 
+      ["巴府山", "employee of x, subordinate of x"], 
+      ["巴府山的女儿", "关系1 of x, 关系2 of x"], 
+      ["李德木", "brother in law of x, friend of x"], 
+      ["李良松", "brother in law of x, friend of x"], 
+      ["李高柏", "brother of x, apprentice of x, friend of x, helper of x, student of x"], 
+      ["甘玛", "哥哥 of x, friend of x"], 
+      ["郑函贞", "mentor of x, teacher of x, and friend of x"], 
+      ["鬼印", "李高柏 of x, 巴府山 of x, 李德木 of x"]
+    ],
+    "鬼印": [
+      ["如娅", "兄弟hangout of x, master of x"], 
+      ["山灵", "兄弟 of x"], 
+      ["巴府山", "employer of x, master of x, superior of x, perpetrator of x"], 
+      ["巴府山的女儿", "fiancé of x"], 
+      ["李德木", "brother in law of x, old friend of x"], 
+      ["李良松", "brother in law of x, old friend of x"], 
+      ["甘玛", "sibling of x, parent of x"], 
+      ["郑函贞", "friend of x, mentor of x"], 
+      ["隼", "李高柏 of x, 巴府山 of x, 李德木 of x"]
+    ],
+    "甘玛": [
+      ["如娅", "friend of x, classmate of x"], 
+      ["巴府山", "employee of x, servant of x"], 
+      ["巴府山的女儿", "李高柏 of x"], 
+      ["李良松", "关系1 of x, 关系2 of x"], 
+      ["李高柏", "friend of x, mentee of x, romantic partner of x"], 
+      ["郑函贞", "friend of x, classmate of x"], 
+      ["隼", "妹妹 of x, friend of x"], 
+      ["鬼印", "sibling of x, child of x"]
+    ]
+}

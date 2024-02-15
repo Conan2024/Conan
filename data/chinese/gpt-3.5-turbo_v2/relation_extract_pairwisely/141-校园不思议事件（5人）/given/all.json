@@ -1,0 +1,74 @@
+{
+    "林校花": [
+      ["郝闺蜜", "friend of x"], 
+      ["王学习", "romantic relationships with x"], 
+      ["赵帅哥", "romantic relationships with x"], 
+      ["李小弟", "admirer of x, acquaintance of x"], 
+      ["李大哥", "friend of x"], 
+      ["张恶霸", "ex fiancé of x"], 
+      ["表姐", "relative of x"]
+    ],
+    "郝闺蜜": [
+      ["林校花", "friend of x"], 
+      ["王学习", "friend of x"], 
+      ["赵帅哥", "friend of x, helper of x"], 
+      ["李小弟", "friend of x, possible family of x"], 
+      ["李大哥", "friend of x"], 
+      ["林校花", "friend of x"], 
+      ["表姐", "friend of x"]
+    ],
+    "王学习": [
+      ["林校花", "romantic relationships with x"], 
+      ["郝闺蜜", "friend of x"], 
+      ["赵帅哥", "romantic relationships with x"], 
+      ["李小弟", "friend of x"], 
+      ["李大哥", "friend of x"], 
+      ["张恶霸", "romantic relationships with of x"], 
+      ["表姐", "romantic relationships with x"]
+    ],
+    "赵帅哥": [
+      ["林校花", "friend of x"], 
+      ["郝闺蜜", "friend of x, helper of x"], 
+      ["王学习", "romantic relationships with x"], 
+      ["李小弟", "romantic relationships with x"], 
+      ["李大哥", "friend of x"], 
+      ["张恶霸", "friend of x"], 
+      ["表姐", "fondness of x"]
+    ],
+    "李小弟": [
+      ["林校花", "admirer of x, acquaintance of x"], 
+      ["郝闺蜜", "friend of x, possible family of x"], 
+      ["王学习", "friend of x"], 
+      ["赵帅哥", "romantic relationships with x"], 
+      ["李大哥", "sibling of x"], 
+      ["张恶霸", "helper of x"], 
+      ["表姐", "friend of x"]
+    ],
+    "李大哥": [
+      ["林校花", "friend of x"], 
+      ["郝闺蜜", "friend of x"], 
+      ["王学习", "friend of x"], 
+      ["赵帅哥", "friend of x"], 
+      ["李小弟", "sibling of x"], 
+      ["张恶霸", "possible family of x"], 
+      ["表姐", "ex romantic relationships with x"]
+    ],
+    "张恶霸": [
+      ["林校花", "ex fiancée of x"], 
+      ["林校花", "未婚夫 of x"], 
+      ["王学习", "ex fiance of x"], 
+      ["赵帅哥", "unknown relationship of x"], 
+      ["李小弟", "helper of x"], 
+      ["李大哥", "possible family of x"], 
+      ["表姐", "ex fiance of x 林校花"]
+    ],
+    "表姐": [
+      ["林校花", "relative of x"], 
+      ["郝闺蜜", "sister of x"], 
+      ["王学习", "romantic relationships with x"], 
+      ["赵帅哥", "fondness of x"], 
+      ["李小弟", "friend of x"], 
+      ["李大哥", "ex romantic relationships with x"], 
+      ["张恶霸", "ex boyfriend of x 林校花"]
+    ]
+}

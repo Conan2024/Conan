@@ -1,0 +1,32 @@
+{
+    "赵洛意": [
+      ["赵万雷", "father of x"], 
+      ["赵卫", "brother of x"], 
+      ["齐岳", "acquaintance of x, informant of x"], 
+      ["赵秋儿", "sister of x, taught her to be independent and confident of x"], 
+      ["尹少鸣", "kidnapper of x, has a conversation with her of x"], 
+      ["管家", "cousin of x"]
+    ],
+    "尹少鸣": [
+      ["赵洛意", "kidnapper of x, has a conversation with her of x"], 
+      ["管家", "cousin of x"]
+    ],
+    "赵秋儿": [
+      ["赵洛意", "sister of x, taught her to be independent and confident of x"], 
+      ["冯双骥", "employee of x, manager of x"]
+    ],
+    "管家": [
+      ["赵洛意", "employee of x, manager of x"], 
+      ["尹少鸣", "cousin of x"]
+    ],
+    "冯双骥": [
+      ["赵洛意", "employee of x, manager of x"], 
+      ["赵秋儿", "employee of x, manager of x"]
+    ],
+    "赵卫": [
+      ["赵洛意", "brother of x"]
+    ],
+    "齐岳": [
+      ["赵洛意", "acquaintance of x, informant of x"]
+    ]
+}

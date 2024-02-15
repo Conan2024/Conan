@@ -1,0 +1,58 @@
+{
+    "二师叔• 玄参": [
+        [
+            "山庄庄主杜仲",
+            "romantic relationships with x"
+        ],
+        [
+            "忍冬",
+            "mentor of x, informant of x"
+        ],
+        [
+            "陆英",
+            "colleague of x"
+        ]
+    ],
+    "山庄庄主杜仲": [
+        [
+            "二师叔• 玄参",
+            "romantic relationships with x"
+        ],
+        [
+            "忍冬",
+            "friend of x, informant of x"
+        ],
+        [
+            "陆英",
+            "romantic relationships with x"
+        ]
+    ],
+    "忍冬": [
+        [
+            "二师叔• 玄参",
+            "student of x, information receiver from x"
+        ],
+        [
+            "山庄庄主杜仲",
+            "friend of x"
+        ],
+        [
+            "陆英",
+            "informant of x, suspicious of x"
+        ]
+    ],
+    "陆英": [
+        [
+            "二师叔• 玄参",
+            "colleague of x"
+        ],
+        [
+            "山庄庄主杜仲",
+            "romantic relationships with x"
+        ],
+        [
+            "忍冬",
+            "information receiver from x, suspect of x"
+        ]
+    ]
+}

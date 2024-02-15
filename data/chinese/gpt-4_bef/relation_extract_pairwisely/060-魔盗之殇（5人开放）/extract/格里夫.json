@@ -1,0 +1,43 @@
+{
+    "格里夫": [
+      ["古思特", "suspected by x, victim of x, deceiver of x, attempted perpetrator of x, quest companion of x"], 
+      ["罗琳", "acquaintance of x, suspected by x"], 
+      ["戴维", "friend of x, quest companion of x"], 
+      ["艾拉", "victim of x, deceiver of x, disliked by x, colleague of x, quest companion of x, seeker of help from x"], 
+      ["凯文", "suspect of x, deceiver of x, manipulated by x"], 
+      ["凯文", "enemy of x"]
+    ],
+    "古思特": [
+      ["格里夫", "suspect of x, perpetrator of x, deceived by x, quest companion of x"], 
+      ["罗琳", "colleague of x, manipulator of x, romantic relationships with x"], 
+      ["戴维", "victim of x, debtor of x, colleague of x, attempted perpetrator of x"], 
+      ["艾拉", "helper of x, admirer of x, deceived by x, victim of x"], 
+      ["凯文", "adversary of x, deceiver of x, manipulator of x"]
+    ],
+    "罗琳": [
+      ["格里夫", "acquaintance of x"], 
+      ["古思特", "colleague of x, victim of x, manipulated by x, romantic relationships with x"], 
+      ["艾拉", "suspect to x, possibly family of x"], 
+      ["凯文", "acquaintance of x, possibly family of x, colleague of x"]
+    ],
+    "戴维": [
+      ["格里夫", "friend of x, quest companion of x, deceiver of x"], 
+      ["古思特", "perpetrator of x, creditor of x, colleague of x"], 
+      ["艾拉", "acquaintance of x, colleague of x"], 
+      ["格里夫", "acquaintance of x, quest companion of x, information receiver from x, debtor of x, attempted perpetrator of x, disliked by x"]
+    ],
+    "艾拉": [
+      ["格里夫", "perpetrator of x, deceiver of x, colleague of x, helper of x, quest companion of x"], 
+      ["古思特", "employee of x, romantic relationships with x, perpetrator of x, manipulator of x"], 
+      ["罗琳", "suspected by x"], 
+      ["戴维", "acquaintance of x, colleague of x"], 
+      ["格里夫", "deceiver of x, disliked by x"]
+    ],
+    "凯文": [
+      ["格里夫", "suspected by x, deceiver of x, manipulator of x"], 
+      ["古思特", "deceived by x, manipulated by x, suspect of x"], 
+      ["罗琳", "acquaintance of x, possibly family of x, colleague of x"], 
+      ["格里夫", "suspected by x, perpetrator of x"], 
+      ["格里夫", "suspect of x"]
+    ]
+}

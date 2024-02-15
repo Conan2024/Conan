@@ -1,0 +1,17 @@
+{
+    "玲船医": [
+      ["杨老板", "suspicious of x, adversary of x"], 
+      ["张大副", "acquaintance of x"]
+    ],
+    "张大副": [
+      ["玲船医", "colleague of x, business partner of x"], 
+      ["王船工", "subordinate of x"]
+    ],
+    "杨老板": [
+      ["玲船医", "informant of x, customer of x"]
+    ],
+    "王船工": [
+      ["张大副", "subordinate of x"], 
+      ["王小工", "son of x"]
+    ]
+}

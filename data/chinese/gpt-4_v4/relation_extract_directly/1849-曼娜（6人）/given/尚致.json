@@ -1,0 +1,61 @@
+{
+    "尚致": [
+      ["谭仁兴", "father of x"], 
+      ["谭仁昌", "adversary of x, uncle of x"], 
+      ["罗亨理", "relative of x"], 
+      ["罗明纱", "aunt of x"], 
+      ["吕名然", "friend of x, mentor of x"], 
+      ["韦太太", "acquaintance of x"], 
+      ["海悠", "sibling of x, relative of x"], 
+      ["紫娜", "romantic relationships with x, helped by x"], 
+      ["贺教授", "superior of x, mentor of x"], 
+      ["承格", "student of x, relative of x, cousin of x"], 
+      ["廖公子", "acquaintance of x"], 
+      ["阿萍", "acquaintance of x"]
+    ],
+    "谭仁兴": [
+      ["尚致", "child of x"], 
+      ["谭仁昌", "sibling of x"]
+    ],
+    "谭仁昌": [
+      ["尚致", "nephew of x"], 
+      ["谭仁兴", "sibling of x"], 
+      ["罗明纱", "wife of x"]
+    ],
+    "罗亨理": [
+      ["吕名然", "business partner of x"], 
+      ["尚致", "acquaintance of x"]
+    ],
+    "罗明纱": [
+      ["谭仁昌", "husband of x"], 
+      ["海悠", "adoptive mother of x"]
+    ],
+    "吕名然": [
+      ["罗亨理", "brother of x"], 
+      ["尚致", "friend of x, adversary of x"], 
+      ["韦太太", "brother in law of x"]
+    ],
+    "韦太太": [
+      ["吕名然", "sister in law of x"]
+    ],
+    "海悠": [
+      ["罗明纱", "adoptive daughter of x"], 
+      ["尚致", "relative of x"]
+    ],
+    "紫娜": [
+      ["尚致", "romantic relationships with x, helped by x"]
+    ],
+    "贺教授": [
+      ["尚致", "subordinate of x"]
+    ],
+    "承格": [
+      ["谭仁昌", "cousin of x"], 
+      ["尚致", "relative of x, teacher of x"]
+    ],
+    "廖公子": [
+      ["尚致", "acquaintance of x"]
+    ],
+    "阿萍": [
+      ["尚致", "acquaintance of x"]
+    ]
+}

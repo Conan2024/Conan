@@ -1,0 +1,47 @@
+{
+    "修仁杰": [
+      ["刘奇", "business partner of x"], 
+      ["洪子廉", "friend of x"], 
+      ["林若彤", "colleague of x"], 
+      ["杨晨林", "friend of x, possibly family of x"]
+    ],
+    "刘奇": [
+      ["修仁杰", "business partner of x"], 
+      ["韩亦暮", "romantic relationships with x"], 
+      ["林若彤", "adversary of x"], 
+      ["张文远", "colleague of x, business partner of x"]
+    ],
+    "洪子廉": [
+      ["修仁杰", "acquaintance of x"], 
+      ["林若彤", "colleague of x"], 
+      ["杨晨林", "friend of x"]
+    ],
+    "韩亦暮": [
+      ["刘奇", "extramarital affair with x"], 
+      ["洪子廉", "colleague of x"], 
+      ["林若彤", "admired by x"], 
+      ["张文远", "secret crush of x, admirer of x"], 
+      ["杨晨林", "helper of x, information receiver from x"]
+    ],
+    "林若彤": [
+      ["修仁杰", "colleague of x"], 
+      ["刘奇", "adversary of x"], 
+      ["洪子廉", "colleague of x"], 
+      ["张文远", "colleague of x"], 
+      ["杨晨林", "fondness of x"]
+    ],
+    "张文远": [
+      ["刘奇", "colleague of x, business partner of x"], 
+      ["洪子廉", "colleague of x"], 
+      ["韩亦暮", "mentor of x"], 
+      ["林若彤", "employee of x"], 
+      ["杨晨林", "acquaintance of x, colleague of x"]
+    ],
+    "杨晨林": [
+      ["修仁杰", "friend of x, possibly family of x"], 
+      ["洪子廉", "possibly family of x"], 
+      ["韩亦暮", "helper of x, informant of x"], 
+      ["林若彤", "employer of x"], 
+      ["张文远", "colleague of x"]
+    ]
+}

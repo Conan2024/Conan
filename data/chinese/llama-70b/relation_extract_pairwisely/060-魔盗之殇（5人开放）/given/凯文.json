@@ -1,0 +1,698 @@
+{
+    "保安凯文": [
+        [
+            "凯文",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5"
+        ],
+        [
+            "剧务戴维",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "助手艾拉",
+            "战斗对手",
+            "合作伙伴"
+        ],
+        [
+            "古思特",
+            "假扮关系",
+            "共谋relationship",
+            "敌对关系",
+            "被控制关系"
+        ],
+        [
+            "后勤格里夫",
+            "friend and confidant",
+            "rival magician",
+            "suspicious character"
+        ],
+        {
+            "relationships": [
+                "宣传罗琳",
+                "relationship 1",
+                "relationship 2",
+                "relationship 3",
+                "relationship 4"
+            ]
+        },
+        [
+            "戴维",
+            "Relationship 1, Relationship 2"
+        ],
+        [
+            "格里夫",
+            "同事",
+            "朋友",
+            "合伙人",
+            "敌人"
+        ],
+        [
+            "罗琳",
+            " Fellow theater troupe member",
+            "姐弟关系",
+            "合谋者",
+            "诈骗对方",
+            "共同目标"
+        ],
+        [
+            "魔术师古思特",
+            "敌对",
+            "误解",
+            "勾心",
+            "团队之间的竞争",
+            "欲豢"
+        ]
+    ],
+    "凯文": [
+        [
+            "保安凯文",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5"
+        ],
+        [
+            "剧务戴维",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "助手艾拉",
+            "Colleague",
+            "Friend",
+            "Informant of X",
+            "Helper of X",
+            "Co-conspirator of X"
+        ],
+        [
+            "古思特",
+            "Master of X",
+            "Employer of X"
+        ],
+        [
+            "后勤格里夫",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "宣传罗琳",
+            "friend",
+            "colleague"
+        ],
+        [
+            "戴维",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "格里夫",
+            "Colleague",
+            "Business Partner"
+        ],
+        [
+            "罗琳",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "艾拉",
+            "friend"
+        ],
+        [
+            "魔术师古思特",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "剧务戴维": [
+        [
+            "保安凯文",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "凯文",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "古思特",
+            "relationship 1"
+        ],
+        [
+            "后勤格里夫",
+            "mentor/teacher",
+            "adversary",
+            "rival"
+        ],
+        [
+            "宣传罗琳",
+            "罗琳"
+        ],
+        [
+            "戴维",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "格里夫",
+            "former partner, current enemy"
+        ],
+        [
+            "罗琳",
+            "Relationship 1: Co-workers",
+            "Relationship 2: Suspicious of each other"
+        ],
+        [
+            "同事",
+            "对手",
+            "诈盗",
+            "宠坚"
+        ]
+    ],
+    "助手艾拉": [
+        [
+            "保安凯文",
+            "战斗对手",
+            "合作伙伴"
+        ],
+        [
+            "凯文",
+            "Colleague",
+            "Friend",
+            "Informant of X",
+            "Helper of X",
+            "Co-conspirator of X"
+        ],
+        [
+            "古思特",
+            "relationship 1: helper and helped",
+            "relationship 2: acquaintance"
+        ],
+        [
+            "后勤格里夫",
+            "colleague",
+            "friend"
+        ],
+        [
+            "宣传罗琳",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "戴维",
+            "学生与教师",
+            "情感关系"
+        ],
+        [
+            "格里夫",
+            "Relationship 1: Co-conspirators",
+            "Relationship 2: Rivalries"
+        ],
+        [
+            "罗琳",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "艾拉",
+            "mentor",
+            "apprentice",
+            "superior",
+            "subordinate",
+            "enemy",
+            "adversary"
+        ],
+        [
+            "魔术师古思特",
+            "relationship 1, colleague",
+            "relationship 2, friend",
+            "relationship 3, confidant",
+            "relationship 4, enemy",
+            "relationship 5, manipulator",
+            "relationship 6, victim"
+        ]
+    ],
+    "古思特": [
+        [
+            "保安凯文",
+            "假扮关系",
+            "共谋relationship",
+            "敌对关系",
+            "被控制关系"
+        ],
+        [
+            "凯文",
+            "Employee of X",
+            "Colleague of X"
+        ],
+        [
+            "剧务戴维",
+            "relationship 1"
+        ],
+        [
+            "助手艾拉",
+            "relationship 1: helper and helped",
+            "relationship 2: acquaintance"
+        ],
+        [
+            "后勤格里夫",
+            "Mentor",
+            "Friend",
+            "Accomplice"
+        ],
+        [
+            "宣传罗琳",
+            "former partner",
+            "enemy",
+            "rival"
+        ],
+        [
+            "戴维",
+            "Colleague",
+            "Friend",
+            "Mentor",
+            "Helped by"
+        ],
+        [
+            "格里夫",
+            "Master of",
+            "Manipulator of"
+        ],
+        [
+            "罗琳",
+            "rival, enemy, former partner in crime"
+        ],
+        [
+            "艾拉",
+            "Master",
+            "manipulate"
+        ],
+        [
+            "magician",
+            "leader of the troupe",
+            "master of the mystery box",
+            "manipulator"
+        ]
+    ],
+    "后勤格里夫": [
+        [
+            "保安凯文",
+            "friend and confidant",
+            "rival magician",
+            "suspicious character"
+        ],
+        [
+            "凯文",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "剧务戴维",
+            "mentor/teacher",
+            "adversary",
+            "rival"
+        ],
+        [
+            "助手艾拉",
+            "colleague",
+            "friend"
+        ],
+        [
+            "古思特",
+            "Mentor",
+            "Friend",
+            "Accomplice"
+        ],
+        [
+            "戴维",
+            "Child of X",
+            "Employee of X",
+            "Sibling of X",
+            "Friend of X",
+            "Collaborator of X"
+        ],
+        [
+            "格里夫",
+            "Colleague"
+        ],
+        [
+            "罗琳",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "艾拉",
+            "Employee",
+            "Underling",
+            "Helped by X",
+            "Informant of X"
+        ]
+    ],
+    "宣传罗琳": [
+        {
+            "relationships": [
+                "保安凯文",
+                "relationship 1",
+                "relationship 2",
+                "relationship 3",
+                "relationship 4"
+            ]
+        },
+        [
+            "凯文",
+            "friend",
+            "colleague"
+        ],
+        [
+            "剧务戴维",
+            "戴维"
+        ],
+        [
+            "助手艾拉",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "古思特",
+            "former partner",
+            "enemy",
+            "rival"
+        ],
+        [
+            "格里夫",
+            "mentor",
+            "secret relationship"
+        ],
+        [
+            "罗琳",
+            "姐姐",
+            "兄弟姐妹",
+            "合伙",
+            "同谋"
+        ],
+        [
+            "艾拉",
+            "Childhood friend",
+            "Co-worker"
+        ],
+        [
+            "魔术师古思特",
+            " Same colleagues",
+            "Adversaries",
+            "Enemies",
+            "Suspects"
+        ]
+    ],
+    "戴维": [
+        [
+            "保安凯文",
+            "Relationship 1, Relationship 2"
+        ],
+        [
+            "凯文",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "剧务戴维",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "助手艾拉",
+            "合伙人",
+            "情感关系"
+        ],
+        [
+            "古思特",
+            "Colleague",
+            "Friend",
+            "Mentor",
+            "Helped by"
+        ],
+        [
+            "后勤格里夫",
+            "Employer of X",
+            "Master of X",
+            "Sibling of X",
+            "Friend of X",
+            "Collaborator of X"
+        ],
+        [
+            "格里夫",
+            "friend",
+            "partner in crime",
+            "mentor"
+        ],
+        [
+            "罗琳",
+            "enemy",
+            "rival",
+            "acquaintance"
+        ],
+        [
+            "艾拉",
+            "Superior-Subordinate",
+            "Romantic Partners",
+            "Accomplices"
+        ],
+        [
+            "magical mentor",
+            "former partner",
+            "current enemy",
+            "bully"
+        ]
+    ],
+    "格里夫": [
+        [
+            "保安凯文",
+            "同事",
+            "朋友",
+            "合伙人",
+            "敌人"
+        ],
+        [
+            "凯文",
+            "Colleague",
+            "Business Partner"
+        ],
+        [
+            "剧务戴维",
+            "former partner, current enemy"
+        ],
+        [
+            "助手艾拉",
+            "Relationship 1: Co-conspirators",
+            "Relationship 2: Rivalries"
+        ],
+        [
+            "古思特",
+            "Mentor of",
+            "Manipulated by"
+        ],
+        [
+            "后勤格里夫",
+            "Colleague"
+        ],
+        [
+            "宣传罗琳",
+            "superior",
+            "mentee",
+            "secret relationship"
+        ],
+        [
+            "戴维",
+            "friend",
+            "partner in crime",
+            "mentee"
+        ],
+        [
+            "罗琳",
+            " Collaborator, Accomplice"
+        ],
+        [
+            "艾拉",
+            "Friend",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "魔术师古思特",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "罗琳": [
+        [
+            "保安凯文",
+            " Fellow theater troupe member",
+            "姐弟关系",
+            "合谋者",
+            "诈骗对方",
+            "共同目标"
+        ],
+        [
+            "凯文",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "剧务戴维",
+            "Relationship 1: Co-workers",
+            "Relationship 2: Manipulator and Manipulated"
+        ],
+        [
+            "助手艾拉",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "古思特",
+            "enemy, former partner in crime"
+        ],
+        [
+            "后勤格里夫",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "宣传罗琳",
+            "姐姐",
+            "兄弟姐妹",
+            "合伙",
+            "同谋"
+        ],
+        [
+            "戴维",
+            "acquaintance",
+            "frenemy",
+            "rival"
+        ],
+        [
+            "格里夫",
+            " Collaborator, Accomplice"
+        ],
+        [
+            "艾拉",
+            "mentor, employer"
+        ],
+        [
+            "魔术师古思特",
+            "former partners in crime",
+            "lover",
+            "blackmailer",
+            "complicated relationship"
+        ]
+    ],
+    "魔术师古思特": [
+        [
+            "保安凯文",
+            "敌对",
+            "误解",
+            "勾心",
+            "团队之间的竞争",
+            "欲豢"
+        ],
+        [
+            "凯文",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "同事",
+            "对手",
+            "诈盗",
+            "宠坚"
+        ],
+        [
+            "助手艾拉",
+            "relationship 1, colleague",
+            "relationship 2, friend",
+            "relationship 3, manipulator",
+            "relationship 4, victim"
+        ],
+        [
+            "apprentice",
+            "subordinate",
+            "friend",
+            "co-conspirator"
+        ],
+        [
+            "宣传罗琳",
+            " Same colleagues",
+            "Adversaries",
+            "Enemies",
+            "Suspects"
+        ],
+        [
+            "戴续",
+            "former partner",
+            "current enemy",
+            "bully"
+        ],
+        [
+            "格里夫",
+            "teacher-student",
+            "mentor-mentee",
+            "senior-junior"
+        ],
+        [
+            "罗琳",
+            "former partners in crime",
+            "lover",
+            "blackmailed",
+            "complicated relationship"
+        ],
+        [
+            "艾拉",
+            "enemy"
+        ]
+    ],
+    "艾拉": [
+        [
+            "凯文",
+            "friend"
+        ],
+        [
+            "助手艾拉",
+            "mentor",
+            "apprentice",
+            "superior",
+            "subordinate",
+            "enemy",
+            "adversary"
+        ],
+        [
+            "古思特",
+            "mentor",
+            "bully"
+        ],
+        [
+            "后勤格里夫",
+            "Employer",
+            "Master",
+            "Superior of x",
+            "Mentor of X",
+            "Teacher of X"
+        ],
+        [
+            "宣传罗琳",
+            "Childhood friend",
+            "Co-worker"
+        ],
+        [
+            "戴维",
+            "Superior-Subordinate",
+            "Romantic Partners",
+            "Accomplices"
+        ],
+        [
+            "格里夫",
+            "Friend",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "罗琳",
+            "mentor, employer"
+        ],
+        [
+            "魔术师古思特",
+            "enemy"
+        ]
+    ],
+    "Magician Zhai": [
+        [
+            "Assistant Ela",
+            "romantic relationship"
+        ]
+    ],
+    "Assistant Ela": [
+        [
+            "Magician Zhai",
+            "romantic relationship"
+        ]
+    ]
+}

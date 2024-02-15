@@ -1,0 +1,110 @@
+{
+    "张伟": [
+        [
+            "李成",
+            "Acquaintance",
+            "Friend"
+        ],
+        [
+            "赵中杨",
+            "Underling, loyal"
+        ],
+        [
+            "赵中正",
+            "rivals",
+            "enemies"
+        ],
+        [
+            "chen醉儿",
+            "关系1",
+            "关系2"
+        ]
+    ],
+    "李成": [
+        [
+            "张伟",
+            "Acquaintance",
+            "Friend"
+        ],
+        [
+            "赵中杨",
+            "Master",
+            "Employer"
+        ],
+        [
+            "赵中正",
+            "Brother of X",
+            "Sibling of X"
+        ],
+        [
+            "陈媚儿",
+            "savior",
+            "confidant",
+            "enemy",
+            "friend"
+        ]
+    ],
+    "赵中杨": [
+        [
+            "张伟",
+            "Master, respected"
+        ],
+        [
+            "李成",
+            "Servant",
+            "Employee"
+        ],
+        [
+            "赵中正",
+            "李成"
+        ],
+        [
+            "陈媚儿",
+            "master-servant, friend"
+        ]
+    ],
+    "赵中正": [
+        [
+            "张伟",
+            "rivals",
+            "master-servant"
+        ],
+        [
+            "李成",
+            "Brother of X",
+            "Sibling of X"
+        ],
+        [
+            "赵中杨",
+            "李成"
+        ],
+        [
+            "陈媚儿",
+            "Perpetrator of X",
+            "Attempted Murderer of X"
+        ]
+    ],
+    "陈媚儿": [
+        [
+            "张伟",
+            "关系1",
+            "关系2"
+        ],
+        [
+            "李成",
+            "savior",
+            "confidant",
+            "enemy",
+            "friend"
+        ],
+        [
+            "赵中杨",
+            "master-servant, friend"
+        ],
+        [
+            "赵中正",
+            "Victim of X",
+            "Attempted Perpetrator of X"
+        ]
+    ]
+}

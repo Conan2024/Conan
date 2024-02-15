@@ -1,0 +1,76 @@
+{
+    "你": [
+        [
+            "李无义",
+            "colleague of x, dislike of x, victim of x, adversary of x"
+        ],
+        [
+            "代理",
+            "colleague of x, suspected by x"
+        ],
+        [
+            "女士",
+            "colleague of x"
+        ],
+        [
+            "经理",
+            "colleague of x, disliked by x"
+        ]
+    ],
+    "代理": [
+        [
+            "李无义",
+            "colleague of x, deceiver of x"
+        ],
+        [
+            "你",
+            "colleague of x, suspect of x"
+        ]
+    ],
+    "女士": [
+        [
+            "李无义",
+            "colleague of x"
+        ],
+        [
+            "你",
+            "colleague of x"
+        ],
+        [
+            "经理",
+            "colleague of x"
+        ]
+    ],
+    "经理": [
+        [
+            "李无义",
+            "subordinate of x, disliked by x"
+        ],
+        [
+            "你",
+            "colleague of x, disliked by x"
+        ],
+        [
+            "女士",
+            "colleague of x"
+        ]
+    ],
+    "李无义": [
+        [
+            "你",
+            "colleague of x, disliked by x, perpetrator of x"
+        ],
+        [
+            "代理",
+            "colleague of x, deceived by x"
+        ],
+        [
+            "女士",
+            "colleague of x"
+        ],
+        [
+            "经理",
+            "superior of x, disliked by x"
+        ]
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "陈媚儿": [
+      ["陈媚儿的父母", "child of x"], 
+      ["小少爷", "lover of x, romantic relationships with x"], 
+      ["父母", "child of x"], 
+      ["赵中杨", "romantic relationships with x"], 
+      ["赵中正", "lover of x, informant of x"], 
+      ["赵家二公子", "romantic relationships with x, perpetrator of x"], 
+      ["李成", "suspected by x, ex romantic relationships with x"]
+    ],
+    "地痞们": [
+      ["陈媚儿", "enemy of x"], 
+      ["陈媚儿的父母", "superior of x"], 
+      ["小少爷", "superior of x"], 
+      ["父母", "helped by x, victim of x"], 
+      ["赵中杨", "enemy of x"], 
+      ["赵中正", "enemy of x"], 
+      ["赵家二公子", "adversary of x"], 
+      ["李成", "adversary of x, enemy of x, rival of x"]
+    ],
+    "陈媚儿的父母": [
+      ["陈媚儿", "relative of x"], 
+      ["地痞们", "helped by x"], 
+      ["父母", "son of x, father of x"], 
+      ["赵中杨", "child of x"], 
+      ["赵中正", "father of x"], 
+      ["赵家二公子", "father in law of x, mother in law of x"], 
+      ["李成", "child of x"]
+    ],
+    "小少爷": [
+      ["陈媚儿", "lover of x, romantic relationships with x"], 
+      ["地痞们", "saviour of x, admired by x"], 
+      ["父母", "suspect of x"], 
+      ["赵中杨", "fondness of x, mentor of x"], 
+      ["赵中正", "saviour of x"], 
+      ["赵家二公子", "saviour of x, admirer of x"], 
+      ["李成", "helper of x, saved by x"]
+    ],
+    "父母": [
+      ["陈媚儿", "father of x"], 
+      ["地痞们", "helper of x, victim of x"], 
+      ["小少爷", "informant of x"], 
+      ["赵中杨", "child of x"], 
+      ["赵中正", "child of x"], 
+      ["赵家二公子", "father of x"], 
+      ["李成", "child of x"]
+    ],
+    "赵中杨": [
+      ["陈媚儿", "romantic relationships with x"], 
+      ["地痞们", "enemy of x"], 
+      ["陈媚儿的父母", "father of x"], 
+      ["小少爷", "admired by x, mentor of x"], 
+      ["父母", "father of x"], 
+      ["赵中正", "romantic relationships with x"], 
+      ["赵家二公子", "co wives of x"], 
+      ["李成", "romantic relationships with x"]
+    ],
+    "赵中正": [
+      ["陈媚儿", "lover of x, information receiver from x"], 
+      ["地痞们", "adversary of x"], 
+      ["陈媚儿的父母", "child of x"], 
+      ["小少爷", "saved by x"], 
+      ["父母", "father of x"], 
+      ["赵中杨", "fiance of x"], 
+      ["赵家二公子", "romantic relationships with x"], 
+      ["李成", "fiance of x, helper of x"]
+    ],
+    "赵家二公子": [
+      ["陈媚儿", "romantic relationships with x, victim of x"], 
+      ["地痞们", "enemy of x"], 
+      ["陈媚儿的父母", "son in law of x, daughter in law of x"], 
+      ["小少爷", "saved by x"], 
+      ["父母", "child of x"], 
+      ["赵中杨", "co wives of x"], 
+      ["赵中正", "romantic relationships with x"]
+    ],
+    "李成": [
+      ["陈媚儿", "suspect of x, ex romantic relationships with x"], 
+      ["地痞们", "adversary of x, enemy of x, rival of x"], 
+      ["陈媚儿的父母", "father of x"], 
+      ["小少爷", "employer of x, saviour of x"], 
+      ["父母", "father of x"], 
+      ["赵中杨", "romantic relationships with x"], 
+      ["赵中正", "fiancee of x, helper of x"]
+    ]
+}

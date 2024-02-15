@@ -1,0 +1,17 @@
+{
+    "孙清洁": [
+      ["田助理", "colleague of x"], 
+      ["李保安", "friend of x"], 
+      ["贾教授", "admired by x"]
+    ],
+    "田助理": [
+      ["孙清洁", "colleague of x"]
+    ],
+    "李保安": [
+      ["孙清洁", "friend of x"]
+    ],
+    "贾教授": [
+      ["孙清洁", "employee of x"], 
+      ["孙清洁", "admired by x"]
+    ]
+}

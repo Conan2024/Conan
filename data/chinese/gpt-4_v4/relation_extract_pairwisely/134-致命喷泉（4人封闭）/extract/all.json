@@ -1,0 +1,160 @@
+{
+    "警察": [
+      ["李国富", "suspect of x"], 
+      ["何老六", "perpetrator of x"], 
+      ["老爸", "suspect to x"], 
+      ["爸爸", "suspect of x"], 
+      ["张洁", "suspect of x"], 
+      ["卧底警察", "superior of x, colleague of x"], 
+      ["王大哥", "debtor of x"], 
+      ["王邻居", "suspect of x"], 
+      ["二姐", "suspect of x"]
+    ],
+    "妈妈": [
+      ["警察", "suspect to x"], 
+      ["何老六", "mother of x"], 
+      ["老爸", "wife of x"], 
+      ["王邻居的妻子", "acquaintance of x, neighbour of x"], 
+      ["爸爸", "wife of x"], 
+      ["二姐", "same person as x (different identity)"]
+    ],
+    "李国富": [
+      ["警察", "victim of x"], 
+      ["何老六", "superior of x, colleague of x, crime partner of x, deceiver of x"], 
+      ["老爸", "superior of x"], 
+      ["王邻居的妻子", "neighbour of x"], 
+      ["爸爸", "superior of x"], 
+      ["张洁", "mentor of x, crime partner of x"], 
+      ["记者", "victim of x"], 
+      ["慕北", "superior of x, colleague of x"], 
+      ["卧底警察", "perpetrator of x, superior of x"], 
+      ["王大哥", "creditor of x, colleague of x, acquaintance of x"], 
+      ["王邻居", "acquaintance of x, debtor of x"]
+    ],
+    "何老六": [
+      ["警察", "victim of x, suspected by x"], 
+      ["妈妈", "child of x"], 
+      ["李国富", "subordinate of x, colleague of x, crime partner of x, deceived by x"], 
+      ["老爸", "child of x"], 
+      ["王邻居的妻子", "acquaintance of x"], 
+      ["爸爸", "child of x"], 
+      ["张洁", "colleague of x, crime partner of x"], 
+      ["慕北", "colleague of x, quest companion of x"], 
+      ["卧底警察", "victim of x, colleague of x"], 
+      ["王大哥", "acquaintance of x, acquaintance of x, debtor of x"], 
+      ["王邻居", "acquaintance of x, victim of x, debtor of x"], 
+      ["二姐", "same person as x (different identity), sister of x, older sister of x"]
+    ],
+    "老爸": [
+      ["妈妈", "husband of x"], 
+      ["李国富", "subordinate of x"], 
+      ["何老六", "father of x"], 
+      ["王邻居的妻子", "father of x, father in law of x"], 
+      ["爸爸", "same person as x (different reference)"], 
+      ["卧底警察", "victim of x, suspected by x"], 
+      ["王大哥", "acquaintance of x"], 
+      ["王邻居", "acquaintance of x"], 
+      ["二姐", "father of x"]
+    ],
+    "王邻居的妻子": [
+      ["警察", "possibly family of x"], 
+      ["妈妈", "acquaintance of x, neighbour of x"], 
+      ["李国富", "neighbour of x"], 
+      ["何老六", "acquaintance of x"], 
+      ["老爸", "mother in law of x, mother of x"], 
+      ["爸爸", "neighbour of x"], 
+      ["张洁", "acquaintance of x"], 
+      ["记者", "acquaintance of x"], 
+      ["王大哥", "wife of x"], 
+      ["王邻居", "wife of x"]
+    ],
+    "爸爸": [
+      ["妈妈", "husband of x"], 
+      ["李国富", "subordinate of x"], 
+      ["何老六", "father of x"], 
+      ["老爸", "same person as x (different reference)"], 
+      ["王邻居的妻子", "husband of x"], 
+      ["张洁", "quest companion of x, colleague of x"], 
+      ["二姐", "father of x"]
+    ],
+    "张洁": [
+      ["警察", "suspected by x"], 
+      ["李国富", "student of x, crime partner of x"], 
+      ["何老六", "colleague of x, crime partner of x"], 
+      ["王邻居的妻子", "acquaintance of x"], 
+      ["爸爸", "quest companion of x, colleague of x"], 
+      ["慕北", "crime partner of x"], 
+      ["卧底警察", "suspected by x"], 
+      ["王大哥", "crime partner of x"], 
+      ["王邻居", "acquaintance of x, colleague of x"], 
+      ["二姐", "crime partner of x"]
+    ],
+    "记者": [
+      ["警察", "information receiver from x"], 
+      ["李国富", "information receiver from x"], 
+      ["老爸", "information receiver from x"], 
+      ["王邻居的妻子", "informant of x"], 
+      ["卧底警察", "information receiver from x"], 
+      ["王大哥", "acquaintance of x"], 
+      ["王邻居", "acquaintance of x"], 
+      ["二姐", "same person as x (different identity)"]
+    ],
+    "慕北": [
+      ["警察", "suspected by x"], 
+      ["李国富", "subordinate of x, colleague of x"], 
+      ["何老六", "colleague of x, quest companion of x"], 
+      ["张洁", "colleague of x"], 
+      ["记者", "suspected by x"], 
+      ["卧底警察", "colleague of x, quest companion of x"], 
+      ["王大哥", "colleague of x, quest companion of x"], 
+      ["王邻居", "acquaintance of x, colleague of x"]
+    ],
+    "卧底警察": [
+      ["警察", "subordinate of x, colleague of x"], 
+      ["李国富", "victim of x, subordinate of x"], 
+      ["何老六", "perpetrator of x"], 
+      ["老爸", "suspected by x, perpetrator of x"], 
+      ["张洁", "suspect of x"], 
+      ["记者", "informant of x"], 
+      ["慕北", "colleague of x, suspect to x"], 
+      ["王大哥", "acquaintance of x, suspected by x"], 
+      ["王邻居", "suspected by x, information receiver from x"], 
+      ["二姐", "same person as x (different identity), sister of x"]
+    ],
+    "王大哥": [
+      ["警察", "suspect of x, creditor of x"], 
+      ["李国富", "colleague of x, acquaintance of x, debtor of x"], 
+      ["何老六", "acquaintance of x, acquaintance of x, creditor of x"], 
+      ["老爸", "acquaintance of x"], 
+      ["王邻居的妻子", "husband of x"], 
+      ["张洁", "acquaintance of x, debtor of x"], 
+      ["记者", "acquaintance of x, informant of x"], 
+      ["慕北", "colleague of x, quest companion of x, suspect of x"], 
+      ["卧底警察", "acquaintance of x, suspect of x"], 
+      ["王邻居", "acquaintance of x, rival of x, creditor of x"], 
+      ["二姐", "acquaintance of x"]
+    ],
+    "王邻居": [
+      ["警察", "suspected by x, informant of x"], 
+      ["李国富", "acquaintance of x, creditor of x"], 
+      ["何老六", "acquaintance of x, creditor of x, suspect to x"], 
+      ["老爸", "possibly family of x, debtor of x"], 
+      ["王邻居的妻子", "husband of x"], 
+      ["张洁", "acquaintance of x, colleague of x"], 
+      ["记者", "acquaintance of x, suspect to x"], 
+      ["慕北", "acquaintance of x, colleague of x"], 
+      ["卧底警察", "suspect of x, informant of x"], 
+      ["王大哥", "acquaintance of x, rival of x, debtor of x"]
+    ],
+    "二姐": [
+      ["警察", "relative of x, information receiver from x"], 
+      ["妈妈", "same person as x (different identity)"], 
+      ["何老六", "same person as x (different identity), sibling of x, younger brother of x"], 
+      ["老爸", "child of x"], 
+      ["爸爸", "child of x, child of x"], 
+      ["张洁", "same person as x (different identity)"], 
+      ["记者", "same person as x (different identity)"], 
+      ["卧底警察", "same person as x (different identity), sibling of x"], 
+      ["王大哥", "acquaintance of x"]
+    ]
+}

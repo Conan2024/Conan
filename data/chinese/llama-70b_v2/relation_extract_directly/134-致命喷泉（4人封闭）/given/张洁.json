@@ -1,0 +1,14 @@
+{
+    "张洁": [
+      ["李国富", "同伙 of x, 共犯 of x, romantic interest of x"], 
+      ["慕北", "感兴趣 of x, 可能的恋爱对象 of x"]
+    ],
+    "李国富": [
+      ["张洁", "同伙 of x, 共犯 of x, romantic interest of x"], 
+      ["慕北", "值班同事 of x, 可能的竞争对手 of x"]
+    ],
+    "慕北": [
+      ["张洁", "感兴趣 of x, 可能的恋爱对象 of x"], 
+      ["李国富", "值班同事 of x, 可能的竞争对手 of x"]
+    ]
+}

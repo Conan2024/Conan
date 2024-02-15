@@ -1,0 +1,50 @@
+{
+    "陈安巧": [
+      ["陈均梦", "cousin of x"], 
+      ["陈轻梧", "relative of x, acquaintance of x"], 
+      ["姚仲义", "sister of x, colleague of x"]
+    ],
+    "陈均梦": [
+      ["陈安巧", "cousin of x"], 
+      ["陈轻梧", "relative of x"], 
+      ["姚长寿", "father in law of x"], 
+      ["姚仲义", "relative of x"]
+    ],
+    "陈轻梧": [
+      ["陈安巧", "relative of x, acquaintance of x"], 
+      ["陈均梦", "relative of x, husband of x"], 
+      ["姚长寿", "employee of x, servant of x, colleague of x, business partner of x, customer of x"], 
+      ["姚仲义", "father in law of x, employer of x, teacher of x"], 
+      ["红夫人", "father of x, husband of x, child of x"]
+    ],
+    "姚长寿": [
+      ["陈均梦", "son in law of x"], 
+      ["陈轻梧", "employer of x, master of x, superior of x"], 
+      ["姚孟仁", "father in law of x, host of x"], 
+      ["姚仲义", "father in law of x, host of x"], 
+      ["红夫人", "husband of x"]
+    ],
+    "姚孟仁": [
+      ["陈均梦", "wife of x, master of x, employer of x"], 
+      ["姚长寿", "father in law of x, host of x"], 
+      ["姚仲义", "brother in law of x"], 
+      ["红夫人", "sister in law of x"]
+    ],
+    "姚仲义": [
+      ["陈安巧", "sister of x, colleague of x"], 
+      ["陈均梦", "relative of x, brother in law of x"], 
+      ["陈轻梧", "father in law of x, employer of x, guard of x"], 
+      ["姚长寿", "brother in law of x, younger brother of x"], 
+      ["姚孟仁", "brother in law of x"], 
+      ["红夫人", "brother of x, rival of x, bully of x"]
+    ],
+    "红夫人": [
+      ["陈轻梧", "father of x, husband of x, child of x"], 
+      ["姚长寿", "wife of x"], 
+      ["姚孟仁", "sister in law of x"], 
+      ["姚仲义", "sister of x, wife of x"]
+    ],
+    " Chen均梦": [
+      ["姚孟仁", "sister in law of x"]
+    ]
+}

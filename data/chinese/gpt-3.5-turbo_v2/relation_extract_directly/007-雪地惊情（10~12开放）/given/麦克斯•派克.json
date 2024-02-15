@@ -1,0 +1,24 @@
+{
+    "麦克斯•琼斯": [
+      ["乔•罗伯特森", "friend of x, quest companion of x, partner in crime of x"], 
+      ["乔•罗伯特森", "helper of x"], 
+      ["乔•罗伯特森", "acquaintance of x"], 
+      ["哈罗德•哈里森", "acquaintance of x"], 
+      ["玛丽娜•哈里森", "possibly family of x, suspected by x"], 
+      ["露西•哈里森", "suspected by x"]
+    ],
+    "乔•罗伯特森": [
+      ["麦克斯•琼斯", "friend of x, quest companion of x, partner in crime of x"], 
+      ["麦克斯•琼斯", "helper of x"], 
+      ["麦克斯•琼斯", "acquaintance of x"]
+    ],
+    "哈罗德•哈里森": [
+      ["麦克斯•琼斯", "acquaintance of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["麦克斯•琼斯", "possibly family of x, suspected by x"]
+    ],
+    "露西•哈里森": [
+      ["麦克斯•琼斯", "suspected by x"]
+    ]
+}

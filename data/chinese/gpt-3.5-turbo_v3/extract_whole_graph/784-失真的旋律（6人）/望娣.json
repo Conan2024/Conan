@@ -1,0 +1,50 @@
+{
+    "望娣": [
+        [
+            "罗有诺",
+            "acquaintance of x, secret lover of x"
+        ],
+        [
+            "招楠",
+            "same person as x (different reference), replaced x's identity"
+        ],
+        [
+            "王子摩",
+            "husband of x, perpetrator of x"
+        ]
+    ],
+    "罗有诺": [
+        [
+            "望娣",
+            "acquaintance of x, secret lover of x"
+        ],
+        [
+            "招楠",
+            "same person as x (different reference)"
+        ]
+    ],
+    "招楠": [
+        [
+            "望娣",
+            "same person as x (different reference), replaced x's identity"
+        ],
+        [
+            "罗有诺",
+            "same person as x (different reference)"
+        ],
+        [
+            "王子摩",
+            "wife of x, perpetrator of x"
+        ]
+    ],
+    "王子摩": [
+        [
+            "望娣",
+            "husband of x, perpetrator of x"
+        ],
+        [
+            "招楠",
+            "wife of x"
+        ]
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "玲船医": [
+      ["杨老板", "employer of x, informant of x"], 
+      ["张大副", "information receiver from x, customer of x"], 
+      ["王船工", "father in law of x, suspect to x"], 
+      ["雯秘书", "colleague of x, messenger of x"], 
+      ["王小工", "fiance of x"]
+    ],
+    "杨老板": [
+      ["玲船医", "employee of x, victim of x"], 
+      ["张大副", "business partner of x"], 
+      ["雯秘书", "employer of x"]
+    ],
+    "张大副": [
+      ["杨老板", "business partner of x"], 
+      ["王船工", "subordinate of x, business partner of x"], 
+      ["玲船医", "employer of x"]
+    ],
+    "王船工": [
+      ["玲船医", "daughter in law of x, suspect of x"], 
+      ["张大副", "superior of x, business partner of x"], 
+      ["王小工", "father of x"]
+    ],
+    "雯秘书": [
+      ["玲船医", "colleague of x"], 
+      ["杨老板", "employee of x"]
+    ],
+    "王小工": [
+      ["玲船医", "fiance of x, suspected by x"], 
+      ["王船工", "son of x"], 
+      ["张大副", "subordinate of x"]
+    ]
+}

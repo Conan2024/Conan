@@ -1,0 +1,37 @@
+{
+    "小茜": [
+      ["chen倩", "friend of x, classmate of x"], 
+      ["李钦仁", "uncle of x"], 
+      ["草藤居士", "adoptive father of x"]
+    ],
+    "chen倩": [
+      ["小茜", "friend of x, classmate of x"]
+    ],
+    "方叶": [
+      ["小茜", "father of x"], 
+      ["方絮", "daughter of x"]
+    ],
+    "方絮": [
+      ["小茜", "sister of x"], 
+      ["方叶", "father of x"]
+    ],
+    "方眠": [
+      ["小茜", "sister of x"], 
+      ["方叶", "father of x"]
+    ],
+    "李钦仁": [
+      ["小茜", "uncle of x"], 
+      ["李延", "father of x"]
+    ],
+    "草藤居士": [
+      ["小茜", "adoptive father of x"], 
+      ["chen倩", "adoptive father of x"]
+    ],
+    "歹徒": [
+      ["小茜", "enemy of x"], 
+      ["chen倩", "enemy of x"]
+    ],
+    "book boy": [
+      ["小茜", "acquaintance of x"]
+    ]
+}

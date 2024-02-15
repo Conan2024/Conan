@@ -1,0 +1,38 @@
+{
+    "决明": [
+      ["盗圣", "crime partner of x, same person as x (different reference)"], 
+      ["玄冰教使者", "colleague of x"], 
+      ["陆英", "acquaintance of x, helped by x"], 
+      ["紫苏", "acquaintance of x"]
+    ],
+    "盗圣": [
+      ["决明", "crime partner of x, same person as x (different reference)"], 
+      ["陆英", "possibly family of x, romantic relationships with x"], 
+      ["蜂", "extramarital affair with x"]
+    ],
+    "玄冰教使者": [
+      ["决明", "colleague of x"], 
+      ["陆英", "helper of x"], 
+      ["蜂", "helper of x"], 
+      ["紫苏", "acquaintance of x, helper of x"]
+    ],
+    "陆英": [
+      ["决明", "acquaintance of x, helper of x"], 
+      ["盗圣", "possibly family of x, romantic relationships with x"], 
+      ["玄冰教使者", "helper of x"], 
+      ["蜂", "guest of x, secret lover of x"], 
+      ["紫苏", "friend of x"]
+    ],
+    "蜂": [
+      ["盗圣", "extramarital affair with x"], 
+      ["玄冰教使者", "helped by x"], 
+      ["陆英", "guest of x"], 
+      ["紫苏", "friend of x"]
+    ],
+    "紫苏": [
+      ["决明", "acquaintance of x"], 
+      ["玄冰教使者", "acquaintance of x, helper of x"], 
+      ["陆英", "friend of x"], 
+      ["蜂", "friend of x"]
+    ]
+}

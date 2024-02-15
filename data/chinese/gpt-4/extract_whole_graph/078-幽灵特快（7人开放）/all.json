@@ -1,0 +1,32 @@
+{
+    "杰克": [
+        [
+            "丽莎",
+            "wife of 杰克, deceiver of 丽莎, deception receiver from 丽莎, helper of 丽莎, helped by 丽莎, suspect to 丽莎, information receiver from 丽莎"
+        ],
+        [
+            "迪克",
+            "stranger to 杰克, suspected by 杰克"
+        ]
+    ],
+    "丽莎": [
+        [
+            "杰克",
+            "husband of 丽莎, deceiver of 杰克, deception receiver from 杰克, helper of 杰克, helped by 杰克, suspect to 杰克, informant of 杰克"
+        ],
+        [
+            "迪克",
+            "business partner of 丽莎, suspect to 迪克"
+        ]
+    ],
+    "迪克": [
+        [
+            "丽莎",
+            "business partner of 迪克, suspected by 丽莎"
+        ],
+        [
+            "杰克",
+            "stranger to 迪克, suspected by 迪克"
+        ]
+    ]
+}

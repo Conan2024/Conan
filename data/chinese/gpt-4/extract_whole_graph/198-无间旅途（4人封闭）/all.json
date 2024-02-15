@@ -1,0 +1,42 @@
+{
+    "蔺可可": [
+        [
+            "柏渡昀",
+            "acquaintance of x"
+        ],
+        [
+            "周明",
+            "admirer of x, secret lover of x"
+        ],
+        [
+            "刘导游",
+            "enemy of x, victim of x"
+        ]
+    ],
+    "柏渡昀": [
+        [
+            "蔺可可",
+            "stranger to x, student of x"
+        ]
+    ],
+    "周明": [
+        [
+            "蔺可可",
+            "admired by x"
+        ],
+        [
+            "刘导游",
+            "ex-wife of x"
+        ]
+    ],
+    "刘导游": [
+        [
+            "周明",
+            "ex-husband of x"
+        ],
+        [
+            "蔺可可",
+            "enemy of x, perpetrator of x"
+        ]
+    ]
+}

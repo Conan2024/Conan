@@ -1,0 +1,162 @@
+{
+    "张大副": [
+        [
+            "unknown",
+            "same person as 阳光号上的张大副"
+        ],
+        [
+            "杨老板",
+            "business partner of 杨老板",
+            "information receiver from 杨老板",
+            "adversary of 杨老板",
+            "attempted perpetrator of 杨老板"
+        ],
+        [
+            "很天真",
+            "colleague of 杨老板",
+            "perpetrator of 很天真",
+            "attempted perpetrator of 很天真"
+        ],
+        [
+            "王船工",
+            "product provider of 王船工",
+            "victim of 王船工"
+        ],
+        [
+            "玲船医",
+            "informant of 杨老板",
+            "information receiver from 雯秘书"
+        ],
+        [
+            "王小工",
+            "adversary of 雯秘书",
+            "victim of 雯秘书",
+            "husband of 玲船医"
+        ]
+    ],
+    "很天真": [
+        [
+            "杨老板",
+            "colleague of 杨老板",
+            "attempted perpetrator of 杨老板"
+        ],
+        [
+            "雯秘书",
+            "colleague of 杨老板",
+            "victim of 雯秘书"
+        ],
+        [
+            "杨老板的保镖",
+            "colleague of 杨老板",
+            "victim of 雯秘书"
+        ]
+    ],
+    "杨老板": [
+        [
+            "雯秘书",
+            "employer of 雯秘书",
+            "information receiver from 雯秘书"
+        ],
+        [
+            "很天真",
+            "colleague of 很天真",
+            "victim of 雯秘书"
+        ],
+        [
+            "玲船医",
+            "informant of 雯秘书",
+            "information receiver from 玲船医"
+        ],
+        [
+            "张大副",
+            "business partner of 张大副"
+        ],
+        [
+            "王船工",
+            "supplier of 毒品"
+        ],
+        [
+            "王小工",
+            "enemy of 杨老板"
+        ]
+    ],
+    "雯秘书": [
+        [
+            "杨老板",
+            "employee of 杨老板",
+            "mentor of 雯秘书",
+            "subject of investigation for 杨老板",
+            "perpetrator of 很天真"
+        ],
+        [
+            "很天真",
+            "colleague of 很天真",
+            "victim of 雯秘书"
+        ],
+        [
+            "王船工",
+            "supplier of 毒品",
+            "secret lover of 杨老板",
+            "informant of 杨老板"
+        ],
+        [
+            "张大副",
+            "business partner of 张大副"
+        ],
+        [
+            "玲船医",
+            "informant of 雯秘书",
+            "information receiver from 玲船医"
+        ],
+        [
+            "王小工",
+            "adversary of 雯秘书"
+        ]
+    ],
+    "王船工": [
+        [
+            "雯秘书",
+            "supplier of 毒品",
+            "secret lover of 杨老板",
+            "informant of 杨老板"
+        ],
+        [
+            "张大副",
+            "product provider of 张大副",
+            "victim of 雯秘书"
+        ]
+    ],
+    "玲船医": [
+        [
+            "杨老板",
+            "informant of 杨老板",
+            "information receiver from 杨老板"
+        ],
+        [
+            "雯秘书",
+            "informant of 雯秘书",
+            "information receiver from 雯秘书"
+        ],
+        [
+            "张大副",
+            "informant of 杨老板",
+            "information receiver from 杨老板"
+        ],
+        [
+            "王小工",
+            "wife of 王小工"
+        ]
+    ],
+    "王小工": [
+        [
+            "玲船医",
+            "husband of 玲船医",
+            "enemy of 雯秘书",
+            "victim of 雯秘书"
+        ],
+        [
+            "雯秘书",
+            "adversary of 雯秘书"
+        ]
+    ]
+}

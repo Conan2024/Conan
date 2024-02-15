@@ -1,0 +1,54 @@
+{
+    "阿明": [
+      ["吴百安", "friend of x"], 
+      ["夏三虎", "co wives of x, bully of x, business partner of x, attempted murderer of x"], 
+      ["夏仲鹏", "relative of x, nephew of x, colleague of x"], 
+      ["夏叔娥", "master of x, teacher of x, employer of x"], 
+      ["宇祖成木", "friend of x"], 
+      ["岳东汶", "employer of x, mentor of x"], 
+      ["段约同", "suspect of x, attempted murderer of x"], 
+      ["安琪", "friend of x"]
+    ],
+    "吴百安": [
+      ["阿明", "friend of x"], 
+      ["夏三虎", "co wives of x, bully of x"], 
+      ["夏仲鹏", "relative of x, nephew of x"], 
+      ["夏叔娥", "master of x, teacher of x"]
+    ],
+    "夏三虎": [
+      ["阿明", "co wives of x, bully of x, business partner of x"], 
+      ["吴百安", "co wives of x, bully of x"], 
+      ["夏仲鹏", "relative of x, nephew of x"], 
+      ["夏叔娥", "master of x, teacher of x"], 
+      ["宇祖成木", "friend of x"]
+    ],
+    "夏仲鹏": [
+      ["阿明", "relative of x, nephew of x"], 
+      ["吴百安", "relative of x, nephew of x"], 
+      ["夏三虎", "co wives of x, bully of x"], 
+      ["夏叔娥", "master of x, teacher of x"]
+    ],
+    "夏叔娥": [
+      ["阿明", "master of x, teacher of x, employer of x"], 
+      ["吴百安", "master of x, teacher of x"], 
+      ["夏三虎", "co wives of x, bully of x"], 
+      ["夏仲鹏", "relative of x, nephew of x"]
+    ],
+    "宇祖成木": [
+      ["阿明", "friend of x"], 
+      ["吴百安", "friend of x"], 
+      ["夏三虎", "friend of x"]
+    ],
+    "岳东汶": [
+      ["阿明", "employer of x, mentor of x"], 
+      ["夏三虎", "employer of x, mentor of x"]
+    ],
+    "段约同": [
+      ["阿明", "suspect of x, attempted murderer of x"], 
+      ["吴百安", "suspect of x, attempted murderer of x"]
+    ],
+    "安琪": [
+      ["阿明", "friend of x"], 
+      ["宇祖成木", "friend of x"]
+    ]
+}

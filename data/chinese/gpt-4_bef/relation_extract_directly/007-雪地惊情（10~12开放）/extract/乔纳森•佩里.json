@@ -1,0 +1,54 @@
+{
+    "乔纳森•佩里": [
+      ["露西表妹", "romantic relationships with x, secret lover of x, cousin of x"], 
+      ["乔纳森母亲", "mother of x"], 
+      ["姨妈玛丽娜", "aunt of x, disliked by x"], 
+      ["艾莱克斯•哈维", "information receiver from x"], 
+      ["约翰•摩根", "victim of x"], 
+      ["丹尼尔•佩里", "father of x"], 
+      ["杰奎琳•佩里", "mother of x"], 
+      ["戴维斯•佩里", "uncle of x, mentor of x"], 
+      ["露西•哈里森", "romantic relationships with x, secret lover of x, cousin of x"]
+    ],
+    "露西表妹": [
+      ["乔纳森•佩里", "romantic relationships with x, secret lover of x, cousin of x"], 
+      ["露西父母", "child of x"]
+    ],
+    "露西父母": [
+      ["乔纳森•佩里", "nephew of x"]
+    ],
+    "乔纳森母亲": [
+      ["乔纳森•佩里", "child of x"], 
+      ["姨妈玛丽娜", "sister in law of x, disliked by x"]
+    ],
+    "姨妈玛丽娜": [
+      ["乔纳森•佩里", "nephew of x, disliked by x"], 
+      ["露西•哈里森", "mother of x"], 
+      ["乔纳森母亲", "sister in law of x, dislike of x"]
+    ],
+    "艾莱克斯•哈维": [
+      ["乔纳森•佩里", "informant of x"]
+    ],
+    "约翰•摩根": [
+      ["乔纳森•佩里", "perpetrator of x"], 
+      ["露西•哈里森", "acquaintance of x"]
+    ],
+    "丹尼尔•佩里": [
+      ["乔纳森•佩里", "father of x"]
+    ],
+    "杰奎琳•佩里": [
+      ["乔纳森•佩里", "mother of x"]
+    ],
+    "戴维斯•佩里": [
+      ["乔纳森•佩里", "uncle of x, mentor of x"]
+    ],
+    "露西•哈里森": [
+      ["乔纳森•佩里", "romantic relationships with x, secret lover of x, cousin of x"], 
+      ["姨妈玛丽娜", "child of x"], 
+      ["姨父哈罗德", "father of x"], 
+      ["约翰•摩根", "acquaintance of x"]
+    ],
+    "姨父哈罗德": [
+      ["露西•哈里森", "father of x"]
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "戴维斯•佩里": [
+      ["玛丽娜•哈里森", "暗戀 of x, 同理 of x, 優しい関係 of x"], 
+      ["杰奎琳•佩里", "玛丽娜•哈里森 of x, 露西•哈里森 of x, 哈罗德•哈里森 of x, 艾米•摩根 of x"], 
+      ["露西•哈里森", "潜在的敌人 of x, 可疑的人物 of x"], 
+      ["哈罗德•哈里森", "玛丽娜•哈里森 of x, 杰奎琳•佩里 of x, 露西•哈里森 of x, 约翰•摩根 of x"], 
+      ["艾米•摩根", "玛丽娜•哈里森 of x, 杰奎琳•佩里 of x, 露西•哈里森 of x, 哈罗德•哈里森 of x"], 
+      ["约翰•摩根", "杰奎琳•佩里 of x, 露西•哈里森 of x, 哈罗德•哈里森 of x, 艾米•摩根 of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["戴维斯•佩里", "夫妻 of x, 浪漫 of x, 共赴哈里森 of x"], 
+      ["杰奎琳•佩里", "rival of x, enemy of x"], 
+      ["露西•哈里森", "姐妹 of x, 朋友 of x, 儿时玩伴 of x"], 
+      ["哈罗德•哈里森", "husband of x, wife of x, extramarital affair with x, romantic relationships with x, ex romantic relationships with x"], 
+      ["艾米•摩根", "杰奎琳•佩里 of x, 露西•哈里森 of x, 哈罗德•哈里森 of x"], 
+      ["约翰•摩根", "acquaintance of x, paramour of x, love rival of x, enemy of x"]
+    ],
+    "杰奎琳•佩里": [
+      ["戴维斯•佩里", "丹尼尔•哈里森 of x, 露西•哈里森 of x"], 
+      ["玛丽娜•哈里森", "enemy of x, rival of x"], 
+      ["露西•哈里森", "玛丽娜•哈里森 of x"], 
+      ["哈罗德•哈里森", "husband of x, informant of x"], 
+      ["艾米•摩根", "妻子 of x, 离婚 of x, 敌对 of x, rival of x"], 
+      ["约翰•摩根", "丈夫 of x"]
+    ],
+    "露西•哈里森": [
+      ["戴维斯•佩里", "潜在的朋友 of x, 可能的协助者 of x"], 
+      ["玛丽娜•哈里森", "姐妹 of x, 朋友 of x, 儿时玩伴 of x"], 
+      ["杰奎琳•佩里", "玛丽娜•哈里森 of x"], 
+      ["哈罗德•哈里森", "姐妹 of x"], 
+      ["艾米•摩根", "acquaintance of x, potential rival of x"], 
+      ["约翰•摩根", "杰奎琳•佩里 of x, 哈罗德•哈里森 of x"]
+    ],
+    "哈罗德•哈里森": [
+      ["戴维斯•佩里", "玛丽娜•哈里森 of x, 杰奎琳•佩里 of x, 露西•哈里森 of x, 艾米•摩根 of x"], 
+      ["玛丽娜•哈里森", "husband of x, wife of x, extramarital affair with x, romantic relationships with x, ex romantic relationships with x"], 
+      ["露西•哈里森", "哥哥 of x"], 
+      ["艾米•摩根", "姐姐 of x, 姐夫 of x"], 
+      ["约翰•摩根", "杰奎琳•佩里 of x, 露西•哈里森 of x"]
+    ],
+    "艾米•摩根": [
+      ["戴维斯•佩里", "约翰•摩根 of x, 玛丽娜•哈里森 of x, 杰奎琳•佩里 of x, 露西•哈里森 of x, 哈罗德•哈里森 of x"], 
+      ["玛丽娜•哈里森", "约翰•摩根 of x"], 
+      ["杰奎琳•佩里", "丈夫 of x, 约翰•摩根 of x, widow of x, suspect of x"], 
+      ["露西•哈里森", "acquaintance of x, potential rival of x"], 
+      ["哈罗德•哈里森", "妻夫 of x, 丈夫 of x"], 
+      ["约翰•摩根", "spouse of x"]
+    ],
+    "约翰•摩根": [
+      ["戴维斯•佩里", "杰奎琳•佩里 of x, 露西•哈里森 of x, 哈罗德•哈里森 of x, 艾米•摩根 of x"], 
+      ["玛丽娜•哈里森", "husband of x, bully of x, murderer of x, deceased of x"], 
+      ["杰奎琳•佩里", "妻夫 of x"], 
+      ["露西•哈里森", "杰奎琳•佩里 of x, 艾米•摩根 of x"], 
+      ["哈罗德•哈里森", "杰奎琳•佩里 of x, 艾米•摩根 of x"], 
+      ["艾米•摩根", "spouse of x"]
+    ],
+    "哈罗德•啊里森": [
+      ["杰奎琳•佩里", "brother of x, rival of x"]
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "弥生": [
+        [
+            "宁淑",
+            "acquaintance of x"
+        ],
+        [
+            "瑞容",
+            "acquaintance of x"
+        ],
+        [
+            "伊藤先生",
+            "helper of x, saved by x"
+        ],
+        [
+            "木下武史",
+            "same person as x (different identity), admirer of x, helped by x"
+        ],
+        [
+            "张寡妇",
+            "mother of x"
+        ],
+        [
+            "木下竜三",
+            "helper of x"
+        ],
+        [
+            "すい",
+            "mother of x (mother of x's husband)"
+        ],
+        [
+            "渝娘",
+            "acquaintance of x"
+        ],
+        [
+            "李妈妈",
+            "acquaintance of x, information receiver from x"
+        ],
+        [
+            "大伯",
+            "acquaintance of x"
+        ]
+    ],
+    "宁淑": [
+        [
+            "瑞容",
+            "mother of x"
+        ],
+        [
+            "渝娘",
+            "friend of x"
+        ]
+    ],
+    "瑞容": [
+        [
+            "宁淑",
+            "daughter of x"
+        ]
+    ],
+    "伊藤先生": [
+        [
+            "弥生",
+            "saved by x, debtor of x"
+        ]
+    ],
+    "木下武史": [
+        [
+            "弥生",
+            "same person as x (different identity), admirer of x"
+        ],
+        [
+            "木下竜三",
+            "son of x"
+        ],
+        [
+            "すい",
+            "son of x"
+        ]
+    ],
+    "木下竜三": [
+        [
+            "木下武史",
+            "father of x"
+        ],
+        [
+            "すい",
+            "husband of x"
+        ],
+        [
+            "弥生",
+            "helper of x"
+        ]
+    ],
+    "すい": [
+        [
+            "木下武史",
+            "mother of x"
+        ],
+        [
+            "木下竜三",
+            "wife of x"
+        ],
+        [
+            "弥生",
+            "mother of x (mother of x's husband)"
+        ]
+    ],
+    "渝娘": [
+        [
+            "弥生",
+            "acquaintance of x"
+        ],
+        [
+            "宁淑",
+            "friend of x"
+        ]
+    ],
+    "张寡妇": [
+        [
+            "弥生",
+            "mother of x"
+        ]
+    ],
+    "大伯": [
+        [
+            "弥生",
+            "acquaintance of x"
+        ]
+    ],
+    "李妈妈": [
+        [
+            "弥生",
+            "acquaintance of x, information provider of x"
+        ],
+        [
+            "张寡妇",
+            "acquaintance of x"
+        ]
+    ]
+}

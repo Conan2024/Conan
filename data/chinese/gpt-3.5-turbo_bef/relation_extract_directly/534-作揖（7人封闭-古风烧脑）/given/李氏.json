@@ -1,0 +1,22 @@
+{
+    "李氏": [
+      ["方绪", "biological mother of x"], 
+      ["方竹", "adoptive sister of x"], 
+      ["李钦仁", "husband of x"], 
+      ["李仲", "father in law of x"]
+    ],
+    "方绪": [
+      ["李氏", "daughter of x"], 
+      ["方竹", "sister of x"]
+    ],
+    "方竹": [
+      ["方绪", "sister of x, daughter of x"]
+    ],
+    "李钦仁": [
+      ["李氏", "wife of x"], 
+      ["李仲", "son of x"]
+    ],
+    "李仲": [
+      ["李氏", "father in law of x"]
+    ]
+}

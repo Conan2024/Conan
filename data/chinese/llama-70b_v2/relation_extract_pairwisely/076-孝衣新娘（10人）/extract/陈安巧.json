@@ -1,0 +1,52 @@
+{
+    "陈安巧": [
+      ["陈均梦", "同族的堂姊妹 of x, 侍女 of x"], 
+      ["陈轻梧", "relative of x, chen family of x, acquaintance of x"], 
+      ["姚长寿", "房屋人関係 of x, 長輩illas relationship of x, 鄰居關係 of x, 共同通信 relationship of x"], 
+      ["姚仲义", "姐妹 of x, 同辈 of x, 同事 of x, conspirators of x"]
+    ],
+    "陈均梦": [
+      ["陈安巧", "同族的堂姊妹 of x, 侍女 of x"], 
+      ["陈轻梧", "relative of x, co wife of x"], 
+      ["姚长寿", "father in law of x"], 
+      ["姚仲义", "relative of x, in law of x"]
+    ],
+    "陈轻梧": [
+      ["陈安巧", "relative of x, chen family of x, acquaintance of x"], 
+      ["陈均梦", "relative of x, husband of x"], 
+      ["姚长寿", "employee of x, servant of x, colleague of x, business partner of x, customer of x"], 
+      ["姚仲义", "father in law of x, employer of x, gift giver of x, instructor of x, treasure seeker of x"], 
+      ["红夫人", "father of x, husband of x, son/daughter of x"]
+    ],
+    "姚长寿": [
+      ["陈安巧", "房屋人関係 of x, 長輩illas relationship of x, 鄰居關係 of x, 共同通信 relationship of x"], 
+      ["陈均梦", "son in law of x"], 
+      ["陈轻梧", "employer of x, master of x, superior of x, benefactor of x, patron of x"], 
+      ["姚孟仁", "father in law of x, master of x the house"], 
+      ["姚仲义", "father in law of x, master of x the house"], 
+      ["红夫人", "husband of x"]
+    ],
+    "姚孟仁": [
+      ["陈均梦", "wife of x, master of x, person who gave task of x"], 
+      ["姚长寿", "father in law of x, master of x the house"], 
+      ["姚仲义", "brother in law of x, co inheritor of x  chen anfeng's estate"], 
+      ["红夫人", "sister in law of x"]
+    ],
+    "姚仲义": [
+      ["陈安巧", "姐妹 of x, 同辈 of x, 同事 of x, conspirators of x"], 
+      ["陈均梦", "relative of x, brother in law of x"], 
+      ["陈轻梧", "father in law of x, employer of x, letter writer of x, guard of x, treasure seeker of x"], 
+      ["姚长寿", "brother in law of x, younger brother of x"], 
+      ["姚孟仁", "brother in law of x, co inheritor of x  chen anfeng's estate"], 
+      ["红夫人", "兄弟 of x, rival of x, bully of x"]
+    ],
+    "红夫人": [
+      ["陈轻梧", "father of x, husband of x, son/daughter of x"], 
+      ["姚长寿", "wife of x"], 
+      ["姚孟仁", "sister in law of x"], 
+      ["姚仲义", "姐妹 of x, romantic partner of x, wife of x"]
+    ],
+    " Chen均梦": [
+      ["姚孟仁", "sister in law of x, maidservant of x, discoverer of x hidden treasure map"]
+    ]
+}

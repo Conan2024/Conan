@@ -1,0 +1,44 @@
+{
+    "李保安": [
+        [
+            "田助理",
+            "employee of x"
+        ],
+        [
+            "孙清洁",
+            "friend of x"
+        ],
+        [
+            "贾教授",
+            "colleague of x"
+        ],
+        [
+            "秦鸥",
+            "romantic relationships with x"
+        ]
+    ],
+    "田助理": [
+        [
+            "李保安",
+            "employer of x"
+        ]
+    ],
+    "孙清洁": [
+        [
+            "李保安",
+            "friend of x"
+        ]
+    ],
+    "贾教授": [
+        [
+            "李保安",
+            "colleague of x"
+        ]
+    ],
+    "秦鸥": [
+        [
+            "李保安",
+            "romantic relationships with x"
+        ]
+    ]
+}

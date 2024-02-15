@@ -1,0 +1,70 @@
+{
+    "韦小弟": [
+      ["韦小弟的父亲", "child of x, sibling of x"], 
+      ["韦小弟的母亲", "child of x"], 
+      ["秦老大", "helper of x, friend of x"], 
+      ["庄清纯", "admirer of x"], 
+      ["贾美丽", "romantic relationships with x, acquaintance of x"], 
+      ["郑友好", "friend of x, helper of x"]
+    ],
+    "韦小弟的父亲": [
+      ["韦小弟", "father of x"], 
+      ["韦小弟的母亲", "husband of x"], 
+      ["秦专家", "extramarital affair with x"], 
+      ["庄清纯", "husband of x"], 
+      ["贾美丽", "romantic relationships with x, possibly family of x"], 
+      ["郑友好", "mentor of x"]
+    ],
+    "韦小弟的母亲": [
+      ["韦小弟", "mother of x"], 
+      ["韦小弟的父亲", "wife of x"], 
+      ["秦专家", "wife of x"], 
+      ["秦老大", "ex girlfriend of x"], 
+      ["庄清纯", "child of x"], 
+      ["贾美丽", "ex wife of x"], 
+      ["郑友好", "student of x"]
+    ],
+    "秦专家": [
+      ["韦小弟的父亲", "extramarital affair with x"], 
+      ["韦小弟的母亲", "husband of x"], 
+      ["秦老大", "extramarital affair with x, romantic relationships with x"], 
+      ["庄清纯", "ex boyfriend of x"], 
+      ["贾美丽", "extramarital affair with x, romantic relationships with x"], 
+      ["郑友好", "mentor of x"]
+    ],
+    "秦老大": [
+      ["韦小弟", "manipulated by x, patient of x"], 
+      ["韦小弟的父亲", "possibly family of x"], 
+      ["韦小弟的母亲", "ex boyfriend of x"], 
+      ["秦专家", "extramarital affair with x, romantic relationships with x"], 
+      ["庄清纯", "romantic relationships with x, fondness of x"], 
+      ["贾美丽", "ex wife of x"], 
+      ["郑友好", "acquaintance of x"]
+    ],
+    "庄清纯": [
+      ["韦小弟的父亲", "wife of x"], 
+      ["韦小弟的母亲", "mother of x"], 
+      ["秦专家", "ex girlfriend of x"], 
+      ["秦老大", "romantic relationships with x, fondness of x"], 
+      ["贾美丽", "friend of x"], 
+      ["郑友好", "classmate of x"]
+    ],
+    "贾美丽": [
+      ["韦小弟", "romantic relationships with x, acquaintance of x"], 
+      ["韦小弟的父亲", "romantic relationships with x, possibly family of x"], 
+      ["韦小弟的母亲", "ex wife of x"], 
+      ["秦专家", "extramarital affair with x, romantic relationships with x"], 
+      ["秦老大", "ex husband of x"], 
+      ["庄清纯", "friend of x"], 
+      ["郑友好", "romantic relationships with x"]
+    ],
+    "郑友好": [
+      ["韦小弟", "friend of x"], 
+      ["韦小弟的父亲", "student of x"], 
+      ["韦小弟的母亲", "teacher of x"], 
+      ["秦专家", "student of x"], 
+      ["秦老大", "acquaintance of x"], 
+      ["庄清纯", "classmate of x"], 
+      ["贾美丽", "romantic relationships with x"]
+    ]
+}

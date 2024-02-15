@@ -1,0 +1,185 @@
+{
+    "帕洛斯基医生": [
+        [
+            "汉斯·里莫瑞特",
+            "relationship 1: Mentor of X",
+            "relationship 2: Employer of X"
+        ],
+        [
+            "理查德·伯克利",
+            "Acquaintance",
+            "Colleague",
+            "Supervisor"
+        ],
+        [
+            "盖尔·里莫瑞特",
+            "Co-worker",
+            "Friend",
+            "Mentor",
+            "Teacher",
+            "Student",
+            "Informant",
+            "Information Receiver",
+            "Acquaintance",
+            "Classmate",
+            "Schoolmate",
+            "Neighbour",
+            "Helper",
+            "Helped",
+            "Perpetrator",
+            "Bully",
+            "Murderer",
+            "Attempted Perpetrator",
+            "Attempted Murderer",
+            "Victim",
+            "killed by x"
+        ],
+        [
+            "西尔维娅·科斯塔",
+            "relationship 1: Mentor",
+            "relationship 2: Supervisor"
+        ]
+    ],
+    "汉斯·里莫瑞特": [
+        [
+            "帕洛斯基医生",
+            "relationship 1: Mentee of X",
+            "relationship 2: Employee of X"
+        ],
+        [
+            "理查德·伯克利",
+            "coworker",
+            "employer",
+            "friend",
+            "confidant",
+            "rival"
+        ],
+        [
+            "盖尔·里莫瑞特",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "西尔维娅·科斯塔",
+            " Husband of X",
+            " Father of X",
+            " Brother of X",
+            " Friend of X",
+            " Colleague of X",
+            " Business Partner of X",
+            " Customer of X",
+            " Buyer of X",
+            " Tenant of X"
+        ]
+    ],
+    "理查德·伯克利": [
+        [
+            "帕洛斯基医生",
+            "Acquaintance",
+            "Colleague",
+            "Subordinate"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "coworker",
+            "employer",
+            "friend",
+            "confidant",
+            "rival"
+        ],
+        [
+            "盖尔·里莫瑞特",
+            "德雷克·里莫瑞特"
+        ],
+        [
+            "西尔维娅·科斯塔",
+            "Employer of X",
+            "Master of X",
+            "Supervisor of X"
+        ]
+    ],
+    "盖尔·里莫瑞特": [
+        [
+            "帕洛斯基医生",
+            "Co-worker",
+            "Friend",
+            "Mentor",
+            "Teacher",
+            "Student",
+            "Informant",
+            "Information Receiver",
+            "Acquaintance",
+            "Classmate",
+            "Schoolmate",
+            "Neighbour",
+            "Helper",
+            "Helped",
+            "Perpetrator",
+            "Bully",
+            "Murderer",
+            "Attempted Perpetrator",
+            "Attempted Murderer",
+            "Victim",
+            "killed by x"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "理查德·伯克利",
+            "德雷克·里莫瑞特"
+        ],
+        [
+            "西尔维娅·科斯塔",
+            "husband of X",
+            " brother of X",
+            "friend of X",
+            "colleague of X",
+            "business partner of X",
+            "customer of X",
+            "patient of X"
+        ]
+    ],
+    "西尔维娅·科斯타": [
+        [
+            "帕洛斯基医生",
+            "relationship 1: Mentee",
+            "relationship 2: Subordinate"
+        ]
+    ],
+    "西尔维娅·科斯塔": [
+        [
+            "汉斯·里莫瑞特",
+            " Wife of X",
+            " Mother of X",
+            " Sister of X",
+            " Daughter of X",
+            " Niece of X",
+            " Cousin of X",
+            " Friend of X",
+            " Colleague of X",
+            " Business Partner of X",
+            " Customer of X",
+            " Buyer of X",
+            " Tenant of X"
+        ],
+        [
+            "理查德·伯克利",
+            "Employee of X",
+            "Subordinate of X",
+            "Colleague of X"
+        ],
+        [
+            "盖尔·里莫瑞特",
+            "wife of X",
+            "sister of X",
+            "friend of X",
+            "colleague of X",
+            "business partner of X",
+            "customer of X",
+            "patient of X"
+        ]
+    ]
+}

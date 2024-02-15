@@ -1,0 +1,325 @@
+{
+    "李延": [
+        [
+            "李府李钦仁"
+        ],
+        [
+            "李氏",
+            "husband of 李氏"
+        ],
+        [
+            "李仲",
+            "mentor of 李延",
+            "informant of 李延"
+        ],
+        [
+            "接生婆",
+            "teacher of 接生婆",
+            "friend of 接生婆"
+        ],
+        [
+            "郎中",
+            "student of 李延"
+        ],
+        [
+            "陈府",
+            "employer of x"
+        ],
+        [
+            "陈孜靖",
+            "classmate of 李延"
+        ],
+        [
+            "陈倩",
+            "friend of x",
+            "mentor of x"
+        ]
+    ],
+    "李府李钦仁": [
+        [
+            "李延"
+        ],
+        [
+            "李氏",
+            "husband of 李氏",
+            "father of 李延"
+        ],
+        [
+            "李仲",
+            "father of 李仲"
+        ],
+        [
+            "接生婆"
+        ],
+        [
+            "郎中",
+            "doctor of x"
+        ],
+        [
+            "陈府",
+            "friend of x",
+            "mentor of x"
+        ],
+        [
+            "陈孜靖",
+            "co wives of x",
+            "friend of x",
+            "future relative of x"
+        ],
+        [
+            "陈倩",
+            "wife of 李府李钦仁",
+            "extramarital affair with 陈倩"
+        ]
+    ],
+    "李氏": [
+        [
+            "李延",
+            "wife of 李延"
+        ],
+        [
+            "李府李钦仁",
+            "wife of 李府李钦仁",
+            "mother of 李延"
+        ],
+        [
+            "李仲",
+            "sibling of"
+        ],
+        [
+            "接生婆",
+            "child of 接生婆"
+        ],
+        [
+            "郎中",
+            "wife of x"
+        ],
+        [
+            "陈府",
+            "wife of x"
+        ],
+        [
+            "陈孜靖",
+            "friend of x",
+            "mentor of x"
+        ],
+        [
+            "陈倩",
+            "mother of 李延"
+        ]
+    ],
+    "接生婆": [
+        [
+            "李延",
+            "student of 李延",
+            "friend of 李延"
+        ],
+        [
+            "李府李钦仁",
+            "midwife of 李府李钦仁"
+        ],
+        [
+            "李氏",
+            "mother of 李氏"
+        ],
+        [
+            "李仲",
+            "student of 接生婆",
+            "mentor of 接生婆"
+        ],
+        [
+            "郎中",
+            "mentor of",
+            "helper of"
+        ],
+        [
+            "陈府",
+            "guest of x",
+            "nurse of x"
+        ],
+        [
+            "陈孜靖",
+            "helper of x"
+        ],
+        [
+            "陈倩",
+            "mentor of x",
+            "helper of x",
+            "teacher of x"
+        ]
+    ],
+    "郎中": [
+        [
+            "李延",
+            "mentor of 郎中"
+        ],
+        [
+            "李府李钦仁",
+            "patient of x"
+        ],
+        [
+            "李氏",
+            "husband of x"
+        ],
+        [
+            "李仲",
+            "son of 李延"
+        ],
+        [
+            "接生婆",
+            "student of"
+        ],
+        [
+            "陈府",
+            "doctor of"
+        ],
+        [
+            "陈孜靖",
+            "teacher of 李延"
+        ],
+        [
+            "陈倩",
+            "mentor of"
+        ]
+    ],
+    "陈府": [
+        [
+            "李延",
+            "employee of x"
+        ],
+        [
+            "李府李钦仁",
+            "friend of x",
+            "student of x"
+        ],
+        [
+            "李氏",
+            "husband of x"
+        ],
+        [
+            "李仲",
+            "brother in law of 李仲"
+        ],
+        [
+            "接生婆",
+            "patient of x"
+        ],
+        [
+            "郎中",
+            "patient of"
+        ],
+        [
+            "陈孜靖",
+            "adoptive daughter of 李延"
+        ],
+        [
+            "陈倩",
+            "daughter of x",
+            "neighbour of x",
+            "student of x"
+        ]
+    ],
+    "陈倩": [
+        [
+            "李延",
+            "friend of x",
+            "student of x"
+        ],
+        [
+            "李府李钦仁",
+            "husband of 陈倩",
+            "extramarital affair with 李府李钦仁"
+        ],
+        [
+            "李氏",
+            "son of 陈倩"
+        ],
+        [
+            "李仲",
+            "possible family of 李延"
+        ],
+        [
+            "接生婆",
+            "student of x",
+            "receiver of information from x"
+        ],
+        [
+            "郎中",
+            "student of"
+        ],
+        [
+            "陈府",
+            "child of x",
+            "neighbour of x",
+            "student of x"
+        ],
+        [
+            "陈孜靖",
+            "half sister of"
+        ]
+    ],
+    "李仲": [
+        [
+            "李府李钦仁",
+            "son of 李府李钦仁"
+        ],
+        [
+            "李氏",
+            "sibling of"
+        ],
+        [
+            "接生婆",
+            "teacher of 李仲",
+            "helper of 李仲"
+        ],
+        [
+            "郎中",
+            "father of 李延"
+        ],
+        [
+            "陈府",
+            "brother in law of 陈府"
+        ],
+        [
+            "陈孜靖",
+            "child of x"
+        ],
+        [
+            "陈倩",
+            "possible family of 李延"
+        ]
+    ],
+    "陈孜靖": [
+        [
+            "李府李钦仁",
+            "co wives of x",
+            "friend of x",
+            "future relative of x"
+        ],
+        [
+            "李氏",
+            "friend of x",
+            "student of x"
+        ],
+        [
+            "李仲",
+            "father of x"
+        ],
+        [
+            "接生婆",
+            "patient of x"
+        ],
+        [
+            "郎中",
+            "student of 李延"
+        ],
+        [
+            "陈府",
+            "adopted by 李延"
+        ],
+        [
+            "陈倩",
+            "half sister of"
+        ]
+    ]
+}

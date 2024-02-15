@@ -1,0 +1,54 @@
+{
+    "方柳": [
+      ["李仲", "father of x, husband of x"], 
+      ["李延", "same person as x (different identity)"], 
+      ["尔矢斯芭嗒", "guest of x"], 
+      ["特尔特拉福德", "acquaintance of x, business partner of x, victim of x, victim of x, possibly family of x, information receiver from x, manipulator of x, manipulated by x, suspect to x, adversary of x"]
+    ],
+    "李仲": [
+      ["方柳", "child of x, husband of x"], 
+      ["小茜", "extramarital affair with x"], 
+      ["李延", "same person as x (different identity), twin brother of x"], 
+      ["尔矢斯芭嗒", "acquaintance of x"], 
+      ["陈倩", "fiance of x, victim of x"], 
+      ["特尔特拉福德", "child of x, victim of x, attempted perpetrator of x, business partner of x"]
+    ],
+    "小茜": [
+      ["李仲", "victim of x, possibly family of x"], 
+      ["李延", "possibly family of x, younger sister of x"], 
+      ["尔矢斯芭嗒", "adoptive daughter of x, student of x"], 
+      ["陈倩", "same person as x (different identity)"], 
+      ["特尔特拉福德", "student of x, child of x"]
+    ],
+    "李延": [
+      ["方柳", "same person as x (different identity)"], 
+      ["李仲", "same person as x (different identity), twin brother of x"], 
+      ["小茜", "possibly family of x, older brother of x"], 
+      ["尔矢斯芭嗒", "helper of x, deceiver of x"], 
+      ["陈倩", "fiance of x, attempted perpetrator of x"], 
+      ["特尔特拉福德", "perpetrator of x, same person as x (different identity)"]
+    ],
+    "尔矢斯芭嗒": [
+      ["方柳", "host of x"], 
+      ["李仲", "acquaintance of x"], 
+      ["小茜", "relative of x, teacher of x"], 
+      ["李延", "helped by x, deceived by x, adversary of x"], 
+      ["陈倩", "helped by x, same person as x (different identity), informant of x"], 
+      ["特尔特拉福德", "quest companion of x, admired by x, helper of x, same person as x (different identity), replaced x's identity, possibly family of x, suspect to x, information receiver from x, informant of x, manipulated by x, deceiver of x"]
+    ],
+    "特尔特拉福德": [
+      ["方柳", "acquaintance of x, business partner of x, perpetrator of x, suspected by x, informant of x, manipulator of x, suspect of x, adversary of x"], 
+      ["李仲", "father of x, perpetrator of x, attempted murderer of x, customer of x"], 
+      ["小茜", "father of x, mentor of x"], 
+      ["李延", "victim of x, same person as x (different reference)"], 
+      ["尔矢斯芭嗒", "admired by x, helper of x, same person as x (different reference), child of x, manipulator of x"], 
+      ["陈倩", "father of x"]
+    ],
+    "陈倩": [
+      ["李仲", "fiancee of x, attempted perpetrator of x"], 
+      ["小茜", "same person as x (different identity)"], 
+      ["李延", "fiancee of x, victim of x"], 
+      ["尔矢斯芭嗒", "father of x"], 
+      ["特尔特拉福德", "child of x"]
+    ]
+}

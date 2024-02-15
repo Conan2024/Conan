@@ -1,0 +1,33 @@
+{
+    "哈罗德•哈里森": [
+      ["麦克斯•派克", "coworker of x, possible criminal associate of x"], 
+      ["玛丽娜•哈里森", "spouse of x, suspected of x infidelity"], 
+      ["露西•哈里森", "daughter of x, possible paternity issue of x"], 
+      ["艾米•摩根", "sister of x, confidant of x, secret keeper of x"], 
+      ["约翰•摩根", "brother in law of x, acquaintance of x, deceased of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["哈罗德•哈里森", "spouse of x, suspected of x infidelity"], 
+      ["露西•哈里森", "daughter of x, possible paternity issue of x"], 
+      ["杰奎琳•佩里", "sister of x, business partner of x, rival of x"]
+    ],
+    "露西•哈里森": [
+      ["哈罗德•哈里森", "father of x, possible paternity issue of x"], 
+      ["玛丽娜•哈里森", "mother of x, possible paternity issue of x"]
+    ],
+    "艾米•摩根": [
+      ["哈罗德•哈里森", "brother of x, confidant of x, secret keeper of x"], 
+      ["约翰•摩根", "husband of x, deceased of x"]
+    ],
+    "约翰•摩根": [
+      ["哈罗德•哈里森", "brother in law of x, acquaintance of x, deceased of x"], 
+      ["艾米•摩根", "wife of x, deceased of x"]
+    ],
+    "杰奎琳•佩里": [
+      ["哈罗德•哈里森", "brother in law of x, business partner of x, rival of x"], 
+      ["玛丽娜•哈里森", "sister of x, business partner of x, rival of x"]
+    ],
+    "麦克斯•派克": [
+      ["哈罗德•哈里森", "coworker of x, possible criminal associate of x"]
+    ]
+}

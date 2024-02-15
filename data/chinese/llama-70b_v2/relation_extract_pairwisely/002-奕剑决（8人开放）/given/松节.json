@@ -1,0 +1,42 @@
+{
+    "忍冬": [
+      ["松节", "relation ship 1 of x"], 
+      ["武林盟的信使", "co worker of x, friend of x, acquaintance of x, helper of x"], 
+      ["玄参", "相互推荐的朋友 of x"], 
+      ["蜂", "同行associate of x"], 
+      ["陸英", "相互怀疑 of x"]
+    ],
+    "松节": [
+      ["武林盟的信使", "同一門派的信使 of x"], 
+      ["玄参", "同事（coworker） of x, 合作者（collaborator） of x, 至 mutable（mutual benefactor） of x, 至 closely（close friend） of x, 至 intimate（intimate friend） of x, 至 confidant（trusted confidant） of x"], 
+      ["蜂", "同一gang of x, co workers of x, acquaintances of x, rivals of x"]
+    ],
+    "武林盟的信使": [
+      ["忍冬", "co worker of x, friend of x, acquaintance of x, helper of x"], 
+      ["松节", "同一門派的信使 of x"], 
+      ["玄参", "relationship 1: x is a colleague of x, relationship 2: x is a superior of x"], 
+      ["蜂", "同事 (+) of x, 潜入 (+) of x, 见习 (+) of x, 合作 (+) of x"], 
+      ["陆英", "relationship 1: acquaintance of x, relationship 2: suspect of x"]
+    ],
+    "玄参": [
+      ["忍冬", "相互推荐的朋友 of x"], 
+      ["松节", "同事（coworker） of x, 合作者（collaborator） of x, 至 enemy（nemesis） of x, 至 closely（close friend） of x, 至 intimate（intimate friend） of x, 至 confidant（trusted confidant） of x"], 
+      ["武林盟的信使", "relationship 1: x is a colleague of x, relationship 2: x is a superior of x"], 
+      ["蜂", "同adrise of x, 同rabge of x, 盟友 of x, 密使 of x, 隶属 of x, transformations of x, 信仰 of x, 崇拜 of x"], 
+      ["陆英", "relation ship 1 of x"]
+    ],
+    "蜂": [
+      ["忍冬", "同行associate of x"], 
+      ["松节", "同一gang of x, co workers of x, acquaintances of x, rivals of x"], 
+      ["武林盟的信使", "同事 (+) of x, 潜入 (+) of x, 见习 (+) of x, 合作 (+) of x"], 
+      ["玄参", "同adrise of x, 同rabge of x, 盟友 of x, 密使 of x, 隶属 of x, transformations of x, 信仰 of x, 崇拜 of x"], 
+      ["陆英", "subordinate of x, superior of x, colleague of x, business partner of x, customer of x, tenant of x, patient of x, adversary of x, enemy of x, rival of x"]
+    ],
+    "陸英": [
+      ["忍冬", "captor captive of x"]
+    ],
+    "陆英": [
+      ["武林盟的信使", "relationship 1: acquaintance of x, relationship 2: suspect of x"], 
+      ["蜂", "subordinate of x, superior of x, colleague of x, business partner of x, customer of x, tenant of x, patient of x, adversary of x, enemy of x, rival of x"]
+    ]
+}

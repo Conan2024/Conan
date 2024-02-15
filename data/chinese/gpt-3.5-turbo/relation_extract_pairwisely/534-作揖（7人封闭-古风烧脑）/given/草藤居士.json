@@ -1,0 +1,133 @@
+{
+    "草藤居士": [
+        [
+            "小茜",
+            "mentor of 小茜"
+        ],
+        [
+            "方竹",
+            "friend of x"
+        ],
+        [
+            "尔矢斯芭嗒",
+            "mentor of x",
+            "student of x"
+        ],
+        [
+            "陈倩",
+            "mentor of x"
+        ],
+        [
+            "陈孜靖",
+            "mentor of x"
+        ]
+    ],
+    "小茜": [
+        [
+            "草藤居士",
+            "student of 草藤居士"
+        ],
+        [
+            "方竹",
+            "sister"
+        ],
+        [
+            "尔矢斯芭嗒",
+            "friend of x",
+            "mentor of x"
+        ],
+        [
+            "陈倩",
+            "mentor of 小茜"
+        ],
+        [
+            "陈孜靖",
+            "sister"
+        ]
+    ],
+    "方竹": [
+        [
+            "草藤居士",
+            "friend of x"
+        ],
+        [
+            "小茜",
+            "sister"
+        ],
+        [
+            "尔矢斯芭嗒",
+            "ex romantic relationships with x"
+        ],
+        [
+            "陈倩",
+            "student of 方竹"
+        ],
+        [
+            "陈孜靖",
+            "friend of x"
+        ]
+    ],
+    "尔矢斯芭嗒": [
+        [
+            "草藤居士",
+            "teacher of x"
+        ],
+        [
+            "小茜",
+            "student of x"
+        ],
+        [
+            "方竹",
+            "ex romantic relationships with x"
+        ],
+        [
+            "陈倩",
+            "friend of x",
+            "student of x"
+        ],
+        [
+            "陈孜靖",
+            "romantic relationships with x"
+        ]
+    ],
+    "陈倩": [
+        [
+            "草藤居士",
+            "student of x"
+        ],
+        [
+            "小茜",
+            "student of 陈倩"
+        ],
+        [
+            "方竹",
+            "mentor of 陈倩"
+        ],
+        [
+            "尔矢斯芭嗒",
+            "teacher of x"
+        ],
+        [
+            "陈孜靖",
+            "siblings"
+        ]
+    ],
+    "陈孜靖": [
+        [
+            "草藤居士",
+            "student of x"
+        ],
+        [
+            "小茜",
+            "sister"
+        ],
+        [
+            "方竹",
+            "friend of x"
+        ],
+        [
+            "尔矢斯芭嗒",
+            "romantic relationships with x"
+        ]
+    ]
+}

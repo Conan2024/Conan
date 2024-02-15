@@ -1,0 +1,54 @@
+{
+    "张大副": [
+      ["很天真", "same person as x (different identity)"], 
+      ["杨老板", "business partner of x, victim of x, enemy of x"], 
+      ["雯秘书", "acquaintance of x"], 
+      ["王船工", "subordinate of x, helper of x, manipulated by x"], 
+      ["玲船医", "crime partner of x, informant of x, manipulator of x"], 
+      ["王小工", "subordinate of x, business partner of x"]
+    ],
+    "很天真": [
+      ["张大副", "same person as x (different identity)"], 
+      ["杨老板", "superior of x, friend of x"], 
+      ["王船工", "acquaintance of x"], 
+      ["玲船医", "acquaintance of x"], 
+      ["王小工", "acquaintance of x"]
+    ],
+    "杨老板": [
+      ["张大副", "business partner of x, deceived by x"], 
+      ["很天真", "subordinate of x"], 
+      ["雯秘书", "subordinate of x, admired by x"], 
+      ["玲船医", "acquaintance of x"], 
+      ["王小工", "murderer of x"]
+    ],
+    "雯秘书": [
+      ["张大副", "acquaintance of x"], 
+      ["很天真", "colleague of x"], 
+      ["杨老板", "superior of x, admired by x"], 
+      ["王船工", "acquaintance of x"], 
+      ["玲船医", "acquaintance of x"]
+    ],
+    "王船工": [
+      ["张大副", "superior of x, manipulator of x"], 
+      ["很天真", "acquaintance of x"], 
+      ["雯秘书", "acquaintance of x"], 
+      ["玲船医", "acquaintance of x"], 
+      ["王小工", "father of x"]
+    ],
+    "玲船医": [
+      ["张大副", "superior of x, manipulated by x"], 
+      ["很天真", "acquaintance of x"], 
+      ["杨老板", "acquaintance of x"], 
+      ["雯秘书", "acquaintance of x"], 
+      ["王船工", "manipulated by x, acquaintance of x"], 
+      ["王小工", "fiancee of x, manipulator of x"]
+    ],
+    "王小工": [
+      ["张大副", "subordinate of x"], 
+      ["很天真", "acquaintance of x"], 
+      ["杨老板", "victim of x"], 
+      ["雯秘书", "acquaintance of x"], 
+      ["王船工", "child of x"], 
+      ["玲船医", "fiance of x, manipulated by x"]
+    ]
+}

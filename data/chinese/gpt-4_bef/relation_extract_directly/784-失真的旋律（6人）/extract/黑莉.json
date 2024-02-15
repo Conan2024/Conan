@@ -1,0 +1,69 @@
+{
+    "黑莉": [
+      ["齐清礼", "adoptive father of x"], 
+      ["齐故飞", "adoptive brother of x"], 
+      ["阮太太", "landlord of x, acquaintance of x"], 
+      ["招楠", "friend of x, rival of x, student of x"], 
+      ["望娣", "acquaintance of x"], 
+      ["贵郎", "suspect to x, acquaintance of x, romantic relationships with x, helped by x"], 
+      ["罗秀才", "acquaintance of x"], 
+      ["罗有诺", "acquaintance of x"], 
+      ["雪嫣", "acquaintance of x"], 
+      ["王子摩", "deceiver of x, disliked by x"], 
+      ["施密士男爵", "employer of x, acquaintance of x"]
+    ],
+    "齐清礼": [
+      ["黑莉", "adoptive father of x"], 
+      ["齐故飞", "adoptive son of x"]
+    ],
+    "齐故飞": [
+      ["黑莉", "adoptive sister of x"], 
+      ["齐清礼", "adoptive father of x"]
+    ],
+    "阮太太": [
+      ["黑莉", "tenant of x"], 
+      ["招楠", "biological daughter of x"], 
+      ["望娣", "biological daughter of x"], 
+      ["贵郎", "biological son of x"], 
+      ["罗有诺", "informant of x"], 
+      ["雪嫣", "informant of x"]
+    ],
+    "招楠": [
+      ["黑莉", "friend of x, rival of x, teacher of x"], 
+      ["阮太太", "biological mother of x"], 
+      ["望娣", "sibling of x"], 
+      ["贵郎", "sibling of x"], 
+      ["王子摩", "wife of x"]
+    ],
+    "望娣": [
+      ["招楠", "sibling of x"], 
+      ["阮太太", "biological mother of x"], 
+      ["贵郎", "sibling of x"], 
+      ["黑莉", "acquaintance of x"]
+    ],
+    "贵郎": [
+      ["黑莉", "romantic relationships with x, helped by x, suspect of x"], 
+      ["招楠", "sibling of x"], 
+      ["望娣", "sibling of x"], 
+      ["阮太太", "biological mother of x"]
+    ],
+    "罗秀才": [
+      ["罗有诺", "father of x"], 
+      ["雪嫣", "father of x"]
+    ],
+    "罗有诺": [
+      ["罗秀才", "biological son of x"], 
+      ["雪嫣", "sibling of x"]
+    ],
+    "雪嫣": [
+      ["罗有诺", "sibling of x"], 
+      ["罗秀才", "biological daughter of x"]
+    ],
+    "王子摩": [
+      ["黑莉", "ex romantic relationships with x, deceived by x"], 
+      ["招楠", "husband of x"]
+    ],
+    "施密士男爵": [
+      ["黑莉", "employee of x"]
+    ]
+}

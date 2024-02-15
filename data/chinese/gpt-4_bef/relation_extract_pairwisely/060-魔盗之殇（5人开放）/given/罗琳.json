@@ -1,0 +1,117 @@
+{
+    "宣传罗琳": [
+      ["魔术师古思特", "crime partner of x, colleague of x, enemy of x, manipulated by x, suspect to x"], 
+      ["助手艾拉", "quest companion of x"], 
+      ["剧务戴维", "crime partner of x, disliked by x, colleague of x, quest companion of x"], 
+      ["保安凯文", "sibling of x, informant of x, quest companion of x, manipulator of x"], 
+      ["艾拉", "friend of x, helper of x, crime partner of x"], 
+      ["古思特", "crime partner of x, murderer of x"], 
+      ["凯文", "sibling of x, manipulated by x, informant of x, seeker of help from x, quest companion of x"], 
+      ["格里夫", "acquaintance of x"], 
+      ["罗琳", "sibling of x, quest companion of x, manipulator of x, superior of x"], 
+      ["戴维", "crime partner of x, ex romantic relationships with x, dislike of x, quest companion of x"]
+    ],
+    "魔术师古思特": [
+      ["宣传罗琳", "crime partner of x, manipulator of x, victim of x"], 
+      ["助手艾拉", "fiance of x, employer of x, victim of x"], 
+      ["保安凯文", "acquaintance of x, informant of x, admired by x"], 
+      ["艾拉", "fiance of x, romantic relationships with x"], 
+      ["古思特", "same person as x (different identity), perpetrator of x"], 
+      ["凯文", "employer of x, information receiver from x, mentor of x"], 
+      ["格里夫", "enemy of x, victim of x"], 
+      ["罗琳", "victim of x, superior of x"], 
+      ["戴维", "crime partner of x, superior of x, victim of x"]
+    ],
+    "助手艾拉": [
+      ["宣传罗琳", "quest companion of x"], 
+      ["魔术师古思特", "fiancee of x, employee of x"], 
+      ["剧务戴维", "acquaintance of x"], 
+      ["保安凯文", "acquaintance of x"], 
+      ["艾拉", "friend of x, disliked by x"], 
+      ["古思特", "employee of x, acquaintance of x, fiancee of x"], 
+      ["凯文", "acquaintance of x"], 
+      ["格里夫", "acquaintance of x, colleague of x"], 
+      ["戴维", "colleague of x, friend of x, admirer of x"]
+    ],
+    "剧务戴维": [
+      ["宣传罗琳", "crime partner of x, admirer of x, colleague of x, quest companion of x"], 
+      ["助手艾拉", "acquaintance of x, admirer of x"], 
+      ["保安凯文", "suspected by x, dislike of x"], 
+      ["艾拉", "acquaintance of x"], 
+      ["古思特", "crime partner of x, victim of x, jealous of x, rival of x"], 
+      ["凯文", "crime partner of x, disliked by x"], 
+      ["罗琳", "crime partner of x, admirer of x, disliked by x"], 
+      ["戴维", "same person as x (different reference), crime partner of x"]
+    ],
+    "保安凯文": [
+      ["宣传罗琳", "sibling of x, information receiver from x, quest companion of x, manipulated by x"], 
+      ["魔术师古思特", "acquaintance of x, information receiver from x, admirer of x"], 
+      ["助手艾拉", "acquaintance of x"], 
+      ["剧务戴维", "disliked by x"], 
+      ["艾拉", "acquaintance of x, helped by x"], 
+      ["古思特", "informant of x, helper of x, secret lover of x"], 
+      ["凯文", "sibling of x, helper of x, manipulated by x, secret lover of x"], 
+      ["戴维", "unsuccessful helper of x, disliked by x"]
+    ],
+    "艾拉": [
+      ["宣传罗琳", "friend of x"], 
+      ["助手艾拉", "friend of x"], 
+      ["剧务戴维", "acquaintance of x"], 
+      ["保安凯文", "acquaintance of x, helper of x"], 
+      ["古思特", "friend of x"], 
+      ["凯文", "helper of x, friend of x"], 
+      ["罗琳", "friend of x, colleague of x"], 
+      ["戴维", "acquaintance of x"]
+    ],
+    "古思特": [
+      ["宣传罗琳", "crime partner of x, deceived by x, employer of x"], 
+      ["魔术师古思特", "same person as x (different reference), victim of x"], 
+      ["助手艾拉", "employer of x, admirer of x, fiance of x"], 
+      ["剧务戴维", "crime partner of x, victim of x, superior of x"], 
+      ["保安凯文", "information receiver from x, helped by x, admirer of x"], 
+      ["艾拉", "employer of x"], 
+      ["凯文", "employer of x, admired by x, victim of x"], 
+      ["格里夫", "suspect to x, possibly family of x"], 
+      ["戴维", "crime partner of x, superior of x, victim of x"]
+    ],
+    "凯文": [
+      ["宣传罗琳", "sibling of x, manipulator of x, information receiver from x, helped by x, quest companion of x"], 
+      ["魔术师古思特", "employee of x, informant of x, perpetrator of x, possibly family of x"], 
+      ["助手艾拉", "acquaintance of x"], 
+      ["剧务戴维", "dislike of x, quest companion of x"], 
+      ["保安凯文", "sibling of x, helped by x, manipulator of x, quest companion of x"], 
+      ["艾拉", "information receiver from x, helper of x"], 
+      ["古思特", "employee of x, admirer of x, perpetrator of x"], 
+      ["罗琳", "sibling of x"], 
+      ["罗琳", "younger brother of x, informant of x, quest companion of x"], 
+      ["戴维", "disliked by x"]
+    ],
+    "格里夫": [
+      ["宣传罗琳", "suspected by x"], 
+      ["魔术师古思特", "perpetrator of x"], 
+      ["助手艾拉", "acquaintance of x, colleague of x"], 
+      ["古思特", "suspected by x"], 
+      ["罗琳", "acquaintance of x"]
+    ],
+    "罗琳": [
+      ["宣传罗琳", "sibling of x, quest companion of x, manipulated by x, subordinate of x"], 
+      ["魔术师古思特", "perpetrator of x, subordinate of x"], 
+      ["助手艾拉", "deceiver of x"], 
+      ["剧务戴维", "crime partner of x, disliked by x"], 
+      ["艾拉", "colleague of x"], 
+      ["凯文", "sibling of x, manipulator of x, superior of x"], 
+      ["格里夫", "suspected by x"], 
+      ["戴维", "crime partner of x, ex romantic relationships with x, disliked by x"]
+    ],
+    "戴维": [
+      ["宣传罗琳", "crime partner of x, admirer of x, disliked by x, quest companion of x, informant of x"], 
+      ["魔术师古思特", "crime partner of x, subordinate of x"], 
+      ["助手艾拉", "colleague of x, helper of x, quest companion of x"], 
+      ["剧务戴维", "same person as x (different reference), crime partner of x"], 
+      ["保安凯文", "suspected by x, dislike of x"], 
+      ["艾拉", "acquaintance of x"], 
+      ["古思特", "crime partner of x, subordinate of x, suspect to x"], 
+      ["凯文", "dislike of x"], 
+      ["罗琳", "admirer of x"]
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "剧务戴维": [
+      ["魔术师古思特", "adversary of x, same person as x (different identity), adversary of x"], 
+      ["宣传罗琳", "crime partner of x, secret lover of x, adversary of x"], 
+      ["保安凯文", "jealous of x, adversary of x"], 
+      ["后勤格里夫", "friend of x, suspected by x"], 
+      ["艾拉", "acquaintance of x"]
+    ],
+    "魔术师古思特": [
+      ["剧务戴维", "victim of x, same person as x (different identity)"], 
+      ["宣传罗琳", "crime partner of x"], 
+      ["助手艾拉", "romantic relationships with x"], 
+      ["后勤格里夫", "friend of x"]
+    ],
+    "宣传罗琳": [
+      ["剧务戴维", "crime partner of x, admired by x, dislike of x"], 
+      ["魔术师古思特", "crime partner of x"], 
+      ["保安凯文", "lover of x"], 
+      ["艾拉", "friend of x"]
+    ],
+    "助手艾拉": [
+      ["魔术师古思特", "fiancee of x"], 
+      ["宣传罗琳", "friend of x"]
+    ],
+    "保安凯文": [
+      ["宣传罗琳", "lover of x"], 
+      ["剧务戴维", "disliked by x"]
+    ],
+    "后勤格里夫": [
+      ["剧务戴维", "friend of x, suspected by x"], 
+      ["魔术师古思特", "employee of x"]
+    ]
+}

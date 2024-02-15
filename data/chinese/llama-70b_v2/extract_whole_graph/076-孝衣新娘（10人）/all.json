@@ -1,0 +1,34 @@
+{
+    "贵叔": [
+      ["姚仲义", "ally of x"], 
+      ["云凌", "acquaintance of x"], 
+      ["陈均梦", "patient of x"], 
+      ["红夫人", "acquaintance of x"], 
+      ["虞医师", "colleague of x"], 
+      ["姚长寿", "nemesis of x"]
+    ],
+    "姚仲义": [
+      ["贵叔", "ally of x"], 
+      ["云凌", "acquaintance of x"]
+    ],
+    "云凌": [
+      ["贵叔", "acquaintance of x"], 
+      ["姚仲义", "acquaintance of x"]
+    ],
+    "陈均梦": [
+      ["贵叔", "patient of x"], 
+      ["红夫人", "acquaintance of x"]
+    ],
+    "红夫人": [
+      ["贵叔", "acquaintance of x"], 
+      ["姚仲义", "acquaintance of x"]
+    ],
+    "虞医师": [
+      ["贵叔", "colleague of x"], 
+      ["姚仲义", "colleague of x"]
+    ],
+    "姚长寿": [
+      ["贵叔", "nemesis of x"], 
+      ["姚仲义", "acquaintance of x"]
+    ]
+}

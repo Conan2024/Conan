@@ -1,0 +1,48 @@
+{
+    "顾宇": [
+      ["顾明和", "father of x, deceased by the time of x x the narrative"], 
+      ["顾晴", "sibling of x"], 
+      ["林夕", "ex romantic relationships of x, victim of x x (due to the breakup)"], 
+      ["苏阳", "adversary of x, romantic relationships with x's ex"], 
+      ["林惟仁", "acquaintance of x, suspected by x (for hiding the truth about his company's product failures)"], 
+      ["秦思琴", "subject of x investigation for x"], 
+      ["郑心媚", "deceased of x, x feels guilty about her death"], 
+      ["陈静雯", "girlfriend of x, helped by x (financially, unknowingly for her education) of x, pregnant with x's child, suspect of x (as a possible murderer), informant of x (regarding her mother's case), manipulated by x (as he plans to protect her even if she's guilty), deceiver of x (if her intentions are not genuine)"]
+    ],
+    "顾明和": [
+      ["顾宇", "father of x"], 
+      ["顾晴", "father of x"], 
+      ["林惟仁", "business partner of x, co conspirator with x (in covering up the product failure)"], 
+      ["秦思琴", "perpetrator of x (indirectly, through the failure of x the medical equipment)"], 
+      ["郑心媚", "perpetrator of x (indirectly, through the failure of x the medical equipment)"]
+    ],
+    "顾晴": [
+      ["顾宇", "sibling of x"], 
+      ["顾明和", "child of x"]
+    ],
+    "林夕": [
+      ["顾宇", "ex romantic relationships of x, admired by x"], 
+      ["苏阳", "fiance of x"], 
+      ["林惟仁", "child of x"]
+    ],
+    "苏阳": [
+      ["林夕", "fiance of x"], 
+      ["顾宇", "adversary of x, romantic relationships with x's fiancee"]
+    ],
+    "林惟仁": [
+      ["林夕", "father of x"], 
+      ["顾宇", "acquaintance of x, suspected by x (for hiding the truth about his company's product failures)"]
+    ],
+    "秦思琴": [
+      ["顾宇", "subject of x investigation for x, victim of x's family's quest for justice"], 
+      ["顾明和", "victim of x (indirectly, due to the medical equipment failure) of x"]
+    ],
+    "郑心媚": [
+      ["顾宇", "deceased of x, x feels guilty about her death"], 
+      ["顾明和", "victim of x (indirectly, due to the medical equipment failure) of x"]
+    ],
+    "陈静雯": [
+      ["顾宇", "girlfriend of x, pregnant with x's child, helped by x (financially for education), informant of x (regarding her mother's case), manipulated by x (as she seeks to find out the truth and may be using him), deceiver of x (if her intentions are not genuine)"], 
+      ["郑心媚", "child of x"]
+    ]
+}

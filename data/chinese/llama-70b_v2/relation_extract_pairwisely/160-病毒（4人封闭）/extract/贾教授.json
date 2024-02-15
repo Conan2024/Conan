@@ -1,0 +1,20 @@
+{
+    "贾教授": [
+      ["秦鸥", "teacher of x, superior of x, enemy of x, manipulator of x"], 
+      ["大姐", "superior of x, past relationship of x, adversarial of x, working of x"]
+    ],
+    "秦鸥": [
+      ["贾教授", "teacher of x, superior of x, enemy of x, manipulated of x"], 
+      ["田助理", "victim of x 贾教授's reputation damage"], 
+      ["大姐", "enemy of x"]
+    ],
+    "大姐": [
+      ["贾教授", "superior of x, past relationship of x, adversarial of x, working of x"], 
+      ["田助理", "coefficient of x friction"], 
+      ["秦鸥", "enemy of x"]
+    ],
+    "田助理": [
+      ["秦鸥", "perpetrator of x 贾教授's reputation damage"], 
+      ["大姐", "coefficient of x friction"]
+    ]
+}

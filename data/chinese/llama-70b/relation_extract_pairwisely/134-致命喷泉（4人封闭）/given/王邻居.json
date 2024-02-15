@@ -1,0 +1,138 @@
+{
+    "何老六": [
+        [
+            "张洁",
+            "Suspect",
+            "Acquaintance"
+        ],
+        [
+            "慕北",
+            "Suspect",
+            "Acquaintance"
+        ],
+        [
+            "李国富",
+            "同事",
+            "赌友",
+            "债杆",
+            "卖货",
+            "讨债",
+            "威胁",
+            "隐瞒"
+        ],
+        [
+            "王邻居",
+            "colleague",
+            "friend",
+            "informant",
+            "rival",
+            "suspect",
+            "victim",
+            "witness",
+            "helper"
+        ]
+    ],
+    "张洁": [
+        [
+            "何老六",
+            "Suspect",
+            "Acquaintance"
+        ],
+        [
+            "慕北",
+            "friend",
+            "informant",
+            "suspect",
+            "enemy",
+            "superior",
+            "accomplice",
+            "rival",
+            "helper"
+        ],
+        [
+            "李国富",
+            "Suspect of X",
+            "Adversary of X"
+        ]
+    ],
+    "慕北": [
+        [
+            "何老六",
+            "Suspect",
+            "Acquaintance"
+        ],
+        [
+            "张洁",
+            "friend",
+            "informant",
+            "suspect",
+            "enemy",
+            "superior",
+            "accomplice",
+            "rival",
+            "helper"
+        ],
+        [
+            "李国富",
+            "relationship 1, relationship 3"
+        ],
+        [
+            "王邻居",
+            "friend",
+            "suspicious person",
+            "debtor",
+            "victim",
+            "witness"
+        ]
+    ],
+    "李国富": [
+        [
+            "何老六",
+            "同事",
+            "赌友",
+            "债杆",
+            "卖货",
+            "讨债",
+            "威胁",
+            "隐瞒"
+        ],
+        [
+            "张洁",
+            "Suspect of X",
+            "Adversary of X"
+        ],
+        [
+            "慕北",
+            "relationship 1, relationship 3"
+        ],
+        [
+            "王邻居",
+            "Acquaintance, Debtor"
+        ]
+    ],
+    "王邻居": [
+        [
+            "何老六",
+            "colleague",
+            "friend",
+            "informant",
+            "rival",
+            "suspect",
+            "victim",
+            "witness",
+            "helper"
+        ],
+        [
+            "慕北",
+            "friend",
+            "suspicious person",
+            "debtor",
+            "victim",
+            "witness"
+        ],
+        [
+            "李国富",
+            "Acquaintance, Creditor"
+        ]
+    ]
+}

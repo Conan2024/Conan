@@ -1,0 +1,35 @@
+{
+    "顾宇": [
+      ["顾明和", "father of x"], 
+      ["顾晴", "sibling of x"], 
+      ["苏阳", "adversary of x"], 
+      ["林惟仁", "acquaintance of x"], 
+      ["陈静雯", "girlfriend of x"]
+    ],
+    "顾明和": [
+      ["顾宇", "father of x"], 
+      ["顾晴", "father of x"], 
+      ["林惟仁", "business partner of x"]
+    ],
+    "顾晴": [
+      ["顾宇", "sibling of x"], 
+      ["顾明和", "child of x"]
+    ],
+    "林夕": [
+      ["顾宇", "admired by x"], 
+      ["苏阳", "fiance of x"], 
+      ["林惟仁", "child of x"]
+    ],
+    "苏阳": [
+      ["林夕", "fiance of x"], 
+      ["顾宇", "adversary of x"]
+    ],
+    "林惟仁": [
+      ["林夕", "father of x"], 
+      ["顾宇", "acquaintance of x"]
+    ],
+    "陈静雯": [
+      ["顾宇", "girlfriend of x"], 
+      ["郑心媚", "child of x"]
+    ]
+}

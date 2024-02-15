@@ -1,0 +1,104 @@
+{
+    "收养的男孩": [
+      ["方叶", "brother of x, brother of x, classmate of x, friend of x"], 
+      ["方眠", "brother of x, brother of x"], 
+      ["方竹", "brother of x"], 
+      ["方絮", "brother of x, sister of x"], 
+      ["李延", "brother of x, friend of x"], 
+      ["李氏", "brother of x, friend of x"], 
+      ["李钦仁", "brother of x, friend of x, master of x"], 
+      ["陈倩", "enemy of x, friend of x, helper of x"]
+    ],
+    "方叶": [
+      ["收养的男孩", "brother of x, brother of x, classmate of x, friend of x"], 
+      ["方眠", "sibling of x"], 
+      ["方竹", "older brother of x, admirer of x"], 
+      ["方絮", "sibling of x"], 
+      ["李延", "brother in law of x"], 
+      ["李氏", "colleague of x, brother of x, child of x"], 
+      ["陈倩", "colleague of x, friend of x, sibling of x"]
+    ],
+    "方眠": [
+      ["收养的男孩", "brother of x, brother of x"], 
+      ["方叶", "sibling of x"], 
+      ["方竹", "biological mother of x, enemy of x"], 
+      ["方絮", "sibling of x"], 
+      ["李仲", "brother in law of x"], 
+      ["李延", "brother in law of x"], 
+      ["李氏", "colleague of x, brother of x"], 
+      ["李钦仁", "biological mother of x"], 
+      ["陈倩", "sibling of x"]
+    ],
+    "方竹": [
+      ["收养的男孩", "brother of x"], 
+      ["方叶", "younger brother of x, acquaintance of x"], 
+      ["方眠", "enemy of x"], 
+      ["方絮", "colleague of x, friend of x"], 
+      ["李仲", "biological father of x"], 
+      ["李延", "father of x"], 
+      ["李氏", "husband of x, friend of x, informant of x, customer of x"], 
+      ["李钦仁", "biological father of x, acquaintance of x, friend of x"], 
+      ["chen qi", "friend of x"]
+    ],
+    "方絮": [
+      ["收养的男孩", "brother of x, sister of x"], 
+      ["方叶", "sibling of x"], 
+      ["方眠", "sibling of x"], 
+      ["方竹", "colleague of x, friend of x"], 
+      ["李仲", "brother in law of x"], 
+      ["李延", "brother in law of x"], 
+      ["李氏", "colleague of x, wife of x, child of x, brother of x, friend of x"], 
+      ["陈倩", "colleague of x, friend of x, secret admirer of x, enemy of x"]
+    ],
+    "李延": [
+      ["收养的男孩", "brother of x"], 
+      ["方叶", "brother in law of x"], 
+      ["方眠", "sister in law of x, sister in law of x"], 
+      ["方竹", "son of x"], 
+      ["方絮", "sister in law of x, sister in law of x"], 
+      ["李仲", "brother of x, twin brother of x"], 
+      ["李氏", "brother of x, father of x, son of x"], 
+      ["李钦仁", "husband of x, father of x"], 
+      ["陈倩", "child of x, sibling of x, relative of x, nephew of x, aunt of x, uncle of x, cousin of x"]
+    ],
+    "李氏": [
+      ["收养的男孩", "brother of x, friend of x"], 
+      ["方叶", "colleague of x, brother of x, child of x"], 
+      ["方眠", "colleague of x, brother of x"], 
+      ["方竹", "husband of x, friend of x, informant of x, customer of x"], 
+      ["方絮", "colleague of x, wife of x, child of x, brother of x, friend of x"], 
+      ["李仲", "friend of x, mentor of x"], 
+      ["李延", "brother of x, father of x, son of x"], 
+      ["李钦仁", "husband of x, father of x"], 
+      ["陈倩", "brother of x, friend of x"]
+    ],
+    "李钦仁": [
+      ["收养的男孩", "brother of x, friend of x, master of x"], 
+      ["方眠", "father of x"], 
+      ["方竹", "acquaintance of x, master of x, friend of x"], 
+      ["李仲", "father of x, master of x, teacher of x, friend of x"], 
+      ["李延", "wife of x, mother of x"], 
+      ["李氏", "husband of x, father of x"]
+    ],
+    "陈倩": [
+      ["收养的男孩", "enemy of x, friend of x, helper of x"], 
+      ["方叶", "colleague of x, friend of x, sibling of x"], 
+      ["方眠", "sibling of x"], 
+      ["method zhu", "friend of x"], 
+      ["方絮", "friend of x, secret admirer of x, enemy of x"], 
+      ["李仲", "sibling of x"], 
+      ["李氏", "brother of x, friend of x"]
+    ],
+    "李仲": [
+      ["方眠", "sister in law of x, sister in law of x"], 
+      ["方竹", "son of x"], 
+      ["方絮", "sister in law of x"], 
+      ["李延", "brother of x, twin brother of x"], 
+      ["李氏", "friend of x, mentor of x"], 
+      ["李钦仁", "son of x, friend of x"], 
+      ["陈倩", "sibling of x"]
+    ],
+    "chen jin": [
+      ["李延", "child of x, sibling of x, relative of x, nephew of x, aunt of x, uncle of x, cousin of x"]
+    ]
+}

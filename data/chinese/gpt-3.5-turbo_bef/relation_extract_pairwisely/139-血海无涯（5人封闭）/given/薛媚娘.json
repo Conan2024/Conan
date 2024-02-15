@@ -1,0 +1,69 @@
+{
+    "薛媚娘": [
+      ["萧体育", "lover of x, girlfriend of x"], 
+      ["秦老大", "student of x, informant of x"], 
+      ["秦专家", "informant of x, information receiver from x"], 
+      ["庄清纯", "student of x"], 
+      ["郑友好", "admirer of x, acquaintance of x"], 
+      ["韦小弟", "ex romantic relationships with x, colleague of x"]
+    ],
+    "萧体育": [
+      ["薛媚娘", "lover of x, boyfriend of x"], 
+      ["秦老大", "fiance of x"], 
+      ["秦专家", "romantic relationships with x"], 
+      ["贾美丽", "romantic relationships with x"], 
+      ["庄清纯", "romantic relationships with x"], 
+      ["郑友好", "romantic relationships with x, extramarital affair with x"], 
+      ["韦小弟", "boyfriend of x"]
+    ],
+    "秦老大": [
+      ["薛媚娘", "teacher of x, romantic relationships with x"], 
+      ["萧体育", "fiancee of x"], 
+      ["秦专家", "student of x"], 
+      ["贾美丽", "lover of x"], 
+      ["庄清纯", "husband of x"], 
+      ["郑友好", "lover of x"]
+    ],
+    "秦专家": [
+      ["薛媚娘", "informant of x, information receiver from x"], 
+      ["萧体育", "romantic relationships with x"], 
+      ["秦老大", "mentor of x"], 
+      ["贾美丽", "extramarital affair with x, romantic relationships with x"], 
+      ["庄清纯", "secret lover of x"], 
+      ["薛媚娘", "secret lover of x"], 
+      ["韦小弟", "secret lover of x, mentor of x"]
+    ],
+    "贾美丽": [
+      ["薛媚娘", "student of x"], 
+      ["萧体育", "romantic relationships with x"], 
+      ["秦专家", "extramarital affair with x, romantic relationships with x"], 
+      ["庄清纯", "ex girlfriend of x"], 
+      ["郑友好", "friend of x"], 
+      ["韦小弟", "romantic relationships with x"]
+    ],
+    "庄清纯": [
+      ["薛媚娘", "mentor of x"], 
+      ["萧体育", "romantic relationships with x"], 
+      ["秦老大", "romantic relationships with x"], 
+      ["秦专家", "secret lover of x"], 
+      ["贾美丽", "ex boyfriend of x"], 
+      ["郑友好", "student of x"], 
+      ["韦小弟", "secret lover of x"]
+    ],
+    "郑友好": [
+      ["薛媚娘", "admirer of x, acquaintance of x"], 
+      ["萧体育", "romantic relationships with x, extramarital affair with x"], 
+      ["秦老大", "lover of x"], 
+      ["秦专家", "romantic relationships with x"], 
+      ["贾美丽", "friend of x"], 
+      ["庄清纯", "mentor of x"], 
+      ["韦小弟", "informant of x, information receiver from x"]
+    ],
+    "韦小弟": [
+      ["萧体育", "girlfriend of x"], 
+      ["秦专家", "fiance of x"], 
+      ["贾美丽", "romantic relationships with x"], 
+      ["庄清纯", "secret lover of x"], 
+      ["郑友好", "helper of x, helped by x"]
+    ]
+}

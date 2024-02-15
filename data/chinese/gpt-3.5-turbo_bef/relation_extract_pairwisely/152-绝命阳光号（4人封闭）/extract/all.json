@@ -1,0 +1,92 @@
+{
+    "王小工": [
+      ["你", "suspected by x"], 
+      ["很天真", "quest companion of x"], 
+      ["路人甲", "helper of x"], 
+      ["玲船医", "husband of x"], 
+      ["杨老板", "business partner of x"], 
+      ["雯秘书", "lover of x"], 
+      ["船长", "ex wife of x"], 
+      ["王船工", "child of x"]
+    ],
+    "你": [
+      ["王小工", "helper of x"], 
+      ["很天真", "helper of x"], 
+      ["玲船医", "information receiver from x"], 
+      ["杨老板", "helper of x, informant of x"], 
+      ["雯秘书", "helper of x"], 
+      ["杨老板", "helper of x"], 
+      ["王船工", "helper of x, informant of x"]
+    ],
+    "很天真": [
+      ["王小工", "quest companion of x"], 
+      ["你", "subordinate of x"], 
+      ["路人甲", "friend of x"], 
+      ["玲船医", "informant of x"], 
+      ["杨老板", "helper of x"], 
+      ["船长", "helper of x"], 
+      ["王船工", "helper of x"]
+    ],
+    "路人甲": [
+      ["王小工", "helped by x"], 
+      ["很天真", "friend of x"], 
+      ["玲船医", "informant of x"], 
+      ["杨老板", "helper of x, attempted perpetrator of x"], 
+      ["雯秘书", "helper of x"], 
+      ["杨老板", "helper of x"], 
+      ["船长", "helper of x, acquaintance of x"]
+    ],
+    "玲船医": [
+      ["王小工", "wife of x"], 
+      ["你", "informant of x"], 
+      ["很天真", "informant of x"], 
+      ["路人甲", "information receiver from x"], 
+      ["杨老板", "informant of x, information receiver from x"], 
+      ["雯秘书", "informant of x"], 
+      ["张大副", "informant of x"], 
+      ["王船工", "informant of x, information receiver from x"]
+    ],
+    "杨老板": [
+      ["王小工", "business partner of x"], 
+      ["你", "employer of x"], 
+      ["很天真", "subordinate of x"], 
+      ["路人甲", "employer of x, perpetrator of x"], 
+      ["雯秘书", "helper of x, helper of x"], 
+      ["雯秘书", "business partner of x, employer of x"]
+    ],
+    "雯秘书": [
+      ["王小工", "extramarital affair with x"], 
+      ["你", "helper of x, information receiver from x"], 
+      ["路人甲", "quest companion of x"], 
+      ["玲船医", "helper of x"], 
+      ["杨老板", "employee of x, employee of x"], 
+      ["张大副", "helper of x, information receiver from x"], 
+      ["船长", "helper of x, informant of x"], 
+      ["王船工", "helper of x"]
+    ],
+    "张大副": [
+      ["杨老板", "business partner of x"], 
+      ["杨老板", "quest companion of x"], 
+      ["玲船医", "information receiver from x"], 
+      ["杨老板", "business partner of x"], 
+      ["雯秘书", "information receiver from x"], 
+      ["船长", "business partner of x"]
+    ],
+    "船长": [
+      ["王小工", "ex husband of x"], 
+      ["很天真", "superior of x"], 
+      ["玲船医", "information receiver from x"], 
+      ["杨老板", "business partner of x"], 
+      ["雯秘书", "employer of x"], 
+      ["张大副", "business partner of x"], 
+      ["王船工", "business partner of x"]
+    ],
+    "王船工": [
+      ["你", "helper of x, information receiver from x"], 
+      ["很天真", "helper of x"], 
+      ["路人甲", "suspected by x, hated by x"], 
+      ["玲船医", "suspected by x"], 
+      ["雯秘书", "suspected by x"], 
+      ["船长", "business partner of x"]
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "洪船长": [
+      ["刘奇 (大副)", "employee of x, romantic relationships with x"], 
+      ["修仁杰 (酒吧经理)", "acquaintance of x"], 
+      ["韩亦暮 (乘务)", "employee of x"], 
+      ["林若彤 (歌手)", "romantic relationships with x"], 
+      ["张文远 (二副)", "colleague of x"]
+    ],
+    "刘奇 (大副)": [
+      ["洪船长", "employer of x, romantic relationships with x"], 
+      ["修仁杰 (酒吧经理)", "acquaintance of x"], 
+      ["林若彤 (歌手)", "romantic relationships with x"]
+    ],
+    "修仁杰 (酒吧经理)": [
+      ["洪船长", "acquaintance of x"], 
+      ["刘奇 (大副)", "acquaintance of x"]
+    ],
+    "韩亦暮 (乘务)": [
+      ["洪船长", "employer of x"]
+    ],
+    "林若彤 (歌手)": [
+      ["洪船长", "romantic relationships with x"], 
+      ["刘奇 (大副)", "romantic relationships with x"]
+    ],
+    "张文远 (二副)": [
+      ["洪船长", "colleague of x"]
+    ]
+}

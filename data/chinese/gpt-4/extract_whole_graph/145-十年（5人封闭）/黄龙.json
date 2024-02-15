@@ -1,0 +1,86 @@
+{
+    "黄龙": [
+        [
+            "黄东",
+            "same person as x (different identity)"
+        ],
+        [
+            "钱倩",
+            "neighbor of x, admirer of x"
+        ],
+        [
+            "钱倩的男友",
+            "stranger to x, romantic relationships with x's admired"
+        ],
+        [
+            "钱倩的哥哥",
+            "acquaintance of x"
+        ],
+        [
+            "任龙",
+            "mentor of x, friend of x"
+        ],
+        [
+            "独臂人",
+            "victim of x, helped by x"
+        ]
+    ],
+    "黄东": [
+        [
+            "钱倩",
+            "admirer of x"
+        ],
+        [
+            "任龙",
+            "older brother of x, mentor of x, friend of x"
+        ],
+        [
+            "独臂人",
+            "stranger to x"
+        ]
+    ],
+    "钱倩": [
+        [
+            "黄龙",
+            "neighbor of x, admired by x"
+        ],
+        [
+            "黄东",
+            "admirer of x"
+        ],
+        [
+            "钱倩的男友",
+            "girlfriend of x"
+        ],
+        [
+            "钱倩的哥哥",
+            "sibling of x, brother of x"
+        ]
+    ],
+    "钱倩的哥哥": [
+        [
+            "钱倩",
+            "sibling of x, sister of x"
+        ]
+    ],
+    "任龙": [
+        [
+            "黄龙",
+            "mentor of x, friend of x"
+        ],
+        [
+            "黄东",
+            "younger brother of x"
+        ]
+    ],
+    "独臂人": [
+        [
+            "黄龙",
+            "victim of x"
+        ],
+        [
+            "黄东",
+            "stranger to x"
+        ]
+    ]
+}

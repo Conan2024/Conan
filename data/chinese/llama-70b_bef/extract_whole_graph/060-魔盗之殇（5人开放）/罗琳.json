@@ -1,0 +1,21 @@
+{
+    "罗琳": [
+      ["古思特", "master of x"], 
+      ["戴维", "acquaintance of x, colleague of x"], 
+      ["艾拉", "friend of x"], 
+      ["凯文", "brother of x"]
+    ],
+    "古思特": [
+      ["罗琳", "master of x"]
+    ],
+    "戴维": [
+      ["罗琳", "acquaintance of x, colleague of x"]
+    ],
+    "艾拉": [
+      ["罗琳", "friend of x"]
+    ],
+    "凯文": [
+      ["罗琳", "brother of x"], 
+      ["古思特", "friend of x, colleague of x"]
+    ]
+}

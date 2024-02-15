@@ -1,0 +1,160 @@
+{
+    "王学习": [
+        [
+            "张恶霸",
+            "acquaintance, classmate"
+        ],
+        [
+            "李小弟",
+            "学生与恶霸",
+            "朋友",
+            "胆小鬼",
+            "考上全国最好的大学",
+            "摆脱恶魔"
+        ],
+        {
+            "林校花": [
+                "Friend",
+                "Acquaintance",
+                "Classmate",
+                "Schoolmate",
+                "Neighbour",
+                "Colleague",
+                "Business Partner",
+                "Customer",
+                "Buyer",
+                "Tenant"
+            ]
+        },
+        [
+            "郝闺蜜",
+            "manipulator-manipulated"
+        ]
+    ],
+    "张恶霸": [
+        [
+            "王学习",
+            "acquaintance, classmate"
+        ],
+        [
+            "李小弟",
+            "Perpetrator of X",
+            "Bully of X"
+        ],
+        [
+            "赵帅哥",
+            "bully, tormentor, manipulator"
+        ],
+        [
+            "林校花",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "郝闺蜜",
+            "学生",
+            "奴隶"
+        ]
+    ],
+    "李小弟": [
+        [
+            "王学习",
+            "学生与恶霸",
+            "朋友",
+            "胆小鬼",
+            "考上全国最好的大学",
+            "摆脱恶魔"
+        ],
+        [
+            "张恶霸",
+            " Victim of X",
+            "Target of Bullying"
+        ],
+        [
+            "赵帅哥",
+            "关系1，关系2"
+        ],
+        [
+            "林校花",
+            "acquaintance",
+            "classmate",
+            "schoolmate",
+            "neighbour",
+            "helped by  Wang Xiu's bullying"
+        ],
+        [
+            "郝闺蜜",
+            "subordinate",
+            " Follower"
+        ]
+    ],
+    "郝闺蜜": [
+        [
+            "王学习",
+            "manipulator-manipulated"
+        ],
+        [
+            "张恶霸",
+            "学生",
+            "朋友"
+        ],
+        [
+            "李小弟",
+            "leader",
+            "bully"
+        ],
+        [
+            "赵帅哥",
+            "acquaintance",
+            "friend"
+        ],
+        [
+            "林校花",
+            "acquaintance"
+        ]
+    ],
+    "赵帅哥": [
+        [
+            "张恶霸",
+            "friend, acquaintance, partner in crime"
+        ],
+        [
+            "李小弟",
+            "关系1，关系2"
+        ],
+        [
+            "林校花",
+            "relationship 1",
+            "relationship 2",
+            "suspect of murder"
+        ],
+        [
+            "郝闺蜜",
+            " acquaintance",
+            "friend"
+        ]
+    ],
+    "林校花": [
+        [
+            "张恶霸",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "李小弟",
+            "acquaintance",
+            "classmate",
+            "schoolmate",
+            "neighbour",
+            "helped by  Wang Xiu's bullying"
+        ],
+        [
+            "赵帅哥",
+            "relationship 1",
+            "relationship 2",
+            "suspect of murder"
+        ],
+        [
+            "郝闺蜜",
+            "acquaintance"
+        ]
+    ]
+}

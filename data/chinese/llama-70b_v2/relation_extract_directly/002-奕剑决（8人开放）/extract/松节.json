@@ -1,0 +1,35 @@
+{
+    "神秘人物•松节": [
+      ["易剑山庄庄主", "receiver of x message, possible acquaintance of x"], 
+      ["玄冰教", "member of x, possible superior of x"], 
+      ["蜂", "member of x, possible employer of x"], 
+      ["紫苏", "possible contact of x, possible acquaintance of x"], 
+      ["mountain peak", "possible hideout of x, possible contact of x"]
+    ],
+    "易剑山庄庄主": [
+      ["神秘人物•松节", "recipient of x message, possible acquaintance of x"], 
+      ["玄冰教", "member of x, possible superior of x"], 
+      ["蜂", "member of x, possible employer of x"], 
+      ["紫苏", "possible contact of x, possible acquaintance of x"]
+    ],
+    "玄冰教": [
+      ["神秘人物•松节", "member of x, possible superior of x"], 
+      ["易剑山庄庄主", "member of x, possible superior of x"], 
+      ["蜂", "member of x, possible employer of x"]
+    ],
+    "蜂": [
+      ["神秘人物•松节", "member of x, possible employer of x"], 
+      ["易剑山庄庄主", "member of x, possible employer of x"], 
+      ["玄冰教", "member of x, possible employer of x"]
+    ],
+    "紫苏": [
+      ["神秘人物•松节", "possible contact of x, possible acquaintance of x"], 
+      ["易剑山庄庄主", "possible contact of x, possible acquaintance of x"], 
+      ["玄冰教", "possible contact of x, possible acquaintance of x"]
+    ],
+    "陆英": [
+      ["神秘人物•松节", "colleague of x, possible acquaintance of x"], 
+      ["玄冰教", "colleague of x, possible superior of x"], 
+      ["易剑山庄庄主", "colleague of x, possible acquaintance of x"]
+    ]
+}

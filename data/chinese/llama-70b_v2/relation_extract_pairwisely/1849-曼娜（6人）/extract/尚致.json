@@ -1,0 +1,109 @@
+{
+    "尚致": [
+      ["谭仁兴", "uncle of x"], 
+      ["谭仁昌", "nephew of x, guardian of x, mentor of x, employee of x, friend of x"], 
+      ["罗亨理", "nephew of x, brother in law of x, cousin of x, friend of x"], 
+      ["罗明纱", "relative by marriage of x, acquaintance of x, friend of x, classmate of x, colleague of x"], 
+      ["吕名然", "兄弟 of x, 师徒 of x, 忘年之交 of x, 同事 of x, 干岔 of x"], 
+      ["罗亨理", "nephew of x, brother in law of x, cousin of x, friend of x"], 
+      ["西洋博士", "teacher student relationship of x, friendship of x, business partnership of x, mentorship of x, employer employee relationship of x"], 
+      ["海悠", "brother and sister of x, cousin of x, friend of x, adopted child of x"], 
+      ["Julie", "acquaintance of x, friend of x, teacher student of x, mentor mentee of x, employer employee of x, customer service provider of x"]
+    ],
+    "谭仁兴": [
+      ["尚致", "uncle of x"], 
+      ["谭仁昌", "father of x, brother of x, brother in law of x, uncle of x, uncle of x"], 
+      ["罗明纱", "uncle of x, cousin of x, romantic relationship of x, friend of x, mentor of x, colleague of x, superior of x"], 
+      ["吕名然", "uncle of x, father in law of x, business partner of x, employee of x"], 
+      ["海悠", "uncle of x, father in law of x, adopted daughter of x, niece of x, romantic relationships with x, business partners of x, mentor of x, teacher of x, student of x, friends of x"], 
+      ["Julie", "family friend of x"]
+    ],
+    "谭仁昌": [
+      ["尚致", "nephew of x, guardian of x, mentor of x, employer of x, friend of x"], 
+      ["谭仁兴", "son of x, brother of x, brother in law of x, nephew of x, nephew of x"], 
+      ["罗亨理", "uncle of x, employer of x, business partner of x, friend of x"], 
+      ["罗明纱", "relative of x, friend of x"], 
+      ["吕名然", "brother of x, cousin of x, brother in law of x, business partner of x, friend of x"], 
+      ["罗亨理", "uncle of x, employer of x, business partner of x, friend of x"], 
+      ["西洋博士", "uncle of x, employer of x, mentor of x, friend of x"], 
+      ["海悠", "relative of x, friend of x, neighbor of x, business partner of x, acquaintance of x"]
+    ],
+    "罗亨理": [
+      ["尚致", "nephew of x, brother in law of x, cousin of x, friend of x"], 
+      ["尚致", "nephew of x, brother in law of x, cousin of x, friend of x"], 
+      ["谭仁昌", "uncle of x, employer of x, business partner of x, friend of x"], 
+      ["谭仁昌", "uncle of x, employer of x, business partner of x, friend of x"], 
+      ["罗明纱", "姐夫 of x, family friend of x"], 
+      ["吕名然", "friend of x, mentor of x"], 
+      ["father", "uncle of x, cousin of x, x's close friend, neighbor of x"], 
+      ["西洋博士", "teacher student relationship of x"], 
+      ["海悠", "father's cousin of x, mother's cousin of x, father's friend of x, business partner of x"], 
+      ["Julie", "uncle of x, employer of x, friend of x, mentor of x"], 
+      ["罗明纱", "schoolmate of x, friendship of x"], 
+      ["吕名然", "brother in law of x, uncle of x, friend of x, master of x, teacher of x"], 
+      ["韦太太", "sister in law of x, aunt of x, mother in law of x"], 
+      ["西洋博士", "teacher student relationship of x"], 
+      ["海悠", "father's cousin of x, mother's cousin of x, father's friend of x, business partner of x"], 
+      ["Julie", "uncle of x, employer of x, friend of x, mentor of x"]
+    ],
+    "罗明纱": [
+      ["尚致", "relative by marriage of x, acquaintance of x, friend of x, classmate of x, colleague of x"], 
+      ["谭仁兴", "uncle of x, cousin of x, romantic relationship of x, friend of x, mentee of x, colleague of x, subordinate of x"], 
+      ["谭仁昌", "relative of x, friend of x"], 
+      ["罗亨理", "妹妹 of x, family friend of x"], 
+      ["吕名然", "spouse of x, romantic partner of x, cousin of x"], 
+      ["韦太太", "姐妹 of x, 妯娌 of x, 亲戚 of x, 朋友 of x, 邻居 of x"], 
+      ["罗亨理", "schoolmate of x, friendship of x"], 
+      ["西洋博士", "teacher student of x, mentor mentee of x, friend friend of x, colleague colleague of x"], 
+      ["海悠", "兄妹 of x, 表兄妹 of x, 朋友 of x"], 
+      ["Julie", "acquaintance of x, friend of x, suspect of x, helper of x"]
+    ],
+    "吕名然": [
+      ["尚致", "兄弟 of x, 师徒 of x, 忘年之交 of x, 同事 of x, 干岔 of x"], 
+      ["谭仁兴", "nephew of x, son in law of x, business partner of x, employee of x"], 
+      ["谭仁昌", "brother of x, cousin of x, husband of x, business partner of x, friend of x"], 
+      ["罗亨理", "friend of x, mentee of x"], 
+      ["罗明纱", "spouse of x, romantic partner of x, cousin of x"], 
+      ["罗亨理", "brother in law of x, uncle of x, friend of x, master of x, teacher of x"], 
+      ["西洋博士", "friend of x"], 
+      ["海悠", "uncle of x, brother in law of x"], 
+      ["Julie", "second cousin of x, business partner's child of x, familiarity of x"]
+    ],
+    "韦太太": [
+      ["罗明纱", "姐妹 of x, 妯娌 of x, 亲戚 of x, 朋友 of x, 邻居 of x"], 
+      ["罗亨理", "sister in law of x, aunt of x, mother in law of x"], 
+      ["Julie", "foster mother of x, adoptive mother of x, mother in law of x"]
+    ],
+    "西洋博士": [
+      ["尚致", "teacher student relationship of x, friendship of x, business partnership of x, mentorship of x, employer employee relationship of x"], 
+      ["谭仁昌", "informant of x"], 
+      ["罗亨理", "teacher student relationship of x"], 
+      ["罗明纱", "teacher student of x, mentor mentee of x, friend friend of x, colleague colleague of x"], 
+      ["吕名然", "friend of x"], 
+      ["罗亨理", "teacher student relationship of x"], 
+      ["海悠", "teacher student relationship of x, friend student relationship of x"], 
+      ["Julie", "mentor/teacher student relationship of x"]
+    ],
+    "海悠": [
+      ["尚致", "brother and sister of x, cousin of x, friend of x, adopted child of x"], 
+      ["谭仁秀", "uncle of x, father in law of x, adopted daughter of x, niece of x, romantic relationships with x, business partners of x, mentor of x, teacher of x, student of x, friends of x"], 
+      ["谭仁昌", "relative of x, friend of x, neighbor of x, business partner of x, acquaintance of x"], 
+      ["罗亨理", "father's cousin of x, mother's cousin of x, father's friend of x, business partner of x"], 
+      ["罗明纱", "兄妹 of x, 表兄妺 of x, 朋友 of x"], 
+      ["吕名然", "uncle of x, brother in law of x"], 
+      ["罗亨理", "father's cousin of x, mother's cousin of x, father's friend of x, business partner of x"], 
+      ["西洋博士", "teacher student relationship of x, friend teacher relationship of x"], 
+      ["Julie", "兄妹 of x, 姐夫家的侄女 of x, 堂妹 of x, 邻居 of x, 学友 of x, 仰慕的对象 of x"]
+    ],
+    "Julie": [
+      ["尚致", "acquaintance of x, friend of x, teacher student of x, mentor mentee of x, employer employee of x, customer service provider of x"], 
+      ["谭仁兴", "family friend of x"], 
+      ["罗亨理", "uncle of x, employer of x, friend of x, mentor of x"], 
+      ["罗明纱", "acquaintance of x, friend of x, victim of x, suspect of x"], 
+      ["吕名然", "second cousin of x, business partner's child of x, familiarity of x"], 
+      ["韦太太", "daughter in law of x, niece of x"], 
+      ["罗亨理", "uncle of x, employer of x, friend of x, mentor of x"], 
+      ["西洋博士", "mentor/teacher student relationship of x"], 
+      ["海悠", "兄妹 of x, 姐夫家的侄女 of x, 堂妹 of x, 邻居 of x, 学友 of x, 仰慕的对象 of x"]
+    ]
+}

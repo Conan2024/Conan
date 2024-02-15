@@ -1,0 +1,73 @@
+{
+    "云凌": [
+      ["廖一乔", "daughter of x"], 
+      ["唐婉枫", "mother of x"], 
+      ["徐伯清", "acquaintance of x, quest companion of x, admired by x"], 
+      ["任仲远", "x's victim's family"], 
+      ["姚仲义", "acquaintance of x"], 
+      ["红夫人", "acquaintance of x"], 
+      ["虞医师", "acquaintance of x"]
+    ],
+    "廖一乔": [
+      ["云凌", "father of x"], 
+      ["唐婉枫", "husband of x"], 
+      ["唐茂光", "father in law of x"], 
+      ["徐伯清", "acquaintance of x, father of x"], 
+      ["任仲远", "helper of x, friend of x"], 
+      ["红夫人", "acquaintance of x"]
+    ],
+    "唐婉枫": [
+      ["云凌", "child of x"], 
+      ["廖一乔", "wife of x"], 
+      ["唐茂光", "mother of x"], 
+      ["徐伯清", "acquaintance of x"], 
+      ["任仲远", "mother of x"]
+    ],
+    "唐茂光": [
+      ["廖一乔", "son in law of x"], 
+      ["唐婉枫", "uncle of x"], 
+      ["徐伯清", "acquaintance of x"], 
+      ["任仲远", "uncle of x"], 
+      ["红夫人", "uncle of x"]
+    ],
+    "徐伯清": [
+      ["云凌", "acquaintance of x, quest companion of x, admirer of x"], 
+      ["廖一乔", "acquaintance of x"], 
+      ["唐婉枫", "acquaintance of x"], 
+      ["唐茂光", "acquaintance of x"], 
+      ["任仲远", "acquaintance of x"], 
+      ["姚仲义", "acquaintance of x"], 
+      ["红夫人", "acquaintance of x"], 
+      ["虞医师", "acquaintance of x"]
+    ],
+    "任仲远": [
+      ["云凌", "helper of x"], 
+      ["廖一乔", "helped by x"], 
+      ["唐婉枫", "child of x"], 
+      ["唐茂光", "employee of x"], 
+      ["徐伯清", "acquaintance of x"], 
+      ["红夫人", "helper of x"], 
+      ["云凌", "helper of x, mentor of x, friend of x"]
+    ],
+    "姚仲义": [
+      ["云凌", "acquaintance of x"], 
+      ["徐伯清", "acquaintance of x"], 
+      ["红夫人", "step son of x"], 
+      ["虞医师", "employer of x"]
+    ],
+    "红夫人": [
+      ["云凌", "acquaintance of x"], 
+      ["廖一乔", "acquaintance of x"], 
+      ["徐伯清", "acquaintance of x"], 
+      ["任仲远", "helped by x"], 
+      ["姚仲义", "step mother of x"], 
+      ["虞医师", "step mother of x, secret lover of x"]
+    ],
+    "虞医师": [
+      ["云凌", "acquaintance of x"], 
+      ["徐伯清", "acquaintance of x"], 
+      ["云凌", "acquaintance of x"], 
+      ["姚仲义", "employee of x"], 
+      ["红夫人", "step son of x, helped by x"]
+    ]
+}

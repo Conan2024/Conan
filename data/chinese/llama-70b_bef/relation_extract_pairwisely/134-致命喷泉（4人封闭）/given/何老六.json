@@ -1,0 +1,36 @@
+{
+    "何老六": [
+      ["张洁", "murderer of x, attempted perpetrator of x, victim of x, killed by x"], 
+      ["慕北", "business partner of x, rival of x, enemy of x"], 
+      ["李国富", "acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, bully of x, murderer of x, attempted murderer of x, victim of x, dislike of x, suspect of x, suspicious of x, suspect of x, adversary of x, enemy of x"]
+    ],
+    "张洁": [
+      ["何老六", "murderer of x, attempted perpetrator of x, victim of x, killed by x"], 
+      ["慕北", "colleague of x"], 
+      ["李国富", "colleague of x"], 
+      ["王大哥", "acquaintance of x, classmate of x"], 
+      ["王邻居", "business partner of x"]
+    ],
+    "慕北": [
+      ["何老六", "business partner of x, rival of x, enemy of x"], 
+      ["张洁", "colleague of x"], 
+      ["李国富", "acquaintance of x"], 
+      ["王大哥", "acquaintance of x, classmate of x, schoolmate of x"], 
+      ["王邻居", "acquaintance of x"]
+    ],
+    "李国富": [
+      ["何老六", "acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, bully of x, murderer of x, attempted murderer of x, victim of x, dislike of x, suspect of x, suspicious of x, suspect of x, adversary of x, enemy of x"], 
+      ["张洁", "colleague of x"], 
+      ["慕北", "acquaintance of x"], 
+      ["王邻居", "acquaintance of x, business partner of x, friend of x"]
+    ],
+    "王邻居": [
+      ["张洁", "business partner of x"], 
+      ["慕北", "acquaintance of x"], 
+      ["李国富", "acquaintance of x, business partner of x, friend of x"]
+    ],
+    "王大哥": [
+      ["张洁", "acquaintance of x, classmate of x"], 
+      ["慕北", "acquaintance of x, classmate of x, schoolmate of x"]
+    ]
+}

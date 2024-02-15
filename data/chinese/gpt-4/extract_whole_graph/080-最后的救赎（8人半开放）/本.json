@@ -1,0 +1,58 @@
+{
+    "本": [
+        [
+            "李老师",
+            "accomplice of x, suspected by x, debtor of x, victim of x"
+        ],
+        [
+            "彼得",
+            "perpetrator of x, stranger to x"
+        ],
+        [
+            "凯特",
+            "ex-romantic relationship with x, sexual partner of x"
+        ]
+    ],
+    "李老师": [
+        [
+            "本",
+            "accomplice of x, suspect to x, creditor of x"
+        ],
+        [
+            "彼得",
+            "disliked by x, suspect to x"
+        ],
+        [
+            "凯特",
+            "acquaintance of x"
+        ]
+    ],
+    "彼得": [
+        [
+            "本",
+            "victim of x, classmate of x"
+        ],
+        [
+            "李老师",
+            "enemy of x, disliked by x, student of x"
+        ],
+        [
+            "凯特",
+            "classmate of x"
+        ]
+    ],
+    "凯特": [
+        [
+            "本",
+            "ex-romantic relationship with x, sexual partner of x"
+        ],
+        [
+            "李老师",
+            "acquaintance of x"
+        ],
+        [
+            "彼得",
+            "classmate of x"
+        ]
+    ]
+}

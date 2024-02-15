@@ -1,0 +1,29 @@
+{
+    "松节": [
+      ["玄冰教使者", "same person as x (different identity)"], 
+      ["杜仲", "customer of x"], 
+      ["神曲使", "colleague of x, information receiver from x"], 
+      ["紫苏", "quest companion of x"], 
+      ["忍冬", "friend of x, helper of x"], 
+      ["武林盟的使者", "deceived by x"], 
+      ["陆英", "acquaintance of x, suspect to x"], 
+      ["玄参", "acquaintance of x"]
+    ],
+    "玄参": [
+      ["松节", "acquaintance of x"], 
+      ["陆英", "colleague of x, helper of x"]
+    ],
+    "陆英": [
+      ["松节", "authority over x, suspect of x"], 
+      ["玄参", "colleague of x, informant of x"]
+    ],
+    "忍冬": [
+      ["松节", "friend of x, helped by x"]
+    ],
+    "紫苏": [
+      ["松节", "quest companion of x"]
+    ],
+    "神曲使": [
+      ["松节", "colleague of x, information receiver from x"]
+    ]
+}

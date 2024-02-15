@@ -1,0 +1,55 @@
+{
+    "何老六": [
+      ["李国富", "crime partner of x, subordinate of x, debtor of x"], 
+      ["张洁", "crime partner of x, colleague of x, quest companion of x"], 
+      ["慕北", "colleague of x, quest companion of x"], 
+      ["王大哥", "acquaintance of x, debtor of x, helped by x"], 
+      ["王邻居", "acquaintance of x, debtor of x"], 
+      ["警察", "suspect of x"]
+    ],
+    "李国富": [
+      ["何老六", "crime partner of x, superior of x, creditor of x"], 
+      ["张洁", "crime partner of x, colleague of x, superior of x"], 
+      ["慕北", "superior of x, colleague of x"], 
+      ["王大哥", "debtor of x, colleague of x"], 
+      ["王邻居", "debtor of x, superior of x, crime partner of x"], 
+      ["警察", "victim of x"]
+    ],
+    "张洁": [
+      ["何老六", "crime partner of x, colleague of x, quest companion of x"], 
+      ["李国富", "crime partner of x, subordinate of x"], 
+      ["慕北", "crime partner of x, colleague of x"], 
+      ["王大哥", "acquaintance of x, colleague of x"], 
+      ["王邻居", "acquaintance of x"], 
+      ["警察", "suspected by x"]
+    ],
+    "慕北": [
+      ["何老六", "colleague of x, quest companion of x"], 
+      ["李国富", "subordinate of x, colleague of x"], 
+      ["张洁", "colleague of x"], 
+      ["王大哥", "colleague of x, quest companion of x"], 
+      ["王邻居", "acquaintance of x, colleague of x"], 
+      ["警察", "colleague of x, quest companion of x"]
+    ],
+    "王大哥": [
+      ["何老六", "acquaintance of x, creditor of x"], 
+      ["李国富", "creditor of x, acquaintance of x"], 
+      ["张洁", "acquaintance of x, customer of x"], 
+      ["慕北", "customer of x, possibly family of x, debtor of x"], 
+      ["王邻居", "creditor of x, customer of x"], 
+      ["警察", "victim of x, debtor of x"]
+    ],
+    "王邻居": [
+      ["何老六", "acquaintance of x, creditor of x"], 
+      ["李国富", "creditor of x, customer of x, victim of x"], 
+      ["张洁", "acquaintance of x"], 
+      ["慕北", "acquaintance of x, subordinate of x"], 
+      ["王大哥", "debtor of x, service provider of x"], 
+      ["警察", "debtor of x, suspect to x"]
+    ],
+    "警察": [
+      ["慕北", "suspect to x"], 
+      ["王大哥", "suspected by x"], 
+      ["王邻居", "creditor of x"]
+    ]
+}

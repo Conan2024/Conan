@@ -1,0 +1,42 @@
+{
+    "陈媚儿": [
+        [
+            "赵中杨",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "李成",
+            "Perpetrator of attempted murder",
+            "Adversary",
+            "Enemy",
+            "Rival",
+            "Manipulator",
+            "Colleague"
+        ]
+    ],
+    "赵中杨": [
+        [
+            "陈媚儿",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "李成",
+            "perpetrator of attempted murder, enemy"
+        ]
+    ],
+    "李成": [
+        [
+            "陈媚儿",
+            "Victim of attempted murder",
+            "Adversary",
+            "Enemy",
+            "Rival",
+            "Informant",
+            "Customer"
+        ],
+        [
+            "赵中杨",
+            "victim of attempted murder, adversary"
+        ]
+    ]
+}

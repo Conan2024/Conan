@@ -1,0 +1,23 @@
+{
+    "李小弟": [
+      ["张恶霸", "acquaintance of x, suspect of x"], 
+      [" Wang学习", "friend of x, classmate of x"]
+    ],
+    "张恶霸": [
+      ["李小弟", "acquaintance of x, suspect of x"], 
+      ["郝闺蜜", "girlfriend of x"]
+    ],
+    "王学习": [
+      ["李小弟", "friend of x"]
+    ],
+    "郝闺蜜": [
+      ["张恶霸", "girlfriend of x"], 
+      ["李小弟", "acquaintance of x"]
+    ],
+    "赵帅哥": [
+      ["李小弟", "friend of x"]
+    ],
+    "林校花": [
+      ["李小弟", "friend of x"]
+    ]
+}

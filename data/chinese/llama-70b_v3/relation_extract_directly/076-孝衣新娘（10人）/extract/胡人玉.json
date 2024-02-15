@@ -1,0 +1,51 @@
+{
+    "胡人玉": [
+      ["田红娇", "lover of x, rival of x"], 
+      ["姚长寿", "enemy of x, rival of x"], 
+      ["方乘山", "colleague of x, enemy of x"], 
+      ["杜老总管", "manipulator of x"], 
+      ["李宽生", "brother of x, friend of x"], 
+      ["李广生", "brother of x, friend of x"], 
+      ["虞北辰", "suspect of x"]
+    ],
+    "田红娇": [
+      ["胡人玉", "lover of x, rival of x"], 
+      ["姚长寿", "husband of x, enemy of x"], 
+      ["方乘山", "colleague of x, enemy of x"], 
+      ["杜老总管", "manipulator of x"], 
+      ["李宽生", "brother of x, friend of x"], 
+      ["李广生", "brother of x, friend of x"]
+    ],
+    "姚长寿": [
+      ["胡人玉", "enemy of x, rival of x"], 
+      ["田红娇", "wife of x, enemy of x"], 
+      ["方乘山", "colleague of x, enemy of x"], 
+      ["杜老总管", "manipulator of x"]
+    ],
+    "方乘山": [
+      ["胡人玉", "colleague of x, enemy of x"], 
+      ["田红娇", "colleague of x, enemy of x"], 
+      ["姚长寿", "colleague of x, enemy of x"], 
+      ["杜老总管", "manipulator of x"]
+    ],
+    "杜老总管": [
+      ["胡人玉", "manipulator of x"], 
+      ["田红娇", "manipulator of x"], 
+      ["姚长寿", "manipulator of x"], 
+      ["方乘山", "manipulator of x"]
+    ],
+    "李宽生": [
+      ["胡人玉", "brother of x, friend of x"], 
+      ["田红娇", "brother of x, friend of x"]
+    ],
+    "李广生": [
+      ["胡人玉", "brother of x, friend of x"], 
+      ["田红娇", "brother of x, friend of x"]
+    ],
+    "虞北辰": [
+      ["胡人玉", "suspect of x"]
+    ],
+    "白头蛇": [
+      ["胡人玉", "acquaintance of x, business partner of x"]
+    ]
+}

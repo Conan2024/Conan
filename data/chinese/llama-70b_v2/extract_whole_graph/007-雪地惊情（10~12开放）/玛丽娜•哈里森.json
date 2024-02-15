@@ -1,0 +1,21 @@
+{
+    "玛丽娜•哈里森": [
+      ["戴维斯•佩里", "lover of x, possible father of x daughter"], 
+      ["艾米•摩根", "sister in law of x, adversary of x"], 
+      ["艾莱克斯•哈维", "friend of x, confidant of x"], 
+      ["哈罗德•哈里森", "husband of x, lover of x"], 
+      ["露西•哈里森", "mother of x, daughter of x"]
+    ],
+    "戴维斯•佩里": [
+      ["玛丽娜•哈里森", "lover of x, possible father of x daughter"], 
+      ["丹尼尔•佩里", "brother of x, business partner of x"]
+    ],
+    "艾米•摩根": [
+      ["玛丽娜•哈里森", "sister in law of x, adversary of x"], 
+      ["哈罗德•哈里森", "brother of x"]
+    ],
+    "艾莱克斯•哈维": [
+      ["玛丽娜•哈里森", "friend of x, confidant of x"], 
+      ["哈罗德•哈里森", "brother of x"]
+    ]
+}

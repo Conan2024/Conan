@@ -1,0 +1,32 @@
+{
+    "忘忧": [
+      ["杜仲", "brother in law of x, friend of x"], 
+      ["杜仲的孩子", "friend of x, business partner of x"], 
+      ["玄参", "异姓兄弟 of x, cloud hidden sanctuary colleague of x"], 
+      ["红花夫人", "兄弟 of x, 朋友 of x"]
+    ],
+    "杜仲": [
+      ["忘忧", "brother in law of x, friend of x"], 
+      ["杜仲的孩子", "brother in law of x, mentor of x"], 
+      ["玄参", "brother of x, mentor of x"], 
+      ["红花夫人", "brother in law of x, husband of x"]
+    ],
+    "杜仲的孩子": [
+      ["忘忧", "son of x, apprentice of x"], 
+      ["杜仲", "son of x, protege of x"], 
+      ["玄参", "异姓兄弟 of x, 兄弟 of x, 朋友 of x"], 
+      ["红花夫人", "son of x, stranger to x"]
+    ],
+    "玄参": [
+      ["忘忧", "异姓兄弟 of x, cloud hidden sanctuary colleague of x"], 
+      ["杜仲", "brother of x, mentor of x"], 
+      ["杜仲的孩子", "异姓兄弟 of x, 兄弟 of x, 朋友 of x"], 
+      ["红花夫人", "old friend of x, former fellow swordsman of x"]
+    ],
+    "红花夫人": [
+      ["忘忧", "兄弟 of x, 朋友 of x"], 
+      ["杜仲", "brother in law of x, wife of x"], 
+      ["杜仲的孩子", "mother of x, same person as x"], 
+      ["玄参", "old friend of x, former fellow swordsman of x"]
+    ]
+}

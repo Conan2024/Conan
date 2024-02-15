@@ -1,0 +1,28 @@
+{
+    "郝闺蜜": [
+      ["张恶霸", "friend of x"], 
+      ["林校花", "friend of x, colleague of x"], 
+      ["赵帅哥", "classmate of x, friend of x"], 
+      ["李小弟", "classmate of x"], 
+      ["王学习", "classmate of x, business partner of x"]
+    ],
+    "张恶霸": [
+      ["林校花", "friend of x, colleague of x"]
+    ],
+    "林校花": [
+      ["郝闺蜜", "friend of x, colleague of x"], 
+      ["张恶霸", "classmate of x, friend of x"]
+    ],
+    "赵帅哥": [
+      ["郝闺蜜", "classmate of x, friend of x"], 
+      ["张恶霸", "classmate of x"]
+    ],
+    "李小弟": [
+      ["郝闺蜜", "classmate of x"], 
+      ["张恶霸", "classmate of x, friend of x"]
+    ],
+    "王学习": [
+      ["郝闺蜜", "classmate of x, business partner of x"], 
+      ["张恶霸", "classmate of x, friend of x"]
+    ]
+}

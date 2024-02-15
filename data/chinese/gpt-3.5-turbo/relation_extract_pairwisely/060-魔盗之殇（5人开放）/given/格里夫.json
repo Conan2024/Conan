@@ -1,0 +1,129 @@
+{
+    "后勤格里夫": [
+        [
+            "魔术师古思特",
+            "friend of"
+        ],
+        [
+            "助手艾拉",
+            "helper of x, betrayer of x"
+        ],
+        [
+            "宣传罗琳",
+            "friend of x"
+        ],
+        [
+            "剧务戴维",
+            "friend of x, informant of x"
+        ],
+        [
+            "保安凯文",
+            "employee of x"
+        ]
+    ],
+    "魔术师古思特": [
+        [
+            "后勤格里夫",
+            "friend of"
+        ],
+        [
+            "助手艾拉",
+            "romantic relationships with x"
+        ],
+        [
+            "宣传罗琳",
+            "romantic relationships with x",
+            "mentor of x"
+        ],
+        [
+            "剧务戴维",
+            "romantic relationships with x"
+        ],
+        [
+            "保安凯文",
+            "potential adversary",
+            "potential manipulator"
+        ]
+    ],
+    "助手艾拉": [
+        [
+            "后勤格里夫",
+            "helper of x, betrayer of x"
+        ],
+        [
+            "魔术师古思特",
+            "romantic relationships with x"
+        ],
+        [
+            "宣传罗琳",
+            "ex lover of x"
+        ],
+        [
+            "剧务戴维",
+            "romantic relationships with x, dishonesty of x"
+        ],
+        [
+            "保安凯文",
+            "helper of x"
+        ]
+    ],
+    "宣传罗琳": [
+        [
+            "后勤格里夫",
+            "friend of x"
+        ],
+        [
+            "魔术师古思特",
+            "romantic relationships with x"
+        ],
+        [
+            "助手艾拉",
+            "ex lover of x"
+        ],
+        [
+            "剧务戴维",
+            "lover of x"
+        ]
+    ],
+    "剧务戴维": [
+        [
+            "后勤格里夫",
+            "friend of x, mentor of x"
+        ],
+        [
+            "魔术师古思特",
+            "romantic relationships with x"
+        ],
+        [
+            "助手艾拉",
+            "romantic relationships with x, dishonesty of x"
+        ],
+        [
+            "宣传罗琳",
+            "secret lover of x"
+        ],
+        [
+            "保安凯文",
+            "employee of x"
+        ]
+    ],
+    "保安凯文": [
+        [
+            "后勤格里夫",
+            "employer of x"
+        ],
+        [
+            "魔术师古思特",
+            "potential adversary",
+            "potential manipulator"
+        ],
+        [
+            "助手艾拉",
+            "employee of x"
+        ],
+        [
+            "剧务戴维",
+            "employer of x"
+        ]
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "葛继先": [
+      ["葛月萝", "daughter of x"], 
+      ["葛月曼", "daughter of x"], 
+      ["朱陵山", "son in law of x"], 
+      ["吕松年", "victim of x"], 
+      ["吕陆升", "victim of x"]
+    ],
+    "葛月萝": [
+      ["葛继先", "father of x"], 
+      ["葛月曼", "sibling of x"], 
+      ["朱陵山", "husband of x"], 
+      ["葛月曼", "sibling of x"], 
+      ["吕松年", "disliked by x"], 
+      ["吕陆升", "disliked by x"]
+    ],
+    "葛月曼": [
+      ["葛继先", "father of x"], 
+      ["葛月萝", "sibling of x"], 
+      ["朱陵山", "brother in law of x"]
+    ],
+    "朱陵山": [
+      ["葛月萝", "wife of x"], 
+      ["葛继先", "father in law of x"], 
+      ["葛月曼", "sister in law of x"], 
+      ["吕松年", "accomplice of x"], 
+      ["吕陆升", "acquaintance of x"]
+    ],
+    "乐婉": [
+      ["张太太", "acquaintance of x"], 
+      ["朱陵山", "romantic relationships with x"], 
+      ["于尚勇", "acquaintance of x"]
+    ],
+    "张太太": [
+      ["张先生", "husband of x"], 
+      ["乐婉", "acquaintance of x"]
+    ],
+    "张先生": [
+      ["张太太", "wife of x"], 
+      ["乐婉", "acquaintance of x"]
+    ],
+    "薛玉帆": [
+      ["薛达财", "father of x"], 
+      ["朱陵山", "victim of x"]
+    ],
+    "于彦诚": [
+      ["于尚勇", "sibling of x"], 
+      ["吕松年", "acquaintance of x"]
+    ],
+    "于尚勇": [
+      ["于彦诚", "sibling of x"], 
+      ["乐婉", "acquaintance of x"]
+    ],
+    "张俊诗": [
+      ["薛玉帆", "acquaintance of x"]
+    ],
+    "稚筠": [
+      ["薛玉帆", "acquaintance of x"], 
+      ["葛月曼", "acquaintance of x"], 
+      ["乐婉", "acquaintance of x"], 
+      ["于尚勇", "acquaintance of x"], 
+      ["张太太", "acquaintance of x"], 
+      ["吕陆升", "acquaintance of x"]
+    ],
+    "吕松年": [
+      ["吕陆升", "sibling of x"], 
+      ["葛继先", "murderer of x"], 
+      ["葛月萝", "dislike of x"], 
+      ["朱陵山", "accomplice of x"], 
+      ["严义充", "murderer of x"], 
+      ["薛达财", "acquaintance of x"]
+    ],
+    "吕陆升": [
+      ["吕松年", "sibling of x"], 
+      ["葛继先", "victim of x"], 
+      ["葛月萝", "disliked by x"], 
+      ["朱陵山", "acquaintance of x"], 
+      ["严义充", "murderer of x"], 
+      ["薛达财", "acquaintance of x"]
+    ],
+    "薛达财": [
+      ["薛玉帆", "child of x"], 
+      ["朱陵山", "acquaintance of x"], 
+      ["吕松年", "acquaintance of x"]
+    ],
+    "严义充": [
+      ["吕松年", "victim of x"], 
+      ["吕陆升", "victim of x"]
+    ]
+}

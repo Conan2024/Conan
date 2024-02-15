@@ -1,0 +1,24 @@
+{
+    "露西•哈里森": [
+      ["乔纳森", "romantic relationships with x"], 
+      ["哈罗德和玛丽娜•哈里森", "child of x"], 
+      ["艾米•摩根", "friend of x"], 
+      ["约翰•摩根", "deceased of x, romantic relationships with x"], 
+      ["arriett", "mentor of x"]
+    ],
+    "乔纳森": [
+      ["露西•哈里森", "romantic relationships with x"], 
+      ["哈罗德和玛丽娜•哈里森", "nephew of x"]
+    ],
+    "约翰•摩根": [
+      ["露西•哈里森", "deceased of x"], 
+      ["乔纳森", "romantic relationships with x"]
+    ],
+    "哈罗德和玛丽娜•哈里森": [
+      ["露西•哈里森", "parent of x"], 
+      ["乔纳森", "uncle of x"]
+    ],
+    "艾米•摩根": [
+      ["露西•哈里森", "friend of x"]
+    ]
+}

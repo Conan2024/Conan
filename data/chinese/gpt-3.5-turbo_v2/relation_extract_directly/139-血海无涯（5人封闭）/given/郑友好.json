@@ -1,0 +1,20 @@
+{
+    "郑友好": [
+      ["秦老大", "friend of x, helped by x, attempted perpetrator of x, victim of x, dislike of x"], 
+      ["贾美丽", "romantic relationships with x, wanted to harm x"], 
+      ["韦小弟", "friend of x, helped by x"]
+    ],
+    "秦老大": [
+      ["郑友好", "friend of x, helper of x, helped by x"], 
+      ["贾美丽", "romantic relationships with x"], 
+      ["韦小弟", "friend of x, helped by x"]
+    ],
+    "贾美丽": [
+      ["郑友好", "romantic relationships with x"], 
+      ["秦老大", "romantic relationships with x"]
+    ],
+    "韦小弟": [
+      ["郑友好", "friend of x, helped by x"], 
+      ["秦老大", "friend of x, helped by x"]
+    ]
+}

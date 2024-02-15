@@ -1,0 +1,43 @@
+{
+    "凌霄": [
+      ["恋人", "subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x"], 
+      ["杜仲", "master disciple relationship of x"], 
+      ["玄参", "师兄弟 of x, 组织的首领 of x, 潜dragon of x"], 
+      ["紫苏", "friend of x, close friend of x"], 
+      ["陆英", "master of x, mentor of x, teacher of x, employee of x"]
+    ],
+    "恋人": [
+      ["凌霄", "subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x"], 
+      ["杜仲", "master disciple relationship of x"], 
+      ["玄参", "x是x的 любов"], 
+      ["紫苏", "rome interest of x, secret lover of x"], 
+      ["陆英", "close friend of x, romantic interest of x"]
+    ],
+    "杜仲": [
+      ["凌霄", "master disciple relationship of x"], 
+      ["恋人", "master disciple relationship of x"], 
+      ["玄参", "master of x, employee of x, servant of x, colleague of x, business partner of x, customer of x"], 
+      ["紫苏", "master disciple of x, mentor protege of x, co workers of x"], 
+      ["陆英", "师徒 of x, long term friends of x, 兄弟 of x, 共谋 of x, 利益关系 of x, 恩怨 of x, 谍敌 of x, 追求者 of x"]
+    ],
+    "玄参": [
+      ["凌霄", "师兄弟 of x, 组织的首领 of x, 潜dragon of x"], 
+      ["杜仲", "master of x, employee of x, servant of x, colleague of x, business partner of x, customer of x"], 
+      ["紫苏", "acquaintance of x, friend of x, classmate of x, schoolmate of x, colleague of x"], 
+      ["陆英", "master of x, teacher of x"]
+    ],
+    "紫苏": [
+      ["凌霄", "friend of x, close friend of x"], 
+      ["恋人", "rome interest of x, secret lover of x"], 
+      ["杜仲", "master disciple of x, mentor protege of x, co workers of x"], 
+      ["玄参", "acquaintance of x, friend of x, classmate of x, schoolmate of x, colleague of x"], 
+      ["陆英", "师弟関係 of x, 掌门之位 of x, 同門 of x, 敬谢 of x, 恩怨 of x, 关心 of x"]
+    ],
+    "陆英": [
+      ["凌霄", "master of x, mentor of x, teacher of x, employee of x"], 
+      ["恋人", "close friend of x, romantic interest of x"], 
+      ["杜仲", "师徒 of x, long term friends of x, 兄弟 of x, 共谋 of x, 利益关系 of x, 恩怨 of x, 谍敌 of x, 追求者 of x"], 
+      ["玄参", "apprentice of x, successor of x"], 
+      ["紫苏", "师弟关係 of x, 掌门之位 of x, 同門 of x, 敬谢 of x, 恩怨 of x, 关心 of x"]
+    ]
+}

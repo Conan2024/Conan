@@ -1,0 +1,136 @@
+{
+    "乐婉": [
+        [
+            "葛继先",
+            "helper of x, helped by x"
+        ],
+        [
+            "葛月萝",
+            "helper of x, helped by x, acquaintance of x"
+        ],
+        [
+            "朱陵山",
+            "same person as x (different identity), husband of x"
+        ],
+        [
+            "张太太",
+            "acquaintance of x, helper of x"
+        ],
+        [
+            "张先生",
+            "superior of x"
+        ]
+    ],
+    "葛继先": [
+        [
+            "葛月萝",
+            "child of x"
+        ],
+        [
+            "葛月曼",
+            "child of x"
+        ],
+        [
+            "乐婉",
+            "superior of x"
+        ]
+    ],
+    "葛月萝": [
+        [
+            "葛继先",
+            "relative of x"
+        ],
+        [
+            "朱陵山",
+            "husband of x"
+        ],
+        [
+            "乐婉",
+            "helper of x, helped by x, acquaintance of x"
+        ]
+    ],
+    "葛月曼": [
+        [
+            "葛继先",
+            "relative of x"
+        ],
+        [
+            "葛月萝",
+            "same person as x (different identity)"
+        ]
+    ],
+    "朱陵山": [
+        [
+            "葛月萝",
+            "same person as x (different identity), husband of x"
+        ],
+        [
+            "乐婉",
+            "same person as x (different identity), wife of x"
+        ]
+    ],
+    "张太太": [
+        [
+            "张先生",
+            "wife of x"
+        ],
+        [
+            "乐婉",
+            "superior of x, helper of x"
+        ]
+    ],
+    "张先生": [
+        [
+            "张太太",
+            "husband of x"
+        ],
+        [
+            "乐婉",
+            "subordinate of x"
+        ]
+    ],
+    "薛玉帆": [
+        [
+            "吕陆升",
+            "acquaintance of x"
+        ]
+    ],
+    "于尚勇": [
+        [
+            "于彦诚",
+            "same person as x (different identity)"
+        ],
+        [
+            "乐婉",
+            "helper of x, helped by x"
+        ],
+        [
+            "吕陆升",
+            "adversary of x"
+        ]
+    ],
+    "于彦诚": [
+        [
+            "于尚勇",
+            "same person as x (different identity)"
+        ],
+        [
+            "乐婉",
+            "helper of x, helped by x"
+        ]
+    ],
+    "吕陆升": [
+        [
+            "薛玉帆",
+            "acquaintance of x"
+        ],
+        [
+            "乐婉",
+            "disliked by x"
+        ],
+        [
+            "于尚勇",
+            "victim of x"
+        ]
+    ]
+}

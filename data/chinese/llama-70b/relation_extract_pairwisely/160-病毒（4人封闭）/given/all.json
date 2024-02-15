@@ -1,0 +1,142 @@
+{
+    "孙清洁": [
+        [
+            "李保安",
+            "friend",
+            "colleague",
+            "superior",
+            "subordinate",
+            "acquaintance",
+            "manipulator",
+            "enemy",
+            "rival",
+            "helper",
+            "informant"
+        ],
+        [
+            "田助理",
+            "贾教授"
+        ],
+        [
+            "秦鸥",
+            "extramarital affair",
+            "romantic interest",
+            "victim of bullying",
+            "perpetrator of bullying",
+            "friend",
+            "informant",
+            "helper",
+            "superior",
+            "employer",
+            "master"
+        ],
+        [
+            "贾教授",
+            "Supervisor-Employee",
+            "Blackmailer-Blackmailed"
+        ]
+    ],
+    "李保安": [
+        [
+            "孙清洁",
+            "friend",
+            "colleague",
+            "superior",
+            "subordinate",
+            "acquaintance",
+            "manipulator",
+            "enemy",
+            "rival",
+            "helper",
+            "informant"
+        ],
+        [
+            "田助理",
+            "Acquaintance of X"
+        ],
+        [
+            "秦鸥",
+            " acquaintance",
+            "perpetrator of X",
+            " Victim of X"
+        ],
+        [
+            "贾教授",
+            "co-worker, acquaintance"
+        ]
+    ],
+    "田助理": [
+        [
+            "孙清洁",
+            "贾教授"
+        ],
+        [
+            "李保安",
+            "Acquaintance of X"
+        ],
+        [
+            "秦鸥",
+            "perpetrator of X",
+            "bully of X"
+        ],
+        [
+            "贾教授",
+            "Superior of x",
+            "Employer of X",
+            "Master of X",
+            "controller of X"
+        ]
+    ],
+    "秦鸥": [
+        [
+            "孙清洁",
+            "extramarital affair",
+            "romantic interest",
+            "victim of bullying",
+            "perpetrator of bullying",
+            "friend",
+            "informant",
+            "helper",
+            "superior",
+            "employer",
+            "master"
+        ],
+        [
+            "李保安",
+            " acquaintance",
+            "perpetrator of X",
+            " Victim of X"
+        ],
+        [
+            "田助理",
+            "victim of X",
+            "suspicious of X"
+        ],
+        [
+            "贾教授",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5, relationship 6, relationship 7, relationship 8, relationship 9, relationship 10"
+        ]
+    ],
+    "贾教授": [
+        [
+            "孙清洁",
+            "Supervisor-Employee",
+            "Blackmailer-Blackmailed"
+        ],
+        [
+            "李保安",
+            "co-worker, acquaintance"
+        ],
+        [
+            "田助理",
+            "Superior of x",
+            "Employer of X",
+            "Master of X",
+            "Controller of X"
+        ],
+        [
+            "秦鸥",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5, relationship 6, relationship 7, relationship 8, relationship 9, relationship 10"
+        ]
+    ]
+}

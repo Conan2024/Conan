@@ -1,0 +1,121 @@
+{
+    "西尔维娅•科斯塔": [
+      ["詹姆斯·莱利", "husband of x"], 
+      ["母亲", "daughter of x"], 
+      ["父亲", "daughter of x"], 
+      ["她的同事们", "colleague of x"], 
+      ["帕罗斯基医生", "doctor of x"], 
+      ["吉姆·梅森", "mentor of x"], 
+      ["汉斯·里莫瑞特", "friend of x, mentor of x"], 
+      ["罗伯特·凯西", "fiance of x"], 
+      ["盖尔·里莫瑞特", "employer of x, mentor of x"], 
+      ["德雷克·里莫瑞特", "friend of x, colleague of x, mentor of x"]
+    ],
+    "母亲": [
+      ["西尔维娅•科斯塔", "mother of x"], 
+      ["詹姆斯·莱利", "mother of x"], 
+      ["父亲", "wife of x"], 
+      ["她的同事们", "colleague of x"], 
+      ["帕罗斯基医生", "doctor of x"], 
+      ["吉姆·梅森", "mother of x"], 
+      ["汉斯·里莫瑞特", "mother of x"], 
+      ["罗伯特·凯西", "mother of x"], 
+      ["盖尔·里莫瑞特", "biological mother of x"], 
+      ["德雷克·里莫瑞特", "child of x"]
+    ],
+    "父亲": [
+      ["西尔维娅•科斯塔", "father of x"], 
+      ["詹姆斯·莱利", "son of x"], 
+      ["母亲", "husband of x"], 
+      ["她的同事们", "colleague of x"], 
+      ["帕罗斯基医生", "doctor of x"], 
+      ["吉姆·梅森", "father of x"], 
+      ["罗伯特·凯西", "father of x"], 
+      ["盖尔·里莫瑞特", "father of x"], 
+      ["德雷克·里莫瑞特", "biological father of x"]
+    ],
+    "她的同事们": [
+      ["西尔维娅•科斯塔", "colleague of x"], 
+      ["詹姆斯·莱利", "colleague of x"], 
+      ["母亲", "colleague of x"], 
+      ["父亲", "colleague of x"], 
+      ["帕罗斯基医生", "colleague of x"], 
+      ["汉斯·里莫瑞特", "colleague of x"], 
+      ["罗伯特·凯西", "colleague of x"], 
+      ["盖尔·里莫瑞特", "colleague of x"]
+    ],
+    "吉姆·梅森": [
+      ["西尔维娅•科斯塔", "student of x"], 
+      ["詹姆斯·莱利", "student of x"], 
+      ["母亲", "son of x"], 
+      ["父亲", "child of x"], 
+      ["帕罗斯基医生", "student of x"], 
+      ["汉斯·里莫瑞特", "mentor of x"], 
+      ["罗伯特·凯西", "friend of x"], 
+      ["盖尔·里莫瑞特", "colleague of x, mentor of x"], 
+      ["德雷克·里莫瑞特", "friend of x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["詹姆斯·莱利", "teacher of x"], 
+      ["母亲", "son of x"], 
+      ["她的同事们", "colleague of x"], 
+      ["帕罗斯基医生", "teacher of x, schoolmate of x"], 
+      ["吉姆·梅森", "student of x"], 
+      ["罗伯特·凯西", "friend of x, mentor of x"], 
+      ["盖尔·里莫瑞特", "husband of x"]
+    ],
+    "罗伯特·凯西": [
+      ["西尔维娅•科斯塔", "fiancee of x"], 
+      ["詹姆斯·莱利", "friend of x"], 
+      ["母亲", "son of x"], 
+      ["父亲", "child of x"], 
+      ["她的同事们", "colleague of x"], 
+      ["帕罗斯基医生", "student of x"], 
+      ["吉姆·梅森", "friend of x"], 
+      ["汉斯·里莫瑞特", "student of x"], 
+      ["盖尔·里莫瑞特", "mentor of x"], 
+      ["德雷克·里莫瑞特", "friend of x"]
+    ],
+    "盖尔·里莫瑞特": [
+      ["西尔维娅•科斯塔", "employee of x, student of x"], 
+      ["詹姆斯·莱利", "friend of x"], 
+      ["母亲", "biological daughter of x"], 
+      ["父亲", "son of x"], 
+      ["她的同事们", "colleague of x"], 
+      ["吉姆·梅森", "student of x"], 
+      ["汉斯·里莫瑞特", "wife of x"], 
+      ["罗伯特·凯西", "student of x"], 
+      ["德雷克·里莫瑞特", "brother of x"]
+    ],
+    "德雷克·里莫瑞特": [
+      ["西尔维娅•科斯塔", "friend of x, colleague of x, student of x"], 
+      ["詹姆斯·莱利", "friend of x"], 
+      ["母亲", "mother of x"], 
+      ["父亲", "biological son of x"], 
+      ["帕罗斯基医生", "student of x"], 
+      ["吉姆·梅森", "friend of x"], 
+      ["罗伯特·凯西", "friend of x"], 
+      ["盖尔·里莫瑞特", "brother of x"]
+    ],
+    "詹姆斯·莱利": [
+      ["母亲", "child of x"], 
+      ["父亲", "father of x"], 
+      ["她的同事们", "colleague of x"], 
+      ["帕罗斯基医生", "mentor of x"], 
+      ["吉姆·梅森", "helper of x, mentor of x"], 
+      ["汉斯·里莫瑞特", "student of x"], 
+      ["罗伯特·凯西", "friend of x"], 
+      ["盖尔·里莫瑞特", "friend of x"], 
+      ["德雷克·里莫瑞特", "friend of x"]
+    ],
+    "帕罗斯基医生": [
+      ["詹姆斯·莱利", "student of x"], 
+      ["母亲", "patient of x"], 
+      ["父亲", "child of x"], 
+      ["她的同事们", "colleague of x"], 
+      ["吉姆·梅森", "teacher of x"], 
+      ["汉斯·里莫瑞特", "mentor of x, student of x"], 
+      ["罗伯特·凯西", "mentor of x"], 
+      ["德雷克·里莫瑞特", "mentor of x"]
+    ]
+}

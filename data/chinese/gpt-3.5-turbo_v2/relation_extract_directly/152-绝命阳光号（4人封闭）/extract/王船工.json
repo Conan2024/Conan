@@ -1,0 +1,38 @@
+{
+    "王船工": [
+      ["船长", "employee of x"], 
+      ["张大副", "business partner of x, manipulated by x"], 
+      ["王小工", "child of x"], 
+      ["路人甲", "acquaintance of x, informant of x"], 
+      ["玲船医", "daughter in law of x"], 
+      ["杨老板", "customer of x, manipulated by x"], 
+      ["很天真", "acquaintance of x"]
+    ],
+    "船长": [
+      ["王船工", "employer of x"]
+    ],
+    "张大副": [
+      ["王船工", "business partner of x, manipulator of x"], 
+      ["杨老板", "business partner of x"]
+    ],
+    "王小工": [
+      ["王船工", "child of x"], 
+      ["玲船医", "spouse of x"]
+    ],
+    "路人甲": [
+      ["王船工", "acquaintance of x, informant of x"]
+    ],
+    "玲船医": [
+      ["王船工", "daughter in law of x"], 
+      ["王小工", "spouse of x"]
+    ],
+    "杨老板": [
+      ["王船工", "customer of x, manipulated by x"], 
+      ["张大副", "business partner of x"], 
+      ["很天真", "acquaintance of x"]
+    ],
+    "很天真": [
+      ["王船工", "acquaintance of x"], 
+      ["杨老板", "acquaintance of x"]
+    ]
+}

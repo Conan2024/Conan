@@ -1,0 +1,49 @@
+{
+    "云凌": [
+      ["徐伯清", "friend of x"], 
+      ["任仲远", "friend of x"], 
+      ["唐婉枫", "daughter of x"], 
+      ["唐茂光", "father of x"], 
+      ["姚仲义", "acquaintance of x"]
+    ],
+    "徐伯清": [
+      ["云凌", "friend of x"], 
+      ["任仲远", "friend of x"], 
+      ["唐婉枫", "sister of x"], 
+      ["唐茂光", "brother of x"]
+    ],
+    "任仲远": [
+      ["云凌", "friend of x"], 
+      ["徐伯清", "friend of x"], 
+      ["唐婉枫", "sibling of x"], 
+      ["唐茂光", "brother of x"]
+    ],
+    "唐婉枫": [
+      ["云凌", "daughter of x"], 
+      ["唐茂光", "husband of x"], 
+      ["姚仲义", "acquaintance of x"]
+    ],
+    "唐茂光": [
+      ["云凌", "father of x"], 
+      ["唐婉枫", "wife of x"], 
+      ["姚仲义", "acquaintance of x"]
+    ],
+    "姚仲义": [
+      ["云凌", "acquaintance of x"], 
+      ["徐伯清", "rival of x"]
+    ],
+    "虞医师": [
+      ["姚仲义", "friend of x"]
+    ],
+    "红夫人": [
+      ["姚仲义", "wife of x"], 
+      ["虞医师", "friend of x"]
+    ],
+    "贵叔": [
+      ["云凌", "acquaintance of x"], 
+      ["徐伯清", "rival of x"]
+    ],
+    "陈均梦": [
+      ["姚仲义", "sister of x"]
+    ]
+}

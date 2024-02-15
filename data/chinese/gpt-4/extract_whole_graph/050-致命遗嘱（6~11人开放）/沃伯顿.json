@@ -1,0 +1,96 @@
+{
+    "沃伯顿": [
+        [
+            "珍妮丝·奥利尼",
+            "employee of x"
+        ],
+        [
+            "吉利安·特德",
+            "friend of x"
+        ],
+        [
+            "艾伦·特德",
+            "acquaintance of x, disliked by x"
+        ],
+        [
+            "阿塔金",
+            "stranger to x, quest companion of x"
+        ],
+        [
+            "罗伊·奥利尼",
+            "employee of x"
+        ],
+        [
+            "科瑞·奥利尼",
+            "stranger to x"
+        ]
+    ],
+    "珍妮丝·奥利尼": [
+        [
+            "沃伯顿",
+            "employer of x, liked by x"
+        ],
+        [
+            "罗伊·奥利尼",
+            "widow of x"
+        ]
+    ],
+    "吉利安·特德": [
+        [
+            "沃伯顿",
+            "friend of x"
+        ],
+        [
+            "艾伦·特德",
+            "wife of x"
+        ],
+        [
+            "罗伊·奥利尼",
+            "daughter of x"
+        ]
+    ],
+    "艾伦·特德": [
+        [
+            "吉利安·特德",
+            "husband of x"
+        ],
+        [
+            "沃伯顿",
+            "acquaintance of x, dislike of x"
+        ],
+        [
+            "罗伊·奥利尼",
+            "son in law of x"
+        ]
+    ],
+    "阿塔金": [
+        [
+            "沃伯顿",
+            "stranger to x, quest companion of x"
+        ]
+    ],
+    "罗伊·奥利尼": [
+        [
+            "珍妮丝·奥利尼",
+            "husband of x"
+        ],
+        [
+            "吉利安·特德",
+            "father of x"
+        ],
+        [
+            "艾伦·特德",
+            "father in law of x"
+        ],
+        [
+            "沃伯顿",
+            "employer of x"
+        ]
+    ],
+    "科瑞·奥利尼": [
+        [
+            "沃伯顿",
+            "stranger to x"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "尹少鸣": [
+      ["虞北辰", "friend of x"], 
+      ["任", "mentor of x"], 
+      ["赵洛意", "romantic relationships with of x"], 
+      ["赵万雷", "friend of x"], 
+      ["冯双骥", "sibling of x"]
+    ],
+    "虞北辰": [
+      ["尹少鸣", "friend of x"], 
+      ["任", "father of x"], 
+      ["赵洛意", "romantic relationships with x, ex romantic relationships with x"], 
+      ["赵万雷", "romantic relationships with x"], 
+      ["冯双骥", "friend of x"]
+    ],
+    "任": [
+      ["尹少鸣", "student of x"], 
+      ["虞北辰", "son of x"], 
+      ["赵洛意", "child of x"], 
+      ["赵万雷", "friend of x"], 
+      ["冯双骥", "father in law of x"]
+    ],
+    "赵洛意": [
+      ["尹少鸣", "romantic relationships with of x"], 
+      ["虞北辰", "romantic relationships with x, ex romantic relationships with x"], 
+      ["任", "parent of x"], 
+      ["赵万雷", "sibling of x"], 
+      ["冯双骥", "classmate of x, mentor of x"]
+    ],
+    "赵万雷": [
+      ["尹少鸣", "friend of x"], 
+      ["虞北辰", "romantic relationships with x"], 
+      ["任", "friend of x"], 
+      ["赵洛意", "sibling of x"], 
+      ["冯双骥", "friend of x, helped by x, colleague of x, classmate of x"]
+    ],
+    "冯双骥": [
+      ["尹少鸣", "sibling of x"], 
+      ["虞北辰", "friend of x"], 
+      ["任", "son in law of x"], 
+      ["赵洛意", "student of x"], 
+      ["赵万雷", "friend of x, helped by x, colleague of x, classmate of x"]
+    ]
+}

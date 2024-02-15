@@ -1,0 +1,44 @@
+{
+    "韩亦": [
+      ["刘奇", "rival of x, enemy of x"], 
+      ["修仁杰", "friend of x, confidant of x"], 
+      ["林若彤", "friend of x, rival of x"], 
+      ["洪子廉", "subclass of x 'acquaintance', subclass of x 'colleague'"], 
+      ["张文远", "friend of x, acquaintance of x"]
+    ],
+    "刘奇": [
+      ["韩亦", "rival of x, enemy of x"], 
+      ["修仁杰", "kilde of x, bully of x, 对 death suspect of x"], 
+      ["林若彤", "rival of x, acquaintance of x"], 
+      ["洪子廉", "employer employee of x, superior subordinate of x, bully victim of x"], 
+      ["张文远", "enemy of x, bully of x"]
+    ],
+    "修仁杰": [
+      ["韩亦", "friend of x, confidant of x"], 
+      ["刘奇", "enemy of x, rival of x, 对 death suspicious of x"], 
+      ["林若彤", "friend of x, confidant of x"], 
+      ["洪子廉", "friend of x, confidant of x"], 
+      ["张文远", "friend of x, confidant of x"]
+    ],
+    "林若彤": [
+      ["韩亦", "friend of x, rival of x"], 
+      ["刘奇", "rival of x, acquaintance of x"], 
+      ["修仁杰", "friend of x, confidant of x"], 
+      ["洪子廉", "acquaintance of x, colleague of x"], 
+      ["张文远", "enemy of x, rival of x, manipulator of x, manipulated of x"]
+    ],
+    "洪子廉": [
+      ["韩亦", "subclass of x 'acquaintance', subclass of x 'colleague'"], 
+      ["刘奇", "employer employee of x, superior subordinate of x, bully victim of x"], 
+      ["修仁杰", "friend of x, supervisor of x"], 
+      ["林若彤", "acquaintance of x, colleague of x"], 
+      ["张文远", "friend of x"]
+    ],
+    "张文远": [
+      ["韩亦", "friend of x, acquaintance of x"], 
+      ["刘奇", "enemy of x, manipulate of x"], 
+      ["修仁杰", "friend of x, confidant of x"], 
+      ["林若彤", "enemy of x, rival of x, manipulator of x, manipulated of x"], 
+      ["洪子廉", "friend of x"]
+    ]
+}

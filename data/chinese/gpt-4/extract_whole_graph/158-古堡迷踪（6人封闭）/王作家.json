@@ -1,0 +1,104 @@
+{
+    "王作家": [
+        [
+            "甄有钱",
+            "friend of x, admirer of x, helper of x, host of x"
+        ],
+        [
+            "王作家的妻子",
+            "victim of x, wife of x"
+        ],
+        [
+            "王国庆",
+            "son of x, information receiver from x"
+        ],
+        [
+            "李管家",
+            "acquaintance of x"
+        ],
+        [
+            "张小妹",
+            "acquaintance of x"
+        ],
+        [
+            "甄公子",
+            "acquaintance of x, possibly family of x"
+        ],
+        [
+            "丁助手",
+            "employee of x, suspected by x"
+        ]
+    ],
+    "王国庆": [
+        [
+            "王作家",
+            "father of x, admired by x"
+        ],
+        [
+            "甄有钱",
+            "host of x"
+        ]
+    ],
+    "甄有钱": [
+        [
+            "王作家",
+            "friend of x, admirer of x, helped by x, victim of x"
+        ],
+        [
+            "甄公子",
+            "father of x"
+        ],
+        [
+            "张小妹",
+            "biological daughter of x, secret lover of x"
+        ],
+        [
+            "李管家",
+            "acquaintance of x"
+        ]
+    ],
+    "甄公子": [
+        [
+            "甄有钱",
+            "son of x"
+        ],
+        [
+            "张小妹",
+            "possibly family of x, future relative of x"
+        ],
+        [
+            "王作家",
+            "acquaintance of x"
+        ]
+    ],
+    "张小妹": [
+        [
+            "甄有钱",
+            "biological father of x"
+        ],
+        [
+            "李管家",
+            "adoptive father of x"
+        ],
+        [
+            "甄公子",
+            "possibly family of x"
+        ]
+    ],
+    "李管家": [
+        [
+            "张小妹",
+            "adoptive father of x"
+        ],
+        [
+            "甄有钱",
+            "acquaintance of x"
+        ]
+    ],
+    "丁助手": [
+        [
+            "王作家",
+            "employer of x, suspect of x"
+        ]
+    ]
+}

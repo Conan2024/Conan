@@ -1,0 +1,105 @@
+{
+    "乔•罗伯特森": [
+      ["麦克斯•派克", "friend of x, colleague of x, mentor of x"], 
+      ["福楼拜", "guest of x"], 
+      ["麦克斯•琼斯", "friend of x, acquaintance of x, informant of x"], 
+      ["丹尼尔•佩里", "acquaintance of x, informant of x"], 
+      ["约翰•摩根", "informant of x, information receiver from x"], 
+      ["杰奎琳", "acquaintance of x, colleague of x"], 
+      ["艾米•摩根", "acquaintance of x"], 
+      ["露西•哈里森", "acquaintance of x, information receiver from x"], 
+      ["乔纳森•佩里", "acquaintance of x"], 
+      ["丹尼尔•佩里", "acquaintance of x"]
+    ],
+    "麦克斯•派克": [
+      ["乔•罗伯特森", "friend of x, student of x, colleague of x"], 
+      ["乔•罗伯特森", "friend of x, colleague of x, crime partner of x, deceived by x, suspect to x, informant of x"], 
+      ["麦克斯•琼斯", "same person as x (different identity), suspect to x, informant of x"], 
+      ["乔•罗伯特森", "friend of x, victim of x, informant of x, suspect to x, deceived by x"], 
+      ["约翰•摩根", "victim of x"], 
+      ["哈罗德", "acquaintance of x, helper of x, crime partner of x"], 
+      ["杰奎琳", "acquaintance of x"], 
+      ["乔•罗伯特森", "acquaintance of x, friend of x, business partner of x, informant of x, suspected by x, suspect of x, crime partner of x"]
+    ],
+    "福楼拜": [
+      ["乔•罗伯特森", "host of x"], 
+      ["乔•罗伯特森", "acquaintance of x, host of x"], 
+      ["麦克斯•琼斯", "guest of x"], 
+      ["乔•罗伯特森", "host of x"], 
+      ["约翰•摩根", "host of x"], 
+      ["哈罗德", "host of x"], 
+      ["杰奎琳", "host of x"], 
+      ["乔纳森•佩里", "guest of x"]
+    ],
+    "麦克斯•琼斯": [
+      ["乔•罗伯特森", "acquaintance of x, deceived by x"], 
+      ["麦克斯•派克", "same person as x (different reference), information receiver from x"], 
+      ["福楼拜", "victim of x, host of x, suspect to x, informant of x"], 
+      ["丹尼尔•佩里", "business partner of x, informant of x"], 
+      ["哈罗德", "acquaintance of x, colleague of x"], 
+      ["杰奎琳", "acquaintance of x"]
+    ],
+    "丹尼尔•佩里": [
+      ["乔•罗伯特森", "acquaintance of x"], 
+      ["乔•罗伯特森", "acquaintance of x"], 
+      ["乔•罗伯特森", "acquaintance of x"], 
+      ["麦克斯•琼斯", "business partner of x, information receiver from x"], 
+      ["杰奎琳", "acquaintance of x"], 
+      ["艾米•摩根", "acquaintance of x"], 
+      ["露西•哈里森", "acquaintance of x"], 
+      ["乔纳森•佩里", "acquaintance of x"]
+    ],
+    "约翰•摩根": [
+      ["乔•罗伯特森", "victim of x"], 
+      ["福楼拜", "guest of x"], 
+      ["麦克斯•琼斯", "victim of x"], 
+      ["杰奎琳", "acquaintance of x"], 
+      ["艾米•摩根", "victim of x, wife of x"], 
+      ["露西•哈里森", "victim of x"], 
+      ["乔纳森•佩里", "victim of x"]
+    ],
+    "哈罗德": [
+      ["麦克斯•派克", "acquaintance of x, helped by x, information receiver from x"], 
+      ["福楼拜", "guest of x"], 
+      ["麦克斯•琼斯", "acquaintance of x, colleague of x"], 
+      ["杰奎琳", "acquaintance of x"], 
+      ["艾米•摩根", "acquaintance of x, possibly family of x"], 
+      ["露西•哈里森", "acquaintance of x"], 
+      ["乔纳森•佩里", "acquaintance of x"]
+    ],
+    "杰奎琳": [
+      ["乔•罗伯特森", "acquaintance of x, colleague of x"], 
+      ["麦克斯•派克", "acquaintance of x"], 
+      ["福楼拜", "guest of x"], 
+      ["麦克斯•琼斯", "acquaintance of x"], 
+      ["丹尼尔•佩里", "acquaintance of x"], 
+      ["约翰•摩根", "acquaintance of x"], 
+      ["哈罗德", "acquaintance of x"], 
+      ["艾米•摩根", "acquaintance of x"], 
+      ["露西•哈里森", "acquaintance of x"]
+    ],
+    "艾米•摩根": [
+      ["丹尼尔•佩里", "acquaintance of x"], 
+      ["约翰•摩根", "husband of x"], 
+      ["哈罗德", "acquaintance of x"], 
+      ["杰奎琳", "acquaintance of x"], 
+      ["露西•哈里森", "acquaintance of x"]
+    ],
+    "露西•哈里森": [
+      ["乔•罗伯特森", "acquaintance of x"], 
+      ["丹尼尔•佩里", "acquaintance of x"], 
+      ["约翰•摩根", "x's victim's family"], 
+      ["哈罗德", "acquaintance of x"], 
+      ["杰奎琳", "acquaintance of x"], 
+      ["艾米•摩根", "acquaintance of x"], 
+      ["乔纳森•佩里", "lover of x"]
+    ],
+    "乔纳森•佩里": [
+      ["乔•罗伯特森", "acquaintance of x"], 
+      ["乔•罗伯特森", "acquaintance of x"], 
+      ["福楼拜", "host of x"], 
+      ["丹尼尔•佩里", "acquaintance of x"], 
+      ["哈罗德", "acquaintance of x"], 
+      ["露西•哈里森", "lover of x"]
+    ]
+}

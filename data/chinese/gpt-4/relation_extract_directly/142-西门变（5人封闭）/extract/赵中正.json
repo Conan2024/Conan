@@ -1,0 +1,88 @@
+{
+    "赵中正": [
+        [
+            "赵家",
+            "member of x's family, possibly family of x"
+        ],
+        [
+            "赵中杨",
+            "sibling of x, brother of x, younger brother of x, victim of x, attempted perpetrator of x"
+        ],
+        [
+            "李家",
+            "informant of x, information receiver from x, business partner of x"
+        ],
+        [
+            "赵三",
+            "subordinate of x, friend of x, helper of x, perpetrator of x"
+        ],
+        [
+            "陈媚儿",
+            "employee of x, deceiver of x, victim of x"
+        ],
+        [
+            "李成",
+            "employee of x, manipulated by x, subordinate of x"
+        ]
+    ],
+    "赵家": [
+        [
+            "赵中正",
+            "member of x's family, possibly family of x"
+        ],
+        [
+            "赵中杨",
+            "member of x's family, possibly family of x"
+        ]
+    ],
+    "赵中杨": [
+        [
+            "赵中正",
+            "sibling of x, brother of x, older brother of x, suspect to x, attempted victim of x"
+        ],
+        [
+            "赵家",
+            "member of x's family, possibly family of x"
+        ],
+        [
+            "陈媚儿",
+            "romantic relationships with x, deceived by x"
+        ],
+        [
+            "李成",
+            "subordinate of x, deceiver of x"
+        ]
+    ],
+    "李家": [
+        [
+            "赵中正",
+            "informant of x, information receiver from x, business partner of x"
+        ]
+    ],
+    "赵三": [
+        [
+            "赵中正",
+            "superior of x, friend of x, helped by x, manipulator of x"
+        ]
+    ],
+    "陈媚儿": [
+        [
+            "赵中杨",
+            "deceiver of x, romantic relationships with x"
+        ],
+        [
+            "赵中正",
+            "superior of x, manipulator of x, suspect of x"
+        ]
+    ],
+    "李成": [
+        [
+            "赵中正",
+            "superior of x, manipulator of x"
+        ],
+        [
+            "赵中杨",
+            "superior of x, victim of x"
+        ]
+    ]
+}

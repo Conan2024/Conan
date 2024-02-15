@@ -1,0 +1,39 @@
+{
+    "罗琳": [
+      ["古思特", "suspect to x"], 
+      ["戴维", "colleague of x"], 
+      ["凯文", "sibling of x, manipulator of x"], 
+      ["艾拉", "helper of x, friend of x, superior of x"], 
+      ["格里夫", "acquaintance of x"]
+    ],
+    "古思特": [
+      ["罗琳", "victim of x, betrayed by x"], 
+      ["凯文", "victim of x, admired by x"], 
+      ["艾拉", "romantic relationships with x, perpetrator of x"], 
+      ["格里夫", "suspected by x"]
+    ],
+    "戴维": [
+      ["罗琳", "colleague of x"], 
+      ["古思特", "betrayed by x, suspect to x"], 
+      ["凯文", "crime partner of x, dislike of x"], 
+      ["格里夫", "acquaintance of x, colleague of x"]
+    ],
+    "凯文": [
+      ["罗琳", "sibling of x, manipulated by x, quest companion of x"], 
+      ["古思特", "perpetrator of x, admirer of x"], 
+      ["戴维", "sibling of x, disliked by x"], 
+      ["格里夫", "employee of x, subordinate of x"]
+    ],
+    "艾拉": [
+      ["罗琳", "helped by x, friend of x, subordinate of x"], 
+      ["古思特", "victim of x, romantic relationships with x"], 
+      ["格里夫", "acquaintance of x"]
+    ],
+    "格里夫": [
+      ["罗琳", "acquaintance of x"], 
+      ["古思特", "suspect of x"], 
+      ["戴维", "acquaintance of x, colleague of x"], 
+      ["凯文", "superior of x, employer of x"], 
+      ["艾拉", "acquaintance of x"]
+    ]
+}

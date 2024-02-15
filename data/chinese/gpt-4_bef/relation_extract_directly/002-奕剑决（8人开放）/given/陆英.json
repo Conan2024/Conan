@@ -1,0 +1,13 @@
+{
+    "陆英": [
+      ["恋人", "secret lover of x"], 
+      ["杜仲", "student of x, mentor of x"]
+    ],
+    "杜仲": [
+      ["陆英", "mentor of x"]
+    ],
+    "恋人": [
+      ["陆英", "secret lover of x"], 
+      ["杜仲", "student of x"]
+    ]
+}

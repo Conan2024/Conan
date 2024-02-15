@@ -1,0 +1,66 @@
+{
+    "赵帅哥": [
+      ["林校花", "classmate of x, rival of x"], 
+      ["王学习", "friend of x, mentor of x, rival of x, bully of x"], 
+      ["爸爸", "son of x"]
+    ],
+    "Mother": [
+      ["爸爸", "husband of x, father of x, manipulator of x, victim of x"]
+    ],
+    "Father": [
+      ["李小弟", "student of x"], 
+      ["奶奶", "mother in law of x"]
+    ],
+    "林校花": [
+      ["赵帅哥", "classmate of x, rival of x"], 
+      [" Father", "friend of x"], 
+      ["李小弟", "boyfriend of x"], 
+      ["奶奶", "acquaintance of x, classmate of x"]
+    ],
+    "李小弟": [
+      ["Mother", "son of x"], 
+      ["Father", "friend of x, mentor of x, rival of x"], 
+      ["张恶霸", "enemy of x, rival of x"], 
+      ["林校花", "girlfriend of x"], 
+      ["父亲", "son of x"], 
+      ["奶奶", "biological mother of x, adoptive mother of x, step mother of x, mother in law of x"], 
+      ["爸爸", "son of x, mentor of x, enemy of x, rival of x"]
+    ],
+    "王学习": [
+      ["赵帅哥", "friend of x, mentor of x, rival of x, bully of x"], 
+      [" Father", "acquaintance of x, classmate of x, schoolmate of x, neighbour of x, friend of x, mentor of x, teacher of x, informant of x, victim of x"], 
+      ["父亲", "son of x"], 
+      ["奶奶", "friend of x, nephew of x, son of x, schoolmate of x"], 
+      ["爸爸", "son of x"]
+    ],
+    "父亲": [
+      [" Father", "son of x, colleague of x, customer of x, friend of x, employee of x, adversary of x"], 
+      ["李小弟", "father of x"], 
+      ["王学习", "father of x"]
+    ],
+    "奶奶": [
+      [" Father", "mother in law of x"], 
+      ["林校花", "acquaintance of x, classmate of x"], 
+      ["李小弟", "biological son of x, adoptive son of x, step son of x, son in law of x"], 
+      ["王学习", "friend of x, mother of x, aunt of x, teacher of x"]
+    ],
+    "爸爸": [
+      ["赵帅哥", "father of x"], 
+      [" Mother", "wife of x, romantic relationships with x, perpetrator of x, bully of x"], 
+      ["张恶霸", "son of x"], 
+      ["李小弟", "son of x, mentor of x, enemy of x, rival of x"], 
+      ["王学习", "father of x"]
+    ],
+    " Mother": [
+      ["张恶霸", "perpetrator of x, adversary of x"]
+    ],
+    "张恶霸": [
+      [" Mother", "perpetrator of x, adversary of x"], 
+      ["李小弟", "enemy of x, rival of x"]
+    ],
+    " Father": [
+      ["林校花", "friend of x"], 
+      ["王学习", "acquaintance of x, classmate of x, schoolmate of x, neighbour of x, friend of x, mentor of x, teacher of x, informant of x, victim of x"], 
+      ["父亲", "son of x, colleague of x, customer of x, friend of x, employee of x, adversary of x"]
+    ]
+}

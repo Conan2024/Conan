@@ -1,0 +1,54 @@
+{
+    "何千程": [
+        [
+            "长离子",
+            "student of x"
+        ],
+        [
+            "王孝谷",
+            "student of x, friend of x"
+        ],
+        [
+            "井儿",
+            "mentor of x"
+        ]
+    ],
+    "王孝谷": [
+        [
+            "长离子",
+            "mentor of x"
+        ],
+        [
+            "何千程",
+            "mentor of x, friend of x"
+        ],
+        [
+            "井儿",
+            "student of x"
+        ]
+    ],
+    "井儿": [
+        [
+            "何千程",
+            "student of x"
+        ],
+        [
+            "王孝谷",
+            "mentor of x"
+        ]
+    ],
+    "骥儿少爷": [
+        [
+            "何千程",
+            "victim of x"
+        ],
+        [
+            "王孝谷",
+            "perpetrator of x"
+        ],
+        [
+            "何千程",
+            "same person as x (different identity)"
+        ]
+    ]
+}

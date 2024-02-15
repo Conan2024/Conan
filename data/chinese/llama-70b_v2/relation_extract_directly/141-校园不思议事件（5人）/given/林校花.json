@@ -1,0 +1,25 @@
+{
+    "林校花": [
+      ["张恶霸", "husband of x / wife of x"], 
+      ["赵帅哥", "friend of x / acquaintance of x"], 
+      ["王学习", "friend of x / acquaintance of x"], 
+      ["郝闺蜜", "sister of x / friend of x"]
+    ],
+    "张恶霸": [
+      ["林校花", "wife of x / husband of x"], 
+      ["赵帅哥", "friend of x / acquaintance of x"], 
+      ["王学习", "friend of x / acquaintance of x"]
+    ],
+    "王学习": [
+      ["林校花", "friend of x / acquaintance of x"], 
+      ["张恶霸", "friend of x / acquaintance of x"]
+    ],
+    "赵帅哥": [
+      ["张恶霸", "friend of x / acquaintance of x"], 
+      ["林校花", "friend of x / acquaintance of x"]
+    ],
+    "郝闺蜜": [
+      ["林校花", "sister of x / friend of x"], 
+      ["张恶霸", "co wife of x / husband of x"]
+    ]
+}

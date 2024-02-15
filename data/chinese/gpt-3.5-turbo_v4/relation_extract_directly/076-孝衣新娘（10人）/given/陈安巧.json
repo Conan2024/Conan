@@ -1,0 +1,36 @@
+{
+    "陈安巧": [
+      ["陈轻梧", "father of x"], 
+      ["陈市田", "mother of x"], 
+      ["姚长寿", "fiance of x"], 
+      ["姚孟仁", "romantic relationships with x"], 
+      ["红夫人", "mother in law of x"], 
+      ["陈均梦", "cousin of x"], 
+      ["姚仲义", "fiancee of x"]
+    ],
+    "陈轻梧": [
+      ["陈安巧", "daughter of x"], 
+      ["陈市田", "wife of x"]
+    ],
+    "陈均梦": [
+      ["陈安巧", "cousin of x"]
+    ],
+    "陈市田": [
+      ["陈安巧", "mother of x"], 
+      ["陈轻梧", "wife of x"]
+    ],
+    "姚长寿": [
+      ["陈安巧", "fiance of x"], 
+      ["红夫人", "father in law of x"]
+    ],
+    "姚孟仁": [
+      ["陈安巧", "romantic relationships with x"]
+    ],
+    "姚仲义": [
+      ["陈安巧", "fiancee of x"]
+    ],
+    "红夫人": [
+      ["陈安巧", "mother in law of x"], 
+      ["姚长寿", "father in law of x"]
+    ]
+}

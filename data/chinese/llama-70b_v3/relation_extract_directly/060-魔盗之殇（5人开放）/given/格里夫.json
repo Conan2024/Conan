@@ -1,0 +1,24 @@
+{
+    "格里夫": [
+      ["助手艾拉", "acquaintance of x"], 
+      ["剧务戴维", "colleague of x"], 
+      ["宣传罗琳", "acquaintance of x"], 
+      ["保安凯文", "suspect of x"]
+    ],
+    "艾拉": [
+      ["古思特", "employer of x"], 
+      ["格里夫", "acquaintance of x"]
+    ],
+    "剧务戴维": [
+      ["古思特", "colleague of x"], 
+      ["格里夫", "colleague of x"]
+    ],
+    "宣传罗琳": [
+      ["古思特", "colleague of x"], 
+      ["格里夫", "acquaintance of x"]
+    ],
+    "保安凯文": [
+      ["古思特", "acquaintance of x"], 
+      ["艾拉", "acquaintance of x"]
+    ]
+}

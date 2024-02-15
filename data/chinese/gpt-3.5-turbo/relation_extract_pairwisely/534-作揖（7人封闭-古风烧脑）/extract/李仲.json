@@ -1,0 +1,322 @@
+{
+    "李仲": [
+        [
+            "李延",
+            [
+                "sibling of x",
+                "child of x"
+            ]
+        ],
+        [
+            "李府李钦仁",
+            "servant of x",
+            "patient of x",
+            "guard of x"
+        ],
+        [
+            "李氏",
+            "husband of 李氏"
+        ],
+        [
+            "郎中",
+            "classmate of"
+        ],
+        [
+            "陈府的府主陈孜靖",
+            "mentor of 李仲"
+        ],
+        [
+            "陈倩",
+            "father of x"
+        ],
+        [
+            "陈府的千金",
+            "romantic relationships with x",
+            "admirer of x"
+        ],
+        [
+            "丫头",
+            "sibling of"
+        ]
+    ],
+    "李延": [
+        [
+            "李仲",
+            [
+                "sibling of x",
+                "parent of x"
+            ]
+        ],
+        [
+            "李府李钦仁",
+            "son of 李府李钦仁"
+        ],
+        [
+            "李氏",
+            "brother of 李仲"
+        ],
+        [
+            "郎中",
+            "acquaintance of 李延",
+            "guest of 李延",
+            "colleague of 李延"
+        ],
+        [
+            "陈府的府主陈孜靖",
+            "friend of x"
+        ],
+        [
+            "陈倩",
+            "wife of x"
+        ],
+        [
+            "陈府的千金",
+            "saviour of x"
+        ],
+        [
+            "丫头",
+            "child of x",
+            "sibling of x"
+        ]
+    ],
+    "李府李钦仁": [
+        [
+            "李仲",
+            "employer of x",
+            "master of x"
+        ],
+        [
+            "李延",
+            "father of 李延"
+        ],
+        [
+            "李氏",
+            "husband of x"
+        ],
+        [
+            "郎中",
+            "mentor of 郎中"
+        ],
+        [
+            "陈府的府主陈孜靖",
+            "employer of 李仲"
+        ],
+        [
+            "陈倩",
+            "wife of x"
+        ],
+        [
+            "陈府的千金",
+            "young master of Liufu's sister"
+        ],
+        [
+            "丫头",
+            "employed by x"
+        ]
+    ],
+    "李氏": [
+        [
+            "李仲",
+            "wife of 李仲"
+        ],
+        [
+            "李延",
+            "brother's wife"
+        ],
+        [
+            "李府李钦仁",
+            "wife of x"
+        ],
+        [
+            "郎中",
+            "wife of x"
+        ],
+        [
+            "陈府的府主陈孜靖",
+            "wife of"
+        ],
+        [
+            "陈倩",
+            "mother of 李仲"
+        ],
+        [
+            "陈府的千金",
+            "step mother of 李仲",
+            "step mother of 李仲的亲生母亲"
+        ],
+        [
+            "丫头",
+            "mother of 丫头"
+        ]
+    ],
+    "郎中": [
+        [
+            "李仲",
+            "classmate of"
+        ],
+        [
+            "李延",
+            "acquaintance of 郎中",
+            "host of 郎中",
+            "colleague of 郎中"
+        ],
+        [
+            "李府李钦仁",
+            "student of 李府李钦仁"
+        ],
+        [
+            "李氏",
+            "husband of x"
+        ],
+        [
+            "陈府的府主陈孜靖",
+            "friend of x"
+        ],
+        [
+            "陈倩",
+            "mentor of x"
+        ],
+        [
+            "陈府的千金",
+            "doctor of x"
+        ],
+        [
+            "丫头",
+            "mentor of"
+        ]
+    ],
+    "陈府的府主陈孜靖": [
+        [
+            "李仲",
+            "student of 陈府的府主陈孜靖"
+        ],
+        [
+            "李延",
+            "friend of x"
+        ],
+        [
+            "李府李钦仁",
+            "employee of 陈孜靖"
+        ],
+        [
+            "李氏",
+            "husband of"
+        ],
+        [
+            "郎中",
+            "friend of x"
+        ],
+        [
+            "陈倩",
+            "wife of x"
+        ],
+        [
+            "陈府的千金",
+            "father"
+        ],
+        [
+            "丫头",
+            "father in law of"
+        ]
+    ],
+    "陈府的千金": [
+        [
+            "李仲",
+            "romantic relationships with x",
+            "admired by x"
+        ],
+        [
+            "李延",
+            "saved by x"
+        ],
+        [
+            "李府李钦仁",
+            "sister of young master of Liufu"
+        ],
+        [
+            "李氏",
+            "step daughter of 李氏"
+        ],
+        [
+            "郎中",
+            "patient of x"
+        ],
+        [
+            "陈府的府主陈孜靖",
+            "daughter"
+        ],
+        [
+            "陈倩",
+            "sister"
+        ],
+        [
+            "丫头",
+            "child of x"
+        ]
+    ],
+    "丫头": [
+        [
+            "李仲",
+            "sibling of"
+        ],
+        [
+            "李延",
+            "parent of x",
+            "sibling of x"
+        ],
+        [
+            "李府李钦仁",
+            "employer of x"
+        ],
+        [
+            "李氏",
+            "daughter of 李氏"
+        ],
+        [
+            "郎中",
+            "student of"
+        ],
+        [
+            "陈府的府主陈孜靖",
+            "daughter in law of"
+        ],
+        [
+            "陈倩",
+            "sibling of x"
+        ],
+        [
+            "陈府的千金",
+            "parent of x"
+        ]
+    ],
+    "陈倩": [
+        [
+            "李延",
+            "husband of x"
+        ],
+        [
+            "李府李钦仁",
+            "husband of x"
+        ],
+        [
+            "李氏",
+            "daughter of 李氏"
+        ],
+        [
+            "郎中",
+            "student of x"
+        ],
+        [
+            "陈府的府主陈孜靖",
+            "husband of x"
+        ],
+        [
+            "陈府的千金",
+            "sister"
+        ],
+        [
+            "丫头",
+            "sibling of x"
+        ]
+    ]
+}

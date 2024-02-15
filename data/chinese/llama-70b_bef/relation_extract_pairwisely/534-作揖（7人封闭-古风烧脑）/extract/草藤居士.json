@@ -1,0 +1,34 @@
+{
+    "方竹": [
+      ["方叶", "brother of x, sibling of x"], 
+      ["方眠", "brother in law of x, rival of x"], 
+      [" Li钦仁", "brother in law of x, rival of x, enemy of x"]
+    ],
+    "方絮": [
+      ["方叶", "friend of x, victim of x"], 
+      ["方眠", "sister of x, enemy of x"], 
+      [" Chen孜靖", "mentor of x"], 
+      ["Li钦仁", "suspect of x"]
+    ],
+    "方叶": [
+      ["方竹", "brother of x, sibling of x"], 
+      ["方絮", "bully of x, perpetrator of x"], 
+      ["方眠", "sibling of x, rival of x"]
+    ],
+    "方眠": [
+      ["方竹", "sister in law of x, fiancee of x"], 
+      ["方絮", "sister of x, friend of x"], 
+      ["方叶", "sibling of x, rival of x"], 
+      [" Li钦仁", "sister in law of x, rival of x"]
+    ],
+    " Chen孜靖": [
+      ["方絮", "mentor of x"]
+    ],
+    " Li钦仁": [
+      ["方竹", "brother in law of x, rival of x, enemy of x"], 
+      ["方眠", "brother in law of x, rival of x"]
+    ],
+    "Li钦仁": [
+      ["方絮", "rival of x, wife of x, suspect of x"]
+    ]
+}

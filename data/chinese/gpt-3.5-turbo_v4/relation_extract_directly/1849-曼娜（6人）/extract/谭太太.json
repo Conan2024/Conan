@@ -1,0 +1,38 @@
+{
+    "罗明纱": [
+      ["欣雅", "helper of x, acquaintance of x"], 
+      ["谭仁昌", "wife of x, fondness of x"], 
+      ["采茜", "friend of x, mentor of x"]
+    ],
+    "罗亨理": [
+      ["罗明纱", "sibling of x"], 
+      ["谭仁昌", "business partner of x"]
+    ],
+    "谭仁昌": [
+      ["罗明纱", "husband of x, fondness of x"], 
+      ["罗亨理", "business partner of x"]
+    ],
+    "欣雅": [
+      ["罗明纱", "helped by x, acquaintance of x"], 
+      ["采茜", "friend of x, acquaintance of x"], 
+      ["吕名然", "secret lover of x"]
+    ],
+    "采茜": [
+      ["罗明纱", "friend of x, mentor of x"], 
+      ["欣雅", "friend of x, mentor of x"]
+    ],
+    "吕名然": [
+      ["欣雅", "secret lover of x"], 
+      ["海悠", "father of x"]
+    ],
+    "海悠": [
+      ["谭仁昌", "son of x"], 
+      ["吕名然", "son of x"]
+    ],
+    "阿萍": [
+      ["罗明纱", "helper of x"]
+    ],
+    "谭承格": [
+      ["罗明纱", "future relative of x"]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "李仲": [
+      ["李延", "brother of x, double cousin of x"], 
+      ["李氏", "mother of x, deceased of x"], 
+      ["李钦仁", "father of x, master of x"], 
+      ["陈倩", "love interest of x, future wife of x"], 
+      ["陈孜靖", "uncle of x, father in law of x"], 
+      ["陳寶", "sister in law of x, wife of x 陳孜靖"]
+    ],
+    "李延": [
+      ["李仲", "brother of x, double cousin of x"], 
+      ["李氏", "mother of x, deceased of x"], 
+      ["李钦仁", "father of x, master of x"]
+    ],
+    "李氏": [
+      ["李仲", "son of x"], 
+      ["李延", "son of x"], 
+      ["李钦仁", "husband of x"]
+    ],
+    "李钦仁": [
+      ["李仲", "father of x"], 
+      ["李延", "father of x"], 
+      ["陈倩", "future daughter in law of x"]
+    ],
+    "陈倩": [
+      ["李仲", "love interest of x, future wife of x"], 
+      ["陳孜靖", "father of x"], 
+      ["陳寶", "sister of x"]
+    ],
+    "陈孜靖": [
+      ["陈倩", "daughter of x"], 
+      ["李仲", "son in law of x"], 
+      ["李钦仁", "brother in law of x"]
+    ],
+    "陳寶": [
+      ["陈倩", "sister of x"], 
+      ["李仲", "brother in law of x"], 
+      ["李钦仁", "uncle of x"]
+    ]
+}

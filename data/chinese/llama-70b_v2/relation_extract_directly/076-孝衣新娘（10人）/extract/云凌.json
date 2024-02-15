@@ -1,0 +1,73 @@
+{
+    "廖凌": [
+      ["徐伯清", "acquaintance of x, friend of x"], 
+      ["舅舅", "relative of x, nephew of x"], 
+      ["唐婉枫", "mother of x"]
+    ],
+    "徐伯清": [
+      ["廖凌", "friend of x, acquaintance of x"], 
+      ["舅舅", "uncle of x"]
+    ],
+    "舅舅": [
+      ["廖凌", "nephew of x, relative of x"], 
+      ["唐婉枫", "sister in law of x"]
+    ],
+    "唐婉枫": [
+      ["廖凌", "mother of x"], 
+      ["舅舅", "brother in law of x"]
+    ],
+    "任爷爷": [
+      ["廖凌", "employer of x, master of x"], 
+      ["徐伯清", "old friend of x"]
+    ],
+    "姚仲义": [
+      ["徐伯清", "younger brother of x"], 
+      ["红夫人", "stepmother of x"]
+    ],
+    "红夫人": [
+      ["姚仲义", "stepmother of x"], 
+      ["徐伯清", "old friend of x"]
+    ],
+    "陈均梦": [
+      ["廖凌", "business partner of x"]
+    ],
+    "贵叔": [
+      ["廖凌", "nephew of x"]
+    ],
+    "头发乱蓬的男人": [
+      ["姚仲义", "uncle of x"]
+    ],
+    "长发姑娘": [
+      ["陈均梦", "sister of x"]
+    ],
+    "虞医师": [
+      ["姚仲义", "colleague of x"]
+    ],
+    "黑头蛇": [
+      ["徐伯清", "rival of x"]
+    ],
+    "白头蛇": [
+      ["徐伯清", "suspect of x"]
+    ],
+    "墨镜": [
+      ["徐伯清", "suspect of x"]
+    ],
+    "黑爵士帽": [
+      ["徐伯清", "suspect of x"]
+    ],
+    "白围巾": [
+      ["徐伯清", "suspect of x"]
+    ],
+    "字条": [
+      ["徐伯清", "accomplice of x"]
+    ],
+    "汉阳步枪": [
+      ["廖凌", "weapon of x"]
+    ],
+    "快利步枪": [
+      ["徐伯清", "weapon of x"]
+    ],
+    "栏杆": [
+      ["廖凌", "trap of x"]
+    ]
+}

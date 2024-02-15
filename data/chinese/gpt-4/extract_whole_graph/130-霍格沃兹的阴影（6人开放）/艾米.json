@@ -1,0 +1,76 @@
+{
+    "艾米": [
+        [
+            "玛莎",
+            "cousin of x, classmate of x"
+        ],
+        [
+            "死者蒂娜·范考夫",
+            "acquaintance of x, classmate of x"
+        ]
+    ],
+    "玛莎": [
+        [
+            "艾米",
+            "cousin of x, classmate of x"
+        ],
+        [
+            "死者蒂娜·范考夫",
+            "best friend of x, classmate of x"
+        ]
+    ],
+    "死者蒂娜·范考夫": [
+        [
+            "艾米",
+            "acquaintance of x, classmate of x"
+        ],
+        [
+            "玛莎",
+            "best friend of x, classmate of x"
+        ]
+    ],
+    "埃罗": [
+        [
+            "查尔斯",
+            "classmate of x"
+        ],
+        [
+            "艾米",
+            "classmate of x"
+        ]
+    ],
+    "查尔斯": [
+        [
+            "埃罗",
+            "classmate of x"
+        ],
+        [
+            "艾米",
+            "saviour of x, classmate of x"
+        ]
+    ],
+    "费尔奇": [
+        [
+            "死者蒂娜·范考夫",
+            "disliked by x"
+        ],
+        [
+            "麦格教授",
+            "subordinate of x"
+        ],
+        [
+            "艾米",
+            "acquaintance of x"
+        ]
+    ],
+    "麦格教授": [
+        [
+            "费尔奇",
+            "superior of x"
+        ],
+        [
+            "艾米",
+            "teacher of x"
+        ]
+    ]
+}

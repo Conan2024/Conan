@@ -1,0 +1,37 @@
+{
+    "沈城": [
+      ["秦思琴", "husband of x, father of x 林彤"], 
+      ["林彤", "daughter of x and 秦思琴"], 
+      ["苏阳", "boyfriend of x 林夕, rival of x"], 
+      ["林夕", "daughter of x 林惟仁, girlfriend of x 苏阳"], 
+      ["顾明和", "business partner of x 林惟仁, enemy of x"]
+    ],
+    "秦思琴": [
+      ["沈城", "husband of x, father of x 林彤"], 
+      ["林彤", "daughter of x 沈城 and x"]
+    ],
+    "林彤": [
+      ["沈城", "father of x"], 
+      ["秦思琴", "mother of x"], 
+      ["苏阳", "boyfriend of x 林夕, rival of x 沈城"]
+    ],
+    "林夕": [
+      ["苏阳", "boyfriend of x"], 
+      ["林惟仁", "father of x"], 
+      ["沈城", "enemy of x 苏阳"]
+    ],
+    "苏阳": [
+      ["林夕", "girlfriend of x"], 
+      ["沈城", "rival of x"], 
+      ["林惟仁", "enemy of x 苏陽"]
+    ],
+    "林惟仁": [
+      ["林夕", "daughter of x"], 
+      ["沈城", "enemy of x"], 
+      ["苏阳", "rival of x"]
+    ],
+    "顾明和": [
+      ["林惟仁", "business partner of x"], 
+      ["沈城", "enemy of x"]
+    ]
+}

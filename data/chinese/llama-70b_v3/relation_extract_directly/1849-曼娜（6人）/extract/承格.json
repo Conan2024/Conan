@@ -1,0 +1,38 @@
+{
+    "阿浮": [
+      ["承格", "brother of x, enemy of x"], 
+      ["廖公子", "friend of x, acquaintance of x"]
+    ],
+    "张医师": [
+      ["承格", "brother of x, enemy of x"], 
+      ["廖公子", "friend of x, acquaintance of x"]
+    ],
+    "廖公子": [
+      ["承格", "friend of x, acquaintance of x"], 
+      ["张医师", "friend of x, acquaintance of x"]
+    ],
+    "茱丽": [
+      ["欣雅", "daughter of x, friend of x"], 
+      ["吕名然", "sister of x, victim of x"]
+    ],
+    "吕名然": [
+      ["承格", "brother of x, enemy of x"], 
+      ["尚致", "friend of x"], 
+      ["谭太太（韦太太）", "sister of x, victim of x"]
+    ],
+    "欣雅": [
+      ["茱丽", "daughter of x, friend of x"], 
+      ["承格", "mother of x, acquaintance of x"]
+    ],
+    "尚致": [
+      ["吕名然", "friend of x"], 
+      ["承格", "brother of x, enemy of x"]
+    ],
+    "谭太太（韦太太）": [
+      ["承格", "sister of x, victim of x"], 
+      ["吕名然", "sister of x, victim of x"]
+    ],
+    "红儿": [
+      ["承格", "acquaintance of x"]
+    ]
+}

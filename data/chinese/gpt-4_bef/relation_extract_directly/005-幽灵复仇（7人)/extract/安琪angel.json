@@ -1,0 +1,87 @@
+{
+    "兰秦": [
+      ["阿安", "sibling of x"], 
+      ["易氏 (易莲芝)", "mother of x"], 
+      ["李大哥", "ex boyfriend of x"], 
+      ["洛意丝", "friend of x, colleague of x"], 
+      ["阿同 (段约同)", "boyfriend of x"], 
+      ["段阿姨", "possibly family of x"], 
+      ["西装男人 (宇祖先生)", "debtor of x, romantic relationships with x"], 
+      ["田吉呼株式会社", "business partner of x"], 
+      ["夏家拳馆", "acquaintance of x"], 
+      ["夏三虎", "acquaintance of x"], 
+      ["夏叔娥", "acquaintance of x, disliked by x"], 
+      ["白衣女人 (夏叔娥)", "acquaintance of x, disliked by x"]
+    ],
+    "阿安": [
+      ["兰秦", "sibling of x"], 
+      ["易氏 (易莲芝)", "mother of x"]
+    ],
+    "易氏 (易莲芝)": [
+      ["兰秦", "child of x"], 
+      ["阿安", "child of x"], 
+      ["阿同 (段约同)", "future son in law of x"], 
+      ["段阿姨", "friend of x"], 
+      ["白常恭", "debtor of x"], 
+      ["夏叔娥", "acquaintance of x"]
+    ],
+    "李大哥": [
+      ["兰秦", "ex boyfriend of x"], 
+      ["阿明 (李大哥)", "same person as x (different identity)"], 
+      ["宇祖成木", "friend of x, business partner of x"]
+    ],
+    "洛意丝": [
+      ["兰秦", "friend of x, colleague of x"]
+    ],
+    "阿同 (段约同)": [
+      ["兰秦", "boyfriend of x"], 
+      ["易氏 (易莲芝)", "future son in law of x"], 
+      ["段阿姨", "mother of x"], 
+      ["白常恭", "step father of x"]
+    ],
+    "段阿姨": [
+      ["阿同 (段约同)", "child of x"], 
+      ["易氏 (易莲芝)", "friend of x"]
+    ],
+    "白常恭": [
+      ["易氏 (易莲芝)", "creditor of x"], 
+      ["阿同 (段约同)", "step father of x"]
+    ],
+    "西装男人 (宇祖先生)": [
+      ["兰秦", "creditor of x, romantic relationships with x"], 
+      ["田吉呼株式会社", "employee of x"], 
+      ["宇祖成木", "same person as x (different identity)"], 
+      ["夏叔娥", "victim of x"], 
+      ["李大哥", "friend of x, business partner of x"]
+    ],
+    "田吉呼株式会社": [
+      ["西装男人 (宇祖先生)", "employer of x"]
+    ],
+    "夏家拳馆": [
+      ["兰秦", "acquaintance of x"]
+    ],
+    "夏三虎": [
+      ["兰秦", "acquaintance of x"], 
+      ["夏叔娥", "uncle of x"]
+    ],
+    "夏伯龙": [
+      ["夏叔娥", "father of x"]
+    ],
+    "夏叔娥": [
+      ["易氏 (易莲芝)", "acquaintance of x"], 
+      ["兰秦", "acquaintance of x, disliked by x"], 
+      ["夏三虎", "niece of x"], 
+      ["西装男人 (宇祖先生)", "perpetrator of x"], 
+      ["白衣壮男", "romantic relationships with x"]
+    ],
+    "白衣壮男": [
+      ["夏叔娥", "romantic relationships with x"]
+    ],
+    "白衣女人 (夏叔娥)": [
+      ["易氏 (易莲芝)", "acquaintance of x"], 
+      ["兰秦", "acquaintance of x, disliked by x"]
+    ],
+    "阿明 (李大哥)": [
+      ["李大哥", "same person as x (different identity)"]
+    ]
+}

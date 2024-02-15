@@ -1,0 +1,72 @@
+{
+    "慕北": [
+        [
+            "李国富",
+            "colleague of 慕北, superior of 慕北, suspicious of 慕北"
+        ],
+        [
+            "何老六",
+            "colleague of 慕北"
+        ],
+        [
+            "张洁",
+            "colleague of 慕北, romantic relationships with 慕北, informant of 慕北"
+        ]
+    ],
+    "李国富": [
+        [
+            "慕北",
+            "colleague of 李国富, subordinate of 李国富, suspicious of 李国富"
+        ],
+        [
+            "何老六",
+            "colleague of 李国富"
+        ],
+        [
+            "张洁",
+            "colleague of 李国富"
+        ]
+    ],
+    "何老六": [
+        [
+            "慕北",
+            "colleague of 何老六"
+        ],
+        [
+            "李国富",
+            "colleague of 何老六"
+        ],
+        [
+            "张洁",
+            "colleague of 何老六"
+        ]
+    ],
+    "张洁": [
+        [
+            "慕北",
+            "colleague of 张洁, romantic relationships with 慕北, informant of 张洁"
+        ],
+        [
+            "李国富",
+            "colleague of 张洁"
+        ],
+        [
+            "何老六",
+            "colleague of 张洁"
+        ]
+    ],
+    "警察": [
+        [
+            "慕北",
+            "subject of investigation for 慕北"
+        ],
+        [
+            "李国富",
+            "subject of investigation for 李国富"
+        ],
+        [
+            "张洁",
+            "information receiver from 张洁"
+        ]
+    ]
+}

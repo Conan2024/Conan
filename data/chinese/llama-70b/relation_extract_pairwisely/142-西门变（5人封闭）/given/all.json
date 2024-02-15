@@ -1,0 +1,253 @@
+{
+    "张伟": [
+        [
+            "李成",
+            " Same person as X "
+        ],
+        [
+            "赵三",
+            "rival, enemy"
+        ],
+        [
+            "赵中杨",
+            "Perpetrator of X",
+            "Murderer of X",
+            "Attempted Perpetrator of X",
+            "Attempted Murderer of X"
+        ],
+        [
+            "赵中正",
+            "perpetrator of 赵中正's attempted murder",
+            "adversary of 赵中正",
+            "enemy of 赵中正"
+        ],
+        [
+            "陈媚儿",
+            "Friend"
+        ],
+        [
+            "马老板",
+            "perpetrator of 赵中杨's murder",
+            "bully of 赵中杨"
+        ]
+    ],
+    "李成": [
+        [
+            "张伟",
+            " Same person as X "
+        ],
+        [
+            "赵三",
+            "Acquaintance of X"
+        ],
+        [
+            "赵中杨",
+            " acquaintance, friend, classmate, schoolmate, colleague, business partner, customer, buyer, tenant, patient"
+        ],
+        [
+            "赵中正",
+            "Employee of X",
+            "Informant of X"
+        ],
+        [
+            "陈媚儿",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "马老板",
+            "Business Partner",
+            "Co-conspirator"
+        ]
+    ],
+    "赵三": [
+        [
+            "张伟",
+            "rival, enemy"
+        ],
+        [
+            "李成",
+            "Acquaintance of X"
+        ],
+        [
+            "赵中杨",
+            "rival, enemy"
+        ],
+        [
+            "赵中正",
+            "perpetrator of 赵中正's attempted murder",
+            "adversary of 赵中正",
+            "enemy of 赵中正",
+            "rival of 赵中正"
+        ],
+        [
+            "陈媚儿",
+            "perpetrator of father's death",
+            "enemy",
+            "obstacle",
+            "target of manipulation",
+            "victim of revenge"
+        ],
+        [
+            "马老板",
+            "perpetrator of 赵中杨's murder",
+            "bully of 赵中杨"
+        ]
+    ],
+    "赵中杨": [
+        [
+            "张伟",
+            "Victim of X",
+            "Killed by X",
+            "Bully of X",
+            "Enemy of X"
+        ],
+        [
+            "李成",
+            "acquaintance, friend, classmate, schoolmate, colleague, business partner, customer, buyer, tenant, patient"
+        ],
+        [
+            "赵三",
+            "rival, enemy"
+        ],
+        [
+            "赵中正",
+            " Husband of X",
+            "Extramarital Affair with X",
+            "Romantic relationships with X",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "陈媚儿",
+            "business partner",
+            "subordinate",
+            "servant",
+            "manipulator",
+            "deceiver",
+            "victim",
+            "perpetrator",
+            "nemesis",
+            "friend",
+            "classmate",
+            "schoolmate",
+            "neighbor"
+        ],
+        [
+            "马老板",
+            "enemy",
+            "attempted murderer"
+        ]
+    ],
+    "赵中正": [
+        [
+            "张伟",
+            "victim of 张伟's attempted murder",
+            "adversary of 张伟",
+            " enemy of 张伟"
+        ],
+        [
+            "李成",
+            "Employer of X",
+            "Mentor of X"
+        ],
+        [
+            "赵三",
+            "victim of 赵三's attempted murder",
+            "opponent of 赵三",
+            "enemy of 赵三",
+            "rival of 赵三"
+        ],
+        [
+            "赵中杨",
+            "Wife of X",
+            "Husband of X",
+            "Romantic relationships with X",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "陈媚儿",
+            "Friend"
+        ],
+        [
+            "马老板",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "陈媚儿": [
+        [
+            "张伟",
+            "Friend"
+        ],
+        [
+            "李成",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "赵三",
+            "perpetrator of father's death",
+            "enemy",
+            "obstacle",
+            "target of manipulation",
+            "victim of revenge"
+        ],
+        [
+            "赵中杨",
+            "business partner",
+            "subordinate",
+            "servant",
+            "manipulator",
+            "deceiver",
+            "victim",
+            "perpetrator",
+            "nemesis",
+            "friend",
+            "classmate",
+            "schoolmate",
+            "neighbor"
+        ],
+        [
+            "赵中正",
+            "Friend",
+            "Suspect"
+        ],
+        [
+            "马老板",
+            "friend"
+        ]
+    ],
+    "马老板": [
+        [
+            "张伟",
+            " Victim of  Chen媚儿's revenge",
+            "Husband of  Chen媚儿"
+        ],
+        [
+            "李成",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "赵三",
+            "victim of 赵中杨's murder",
+            "bullied by 赵中杨"
+        ],
+        [
+            "赵中杨",
+            "enemy",
+            "attempted murderer"
+        ],
+        [
+            "赵中正",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "陈媚儿",
+            "friend"
+        ]
+    ],
+    "chen媚儿": [
+        [
+            "赵中杨",
+            "wife, killer"
+        ]
+    ]
+}

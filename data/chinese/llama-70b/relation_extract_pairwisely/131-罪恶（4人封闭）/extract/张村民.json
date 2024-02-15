@@ -1,0 +1,90 @@
+{
+    "张村民": [
+        [
+            "赵慈善",
+            "perpetrator, suspect"
+        ],
+        [
+            "李警察",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "胡调研",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "赵慈善": [
+        [
+            "张村民",
+            "victim"
+        ],
+        [
+            "胡调研",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "王村长",
+            "relationship 1",
+            "relationship 2"
+        ]
+    ],
+    "李警察": [
+        [
+            "张村民",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "胡调研",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "王村长",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "胡调研": [
+        [
+            "张村民",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "赵慈善",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "李警察",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "王村长",
+            "killer of father",
+            "suspect of murder"
+        ]
+    ],
+    " Name": [
+        "李警察"
+    ],
+    "Relationships": [
+        [
+            "赵慈善",
+            "relationship 1",
+            "relationship 2"
+        ]
+    ],
+    "王村长": [
+        [
+            "赵慈善",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "李警察",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "胡调研",
+            "informant",
+            "victim of murder"
+        ]
+    ]
+}

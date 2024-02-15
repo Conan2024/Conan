@@ -1,0 +1,33 @@
+{
+    "于宿年": [
+      ["嫣楠", "father of x"], 
+      ["琏逸", "brother of x"], 
+      ["宿年", "brother of x"], 
+      ["周持同", "uncle of x"], 
+      ["周蒙当", "uncle of x"]
+    ],
+    "嫣楠": [
+      ["于宿年", "daughter of x"], 
+      ["琏逸", "brother of x"], 
+      ["宿年", "brother of x"]
+    ],
+    "琏逸": [
+      ["嫣楠", "brother of x"], 
+      ["于宿年", "brother of x"]
+    ],
+    "宿年": [
+      ["嫣楠", "uncle of x"], 
+      ["于宿年", "brother of x"]
+    ],
+    "周持同": [
+      ["嫣楠", "uncle of x"], 
+      ["于宿年", "brother of x"]
+    ],
+    "周蒙当": [
+      ["嫣楠", "uncle of x"], 
+      ["于宿年", "brother of x"]
+    ],
+    "甜愁": [
+      ["嫣楠", "sister of x"]
+    ]
+}

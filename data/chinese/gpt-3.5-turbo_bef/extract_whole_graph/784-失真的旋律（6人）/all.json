@@ -1,0 +1,36 @@
+{
+    "阮望娣": [
+      ["阮太太", "mother of x"], 
+      ["阮钱德", "father of x"], 
+      ["招楠", "sibling of x"], 
+      ["贵郎", "sibling of x"], 
+      ["罗有诺", "romantic relationships with x"], 
+      ["雪嫣", "romantic relationships with x"], 
+      ["黑莉", "romantic relationships with x"], 
+      ["王子摩", "ex husband of x"], 
+      ["自己", "manipulator of x"]
+    ],
+    "阮太太": [
+      ["阮望娣", "mother of x"], 
+      ["阮钱德", "wife of x"]
+    ],
+    "招楠": [
+      ["阮望娣", "sibling of x"]
+    ],
+    "罗有诺": [
+      ["阮望娣", "romantic relationships with x, manipulated by x"], 
+      ["雪嫣", "romantic relationships with x, manipulated by x"], 
+      ["黑莉", "romantic relationships with x, manipulated by x"]
+    ],
+    "雪嫣": [
+      ["阮望娣", "romantic relationships with x, manipulated by x"], 
+      ["罗有诺", "romantic relationships with x"]
+    ],
+    "黑莉": [
+      ["阮望娣", "romantic relationships with x, manipulated by x"], 
+      ["罗有诺", "romantic relationships with x"]
+    ],
+    "王子摩": [
+      ["阮望娣", "ex wife of x"]
+    ]
+}

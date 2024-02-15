@@ -1,0 +1,43 @@
+{
+    "剧务戴维": [
+      ["魔术师古思特", "friend of x"], 
+      ["宣传罗琳", "romantic relationships with x, ex romantic relationships with x"], 
+      ["助手艾拉", "friend of x"], 
+      ["保安凯文", "fondness of x"], 
+      ["后勤格里夫", "friend of x"]
+    ],
+    "魔术师古思特": [
+      ["剧务戴维", "friend of x"], 
+      ["宣传罗琳", "好朋友 of x"], 
+      ["助手艾拉", "friend of x"], 
+      ["保安凯文", "romantic relationships with x"], 
+      ["后勤格里夫", "员工的关系 of x"]
+    ],
+    "宣传罗琳": [
+      ["剧务戴维", "romantic relationships with x, ex romantic relationships with x"], 
+      ["魔术师古思特", "好朋友 of x"], 
+      ["助手艾拉", "friend of x"], 
+      ["保安凯文", "romantic relationships with x"], 
+      ["后勤格里夫", "extramarital affair with x"]
+    ],
+    "助手艾拉": [
+      ["剧务戴维", "friend of x"], 
+      ["魔术师古思特", "friend of x"], 
+      ["宣传罗琳", "friend of x"], 
+      ["保安凯文", "friend of x"], 
+      ["好朋友 of 罗琳", "帮手 of x 戴维"]
+    ],
+    "保安凯文": [
+      ["魔术师古思特", "friend of x"], 
+      ["宣传罗琳", "acquaintance of x"], 
+      ["助手艾拉", "friend of x"], 
+      ["后勤格里夫", "friend of x"]
+    ],
+    "后勤格里夫": [
+      ["剧务戴维", "friend of x"], 
+      ["魔术师古思特", "雇主的关系 of x"], 
+      ["宣传罗琳", "lover of x"], 
+      ["助手艾拉", "朋友 of x 戴维"], 
+      ["保安凯文", "friend of x"]
+    ]
+}

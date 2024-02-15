@@ -1,0 +1,27 @@
+{
+    "张洁": [
+      ["李国富", "romantic relationships with of x, helper of x"], 
+      ["何老六", "co worker of x"], 
+      ["慕北", "admired by of x, romantic relationships with of x"]
+    ],
+    "李国富": [
+      ["张洁", "romantic relationships with of x, employer of x, superior of x"], 
+      ["何老六", "co worker of x"], 
+      ["王邻居", "co worker of x, friend of x"]
+    ],
+    "何老六": [
+      ["张洁", "co worker of x"], 
+      ["李国富", "co worker of x"], 
+      ["王邻居", "co worker of x, friend of x"]
+    ],
+    "慕北": [
+      ["张洁", "admired by of x, romantic relationships with of x"], 
+      ["李国富", "romantic relationships with of x, superior of x"], 
+      ["王邻居", "co worker of x, friend of x"]
+    ],
+    "王邻居": [
+      ["李国富", "co worker of x, friend of x"], 
+      ["何老六", "co worker of x, friend of x"], 
+      ["慕北", "co worker of x, friend of x"]
+    ]
+}

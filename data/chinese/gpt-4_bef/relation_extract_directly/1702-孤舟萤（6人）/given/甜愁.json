@@ -1,0 +1,73 @@
+{
+    "甜愁": [
+      ["孙咸恩", "sibling of x"], 
+      ["周蒙当", "perpetrator of x, adversary of x"], 
+      ["张婆子", "acquaintance of x"], 
+      ["汪氏", "service provider of x, employer of x"], 
+      ["宝柑", "same person as x (different reference)"], 
+      ["宝柳", "friend of x, possibly family of x"], 
+      ["昔颜", "acquaintance of x, information receiver from x, colleague of x"], 
+      ["崔寿亨", "employer of x, superior of x, future father in law of x"], 
+      ["崔嫣楠", "liked by x"], 
+      ["周持同", "acquaintance of x, helper of x, romantic relationships with x, future relative of x"], 
+      ["周琏逸", "acquaintance of x"], 
+      ["琏逸", "same person as x (different reference)"]
+    ],
+    "宝柑": [
+      ["甜愁", "same person as x (different identity)"], 
+      ["孙咸恩", "sibling of x"], 
+      ["周蒙当", "enemy of x, disliked by x"], 
+      ["张婆子", "acquaintance of x"], 
+      ["汪氏", "service provider of x, employer of x"], 
+      ["宝柳", "acquaintance of x"], 
+      ["昔颜", "acquaintance of x"], 
+      ["崔寿亨", "employer of x"], 
+      ["周持同", "acquaintance of x"], 
+      ["周琏逸", "acquaintance of x"]
+    ],
+    "孙咸恩": [
+      ["甜愁", "sibling of x"], 
+      ["周蒙当", "victim of x"]
+    ],
+    "周蒙当": [
+      ["甜愁", "disliked by x"], 
+      ["宝柳", "husband of x"], 
+      ["周持同", "sibling of x"], 
+      ["周琏逸", "father of x"], 
+      ["昔颜", "acquaintance of x"], 
+      ["崔寿亨", "subordinate of x, business partner of x"]
+    ],
+    "宝柳": [
+      ["甜愁", "friend of x, admired by x"], 
+      ["周蒙当", "wife of x"], 
+      ["周琏逸", "mother of x"]
+    ],
+    "昔颜": [
+      ["甜愁", "colleague of x"], 
+      ["崔嫣楠", "aunt of x"], 
+      ["周蒙当", "acquaintance of x"], 
+      ["崔寿亨", "concubine of x, romantic relationships with x, wife of x"]
+    ],
+    "崔寿亨": [
+      ["甜愁", "superior of x, employer of x"], 
+      ["崔嫣楠", "father of x"], 
+      ["昔颜", "husband of x"], 
+      ["周蒙当", "acquaintance of x, business partner of x"]
+    ],
+    "崔嫣楠": [
+      ["甜愁", "liked by x"], 
+      ["昔颜", "niece of x"], 
+      ["崔寿亨", "daughter of x"]
+    ],
+    "周持同": [
+      ["甜愁", "helped by x"], 
+      ["周蒙当", "sibling of x"], 
+      ["周琏逸", "nephew of x"]
+    ],
+    "周琏逸": [
+      ["甜愁", "acquaintance of x"], 
+      ["宝柳", "son of x"], 
+      ["周蒙当", "son of x"], 
+      ["周持同", "niece of x"]
+    ]
+}

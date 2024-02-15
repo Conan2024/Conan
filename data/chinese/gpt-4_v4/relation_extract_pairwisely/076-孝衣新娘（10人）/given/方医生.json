@@ -1,0 +1,112 @@
+{
+    "方敏月": [
+      ["方乘山", "child of x"], 
+      ["姚长寿", "acquaintance of x, possibly family of x, patient of x, deceiver of x, suspect to x"], 
+      ["田红娇", "deceiver of x, helped by x, acquaintance of x, teacher of x, cousin of x"], 
+      ["张得采", "admired by x, quest companion of x, fiance of x, friend of x, acquaintance of x, ex romantic relationships with x"], 
+      ["姚孟仁", "same person as x (different identity), mentor of x"], 
+      ["姚仲义", "teacher of x, tenant of x, deceiver of x, relative of x, acquaintance of x"], 
+      ["孟老爷", "child of x, acquaintance of x"], 
+      ["张雅娣", "acquaintance of x"], 
+      ["方医生", "same person as x (different identity)"]
+    ],
+    "方乘山": [
+      ["方敏月", "father of x"], 
+      ["姚长寿", "colleague of x, acquaintance of x"], 
+      ["田红娇", "acquaintance of x, colleague of x, possibly family of x, suspect to x"], 
+      ["张得采", "nephew of x, uncle of x"], 
+      ["姚孟仁", "father of x, colleague of x"], 
+      ["姚仲义", "father of x"], 
+      ["孟老爷", "subordinate of x, relative of x, informant of x"], 
+      ["张雅娣", "helper of x"], 
+      ["方医生", "father of x"]
+    ],
+    "姚长寿": [
+      ["方敏月", "colleague of x, suspected by x, patient of x, deceived by x"], 
+      ["方乘山", "colleague of x, acquaintance of x"], 
+      ["田红娇", "husband of x"], 
+      ["张得采", "relative of x, possibly family of x"], 
+      ["姚孟仁", "father of x"], 
+      ["姚仲义", "father of x"], 
+      ["孟老爷", "subordinate of x, colleague of x, possibly family of x"], 
+      ["张雅娣", "extramarital affair with x"], 
+      ["方医生", "acquaintance of x, superior of x, disliked by x, employer of x, victim of x, suspected by x, patient of x"]
+    ],
+    "田红娇": [
+      ["方敏月", "cousin of x, customer of x"], 
+      ["方乘山", "acquaintance of x, colleague of x, possibly family of x, information receiver from x"], 
+      ["姚长寿", "wife of x"], 
+      ["张得采", "extramarital affair with x"], 
+      ["姚孟仁", "step mother of x"], 
+      ["姚仲义", "possibly family of x, step mother of x"], 
+      ["孟老爷", "acquaintance of x, possibly family of x"], 
+      ["张雅娣", "acquaintance of x"], 
+      ["方医生", "cousin of x"]
+    ],
+    "张得采": [
+      ["方敏月", "admirer of x, quest companion of x, fiance of x, friend of x, acquaintance of x, ex romantic relationships with x"], 
+      ["方乘山", "nephew of x, uncle of x"], 
+      ["姚长寿", "relative of x, possibly family of x"], 
+      ["田红娇", "lover of x"], 
+      ["方敏月", "romantic relationships with x, extramarital affair with x"], 
+      ["姚仲义", "acquaintance of x, possibly family of x"], 
+      ["孟老爷", "acquaintance of x, possibly family of x"], 
+      ["张雅娣", "nephew of x"], 
+      ["方医生", "admirer of x, lover of x, acquaintance of x, quest companion of x, ex romantic relationships with x"]
+    ],
+    "姚孟仁": [
+      ["方敏月", "student of x"], 
+      ["方乘山", "child of x, student of x"], 
+      ["姚长寿", "child of x"], 
+      ["田红娇", "step son of x"], 
+      ["方敏月", "student of x"], 
+      ["姚仲义", "same person as x (different identity), older brother of x"], 
+      ["孟老爷", "child of x"], 
+      ["张雅娣", "step son of x"], 
+      ["方医生", "child of x"]
+    ],
+    "姚仲义": [
+      ["方敏月", "student of x, tenant of x, relative of x, deceived by x, acquaintance of x"], 
+      ["方乘山", "child of x"], 
+      ["姚长寿", "child of x"], 
+      ["田红娇", "child of x, possibly family of x"], 
+      ["张得采", "acquaintance of x, possibly family of x"], 
+      ["姚孟仁", "same person as x (different identity), younger brother of x"], 
+      ["孟老爷", "subordinate of x, possibly family of x, acquaintance of x"], 
+      ["张雅娣", "step son of x"], 
+      ["方医生", "acquaintance of x, possibly family of x, student of x, possibly family of x"]
+    ],
+    "孟老爷": [
+      ["方敏月", "superior of x, acquaintance of x"], 
+      ["方乘山", "superior of x, customer of x"], 
+      ["姚长寿", "superior of x, relative of x"], 
+      ["田红娇", "acquaintance of x, possibly family of x"], 
+      ["张得采", "acquaintance of x, possibly family of x"], 
+      ["姚孟仁", "father of x"], 
+      ["姚仲义", "superior of x, colleague of x, acquaintance of x"], 
+      ["张雅娣", "superior of x"], 
+      ["方医生", "superior of x"]
+    ],
+    "张雅娣": [
+      ["方敏月", "acquaintance of x"], 
+      ["方乘山", "helped by x"], 
+      ["姚长寿", "concubine of x"], 
+      ["田红娇", "acquaintance of x"], 
+      ["张得采", "aunt of x"], 
+      ["姚孟仁", "step mother of x"], 
+      ["姚仲义", "step mother of x"], 
+      ["孟老爷", "subordinate of x"], 
+      ["方医生", "acquaintance of x"]
+    ],
+    "方医生": [
+      ["方敏月", "same person as x (different reference)"], 
+      ["方乘山", "child of x"], 
+      ["姚长寿", "acquaintance of x, employee of x, perpetrator of x, seeker of help from x, service provider of x, deceived by x, adversary of x, informant of x, information receiver from x, suspect of x"], 
+      ["田红娇", "cousin of x, information receiver from x, deceiver of x, suspected by x"], 
+      ["张得采", "admired by x, lover of x, acquaintance of x, quest companion of x, ex romantic relationships with x"], 
+      ["姚孟仁", "mentor of x"], 
+      ["姚仲义", "acquaintance of x, acquaintance of x, teacher of x, possibly family of x"], 
+      ["孟老爷", "subordinate of x, subordinate of x"], 
+      ["张雅娣", "acquaintance of x"]
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "杜仲": [
+      ["武林盟的调查人员", "same person as x (different reference)"], 
+      ["陆英", "acquaintance of x, schoolmate of x"]
+    ],
+    "武林盟的调查人员": [
+      ["杜仲", "same person as x (different reference)"], 
+      ["红花夫人", "student of x, acquaintance of x, helper of x, perpetrator of x, bully of x, murderer of x"], 
+      ["陆英", "acquaintance of x"]
+    ],
+    "红花夫人": [
+      ["武林盟的调查人员", "teacher of x, mentor of x, informant of x, information receiver from x, co wives of x, husband of x, wife of x, fiance of x, fiancee of x"]
+    ],
+    "蜂": [
+      ["陆英", "colleague of x, acquaintance of x"]
+    ],
+    "陆英": [
+      ["杜仲", "acquaintance of x, schoolmate of x"], 
+      ["武林盟的调查人员", "acquaintance of x"], 
+      ["蜂", "colleague of x, acquaintance of x"]
+    ]
+}

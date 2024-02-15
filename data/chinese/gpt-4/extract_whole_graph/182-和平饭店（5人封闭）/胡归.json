@@ -1,0 +1,98 @@
+{
+    "胡归": [
+        [
+            "海北",
+            "biological son of x"
+        ],
+        [
+            "海母亲",
+            "child of x"
+        ],
+        [
+            "二姨太",
+            "step-son of x, adversary of x"
+        ],
+        [
+            "海管家",
+            "information receiver from x, helper of x"
+        ],
+        [
+            "杨沧海",
+            "conspirator with x, enemy of x"
+        ]
+    ],
+    "海北": [
+        [
+            "胡归",
+            "biological father of x"
+        ],
+        [
+            "二姨太",
+            "husband of x, victim of x"
+        ],
+        [
+            "海管家",
+            "employee of x"
+        ],
+        [
+            "杨沧海",
+            "enemy of x, betrayed by x"
+        ]
+    ],
+    "海母亲": [
+        [
+            "胡归",
+            "mother of x"
+        ],
+        [
+            "海北",
+            "extramarital affair with x, deceased"
+        ],
+        [
+            "海管家",
+            "acquaintance of x"
+        ]
+    ],
+    "二姨太": [
+        [
+            "海北",
+            "wife of x, conspirator with x"
+        ],
+        [
+            "胡归",
+            "step-mother of x, conspirator with x, deceived by x"
+        ],
+        [
+            "杨沧海",
+            "lover of x"
+        ]
+    ],
+    "海管家": [
+        [
+            "海北",
+            "employer of x"
+        ],
+        [
+            "胡归",
+            "acquaintance of x, informant of x"
+        ],
+        [
+            "海母亲",
+            "acquaintance of x"
+        ]
+    ],
+    "杨沧海": [
+        [
+            "二姨太",
+            "lover of x"
+        ],
+        [
+            "海北",
+            "murderer of x"
+        ],
+        [
+            "胡归",
+            "conspirator with x, competitor of x"
+        ]
+    ]
+}

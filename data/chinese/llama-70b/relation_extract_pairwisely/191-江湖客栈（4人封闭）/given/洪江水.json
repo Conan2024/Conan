@@ -1,0 +1,178 @@
+{
+    "孟三春": [
+        [
+            "张红生",
+            "acquaintance"
+        ],
+        [
+            "张金银",
+            "friend, acquaintance"
+        ],
+        [
+            "洪寨主",
+            "relationship 1 ",
+            "relationship 2 "
+        ],
+        [
+            "洪江水",
+            "Friend",
+            "Roommate",
+            "Drinking partner"
+        ],
+        [
+            "蔡思娘",
+            "romantic interest"
+        ]
+    ],
+    "张红生": [
+        [
+            "孟三春",
+            "acquaintance"
+        ],
+        [
+            "张金银",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ],
+        [
+            "洪寨主",
+            "mentor",
+            "employer",
+            "superior",
+            "acquaintance",
+            "suspicious"
+        ],
+        [
+            "洪江水",
+            "friend",
+            "mentor",
+            "benefactor"
+        ],
+        [
+            "蔡思娘",
+            "mentor",
+            "employer",
+            "friend",
+            "romantic partner"
+        ]
+    ],
+    "张金银": [
+        [
+            "孟三春",
+            "friend, acquaintance"
+        ],
+        [
+            "张红生",
+            "Brother of X",
+            "Suspicious of X",
+            "Suspect of X"
+        ],
+        [
+            "洪寨主",
+            "manipulator"
+        ],
+        [
+            "洪江水",
+            "friend and mentor; senior and teacher; employer and master; acquaintance and colleague; inferior and subordinate; enemy and rival; victim and bully"
+        ],
+        [
+            "蔡思娘",
+            "同事对象 "
+        ]
+    ],
+    "洪寨主": [
+        [
+            "孟三春",
+            "relationship 1 ",
+            "relationship 2 "
+        ],
+        [
+            "张红生",
+            "mentor",
+            "employer",
+            "superior",
+            "acquaintance",
+            "suspicious"
+        ],
+        [
+            "洪江水",
+            "father-son",
+            "enemy",
+            "nemesis",
+            "rival",
+            "protege",
+            "mentor",
+            "past connection",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "蔡思娘",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "洪江水": [
+        [
+            "孟三春",
+            "Friend",
+            "Roommate",
+            "Drinking partner",
+            "Killer"
+        ],
+        [
+            "张红生",
+            "friend",
+            "mentee",
+            "love interest"
+        ],
+        [
+            "张金银",
+            "friend and mentor; senior and teacher; employer and master; acquaintance and colleague; inferior and subordinate; enemy and rival; victim and bully"
+        ],
+        [
+            "洪寨主",
+            "father-son",
+            "enemy",
+            "nemesis",
+            "rival",
+            "protege",
+            "mentor",
+            "past connection",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "蔡思娘",
+            "enemy, rival, or adversary",
+            "romantic interest"
+        ]
+    ],
+    "蔡思娘": [
+        [
+            "孟三春",
+            "romantic interest"
+        ],
+        [
+            "张红生",
+            "mentor",
+            "employer",
+            "friend",
+            "romantic partner"
+        ],
+        [
+            "张金银",
+            "同事对象 ",
+            "情感关系 "
+        ],
+        [
+            "洪寨主",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "洪江水",
+            "enemy, rival, or adversary",
+            "romantic interest"
+        ]
+    ]
+}

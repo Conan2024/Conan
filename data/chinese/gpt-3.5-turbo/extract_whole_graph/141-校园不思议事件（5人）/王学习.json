@@ -1,0 +1,94 @@
+{
+    "王学习": [
+        [
+            "张恶霸",
+            "bully of 王学习, manipulated by 张恶霸, attempted murderer of 王学习, potential victim of 王学习"
+        ],
+        [
+            "李小弟",
+            "follower of 张恶霸, companion of 王学习 in exploring the school"
+        ],
+        [
+            "赵帅哥",
+            "friend of 张恶霸, companion of 张恶霸 in exploring the school"
+        ],
+        [
+            "林校花",
+            "fiancee of 张恶霸, companion of 张恶霸 in exploring the school"
+        ],
+        [
+            "郝闺蜜",
+            "friend of 林校花, companion of 张恶霸 in exploring the school"
+        ]
+    ],
+    "张恶霸": [
+        [
+            "王学习",
+            "victim of 张恶霸, manipulated by 张恶霸, potential perpetrator of 王学习's death"
+        ],
+        [
+            "李小弟",
+            "follower of 张恶霸, accomplice in exploring the school"
+        ],
+        [
+            "赵帅哥",
+            "friend of 张恶霸, accomplice in exploring the school"
+        ],
+        [
+            "林校花",
+            "fiancee of 张恶霸, accomplice in exploring the school"
+        ],
+        [
+            "郝闺蜜",
+            "friend of 林校花, accomplice in exploring the school"
+        ]
+    ],
+    "李小弟": [
+        [
+            "张恶霸",
+            "follower of 张恶霸, accomplice in exploring the school"
+        ],
+        [
+            "王学习",
+            "companion of 张恶霸 in exploring the school"
+        ]
+    ],
+    "赵帅哥": [
+        [
+            "张恶霸",
+            "friend of 张恶霸, accomplice in exploring the school"
+        ],
+        [
+            "王学习",
+            "companion of 张恶霸 in exploring the school"
+        ]
+    ],
+    "林校花": [
+        [
+            "张恶霸",
+            "fiancee of 张恶霸, accomplice in exploring the school"
+        ],
+        [
+            "王学习",
+            "companion of 张恶霸 in exploring the school"
+        ],
+        [
+            "郝闺蜜",
+            "friend of 林校花, accomplice in exploring the school"
+        ]
+    ],
+    "郝闺蜜": [
+        [
+            "林校花",
+            "friend of 林校花, accomplice in exploring the school"
+        ],
+        [
+            "张恶霸",
+            "accomplice in exploring the school"
+        ],
+        [
+            "王学习",
+            "accomplice in exploring the school"
+        ]
+    ]
+}

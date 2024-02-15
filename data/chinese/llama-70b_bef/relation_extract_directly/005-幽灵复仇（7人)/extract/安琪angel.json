@@ -1,0 +1,30 @@
+{
+    "安琪": [
+      ["段约同", "friend of x"], 
+      ["宇祖先生", "acquaintance of x"], 
+      ["李大哥", "acquaintance of x"], 
+      ["阿同", "acquaintance of x"], 
+      ["白衣女人", "suspect of x"]
+    ],
+    "宇祖先生": [
+      ["安琪", "acquaintance of x"], 
+      ["李大哥", "friend of x"], 
+      ["阿同", "acquaintance of x"]
+    ],
+    "李大哥": [
+      ["宇祖先生", "friend of x"], 
+      ["安琪", "acquaintance of x"], 
+      ["阿同", "acquaintance of x"]
+    ],
+    "阿同": [
+      ["安琪", "acquaintance of x"], 
+      ["李大哥", "acquaintance of x"], 
+      ["宇祖先生", "acquaintance of x"]
+    ],
+    "白衣女人": [
+      ["安琪", "suspect of x"]
+    ],
+    "段约同": [
+      ["安琪", "friend of x"]
+    ]
+}

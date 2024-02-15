@@ -1,0 +1,94 @@
+{
+    "乔•罗伯特森": [
+        [
+            "麦克斯•琼斯",
+            "friend of x, colleague of x, informant of x, information receiver from x"
+        ],
+        [
+            "国际刑警组织",
+            "subordinate of x"
+        ],
+        [
+            "丹尼尔•佩里",
+            "acquaintance of x"
+        ],
+        [
+            "约翰•摩根",
+            "acquaintance of x"
+        ],
+        [
+            "艾米•摩根",
+            "subject of investigation for x"
+        ]
+    ],
+    "麦克斯•琼斯": [
+        [
+            "乔•罗伯特森",
+            "friend of x, information receiver from x, deceived by x"
+        ],
+        [
+            "Sleer&Leech",
+            "subordinate of x"
+        ]
+    ],
+    "国际刑警组织": [
+        [
+            "乔•罗伯特森",
+            "superior of x"
+        ],
+        [
+            "麦克斯•琼斯",
+            "subject of investigation for x"
+        ],
+        [
+            "Sleer&Leech",
+            "subject of investigation for x"
+        ]
+    ],
+    "露西•哈里森": [
+        [
+            "乔纳森•佩里",
+            "lover of x"
+        ]
+    ],
+    "乔纳森•佩里": [
+        [
+            "露西•哈里森",
+            "lover of x"
+        ],
+        [
+            "丹尼尔•佩里",
+            "possibly family of x"
+        ]
+    ],
+    "丹尼尔•佩里": [
+        [
+            "乔•罗伯特森",
+            "acquaintance of x"
+        ],
+        [
+            "乔纳森•佩里",
+            "possibly family of x"
+        ]
+    ],
+    "约翰•摩根": [
+        [
+            "艾米•摩根",
+            "husband of x"
+        ],
+        [
+            "乔•罗伯特森",
+            "victim of x, subject of investigation for x"
+        ]
+    ],
+    "艾米•摩根": [
+        [
+            "约翰•摩根",
+            "wife of x"
+        ],
+        [
+            "乔•罗伯特森",
+            "subject of investigation for x"
+        ]
+    ]
+}

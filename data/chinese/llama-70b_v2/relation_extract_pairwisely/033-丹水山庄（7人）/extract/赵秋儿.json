@@ -1,0 +1,38 @@
+{
+    "赵秋儿": [
+      ["赵洛意", "friend of x, mentor of x, teacher of x"], 
+      ["管家冯双骥", "mentor/teacher of x, friend/confidant of x, rival/competitor of x"], 
+      ["大少爷赵卫", "old urchin of x, 冯竹 of x, 管家 of x, 赵洛意 of x"], 
+      ["老爷赵万雷", "father in law of x, employer of x"], 
+      ["冯竹", "employer of x, master of x"]
+    ],
+    "赵洛意": [
+      ["赵秋儿", "friend of x, mentor of x, teacher of x"], 
+      ["管家冯双骥", "relationship 1: teacher student of x, relationship 2: employer employee of x"], 
+      ["大少爷赵卫", "关系1 of x, 关系2 of x"], 
+      ["老爷赵万雷", "relative of x"], 
+      ["冯竹", "older sister / younger brother of x, mentor of x, teacher of x, caregiver of x"]
+    ],
+    "管家冯双骥": [
+      ["赵秋儿", "manager/supervisor of x, friend/confidant of x"], 
+      ["赵洛意", "relationship 1: teacher student of x, relationship 2: employer employee of x"], 
+      ["大少爷赵卫", "employer of x, master of x"], 
+      ["老爷赵万雷", "employer of x, master of x"]
+    ],
+    "大少爷赵卫": [
+      ["赵秋儿", "赵洛意 of x, 管家 of x, 冯竹 of x, x"], 
+      ["赵洛意", "关系1 of x, 关系2 of x"], 
+      ["管家冯双骥", "employer of x, master of x"], 
+      ["老爷赵万雷", "mentor of x, protector of x, and father like figure of x"]
+    ],
+    "老爷赵万雷": [
+      ["赵秋儿", "daughter in law of x, employee of x"], 
+      ["赵洛意", "wife of x, suspicious of x"], 
+      ["管家冯双骥", "employee of x, servant of x"], 
+      ["大少爷赵卫", "mentee of x, protected of x, and son like figure of x"]
+    ],
+    "冯竹": [
+      ["赵秋儿", "employee of x, servant of x"], 
+      ["赵洛意", "older sister / younger brother of x, mentee of x, student of x, dependent of x"]
+    ]
+}

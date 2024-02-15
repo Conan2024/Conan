@@ -1,0 +1,28 @@
+{
+    "张村民": [
+      ["李警察", "acquaintance of x, suspect of x"], 
+      ["王村长", "adopted son/daughter of x, fake son/daughter of x"], 
+      ["胡调研", "adversary of x, enemy of x"], 
+      ["赵慈善", "enemy of x, rival of x, manipulator of x, manipulated of x, inferior of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"]
+    ],
+    "李警察": [
+      ["张村民", "acquaintance of x, suspect of x"], 
+      ["王村长", "suspicious of x, adversary of x, deceiver of x, manipulator of x, superior of x"], 
+      ["胡调研", "rival of x, adversary of x"], 
+      ["赵慈善", "adversary of x, investigator of x"]
+    ],
+    "王村长": [
+      ["张村民", "adoptive father/mother of x, fake father/mother of x"], 
+      ["李警察", "suspicious of x, adversary of x, deceiver of x, manipulator of x, superior of x"], 
+      ["胡调研", "superior subordinate of x, business partner of x, adversary of x"]
+    ],
+    "胡调研": [
+      ["张村民", "adversary of x, enemy of x"], 
+      ["李警察", "rival of x, adversary of x"], 
+      ["王村长", "superior subordinate of x, business partner of x, adversary of x"]
+    ],
+    "赵慈善": [
+      ["张村民", "enemy of x, rival of x, manipulator of x, manipulated of x, inferior of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["李警察", "adversary of x, investor of x"]
+    ]
+}

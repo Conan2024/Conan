@@ -1,0 +1,100 @@
+{
+    "贵叔": [
+      ["法蓝庄", "uncle of x, aunt of x, mentor of x, teacher of x, colleague of x, business partner of x, patient of x, friend of x"], 
+      ["孟老爷", "adopted son of x, apprentice of x, assistant of x, adopted son of x brother, son of x friend, tenant of x, patient of x, suspect of x"], 
+      ["年轻男人", "mentor of x, superior of x, savior of x, inferior of x"], 
+      ["姚仲义", "mentor of x, friend of x, savior of x, rival of x, enemy of x"], 
+      ["陈均梦", "father in law of x, employer of x, master of x, superior of x, mentor of x, teacher of x, perpetrator of x, victim of x"], 
+      ["云凌", "father in law of x, employer of x, superior of x, mentor of x, teacher of x, savior of x, friend of x, partner of x, ally of x, associate of x"], 
+      ["红夫人", "doctor patient relationship of x"]
+    ],
+    "法蓝庄": [
+      ["贵叔", "nephew of x, niece of x, mentee of x, student of x, colleague of x, business partner of x, doctor of x, friend of x"], 
+      ["孟老爷", "employer of x, master of x, superior of x"], 
+      ["年轻男人", "虞医师 of x, 救命恩人 of x"], 
+      ["Employee", "subordinate of x, co worker of x"], 
+      ["姚仲义", "总管 employee of x, mentor protege of x, friend friend of x"], 
+      ["陈均梦", "quaintance of x"], 
+      ["云凌", "acquaintance of x, business partner of x"], 
+      ["红夫人", "虞医师 of x, 陈均梦 of x"]
+    ],
+    "孟老爷": [
+      ["贵叔", "adopted father of x, mentor of x, master of x, brother of x, friend of x, landlord of x, doctor of x, investigator of x"], 
+      ["法蓝庄", "employee of x, servant of x, subordinate of x"], 
+      ["短发女人", "acquaintance of x"], 
+      ["年轻男人", "嫂子之夫 of x, 妯娌的 nephew of x, 舅舅 of x, co worker of x"], 
+      ["father-in-law", "grandfather of x, son in law of x"], 
+      ["云凌", "acquaintance of x"], 
+      ["红夫人", "father in law of x, employer of x, secret lover of x"]
+    ],
+    "短发女人": [
+      ["孟老爷", "acquaintance of x"], 
+      ["年轻男人", "救 lire's wife of x, 药物依赖 of x"], 
+      ["长发姑娘", "aquaintance of x, helper of x"], 
+      ["姚仲义", "相互救助者 of x"], 
+      ["陈均梦", "关系1 of x, 关系2 of x"], 
+      ["云凌", "相互救助者 of x"], 
+      ["红夫人", "friend of x"]
+    ],
+    "年轻男人": [
+      ["贵叔", "mentor of x, superior of x, savior of x, inferior of x"], 
+      ["法蓝庄", "虞医师 of x, 救命恩人 of x"], 
+      ["孟老爷", "嫂子之夫 of x, 妯娌的 nephew of x, 舅舅 of x, co worker of x"], 
+      ["短发女人", "救 lire's wife of x, 虞医师 of x"], 
+      ["长发姑娘", "relationship 1: savior/rescuer of x, relationship 2: medical practitioner/patient of x"], 
+      ["姚仲义", "friend of x, colleague of x"], 
+      ["云凌", "acquaintance of x, bully of x, suspect of x"]
+    ],
+    "长发姑娘": [
+      ["Employer", "master of x, superior of x"], 
+      ["短发女人", "aquaintance of x, victim of x"], 
+      ["年轻男人", "relationship 1: saved/rescued of x, relationship 2: medical practitioner/patient of x"], 
+      ["姚仲义", "救命恩人 of x"], 
+      ["陈均梦", "wife of x, relative of x, friend of x"], 
+      ["云凌", "fiancé of x, patient of x, acquaintance of x"], 
+      ["红夫人", "acquaintance; mentor and mentee; benefactor and beneficiary of x"]
+    ],
+    "姚仲义": [
+      ["贵叔", "mentor of x, friend of x, savior of x, rival of x, enemy of x"], 
+      ["法蓝庄", "总管 employee of x, mentor protege of x, friend friend of x"], 
+      ["son-in-law", "brother in law of x, father in law of x"], 
+      ["短发女人", "相互救助者 of x"], 
+      ["年轻男人", "friend of x, colleague of x"], 
+      ["长发姑娘", "救命恩人 of x"], 
+      ["陈均梦", "savior of x, patient of x"], 
+      ["云凌", "friend of x, saved his life of x"], 
+      ["红夫人", "chen jian jing of x"]
+    ],
+    "陈均梦": [
+      ["贵叔", "father in law of x, employer of x, master of x, superior of x, mentor of x, teacher of x, perpetrator of x, victim of x"], 
+      ["法蓝庄", "quaintance of x"], 
+      ["短发女人", "关系1 of x, 关系2 of x"], 
+      ["长发姑娘", "husband of x, relative of x, friend of x"], 
+      ["姚仲义", "patient of x, saved of x"], 
+      ["云凌", "niece of x husband, daughter of x sister"], 
+      ["红夫人", "虞医师 of x, 救命恩人 of x, 医学同门 of x, 朋友 of x"]
+    ],
+    "云凌": [
+      ["贵叔", "father in law of x, employer of x, superior of x, mentor of x, teacher of x, savior of x, friend of x, partner of x, ally of x, associate of x"], 
+      ["法蓝庄", "acquaintance of x, business partner of x"], 
+      ["孟老爷", "acquaintance of x"], 
+      ["短发女人", "相互救助者 of x"], 
+      ["年轻男人", "victim of x, acquaintance of x"], 
+      ["长发姑娘", "sister of x, patient of x, friend of x, acquaintance of x"], 
+      ["姚仲义", "friend of x, helped him when he was in need of x"], 
+      ["陈均梦", "niece of x husband, sister of x daughter"], 
+      ["红夫人", "adoptive daughter and mother of x, sister in law and brother in law of x, wife and husband of x"]
+    ],
+    "红夫人": [
+      ["贵叔", "doctor patient relationship of x"], 
+      ["法蓝庄", "虞医师 of x, 陈均梦 of x"], 
+      ["短发女人", "friend of x"], 
+      ["长发姑娘", "acquaintance; mentor and mentee; benefactor and beneficiary of x"], 
+      ["姚仲义", "chen jian jing of x"], 
+      ["陈均梦", "虞医师 of x, 救命恩人 of x, 医学同门 of x, 朋友 of x"], 
+      ["云凌", "adoptive mother and daughter of x, brother in law and sister in law of x, husband and wife of x"]
+    ],
+    "RED husband": [
+      ["孟老爷", "father in law of x, employer of x, secret lover of x"]
+    ]
+}

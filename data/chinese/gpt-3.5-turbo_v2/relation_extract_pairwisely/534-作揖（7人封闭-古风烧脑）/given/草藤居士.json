@@ -1,0 +1,43 @@
+{
+    "草藤居士": [
+      ["小茜", "mentor of x"], 
+      ["方竹", "friend of x"], 
+      ["尔矢斯芭嗒", "mentor of x, student of x"], 
+      ["陈倩", "mentor of x"], 
+      ["陈孜靖", "mentor of x"]
+    ],
+    "小茜": [
+      ["草藤居士", "student of x"], 
+      ["方竹", "sister of x"], 
+      ["尔矢斯芭嗒", "friend of x, mentor of x"], 
+      ["陈倩", "mentor of x"], 
+      ["陈孜靖", "sister of x"]
+    ],
+    "方竹": [
+      ["草藤居士", "friend of x"], 
+      ["小茜", "sister of x"], 
+      ["尔矢斯芭嗒", "ex romantic relationships with x"], 
+      ["陈倩", "student of x"], 
+      ["陈孜靖", "friend of x"]
+    ],
+    "尔矢斯芭嗒": [
+      ["草藤居士", "teacher of x"], 
+      ["小茜", "student of x"], 
+      ["方竹", "ex romantic relationships with x"], 
+      ["陈倩", "friend of x, student of x"], 
+      ["陈孜靖", "romantic relationships with x"]
+    ],
+    "陈倩": [
+      ["草藤居士", "student of x"], 
+      ["小茜", "student of x"], 
+      ["方竹", "mentor of x"], 
+      ["尔矢斯芭嗒", "teacher of x"], 
+      ["陈孜靖", "siblings of x"]
+    ],
+    "陈孜靖": [
+      ["草藤居士", "student of x"], 
+      ["小茜", "sister of x"], 
+      ["方竹", "friend of x"], 
+      ["尔矢斯芭嗒", "romantic relationships with x"]
+    ]
+}

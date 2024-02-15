@@ -1,0 +1,88 @@
+{
+    "顾晴": [
+      ["顾明和", "child of x, daughter of x, biological daughter of x"], 
+      ["顾宇", "sibling of x, younger brother of x"], 
+      ["林夕", "childhood friends of x, ex friend of x, envy of x, adversary of x, planner of x's demise, bully of x"], 
+      ["苏阳", "romantic relationships with x, secret crush of x, jealousy of x"], 
+      ["林彤", "extramarital affair with x, dislike of x, jealous of x, enemy of x, rivalry with x"], 
+      ["林惟仁", "acquaintance of x, disliked by x"], 
+      ["林阳", "girlfriend of x, deceiver of x, investigator of x, adversary of x"], 
+      ["沈城", "acquaintance of x, information receiver from x"]
+    ],
+    "顾明和": [
+      ["顾晴", "father of x, biological father of x"], 
+      ["顾宇", "father of x"], 
+      ["林夕", "father of x child's romantic partner"], 
+      ["林惟仁", "father of x's ex fiancee, x's business partner"], 
+      ["林阳", "father in law of x"], 
+      ["沈城", "employee of x"]
+    ],
+    "顾宇": [
+      ["顾晴", "sibling of x, older sister of x"], 
+      ["顾明和", "child of x"], 
+      ["林夕", "childhood sweetheart of x, romantic relationships with x, ex romantic relationships with x"], 
+      ["苏阳", "acquaintance of x, possibly family of x"], 
+      ["林彤", "disliked by x"], 
+      ["林惟仁", "friend of x's child, future father in law of x"], 
+      ["林阳", "brother in law of x"], 
+      ["沈城", "employee of x, information receiver from x"]
+    ],
+    "林夕": [
+      ["顾晴", "childhood friends of x, recipient of x's envy, bullied by x"], 
+      ["顾明和", "child's romantic partner's father of x"], 
+      ["顾宇", "childhood sweetheart of x, romantic relationships with x, ex romantic relationships with x"], 
+      ["苏阳", "ex romantic relationships with x, quest companion of x, patient of x"], 
+      ["林彤", "extramarital affair with x, romantic relationships with x, ex romantic relationships with x, dislike of x, enemy of x, suspect to x, adversary of x, jealous of x, suspect of x"], 
+      ["林惟仁", "child of x"], 
+      ["林阳", "sibling of x, sister of x"], 
+      ["沈城", "employee of x, information receiver from x, guest of x"]
+    ],
+    "苏阳": [
+      ["顾晴", "admired by x, romantic relationships with x's friend, jealousy by x"], 
+      ["顾宇", "acquaintance of x, possibly family of x"], 
+      ["林夕", "ex romantic relationships with x, quest companion of x, service provider of x"], 
+      ["林彤", "ex romantic relationships with x, deceased x"], 
+      ["林惟仁", "doctor of x, possible future son in law of x"], 
+      ["林阳", "acquaintance of x, colleague of x (as a fellow doctor), quest companion of x x (implied together in trying to help 林夕), possible adversary of x x (due to the apparent tension and competition over 林夕's affections)"], 
+      ["沈城", "employee of x"]
+    ],
+    "林彤": [
+      ["顾晴", "extramarital affair with x, disliked by x, jealousy of x, enemy of x, rival of x"], 
+      ["顾宇", "dislike of x"], 
+      ["林夕", "romantic relationships with x, ex romantic relationships with x, disliked by x, victim of x, suspected by x, hate of x"], 
+      ["苏阳", "ex romantic relationships with x, deceased by x"], 
+      ["林惟仁", "acquaintance of x"], 
+      ["林阳", "ex romantic relationships with x"], 
+      ["沈城", "employee of x"]
+    ],
+    "林惟仁": [
+      ["顾晴", "acquaintance of x, father of x's romantic rival"], 
+      ["顾明和", "ex fiance's father in law, business partner of x"], 
+      ["顾宇", "father of x's significant other, potential adversary of x"], 
+      ["林夕", "father of x"], 
+      ["苏阳", "patient's father of x, future father in law of x"], 
+      ["林彤", "acquaintance of x"], 
+      ["林阳", "father of x"], 
+      ["沈城", "employer of x, victim of x"]
+    ],
+    "林阳": [
+      ["顾晴", "boyfriend of x, deceived by x, suspected by x, adversary of x"], 
+      ["顾明和", "son in law of x"], 
+      ["顾宇", "sister's ex boyfriend"], 
+      ["林夕", "sibling of x, brother of x"], 
+      ["苏阳", "acquaintance of x, colleague of x (as a fellow doctor), quest companion of x x (implied together in trying to help 林夕), suspected by x (顾晴 suspects x of x x something in relation to his fear of x x 林夕)"], 
+      ["林彤", "ex romantic relationships with x"], 
+      ["林惟仁", "child of x"], 
+      ["沈城", "employer of x, master of x"]
+    ],
+    "沈城": [
+      ["顾晴", "acquaintance of x, informant of x"], 
+      ["顾明和", "employer of x"], 
+      ["顾宇", "employer of x, informant of x"], 
+      ["林夕", "employer of x, informant of x, host of x"], 
+      ["苏阳", "employer of x"], 
+      ["林彤", "employer of x"], 
+      ["林惟仁", "employee of x, perpetrator of x"], 
+      ["林阳", "employee of x, servant of x"]
+    ]
+}

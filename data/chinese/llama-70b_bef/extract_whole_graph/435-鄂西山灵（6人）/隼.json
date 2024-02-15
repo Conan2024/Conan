@@ -1,0 +1,21 @@
+{
+    "隼": [
+      ["如娅", "sister of x, friend of x"], 
+      ["李高柏", "brother in law of x, friend of x"], 
+      ["周教授", "acquaintance of x"], 
+      ["快离", "wife of x, friend of x"], 
+      ["苗纳", "uncle of x, teacher of x"], 
+      ["鬼印", "mentor of x, superior of x"], 
+      ["忱纱", "lover of x, friend of x"]
+    ],
+    "如娅": [
+      ["隼", "sister of x, friend of x"], 
+      ["李高柏", "brother in law of x"], 
+      ["周教授", "acquaintance of x"]
+    ],
+    "李高柏": [
+      ["隼", "brother in law of x, friend of x"], 
+      ["如娅", "brother in law of x"], 
+      ["周教授", "acquaintance of x"]
+    ]
+}

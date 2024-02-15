@@ -1,0 +1,29 @@
+{
+    "韦小弟": [
+      ["秦老大", "classmate of x, enemy of x"], 
+      ["庄清纯", "classmate of x"], 
+      ["贾美丽", "classmate of x, friend of x"], 
+      ["郑友好", "friend of x"]
+    ],
+    "秦老大": [
+      ["韦小弟", "enemy of x, classmate of x"], 
+      ["庄清纯", "classmate of x, friend of x"], 
+      ["贾美丽", "classmate of x, friend of x"], 
+      ["郑友好", "friend of x"]
+    ],
+    "庄清纯": [
+      ["韦小弟", "classmate of x"], 
+      ["秦老大", "classmate of x, friend of x"], 
+      ["贾美丽", "classmate of x, friend of x"]
+    ],
+    "贾美丽": [
+      ["韦小弟", "classmate of x, friend of x"], 
+      ["秦老大", "classmate of x, friend of x"], 
+      ["庄清纯", "classmate of x, friend of x"]
+    ],
+    "郑友好": [
+      ["韦小弟", "friend of x"], 
+      ["秦老大", "friend of x"], 
+      ["庄清纯", "friend of x"]
+    ]
+}

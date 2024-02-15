@@ -1,0 +1,177 @@
+{
+    "雯秘书": [
+        [
+            "杨老板",
+            "helper of x",
+            "possible lover of x"
+        ],
+        [
+            "很天真",
+            "helper of 很天真"
+        ],
+        [
+            "张大副",
+            "romantic relationships with x"
+        ],
+        [
+            "玲船医",
+            "informant of x"
+        ],
+        [
+            "王船工",
+            "colleague of x"
+        ]
+    ],
+    "杨老板": [
+        [
+            "雯秘书",
+            "employer of x"
+        ],
+        [
+            "很天真",
+            "employee of x"
+        ],
+        [
+            "张大副",
+            "business partner of x"
+        ],
+        [
+            "玲船医",
+            "informant of x"
+        ],
+        [
+            "王船工",
+            "secret admirer of x"
+        ],
+        [
+            "王小工",
+            "business partner of x"
+        ]
+    ],
+    "很天真": [
+        [
+            "雯秘书",
+            "subordinate of 雯秘书"
+        ],
+        [
+            "杨老板",
+            "employer of x"
+        ],
+        [
+            "杨老板",
+            "助手"
+        ],
+        [
+            "玲船医",
+            "helper of x"
+        ],
+        [
+            "王船工",
+            "co-worker"
+        ],
+        [
+            "王小工",
+            "helped by x"
+        ]
+    ],
+    "张大副": [
+        [
+            "雯秘书",
+            "romantic relationships with x"
+        ],
+        [
+            "杨老板",
+            "business partner of x"
+        ],
+        [
+            "杨老板",
+            "合作伙伴"
+        ],
+        [
+            "玲船医",
+            "informant of x"
+        ],
+        [
+            "王船工",
+            "exposing identity to 王船工"
+        ],
+        [
+            "王小工",
+            "patient of 张大副"
+        ]
+    ],
+    "玲船医": [
+        [
+            "雯秘书",
+            "informant of x"
+        ],
+        [
+            "杨老板",
+            "informant of x"
+        ],
+        [
+            "很天真",
+            "informant of x"
+        ],
+        [
+            "张大副",
+            "information receiver from x"
+        ],
+        [
+            "王船工",
+            "information receiver from x"
+        ],
+        [
+            "王小工",
+            "daughter of x"
+        ]
+    ],
+    "王船工": [
+        [
+            "雯秘书",
+            "colleague of x"
+        ],
+        [
+            "杨老板",
+            "subject of investigation for x"
+        ],
+        [
+            "很天真",
+            "co-worker"
+        ],
+        [
+            "张大副",
+            "suspected by 张大副"
+        ],
+        [
+            "玲船医",
+            "informant of x"
+        ],
+        [
+            "王小工",
+            "father of x"
+        ]
+    ],
+    "王小工": [
+        [
+            "杨老板",
+            "business partner of x"
+        ],
+        [
+            "很天真",
+            "helper of x"
+        ],
+        [
+            "张大副",
+            "seller of drugs to 张大副"
+        ],
+        [
+            "玲船医",
+            "mother of x"
+        ],
+        [
+            "王船工",
+            "son of x"
+        ]
+    ]
+}

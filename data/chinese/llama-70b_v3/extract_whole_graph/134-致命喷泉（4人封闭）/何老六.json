@@ -1,0 +1,18 @@
+{
+    "何老六": [
+      ["李国富", "acquaintance of x, victim of x"], 
+      ["慕北", "colleague of x"]
+    ],
+    "李国富": [
+      ["何老六", "acquaintance of x, victim of x"], 
+      ["王邻居", "debtor of x"]
+    ],
+    "王邻居": [
+      ["李国富", "debtor of x"], 
+      ["何老六", "informant of x"]
+    ],
+    "慕北": [
+      ["何老六", "colleague of x"], 
+      ["李国富", "suspect of x"]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "凌霄": [
+      ["次徒", "friend of x, student of x"], 
+      ["Mountain Villa", "employee of x, informant of x"]
+    ],
+    "次徒": [
+      ["凌霄", "friend of x, teacher of x"], 
+      ["Mountain Villa", "employer of x, master of x"]
+    ],
+    "Mountain Villa": [
+      ["凌霄", "employee of x, informant of x"], 
+      ["次徒", "employer of x, master of x"]
+    ]
+}

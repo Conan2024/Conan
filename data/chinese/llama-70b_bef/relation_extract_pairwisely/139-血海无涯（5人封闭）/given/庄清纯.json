@@ -1,0 +1,48 @@
+{
+    "庄清纯": [
+      ["秦专家", "adversary of x, enemy of x, rival of x, manipulator of x, deceiver of x"], 
+      ["郑友好", "acquaintance of x, schoolmate of x, neighbour of x, friend of x"], 
+      ["韦小弟", "half brother of x, step brother of x"]
+    ],
+    "秦专家": [
+      ["庄清纯", "adversary of x, enemy of x, rival of x, manipulator of x, deceiver of x"], 
+      ["庄清纯的母亲", "daughter in law of x"], 
+      ["秦老大", "neighbour of x, helper of x"], 
+      ["萧体育", "father in law of x"], 
+      ["薛媚娘", "bully of x, manipulator of x"], 
+      ["贾美丽", "friend of x, mentor of x, teacher of x, informant of x, acquaintance of x"], 
+      ["郑友好", "mentor of x, teacher of x, acquaintance of x, colleague of x, business partner of x"]
+    ],
+    "秦老大": [
+      ["秦专家", "neighbour of x, helper of x"], 
+      ["萧体育", "rival in love of x"], 
+      ["郑友好", "classmate of x, student of x, colleague of x"], 
+      ["韦小弟", "friend of x"]
+    ],
+    "萧体育": [
+      ["秦专家", "boyfriend of x"], 
+      ["秦老大", "teacher of x, lover of x, acquaintance of x"], 
+      ["薛媚娘", "girlfriend of x"], 
+      ["韦小弟", "boyfriend of x, secret lover of x"]
+    ],
+    "薛媚娘": [
+      ["萧体育", "boyfriend of x"], 
+      ["韦小弟", "friend of x"]
+    ],
+    "贾美丽": [
+      ["秦专家", "friend of x, mentor of x, teacher of x, informant of x, acquaintance of x"], 
+      ["韦小弟", "friend of x"]
+    ],
+    "郑友好": [
+      ["庄清纯", "acquaintance of x, schoolmate of x, neighbour of x, friend of x"], 
+      ["庄清纯的母亲", "acquaintance of x"], 
+      ["秦专家", "mentor of x, teacher of x, information receiver from x, acquaintance of x, colleague of x, business partner of x"], 
+      ["秦老大", "classmate of x, student of x, colleague of x"]
+    ],
+    "韦小弟": [
+      ["庄清纯", "half brother of x, step brother of x"], 
+      ["秦老大", "friend of x"], 
+      ["萧体育", "girlfriend of x, secret lover of x"], 
+      ["薛媚娘", "friend of x"]
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "廖雪寒": [
+      ["廖一乔", "father of x"], 
+      ["张医师", "acquaintance of x"], 
+      ["茱丽", "extramarital affair with x, helped by x"], 
+      ["海悠", "acquaintance of x, helped by x"], 
+      ["罗亨理", "business partner of x, debtor of x"], 
+      ["吕名然", "manipulator of x, business partner of x, adversary of x"], 
+      ["罗明纱", "acquaintance of x, business partner of x"], 
+      ["谭仁昌", "suspected by x"]
+    ],
+    "廖一乔": [
+      ["廖雪寒", "child of x"]
+    ],
+    "张医师": [
+      ["廖雪寒", "acquaintance of x"], 
+      ["茱丽", "husband of x"]
+    ],
+    "茱丽": [
+      ["张医师", "wife of x"], 
+      ["廖雪寒", "extramarital affair with x, helper of x"]
+    ],
+    "海悠": [
+      ["廖雪寒", "acquaintance of x, helped by x"]
+    ],
+    "罗亨理": [
+      ["廖雪寒", "business partner of x, creditor of x"], 
+      ["罗明纱", "brother of x"]
+    ],
+    "吕名然": [
+      ["廖雪寒", "manipulated by x, debtor of x"], 
+      ["罗亨理", "employer of x"], 
+      ["承格", "acquaintance of x"]
+    ],
+    "罗明纱": [
+      ["罗亨理", "sister of x"], 
+      ["廖雪寒", "creditor of x"]
+    ],
+    "谭仁昌": [
+      ["罗亨理", "brother in law of x"], 
+      ["廖雪寒", "suspect to x"], 
+      ["承格", "adoptive father of x"]
+    ],
+    "承格": [
+      ["谭仁昌", "adoptive son of x"], 
+      ["吕名然", "acquaintance of x"]
+    ]
+}

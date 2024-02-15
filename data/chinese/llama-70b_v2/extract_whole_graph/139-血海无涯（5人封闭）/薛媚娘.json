@@ -1,0 +1,27 @@
+{
+    "薛媚娘": [
+      ["秦老大", "romantic partner of x, classmate of x"], 
+      ["萧体育", "lover of x, schoolmate of x"], 
+      ["秦专家", "father in law of x, mentor of x"], 
+      ["贾美丽", "student of x, protegee of x, victim of x"], 
+      ["秦夫人", "stepmother of x"]
+    ],
+    "秦老大": [
+      ["薛媚娘", "girlfriend of x, classmate of x"], 
+      ["秦专家", "son of x"], 
+      ["贾美丽", "stepdaughter of x"]
+    ],
+    "萧体育": [
+      ["薛媚娘", "girlfriend of x, schoolmate of x"], 
+      ["秦老大", "classmate of x"]
+    ],
+    "秦专家": [
+      ["薛媚娘", "protege of x"], 
+      ["秦老大", "father of x"]
+    ],
+    "贾美丽": [
+      ["薛媚娘", "student of x, protegee of x, victim of x"], 
+      ["秦老大", "stepfather of x"], 
+      ["萧体育", "schoolmate of x"]
+    ]
+}

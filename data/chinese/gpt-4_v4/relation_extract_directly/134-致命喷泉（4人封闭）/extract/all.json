@@ -1,0 +1,27 @@
+{
+    "何老六": [
+      ["李国富", "helped by x, colleague of x, crime partner of x, rival in love of x, debtor of x"], 
+      ["张洁", "colleague of x, helped by x, friend of x"], 
+      ["慕北", "colleague of x, quest companion of x"], 
+      ["二姐", "same person as x (different identity), helped by x, suspected by x"]
+    ],
+    "李国富": [
+      ["何老六", "helper of x, colleague of x, crime partner of x, creditor of x"], 
+      ["张洁", "colleague of x, helper of x, friend of x"], 
+      ["慕北", "colleague of x, helper of x, quest companion of x"], 
+      ["王邻居", "debtor of x, adversary of x, disliked by x"]
+    ],
+    "王邻居": [
+      ["王邻居的妻子", "husband of x"], 
+      ["李国富", "adversary of x, hate of x, creditor of x"], 
+      ["何老六", "acquaintance of x, suspected by x"]
+    ],
+    "张洁": [
+      ["李国富", "colleague of x, helper of x, friend of x"], 
+      ["何老六", "colleague of x, helped by x, friend of x"]
+    ],
+    "慕北": [
+      ["何老六", "colleague of x, quest companion of x"], 
+      ["李国富", "colleague of x, helper of x, quest companion of x"]
+    ]
+}

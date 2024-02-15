@@ -1,0 +1,92 @@
+{
+    "王船工": [
+        [
+            "张大副",
+            "subordinate of x, crime partner of x, victim of x, suspect of x, manipulated by x"
+        ],
+        [
+            "王小工",
+            "father of x"
+        ],
+        [
+            "玲船医",
+            "father in law of x, helper of x, information receiver from x"
+        ],
+        [
+            "杨老板",
+            "victim of x, acquaintance of x, business partner of x, enemy of x, debtor of x, parent of x's victim, helped by x, quest companion of x, suspect of x"
+        ]
+    ],
+    "张大副": [
+        [
+            "王船工",
+            "superior of x, crime partner of x, perpetrator of x, manipulator of x"
+        ],
+        [
+            "王小工",
+            "superior of x, perpetrator of x"
+        ],
+        [
+            "玲船医",
+            "acquaintance of x, colleague of x"
+        ],
+        [
+            "杨老板",
+            "business partner of x, perpetrator of x, manipulator of x, superior of x"
+        ]
+    ],
+    "王小工": [
+        [
+            "王船工",
+            "child of x"
+        ],
+        [
+            "张大副",
+            "subordinate of x, victim of x"
+        ],
+        [
+            "玲船医",
+            "son of x, husband of x"
+        ],
+        [
+            "杨老板",
+            "victim of x, child of x"
+        ]
+    ],
+    "玲船医": [
+        [
+            "王船工",
+            "daughter in law of x, helped by x, informant of x"
+        ],
+        [
+            "张大副",
+            "acquaintance of x, colleague of x"
+        ],
+        [
+            "王小工",
+            "daughter in law of x, wife of x"
+        ],
+        [
+            "杨老板",
+            "creditor of x, victim of x"
+        ]
+    ],
+    "杨老板": [
+        [
+            "王船工",
+            "perpetrator of x, acquaintance of x, business partner of x, adversary of x, creditor of x, helped by x, quest companion of x, suspect to x"
+        ],
+        [
+            "张大副",
+            "business partner of x, manipulated by x, subordinate of x"
+        ],
+        [
+            "王小工",
+            "perpetrator of x, customer of x"
+        ],
+        [
+            "玲船医",
+            "debtor of x, perpetrator of x"
+        ]
+    ]
+}

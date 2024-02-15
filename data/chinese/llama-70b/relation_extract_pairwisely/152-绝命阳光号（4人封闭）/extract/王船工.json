@@ -1,0 +1,202 @@
+{
+    "王船工": [
+        [
+            "张大副",
+            "Employee-Employer",
+            "Drug Trafficker-Enforcer",
+            "Accomplice-Mastermind",
+            "Victim-Perpetrator",
+            "Enemy-adversary"
+        ],
+        [
+            "路人甲",
+            "Friend",
+            "acquaintance",
+            "Rival",
+            "Suspect",
+            "helper"
+        ],
+        [
+            "玲船医",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5"
+        ],
+        [
+            "王小工",
+            "父子",
+            "老板と徒弟",
+            "同事",
+            "干掉关系",
+            "敌人"
+        ],
+        [
+            "杨老板",
+            "employer of X",
+            "master of X",
+            "perpetrator of X",
+            "manipulator of X",
+            "deceiver of X"
+        ]
+    ],
+    "张大副": [
+        [
+            "王船工",
+            "Employee-Employer",
+            "Drug Trafficker-Enforcer",
+            "Accomplice-Mastermind",
+            "Victim-Perpetrator",
+            "Enemy-adversary"
+        ],
+        [
+            "路人甲",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "玲船医",
+            "业务PARтнер",
+            "共谋凶手"
+        ],
+        [
+            "王小工",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ],
+        [
+            "杨老板",
+            "Business Partner",
+            "Accomplice in Crime"
+        ]
+    ],
+    "路人甲": [
+        [
+            "王船工",
+            "Friend",
+            "acquaintance",
+            "Rival",
+            "Suspect",
+            "helper"
+        ],
+        [
+            "张大副",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "玲船医",
+            "acquaintance"
+        ],
+        [
+            "王小工",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "杨老板",
+            "acquaintance",
+            "business partner",
+            "co-conspirator",
+            "friend",
+            "mentee",
+            "rival",
+            "subordinate",
+            "Superior"
+        ]
+    ],
+    "玲船医": [
+        [
+            "王船工",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5"
+        ],
+        [
+            "张大副",
+            "儿媳妇",
+            "共谋凶手"
+        ],
+        [
+            "路人甲",
+            "acquaintance"
+        ],
+        [
+            "王小工",
+            "Relative",
+            "Friend"
+        ],
+        [
+            "杨老板",
+            "friend of X",
+            "acquaintance of X"
+        ]
+    ],
+    "王小工": [
+        [
+            "王船工",
+            "父子",
+            "老板と徒弟",
+            "同事",
+            "干掉关系",
+            "敌人"
+        ],
+        [
+            "张大副",
+            "Employee of X",
+            "Subordinate of X",
+            "Suspect of X"
+        ],
+        [
+            "路人甲",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "杨老板",
+            "friend",
+            "drug dealer",
+            "suspected murderer"
+        ]
+    ],
+    "杨老板": [
+        [
+            "王船工",
+            "employee of X",
+            "servant of X",
+            "victim of X",
+            "manipulated by X",
+            "deceived by X"
+        ],
+        [
+            "张大副",
+            "Business Partner",
+            "Accomplice in Crime"
+        ],
+        [
+            "路人甲",
+            "acquaintance",
+            "business partner",
+            "co-conspirator",
+            "friend",
+            "mentee",
+            "rival",
+            "subordinate",
+            "Superior"
+        ],
+        [
+            "玲船医",
+            "friend of X",
+            "acquaintance of X"
+        ],
+        [
+            "王小工",
+            "customer",
+            "friend",
+            "suspect"
+        ]
+    ],
+    " Wang Xiaogong": [
+        [
+            "玲船医",
+            "Relative",
+            "Friend"
+        ]
+    ]
+}

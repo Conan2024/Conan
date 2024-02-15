@@ -1,0 +1,32 @@
+{
+    "紫苏": [
+        [
+            "杜仲",
+            "colleague of x, friend of x"
+        ],
+        [
+            "玄冰教神曲使",
+            "student of x"
+        ]
+    ],
+    "杜仲": [
+        [
+            "紫苏",
+            "colleague of x, friend of x"
+        ],
+        [
+            "玄冰教神曲使",
+            "fondness of x, admired by x"
+        ]
+    ],
+    "玄冰教神曲使": [
+        [
+            "紫苏",
+            "mentor of x"
+        ],
+        [
+            "杜仲",
+            "helped by x, information receiver from x"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "张村民": [
+      ["张村民的父亲", "child of x"], 
+      ["王村长", "acquaintance of x"], 
+      ["胡研究", "suspected by x, acquaintance of x"], 
+      ["赵慈善", "victim of x"]
+    ],
+    "张村民的父亲": [
+      ["张村民", "father of x"]
+    ],
+    "王村长": [
+      ["张村民的父亲", "employer of x"], 
+      ["张村民", "informant of x"]
+    ],
+    "赵慈善": [
+      ["张村民", "killed by x"]
+    ]
+}

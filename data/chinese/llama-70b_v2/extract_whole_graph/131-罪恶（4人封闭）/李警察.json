@@ -1,0 +1,18 @@
+{
+    "李警察": [
+      [">父母", "relative of x"]
+    ],
+    "赵慈善": [
+      ["李警察", "suspect of x"], 
+      ["胡调研", "acquaintance of x"]
+    ],
+    "王村长": [
+      ["李警察", "acquaintance of x"]
+    ],
+    "女友": [
+      ["李警察", "wife of x"]
+    ],
+    "胡调研": [
+      ["李警察", "colleague of x"]
+    ]
+}

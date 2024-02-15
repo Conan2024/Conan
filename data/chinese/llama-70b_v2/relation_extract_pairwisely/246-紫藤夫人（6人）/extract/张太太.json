@@ -1,0 +1,79 @@
+{
+    "张太太": [
+      ["张俊诗", "husband of x, male friend of x"], 
+      ["月萝", "姐妹 of x, 亲家 of x, 私人關係 of x, 朋友 of x, 鄰居 of x, 情人 of x, 职場 rival of x, 学生 of x, 帮手 of x"], 
+      ["朱陵山", "养老女婿 of x, 妯娌 of x, 亲家 of x, 朋友 of x, 邻居 of x, 同事 of x, 恩人 of x"], 
+      ["于尚勇", "husband and wife of x, cohabitant of x, friend of x, acquintance of x"], 
+      ["稚筠", "姐妹 of x, 侄女 of x, 寄养的 of x, 朋友 of x"], 
+      ["乐婉", "姐妹 of x, 儿媳 of x, 妈妈 of x, 祖母 of x, 姨妈 of x, 婆婆 of x, 妹妹 of x, 姐夫 of x, 兄弟 of x, 堂兄 of x"]
+    ],
+    "张俊诗": [
+      ["张太太", "wife of x, female friend of x"], 
+      ["葛继先", "husband of x"], 
+      ["月萝", "husband of x, father of x"], 
+      ["朱陵山", "爱情关系 of x, 夫妻关系 of x"], 
+      ["于彦诚", "husband wife relationship of x"], 
+      ["于尚勇", "husband of x, doctor of x, employer of x, landlord of x, romantic partner of x"], 
+      ["稚筠", "father of x, uncle of x, cousin of x, brother in law of x, husband of x"], 
+      ["乐婉", "spouse of x, lover of x, family member of x, friend of x, acquaintance of x, neighbor of x, colleague of x, business partner of x, customer of x, student of x"]
+    ],
+    "葛继先": [
+      ["张俊诗", "father in law of x"], 
+      ["月萝", "former neighbor of x, acquaintance of x"], 
+      ["朱陵山", "relative of x"], 
+      ["于尚勇", "燕萍 of x, 郑大道 of x"], 
+      ["稚筠", "father of x, grandfather of x, uncle of x, family friend of x"], 
+      ["乐婉", "丈夫 of x, 家人 of x, townsfolk of x"]
+    ],
+    "月萝": [
+      ["张太太", "姐妹 of x, 亲家 of x, 私人關係 of x, 朋友 of x, 鄰居 of x, 情人 of x, 职场 rival of x, 学生 of x, 帮手 of x"], 
+      ["张俊诗", "wife of x, daughter of x"], 
+      ["葛继先", "orphaned daughter of x, heir of x"], 
+      ["朱陵山", "relative of x"], 
+      ["于彦诚", "表妹 of x, 朋友 of x, 邻居 of x, 熟人 of x, 职业上的合作伙伴 of x"], 
+      ["于尚勇", "junior of x, benefactor of x, friend of x"], 
+      ["稚筠", "丈夫 of x, 姑婆 of x"]
+    ],
+    "朱陵山": [
+      ["张太太", "养老女婿 of x, 妯娌 of x, 亲家 of x, 朋友 of x, 邻居 of x, 同事 of x, 恩人 of x"], 
+      ["张俊诗", "爱情关系 of x, 夫妻关系 of x"], 
+      ["葛继先", "husband of x"], 
+      ["月萝", "spouse of x"], 
+      ["于彦诚", "friend of x, neighbor of x"], 
+      ["于尚勇", "学生与师傅 of x, 朋友 of x, 帮手与杂凑 of x, 姐弟 of x, 街坊 of x"], 
+      ["乐婉", "relative of x, friend of x, acquaintance of x, neighbor of x"]
+    ],
+    "于彦诚": [
+      ["张俊诗", "husband wife relationship of x"], 
+      ["月萝", "表妹 of x, 朋友 of x, 邻居 of x, 熟人 of x, 职业上的合作伙伴 of x"], 
+      ["朱陵山", "friend of x, neighbor of x"], 
+      ["于尚勇", "acquaintance of x"]
+    ],
+    "于尚勇": [
+      ["张太太", "husband and wife of x, cohabitant of x, friend of x, acquintance of x"], 
+      ["张俊诗", "friend of x, patient of x, employee of x, tenant of x, romantic partner of x"], 
+      ["葛继先", "燕萍 of x, 郑大道 of x"], 
+      ["月萝", "junior of x, benefactor of x, friend of x"], 
+      ["朱陵山", "学生与师傅 of x, 朋友 of x, 帮手与杂凑 of x, 姐弟 of x, 街坊 of x"], 
+      ["于彦诚", "acquaintance of x"], 
+      ["niece", "uncle of x, cousin of x"]
+    ],
+    "稚筠": [
+      ["张太太", "姐妹 of x, 侄女 of x, 寄养的 of x, 朋友 of x"], 
+      ["张俊诗", "father of x, uncle of x, cousin of x, brother in law of x, husband of x"], 
+      ["葛继先", "father of x, grandfather of x, uncle of x, family friend of x"], 
+      ["月萝", "丈夫 of x, 姑婆 of x"], 
+      ["niece", "uncle of x, cousin of x"], 
+      ["乐婉", "niece of x, member of x the 张family"]
+    ],
+    "乐婉": [
+      ["张太太", "姐妹 of x, 儿媳 of x, 妈妈 of x, 祖母 of x, 姨妈 of x, 婆婆 of x, 妹妹 of x, 姐夫 of x, 兄弟 of x, 堂兄 of x"], 
+      ["张俊诗", "spouse of x, lover of x, family member of x, friend of x, acquaintance of x, neighbor of x, colleague of x, business partner of x, customer of x, student of x"], 
+      ["葛继先", "妻子 of x, 家人 of x, townsfolk of x"], 
+      ["朱陵山", "relative of x, friend of x, acquaintance of x, neighbor of x"], 
+      ["稚筠", "daughter in law of x, member of x the 张family"]
+    ],
+    "Yuehua": [
+      ["r", "e of x, l of x, a of x, t of x, i of x, o of x, n of x, s of x, h of x, i of x, p of x, 1 of x, x, e of x, l of x, a of x, t of x, i of x, o of x, n of x, s of x, h of x, i of x, p of x, 2 of x"]
+    ]
+}

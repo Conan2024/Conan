@@ -1,0 +1,46 @@
+{
+    "雯秘书": [
+      ["杨老板", "subordinate of x, information receiver from x, deceiver of x, killed by x, enemy of x"], 
+      ["很天真", "colleague of x, deceiver of x, dislike of x, victim of x"], 
+      ["张大副", "business partner of x, deceived by x"], 
+      ["玲船医", "informant of x, deceiver of x, colleague of x"], 
+      ["王船工", "acquaintance of x, business opportunity for x"], 
+      ["王小工", "victim of x, manipulation target by x"]
+    ],
+    "杨老板": [
+      ["雯秘书", "subordinate of x, trust in x, deceived by x"], 
+      ["很天真", "subordinate of x, trusted aide of x"], 
+      ["张大副", "business partner of x, informant strategically placed around x"], 
+      ["玲船医", "informant of x"], 
+      ["王船工", "business opportunity for x"], 
+      ["王小工", "unaware of x"]
+    ],
+    "很天真": [
+      ["雯秘书", "colleague of x, suspected by x"], 
+      ["杨老板", "superior of x, trusted by x"]
+    ],
+    "张大副": [
+      ["雯秘书", "business opportunity for x, deceived by x"], 
+      ["杨老板", "business partner of x"], 
+      ["玲船医", "acquaintance of x, colleague of x"], 
+      ["王船工", "subordinate of x, business partner of x"]
+    ],
+    "玲船医": [
+      ["雯秘书", "informant for x, deceived by x"], 
+      ["杨老板", "informant for x"], 
+      ["张大副", "acquaintance of x, colleague of x"], 
+      ["王船工", "acquaintance of x"], 
+      ["王小工", "daughter in law of x"]
+    ],
+    "王船工": [
+      ["雯秘书", "contact of x, manipulation target by x"], 
+      ["张大副", "superior of x"], 
+      ["玲船医", "relative of x"], 
+      ["王小工", "father of x"]
+    ],
+    "王小工": [
+      ["雯秘书", "victim of x, manipulated by x"], 
+      ["玲船医", "mother in law of x"], 
+      ["王船工", "son of x"]
+    ]
+}

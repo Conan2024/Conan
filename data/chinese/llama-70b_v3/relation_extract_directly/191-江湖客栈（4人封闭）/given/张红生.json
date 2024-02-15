@@ -1,0 +1,25 @@
+{
+    "孟三春": [
+      ["张金银", "brother of x, adversary of x"]
+    ],
+    "张红生": [
+      ["张金银", "sister of x, colleague of x"]
+    ],
+    "张金银": [
+      ["孟三春", "brother of x, adversary of x"], 
+      ["张红生", "sister of x, colleague of x"]
+    ],
+    "洪三妹": [
+      ["洪长烈", "father of x"]
+    ],
+    "洪长烈": [
+      ["洪三妹", "daughter of x"]
+    ],
+    "蔡思娘": [
+      ["张红生", "employee of x, adversary of x"], 
+      ["孟三春", "adversary of x"]
+    ],
+    "洪江水": [
+      ["张红生", "employee of x, sister of x"]
+    ]
+}

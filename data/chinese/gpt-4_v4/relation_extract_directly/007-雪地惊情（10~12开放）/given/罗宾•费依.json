@@ -1,0 +1,46 @@
+{
+    "罗宾•费依": [
+      ["丹尼尔•佩里", "friend of x, colleague of x, information receiver from x"], 
+      ["杰奎琳•佩里", "acquaintance of x"], 
+      ["乔纳森•佩里", "acquaintance of x, suspected by x"], 
+      ["露西•哈里森", "acquaintance of x, mentor of x"], 
+      ["玛丽娜•哈里森", "acquaintance of x, admired by x, extramarital affair with x"]
+    ],
+    "丹尼尔•佩里": [
+      ["罗宾•费依", "friend of x, colleague of x, informant of x"], 
+      ["杰奎琳•佩里", "same person as x (different identity)"], 
+      ["乔纳森•佩里", "father of x"], 
+      ["戴维斯•佩里", "same person as x (different reference)"], 
+      ["露西•哈里森", "acquaintance of x"], 
+      ["玛丽娜•哈里森", "admired by x, extramarital affair with x"]
+    ],
+    "杰奎琳•佩里": [
+      ["罗宾•费依", "acquaintance of x"], 
+      ["丹尼尔•佩里", "same person as x (different identity)"], 
+      ["乔纳森•佩里", "aunt of x"], 
+      ["露西•哈里森", "acquaintance of x"], 
+      ["玛丽娜•哈里森", "same person as x (different identity), adversary of x"]
+    ],
+    "乔纳森•佩里": [
+      ["罗宾•费依", "acquaintance of x, suspected by x"], 
+      ["丹尼尔•佩里", "child of x"], 
+      ["杰奎琳•佩里", "nephew of x"], 
+      ["露西•哈里森", "acquaintance of x"]
+    ],
+    "露西•哈里森": [
+      ["罗宾•费依", "acquaintance of x, student of x"], 
+      ["丹尼尔•佩里", "acquaintance of x"], 
+      ["杰奎琳•佩里", "acquaintance of x"], 
+      ["乔纳森•佩里", "acquaintance of x"], 
+      ["玛丽娜•哈里森", "child of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["罗宾•费依", "acquaintance of x, admired by x"], 
+      ["丹尼尔•佩里", "admirer of x, extramarital affair with x"], 
+      ["杰奎琳•佩里", "same person as x (different identity), adversary of x"], 
+      ["露西•哈里森", "mother of x"]
+    ],
+    "艾米•摩根": [
+      ["罗宾•费依", "acquaintance of x"]
+    ]
+}

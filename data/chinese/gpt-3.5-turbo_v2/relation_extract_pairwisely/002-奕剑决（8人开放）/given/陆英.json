@@ -1,0 +1,41 @@
+{
+    "陆英": [
+      ["杜仲", "mentor of x"], 
+      ["凌霄", "mentor of x, romantic relationships with x"], 
+      ["紫苏", "lover of x, romantic relationships with x"], 
+      ["玄参", "恋人 of x"]
+    ],
+    "恋人": [
+      ["杜仲", "romantic relationships with x"], 
+      ["凌霄", "romantic relationships with x"], 
+      ["紫苏", "romantic relationships with x"], 
+      ["玄参", "secret lover of x"]
+    ],
+    "杜仲": [
+      ["陆英", "student of x"], 
+      ["恋人", "romantic relationships with x"], 
+      ["凌霄", "mentor of x, father figure for x"], 
+      ["紫苏", "romantic relationships with x"], 
+      ["玄参", "possible informant of x, possible informant of x"]
+    ],
+    "凌霄": [
+      ["陆英", "student of x, romantic relationships with x"], 
+      ["恋人", "romantic relationships with x"], 
+      ["杜仲", "student of x, disciple of x"], 
+      ["紫苏", "romantic relationships with x"], 
+      ["玄参", "同门关系 of x, 共同任务 of x"]
+    ],
+    "紫苏": [
+      ["陆英", "lover of x, romantic relationships with x"], 
+      ["恋人", "romantic relationships with x"], 
+      ["杜仲", "romantic relationships with x"], 
+      ["凌霄", "romantic relationships with x"], 
+      ["玄参", "romantic relationships with x"]
+    ],
+    "玄参": [
+      ["陆英", "恋人 of x"], 
+      ["恋人", "secret lover of x"], 
+      ["杜仲", "possible informant of x, possible informant of x"], 
+      ["紫苏", "romantic relationships with x"]
+    ]
+}

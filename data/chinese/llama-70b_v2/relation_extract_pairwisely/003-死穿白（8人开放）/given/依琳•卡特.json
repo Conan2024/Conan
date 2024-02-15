@@ -1,0 +1,58 @@
+{
+    "伊莱恩·卡特尔": [
+      ["德雷克·里莫瑞特", "supervisor/trainee of x, colleague of x"], 
+      ["护士长科斯塔", "colleague of x, suspect of x, informant of x, acquaintance of x"]
+    ],
+    "依琳·卡特": [
+      ["帕洛斯基医生", "colleague of x, supervisor supervisee of x, investigator suspect of x, bereaved family member investigator of x"], 
+      ["德雷克·里莫瑞特", "suspect of x, investigator of x, mentor of x, student of x"], 
+      ["汉斯·里莫瑞特", "colleague of x, suspect of x, acquaintance of x, informant of x"]
+    ],
+    "伊莱恩•卡特尔": [
+      ["colleague", "fellow practitioner of x, acquaintance of x"], 
+      ["学生", "潜在的监管 of x, 可疑人 of x"]
+    ],
+    "帕洛斯基医生": [
+      ["依琳·卡特", "colleague of x, supervisor supervisee of x, investigator suspect of x, bereaved family member investigator of x"], 
+      ["吉姆梅森", "acquaintance of x, collaborator of x"], 
+      ["德雷克·里莫瑞特", "relative of x"], 
+      ["护士长科斯타", "德雷克·里莫瑞特 of x"], 
+      ["医院院长伯克利", "supervisor of x"]
+    ],
+    "德雷克·里莫瑞特": [
+      ["伊莱恩·卡特尔", "supervisor/trainee of x, colleague of x"], 
+      ["依琳·卡特", "suspect of x, investigator of x, mentor of x, student of x"], 
+      ["帕洛斯基医生", "relative of x"], 
+      ["帕洛斯基医生", "护士长科斯塔 of x"], 
+      ["院长伯克利", "同事 of x, mentor of x, teacher of x, informant of x, acquaintance of x"]
+    ],
+    "护士长科斯塔": [
+      ["伊莱恩·卡特尔", "colleague of x, suspect of x, informant of x, acquaintance of x"], 
+      ["院长伯克利", "supervisor of x, collaborator of x, co worker of x"]
+    ],
+    "汉斯•里莫瑞特": [
+      ["上司", "可疑人 of x"]
+    ],
+    "院长伯克利": [
+      ["吉姆梅森", "supervisor/subordinate of x"], 
+      ["德雷克·里莫瑞特", "subordinate of x, employee of x, servant of x, colleague of x, business partner of x"], 
+      ["护士长科斯塔", "supervisor of x, collaborator of x, co worker of x"], 
+      ["汉斯·里莫瑞特", "supervisor of x, co worker of x"]
+    ],
+    "吉姆梅森": [
+      ["帕洛斯基医生", "acquaintance of x, collaborator of x"], 
+      ["汉斯·里莫瑞特", "acquaintance of x"], 
+      ["院长伯克利", "supervisor/subordinate of x"]
+    ],
+    "护士长科斯타": [
+      ["帕洛斯基医生", "德雷克·里莫瑞特 of x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["依琳·卡特", "colleague of x, suspect of x, acquaintance of x"], 
+      ["吉姆梅森", "acquaintance of x"], 
+      ["院长伯克利", "supervisor of x, co worker of x"]
+    ],
+    "医院院长伯克利": [
+      ["帕洛斯基医生", "supervisee of x"]
+    ]
+}

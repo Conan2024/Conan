@@ -1,0 +1,23 @@
+{
+    "吕松年": [
+      ["于尚勇", "acquaintance of x, saved by x"], 
+      ["乐婉", "acquaintance of x, suspicious of x"], 
+      ["薛玉帆", "relative of x"]
+    ],
+    "于尚勇": [
+      ["吕松年", "acquaintance of x, saved by x"]
+    ],
+    "乐婉": [
+      ["吕松年", "acquaintance of x, suspicious of x"]
+    ],
+    "薛玉帆": [
+      ["吕松年", "relative of x"], 
+      ["于尚勇", "relative of x"]
+    ],
+    "张太太": [
+      ["于尚勇", "customer of x"]
+    ],
+    "稚筠": [
+      ["薛玉帆", "relative of x"]
+    ]
+}

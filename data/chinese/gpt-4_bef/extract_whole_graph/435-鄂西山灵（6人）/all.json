@@ -1,0 +1,69 @@
+{
+    "如娅": [
+      ["苗纳", "father of x"], 
+      ["田氏", "mother of x"]
+    ],
+    "苗纳": [
+      ["苗氏", "sibling of x"]
+    ],
+    "苗氏": [
+      ["巴府山", "husband of x"], 
+      ["鹃歌", "daughter of x"], 
+      ["隼", "son of x"], 
+      ["如娅", "niece of x"]
+    ],
+    "鹃歌": [
+      ["如娅", "cousin of x"], 
+      ["巴府山", "father of x"], 
+      ["隼", "sibling of x"], 
+      ["鬼印", "fiance of x"]
+    ],
+    "隼": [
+      ["巴府山", "father of x"], 
+      ["苗氏", "mother of x"], 
+      ["鹃歌", "sibling of x"], 
+      ["甘玛", "fiancee of x"], 
+      ["如娅", "cousin of x"]
+    ],
+    "巴府山": [
+      ["苗氏", "wife of x"], 
+      ["鹃歌", "daughter of x"], 
+      ["隼", "son of x"]
+    ],
+    "李德木": [
+      ["李良松", "sibling of x"], 
+      ["李高柏", "sibling of x"], 
+      ["如娅", "romantic relationships with x"], 
+      ["巴府山", "employee of x"], 
+      ["鬼印", "acquaintance of x"]
+    ],
+    "李良松": [
+      ["李德木", "sibling of x"], 
+      ["李高柏", "sibling of x"]
+    ],
+    "李高柏": [
+      ["李德木", "sibling of x"], 
+      ["李良松", "sibling of x"], 
+      ["如娅", "helper of x"], 
+      ["甘玛", "friend of x"]
+    ],
+    "鬼印": [
+      ["苗纳", "student of x"], 
+      ["如娅", "husband of x"], 
+      ["李德木", "acquaintance of x"], 
+      ["鹃歌", "fiance of x"]
+    ],
+    "甘玛": [
+      ["如娅", "helper of x, helped by x"], 
+      ["李高柏", "friend of x"], 
+      ["隼", "fiancee of x"]
+    ],
+    "郑函贞": [
+      ["忱纱", "acquaintance of x"], 
+      ["如娅", "acquaintance of x"]
+    ],
+    "忱纱": [
+      ["郑函贞", "acquaintance of x"], 
+      ["甘玛", "acquaintance of x"]
+    ]
+}

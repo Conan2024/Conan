@@ -1,0 +1,166 @@
+{
+    "张红生": [
+        [
+            "孟三春",
+            "husband of x"
+        ],
+        [
+            "洪三妹",
+            "same person as x (different identity)"
+        ],
+        [
+            "洪长烈",
+            "father of x"
+        ],
+        [
+            "洪二郎",
+            "same person as x (different identity)"
+        ],
+        [
+            "蔡家",
+            "business partner of x"
+        ],
+        [
+            "张金银",
+            "adversary of x"
+        ],
+        [
+            "张金山",
+            "victim of x"
+        ],
+        [
+            "洪江水",
+            "acquaintance of x, possibly family of x"
+        ],
+        [
+            "蔡思娘",
+            "romantic relationships with x, extramarital affair with x"
+        ]
+    ],
+    "孟三春": [
+        [
+            "张红生",
+            "wife of x"
+        ],
+        [
+            "张金银",
+            "business partner of x, brother of x"
+        ],
+        [
+            "张金山",
+            "attempted perpetrator of x"
+        ],
+        [
+            "洪江水",
+            "employee of x"
+        ],
+        [
+            "蔡思娘",
+            "employee of x"
+        ]
+    ],
+    "洪三妹": [
+        [
+            "张红生",
+            "same person as x (different reference)"
+        ],
+        [
+            "洪长烈",
+            "father of x"
+        ],
+        [
+            "洪二郎",
+            "same person as x (different identity)"
+        ]
+    ],
+    "洪二郎": [
+        [
+            "张红生",
+            "same person as x (different reference)"
+        ],
+        [
+            "洪三妹",
+            "same person as x (different identity)"
+        ],
+        [
+            "洪长烈",
+            "child of x"
+        ]
+    ],
+    "洪长烈": [
+        [
+            "张红生",
+            "daughter of x"
+        ],
+        [
+            "洪三妹",
+            "daughter of x"
+        ],
+        [
+            "洪二郎",
+            "son of x"
+        ]
+    ],
+    "蔡家": [
+        [
+            "张红生",
+            "business partner of x"
+        ]
+    ],
+    "张金银": [
+        [
+            "张红生",
+            "adversary of x"
+        ],
+        [
+            "孟三春",
+            "business partner of x, brother of x"
+        ],
+        [
+            "张金山",
+            "sibling of x"
+        ]
+    ],
+    "张金山": [
+        [
+            "张红生",
+            "perpetrator of x"
+        ],
+        [
+            "孟三春",
+            "victim of x"
+        ],
+        [
+            "张金银",
+            "sibling of x"
+        ]
+    ],
+    "洪江水": [
+        [
+            "张红生",
+            "helper of x, possibly family of x"
+        ],
+        [
+            "孟三春",
+            "employee of x"
+        ],
+        [
+            "蔡思娘",
+            "colleague of x"
+        ]
+    ],
+    "蔡思娘": [
+        [
+            "张红生",
+            "extramarital affair with x, admirer of x"
+        ],
+        [
+            "孟三春",
+            "employee of x, disliked by x"
+        ],
+        [
+            "洪江水",
+            "colleague of x"
+        ]
+    ]
+}

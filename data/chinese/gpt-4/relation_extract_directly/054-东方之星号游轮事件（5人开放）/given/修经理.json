@@ -1,0 +1,134 @@
+{
+    "修经理": [
+        [
+            "刘奇",
+            "same person as x (different identity), perpetrator of x, high schoolmate of x, colleague of x, business partner of x"
+        ],
+        [
+            "洪子廉",
+            "acquaintance of x"
+        ],
+        [
+            "韩亦暮",
+            "admirer of x, colleague of x, drinking buddy of x"
+        ],
+        [
+            "林若彤",
+            "subordinate of x, colleague of x"
+        ],
+        [
+            "张文远",
+            "supplier of weapon to x, colleague of x"
+        ]
+    ],
+    "刘奇": [
+        [
+            "修经理",
+            "victim of x, colleague of x, business partner of x, high schoolmate of x"
+        ],
+        [
+            "洪子廉",
+            "subordinate of x"
+        ],
+        [
+            "韩亦暮",
+            "disliked by x, colleague of x"
+        ],
+        [
+            "林若彤",
+            "colleague of x"
+        ],
+        [
+            "张文远",
+            "colleague of x"
+        ]
+    ],
+    "洪子廉": [
+        [
+            "修经理",
+            "superior of x"
+        ],
+        [
+            "刘奇",
+            "superior of x"
+        ],
+        [
+            "韩亦暮",
+            "superior of x"
+        ],
+        [
+            "林若彤",
+            "superior of x"
+        ],
+        [
+            "张文远",
+            "superior of x"
+        ]
+    ],
+    "韩亦暮": [
+        [
+            "修经理",
+            "admirer of x, colleague of x, drinking buddy of x"
+        ],
+        [
+            "刘奇",
+            "dislike of x, colleague of x"
+        ],
+        [
+            "洪子廉",
+            "subordinate of x"
+        ],
+        [
+            "林若彤",
+            "colleague of x"
+        ],
+        [
+            "张文远",
+            "colleague of x"
+        ]
+    ],
+    "林若彤": [
+        [
+            "修经理",
+            "superior of x"
+        ],
+        [
+            "刘奇",
+            "colleague of x"
+        ],
+        [
+            "洪子廉",
+            "superior of x"
+        ],
+        [
+            "韩亦暮",
+            "colleague of x"
+        ],
+        [
+            "张文远",
+            "colleague of x"
+        ]
+    ],
+    "张文远": [
+        [
+            "修经理",
+            "weapon recipient from x, colleague of x"
+        ],
+        [
+            "刘奇",
+            "colleague of x"
+        ],
+        [
+            "洪子廉",
+            "subordinate of x"
+        ],
+        [
+            "韩亦暮",
+            "colleague of x"
+        ],
+        [
+            "林若彤",
+            "colleague of x"
+        ]
+    ]
+}

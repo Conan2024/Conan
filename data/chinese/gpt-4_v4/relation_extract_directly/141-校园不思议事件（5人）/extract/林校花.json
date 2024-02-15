@@ -1,0 +1,78 @@
+{
+    "林校花": [
+      ["林校花的亲生母亲", "mother of x"], 
+      ["林校花的父亲", "father of x"], 
+      ["林校花的后妈", "step mother of x"], 
+      ["林校花的弟弟", "same person as x (different identity)"], 
+      ["张恶霸", "fiance of x, victim of x"], 
+      ["张氏财团的公子", "same person as x (different reference)"], 
+      ["张董事长", "future father in law of x, information receiver from x"], 
+      ["赵帅哥", "admirer of x, extramarital affair with x"], 
+      ["郝闺蜜", "friend of x, informant of x"], 
+      ["王学习", "acquaintance of x"], 
+      ["李小弟", "acquaintance of x"]
+    ],
+    "林校花的亲生母亲": [
+      ["林校花", "mother of x"], 
+      ["林校花的父亲", "husband of x"], 
+      ["林校花的后妈", "wife of x"], 
+      ["林校花的弟弟", "mother of x"]
+    ],
+    "林校花的父亲": [
+      ["林校花", "father of x"], 
+      ["林校花的亲生母亲", "husband of x"], 
+      ["林校花的后妈", "husband of x"], 
+      ["林校花的弟弟", "father of x"], 
+      ["张恶霸", "business partner of x"], 
+      ["张董事长", "business partner of x"]
+    ],
+    "林校花的后妈": [
+      ["林校花", "step mother of x"], 
+      ["林校花的亲生母亲", "replaced x's identity"], 
+      ["林校花的父亲", "wife of x"], 
+      ["林校花的弟弟", "mother of x"]
+    ],
+    "林校花的弟弟": [
+      ["林校花", "same person as x (different identity)"], 
+      ["林校花的亲生母亲", "child of x"], 
+      ["林校花的父亲", "child of x"], 
+      ["林校花的后妈", "child of x"]
+    ],
+    "张恶霸": [
+      ["林校花", "fiance of x, perpetrator of x"], 
+      ["张董事长", "child of x"], 
+      ["赵帅哥", "friend of x"]
+    ],
+    "张氏财团的公子": [
+      ["林校花", "same person as x (different reference)"], 
+      ["张董事长", "child of x"]
+    ],
+    "张董事长": [
+      ["林校花", "future father in law of x, informant of x"], 
+      ["张恶霸", "father of x"], 
+      ["赵帅哥", "employee of x"]
+    ],
+    "赵帅哥": [
+      ["林校花", "admirer of x, helped by x"], 
+      ["张恶霸", "friend of x"]
+    ],
+    "郝闺蜜": [
+      ["林校花", "friend of x, friend of x"], 
+      ["王学习", "acquaintance of x"], 
+      ["李小弟", "acquaintance of x"]
+    ],
+    "王学习": [
+      ["林校花", "acquaintance of x"], 
+      ["李小弟", "friend of x"], 
+      ["张恶霸", "acquaintance of x"], 
+      ["赵帅哥", "classmate of x"], 
+      ["郝闺蜜", "acquaintance of x"]
+    ],
+    "李小弟": [
+      ["林校花", "acquaintance of x"], 
+      ["王学习", "friend of x"], 
+      ["张恶霸", "acquaintance of x"], 
+      ["赵帅哥", "classmate of x"], 
+      ["郝闺蜜", "acquaintance of x"]
+    ]
+}

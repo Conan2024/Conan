@@ -1,0 +1,58 @@
+{
+    "李警察": [
+        [
+            "王村长",
+            "helper of 李警察"
+        ],
+        [
+            "胡调研",
+            "mentor of x"
+        ],
+        [
+            "赵慈善",
+            "suspected by"
+        ]
+    ],
+    "王村长": [
+        [
+            "李警察",
+            "informant of 王村长"
+        ],
+        [
+            "胡调研",
+            "helper of x"
+        ],
+        [
+            "赵慈善",
+            "acquaintance of x"
+        ]
+    ],
+    "胡调研": [
+        [
+            "李警察",
+            "mentor of x"
+        ],
+        [
+            "王村长",
+            "helper of x"
+        ],
+        [
+            "赵慈善",
+            "fiance of x"
+        ]
+    ],
+    "赵慈善": [
+        [
+            "李警察",
+            "perpetrator of"
+        ],
+        [
+            "王村长",
+            "acquaintance of x"
+        ],
+        [
+            "胡调研",
+            "fiancee of x"
+        ]
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "安妮": [
+        [
+            "安妮的父亲",
+            "father of 安妮"
+        ],
+        [
+            "安妮的母亲",
+            "mother of 安妮, deceased by 安妮"
+        ],
+        [
+            "杰克",
+            "husband of 安妮, disliked by 安妮"
+        ],
+        [
+            "山姆",
+            "extramarital affair with 安妮, romantic relationships with 安妮, murderer of 安妮's mother, victim of 安妮"
+        ],
+        [
+            "老布莱克",
+            "enemy of 安妮, killed by 安妮's plot"
+        ],
+        [
+            "小布莱克",
+            "acquaintance of 安妮"
+        ],
+        [
+            "杰西帕",
+            "stranger to 安妮"
+        ],
+        [
+            "凯佛尔·劳伦",
+            "employer of 安妮's parents, stranger to 安妮"
+        ]
+    ],
+    "安妮的父亲": [
+        [
+            "安妮的母亲",
+            "husband of 安妮的母亲"
+        ],
+        [
+            "杰克",
+            "stranger to 安妮的父亲"
+        ],
+        [
+            "凯佛尔·劳伦",
+            "employee of 凯佛尔·劳伦"
+        ]
+    ],
+    "安妮的母亲": [
+        [
+            "安妮的父亲",
+            "wife of 安妮的父亲"
+        ],
+        [
+            "杰克",
+            "stranger to 安妮的母亲"
+        ],
+        [
+            "山姆",
+            "victim of 山姆"
+        ],
+        [
+            "凯佛尔·劳伦",
+            "employee of 凯佛尔·劳伦"
+        ]
+    ],
+    "杰克": [
+        [
+            "安妮",
+            "wife of 安妮, perpetrator of 安妮"
+        ],
+        [
+            "小布莱克",
+            "business partner of 杰克"
+        ],
+        [
+            "老布莱克",
+            "business partner of 杰克"
+        ],
+        [
+            "山姆",
+            "stranger to 杰克"
+        ]
+    ],
+    "山姆": [
+        [
+            "安妮",
+            "lover of 安妮, murderer of 安妮's mother, romantic relationships with 安妮"
+        ],
+        [
+            "老布莱克",
+            "doctor of 老布莱克, attempted perpetrator of 老布莱克"
+        ],
+        [
+            "杰克",
+            "stranger to 山姆"
+        ],
+        [
+            "小布莱克",
+            "service provider of 小布莱克"
+        ]
+    ],
+    "老布莱克": [
+        [
+            "小布莱克",
+            "father of 小布莱克"
+        ],
+        [
+            "杰克",
+            "employer of 老布莱克"
+        ],
+        [
+            "安妮",
+            "victim of 安妮's plot"
+        ],
+        [
+            "山姆",
+            "patient of 山姆"
+        ]
+    ],
+    "小布莱克": [
+        [
+            "老布莱克",
+            "son of 老布莱克"
+        ],
+        [
+            "杰克",
+            "acquaintance of 小布莱克"
+        ],
+        [
+            "安妮",
+            "acquaintance of 小布莱克"
+        ],
+        [
+            "山姆",
+            "acquaintance of 小布莱克"
+        ]
+    ],
+    "杰西帕": [
+        [
+            "凯佛尔·劳伦",
+            "child of 凯佛尔·劳伦"
+        ],
+        [
+            "安妮",
+            "stranger to 杰西帕"
+        ]
+    ],
+    "凯佛尔·劳伦": [
+        [
+            "安妮的父亲",
+            "employer of 安妮的父亲"
+        ],
+        [
+            "安妮的母亲",
+            "employer of 安妮的母亲"
+        ],
+        [
+            "杰西帕",
+            "father of 杰西帕"
+        ],
+        [
+            "安妮",
+            "former employer of 安妮's parents"
+        ]
+    ]
+}

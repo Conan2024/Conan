@@ -1,0 +1,138 @@
+{
+    "松节": [
+        [
+            "武林盟的信使",
+            "informant of x, information receiver from x, acquaintance of x, helper of x"
+        ],
+        [
+            "蜂",
+            "employee of x, informant of x, member of x's network, information provider for x"
+        ],
+        [
+            "陆英",
+            "victim of x, information receiver from x, acquaintance of x, suspect to x"
+        ],
+        [
+            "玄参",
+            "informant of x, victim of x"
+        ],
+        [
+            "忍冬",
+            "helper of x, information receiver from x, acquaintance of x, quest companion of x"
+        ],
+        [
+            "忍冬",
+            "helped by x, colleague of x"
+        ]
+    ],
+    "武林盟的信使": [
+        [
+            "松节",
+            "source of information for x, helped by x, acquaintance of x"
+        ],
+        [
+            "蜂",
+            "informant of x, acquaintance of x"
+        ],
+        [
+            "陆英",
+            "acquaintance of x, suspect to x"
+        ],
+        [
+            "玄参",
+            "information receiver from x, suspected by x"
+        ],
+        [
+            "松节",
+            "impersonator, information receiver from x"
+        ]
+    ],
+    "蜂": [
+        [
+            "松节",
+            "employer of x, information receiver from x"
+        ],
+        [
+            "武林盟的信使",
+            "information receiver from x, helper of x, business partner of x"
+        ],
+        [
+            "陆英",
+            "informant of x, information receiver from x"
+        ],
+        [
+            "玄参",
+            "employer of x, information receiver from x"
+        ],
+        [
+            "忍冬",
+            "informant of x, colleague of x"
+        ]
+    ],
+    "陆英": [
+        [
+            "松节",
+            "suspected by x, superior of x, acquaintance of x, captor of x"
+        ],
+        [
+            "武林盟的信使",
+            "acquaintance of x, suspicious of x"
+        ],
+        [
+            "蜂",
+            "suspected by x"
+        ],
+        [
+            "玄参",
+            "superior of x"
+        ],
+        [
+            "忍冬",
+            "acquaintance of x, suspect to x, captor of x"
+        ]
+    ],
+    "玄参": [
+        [
+            "松节",
+            "information receiver from x, superior of x"
+        ],
+        [
+            "武林盟的信使",
+            "informant of x, suspect of x"
+        ],
+        [
+            "蜂",
+            "employee of x, informant of x"
+        ],
+        [
+            "陆英",
+            "subordinate of x"
+        ],
+        [
+            "忍冬",
+            "acquaintance of x, possibly family of x, colleague of x, business partner of x"
+        ]
+    ],
+    "忍冬": [
+        [
+            "松节",
+            "helped by x, informant of x, acquaintance of x, quest companion of x"
+        ],
+        [
+            "松节",
+            "helper of x, colleague of x"
+        ],
+        [
+            "蜂",
+            "information receiver from x, colleague of x"
+        ],
+        [
+            "陆英",
+            "acquaintance of x, suspected by x, capturer of x"
+        ],
+        [
+            "玄参",
+            "acquaintance of x, possibly family of x, colleague of x, business partner of x"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "齐岳": [
+      ["double-faced tiger", "acquaintance of x"], 
+      ["管家", "subordinate of x, acquaintance of x"], 
+      ["冯竹", "subordinate of x, acquaintance of x"], 
+      ["flower buckle", "acquaintance of x, customer of x"]
+    ],
+    "double-faced tiger": [
+      ["齐岳", "acquaintance of x"], 
+      ["管家", "subordinate of x, acquaintance of x"], 
+      ["冯竹", "subordinate of x, acquaintance of x"]
+    ],
+    "管家": [
+      ["齐岳", "subordinate of x"], 
+      ["冯竹", "subordinate of x"], 
+      ["double-faced tiger", "subordinate of x"]
+    ],
+    "冯竹": [
+      ["齐岳", "subordinate of x"], 
+      ["管家", "subordinate of x"], 
+      ["double-faced tiger", "subordinate of x"]
+    ],
+    "flower buckle": [
+      ["齐岳", "customer of x"], 
+      ["管家", "subordinate of x"], 
+      ["冯竹", "subordinate of x"]
+    ],
+    "赵洛意": [
+      ["管家", "subordinate of x"], 
+      ["冯竹", "subordinate of x"]
+    ],
+    "赵万雷": [
+      ["齐岳", "acquaintance of x"], 
+      ["管家", "subordinate of x"], 
+      ["冯竹", "subordinate of x"]
+    ],
+    "赵卫": [
+      ["齐岳", "acquaintance of x"], 
+      ["管家", "subordinate of x"], 
+      ["冯竹", "subordinate of x"]
+    ],
+    "赵秋儿": [
+      ["管家", "subordinate of x"], 
+      ["冯竹", "subordinate of x"]
+    ],
+    "尹少鸣": [
+      ["管家", "nephew of x"], 
+      ["冯竹", "nephew of x"]
+    ],
+    "郭望山": [
+      ["齐岳", "acquaintance of x"], 
+      ["管家", "subordinate of x"], 
+      ["冯竹", "subordinate of x"]
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "庄清纯": [
+      ["秦专家", "relative of x, disliked by x, victim of x"], 
+      ["秦老大", "disliked by x, step brother of x, classmate of x"], 
+      ["贾美丽", "friend of x, victim of x, adversary of x"], 
+      ["萧体育", "teacher of x, admired by x, secret lover of x"], 
+      ["薛媚娘", "teacher of x, extramarital affair with x"], 
+      ["庄清纯的母亲", "victim of x, mother of x"], 
+      ["郑友好", "friend of x, classmate of x"], 
+      ["韦小弟", "admirer of x, friend of x, classmate of x"]
+    ],
+    "秦专家": [
+      ["庄清纯", "step daughter of x, adversary of x, suspect of x"], 
+      ["秦老大", "biological father of x"], 
+      ["贾美丽", "victim of x, extramarital affair with x"], 
+      ["庄清纯的母亲", "wife of x, wife of x"]
+    ],
+    "秦老大": [
+      ["庄清纯", "disliked by x, step sister of x, classmate of x"], 
+      ["秦专家", "child of x"], 
+      ["郑友好", "friend of x"], 
+      ["韦小弟", "friend of x"]
+    ],
+    "贾美丽": [
+      ["庄清纯", "friend of x, adversary of x, victim of x"], 
+      ["秦专家", "adversary of x, extramarital affair with x"]
+    ],
+    "萧体育": [
+      ["庄清纯", "student of x, admirer of x, secret lover of x"], 
+      ["薛媚娘", "boyfriend of x"]
+    ],
+    "薛媚娘": [
+      ["庄清纯", "teacher of x, rival in love of x"], 
+      ["萧体育", "girlfriend of x"]
+    ],
+    "庄清纯的母亲": [
+      ["庄清纯", "mother of x"], 
+      ["秦专家", "same person as x (different reference), victim of x"]
+    ],
+    "郑友好": [
+      ["庄清纯", "classmate of x"], 
+      ["秦老大", "friend of x"]
+    ],
+    "韦小弟": [
+      ["庄清纯", "admirer of x, classmate of x"], 
+      ["秦老大", "friend of x"]
+    ]
+}

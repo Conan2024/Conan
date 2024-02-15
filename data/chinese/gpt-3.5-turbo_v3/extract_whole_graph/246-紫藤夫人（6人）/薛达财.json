@@ -1,0 +1,46 @@
+{
+    "张三": [
+        [
+            "薛达财",
+            "friend of x"
+        ],
+        [
+            "李四",
+            "business partner of x"
+        ]
+    ],
+    "李四": [
+        [
+            "张三",
+            "business partner of x"
+        ],
+        [
+            "薛达财",
+            "employee of x, informant of x"
+        ]
+    ],
+    "王五": [
+        [
+            "薛达财",
+            "patient of x"
+        ],
+        [
+            "李四",
+            "business partner of x"
+        ]
+    ],
+    "薛达财": [
+        [
+            "张三",
+            "friend of x"
+        ],
+        [
+            "李四",
+            "employer of x, mentor of x, friend of x"
+        ],
+        [
+            "王五",
+            "doctor of x"
+        ]
+    ]
+}

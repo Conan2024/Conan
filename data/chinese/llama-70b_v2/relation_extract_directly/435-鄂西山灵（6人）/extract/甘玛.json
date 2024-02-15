@@ -1,0 +1,46 @@
+{
+    "甘玛": [
+      ["王京吉", "romantic interest of x"], 
+      ["忱纱", "best friend of x"], 
+      ["巴府山", "wife of x"], 
+      ["隼", "son of x"], 
+      ["如娅", "teacher of x"], 
+      ["李高柏", "friend of x"], 
+      ["鹃歌", "daughter of x"]
+    ],
+    "王京吉": [
+      ["甘玛", "romantic interest of x"]
+    ],
+    "忱纱": [
+      ["甘玛", "best friend of x"], 
+      ["教授", "father of x"]
+    ],
+    "巴府山": [
+      ["甘玛", "wife of x"], 
+      ["隼", "son of x"]
+    ],
+    "隼": [
+      ["郑函贞", "friend of x"]
+    ],
+    "如娅": [
+      ["甘玛", "teacher of x"], 
+      ["李高柏", "friend of x"]
+    ],
+    "李高柏": [
+      ["如娅", "friend of x"], 
+      ["甘玛", "friend of x"]
+    ],
+    "鹃歌": [
+      ["巴府山", "daughter of x"], 
+      ["隼", "sister of x"]
+    ],
+    "教授": [
+      ["忱纱", "father of x"]
+    ],
+    "郑函贞": [
+      ["鹃歌", "friend of x"]
+    ],
+    "李德木": [
+      ["鹃歌", "husband of x"]
+    ]
+}

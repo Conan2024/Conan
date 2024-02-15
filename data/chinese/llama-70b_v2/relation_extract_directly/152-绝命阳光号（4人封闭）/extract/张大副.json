@@ -1,0 +1,34 @@
+{
+    "张大副": [
+      ["杨老板", "business partner of x"], 
+      ["很天真", "brother of x"], 
+      ["王船工", "subordinate of x"], 
+      ["玲船医", "friend of x"]
+    ],
+    "很天真": [
+      ["张大副", "brother of x"], 
+      ["杨老板", "coworker of x"]
+    ],
+    "杨老板": [
+      ["张大副", "business partner of x"], 
+      ["雯秘书", "secretary of x"], 
+      ["王船工", "subordinate of x"], 
+      ["很天真", "coworker of x"]
+    ],
+    "雯秘书": [
+      ["张大副", "acquaintance of x"], 
+      ["杨老板", "boss of x"]
+    ],
+    "王船工": [
+      ["张大副", "subordinate of x"], 
+      ["玲船医", "love interest of x"]
+    ],
+    "玲船医": [
+      ["张大副", "friend of x"], 
+      ["王船工", "love interest of x"]
+    ],
+    "弟弟": [
+      ["张大副", "brother of x"], 
+      ["杨老板", "murderer of x"]
+    ]
+}

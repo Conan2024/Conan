@@ -1,0 +1,31 @@
+{
+    "戴维斯•佩里": [
+      ["玛丽娜•哈里森", "romantic relationship of x, suspicious of x death"], 
+      ["丹尼尔•佩里", "friend of x, suspicious of x infidelity"]
+    ],
+    "玛丽娜•哈里森": [
+      ["戴维斯•佩里", "romantic relationship of x, suspicious of x death"], 
+      ["丹尼尔•佩里", "brother in law of x, suspicious of x infidelity"]
+    ],
+    "丹尼尔•佩里": [
+      ["戴维斯•佩里", "friend of x, suspicious of x infidelity"], 
+      ["玛丽娜•哈里森", "sister in law of x, suspicious of x infidelity"]
+    ],
+    "约翰•摩根": [
+      ["戴维斯•佩里", "acquaintance of x, death suspect of x"], 
+      ["艾米•摩根", "wife of x, potential beneficiary of x death"]
+    ],
+    "杰奎琳•佩里": [
+      ["丹尼尔•佩里", "wife of x, controversial relationship of x"], 
+      ["戴维斯•佩里", "acquaintance of x, suspicious of x infidelity"]
+    ],
+    "露西•哈里森": [
+      ["戴维斯•佩里", "acquaintance of x, potential mentor of x"]
+    ],
+    "哈罗德•哈里森": [
+      ["丹尼尔•佩里", "brother in law of x, disagreement over career choices of x"]
+    ],
+    "艾米•摩根": [
+      ["约翰•摩根", "husband of x, potential beneficiary of x death"]
+    ]
+}

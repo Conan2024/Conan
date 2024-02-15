@@ -1,0 +1,118 @@
+{
+    "谭羽": [
+        [
+            "师父",
+            "student of x"
+        ],
+        [
+            "二师兄",
+            "same person as x (different reference), friend of x"
+        ],
+        [
+            "师兄",
+            "same person as x (different reference), friend of x"
+        ],
+        [
+            "大师兄",
+            "sibling of x, adversary of x"
+        ],
+        [
+            "鲁山",
+            "stranger to x"
+        ],
+        [
+            "潘桑",
+            "attempted perpetrator of x, acquaintance of x"
+        ],
+        [
+            "店小二",
+            "informant of x, acquaintance of x"
+        ],
+        [
+            "时未",
+            "suspected by x, enemy of x, attempted murderer of x"
+        ],
+        [
+            "薛峰",
+            "enemy of x, murderer of x, victim of x"
+        ],
+        [
+            "梨花婆婆",
+            "acquaintance of x"
+        ]
+    ],
+    "二师兄": [
+        [
+            "谭羽",
+            "same person as x (different reference), friend of x"
+        ],
+        [
+            "师父",
+            "student of x"
+        ],
+        [
+            "大师兄",
+            "sibling of x"
+        ],
+        [
+            "薛峰",
+            "victim of x"
+        ],
+        [
+            "时未",
+            "victim of x"
+        ]
+    ],
+    "大师兄": [
+        [
+            "谭羽",
+            "sibling of x"
+        ],
+        [
+            "二师兄",
+            "sibling of x"
+        ],
+        [
+            "师父",
+            "student of x, disliked by x"
+        ]
+    ],
+    "潘桑": [
+        [
+            "谭羽",
+            "attempted victim of x, acquaintance of x"
+        ]
+    ],
+    "店小二": [
+        [
+            "谭羽",
+            "informant of x, acquaintance of x"
+        ]
+    ],
+    "时未": [
+        [
+            "谭羽",
+            "suspected by x, enemy of x, attempted murderer of x"
+        ],
+        [
+            "二师兄",
+            "suspected by x, perpetrator of x"
+        ]
+    ],
+    "薛峰": [
+        [
+            "谭羽",
+            "enemy of x, murdered by x, perpetrator of x"
+        ],
+        [
+            "二师兄",
+            "murderer of x"
+        ]
+    ],
+    "梨花婆婆": [
+        [
+            "谭羽",
+            "acquaintance of x"
+        ]
+    ]
+}

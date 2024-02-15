@@ -1,0 +1,14 @@
+{
+    "贾教授": [
+      ["李保安", "acquaintance of x"], 
+      ["田助理", "superior of x, employer of x, master of x"]
+    ],
+    "李保安": [
+      ["田助理", "acquaintance of x"], 
+      ["贾教授", "acquaintance of x"]
+    ],
+    "田助理": [
+      ["李保安", "acquaintance of x"], 
+      ["贾教授", "superior of x, employer of x, master of x"]
+    ]
+}

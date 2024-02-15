@@ -1,0 +1,38 @@
+{
+    "贾教授": [
+        [
+            "田助理",
+            "superior of x, attempted perpetrator of x, mentor of x, adversary of x, suspect of x, deceiver of x"
+        ],
+        [
+            "秦鸥",
+            "information receiver from x, deceiver of x"
+        ]
+    ],
+    "田助理": [
+        [
+            "贾教授",
+            "subordinate of x, student of x, disliked by x, victim of x, adversary of x"
+        ],
+        [
+            "秦鸥",
+            "extramarital affair with x, boyfriend of x, ex boyfriend of x, deceiver of x"
+        ]
+    ],
+    "秦鸥": [
+        [
+            "贾教授",
+            "informant of x, deceived by x"
+        ],
+        [
+            "田助理",
+            "victim of x, girlfriend of x, ex girlfriend of x, deceived by x"
+        ]
+    ],
+    "孙清洁": [
+        [
+            "贾教授",
+            "acquaintance of x"
+        ]
+    ]
+}

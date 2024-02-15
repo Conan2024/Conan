@@ -1,0 +1,58 @@
+{
+    "雯秘书": [
+      ["杨老板", "employee of x"], 
+      ["很天真", "helper of x, attempted murderer of x"], 
+      ["张大副", "helper of x"], 
+      ["玲船医", "informant of x, helper of x"], 
+      ["王船工", "crime partner of x"], 
+      ["王小工", "business partner of x, relationship professional of x"]
+    ],
+    "杨老板": [
+      ["雯秘书", "employer of x"], 
+      ["张大副", "business partner of x, supplier of x"], 
+      ["玲船医", "informant of x, information receiver from x"], 
+      ["王船工", "father in law of x 王小工"], 
+      ["王小工", "employee of x"]
+    ],
+    "很天真": [
+      ["雯秘书", "helper of x"], 
+      ["張大副", "船上的人 of x"], 
+      ["玲船医", "helper of x, helped by x"], 
+      ["王船工", "helped by x, helper of x"], 
+      ["王小工", "helper of x, future relative of x"]
+    ],
+    "张大副": [
+      ["雯秘书", "informant of x"], 
+      ["杨老板", "business partner of x, customer of x"], 
+      ["提供给杨老板毒品的人", "情报交流的对象 of x"], 
+      ["王船工", "business partner of x"], 
+      ["王小工", "lover of x"]
+    ],
+    "玲船医": [
+      ["雯秘书", "informant of x, information receiver from x"], 
+      ["杨老板", "informant of x, information receiver from x"], 
+      ["很天真", "informant of x, information receiver from x"], 
+      ["向杨老板汇报张大副情报的人", "情报交流的对象 of x"], 
+      ["王船工", "informant of x"], 
+      ["王小工", "possible family of x"]
+    ],
+    "王船工": [
+      ["雯秘书", "crime partner of x"], 
+      ["杨老板", "father in law of x 王小工"], 
+      ["很天真", "helped by x, helper of x"], 
+      ["张大副", "business partner of x"], 
+      ["玲船医", "informant of x 杨老板"], 
+      ["王小工", "father in law of x"]
+    ],
+    "王小工": [
+      ["雯秘书", "business partner of x, relationship professional of x"], 
+      ["杨老板", "employer of x"], 
+      ["很天真", "helped by x, future relative of x"], 
+      ["张大副", "boyfriend of x"], 
+      ["玲船医", "possible family of x"], 
+      ["王船工", "son in law of x"]
+    ],
+    "張大副": [
+      ["很天真", "船上的人 of x"]
+    ]
+}

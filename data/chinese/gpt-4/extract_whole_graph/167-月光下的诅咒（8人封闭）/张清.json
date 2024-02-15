@@ -1,0 +1,124 @@
+{
+    "张清": [
+        [
+            "郑晨",
+            "same person as x (different reference)"
+        ],
+        [
+            "郑义",
+            "child of x, possibly family of x"
+        ],
+        [
+            "张志",
+            "acquaintance of x"
+        ],
+        [
+            "刘磊",
+            "suspected by x, adversary of x, perpetrator of x"
+        ],
+        [
+            "美攸",
+            "victim of x, deceived by x"
+        ],
+        [
+            "张萍",
+            "friend of x, admirer of x, helped by x, owes favor to x, extramarital affair with x (potentially)"
+        ],
+        [
+            "小伙伴们",
+            "acquaintance of x"
+        ]
+    ],
+    "郑晨": [
+        [
+            "张清",
+            "same person as x (different identity)"
+        ],
+        [
+            "郑义",
+            "son of x, biological son of x"
+        ],
+        [
+            "张志",
+            "acquaintance of x"
+        ],
+        [
+            "刘磊",
+            "acquaintance of x"
+        ]
+    ],
+    "郑义": [
+        [
+            "郑晨",
+            "father of x, biological father of x"
+        ],
+        [
+            "张萍",
+            "acquaintance of x"
+        ],
+        [
+            "张清",
+            "father of x, possibly family of x"
+        ],
+        [
+            "刘磊",
+            "enemy of x, victim of x"
+        ],
+        [
+            "张志",
+            "acquaintance of x, suspected by x"
+        ]
+    ],
+    "张志": [
+        [
+            "郑晨",
+            "acquaintance of x"
+        ],
+        [
+            "张清",
+            "acquaintance of x"
+        ],
+        [
+            "郑义",
+            "acquaintance of x, suspected by x"
+        ],
+        [
+            "刘磊",
+            "enemy of x, victim of x"
+        ]
+    ],
+    "刘磊": [
+        [
+            "张志",
+            "enemy of x, adversary of x"
+        ],
+        [
+            "郑义",
+            "enemy of x, adversary of x, suspected by x"
+        ],
+        [
+            "张清",
+            "victim of x, suspected by x, adversary of x"
+        ],
+        [
+            "美攸",
+            "business partner of x, suspected by x"
+        ]
+    ],
+    "美攸": [
+        [
+            "张清",
+            "deceiver of x"
+        ],
+        [
+            "刘磊",
+            "business partner of x, deceived by x"
+        ]
+    ],
+    "张萍": [
+        [
+            "张清",
+            "helper of x, owed favor by x, helped by x, admirer of x"
+        ]
+    ]
+}

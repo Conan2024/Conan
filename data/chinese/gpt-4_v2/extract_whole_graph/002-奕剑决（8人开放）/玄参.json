@@ -1,0 +1,21 @@
+{
+    "玄参": [
+      ["杜仲", "sworn brother of x"], 
+      ["忍冬", "informant of x"], 
+      ["庄主", "boss of x"]
+    ],
+    "杜仲": [
+      ["玄参", "sworn brother of x"], 
+      ["忍冬", "suspected by x"], 
+      ["陆英", "suspected by x"], 
+      ["弟子们", "distrust of x"]
+    ],
+    "忍冬": [
+      ["玄参", "information receiver from x"], 
+      ["武林盟", "possibly employee of x"]
+    ],
+    "陆英": [
+      ["杜仲", "one of the three major disciples of x, suspected by x"], 
+      ["玄参", "subordinate of x"]
+    ]
+}

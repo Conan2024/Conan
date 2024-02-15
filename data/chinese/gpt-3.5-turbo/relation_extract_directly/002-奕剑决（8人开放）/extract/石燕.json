@@ -1,0 +1,46 @@
+{
+    "石燕": [
+        [
+            "红花夫人",
+            "mentor of 石燕"
+        ],
+        [
+            "杜仲",
+            "perpetrator of 石燕, stole the sword manual from 红花夫人"
+        ],
+        [
+            "陆英",
+            "informant of 石燕, helped 石燕 in the investigation"
+        ]
+    ],
+    "红花夫人": [
+        [
+            "石燕",
+            "student of 红花夫人"
+        ],
+        [
+            "杜仲",
+            "romantic relationship with 红花夫人, betrayed and stole her sword manual"
+        ]
+    ],
+    "杜仲": [
+        [
+            "红花夫人",
+            "romantic relationship with 杜仲, betrayed and stole her sword manual"
+        ],
+        [
+            "石燕",
+            "perpetrator of 杜仲"
+        ]
+    ],
+    "陆英": [
+        [
+            "石燕",
+            "informant of 陆英"
+        ],
+        [
+            "杜仲",
+            "possible informant of 陆英"
+        ]
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "艾米": [
+        [
+            "玛莎",
+            "relative of x"
+        ],
+        [
+            "费尔奇",
+            "student of x"
+        ],
+        [
+            "麦格教授",
+            "student of x"
+        ]
+    ],
+    "玛莎": [
+        [
+            "艾米",
+            "relative of x"
+        ],
+        [
+            "费尔奇",
+            "student of x"
+        ],
+        [
+            "麦格教授",
+            "student of x"
+        ]
+    ],
+    "埃罗": [
+        [
+            "费尔奇",
+            "student of x"
+        ],
+        [
+            "麦格教授",
+            "student of x"
+        ]
+    ],
+    "查尔斯": [
+        [
+            "费尔奇",
+            "student of x"
+        ],
+        [
+            "麦格教授",
+            "student of x"
+        ]
+    ],
+    "费尔奇": [
+        [
+            "艾米",
+            "superior of x"
+        ],
+        [
+            "玛莎",
+            "superior of x"
+        ],
+        [
+            "埃罗",
+            "superior of x"
+        ],
+        [
+            "查尔斯",
+            "superior of x"
+        ],
+        [
+            "麦格教授",
+            "subordinate of x"
+        ]
+    ],
+    "麦格教授": [
+        [
+            "艾米",
+            "superior of x"
+        ],
+        [
+            "玛莎",
+            "superior of x"
+        ],
+        [
+            "埃罗",
+            "superior of x"
+        ],
+        [
+            "查尔斯",
+            "superior of x"
+        ],
+        [
+            "费尔奇",
+            "superior of x"
+        ]
+    ]
+}

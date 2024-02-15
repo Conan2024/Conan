@@ -1,0 +1,80 @@
+{
+    "潘副院长": [
+        [
+            "甄医生",
+            "blackmailed by x"
+        ],
+        [
+            "甄医生母亲",
+            "customer of x"
+        ],
+        [
+            "白患者家属",
+            "customer of x"
+        ],
+        [
+            "柯会计",
+            "acquaintance of x"
+        ],
+        [
+            "贾医生",
+            "colleague of x, suspected by x"
+        ],
+        [
+            "王护士",
+            "lover of x, informant of x"
+        ]
+    ],
+    "甄医生": [
+        [
+            "潘副院长",
+            "blackmailer of x, victim of x"
+        ],
+        [
+            "母亲",
+            "child of x"
+        ],
+        [
+            "白患者",
+            "acquaintance of x"
+        ],
+        [
+            "贾医生",
+            "adversary of x, suspected murderer of x"
+        ]
+    ],
+    "贾医生": [
+        [
+            "潘副院长",
+            "colleague of x, suspected by x"
+        ],
+        [
+            "甄医生",
+            "rival of x, suspected victim of x"
+        ]
+    ],
+    "王护士": [
+        [
+            "潘副院长",
+            "lover of x, information receiver from x"
+        ]
+    ],
+    "柯会计": [
+        [
+            "潘副院长",
+            "acquaintance of x"
+        ]
+    ],
+    "白患者家属": [
+        [
+            "潘副院长",
+            "customer of x"
+        ]
+    ],
+    "甄医生母亲": [
+        [
+            "潘副院长",
+            "recipient of service from x"
+        ]
+    ]
+}

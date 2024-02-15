@@ -1,0 +1,58 @@
+{
+    "胡调研": [
+        [
+            "王村长",
+            "quest companion of x, information receiver from x"
+        ],
+        [
+            "李警察",
+            "acquaintance of x, information receiver from x"
+        ],
+        [
+            "赵慈善",
+            "subject of investigation for x, adversary of x, suspect to x"
+        ]
+    ],
+    "王村长": [
+        [
+            "胡调研",
+            "quest companion of x, informant of x"
+        ],
+        [
+            "李警察",
+            "acquaintance of x, information receiver from x"
+        ],
+        [
+            "赵慈善",
+            "acquaintance of x, information receiver from x"
+        ]
+    ],
+    "李警察": [
+        [
+            "胡调研",
+            "acquaintance of x, informant of x"
+        ],
+        [
+            "王村长",
+            "acquaintance of x, informant of x"
+        ],
+        [
+            "赵慈善",
+            "acquaintance of x, colleague of x"
+        ]
+    ],
+    "赵慈善": [
+        [
+            "胡调研",
+            "victim of x, deceiver of x, manipulator of x"
+        ],
+        [
+            "王村长",
+            "acquaintance of x, informant of x"
+        ],
+        [
+            "李警察",
+            "acquaintance of x, colleague of x"
+        ]
+    ]
+}

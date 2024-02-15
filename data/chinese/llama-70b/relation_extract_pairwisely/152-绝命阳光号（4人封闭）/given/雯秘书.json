@@ -1,0 +1,231 @@
+{
+    "张大副": [
+        [
+            "很天真",
+            "business partner",
+            "acquaintance"
+        ],
+        [
+            "杨老板",
+            "Business Partner"
+        ],
+        [
+            "王小工",
+            " Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "王船工",
+            "对手",
+            "毒品供应商"
+        ],
+        [
+            "玲船医",
+            "industry partner",
+            "co-conspirator"
+        ],
+        [
+            "雯秘书",
+            "superior",
+            "business partner",
+            "mentor",
+            "manipulator",
+            "adversary"
+        ]
+    ],
+    "很天真": [
+        [
+            "张大副",
+            "business partner",
+            "acquaintance"
+        ],
+        [
+            "王小工",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "王船工",
+            "subordinate",
+            "colleague"
+        ],
+        [
+            "玲船医",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "雯秘书",
+            "relationship 1: superior",
+            "relationship 2: mentor"
+        ]
+    ],
+    "杨老板": [
+        [
+            "张大副",
+            "Employer"
+        ],
+        [
+            "王小工",
+            "Relationship 1: 毒品供应商",
+            "Relationship 2: 酒吧老板"
+        ],
+        [
+            "王船工",
+            "Employer of X",
+            "perpETratrof X"
+        ],
+        [
+            "玲船医",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "雯秘书",
+            "relationship 1",
+            "relationship 2"
+        ]
+    ],
+    "王小工": [
+        [
+            "张大副",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "很天真",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "杨老板",
+            "Relationship 1: 毒品供应商",
+            "Relationship 2: 酒吧老板"
+        ],
+        [
+            "王船工",
+            "son-in-law, father-in-law"
+        ],
+        [
+            "玲船医",
+            " друigos de X",
+            "killed by X"
+        ],
+        [
+            "雯秘书",
+            "superior",
+            "manipulator",
+            "acquaintance",
+            "adversary"
+        ]
+    ],
+    "王船工": [
+        [
+            "张大副",
+            "对手",
+            "毒品供应商"
+        ],
+        [
+            "很天真",
+            "subordinate",
+            "colleague"
+        ],
+        [
+            "杨老板",
+            "subordinate of X",
+            "Victim of X"
+        ],
+        [
+            "王小工",
+            "son-in-law, father-in-law"
+        ],
+        [
+            "玲船医",
+            "对手",
+            "potential ally"
+        ],
+        [
+            "雯秘书",
+            "business partner",
+            "threat",
+            "ally",
+            "victim"
+        ]
+    ],
+    "玲船医": [
+        [
+            "张大副",
+            "industry partner",
+            "co-conspirator"
+        ],
+        [
+            "很天真",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "杨老板",
+            "relationship 1, relationship 2"
+        ],
+        [
+            " Wang Xiaogong",
+            " relationship 1",
+            " relationship 2"
+        ],
+        [
+            "王船工",
+            "friend",
+            "potential ally"
+        ],
+        [
+            "雯秘书",
+            "Co-conspirator",
+            "Helper",
+            "Informer",
+            "Advisor",
+            "Team Member"
+        ]
+    ],
+    "雯秘书": [
+        [
+            "张大副",
+            "superior",
+            "business partner",
+            "mentor",
+            "manipulator",
+            "adversary"
+        ],
+        [
+            "很天真",
+            "relationship 1: superior",
+            "relationship 2: mentor"
+        ],
+        [
+            "杨老板",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "王小工",
+            "superior",
+            "manipulator",
+            "acquaintance",
+            "adversary"
+        ],
+        [
+            "王船工",
+            "relationship 1, relationship 2, relationship 3, relationship 4"
+        ],
+        [
+            "玲船医",
+            "Co-conspirator",
+            "Helper",
+            "Informer",
+            "Advisor",
+            "Team Member"
+        ]
+    ],
+    "name": [
+        "王船工"
+    ],
+    "relationship": [
+        "subordinate, potential ally"
+    ]
+}

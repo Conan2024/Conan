@@ -1,0 +1,50 @@
+{
+    "严歌手": [
+        [
+            "甄演员",
+            "romantic relationships with x"
+        ],
+        [
+            "白经纪",
+            "adversary of x, suspect of x"
+        ],
+        [
+            "程导演",
+            "acquaintance of x"
+        ],
+        [
+            "女主角",
+            "same person as x (different identity)"
+        ]
+    ],
+    "甄演员": [
+        [
+            "严歌手",
+            "romantic relationships with x, deceived by x"
+        ],
+        [
+            "白经纪",
+            "extramarital affair with x"
+        ],
+        [
+            "女主角",
+            "same person as x (different reference)"
+        ]
+    ],
+    "白经纪": [
+        [
+            "严歌手",
+            "suspected by x, adversary of x"
+        ],
+        [
+            "甄演员",
+            "extramarital affair with x"
+        ]
+    ],
+    "程导演": [
+        [
+            "严歌手",
+            "acquaintance of x"
+        ]
+    ]
+}

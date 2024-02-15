@@ -1,0 +1,26 @@
+{
+    "哈罗德•哈里森": [
+      ["麦克斯•派克", "acquaintance of x, suspicious of x"]
+    ],
+    "玛丽娜": [
+      ["艾米•摩根", "co wives of x, sister in law of x"], 
+      ["杰奎琳•佩里", "husband of x, father of x"], 
+      ["约翰•摩根", "husband of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, perpetrator of x, attempted perpetrator of x, victim of x, subordinate of x, employee of x, servant of x, colleague of x, friend of x, mentor of x, teacher of x, student of x, informant of x, bully of x, murderer of x, attempted murderer of x, rival of x, enemy of x, adversary of x, customer of x, buyer of x, tenant of x, patient of x"]
+    ],
+    "艾米•摩根": [
+      ["玛丽娜", "husband of x, brother in law of x, uncle of x"]
+    ],
+    "杰奎琳•佩里": [
+      ["玛丽娜", "wife of x, sister of x"], 
+      ["麦克斯•派克", "acquaintance of x, colleague of x"]
+    ],
+    "麦克斯•派克": [
+      ["哈罗德•哈里森", "acquaintance of x, suspicious of x"], 
+      ["杰奎琳•佩里", "acquaintance of x, colleague of x"], 
+      ["约翰•摩根", "colleague of x, business partner of x, friend of x"]
+    ],
+    "约翰•摩根": [
+      ["玛丽娜", "husband of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, perpetrator of x, attempted perpetrator of x, victim of x, subordinate of x, employee of x, servant of x, colleague of x, friend of x, mentor of x, teacher of x, student of x, informant of x, bully of x, murderer of x, attempted murderer of x, rival of x, enemy of x, adversary of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["麦克斯•派克", "colleague of x, business partner of x, friend of x"]
+    ]
+}

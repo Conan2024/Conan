@@ -1,0 +1,39 @@
+{
+    "沈城": [
+      ["沈杰", "same person as x (different reference)"], 
+      ["秦思琴", "wife of x"], 
+      ["林彤", "child of x"], 
+      ["顾明和", "enemy of x"], 
+      ["林惟仁", "enemy of x, victim of x"], 
+      ["林夕", "disliked by x"], 
+      ["苏阳", "disliked by x"]
+    ],
+    "沈杰": [
+      ["沈城", "same person as x (different identity)"]
+    ],
+    "秦思琴": [
+      ["沈城", "husband of x"], 
+      ["林彤", "mother of x"]
+    ],
+    "林彤": [
+      ["秦思琴", "daughter of x"], 
+      ["苏阳", "ex boyfriend of x"]
+    ],
+    "顾明和": [
+      ["沈城", "suspect of x"]
+    ],
+    "林惟仁": [
+      ["林夕", "father of x"], 
+      ["苏阳", "adversary of x"]
+    ],
+    "林夕": [
+      ["沈城", "disliked by x"], 
+      ["林惟仁", "daughter of x"], 
+      ["苏阳", "fiancee of x"]
+    ],
+    "苏阳": [
+      ["沈城", "disliked by x"], 
+      ["林彤", "ex boyfriend of x"], 
+      ["林夕", "fiance of x"]
+    ]
+}

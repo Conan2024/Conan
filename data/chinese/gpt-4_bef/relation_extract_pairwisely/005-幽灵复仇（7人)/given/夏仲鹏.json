@@ -1,0 +1,30 @@
+{
+    "夏北归": [
+      ["夏伯龙", "father of x"], 
+      ["夏三虎", "father of x"]
+    ],
+    "夏伯龙": [
+      ["夏北归", "child of x"], 
+      ["夏叔娥", "father of x"]
+    ],
+    "夏三虎": [
+      ["夏北归", "child of x"], 
+      ["夏叔娥", "uncle of x"], 
+      ["骆明", "mentor of x, quest companion of x"], 
+      ["段约同", "victim of x, quest companion of x"]
+    ],
+    "夏叔娥": [
+      ["夏伯龙", "child of x"], 
+      ["夏三虎", "niece of x"]
+    ],
+    "骆明": [
+      ["夏三虎", "student of x, information receiver from x"], 
+      ["陆栋", "student of x, helped by x, quest companion of x"]
+    ],
+    "段约同": [
+      ["夏三虎", "attempted perpetrator of x, suspected by x, authority over x"]
+    ],
+    "陆栋": [
+      ["骆明", "teacher of x, helper of x, quest companion of x"]
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "嫣楠": [
+      ["曹郁彤", "half sister of x"], 
+      ["existing character 2", "sister of x"], 
+      ["new character 1", "sister of x"], 
+      ["芷萱", "sister of x"], 
+      ["existing character 1", "mentor of x"]
+    ],
+    "曹郁彤": [
+      ["嫣楠", "half sister of x"]
+    ],
+    "new character 1": [
+      ["嫣楠", "brother of x"]
+    ],
+    "芷萱": [
+      ["嫣楠", "sister of x"]
+    ],
+    "existing character 1": [
+      ["嫣楠", "student of x"]
+    ],
+    "Liu Qian": [
+      ["Yannan", "wife of x"]
+    ],
+    "Yannan": [
+      ["Liu Qian", "husband of x"]
+    ]
+}

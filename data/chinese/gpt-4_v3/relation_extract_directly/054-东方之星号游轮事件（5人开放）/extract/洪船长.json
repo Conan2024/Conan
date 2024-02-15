@@ -1,0 +1,106 @@
+{
+    "洪子(船长)": [
+        [
+            "前船长",
+            "replaced x's identity"
+        ],
+        [
+            "刘奇(大副)",
+            "subordinate of x, student of x, crime partner of x"
+        ],
+        [
+            "修仁杰(酒吧经理)",
+            "subordinate of x, colleague of x"
+        ],
+        [
+            "韩亦暮(乘务)",
+            "subordinate of x, adversary of x"
+        ],
+        [
+            "林若彤(歌手)",
+            "romantic relationships with x, secret lover of x"
+        ],
+        [
+            "张文远 (二副)",
+            "subordinate of x, disliked by x"
+        ],
+        [
+            "VVIP(最尊贵的客人)",
+            "host of x, perpetrator of x"
+        ]
+    ],
+    "前船长": [
+        [
+            "洪子(船长)",
+            "replaced x's identity, 前任 of x"
+        ]
+    ],
+    "刘奇(大副)": [
+        [
+            "洪子(船长)",
+            "superior of x, crime partner of x, 学长 of x"
+        ],
+        [
+            "张文远 (二副)",
+            "rival of x"
+        ]
+    ],
+    "修仁杰(酒吧经理)": [
+        [
+            "洪子(船长)",
+            "superior of x, colleague of x"
+        ],
+        [
+            "林若彤(歌手)",
+            "superior of x, subordinate of x"
+        ]
+    ],
+    "韩亦暮 (乘务)": [
+        [
+            "洪子(船长)",
+            "superior of x, 源头的冲突 of x"
+        ],
+        [
+            "林若彤(歌手)",
+            "工作争执 of x"
+        ]
+    ],
+    "林若彤(歌手)": [
+        [
+            "洪子(船长)",
+            "secret lover of x, admired by x"
+        ],
+        [
+            "修仁杰(酒吧经理)",
+            "superior of x, colleague of x"
+        ],
+        [
+            "韩亦暮 (乘务)",
+            "adversary of x"
+        ]
+    ],
+    "张文远 (二副)": [
+        [
+            "洪子(船长)",
+            "superior of x, deceiver of x"
+        ],
+        [
+            "刘奇(大副)",
+            "rival of x, 被忽视的报告者 of x"
+        ],
+        [
+            "VVIP(最尊贵的客人)",
+            "victim of x, victim of x"
+        ]
+    ],
+    "VVIP(最尊贵的客人)": [
+        [
+            "洪子(船长)",
+            "victim of x, customer of x"
+        ],
+        [
+            "张文远 (二副)",
+            "victim of x, 接受道歉者 of x"
+        ]
+    ]
+}

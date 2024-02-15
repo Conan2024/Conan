@@ -1,0 +1,237 @@
+{
+    "张大副": [
+        [
+            "很天真",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "杨老板",
+            "relationship 1, relationship 2, ..., relationship 10"
+        ],
+        [
+            "王船工",
+            "superior",
+            "mentor",
+            "friend",
+            "manipulator"
+        ],
+        {
+            "玲船医": [
+                "informant",
+                "love interest"
+            ]
+        },
+        [
+            "王小工",
+            "mentor",
+            "employer",
+            "manipulator",
+            "enemy"
+        ]
+    ],
+    "很天真": [
+        [
+            "张大副",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "杨老板",
+            "王船工",
+            "玲船医"
+        ],
+        [
+            "雯秘书",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "王船工",
+            "business partner",
+            "acquaintance",
+            "bully",
+            "manipulator"
+        ],
+        [
+            "玲船医",
+            "friend"
+        ],
+        [
+            "王小工",
+            "relationship 1: 很天真 is the uncle of 王小工",
+            "relationship 2: 王小工 is the nephew of 很天真"
+        ]
+    ],
+    "杨老板": [
+        [
+            "张大副",
+            "relationship 1, relationship 2, ..., relationship 10"
+        ],
+        [
+            "很天真",
+            "雯秘书",
+            "王船工"
+        ],
+        [
+            "雯秘书",
+            "Business Partner",
+            "Buyer",
+            "Tenant"
+        ],
+        [
+            "王船工",
+            " Employee of X",
+            "Master of X",
+            "Superior of X",
+            "Business Partner of X"
+        ],
+        [
+            "玲船医",
+            "Employee of X",
+            "Business Partner of X",
+            "Customer of X",
+            "Buyer of X"
+        ],
+        [
+            "王小工",
+            "relationship 1"
+        ]
+    ],
+    "王船工": [
+        [
+            "张大副",
+            "superior",
+            "mentor",
+            "friend",
+            "manipulated"
+        ],
+        [
+            "很天真",
+            "business partner",
+            "acquaintance",
+            "bully",
+            "manipulated by"
+        ],
+        [
+            "杨老板",
+            "Acquaintance of X",
+            "Informant of X",
+            "Helped by X"
+        ],
+        [
+            "雯秘书",
+            "co-worker",
+            "acquaintance"
+        ],
+        [
+            "玲船医",
+            "业务партнер",
+            "共同谋杀"
+        ],
+        [
+            "王小工",
+            "Employee of X",
+            "Helped by X",
+            "Informant of X",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X"
+        ]
+    ],
+    "玲船医": [
+        {
+            "张大副": [
+                "informant",
+                "love interest"
+            ]
+        },
+        [
+            "很天真",
+            "friend"
+        ],
+        [
+            "杨老板",
+            "Employee of X",
+            "Business Partner of X",
+            "Informant of X",
+            "Acquaintance of X"
+        ],
+        [
+            "雯秘书",
+            "coworker",
+            "acquaintance"
+        ],
+        [
+            "王船工",
+            "业务 Parcours",
+            "共同谋杀"
+        ],
+        [
+            "王小工",
+            "Friend"
+        ]
+    ],
+    "王小工": [
+        [
+            "张大副",
+            "mentor",
+            "employer",
+            "manipulator",
+            "enemy"
+        ],
+        [
+            "很天真",
+            "relationship 1: 王小工 is the nephew of 很天真",
+            "relationship 2: 很天真 is the uncle of 王小工"
+        ],
+        [
+            "杨老板",
+            "relationship 2"
+        ],
+        [
+            "雯秘书",
+            "张大副",
+            "杨老板"
+        ],
+        [
+            "王船工",
+            "Father of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Employee of X",
+            "Helped by X",
+            "Informant of X"
+        ],
+        [
+            "玲船医",
+            "Fiancee"
+        ]
+    ],
+    "雯秘书": [
+        [
+            "很天真",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "杨老板",
+            "Business Partner",
+            "Secretary",
+            "Informant"
+        ],
+        [
+            "王船工",
+            "co-worker",
+            " acquaintance"
+        ],
+        [
+            "玲船医",
+            "coworker",
+            "acquaintance"
+        ],
+        [
+            "王小工",
+            "张大副",
+            "杨老板"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "紫苏": [
+      ["杜仲", "student of x, suspect to x"], 
+      ["玄冰教神曲使", "student of x, seeker of x help from x, political defector to x, informant of x, quest companion of x"]
+    ],
+    "杜仲": [
+      ["紫苏", "mentor of x, suspected by x"], 
+      ["玄冰教神曲使", "suspected by x, informant of x"]
+    ],
+    "玄冰教神曲使": [
+      ["紫苏", "mentor of x, helped by x, information receiver from x, political acceptor of x"], 
+      ["杜仲", "suspect of x, information receiver from x"]
+    ]
+}

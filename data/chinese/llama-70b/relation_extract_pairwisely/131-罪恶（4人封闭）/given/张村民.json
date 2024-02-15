@@ -1,0 +1,204 @@
+{
+    "张村民": [
+        [
+            "张村民的父亲",
+            "养父母",
+            "保护人",
+            "革命战友",
+            "师傅",
+            "救命恩人"
+        ],
+        [
+            "杀人狂",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "李警察",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "胡研究",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "赵慈善",
+            "perpetrator, suspect"
+        ]
+    ],
+    "张村民的父亲": [
+        [
+            "张村民",
+            "父亲",
+            "恩人",
+            "受惩罚的人"
+        ],
+        [
+            "杀人狂",
+            "father-son"
+        ],
+        [
+            "李警察",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "王村长",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "赵慈善",
+            "Victim-Perpetrator",
+            "Father-Son",
+            "Master-Servant",
+            "Employer-Employee",
+            "Mentor-Mentee"
+        ]
+    ],
+    "杀人狂": [
+        [
+            "张村民",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "张村民的父亲",
+            "suspect-investigator"
+        ],
+        [
+            "李警察",
+            "same person as X (different reference)",
+            "same person as X (different identity)"
+        ],
+        [
+            "王村长",
+            " acquaintance",
+            "classmate",
+            "colleague",
+            "customer",
+            "employer",
+            "friend",
+            "helper",
+            "informant",
+            "manipulator",
+            "perpetrator",
+            "suspect",
+            "victim"
+        ],
+        [
+            "胡研究",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "赵慈善",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "李警察": [
+        [
+            "张村民",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "张村民的父亲",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "杀人狂",
+            "acquaintance of X",
+            "classmate of X",
+            "schoolmate of X",
+            "colleague of X",
+            "business partner of X"
+        ],
+        [
+            "王村长",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "赵慈善",
+            "rival, enemy"
+        ]
+    ],
+    "胡研究": [
+        [
+            "张村民",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "杀人狂",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "王村长",
+            "张村民",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "赵慈善",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "赵慈善": [
+        [
+            "张村民",
+            "victim"
+        ],
+        [
+            "张村民的父亲",
+            "Victim-Perpetrator",
+            "Father-Son",
+            "Master-Servant",
+            "Employer-Employee",
+            "Mentor-Mentee"
+        ],
+        [
+            "杀人狂",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "李警察",
+            "rival, enemy"
+        ],
+        [
+            "胡研究",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "王村长": [
+        [
+            "张村民的父亲",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "杀人狂",
+            "acquaintance",
+            "classmate",
+            "colleague",
+            "customer",
+            "employer",
+            "friend",
+            "helper",
+            "informant",
+            "manipulator",
+            "perpetrator",
+            "suspect",
+            "victim"
+        ],
+        [
+            "李警察",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "胡研究",
+            "father",
+            "employer",
+            "master",
+            "superior",
+            "mentor",
+            "teacher",
+            "informant",
+            "friend",
+            "acquaintance",
+            "colleague"
+        ]
+    ]
+}

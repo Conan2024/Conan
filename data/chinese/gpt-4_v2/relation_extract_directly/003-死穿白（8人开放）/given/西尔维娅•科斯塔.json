@@ -1,0 +1,51 @@
+{
+    "西尔维娅•科斯塔": [
+      ["护士长科斯塔", "same person as x (different reference)"], 
+      ["母亲", "mother of x"], 
+      ["詹姆斯·莱利", "debtor of x, enemy of x, manipulator of x"], 
+      ["汉斯·里莫瑞特", "colleague of x, victim of x"], 
+      ["德雷克·里莫瑞特", "colleague of x, possibly suspect of x"], 
+      ["安德鲁·帕洛斯基", "colleague of x, disliker of x, possibly superior of x"], 
+      ["伊莱恩·卡特尔", "colleague of x, possibly student of x"], 
+      ["盖尔·里莫瑞特", "lawyer of x, wife of x's colleague"], 
+      ["理查德·伯克利", "superior of x"]
+    ],
+    "护士长科斯塔": [
+      ["西尔维娅•科斯塔", "same person as x (different reference)"]
+    ],
+    "母亲": [
+      ["西尔维娅•科斯塔", "child of x"]
+    ],
+    "詹姆斯·莱利": [
+      ["西尔维娅•科斯塔", "creditor of x, enemy of x, manipulator of x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["西尔维娅•科斯塔", "colleague of x, victim of x's actions"], 
+      ["盖尔·里莫瑞特", "husband of x"], 
+      ["德雷克·里莫瑞特", "twin brother of x"], 
+      ["德雷克·里莫瑞特", "victim of x"]
+    ],
+    "德雷克·里莫瑞特": [
+      ["西尔维娅•科斯塔", "colleague of x, possibly suspect to x"], 
+      ["汉斯·里莫瑞特", "twin brother of x"]
+    ],
+    "安德鲁·帕洛斯基": [
+      ["西尔维娅•科斯塔", "colleague of x, likely superior of x"]
+    ],
+    "伊莱恩·卡特尔": [
+      ["西尔维娅•科斯塔", "colleague of x, student of x"], 
+      ["安德鲁·帕洛斯基", "mentor of x"]
+    ],
+    "盖尔·里莫瑞特": [
+      ["西尔维娅•科斯塔", "lawyer of x, customer of x"], 
+      ["汉斯·里莫瑞特", "wife of x"]
+    ],
+    "理查德·伯克利": [
+      ["西尔维娅•科斯塔", "subordinate of x"], 
+      ["汉斯·里莫瑞特", "superior of x"], 
+      ["德雷克·里莫瑞特", "superior of x"], 
+      ["安德鲁·帕洛斯基", "superior of x"], 
+      ["伊莱恩·卡特尔", "superior of x"], 
+      ["盖尔·里莫瑞特", "superior of x's husband"]
+    ]
+}

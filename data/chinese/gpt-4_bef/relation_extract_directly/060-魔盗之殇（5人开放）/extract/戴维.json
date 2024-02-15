@@ -1,0 +1,34 @@
+{
+    "你": [
+      ["古思特", "crime partner of x, adversary of x, murderer of x"], 
+      ["罗琳", "crime partner of x, adversary of x"], 
+      ["凯文", "acquaintance of x, disliked by x"], 
+      ["艾拉", "acquaintance of x, helper of x"], 
+      ["格里夫", "friend of x, suspected by x"]
+    ],
+    "古思特": [
+      ["你", "crime partner of x, adversary of x, killed by x"], 
+      ["罗琳", "crime partner of x, admirer of x"], 
+      ["艾拉", "romantic relationships with x, fiancee of x"], 
+      ["格里夫", "acquaintance of x"]
+    ],
+    "罗琳": [
+      ["你", "crime partner of x, adversary of x"], 
+      ["古思特", "crime partner of x, admired by x, attempted perpetrator of x"], 
+      ["凯文", "romantic relationships with x"], 
+      ["艾拉", "friend of x"]
+    ],
+    "凯文": [
+      ["罗琳", "romantic relationships with x"], 
+      ["你", "acquaintance of x, dislike of x"]
+    ],
+    "艾拉": [
+      ["古思特", "fiancee of x"], 
+      ["罗琳", "friend of x"], 
+      ["你", "acquaintance of x, information receiver from x"]
+    ],
+    "格里夫": [
+      ["你", "friend of x, suspected by x"], 
+      ["古思特", "acquaintance of x"]
+    ]
+}

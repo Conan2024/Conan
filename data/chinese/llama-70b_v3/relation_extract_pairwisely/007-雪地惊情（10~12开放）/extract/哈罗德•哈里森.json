@@ -1,0 +1,50 @@
+{
+    "哈罗德•哈里森": [
+      ["露西•哈里森", "friend of x, colleague of x, colleague of x"], 
+      ["艾米•摩根", "sister of x"], 
+      ["杰奎琳•佩里", "friend of x"], 
+      ["麦克斯•派克", "acquaintance of x, suspicious of x"], 
+      ["约翰•摩根", "sister of x, wife of x, son of x, father of x, father of x, friend of x"]
+    ],
+    "玛丽娜": [
+      ["露西•哈里森", "friend of x, colleague of x"], 
+      ["艾米•摩根", "sister of x, co wives of x, sister in law of x"], 
+      ["杰奎琳•佩里", "husband of x, father of x, father of x"], 
+      ["约翰•摩根", "husband of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, perpetrator of x, attempted perpetrator of x, victim of x, dislike of x, subordinate of x, employee of x, servant of x, colleague of x, friend of x, mentor of x, teacher of x, student of x, informant of x, bully of x, murderer of x, attempted murderer of x, rival of x, enemy of x, adversary of x, customer of x, buyer of x, tenant of x, patient of x"]
+    ],
+    "露西•哈里森": [
+      ["哈罗德•哈里森", "friend of x, colleague of x"], 
+      ["玛丽娜", "friend of x, colleague of x"], 
+      ["艾米•摩根", "colleague of x"], 
+      ["杰奎琳•佩里", "friend of x"], 
+      ["麦克斯•派克", "mentor of x"], 
+      ["约翰•摩根", "friend of x, colleague of x"]
+    ],
+    "艾米•摩根": [
+      ["玛丽娜", "husband of x, brother in law of x, uncle of x"], 
+      ["露西•哈里森", "colleague of x"], 
+      ["杰奎琳•佩里", "sister of x"], 
+      ["约翰•摩根", "sister of x"]
+    ],
+    "杰奎琳•佩里": [
+      ["哈罗德•哈里森", "friend of x"], 
+      ["玛丽娜", "wife of x, sister of x"], 
+      ["露西•哈里森", "friend of x"], 
+      ["艾米•摩根", "younger sister of x"], 
+      ["麦克斯•派克", "acquaintance of x, colleague of x"], 
+      ["约翰•摩根", "sister of x"]
+    ],
+    "麦克斯•派克": [
+      ["哈罗德•哈里森", "acquaintance of x"], 
+      ["哈罗德•哈里森", "acquaintance of x, suspicious of x"], 
+      ["露西•哈里森", "mentor of x"], 
+      ["杰奎琳•佩里", "acquaintance of x, colleague of x"], 
+      ["约翰•摩根", "colleague of x, business partner of x, friend of x"]
+    ],
+    "约翰•摩根": [
+      ["哈罗德•哈里森", "brother of x, sister of x, wife of x, son of x, father of x, mother of x, father of x, acquaintance of x, friend of x, colleague of x, colleague of x"], 
+      ["玛丽娜", "husband of x, lover of x, colleague of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, perpetrator of x, attempted perpetrator of x, victim of x, dislike of x, subordinate of x, employee of x, servant of x, colleague of x, friend of x, mentor of x, teacher of x, student of x, informant of x, bully of x, murderer of x, attempted murderer of x, rival of x, enemy of x, adversary of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["露西•哈里森", "friend of x, colleague of x"], 
+      ["麦克斯•派克", "colleague of x, business partner of x, friend of x"]
+    ]
+}

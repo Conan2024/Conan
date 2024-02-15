@@ -1,0 +1,22 @@
+{
+    "卧底警察": [
+      ["李国富", "colleague of x, subject of x investigation for x"], 
+      ["何老六", "colleague of x"], 
+      ["张洁", "colleague of x, friend of x"]
+    ],
+    "李国富": [
+      ["卧底警察", "colleague of x, investigated by x"], 
+      ["何老六", "subordinate of x"], 
+      ["张洁", "subordinate of x"]
+    ],
+    "何老六": [
+      ["卧底警察", "colleague of x"], 
+      ["李国富", "superior of x"], 
+      ["张洁", "colleague of x"]
+    ],
+    "张洁": [
+      ["卧底警察", "colleague of x, friend of x"], 
+      ["李国富", "superior of x"], 
+      ["何老六", "colleague of x"]
+    ]
+}

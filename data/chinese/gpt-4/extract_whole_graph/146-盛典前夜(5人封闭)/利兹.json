@@ -1,0 +1,110 @@
+{
+    "利兹": [
+        [
+            "艾米丽",
+            "sibling of x, younger sister of x, jealous of x, victim of x, adversary of x"
+        ],
+        [
+            "斯科特夫人",
+            "aunt of x, disliked by x, disliker of x"
+        ],
+        [
+            "皮特森",
+            "uncle of x, disliked by x, perpetrator of x"
+        ],
+        [
+            "缇娜",
+            "acquaintance of x"
+        ],
+        [
+            "肯尼",
+            "admired by x, ex-romantic relationships with x"
+        ],
+        [
+            "乔安娜",
+            "friend of x, victim of x, deceived by x"
+        ],
+        [
+            "司机",
+            "information receiver from x"
+        ]
+    ],
+    "艾米丽": [
+        [
+            "利兹",
+            "sibling of x, older sister of x, disliked by x"
+        ],
+        [
+            "斯科特夫人",
+            "helper of x, employer of x"
+        ],
+        [
+            "乔安娜",
+            "acquaintance of x, deceiver of x"
+        ],
+        [
+            "司机",
+            "informant of x"
+        ]
+    ],
+    "斯科特夫人": [
+        [
+            "艾米丽",
+            "niece of x, employee of x"
+        ],
+        [
+            "利兹",
+            "niece of x, disliker of x"
+        ],
+        [
+            "司机",
+            "perpetrator of x, helper of x"
+        ]
+    ],
+    "皮特森": [
+        [
+            "利兹",
+            "niece of x, disliked by x, victim of x"
+        ],
+        [
+            "斯科特夫人",
+            "sibling in law of x"
+        ]
+    ],
+    "缇娜": [
+        [
+            "利兹",
+            "acquaintance of x"
+        ],
+        [
+            "皮特森",
+            "employee of x"
+        ]
+    ],
+    "肯尼": [
+        [
+            "利兹",
+            "admirer of x, ex-romantic relationships with x"
+        ]
+    ],
+    "乔安娜": [
+        [
+            "利兹",
+            "friend of x, victim of x"
+        ],
+        [
+            "艾米丽",
+            "deceived by x"
+        ]
+    ],
+    "司机": [
+        [
+            "艾米丽",
+            "informant to x"
+        ],
+        [
+            "斯科特夫人",
+            "employee of x, helper of x"
+        ]
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "李警察": [
+      ["胡调研", "acquaintance of x"], 
+      ["胡调研", "colleague of x"], 
+      ["胡调研", "suspected by x"], 
+      ["赵慈善", "enemy of x"], 
+      ["赵慈善", "suspected by x"], 
+      ["赵慈善", "murderer of x's girlfriend"], 
+      ["李警察's girlfriend", "victim of x 赵慈善"], 
+      ["李警察's girlfriend", "kidnapped by 赵慈善 of x"], 
+      ["李警察's girlfriend", "rescued by x"], 
+      ["李警察's girlfriend", "deceived by 赵慈善 of x"], 
+      ["李警察's girlfriend", "committed suicide of x"]
+    ],
+    "胡调研": [
+      ["李警察", "acquaintance of x"], 
+      ["李警察", "colleague of x"], 
+      ["李警察", "suspecting x"], 
+      ["赵慈善", "enemy of x"], 
+      ["赵慈善", "suspected by x"]
+    ],
+    "赵慈善": [
+      ["李警察", "enemy of x"], 
+      ["李警察", "suspecting x"], 
+      ["李警察's girlfriend", "murderer of x"], 
+      ["李警察's girlfriend", "deceived by x"]
+    ]
+}

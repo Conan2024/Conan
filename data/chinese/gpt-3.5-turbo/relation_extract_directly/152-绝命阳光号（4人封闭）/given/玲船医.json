@@ -1,0 +1,62 @@
+{
+    "玲船医": [
+        [
+            "杨老板",
+            "admirer of x, information receiver from x, employer of x"
+        ],
+        [
+            "张大副",
+            "acquaintance of x, informant of x"
+        ],
+        [
+            "王小工",
+            "lover of x, informer of x"
+        ],
+        [
+            "王船工",
+            "husband of x, employer of x"
+        ],
+        [
+            "雯秘书",
+            "information receiver from x"
+        ]
+    ],
+    "杨老板": [
+        [
+            "玲船医",
+            "admired by x, information provider to x, employer of x"
+        ]
+    ],
+    "张大副": [
+        [
+            "玲船医",
+            "acquaintance of x, informant of x"
+        ]
+    ],
+    "王小工": [
+        [
+            "玲船医",
+            "lover of x, informer of x"
+        ],
+        [
+            "王船工",
+            "son of x"
+        ]
+    ],
+    "王船工": [
+        [
+            "玲船医",
+            "husband of x"
+        ],
+        [
+            "王小工",
+            "father of x"
+        ]
+    ],
+    "雯秘书": [
+        [
+            "玲船医",
+            "information provider to x"
+        ]
+    ]
+}

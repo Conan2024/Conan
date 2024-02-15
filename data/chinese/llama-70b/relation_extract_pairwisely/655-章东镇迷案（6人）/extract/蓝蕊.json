@@ -1,0 +1,679 @@
+{
+    "蓝蕊": [
+        [
+            "章方豪",
+            "daughter",
+            "father"
+        ],
+        [
+            "姚氏",
+            "daughter",
+            "mother"
+        ],
+        [
+            "于伯",
+            "relationship 1, relationship 2, relationship 3, relationship 4"
+        ],
+        [
+            "杨水巡",
+            "father-in-law",
+            "guardian",
+            "ward",
+            "protector",
+            "protégée",
+            "mentor",
+            "student",
+            "teacher",
+            "pupil"
+        ],
+        [
+            "敏兮",
+            "陪读",
+            "寄住",
+            "姐妹",
+            "朋友"
+        ],
+        [
+            "穆夕婷",
+            "classmate",
+            "friend",
+            " Shared experience",
+            "confidante",
+            " protégé"
+        ],
+        [
+            "白老师",
+            "学生 - 教师",
+            "朋友 - 朋友",
+            "寄居者 - 寄宿者",
+            "受欺负的 - 救助者",
+            "船员 - 船长"
+        ],
+        [
+            {
+                "name": "申午生",
+                "relationship": "friend"
+            },
+            {
+                "name": "申午生",
+                "relationship": " acquaintance"
+            }
+        ],
+        [
+            "杏儿",
+            "classmate",
+            "confidant",
+            "family friend",
+            "victim of same crime",
+            "common goal of seeking justice"
+        ],
+        [
+            "穆伯宣",
+            "brother's daughter",
+            "childhood friend",
+            "secret sharer",
+            "love rival",
+            "close friend"
+        ]
+    ],
+    "章方豪": [
+        [
+            "蓝蕊",
+            "father",
+            "daughter"
+        ],
+        [
+            "姚氏",
+            "husband",
+            "father"
+        ],
+        [
+            "于伯",
+            "father",
+            "employer",
+            "master",
+            "superior",
+            "benefactor"
+        ],
+        [
+            "杨水巡",
+            "father-godfather",
+            "business partner",
+            "close friend"
+        ],
+        [
+            "穆夕婷",
+            " father-daughter",
+            "foster",
+            "family",
+            "friend"
+        ],
+        [
+            "白老师",
+            "student, friend"
+        ],
+        [
+            "申午生",
+            "father-in-law and son-in-law"
+        ],
+        [
+            "杏儿",
+            "father",
+            "husband",
+            "step-father"
+        ],
+        [
+            "穆伯宣",
+            "relationship 1, relationship 2",
+            "relationship 3, relationship 4",
+            "relationship 5"
+        ]
+    ],
+    "姚氏": [
+        [
+            "蓝蕊",
+            "daughter",
+            "mother"
+        ],
+        [
+            "章方豪",
+            "wife",
+            "mother"
+        ],
+        [
+            "于伯",
+            "Parent-in-law, Guardian"
+        ],
+        [
+            "杨水巡",
+            "husband of x",
+            "father of x"
+        ],
+        [
+            "敏兮",
+            "Parent-Child Relationship",
+            "Co-habitant"
+        ],
+        [
+            "穆夕婷",
+            "Relative",
+            "Friend"
+        ],
+        [
+            "白老师",
+            "朋友"
+        ],
+        [
+            "申午生",
+            "husband of X"
+        ],
+        [
+            "杏儿",
+            "Parent-Child Relationship",
+            "Stranger to X"
+        ],
+        [
+            "穆伯宣",
+            "Relative"
+        ]
+    ],
+    "于伯": [
+        [
+            "蓝蕊",
+            "relationship 1, relationship 2, relationship 3, relationship 4"
+        ],
+        [
+            "章方豪",
+            "father",
+            "employer",
+            "master",
+            "superior",
+            "benefactor"
+        ],
+        [
+            "姚氏",
+            "Father-in-law, Guardian"
+        ],
+        [
+            "杨水巡",
+            "father's friend",
+            "business partner",
+            "daughter's friend",
+            "classmate",
+            "close relationship",
+            "protection",
+            "guidance",
+            "respect",
+            "trust"
+        ],
+        [
+            "敏兮",
+            "学生与家庭教师",
+            "寄宿并读书",
+            "朋友"
+        ],
+        [
+            "穆夕婷",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "白老师",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "申午生",
+            "nephew",
+            "classmate",
+            "savior"
+        ],
+        [
+            "杏儿",
+            "father's friend",
+            "guardian",
+            "arranger of marriage"
+        ],
+        [
+            "穆伯宣",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "杨水巡": [
+        [
+            "蓝蕊",
+            "daughter-in-law",
+            "guardian",
+            "ward",
+            "protector",
+            "protégée",
+            "mentor",
+            "student",
+            "teacher",
+            "pupil"
+        ],
+        [
+            "章方豪",
+            "godfather-father",
+            "business partner",
+            "close friend"
+        ],
+        [
+            "姚氏",
+            "brother of x",
+            "son of x"
+        ],
+        [
+            "于伯",
+            "father's friend",
+            "business partner",
+            "daughter's friend",
+            "classmate",
+            "close relationship",
+            "protection",
+            "guidance",
+            "respect",
+            "trust"
+        ],
+        [
+            "敏兮",
+            "father-in-law",
+            "teacher"
+        ],
+        [
+            "穆夕婷",
+            "father-in-law",
+            "superior"
+        ],
+        [
+            "白老师",
+            "relationship 1 (teacher-student)",
+            "relationship 2 (friend)"
+        ],
+        [
+            "申午生",
+            "friend",
+            "father-in-law"
+        ],
+        [
+            "杏儿",
+            "father-in-law",
+            "guardian"
+        ],
+        [
+            "穆伯宣",
+            "father-in-law",
+            "guardian",
+            "teacher"
+        ]
+    ],
+    "敏兮": [
+        [
+            "蓝蕊",
+            "陪读",
+            "寄住",
+            "姐妺",
+            "朋友"
+        ],
+        [
+            "姚씨",
+            "Sibling Relationship",
+            "Co-habitant"
+        ],
+        [
+            "于伯",
+            "学生与家庭教师",
+            "寄宿并读书",
+            "朋友"
+        ],
+        [
+            "杨水巡",
+            "father-in-law",
+            "teacher"
+        ],
+        [
+            "穆夕婷",
+            "adopted daughter",
+            "classmate",
+            "friend"
+        ],
+        [
+            "白老师",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "申午生",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "杏儿",
+            "second cousin",
+            "classmate",
+            "friend",
+            "mentor",
+            "secret sharer"
+        ],
+        [
+            "穆伯宣",
+            "adopted daughter",
+            "classmate",
+            "friend",
+            "grateful",
+            "trapped"
+        ]
+    ],
+    "穆夕婷": [
+        [
+            "蓝蕊",
+            "classmate",
+            "friend",
+            "shared experience",
+            "confidante",
+            "protector"
+        ],
+        [
+            "章方豪",
+            "father-daughter",
+            "foster",
+            "family",
+            "friend"
+        ],
+        [
+            "姚氏",
+            "Relative",
+            "Friend"
+        ],
+        [
+            "于伯",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "杨水巡",
+            "father-in-law",
+            "superior"
+        ],
+        [
+            "敏兮",
+            "adopted daughter",
+            "classmate",
+            "friend"
+        ],
+        [
+            "白老师",
+            "friendship"
+        ],
+        [
+            "申午生",
+            " acquaintance",
+            "classmate",
+            "schoolmate",
+            "friend"
+        ],
+        [
+            "杏儿",
+            "friend",
+            "classmate",
+            "roommate"
+        ],
+        [
+            "穆伯宣",
+            " Same person as X (different reference)",
+            "Same person as X (different identity)",
+            "Stranger to X",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Friend of X",
+            "Fellow of X"
+        ]
+    ],
+    "白老师": [
+        [
+            "蓝蕊",
+            "学生 - 教师",
+            "朋友 - 朋友",
+            "寄居者 - 寄宿者",
+            "受欺负的 - 救助者",
+            "船员 - 船长"
+        ],
+        [
+            "章方豪",
+            "teacher, friend"
+        ],
+        [
+            "姚氏",
+            "朋友",
+            "师生"
+        ],
+        [
+            "于伯",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "杨水巡",
+            "relationship 1 (teacher-student)",
+            "relationship 2 (friend)"
+        ],
+        [
+            "敏兮",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "穆夕婷",
+            "friendship"
+        ],
+        [
+            "申午生",
+            "Friend"
+        ],
+        [
+            "杏儿",
+            "学生与教师",
+            "寄宿人与寄宿人",
+            "友人",
+            "confidante"
+        ],
+        [
+            "穆伯宣",
+            "teacher",
+            "mentor",
+            "friend"
+        ]
+    ],
+    "申午生": [
+        [
+            {
+                "name": "蓝蕊",
+                "relationship": "friend"
+            },
+            {
+                "name": "蓝蕊",
+                "relationship": "acquaintance"
+            }
+        ],
+        [
+            "章方豪",
+            "father-in-law and son-in-law"
+        ],
+        [
+            "姚氏",
+            "husband of X"
+        ],
+        [
+            "于伯",
+            "uncle",
+            "friend",
+            "savior"
+        ],
+        [
+            "杨水巡",
+            "friend",
+            "husband"
+        ],
+        [
+            "敏兮",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "穆夕婷",
+            " acquaintance",
+            "classmate",
+            "schoolmate",
+            "friend"
+        ],
+        [
+            "白老师",
+            "Friend"
+        ],
+        [
+            "杏儿",
+            " acquaintance",
+            " Classmate",
+            " Friend"
+        ],
+        [
+            "穆伯宣",
+            "蓝蕊",
+            "杨水巡"
+        ]
+    ],
+    "杏儿": [
+        [
+            "蓝蕊",
+            "classmate",
+            "confidant",
+            "family friend",
+            "victim of same crime",
+            "common goal of seeking justice"
+        ],
+        [
+            "章方豪",
+            "daughter",
+            "step-daughter",
+            "wife"
+        ],
+        [
+            "姚氏",
+            "Parent-Child Relationship",
+            "Stranger to X"
+        ],
+        [
+            "于伯",
+            "daughter's friend",
+            " protected person",
+            "bride-to-be"
+        ],
+        [
+            "杨水巡",
+            "father-in-law",
+            "guardian"
+        ],
+        [
+            "敏兮",
+            "second cousin",
+            "classmate",
+            "friend",
+            "mentor",
+            "secret sharer"
+        ],
+        [
+            "穆夕婷",
+            "friend",
+            "classmate",
+            "roommate"
+        ],
+        [
+            "白老师",
+            "学生与教师",
+            "寄宿人与寄宿人",
+            "友人",
+            "confidante"
+        ],
+        [
+            "申午生",
+            " acquaintance",
+            " Classmate",
+            " Friend"
+        ],
+        [
+            "穆伯宣",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "穆伯宣": [
+        [
+            "蓝蕊",
+            "brother's daughter",
+            "childhood friend",
+            "secret sharer",
+            "love rival",
+            "close friend"
+        ],
+        [
+            "章方豪",
+            "relationship 1, relationship 2",
+            "relationship 3, relationship 4",
+            "relationship 5"
+        ],
+        [
+            "姚氏",
+            "Friend"
+        ],
+        [
+            "于伯",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "杨水巡",
+            "father-in-law",
+            "daughter-in-law",
+            "friend"
+        ],
+        [
+            "敏兮",
+            "adoptive father",
+            "classmate",
+            "friend",
+            "protective",
+            "possessive"
+        ],
+        [
+            "穆夕婷",
+            " Same person as X (different reference)",
+            "Same person as X (different identity)",
+            "Stranger to X",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Friend of X",
+            "Fellow of X"
+        ],
+        [
+            "白老师",
+            "teacher",
+            "mentor",
+            "friend"
+        ],
+        [
+            "申午生",
+            "蓝蕊",
+            "杨水巡"
+        ],
+        [
+            "杏儿",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "Chang Fang-hua": [
+        [
+            "Min Ni",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5"
+        ]
+    ],
+    "Min Ni": [
+        [
+            "Chang Fang-hua",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5"
+        ]
+    ]
+}

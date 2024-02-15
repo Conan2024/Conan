@@ -1,0 +1,19 @@
+{
+    "石燕": [
+      ["红花夫人", "mentor of x"], 
+      ["杜仲", "perpetrator of x, stole the sword manual from 红花夫人 of x"], 
+      ["陆英", "informant of x, helped x in the investigation"]
+    ],
+    "红花夫人": [
+      ["石燕", "student of x"], 
+      ["杜仲", "romantic relationship with x, betrayed and stole her sword manual of x"]
+    ],
+    "杜仲": [
+      ["红花夫人", "romantic relationship with x, betrayed and stole her sword manual of x"], 
+      ["石燕", "perpetrator of x"]
+    ],
+    "陆英": [
+      ["石燕", "informant of x"], 
+      ["杜仲", "possible informant of x"]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "林校花": [
+      ["王学习", "fiancée of x, classmate of x, bully of x, master servant of x"], 
+      ["郝闺蜜", "acquaintance of x"], 
+      ["李小弟", "relationship 1: x is the unrequited love interest of x, relationship 2: x is the manipulator of x"], 
+      ["张恶霸", "stranger of x, classmate of x, friend of x"], 
+      ["赵帅哥", "相关的人物 of x, 对手 of x"]
+    ],
+    "王学习": [
+      ["林校花", "fiancé of x, boyfriend of x, classmate of x, bully of x, master of x"], 
+      ["郝闺蜜", "manipulator manipulated of x"], 
+      ["李小弟", "学生与恶霸 of x, 朋友 of x, 胆小鬼 of x, 考上全国最好的大学 of x, 摆脱恶魔 of x"], 
+      ["张恶霸", "acquaintance of x, classmate of x"], 
+      ["赵帅哥", "friend of x, acquaintance of x"]
+    ],
+    "郝闺蜜": [
+      ["林校花", "acquaintance of x"], 
+      ["王学习", "manipulator manipulated of x"], 
+      ["张恶霸", "学生 of x, 受bullying of x"], 
+      ["父亲", "acquaintance of x"], 
+      ["赵帅哥", "张恶霸 of x, 李小弟 of x, 王学习 of x"]
+    ],
+    "李小弟": [
+      ["林校花", "relationship 1: x is the unrequited love interest of x, relationship 2: x is the manipulated by x"], 
+      ["王学习", "学生与恶霸 of x, 朋友 of x, 胆小鬼 of x, 考上全国最好的大学 of x, 摆脱恶魔 of x"], 
+      ["张恶霸", "subordinate of x, minion of x"], 
+      ["父亲", "bully of x, tormentor of x"], 
+      ["赵帅哥", "关系1 of x, 关系2 of x"]
+    ],
+    "张恶霸": [
+      ["林校花", "wife of x, murderer of x"], 
+      ["王学习", "acquaintance of x, classmate of x"], 
+      ["郝闺蜜", "学生 of x, bully of x"], 
+      ["李小弟", "bully of x, master of x"], 
+      ["父亲", "摆脱 of x, yang of x, 恶魔 of x"], 
+      ["赵帅哥", "bully of x, tormentor of x, manipulator of x"]
+    ],
+    "父亲": [
+      ["郝闺蜜", "acquaintance of x"], 
+      ["李小弟", "son of x, victim of x"], 
+      ["张恶霸", "摆脱 of x, yang of x, 恶魔 of x"], 
+      ["赵帅哥", "张恶霸 of x"]
+    ],
+    "赵帅哥": [
+      ["林校花", "相关的人物 of x, 对手 of x"], 
+      ["王学习", "friend of x, acquaintance of x"], 
+      ["郝闺蜜", "张恶霸 of x, 李小弟 of x, 王学习 of x"], 
+      ["李小弟", "关系1 of x, 关系2 of x"], 
+      ["张恶霸", "friend of x, acquaintance of x, partner in crime of x"], 
+      ["父亲", "张恶霸 of x, 王学习 of x"]
+    ]
+}

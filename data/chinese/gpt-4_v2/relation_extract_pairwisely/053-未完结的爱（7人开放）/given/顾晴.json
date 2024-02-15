@@ -1,0 +1,71 @@
+{
+    "顾晴": [
+      ["顾宇", "sibling of x, younger brother of x"], 
+      ["顾明和", "child of x, daughter of x, biological daughter of x"], 
+      ["林夕", "friend of x, ex friend of x, enemy of x, rival in love of x, attempted perpetrator of x"], 
+      ["苏阳", "admirer of x, disliked by x, unrequited love interest of x, rival in love of x"], 
+      ["林彤", "adversary of x, jealous of x, disliked by x, suspect to x"], 
+      ["林阳", "girlfriend of x, enemy of x, deceiver of x, manipulator of x"], 
+      ["林惟仁", "acquaintance of x, father of x's son's ex girlfriend, girl who dislikes x's daughter"]
+    ],
+    "顾宇": [
+      ["顾晴", "sibling of x, older sister of x"], 
+      ["顾明和", "son of x, colleague of x, business partner of x, possibly family of x, relative of x"], 
+      ["林夕", "ex romantic relationships with x, child of x's parent's friend"], 
+      ["苏阳", "acquaintance of x"], 
+      ["林彤", "acquaintance of x"], 
+      ["林阳", "future brother in law of x, ex boyfriend of x's sister"], 
+      ["林惟仁", "future father in law of x, possibly family of x"]
+    ],
+    "顾明和": [
+      ["顾晴", "father of x, biological father of x"], 
+      ["顾宇", "father of x, colleague of x, business partner of x, possibly family of x, relative of x"], 
+      ["林夕", "friend of x"], 
+      ["林彤", "unknown of x"], 
+      ["林阳", "acquaintance of x, father of x your boyfriend's ex girlfriend, father of x your enemy's sibling, business partner of x's family"], 
+      ["林惟仁", "father of x's romantic relationships, father of x's fiance"]
+    ],
+    "林夕": [
+      ["顾晴", "friend of x, ex friend of x, romantic rival of x, victim of x"], 
+      ["顾宇", "ex romantic relationships with x, child of x's parent's friend"], 
+      ["顾明和", "father of x's child"], 
+      ["苏阳", "fiance of x, romantic relationships with x, patient of x, victim of x"], 
+      ["林彤", "subject of x investigation for x"], 
+      ["林阳", "sibling of x"], 
+      ["林惟仁", "child of x"]
+    ],
+    "苏阳": [
+      ["顾晴", "admired by x, object of jealousy of x, romantic interest for x, uninterested love interest of x"], 
+      ["顾宇", "acquaintance of x"], 
+      ["林夕", "fiancee of x, romantic relationships with x, service provider of x (as her doctor), admired by x"], 
+      ["林彤", "extramarital affair with x, romantic relationships with x"], 
+      ["林阳", "adversary of x, disliked by x"], 
+      ["林惟仁", "none of x"]
+    ],
+    "林彤": [
+      ["顾晴", "romantic rival of x, disliked by x, victim of x"], 
+      ["顾宇", "acquaintance of x"], 
+      ["林夕", "romantic relationships with x's admirer, disliked by x"], 
+      ["苏阳", "lover of x, extramarital affair with x"], 
+      ["林阳", "sibling of x"], 
+      ["林惟仁", "disliked by x, victim of x"]
+    ],
+    "林阳": [
+      ["顾晴", "boyfriend of x, manipulated by x, suspect of x"], 
+      ["顾宇", "future brother in law of x, sister's ex boyfriend"], 
+      ["顾明和", "acquaintance of x, your girlfriend's father of x, enemy of x your sibling's boyfriend's family, possibly family of x's business"], 
+      ["林夕", "sibling of x"], 
+      ["苏阳", "adversary of x, dislike of x"], 
+      ["林彤", "sibling of x"], 
+      ["林惟仁", "child of x"]
+    ],
+    "林惟仁": [
+      ["顾晴", "father of x's son's ex girlfriend, disliked by x, x's daughter's ex boyfriend's admirer"], 
+      ["顾宇", "future son in law of x, possibly family of x"], 
+      ["顾明和", "romantic relationships with x's father, fiance's father of x"], 
+      ["林夕", "father of x"], 
+      ["苏阳", "father of fiancee of x"], 
+      ["林彤", "disliker of x, parent of x's victim"], 
+      ["林阳", "father of x"]
+    ]
+}

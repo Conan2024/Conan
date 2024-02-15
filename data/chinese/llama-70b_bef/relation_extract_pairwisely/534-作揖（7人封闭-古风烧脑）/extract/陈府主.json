@@ -1,0 +1,43 @@
+{
+    "陈府主": [
+      ["李王爷", "customer of x"], 
+      ["王子", "acquaintance of x, business partner of x, customer of x, patient of x, victim of x"], 
+      ["李延", "friend of x, rival of x, manipulator of x, superior of x, subordinate of x, business partner of x, customer of x, tenant of x, patient of x"]
+    ],
+    "李王爷": [
+      ["王子", "friend of x, business partner of x"], 
+      ["方絮", "business partner of x"], 
+      ["李仲", "business partner of x"], 
+      ["陈倩", "father in law of x, friend of x"]
+    ],
+    "王子": [
+      ["陈府主", "acquaintance of x, business partner of x, customer of x, patient of x, victim of x"], 
+      ["李王爷", "friend of x, business partner of x"], 
+      ["方絮", "husband of x, wife of x"], 
+      ["李延", "brother in law of x, son in law of x"]
+    ],
+    "方絮": [
+      ["李王爷", "business partner of x"], 
+      ["王子", "husband of x, wife of x"], 
+      ["李延", "wife of x"], 
+      ["陈倩", "wife of x, rival of x"]
+    ],
+    "李仲": [
+      ["李王爷", "business partner of x"], 
+      ["李延", "brother of x"]
+    ],
+    "李延": [
+      ["陈府主", "friend of x, employee of x, rival of x, manipulator of x, superior of x, subordinate of x, business partner of x, customer of x, tenant of x, patient of x"], 
+      ["王子", "brother in law of x, son in law of x"], 
+      ["方絮", "husband of x"], 
+      ["李仲", "brother of x"], 
+      ["陈倩", "son of x, brother of x"]
+    ],
+    "陈倩": [
+      ["李王爷", "father in law of x, daughter in law of x, friend of x"], 
+      ["方絮", "husband of x, rival of x"]
+    ],
+    "chen Fou": [
+      ["李延", "father of x, uncle of x"]
+    ]
+}

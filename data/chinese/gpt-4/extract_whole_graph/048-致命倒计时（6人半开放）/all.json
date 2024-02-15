@@ -1,0 +1,60 @@
+{
+    "丁茜": [
+        [
+            "任国梁",
+            "student of x"
+        ],
+        [
+            "童安琪",
+            "cousin of x, lived with x"
+        ],
+        [
+            "韩霜",
+            "close friend of x, information receiver from x"
+        ]
+    ],
+    "童安琪": [
+        [
+            "任国梁",
+            "student of x"
+        ],
+        [
+            "丁茜",
+            "cousin of x, has lived with x"
+        ]
+    ],
+    "任国梁": [
+        [
+            "丁茜",
+            "mentor of x"
+        ],
+        [
+            "童安琪",
+            "mentor of x"
+        ],
+        [
+            "韩霜",
+            "lover of x"
+        ]
+    ],
+    "韩霜": [
+        [
+            "任国梁",
+            "girlfriend of x"
+        ],
+        [
+            "丁茜",
+            "close friend of x, confidant of x"
+        ],
+        [
+            "任国华",
+            "girlfriend of x"
+        ]
+    ],
+    "任国华": [
+        [
+            "韩霜",
+            "boyfriend of x"
+        ]
+    ]
+}

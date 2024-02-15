@@ -1,0 +1,184 @@
+{
+    "李警察": [
+        [
+            "王村长",
+            "acquaintance of x, subject of investigation for x"
+        ],
+        [
+            "李警察的女友",
+            "girlfriend of x"
+        ],
+        [
+            "胡调研",
+            "colleague of x, information receiver from x, quest companion of x"
+        ],
+        [
+            "赵慈善",
+            "suspected by x, victim of x, adversary of x, attempted perpetrator of x"
+        ],
+        [
+            "南城杀人狂",
+            "subject of investigation for x, adversary of x, enemy of x"
+        ],
+        [
+            "女友的父母",
+            "future relative of x, possibly family of x, informant of x, information receiver from x, quest companion of x, helped by x, saviour of x"
+        ]
+    ],
+    "王村长": [
+        [
+            "李警察",
+            "acquaintance of x, investigated by x"
+        ],
+        [
+            "李警察的女友",
+            "acquaintance of x, suspect to x"
+        ],
+        [
+            "胡调研",
+            "acquaintance of x, possibly family of x, information receiver from x, quest companion of x, host of x"
+        ],
+        [
+            "赵慈善",
+            "suspected by x"
+        ],
+        [
+            "南城杀人狂",
+            "suspected by x"
+        ],
+        [
+            "女友的父母",
+            "stranger to x"
+        ]
+    ],
+    "李警察的女友": [
+        [
+            "李警察",
+            "boyfriend of x"
+        ],
+        [
+            "王村长",
+            "acquaintance of x, suspect of x"
+        ],
+        [
+            "胡调研",
+            "acquaintance of x, quest companion of x"
+        ],
+        [
+            "赵慈善",
+            "victim of x, disliked by x"
+        ],
+        [
+            "南城杀人狂",
+            "victim of x"
+        ],
+        [
+            "女友的父母",
+            "child of x"
+        ]
+    ],
+    "胡调研": [
+        [
+            "李警察",
+            "colleague of x, informant of x, quest companion of x"
+        ],
+        [
+            "王村长",
+            "acquaintance of x, possibly family of x, informant of x, quest companion of x, guest of x"
+        ],
+        [
+            "李警察的女友",
+            "acquaintance of x, quest companion of x"
+        ],
+        [
+            "赵慈善",
+            "acquaintance of x, colleague of x, suspect of x"
+        ],
+        [
+            "南城杀人狂",
+            "suspect to x, acquaintance of x"
+        ],
+        [
+            "女友的父母",
+            "acquaintance of x"
+        ]
+    ],
+    "赵慈善": [
+        [
+            "李警察",
+            "suspect of x, perpetrator of x, adversary of x, attempted victim of x"
+        ],
+        [
+            "王村长",
+            "suspect of x"
+        ],
+        [
+            "李警察的女友",
+            "perpetrator of x, deceiver of x, hated by x"
+        ],
+        [
+            "胡调研",
+            "acquaintance of x, colleague of x, suspected by x"
+        ],
+        [
+            "南城杀人狂",
+            "victim of x, disliker of x, disliked by x, perpetrator of x, adversary of x"
+        ],
+        [
+            "女友的父母",
+            "perpetrator of x, murderer of x"
+        ]
+    ],
+    "南城杀人狂": [
+        [
+            "李警察",
+            "suspected by x, victim of x"
+        ],
+        [
+            "王村长",
+            "subject of investigation for x"
+        ],
+        [
+            "李警察的女友",
+            "perpetrator of x"
+        ],
+        [
+            "胡调研",
+            "suspected by x, acquaintance of x"
+        ],
+        [
+            "赵慈善",
+            "victim of x, disliked by x, deceiver of x, adversary of x, attempted murderer of x"
+        ],
+        [
+            "女友的父母",
+            "perpetrator of x"
+        ]
+    ],
+    "女友的父母": [
+        [
+            "李警察",
+            "future relative of x, possibly family of x, informant of x, information receiver from x, seeker of help from x, helped by x, saviour of x"
+        ],
+        [
+            "王村长",
+            "stranger to x"
+        ],
+        [
+            "李警察的女友",
+            "father of x, mother of x"
+        ],
+        [
+            "胡调研",
+            "acquaintance of x"
+        ],
+        [
+            "赵慈善",
+            "x's victim's family"
+        ],
+        [
+            "南城杀人狂",
+            "x's victim's family"
+        ]
+    ]
+}

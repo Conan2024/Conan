@@ -1,0 +1,265 @@
+{
+    "杨老板": [
+        [
+            "你",
+            "superior",
+            "employer",
+            "mentor",
+            "adversary",
+            "enemy",
+            "rival",
+            "manipulator",
+            "manipulated",
+            "victim",
+            "deceiver",
+            "betrayer",
+            "suspicious",
+            "suspect",
+            "information receiver",
+            "informant"
+        ],
+        [
+            "张大副",
+            " Employee of X",
+            "Business Partner of X",
+            "Helped by X",
+            "Informant of X"
+        ],
+        [
+            "玲船医",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "王船工",
+            "Employer of X",
+            "perpETratrof X"
+        ],
+        [
+            "王小工",
+            "Relationship 1: 毒品供应商",
+            "Relationship 2: 酒吧老板"
+        ],
+        {
+            "毒瘾": "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5, relationship 6, relationship 7, relationship 8"
+        }
+    ],
+    "你": [
+        [
+            "杨老板",
+            "superior",
+            "employer",
+            "mentor",
+            "adversary",
+            "enemy",
+            "rival",
+            "manipulator",
+            "manipulated",
+            "victim",
+            "deceiver",
+            "betrayer",
+            "suspicious",
+            "suspect",
+            "information receiver",
+            "informant"
+        ],
+        [
+            "张大副",
+            " Cooperative Partner",
+            " Accomplice in murder",
+            " Friend"
+        ],
+        [
+            "玲船医",
+            " Wang Xiurong",
+            "King of Medicine",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X"
+        ],
+        [
+            "王船工",
+            "同谋",
+            "盟友",
+            "敵人",
+            "嫌疑犯",
+            "潜在的威胁"
+        ],
+        [
+            "王小工",
+            "Associate",
+            "Co-conspirator"
+        ],
+        [
+            "毒瘾",
+            "employer of X",
+            "master of X",
+            "superior of X",
+            "adversary of X",
+            "enemy of X"
+        ]
+    ],
+    "张大副": [
+        [
+            "杨老板",
+            "Partner of X",
+            "Collaborator of X",
+            "Victim of X"
+        ],
+        [
+            "你",
+            " Cooperative Partner",
+            " Accomplice in murder",
+            " Friend"
+        ],
+        [
+            "玲船医",
+            "industry partner",
+            "co-conspirator"
+        ],
+        [
+            "王船工",
+            "对手",
+            "毒品供应商"
+        ],
+        [
+            "王小工",
+            " Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "毒瘾",
+            "business partner",
+            "rival"
+        ]
+    ],
+    "玲船医": [
+        [
+            "杨老板",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "你",
+            " Wang Xiurong",
+            "King of Medicine",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X"
+        ],
+        [
+            "张大副",
+            "industry partner",
+            "co-conspirator"
+        ],
+        [
+            "王船工",
+            "Acquaintance"
+        ],
+        [
+            "王小工",
+            "Friend"
+        ],
+        [
+            "毒瘾",
+            "romantic relationship",
+            "accomplice",
+            "enemy",
+            "friend"
+        ]
+    ],
+    "王船工": [
+        [
+            "杨老板",
+            "subordinate of X",
+            "Victim of X"
+        ],
+        [
+            "你",
+            " sameconspirator",
+            "ally",
+            "enemy",
+            "suspect",
+            "potential threat"
+        ],
+        [
+            "张大副",
+            "对手",
+            "毒品供应商"
+        ],
+        [
+            "玲船医",
+            "Acquaintance"
+        ],
+        [
+            "王小工",
+            "father-son relationship"
+        ],
+        [
+            "毒瘾",
+            "perpetrator of X",
+            "manipulator of X"
+        ]
+    ],
+    "王小工": [
+        [
+            "杨老板",
+            "Relationship 1: 毒品供应商",
+            "Relationship 2: 酒吧老板"
+        ],
+        [
+            "你",
+            "Associate",
+            "Co-conspirator"
+        ],
+        [
+            "张大副",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "玲船医",
+            "Friend"
+        ],
+        [
+            " Wang Xiao工",
+            "son-father relationship"
+        ],
+        [
+            "毒瘾",
+            "perpetrator of 毒瘾"
+        ]
+    ],
+    "毒瘾": [
+        {
+            "杨老板": "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5, relationship 6, relationship 7, relationship 8"
+        },
+        [
+            "你",
+            "employer of X",
+            "master of X",
+            "superior of X",
+            "adversary of X",
+            "enemy of X"
+        ],
+        [
+            "张大副",
+            "business partner",
+            "rival"
+        ],
+        [
+            "玲船医",
+            "romantic relationship",
+            "accomplice",
+            "enemy",
+            "friend"
+        ],
+        [
+            " Wang shipwork",
+            "perpetrator of X",
+            "manipulator of X"
+        ],
+        [
+            "王小工",
+            "victim of 王小工"
+        ]
+    ]
+}

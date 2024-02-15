@@ -1,0 +1,76 @@
+{
+    "李成": [
+        [
+            "赵中杨",
+            "subordinate, spy, potential threat, cordial"
+        ],
+        [
+            "赵中正",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "陈媚儿",
+            " acquaintance",
+            "co-conspirator"
+        ]
+    ],
+    "赵中杨": [
+        [
+            "李成",
+            "subordinate, spy, potential threat, cordial"
+        ],
+        [
+            "赵中正",
+            "brother",
+            "son",
+            "cousin",
+            "friend",
+            "mentee",
+            "student",
+            "employee",
+            "servant",
+            "subordinate"
+        ],
+        [
+            "陈媚儿",
+            "Co-worker"
+        ]
+    ],
+    "赵中正": [
+        [
+            "李成",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "赵中杨",
+            "brother",
+            "father",
+            "son",
+            "cousin",
+            "friend",
+            "mentor",
+            "employer",
+            "master",
+            "superior"
+        ],
+        [
+            "陈媚儿",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "陈媚儿": [
+        [
+            "李成",
+            "acquaintance",
+            "co-conspirator"
+        ],
+        [
+            "赵中杨",
+            "Co-worker"
+        ],
+        [
+            "赵中正",
+            "relationship 1, relationship 2"
+        ]
+    ]
+}

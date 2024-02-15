@@ -1,0 +1,26 @@
+{
+    "于宿年": [
+      ["崔寿亨", "grandfather of x"], 
+      ["崔寿亨", "wife of x"], 
+      ["太太", "sister of x"]
+    ],
+    "周蒙当": [
+      ["于宿年", "sister of x"], 
+      ["周持同", "husband of x"]
+    ],
+    "周持同": [
+      ["于宿年", "sister of x"], 
+      ["周蒙当", "husband of x"]
+    ],
+    "崔寿亨": [
+      ["于宿年", "wife of x"], 
+      ["太太", "wife of x"]
+    ],
+    "昔颜": [
+      ["太太", "sister of x"]
+    ],
+    "太太": [
+      ["于宿年", "sister of x"], 
+      ["崔寿亨", "wife of x"]
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "托尼": [
+        [
+            "神父汤姆",
+            "兄弟",
+            "Co-conspirator"
+        ],
+        [
+            "医生",
+            "brother",
+            "friend"
+        ],
+        [
+            "医院的人",
+            "神父汤姆"
+        ]
+    ],
+    "神父汤姆": [
+        [
+            "托尼",
+            "Employer",
+            "Accomplice"
+        ],
+        [
+            "托尼",
+            "医院的人"
+        ],
+        [
+            "医生",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "医院的人",
+            "Relationship 1: Employer-Employee, Relationship 2: Co-conspirator"
+        ]
+    ],
+    "医生": [
+        [
+            "托尼",
+            "doctor-patient",
+            "acquaintance"
+        ],
+        [
+            "神父汤姆",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "医院的人",
+            "Friend of X"
+        ]
+    ],
+    "医院的人": [
+        [
+            "托尼",
+            "神父汤姆"
+        ],
+        [
+            "神父汤姆",
+            "Relationship 1: Hostage-Taker, Relationship 2: Unknown Associate"
+        ],
+        [
+            "医生",
+            "Captor of X"
+        ]
+    ]
+}

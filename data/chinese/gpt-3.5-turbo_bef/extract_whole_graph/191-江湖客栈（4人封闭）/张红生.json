@@ -1,0 +1,38 @@
+{
+    "张红生": [
+      ["孟三春", "husband of x"], 
+      ["张金银", "ex romantic relationships with x"], 
+      ["洪长烈", "father of x"], 
+      ["洪江水", "employee of x"], 
+      ["蔡思娘", "acquaintance of x"]
+    ],
+    "孟三春": [
+      ["张红生", "wife of x"], 
+      ["张金山", "brother of x"], 
+      ["龙狂", "quest companion of x"], 
+      ["常夫人", "ex romantic relationships with x"], 
+      ["龙二爷", "informant of x"], 
+      ["张红生's family", "perpetrator of x's family"], 
+      ["张红生's family", "x's victim's family"]
+    ],
+    "张金银": [
+      ["张红生", "ex romantic relationships with x"], 
+      ["张金山", "brother of x"], 
+      ["龙狂", "quest companion of x"], 
+      ["常夫人", "romantic relationships with x"]
+    ],
+    "洪长烈": [
+      ["张红生", "father of x"], 
+      ["孟三春", "victim of x"], 
+      ["燕山堂", "perpetrator of x's family"]
+    ],
+    "洪江水": [
+      ["张红生", "employee of x"], 
+      ["洪江水's family", "perpetrator of x"]
+    ],
+    "蔡思娘": [
+      ["张红生", "acquaintance of x"], 
+      ["孟三春", "dislike of x"], 
+      ["张红生", "secret crush of x"]
+    ]
+}

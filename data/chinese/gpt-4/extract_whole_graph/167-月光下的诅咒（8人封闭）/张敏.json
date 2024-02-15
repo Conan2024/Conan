@@ -1,0 +1,118 @@
+{
+    "张敏": [
+        [
+            "郑晨",
+            "same person as x (different identity)"
+        ],
+        [
+            "张清",
+            "same person as x (different reference)"
+        ],
+        [
+            "郑义",
+            "child of x"
+        ],
+        [
+            "郑晨的母亲",
+            "father of x"
+        ],
+        [
+            "郑晨的奶奶",
+            "father of x"
+        ],
+        [
+            "张志",
+            "stranger to x"
+        ],
+        [
+            "刘磊",
+            "acquaintance of x, estranged due to x's father"
+        ],
+        [
+            "张萍",
+            "friend of x, helped by x, helper of x, information receiver from x"
+        ],
+        [
+            "美攸",
+            "victim of x, enemy of x, information receiver from x"
+        ],
+        [
+            "张甜甜",
+            "stranger to x"
+        ],
+        [
+            "王萌",
+            "acquaintance of x"
+        ],
+        [
+            "章忠",
+            "acquaintance of x"
+        ],
+        [
+            "徐真",
+            "acquaintance of x"
+        ]
+    ],
+    "郑晨": [
+        [
+            "张敏",
+            "same person as x (different identity)"
+        ],
+        [
+            "张清",
+            "same person as x (different reference)"
+        ],
+        [
+            "郑义",
+            "son of x"
+        ],
+        [
+            "郑晨的母亲",
+            "grandson of x"
+        ],
+        [
+            "郑晨的奶奶",
+            "grandson of x"
+        ]
+    ],
+    "张清": [
+        [
+            "张敏",
+            "same person as x (different reference)"
+        ],
+        [
+            "郑晨",
+            "same person as x (different reference)"
+        ]
+    ],
+    "郑义": [
+        [
+            "张敏",
+            "father of x"
+        ],
+        [
+            "郑晨",
+            "father of x"
+        ]
+    ],
+    "张萍": [
+        [
+            "张敏",
+            "helped by x, friend of x, debtor of x, helper of x"
+        ],
+        [
+            "郑晨",
+            "helper of x, debtor of x"
+        ]
+    ],
+    "美攸": [
+        [
+            "张敏",
+            "perpetrator of x, adversary of x, enemy of x"
+        ],
+        [
+            "郑晨",
+            "perpetrator of x, adversary of x"
+        ]
+    ]
+}

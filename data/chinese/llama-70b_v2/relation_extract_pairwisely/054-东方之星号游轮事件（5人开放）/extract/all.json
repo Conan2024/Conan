@@ -1,0 +1,96 @@
+{
+    "洪子": [
+      ["林若彤", "恋人关系 of x"], 
+      ["韩亦暮", "superior of x, romantic partner of x, mentor of x, partner in crime of x, enemy of x"], 
+      ["洪子廉", "friend of x, colleague of x, superior of x, mentor of x, acquaintance of x"], 
+      ["刘奇", "subclass='superior'>employee of x, acquaintance of x, colleague of x, business partner of x, customer of x"], 
+      ["案发情形", "秘密关系 of x, 人际关系 of x"], 
+      ["韩亦", "friend of x, colleague of x"]
+    ],
+    "林若彤": [
+      ["洪子", "恋人关系 of x, secret relationship of x"], 
+      ["韩亦暮", "romantic relationship of x"], 
+      ["张文远", "subordinate of x, direct leader of x, superior subordinate of x"], 
+      ["three合会", "romantic relationship of x"], 
+      ["洪子廉", "boyfriend of x, secret lover of x"], 
+      ["修仁杰", "boyfriend of x, boss of x"], 
+      ["刘奇", "romantic relationship of x, co workers of x"], 
+      ["案发情形", "romantic relationships of x, acquaintance of x"], 
+      ["韩亦", "恋人关系 of x"]
+    ],
+    "韩亦暮": [
+      ["洪子", "superior of x, romantic partner of x, mentee of x, partner in crime of x, enemy of x"], 
+      ["林若彤", "romantic relationship of x"], 
+      ["张文远", "rival of x, acquaintance of x"], 
+      ["洪子廉", "subordinate of x"], 
+      ["刘奇", "colleague of x"], 
+      ["案发情形", "suspect of x, potential witness of x, confrontation of x, motive of x, alibi of x"], 
+      ["韩亦", "同事 of x"]
+    ],
+    "张文远": [
+      ["林若彤", "subordinate of x, direct leader of x, superior subordinate of x"], 
+      ["韩亦暮", "rival of x, acquaintance of x"], 
+      ["三合会", "member of x, business partner of x, buyer of x, subordinate of x"], 
+      ["洪子廉", "林歌手 of x, 修仁杰 of x, 韩亦暮 of x"], 
+      ["修仁杰", "second in command of x, conflict of x, secret relationship of x"], 
+      ["案发情形", "accociate of x, friend of x"], 
+      ["韩亦", "同门 of x, romantic relationships of x"]
+    ],
+    "三合会": [
+      ["林若彤", "romantic relationship of x"], 
+      ["张文远", "member of x, business partner of x, seller of x, employer of x"], 
+      ["洪子廉", "leader of x, mentor of x, employer of x, superior of x, adversary of x, enemy of x, rival of x, manipulator of x, deceiver of x, betrayer of x"], 
+      ["修仁杰", "business partner of x"], 
+      ["刘奇", "acquaintance of x, business partner of x"], 
+      ["案发情形", "perpetrator of x, rival of x, enemy of x"], 
+      ["韩亦", "business partner of x, ally of x, acquaintance of x, rival of x, enemy of x"]
+    ],
+    "洪子廉": [
+      ["洪子", "friend of x, colleague of x, superior of x, mentor of x, acquaintance of x"], 
+      ["林若彤", "girlfriend of x, secret lover of x"], 
+      ["韩亦暮", "supervisor of x"], 
+      ["张文远", "刘奇 of x, 林歌手 of x, 韩亦暮 of x"], 
+      ["三合会", "leader of x, mentor of x, employer of x, superior of x, adversary of x, enemy of x, rival of x, manipulator of x, deceiver of x, betrayer of x"], 
+      ["刘奇", "employee of x, supervisor of x, perpetrator of x, bully of x, murderer of x"], 
+      ["案发情形", "romantic relationships with x, same person as x (different identity)"]
+    ],
+    "修仁杰": [
+      ["林若彤", "girlfriend of x, employee of x"], 
+      ["张文远", "captain of x, ignored report of x, mafia connection of x"], 
+      ["三合会", "business partner of x"], 
+      ["刘奇", "friend of x, mentor of x"], 
+      ["案发情形", "romantic relationship of x, business partner of x"], 
+      ["韩亦", "employer employee of x, superior subordinate of x"]
+    ],
+    "刘奇": [
+      ["洪子", "subclass='employee'>supervisor of x, acquaintance of x, colleague of x, business partner of x, customer of x"], 
+      ["林若彤", "romantic relationship of x, co workers of x"], 
+      ["韩亦暮", "colleague of x, superior of x"], 
+      ["三合会", "acquaintance of x, business partner of x"], 
+      ["洪子廉", "employee of x, supervisor of x, perpetrator of x, bully of x, murderer of x"], 
+      ["修仁杰", "friend of x, mentor of x"], 
+      ["案发情形", "学弟 of x, 手下 of x"], 
+      ["韩亦", "friend of x, colleague of x, and fellow crew member of x"]
+    ],
+    "案发情形": [
+      ["洪子", "秘密关系 of x, 人际关系 of x"], 
+      ["林若彤", "romantic relationships of x, acquaintance of x"], 
+      ["韩亦暮", "suspect of x, potential witness of x, confrontation of x, motive of x, victim of x"], 
+      ["张文远", "accociate of x, friend of x"], 
+      ["three合会", "perpetrator of x, rival of x, enemy of x"], 
+      ["洪子廉", "romantic relationships with x, same person as x (different identity)"], 
+      ["修仁杰", "romantic relationship of x, business partner of x"], 
+      ["刘奇", "船长 of x, 秘密交易 of x"], 
+      ["韩亦", "rival of x"]
+    ],
+    "韩亦": [
+      ["洪子", "friend of x, colleague of x"], 
+      ["林若彤", "恋人关系 of x"], 
+      ["韩亦暮", "同事 of x"], 
+      ["张文远", "同门 of x, romantic relationships of x"], 
+      ["三合会", "business partner of x, ally of x, acquaintance of x, rival of x, enemy of x"], 
+      ["修仁杰", "employer employee of x, superior subordinate of x"], 
+      ["刘奇", "friend of x, colleague of x, and fellow crew member of x"], 
+      ["案发情形", "rival of x"]
+    ]
+}

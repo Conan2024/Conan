@@ -1,0 +1,108 @@
+{
+    "张大副": [
+        [
+            "很天真（张大副的弟弟）",
+            "sibling of x, helper of x, helped by x"
+        ],
+        [
+            "杨老板",
+            "business partner of x, adversary of x, murderer of x"
+        ],
+        [
+            "雯秘书（杨老板的部下）",
+            "business associate of x"
+        ],
+        [
+            "王船工",
+            "colleague of x, quest companion of x, manipulated by x"
+        ],
+        [
+            "玲船医",
+            "helper of x, manipulated by x, romantic interests of x"
+        ],
+        [
+            "王小工（王船工的儿子）",
+            "acquaintance of x"
+        ]
+    ],
+    "很天真（张大副的弟弟）": [
+        [
+            "张大副",
+            "sibling of x, helped by x"
+        ],
+        [
+            "杨老板",
+            "employer of x, admired by x, suspected by x"
+        ],
+        [
+            "王小工（王船工的儿子）",
+            "acquaintance of x"
+        ]
+    ],
+    "杨老板": [
+        [
+            "雯秘书（杨老板的部下）",
+            "superior of x, trusts x"
+        ],
+        [
+            "很天真（张大副的弟弟）",
+            "employee of x, manipulator of x, perpetrator of x"
+        ],
+        [
+            "张大副",
+            "business partner of x, victim of x"
+        ]
+    ],
+    "雯秘书（杨老板的部下）": [
+        [
+            "杨老板",
+            "subordinate of x, trusted by x"
+        ],
+        [
+            "张大副",
+            "business associate of x"
+        ]
+    ],
+    "王船工": [
+        [
+            "张大副",
+            "colleague of x, quest companion of x, manipulated by x"
+        ],
+        [
+            "玲船医",
+            "acquaintance of x, monitored by x"
+        ],
+        [
+            "王小工（王船工的儿子）",
+            "father of x"
+        ]
+    ],
+    "玲船医": [
+        [
+            "张大副",
+            "helper of x, romantic interest of x, manipulated by x"
+        ],
+        [
+            "王船工",
+            "spy of x"
+        ],
+        [
+            "王小工（王船工的儿子）",
+            "fiancee of x, manipulator of x"
+        ]
+    ],
+    "王小工（王船工的儿子）": [
+        [
+            "玲船医",
+            "fiance of x, victim of x"
+        ],
+        [
+            "王船工",
+            "child of x"
+        ],
+        [
+            "很天真（张大副的弟弟）",
+            "acquaintance of x"
+        ]
+    ]
+}

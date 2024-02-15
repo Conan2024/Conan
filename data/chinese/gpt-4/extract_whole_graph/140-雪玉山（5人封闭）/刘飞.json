@@ -1,0 +1,130 @@
+{
+    "刘飞": [
+        [
+            "刘小蝶",
+            "father of x"
+        ],
+        [
+            "刘飞的妻子",
+            "husband of x"
+        ],
+        [
+            "陈生",
+            "acquaintance of x"
+        ],
+        [
+            "村长",
+            "acquaintance of x, victim of x"
+        ],
+        [
+            "跟班",
+            "acquaintance of x"
+        ],
+        [
+            "村长的跟班",
+            "acquaintance of x"
+        ],
+        [
+            "雪玉山的大王",
+            "information receiver from x"
+        ],
+        [
+            "山大王",
+            "information receiver from x"
+        ],
+        [
+            "官兵",
+            "victim of x"
+        ]
+    ],
+    "刘小蝶": [
+        [
+            "刘飞",
+            "daughter of x"
+        ],
+        [
+            "刘飞的妻子",
+            "child of x"
+        ],
+        [
+            "陈生",
+            "romantic relationships with x"
+        ],
+        [
+            "雪玉山的大王",
+            "wife of x"
+        ],
+        [
+            "山寨夫人",
+            "same person as x (different reference)"
+        ],
+        [
+            "官兵",
+            "acquaintance of x"
+        ],
+        [
+            "村长",
+            "acquaintance of x"
+        ],
+        [
+            "村长的跟班",
+            "acquaintance of x"
+        ],
+        [
+            "跟班",
+            "acquaintance of x"
+        ]
+    ],
+    "村长": [
+        [
+            "刘飞",
+            "victim of x"
+        ],
+        [
+            "官兵",
+            "informant of x"
+        ]
+    ],
+    "村长的跟班": [
+        [
+            "刘飞",
+            "victim of x"
+        ]
+    ],
+    "跟班": [
+        [
+            "刘飞",
+            "victim of x"
+        ]
+    ],
+    "官兵": [
+        [
+            "刘飞",
+            "deceived by x"
+        ],
+        [
+            "村长",
+            "information receiver from x"
+        ]
+    ],
+    "雪玉山的大王": [
+        [
+            "刘小蝶",
+            "husband of x"
+        ],
+        [
+            "刘飞",
+            "informant of x"
+        ]
+    ],
+    "山大王": [
+        [
+            "刘小蝶",
+            "husband of x"
+        ],
+        [
+            "刘飞",
+            "informant of x"
+        ]
+    ]
+}

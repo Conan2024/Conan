@@ -1,0 +1,50 @@
+{
+    "程导演": [
+        [
+            "甄演员",
+            "employer of x, manipulator of x, sexual relations with x, suspected by x, suspect of x"
+        ],
+        [
+            "严歌手",
+            "colleague of x, business partner of x"
+        ],
+        [
+            "白经纪",
+            "acquaintance of x, business partner of x"
+        ]
+    ],
+    "甄演员": [
+        [
+            "程导演",
+            "employee of x, manipulated by x, sexual relationship with x, deceiver of x, victim of x"
+        ],
+        [
+            "严歌手",
+            "colleague of x"
+        ],
+        [
+            "白经纪",
+            "business partner of x, friend of x"
+        ]
+    ],
+    "严歌手": [
+        [
+            "程导演",
+            "colleague of x, business partner of x"
+        ],
+        [
+            "甄演员",
+            "colleague of x"
+        ]
+    ],
+    "白经纪": [
+        [
+            "甄演员",
+            "business partner of x, friend of x"
+        ],
+        [
+            "程导演",
+            "business partner of x, acquaintance of x"
+        ]
+    ]
+}

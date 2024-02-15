@@ -1,0 +1,42 @@
+{
+    "盖尔•里莫瑞特": [
+      ["德雷克", "husband of x, father of x, informant of x, acquaintance of x"], 
+      ["吉姆·梅森", "husband of x, perpetrator of x, murderer of x, adversary of x, enemy of x, rival of x, manipulator of x, manipulated of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["护士长科斯タ", "colleague of x, patient of x, rival of x, acquaintance of x"], 
+      ["罗伯特·凯西", "husband of x, lover of x, acquaintance of x, classmate of x"]
+    ],
+    "德雷克": [
+      ["盖尔•里莫瑞特", "wife of x, mother of x, sibling of x, friend of x"], 
+      ["汉斯·里莫瑞特", "brother of x, fellow doctor of x, friend of x, confidant of x, partner in crime of x"], 
+      ["吉姆·梅森", "husband of x"], 
+      ["护士长科斯塔", "对手 of x, 敌人 of x"], 
+      ["罗伯特·凯西", "acquaintance of x, classmate of x, colleague of x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["德雷克", "brother of x, fellow doctor of x, friend of x, confidant of x, partner in crime of x"], 
+      ["吉姆·梅森", "husband of x, 嫁给了德雷克 of x, adversary of x, enemy of x"], 
+      ["罗伯特·凯西", "husband of x, father of x's child"]
+    ],
+    "吉姆·梅森": [
+      ["盖尔•里莫瑞特", "wife of x, suspect of x, victim of x, killed by of x, disliked by of x, suspicious of x, suspect of x, adversary of x, enemy of x, rival of x, manipulator of x, manipulated by of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["德雷克", "wife of x"], 
+      ["汉斯·里莫瑞特", "wife of x, victim of x, suspect of x, rival of x"], 
+      ["护士长科斯塔", "acquaintance of x, colleague of x"], 
+      ["罗伯特·凯西", "friend of x, colleague of x, adversary of x, enemy of x, rival of x"]
+    ],
+    "护士长科斯타": [
+      ["盖尔•里莫瑞特", "colleague of x, patient of x, rival of x, acquaintance of x"]
+    ],
+    "罗伯特·凯西": [
+      ["盖尔•里莫瑞特", "husband of x, lover of x, acquaintance of x, classmate of x"], 
+      ["德雷克", "acquaintance of x, classmate of x, colleague of x"], 
+      ["汉斯·里莫瑞特", "brother in law of x, uncle of x's child"], 
+      ["吉姆·梅森", "friend of x, colleague of x, adversary of x, enemy of x, rival of x"], 
+      ["护士长科斯타", "colleague of x, acquaintance of x"]
+    ],
+    "护士长科斯塔": [
+      ["德雷克", "被告人 of x, 被害人 of x"], 
+      ["吉姆·梅森", "acquaintance of x, colleague of x"], 
+      ["罗伯特·凯西", "colleague of x, acquaintance of x"]
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "决明": [
+      ["玄冰教使者", "friend of x"], 
+      ["盗圣", "co conspirator of x"]
+    ],
+    "玄冰教使者": [
+      ["决明", "friend of x"], 
+      ["盗圣", "co conspirator of x"]
+    ],
+    "盗圣": [
+      ["决明", "co conspirator of x"], 
+      ["玄冰教使者", "co conspirator of x"]
+    ],
+    "紫苏": [
+      ["决明", "acquaintance of x"], 
+      ["玄冰教使者", "friend of x"]
+    ],
+    "蜂": [
+      ["决明", "friend of x"], 
+      ["玄冰教使者", "friend of x"]
+    ],
+    "陆英": [
+      ["决明", "friend of x"], 
+      ["玄冰教使者", "friend of x"]
+    ],
+    "玄冰圣教": [
+      ["决明", "member of x"], 
+      ["玄冰教使者", "leader of x"]
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "洪子廉": [
+      ["刘奇", "subordinate of x, friend of x"], 
+      ["林若彤", "secret lover of x, helped by x"], 
+      ["韩亦暮", "subordinate of x, disliked by x"], 
+      ["张文远", "subordinate of x, disliked by x"], 
+      ["修仁杰", "acquaintance of x"], 
+      ["洪船长", "same person as x (different identity)"], 
+      ["张二副", "subordinate of x"], 
+      ["林歌手", "same person as x (different identity)"]
+    ],
+    "刘奇": [
+      ["洪子廉", "superior of x, friend of x"], 
+      ["洪船长", "co worker of x"]
+    ],
+    "韩亦暮": [
+      ["洪子廉", "superior of x, disliker of x"], 
+      ["林若彤", "adversary of x"]
+    ],
+    "林若彤": [
+      ["洪子廉", "secret lover of x, helped by x"], 
+      ["韩亦暮", "adversary of x"], 
+      ["林歌手", "same person as x (different identity)"]
+    ],
+    "张文远": [
+      ["洪子廉", "superior of x, disliked by x"], 
+      ["张二副", "same person as x (different identity)"]
+    ],
+    "修仁杰": [
+      ["洪子廉", "acquaintance of x"], 
+      ["林若彤", "superior of x"]
+    ]
+}

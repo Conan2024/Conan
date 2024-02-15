@@ -1,0 +1,50 @@
+{
+    "郑函贞": [
+      ["周教授", "teacher of x, mentor of x"], 
+      ["忱纱", "classmate of x, friend of x"], 
+      ["巴府山", "landlord of x, employer of x, enemy of x"], 
+      ["鹃歌", "girlfriend of x, rival of x"], 
+      ["鬼印", "rival of x, murderer of x"]
+    ],
+    "忱纱": [
+      ["郑函贞", "classmate of x, friend of x"], 
+      ["周教授", "father of x, mentor of x"], 
+      ["巴府山", "landlord of x, employer of x"], 
+      ["鹃歌", "sister of x, rival of x"]
+    ],
+    "巴府山": [
+      ["郑函贞", "landlord of x, employer of x, enemy of x"], 
+      ["忱纱", "daughter of x"], 
+      ["鹃歌", "daughter of x"], 
+      ["鬼印", "rival of x"]
+    ],
+    "鹃歌": [
+      ["郑函贞", "girlfriend of x, rival of x"], 
+      ["忱纱", "sister of x, rival of x"], 
+      ["巴府山", "father of x, employer of x"], 
+      ["鬼印", "rival of x"]
+    ],
+    "鬼印": [
+      ["郑函贞", "rival of x, murderer of x"], 
+      ["忱纱", "sister of x, rival of x"], 
+      ["巴府山", "rival of x"]
+    ],
+    "如娅": [
+      ["忱纱", "mother of x"], 
+      ["巴府山", "father of x"], 
+      ["鹃歌", "sister of x"]
+    ],
+    "甘玛": [
+      ["如娅", "daughter of x"], 
+      ["巴府山", "son of x"], 
+      ["鹃歌", "sister of x"]
+    ],
+    "李高柏": [
+      ["郑函贞", "friend of x"], 
+      ["巴府山", "friend of x"]
+    ],
+    "隼": [
+      ["李高柏", "friend of x"], 
+      ["郑函贞", "friend of x"]
+    ]
+}

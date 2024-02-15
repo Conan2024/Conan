@@ -1,0 +1,18 @@
+{
+    "孙清洁": [
+      ["贾教授", "supervisor employee of x, blackmailer blackmailed of x"]
+    ],
+    "贾教授": [
+      ["孙清洁", "supervisor employee of x, blackmailer blackmailed of x"], 
+      ["田助理", "superior of x, employer of x, master of x, controller of x"], 
+      ["李保安", "co worker of x, acquaintance of x"]
+    ],
+    "田助理": [
+      ["李保安", "perpetrator of x"], 
+      ["贾教授", "superior of x, employer of x, master of x, controller of x"]
+    ],
+    "李保安": [
+      ["田助理", "victim of x"], 
+      ["贾教授", "co worker of x, acquaintance of x"]
+    ]
+}

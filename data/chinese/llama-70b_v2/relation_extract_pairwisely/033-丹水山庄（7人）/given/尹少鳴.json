@@ -1,0 +1,40 @@
+{
+    "任": [
+      ["冯双骥", "acquaintance of x"], 
+      ["尹少鸣", "acquaintance of x, helper of x"], 
+      ["虞北辰", "relatives of x, nephew/niece of x, friend of x"], 
+      ["赵洛意", "employer/master of x, acquaintance of x, friend of x, fellow investigator of x"]
+    ],
+    "冯双骥": [
+      ["任", "acquaintance of x, suspect of x, victim of x"], 
+      ["尹少鸣", "savior of x, protector of x, confidant of x, ally of x, friend of x"], 
+      ["虞北辰", "relative of x, acquaintance of x, suspect of x"], 
+      ["赵万雷", "father of x, father in law of x, uncle of x, aunt of x, cousin of x, cousin of x, friend of x, innkeeper of x"], 
+      ["赵洛意", "acquaintance of x, savior of x, travel companion of x"]
+    ],
+    "尹少鸣": [
+      ["任", "acquaintance of x, helped by of x"], 
+      ["冯双骥", "savior of x, protector of x, confidant of x, ally of x, friend of x"], 
+      ["赵万雷", "savior of x, rescuer of x"], 
+      ["赵洛意", "savior of x, rescuer of x"]
+    ],
+    "虞北辰": [
+      ["任", "relatives of x, nephew/niece of x, friend of x"], 
+      ["冯双骥", "friend of x, employer of x, suspicious of x"], 
+      ["赵万雷", "赵洛意 of x"], 
+      ["赵洛意", "father daughter of x, master servant of x, captor captive of x"]
+    ],
+    "赵万雷": [
+      ["冯双骥", "son of x, son in law of x, grandson of x, nephew of x, nephew of x, friend of x, innkeeper of x"], 
+      ["尹少鸣", "savior of x, rescuer of x"], 
+      ["虞北辰", "赵洛意 of x"], 
+      ["赵洛意", "father of x, captor of x, enemy of x, rival of x"]
+    ],
+    "赵洛意": [
+      ["任", "employer/master of x, acquaintance of x, friend of x, fellow investigator of x"], 
+      ["冯双骥", "rescuer of x, acquaintance of x, travel companion of x"], 
+      ["尹少鸣", "rescued person of x, grateful person of x"], 
+      ["虞北辰", "father daughter of x, master servant of x, rescuer rescued of x"], 
+      ["赵万雷", "daughter of x"]
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "杨老板": [
+      ["你", "superior of x, employer of x, mentor of x, adversary of x, enemy of x, rival of x, manipulator of x, manipulated of x, victim of x, deceiver of x, betrayer of x, suspicious of x, suspect of x, information receiver of x, informant of x"], 
+      ["张大副", "employee of x, business partner of x, helped by x, informant of x"], 
+      ["王船工", "employer of x, perpetratrof x"], 
+      ["王小工", "relationship 1: 毒品供应商 of x, relationship 2: 酒吧老板 of x"]
+    ],
+    "你": [
+      ["杨老板", "superior of x, employer of x, mentor of x, adversary of x, enemy of x, rival of x, manipulator of x, manipulated of x, victim of x, deceiver of x, betrayer of x, suspicious of x, suspect of x, information receiver of x, informant of x"], 
+      ["张大副", "cooperative partner of x, accomplice in murder of x, friend of x"], 
+      ["玲船医", "wang xiurong, king of x medicine, perpetrator of x, bully of x, murderer of x"], 
+      ["王船工", "同谋 of x, 盟友 of x, 敵人 of x, 嫌疑犯 of x, 潜在的威胁 of x"], 
+      ["王小工", "associate of x, co conspirator of x"], 
+      ["毒瘾", "employer of x, master of x, superior of x, adversary of x, enemy of x"]
+    ],
+    "张大副": [
+      ["杨老板", "partner of x, collaborator of x, victim of x"], 
+      ["你", "cooperative partner of x, accomplice in murder of x, friend of x"], 
+      ["玲船医", "industry partner of x, co conspirator of x"], 
+      ["王船工", "对手 of x, 毒品供应商 of x"], 
+      ["王小工", "business partner of x, co conspirator of x"], 
+      ["毒瘾", "business partner of x, rival of x"]
+    ],
+    "玲船医": [
+      ["你", "wang xiurong, king of x medicine, perpetrator of x, bully of x, murderer of x"], 
+      ["张大副", "industry partner of x, co conspirator of x"], 
+      ["王船工", "acquaintance of x"], 
+      ["王小工", "friend of x"], 
+      ["毒瘾", "romantic relationship of x, accomplice of x, enemy of x, friend of x"]
+    ],
+    "王船工": [
+      ["杨老板", "subordinate of x, victim of x"], 
+      ["你", "sameconspirator of x, ally of x, enemy of x, suspect of x, potential threat of x"], 
+      ["张大副", "对手 of x, 毒品供应商 of x"], 
+      ["玲船医", "acquaintance of x"], 
+      ["王小工", "father son relationship of x"], 
+      ["毒瘾", "perpetrator of x, manipulator of x"]
+    ],
+    "王小工": [
+      ["杨老板", "relationship 1: 毒品供应商 of x, relationship 2: 酒吧老板 of x"], 
+      ["你", "associate of x, co conspirator of x"], 
+      ["张大副", "business partner of x, co conspirator of x"], 
+      ["玲船医", "friend of x"], 
+      [" Wang Xiao工", "son father relationship of x"], 
+      ["毒瘾", "perpetrator of x"]
+    ],
+    "毒瘾": [
+      ["你", "employer of x, master of x, superior of x, adversary of x, enemy of x"], 
+      ["张大副", "business partner of x, rival of x"], 
+      ["玲船医", "romantic relationship of x, accomplice of x, enemy of x, friend of x"], 
+      [" Wang shipwork", "perpetrator of x, manipulator of x"], 
+      ["王小工", "victim of x"]
+    ]
+}

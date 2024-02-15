@@ -1,0 +1,68 @@
+{
+    "韦太太": [
+      ["明纱", "friend of x, victim of x"], 
+      ["谭仁昌", "husband of x, friend of x, acquaintance of x, suspect of x"], 
+      ["欣雅", "friend of x, servant of x, acquaintance of x"], 
+      ["罗亨理", "brother in law of x, acquaintance of x, suspect of x"], 
+      ["罗明纱", "sister in law of x, acquaintance of x, suspect of x"]
+    ],
+    "谭仁昌": [
+      ["韦太太", "wife of x, friend of x, acquaintance of x, suspect of x"], 
+      ["明纱", "daughter in law of x, friend of x, acquaintance of x, suspect of x"], 
+      ["欣雅", "friend of x, servant of x, acquaintance of x"], 
+      ["罗亨理", "brother in law of x, acquaintance of x, suspect of x"], 
+      ["罗明纱", "sister in law of x, acquaintance of x, suspect of x"]
+    ],
+    "明纱": [
+      ["韦太太", "friend of x, victim of x"], 
+      ["谭仁昌", "husband of x, friend of x, acquaintance of x, suspect of x"], 
+      ["欣雅", "friend of x, servant of x, acquaintance of x"], 
+      ["罗亨理", "brother in law of x, acquaintance of x, suspect of x"], 
+      ["罗明纱", "sister in law of x, acquaintance of x, suspect of x"]
+    ],
+    "欣雅": [
+      ["韦太太", "friend of x, servant of x, acquaintance of x"], 
+      ["谭仁昌", "friend of x, acquaintance of x"], 
+      ["明纱", "friend of x, servant of x, acquaintance of x"], 
+      ["罗亨理", "acquaintance of x, suspect of x"], 
+      ["罗明纱", "acquaintance of x, suspect of x"]
+    ],
+    "罗亨理": [
+      ["韦太太", "brother in law of x, acquaintance of x, suspect of x"], 
+      ["谭仁昌", "brother in law of x, acquaintance of x, suspect of x"], 
+      ["明纱", "sister in law of x, acquaintance of x, suspect of x"], 
+      ["欣雅", "acquaintance of x, suspect of x"], 
+      ["谭太太", "brother in law of x, acquaintance of x, suspect of x"]
+    ],
+    "罗明纱": [
+      ["韦太太", "sister in law of x, acquaintance of x, suspect of x"], 
+      ["谭仁昌", "brother of x, acquaintance of x, suspect of x"], 
+      ["明纱", "sister of x, acquaintance of x, suspect of x"], 
+      ["欣雅", "acquaintance of x, suspect of x"], 
+      ["谭太太", "sister in law of x, acquaintance of x, suspect of x"]
+    ],
+    "吕名然": [
+      ["韦太太", "friend of x, victim of x"], 
+      ["明纱", "sister in law of x, friend of x, acquaintance of x, suspect of x"], 
+      ["谭仁昌", "friend of x, victim of x"], 
+      ["欣雅", "friend of x, servant of x, acquaintance of x"], 
+      ["罗亨理", "brother in law of x, acquaintance of x, suspect of x"], 
+      ["罗明纱", "sister in law of x, acquaintance of x, suspect of x"]
+    ],
+    "吕守本": [
+      ["韦太太", "mother in law of x, friend of x, acquaintance of x"], 
+      ["谭仁昌", "son of x, friend of x, acquaintance of x"], 
+      ["明纱", "daughter in law of x, friend of x, acquaintance of x"], 
+      ["欣雅", "friend of x, servant of x, acquaintance of x"], 
+      ["罗亨理", "brother in law of x, acquaintance of x, suspect of x"], 
+      ["罗明纱", "sister in law of x, acquaintance of x, suspect of x"]
+    ],
+    "吕采茜": [
+      ["韦太太", "friend of x, victim of x"], 
+      ["明纱", "sister in law of x, friend of x, acquaintance of x, suspect of x"], 
+      ["谭仁昌", "friend of x, victim of x"], 
+      ["欣雅", "friend of x, servant of x, acquaintance of x"], 
+      ["罗亨理", "brother in law of x, acquaintance of x, suspect of x"], 
+      ["罗明纱", "sister in law of x, acquaintance of x, suspect of x"]
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "草藤居士": [
+      ["方竹", "same person as x (different identity)"], 
+      ["方府夫人", "adoptive mother of x"], 
+      ["方叶", "adoptive sister of x, disliked by x, dislike of x"], 
+      ["方眠", "adoptive sister of x, disliked by x, dislike of x"], 
+      ["方絮", "adoptive sister of x, lover of x, wife of x, secret lover of x"], 
+      ["李钦仁", "victim of x, enemy of x, replaced x's identity"], 
+      ["尔矢斯芭嗒", "same person as x (different reference)"], 
+      ["陈孜靖", "friend of x, information receiver from x, mentor of x"]
+    ],
+    "方府夫人": [
+      ["方竹", "adoptive son of x"], 
+      ["方叶", "biological son of x"], 
+      ["方眠", "biological daughter of x"], 
+      ["方絮", "biological daughter of x"]
+    ],
+    "方叶": [
+      ["方竹", "adoptive brother of x"], 
+      ["方眠", "same person as x (different identity)"], 
+      ["方絮", "same person as x (different identity)"]
+    ],
+    "方眠": [
+      ["方竹", "adoptive brother of x"], 
+      ["方叶", "same person as x (different identity)"], 
+      ["方絮", "same person as x (different identity)"]
+    ],
+    "方絮": [
+      ["方竹", "lover of x, wife of x, adoptive brother of x"], 
+      ["方叶", "same person as x (different identity)"], 
+      ["方眠", "same person as x (different identity)"], 
+      ["李仲", "mother of x"], 
+      ["李延", "mother of x"]
+    ],
+    "陈孜靖": [
+      ["草藤居士", "informant of x, student of x, friend of x"], 
+      ["陈倩", "father of x"], 
+      ["小茜", "relative of x"]
+    ],
+    "李钦仁": [
+      ["方絮", "husband of x"], 
+      ["李仲", "father of x"], 
+      ["李延", "father of x"]
+    ],
+    "陈倩": [
+      ["小茜", "possibly family of x, possibly family of x"], 
+      ["李仲", "fiancee of x"]
+    ],
+    "小茜": [
+      ["草藤居士", "adoptive daughter of x"], 
+      ["陈倩", "possibly family of x, possibly family of x"]
+    ],
+    "李仲": [
+      ["方絮", "child of x"], 
+      ["李延", "same person as x (different identity)"], 
+      ["陈倩", "fiance of x"]
+    ],
+    "李延": [
+      ["方絮", "child of x"], 
+      ["李仲", "same person as x (different identity)"]
+    ]
+}

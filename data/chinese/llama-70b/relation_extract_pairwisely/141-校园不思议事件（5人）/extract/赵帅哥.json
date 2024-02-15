@@ -1,0 +1,530 @@
+{
+    "赵帅哥": [
+        [
+            "Mother",
+            "Family Member",
+            "Caregiver",
+            "Emotional Connection"
+        ],
+        [
+            "Father",
+            "Absent Father",
+            "Estranged Father",
+            "Deceased Father",
+            "Absentee Father"
+        ],
+        [
+            "林校花",
+            "classmate",
+            "love interest",
+            "sibling-like",
+            "rival",
+            "friendship-like"
+        ],
+        [
+            "李小弟",
+            "同学",
+            "朋友",
+            "敌人",
+            "竞争对手"
+        ],
+        [
+            "王学习",
+            "friend",
+            "mentor",
+            "confidant",
+            "rival",
+            "bully"
+        ],
+        [
+            "父亲",
+            " distant relationship"
+        ],
+        [
+            "奶奶",
+            "关系 1",
+            "关系 2"
+        ],
+        [
+            "爸爸",
+            "son"
+        ],
+        [
+            "张恶霸",
+            "林校花"
+        ]
+    ],
+    "Mother": [
+        [
+            "赵帅哥",
+            "Family Member",
+            "Caregiver",
+            "Emotional Connection"
+        ],
+        [
+            "Father",
+            "estranged relationship"
+        ],
+        [
+            "林校花",
+            "relationship 1: Friend",
+            "relationship 2: Classmate"
+        ],
+        [
+            "李小弟",
+            "stepmother",
+            "guardian",
+            "strained relationship"
+        ],
+        [
+            "王学习",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "父亲",
+            "separated",
+            "estranged"
+        ],
+        [
+            "奶奶",
+            "relationShip 1: 奶奶 acted as a mother figure to the protagonist during their childhood, providing love and care. Even after she left the family, the protagonist still has a complex relationship with her, feeling both anger and sadness towards her. They fantasize about making her suffer to avenge their father's death, but also hope that she will return to the family someday.",
+            "relationShip 2:  The protagonist and their mother have a complicated relationship, as they feel a mix of anger and sadness towards her for leaving the family. They fantasize about making her suffer to avenge their father's death, but also hope that she will return to the family someday."
+        ],
+        [
+            "爸爸",
+            " Husband of X",
+            " Father of X",
+            " Manipulator of X",
+            " Victim of X"
+        ]
+    ],
+    "Father": [
+        [
+            "赵帅哥",
+            "Father-Son",
+            "Absent Father",
+            "Estranged Father",
+            "Deceased Father",
+            "Absentee Father"
+        ],
+        [
+            "Mother",
+            "estranged relationship"
+        ],
+        [
+            "张恶霸",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "李小弟",
+            "stepson",
+            "friend's son",
+            "student",
+            "mentee",
+            "rival's son"
+        ],
+        [
+            "奶奶",
+            "Mother-in-law",
+            "Stepfather-stepmother",
+            "Guardian-ward",
+            "Benefactor-beneficiary",
+            "Debtor-creditor"
+        ],
+        [
+            "爸爸",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "林校花": [
+        [
+            "赵帅哥",
+            "classmate",
+            "love interest",
+            "sibling-like",
+            "rival",
+            "friendship-like"
+        ],
+        [
+            "Mother",
+            "relationship 1: Classmate",
+            "relationship 2: Friend"
+        ],
+        [
+            " Father",
+            "stepmother",
+            "friend",
+            "love interest"
+        ],
+        [
+            "张恶霸",
+            "boyfriend - girlfriend"
+        ],
+        [
+            "赵帅哥"
+        ],
+        [
+            "李小弟",
+            "boyfriend"
+        ],
+        [
+            "王学习",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "父亲",
+            "未婚妻"
+        ],
+        [
+            "奶奶",
+            "Acquaintance",
+            "Classmate"
+        ],
+        [
+            "爸爸",
+            "father-daughter relationship"
+        ]
+    ],
+    "李小弟": [
+        [
+            "赵帅哥",
+            "同学",
+            "朋友",
+            "敌人",
+            "竞争对手"
+        ],
+        [
+            "Mother",
+            "son",
+            "stepfather",
+            "strained relationship"
+        ],
+        [
+            "Father",
+            "stepfather",
+            "friend",
+            "tutor",
+            "mentor",
+            "rival"
+        ],
+        [
+            "张恶霸",
+            "enemy",
+            "rival"
+        ],
+        [
+            "林校花",
+            "girlfriend"
+        ],
+        [
+            "王学习",
+            "relationship 1, relationship 2, relationship 3"
+        ],
+        [
+            "父亲",
+            "son"
+        ],
+        [
+            "奶奶",
+            "biological mother",
+            "adoptive mother",
+            "step-mother",
+            "mother-in-law"
+        ],
+        [
+            "爸爸",
+            "son",
+            "guardian",
+            "dependent",
+            "mentor",
+            "protégé",
+            "enemy",
+            "rival"
+        ]
+    ],
+    "王学习": [
+        [
+            "赵帅哥",
+            "friend",
+            "mentor",
+            "confidant",
+            "rival",
+            "bully"
+        ],
+        [
+            " Father",
+            "Stranger to X ",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X",
+            "Neighbour of X",
+            "Friend of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Informant of X",
+            "Victim of X"
+        ],
+        {
+            "张恶霸": [
+                "enemy",
+                "对手",
+                "mentee",
+                "学生"
+            ]
+        },
+        [
+            "林校花",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "李小弟",
+            "relationship 1, relationship 2, relationship 6"
+        ],
+        [
+            "父亲",
+            "son"
+        ],
+        [
+            "奶奶",
+            "friend",
+            "nephew",
+            "son",
+            "schoolmate"
+        ],
+        [
+            "爸爸",
+            "son"
+        ]
+    ],
+    "父亲": [
+        [
+            "赵帅哥",
+            "distant relationship"
+        ],
+        [
+            "Mother",
+            "separated",
+            "estranged"
+        ],
+        [
+            " Father",
+            "stepfather",
+            "son",
+            "distant relative",
+            "colleague",
+            "customer",
+            "friend",
+            "employee",
+            "partner",
+            "adversary"
+        ],
+        [
+            "张恶霸",
+            "赵帅哥"
+        ],
+        [
+            "林校花",
+            "父亲"
+        ],
+        [
+            "李小弟",
+            "father"
+        ],
+        [
+            "王学习",
+            "father"
+        ],
+        [
+            "奶奶",
+            "父亲"
+        ],
+        [
+            "爸爹",
+            "foster father-son relationship",
+            "uncle-nephew relationship",
+            "guardian-ward relationship"
+        ]
+    ],
+    "奶奶": [
+        [
+            "赵帅哥",
+            "关系 1",
+            "关系 2"
+        ],
+        [
+            " Mother",
+            "relationShip 1: 奶奶 is the mother of the protagonist, who was left behind by her husband and son. She is described as a poor, fragile, and helpless woman who is dependent on others. Despite her weaknesses, she is a kind and gentle person who has a strong bond with her son, even though he has a conflicted relationship with her.",
+            "relationShip 2:  The protagonist has a complicated relationship with their mother, 奶奶, who left the family and married another man. The protagonist feels angry and hurt by her departure and fantasizes about making her suffer to avenge their father's death."
+        ],
+        [
+            " Father",
+            "Mother-in-law",
+            "Stepfather-stepmother",
+            "Guardian-ward",
+            "Benefactor-beneficiary",
+            "Debtor-creditor"
+        ],
+        [
+            "张恶霸",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "林校花",
+            "Acquaintance",
+            "Classmate"
+        ],
+        [
+            "李小弟",
+            "biological son",
+            "adoptive son",
+            "step-son",
+            "son-in-law"
+        ],
+        [
+            "王学习",
+            "friend",
+            "mother",
+            "aunt",
+            "teacher"
+        ],
+        [
+            "父亲",
+            "奶奶"
+        ]
+    ],
+    "爸爸": [
+        [
+            "赵帅哥",
+            "father"
+        ],
+        [
+            " Mother",
+            " Wife of X",
+            " Romantic relationships with X",
+            " Perpetrator of X",
+            " Bully of X"
+        ],
+        [
+            "Father",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "张恶霸",
+            "son",
+            "stepchild",
+            "complicated relationship"
+        ],
+        [
+            "林校花",
+            "father-daughter relationship"
+        ],
+        [
+            "李小弟",
+            "son",
+            "guardian",
+            "dependent",
+            "mentor",
+            "protégé",
+            "enemy",
+            "rival"
+        ],
+        [
+            "王学习",
+            "father"
+        ],
+        [
+            "父亲",
+            "father-son relationship"
+        ]
+    ],
+    " Mother": [
+        [
+            "张恶霸",
+            "Perpetrator of X",
+            "Adversary of X"
+        ]
+    ],
+    "张恶霸": [
+        [
+            " Mother",
+            "Perpetrator of X",
+            "Adversary of X"
+        ],
+        [
+            "Father",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "林校花",
+            "boyfriend - girlfriend"
+        ],
+        [
+            "李小弟",
+            "enemy",
+            "rival"
+        ],
+        {
+            "王学习": [
+                "enemy",
+                "对手",
+                "mentor",
+                "teacher"
+            ]
+        },
+        [
+            "父亲",
+            "赵帅哥"
+        ],
+        [
+            "奶奶",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "爸爸",
+            "stepfather",
+            "strained relationship",
+            "complicated relationship"
+        ]
+    ],
+    " Wang Xue": [
+        [
+            " Mother",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    " Father": [
+        [
+            "林校花",
+            "stepmother",
+            "friend",
+            "love interest"
+        ],
+        [
+            "王学习",
+            "Stranger to X ",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X",
+            "Neighbour of X",
+            "Friend of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Informant of X",
+            "Victim of X"
+        ],
+        [
+            "父亲",
+            "stepfather",
+            "son",
+            "distant relative",
+            "colleague",
+            "customer",
+            "friend",
+            "employee",
+            "partner",
+            "adversary"
+        ]
+    ]
+}

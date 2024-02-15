@@ -1,0 +1,89 @@
+{
+    "张红生": [
+      ["孟三春", "husband of x, romantic relationships with x, secret lover of x"], 
+      ["洪江水", "wife of x"], 
+      ["蔡思娘", "romantic relationships with x, admirer of x"], 
+      ["洪长烈", "husband of x"], 
+      ["张金银", "friend of x"], 
+      ["张金山", "ex husband of x, rival of x"], 
+      ["洪三妹", "same person as x (different identity)"], 
+      ["洪二郎", "fiance of x"]
+    ],
+    "孟三春": [
+      ["张红生", "wife of x, romantic relationships with x, secret lover of x"], 
+      ["洪江水", "husband of x"], 
+      ["蔡思娘", "romantic relationships with x, extramarital affair with x"], 
+      ["洪长烈", "husband of x"], 
+      ["张金山", "lover of x"], 
+      ["洪三妹", "wife of x"], 
+      ["洪二郎", "husband of x"]
+    ],
+    "洪江水": [
+      ["张红生", "husband of x"], 
+      ["孟三春", "wife of x"], 
+      ["蔡思娘", "helper of x, helper of x"], 
+      ["洪长烈", "father of x"], 
+      ["张金银", "employee of x"], 
+      ["张金山", "colleague of x, business partner of x"], 
+      ["洪三妹", "informant of x, information receiver from x"], 
+      ["洪二郎", "information receiver from x"]
+    ],
+    "蔡思娘": [
+      ["张红生", "romantic relationships with x, admired by x"], 
+      ["孟三春", "romantic relationships with x, extramarital affair with x"], 
+      ["洪江水", "helped by x, helped by x"], 
+      ["洪长烈", "sibling of x"], 
+      ["张金银", "romantic relationships with x"], 
+      ["张金山", "admired by x"], 
+      ["洪三妹", "friend of x, jealous by x"], 
+      ["洪二郎", "romantic relationships with x"]
+    ],
+    "洪长烈": [
+      ["张红生", "father of x"], 
+      ["孟三春", "wife of x"], 
+      ["洪江水", "child of x"], 
+      ["蔡思娘", "sibling of x"], 
+      ["张金银", "father of x"], 
+      ["张金山", "father of x, sibling of x"], 
+      ["洪三妹", "father of x"], 
+      ["洪二郎", "father of x"]
+    ],
+    "张金银": [
+      ["张红生", "friend of x"], 
+      ["洪江水", "employer of x"], 
+      ["蔡思娘", "romantic relationships with x"], 
+      ["洪长烈", "child of x"], 
+      ["张金山", "brother of x, sibling of x"], 
+      ["洪三妹", "husband of x"], 
+      ["洪二郎", "father in law of x"]
+    ],
+    "张金山": [
+      ["张红生", "ex wife of x, rival of x"], 
+      ["孟三春", "lover of x"], 
+      ["洪江水", "colleague of x, business partner of x"], 
+      ["蔡思娘", "admired by x"], 
+      ["洪长烈", "son of x, sibling of x"], 
+      ["张金银", "brother of x, sibling of x"], 
+      ["洪三妹", "husband of x"], 
+      ["洪二郎", "sibling of x"]
+    ],
+    "洪三妹": [
+      ["张红生", "same person as x (different identity)"], 
+      ["孟三春", "husband of x"], 
+      ["洪江水", "informant of x, information receiver from x"], 
+      ["蔡思娘", "friend of x, jealous of x"], 
+      ["洪长烈", "child of x"], 
+      ["张金银", "wife of x"], 
+      ["张金山", "wife of x"], 
+      ["洪二郎", "same person as x (different identity), informant of x"]
+    ],
+    "洪二郎": [
+      ["张红生", "fiancee of x"], 
+      ["孟三春", "wife of x"], 
+      ["蔡思娘", "romantic relationships with x"], 
+      ["洪长烈", "child of x"], 
+      ["张金银", "son in law of x"], 
+      ["张金山", "sibling of x"], 
+      ["洪三妹", "same person as x (different identity), information receiver from x"]
+    ]
+}

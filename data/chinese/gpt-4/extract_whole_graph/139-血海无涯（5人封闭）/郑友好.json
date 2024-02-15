@@ -1,0 +1,122 @@
+{
+    "郑友好": [
+        [
+            "秦老大",
+            "friend of x, adversary of x"
+        ],
+        [
+            "贾美丽",
+            "admirer of x, quest companion of x"
+        ],
+        [
+            "韦小弟",
+            "acquaintance of x, helper of x"
+        ],
+        [
+            "秦专家",
+            "enemy of x, perpetrator of x"
+        ],
+        [
+            "母亲",
+            "mother of x"
+        ],
+        [
+            "父亲",
+            "deceased father of x"
+        ],
+        [
+            "弟弟",
+            "deceased sibling of x"
+        ]
+    ],
+    "秦老大": [
+        [
+            "郑友好",
+            "friend of x, victim of x"
+        ],
+        [
+            "秦专家",
+            "child of x"
+        ],
+        [
+            "韦小弟",
+            "helper of x, helped by x"
+        ],
+        [
+            "贾美丽",
+            "romantic relationships with x"
+        ]
+    ],
+    "韦小弟": [
+        [
+            "秦老大",
+            "helper of x, helped by x"
+        ],
+        [
+            "郑友好",
+            "acquaintance of x, helper of x"
+        ]
+    ],
+    "秦专家": [
+        [
+            "秦老大",
+            "father of x"
+        ],
+        [
+            "郑友好",
+            "enemy of x, victim of x"
+        ],
+        [
+            "母亲",
+            "extramarital affair with x, victim of x"
+        ]
+    ],
+    "贾美丽": [
+        [
+            "郑友好",
+            "admirer of x"
+        ],
+        [
+            "秦老大",
+            "romantic relationships with x"
+        ]
+    ],
+    "母亲": [
+        [
+            "郑友好",
+            "mother of x"
+        ],
+        [
+            "父亲",
+            "wife of x, widow of x"
+        ],
+        [
+            "弟弟",
+            "mother of x"
+        ],
+        [
+            "秦专家",
+            "extramarital affair with x, victim of x"
+        ]
+    ],
+    "父亲": [
+        [
+            "郑友好",
+            "father of x"
+        ],
+        [
+            "母亲",
+            "husband of x, deceased husband of x"
+        ]
+    ],
+    "弟弟": [
+        [
+            "郑友好",
+            "sibling of x"
+        ],
+        [
+            "母亲",
+            "child of x"
+        ]
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "谢雨": [
+        [
+            "范云洪",
+            "subordinate of x, colleague of x, informant of x"
+        ],
+        [
+            "小青",
+            "acquaintance of x, colleague of x"
+        ],
+        [
+            "马浮根",
+            "secret lover of x, source of information for x, observed by x"
+        ],
+        [
+            "童阿四",
+            "acquaintance of x"
+        ],
+        [
+            "黄克明",
+            "stranger to x"
+        ],
+        [
+            "竹内云子",
+            "stranger to x, possible source of information for x"
+        ],
+        [
+            "钟朗",
+            "acquaintance of x"
+        ]
+    ],
+    "范云洪": [
+        [
+            "谢雨",
+            "superior of x, colleague of x, information receiver from x"
+        ],
+        [
+            "小青",
+            "business partner of x, romantic relationships with x, colleague of x"
+        ]
+    ],
+    "小青": [
+        [
+            "谢雨",
+            "acquaintance of x, colleague of x"
+        ],
+        [
+            "范云洪",
+            "business partner of x, romantic relationships with x, colleague of x"
+        ]
+    ],
+    "马浮根": [
+        [
+            "谢雨",
+            "secret lover of x, deceived by x"
+        ],
+        [
+            "童阿四",
+            "superior of x"
+        ]
+    ],
+    "童阿四": [
+        [
+            "马浮根",
+            "subordinate of x"
+        ]
+    ],
+    "黄克明": [
+        [
+            "谢雨",
+            "stranger to x"
+        ]
+    ],
+    "竹内云子": [
+        [
+            "谢雨",
+            "stranger to x, possible target of investigation for x"
+        ]
+    ],
+    "钟朗": [
+        [
+            "谢雨",
+            "acquaintance of x"
+        ]
+    ]
+}

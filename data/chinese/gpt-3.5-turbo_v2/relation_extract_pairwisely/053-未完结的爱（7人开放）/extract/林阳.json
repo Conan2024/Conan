@@ -1,0 +1,72 @@
+{
+    "林阳": [
+      ["林惟仁", "co wives of x"], 
+      ["林夕", "child of x"], 
+      ["沈城", "foster son of x, employer of x"], 
+      ["苏阳", "lover of x, informant of x"], 
+      ["林彤", "sibling of x"], 
+      ["顾晴", "romantic relationships with x"], 
+      ["顾明和", "adoptive father of x"]
+    ],
+    "林惟仁": [
+      ["林阳", "son of x"], 
+      ["林夕", "father of x"], 
+      ["沈城", "foster father of x 林阳"], 
+      ["苏阳", "mentor of x"], 
+      ["林彤", "father of x 林阳"], 
+      ["顾晴", "family of x 林阳"], 
+      ["顾明和", "employer of x"]
+    ],
+    "林夕": [
+      ["林阳", "sibling of x"], 
+      ["林惟仁", "child of x"], 
+      ["沈城", "妹妹 of x"], 
+      ["苏阳", "fiance of x"], 
+      ["林彤", "sibling of x"], 
+      ["顾晴", "friend of x, romantic relationships with x"], 
+      ["顾明和", "friend of x"]
+    ],
+    "沈城": [
+      ["林阳", "housekeeper of x"], 
+      ["林惟仁", "servant of x"], 
+      ["林夕", "管家 of x"], 
+      ["苏阳", "helper of x"], 
+      ["林彤", "friend of x"], 
+      ["顾明和", "employee of x"]
+    ],
+    "苏阳": [
+      ["林阳", "lover of x, informant of x"], 
+      ["林惟仁", "student of x"], 
+      ["林夕", "fiancee of x"], 
+      ["沈城", "secret lover of x, fiance of x"], 
+      ["林彤", "fiance of x"], 
+      ["顾晴", "医生 of x, 情侣 of x"], 
+      ["顾明和", "doctor of x"]
+    ],
+    "林彤": [
+      ["林阳", "sibling of x"], 
+      ["林惟仁", "child of x"], 
+      ["林夕", "sibling of x"], 
+      ["沈城", "helper of x"], 
+      ["苏阳", "fiance of x"], 
+      ["顾晴", "romantic relationships with x, fondness of x"], 
+      ["顾明和", "father of x"]
+    ],
+    "顾晴": [
+      ["林阳", "romantic relationships with x"], 
+      ["林惟仁", "friend of x 林阳"], 
+      ["林夕", "friend of x, romantic relationships with x"], 
+      ["苏阳", "情侣 of x"], 
+      ["林彤", "romantic relationships with x, fondness of x"], 
+      ["顾明和", "girlfriend of x"]
+    ],
+    "顾明和": [
+      ["林阳", "adopted son of x"], 
+      ["林惟仁", "employee of x"], 
+      ["林夕", "friend of x"], 
+      ["沈城", "employer of x"], 
+      ["苏阳", "patient of x"], 
+      ["林彤", "son of x"], 
+      ["顾晴", "boyfriend of x"]
+    ]
+}

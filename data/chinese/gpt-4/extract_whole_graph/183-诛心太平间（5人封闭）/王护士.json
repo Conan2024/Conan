@@ -1,0 +1,100 @@
+{
+    "王护士": [
+        [
+            "贾医生",
+            "half sister of 王护士"
+        ],
+        [
+            "潘副院长",
+            "lover of 王护士, manipulated by 王护士, victim of 王护士"
+        ],
+        [
+            "白患者",
+            "customer of 王护士"
+        ],
+        [
+            "柯会计",
+            "acquaintance of 王护士"
+        ],
+        [
+            "甄医生",
+            "adversary of 王护士, victim of 王护士, blackmailer of 王护士"
+        ],
+        [
+            "魏女儿",
+            "stranger to 王护士"
+        ]
+    ],
+    "贾医生": [
+        [
+            "王护士",
+            "half sister of 贾医生"
+        ],
+        [
+            "甄医生",
+            "colleague of 贾医生, suspected murderer of 贾医生"
+        ],
+        [
+            "柯会计",
+            "acquaintance of 贾医生, interested in 贾医生"
+        ],
+        [
+            "潘副院长",
+            "colleague of 贾医生, perpetrator of 贾医生"
+        ]
+    ],
+    "柯会计": [
+        [
+            "贾医生",
+            "interested in 柯会计"
+        ],
+        [
+            "王护士",
+            "acquaintance of 柯会计"
+        ],
+        [
+            "甄医生",
+            "colleague of 柯会计"
+        ]
+    ],
+    "甄医生": [
+        [
+            "贾医生",
+            "colleague of 甄医生, rivalry with 甄医生"
+        ],
+        [
+            "王护士",
+            "adversary of 甄医生, murderer of 甄医生, victim of 甄医生"
+        ],
+        [
+            "魏女儿",
+            "father of 甄医生"
+        ]
+    ],
+    "潘副院长": [
+        [
+            "王护士",
+            "lover of 潘副院长, manipulated by 潘副院长"
+        ],
+        [
+            "贾医生",
+            "colleague of 潘副院长, perpetrator of 贾医生"
+        ]
+    ],
+    "魏女儿": [
+        [
+            "甄医生",
+            "daughter of 魏女儿"
+        ],
+        [
+            "王护士",
+            "stranger to 魏女儿"
+        ]
+    ],
+    "白患者": [
+        [
+            "王护士",
+            "customer of 白患者"
+        ]
+    ]
+}

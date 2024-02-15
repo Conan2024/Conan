@@ -1,0 +1,29 @@
+{
+    "何老六": [
+      ["李国富", "acquaintance of x"], 
+      ["张洁", "friend of x"], 
+      ["慕北", "colleague of x, bully of x"], 
+      ["王邻居", "manipulator of x"]
+    ],
+    "李国富": [
+      ["何老六", "acquaintance of x"], 
+      ["张洁", "friend of x"], 
+      ["慕北", "master of x, manipulator of x"], 
+      ["王邻居", "acquaintance of x, perpetrator of x"]
+    ],
+    "张洁": [
+      ["何老六", "friend of x"], 
+      ["李国富", "friend of x"], 
+      ["慕北", "acquaintance of x"]
+    ],
+    "慕北": [
+      ["何老六", "colleague of x, bully of x"], 
+      ["李国富", "acquaintance of x, helped by x, manipulated by x"], 
+      ["张洁", "acquaintance of x"], 
+      ["王邻居", "acquaintance of x"]
+    ],
+    "王邻居": [
+      ["李国富", "acquaintance of x, perpetrator of x"], 
+      ["慕北", "acquaintance of x"]
+    ]
+}

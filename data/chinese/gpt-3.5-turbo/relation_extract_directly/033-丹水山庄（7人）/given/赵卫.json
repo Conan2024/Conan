@@ -1,0 +1,130 @@
+{
+    "赵卫": [
+        [
+            "光绪皇帝",
+            "father of x"
+        ],
+        [
+            "瑜妃",
+            "mother of x"
+        ],
+        [
+            "李叔逊",
+            "uncle of x"
+        ],
+        [
+            "赵万雷",
+            "perpetrator of x's family, attempted murderer of x"
+        ],
+        [
+            "冯双骥",
+            "helper of x"
+        ],
+        [
+            "赵洛意",
+            "half sister of x"
+        ],
+        [
+            "张御医",
+            "doctor of x"
+        ],
+        [
+            "赵秋儿",
+            "information receiver from x"
+        ],
+        [
+            "其他人",
+            "stranger to x"
+        ]
+    ],
+    "光绪皇帝": [
+        [
+            "赵万雷",
+            "extramarital affair with x's mother"
+        ],
+        [
+            "瑜妃",
+            "husband/wife of x's mother"
+        ],
+        [
+            "赵卫",
+            "child of x"
+        ]
+    ],
+    "瑜妃": [
+        [
+            "赵万雷",
+            "extramarital affair with x's mother"
+        ],
+        [
+            "光绪皇帝",
+            "husband/wife of x's mother"
+        ],
+        [
+            "赵卫",
+            "child of x's mother"
+        ]
+    ],
+    "李叔逊": [
+        [
+            "瑜妃",
+            "brother of x's mother"
+        ],
+        [
+            "赵卫",
+            "informant of x"
+        ]
+    ],
+    "赵万雷": [
+        [
+            "赵卫",
+            "extramarital affair with x's mother, perpetrator of x's family, attempted murderer of x"
+        ],
+        [
+            "冯双骥",
+            "helper of x"
+        ]
+    ],
+    "冯双骥": [
+        [
+            "赵万雷",
+            "helper of x"
+        ],
+        [
+            "赵卫",
+            "helper of x"
+        ]
+    ],
+    "赵洛意": [
+        [
+            "赵卫",
+            "half sister of x"
+        ],
+        [
+            "赵秋儿",
+            "friend of x"
+        ]
+    ],
+    "张御医": [
+        [
+            "赵卫",
+            "doctor of x"
+        ]
+    ],
+    "赵秋儿": [
+        [
+            "赵洛意",
+            "friend of x"
+        ],
+        [
+            "赵卫",
+            "information receiver from x"
+        ]
+    ],
+    "其他人": [
+        [
+            "赵卫",
+            "stranger to x"
+        ]
+    ]
+}

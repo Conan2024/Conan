@@ -1,0 +1,36 @@
+{
+    "李国富": [
+        [
+            "张洁",
+            "Supervisor/Subordinate",
+            "Suspicious/Suspect"
+        ],
+        [
+            "何老六",
+            "Colleague"
+        ]
+    ],
+    "张洁": [
+        [
+            "李国富",
+            "Colleague",
+            "Informant"
+        ],
+        [
+            "何老六",
+            "Colleague, Friend"
+        ]
+    ],
+    "何老六": [
+        [
+            "李国富",
+            "Colleague"
+        ]
+    ],
+    "何老six": [
+        [
+            "张洁",
+            "Colleague, Friend"
+        ]
+    ]
+}

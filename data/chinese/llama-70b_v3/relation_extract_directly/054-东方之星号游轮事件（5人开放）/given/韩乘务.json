@@ -1,0 +1,16 @@
+{
+    "韩乘务": [
+      ["刘奇", "enemy of x"], 
+      ["修仁杰", "acquaintance of x"], 
+      ["林若彤", "acquaintance of x, suspect of x"], 
+      ["洪子廉", "acquaintance of x"]
+    ],
+    "刘奇": [
+      ["韩乘务", "colleague of x"], 
+      ["修仁杰", "acquaintance of x"]
+    ],
+    "林若彤": [
+      ["韩乘务", "suspect of x"], 
+      ["刘奇", "suspect of x"]
+    ]
+}

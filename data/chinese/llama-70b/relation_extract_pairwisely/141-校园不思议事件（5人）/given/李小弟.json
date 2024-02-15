@@ -1,0 +1,204 @@
+{
+    "张恶霸": [
+        [
+            "李大哥",
+            "Perpetrator of X",
+            "Bully of X"
+        ],
+        [
+            "李小弟",
+            " enemya, rival"
+        ],
+        [
+            "林校花",
+            " acquaintance, friend"
+        ],
+        [
+            "王学习",
+            "Perpetrator of X",
+            "Bully of X"
+        ],
+        [
+            "赵帅哥",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "郝闺蜜",
+            "rival",
+            "bully"
+        ]
+    ],
+    "李大哥": [
+        [
+            "张恶霸",
+            "Victim of X",
+            "Bullied by X"
+        ],
+        [
+            "李小弟",
+            "relationship 1, relationship 2, ..., relationship 10"
+        ],
+        [
+            "林校花",
+            "Relationship 1: 李大哥 is the senior of 林校花",
+            "Relationship 2: 李大哥 bullied 林校花 in the past"
+        ],
+        [
+            "王学习",
+            "rival"
+        ],
+        [
+            "赵帅哥",
+            "broken friendship, past enemies"
+        ],
+        [
+            "郝闺蜜",
+            " enemy, rival, and manipulator"
+        ]
+    ],
+    "李小弟": [
+        [
+            "张恶霸",
+            "enemy, rival"
+        ],
+        [
+            "李大哥",
+            "relationship 1, relationship 2, ..., relationship 10"
+        ],
+        [
+            "林校花",
+            "Rival, Friend, Acquaintance"
+        ],
+        [
+            "王学习",
+            " enemey, friend, mentor, teacher, partner"
+        ],
+        [
+            "赵帅哥",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "郝闺蜜",
+            "Perpetrator",
+            "Friend"
+        ]
+    ],
+    "林校花": [
+        [
+            "张恶霸",
+            "acquaintance, friend"
+        ],
+        [
+            "李大哥",
+            "Relationship 1: 林校花 is the junior of 李大哥",
+            "Relationship 2: 林校花 was bullied by 李大哥 in the past"
+        ],
+        [
+            "李小弟",
+            "Rival, Friend, Acquaintance"
+        ],
+        [
+            "王学习",
+            "Friend of X",
+            "Classmate of X"
+        ],
+        [
+            "赵帅哥",
+            "friend, classmate"
+        ],
+        [
+            "郝闺蜜",
+            "Friend",
+            "Classmate"
+        ]
+    ],
+    "王学习": [
+        [
+            "张恶霸",
+            " Victim of X",
+            "Target of Bullying"
+        ],
+        [
+            "李大哥",
+            "rival"
+        ],
+        [
+            "李小弟",
+            "enemy, friend, mentee, student, partner"
+        ],
+        [
+            "林校花",
+            "Friend of X",
+            "Classmate of X"
+        ],
+        [
+            "赵帅哥",
+            " acquaintance, friendship"
+        ],
+        [
+            "郝闺蜜",
+            "classmate",
+            "friend"
+        ]
+    ],
+    "赵帅哥": [
+        [
+            "张恶霸",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "李大哥",
+            "broken friendship, past enemies"
+        ],
+        [
+            "李小弟",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "林校花",
+            "friend, classmate"
+        ],
+        [
+            "王学习",
+            "acquaintance, friendship"
+        ],
+        [
+            "郝闺蜜",
+            " acquaintance",
+            "friend"
+        ]
+    ],
+    "郝闺蜜": [
+        [
+            "张恶霸",
+            "rival",
+            "bully"
+        ],
+        [
+            "李大哥",
+            " enemy, rival, and manipulated"
+        ],
+        [
+            "李小弟",
+            "Victim",
+            "Acquaintance/Classmate"
+        ],
+        [
+            "林校花",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "王学习",
+            "classmate",
+            "friend"
+        ],
+        [
+            "赵帅哥",
+            "acquaintance",
+            "friend"
+        ]
+    ]
+}

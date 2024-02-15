@@ -1,0 +1,35 @@
+{
+    "齐岳": [
+      ["冯双骥", "friend of x, 鲁泰 of x"], 
+      ["赵万雷", "employer of x, mountain landlord of x"]
+    ],
+    "冯双骥": [
+      ["齐岳", "friend of x, 鲁泰 of x"], 
+      ["赵万雷", "father of x, mountain landlord of x"]
+    ],
+    "赵万雷": [
+      ["齐岳", "employer of x, mountain landlord of x"], 
+      ["赵卫", "son of x"]
+    ],
+    "赵卫": [
+      ["赵万雷", "father of x"]
+    ],
+    "赵洛意": [
+      ["冯总管", "brother in law of x"]
+    ],
+    "赵秋儿": [
+      ["冯总管", "niece of x"]
+    ],
+    "尹少鸣": [
+      ["冯双骥", "表外甥 of x"]
+    ],
+    "郭望山": [
+      ["冯管家", "captor of x"]
+    ],
+    "冯管家": [
+      ["郭望山", "captive of x"]
+    ],
+    "冯总管": [
+      ["冯管家", "father of x"]
+    ]
+}

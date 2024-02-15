@@ -1,0 +1,142 @@
+{
+    "王邻居": [
+        [
+            "张洁",
+            "friend",
+            "acquaintance",
+            "colleague",
+            "suspicious",
+            "stranger",
+            "perpetrator",
+            "victim"
+        ],
+        [
+            "李国富",
+            "Colleague",
+            "Partner in crime",
+            "Accomplice"
+        ],
+        [
+            "慕北",
+            "Acquaintance",
+            "Colleague",
+            "Friend",
+            "helper",
+            "informant",
+            "Manipulator",
+            "Perpetrator",
+            "Suspect",
+            "Victim"
+        ],
+        [
+            "何老六",
+            "Friend",
+            "Colleague"
+        ]
+    ],
+    "张洁": [
+        [
+            "王邻居",
+            "friend",
+            "acquaintance",
+            "colleague",
+            "suspicious",
+            "stranger",
+            "perpetrator",
+            "victim"
+        ],
+        [
+            "李国富",
+            "Perpetrator of X",
+            "Murderer of X",
+            "Attempted Perpetrator of X",
+            "Attempted Murderer of X",
+            "Victim of X"
+        ],
+        [
+            "慕北",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5, relationship 6, relationship 7"
+        ],
+        [
+            "何老六",
+            "colleague, friend, student, partner in crime, guardian, follower, lovers"
+        ]
+    ],
+    "李国富": [
+        [
+            "王邻居",
+            "Colleague",
+            "Partner in crime",
+            "Accomplice"
+        ],
+        [
+            "张洁",
+            "Perpetrator of X",
+            "Murderer of X",
+            "Attempted Perpetrator of X",
+            "Attempted Murderer of X",
+            "Victim of X"
+        ],
+        [
+            "慕北",
+            "mentor",
+            "protector"
+        ],
+        [
+            "何老六",
+            "partner in crime",
+            "friend",
+            "acquaintance"
+        ]
+    ],
+    "慕北": [
+        [
+            "王邻居",
+            "Acquaintance",
+            "Colleague",
+            "Friend",
+            "helper",
+            "informant",
+            "Manipulator",
+            "Perpetrator",
+            "Suspect",
+            "Victim"
+        ],
+        [
+            "张洁",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5, relationship 6, relationship 7"
+        ],
+        [
+            "李国富",
+            "mentor",
+            "protector"
+        ],
+        [
+            "何老六",
+            "Colleague",
+            "Friend"
+        ]
+    ],
+    "何老六": [
+        [
+            "王邻居",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "张洁",
+            "colleague, friend, mentor, partner in crime, guardian, follower, lovers"
+        ],
+        [
+            "李国富",
+            "partner in crime",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "慕北",
+            "Colleague",
+            "Friend"
+        ]
+    ]
+}

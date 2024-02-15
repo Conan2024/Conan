@@ -1,0 +1,60 @@
+{
+    "段约同": [
+      ["段和君", "mother of x"], 
+      ["白常恭", "step father of x, debtor of x"], 
+      ["岳客沙", "friend of x, helper of x"], 
+      ["安琪 (兰秦)", "girlfriend of x, possibly family of x"], 
+      ["易阿姨", "mother in law of x, creditor of x"], 
+      ["岳东汶", "acquaintance of x"]
+    ],
+    "段和君": [
+      ["易阿姨", "friend of x"], 
+      ["白常恭", "wife of x"]
+    ],
+    "白常恭": [
+      ["段和君", "husband of x"], 
+      ["易阿姨", "debtor of x"]
+    ],
+    "岳客沙": [
+      ["岳东汶", "son of x"], 
+      ["段约同", "friend of x, helper of x"]
+    ],
+    "安琪 (兰秦)": [
+      ["易阿姨", "daughter of x"], 
+      ["段约同", "girlfriend of x, possibly family of x"]
+    ],
+    "易阿姨": [
+      ["安琪 (兰秦)", "mother of x"], 
+      ["段和君", "friend of x"], 
+      ["白常恭", "creditor of x"]
+    ],
+    "岳东汶": [
+      ["岳客沙", "father of x"], 
+      ["段约同", "employer of x, acquaintance of x"]
+    ],
+    "吴百安": [
+      ["吴笑", "father of x"], 
+      ["岳东汶", "employee of x"]
+    ],
+    "吴笑": [
+      ["吴百安", "son of x"]
+    ],
+    "夏家拳馆前掌门人夏伯龙": [
+      ["夏家拳馆现掌门人夏三虎", "older brother of x"], 
+      ["夏伯龙的二弟夏仲鹏", "older brother of x"]
+    ],
+    "夏家拳馆现掌门人夏三虎": [
+      ["夏家拳馆前掌门人夏伯龙", "younger brother of x"], 
+      ["夏伯龙的二弟夏仲鹏", "younger brother of x"]
+    ],
+    "夏伯龙的二弟夏仲鹏": [
+      ["夏家拳馆前掌门人夏伯龙", "younger brother of x"], 
+      ["夏家拳馆现掌门人夏三虎", "older brother of x"]
+    ],
+    "宇祖先生": [
+      ["白发阿伯", "acquaintance of x"]
+    ],
+    "白发阿伯": [
+      ["宇祖先生", "acquaintance of x"]
+    ]
+}

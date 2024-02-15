@@ -1,0 +1,85 @@
+{
+    "乐婉": [
+      ["葛继先", "acquaintance of x"], 
+      ["葛月曼", "acquaintance of x"], 
+      ["葛月萝", "secret lover of x"], 
+      ["朱陵山", "same person as x (different identity)"], 
+      ["福伯", "helper of x"], 
+      ["潮虎王", "grandfather of x"], 
+      ["王虎朝", "grandfather of x"], 
+      ["于尚勇", "acquaintance of x"], 
+      ["于彦诚", "acquaintance of x"], 
+      ["张先生", "employee of x"], 
+      ["张太太", "employer of x"], 
+      ["薛达财", "acquaintance of x"], 
+      ["薛玉帆", "acquaintance of x"], 
+      ["吕陆升", "dislike of x"], 
+      ["吕松年", "acquaintance of x"], 
+      ["严义充", "father of x"]
+    ],
+    "葛继先": [
+      ["葛月曼", "father of x"], 
+      ["葛月萝", "father of x"], 
+      ["乐婉", "employer of x"]
+    ],
+    "葛月曼": [
+      ["葛继先", "daughter of x"], 
+      ["葛月萝", "sibling of x"], 
+      ["乐婉", "acquaintance of x"]
+    ],
+    "葛月萝": [
+      ["葛继先", "daughter of x"], 
+      ["葛月曼", "sibling of x"], 
+      ["乐婉", "secret lover of x"], 
+      ["朱陵山", "husband of x"]
+    ],
+    "朱陵山": [
+      ["葛继先", "son in law of x"], 
+      ["葛月曼", "acquaintance of x"], 
+      ["葛月萝", "husband of x"], 
+      ["乐婉", "same person as x (different identity)"], 
+      ["潮虎王", "student of x"]
+    ],
+    "福伯": [
+      ["乐婉", "helped by x"]
+    ],
+    "潮虎王": [
+      ["乐婉", "grandfather of x"], 
+      ["王虎朝", "same person as x (different reference)"]
+    ],
+    "王虎朝": [
+      ["乐婉", "grandfather of x"], 
+      ["潮虎王", "same person as x (different reference)"]
+    ],
+    "于尚勇": [
+      ["乐婉", "acquaintance of x"], 
+      ["于彦诚", "sibling of x"]
+    ],
+    "于彦诚": [
+      ["乐婉", "acquaintance of x"], 
+      ["于尚勇", "sibling of x"]
+    ],
+    "张先生": [
+      ["乐婉", "employer of x"], 
+      ["张太太", "husband of x"]
+    ],
+    "张太太": [
+      ["乐婉", "employee of x"], 
+      ["张先生", "wife of x"]
+    ],
+    "薛达财": [
+      ["薛玉帆", "father of x"]
+    ],
+    "薛玉帆": [
+      ["薛达财", "son of x"]
+    ],
+    "吕陆升": [
+      ["乐婉", "disliked by x"]
+    ],
+    "吕松年": [
+      ["乐婉", "acquaintance of x"]
+    ],
+    "严义充": [
+      ["乐婉", "father of x"]
+    ]
+}

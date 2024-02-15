@@ -1,0 +1,54 @@
+{
+    "吕松年": [
+      ["于尚勇", "brother in law of x, rival of x"], 
+      ["乐婉", "acquaintance of x, manipulator of x"], 
+      ["张太太", "suspect of x, victim of x"], 
+      ["葛月曼", "colleague of x, bully of x"], 
+      ["薛达财", "business partner of x, deceiver of x"], 
+      ["于彦诚", "father in law of x, master of x"]
+    ],
+    "于彦诚": [
+      ["吕松年", "acquaintance of x, manipulated of x"], 
+      ["于尚勇", "brother of x, rival of x"], 
+      ["乐婉", "acquaintance of x, manipulator of x"], 
+      ["张太太", "suspect of x, victim of x"], 
+      ["葛月曼", "colleague of x, bully of x"], 
+      ["薛达财", "brother in law of x, deceiver of x"]
+    ],
+    "张太太": [
+      ["吕松年", "suspect of x, victim of x"], 
+      ["于彦诚", "acquaintance of x"], 
+      ["乐婉", "acquaintance of x"], 
+      ["葛月曼", "colleague of x, bully of x"], 
+      ["薛达财", "brother in law of x"]
+    ],
+    "葛月曼": [
+      ["吕松年", "colleague of x, bully of x"], 
+      ["于彦诚", "acquaintance of x"], 
+      ["乐婉", "acquaintance of x"], 
+      ["张太太", "colleague of x, victim of x"], 
+      ["薛达财", "brother in law of x"]
+    ],
+    "薛达财": [
+      ["吕松年", "business partner of x, deceiver of x"], 
+      ["于彦诚", "brother in law of x"], 
+      ["楽婉", "acquaintance of x, manipulator of x"], 
+      ["张太太", "suspect of x, victim of x"], 
+      ["葛月曼", "colleague of x, bully of x"]
+    ],
+    "于尚勇": [
+      ["吕松年", "brother in law of x, rival of x"], 
+      ["于彦诚", "brother of x"], 
+      ["乐婉", "acquaintance of x, manipulator of x"], 
+      ["张太太", "suspect of x, victim of x"], 
+      ["葛月曼", "colleague of x, bully of x"], 
+      ["薛达财", "brother in law of x, deceiver of x"]
+    ],
+    "乐婉": [
+      ["吕松年", "acquaintance of x, manipulator of x"], 
+      ["于彦诚", "acquaintance of x"], 
+      ["張太太", "acquaintance of x"], 
+      ["葛月曼", "acquaintance of x"], 
+      ["薛达财", "acquaintance of x, manipulator of x"]
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "韦小弟": [
+        [
+            "秦老大",
+            " Friend, Acquaintance"
+        ],
+        [
+            "郑友好",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "贾美丽",
+            "friend, bully, enemy, rival, manipulator, manipulated"
+        ],
+        [
+            "庄清纯",
+            "enemy",
+            "classmate",
+            "friend",
+            "informant",
+            "helper",
+            "acquaintance"
+        ]
+    ],
+    "秦老大": [
+        [
+            "韦小弟",
+            "Friend, Acquaintance"
+        ],
+        [
+            "郑友好",
+            "Suspect of X",
+            "Enemy of X"
+        ],
+        [
+            "贾美丽",
+            "Childhood friend",
+            "Classmate",
+            "Acquaintance"
+        ],
+        [
+            "庄清纯",
+            "Suspect of X",
+            "Enemy of X"
+        ]
+    ],
+    "郑友好": [
+        [
+            "韦小弟",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "秦老大",
+            "Suspect of X",
+            "Enemy of X"
+        ],
+        [
+            "贾美丽",
+            "Acquaintance",
+            "Classmate"
+        ],
+        [
+            "庄清纯",
+            "秦老大"
+        ]
+    ],
+    "贾美丽": [
+        [
+            "韦小弟",
+            "friend, bully, enemy, rival, manipulator, manipulated"
+        ],
+        [
+            "秦老大",
+            "Childhood friend",
+            "Classmate",
+            "Acquaintance"
+        ],
+        [
+            "郑友好",
+            "Acquaintance",
+            "Classmate"
+        ],
+        [
+            "庄清纯",
+            "wife, mistress, friend, acquaintance, enemy, rival, manipulator, servant, subordinate, business partner"
+        ]
+    ],
+    "庄清纯": [
+        [
+            "韦小弟",
+            "enemy",
+            "classmate",
+            "friend",
+            "informant",
+            "helper",
+            "acquaintance"
+        ],
+        [
+            "秦老大",
+            "Suspect of X",
+            "Enemy of X"
+        ],
+        [
+            "郑友好",
+            "秦专家"
+        ],
+        [
+            "贾美丽",
+            "wife, mistress, friend, acquaintance, enemy, rival, manipulator, servant, subordinate, business partner"
+        ]
+    ]
+}

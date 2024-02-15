@@ -1,0 +1,136 @@
+{
+    "陈宁": [
+        [
+            "王秘书",
+            "victim of x, adversary of x, employee of x"
+        ],
+        [
+            "郑爽",
+            "acquaintance of x"
+        ],
+        [
+            "韩红斌",
+            "colleague of x, helper of x, helped by x"
+        ],
+        [
+            "林峰",
+            "acquaintance of x"
+        ],
+        [
+            "刘高阳",
+            "acquaintance of x"
+        ]
+    ],
+    "王秘书": [
+        [
+            "陈宁",
+            "superior of x, suspected by x, deceased"
+        ],
+        [
+            "郑爽",
+            "stranger to x"
+        ],
+        [
+            "韩红斌",
+            "colleague of x"
+        ],
+        [
+            "林峰",
+            "stranger to x"
+        ],
+        [
+            "刘高阳",
+            "stranger to x"
+        ]
+    ],
+    "郑爽": [
+        [
+            "陈宁",
+            "former colleague of x"
+        ],
+        [
+            "王秘书",
+            "stranger to x"
+        ],
+        [
+            "韩红斌",
+            "former colleague of x"
+        ],
+        [
+            "林峰",
+            "not linked directly"
+        ],
+        [
+            "刘高阳",
+            "not linked directly"
+        ]
+    ],
+    "韩红斌": [
+        [
+            "陈宁",
+            "colleague of x"
+        ],
+        [
+            "王秘书",
+            "colleague of x"
+        ],
+        [
+            "郑爽",
+            "former colleague of x"
+        ],
+        [
+            "林峰",
+            "colleague of x",
+            "superior of x"
+        ],
+        [
+            "刘高阳",
+            "superior of x"
+        ]
+    ],
+    "林峰": [
+        [
+            "陈宁",
+            "acquaintance of x"
+        ],
+        [
+            "王秘书",
+            "stranger to x"
+        ],
+        [
+            "郑爽",
+            "not linked directly"
+        ],
+        [
+            "韩红斌",
+            "colleague of x",
+            "subordinate of x"
+        ],
+        [
+            "刘高阳",
+            "acquaintance of x"
+        ]
+    ],
+    "刘高阳": [
+        [
+            "陈宁",
+            "acquaintance of x"
+        ],
+        [
+            "王秘书",
+            "stranger to x"
+        ],
+        [
+            "郑爽",
+            "not linked directly"
+        ],
+        [
+            "韩红斌",
+            "subordinate of x"
+        ],
+        [
+            "林峰",
+            "acquaintance of x"
+        ]
+    ]
+}

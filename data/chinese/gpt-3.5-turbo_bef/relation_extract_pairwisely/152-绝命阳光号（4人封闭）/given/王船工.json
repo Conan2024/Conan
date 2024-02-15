@@ -1,0 +1,26 @@
+{
+    "王船工": [
+      ["张大副", "helper of x, manipulator of x"], 
+      ["王小工", "father of x"], 
+      ["玲船医", "child of x"]
+    ],
+    "张大副": [
+      ["王船工", "helper of x, manipulated by x"], 
+      ["王小工", "romantic relationships with x"], 
+      ["杨老板", "business partner of x"]
+    ],
+    "王小工": [
+      ["王船工", "child of x"], 
+      ["张大副", "romantic relationships with x"], 
+      ["玲船医", "child of x"], 
+      ["杨老板", "helped by x"]
+    ],
+    "玲船医": [
+      ["王船工", "daughter in law of x"]
+    ],
+    "杨老板": [
+      ["张大副", "business partner of x"], 
+      ["王小工", "perpetrator of x"], 
+      ["玲船医", "employer of x"]
+    ]
+}

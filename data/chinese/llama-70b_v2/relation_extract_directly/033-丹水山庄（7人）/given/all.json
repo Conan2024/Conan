@@ -1,0 +1,52 @@
+{
+    "齐岳": [
+      ["郭望山", "acquaintance of x, enemy of x"], 
+      ["冯 Double", "coworker of x, ally of x"], 
+      ["冯竹", "coworker of x, ally of x"], 
+      ["赵万雷", "ally of x, friend of x"], 
+      ["赵卫", "ally of x, friend of x"], 
+      ["瑜妃", "friend of x, helper of x"]
+    ],
+    "赵万雷": [
+      ["齐岳", "ally of x, friend of x"], 
+      ["赵卫", "step son of x, enemy of x"], 
+      ["瑜妃", "wife of x, deceased of x"]
+    ],
+    "赵卫": [
+      ["齐岳", "ally of x, friend of x"], 
+      ["赵万雷", "step son of x, enemy of x"], 
+      ["瑜妃", "son of x"]
+    ],
+    "瑜妃": [
+      ["齐岳", "friend of x, helper of x"], 
+      ["赵万雷", "husband of x, deceased of x"], 
+      ["赵卫", "son of x"]
+    ],
+    "冯双骥": [
+      ["齐岳", "employer of x"], 
+      ["赵万雷", "ally of x"], 
+      ["赵卫", "ally of x"]
+    ],
+    "冯竹": [
+      ["齐岳", "coworker of x"], 
+      ["赵万雷", "ally of x"], 
+      ["赵卫", "ally of x"]
+    ],
+    "赵洛意": [
+      ["齐岳", "possible relative of x"], 
+      ["赵万雷", "ally of x"], 
+      ["赵卫", "ally of x"]
+    ],
+    "赵秋儿": [
+      ["齐岳", "possible sister of x"], 
+      ["赵万雷", "ally of x"], 
+      ["赵卫", "ally of x"]
+    ],
+    "尹少鸣": [
+      ["齐岳", "acquaintance of x"]
+    ],
+    "郭望山": [
+      ["齐岳", "acquaintance of x, enemy of x"], 
+      ["赵万雷", "enemy of x"]
+    ]
+}

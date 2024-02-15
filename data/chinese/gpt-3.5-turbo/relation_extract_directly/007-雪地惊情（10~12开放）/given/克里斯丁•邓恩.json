@@ -1,0 +1,32 @@
+{
+    "克里斯丁•邓恩": [
+        [
+            "麦克斯•派克",
+            "business partner of x, information receiver from x"
+        ],
+        [
+            "乔•罗伯特森",
+            "stranger to x, informant of x"
+        ]
+    ],
+    "麦克斯•派克": [
+        [
+            "克里斯丁•邓恩",
+            "business partner of x, information provider of x"
+        ],
+        [
+            "乔•罗伯特森",
+            "employer of x, informant of x"
+        ]
+    ],
+    "乔•罗伯特森": [
+        [
+            "麦克斯•派克",
+            "employee of x, informant of x"
+        ],
+        [
+            "克里斯丁•邓恩",
+            "stranger to x, information provider of x"
+        ]
+    ]
+}

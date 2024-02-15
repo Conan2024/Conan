@@ -1,0 +1,99 @@
+{
+    "赵帅哥": [
+      ["Mother", "family member of x, caregiver of x, emotional connection of x"], 
+      ["Father", "absent father of x, estranged father of x, deceased father of x, absentee father of x"], 
+      ["林校花", "classmate of x, love interest of x, sibling like of x, rival of x, friendship like of x"], 
+      ["李小弟", "同学 of x, 朋友 of x, 敌人 of x, 竞争对手 of x"], 
+      ["王学习", "friend of x, mentor of x, confidant of x, rival of x, bully of x"], 
+      ["父亲", "distant relationship of x"], 
+      ["奶奶", "关系 1 of x, 关系 2 of x"], 
+      ["爸爸", "son of x"], 
+      ["张恶霸", "林校花 of x"]
+    ],
+    "Mother": [
+      ["赵帅哥", "family member of x, caregiver of x, emotional connection of x"], 
+      ["Father", "estranged relationship of x"], 
+      ["林校花", "relationship 1: friend of x, relationship 2: classmate of x"], 
+      ["李小弟", "stepmother of x, guardian of x, strained relationship of x"], 
+      ["父亲", "separated of x, estranged of x"], 
+      ["奶奶", "relationship 1: x acted as a mother figure to the protagonist during their childhood, providing love and care of x, even after she left the family of x, the protagonist still has a complex relationship with her, feeling both anger and sadness towards her of x, they fantasize about making her suffer to avenge their father's death of x, but also hope that she will return to the family someday of x, relationship 2:  the protagonist and their mother have a complicated relationship of x, as they feel a mix of x x anger and sadness towards her for leaving the family, they fantasize about making her suffer to avenge their father's death of x, but also hope that she will return to the family someday of x"], 
+      ["爸爸", "husband of x, father of x, manipulator of x, victim of x"]
+    ],
+    "Father": [
+      ["赵帅哥", "father son of x, absent father of x, estranged father of x, deceased father of x, absentee father of x"], 
+      ["Mother", "estranged relationship of x"], 
+      ["李小弟", "stepson of x, friend's son of x, student of x, mentee of x, rival's son of x"], 
+      ["奶奶", "mother in law of x, stepfather stepmother of x, guardian ward of x, benefactor beneficiary of x, debtor creditor of x"]
+    ],
+    "林校花": [
+      ["赵帅哥", "classmate of x, love interest of x, sibling like of x, rival of x, friendship like of x"], 
+      ["Mother", "relationship 1: classmate of x, relationship 2: friend of x"], 
+      [" Father", "stepmother of x, friend of x, love interest of x"], 
+      ["张恶霸", "boyfriend   girlfriend of x"], 
+      ["李小弟", "boyfriend of x"], 
+      ["父亲", "未婚妻 of x"], 
+      ["奶奶", "acquaintance of x, classmate of x"], 
+      ["爸爸", "father daughter relationship of x"]
+    ],
+    "李小弟": [
+      ["赵帅哥", "同学 of x, 朋友 of x, 敌人 of x, 竞争对手 of x"], 
+      ["Mother", "son of x, stepfather of x, strained relationship of x"], 
+      ["Father", "stepfather of x, friend of x, tutor of x, mentor of x, rival of x"], 
+      ["张恶霸", "enemy of x, rival of x"], 
+      ["林校花", "girlfriend of x"], 
+      ["父亲", "son of x"], 
+      ["奶奶", "biological mother of x, adoptive mother of x, step mother of x, mother in law of x"], 
+      ["爸爸", "son of x, guardian of x, dependent of x, mentor of x, protégé of x, enemy of x, rival of x"]
+    ],
+    "王学习": [
+      ["赵帅哥", "friend of x, mentor of x, confidant of x, rival of x, bully of x"], 
+      [" Father", "stranger to x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, friend of x, mentor of x, teacher of x, informant of x, victim of x"], 
+      ["父亲", "son of x"], 
+      ["奶奶", "friend of x, nephew of x, son of x, schoolmate of x"], 
+      ["爸爸", "son of x"]
+    ],
+    "父亲": [
+      ["赵帅哥", "distant relationship of x"], 
+      ["Mother", "separated of x, estranged of x"], 
+      [" Father", "stepfather of x, son of x, distant relative of x, colleague of x, customer of x, friend of x, employee of x, partner of x, adversary of x"], 
+      ["张恶霸", "赵帅哥 of x"], 
+      ["林校花", "x"], 
+      ["李小弟", "father of x"], 
+      ["王学习", "father of x"], 
+      ["奶奶", "x"], 
+      ["爸爹", "foster father son relationship of x, uncle nephew relationship of x, guardian ward relationship of x"]
+    ],
+    "奶奶": [
+      ["赵帅哥", "关系 1 of x, 关系 2 of x"], 
+      [" Mother", "relationship 1: x is the mother of x the protagonist, who was left behind by her husband and son of x, she is described as a poor of x, fragile of x, and helpless woman who is dependent on others of x, despite her weaknesses of x, she is a kind and gentle person who has a strong bond with her son of x, even though he has a conflicted relationship with her of x, relationship 2:  the protagonist has a complicated relationship with their mother of x, x, who left the family and married another man of x, the protagonist feels angry and hurt by her departure and fantasizes about making her suffer to avenge their father's death of x"], 
+      [" Father", "mother in law of x, stepfather stepmother of x, guardian ward of x, benefactor beneficiary of x, debtor creditor of x"], 
+      ["林校花", "acquaintance of x, classmate of x"], 
+      ["李小弟", "biological son of x, adoptive son of x, step son of x, son in law of x"], 
+      ["王学习", "friend of x, mother of x, aunt of x, teacher of x"], 
+      ["父亲", "x"]
+    ],
+    "爸爸": [
+      ["赵帅哥", "father of x"], 
+      [" Mother", "wife of x, romantic relationships with x, perpetrator of x, bully of x"], 
+      ["张恶霸", "son of x, stepchild of x, complicated relationship of x"], 
+      ["林校花", "father daughter relationship of x"], 
+      ["李小弟", "son of x, guardian of x, dependent of x, mentor of x, protégé of x, enemy of x, rival of x"], 
+      ["王学习", "father of x"], 
+      ["父亲", "father son relationship of x"]
+    ],
+    " Mother": [
+      ["张恶霸", "perpetrator of x, adversary of x"]
+    ],
+    "张恶霸": [
+      [" Mother", "perpetrator of x, adversary of x"], 
+      ["林校花", "boyfriend   girlfriend of x"], 
+      ["李小弟", "enemy of x, rival of x"], 
+      ["父亲", "赵帅哥 of x"], 
+      ["爸爸", "stepfather of x, strained relationship of x, complicated relationship of x"]
+    ],
+    " Father": [
+      ["林校花", "stepmother of x, friend of x, love interest of x"], 
+      ["王学习", "stranger to x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, friend of x, mentor of x, teacher of x, informant of x, victim of x"], 
+      ["父亲", "stepfather of x, son of x, distant relative of x, colleague of x, customer of x, friend of x, employee of x, partner of x, adversary of x"]
+    ]
+}

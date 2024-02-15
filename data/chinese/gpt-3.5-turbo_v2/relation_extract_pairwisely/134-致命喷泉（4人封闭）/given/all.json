@@ -1,0 +1,56 @@
+{
+    "何老六": [
+      ["李国富", "co workers at the security company of x"], 
+      ["张洁", "helper of x, co workers of x"], 
+      ["王大哥", "acquaintance of x"], 
+      ["王邻居", "acquaintance of x"], 
+      ["警察", "perpetrator of x's family"]
+    ],
+    "李国富": [
+      ["何老六", "employer of x"], 
+      ["张洁", "co worker of x"], 
+      ["慕北", "acquaintance of x"], 
+      ["王大哥", "friend of x"], 
+      ["王邻居", "friend of x"], 
+      ["警察", "employee of x"]
+    ],
+    "张洁": [
+      ["何老六", "co worker of x"], 
+      ["李国富", "co worker of x"], 
+      ["慕北", "friend of x"], 
+      ["王大哥", "co worker of x"], 
+      ["王邻居", "neighbor of x"], 
+      ["警察", "co worker of x"]
+    ],
+    "慕北": [
+      ["李国富", "acquaintance of x"], 
+      ["张洁", "friend of x"], 
+      ["王大哥", "friend of x"], 
+      ["王邻居", "acquaintance of x"], 
+      ["警察", "romantic relationships with x"]
+    ],
+    "王大哥": [
+      ["何老六", "acquaintance of x"], 
+      ["李国富", "friend of x"], 
+      ["张洁", "co worker of x"], 
+      ["慕北", "friend of x"], 
+      ["王邻居", "friend of x, been found in the presence of x crime in x"], 
+      ["警察", "perpetrator of x"]
+    ],
+    "王邻居": [
+      ["何老六", "reporter of x"], 
+      ["李国富", "friend of x"], 
+      ["张洁", "neighbor of x"], 
+      ["慕北", "acquaintance of x"], 
+      ["王大哥", "friend of x, reported crime involving x"], 
+      ["警察", "neighbour of x"]
+    ],
+    "警察": [
+      ["何老六", "perpetrator of x's family"], 
+      ["李国富", "employer of x"], 
+      ["张洁", "co worker of x"], 
+      ["慕北", "romantic relationships with x"], 
+      ["王大哥", "attempted perpetrator of x"], 
+      ["王邻居", "neighbour of x"]
+    ]
+}

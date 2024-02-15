@@ -1,0 +1,22 @@
+{
+    "弗兰克·比杰利": [
+      ["德雷克·里莫瑞特", "brother of x, friend of x, acquaintance of x, colleague of x"], 
+      ["托尼", "神父汤姆 of x, 医院的人 of x"], 
+      ["神父汤姆", "弟弟 of x, 托尼 of x, 被雇佣者 of x"]
+    ],
+    "德雷克·里莫瑞特": [
+      ["弗兰克·比杰利", "brother of x, friend of x, acquaintance of x, colleague of x"], 
+      ["托尼", "brother of x, mentor of x"], 
+      ["神父汤姆", "brother of x, co conspirator of x"]
+    ],
+    "托尼": [
+      ["弗兰克·比杰利", "神父汤姆 of x, 医院的人 of x"], 
+      ["德雷克·里莫瑞特", "brother of x, mentee of x"], 
+      ["神父汤姆", "兄弟 of x, co conspirator of x"]
+    ],
+    "神父汤姆": [
+      ["弗兰克·比杰利", "托尼 of x, 雇佣者 of x"], 
+      ["德雷克·里莫瑞特", "brother of x, co conspirator of x"], 
+      ["托尼", "employer of x, accomplice of x"]
+    ]
+}

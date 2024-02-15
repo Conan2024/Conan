@@ -1,0 +1,35 @@
+{
+    "宇祖成木": [
+      ["阿明", "朋友 of x, 同船passenger of x"], 
+      ["夏三虎", "朋友 of x, 赚钱 of x"], 
+      ["安琪", "朋友 of x, language exchange"], 
+      ["李子俊", "大哥 of x, families connection of x"], 
+      ["李子材", "兄弟 of x, families connection of x"], 
+      ["李骆明", "兄弟 of x, families connection of x"], 
+      ["吴百安", "同学 of x, 李子材 of x"]
+    ],
+    "阿明": [
+      ["宇祖成木", "朋友 of x, same ship passenger of x"], 
+      ["夏三虎", "朋友 of x, 赚钱 of x"]
+    ],
+    "夏三虎": [
+      ["宇祖成木", "朋友 of x, 赚钱 of x"], 
+      ["阿明", "朋友 of x, same ship passenger of x"]
+    ],
+    "安琪": [
+      ["宇祖成木", "朋友 of x, language exchange"], 
+      ["阿明", "朋友 of x, same ship passenger of x"]
+    ],
+    "李子俊": [
+      ["宇祖成木", "大哥 of x, families connection of x"]
+    ],
+    "李子材": [
+      ["宇祖成木", "兄弟 of x, families connection of x"]
+    ],
+    "李骆明": [
+      ["宇祖成木", "兄弟 of x, families connection of x"]
+    ],
+    "吴百安": [
+      ["李子材", "同学 of x"]
+    ]
+}

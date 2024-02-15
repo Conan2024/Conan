@@ -1,0 +1,256 @@
+{
+    "陈府主": [
+        [
+            "李王爷",
+            "Customer"
+        ],
+        [
+            "王子",
+            "Same person as X ",
+            "Same person as X ",
+            "Stranger to X",
+            "Acquaintance of X",
+            "Business Partner of X",
+            "Customer of X",
+            "Patient of X",
+            "Victim of X"
+        ],
+        [
+            "方絮",
+            "敌人",
+            "盟友",
+            "帮手",
+            "受欢迎者"
+        ],
+        [
+            "李仲",
+            "relationship 1, relationship 2,..."
+        ],
+        [
+            "李延",
+            "friend",
+            "服务员",
+            "opponent",
+            "rival",
+            "manipulator",
+            "manipulated",
+            "superior",
+            "subordinate",
+            "business partner",
+            "customer",
+            "tenant",
+            "patient"
+        ]
+    ],
+    "李王爷": [
+        [
+            "陈府主",
+            "Business Owner"
+        ],
+        [
+            "王子",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "方絮",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "李仲",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "李延",
+            "husband of 李延's mother",
+            "father of 李延's half-brother"
+        ],
+        [
+            "陈倩",
+            "father-in-law",
+            "superior/employer",
+            "friend",
+            "conspirator"
+        ]
+    ],
+    "王子": [
+        [
+            "陈府主",
+            "Same person as X ",
+            "Same person as X ",
+            "Stranger to X",
+            "Acquaintance of X",
+            "Business Partner of X",
+            "Customer of X",
+            "Patient of X",
+            "Victim of X"
+        ],
+        [
+            "李王爷",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "方絮",
+            " Husband of X",
+            "Wife of X",
+            "Same person as X "
+        ],
+        [
+            "李仲",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "李延",
+            "Brother-in-law, Son-in-law"
+        ],
+        [
+            "陈倩",
+            "adoptive father/daughter"
+        ]
+    ],
+    "方絮": [
+        [
+            "陈府主",
+            "敌人",
+            "盟友",
+            "帮手",
+            "受欢迎者"
+        ],
+        [
+            "李王爷",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "王子",
+            " Husband of X",
+            "Wife of X",
+            "Same person as X "
+        ],
+        [
+            "李仲",
+            " Husband of X (different identity)"
+        ],
+        [
+            "李延",
+            "Wife of X"
+        ],
+        [
+            "陈倩",
+            "wife",
+            "rival"
+        ]
+    ],
+    "李仲": [
+        [
+            "陈府主",
+            "relationship 1, relationship 2,..."
+        ],
+        [
+            "李王爷",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "王子",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "方絮",
+            "Wife of X (different reference)"
+        ],
+        [
+            "李延",
+            "brother"
+        ],
+        [
+            "陈倩",
+            "father-daughter relationship"
+        ]
+    ],
+    "李延": [
+        [
+            "陈府主",
+            "friend",
+            "employee",
+            "opponent",
+            "rival",
+            "manipulator",
+            "manipulated",
+            "superior",
+            "subordinate",
+            "business partner",
+            "customer",
+            "tenant",
+            "patient"
+        ],
+        [
+            "李王爷",
+            "son of 李王爷's wife",
+            "half-brother of 李王爷's son"
+        ],
+        [
+            "王子",
+            "Brother-in-law, Son-in-law"
+        ],
+        [
+            "方絮",
+            "Husband of X"
+        ],
+        [
+            "李仲",
+            "brother"
+        ],
+        [
+            "陈倩",
+            "son",
+            "brother"
+        ]
+    ],
+    "chen fiefdom": [
+        [
+            "chen rong",
+            "relation 1, relation 2"
+        ]
+    ],
+    "chen rong": [
+        [
+            "chen fiefdom",
+            "relation 1, relation 2"
+        ]
+    ],
+    "陈倩": [
+        [
+            "李王爷",
+            "father-in-law",
+            "daughter-in-law",
+            "friend",
+            "conspirator"
+        ],
+        [
+            "王子",
+            "adoptive mother/father"
+        ],
+        [
+            "方絮",
+            "husband",
+            "rival"
+        ],
+        [
+            "李仲",
+            "father-daughter relationship"
+        ]
+    ],
+    "chen Fou": [
+        [
+            "李延",
+            "father",
+            "uncle"
+        ]
+    ]
+}

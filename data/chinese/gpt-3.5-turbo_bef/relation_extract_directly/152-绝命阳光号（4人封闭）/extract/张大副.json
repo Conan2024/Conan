@@ -1,0 +1,63 @@
+{
+    "张大副": [
+      ["弟弟", "sibling of x"], 
+      ["很天真", "brother of x"], 
+      ["杨老板", "business partner of x, employer of x"], 
+      ["玲船医", "informant of x"], 
+      ["王船工", "acquaintance of x"], 
+      ["王小工", "son of x"], 
+      ["杨老板的保镖", "subordinate of x"], 
+      ["雯秘书", "employee of x"], 
+      ["毒品交易的不法分子", "business partner of x"], 
+      ["弟弟的杀手", "perpetrator of x"], 
+      ["杨老板的死亡", "perpetrator of x"], 
+      ["杨老板的保镖", "subordinate of x"], 
+      ["保镖", "subordinate of x"], 
+      ["自己", "perpetrator of x"]
+    ],
+    "很天真": [
+      ["张大副", "sibling of x"], 
+      ["杨老板", "employer of x"], 
+      ["杨老板的意图", "suspected by x"], 
+      ["弟弟的杀手", "perpetrator of x"], 
+      ["杨老板的保镖", "adversary of x"], 
+      ["弟弟的死因", "perpetrator of x"]
+    ],
+    "杨老板": [
+      ["很天真", "employee of x"], 
+      ["张大副", "business partner of x, subordinate of x"], 
+      ["玲船医", "employee of x"], 
+      ["弟弟的杀手", "manipulator of x, manipulated by x"], 
+      ["王船工", "customer of x"], 
+      ["雯秘书", "employee of x"], 
+      ["王小工", "deceived by x"], 
+      ["很天真的亲戚", "perpetrator of x's family"], 
+      ["王小工的死因", "perpetrator of x"], 
+      ["船上工人", "adversary of x"], 
+      ["张大副的杀手", "suspected by x"], 
+      ["张大副的死因", "perpetrator of x"], 
+      ["保镖", "subordinate of x"], 
+      ["自己", "perpetrator of x"]
+    ],
+    "雯秘书": [
+      ["杨老板", "employee of x"], 
+      ["张大副", "informant of x"], 
+      ["王船工", "guest of x"], 
+      ["王小工和玲船医的关系", "informant of x"], 
+      ["王小工与玲船医交往", "informant of x"], 
+      ["王小工婚约", "informant of x"]
+    ],
+    "王船工": [
+      ["张大副", "acquaintance of x"], 
+      ["玲船医", "romantic relationships with x"], 
+      ["王小工", "child of x"], 
+      ["很天真的行为和死因", "informant of x"]
+    ],
+    "玲船医": [
+      ["张大副", "informant of x"], 
+      ["王船工", "romantic relationships with x"], 
+      ["王小工和雯秘书的关系", "informant of x"], 
+      ["王小工与雯秘书交往", "informant of x"], 
+      ["王小工的婚约", "informant of x"]
+    ]
+}

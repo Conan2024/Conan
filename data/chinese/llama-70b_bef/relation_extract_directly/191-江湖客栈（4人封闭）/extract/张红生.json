@@ -1,0 +1,33 @@
+{
+    "张红生": [
+      ["孟三春", "husband of x, enemy of x, murderer of x"], 
+      ["张金银", "friend of x, acquaintance of x"], 
+      ["张金山", "friend of x, acquaintance of x"], 
+      ["洪长烈", "father of x"], 
+      ["蔡思娘", "sister in law of x, rival of x"]
+    ],
+    "孟三春": [
+      ["张红生", "wife of x, manipulator of x, victim of x"], 
+      ["张金银", "brother of x"], 
+      ["张金山", "brother of x"], 
+      ["洪长烈", "father in law of x"]
+    ],
+    "张金银": [
+      ["孟三春", "brother of x"], 
+      ["张金山", "brother of x"], 
+      ["张红生", "sister in law of x, acquaintance of x"]
+    ],
+    "张金山": [
+      ["孟三春", "brother of x"], 
+      ["张金银", "brother of x"], 
+      ["张红生", "sister in law of x, acquaintance of x"]
+    ],
+    "洪长烈": [
+      ["张红生", "daughter of x"], 
+      ["孟三春", "son in law of x, enemy of x"]
+    ],
+    "蔡思娘": [
+      ["张红生", "sister in law of x, rival of x"], 
+      ["孟三春", "brother in law of x, acquaintance of x"]
+    ]
+}

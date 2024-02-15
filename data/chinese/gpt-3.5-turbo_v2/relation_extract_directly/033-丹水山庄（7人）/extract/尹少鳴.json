@@ -1,0 +1,48 @@
+{
+    "尹少鳴": [
+      ["尹少鳴", "same person as x (different reference)"], 
+      ["尹少鳴", "same person as x (different identity)"], 
+      ["赵洛意", "romantic relationships with x"], 
+      ["赵秋儿", "admired by x"], 
+      ["冯双骥", "enemy of x"], 
+      ["虞北辰", "colleague of x"], 
+      ["虞北辰", "informant of x"], 
+      ["虞北辰", "helper of x"], 
+      ["赵万雷", "friend of x"], 
+      ["郭望山", "adversary of x"], 
+      ["外公", "mentor of x"], 
+      ["戴黑面纱的女子", "deceiver of x"], 
+      ["三个男人", "unknown relationship with x"]
+    ],
+    "虞北辰": [
+      ["虞北辰", "same person as x (different reference)"], 
+      ["虞北辰", "same person as x (different identity)"], 
+      ["尹少鳴", "colleague of x"], 
+      ["尹少鳴", "informant of x"], 
+      ["尹少鳴", "helper of x"]
+    ],
+    "外公": [
+      ["外公", "mentor of x 尹少鳴"]
+    ],
+    "戴黑面纱的女子": [
+      ["戴黑面纱的女子", "deceiver of x 尹少鳴"]
+    ],
+    "三个男人": [
+      ["三个男人", "unknown relationship with 尹少鳴 of x"]
+    ],
+    "赵洛意": [
+      ["赵洛意", "romantic relationships with 尹少鳴 of x"]
+    ],
+    "赵万雷": [
+      ["赵万雷", "friend of x 尹少鳴"]
+    ],
+    "冯双骥": [
+      ["冯双骥", "enemy of x 尹少鳴"]
+    ],
+    "郭望山": [
+      ["郭望山", "adversary of x 尹少鳴"]
+    ],
+    "赵秋儿": [
+      ["赵秋儿", "admired by 尹少鳴 of x"]
+    ]
+}

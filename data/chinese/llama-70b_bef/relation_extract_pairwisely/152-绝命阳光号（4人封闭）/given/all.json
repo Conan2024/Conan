@@ -1,0 +1,36 @@
+{
+    "张大副": [
+      ["王小工", "mentor of x, employer of x, manipulator of x, enemy of x"], 
+      ["王船工", "superior of x, mentor of x, friend of x, manipulator of x"]
+    ],
+    "很天真": [
+      ["王船工", "business partner of x, acquaintance of x, bully of x, manipulator of x"], 
+      ["玲船医", "friend of x"]
+    ],
+    "杨老板": [
+      ["王船工", "employee of x, master of x, superior of x, business partner of x"], 
+      ["玲船医", "employee of x, business partner of x, customer of x, buyer of x"], 
+      ["雯秘书", "business partner of x, buyer of x, tenant of x"]
+    ],
+    "王小工": [
+      ["张大副", "mentor of x, employer of x, manipulator of x, enemy of x"], 
+      ["王船工", "son of x, employee of x, informant of x"], 
+      ["玲船医", "son in law of x"]
+    ],
+    "王船工": [
+      ["张大副", "superior of x, mentor of x, friend of x"], 
+      ["很天真", "business partner of x, acquaintance of x, bully of x"], 
+      ["杨老板", "acquaintance of x, informant of x, helped by x"], 
+      ["王小工", "father of x, employer of x"], 
+      ["雯秘书", "employee of x, colleague of x"]
+    ],
+    "玲船医": [
+      ["很天真", "friend of x"], 
+      ["杨老板", "employee of x, business partner of x, informant of x, acquaintance of x"], 
+      ["王小工", "wife of x, spy of x"]
+    ],
+    "雯秘书": [
+      ["杨老板", "business partner of x, informant of x"], 
+      ["王船工", "employer of x"]
+    ]
+}

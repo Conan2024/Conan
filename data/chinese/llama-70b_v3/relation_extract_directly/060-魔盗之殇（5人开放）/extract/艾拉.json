@@ -1,0 +1,22 @@
+{
+    "艾拉": [
+      ["剧务戴维", "colleague of x"], 
+      ["罗琳", "friend of x, secret lover of x"], 
+      ["后勤格里夫", "same person as x (different reference), enemy of x"], 
+      ["古思特", "secret lover of x"]
+    ],
+    "剧务戴维": [
+      ["罗琳", "colleague of x, secret lover of x"]
+    ],
+    "罗琳": [
+      ["艾拉", "friend of x"], 
+      ["剧务戴维", "colleague of x"]
+    ],
+    "后勤格里夫": [
+      ["艾拉", "same person as x (different reference)"]
+    ],
+    "古思特": [
+      ["艾拉", "secret lover of x"], 
+      ["罗琳", "secret lover of x"]
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "蓝蕊": [
+      ["章方豪", "acquaintance of x"], 
+      ["杨水巡", "uncle of x, murderer of x"], 
+      ["夕婷", "friend of x, suspicious of x"], 
+      ["敏兮", "classmate of x, friend of x, victim of x"], 
+      ["顾楚梦", "husband of x, enemy of x"]
+    ],
+    "章方豪": [
+      ["蓝蕊", "acquaintance of x"], 
+      ["杨水巡", "father of x"], 
+      ["夕婷", "friend of x, suspect of x"], 
+      ["敏兮", "classmate of x, friend of x, victim of x"]
+    ],
+    "杨水巡": [
+      ["蓝蕊", "uncle of x, murderer of x"], 
+      ["章方豪", "father of x"], 
+      ["夕婷", "friend of x, suspect of x"], 
+      ["敏兮", "classmate of x, friend of x, victim of x"]
+    ],
+    "夕婷": [
+      ["蓝蕊", "friend of x, suspect of x"], 
+      ["章方豪", "acquaintance of x"], 
+      ["杨水巡", "uncle of x, murderer of x"], 
+      ["敏兮", "classmate of x, friend of x, victim of x"]
+    ],
+    "敏兮": [
+      ["蓝蕊", "classmate of x, friend of x, victim of x"], 
+      ["章方豪", "acquaintance of x"], 
+      ["杨水巡", "uncle of x, murderer of x"], 
+      ["夕婷", "friend of x, suspect of x"]
+    ],
+    "顾楚梦": [
+      ["蓝蕊", "husband of x, enemy of x"], 
+      ["章方豪", "acquaintance of x"]
+    ]
+}

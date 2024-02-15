@@ -1,0 +1,26 @@
+{
+    "陈安巧": [
+      ["姚长寿", "father of x"], 
+      ["姚仲义", "brother of x"], 
+      ["神秘人", "enemy of x"]
+    ],
+    "姚长寿": [
+      ["红夫人", "wife of x"], 
+      ["神秘人", "enemy of x"]
+    ],
+    "姚仲义": [
+      ["陈安巧", "brother of x"], 
+      ["红夫人", "daughter of x"], 
+      ["神秘人", "enemy of x"]
+    ],
+    "红夫人": [
+      ["姚仲义", "brother of x"], 
+      ["神秘人", "enemy of x"]
+    ],
+    "神秘人": [
+      ["陈安巧", "enemy of x"], 
+      ["姚长寿", "enemy of x"], 
+      ["姚仲义", "enemy of x"], 
+      ["红夫人", "enemy of x"]
+    ]
+}

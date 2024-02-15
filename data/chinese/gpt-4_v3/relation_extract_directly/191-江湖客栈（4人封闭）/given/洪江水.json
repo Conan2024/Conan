@@ -1,0 +1,102 @@
+{
+    "洪江水": [
+        [
+            "洪寨主",
+            "father of x, possibly family of x"
+        ],
+        [
+            "孟三春",
+            "acquaintance of x, victim of x, attempted perpetrator of x"
+        ],
+        [
+            "张金银",
+            "colleague of x"
+        ],
+        [
+            "张红生",
+            "colleague of x, information receiver from x"
+        ],
+        [
+            "蔡思娘",
+            "colleague of x, admirer of x, disliked by x"
+        ]
+    ],
+    "洪寨主": [
+        [
+            "洪江水",
+            "child of x, possibly family of x"
+        ]
+    ],
+    "孟三春": [
+        [
+            "洪江水",
+            "acquaintance of x, perpetrator of x"
+        ],
+        [
+            "张金银",
+            "business partner of x, friend of x"
+        ],
+        [
+            "张红生",
+            "romantic relationships with x"
+        ],
+        [
+            "蔡思娘",
+            "colleague of x"
+        ]
+    ],
+    "张金银": [
+        [
+            "孟三春",
+            "business partner of x, friend of x"
+        ],
+        [
+            "张红生",
+            "business partner of x"
+        ],
+        [
+            "蔡思娘",
+            "colleague of x"
+        ],
+        [
+            "洪江水",
+            "colleague of x"
+        ]
+    ],
+    "张红生": [
+        [
+            "孟三春",
+            "romantic relationships with x"
+        ],
+        [
+            "张金银",
+            "business partner of x"
+        ],
+        [
+            "蔡思娘",
+            "employee of x"
+        ],
+        [
+            "洪江水",
+            "employee of x, informant of x"
+        ]
+    ],
+    "蔡思娘": [
+        [
+            "孟三春",
+            "colleague of x"
+        ],
+        [
+            "张金银",
+            "colleague of x"
+        ],
+        [
+            "张红生",
+            "employer of x"
+        ],
+        [
+            "洪江水",
+            "colleague of x, disliked by x"
+        ]
+    ]
+}

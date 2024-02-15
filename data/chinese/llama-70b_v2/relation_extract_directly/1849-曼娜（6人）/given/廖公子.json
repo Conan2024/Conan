@@ -1,0 +1,57 @@
+{
+    "廖公子": [
+      ["红儿", "business partner relationship of x, mentor relationship of x"], 
+      ["谭太太", "friend relationship of x"], 
+      ["韦太太", "debtor relationship of x"], 
+      ["斯文男人", "acquaintance relationship of x"], 
+      ["承格", "acquaintance relationship of x"], 
+      ["罗亨理", "business partner relationship of x"]
+    ],
+    "红儿": [
+      ["廖公子", "business partner relationship of x, mentor relationship of x"], 
+      ["谭太太", "business partner relationship of x"], 
+      ["韦太太", "debtor relationship of x"], 
+      ["罗亨理", "business partner relationship of x"]
+    ],
+    "谭太太": [
+      ["廖公子", "friend relationship of x"], 
+      ["红儿", "business partner relationship of x"], 
+      ["韦太太", "debtor relationship of x"], 
+      ["罗亨理", "business partner relationship of x"]
+    ],
+    "韦太太": [
+      ["谭太太", "sister relationship of x"], 
+      ["廖公子", "debtor relationship of x"]
+    ],
+    "斯文男人": [
+      ["廖公子", "acquaintance relationship of x"], 
+      ["红儿", "acquaintance relationship of x"]
+    ],
+    "承格": [
+      ["廖公子", "acquaintance relationship of x"], 
+      ["谭太太", "business partner relationship of x"]
+    ],
+    "罗亨理": [
+      ["廖公子", "business partner relationship of x"], 
+      ["红儿", "business partner relationship of x"]
+    ],
+    "谭仁昌": [
+      ["谭太太", "husband relationship of x"], 
+      ["谭尚致", "father relationship of x"], 
+      ["吕名然", "friend relationship of x"], 
+      ["廖公子", "acquaintance relationship of x"]
+    ],
+    "吕名然": [
+      ["谭仁昌", "friend relationship of x"], 
+      ["廖公子", "acquaintance relationship of x"]
+    ],
+    "尚致": [
+      ["谭仁昌", "son relationship of x"], 
+      ["谭太太", "mother relationship of x"], 
+      ["廖公子", "acquaintance relationship of x"]
+    ],
+    "阿萍": [
+      ["谭太太", "servant relationship of x"], 
+      ["廖公子", "acquaintance relationship of x"]
+    ]
+}

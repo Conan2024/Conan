@@ -1,0 +1,104 @@
+{
+    "赵三": [
+        [
+            "赵中正",
+            "friend of x, helper of x, adoptive brother of x"
+        ],
+        [
+            "赵家族长",
+            "relative of x"
+        ],
+        [
+            "赵中杨",
+            "victim of x, adoptive brother of x, dislike of x"
+        ],
+        [
+            "张伟",
+            "acquaintance of x, business partner of x, quest companion of x"
+        ],
+        [
+            "马老板",
+            "business partner of x"
+        ]
+    ],
+    "赵中正": [
+        [
+            "赵三",
+            "friend of x, helped by x, adoptive brother of x"
+        ],
+        [
+            "赵家族长",
+            "father of x"
+        ],
+        [
+            "赵中杨",
+            "sibling of x, disliked by x, rival of x"
+        ],
+        [
+            "张伟",
+            "subordinate of x"
+        ]
+    ],
+    "赵家族长": [
+        [
+            "赵三",
+            "adoptive son of x"
+        ],
+        [
+            "赵中正",
+            "biological son of x"
+        ],
+        [
+            "赵中杨",
+            "biological son of x"
+        ]
+    ],
+    "赵中杨": [
+        [
+            "赵三",
+            "disliked by x, victim of x, adoptive brother of x"
+        ],
+        [
+            "赵中正",
+            "sibling of x, disliked by x, rival of x"
+        ],
+        [
+            "赵家族长",
+            "father of x"
+        ],
+        [
+            "张伟",
+            "subordinate of x, disliked by x"
+        ],
+        [
+            "陈媚儿",
+            "lover of x, secret lover of x"
+        ]
+    ],
+    "张伟": [
+        [
+            "赵三",
+            "acquaintance of x, business partner of x, quest companion of x"
+        ],
+        [
+            "赵中正",
+            "superior of x"
+        ],
+        [
+            "赵中杨",
+            "superior of x, disliked by x"
+        ]
+    ],
+    "马老板": [
+        [
+            "赵三",
+            "attempted perpetrator of x, customer of x"
+        ]
+    ],
+    "陈媚儿": [
+        [
+            "赵中杨",
+            "lover of x, secret lover of x"
+        ]
+    ]
+}

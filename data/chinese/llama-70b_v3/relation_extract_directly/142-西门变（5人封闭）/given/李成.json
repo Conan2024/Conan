@@ -1,0 +1,22 @@
+{
+    "李成": [
+      ["赵中杨", "friend of x"], 
+      ["赵中正", "acquaintance of x, deceiver of x"]
+    ],
+    "赵中杨": [
+      ["李成", "friend of x"], 
+      ["张伟", "servant of x"]
+    ],
+    "赵中正": [
+      ["李成", "acquaintance of x, deceiver of x"], 
+      ["陈媚儿", "manipulator of x"]
+    ],
+    "陈媚儿": [
+      ["李成", "acquaintance of x"], 
+      ["赵中杨", "master of x"]
+    ],
+    "张伟": [
+      ["赵中杨", "servant of x"], 
+      ["赵中正", "acquaintance of x"]
+    ]
+}

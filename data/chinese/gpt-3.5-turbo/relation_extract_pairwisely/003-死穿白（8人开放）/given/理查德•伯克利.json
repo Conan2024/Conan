@@ -1,0 +1,79 @@
+{
+    "理查德•伯克利": [
+        [
+            "汉斯·里莫瑞特",
+            "mentor of x",
+            "adversary of x"
+        ],
+        [
+            "伊莱恩·卡特尔",
+            "friend of x"
+        ],
+        [
+            "帕洛斯基医生",
+            "friend of x",
+            "colleague of x"
+        ],
+        [
+            "西尔维亚·科斯塔",
+            "wife of x"
+        ]
+    ],
+    "汉斯·里莫瑞特": [
+        [
+            "理查德•伯克利",
+            "student of x",
+            "adversary of x"
+        ],
+        [
+            "伊莱恩·卡特尔",
+            "mentor of x"
+        ],
+        [
+            "帕洛斯基医生",
+            "doctor of 汉斯·里莫瑞特"
+        ],
+        [
+            "西尔维亚·科斯塔",
+            "mentor of x"
+        ]
+    ],
+    "伊莱恩·卡特尔": [
+        [
+            "汉斯·里莫瑞特",
+            "student of x"
+        ],
+        [
+            "帕洛斯基医生",
+            "mentor of"
+        ],
+        [
+            "西尔维亚·科斯塔",
+            "romantic relationships with x"
+        ]
+    ],
+    "西尔维亚·科斯塔": [
+        [
+            "汉斯·里莫瑞特",
+            "student of x"
+        ],
+        [
+            "伊莱恩·卡特尔",
+            "romantic relationships with x"
+        ],
+        [
+            "帕洛斯基医生",
+            "student of"
+        ]
+    ],
+    "帕洛斯基医生": [
+        [
+            "伊莱恩·卡特尔",
+            "student of"
+        ],
+        [
+            "西尔维亚·科斯塔",
+            "mentor of"
+        ]
+    ]
+}

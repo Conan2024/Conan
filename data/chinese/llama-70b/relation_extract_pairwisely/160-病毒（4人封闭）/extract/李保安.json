@@ -1,0 +1,80 @@
+{
+    "李保安": [
+        [
+            "田助理",
+            "coworker",
+            "blackmailer"
+        ],
+        [
+            "秦鸥",
+            "acquaintance",
+            "colleague",
+            "helpful",
+            "personal"
+        ],
+        [
+            "孙清洁",
+            "Colleague",
+            "Friend",
+            "Love Interest",
+            "Confidant"
+        ]
+    ],
+    "田助理": [
+        [
+            "李保安",
+            "superior",
+            "inappropriate behavior"
+        ],
+        [
+            "秦鸥",
+            "bully"
+        ],
+        [
+            "孙清洁",
+            "oppressor - victim",
+            "bully - victim",
+            "Extramarital affair with X",
+            "Romantic relationships with X"
+        ]
+    ],
+    "秦鸥": [
+        [
+            "李保安",
+            "acquaintance",
+            "colleague",
+            "helpful",
+            "personal"
+        ],
+        [
+            "田助理",
+            "victim"
+        ],
+        [
+            "孙清洁",
+            "救美的豪气",
+            "豢达"
+        ]
+    ],
+    "孙清洁": [
+        [
+            "李保安",
+            "Colleague",
+            "Friend",
+            "Love Interest",
+            "Sharer of a Secret"
+        ],
+        [
+            "田助理",
+            "oppressed - oppressor",
+            "victim - bully",
+            "Wife of X",
+            "Fiancee of X"
+        ],
+        [
+            "秦鸥",
+            "救美的豪气",
+            "豢达"
+        ]
+    ]
+}

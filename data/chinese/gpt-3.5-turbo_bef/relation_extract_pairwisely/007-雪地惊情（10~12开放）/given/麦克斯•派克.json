@@ -1,0 +1,51 @@
+{
+    "乔•罗伯特森": [
+      ["露西•哈里森", "romantic relationships with x"], 
+      ["麦克斯•琼斯", "friend of x"], 
+      ["丹尼尔•佩里", "friend of x, acquaintance of x"], 
+      ["约翰•摩根", "friend of x"], 
+      ["艾米•摩根", "romantic relationships with x"]
+    ],
+    "Sleer&Leech": [
+      ["露西•哈里森", "helper of x, suspicious of x"], 
+      ["麦克斯•琼斯", "business partner of x, friend of x"], 
+      ["丹尼尔•佩里", "business partner of x"], 
+      ["约翰•摩根", "friend of x"]
+    ],
+    "露西•哈里森": [
+      ["乔•罗伯特森", "romantic relationships with x"], 
+      ["Sleer&Leech", "helper of x, suspicious of x"], 
+      ["麦克斯•琼斯", "friend of x"], 
+      ["丹尼尔•佩里", "romantic relationships with x"], 
+      ["约翰•摩根", "extramarital affair with x"], 
+      ["艾米•摩根", "ex girlfriend of x"]
+    ],
+    "麦克斯•琼斯": [
+      ["乔•罗伯特森", "friend of x"], 
+      ["Sleer&Leech", "business partner of x, friend of x"], 
+      ["露西•哈里森", "acquaintance of x"], 
+      ["丹尼尔•佩里", "friend of x"], 
+      ["约翰•摩根", "friend of x"], 
+      ["艾米•摩根", "lover of x"]
+    ],
+    "丹尼尔•佩里": [
+      ["乔•罗伯特森", "friend of x, acquaintance of x"], 
+      ["Sleer&Leech", "business partner of x"], 
+      ["露西•哈里森", "romantic relationships with x"], 
+      ["麦克斯•琼斯", "friend of x"], 
+      ["约翰•摩根", "friend of x"]
+    ],
+    "艾米•摩根": [
+      ["乔•罗伯特森", "romantic relationships with x"], 
+      ["露西•哈里森", "ex boyfriend of x"], 
+      ["麦克斯•琼斯", "lover of x"], 
+      ["约翰•摩根", "wife of x"]
+    ],
+    "约翰•摩根": [
+      ["Sleer&Leech", "friend of x"], 
+      ["露西•哈里森", "extramarital affair with x"], 
+      ["麦克斯•琼斯", "friend of x"], 
+      ["丹尼尔•佩里", "friend of x"], 
+      ["艾米•摩根", "husband of x"]
+    ]
+}

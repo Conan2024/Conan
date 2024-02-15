@@ -1,0 +1,14 @@
+{
+    "贾教授": [
+      ["田助理", "superior of x, mentor of x, victim of x, suspect to x, seeker of help from x, enemy of x"], 
+      ["秦鸥", "enemy of x, perpetrator of x, deceiver of x"]
+    ],
+    "田助理": [
+      ["贾教授", "subordinate of x, student of x, deceiver of x, adversary of x, disliked by x, suspect of x"], 
+      ["秦鸥", "ex romantic relationships with x, victim of x, disliked by x"]
+    ],
+    "秦鸥": [
+      ["贾教授", "victim of x, deceived by x"], 
+      ["田助理", "ex romantic relationships with x, deceiver of x, perpetrator of x"]
+    ]
+}

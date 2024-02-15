@@ -1,0 +1,62 @@
+{
+    "贾教授": [
+        [
+            "秦鸥",
+            "teacher",
+            "superior",
+            "enemy",
+            "manipulator"
+        ],
+        [
+            "大姐",
+            "superior",
+            "past relationship",
+            "adversarial",
+            "working"
+        ]
+    ],
+    "秦鸥": [
+        [
+            "贾教授",
+            "teacher",
+            "superior",
+            "enemy",
+            "manipulated"
+        ],
+        [
+            "田助理",
+            "victim of 贾教授's reputation damage"
+        ],
+        [
+            "大姐",
+            " enemy"
+        ]
+    ],
+    "大姐": [
+        [
+            "贾教授",
+            "superior",
+            "past relationship",
+            "adversarial",
+            "working"
+        ],
+        [
+            "田助理",
+            "coefficient of friction"
+        ],
+        [
+            "秦鸥",
+            " enemy"
+        ]
+    ],
+    "田助理": [
+        [
+            "秦鸥",
+            "perpetrator of 贾教授's reputation damage"
+        ],
+        [
+            "大姐",
+            " coefficient of friction"
+        ]
+    ]
+}

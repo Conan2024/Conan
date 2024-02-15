@@ -1,0 +1,87 @@
+{
+    "李高柏": [
+      ["钱氏", "mother of x"], 
+      ["李德木", "brother of x, deceased brother of x"], 
+      ["李良松", "brother of x"], 
+      ["巴府山", "employer of x, debtor of x"], 
+      ["鬼印", "acquaintance of x, quest companion of x, deceased by x"], 
+      ["如娅", "friend of x, wife of x 鬼印"], 
+      ["隼", "child of x 巴府山, friend of x"], 
+      ["甘玛", "sibling of x 鬼印, acquaintance of x"], 
+      ["周教授", "mentor of x, information receiver from x"], 
+      ["郑函贞", "colleague of x, employer of x"], 
+      ["巴氏鹃歌", "deceased by x, deceased relative of x 巴府山"]
+    ],
+    "钱氏": [
+      ["李德木", "child of x"], 
+      ["李良松", "child of x"], 
+      ["李高柏", "child of x"]
+    ],
+    "李德木": [
+      ["钱氏", "mother of x"], 
+      ["李良松", "brother of x"], 
+      ["李高柏", "brother of x"], 
+      ["巴府山", "employer of x, perpetrator of x"], 
+      ["鬼印", "suspected by 李良松 of x"], 
+      ["隼", "acquaintance of x"]
+    ],
+    "李良松": [
+      ["钱氏", "mother of x"], 
+      ["李德木", "brother of x"], 
+      ["李高柏", "brother of x"], 
+      ["巴府山", "employer of x"], 
+      ["鬼印", "suspect to x"]
+    ],
+    "巴府山": [
+      ["李高柏", "employee of x, creditor of x"], 
+      ["李德木", "employee of x, victim of x"], 
+      ["李良松", "employee of x"], 
+      ["鬼印", "business partner of x, victim of x"], 
+      ["隼", "father of x"], 
+      ["巴氏鹃歌", "child of x, deceased child of x"]
+    ],
+    "鬼印": [
+      ["李高柏", "acquaintance of x, helped by x, victim of x"], 
+      ["巴府山", "business partner of x, suspect of x"], 
+      ["如娅", "husband of x"], 
+      ["隼", "acquaintance of x"], 
+      ["甘玛", "sibling of x"], 
+      ["李德木", "suspected by 李良松 of x"], 
+      ["巴氏鹃歌", "fiance of x, deceased fiancee of x"]
+    ],
+    "如娅": [
+      ["李高柏", "friend of x"], 
+      ["鬼印", "wife of x"], 
+      ["隼", "sibling in law of x"], 
+      ["甘玛", "sister in law of x"]
+    ],
+    "隼": [
+      ["李高柏", "friend of x"], 
+      ["巴府山", "son of x"], 
+      ["鬼印", "acquaintance of x"], 
+      ["如娅", "sister in law of x"], 
+      ["甘玛", "acquaintance of x"]
+    ],
+    "甘玛": [
+      ["鬼印", "sibling of x, deceased sibling of x"], 
+      ["李高柏", "acquaintance of x"], 
+      ["如娅", "sister in law of x"], 
+      ["忱纱", "friend of x"]
+    ],
+    "周教授": [
+      ["李高柏", "student of x, informant of x"]
+    ],
+    "郑函贞": [
+      ["李高柏", "colleague of x, employer of x"]
+    ],
+    "巴氏鹃歌": [
+      ["巴府山", "father of x, deceased father of x"], 
+      ["鬼印", "fiance of x, deceased fiancee of x"], 
+      ["李高柏", "deceased by x"], 
+      ["忱纱", "deceased by x"]
+    ],
+    "忱纱": [
+      ["甘玛", "friend of x"], 
+      ["巴氏鹃歌", "suspect of x"]
+    ]
+}

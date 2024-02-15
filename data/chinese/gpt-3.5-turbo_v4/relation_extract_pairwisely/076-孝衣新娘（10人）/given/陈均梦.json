@@ -1,0 +1,108 @@
+{
+    "陈均梦": [
+      ["姚孟仁", "friend of x"], 
+      ["陈轻梧", "sibling of x"], 
+      ["姚长寿", "friend of x"], 
+      ["孟老爷", "saviour of x"], 
+      ["陈市田", "wife of x"], 
+      ["红夫人", "husband of x"], 
+      ["姚仲义", "step brother of x"], 
+      ["贵叔", "mentor of x"], 
+      ["陈安巧", "sister of x"]
+    ],
+    "姚孟仁": [
+      ["陈均梦", "friend of x"], 
+      ["陈轻梧", "mentor of x"], 
+      ["姚长寿", "sibling of x"], 
+      ["孟老爷", "employee of x"], 
+      ["陈市田", "brother of x"], 
+      ["红夫人", "extramarital affair with x"], 
+      ["姚仲义", "brother in law of x"], 
+      ["贵叔", "mentor of x"], 
+      ["陈安巧", "sister of x"]
+    ],
+    "陈轻梧": [
+      ["陈均梦", "sibling of x"], 
+      ["姚孟仁", "student of x"], 
+      ["姚长寿", "student of x, friend of x"], 
+      ["孟老爷", "relative of x, mentor of x, admirer of x"], 
+      ["陈市田", "father of x"], 
+      ["红夫人", "fiance of x"], 
+      ["姚仲义", "friend of x"], 
+      ["贵叔", "mentor of x, fondness of x"], 
+      ["陈安巧", "sibling of x"]
+    ],
+    "孟老爷": [
+      ["陈均梦", "saved by x"], 
+      ["姚孟仁", "employer of x"], 
+      ["陈轻梧", "relative of x, student of x, mentor of x"], 
+      ["姚长寿", "landlord of x, employer of x"], 
+      ["陈市田", "father of x"], 
+      ["红夫人", "husband of x"], 
+      ["姚仲义", "servant of x"], 
+      ["贵叔", "father in law of x"], 
+      ["陈安巧", "father of x, employer of x, master of x"]
+    ],
+    "红夫人": [
+      ["陈均梦", "wife of x"], 
+      ["姚孟仁", "extramarital affair with x"], 
+      ["陈轻梧", "fiancee of x"], 
+      ["姚长寿", "wife of x, extramarital affair with x"], 
+      ["孟老爷", "wife of x"], 
+      ["陈市田", "husband of x"], 
+      ["姚仲义", "wife of x"], 
+      ["贵叔", "extramarital affair with x, admirer of x"], 
+      ["陈安巧", "mother of x"]
+    ],
+    "贵叔": [
+      ["陈均梦", "student of x"], 
+      ["姚孟仁", "student of x"], 
+      ["陈轻梧", "student of x, liked by x"], 
+      ["姚长寿", "student of x"], 
+      ["孟老爷", "son in law of x"], 
+      ["陈市田", "student of x"], 
+      ["红夫人", "extramarital affair with x, admirer of x"], 
+      ["姚仲义", "nephew of x"], 
+      ["陈安巧", "step father of x"]
+    ],
+    "陈安巧": [
+      ["陈均梦", "sister of x"], 
+      ["姚孟仁", "sister of x"], 
+      ["陈轻梧", "sibling of x"], 
+      ["姚长寿", "student of x, daughter of x"], 
+      ["孟老爷", "daughter of x, employee of x, servant of x"], 
+      ["陈市田", "daughter of x"], 
+      ["红夫人", "daughter of x"], 
+      ["姚仲义", "daughter of x"], 
+      ["贵叔", "step daughter of x"]
+    ],
+    "姚长寿": [
+      ["姚孟仁", "sibling of x"], 
+      ["陈轻梧", "teacher of x, friend of x"], 
+      ["孟老爷", "tenant of x, guard of x"], 
+      ["陈市田", "friend of x"], 
+      ["姚仲义", "grandfather of x"], 
+      ["贵叔", "friend of x, mentor of x, teacher of x"], 
+      ["陈安巧", "father of x, mentor of x"]
+    ],
+    "陈市田": [
+      ["姚孟仁", "brother of x"], 
+      ["陈轻梧", "son of x"], 
+      ["姚长寿", "friend of x"], 
+      ["孟老爷", "son of x"], 
+      ["红夫人", "wife of x"], 
+      ["姚仲义", "friend of x"], 
+      ["贵叔", "teacher of x"], 
+      ["陈安巧", "father of x"]
+    ],
+    "姚仲义": [
+      ["姚孟仁", "brother in law of x"], 
+      ["陈轻梧", "friend of x"], 
+      ["姚长寿", "grandson of x"], 
+      ["孟老爷", "employer of x"], 
+      ["陈市田", "friend of x"], 
+      ["红夫人", "husband of x"], 
+      ["贵叔", "uncle of x"], 
+      ["陈安巧", "father of x"]
+    ]
+}

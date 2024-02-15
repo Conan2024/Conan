@@ -1,0 +1,90 @@
+{
+    "你": [
+        [
+            "强尼",
+            "murderer of x"
+        ],
+        [
+            "父亲",
+            "child of x"
+        ],
+        [
+            "约翰",
+            "cellmate of x, suspect to x, co-worker of x"
+        ],
+        [
+            "斯蒂文",
+            "suspected by x, briber of x"
+        ],
+        [
+            "乔治",
+            "friend of x, helped by x"
+        ]
+    ],
+    "强尼": [
+        [
+            "父亲",
+            "murderer of x"
+        ],
+        [
+            "约翰",
+            "boss of x"
+        ],
+        [
+            "斯蒂明",
+            "superior of x"
+        ]
+    ],
+    "约翰": [
+        [
+            "强尼",
+            "subordinate of x"
+        ],
+        [
+            "你",
+            "cellmate of x, attacked by x, suspect to x"
+        ]
+    ],
+    "斯蒂文": [
+        [
+            "你",
+            "suspected by x"
+        ],
+        [
+            "强尼",
+            "subordinate of x"
+        ]
+    ],
+    "乔治": [
+        [
+            "你",
+            "helper of x, helped by x"
+        ]
+    ],
+    "父亲": [
+        [
+            "你",
+            "father of x"
+        ]
+    ],
+    "安德鲁": [
+        [
+            "强尼",
+            "acquaintance of x"
+        ],
+        [
+            "你",
+            "stranger to x"
+        ]
+    ],
+    "克拉克": [
+        [
+            "强尼",
+            "acquaintance of x"
+        ],
+        [
+            "你",
+            "stranger to x"
+        ]
+    ]
+}

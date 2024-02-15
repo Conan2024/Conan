@@ -1,0 +1,12 @@
+{
+    "李警察": [
+      ["王村长", "acquaintance of x, suspect of x"], 
+      ["赵慈善", "suspected by x"]
+    ],
+    "王村长": [
+      ["李警察", "acquaintance of x, suspected by x"]
+    ],
+    "赵慈善": [
+      ["李警察", "suspect of x"]
+    ]
+}

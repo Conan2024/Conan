@@ -1,0 +1,266 @@
+{
+    "罗宾•费依": [
+        [
+            "丹尼尔",
+            "关系1: 丹尼尔是罗宾•费依的朋友，两人在工作中相识，并且共同参加了佩里一家的滑雪度假。",
+            "关系2: 罗宾•费依怀疑丹尼尔的儿子乔纳森偷了他的钱包，并耿 Schneider 谈起了这个问题。"
+        ],
+        [
+            "玛丽娜",
+            "Friend"
+        ],
+        [
+            "杰奎琳",
+            "friend",
+            "music teacher",
+            "student",
+            "colleague",
+            "accomplice"
+        ],
+        [
+            "乔纳森",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "露西•哈里森",
+            "friend"
+        ],
+        [
+            "哈罗德•哈里森",
+            "friend",
+            "colleague",
+            "mentor and mentee"
+        ]
+    ],
+    "丹尼尔": [
+        [
+            "罗宾•费依",
+            "关系1: 丹尼尔之前向罗宾•费依抱怨过钱不见了，现在罗宾•费依找到了嫌犯乔纳森。",
+            "关系2: 丹尼尔和玛丽娜在工作中相识，并且之后相爱，但现在丹尼尔仍然爱着玛丽娜。"
+        ],
+        [
+            "玛丽娜",
+            "friend, confidant"
+        ],
+        [
+            "杰奎琳",
+            " Colleague",
+            "Friend"
+        ],
+        [
+            "乔纳森",
+            "玛丽娜",
+            "杰奎琳",
+            "哈罗德",
+            "露西•哈里森"
+        ],
+        [
+            "露西•哈里森",
+            "Teacher-Student",
+            "Mentor-Protege"
+        ],
+        [
+            "哈罗德•哈里森",
+            "friend",
+            "music partner"
+        ]
+    ],
+    "玛丽娜": [
+        [
+            "罗宾•费依",
+            "Friend",
+            "Lover"
+        ],
+        [
+            "丹尼尔",
+            "friend, confidant"
+        ],
+        [
+            "杰奎琳",
+            "rivals",
+            "情敌"
+        ],
+        [
+            "乔纳森",
+            " acquaintance",
+            "classmate",
+            "schoolmate",
+            "neighbour",
+            "helper",
+            "helpee",
+            "coworker"
+        ],
+        [
+            "露西•哈里森",
+            "Wife of X",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "哈罗德•哈里森",
+            "husband",
+            "rival",
+            "bully"
+        ],
+        [
+            "艾米•摩根",
+            " Sister-in-law, Rival"
+        ]
+    ],
+    "杰奎琳": [
+        [
+            "罗宾•费依",
+            "friend",
+            "music student",
+            "colleague",
+            "accomplice"
+        ],
+        [
+            "丹尼尔",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "玛丽娜",
+            "rivals",
+            "情敌"
+        ],
+        [
+            "乔纳森",
+            "brother-in-law, friend"
+        ],
+        [
+            "哈罗德•哈里森",
+            "romantic relationship"
+        ],
+        [
+            "艾米•摩根",
+            "rivals",
+            "suspects"
+        ]
+    ],
+    "乔纳森": [
+        [
+            "罗宾•费依",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "丹尼尔",
+            "玛丽娜",
+            "杰奎琳",
+            "哈罗德",
+            "露西•哈里森"
+        ],
+        [
+            "玛丽娜",
+            "father",
+            "mentor",
+            "teacher",
+            "student",
+            "colleague",
+            "business partner",
+            "customer"
+        ],
+        [
+            "杰奎琳",
+            "brother-in-law, friend"
+        ],
+        [
+            "露西•哈里森",
+            "杰奎琳•佩里"
+        ],
+        [
+            "哈罗德•哈里森",
+            "玛丽娜•佩里",
+            "露西•哈里森",
+            "丹尼尔•摩根",
+            "约翰•摩根"
+        ]
+    ],
+    "露西•哈里森": [
+        [
+            "罗宾•费依",
+            "friend"
+        ],
+        [
+            "丹尼尔",
+            "Teacher-Student",
+            "Mentor-Protege"
+        ],
+        [
+            "玛丽娜",
+            "Daughter of X",
+            "Sister of X",
+            "Wife of X"
+        ],
+        [
+            "乔纳森",
+            "friend"
+        ],
+        [
+            "哈罗德•哈里森",
+            "father-daughter",
+            "musical mentorship"
+        ],
+        [
+            "艾米•摩根",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5"
+        ]
+    ],
+    "哈罗德•哈里森": [
+        [
+            "罗宾•费依",
+            "friend",
+            "colleague",
+            "mentee"
+        ],
+        [
+            "丹尼尔",
+            "friend",
+            "music partner"
+        ],
+        [
+            "玛丽娜",
+            "wife",
+            "bully",
+            "suspect"
+        ],
+        [
+            "杰奎琳",
+            "romantic relationship"
+        ],
+        [
+            "乔纳森",
+            "玛丽娜•佩里",
+            "露西•哈里森",
+            "丹尼尔•摩根",
+            "约翰•摩根"
+        ],
+        [
+            "露西•哈里森",
+            "father-daughter",
+            "suspicious of extramarital affair"
+        ]
+    ],
+    "艾米•摩根": [
+        [
+            "玛丽娜",
+            " Sister-in-law, Rival"
+        ],
+        [
+            "杰奎琳",
+            "rivals",
+            "suspects"
+        ],
+        [
+            "露西•哈里森",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5"
+        ]
+    ],
+    "杰奎琳•佩里": [
+        [
+            "乔纳森",
+            "suspect"
+        ]
+    ]
+}

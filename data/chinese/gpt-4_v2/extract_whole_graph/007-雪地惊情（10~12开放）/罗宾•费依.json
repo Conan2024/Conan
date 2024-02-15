@@ -1,0 +1,42 @@
+{
+    "罗宾•费依": [
+      ["丹尼尔", "friend of x"], 
+      ["玛丽娜", "acquaintance of x"], 
+      ["杰奎琳", "acquaintance of x"], 
+      ["哈罗德", "acquaintance of x"], 
+      ["乔纳森", "suspected by x"], 
+      ["露西•哈里森", "admired by x"]
+    ],
+    "丹尼尔": [
+      ["罗宾•费依", "friend of x"], 
+      ["玛丽娜", "extramarital affair with x"], 
+      ["乔纳森", "father of x"]
+    ],
+    "玛丽娜": [
+      ["罗宾•费依", "acquaintance of x"], 
+      ["丹尼尔", "extramarital affair with x"], 
+      ["杰奎琳", "sibling of x"], 
+      ["哈罗德", "cheated on by x"], 
+      ["露西•哈里森", "mother of x"]
+    ],
+    "杰奎琳": [
+      ["罗宾•费依", "acquaintance of x"], 
+      ["玛丽娜", "sibling of x"], 
+      ["露西•哈里森", "aunt of x"]
+    ],
+    "哈罗德": [
+      ["罗宾•费依", "acquaintance of x"], 
+      ["玛丽娜", "cheated on by x"], 
+      ["露西•哈里森", "father of x"]
+    ],
+    "乔纳森": [
+      ["罗宾•费依", "suspect of x"], 
+      ["丹尼尔", "son of x"]
+    ],
+    "露西•哈里森": [
+      ["罗宾•费依", "admired by x"], 
+      ["玛丽娜", "daughter of x"], 
+      ["哈罗德", "daughter of x"], 
+      ["杰奎琳", "niece of x"]
+    ]
+}

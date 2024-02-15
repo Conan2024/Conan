@@ -1,0 +1,538 @@
+{
+    "贵叔": [
+        [
+            "法蓝庄",
+            "uncle",
+            "aunt",
+            "mentor",
+            "teacher",
+            "colleague",
+            "business partner",
+            "patient",
+            "friend"
+        ],
+        [
+            "孟老爷",
+            "adopted son",
+            "apprentice",
+            "assistant",
+            "adopted son of brother",
+            "son of friend",
+            "tenant",
+            "patient",
+            "suspect"
+        ],
+        [
+            "短发女人",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "年轻男人",
+            "mentor",
+            "superior",
+            "savior",
+            "inferior"
+        ],
+        [
+            "长发姑娘",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "姚仲义",
+            "mentor",
+            "friend",
+            "savior",
+            "rival",
+            "enemy"
+        ],
+        [
+            "陈均梦",
+            "father-in-law",
+            "employer",
+            "master",
+            "superior",
+            "mentor",
+            "teacher",
+            "perpetrator",
+            "victim"
+        ],
+        [
+            "云凌",
+            "father-in-law",
+            "employer",
+            "superior",
+            "mentor",
+            "teacher",
+            "savior",
+            "friend",
+            "partner",
+            "ally",
+            "associate"
+        ],
+        [
+            "红夫人",
+            "doctor-patient relationship"
+        ]
+    ],
+    "法蓝庄": [
+        [
+            "贵叔",
+            "nephew",
+            "niece",
+            "mentee",
+            "student",
+            "colleague",
+            "business partner",
+            "doctor",
+            "friend"
+        ],
+        [
+            "孟老爷",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ],
+        [
+            "短发女人",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "年轻男人",
+            "虞医师",
+            "救命恩人"
+        ],
+        [
+            "Employee",
+            "Subordinate",
+            "Co-worker"
+        ],
+        [
+            "姚仲义",
+            "总管-employee",
+            "mentor-protege",
+            "friend-friend"
+        ],
+        [
+            "陈均梦",
+            "quaintance"
+        ],
+        [
+            "云凌",
+            "acquaintance",
+            "business partner"
+        ],
+        [
+            "红夫人",
+            "虞医师",
+            "陈均梦"
+        ]
+    ],
+    "孟老爷": [
+        [
+            "贵叔",
+            "adopted father",
+            "mentor",
+            "master",
+            "brother",
+            "friend",
+            "landlord",
+            "doctor",
+            "investigator"
+        ],
+        [
+            "法蓝庄",
+            "Employee of X",
+            "Servant of X",
+            "Subordinate of X"
+        ],
+        [
+            "短发女人",
+            " acquaintance"
+        ],
+        [
+            "年轻男人",
+            "嫂子之夫",
+            "妯娌的 Nephew",
+            "舅舅",
+            "co-worker"
+        ],
+        [
+            "长发姑娘",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "father-in-law",
+            "grandfather",
+            "son-in-law"
+        ],
+        [
+            "陈均梦",
+            "relationship 1",
+            "relationship 2",
+            "relationship 3",
+            "relationship 4"
+        ],
+        [
+            "云凌",
+            "Acquaintance"
+        ],
+        [
+            "红夫人",
+            "father-in-law",
+            "employer",
+            "secret lover"
+        ]
+    ],
+    "短发女人": [
+        [
+            "贵叔",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "法蓝庄",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "孟老爷",
+            " acquaintance"
+        ],
+        [
+            "年轻男人",
+            "救 lire's wife",
+            "药物依赖"
+        ],
+        [
+            "长发姑娘",
+            " Aquaintance",
+            " helper"
+        ],
+        [
+            "姚仲义",
+            "相互救助者"
+        ],
+        [
+            "陈均梦",
+            "关系1,关系2"
+        ],
+        [
+            "云凌",
+            "相互救助者"
+        ],
+        [
+            "红夫人",
+            "friend"
+        ]
+    ],
+    "年轻男人": [
+        [
+            "贵叔",
+            "mentor",
+            "superior",
+            "savior",
+            "inferior"
+        ],
+        [
+            "法蓝庄",
+            "虞医师",
+            "救命恩人"
+        ],
+        [
+            "孟老爷",
+            "嫂子之夫",
+            "妯娌的 Nephew",
+            "舅舅",
+            "co-worker"
+        ],
+        [
+            "短发女人",
+            "救 lire's wife",
+            "虞医师"
+        ],
+        [
+            "长发姑娘",
+            "relationship 1: Savior/Rescuer",
+            "relationship 2: Medical Practitioner/Patient"
+        ],
+        [
+            "姚仲义",
+            "friend",
+            "colleague"
+        ],
+        [
+            "陈均梦",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "云凌",
+            "acquaintance",
+            "bully",
+            "suspect"
+        ],
+        [
+            "红夫人",
+            "relationship 1",
+            "relationship 2",
+            "relationship 3",
+            "relationship 4"
+        ]
+    ],
+    "长发姑娘": [
+        [
+            "贵叔",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Employer",
+            "Master",
+            "Superior"
+        ],
+        [
+            "孟老爷",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "短发女人",
+            " Aquaintance",
+            "Victim"
+        ],
+        [
+            "年轻男人",
+            "relationship 1: Saved/Rescued",
+            "relationship 2: Medical Practitioner/Patient"
+        ],
+        [
+            "姚仲义",
+            "救命恩人"
+        ],
+        [
+            "陈均梦",
+            "wife of X",
+            "relative of X",
+            "friend of X"
+        ],
+        [
+            "云凌",
+            "fiancé",
+            "patient",
+            "acquaintance"
+        ],
+        [
+            "红夫人",
+            "acquaintance; mentor and mentee; benefactor and beneficiary"
+        ]
+    ],
+    "姚仲义": [
+        [
+            "贵叔",
+            "mentor",
+            "friend",
+            "savior",
+            "rival",
+            "enemy"
+        ],
+        [
+            "法蓝庄",
+            "总管-employee",
+            "mentor-protege",
+            "friend-friend"
+        ],
+        [
+            "son-in-law",
+            "brother-in-law",
+            "father-in-law"
+        ],
+        [
+            "短发女人",
+            "相互救助者"
+        ],
+        [
+            "年轻男人",
+            "friend",
+            "colleague"
+        ],
+        [
+            "长发姑娘",
+            "救命恩人"
+        ],
+        [
+            "陈均梦",
+            "savior, patient"
+        ],
+        [
+            "云凌",
+            "friend",
+            " saved his life"
+        ],
+        [
+            "红夫人",
+            "chen jian jing"
+        ]
+    ],
+    "陈均梦": [
+        [
+            "贵叔",
+            "father-in-law",
+            "employer",
+            "master",
+            "superior",
+            "mentor",
+            "teacher",
+            "perpetrator",
+            "victim"
+        ],
+        [
+            "法蓝庄",
+            "quaintance"
+        ],
+        [
+            "孟老爷",
+            "relationship 1",
+            "relationship 2",
+            "relationship 3",
+            "relationship 4"
+        ],
+        [
+            "短发女人",
+            "关系1,关系2"
+        ],
+        [
+            "年轻男人",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "长发姑娘",
+            "husband of X",
+            "relative of X",
+            "friend of X"
+        ],
+        [
+            "姚仲义",
+            "patient, saved"
+        ],
+        [
+            "云凌",
+            "niece of husband",
+            "daughter of sister"
+        ],
+        [
+            "红夫人",
+            "虞医师",
+            "救命恩人",
+            "医学同门",
+            "朋友"
+        ]
+    ],
+    "云凌": [
+        [
+            "贵叔",
+            "father-in-law",
+            "employer",
+            "superior",
+            "mentor",
+            "teacher",
+            "savior",
+            "friend",
+            "partner",
+            "ally",
+            "associate"
+        ],
+        [
+            "法蓝庄",
+            "acquaintance",
+            "business partner"
+        ],
+        [
+            "孟老爷",
+            "Acquaintance"
+        ],
+        [
+            "短发女人",
+            "相互救助者"
+        ],
+        [
+            "年轻男人",
+            "victim",
+            "acquaintance"
+        ],
+        [
+            "长发姑娘",
+            "sister",
+            "patient",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "姚仲义",
+            "friend",
+            "helped him when he was in need"
+        ],
+        [
+            "陈均梦",
+            "niece of husband",
+            "sister of daughter"
+        ],
+        [
+            "红夫人",
+            "adoptive daughter and mother",
+            "sister-in-law and brother-in-law",
+            "wife and husband"
+        ]
+    ],
+    "红夫人": [
+        [
+            "贵叔",
+            "doctor-patient relationship"
+        ],
+        [
+            "法蓝庄",
+            "虞医师",
+            "陈均梦"
+        ],
+        [
+            "短发女人",
+            "friend"
+        ],
+        [
+            "年轻男人",
+            "relationship 1",
+            "relationship 2",
+            "relationship 3",
+            "relationship 4"
+        ],
+        [
+            "长发姑娘",
+            "acquaintance; mentor and mentee; benefactor and beneficiary"
+        ],
+        [
+            "姚仲义",
+            "chen jian jing"
+        ],
+        [
+            "陈均梦",
+            "虞医师",
+            "救命恩人",
+            "医学同门",
+            "朋友"
+        ],
+        [
+            "云凌",
+            "adoptive mother and daughter",
+            "brother-in-law and sister-in-law",
+            "husband and wife"
+        ]
+    ],
+    "RED husband": [
+        [
+            "孟老爷",
+            "father-in-law",
+            "employer",
+            "secret lover"
+        ]
+    ]
+}

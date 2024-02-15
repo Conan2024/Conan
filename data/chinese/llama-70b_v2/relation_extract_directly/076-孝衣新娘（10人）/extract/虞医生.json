@@ -1,0 +1,22 @@
+{
+    "虞医生": [
+      ["姚仲义", "friend of x, classmate of x, saved of x"], 
+      ["姚长寿", "acquaintance of x, familiar of x"], 
+      ["红夫人", "acquaintance of x"]
+    ],
+    "姚仲义": [
+      ["虞医生", "friend of x, classmate of x, saved of x"], 
+      ["姚长寿", "brother of x, familiar of x"]
+    ],
+    "姚长寿": [
+      ["虞医生", "acquaintance of x, familiar of x"], 
+      ["红夫人", "wife of x, familiar of x"]
+    ],
+    "红夫人": [
+      ["姚长寿", "husband of x, familiar of x"], 
+      ["虞医生", "acquaintance of x"]
+    ],
+    "徐伯清": [
+      ["虞医生", "colleague of x"]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "弗兰克•比杰利": [
+        [
+            "托尼",
+            "same person as x (different identity), relative of x, admired by x, deceiver of x"
+        ],
+        [
+            "神父汤姆",
+            "superior of x, crime partner of x, deceiver of x"
+        ]
+    ],
+    "托尼": [
+        [
+            "弗兰克•比杰利",
+            "same person as x (different identity), admirer of x"
+        ],
+        [
+            "神父汤姆",
+            "deceived by x"
+        ],
+        [
+            "医院的人",
+            "perpetrator of x"
+        ]
+    ],
+    "神父汤姆": [
+        [
+            "弗兰克•比杰利",
+            "subordinate of x, crime partner of x"
+        ],
+        [
+            "托尼",
+            "deceiver of x"
+        ]
+    ],
+    "医院的人": [
+        [
+            "弗兰克•比杰利",
+            "victim of x"
+        ],
+        [
+            "托尼",
+            "victim of x"
+        ]
+    ]
+}

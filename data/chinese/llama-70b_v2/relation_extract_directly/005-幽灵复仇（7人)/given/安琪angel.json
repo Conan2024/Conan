@@ -1,0 +1,33 @@
+{
+    "安琪": [
+      ["宇祖成木", "acquaintance of x"], 
+      ["夏叔娥", "acquaintance of x"], 
+      ["白衣女人", "acquaintance of x"], 
+      ["段约同", "boyfriend of x"], 
+      ["李大哥", "uncle niece of x"], 
+      ["阿同", "friend of x"]
+    ],
+    "宇祖成木": [
+      ["安琪", "acquaintance of x"], 
+      ["李大哥", "friend of x"]
+    ],
+    "夏叔娥": [
+      ["安琪", "acquaintance of x"], 
+      ["宇祖成木", "business associate of x"]
+    ],
+    "白衣女人": [
+      ["安琪", "acquaintance of x"]
+    ],
+    "段约同": [
+      ["安琪", "boyfriend of x"], 
+      ["李大哥", "friend of x"]
+    ],
+    "李大哥": [
+      ["安琪", "uncle niece of x"], 
+      ["宇祖成木", "friend of x"]
+    ],
+    "阿同": [
+      ["安琪", "friend of x"], 
+      ["宇祖成木", "business associate of x"]
+    ]
+}

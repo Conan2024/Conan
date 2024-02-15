@@ -1,0 +1,44 @@
+{
+    "玛丽娜•哈里森": [
+      ["哈罗德•哈里森", "husband of x, extramarital affair with x"], 
+      ["露西•哈里森", "child of x, possibly family of x (露西可能是丹尼尔•佩里的女儿)"], 
+      ["杰奎琳•佩里", "sibling of x, business partner of x, disliked by x"], 
+      ["丹尼尔•佩里", "ex romantic relationships with x, brother in law of x, possible biological father of x's child"], 
+      ["戴维斯•佩里", "extramarital affair with x, romantic relationships with x"], 
+      ["艾米•摩根", "sister in law of x, disliked by x"], 
+      ["艾莱克斯•哈维", "relative of x, friend of x, information receiver from x"]
+    ],
+    "哈罗德•哈里森": [
+      ["玛丽娜•哈里森", "wife of x, deceived by x"], 
+      ["露西•哈里森", "child of x"], 
+      ["艾米•摩根", "sibling of x"]
+    ],
+    "露西•哈里森": [
+      ["玛丽娜•哈里森", "mother of x, possibly deceived by x (关于真实父亲身份)"], 
+      ["哈罗德•哈里森", "father of x, possibly deceived by x (关于真实父亲身份)"], 
+      ["丹尼尔•佩里", "uncle of x, possible biological father of x"], 
+      ["戴维斯•佩里", "uncle of x x (through marriage to 杰奎琳•佩里)"]
+    ],
+    "杰奎琳•佩里": [
+      ["玛丽娜•哈里森", "sibling of x, business partner of x, disliker of x"], 
+      ["丹尼尔•佩里", "husband of x"], 
+      ["露西•哈里森", "niece of x"]
+    ],
+    "丹尼尔•佩里": [
+      ["杰奎琳•佩里", "wife of x"], 
+      ["玛丽娜•哈里森", "ex romantic relationships with x, sister in law of x, possible biological father of x's child"], 
+      ["露西•哈里森", "niece of x, possible biological father of x"], 
+      ["戴维斯•佩里", "sibling of x"]
+    ],
+    "戴维斯•佩里": [
+      ["玛丽娜•哈里森", "extramarital affair with x, romantic relationships with x"], 
+      ["丹尼尔•佩里", "sibling of x"]
+    ],
+    "艾米•摩根": [
+      ["哈罗德•哈里森", "sibling of x"], 
+      ["玛丽娜•哈里森", "sister in law of x, dislike of x"]
+    ],
+    "艾莱克斯•哈维": [
+      ["玛丽娜•哈里森", "relative of x, friend of x, informant of x"]
+    ]
+}

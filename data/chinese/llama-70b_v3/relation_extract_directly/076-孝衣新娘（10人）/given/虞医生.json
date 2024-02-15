@@ -1,0 +1,22 @@
+{
+    "虞医生": [
+      ["姚仲义", "friend of x, mentor of x"], 
+      ["姚长寿", "brother in law of x, son of x"]
+    ],
+    "姚仲义": [
+      ["虞医生", "friend of x, mentor of x"], 
+      ["姚长寿", "brother of x"]
+    ],
+    "姚长寿": [
+      ["虞医生", "brother in law of x"], 
+      ["姚仲义", "brother of x"]
+    ],
+    "姚孟仁": [
+      ["姚仲义", "brother of x"], 
+      ["姚长寿", "father of x"]
+    ],
+    "姚孟义": [
+      ["姚仲义", "brother of x"], 
+      ["姚长寿", "father of x"]
+    ]
+}

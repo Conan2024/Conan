@@ -1,0 +1,69 @@
+{
+    "贾教授": [
+      ["田助理", "employee of x, assistant of x"], 
+      ["清洁工大姐", "helper of x, acquaintance of x"], 
+      ["学生打扮的女生", "extramarital affair with x"], 
+      ["田助理的女友秦鸥", "lover of x, ex girlfriend of x"], 
+      ["老板", "employee of x"], 
+      ["大姐", "neighbour of x"], 
+      ["田助理", "employee of x"]
+    ],
+    "田助理": [
+      ["贾教授", "employer of x, mentor of x"], 
+      ["清洁工大姐", "friend of x, helper of x"], 
+      ["学生打扮的女生", "extramarital affair with x"], 
+      ["田助理的女友秦鸥", "ex girlfriend of x"], 
+      ["贾教授", "employeer of x, colleague of x"], 
+      ["大姐", "informant of x"]
+    ],
+    "清洁工大姐": [
+      ["贾教授", "helper of x, acquaintance of x"], 
+      ["田助理", "friend of x, helper of x"], 
+      ["学生打扮的女生", "helper of x, helped by x"], 
+      ["田助理的女友秦鸥", "employee of x"], 
+      ["老板", "secret lover of x"], 
+      ["身穿黑色雨披带帽子口罩的人", "acquaintance of x"], 
+      ["大姐", "guard of x"]
+    ],
+    "学生打扮的女生": [
+      ["贾教授", "extramarital affair with x"], 
+      ["田助理", "extramarital affair with x"], 
+      ["清洁工大姐", "helped by x, helper of x"], 
+      ["田助理的女友秦鸥", "romantic relationships with x"], 
+      ["老板", "romantic relationships with x"], 
+      ["身穿黑色雨披带帽子口罩的人", "romantic relationships with x, extramarital affair with x"], 
+      ["大姐", "friend of x, acquaintance of x"]
+    ],
+    "田助理的女友秦鸥": [
+      ["贾教授", "lover of x, ex boyfriend of x"], 
+      ["田助理", "ex boyfriend of x"], 
+      ["清洁工大姐", "employer of x"], 
+      ["学生打扮的女生", "romantic relationships with x"], 
+      ["老板", "ex girlfriend of x"], 
+      ["身穿黑色雨披带帽子口罩的人", "secret lover of x, unknown relationship of x"], 
+      ["大姐", "romantic relationships with x"]
+    ],
+    "老板": [
+      ["贾教授", "employer of x"], 
+      ["清洁工大姐", "employer of x"], 
+      ["学生打扮的女生", "employe of x"], 
+      ["田助理的女友秦鸥", "ex boyfriend of x"], 
+      ["身穿黑色雨披带帽子口罩的人", "suspicious of x"], 
+      ["大姐", "employer of x"]
+    ],
+    "身穿黑色雨披带帽子口罩的人": [
+      ["贾教授", "suspected by x"], 
+      ["清洁工大姐", "acquaintance of x"], 
+      ["学生打扮的女生", "romantic relationships with x, extramarital affair with x"], 
+      ["田助理的女友秦鸥", "unknown relationship of x"], 
+      ["老板", "suspect to x"]
+    ],
+    "大姐": [
+      ["贾教授", "neighbour of x"], 
+      ["田助理", "information receiver from x"], 
+      ["清洁工大姐", "guest of x"], 
+      ["学生打扮的女生", "friend of x, acquaintance of x"], 
+      ["田助理的女友秦鸥", "romantic relationships with x"], 
+      ["老板", "employee of x"]
+    ]
+}

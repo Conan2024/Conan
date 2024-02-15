@@ -1,0 +1,65 @@
+{
+    "葛月萝": [
+      ["葛继先", "child of x"], 
+      ["朱陵山", "husband of x"], 
+      ["葛月曼", "sibling of x"], 
+      ["张太太", "friend of x"], 
+      ["张俊诗", "acquaintance of x"], 
+      ["乐婉", "formal servant of x"], 
+      ["福伯", "formal servant of x"], 
+      ["喜叔", "formal servant of x"], 
+      ["薛玉帆", "victim of x"], 
+      ["薛达财", "acquaintance of x, victim of x"], 
+      ["吕松年", "enemy of x, victim of x"], 
+      ["于尚勇", "suspect of x"], 
+      ["稚筠", "acquaintance of x"]
+    ],
+    "葛月曼": [
+      ["葛月萝", "sibling of x"], 
+      ["葛继先", "child of x"], 
+      ["张俊诗", "acquaintance of x"], 
+      ["张太太", "same person as x (different identity)"], 
+      ["乐婉", "acquaintance of x"]
+    ],
+    "朱陵山": [
+      ["葛月萝", "wife of x"], 
+      ["吕松年", "acquaintance of x"], 
+      ["薛达财", "related to x"]
+    ],
+    "张太太": [
+      ["葛月萝", "friend of x"], 
+      ["葛月曼", "same person as x (different identity)"], 
+      ["稚筠", "aunt of x"], 
+      ["张俊诗", "husband of x"]
+    ],
+    "张俊诗": [
+      ["张太太", "husband of x"], 
+      ["葛月曼", "same person as x (different identity)"]
+    ],
+    "乐婉": [
+      ["葛月萝", "formal servant of x"]
+    ],
+    "福伯": [
+      ["葛月萝", "formal servant of x"]
+    ],
+    "喜叔": [
+      ["葛月萝", "formal servant of x"]
+    ],
+    "薛玉帆": [
+      ["葛月萝", "victim of x"]
+    ],
+    "薛达财": [
+      ["朱陵山", "related to x"], 
+      ["葛月萝", "acquaintance of x, victim of x"]
+    ],
+    "吕松年": [
+      ["朱陵山", "acquaintance of x"], 
+      ["葛月萝", "enemy of x, victim of x"]
+    ],
+    "于尚勇": [
+      ["葛月萝", "suspect of x"]
+    ],
+    "稚筠": [
+      ["张太太", "niece of x"]
+    ]
+}

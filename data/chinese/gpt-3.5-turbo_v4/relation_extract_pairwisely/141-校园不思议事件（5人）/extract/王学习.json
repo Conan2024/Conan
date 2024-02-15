@@ -1,0 +1,58 @@
+{
+    "王学习": [
+      ["张恶霸", "bully of x"], 
+      ["李小弟", "friend of x"], 
+      ["校草李大哥", "friend of x, helped by x"], 
+      ["赵帅哥", "friend of x"], 
+      ["林校花", "friend of x"], 
+      ["郝闺蜜", "acquaintance of x"]
+    ],
+    "张恶霸": [
+      ["王学习", "victim of x"], 
+      ["李小弟", "helper of x"], 
+      ["校草李大哥", "adversary of x"], 
+      ["赵帅哥", "adversary of x"], 
+      ["林校花", "boyfriend of x, enemy of x, adversary of x"], 
+      ["郝闺蜜", "fiancee of x, romantic relationships with x"]
+    ],
+    "李小弟": [
+      ["王学习", "friend of x"], 
+      ["张恶霸", "admired by x"], 
+      ["校草李大哥", "fondness of x"], 
+      ["赵帅哥", "friend of x"], 
+      ["林校花", "friend of x, acquaintance of x"], 
+      ["郝闺蜜", "helper of x, helped by x"]
+    ],
+    "校草李大哥": [
+      ["王学习", "friend of x, helper of x"], 
+      ["张恶霸", "adversary of x"], 
+      ["李小弟", "admired by x"], 
+      ["赵帅哥", "friend of x"], 
+      ["林校花", "romantic relationships with x, ex romantic relationships with x"], 
+      ["郝闺蜜", "romantic relationships with x, ex romantic relationships with x"]
+    ],
+    "赵帅哥": [
+      ["王学习", "friend of x"], 
+      ["张恶霸", "mentor of x"], 
+      ["李小弟", "friend of x"], 
+      ["校草李大哥", "friend of x"], 
+      ["林校花", "romantic relationships with x"], 
+      ["郝闺蜜", "friend of x"]
+    ],
+    "林校花": [
+      ["王学习", "friend of x"], 
+      ["张恶霸", "girlfriend of x, victim of x"], 
+      ["李小弟", "friend of x, acquaintance of x"], 
+      ["校草李大哥", "romantic relationships with x, ex romantic relationships with x"], 
+      ["赵帅哥", "romantic relationships with x"], 
+      ["郝闺蜜", "extramarital affair with x"]
+    ],
+    "郝闺蜜": [
+      ["王学习", "acquaintance of x"], 
+      ["张恶霸", "fiance of x, romantic relationships with x"], 
+      ["李小弟", "helper of x, helped by x"], 
+      ["校草李大哥", "romantic relationships with x, ex romantic relationships with x"], 
+      ["赵帅哥", "friend of x"], 
+      ["林校花", "extramarital affair with x"]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "陈静雯": [
+      ["郑心媚", "biological mother of x"], 
+      ["顾宇", "lover of x, business partner of x, information receiver from x, deceived by x"], 
+      ["林夕", "disliked by x"], 
+      ["苏阳", "acquaintance of x"], 
+      ["沈城", "acquaintance of x"]
+    ],
+    "顾宇": [
+      ["陈静雯", "girlfriend of x, business partner of x, deceiver of x, admirer of x"], 
+      ["林夕", "ex girlfriend of x"], 
+      ["顾明和", "son of x, suspected by x"], 
+      ["林惟仁", "business partner of x, adversary of x"], 
+      ["苏阳", "acquaintance of x"], 
+      ["沈城", "servant of x"]
+    ],
+    "林夕": [
+      ["顾宇", "ex boyfriend of x, admired by x"], 
+      ["陈静雯", "attempted perpetrator of x, disliked by x"], 
+      ["苏阳", "fiance of x"], 
+      ["林惟仁", "daughter of x"], 
+      ["沈城", "acquaintance of x"]
+    ],
+    "林惟仁": [
+      ["陈静雯", "attempted murderer of x, dislike of x"], 
+      ["顾宇", "business partner of x, adversary of x"], 
+      ["林夕", "father of x"], 
+      ["沈城", "employer of x"]
+    ],
+    "苏阳": [
+      ["林夕", "fiancee of x"], 
+      ["沈城", "acquaintance of x"]
+    ],
+    "沈城": [
+      ["顾宇", "employee of x"], 
+      ["林夕", "servant of x"], 
+      ["陈静雯", "acquaintance of x"], 
+      ["林惟仁", "employee of x"]
+    ]
+}

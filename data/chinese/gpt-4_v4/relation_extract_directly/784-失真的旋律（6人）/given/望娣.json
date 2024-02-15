@@ -1,0 +1,74 @@
+{
+    "阮望娣": [
+      ["阮钱德", "father of x"], 
+      ["阮太太", "mother of x"], 
+      ["招楠", "same person as x (different identity), victim of x, replaced x's identity, sister of x"], 
+      ["贵郎", "same person as x (different identity), sibling of x"], 
+      ["罗秀才", "acquaintance of x, information receiver from x"], 
+      ["罗有诺", "possibly family of x, admirer of x, lover of x"], 
+      ["雪嫣", "possibly family of x, sister of x"], 
+      ["齐故飞", "possibly family of x, acquaintance of x"], 
+      ["黑莉", "possibly family of x, acquaintance of x"], 
+      ["王子摩", "deceiver of x, deceived by x"]
+    ],
+    "阮钱德": [
+      ["阮望娣", "child of x, child of x"], 
+      ["阮招楠", "child of x, child of x"], 
+      ["招楠", "child of x, child of x"], 
+      ["贵郎", "child of x, child of x"]
+    ],
+    "阮太太": [
+      ["阮望娣", "child of x, child of x"], 
+      ["招楠", "child of x, child of x, helped by x"], 
+      ["贵郎", "child of x, child of x"], 
+      ["罗秀才", "tenant of x"], 
+      ["罗有诺", "child of x, child of x"], 
+      ["雪嫣", "child of x, child of x"], 
+      ["王子摩", "deceiver of x, manipulated by x"], 
+      ["罗有诺", "manipulator of x"], 
+      ["王子摩", "acquaintance of x"]
+    ],
+    "招楠": [
+      ["阮望娣", "same person as x (different identity), victim of x, sister of x"], 
+      ["阮钱德", "father of x"], 
+      ["阮太太", "mother of x"], 
+      ["贵郎", "same person as x (different identity), sibling of x"], 
+      ["罗有诺", "acquaintance of x"], 
+      ["雪嫣", "acquaintance of x"]
+    ],
+    "贵郎": [
+      ["阮望娣", "same person as x (different identity), sister of x"], 
+      ["阮钱德", "father of x"], 
+      ["阮太太", "mother of x"], 
+      ["招楠", "same person as x (different identity), sister of x"]
+    ],
+    "罗秀才": [
+      ["阮太太", "tenant of x"], 
+      ["罗有诺", "father of x"], 
+      ["雪嫣", "father of x"]
+    ],
+    "罗有诺": [
+      ["罗秀才", "child of x, child of x"], 
+      ["雪嫣", "same person as x (different identity), sister of x"], 
+      ["阮望娣", "tenant of x, admirer of x, lover of x"], 
+      ["阮太太", "adoptive mother of x"]
+    ],
+    "雪嫣": [
+      ["罗秀才", "child of x, child of x"], 
+      ["罗有诺", "same person as x (different identity), sibling of x"], 
+      ["阮望娣", "tenant of x, sister of x"], 
+      ["阮太太", "adoptive mother of x"]
+    ],
+    "齐故飞": [
+      ["阮望娣", "possibly family of x, acquaintance of x"], 
+      ["黑莉", "colleague of x, acquaintance of x"]
+    ],
+    "黑莉": [
+      ["阮望娣", "possibly family of x, acquaintance of x"], 
+      ["齐故飞", "colleague of x, acquaintance of x"]
+    ],
+    "王子摩": [
+      ["阮望娣", "deceiver of x, deceiver of x, deceived by x"], 
+      ["阮太太", "deceived by x"]
+    ]
+}

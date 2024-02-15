@@ -1,0 +1,38 @@
+{
+    "赵卫": [
+      ["赵万雷", "friend/mentor of x"], 
+      ["张御医", "friend/mentor of x"], 
+      ["李叔逊", "uncle/informant of x"], 
+      ["冯双骥", "trusted servant/protector of x"]
+    ],
+    "赵万雷": [
+      ["赵卫", "friend/mentor of x"], 
+      ["瑜妃", "wife/victim of x"], 
+      ["赵洛意", "daughter/stranger of x"]
+    ],
+    "张御医": [
+      ["赵卫", "friend/mentor of x"], 
+      ["赵万雷", "brother in law/suspect of x"]
+    ],
+    "李叔逊": [
+      ["赵卫", "brother/informant of x"], 
+      ["赵万雷", "brother in law/suspect of x"], 
+      ["瑜妃", "sister in law/victim of x"]
+    ],
+    "冯双骥": [
+      ["赵卫", "trusted servant/protector of x"], 
+      ["赵万雷", "master/employer of x"]
+    ],
+    "赵洛意": [
+      ["赵卫", "sister/stranger of x"], 
+      ["赵万雷", "father/murderer of x"]
+    ],
+    "瑜妃": [
+      ["赵卫", "wife/victim of x"], 
+      ["赵万雷", "husband/murderer of x"]
+    ],
+    "赵秋儿": [
+      ["赵卫", "sister/stranger of x"], 
+      ["赵万雷", "daughter/stranger of x"]
+    ]
+}

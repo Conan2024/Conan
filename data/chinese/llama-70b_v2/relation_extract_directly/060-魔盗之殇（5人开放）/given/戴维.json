@@ -1,0 +1,32 @@
+{
+    "戴维": [
+      ["剧务戴维", "subordinate of x, employee of x"], 
+      ["宣传罗琳", "acquaintance of x, drinking buddy of x"], 
+      ["古思特", "mentor of x, manipulator of x"], 
+      ["艾拉", "friend of x, ally of x"]
+    ],
+    "凯文": [
+      ["保安凯文", "friend of x, confidant of x"], 
+      ["剧务戴维", "superior of x, boss of x"]
+    ],
+    "剧务戴维": [
+      ["保安凯文", "superior of x, boss of x"], 
+      ["戴维", "subordinate of x, employee of x"]
+    ],
+    "宣传罗琳": [
+      ["戴维", "acquaintance of x, drinking buddy of x"], 
+      ["古思特", "manipulated of x, deceived of x"]
+    ],
+    "古思特": [
+      ["戴维", "mentor of x, manipulator of x"], 
+      ["宣传罗琳", "manipulated of x, deceived of x"]
+    ],
+    "后勤格里夫": [
+      ["戴维", "acquaintance of x, drinking buddy of x"], 
+      ["古思特", "co conspirator of x"]
+    ],
+    "艾拉": [
+      ["古思特", "fiancé of x, intended victim of x"], 
+      ["戴维", "friend of x, ally of x"]
+    ]
+}

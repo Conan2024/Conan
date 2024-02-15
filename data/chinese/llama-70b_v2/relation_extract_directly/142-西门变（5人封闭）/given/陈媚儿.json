@@ -1,0 +1,14 @@
+{
+    "赵中杨": [
+      ["陈媚儿", "friend of x, lover of x"], 
+      ["赵中正", "relative of x, ally of x"]
+    ],
+    "陈媚儿": [
+      ["赵中杨", "lover of x, victim of x"], 
+      ["赵中正", "employer of x, helper of x"]
+    ],
+    "赵中正": [
+      ["赵中杨", "relative of x, ally of x"], 
+      ["陈媚儿", "employer of x, helper of x"]
+    ]
+}

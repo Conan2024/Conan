@@ -1,0 +1,98 @@
+{
+    "柯西": [
+        [
+            "父母",
+            "child of x"
+        ],
+        [
+            "地主家",
+            "servant of x"
+        ],
+        [
+            "秘籍",
+            "information receiver from x"
+        ],
+        [
+            "饮魄刀",
+            "seeker of help from x"
+        ],
+        [
+            "黑衣人",
+            "victim of x, adversary of x"
+        ],
+        [
+            "时未",
+            "friend of x, quest companion of x"
+        ]
+    ],
+    "地主": [
+        [
+            "柯西",
+            "employer of x"
+        ],
+        [
+            "黑衣人",
+            "victim of x"
+        ]
+    ],
+    "黑衣人": [
+        [
+            "柯西",
+            "adversary of x, pursued by x"
+        ],
+        [
+            "时未",
+            "adversary of x"
+        ],
+        [
+            "地主家",
+            "perpetrator of x"
+        ]
+    ],
+    "时未": [
+        [
+            "柯西",
+            "friend of x, quest companion of x"
+        ],
+        [
+            "镖局的人",
+            "suspected by x"
+        ],
+        [
+            "黑衣人",
+            "enemy of x"
+        ]
+    ],
+    "鲁山": [
+        [
+            "柯西",
+            "stranger to x"
+        ],
+        [
+            "薛峰",
+            "stranger to x"
+        ]
+    ],
+    "薛峰": [
+        [
+            "柯西",
+            "victim of x"
+        ],
+        [
+            "鲁山",
+            "stranger to x"
+        ]
+    ],
+    "谭羽": [
+        [
+            "柯西",
+            "deceived by x"
+        ]
+    ],
+    "店小二": [
+        [
+            "柯西",
+            "victim of x"
+        ]
+    ]
+}

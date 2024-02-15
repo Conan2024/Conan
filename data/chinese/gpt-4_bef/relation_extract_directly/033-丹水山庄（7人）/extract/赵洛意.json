@@ -1,0 +1,67 @@
+{
+    "赵洛意": [
+      ["赵万雷", "father of x"], 
+      ["冯双骥", "subordinate of x, friend of x"], 
+      ["冯竹", "subordinate of x, acquaintance of x"], 
+      ["齐岳", "subordinate of x, acquaintance of x"], 
+      ["尹少鸣", "acquaintance of x, possibly family of x, helped by x"], 
+      ["赵卫", "brother of x"], 
+      ["赵秋儿", "subordinate of x, friend of x"], 
+      ["吴掌柜", "acquaintance of x"], 
+      ["李嫂", "acquaintance of x"]
+    ],
+    "赵万雷": [
+      ["赵洛意", "child of x"], 
+      ["冯双骥", "subordinate of x, friend of x"], 
+      ["冯竹", "subordinate of x"], 
+      ["齐岳", "subordinate of x"], 
+      ["尹少鸣", "acquaintance of x"], 
+      ["赵卫", "child of x"], 
+      ["赵秋儿", "subordinate of x"], 
+      ["吴掌柜", "acquaintance of x"], 
+      ["李嫂", "acquaintance of x"]
+    ],
+    "赵门李氏": [
+      ["赵洛意", "child of x"], 
+      ["赵卫", "child of x"]
+    ],
+    "冯双骥": [
+      ["赵洛意", "superior of x"], 
+      ["赵万雷", "superior of x"], 
+      ["冯竹", "father of x"], 
+      ["齐岳", "colleague of x"], 
+      ["尹少鸣", "nephew of x"]
+    ],
+    "冯竹": [
+      ["赵洛意", "superior of x, acquaintance of x"], 
+      ["冯双骥", "child of x"], 
+      ["尹少鸣", "cousin of x"]
+    ],
+    "齐岳": [
+      ["赵洛意", "superior of x"], 
+      ["赵万雷", "subordinate of x"], 
+      ["冯双骥", "colleague of x"]
+    ],
+    "尹少鸣": [
+      ["赵洛意", "acquaintance of x"], 
+      ["冯双骥", "uncle of x"], 
+      ["冯竹", "cousin of x"]
+    ],
+    "赵卫": [
+      ["赵洛意", "sibling of x"], 
+      ["赵万雷", "father of x"], 
+      ["赵门李氏", "mother of x"]
+    ],
+    "赵秋儿": [
+      ["赵洛意", "subordinate of x, friend of x"], 
+      ["赵万雷", "subordinate of x"]
+    ],
+    "吴掌柜": [
+      ["赵洛意", "acquaintance of x"], 
+      ["赵万雷", "acquaintance of x"]
+    ],
+    "李嫂": [
+      ["赵洛意", "acquaintance of x"], 
+      ["赵万雷", "acquaintance of x"]
+    ]
+}

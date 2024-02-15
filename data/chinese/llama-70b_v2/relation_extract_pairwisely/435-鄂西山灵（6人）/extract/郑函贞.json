@@ -1,0 +1,66 @@
+{
+    "周教授": [
+      ["郑函贞", "学生/教师 of x, 朋友 of x, 潜在的爱情对象 of x, 兄弟/姐妹 of x"], 
+      ["忱纱", "friend of x, mentor of x"], 
+      ["巴府山", "relationhip 1: mentor of x, relationship 2: acquaintance of x"], 
+      ["鹃歌", "学生与教师 of x, 朋友 of x"], 
+      ["鬼印", "mentor of x, friend of x"], 
+      ["Direction Guide", "情人 of x"], 
+      ["詹天佑", "father in law of x, mentor of x, colleague of x"]
+    ],
+    "郑函贞": [
+      ["忱纱", "鹃歌 of x"], 
+      ["巴府山", "guest of x, patient of x, friend of x, person of x interest"], 
+      ["鹃歌", "朋友 of x, 浮生相亲 of x, 师弟 of x, 潜在的情报 of x, 救命恩人 of x, 同谋考察 of x, 潜在的敌人 of x"], 
+      ["Direction Guide", "friend of x, mentor of x, teacher of x, informant of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, business partner of x, customer of x, tenant of x, patient of x, subject of x investigation"]
+    ],
+    "忱纱": [
+      ["郑函贞", "鹃歌 of x"], 
+      ["周教授", "friend of x, mentee of x"], 
+      ["鹃歌", "romantic relationship of x, 姐弟 of x, 同一个垭 of x"], 
+      ["鬼印", "鹃歌 of x"], 
+      ["Direction Guide", "acquaintance of x"], 
+      ["詹天佑", "friend of x"]
+    ],
+    "巴府山": [
+      ["郑函贞", "host of x, medical care provider of x, friend's father of x, person of x interest"], 
+      ["周教授", "relationship 1: employer of x, relationship 2: neighbor of x"], 
+      ["鹃歌", "father of x, fiancé of x, husband of x"], 
+      ["鬼印", "婚约 of x"], 
+      ["Direction Guide", "friend of x, business partner of x"]
+    ],
+    "鹃歌": [
+      ["郑函贞", "朋友 of x, 浮生相亲 of x, 师弟 of x, 潜在的情报 of x, 救命恩人 of x, 同谋考察 of x, 潜在的敌人 of x"], 
+      ["周教授", "朋友 of x, 受欢迎的人 of x"], 
+      ["忱纱", "romantic relationship of x, 姐弟 of x, directionally challenged of x"], 
+      ["巴府山", "daughter of x, fiancée of x, wife of x"], 
+      ["鬼印", "关系 1 of x, 关系 2 of x"], 
+      ["Direction Guide", "love interest of x, friend of x"], 
+      ["詹天佑", "sibling of x, romantic partner of x, informant of x, close friend of x"]
+    ],
+    "鬼印": [
+      ["周教授", "mentee of x, friend of x"], 
+      ["忱纱", "鹃歌 of x"], 
+      ["巴府山", "婚约 of x"], 
+      ["鹃歌", "关系 1 of x, 关系 2 of x"], 
+      ["Direction Guide", "perpetrator of x"], 
+      ["詹天佑", "friend of x, mentor of x"]
+    ],
+    "Direction Guide": [
+      ["郑函贞", "friend of x, mentor of x, teacher of x, informant of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, business partner of x, customer of x, tenant of x, patient of x, subject of x investigation"], 
+      ["周教授", "情人 of x"], 
+      ["忱纱", "mentor of x, teacher of x"], 
+      ["巴府山", "friend of x, business partner of x"], 
+      ["鹃歌", "love interest of x, friend of x"], 
+      ["鬼印", "victim of x"]
+    ],
+    "詹天佑": [
+      ["周教授", "father in law of x, mentee of x, colleague of x"], 
+      ["忱纱", "father of x, teacher of x, friend of x"], 
+      ["鹃歌", "sibling of x, romantic partner of x, informant of x, close friend of x"], 
+      ["鬼印", "friend of x, mentor of x"]
+    ],
+    "情人": [
+      ["周教授", "direction guide of x, 鹃歌 of x"]
+    ]
+}

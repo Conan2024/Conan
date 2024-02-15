@@ -1,0 +1,203 @@
+{
+    "修仁杰": [
+        [
+            "刘奇",
+            "经理"
+        ],
+        [
+            "张二副",
+            " Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "张文远",
+            " Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "林若彤",
+            " Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "洪子廉",
+            " Employee of X"
+        ],
+        [
+            "韩亦暮",
+            "Employee of X",
+            "Colleague of X"
+        ]
+    ],
+    "刘奇": [
+        [
+            "修仁杰",
+            "大副",
+            "直系领导"
+        ],
+        [
+            "张二副",
+            "Superior/Subordinate",
+            "Bully/Victim",
+            "Suspect/Suspicious"
+        ],
+        [
+            "张文远",
+            "Superior/Subordinate",
+            "Bully/Victim",
+            "Suspect/Suspicious"
+        ],
+        [
+            "林若彤",
+            "colleague, acquaintance"
+        ],
+        [
+            "洪子廉",
+            "Superior/Subordinate",
+            "Bully/Victim",
+            "Suspect/Suspicious"
+        ],
+        [
+            "韩亦暮",
+            "Superior-Subordinate",
+            "Bully-Victim"
+        ]
+    ],
+    "张二副": [
+        [
+            "修仁杰",
+            " Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "刘奇",
+            "Superior/Subordinate",
+            "Bully/Victim",
+            "Suspect/Suspicious"
+        ],
+        [
+            "张文远",
+            " Colleague, Superior"
+        ],
+        [
+            "林若彤",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5"
+        ],
+        [
+            "洪子廉",
+            "subordinate",
+            "colleague"
+        ],
+        [
+            "韩亦暮",
+            "Colleague, friendship"
+        ]
+    ],
+    "张文远": [
+        [
+            "修仁杰",
+            " Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "刘奇",
+            "Superior/Subordinate",
+            "Bully/Victim",
+            "Suspect/Suspicious"
+        ],
+        [
+            "张二副",
+            "Colleague, Subordinate"
+        ],
+        [
+            "林若彤",
+            "colleague, suspect"
+        ],
+        [
+            "洪子廉",
+            "Colleague, Superior"
+        ],
+        [
+            "韩亦暮",
+            " Colleague,  Informant"
+        ]
+    ],
+    "林若彤": [
+        [
+            "修仁杰",
+            " Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "刘奇",
+            "colleague, acquaintance"
+        ],
+        [
+            "张二副",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5"
+        ],
+        [
+            "张文远",
+            "acquaintance, witness"
+        ],
+        [
+            "洪子廉",
+            " Acquaintance",
+            "Classmate"
+        ]
+    ],
+    "洪子廉": [
+        [
+            "修仁杰",
+            "Employer of X"
+        ],
+        [
+            "刘奇",
+            "Superior/Subordinate",
+            "Victim/Bully",
+            "Suspect/Suspicious"
+        ],
+        [
+            "张二副",
+            "supervisor",
+            "colleague"
+        ],
+        [
+            "张文远",
+            "Colleague, Subordinate"
+        ],
+        [
+            "林若彤",
+            " Acquaintance",
+            "Classmate"
+        ],
+        [
+            "韩亦暮",
+            "Colleague"
+        ]
+    ],
+    "韩亦暮": [
+        [
+            "修仁杰",
+            "Employee of X",
+            "Colleague of X"
+        ],
+        [
+            "刘奇",
+            "Superior-Subordinate",
+            "Victim-Bully"
+        ],
+        [
+            "张二副",
+            "Colleague, friendship"
+        ],
+        [
+            "张文远",
+            "Colleague,  Informant"
+        ],
+        [
+            "洪子廉",
+            "Colleague"
+        ]
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "汪直": [
+        [
+            "刘瑾",
+            "same person as x (different identity)"
+        ],
+        [
+            "钱倩",
+            "lover of x"
+        ],
+        [
+            "钱大",
+            "acquaintance of x, disliked by x"
+        ],
+        [
+            "李东强",
+            "acquaintance of x, dislike of x"
+        ],
+        [
+            "刘瑾",
+            "same person as x (different reference)"
+        ]
+    ],
+    "刘瑾": [
+        [
+            "李东强",
+            "colleague of x, dislike of x"
+        ],
+        [
+            "钱倩",
+            "lover of x, manipulator of x"
+        ],
+        [
+            "钱大",
+            "acquaintance of x, disliked by x"
+        ],
+        [
+            "汪直",
+            "same person as x (different reference)"
+        ]
+    ],
+    "李东强": [
+        [
+            "刘瑾",
+            "employee of x, disliked by x"
+        ],
+        [
+            "钱倩",
+            "romantic relationships with x"
+        ]
+    ],
+    "钱倩": [
+        [
+            "汪直",
+            "lover of x"
+        ],
+        [
+            "刘瑾",
+            "lover of x, manipulated by x"
+        ],
+        [
+            "李东强",
+            "romantic relationships with x"
+        ],
+        [
+            "钱大",
+            "brother of x"
+        ]
+    ],
+    "钱大": [
+        [
+            "钱倩",
+            "sister of x"
+        ],
+        [
+            "刘瑾",
+            "acquaintance of x, suspicious of x"
+        ],
+        [
+            "汪直",
+            "acquaintance of x, suspicious of x"
+        ]
+    ]
+}

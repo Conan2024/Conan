@@ -1,0 +1,22 @@
+{
+    "古思特": [
+      ["戴维", "acquaintance of x, colleague of x"], 
+      ["艾拉", "co wife of x, accomplice of x"], 
+      ["凯文", "suspect of x, target of x"]
+    ],
+    "戴维": [
+      ["古思特", "master of x, handler of x"], 
+      ["艾拉", "colleague of x"], 
+      ["凯文", "acquaintance of x"]
+    ],
+    "艾拉": [
+      ["古思特", "co wife of x, accomplice of x"], 
+      ["戴维", "colleague of x"], 
+      ["凯文", "acquaintance of x"]
+    ],
+    "凯文": [
+      ["古思特", "suspect of x, target of x"], 
+      ["戴维", "acquaintance of x"], 
+      ["艾拉", "acquaintance of x"]
+    ]
+}

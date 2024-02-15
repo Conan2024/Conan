@@ -1,0 +1,96 @@
+{
+    "克莱姆·帕勒姆": [
+        [
+            "齐克",
+            "adversary of x"
+        ],
+        [
+            "索尔",
+            "helper of x"
+        ],
+        [
+            "法拉第",
+            "business partner of x"
+        ],
+        [
+            "保尔森",
+            "blackmailed by x"
+        ],
+        [
+            "梅尔",
+            "rival of x"
+        ],
+        [
+            "斯力克",
+            "same person as x (different identity)"
+        ],
+        [
+            "布莱斯",
+            "suspect of x"
+        ],
+        [
+            "伊利亚",
+            "acquaintance of x"
+        ]
+    ],
+    "梅尔": [
+        [
+            "克莱姆·帕勒姆",
+            "rival of x"
+        ]
+    ],
+    "保尔森": [
+        [
+            "克莱姆·帕勒姆",
+            "blackmailer of x"
+        ]
+    ],
+    "伊利亚": [
+        [
+            "克莱姆·帕勒姆",
+            "acquainted by x"
+        ]
+    ],
+    "齐克": [
+        [
+            "克莱姆·帕勒姆",
+            "victim of x"
+        ],
+        [
+            "索尔",
+            "victim of x"
+        ]
+    ],
+    "法拉第": [
+        [
+            "克莱姆·帕勒姆",
+            "business partner of x"
+        ]
+    ],
+    "索尔": [
+        [
+            "克莱姆·帕勒姆",
+            "helped by x"
+        ],
+        [
+            "齐克",
+            "perpetrator of x"
+        ],
+        [
+            "斯力克",
+            "same person as x (different identity)"
+        ]
+    ],
+    "斯力克": [
+        [
+            "索尔",
+            "same person as x (different reference)"
+        ]
+    ],
+    "布莱斯": [
+        [
+            "克莱姆·帕勒姆",
+            "suspected by x"
+        ]
+    ]
+}

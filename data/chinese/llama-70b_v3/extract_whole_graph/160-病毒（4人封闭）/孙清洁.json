@@ -1,0 +1,14 @@
+{
+    "孙清洁": [
+      [">着 Lied assistants", "superior of x, perpetrator of x"], 
+      [">着 X", "acquaintance of x, neighbour of x"]
+    ],
+    "李保安": [
+      [">着 孙清洁", "friend of x, helper of x"], 
+      [">着田助理", "acquaintance of x, victim of x"]
+    ],
+    "田助理": [
+      [">着 孙清洁", "perpetrator of x, adversary of x"], 
+      [">着李保安", "acquaintance of x"]
+    ]
+}

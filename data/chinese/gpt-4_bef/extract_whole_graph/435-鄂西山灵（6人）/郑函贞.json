@@ -1,0 +1,65 @@
+{
+    "郑函贞": [
+      ["郑昌珉", "father of x"], 
+      ["周教授", "mentor of x"], 
+      ["忱纱", "student of x, fiancee of x"], 
+      ["周景鱼", "acquaintance of x"], 
+      ["鹃歌", "extramarital affair with x"], 
+      ["巴府山", "acquaintance of x, victim of x"], 
+      ["鬼印", "rival in love of x, victim of x"], 
+      ["隼", "acquaintance of x"], 
+      ["甘玛", "acquaintance of x"], 
+      ["如娅", "acquaintance of x"], 
+      ["李德木", "acquaintance of x"]
+    ],
+    "郑昌珉": [
+      ["郑函贞", "son of x"], 
+      ["周教授", "friend of x"]
+    ],
+    "周教授": [
+      ["郑函贞", "student of x"], 
+      ["忱纱", "daughter of x"], 
+      ["周景鱼", "son of x"], 
+      ["郑昌珉", "friend of x"]
+    ],
+    "忱纱": [
+      ["周教授", "father of x"], 
+      ["郑函贞", "fiance of x"], 
+      ["周景鱼", "brother of x"]
+    ],
+    "周景鱼": [
+      ["周教授", "son of x"], 
+      ["忱纱", "brother of x"]
+    ],
+    "鹃歌": [
+      ["郑函贞", "lover of x"], 
+      ["巴府山", "father of x"], 
+      ["鬼印", "fiancee of x"]
+    ],
+    "巴府山": [
+      ["鹃歌", "daughter of x"], 
+      ["郑函贞", "victim of x"], 
+      ["鬼印", "colleague of x"]
+    ],
+    "鬼印": [
+      ["鹃歌", "fiance of x"], 
+      ["巴府山", "colleague of x"], 
+      ["郑函贞", "murderer of x"]
+    ],
+    "李高柏": [
+      ["郑函贞", "employer of x"]
+    ],
+    "隼": [
+      ["郑函贞", "acquaintance of x"]
+    ],
+    "甘玛": [
+      ["郑函贞", "acquaintance of x"]
+    ],
+    "如娅": [
+      ["郑函贞", "acquaintance of x"]
+    ],
+    "李德木": [
+      ["郑函贞", "acquaintance of x"], 
+      ["忱纱", "x's victim's family"]
+    ]
+}

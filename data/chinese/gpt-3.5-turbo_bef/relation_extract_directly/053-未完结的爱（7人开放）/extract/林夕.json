@@ -1,0 +1,65 @@
+{
+    "林夕": [
+      ["林惟仁", "father of x"], 
+      ["林阳", "brother of x"], 
+      ["顾宇", "ex boyfriend of x"], 
+      ["顾晴", "friend of x"], 
+      ["苏阳", "romantic relationships with x"], 
+      ["沈城", "acquaintance of x"], 
+      ["陈静雯", "dislike of x"], 
+      ["林夕's父亲", "host of x"], 
+      ["林夕's父亲", "authority over x"], 
+      ["林夕's父亲", "landlord of x"], 
+      ["陈静雯", "landlord of x"]
+    ],
+    "林惟仁": [
+      ["林夕", "daughter of x"], 
+      ["林阳", "son of x"], 
+      ["林夕", "patient of x"], 
+      ["林夕", "landlord of x"], 
+      ["林夕", "employer of x"], 
+      ["陈静雯", "landlord of x"], 
+      ["陈静雯", "employee of x"], 
+      ["沈城", "employee of x"], 
+      ["陈静雯", "landlord of x"]
+    ],
+    "林阳": [
+      ["林夕", "sibling of x"], 
+      ["陈静雯", "ex romantic relationships with x"], 
+      ["顾晴", "romantic relationships with x"], 
+      ["陈静雯", "dislike of x"], 
+      ["陈静雯", "suspect of x"], 
+      ["林惟仁", "victim of x"], 
+      ["顾晴", "perpetrator of x"]
+    ],
+    "顾宇": [
+      ["林夕", "ex romantic relationships with x"], 
+      ["顾晴", "brother of x"], 
+      ["林夕", "admired by x"]
+    ],
+    "顾晴": [
+      ["林夕", "friend of x"], 
+      ["林阳", "romantic relationships with x"], 
+      ["林夕", "dislike of x"], 
+      ["林惟仁", "perpetrator of x"], 
+      ["陈静雯", "informant of x"]
+    ],
+    "苏阳": [
+      ["林夕", "romantic relationships with x"], 
+      ["林夕's父亲", "informant of x"], 
+      ["陈静雯", "suspected by x"]
+    ],
+    "沈城": [
+      ["林夕", "acquaintance of x"], 
+      ["林惟仁", "employee of x"], 
+      ["林夕's父亲", "employer of x"], 
+      ["林惟仁", "employee of x"], 
+      ["陈静雯", "victim of x"]
+    ],
+    "陈静雯": [
+      ["林夕", "dislike of x"], 
+      ["林阳", "ex romantic relationships with x"], 
+      ["顾晴", "landlord of x"], 
+      ["顾晴", "employee of x"]
+    ]
+}

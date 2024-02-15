@@ -1,0 +1,88 @@
+{
+    "尹少鳴": [
+        [
+            "虞北辰",
+            "biological father of x"
+        ],
+        [
+            "娘家姓任的母亲",
+            "biological mother of x"
+        ],
+        [
+            "娘家姓任的外公",
+            "grandfather of x, mentor of x"
+        ],
+        [
+            "赵洛意",
+            "admirer of x, helper of x, acquaintance of x, saved by x"
+        ],
+        [
+            "冯双骥",
+            "acquaintance of x, helper of x, suspect of x"
+        ]
+    ],
+    "虞北辰": [
+        [
+            "尹少鳴",
+            "child of x"
+        ]
+    ],
+    "娘家姓任的母亲": [
+        [
+            "尹少鳴",
+            "mother of x"
+        ],
+        [
+            "娘家姓任的外公",
+            "father of x"
+        ]
+    ],
+    "娘家姓任的外公": [
+        [
+            "尹少鳴",
+            "grandson of x"
+        ],
+        [
+            "娘家姓任的母亲",
+            "child of x"
+        ]
+    ],
+    "赵洛意": [
+        [
+            "尹少鳴",
+            "admirer of x, helper of x, acquaintance of x"
+        ],
+        [
+            "赵万雷",
+            "child of x"
+        ],
+        [
+            "冯双骥",
+            "subordinate of x, suspected by x"
+        ],
+        [
+            "赵秋儿",
+            "same person as x (different identity)"
+        ]
+    ],
+    "冯双骥": [
+        [
+            "赵洛意",
+            "superior of x, suspected by x"
+        ],
+        [
+            "尹少鳴",
+            "superior of x, suspect to x"
+        ],
+        [
+            "赵万雷",
+            "subordinate of x"
+        ]
+    ],
+    "郭望山": [
+        [
+            "尹少鳴",
+            "acquaintance of x"
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "胡人玉": [
+      ["金胡子", "same person as x (different identity)"], 
+      ["范金魁", "same person as x (different reference)"], 
+      ["田红娇", "ex fiancee of x"], 
+      ["姚长寿", "adversary of x, possibly family of x (if he married the ex fiancee of x)"], 
+      ["方乘山", "acquaintance of x, helped by x"], 
+      ["李宽生", "friend of x, quest companion of x"], 
+      ["李广生", "friend of x, quest companion of x"], 
+      ["杜老总管", "employer of x, adversary of x, perpetrator of x"], 
+      ["虞北辰", "acquaintance of x"], 
+      ["白头蛇", "business partner of x"], 
+      ["长发姑娘", "childhood savior of x, savior of x"], 
+      ["杜辉信", "same person as 杜老总管 of x"]
+    ],
+    "金胡子": [
+      ["胡人玉", "same person as x (different identity)"], 
+      ["范金魁", "same person as x (different reference)"]
+    ],
+    "范金魁": [
+      ["胡人玉", "same person as x (different identity)"], 
+      ["金胡子", "same person as x (different reference)"]
+    ],
+    "田红娇": [
+      ["胡人玉", "ex fiancee of x"], 
+      ["姚长寿", "wife of x"]
+    ],
+    "姚长寿": [
+      ["胡人玉", "adversary of x, possibly family of x (if x married the ex fiancee of x)"], 
+      ["田红娇", "husband of x"], 
+      ["方乘山", "acquaintance of x, possibly family of x (if related through marriage)"]
+    ],
+    "方乘山": [
+      ["胡人玉", "acquaintance of x, helped by x"], 
+      ["田红娇", "uncle of x (through marriage)"]
+    ],
+    "李宽生": [
+      ["胡人玉", "friend of x, quest companion of x"]
+    ],
+    "李广生": [
+      ["胡人玉", "friend of x, quest companion of x"]
+    ],
+    "杜老总管": [
+      ["胡人玉", "employee of x, adversary of x, victim of x"]
+    ],
+    "虞北辰": [
+      ["胡人玉", "acquaintance of x"]
+    ],
+    "白头蛇": [
+      ["胡人玉", "business partner of x"]
+    ],
+    "长发姑娘": [
+      ["胡人玉", "savior of x, child of x (owed a debt to x)"]
+    ],
+    "杜辉信": [
+      ["胡人玉", "same person as 杜老总管 of x"]
+    ]
+}

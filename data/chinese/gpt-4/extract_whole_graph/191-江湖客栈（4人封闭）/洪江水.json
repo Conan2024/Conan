@@ -1,0 +1,98 @@
+{
+    "洪江水": [
+        [
+            "father",
+            "father of 洪江水"
+        ],
+        [
+            "孟三春",
+            "murderer of 孟三春, victim of 洪江水, colleague of 洪江水, friend of 洪江水"
+        ],
+        [
+            "蔡思娘",
+            "acquaintance of 洪江水, admired by 洪江水, colleague of 洪江水"
+        ],
+        [
+            "张金银",
+            "stranger to 洪江水, colleague of 洪江水, friend of 洪江水"
+        ],
+        [
+            "张红生",
+            "acquaintance of 洪江水, colleague of 洪江水"
+        ]
+    ],
+    "father": [
+        [
+            "洪江水",
+            "child of father"
+        ]
+    ],
+    "孟三春": [
+        [
+            "洪江水",
+            "victim of 孟三春, colleague of 洪江水, friend of 洪江水"
+        ],
+        [
+            "张红生",
+            "colleague of 孟三春, friend of 孟三春"
+        ],
+        [
+            "张金银",
+            "colleague of 孟三春, friend of 孟三春"
+        ]
+    ],
+    "蔡思娘": [
+        [
+            "洪江水",
+            "colleague of 蔡思娘, admirer of 蔡思娘"
+        ],
+        [
+            "张红生",
+            "colleague of 蔡思娘"
+        ],
+        [
+            "张金银",
+            "colleague of 蔡思娘"
+        ],
+        [
+            "孟三春",
+            "colleague of 蔡思娘"
+        ]
+    ],
+    "张金银": [
+        [
+            "孟三春",
+            "colleague of 张金银, friend of 张金银"
+        ],
+        [
+            "洪江水",
+            "colleague of 张金银, stranger to 张金银"
+        ],
+        [
+            "蔡思娘",
+            "colleague of 张金银"
+        ],
+        [
+            "张红生",
+            "business partner of 张金银"
+        ]
+    ],
+    "张红生": [
+        [
+            "孟三春",
+            "colleague of 张红生, friend of 张红生"
+        ],
+        [
+            "蔡思娘",
+            "colleague of 张红生"
+        ],
+        [
+            "张金银",
+            "business partner of 张红生"
+        ],
+        [
+            "洪江水",
+            "colleague of 张红生, acquaintance of 张红生"
+        ]
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "甘玛": [
+      ["甘印", "helper of x, older brother of x, adoptive mother of x, mentor of x"], 
+      ["巴府山", "superior of x"], 
+      ["苗氏", "helper of x"], 
+      ["如娅", "acquaintance of x, fiancee of x, sister in law of x, possibly family of x"], 
+      ["巫师", "mentor of x, father in law of x"], 
+      ["鬼印", "helper of x, same person as x (different identity), mentor of x"], 
+      ["李高柏", "acquaintance of x, quest companion of x"], 
+      ["忱纱", "friend of x, information receiver from x"], 
+      ["鹃歌", "friend of x, possibly family of x, liked by x"], 
+      ["王京吉", "perpetrator of x, victim of x, secret lover of x"], 
+      ["隼", "fiance of x"]
+    ],
+    "甘印": [
+      ["甘玛", "younger brother of x, student of x, helped by x"], 
+      ["巴府山", "subordinate of x"], 
+      ["苗氏", "acquaintance of x"], 
+      ["如娅", "wife of x"], 
+      ["巫师", "replaced x's identity, mentor of x"], 
+      ["鬼印", "same person as x (different identity)"], 
+      ["鹃歌", "fiancee of x, victim of x"], 
+      ["王京吉", "suspected by x"]
+    ],
+    "巴府山": [
+      ["甘玛", "superior of x"], 
+      ["甘印", "superior of x"], 
+      ["鹃歌", "father of x"], 
+      ["苗氏", "husband of x"], 
+      ["如娅", "father in law of x"]
+    ],
+    "苗氏": [
+      ["甘玛", "helped by x"], 
+      ["巴府山", "wife of x"], 
+      ["鹃歌", "mother of x"]
+    ],
+    "如娅": [
+      ["甘玛", "acquaintance of x, fiancee of x, sister in law of x"], 
+      ["巴府山", "child of x"], 
+      ["鹃歌", "same person as x (different identity)"], 
+      ["巫师", "child of x"], 
+      ["鬼印", "wife of x"]
+    ],
+    "巫师": [
+      ["如娅", "father of x"], 
+      ["甘印", "student of x, subordinate of x"], 
+      ["鬼印", "same person as x (different identity)"]
+    ],
+    "鬼印": [
+      ["如娅", "husband of x"], 
+      ["甘玛", "sibling of x, mentor of x"], 
+      ["巫师", "same person as x (different identity)"]
+    ],
+    "李高柏": [
+      ["甘玛", "acquaintance of x, quest companion of x"]
+    ],
+    "忱纱": [
+      ["甘玛", "friend of x, host of x"]
+    ],
+    "鹃歌": [
+      ["甘玛", "friend of x, liked by x"], 
+      ["甘印", "fiancee of x, victim of x"], 
+      ["巴府山", "child of x"], 
+      ["苗氏", "child of x"], 
+      ["如娅", "same person as x (different identity)"]
+    ],
+    "王京吉": [
+      ["甘玛", "victim of x, secret lover of x, killed by x"]
+    ],
+    "隼": [
+      ["甘玛", "fiance of x"]
+    ]
+}

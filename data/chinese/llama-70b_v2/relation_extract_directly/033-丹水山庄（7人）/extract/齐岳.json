@@ -1,0 +1,44 @@
+{
+    "齐岳": [
+      ["郭望山", "acquaintance relationship of x"], 
+      ["赵万雷", "modelled relationship of x"]
+    ],
+    "郭望山": [
+      ["齐岳", "acquaintance relationship of x"], 
+      ["赵万雷", "employer relationship of x"]
+    ],
+    "赵万雷": [
+      ["齐岳", "modelled relationship of x"], 
+      ["郭望山", "employer relationship of x"]
+    ],
+    "冯总管": [
+      ["郭望山", "superior relationship of x"], 
+      ["赵洛意", "servant relationship of x"]
+    ],
+    "赵洛意": [
+      ["冯总管", "servant relationship of x"], 
+      ["赵秋儿", "sibling relationship of x"]
+    ],
+    "赵秋儿": [
+      ["赵洛意", "sibling relationship of x"], 
+      ["冯总管", "servant relationship of x"]
+    ],
+    "赵老爷": [
+      ["齐岳", "family relationship of x"], 
+      ["赵万雷", "family relationship of x"]
+    ],
+    "鲁泰": [
+      ["赵万雷", "family relationship of x"], 
+      ["齐岳", "acquaintance relationship of x"]
+    ],
+    "冯双骥": [
+      ["赵万雷", "spouse relationship of x"], 
+      ["齐岳", "acquaintance relationship of x"]
+    ],
+    "花子狸": [
+      ["鲁泰", "acquaintance relationship of x"]
+    ],
+    "赵姓人家": [
+      ["赵老爷", "family relationship of x"]
+    ]
+}

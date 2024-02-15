@@ -1,0 +1,308 @@
+{
+    "伊莱恩·卡特尔": [
+        [
+            "依琳·卡特",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "帕洛斯基医生",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "Supervisor/Trainee",
+            "Colleague"
+        ],
+        [
+            "护士长科斯塔",
+            "colleague",
+            "suspect",
+            "informant",
+            "acquaintance"
+        ],
+        [
+            "院长伯克利",
+            "relationship 1",
+            "relationship 2",
+            "relationship 3",
+            "relationship 4"
+        ]
+    ],
+    "依琳·卡特": [
+        [
+            "伊莱恩·卡特尔",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "吉姆梅森",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "帕洛斯基医生",
+            "colleague",
+            "supervisor-supervisee",
+            "investigator-suspect",
+            "bereaved family member-investigator"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "Suspect of X",
+            "Investigator of X",
+            "Mentor of X",
+            "Student of X"
+        ],
+        [
+            "护士长科斯塔",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "colleague",
+            "suspect",
+            "acquaintance",
+            "informant"
+        ],
+        [
+            "院长伯克利",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "伊莱恩•卡特尔": [
+        [
+            "colleague",
+            "fellow practitioner",
+            "acquaintance"
+        ],
+        [
+            "学生",
+            "潜在的监管",
+            "可疑人"
+        ]
+    ],
+    "帕洛斯基医生": [
+        [
+            "伊莱恩·卡特尔",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "依琳·卡特",
+            "colleague",
+            "supervisor-supervisee",
+            "investigator-suspect",
+            "bereaved family member-investigator"
+        ],
+        [
+            "吉姆梅森",
+            "Acquaintance",
+            "Collaborator"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "Relative of X"
+        ],
+        [
+            "护士长科斯타",
+            "德雷克·里莫瑞特",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "医院院长伯克利",
+            "supervisor"
+        ]
+    ],
+    "德雷克·里莫瑞特": [
+        [
+            "伊莱恩·卡特尔",
+            "Supervisor/Trainee",
+            "Colleague"
+        ],
+        [
+            "依琳·卡特",
+            "Suspect of X",
+            "Investigator of X",
+            "Mentor of X",
+            "Student of X"
+        ],
+        [
+            "吉姆梅森",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "帕洛斯基医生",
+            "Relative of X"
+        ],
+        [
+            "帕洛斯基医生",
+            "护士长科斯塔",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "护士长科斯타",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "院长伯克利",
+            "同事",
+            "mentor",
+            "teacher",
+            "informant",
+            " acquaintance"
+        ]
+    ],
+    "护士长科斯塔": [
+        [
+            "伊莱恩·卡特尔",
+            "colleague",
+            "suspect",
+            "informant",
+            "acquaintance"
+        ],
+        [
+            "院长伯克利",
+            "Supervisor of X",
+            "Collaborator of X",
+            "Co-worker of X"
+        ]
+    ],
+    "汉斯•里莫瑞特": [
+        [
+            "上司",
+            "可疑人"
+        ]
+    ],
+    "院长伯克利": [
+        [
+            "伊莱恩·卡特尔",
+            "relationship 1",
+            "relationship 2",
+            "relationship 3",
+            "relationship 4"
+        ],
+        [
+            "依琳·卡特",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "吉姆梅森",
+            "Supervisor/Subordinate"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "subordinate",
+            "Employee",
+            "servant",
+            "Colleague",
+            "Business Partner"
+        ],
+        [
+            "护士长科斯塔",
+            "Supervisor of X",
+            "Collaborator of X",
+            "Co-worker of X"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "Supervisor of X",
+            "Co-worker of X"
+        ]
+    ],
+    "吉姆梅森": [
+        [
+            "依琳·卡特",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "帕洛斯基医生",
+            "Acquaintance",
+            "Collaborator"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "护士长科斯타",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "Acquaintance"
+        ],
+        [
+            "院长伯克利",
+            "Supervisor/Subordinate"
+        ]
+    ],
+    "护士长科斯타": [
+        [
+            "依琳·卡特",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "帕洛斯基医生",
+            "德雷克·里莫瑞特",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "汉斯·里莫瑞特": [
+        [
+            "依琳·卡特",
+            "colleague",
+            "suspect",
+            "acquaintance"
+        ],
+        [
+            "吉姆梅森",
+            "Acquaintance"
+        ],
+        [
+            "帕洛斯基医生",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "护士长科斯та",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "院长伯克利",
+            "Supervisor of X",
+            "Co-worker of X"
+        ]
+    ],
+    "护士长科斯タ": [
+        [
+            "吉姆梅森",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "医院院长伯克利": [
+        [
+            "帕洛斯基医生",
+            "supervisee"
+        ]
+    ],
+    "护士长科斯TA": [
+        [
+            "德雷克·里莫瑞特",
+            "relationship 1, relationship 2"
+        ]
+    ]
+}

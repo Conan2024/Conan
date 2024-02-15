@@ -1,0 +1,56 @@
+{
+    "朱黎": [
+        [
+            "朱老板",
+            "child of x"
+        ],
+        [
+            "初恋情人",
+            "ex-romantic relationships with x, suspected by x"
+        ],
+        [
+            "阿强",
+            "acquaintance of x"
+        ],
+        [
+            "卢记者",
+            "acquaintance of x"
+        ]
+    ],
+    "朱老板": [
+        [
+            "初恋情人",
+            "extramarital affair with x"
+        ],
+        [
+            "朱黎",
+            "father of x"
+        ]
+    ],
+    "初恋情人": [
+        [
+            "朱老板",
+            "extramarital affair with x"
+        ],
+        [
+            "朱黎",
+            "ex-romantic relationships with x, victim of x"
+        ]
+    ],
+    "阿强": [
+        [
+            "朱黎",
+            "acquaintance of x"
+        ],
+        [
+            "朱老板",
+            "helper of x"
+        ]
+    ],
+    "卢记者": [
+        [
+            "朱黎",
+            "acquaintance of x, information receiver from x"
+        ]
+    ]
+}

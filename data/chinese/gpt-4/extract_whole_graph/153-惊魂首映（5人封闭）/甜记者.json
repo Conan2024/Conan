@@ -1,0 +1,76 @@
+{
+    "甜记者": [
+        [
+            "魏学霸",
+            "sibling of x"
+        ],
+        [
+            "严歌手",
+            "dislike of x"
+        ],
+        [
+            "甄演员",
+            "subject of investigation for x"
+        ],
+        [
+            "白经纪",
+            "acquaintance of x"
+        ]
+    ],
+    "魏学霸": [
+        [
+            "甜记者",
+            "sibling of x"
+        ],
+        [
+            "严歌手",
+            "admirer of x"
+        ]
+    ],
+    "严歌手": [
+        [
+            "甜记者",
+            "disliked by x"
+        ],
+        [
+            "魏学霸",
+            "admired by x"
+        ],
+        [
+            "甄演员",
+            "possibly romantic relationships with x"
+        ],
+        [
+            "白经纪",
+            "acquaintance of x"
+        ]
+    ],
+    "甄演员": [
+        [
+            "甜记者",
+            "subject of investigation for x"
+        ],
+        [
+            "严歌手",
+            "possibly romantic relationships with x"
+        ],
+        [
+            "白经纪",
+            "romantic relationships with x"
+        ]
+    ],
+    "白经纪": [
+        [
+            "甜记者",
+            "acquaintance of x"
+        ],
+        [
+            "严歌手",
+            "acquaintance of x"
+        ],
+        [
+            "甄演员",
+            "romantic relationships with x"
+        ]
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "陈府主": [
+      ["李王爷", "acquaintance of x, colleague of x, enemy of x, murderer of x, manipulator of x, conspirator with x, quest companion of x"], 
+      ["特尔特拉福德", "same person as x (different identity)"], 
+      ["陈孜靖", "same person as x (different reference)"], 
+      ["李仲", "father in law of x, victim of x"], 
+      ["李延", "murderer of x (perceived), disguise of x"], 
+      ["方絮", "acquaintance of x, information receiver from x, research subject of x"], 
+      ["尔矢斯芭嗒王子", "friend of x, helped by x, admirer of x"], 
+      ["陈倩", "child of x, biological daughter of x"], 
+      ["小茜", "acquaintance of x"], 
+      ["金古国", "relative of x (nationality), victim of x"], 
+      ["李府", "enemy of x, employer of x x (in plan to marry daughter), business partner of x"], 
+      ["李氏", "victim of x, acquaintance of x"], 
+      ["方府", "business partner of x (in terms of allying with 李王爷), victim of x"]
+    ],
+    "李王爷": [
+      ["陈府主", "acquaintance of x, colleague of x, enemy of x, victim of x, manipulated by x, business partner of x"], 
+      ["方絮", "wife of x, mother of x's children"], 
+      ["李仲", "child of x, biological son of x"], 
+      ["李延", "child of x, biological son of x, twin brother of x"], 
+      ["尔矢斯芭嗒王子", "acquaintance of x"], 
+      ["金古国", "enemy of x (country invaded by x's country)"]
+    ],
+    "李仲": [
+      ["陈府主", "son in law of x, victim of x"], 
+      ["李王爷", "father of x, victim of x"], 
+      ["方絮", "mother of x"], 
+      ["李延", "twin brother of x"], 
+      ["陈倩", "wife of x"]
+    ],
+    "李延": [
+      ["陈府主", "disguise of x"], 
+      ["李王爷", "father of x"], 
+      ["方絮", "mother of x"], 
+      ["李仲", "twin brother of x"]
+    ],
+    "方絮": [
+      ["陈府主", "acquaintance of x, information source for x"], 
+      ["李王爷", "wife of x"], 
+      ["李仲", "child of x, biological son of x"], 
+      ["李延", "child of x, biological son of x"], 
+      ["尔矢斯芭嗒王子", "acquaintance of x"]
+    ],
+    "尔矢斯芭嗒王子": [
+      ["陈府主", "friend of x, mentee of x, admirer of x, helped by x"], 
+      ["李王爷", "acquaintance of x"], 
+      ["方絮", "acquaintance of x"], 
+      ["小茜", "adoptive parent of x, teacher of x"]
+    ],
+    "陈倩": [
+      ["陈府主", "child of x, biological daughter of x"], 
+      ["李仲", "husband of x"], 
+      ["李王爷", "father in law of x, attempted perpetrator of x, victim of x"], 
+      ["方絮", "mother in law of x"], 
+      ["小茜", "acquaintance of x"]
+    ],
+    "小茜": [
+      ["陈府主", "acquaintance of x"], 
+      ["尔矢斯芭嗒王子", "adoptive child of x, student of x"]
+    ],
+    "金古国": [
+      ["陈府主", "native country of x, betrayed by x, object of x's ambition"], 
+      ["李王爷", "enemy country of x"], 
+      ["尔矢斯芭嗒王子", "rightful heir to x"]
+    ],
+    "方府": [
+      ["陈府主", "business partner of x (in terms of allying with 李王爷), victim of x"], 
+      ["李王爷", "allied family of x through marriage"], 
+      ["李仲", "related through father's marriage to 方絮 of x"], 
+      ["尔矢斯芭嗒王子", "former recipient of x a gift from x (yùpeì/jade pendant)"]
+    ]
+}

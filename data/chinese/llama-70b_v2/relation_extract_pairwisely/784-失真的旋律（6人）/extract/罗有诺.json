@@ -1,0 +1,102 @@
+{
+    "罗有诺": [
+      ["罗万利", "relative of x, child of x, son of x, nephew of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x"], 
+      ["阮太太", "租房客 of x, 亲家 of x, 保护人 of x, 邻居 of x"], 
+      ["招楠", "姐妹 of x, 朋友 of x, 婊good friend of x, 姐妹的朋友 of x, 邻居 of x"], 
+      ["望娣", "姊妹 of x, 亲友 of x, 师徒 of x, 邻居 of x, 亲family of x"], 
+      ["贵郎", "godfather godson of x, mentor mentee of x, teacher student of x, friends of x, rivals of x, enemies of x, neighbors of x, colleagues of x, subordinate superior of x, customer seller of x, patient doctor of x, victim perpetrator of x, manipulator manipulated of x, superior subordinate of x, employer employee of x"], 
+      ["黑莉", "姐弟 of x, 干∂ners of x, 朋友 of x"], 
+      ["雪嫣", "兄妹 of x, 干 siblings of x, 租处的朋友 of x, 孩子的朋友 of x, dance classmates of x"]
+    ],
+    "罗万利": [
+      ["罗有诺", "relative of x, child of x, son of x, nephew of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x"], 
+      ["孙氏", "father of x 罗有诺, husband of x 罗有诺's mother"], 
+      ["阮太太", "租房主 租客 of x"], 
+      ["招楠", "阮太太 of x, 贵郎 of x, 望娣 of x"], 
+      ["望娣", "classmate of x, childhood friend of x"], 
+      ["贵郎", "adoptive father of x, mentor of x, friend of x"], 
+      ["黑莉", "perpetrator of x, bully of x"], 
+      ["齐故飞", "childhood friend of x, cousin of x"], 
+      ["雪嫣", "parent of x, guardian of x, teacher of x, mentor of x, friend of x, neighbor of x"]
+    ],
+    "孙氏": [
+      ["罗万利", "father in law of x 罗有诺, husband of x 罗有诺's mother"], 
+      ["阮太太", "father in law of x, father in law's housemate of x, widower of x, widow's sibling of x, sibling in law of x, co worker of x, colleague of x, roommate of x"], 
+      ["招楠", "阮太太 of x, 贵郎 of x, 望娣 of x"], 
+      ["望娣", "relation1 of x, relation2 of x"], 
+      ["贵郎", "罗万利 of x, 罗有诺 of x, 阮太太 of x, 招楠 of x, 望娣 of x"], 
+      ["黑莉", "family friend of x"], 
+      ["齐故飞", "招楠 of x, 望娣 of x, 贵郎 of x, 阮太太 of x"], 
+      ["雪嫣", "parent of x, guardian of x, adoptive parent of x, foster parent of x"]
+    ],
+    "阮太太": [
+      ["罗有诺", "租房客 of x, 亲家 of x, 保护人 of x, 邻居 of x"], 
+      ["罗万利", "租房主 租客 of x"], 
+      ["孙氏", "father in law of x, father in law's housemate of x, widower of x, widow's sibling of x, sibling in law of x, co worker of x, colleague of x, roommate of x"], 
+      ["招楠", "friend of x, neighbor of x"], 
+      ["望娣", "foster child of x"], 
+      ["贵郎", "招楠 of x, 望娣 of x, 罗有诺 of x"], 
+      ["黑莉", "罗有诺 of x"], 
+      ["齐故飞", "friend of x, 罗有诺 of x, acquaintance of x"], 
+      ["雪嫣", "friend of x, 罗有诺 of x, rental agent of x"]
+    ],
+    "招楠": [
+      ["罗有诺", "姐妹 of x, 朋友 of x, 婊good friend of x, 姐妹的朋友 of x, 邻居 of x"], 
+      ["罗万利", "阮太太 of x, 贵郎 of x, 望娣 of x"], 
+      ["孙氏", "阮太太 of x, 贵郎 of x, 望娣 of x"], 
+      ["阮太太", "mother of x, landlady of x"], 
+      ["望娣", "sisterly love of x, 罗有诺 of x, acquaintance of x"], 
+      ["贵郎", "罗有诺 of x"], 
+      ["黑莉", "望娣 of x, 贵郎 of x"], 
+      ["雪嫣", "acquaintance of x"]
+    ],
+    "望娣": [
+      ["罗有诺", "姊妹 of x, 亲友 of x, 师徒 of x, 邻居 of x, 亲family of x"], 
+      ["罗万利", "classmate of x, childhood friend of x"], 
+      ["孙氏", "relation1 of x, relation2 of x"], 
+      ["阮太太", "mother of x, foster sibling of x"], 
+      ["招楠", "sisterly love of x, 罗有诺 of x, acquaintance of x"], 
+      ["贵郎", "sibling of x"], 
+      ["黑莉", "sibling rivalry of x"], 
+      ["齐故飞", "罗有诺 of x"], 
+      ["雪嫣", "rivals of x, acquaintances of x"]
+    ],
+    "贵郎": [
+      ["罗有诺", "godfather godson of x, mentor mentee of x, teacher student of x, friends of x, rivals of x, enemies of x, neighbors of x, colleagues of x, subordinate superior of x, customer seller of x, patient doctor of x, victim perpetrator of x, manipulator manipulated of x, superior subordinate of x, employer employee of x"], 
+      ["罗万利", "adoptive son of x, mentee of x, friend of x"], 
+      ["孙氏", "罗万利 of x, 罗有诺 of x, 阮太太 of x, 招楠 of x, 望娣 of x"], 
+      ["阮太太", "招楠 of x, 望娣 of x, 罗有诺 of x"], 
+      ["招楠", "罗有诺 of x"], 
+      ["望娣", "sibling of x"], 
+      ["黑莉", "招楠 of x, 望娣 of x, 阮太太 of x"], 
+      ["雪嫣", "阮太太 of x, 阮宅 of x, 招楠 of x, 望娣 of x"]
+    ],
+    "黑莉": [
+      ["罗有诺", "姐弟 of x, 干∂ners of x, 朋友 of x"], 
+      ["罗万利", "victim of x, suspicious of x"], 
+      ["孙氏", "family friend of x"], 
+      ["阮太太", "罗有诺 of x"], 
+      ["招楠", "望娣 of x, 贵郎 of x"], 
+      ["望娣", "sibling rivalry of x"], 
+      ["贵郎", "招楠 of x, 望娣 of x, 阮太太 of x"], 
+      ["雪嫣", "friend of x, classmate of x, schoolmate of x"]
+    ],
+    "齐故飞": [
+      ["罗万利", "childhood friend of x, cousin of x"], 
+      ["孙氏", "招楠 of x, 望娣 of x, 贵郎 of x, 阮太太 of x"], 
+      ["阮太太", "friend of x, 罗有诺 of x, acquaintance of x"], 
+      ["望娣", "罗有诺 of x"], 
+      ["雪嫣", "招楠 of x, 望娣 of x, 贵郎 of x"]
+    ],
+    "雪嫣": [
+      ["罗有诺", "兄妹 of x, 干 siblings of x, 租处的朋友 of x, 孩子的朋友 of x, dance classmates of x"], 
+      ["罗万利", "sibling of x, friend of x, classmate of x, schoolmate of x, neighbor of x"], 
+      ["孙氏", "sibling of x, brother of x, sister of x, relative of x"], 
+      ["阮太太", "friend of x, 罗有诺 of x, rental agent of x"], 
+      ["招楠", "acquaintance of x"], 
+      ["望娣", "siblings of x, co workers of x"], 
+      ["贵郎", "阮太太 of x, 阮宅 of x, 招楠 of x, 望娣 of x"], 
+      ["黑莉", "friend of x, classmate of x, schoolmate of x"], 
+      ["齐故飞", "招楠 of x, 望娣 of x, 贵郎 of x"]
+    ]
+}

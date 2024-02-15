@@ -1,0 +1,58 @@
+{
+    "周琏逸": [
+      ["王小明", "romantic relationships with of x, friend of x"], 
+      ["李华", "ex girlfriend of x, friend of x"], 
+      ["张三", "ex boyfriend of x"], 
+      ["赵四", "friend of x"], 
+      ["刘五", "mentor of x"], 
+      ["秦六", "business partner of x"]
+    ],
+    "王小明": [
+      ["周琏逸", "romantic relationships with of x, friend of x"], 
+      ["李华", "fiancee of x"], 
+      ["张三", "brother of x"], 
+      ["赵四", "friend of x"], 
+      ["刘五", "mentor of x"], 
+      ["秦六", "business partner of x"]
+    ],
+    "李华": [
+      ["周琏逸", "ex boyfriend of x, friend of x"], 
+      ["王小明", "fiance of x"], 
+      ["张三", "brother of x"], 
+      ["赵四", "friend of x"], 
+      ["刘五", "teacher of x"], 
+      ["秦六", "customer of x"]
+    ],
+    "张三": [
+      ["周琏逸", "ex girlfriend of x"], 
+      ["王小明", "brother of x"], 
+      ["李华", "brother of x"], 
+      ["赵四", "friend of x"], 
+      ["刘五", "student of x"], 
+      ["秦六", "customer of x"]
+    ],
+    "赵四": [
+      ["周琏逸", "friend of x"], 
+      ["王小明", "friend of x"], 
+      ["李华", "friend of x"], 
+      ["张三", "friend of x"], 
+      ["刘五", "mentor of x"], 
+      ["秦六", "business partner of x"]
+    ],
+    "刘五": [
+      ["周琏逸", "mentor of x"], 
+      ["王小明", "mentor of x"], 
+      ["李华", "teacher of x"], 
+      ["张三", "student of x"], 
+      ["赵四", "mentor of x"], 
+      ["秦六", "mentor of x"]
+    ],
+    "秦六": [
+      ["周琏逸", "business partner of x"], 
+      ["王小明", "business partner of x"], 
+      ["李华", "customer of x"], 
+      ["张三", "customer of x"], 
+      ["赵四", "business partner of x"], 
+      ["刘五", "mentor of x"]
+    ]
+}

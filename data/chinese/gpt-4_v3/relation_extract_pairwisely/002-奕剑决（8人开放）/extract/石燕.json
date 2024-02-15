@@ -1,0 +1,58 @@
+{
+    "武林盟使•石燕": [
+        [
+            "红花夫人",
+            "student of x, adversary of x"
+        ],
+        [
+            "杜仲",
+            "perpetrator of x, murderer of x, enemy of x, deceiver of x"
+        ],
+        [
+            "陆英",
+            "perpetrator of x, quest companion of x"
+        ]
+    ],
+    "红花夫人": [
+        [
+            "武林盟使•石燕",
+            "manipulator of x, mentor of x"
+        ],
+        [
+            "杜仲",
+            "lover of x, victim of x, deceiver of x, mentor of x, possibly family of x"
+        ],
+        [
+            "陆英",
+            "mentor of x"
+        ]
+    ],
+    "杜仲": [
+        [
+            "武林盟使•石燕",
+            "victim of x, deceived by x, adversary of x"
+        ],
+        [
+            "红花夫人",
+            "lover of x, perpetrator of x, student of x, deceiver of x, possibly family of x"
+        ],
+        [
+            "陆英",
+            "victim of x, perpetrator of x's family"
+        ]
+    ],
+    "陆英": [
+        [
+            "武林盟使•石燕",
+            "victim of x, quest companion of x"
+        ],
+        [
+            "红花夫人",
+            "student of x"
+        ],
+        [
+            "杜仲",
+            "perpetrator of x, x's victim's family"
+        ]
+    ]
+}

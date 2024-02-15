@@ -1,0 +1,30 @@
+{
+    "李警察": [
+      ["李警察的女友", "victim of x, helped by x, girlfriend of x"], 
+      ["王村长", "acquaintance of x, guest of x, suspect of x"], 
+      ["胡调研", "acquaintance of x, colleague of x, information receiver from x"], 
+      ["赵慈善", "victim of x, suspected by x, adversary of x, suspect to x"]
+    ],
+    "李警察的女友": [
+      ["李警察", "seeker of help from x, boyfriend of x, saved by x"], 
+      ["胡调研", "acquaintance of x"], 
+      ["赵慈善", "victim of x, dislike of x, disliked by x, adversary of x, deceiver of x, deceived by x"]
+    ],
+    "王村长": [
+      ["李警察", "acquaintance of x, host of x, suspected by x"], 
+      ["胡调研", "acquaintance of x, quest companion of x, information receiver from x"], 
+      ["赵慈善", "helped by x, suspected by x"]
+    ],
+    "胡调研": [
+      ["李警察", "acquaintance of x, colleague of x, informant of x"], 
+      ["李警察的女友", "acquaintance of x"], 
+      ["王村长", "acquaintance of x, quest companion of x, informant of x"], 
+      ["赵慈善", "victim of x, disliked by x"]
+    ],
+    "赵慈善": [
+      ["李警察", "perpetrator of x, suspect of x, adversary of x"], 
+      ["李警察的女友", "perpetrator of x, dislike of x, disliked by x, adversary of x, deceiver of x, deceived by x"], 
+      ["王村长", "helper of x, suspect of x"], 
+      ["胡调研", "perpetrator of x, dislike of x"]
+    ]
+}

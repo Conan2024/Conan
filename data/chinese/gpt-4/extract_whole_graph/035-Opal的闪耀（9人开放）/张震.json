@@ -1,0 +1,42 @@
+{
+    "张震": [
+        [
+            "杜天泽",
+            "subject of investigation for x"
+        ],
+        [
+            "海大生",
+            "suspected by x, acquaintance of x"
+        ],
+        [
+            "顾海麟",
+            "acquaintance of x"
+        ]
+    ],
+    "杜天泽": [
+        [
+            "张震",
+            "suspect to x"
+        ],
+        [
+            "海大生",
+            "acquaintance of x, possibly business partner of x"
+        ]
+    ],
+    "海大生": [
+        [
+            "张震",
+            "victim of x"
+        ],
+        [
+            "杜天泽",
+            "acquaintance of x, possibly business partner of x"
+        ]
+    ],
+    "顾海麟": [
+        [
+            "张震",
+            "acquaintance of x"
+        ]
+    ]
+}

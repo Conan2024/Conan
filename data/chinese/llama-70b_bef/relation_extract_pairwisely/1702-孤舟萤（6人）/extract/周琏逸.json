@@ -1,0 +1,56 @@
+{
+    "周蒙当": [
+      ["崔寿亨", "father in law of x, employer of x, master of x, perpetrator of x, murderer of x"], 
+      ["汪氏", "father of x, husband of x"], 
+      ["宿年", "uncle of x, master of x"], 
+      ["昔颜", "father in law of x, brother in law of x"]
+    ],
+    "崔寿亨": [
+      ["周蒙当", "husband of x, father of x, employer of x, master of x, victim of x"], 
+      ["于氏", "wife of x, mother of x"], 
+      ["宝柑", "father in law of x, husband of x"], 
+      ["太太", "husband of x"]
+    ],
+    "汪氏": [
+      ["周蒙当", "mother of x, wife of x"], 
+      ["嫣楠", "father in law of x, mother in law of x, uncle of x, aunt of x"], 
+      ["昔颜", "husband of x, father in law of x, uncle of x, uncle of x, father of x, mother of x"], 
+      ["太太", "acquaintance of x"]
+    ],
+    "宿年": [
+      ["周蒙当", "uncle of x, master of x"], 
+      ["嫣楠", "cousin of x"], 
+      ["宝柑", "mother in law of x"], 
+      ["太太", "extramarital affair with x"]
+    ],
+    "嫣楠": [
+      ["汪氏", "brother of x, father of x, mother of x, uncle of x, aunt of x"], 
+      ["宿年", "cousin of x"], 
+      ["宝柑", "step daughter of x, cousin of x"]
+    ],
+    "昔颜": [
+      ["周蒙当", "mother in law of x, sister in law of x"], 
+      ["于氏", "sibling of x"], 
+      ["汪氏", "wife of x, father in law of x, uncle of x, uncle of x, father of x, mother of x"], 
+      ["宝柑", "classmate of x, schoolmate of x"]
+    ],
+    "宝柑": [
+      ["于氏", "daughter of x"], 
+      ["崔寿亨", "father in law of x, wife of x"], 
+      ["宿年", "mother in law of x"], 
+      ["嫣楠", "step son of x, cousin of x"], 
+      ["昔颜", "classmate of x, schoolmate of x"]
+    ],
+    "太太": [
+      ["于氏", "husband of x, father of x, acquaintance of x"], 
+      ["崔寿亨", "wife of x"], 
+      ["汪氏", "acquaintance of x"]
+    ],
+    "于氏": [
+      ["崔寿亨", "husband of x, father of x"], 
+      ["嫣楠", "mentor of x"], 
+      ["昔颜", "mother of x"], 
+      ["宝柑", "biological mother of x"], 
+      ["太太", "step mother of x, acquaintance of x"]
+    ]
+}

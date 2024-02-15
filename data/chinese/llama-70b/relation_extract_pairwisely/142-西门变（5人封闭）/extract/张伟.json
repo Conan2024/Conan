@@ -1,0 +1,134 @@
+{
+    "张伟": [
+        [
+            "赵中杨",
+            "relationship 1, relationship 2, relationship 3, relationship 4"
+        ],
+        [
+            "李成",
+            "coworker, inferior"
+        ],
+        [
+            "陈媚儿",
+            "赵中杨的手下",
+            "赵中杨的准少奶奶",
+            "赵中杨的生意拍 santai",
+            "赵中杨的救命敌人",
+            "赵中杨的卖国贼"
+        ],
+        [
+            "赵三",
+            "jealousy, attempted murder"
+        ],
+        [
+            "马老板",
+            "subordinate",
+            "deceiver",
+            "suspicious",
+            "potential adversary"
+        ]
+    ],
+    "赵中杨": [
+        [
+            "张伟",
+            "relationship 1, relationship 2, relationship 3, relationship 4"
+        ],
+        [
+            "李成",
+            "mentee, friend, and colleague"
+        ],
+        [
+            "陈媚儿",
+            "手下",
+            "朋友"
+        ]
+    ],
+    "李成": [
+        [
+            "张伟",
+            "coworker, superior"
+        ],
+        [
+            "赵中杨",
+            "mentor, friend, and colleague"
+        ],
+        [
+            "陈媚儿",
+            "同僚",
+            "朋友"
+        ],
+        [
+            "赵三",
+            "coworker"
+        ],
+        [
+            "马老板",
+            "relationship 1: acquaintance",
+            "relationship 2: business partner"
+        ]
+    ],
+    "陈媚儿": [
+        [
+            "张伟",
+            "赵中杨的手下",
+            "赵中杨的准少奶奶",
+            "赵中杨的生意拍 santai",
+            "赵中杨的救命敌人",
+            "赵中杨的卖国贼"
+        ],
+        [
+            "赵中杨",
+            "手下",
+            "朋友"
+        ]
+    ],
+    "赵三": [
+        [
+            "张伟",
+            "jealousy, rivalry"
+        ],
+        [
+            "李成",
+            "coworker"
+        ],
+        [
+            "马老板",
+            "brother, business partner, buyer, manipulator, adversary, enemy"
+        ]
+    ],
+    "马老板": [
+        [
+            "张伟",
+            "subordinate",
+            "deceived",
+            "suspicious",
+            "potential adversary"
+        ],
+        [
+            "李成",
+            "relationship 1: acquaintance",
+            "relationship 2: business partner"
+        ],
+        [
+            "chen mm-tzu",
+            "关系"
+        ],
+        [
+            "赵三",
+            "brother, business partner, buyer, manipulator, adversary, enemy"
+        ]
+    ],
+    "chen媚儿": [
+        [
+            "李成",
+            "同僚",
+            "朋友"
+        ]
+    ],
+    "chen mm-tzu": [
+        [
+            "马老板",
+            "关系"
+        ]
+    ]
+}

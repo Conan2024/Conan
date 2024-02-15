@@ -1,0 +1,98 @@
+{
+    "孟三春": [
+      ["张红生", "husband of x, killed father of x"], 
+      ["张金山", "rival of x, enemy of x"], 
+      ["张金银", "husband of x (different identity)"], 
+      ["洪二郎", "enemy of x, helper of x, manipulator of x, friend of x, mentor of x, superior of x"], 
+      ["洪江水", "husband of x, enemy of x, former ally of x, manipulator of x, victim of x"], 
+      ["洪长烈", "husband of x, stranger to x, perpetrator of x"], 
+      ["蔡思娘", "husband of x"]
+    ],
+    "张红生": [
+      ["孟三春", "husband of x, killed by of x"], 
+      ["张金山", "husband of x, rival of x"], 
+      ["张金银", "husband of x, killed father of x"], 
+      ["洪二郎", "same person as x, same person as x"], 
+      ["洪寨主", "爱情 of x, 复仇 of x, 同谋 of x, 敌人 of x, 亲友 of x"], 
+      ["洪江水", "同人 of x, 夫妻 of x, 仇敌 of x, 背叛者 of x, 同谋 of x"], 
+      ["洪长烈", "brother of x, enemy of x, avenger of x, ally of x, husband of x"], 
+      ["蔡思娘", "情敌 of x, 敌对 of x, 竞争对手 of x, 背叛 of x, 仇恨 of x"]
+    ],
+    "张金山": [
+      ["孟三春", "rival of x, enemy of x"], 
+      ["张红生", "wife of x, adversary of x"], 
+      ["张金银", "co head of x the bai family, accomplice in murder of x, friend of x"], 
+      ["洪三妹", "husband of x, perpetrator of x"], 
+      ["洪二郎", "acquaintance of x, rival of x, perpetrator of x, attempted perpetrator of x, victim of x"], 
+      ["洪寨主", "husband of x, perpetrator of x"], 
+      ["洪江水", "acquaintance of x, rival of x, perpetrator of x, attempted perpetrator of x, victim of x, killed by of x"], 
+      ["洪长烈", "husband of x, perpetrator of x"], 
+      ["蔡思娘", "husband of x"]
+    ],
+    "张金银": [
+      ["孟三春", "wife of x (different identity)"], 
+      ["张红生", "wife of x, killed by of x"], 
+      ["张金山", "co head of x the bai family, accomplice in murder of x, friend of x"], 
+      ["洪三妹", "孟三春 of x"], 
+      ["洪二郎", "孟三春 of x, 燕山堂的同伙 of x, 敵对的兄弟 of x"], 
+      ["洪寨主", "husband of x, former lover of x, sworn brother of x, mortal enemy of x"], 
+      ["洪江水", "husband of x, perpetrator of x"], 
+      ["洪长烈", "亲生兄弟 of x, 敵對 of x, 孤孙 of x"], 
+      ["蔡思娘", "rival of x, enemy of x"]
+    ],
+    "洪三妹": [
+      ["张金山", "wife of x, victim of x"], 
+      ["张金银", "孟三春 of x"], 
+      ["洪二郎", "同人 of x, 妻夫 of x, 战友 of x"], 
+      ["洪寨主", "妻子 of x, 叔婢 of x, 婢女 of x, 仇敌 of x"], 
+      ["洪江水", "adoptive daughter of x, biological daughter of x, younger sister of x, wife of x"], 
+      ["洪长烈", "daughter of x, apprentice of x, enemy of x, manipulator of x, friend of x"]
+    ],
+    "洪二郎": [
+      ["孟三春", "husband of x, victim of x, friend of x, subordinate of x, business partner of x"], 
+      ["张 Hochuen", "same person as x, same person as x"], 
+      ["张金山", "acquaintance of x, rival of x, manipulator of x, manipulated of x, adversary of x"], 
+      ["张金银", "孟三春 of x, 燕山堂的同伙 of x, 敵对的兄弟 of x"], 
+      ["洪三妹", "同人 of x, 妻夫 of x, 战友 of x"], 
+      ["洪寨主", "husband wife of x, master apprentice of x, sibling like of x, rivalry of x"], 
+      ["洪江水", "adopted son of x, brother of x, family member of x, shared enemy of x, past conflict of x, shared goal of x"], 
+      ["洪长烈", "father son of x, brother sister of x"], 
+      ["蔡思娘", "adoptive father of x, enemy of x father, former subordinate of x, current employer of x, mentor of x"]
+    ],
+    "洪寨主": [
+      ["张红生", "爱情 of x, 同谋 of x, 敌人 of x, 亲友 of x"], 
+      ["张金山", "wife of x, victim of x"], 
+      ["张金银", "husband of x, former lover of x, sworn brother of x, mortal enemy of x"], 
+      ["洪三妹", "妻子 of x, 叔婢 of x, 婢女 of x, 仇敌 of x"], 
+      ["洪二郎", "husband wife of x, master apprentice of x, sibling like of x, rivalry of x"], 
+      ["洪长烈", "father of x, uncle of x"], 
+      ["蔡思娘", "father son relationship of x, same family relationship of x"]
+    ],
+    "洪江水": [
+      ["孟三春", "husband of x, enemy of x, former ally of x, manipulator of x, victim of x"], 
+      ["张红生", "同人 of x, 夫妻 of x, 仇敌 of x, 背叛者 of x, 同谋 of x"], 
+      ["张金山", "acquaintance of x, rival of x, victim of x, bully of x, attempted murderer of x, killed by of x"], 
+      ["张金银", "wife of x, victim of x"], 
+      ["洪三妹", "adoptive father of x, biological father of x, older brother of x, husband of x"], 
+      ["洪二郎", "adopted daughter of x, sister of x, family member of x, shared enemy of x, past conflict of x, shared goal of x"], 
+      ["洪长烈", "father in law of x, killed by of x"]
+    ],
+    "洪长烈": [
+      ["孟三春", "father of x, victim of x, killed by x"], 
+      ["张红生", "brother of x, enemy of x, ally of x, wife of x"], 
+      ["张金山", "father of x, victim of x"], 
+      ["张金银", "亲生兄弟 of x, 敵對 of x, 父亲 of x"], 
+      ["洪三妹", "daughter of x, apprentice of x, enemy of x, manipulator of x, friend of x"], 
+      ["洪二郎", "father son of x, brother sister of x"], 
+      ["洪寨主", "father of x, uncle of x"], 
+      ["洪江水", "son in law of x, killed by of x"]
+    ],
+    "蔡思娘": [
+      ["孟三春", "wife of x"], 
+      ["张红生", "情敌 of x, 敌对 of x, 竞争对手 of x, 背叛 of x, 仇恨 of x"], 
+      ["张金山", "wife of x"], 
+      ["张金银", "rival of x, enemy of x"], 
+      ["洪二郎", "adoptive father of x, enemy of x father, former subordinate of x, current employer of x, mentor of x"], 
+      ["洪寨主", "husband wife relationship of x, same family relationship of x"]
+    ]
+}

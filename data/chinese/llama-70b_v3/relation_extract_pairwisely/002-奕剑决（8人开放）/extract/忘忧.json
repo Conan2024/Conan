@@ -1,0 +1,28 @@
+{
+    "杜仲": [
+      ["玄参", "brother of x, mentor of x"], 
+      ["云游四方的剑客", "brother of x"], 
+      ["红花夫人", "brother in law of x, husband of x"], 
+      ["吾儿", "business partner of x"]
+    ],
+    "玄参": [
+      ["杜仲", "brother of x, mentor of x"], 
+      ["吾儿", "brother of x"]
+    ],
+    "云游四方的剑客": [
+      ["杜仲", "brother of x"], 
+      ["红花夫人", "brother in law of x, friend of x"], 
+      ["吾儿", "brother in law of x, mentor of x"]
+    ],
+    "红花夫人": [
+      ["杜仲", "brother in law of x, wife of x"], 
+      ["云游四方的剑客", "brother in law of x, friend of x"], 
+      ["吾儿", "husband of x, ex romantic relationships with x"]
+    ],
+    "吾儿": [
+      ["杜仲", "business partner of x"], 
+      ["玄参", "brother of x"], 
+      ["云游四方的剑客", "brother in law of x, mentor of x"], 
+      ["红花夫人", "son of x, romantic relationships with x"]
+    ]
+}

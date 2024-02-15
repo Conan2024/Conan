@@ -1,0 +1,206 @@
+{
+    "叶牡丹": [
+        [
+            "白雪生",
+            "same person as x (different identity)"
+        ],
+        [
+            "白延秋",
+            "father of x"
+        ],
+        [
+            "韩婵冬",
+            "father in law of x"
+        ],
+        [
+            "韩佳梅",
+            "mother of x"
+        ],
+        [
+            "花彩珠",
+            "employer of x, colleague of x"
+        ],
+        [
+            "花彩云",
+            "friend of x, admired by x"
+        ],
+        [
+            "常晚亭",
+            "dislike of x, disliked by x, victim of x"
+        ],
+        [
+            "林园生",
+            "helper of x, helped by x"
+        ],
+        [
+            "姬霞",
+            "rival of x, colleague of x"
+        ],
+        [
+            "白年昆",
+            "uncle of x"
+        ]
+    ],
+    "花彩珠": [
+        [
+            "花彩云",
+            "sibling of x"
+        ],
+        [
+            "叶牡丹",
+            "employee of x, colleague of x"
+        ],
+        [
+            "姬霞",
+            "subordinate of x, colleague of x"
+        ],
+        [
+            "常晚亭",
+            "subordinate of x, colleague of x, victim of x"
+        ],
+        [
+            "林园生",
+            "subordinate of x, colleague of x"
+        ]
+    ],
+    "花彩云": [
+        [
+            "花彩珠",
+            "sibling of x"
+        ],
+        [
+            "叶牡丹",
+            "friend of x, admirer of x"
+        ],
+        [
+            "姬霞",
+            "colleague of x"
+        ],
+        [
+            "常晚亭",
+            "victim of x"
+        ],
+        [
+            "林园生",
+            "colleague of x"
+        ]
+    ],
+    "常晚亭": [
+        [
+            "叶牡丹",
+            "dislike of x, disliked by x, perpetrator of x"
+        ],
+        [
+            "花彩珠",
+            "superior of x, colleague of x"
+        ],
+        [
+            "花彩云",
+            "attempted perpetrator of x"
+        ],
+        [
+            "姬霞",
+            "colleague of x"
+        ],
+        [
+            "林园生",
+            "colleague of x"
+        ]
+    ],
+    "林园生": [
+        [
+            "叶牡丹",
+            "helped by x, helper of x"
+        ],
+        [
+            "花彩珠",
+            "superior of x, colleague of x"
+        ],
+        [
+            "姬霞",
+            "colleague of x"
+        ],
+        [
+            "常晚亭",
+            "colleague of x"
+        ]
+    ],
+    "姬霞": [
+        [
+            "花彩珠",
+            "superior of x, colleague of x"
+        ],
+        [
+            "叶牡丹",
+            "rival of x, colleague of x"
+        ],
+        [
+            "花彩云",
+            "colleague of x"
+        ],
+        [
+            "常晚亭",
+            "colleague of x"
+        ],
+        [
+            "林园生",
+            "colleague of x"
+        ]
+    ],
+    "白延秋": [
+        [
+            "叶牡丹",
+            "child of x"
+        ],
+        [
+            "韩婵冬",
+            "mentor of x"
+        ],
+        [
+            "韩佳梅",
+            "wife of x"
+        ],
+        [
+            "白年昆",
+            "sibling of x"
+        ]
+    ],
+    "韩佳梅": [
+        [
+            "叶牡丹",
+            "child of x"
+        ],
+        [
+            "白延秋",
+            "husband of x"
+        ],
+        [
+            "韩婵冬",
+            "father of x"
+        ]
+    ],
+    "韩婵冬": [
+        [
+            "叶牡丹",
+            "grandchild of x"
+        ],
+        [
+            "白延秋",
+            "student of x"
+        ],
+        [
+            "韩佳梅",
+            "child of x"
+        ]
+    ],
+    "白年昆": [
+        [
+            "叶牡丹",
+            "nephew of x"
+        ],
+        [
+            "白延秋",
+            "sibling of x"
+        ]
+    ]
+}

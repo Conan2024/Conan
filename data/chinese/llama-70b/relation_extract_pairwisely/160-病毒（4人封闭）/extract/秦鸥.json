@@ -1,0 +1,66 @@
+{
+    "秦鸥": [
+        [
+            "田助理",
+            "relationship 1: girlfriend",
+            "relationship 2: assistant"
+        ],
+        [
+            "贾教授",
+            "Supervisor-Subordinate",
+            "Love Rival",
+            "Bully-Victim"
+        ],
+        [
+            "保安",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "田助理": [
+        [
+            "秦鸥",
+            "relationship 1: girlfriend",
+            "relationship 2: assistant"
+        ],
+        [
+            "贾教授",
+            "boyfriend",
+            "suspicious"
+        ],
+        [
+            "保安",
+            "boyfriend"
+        ]
+    ],
+    "贾教授": [
+        [
+            "秦鸥",
+            "Supervisor-Subordinate",
+            "Love Rival",
+            "Bully-Victim"
+        ],
+        [
+            "田助理",
+            "superior",
+            "suspicious"
+        ],
+        [
+            "保安",
+            "rival"
+        ]
+    ],
+    "保安": [
+        [
+            "秦鸥",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "田助理",
+            "enemy"
+        ],
+        [
+            "贾教授",
+            "informant"
+        ]
+    ]
+}

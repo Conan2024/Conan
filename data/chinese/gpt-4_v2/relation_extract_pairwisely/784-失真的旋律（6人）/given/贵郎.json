@@ -1,0 +1,112 @@
+{
+    "阮贵郎": [
+      ["阮太太", "child of x, son of x, biological son of x"], 
+      ["招楠", "sibling of x"], 
+      ["王子摩", "brother in law of x, disliked by x, suspect of x, suspected by x, x's sister's husband, x's victim's family"], 
+      ["齐故飞", "childhood acquaintance of x, romantic quest companion of x, indirectly manipulated by x"], 
+      ["望娣", "younger sister of x"], 
+      ["罗秀才", "teacher of x, friend of x, former tenant of x, mentor of x, father of foster siblings of x"], 
+      ["罗有诺", "childhood friend of x, adoptive brother of x, student of x"], 
+      ["雪嫣", "adoptive sister of x, cohabitant of x"], 
+      ["黑莉", "admirer of x, romantic relationships with x, attempted thief of x, suspect to x"]
+    ],
+    "阮太太": [
+      ["阮贵郎", "mother of x, biological mother of x"], 
+      ["招楠", "mother of x, possible victim of x"], 
+      ["王子摩", "mother in law of x"], 
+      ["齐故飞", "acquaintance of x"], 
+      ["望娣", "mother of x"], 
+      ["罗秀才", "helper of x, landlord of x"], 
+      ["罗有诺", "adoptive mother of x, information receiver from x"], 
+      ["雪嫣", "adoptive mother of x"], 
+      ["黑莉", "landlord of x, mother of x's victim's family"]
+    ],
+    "招楠": [
+      ["阮贵郎", "sibling of x"], 
+      ["阮太太", "child of x, possible perpetrator of x"], 
+      ["王子摩", "wife of x, deceased x's wife"], 
+      ["齐故飞", "extramarital affair with x, quest companion of x"], 
+      ["望娣", "sibling of x"], 
+      ["罗秀才", "customer of x"], 
+      ["罗有诺", "caregiver of x, childhood friend of x, foster sister of x"], 
+      ["雪嫣", "acquaintance of x"], 
+      ["黑莉", "acquaintance of x, quest companion of x, ex romantic relationships with x"]
+    ],
+    "王子摩": [
+      ["阮贵郎", "husband of x's sibling, x's brother in law, disliked by x, victim of x, suspect to x, suspect of x"], 
+      ["阮太太", "son in law of x"], 
+      ["招楠", "husband of x, deceased by x"], 
+      ["齐故飞", "enemies of x, husband of x, victim of x"], 
+      ["望娣", "husband of x, deceased husband of x"], 
+      ["罗秀才", "adversary of x, murderer of x"], 
+      ["罗有诺", "suspect of x, husband of x"], 
+      ["雪嫣", "husband of x, suspected by x"], 
+      ["黑莉", "murderer of x"]
+    ],
+    "齐故飞": [
+      ["阮贵郎", "childhood acquaintance of x, romantic quest companion of x, manipulator of x"], 
+      ["阮太太", "acquaintance of x"], 
+      ["招楠", "extramarital affair with x, quest companion of x"], 
+      ["王子摩", "enemy of x, murder of x"], 
+      ["望娣", "acquaintance of x, quest companion of x"], 
+      ["罗秀才", "acquaintance of x, tenant of x, colleague of x"], 
+      ["罗有诺", "childhood friend of x, co quest companion of x"], 
+      ["雪嫣", "quest companion of x, friend of x"], 
+      ["黑莉", "ex romantic relationships with x, quest companion of x"]
+    ],
+    "望娣": [
+      ["阮贵郎", "older brother of x"], 
+      ["阮太太", "child of x"], 
+      ["招楠", "sibling of x"], 
+      ["王子摩", "wife of x, widow of x"], 
+      ["齐故飞", "acquaintance of x"], 
+      ["罗秀才", "mentor of x"], 
+      ["罗有诺", "sibling of x"], 
+      ["雪嫣", "friend of x, acquaintance of x"], 
+      ["黑莉", "acquaintance of x"]
+    ],
+    "罗秀才": [
+      ["阮贵郎", "student of x, friend of x, former tenant of x, mentor to x's family, abandoned father of x's foster siblings"], 
+      ["阮太太", "tenant of x, student of x"], 
+      ["招楠", "service provider of x"], 
+      ["王子摩", "victim of x"], 
+      ["齐故飞", "landlord of x, former teacher of x"], 
+      ["望娣", "student of x"], 
+      ["罗有诺", "father of x"], 
+      ["雪嫣", "father of x"], 
+      ["黑莉", "客人 of x, 以前的租客 of x, x的老师"]
+    ],
+    "罗有诺": [
+      ["阮贵郎", "childhood friend of x, adoptive sibling of x, information receiver from x"], 
+      ["阮太太", "adopted child of x, helper of x"], 
+      ["招楠", "cared for by x, childhood friend of x, foster brother of x"], 
+      ["王子摩", "suspected by x, brother in law of x"], 
+      ["齐故飞", "childhood friend of x, co quest companion of x"], 
+      ["望娣", "sibling of x"], 
+      ["罗秀才", "child of x"], 
+      ["雪嫣", "sibling of x, adopted by x's parent, childhood acquaintance of x"], 
+      ["黑莉", "child of x, acquaintance of x"]
+    ],
+    "雪嫣": [
+      ["阮贵郎", "adoptive brother of x, cohabitant of x"], 
+      ["阮太太", "adoptive daughter of x"], 
+      ["招楠", "acquaintance of x"], 
+      ["王子摩", "wife of x, suspect of x"], 
+      ["齐故飞", "friend of x, quest companion of x"], 
+      ["望娣", "friend of x, acquaintance of x"], 
+      ["罗秀才", "child of x"], 
+      ["罗有诺", "sibling of x, adopted by x's parent, childhood acquaintance of x"], 
+      ["黑莉", "acquaintance of x, colleague of x"]
+    ],
+    "黑莉": [
+      ["阮贵郎", "admired by x, romantic relationships with x, subject of x investigation for x, deception receiver from x"], 
+      ["阮太太", "tenant of x, x's victim's family"], 
+      ["招楠", "acquaintance of x, quest companion of x, ex romantic relationships with x"], 
+      ["王子摩", "widow of x"], 
+      ["齐故飞", "ex romantic relationships with x, quest companion of x"], 
+      ["望娣", "acquaintance of x"], 
+      ["罗秀才", "房东 of x, 以前的房东 of x, x的学生"], 
+      ["罗有诺", "co residents of x, admired by x"], 
+      ["雪嫣", "acquaintance of x, colleague of x"]
+    ]
+}

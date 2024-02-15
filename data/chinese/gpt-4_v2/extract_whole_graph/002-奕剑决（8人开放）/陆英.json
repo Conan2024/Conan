@@ -1,0 +1,45 @@
+{
+    "陆英": [
+      ["杜仲", "student of x, mentee of x, subordinate of x"], 
+      ["易剑山庄天字位弟子", "colleague of x"], 
+      ["易剑山庄其他弟子", "superior of x"], 
+      ["师父杜仲", "mentor of x, superior of x"], 
+      ["下位弟子恋人", "romantic relationship with x, secret lover of x"], 
+      ["紫苏", "acquaintance of x"], 
+      ["凌霄", "acquaintance of x"], 
+      ["武林盟使", "acquaintance of x"], 
+      ["玄冰使", "acquaintance of x"]
+    ],
+    "杜仲": [
+      ["易剑山庄天字位弟子", "mentor of x"], 
+      ["玄冰教", "adversary of x"], 
+      ["陆英", "mentor of x, superior of x"]
+    ],
+    "易剑山庄天字位弟子": [
+      ["杜仲", "student of x"], 
+      ["陆英", "colleague of x"], 
+      ["玄冰使", "acquaintance of x, possibly adversary of x"], 
+      ["武林盟使", "acquaintance of x"]
+    ],
+    "易剑山庄其他弟子": [
+      ["陆英", "subordinate of x"], 
+      ["杜仲", "servant of x"]
+    ],
+    "下位弟子恋人": [
+      ["陆英", "romantic relationship with x, secret lover of x"]
+    ],
+    "紫苏": [
+      ["陆英", "acquaintance of x"]
+    ],
+    "凌霄": [
+      ["陆英", "acquaintance of x"]
+    ],
+    "武林盟使": [
+      ["陆英", "acquaintance of x"]
+    ],
+    "玄冰使": [
+      ["陆英", "acquaintance of x"], 
+      ["易剑山庄天字位弟子", "acquaintance of x, possibly adversary of x"], 
+      ["杜仲", "adversary of x"]
+    ]
+}

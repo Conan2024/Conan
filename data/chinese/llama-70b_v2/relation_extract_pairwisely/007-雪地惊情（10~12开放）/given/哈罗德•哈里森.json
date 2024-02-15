@@ -1,0 +1,66 @@
+{
+    "哈罗德•哈里森": [
+      ["安娜", "romantic relationship of x, husband of x, friend of x"], 
+      ["杰奎琳•佩里", "关系 1 of x, 关系 2 of x"], 
+      ["玛丽娜•哈里森", "husband of x, father of x, uncle of x, information receiver from x, acquaintance of x, colleague of x"], 
+      ["约翰•摩根", "姐姐 of x, 妻子 of x, 丈夫 of x, 儿子 of x, 父亲 of x, 妈妈 of x, 孩子的父亲 of x, 敏锐的头脑 of x, 安静 of x, 大方 of x, 害羞 of x, 神经质 of x"], 
+      ["艾米•摩根", "姐姐 of x, 知道家庭秘密 of x"], 
+      ["露西•哈里森", "艾米•摩根 of x, 杰奎琳•佩里 of x, 麦克斯•派克 of x"], 
+      ["麦克斯•派克", "acquaintance of x, fellow accountant of x, suspicious of x, potential ally of x"]
+    ],
+    "安娜": [
+      ["哈罗德•哈里森", "romantic relationship of x, wife of x, friend of x"], 
+      ["杰奎琳•佩里", "husband of x, business partner of x, rival of x, mentor of x, confidant of x"], 
+      ["约翰•摩根", "friend of x, secret lover of x"], 
+      ["艾米•摩根", "brother in law of x, sister in law of x"], 
+      ["麦克斯•派克", "玛丽娜 of x, 艾米•摩根 of x, 露西•哈里森 of x"]
+    ],
+    "杰奎琳•佩里": [
+      ["哈罗德•哈里森", "关系 1 of x, 关系 2 of x"], 
+      ["安娜", "sister in law of x, business partner of x, rival of x, mentee of x, confidant of x"], 
+      ["玛丽娜•哈里森", "姐姐 of x, 妹妹 of x, 亲密 of x, 竞争 of x, 共同经营 of x"], 
+      ["约翰•摩根", "姐妹 of x, 合作伙伴 of x, 竞争对手 of x"], 
+      ["艾米•摩根", "玛丽娜 of x, 约翰•摩根 of x"], 
+      ["露西•哈里森", "玛丽娜•哈里森 of x"], 
+      ["麦克斯•派克", "acquaintance of x, colleague of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["哈罗德•哈里森", "wife of x, mother of x, sister of x, business partner of x, customer of x, tenant of x"], 
+      ["杰奎琳•佩里", "丈夫 of x, 父亲 of x, 不育 of x, 外遇 of x, 怀疑 of x"], 
+      ["艾米•摩根", "姐妹 of x, co wives of x, x, x"], 
+      ["露西•哈里森", "wife of x, mother of x, family member of x"], 
+      ["husband", "father of x her child"]
+    ],
+    "约翰•摩根": [
+      ["哈罗德•哈里森", "兄弟 of x, 姐姐 of x, 妻子 of x, 丈夫 of x, 儿子 of x, 父亲 of x, 妈如 of x, 孩子的父亲 of x, 玛丽娜 of x, 露西•哈里森 of x, 艾米•摩根 of x, 杰奎琳•佩里 of x, 麦克斯•派克 of x"], 
+      ["安娜", "friend of x, husband of x"], 
+      ["杰奎琳•佩里", "姐夫 of x, 合作伙伴 of x, 竞争对手 of x"], 
+      ["艾米•摩根", "姐姐 of x, longtime rival of x, potential enemy of x, same person as x (different reference)"], 
+      ["露西•哈里森", "艾米•摩根 of x, 杰奎琳•佩里 of x, 麦克斯•派克 of x"], 
+      ["麦克斯•派克", "husband of x, father of x, kinslayer of x, same person as x (different reference)"]
+    ],
+    "艾米•摩根": [
+      ["哈罗德•哈里森", "弟弟 of x, knowing family secret of x"], 
+      ["安娜", "brother in law of x, sister in law of x"], 
+      ["杰奎琳•佩里", "玛丽娜 of x, 约翰•摩根 of x"], 
+      ["玛丽娜•哈里森", "姐妹 of x, co wives of x, x, x"], 
+      ["约翰•摩根", "brother in law of x, longtime rival of x, potential enemy of x, same person as x (different reference)"], 
+      ["露西•哈里森", "玛丽娜•哈里森 of x, 杰奎琳•佩里 of x, 约翰•摩根 of x"]
+    ],
+    "露西•哈里森": [
+      ["哈罗德•哈里森", "艾米•摩根 of x, 杰奎琳•佩里 of x"], 
+      ["杰奎琳•佩里", "玛丽娜•哈里森 of x"], 
+      ["玛丽娜•哈里森", "daughter of x, family member of x"], 
+      ["约翰•摩根", "艾米•摩根 of x, 杰奎琳•佩里 of x"], 
+      ["艾米•摩根", "玛丽娜•哈里森 of x, 杰奎琳•佩里 of x, 约翰•摩根 of x"], 
+      ["麦克斯•派克", "professional relationship of x, personal relationship of x, mentor mentee relationship of x"]
+    ],
+    "麦克斯•派克": [
+      ["哈罗德•哈里森", "acquaintance of x, fellow accountant of x, suspicious of x, potential ally of x"], 
+      ["安娜", "玛丽娜 of x, 艾米•摩根 of x, 杰奎琳•佩里 of x"], 
+      ["杰奎琳•佩里", "acquaintance of x, colleague of x"], 
+      ["wife", "mother of x his child"], 
+      ["约翰•摩根", "co worker of x, information receiver from x, acquaintance of x, same person as x (different identity)"], 
+      ["露西•哈里森", "professional relationship of x, personal relationship of x, mentor mentee relationship of x"]
+    ]
+}

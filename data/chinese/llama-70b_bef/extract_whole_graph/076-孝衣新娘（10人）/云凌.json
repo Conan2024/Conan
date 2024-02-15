@@ -1,0 +1,29 @@
+{
+    "云凌": [
+      ["徐伯清", "friend of x"], 
+      ["姚仲义", "brother in law of x"], 
+      ["陈均梦", "sister in law of x"], 
+      ["贵叔", "acquaintance of x"]
+    ],
+    "徐伯清": [
+      ["云凌", "friend of x"], 
+      ["姚仲义", "friend of x, brother in law of x"], 
+      ["陈均梦", "sister in law of x"]
+    ],
+    "姚仲义": [
+      ["云凌", "brother in law of x"], 
+      ["徐伯清", "friend of x"], 
+      ["陈均梦", "sister in law of x"]
+    ],
+    "陈均梦": [
+      ["云凌", "sister in law of x"], 
+      ["徐伯清", "friend of x"], 
+      ["姚仲义", "brother in law of x"]
+    ],
+    "贵叔": [
+      ["云凌", "acquaintance of x"]
+    ],
+    "姚家仆人": [
+      ["云凌", "acquaintance of x"]
+    ]
+}

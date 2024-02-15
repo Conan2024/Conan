@@ -1,0 +1,32 @@
+{
+    "郝闺蜜": [
+        [
+            "表姐",
+            "cousin of x, possibly family of x, admired by x, quest companion of x, victim of x"
+        ],
+        [
+            "林校花",
+            "friend of x, enemy's fiancee, planner to kill x's fiance, x's fiancee's victim"
+        ]
+    ],
+    "表姐": [
+        [
+            "郝闺蜜",
+            "cousin of x, possibly family of x, admirer of x, quest companion of x, perpetrator of x"
+        ],
+        [
+            "林校花",
+            "victim of x"
+        ]
+    ],
+    "林校花": [
+        [
+            "郝闺蜜",
+            "friend of x, victim of x's fiance, fiancee of x's victim's killer"
+        ],
+        [
+            "表姐",
+            "fiancee of x's perpetrator"
+        ]
+    ]
+}

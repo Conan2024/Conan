@@ -1,0 +1,18 @@
+{
+    "秦鸥": [
+      ["田助理", "suspect of x"], 
+      ["保安", "acquaintance of x"]
+    ],
+    "田助理": [
+      ["秦鸥", "suspect of x"], 
+      ["贾教授", "mentor of x, superior of x"]
+    ],
+    "保安": [
+      ["秦鸥", "acquaintance of x"], 
+      ["田助理", "adversary of x, enemy of x"]
+    ],
+    "贾教授": [
+      ["田助理", "mentor of x, superior of x"], 
+      ["秦鸥", "acquaintance of x"]
+    ]
+}

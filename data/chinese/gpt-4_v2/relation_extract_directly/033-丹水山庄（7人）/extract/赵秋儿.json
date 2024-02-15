@@ -1,0 +1,68 @@
+{
+    "赵秋儿": [
+      ["赵洛意", "friend of x, student of x, servant of x"], 
+      ["管家", "acquaintance of x, inferior of x"], 
+      ["赵卫", "acquaintance of x"], 
+      ["赵万雷", "subject of x romantic interest for x, superior of x, patient of x"], 
+      ["老爷", "employer of x, romantic relationships with x"], 
+      ["齐岳", "acquaintance of x, protector of x"], 
+      ["冯双骥", "superior of x"], 
+      ["冯竹", "acquaintance of x"]
+    ],
+    "赵洛意": [
+      ["赵秋儿", "friend of x, mentor of x, superior of x"], 
+      ["管家", "acquaintance of x, inferior of x"], 
+      ["赵卫", "sibling of x"], 
+      ["赵万雷", "father of x"], 
+      ["齐岳", "acquaintance of x"], 
+      ["冯双骥", "servant of x"], 
+      ["冯竹", "acquaintance of x"]
+    ],
+    "管家": [
+      ["赵洛意", "servant of x"], 
+      ["赵秋儿", "superior of x"], 
+      ["赵卫", "servant of x"], 
+      ["赵万雷", "friend of x, servant of x"], 
+      ["冯竹", "father of x"], 
+      ["齐岳", "colleague of x"]
+    ],
+    "赵卫": [
+      ["赵洛意", "sibling of x"], 
+      ["赵秋儿", "acquaintance of x"], 
+      ["赵万雷", "son of x"], 
+      ["管家", "acquaintance of x"], 
+      ["齐岳", "acquaintance of x"]
+    ],
+    "老爷": [
+      ["赵秋儿", "employer of x, romantic interest of x"], 
+      ["赵洛意", "child of x"], 
+      ["赵卫", "child of x"], 
+      ["管家", "employer of x"], 
+      ["齐岳", "employee of x"]
+    ],
+    "赵万雷": [
+      ["赵洛意", "child of x"], 
+      ["管家", "friend of x, employer of x"], 
+      ["赵卫", "child of x"], 
+      ["赵秋儿", "romantic relationships with x, patient of x"]
+    ],
+    "齐岳": [
+      ["老爷", "employee of x"], 
+      ["赵秋儿", "protector of x"], 
+      ["赵洛意", "employee of x"], 
+      ["管家", "colleague of x"]
+    ],
+    "冯双骥": [
+      ["冯竹", "father of x"], 
+      ["赵秋儿", "superior of x"], 
+      ["赵洛意", "employee of x"], 
+      ["赵卫", "employee of x"], 
+      ["赵万雷", "employee of x"], 
+      ["齐岳", "colleague of x"]
+    ],
+    "冯竹": [
+      ["赵秋儿", "acquaintance of x"], 
+      ["赵洛意", "acquaintance of x"], 
+      ["管家", "child of x"]
+    ]
+}

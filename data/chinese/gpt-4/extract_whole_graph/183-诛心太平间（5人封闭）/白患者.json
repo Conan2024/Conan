@@ -1,0 +1,70 @@
+{
+    "白患者": [
+        [
+            "mother",
+            "deceased by x, biological mother of x"
+        ],
+        [
+            "father",
+            "deceased by x, biological father of x"
+        ],
+        [
+            "潘副院长",
+            "deceiver of x, disliked by x, suspect of x, victim of x"
+        ],
+        [
+            "魏女儿",
+            "acquaintance of x, admirer of x, helped by x"
+        ],
+        [
+            "甄主任",
+            "adversary of x, perpetrator of x, victim of x"
+        ],
+        [
+            "王护士",
+            "service provider of x"
+        ]
+    ],
+    "父亲": [
+        [
+            "白患者",
+            "biological son of x"
+        ]
+    ],
+    "潘副院长": [
+        [
+            "白患者",
+            "suspected by x, deceived by x, victim of x"
+        ],
+        [
+            "甄主任",
+            "business partner of x"
+        ]
+    ],
+    "魏女儿": [
+        [
+            "白患者",
+            "helper of x, admired by x, acquaintance of x"
+        ]
+    ],
+    "甄主任": [
+        [
+            "白患者",
+            "enemy of x, murdered by x"
+        ],
+        [
+            "潘副院长",
+            "business partner of x"
+        ],
+        [
+            "魏女儿",
+            "step-father of x, abuser of x"
+        ]
+    ],
+    "王护士": [
+        [
+            "白患者",
+            "product provider of x"
+        ]
+    ]
+}

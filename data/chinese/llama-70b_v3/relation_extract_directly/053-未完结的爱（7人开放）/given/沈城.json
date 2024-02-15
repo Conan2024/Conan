@@ -1,0 +1,26 @@
+{
+    "沈城": [
+      ["林夕", "colleague of x"], 
+      ["苏阳", "adversary of x, acquaintance of x"], 
+      ["顾明和", "acquaintance of x"]
+    ],
+    "林夕": [
+      ["沈城", "colleague of x"], 
+      ["林惟仁", "father of x"], 
+      ["顾明和", "acquaintance of x"]
+    ],
+    "林惟仁": [
+      ["林夕", "father of x"], 
+      ["顾明和", "acquaintance of x"]
+    ],
+    "苏阳": [
+      ["沈城", "adversary of x, acquaintance of x"], 
+      ["顾明和", "acquaintance of x"]
+    ],
+    "顾明和": [
+      ["沈城", "acquaintance of x"], 
+      ["林夕", "acquaintance of x"], 
+      ["林惟仁", "acquaintance of x"], 
+      ["苏阳", "acquaintance of x"]
+    ]
+}

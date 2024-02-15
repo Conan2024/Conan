@@ -1,0 +1,52 @@
+{
+    "艾莱克斯•哈维": [
+      ["玛丽娜•哈里森", "same person as x (different identity), friend of x"], 
+      ["杰奎琳•佩里", "relative of x, friend of x"], 
+      ["丹尼尔•佩里", "dislike of x"], 
+      ["艾米•摩根", "information receiver from x, friend of x"], 
+      ["哈罗德•哈里森", "acquaintance of x, relative of x"], 
+      ["露西•哈里森", "acquaintance of x"], 
+      ["乔纳森•佩里", "acquaintance of x"], 
+      ["约翰•摩根", "acquaintance of x"], 
+      ["戴维斯•佩里", "acquaintance of x, disliked by x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["艾莱克斯•哈维", "same person as x (different identity), friend of x"], 
+      ["杰奎琳•佩里", "sibling of x"], 
+      ["哈罗德•哈里森", "husband of x"], 
+      ["戴维斯•佩里", "extramarital affair with x, romantic relationships with x"]
+    ],
+    "杰奎琳•佩里": [
+      ["艾莱克斯•哈维", "relative of x, friend of x"], 
+      ["玛丽娜•哈里森", "sibling of x, disliked by x"], 
+      ["丹尼尔•佩里", "sibling of x"], 
+      ["乔纳森•佩里", "sibling of x"]
+    ],
+    "丹尼尔•佩里": [
+      ["艾莱克斯•哈维", "dislike of x"], 
+      ["杰奎琳•佩里", "sibling of x"], 
+      ["戴维斯•佩里", "sibling of x"]
+    ],
+    "艾米•摩根": [
+      ["艾莱克斯•哈维", "creditor of x, friend of x"], 
+      ["哈罗德•哈里森", "sibling of x"]
+    ],
+    "哈罗德•哈里森": [
+      ["玛丽娜•哈里森", "wife of x"], 
+      ["艾米•摩根", "sibling of x"], 
+      ["露西•哈里森", "child of x"]
+    ],
+    "露西•哈里森": [
+      ["哈罗德•哈里森", "father of x"], 
+      ["乔纳森•佩里", "romantic relationships with x"]
+    ],
+    "乔纳森•佩里": [
+      ["露西•哈里森", "romantic relationships with x"], 
+      ["杰奎琳•佩里", "sibling of x"]
+    ],
+    "戴维斯•佩里": [
+      ["艾莱克斯•哈维", "acquaintance of x, disliked by x"], 
+      ["玛丽娜•哈里森", "extramarital affair with x, romantic relationships with x"], 
+      ["丹尼尔•佩里", "sibling of x"]
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "朱莉": [
+        [
+            "李老师",
+            "biological father of 朱莉"
+        ],
+        [
+            "彼得",
+            "husband of 朱莉"
+        ],
+        [
+            "丹尼尔",
+            "extramarital affair with 朱莉, disliked by 朱莉"
+        ],
+        [
+            "查理",
+            "acquaintance of 朱莉, informant of 朱莉"
+        ]
+    ],
+    "李老师": [
+        [
+            "朱莉",
+            "biological daughter of 李老师"
+        ],
+        [
+            "彼得",
+            "son in law of 李老师"
+        ],
+        [
+            "丹尼尔",
+            "student of 李老师"
+        ],
+        [
+            "查理",
+            "student of 李老师"
+        ]
+    ],
+    "彼得": [
+        [
+            "朱莉",
+            "wife of 彼得"
+        ],
+        [
+            "李老师",
+            "father in law of 彼得"
+        ],
+        [
+            "丹尼尔",
+            "adversary of 彼得, victim of 丹尼尔"
+        ],
+        [
+            "查理",
+            "acquaintance of 彼得"
+        ]
+    ],
+    "丹尼尔": [
+        [
+            "朱莉",
+            "extramarital affair with 丹尼尔, admirer of 朱莉"
+        ],
+        [
+            "李老师",
+            "student of 李老师"
+        ],
+        [
+            "彼得",
+            "adversary of 彼得, perpetrator of 彼得"
+        ],
+        [
+            "查理",
+            "friend of 丹尼尔"
+        ]
+    ],
+    "查理": [
+        [
+            "朱莉",
+            "acquaintance of 查理, information receiver from 朱莉"
+        ],
+        [
+            "李老师",
+            "student of 李老师"
+        ],
+        [
+            "彼得",
+            "acquaintance of 查理"
+        ],
+        [
+            "丹尼尔",
+            "friend of 查理"
+        ]
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "胡人玉": [
+      ["范金魁", "same person as x (different identity)"], 
+      ["田红娇", "ex fiancee of x"], 
+      ["姚长寿", "victim of x, adversary of x"], 
+      ["李宽生", "friend of x"], 
+      ["李广生", "friend of x"], 
+      ["方乘山", "acquaintance of x, coworker of x"], 
+      ["杜老总管", "adversary of x"], 
+      ["苏州女孩", "admired by x, debtor of x"]
+    ],
+    "范金魁": [
+      ["胡人玉", "same person as x (different identity)"], 
+      ["田红娇", "ex fiancee of x"], 
+      ["姚长寿", "adversary of x, witness to x's alleged death"], 
+      ["方乘山", "deceased coworker of x"], 
+      ["杜老总管", "adversary of x, victim of x"], 
+      ["李宽生", "friend of x"], 
+      ["李广生", "friend of x"], 
+      ["苏州女孩", "debtor of x"]
+    ],
+    "田红娇": [
+      ["胡人玉", "ex fiance of x"], 
+      ["范金魁", "ex fiance of x"], 
+      ["姚长寿", "husband of x"], 
+      ["方乘山", "relative of x"]
+    ],
+    "姚长寿": [
+      ["胡人玉", "perpetrator of x's family, wrongdoer to x, business partner of x"], 
+      ["范金魁", "adversary of x"], 
+      ["杜老总管", "acquaintance of x"], 
+      ["田红娇", "husband of x"], 
+      ["方乘山", "murderer of x, business partner of x"]
+    ],
+    "方乘山": [
+      ["胡人玉", "coworker of x"], 
+      ["范金魁", "coworker of x"], 
+      ["田红娇", "uncle of x"], 
+      ["杜老总管", "coworker of x"], 
+      ["姚长寿", "victim of x"]
+    ],
+    "杜老总管": [
+      ["胡人玉", "victim of x"], 
+      ["范金魁", "victim of x"], 
+      ["姚长寿", "acquaintance of x"], 
+      ["方乘山", "coworker of x"]
+    ],
+    "李宽生": [
+      ["胡人玉", "friend of x, deceased of x"], 
+      ["范金魁", "friend of x, deceased of x"]
+    ],
+    "李广生": [
+      ["胡人玉", "friend of x, deceased of x"], 
+      ["范金魁", "friend of x, deceased of x"]
+    ],
+    "苏州女孩": [
+      ["胡人玉", "creditor of x"], 
+      ["范金魁", "creditor of x"]
+    ]
+}

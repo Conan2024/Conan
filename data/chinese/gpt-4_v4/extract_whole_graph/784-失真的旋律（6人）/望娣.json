@@ -1,0 +1,70 @@
+{
+    "望娣": [
+      ["阮太太", "mother of x"], 
+      ["阮钱德", "father of x"], 
+      ["招楠", "same person as x (different identity)"], 
+      ["贵郎", "same person as x (different identity)"], 
+      ["罗秀才", "acquaintance of x"], 
+      ["齐故飞", "friend of x"], 
+      ["黑莉", "friend of x"], 
+      ["罗有诺", "lover of x, helped by x, admirer of x"], 
+      ["雪嫣", "friend of x"], 
+      ["王子摩", "victim of x, deceiver of x, husband of x, manipulated by x"], 
+      ["罗有诺", "helped by x, secret lover of x"]
+    ],
+    "阮太太": [
+      ["望娣", "mother of x"], 
+      ["阮钱德", "husband of x"], 
+      ["招楠", "child of x"], 
+      ["贵郎", "child of x"], 
+      ["罗有诺", "acquaintance of x"], 
+      ["王子摩", "victim of x, son in law of x"], 
+      ["罗有诺", "helper of x"]
+    ],
+    "阮钱德": [
+      ["望娣", "father of x"], 
+      ["阮太太", "wife of x"], 
+      ["招楠", "father of x"], 
+      ["贵郎", "father of x"]
+    ],
+    "招楠": [
+      ["望娣", "same person as x (different identity)"], 
+      ["阮太太", "mother of x"], 
+      ["阮钱德", "father of x"], 
+      ["贵郎", "same person as x (different identity)"], 
+      ["王子摩", "victim of x"]
+    ],
+    "贵郎": [
+      ["望娣", "same person as x (different identity)"], 
+      ["阮太太", "mother of x"], 
+      ["招楠", "same person as x (different identity)"], 
+      ["阮钱德", "father of x"]
+    ],
+    "罗秀才": [
+      ["望娣", "informant of x"], 
+      ["贵郎", "teacher of x"]
+    ],
+    "齐故飞": [
+      ["望娣", "friend of x"], 
+      ["招楠", "colleague of x"]
+    ],
+    "黑莉": [
+      ["望娣", "friend of x"], 
+      ["招楠", "colleague of x"]
+    ],
+    "罗有诺": [
+      ["罗秀才", "child of x"], 
+      ["雪嫣", "same person as x (different identity)"], 
+      ["望娣", "lover of x, helped by x, admirer of x"], 
+      ["阮太太", "acquaintance of x"]
+    ],
+    "雪嫣": [
+      ["罗秀才", "child of x"], 
+      ["罗有诺", "same person as x (different identity)"], 
+      ["望娣", "friend of x"]
+    ],
+    "王子摩": [
+      ["望娣", "victim of x, husband of x, deceived by x"], 
+      ["阮太太", "mother in law of x"]
+    ]
+}

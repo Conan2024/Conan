@@ -1,0 +1,22 @@
+{
+    "隼": [
+      ["忱纱", "lover of x"], 
+      ["如娅", "sister of x"]
+    ],
+    "忱纱": [
+      ["隼", "lover of x"], 
+      ["周教授", "father of x"]
+    ],
+    "如娅": [
+      ["隼", "sister of x"], 
+      ["李高柏", "friend of x"]
+    ],
+    "李高柏": [
+      ["隼", "friend of x"], 
+      ["忱纱", "acquaintance of x"]
+    ],
+    "周教授": [
+      ["忱纱", "father of x"], 
+      ["隼", "friend of x"]
+    ]
+}

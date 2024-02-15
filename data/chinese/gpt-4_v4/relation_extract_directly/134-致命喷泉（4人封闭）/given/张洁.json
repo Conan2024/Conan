@@ -1,0 +1,32 @@
+{
+    "张洁": [
+      ["李国富", "victim of x, adversary of x, adversary of x, crime partner of x, dislike of x, adversary of x"], 
+      ["何老六", "colleague of x, crime partner of x"], 
+      ["慕北", "colleague of x, romantic relationships with x, victim of x, admirer of x"], 
+      ["王邻居", "acquaintance of x"]
+    ],
+    "李国富": [
+      ["张洁", "attempted perpetrator of x, attempted perpetrator of x, adversary of x, crime partner of x"], 
+      ["何老六", "colleague of x, crime partner of x"], 
+      ["慕北", "colleague of x, jealous of x"], 
+      ["王邻居", "acquaintance of x, acquaintance of x"]
+    ],
+    "何老六": [
+      ["张洁", "colleague of x, crime partner of x"], 
+      ["李国富", "colleague of x, crime partner of x"], 
+      ["慕北", "colleague of x"], 
+      ["王邻居", "acquaintance of x"]
+    ],
+    "慕北": [
+      ["张洁", "colleague of x, romantic relationships with x, admired by x"], 
+      ["李国富", "colleague of x, romantic relationships with x"], 
+      ["何老六", "colleague of x"], 
+      ["王邻居", "acquaintance of x"]
+    ],
+    "王邻居": [
+      ["张洁", "acquaintance of x"], 
+      ["李国富", "acquaintance of x, acquaintance of x"], 
+      ["何老六", "acquaintance of x"], 
+      ["慕北", "acquaintance of x"]
+    ]
+}

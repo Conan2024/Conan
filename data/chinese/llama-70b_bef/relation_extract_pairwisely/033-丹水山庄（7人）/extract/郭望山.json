@@ -1,0 +1,22 @@
+{
+    "郭望山": [
+      ["赵万雷", "acquaintance of x, colleague of x, adversary of x"]
+    ],
+    "廖老板": [
+      ["赵万雷", "employer of x, mentor of x, superior of x, business partner of x, informant of x, victim of x, perpetrator of x, rival of x"], 
+      ["虞义辰", "friend of x"], 
+      ["花子狸", "superior of x, mentor of x, friend of x"]
+    ],
+    "赵万雷": [
+      ["郭望山", "acquaintance of x, colleague of x, adversary of x"], 
+      ["廖老板", "employer of x, mentor of x, superior of x, business partner of x, informant of x, victim of x, perpetrator of x, rival of x"]
+    ],
+    "虞义辰": [
+      ["廖老板", "friend of x"], 
+      ["花子狸", "acquaintance of x, informant of x, superior of x, employer of x, teacher of x, mentor of x, friend of x, colleague of x, business partner of x"]
+    ],
+    "花子狸": [
+      ["廖老板", "superior of x, mentor of x, friend of x"], 
+      ["虞义辰", "acquaintance of x, informant of x, superior of x, employer of x, teacher of x, mentor of x, friend of x, colleague of x, business partner of x"]
+    ]
+}

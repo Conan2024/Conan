@@ -1,0 +1,62 @@
+{
+    "修仁杰": [
+      ["刘奇", "business partner of x"], 
+      ["洪子廉", "friend of x"], 
+      ["韩亦暮", "酒吧经理与乘务 of x"], 
+      ["林若彤", "colleague of x, 過去共事關係 of x"], 
+      ["韩亦暮", "林若彤 of x, 张文远 of x"], 
+      ["杨晨林", "friend of x, possibly family of x"]
+    ],
+    "刘奇": [
+      ["修仁杰", "business partner of x"], 
+      ["洪子廉", "co worker of x 修经理, possible co conspirator of x 修经理"], 
+      ["韩亦暮", "romantic relationships with x"], 
+      ["林若彤", "adversary of x"], 
+      ["张文远", "colleague of x, business partner of x"], 
+      ["洪子廉", "high school alumni of x, former employer of x"], 
+      ["洪子廉", "co worker of x"]
+    ],
+    "洪子廉": [
+      ["修仁杰", "acquaintance of x"], 
+      ["刘奇", "co worker of x 修经理, possible co conspirator of x 修经理"], 
+      ["韩亦暮", "co worker of x"], 
+      ["林若彤", "colleague of x"], 
+      ["刘奇", "co worker of x"], 
+      ["杨晨林", "friend of x"]
+    ],
+    "韩亦暮": [
+      ["修仁杰", "乘务与酒吧经理 of x"], 
+      ["刘奇", "extramarital affair with x"], 
+      ["洪子廉", "colleague of x"], 
+      ["林若彤", "admired by x"], 
+      ["张文远", "secret crush of x, admirer of x"], 
+      ["杨晨林", "helper of x, information receiver from x"]
+    ],
+    "林若彤": [
+      ["修仁杰", "colleague of x, 過去共事關係 of x"], 
+      ["刘奇", "adversary of x"], 
+      ["洪子廉", "employee of x 修经理"], 
+      ["洪子廉", "colleague of x"], 
+      ["韩亦暮", "admires x"], 
+      ["张文远", "colleague of x"], 
+      ["杨晨林", "fondness of x"]
+    ],
+    "张文远": [
+      ["刘奇", "colleague of x, business partner of x"], 
+      ["洪子廉", "colleague of x"], 
+      ["韩亦暮", "mentor of x"], 
+      ["林若彤", "employee of x"], 
+      ["杨晨林", "acquaintance of x, colleague of x"]
+    ],
+    "杨晨林": [
+      ["修仁杰", "friend of x, possibly family of x"], 
+      ["洪子廉", "former captain of x the ship"], 
+      ["洪子廉", "possibly family of x"], 
+      ["韩亦暮", "helper of x, informant of x"], 
+      ["林若彤", "employer of x"], 
+      ["张文远", "colleague of x"]
+    ],
+    "修经理": [
+      ["洪子廉", "employer of x 韩亦暮"]
+    ]
+}

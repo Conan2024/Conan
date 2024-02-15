@@ -1,0 +1,160 @@
+{
+    "罗宾•费依": [
+      ["丹尼尔", "friend of x, acquaintance of x, colleague of x, information receiver from x, informant of x"], 
+      ["佩里", "guest of x, friend of x, information receiver from x, suspect to x"], 
+      ["哈里森", "acquaintance of x, guest of x, information receiver from x"], 
+      ["玛丽娜", "acquaintance of x, subject of x investigation for x, information receiver from x, suspected by x"], 
+      ["杰奎琳", "acquaintance of x"], 
+      ["哈罗德", "acquaintance of x, information receiver from x, investigating x's business"], 
+      ["乔纳森", "acquaintance of x, suspect to x, information receiver from x"], 
+      ["戴维斯", "acquaintance of x, suspected by x"], 
+      ["露西•哈里森", "acquaintance of x, mentor of x"], 
+      ["艾米•摩根", "acquaintance of x"], 
+      ["丹尼尔", "colleague of x, admirer of x, suspect to x"]
+    ],
+    "丹尼尔": [
+      ["罗宾•费依", "friend of x, acquaintance of x, colleague of x, information provider of x"], 
+      ["佩里", "friend of x, admirer of x, extramarital affair with x, romantic relationships with x, deceived by x"], 
+      ["罗宾•费依", "colleague of x, admired by x, suspect of x"], 
+      ["玛丽娜", "romantic relationships with x, admirer of x"], 
+      ["杰奎琳", "admirer of x, information receiver from x"], 
+      ["哈罗德", "acquaintance of x, information receiver from x"], 
+      ["乔纳森", "father of x"], 
+      ["戴维斯", "suspected by x, romantic relationships with x's lover"], 
+      ["露西•哈里森", "acquaintance of x, possible mentor of x"], 
+      ["艾米•摩根", "acquaintance of x"], 
+      ["麦克斯", "acquaintance of x, colleague of x"]
+    ],
+    "佩里": [
+      ["罗宾•费依", "host of x"], 
+      ["丹尼尔", "friend of x, admiree of x, romantic relationships with x, deceiver of x"], 
+      ["哈里森", "acquaintance of x, in conflict with x's family"], 
+      ["玛丽娜", "acquaintance of x, guest of x"], 
+      ["杰奎琳", "acquaintance of x"], 
+      ["哈罗德", "acquaintance of x, customer of x"], 
+      ["乔纳森", "father of x"], 
+      ["戴维斯", "extramarital affair with x"], 
+      ["露西•哈里森", "possible family of x, admired by x, mentor of x"], 
+      ["约翰•摩根", "victim of x"], 
+      ["艾米•摩根", "acquaintance of x"]
+    ],
+    "哈里森": [
+      ["罗宾•费依", "host of x, informant of x"], 
+      ["佩里", "acquaintance of x, in conflict with x's family"], 
+      ["玛丽娜", "husband of x, suspect of x, cuckolded by x"], 
+      ["杰奎琳", "suspected by x, possibly family of x"], 
+      ["哈罗德", "husband of x"], 
+      ["乔纳森", "acquaintance of x, colleague of x, father of x"], 
+      ["戴维斯", "extramarital affair with x"], 
+      ["露西•哈里森", "father of x"], 
+      ["约翰•摩根", "victim of x"], 
+      ["艾米•摩根", "acquaintance of x"], 
+      ["麦克斯", "acquaintance of x"]
+    ],
+    "玛丽娜": [
+      ["罗宾•费依", "suspect to x, admired by x"], 
+      ["丹尼尔", "extramarital affair with x, admired by x"], 
+      ["佩里", "host of x, subject of x investigation for x"], 
+      ["哈里森", "wife of x, suspected by x, adulterous with x"], 
+      ["杰奎琳", "sibling of x, sister of x"], 
+      ["哈罗德", "wife of x, admired by x, extramarital affair with x"], 
+      ["乔纳森", "suspected by x"], 
+      ["戴维斯", "extramarital affair with x, romantic relationships with x"], 
+      ["露西•哈里森", "mother of x, possibly extramarital affair with davis"], 
+      ["艾米•摩根", "acquaintance of x, possibly family of x"]
+    ],
+    "杰奎琳": [
+      ["罗宾•费依", "acquaintance of x"], 
+      ["丹尼尔", "acquaintance of x"], 
+      ["佩里", "acquaintance of x"], 
+      ["哈里森", "suspect to x"], 
+      ["玛丽娜", "sibling of x, sister of x"], 
+      ["哈罗德", "sibling of x's spouse, disliked by x"], 
+      ["乔纳森", "sibling of x"], 
+      ["戴维斯", "acquaintance of x, possibly family of x"], 
+      ["露西•哈里森", "perpetrator of x"]
+    ],
+    "哈罗德": [
+      ["罗宾•费依", "acquaintance of x, possible source of x information for x, business of x's family being investigated by x"], 
+      ["丹尼尔", "acquaintance of x, informant of x"], 
+      ["佩里", "acquaintance of x, service provider of x"], 
+      ["哈里森", "wife of x"], 
+      ["玛丽娜", "husband of x, deceiver of x, cheated by x"], 
+      ["杰奎琳", "spouse's sibling of x, disliker of x"], 
+      ["乔纳森", "suspected by x"], 
+      ["戴维斯", "cuckolded by x, possible informant of x"], 
+      ["露西•哈里森", "father of x"], 
+      ["约翰•摩根", "acquaintance of x"], 
+      ["艾米•摩根", "acquaintance of x, information receiver from x"], 
+      ["麦克斯", "acquaintance of x"]
+    ],
+    "乔纳森": [
+      ["罗宾•费依", "child of x's colleague, suspected by x, subject of x investigation for x"], 
+      ["丹尼尔", "son of x, suspect to x, thief of x"], 
+      ["佩里", "child of x"], 
+      ["哈里森", "acquaintance of x, colleague of x, child of x"], 
+      ["玛丽娜", "mother of x"], 
+      ["杰奎琳", "sibling of x"], 
+      ["哈罗德", "suspector of x"], 
+      ["戴维斯", "可能家族的 x"], 
+      ["露西•哈里森", "acquaintance of x, child of x"], 
+      ["约翰•摩根", "suspect of x"], 
+      ["艾米•摩根", "suspected by x"]
+    ],
+    "戴维斯": [
+      ["罗宾•费依", "subject of x investigation for x, suspected by x"], 
+      ["丹尼尔", "suspect of x, lover of x's romantic interest"], 
+      ["佩里", "secret lover of x"], 
+      ["哈里森", "lover of x"], 
+      ["玛丽娜", "extramarital affair with x, romantic relationships with x"], 
+      ["杰奎琳", "acquaintance of x, possibly family of x"], 
+      ["哈罗德", "lover of x's spouse, possible information receiver from x"], 
+      ["乔纳森", "子 x 的情人"], 
+      ["露西•哈里森", "extramarital affair with x"], 
+      ["麦克斯", "extramarital affair with x"]
+    ],
+    "露西•哈里森": [
+      ["罗宾•费依", "acquaintance of x, student of x"], 
+      ["丹尼尔", "acquaintance of x, possible student of x"], 
+      ["佩里", "possibly family of x, admirer of x, student of x"], 
+      ["哈里森", "child of x"], 
+      ["玛丽娜", "child of x"], 
+      ["杰奎琳", "victim of x"], 
+      ["哈罗德", "child of x"], 
+      ["乔纳森", "acquaintance of x, friend of x"], 
+      ["戴维斯", "father's extramarital affair"], 
+      ["约翰•摩根", "acquaintance of x"], 
+      ["艾米•摩根", "possibly family of x"]
+    ],
+    "约翰•摩根": [
+      ["佩里", "victim of x"], 
+      ["哈里森", "perpetrator of x"], 
+      ["哈罗德", "acquaintance of x"], 
+      ["乔纳森", "victim of x"], 
+      ["露西•哈里森", "acquaintance of x"], 
+      ["艾米•摩根", "victim of x"]
+    ],
+    "艾米•摩根": [
+      ["罗宾•费依", "acquaintance of x"], 
+      ["丹尼尔", "acquaintance of x"], 
+      ["佩里", "acquaintance of x"], 
+      ["哈里森", "acquaintance of x"], 
+      ["玛丽娜", "acquaintance of x, possibly family of x"], 
+      ["哈罗德", "acquaintance of x, informant of x"], 
+      ["乔纳森", "suspect of x"], 
+      ["露西•哈里森", "acquaintance of x"], 
+      ["约翰•摩根", "suspected by x"], 
+      ["麦克斯", "information receiver from x, possibly family of x"]
+    ],
+    "麦克斯": [
+      ["丹尼尔", "acquaintance of x, colleague of x"], 
+      ["哈里森", "suspicious of x"], 
+      ["哈罗德", "acquaintance of x"], 
+      ["戴维斯", "lover of x"], 
+      ["约翰·摩根", "suspected by x"], 
+      ["艾米•摩根", "informant of x"]
+    ],
+    "约翰·摩根": [
+      ["麦克斯", "victim of x"]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "石燕": [
+      ["红花夫人", "mentor of x"], 
+      ["杜仲", "enemy of x"]
+    ],
+    "红花夫人": [
+      ["石燕", "student of x"], 
+      ["杜仲", "lover of x, victim of x"]
+    ],
+    "杜仲": [
+      ["石燕", "enemy of x"], 
+      ["红花夫人", "lover of x, victim of x"]
+    ]
+}

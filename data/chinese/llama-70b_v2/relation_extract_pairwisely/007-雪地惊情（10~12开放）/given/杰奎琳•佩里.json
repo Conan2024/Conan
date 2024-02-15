@@ -1,0 +1,54 @@
+{
+    "丹尼尔•佩里": [
+      ["乔纳森•佩里", "husband of x, same person as x (different reference)"], 
+      ["哈罗德•哈里森", "husband of x"], 
+      ["杰奎琳•佩里", "husband and wife of x, business partners of x, co workers of x, suspect and suspicious of x, rival and adversary of x, friend and confidant of x"], 
+      ["玛丽娜•哈里森", "husband of x, same person as x (different reference)"], 
+      ["露西•哈里森", "husband wife of x, business partner of x, co worker of x, acquaintance of x, suspicious of x"], 
+      ["乔纳森•佩里", "哈罗德•哈里森 of x, 玛丽娜•哈里森 of x"]
+    ],
+    "乔纳森•佩里": [
+      ["丹尼尔•佩里", "father of x, same person as x (different reference)"], 
+      ["哈罗德•哈里森", "玛丽娜•哈里森 of x, 丹尼尔•佩里 of x"], 
+      ["玛丽娜•哈里森", "姐妹 of x, co workers of x, business partners of x"], 
+      ["艾莱克斯•哈维", "friend of x"], 
+      ["露西•哈里森", "丹尼尔•佩里 of x, 玛丽娜•哈里森 of x, 哈罗德•哈里森 of x, 艾莱克斯•哈维 of x"]
+    ],
+    "哈罗德•哈里森": [
+      ["丹尼尔•佩里", "wife of x"], 
+      ["乔纳森•佩里", "玛丽娜•哈里森 of x, 丹尼尔•佩里 of x"], 
+      ["杰奎琳•佩里", "姐夫 of x, co workers of x, same person as x (different reference)"], 
+      ["玛丽娜•哈里森", "姐夫 of x, co workers of x, rivals of x"], 
+      ["艾莱克斯•哈维", "coworker of x, classmate of x, friend of x"], 
+      ["露西•哈里森", "husband of x, father of x, son of x, brother of x, friend of x, mentor of x, teacher of x, student of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, attempted perpetrator of x, victim of x"]
+    ],
+    "杰奎琳•佩里": [
+      ["丹尼尔•佩里", "husband and wife of x, business partners of x, co workers of x, suspect and suspicious of x, rival and adversary of x, friend and confidant of x"], 
+      ["哈罗德•哈里森", "姐妹 of x, co workers of x, same person as x (different reference)"], 
+      ["玛丽娜•哈里森", "丈夫 of x, 同事 of x, rival of x, enemy of x"], 
+      ["艾莱克斯•哈维", "acquaintance of x, rival of x, suspects of x, victim of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["丹尼尔•佩里", "wife of x, same person as x (different identity)"], 
+      ["乔纳森•佩里", "哈罗德•哈里森 of x, 丹尼尔•佩里 of x"], 
+      ["乔纳森•佩里", "姐妹 of x, co workers of x, business partners of x"], 
+      ["哈罗德•哈里森", "姐妹 of x, co workers of x, love rivals of x"], 
+      ["杰奎琳•佩里", "姐妹 of x, business partner of x, rival of x, enemy of x"], 
+      ["艾莱克斯•哈维", "丹尼尔•佩里 of x, 哈罗德•哈里森 of x, rival of x, acquaintance of x"], 
+      ["露西•哈里森", "姐妹 of x, co workers of x, roommates of x, classmates of x, schoolmates of x, neighbors of x, friends of x, acquaintances of x"]
+    ],
+    "露西•哈里森": [
+      ["丹尼尔•佩里", "husband wife of x, business partner of x, co worker of x, acquaintance of x, suspicious of x"], 
+      ["乔纳森•佩里", "丹尼尔•佩里 of x, 玛丽娜•哈里森 of x, 哈罗德•哈里森 of x, 艾莱克斯•哈维 of x"], 
+      ["哈罗德•哈里森", "wife of x, mother of x, child of x, sibling of x, brother of x, sister of x, relative of x, nephew of x, aunt of x, uncle of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, attempted perpetrator of x, victim of x"], 
+      ["玛丽娜•哈里森", "姐妹 of x, co workers of x, roommates of x, classmates of x, schoolmates of x, neighbors of x, friends of x, acquaintances of x"], 
+      ["艾莱克斯•哈维", "玛丽娜•哈里森 of x"]
+    ],
+    "艾莱克斯•哈维": [
+      ["乔纳森•佩里", "friend of x"], 
+      ["哈罗德•哈里森", "coworker of x, classmate of x, friend of x"], 
+      ["杰奎琳•佩里", "acquaintance of x, rival of x, suspects of x, victim of x"], 
+      ["玛丽娜•哈里森", "丹尼尔•佩里 of x, 哈罗德•哈里森 of x, friend of x, acquaintance of x"], 
+      ["露西•哈里森", "玛丽娜•哈里森 of x"]
+    ]
+}

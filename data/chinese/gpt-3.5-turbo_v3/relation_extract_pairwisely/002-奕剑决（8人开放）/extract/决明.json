@@ -1,0 +1,126 @@
+{
+    "决明": [
+        [
+            "紫苏",
+            "friend of x"
+        ],
+        [
+            "庄主",
+            "colleague of x"
+        ],
+        [
+            "山庄弟子们",
+            "acquaintance of x"
+        ],
+        [
+            "入山庄的小偷",
+            "crime partner of x"
+        ],
+        [
+            "陆英",
+            "friend of x"
+        ]
+    ],
+    "紫苏": [
+        [
+            "决明",
+            "friend of x"
+        ],
+        [
+            "庄主",
+            "acquaintance of x"
+        ],
+        [
+            "山庄弟子们",
+            "friend of x"
+        ],
+        [
+            "入山庄的小偷",
+            "suspicious of x, acquaintance of x"
+        ]
+    ],
+    "庄主": [
+        [
+            "决明",
+            "colleague of x"
+        ],
+        [
+            "紫苏",
+            "acquaintance of x"
+        ],
+        [
+            "山庄弟子们",
+            "employer of x"
+        ],
+        [
+            "入山庄的小偷",
+            "dislike of x"
+        ],
+        [
+            "陆英",
+            "fiance of x"
+        ]
+    ],
+    "山庄弟子们": [
+        [
+            "决明",
+            "acquaintance of x"
+        ],
+        [
+            "紫苏",
+            "friend of x"
+        ],
+        [
+            "庄主",
+            "employee of x"
+        ],
+        [
+            "入山庄的小偷",
+            "co wives of x"
+        ],
+        [
+            "陆英",
+            "sibling of x"
+        ]
+    ],
+    "入山庄的小偷": [
+        [
+            "决明",
+            "crime partner of x"
+        ],
+        [
+            "紫苏",
+            "suspicious of x, acquaintance of x"
+        ],
+        [
+            "庄主",
+            "thief of x"
+        ],
+        [
+            "山庄弟子们",
+            "co wives of x"
+        ],
+        [
+            "陆英",
+            "suspicious of x"
+        ]
+    ],
+    "陆英": [
+        [
+            "决明",
+            "friend of x"
+        ],
+        [
+            "庄主",
+            "fiancee of x"
+        ],
+        [
+            "山庄弟子们",
+            "sibling of x"
+        ],
+        [
+            "入山庄的小偷",
+            "subject of investigation for x"
+        ]
+    ]
+}

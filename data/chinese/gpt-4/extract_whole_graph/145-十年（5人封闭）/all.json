@@ -1,0 +1,112 @@
+{
+    "赵天虎": [
+        [
+            "钱倩",
+            "subject of investigation for x"
+        ],
+        [
+            "钱大",
+            "suspect to x, helped by x"
+        ],
+        [
+            "黄东",
+            "suspect to x, suspicious of x"
+        ],
+        [
+            "李东强",
+            "informant of x, victim of x, helped by x"
+        ],
+        [
+            "刘瑾",
+            "adversary of x, suspected by x"
+        ],
+        [
+            "任龙",
+            "informant of x, perpetrator of x"
+        ]
+    ],
+    "钱倩": [
+        [
+            "钱大",
+            "sibling of x, brother of x, older brother of x"
+        ],
+        [
+            "李东强",
+            "colleague of x, superior of x, romantic relationships with x"
+        ],
+        [
+            "刘瑾",
+            "colleague of x, romantic relationships with x"
+        ],
+        [
+            "赵天虎",
+            "victim of x"
+        ]
+    ],
+    "钱大": [
+        [
+            "钱倩",
+            "sibling of x, sister of x, younger sister of x"
+        ],
+        [
+            "李东强",
+            "x's sister's superior"
+        ],
+        [
+            "赵天虎",
+            "suspect of x"
+        ],
+        [
+            "任龙",
+            "x's release helper"
+        ]
+    ],
+    "黄东": [
+        [
+            "钱倩",
+            "neighbour of x"
+        ],
+        [
+            "赵天虎",
+            "suspect to x, suspicious of x"
+        ]
+    ],
+    "李东强": [
+        [
+            "钱倩",
+            "subordinate of x, romantic relationships with x"
+        ],
+        [
+            "钱大",
+            "x's subordinate's brother"
+        ],
+        [
+            "赵天虎",
+            "informant of x, victim of x, helped by x"
+        ],
+        [
+            "任龙",
+            "victim of x"
+        ]
+    ],
+    "刘瑾": [
+        [
+            "钱倩",
+            "colleague of x, romantic relationships with x"
+        ],
+        [
+            "赵天虎",
+            "adversary of x, suspect to x"
+        ]
+    ],
+    "任龙": [
+        [
+            "赵天虎",
+            "perpetrator of x"
+        ],
+        [
+            "李东强",
+            "perpetrator of x"
+        ]
+    ]
+}

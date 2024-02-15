@@ -1,0 +1,58 @@
+{
+    "冯双骥": [
+      ["任师父", "mentor of x, saviour of x"], 
+      ["李郁", "extramarital affair with x, likely mother of x's child"], 
+      ["赵万雷", "acquaintance of x, colleague of x, suspect to x, employer of x, perpetrator of x"], 
+      ["赵卫", "adoptive father of x, likely deceiver of x"], 
+      ["赵洛意", "likely father of x, protector of x, admirer of x"], 
+      ["冯竹", "child of x"], 
+      ["尹少鸣", "informant of x"], 
+      ["赵秋儿", "subordinate of x"], 
+      ["齐岳", "colleague of x"], 
+      ["郭望山", "business partner of x, potential victim of x"]
+    ],
+    "任师父": [
+      ["赵万雷", "mentor of x"]
+    ],
+    "李郁": [
+      ["赵万雷", "husband of x"], 
+      ["赵卫", "mother of x"], 
+      ["赵洛意", "mother of x"]
+    ],
+    "赵万雷": [
+      ["李郁", "husband of x"], 
+      ["赵卫", "father of x"], 
+      ["赵洛意", "father of x"], 
+      ["冯竹", "deceived by x"], 
+      ["齐岳", "employer of x"], 
+      ["尹少鸣", "acquaintance of x"], 
+      ["郭望山", "business partner of x"]
+    ],
+    "赵卫": [
+      ["李郁", "mother of x"], 
+      ["赵洛意", "sibling of x"]
+    ],
+    "赵洛意": [
+      ["李郁", "daughter of x"], 
+      ["赵卫", "sibling of x"], 
+      ["赵万雷", "victim of x's deception"]
+    ],
+    "冯竹": [
+      ["赵洛意", "sibling of x"], 
+      ["赵万雷", "possible relative of x, manipulated by x"]
+    ],
+    "尹少鸣": [
+      ["赵万雷", "informant of x"], 
+      ["冯双骥", "information receiver from x"]
+    ],
+    "赵秋儿": [
+      ["李郁", "subordinate of x"], 
+      ["赵洛意", "friend of x"]
+    ],
+    "齐岳": [
+      ["赵万雷", "subordinate of x"]
+    ],
+    "郭望山": [
+      ["赵万雷", "business partner of x"]
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "盖尔·里莫瑞特": [
+      ["汉斯·里莫瑞特医生", "murderer of x, patient of x, possibly family of x, relative of x, wife of x"], 
+      ["德雷克·里莫瑞特", "murderer of x, wife of x, crime partner of x, secret lover of x, extramarital affair with x"], 
+      ["盖尔的父亲", "child of x"], 
+      ["科斯塔护士长", "helper of x, lawyer of x"], 
+      ["罗伯特·凯西", "helper of x, lawyer of x"], 
+      ["吉姆·梅森", "information receiver from x"], 
+      ["伊莱恩·卡特尔", "acquaintance of x"], 
+      ["神父汤姆", "acquaintance of x"], 
+      ["约翰逊", "guest of x"], 
+      ["詹姆斯·菜利", "customer of x, helped by x, customer of x, informant of x, information receiver from x"]
+    ],
+    "汉斯·里莫瑞特医生": [
+      ["盖尔·里莫瑞特", "victim of x, husband of x"], 
+      ["德雷克·里莫瑞特", "murderer of x, husband of x"], 
+      ["盖尔的父亲", "son in law of x"], 
+      ["科斯塔护士长", "superior of x, adversary of x"], 
+      ["罗伯特·凯西", "victim of x"], 
+      ["吉姆·梅森", "perpetrator of x"], 
+      ["伊莱恩·卡特尔", "murderer of x"], 
+      ["詹姆斯·菜利", "victim of x"]
+    ],
+    "德雷克·里莫瑞特": [
+      ["盖尔·里莫瑞特", "husband of x, brother in law of x, crime partner of x, secret lover of x, extramarital affair with x"], 
+      ["汉斯·里莫瑞特医生", "victim of x, sibling of x, extramarital affair with x, biological father of x"], 
+      ["科斯塔护士长", "x's victim's family, extramarital affair with x"], 
+      ["伊莱恩·卡特尔", "husband of x, admired by x, extramarital affair with x"], 
+      ["约翰逊", "guest of x"]
+    ],
+    "盖尔的父亲": [
+      ["盖尔·里莫瑞特", "father of x"], 
+      ["汉斯·里莫瑞特医生", "father in law of x"], 
+      ["科斯塔护士长", "customer of x"], 
+      ["罗伯特·凯西", "patient of x"], 
+      ["吉姆·梅森", "patient of x"], 
+      ["詹姆斯·菜利", "informant of x"]
+    ],
+    "科斯塔护士长": [
+      ["盖尔·里莫瑞特", "customer of x, helped by x"], 
+      ["汉斯·里莫瑞特医生", "subordinate of x, adversary of x"], 
+      ["德雷克·里莫瑞特", "colleague of x"], 
+      ["盖尔的父亲", "service provider of x"], 
+      ["罗伯特·凯西", "in the lawsuit against x, information receiver from x"], 
+      ["伊莱恩·卡特尔", "acquaintance of x"], 
+      ["神父汤姆", "acquaintance of x"]
+    ],
+    "罗伯特·凯西": [
+      ["盖尔·里莫瑞特", "customer of x, patient of x"], 
+      ["汉斯·里莫瑞特医生", "perpetrator of x, patient of x"], 
+      ["盖尔的父亲", "victim of x"], 
+      ["科斯塔护士长", "victim of x, informant of x"], 
+      ["吉姆·梅森", "victim of x"], 
+      ["盖尔•里莫瑞特", "victim of x"], 
+      ["神父汤姆", "patient of x"], 
+      ["约翰逊", "victim of x"], 
+      ["詹姆斯·菜利", "victim of x, patient of x"]
+    ],
+    "吉姆·梅森": [
+      ["盖尔·里莫瑞特", "adversary of x, patient of x"], 
+      ["德雷克·里莫瑞特", "adversary of x"], 
+      ["盖尔的父亲", "doctor of x"], 
+      ["罗伯特·凯西", "perpetrator of x"], 
+      ["伊莱恩·卡特尔", "victim of x"], 
+      ["神父汤姆", "victim of x"], 
+      ["詹姆斯·菜利", "victim of x"]
+    ],
+    "伊莱恩·卡特尔": [
+      ["盖尔·里莫瑞特", "acquaintance of x"], 
+      ["汉斯·里莫瑞特医生", "victim of x"], 
+      ["德雷克·里莫瑞特", "wife of x, murderer of x, lover of x"], 
+      ["科斯塔护士长", "acquaintance of x"], 
+      ["吉姆·梅森", "suspect to x, lawyer of x"], 
+      ["约翰逊", "acquaintance of x, acquaintance of x"], 
+      ["詹姆斯·菜利", "acquaintance of x, information receiver from x"]
+    ],
+    "神父汤姆": [
+      ["盖尔·里莫瑞特", "acquaintance of x"], 
+      ["科斯塔护士长", "acquaintance of x"], 
+      ["约翰逊", "acquaintance of x, guest of x"]
+    ],
+    "约翰逊": [
+      ["盖尔·里莫瑞特", "host of x"], 
+      ["德雷克·里莫瑞特", "host of x"], 
+      ["罗伯特·凯西", "host of x"], 
+      ["吉姆·梅森", "host of x"], 
+      ["伊莱恩·卡特尔", "guest of x"], 
+      ["神父汤姆", "host of x"]
+    ],
+    "詹姆斯·菜利": [
+      ["盖尔·里莫瑞特", "informant of x, helper of x, service provider of x, informant of x"], 
+      ["汉斯·里莫瑞特医生", "informant of x"], 
+      ["盖尔的父亲", "information receiver from x"], 
+      ["罗伯特·凯西", "attempted perpetrator of x, service provider of x"], 
+      ["吉姆·梅森", "informant of x, service provider of x"], 
+      ["伊莱恩·卡特尔", "acquaintance of x, informant of x"]
+    ],
+    "吉姈·梅森": [
+      ["汉斯·里莫瑞特医生", "victim of x"]
+    ],
+    "盖尔•里莫瑞特": [
+      ["罗伯特·凯西", "perpetrator of x"]
+    ]
+}

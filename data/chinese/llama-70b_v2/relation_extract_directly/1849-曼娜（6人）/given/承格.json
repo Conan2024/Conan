@@ -1,0 +1,40 @@
+{
+    "承格": [
+      ["尚致", "friend of x"], 
+      ["吕名然", "acquaintance of x"], 
+      ["谭仁昌", "adopted son of x, enemy of x"], 
+      ["海悠", "no blood relation of x, acquaintance of x"]
+    ],
+    "吕名然": [
+      ["承格", "friend of x, accomplice of x"], 
+      ["尚致", "brother of x, victim of x"], 
+      ["谭仁昌", "father of x, enemy of x"], 
+      ["海悠", "no blood relation of x, acquaintance of x"]
+    ],
+    "谭仁昌": [
+      ["承格", "adopted son of x, enemy of x"], 
+      ["吕名然", "son of x, accomplice of x"], 
+      ["海悠", "foster daughter of x, no blood relation of x"]
+    ],
+    "海悠": [
+      ["承格", "acquaintance of x"], 
+      ["吕名然", "no blood relation of x, acquaintance of x"], 
+      ["谭仁昌", "foster father of x, enemy of x"]
+    ],
+    "尚致": [
+      ["承格", "hallucination of x, deceased of x"], 
+      ["吕名然", "brother of x, victim of x"]
+    ],
+    "廖公子": [
+      ["承格", "acquaintance of x"]
+    ],
+    "韦太太": [
+      ["吕名然", "sister of x"], 
+      ["谭太太", "friend of x"]
+    ],
+    "谭太太": [
+      ["承格", "mother of x"], 
+      ["吕名然", "brother of x"], 
+      ["韦太太", "friend of x"]
+    ]
+}

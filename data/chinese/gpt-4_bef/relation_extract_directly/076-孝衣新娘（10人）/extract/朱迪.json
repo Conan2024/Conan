@@ -1,0 +1,67 @@
+{
+    "朱迪": [
+      ["张得采", "same person as x (different reference)"], 
+      ["姚长寿", "acquaintance of x"], 
+      ["姚仲义", "acquaintance of x"], 
+      ["姚孟仁", "acquaintance of x"], 
+      ["方敏月", "romantic relationships with x, friend of x"], 
+      ["红夫人", "host of x"]
+    ],
+    "张得采": [
+      ["朱迪", "same person as x (different identity)"], 
+      ["姚长寿", "acquaintance of x"], 
+      ["徐夫人", "acquaintance of x"], 
+      ["姚孟仁", "acquaintance of x"], 
+      ["方敏月", "romantic relationships with x, friend of x"], 
+      ["红夫人", "acquaintance of x"]
+    ],
+    "张雅娣": [
+      ["姚长寿", "extramarital affair with x"], 
+      ["姚仲义", "mother of x"], 
+      ["徐夫人", "co wives of x"], 
+      ["姚孟仁", "acquaintance of x"]
+    ],
+    "姚长寿": [
+      ["朱迪", "helped by x"], 
+      ["张得采", "acquaintance of x"], 
+      ["张雅娣", "extramarital affair with x"], 
+      ["姚仲义", "father of x"], 
+      ["徐夫人", "wife of x"], 
+      ["姚孟仁", "father of x"], 
+      ["方乘山", "colleague of x"], 
+      ["红夫人", "wife of x"]
+    ],
+    "姚仲义": [
+      ["张得采", "acquaintance of x"], 
+      ["张雅娣", "son of x"], 
+      ["姚长寿", "son of x"], 
+      ["姚孟仁", "brother of x"]
+    ],
+    "徐夫人": [
+      ["张得采", "acquaintance of x"], 
+      ["张雅娣", "co wives of x"], 
+      ["姚长寿", "wife of x"], 
+      ["姚孟仁", "mother of x"]
+    ],
+    "姚孟仁": [
+      ["朱迪", "acquaintance of x"], 
+      ["张得采", "acquaintance of x"], 
+      ["张雅娣", "acquaintance of x"], 
+      ["姚长寿", "son of x"], 
+      ["姚仲义", "brother of x"], 
+      ["徐夫人", "son of x"]
+    ],
+    "方乘山": [
+      ["方敏月", "father of x"], 
+      ["姚长寿", "colleague of x"]
+    ],
+    "方敏月": [
+      ["朱迪", "romantic relationships with x, friend of x"], 
+      ["张得采", "romantic relationships with x, friend of x"], 
+      ["方乘山", "daughter of x"]
+    ],
+    "红夫人": [
+      ["朱迪", "host of x"], 
+      ["姚长寿", "wife of x"]
+    ]
+}

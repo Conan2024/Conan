@@ -1,0 +1,96 @@
+{
+    "甘玛": [
+      ["甘印", "friend of x, roommate of x, classmate of x, schoolmate of x, neighbour of x, colleague of x, business partner of x"], 
+      ["苗氏", "养育者 of x, 救命恩人 of x, 哥哥/兄长 of x, 巫师/教授 of x"], 
+      ["巫师", "relationship 1: reincarnation of x deceased wife, relationship 2: adopted son of x, relationship 3: master disciple of x, relationship 4: family member of x, relationship 5: friend of x"], 
+      ["如娅", "哥哥/姐姐 of x, 孩子/小姐 of x, 朋友/儿女 of x, 同龄人 of x, 师徒 of x, 养女/养子 of x, 邻居 of x, 遇见 of x"], 
+      ["李高柏", "sibling of x's spouse, teacher of x"], 
+      ["鹃歌", "哥哥/姐妹 of x, 朋友/朋友 of x, compatriots/同期 of x, 师徒/师徒 of x, 丈夫/妻 of x"], 
+      ["教授", "哥哥 of x, 师傅 of x, 巫师 of x, 丈夫 of x, 妻子 of x, 朋友 of x, 弟子 of x, 师弟 of x, 姐姐 of x, 妹妹 of x, 伯父 of x, 姑婆 of x, 孩子 of x, 儿子 of x, 女儿 of x, 外甥 of x, 内甥 of x, 学生 of x, 教育者 of x, 诗人 of x, composer of x, mountain spirit of x, 静修 of x"], 
+      ["忱纱", "brother and sister of x, childhood friends of x, classmates of x, friends of x, juniors of x"]
+    ],
+    "甘印": [
+      ["甘玛", "friend of x, roommate of x, classmate of x, schoolmate of x, neighbour of x, colleague of x, business partner of x"], 
+      ["巴府山", "哥哥 of x, 巫师 of x, 如娅 of x, 李高柏 of x, 鹃歌 of x"], 
+      ["苗氏", "相关的人物 of x"], 
+      ["巫师", "relative of x, child of x"], 
+      ["如娅", "哥哥 of x, 师妹 of x, 兄long lost sister of x"], 
+      ["李高柏", "acquaintance of x, schoolmate of x, neighbour of x, friend of x, mentor of x, helper of x, savior of x"], 
+      ["鹃歌", "哥哥 of x, 师妹 of x, 巫师 of x, 亲family member of x, 疏远朋友 of x"], 
+      ["教授", "哥哥 of x, 师傅 of x, 受降者 of x, 巫师 of x, 伙伴 of x, 朋友 of x, 妹妹 of x, 弟弟 of x, 姐姐 of x, 兄长 of x, 弟子 of x, 叔叔 of x, 阿姨 of x, 姨妈 of x, 妈妈 of x, 父母 of x, 亲亲 of x, 家人 of x"], 
+      ["忱纱", "relative of x, childhood friend of x"]
+    ],
+    "巴府山": [
+      ["甘印", "哥哥 of x, 巫师 of x, 如娅 of x, 李高柏 of x, 鹃歌 of x"], 
+      ["苗氏", "father in law of x, grandfather of x"], 
+      ["如娅", "father of x, father in law of x"], 
+      ["李高柏", "father in law of x"], 
+      ["教授", "父親 of x, 岳父 of x, 大對� manifestation of x"]
+    ],
+    "苗氏": [
+      ["甘玛", "养育者 of x, 救命恩人 of x, 妈妈/家人 of x, 巫师/教授 of x"], 
+      ["甘印", "相关的人物 of x"], 
+      ["巴府山", "mother in law of x, grandmother of x"], 
+      ["巫师", "wife of x, disciple of x, successor of x"], 
+      ["李高柏", "master of x, friend of x"], 
+      ["教授", "husband's employer of x, woman who bought the '薄板棺材' of x, mother of x 如娅"], 
+      ["忱纱", "wife of x older brother, mother of x sister in law"]
+    ],
+    "巫师": [
+      ["甘玛", "relationship 1: deceased wife's reincarnation of x, relationship 2: adopted father of x, relationship 3: master disciple of x, relationship 4: family member of x, relationship 5: friend of x"], 
+      ["甘印", "teacher of x, father in law of x"], 
+      ["巴府山", "father in law of x, master disciple of x"], 
+      ["苗氏", "husband of x, master of x, predecessor of x"], 
+      ["如娅", "friend of x, mentor of x, teacher of x"], 
+      ["教授", "父親 of x, 兄長 of x, 輔助者 of x"], 
+      ["忱纱", "friend of x, mentor of x, teacher of x, classmate of x, schoolmate of x"]
+    ],
+    "如娅": [
+      ["甘玛", "哥哥/姐姐 of x, 孩子/小姐 of x, 朋友/儿女 of x, 同龄人 of x, 师徒 of x, 养女/养子 of x, 邻居 of x, 遇见 of x"], 
+      ["甘印", "哥哥 of x, 师妹 of x, long lost sister of x"], 
+      ["巴府山", "daughter of x, sister in law of x"], 
+      ["巫师", "friend of x, mentor of x, teacher of x"], 
+      ["李高柏", "family member of x, friend of x"], 
+      ["鹃歌", "friend of x, confidant of x, partner in crime of x, accomplice of x, ally of x"], 
+      ["教授", "relation1 of x, relation2 of x"], 
+      ["忱纱", "acquaintance of x, classmate of x"]
+    ],
+    "李高柏": [
+      ["甘玛", "student of x, sibling of x's spouse"], 
+      ["甘印", "acquaintance of x, schoolmate of x, neighbour of x, friend of x, mentor of x, helper of x, savior of x"], 
+      ["巴府山", "son in law of x"], 
+      ["苗氏", "master of x, friend of x"], 
+      ["如娅", "family member of x, friend of x"], 
+      ["鹃歌", "romantic interest of x, rival in love of x"], 
+      ["忱纱", "friend of x"]
+    ],
+    "鹃歌": [
+      ["甘玛", "哥哥/姐妹 of x, 朋友/朋友 of x, compatriots/同期 of x, 师徒/师徒 of x, 丈夫/妻 of x"], 
+      ["甘印", "哥哥 of x, 潜在lov interest of x, 巫师 of x, 亲family member of x, 疏远朋友 of x"], 
+      ["如娅", "friend of x, confidant of x, partner in crime of x, accomplice of x, ally of x"], 
+      ["李高柏", "romantic interest of x, rival in love of x"], 
+      ["忱纱", "friend of x, fellow apprentice of x"]
+    ],
+    "教授": [
+      ["甘玛", "哥哥 of x, 师傅 of x, 巫师 of x, 丈夫 of x, 妻子 of x, 朋友 of x, 弟子 of x, 师弟 of x, 姐姐 of x, 妹妹 of x, 伯父 of x, 姑婆 of x, 孩子 of x, 儿子 of x, 女儿 of x, 外甥 of x, 内甥 of x, 学生 of x, 教育者 of x, 诗人 of x, composer of x, mountain spirit of x, 静修 of x"], 
+      ["甘印", "哥哥 of x, 师傅 of x, 受降者 of x, 巫师 of x, 伙伴 of x, 朋友 of x, 妹妹 of x, 弟弟 of x, 姐姐 of x, 兄长 of x, 弟子 of x, 叔叔 of x, 阿姨 of x, 姨妈 of x, 妈妈 of x, 父母 of x, 亲亲 of x, 家人 of x"], 
+      ["巴府山", "徒弟 of x, 弟子 of x, 導師 of x"], 
+      ["苗氏", "employer of x 鬼印, man who sent his daughter 忱纱 to seek medical treatment of x"], 
+      ["巫师", "兄長 of x, 父親 of x, 輔助者 of x"], 
+      ["如娅", "relation1 of x, relation2 of x"], 
+      ["忱纱", "相关的人物 of x"]
+    ],
+    "忱纱": [
+      ["甘玛", "brother and sister of x, childhood friends of x, classmates of x, friends of x, juniors of x"], 
+      ["甘印", "relative of x, childhood friend of x"], 
+      ["苗氏", "apprentice of x mentor, daughter of x educator"], 
+      ["巫师", "friend of x, mentor of x, teacher of x, classmate of x, schoolmate of x"], 
+      ["如娅", "acquaintance of x, classmate of x"], 
+      ["李高柏", "friend of x"], 
+      ["鹃歌", "spouse of x, friend of x, fellow apprentice of x"], 
+      ["教授", "相关的人物 of x"]
+    ],
+    "バフー山": [
+      ["巫师", "husband of x daughter, father in law of x, master disciple of x"]
+    ]
+}

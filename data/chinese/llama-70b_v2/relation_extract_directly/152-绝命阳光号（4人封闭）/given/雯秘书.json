@@ -1,0 +1,41 @@
+{
+    "雯秘书": [
+      ["杨老板", "employee of x, subordinate of x, adversary of x, murderer of x"], 
+      ["很天真", "colleague of x, inferior of x, deceased of x, victim of x"], 
+      ["玲船医", "acquaintance of x, informant of x, potential ally of x, helper of x"], 
+      ["王船工", "acquaintance of x, potential ally of x, son of x potential enemy, helped of x"], 
+      ["王小工", "acquaintance of x, potential enemy of x, son of x potential ally, helped of x"]
+    ],
+    "杨老板": [
+      ["雯秘书", "employee of x, confidant of x, adversary of x, victim of x"], 
+      ["很天真", "colleague of x, subordinate of x, deceased of x"], 
+      ["玲船医", "acquaintance of x, informant of x, potential ally of x"], 
+      ["王船工", "acquaintance of x, potential ally of x, son of x potential enemy"], 
+      ["王小工", "acquaintance of x, potential enemy of x, son of x potential ally"]
+    ],
+    "很天真": [
+      ["雯秘书", "colleague of x, inferior of x, deceased of x"], 
+      ["杨老板", "colleague of x, supervisor of x, adversary of x"], 
+      ["玲船医", "acquaintance of x"], 
+      ["王船工", "acquaintance of x"], 
+      ["王小工", "acquaintance of x"]
+    ],
+    "玲船医": [
+      ["雯秘书", "acquaintance of x, informant of x, potential ally of x, helper of x"], 
+      ["杨老板", "acquaintance of x, customer of x, adversary of x"], 
+      ["王船工", "acquaintance of x"], 
+      ["王小工", "acquaintance of x"]
+    ],
+    "王船工": [
+      ["雯秘书", "acquaintance of x, potential ally of x, son of x potential enemy"], 
+      ["杨老板", "acquaintance of x, potential ally of x, father of x potential enemy"], 
+      ["玲船医", "acquaintance of x"], 
+      ["王小工", "son of x, potential enemy of x"]
+    ],
+    "王小工": [
+      ["雯秘书", "acquaintance of x, potential enemy of x, son of x potential ally"], 
+      ["杨老板", "acquaintance of x, potential ally of x, father of x potential enemy"], 
+      ["玲船医", "acquaintance of x"], 
+      ["王船工", "father of x, potential ally of x"]
+    ]
+}

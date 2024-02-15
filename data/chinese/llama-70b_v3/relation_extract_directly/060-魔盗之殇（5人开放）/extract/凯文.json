@@ -1,0 +1,26 @@
+{
+    "凯文": [
+      ["罗琳", "sister of x"], 
+      ["戴维", "colleague of x, rival of x"], 
+      ["艾拉", "enemy of x"], 
+      ["古思特", "mentor of x"]
+    ],
+    "罗琳": [
+      ["凯文", "sister of x"], 
+      ["戴维", "colleague of x, rival of x"], 
+      ["古思特", "mentor of x"]
+    ],
+    "戴维": [
+      ["凯文", "colleague of x, rival of x"], 
+      ["罗琳", "colleague of x, rival of x"], 
+      ["古思特", "mentor of x"]
+    ],
+    "艾拉": [
+      ["凯文", "enemy of x"]
+    ],
+    "古思特": [
+      ["凯文", "mentor of x"], 
+      ["罗琳", "mentor of x"], 
+      ["戴维", "mentor of x"]
+    ]
+}

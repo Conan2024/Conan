@@ -1,0 +1,51 @@
+{
+    "郑函贞": [
+      ["隼", "acquaintance of x"], 
+      ["忱纱", "husband of x"], 
+      ["巴府山", "guest of x"], 
+      ["鹃歌", "lover of x"], 
+      ["鬼印", "rival of x"]
+    ],
+    "忱纱": [
+      ["郑函贞", "husband of x"], 
+      ["巴府山", "friend of x"], 
+      ["鹃歌", "lover of x"], 
+      ["鬼印", "rival of x"]
+    ],
+    "巴府山": [
+      ["郑函贞", "guest of x"], 
+      ["忱纱", "friend of x"], 
+      ["鹃歌", "daughter of x, rival of x"], 
+      ["鬼印", "rival of x"]
+    ],
+    "鹃歌": [
+      ["郑函贞", "lover of x"], 
+      ["巴府山", "father of x"], 
+      ["鬼印", "rival of x"]
+    ],
+    "鬼印": [
+      ["郑函贞", "rival of x"], 
+      ["忱纱", "rival of x"], 
+      ["鹃歌", "rival of x"]
+    ],
+    "隼": [
+      ["郑函贞", "acquaintance of x"], 
+      ["忱纱", "brother of x"]
+    ],
+    "如娅": [
+      ["李高柏", "wife of x"], 
+      ["甘玛", "sister of x"]
+    ],
+    "甘玛": [
+      ["李高柏", "husband of x"], 
+      ["如娅", "sister of x"]
+    ],
+    "李高柏": [
+      ["如娅", "wife of x"], 
+      ["甘玛", "husband of x"]
+    ],
+    "忱纱之父": [
+      ["郑函贞", "father in law of x"], 
+      ["忱纱", "father of x"]
+    ]
+}

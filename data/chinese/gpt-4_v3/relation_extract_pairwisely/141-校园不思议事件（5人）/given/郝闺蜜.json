@@ -1,0 +1,32 @@
+{
+    "郝闺蜜": [
+        [
+            "表姐",
+            "admired by x, quest companion of x, victim of x, cousin of x, possibly family of x"
+        ],
+        [
+            "林校花",
+            "friend of x, fiancee of x, adversary of x, victim of x"
+        ]
+    ],
+    "表姐": [
+        [
+            "郝闺蜜",
+            "admirer of x, quest companion of x, perpetrator of x, cousin of x, possibly family of x"
+        ],
+        [
+            "林校花",
+            "victim of x"
+        ]
+    ],
+    "林校花": [
+        [
+            "郝闺蜜",
+            "friend of x, victim of x, stranger to x"
+        ],
+        [
+            "表姐",
+            "stranger to x"
+        ]
+    ]
+}

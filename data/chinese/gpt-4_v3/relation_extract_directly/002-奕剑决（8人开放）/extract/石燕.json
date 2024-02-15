@@ -1,0 +1,58 @@
+{
+    "武林盟使•石燕": [
+        [
+            "红花夫人",
+            "adoptive mother of x, mentor of x"
+        ],
+        [
+            "杜仲",
+            "victim of x, enemy of x, deceiver of x"
+        ],
+        [
+            "陆英",
+            "acquaintance of x"
+        ]
+    ],
+    "红花夫人": [
+        [
+            "武林盟使•石燕",
+            "student of x, adoptive mother of x"
+        ],
+        [
+            "杜仲",
+            "ex romantic relationships with x, betrayed by x"
+        ],
+        [
+            "陆英",
+            "acquaintance of x, possibly family of x"
+        ]
+    ],
+    "杜仲": [
+        [
+            "武林盟使•石燕",
+            "murderer of x, deceived by x"
+        ],
+        [
+            "红花夫人",
+            "ex romantic relationships with x, betrayer of x"
+        ],
+        [
+            "陆英",
+            "colleague of x, possibly family of x"
+        ]
+    ],
+    "陆英": [
+        [
+            "武林盟使•石燕",
+            "acquaintance of x"
+        ],
+        [
+            "红花夫人",
+            "acquaintance of x, possibly family of x"
+        ],
+        [
+            "杜仲",
+            "colleague of x, possibly family of x"
+        ]
+    ]
+}

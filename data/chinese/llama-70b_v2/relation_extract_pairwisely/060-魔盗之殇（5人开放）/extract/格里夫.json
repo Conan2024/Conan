@@ -1,0 +1,34 @@
+{
+    "剧务戴维": [
+      ["宣传罗琳", "acquaintance of x, collaborator of x, mutual of x, friend of x"], 
+      ["保安凯文", "对处理古思特的嫌疑 of x, 怀疑each other of x"], 
+      ["古斯特", "colleague of x, business partner of x"]
+    ],
+    "宣传罗琳": [
+      ["剧务戴维", "acquaintance of x, collaborator of x, mutual of x, friend of x"], 
+      ["保安凯文", "对手 of x, 敌人 of x"], 
+      ["艾拉", "friend of x, colleague of x"], 
+      ["古斯特", "colleague of x, business partner of x, acquaintance of x, friend of x"]
+    ],
+    "艾拉": [
+      ["剧务戴维", "friend of x, acquaintance of x, collaborator of x"], 
+      ["宣传罗琳", "friend of x, colleague of x"], 
+      ["保安凯文", "fellow performer of x, possible accomplice of x, owed money of x, shared history of x"], 
+      ["古斯特", "colleague of x, acquaintance of x, fellow criminal of x"]
+    ],
+    "凯文": [
+      ["剧务戴维", "enemy of x, rival of x, suspect of x"]
+    ],
+    "保安凯文": [
+      ["剧务戴维", "对处理古思特的嫌疑 of x, 怀疑each other of x"], 
+      ["宣传罗琳", "对手 of x, 敌人 of x"], 
+      ["艾拉", "fellow performer of x, possible accomplice of x, potential ally of x, shared history of x"], 
+      ["古斯特", "collaborator of x, suspect of x"]
+    ],
+    "古斯特": [
+      ["剧务戴维", "colleague of x, business partner of x"], 
+      ["宣传罗琳", "colleague of x, business partner of x, acquaintance of x, friend of x"], 
+      ["保安凯文", "co conspirator of x, rival of x"], 
+      ["艾拉", "colleague of x, acquaintance of x, fellow criminal of x"]
+    ]
+}

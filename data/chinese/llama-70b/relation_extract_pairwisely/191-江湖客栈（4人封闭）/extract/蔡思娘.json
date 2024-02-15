@@ -1,0 +1,75 @@
+{
+    "蔡思娘": [
+        [
+            "孟三春",
+            "friend-rival, unrequited love, suspect-suspicious, perpetrator-victim, co-workers"
+        ],
+        [
+            "张金银",
+            "friend, mentor"
+        ],
+        [
+            "张红生",
+            "Friend/Acquaintance, Suspect of murder, and Potential Love Interest"
+        ]
+    ],
+    "孟三春": [
+        [
+            "蔡思娘",
+            "friend-rival, unrequited love, suspect-suspicious, perpetrator-victim, co-workers"
+        ],
+        [
+            "张金银",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "张红生",
+            "蔡思娘"
+        ]
+    ],
+    "张金银": [
+        [
+            "蔡思娘",
+            "friend, mentor"
+        ],
+        [
+            "孟三春",
+            "relationship 1, relationship 2"
+        ],
+        "Wife of X",
+        [
+            "洪江水",
+            "Colleague",
+            "Business Partner"
+        ]
+    ],
+    "张红生": [
+        [
+            "蔡思娘",
+            "Friend/Acquaintance, Suspected murderer, and Potential Love Interest"
+        ],
+        [
+            "孟三春",
+            "蔡思娘"
+        ],
+        [
+            "洪江水",
+            " Husband of X "
+        ]
+    ],
+    "洪江水": [
+        [
+            "蔡思娘",
+            "Rival, Enemy"
+        ],
+        [
+            "张金银",
+            "Colleague",
+            "Business Partner"
+        ],
+        [
+            "张红生",
+            "Wife of X "
+        ]
+    ]
+}

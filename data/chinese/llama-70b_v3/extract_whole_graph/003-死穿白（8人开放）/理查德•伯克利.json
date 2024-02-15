@@ -1,0 +1,32 @@
+{
+    "理查德·伯克利": [
+      ["帕洛斯基·医生", "business partner of x"], 
+      ["伊莱恩·卡特", "colleague of x"], 
+      ["德雷克·里莫瑞特", "colleague of x, business partner of x"], 
+      ["小偷", "business partner of x, employer of x"]
+    ],
+    "帕洛斯基·医生": [
+      ["理查德·伯克利", "business partner of x"]
+    ],
+    "伊莱恩·卡特": [
+      ["理查德·伯克利", "colleague of x"]
+    ],
+    "德雷克·里莫瑞特": [
+      ["理查德·伯克利", "colleague of x, business partner of x"], 
+      ["小偷", "business partner of x, employer of x"]
+    ],
+    "小偷": [
+      ["理查德·伯克利", "business partner of x, employer of x"], 
+      ["德雷克·里莫瑞特", "business partner of x, employer of x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["理查德·伯克利", "enemy of x"], 
+      ["帕洛斯基·医生", "friend of x, colleague of x"]
+    ],
+    "西尔维亚·科斯塔": [
+      ["理查德·伯克利", "colleague of x, older sister of x"]
+    ],
+    "神父汤姆": [
+      ["理查德·伯克利", "friend of x, colleague of x"]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "于彦诚": [
+      ["乐婉", "lover of x"], 
+      ["张太太", "friend of x"], 
+      ["张俊诗", "brother in law of x"], 
+      ["葛月曼", "friend of x"], 
+      ["葛月萝", "sister in law of x"], 
+      ["吕松年", "acquaintance of x"], 
+      ["薛玉帆", "adversary of x"]
+    ],
+    "乐婉": [
+      ["于彦诚", "lover of x"], 
+      ["张太太", "friend of x"]
+    ],
+    "张太太": [
+      ["于彦诚", "friend of x"], 
+      ["张俊诗", "husband of x"], 
+      ["葛月曼", "friend of x"]
+    ],
+    "张俊诗": [
+      ["于彦诚", "brother in law of x"], 
+      ["张太太", "husband of x"]
+    ],
+    "葛月曼": [
+      ["于彦诚", "friend of x"], 
+      ["葛月萝", "daughter of x"]
+    ],
+    "葛月萝": [
+      ["于彦诚", "sister in law of x"], 
+      ["葛月曼", "mother of x"]
+    ],
+    "吕松年": [
+      ["于彦诚", "acquaintance of x"], 
+      ["张太太", "friend of x"]
+    ],
+    "薛玉帆": [
+      ["于彦诚", "adversary of x"]
+    ]
+}

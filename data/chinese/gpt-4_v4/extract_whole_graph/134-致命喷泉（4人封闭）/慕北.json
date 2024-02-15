@@ -1,0 +1,23 @@
+{
+    "慕北": [
+      ["同事", "colleague of x"], 
+      ["李国富", "colleague of x, victim of x, suspect of x"], 
+      ["何老六", "colleague of x, suspected by x"], 
+      ["张洁", "colleague of x, friend of x"]
+    ],
+    "李国富": [
+      ["慕北", "colleague of x, relative of x"], 
+      ["张洁", "subordinate of x"], 
+      ["何老六", "subordinate of x"]
+    ],
+    "何老六": [
+      ["慕北", "colleague of x"], 
+      ["张洁", "colleague of x"], 
+      ["李国富", "superior of x"]
+    ],
+    "张洁": [
+      ["慕北", "colleague of x, friend of x"], 
+      ["李国富", "superior of x"], 
+      ["何老六", "colleague of x"]
+    ]
+}

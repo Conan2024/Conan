@@ -1,0 +1,36 @@
+{
+    "廖公子": [
+      ["红儿", "borrower of x, benefactor of x"], 
+      ["孤儿院", "borrower of x, grateful of x"], 
+      ["谭仁昌", "adversary of x, enemy of x"], 
+      ["谭太太", "sister in law of x, uncertain of x"]
+    ],
+    " red child": [
+      ["廖公子", "lender of x, benefactor of x"], 
+      ["孤儿院", "borrower of x, grateful of x"]
+    ],
+    "孤儿院": [
+      ["廖公子", "borrower of x, grateful of x"], 
+      [" red child", "borrower of x, grateful of x"]
+    ],
+    "谭太太": [
+      ["廖公子", "adversary of x, enemy of x"], 
+      ["谭仁昌", "husband of x, manipulator of x"]
+    ],
+    "谭仁昌": [
+      ["廖公子", "adversary of x, enemy of x"], 
+      ["吕名然", "friend of x, accomplice of x"]
+    ],
+    "尚致": [
+      ["谭仁昌", "acquaintance of x, uncertain of x"]
+    ],
+    "承格": [
+      ["谭仁昌", "father of x, adopted of x"]
+    ],
+    "斯文男人": [
+      ["吕名然", "friend of x, accomplice of x"]
+    ],
+    "海悠": [
+      ["廖公子", "ally of x, benefactor of x"]
+    ]
+}

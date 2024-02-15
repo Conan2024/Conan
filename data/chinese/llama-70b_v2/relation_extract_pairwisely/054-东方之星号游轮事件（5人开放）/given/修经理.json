@@ -1,0 +1,54 @@
+{
+    "修仁杰": [
+      ["修经理", "business partner of x, co conspirator of x"], 
+      ["刘奇", "business partner of x, criminal accomplice of x"], 
+      ["张文远", "相互怀疑 of x"], 
+      ["林若彤", "relationship 1: x is the leader of x the criminal organization that x is a member of x, they are both involved in the illegal drug trade on the ship of x, relationship 2: x is the one who killed 刘奇 and framed x for the crime, they have a complicated and deceitful relationship of x"], 
+      ["韩亦暮", "acquaintance of x, business partner of x, co conspirator in crime of x, fellow smuggler of x, friend of x, information receiver from x, neighbor of x, suspect of x's murder"]
+    ],
+    "修经理": [
+      ["修仁杰", "business partner of x, co conspirator of x"], 
+      ["刘奇", "business partner of x, accomplice of x, rival of x"], 
+      ["张文远", "friend of x"], 
+      ["林若彤", "relationship 1: 她是隶属于你酒吧的 of x, relationship 2: 她对你颇有好感 of x"], 
+      ["韩亦暮", "friend of x"]
+    ],
+    "刘奇": [
+      ["修仁杰", "business partner of x, criminal accomplice of x"], 
+      ["修经理", "business partner of x, accomplice of x, rival of x"], 
+      ["张文远", "classmate of x, business partner of x, co conspirator in illegal activities of x, rival/enemy of x, person who betrayed/deceived me of x"], 
+      ["林若彤", "relationship 1: business partner of x, relationship 2: acquaintance of x"], 
+      ["洪子廉", "classmate of x, acquaintance of x, co conspirator in illegal activities of x"], 
+      ["韩亦暮", "classmate of x, business partner of x, co conspirator in drug trafficking of x"]
+    ],
+    "张文远": [
+      ["修仁杰", "相互怀疑 of x"], 
+      ["修经理", "friend of x"], 
+      ["刘奇", "classmate of x, business partner of x, co conspirator in illegal activities of x, rival/enemy of x, person who betrayed/deceived me of x"], 
+      ["林若彤", "同事关系 of x"], 
+      ["洪子廉", "业务 партнер of x"], 
+      ["韩亦暮", "business partner of x, co conspirator of x"]
+    ],
+    "林若彤": [
+      ["修仁杰", "relationship 1: x is a member of x the criminal organization led by x, they are both involved in the illegal drug trade on the ship of x, relationship 2: x is the victim of x's manipulation and deceit, x killed 刘奇 and framed x for the crime"], 
+      ["修经理", "relationship 1: 她是隶属于你酒吧的 of x, relationship 2: 她对你颇有好感 of x"], 
+      ["刘奇", "relationship 1: business partner of x, relationship 2: acquaintance of x"], 
+      ["张文远", "直接领导关系 of x"], 
+      ["洪子廉", "enemy of x, rival of x, manipulator of x, victim of x"], 
+      ["韩亦暮", "acquaintance of x, colleague of x, business partner of x"]
+    ],
+    "韩亦暮": [
+      ["修仁杰", "acquaintance of x, business partner of x, co conspirator in crime of x, fellow smuggler of x, friend of x, information receiver from x, neighbor of x, suspect of x's murder"], 
+      ["修经理", "friend of x"], 
+      ["刘奇", "classmate of x, business partner of x, co conspirator in drug trafficking of x"], 
+      ["张文远", "business partner of x, co conspirator of x"], 
+      ["林若彤", "acquaintance of x, colleague of x, business partner of x"], 
+      ["洪子廉", "acquaintance of x, business partner of x, co conspirator of x"]
+    ],
+    "洪子廉": [
+      ["刘奇", "classmate of x, acquaintance of x, co conspirator in illegal activities of x"], 
+      ["张文远", "业务 parcours of x"], 
+      ["林若彤", "enemy of x, rival of x, manipulator of x, bully of x"], 
+      ["韩亦暮", "acquaintance of x, business partner of x, co conspirator of x"]
+    ]
+}

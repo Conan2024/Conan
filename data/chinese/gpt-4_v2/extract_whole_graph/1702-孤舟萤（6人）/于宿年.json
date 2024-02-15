@@ -1,0 +1,69 @@
+{
+    "于宿年": [
+      ["于氏", "sister of x"], 
+      ["周蒙当", "brother in law of x"], 
+      ["周持同", "nephew of x"], 
+      ["琏逸", "nephew of x"], 
+      ["崔寿亨", "suspected by x, victim of x"], 
+      ["太太（汪氏）", "acquaintance of x"], 
+      ["嫣楠", "playmate of x, romantic relationships with x"], 
+      ["昔颜", "acquaintance of x"]
+    ],
+    "于氏": [
+      ["周蒙当", "husband of x"], 
+      ["周持同", "son of x"], 
+      ["琏逸", "son of x"], 
+      ["崔寿亨", "employer of x, suspected by x"], 
+      ["太太（汪氏）", "former servant of x"], 
+      ["于宿年", "brother of x"], 
+      ["嫣楠", "acquaintance of x"], 
+      ["昔颜", "acquaintance of x"]
+    ],
+    "周蒙当": [
+      ["于氏", "wife of x"], 
+      ["周持同", "son of x"], 
+      ["琏逸", "son of x"], 
+      ["于宿年", "brother in law of x"], 
+      ["崔寿亨", "acquaintance of x"], 
+      ["昔颜", "acquaintance of x"]
+    ],
+    "周持同": [
+      ["周蒙当", "father of x"], 
+      ["于氏", "mother of x"], 
+      ["于宿年", "uncle of x"], 
+      ["崔寿亨", "acquaintance of x"], 
+      ["琏逸", "brother of x"]
+    ],
+    "琏逸": [
+      ["周蒙当", "father of x"], 
+      ["于氏", "mother of x"], 
+      ["于宿年", "uncle of x"], 
+      ["嫣楠", "playmate of x"], 
+      ["周持同", "brother of x"]
+    ],
+    "嫣楠": [
+      ["崔寿亨", "father of x"], 
+      ["太太（汪氏）", "mother of x"], 
+      ["昔颜", "step mother of x"], 
+      ["于宿年", "playmate of x, romantic relationships with x"], 
+      ["琏逸", "playmate of x"]
+    ],
+    "昔颜": [
+      ["崔寿亨", "concubine of x"], 
+      ["嫣楠", "step mother of x"], 
+      ["于宿年", "acquaintance of x"], 
+      ["太太（汪氏）", "sister of x"]
+    ],
+    "崔寿亨": [
+      ["嫣楠", "father of x"], 
+      ["昔颜", "husband of x"], 
+      ["于宿年", "suspected by x, perpetrator of x"], 
+      ["于氏", "employer of x"], 
+      ["周蒙当", "acquaintance of x"]
+    ],
+    "太太（汪氏）": [
+      ["崔寿亨", "wife of x"], 
+      ["嫣楠", "mother of x"], 
+      ["于氏", "former servant of x"]
+    ]
+}

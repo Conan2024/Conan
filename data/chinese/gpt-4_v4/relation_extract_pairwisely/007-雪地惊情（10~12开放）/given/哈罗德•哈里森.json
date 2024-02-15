@@ -1,0 +1,64 @@
+{
+    "哈罗德•哈里森": [
+      ["玛丽娜•哈里森", "suspicious of x, betrayer of x, suspect of x, wife of x"], 
+      ["露西•哈里森", "relative of x, relative of x"], 
+      ["艾米•摩根", "x's victim's family, sister of x, suspected by x, x's victim's family"], 
+      ["约翰•摩根", "acquaintance of x, brother in law of x"], 
+      ["杰奎琳•佩里", "business partner of x, colleague of x, sister in law of x"], 
+      ["麦克斯•派克", "acquaintance of x, suspect of x"], 
+      ["安娜", "ex wife of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["哈罗德•哈里森", "betrayer of x, suspected by x, husband of x"], 
+      ["露西•哈里森", "mother of x"], 
+      ["艾米•摩根", "sister in law of x"], 
+      ["约翰•摩根", "brother in law of x, possibly family of x"], 
+      ["杰奎琳•佩里", "same person as x (different identity), business partner of x"], 
+      ["麦克斯•派克", "extramarital affair with x, suspected by x"], 
+      ["安娜", "wife of x, extramarital affair with x, possibly family of x"]
+    ],
+    "露西•哈里森": [
+      ["哈罗德•哈里森", "adoptive daughter of x, step daughter of x"], 
+      ["玛丽娜•哈里森", "child of x"], 
+      ["艾米•摩根", "aunt of x, x's victim's family"], 
+      ["约翰•摩根", "mother in law of x, mother in law of x, suspected by x"], 
+      ["杰奎琳•佩里", "aunt of x, colleague of x"], 
+      ["麦克斯•派克", "acquaintance of x"]
+    ],
+    "艾米•摩根": [
+      ["哈罗德•哈里森", "sibling of x, x's victim's family"], 
+      ["玛丽娜•哈里森", "sister in law of x"], 
+      ["露西•哈里森", "perpetrator of x's family, niece of x"], 
+      ["约翰•摩根", "wife of x"], 
+      ["杰奎琳•佩里", "sister in law of x"], 
+      ["安娜", "same person as x (different identity), ex wife of x"]
+    ],
+    "约翰•摩根": [
+      ["哈罗德•哈里森", "sister in law of x, acquaintance of x"], 
+      ["玛丽娜•哈里森", "sister in law of x, possibly family of x"], 
+      ["露西•哈里森", "son of x, daughter of x, suspect to x"], 
+      ["艾米•摩根", "wife of x"], 
+      ["杰奎琳•佩里", "brother in law of x"], 
+      ["安娜", "ex wife of x"]
+    ],
+    "杰奎琳•佩里": [
+      ["哈罗德•哈里森", "business partner of x, colleague of x, brother in law of x"], 
+      ["玛丽娜•哈里森", "same person as x (different identity), business partner of x"], 
+      ["露西•哈里森", "colleague of x, niece of x"], 
+      ["艾米•摩根", "sister in law of x"], 
+      ["约翰•摩根", "sister in law of x"], 
+      ["麦克斯•派克", "acquaintance of x"]
+    ],
+    "麦克斯•派克": [
+      ["哈罗德•哈里森", "acquaintance of x, suspected by x"], 
+      ["玛丽娜•哈里森", "suspected by x"], 
+      ["露西•哈里森", "acquaintance of x"], 
+      ["杰奎琳•佩里", "acquaintance of x"]
+    ],
+    "安娜": [
+      ["哈罗德•哈里森", "ex husband of x"], 
+      ["玛丽娜•哈里森", "same person as x (different identity)"], 
+      ["艾米•摩根", "same person as x (different identity), ex husband of x"], 
+      ["约翰•摩根", "ex husband of x"]
+    ]
+}

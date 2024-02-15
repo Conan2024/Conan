@@ -1,0 +1,132 @@
+{
+    "张洁": [
+        [
+            "爸爸",
+            "father of x"
+        ],
+        [
+            "妈妈",
+            "mother of x"
+        ],
+        [
+            "同性交友的微信群",
+            "acquaintance of x"
+        ],
+        [
+            "李国富",
+            "acquaintance of x, colleague of x, victim of x, crime partner of x, mentor of x, enemy of x, hated by x, suspected by x, adversary of x"
+        ],
+        [
+            "何老六",
+            "acquaintance of x, colleague of x, crime partner of x"
+        ],
+        [
+            "喜欢的姑娘",
+            "admirer of x"
+        ],
+        [
+            "杀害的姑娘",
+            "victim of x"
+        ],
+        [
+            "慕北",
+            "colleague of x, admired by x, romantic relationships with x, admirer of x"
+        ],
+        [
+            "王邻居",
+            "acquaintance of x, acquaintance of x"
+        ]
+    ],
+    "爸爸": [
+        [
+            "张洁",
+            "child of x"
+        ],
+        [
+            "妈妈",
+            "husband of x"
+        ]
+    ],
+    "妈妈": [
+        [
+            "张洁",
+            "child of x"
+        ],
+        [
+            "爸爸",
+            "wife of x"
+        ]
+    ],
+    "李国富": [
+        [
+            "张洁",
+            "acquaintance of x, colleague of x, disliked by x, suspected by x, victim of x, crime partner of x, mentor of x, enemy of x, adversary of x"
+        ],
+        [
+            "何老六",
+            "colleague of x, crime partner of x"
+        ],
+        [
+            "慕北",
+            "colleague of x, romantic relationships with x"
+        ],
+        [
+            "王邻居",
+            "acquaintance of x"
+        ]
+    ],
+    "何老六": [
+        [
+            "张洁",
+            "acquaintance of x, colleague of x, crime partner of x"
+        ],
+        [
+            "李国富",
+            "colleague of x, crime partner of x"
+        ],
+        [
+            "慕北",
+            "colleague of x"
+        ]
+    ],
+    "喜欢的姑娘": [
+        [
+            "张洁",
+            "admired by x"
+        ],
+        [
+            "杀害的姑娘",
+            "same person as x (different reference)"
+        ]
+    ],
+    "杀害的姑娘": [
+        [
+            "张洁",
+            "acquaintance of x, victim of x"
+        ]
+    ],
+    "慕北": [
+        [
+            "张洁",
+            "colleague of x, admired by x, admired by x, victim of x"
+        ],
+        [
+            "李国富",
+            "colleague of x, romantic relationships with x"
+        ],
+        [
+            "何老六",
+            "colleague of x"
+        ]
+    ],
+    "王邻居": [
+        [
+            "李国富",
+            "acquaintance of x"
+        ],
+        [
+            "何老六",
+            "acquaintance of x"
+        ]
+    ]
+}

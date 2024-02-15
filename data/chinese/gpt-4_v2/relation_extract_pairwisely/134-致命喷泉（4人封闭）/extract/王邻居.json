@@ -1,0 +1,44 @@
+{
+    "王邻居": [
+      ["王邻居的妻子", "missing wife of x, possibly victim of x a crime, object of x search"], 
+      ["警察", "informant of x, quest companion of x, debtor of x, suspect to x"], 
+      ["记者", "information receiver from x, acquaintance of x"], 
+      ["李国富", "creditor of x, neighbour of x, quest companion of x, potential deceiver of x, threatened by x, suspect of x"], 
+      ["何老六", "acquaintance of x, gambled with x, debt owed to x, also suspected by x"]
+    ],
+    "王邻居的妻子": [
+      ["王邻居", "husband of x, searching for her of x"], 
+      ["警察", "subject of x investigation for x, possibly family of x"], 
+      ["记者", "subject of x investigation for x"], 
+      ["李国富", "possibly family of x"], 
+      ["何老六", "acquaintance of x, neighbour of x"]
+    ],
+    "警察": [
+      ["王邻居", "information receiver from x, victim of x, creditor of x, investigator of x"], 
+      ["王邻居的妻子", "investigator of x, possibly family of x"], 
+      ["记者", "subject of x investigation for x, information receiver from x"], 
+      ["李国富", "subject of x investigation for x, victim of x"], 
+      ["何老六", "acquaintance of x, information receiver from x, subject of x investigation for x"]
+    ],
+    "记者": [
+      ["王邻居", "informant of x, acquaintance of x"], 
+      ["王邻居的妻子", "possibly family of x"], 
+      ["警察", "informant of x, adversary of x"], 
+      ["李国富", "adversary of x, information receiver from x"], 
+      ["何老六", "acquaintance of x, quest companion of x"]
+    ],
+    "李国富": [
+      ["王邻居", "debtor of x, neighbour of x, gambling partner of x, threatened x, suspect to x"], 
+      ["王邻居的妻子", "possibly family of x"], 
+      ["警察", "suspected by x, debtor of x"], 
+      ["记者", "subject of x investigation for x, suspected by x"], 
+      ["何老六", "co worker of x, debtor of x, quest companion of x"]
+    ],
+    "何老六": [
+      ["王邻居", "acquaintance of x, gambled with x, debt witness of x, suspicions about x"], 
+      ["王邻居的妻子", "acquaintance of x, neighbour of x"], 
+      ["警察", "informant of x, suspect of x"], 
+      ["记者", "acquaintance of x, quest companion of x"], 
+      ["李国富", "co worker of x, creditor of x"]
+    ]
+}

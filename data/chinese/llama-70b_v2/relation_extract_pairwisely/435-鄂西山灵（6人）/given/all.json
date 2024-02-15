@@ -1,0 +1,52 @@
+{
+    "周忱纱": [
+      ["山灵", "father of x, step mother of x, brother of x, friend of x"], 
+      ["巴隼", "master disciple relationship of x, kinship of x, 兄弟関係 of x, 友情 of x"], 
+      ["李高柏", "学生与教师 of x, 朋友 of x, 义子与师父 of x, 兄弟 of x"], 
+      ["苗如娅", "father of x, master of x, friend of x, 师弟 of x, 兄妹 of x"], 
+      ["郑函贞", "cousin of x, 同村人 of x, 巫师学生 of x, mysterious event participant of x"]
+    ],
+    "山灵": [
+      ["周忱纱", "father of x, step mother of x, brother of x, friend of x"], 
+      ["巴隼", "master and servant of x, mentor and student of x, protector and protected of x"], 
+      ["李高柏", "mentor of x, employer of x, friend of x"], 
+      ["甘玛", "guardian deity of x"], 
+      ["郑函贞", "mentor of x, protector of x"]
+    ],
+    "巴隼": [
+      ["周忱纱", "master disciple relationship of x, kinship of x, 兄弟関係 of x, 友情 of x"], 
+      ["山灵", "apprentice and master of x, follower and leader of x"], 
+      ["李高柏", "mentor of x, friend of x, benefactor of x"], 
+      ["甘玛", "relationship 1: 表弟（younger brother） of x, relationship 2: 侍奉（serve） of x"], 
+      ["苗如娅", "巫师 of x, 表哥 of x, 妹妹的丈夫 of x, 朋友 of x"], 
+      ["郑函贞", "relative of x, neighbor of x, classmate of x, schoolmate of x, friend of x"]
+    ],
+    "李高柏": [
+      ["周忱纱", "学生与教师 of x, 朋友 of x, 义子与师父 of x, 兄弟 of x"], 
+      ["山灵", "mentor of x, employer of x, friend of x"], 
+      ["巴隼", "mentor of x, friend of x, benefactor of x"], 
+      ["甘玛", "uncle niece relationship of x"], 
+      ["苗如娅", "friend of x"], 
+      ["郑函贞", "friend of x, disciple of x, student of x, assistant of x, servant of x"]
+    ],
+    "甘玛": [
+      ["山灵", "reincarnation of x, disciple of x"], 
+      ["巴隼", "relationship 1: 表姐（younger sister） of x, relationship 2: 侍奉（serve） of x"], 
+      ["李高柏", "uncle niece relationship of x"], 
+      ["苗如娅", "father's younger sister of x, spiritual connection of x, mentor of x, protector of x"]
+    ],
+    "苗如娅": [
+      ["周忱纱", "father of x, master of x, friend of x, 师弟 of x, 兄妹 of x"], 
+      ["巴隼", "巫师 of x, 表哥 of x, 妹妹的丈夫 of x, 朋友 of x"], 
+      ["李高柏", "friend of x"], 
+      ["甘玛", "younger sister of x, father's spirit medium of x, mentor of x, protector of x"], 
+      ["郑函贞", "uncle of x, mentor of x, friend of x"]
+    ],
+    "郑函贞": [
+      ["周忱纱", "cousin of x, 同村人 of x, 巫师 of x, mysterious event participant of x"], 
+      ["山灵", "successor of x, mentee of x"], 
+      ["巴隼", "relative of x, neighbor of x, classmate of x, schoolmate of x, friend of x"], 
+      ["李高柏", "friend of x, disciple of x, teacher of x, master of x, employer of x"], 
+      ["苗如娅", "niece of x, apprentice of x, friend of x"]
+    ]
+}

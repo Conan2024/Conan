@@ -1,0 +1,54 @@
+{
+    "贵叔": [
+      [" Chen Kangmei", "friend of x, classmate of x"], 
+      [" red woman", "patient of x"], 
+      [" 杜贵成", "father of x"], 
+      [" 杜辉信", "father of x, acquaintance of x"], 
+      [" 孟老爷", "acquaintance of x"], 
+      [" 方医生", "acquaintance of x, colleague of x"], 
+      [" 田红娇", "sister in law of x, acquaintance of x"], 
+      [" 姚长寿", "brother in law of x, acquaintance of x"], 
+      [" 姚仲义", "brother in law of x, acquaintance of x"], 
+      [" 姚孟仁", "nephew of x, acquaintance of x"]
+    ],
+    " Chen Kangmei": [
+      ["贵叔", "friend of x, classmate of x"], 
+      [" red woman", "patient of x, acquaintance of x"]
+    ],
+    " red woman": [
+      ["贵叔", "patient of x"], 
+      ["陈均梦", "friend of x, acquaintance of x"]
+    ],
+    " 杜贵成": [
+      ["贵叔", "son of x"], 
+      ["杜辉信", "father of x, acquaintance of x"]
+    ],
+    " 杜辉信": [
+      ["杜贵成", "son of x, acquaintance of x"], 
+      ["贵叔", "father of x, acquaintance of x"]
+    ],
+    " 孟老爷": [
+      ["贵叔", "acquaintance of x"], 
+      ["陈均梦", "friend of x, acquaintance of x"]
+    ],
+    " 方医生": [
+      ["贵叔", "acquaintance of x, colleague of x"], 
+      ["陈均梦", "friend of x, acquaintance of x"]
+    ],
+    " 田红娇": [
+      ["贵叔", "sister in law of x, acquaintance of x"], 
+      ["陈均梦", "friend of x, acquaintance of x"]
+    ],
+    " 姚长寿": [
+      ["贵叔", "brother in law of x, acquaintance of x"], 
+      ["陈均梦", "friend of x, acquaintance of x"]
+    ],
+    " 姚仲义": [
+      ["贵叔", "brother in law of x, acquaintance of x"], 
+      ["陈均梦", "friend of x, acquaintance of x"]
+    ],
+    " 姚孟仁": [
+      ["贵叔", "nephew of x, acquaintance of x"], 
+      ["陈均梦", "friend of x, acquaintance of x"]
+    ]
+}

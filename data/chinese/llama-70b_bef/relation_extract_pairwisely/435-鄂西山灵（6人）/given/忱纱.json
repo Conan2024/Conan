@@ -1,0 +1,50 @@
+{
+    "周允堂": [
+      ["巴隼", "mentor of x, friend of x, informant of x"], 
+      ["甘玛", "father of x, teacher of x, uncle of x"], 
+      ["郑昌珉", "friend of x, mentor of x"]
+    ],
+    "周忱纱": [
+      ["周景鱼", "younger sister of x, colleague of x, subordinate of x, superior of x"], 
+      ["甘玛", "student of x, friend of x, younger sister of x"], 
+      ["郑昌珉", "acquaintance of x"]
+    ],
+    "周景鱼": [
+      ["周忱纱", "older brother of x, mentor of x, colleague of x, superior of x"], 
+      ["巴府山", "son in law of x, enemy of x"], 
+      ["郑昌珉", "friend of x, classmate of x"]
+    ],
+    "巴府山": [
+      ["周景鱼", "son in law of x, enemy of x"], 
+      ["李德木", "father in law of x, employer of x"], 
+      ["汪氏", "employer of x, helper of x"]
+    ],
+    "巴隼": [
+      ["周允堂", "mentor of x, friend of x, informant of x"], 
+      ["李德木", "friend of x"], 
+      ["郑昌珉", "son of x, mentor of x"]
+    ],
+    "李德木": [
+      ["巴府山", "father in law of x, employer of x"], 
+      ["巴隼", "friend of x, jealous of x"], 
+      ["汪氏", "husband of x, father of x"], 
+      ["郑昌珉", "colleague of x, mentor of x"]
+    ],
+    "汪氏": [
+      ["巴府山", "employer of x"], 
+      ["李德木", "wife of x, mother of x"], 
+      ["郑昌珉", "father of x, brother of x, sister in law of x, uncle of x"]
+    ],
+    "甘玛": [
+      ["周允堂", "father of x, teacher of x, uncle of x"], 
+      ["周忱纱", "teacher of x, friend of x, older sister of x"]
+    ],
+    "郑昌珉": [
+      ["周允堂", "friend of x, mentor of x"], 
+      ["周忱纱", "acquaintance of x"], 
+      ["周景鱼", "friend of x, classmate of x"], 
+      ["巴隼", "father of x, friend of x"], 
+      ["李德木", "colleague of x"], 
+      ["汪氏", "father of x, brother of x, sister in law of x, uncle of x"]
+    ]
+}

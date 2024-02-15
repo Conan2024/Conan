@@ -1,0 +1,26 @@
+{
+    "薛媚娘": [
+      ["萧体育", "恋人 of x, 同事 of x, 亚文化 of x, 忘年之交 of x, 舍盟 of x, 表妹弟 of x"], 
+      ["秦专家", "同事 of x, 浮名人 of x, 私生战 of x, 师生战 of x, 利益关系 of x"], 
+      ["秦夫人", "rivals in love of x"]
+    ],
+    "秦老大": [
+      ["萧体育", "former classmate of x"], 
+      ["秦夫人", "相亲的师生 of x, 恋人 of x"]
+    ],
+    "萧体育": [
+      ["薛媚娘", "恋人 of x, 同事 of x, 亚文化 of x, 忘年之交 of x, 舍盟 of x, 表妹弟 of x"], 
+      ["秦老大", "current boyfriend of x"], 
+      ["秦专家", "boyfriend of x, acquaintance of x"]
+    ],
+    "秦专家": [
+      ["薛媚娘", "同事 of x, 浮名人 of x, 私生战 of x, 师生战 of x, 利益关系 of x"], 
+      ["萧体育", "girlfriend of x, acquaintance of x"], 
+      ["秦夫人", "父亲 of x"]
+    ],
+    "秦夫人": [
+      ["薛媚娘", "rivals in love of x"], 
+      ["秦老大", "相亲的师生 of x, 病人 of x"], 
+      ["秦专家", "丈夫 of x"]
+    ]
+}

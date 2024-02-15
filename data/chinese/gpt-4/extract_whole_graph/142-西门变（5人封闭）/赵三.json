@@ -1,0 +1,98 @@
+{
+    "赵三": [
+        [
+            "赵中正",
+            "adoptive brother of x, subordinate of x, helper of x"
+        ],
+        [
+            "赵中杨",
+            "adoptive brother of x, relative of x, attempted murderer of x"
+        ],
+        [
+            "马老板",
+            "acquaintance of x, information receiver from x"
+        ],
+        [
+            "张伟",
+            "accomplice of x, business partner of x, friend of x"
+        ],
+        [
+            "陈媚儿",
+            "stranger to x"
+        ]
+    ],
+    "赵中正": [
+        [
+            "赵三",
+            "adoptive brother of x, superior of x, informant of x"
+        ],
+        [
+            "赵中杨",
+            "biological brother of x, rival of x, employer of x"
+        ],
+        [
+            "陈媚儿",
+            "stranger to x"
+        ]
+    ],
+    "赵中杨": [
+        [
+            "赵三",
+            "adoptive brother of x, relative of x, victim of x"
+        ],
+        [
+            "赵中正",
+            "biological brother of x, rival of x, employee of x"
+        ],
+        [
+            "陈媚儿",
+            "romantic relationships with x"
+        ],
+        [
+            "张伟",
+            "subordinate of x"
+        ]
+    ],
+    "张伟": [
+        [
+            "赵三",
+            "accomplice of x, business partner of x, friend of x"
+        ],
+        [
+            "赵中杨",
+            "superior of x, disliked by x"
+        ],
+        [
+            "马老板",
+            "stranger to x"
+        ]
+    ],
+    "马老板": [
+        [
+            "赵三",
+            "acquaintance of x, information receiver from x"
+        ],
+        [
+            "赵中杨",
+            "stranger to x"
+        ],
+        [
+            "张伟",
+            "stranger to x"
+        ]
+    ],
+    "陈媚儿": [
+        [
+            "赵三",
+            "stranger to x"
+        ],
+        [
+            "赵中杨",
+            "romantic relationships with x"
+        ],
+        [
+            "赵中正",
+            "stranger to x"
+        ]
+    ]
+}

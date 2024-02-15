@@ -1,0 +1,35 @@
+{
+    "张洁": [
+      ["爸爸", "child of x"], 
+      ["妈妈", "child of x"], 
+      ["李国富", "quest companion of x, manipulated by x, superior of x, attempted perpetrator of x"], 
+      ["何老六", "quest companion of x"], 
+      ["慕北", "colleague of x, admired by x"], 
+      ["王邻居", "acquaintance of x"]
+    ],
+    "爸爸": [
+      ["张洁", "father of x"], 
+      ["妈妈", "husband of x"]
+    ],
+    "妈妈": [
+      ["张洁", "mother of x"], 
+      ["爸爸", "wife of x"]
+    ],
+    "李国富": [
+      ["张洁", "manipulator of x, colleague of x, adversary of x, victim of x"], 
+      ["何老六", "colleague of x"], 
+      ["慕北", "colleague of x"]
+    ],
+    "何老六": [
+      ["张洁", "colleague of x"], 
+      ["李国富", "colleague of x"]
+    ],
+    "慕北": [
+      ["张洁", "colleague of x, admired by x"], 
+      ["李国富", "colleague of x"], 
+      ["何老六", "colleague of x"]
+    ],
+    "王邻居": [
+      ["张洁", "acquaintance of x"]
+    ]
+}

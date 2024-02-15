@@ -1,0 +1,58 @@
+{
+    "赵中正": [
+      ["赵家", "son of x, older brother of x, adversary of x, manipulator of x, perpetrator of x, murderer of x, suspect of x"], 
+      ["赵中杨", "sibling of x, perpetrator of x, superior of x, manipulator of x"], 
+      ["李家", "business partner of x, informant of x, secret lover of x"], 
+      ["赵三", "superior of x, friend of x, employer of x, recruiter of x, attempted perpetrator of x"], 
+      ["陈媚儿", "manipulator of x, perpetrator of x"], 
+      ["李成", "acquaintance of x, informant of x, manipulator of x, superior of x, accomplice in the murder plot against x's sibling"]
+    ],
+    "赵家": [
+      ["赵中正", "father of x, brother of x, victim of x, manipulated by x, suspected by x"], 
+      ["赵中杨", "sibling of x, brother of x"], 
+      ["李家", "business partner of x, informant of x, co conspirator with x"], 
+      ["赵三", "helper of x, friend of x"], 
+      ["陈媚儿", "manipulator of x, employer of x"], 
+      ["李成", "business partner of x, informant of x"]
+    ],
+    "赵中杨": [
+      ["赵中正", "sibling of x, victim of x, suspected by x, manipulated by x"], 
+      ["赵家", "sibling of x, younger brother of x"], 
+      ["李家", "deceived by x, victim of x"], 
+      ["赵三", "helper of x, helped by x, attempted perpetrator of x"], 
+      ["陈媚儿", "extramarital affair with x, love interest of x, victim of x, deceived by x"], 
+      ["李成", "superior of x, information receiver from x, victim of x"]
+    ],
+    "李家": [
+      ["赵中正", "business partner of x, information receiver from x, secret admirer of x"], 
+      ["赵家", "business partner of x, information receiver from x, co conspirator with x"], 
+      ["赵中杨", "deceiver of x, perpetrator of x"], 
+      ["赵三", "business partner of x, information receiver from x"], 
+      ["陈媚儿", "helper of x, helped by x"], 
+      ["李成", "business partner of x, informant of x"]
+    ],
+    "赵三": [
+      ["赵中正", "subordinate of x, friend of x, employee of x, recruited by x, victim of x"], 
+      ["赵家", "helped by x, friend of x"], 
+      ["赵中杨", "subject of x investigation for x, victim of x"], 
+      ["李家", "informant of x, quest companion of x"], 
+      ["陈媚儿", "acquaintance of x, colleague of x"], 
+      ["李成", "helper of x, co worker of x"]
+    ],
+    "陈媚儿": [
+      ["赵中正", "manipulated by x, victim of x"], 
+      ["赵家", "manipulated by x, employee of x"], 
+      ["赵中杨", "admirer of x, secret lover of x, manipulator of x, attempted perpetrator of x"], 
+      ["李家", "co conspirator with x, informant of x"], 
+      ["赵三", "acquaintance of x, colleague of x"], 
+      ["李成", "acquaintance of x, co worker of x, informant of x"]
+    ],
+    "李成": [
+      ["赵中正", "acquaintance of x, information receiver from x, manipulated by x, subordinate of x, murder accomplice of x"], 
+      ["赵家", "information receiver from x, manipulated by x, subordinate of x"], 
+      ["赵中杨", "subordinate of x, informant of x, perpetrator of x"], 
+      ["李家", "information receiver from x, manipulated by x"], 
+      ["赵三", "helper of x, co worker of x"], 
+      ["陈媚儿", "acquaintance of x, co worker of x, information receiver from x"]
+    ]
+}

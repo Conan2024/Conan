@@ -1,0 +1,88 @@
+{
+    "吴边城": [
+        [
+            "梁国前元帅",
+            "subordinate of x"
+        ],
+        [
+            "成国元帅(张元帅)",
+            "acquaintance of x, subordinate of x, deceived by x"
+        ],
+        [
+            "秦云生",
+            "same rank as x, friend of x, roommate of x"
+        ],
+        [
+            "王一木",
+            "same rank as x, acquaintance of x, suspicious of x"
+        ],
+        [
+            "梁国的刺客",
+            "same country as x, fellow spy of x"
+        ]
+    ],
+    "张元帅": [
+        [
+            "秦云生的弟弟",
+            "caused the death of x"
+        ],
+        [
+            "秦云生",
+            "superior of x, disliked by x, adversary of x"
+        ],
+        [
+            "王一木",
+            "subordinate of x, perpetrator of x"
+        ],
+        [
+            "吴边城",
+            "superior of x, deceived by x, killed by x"
+        ],
+        [
+            "梁国的刺客",
+            "victim of x"
+        ]
+    ],
+    "秦云生": [
+        [
+            "吴边城",
+            "same rank as x, friend of x, roommate of x"
+        ],
+        [
+            "张元帅",
+            "superior of x, dislikes of x"
+        ],
+        [
+            "秦云生的弟弟",
+            "brother of x"
+        ],
+        [
+            "王一木",
+            "same rank as x"
+        ]
+    ],
+    "王一木": [
+        [
+            "张元帅",
+            "superior of x, bullied by x"
+        ],
+        [
+            "吴边城",
+            "same rank as x, likes to talk to x, suspicious of x"
+        ],
+        [
+            "秦云生",
+            "same rank as x"
+        ]
+    ],
+    "秦云生的弟弟": [
+        [
+            "秦云生",
+            "brother of x"
+        ],
+        [
+            "张元帅",
+            "killer of x"
+        ]
+    ]
+}

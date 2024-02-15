@@ -1,0 +1,26 @@
+{
+    "安德鲁•帕洛斯基": [
+      ["汤姆神父", "mentor of x, confidant of x, witness of x"]
+    ],
+    "妻子": [
+      ["儿子斯科特", "husband of x"], 
+      ["汉斯·里莫瑞特", "relationship 1: x死亡后, 你开始酗酒 of x, 减少了手术次数 of x, 对下属和同事更粗暴无理 of x, 但仍然坚持为x进行心脏移植手术的技术。relationship 2: 你认为x天生就应该成为一个杰出的外科医生, 但自己的自负和对其的嫉妒阻碍了自己的发展。 of x"], 
+      ["汤姆神父", "relationship 1: 师傅 of x, relationship 2: 接触 of x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["妻子", "relationship 1: 你曾经是我的偶数恩师 of x, 教我一切 of x, 但我已经超越了你。relationship 2: 你的儿子斯科特成为了一起摩托车事故的受害者 of x, 我已经尽力救治 of x, 后续的抢救无济于事。 of x"], 
+      ["儿子斯科特", "mentee of x, friend of x, 医生 of x, professional of x, colleague of x"], 
+      ["汤姆神父", "mentor of x, protege of x, friend of x"]
+    ],
+    "汤姆神父": [
+      ["安德鲁•帕洛斯基", "mentee of x, confidant of x, witness of x"], 
+      ["妻子", "relationship 1: 学生 of x, relationship 2: 精神方向 of x"], 
+      ["儿子斯科特", "adoptive son of x, protege of x, friend of x"], 
+      ["汉斯·里莫瑞特", "mentor of x, confidant of x, friend of x"]
+    ],
+    "儿子斯科特": [
+      ["妻子", "son of x"], 
+      ["汉斯·里莫瑞特", "mentor of x, friend of x, 儿子 of x, family of x, inherited of x"], 
+      ["汤姆神父", "mentor of x, teacher of x, helped by of x"]
+    ]
+}

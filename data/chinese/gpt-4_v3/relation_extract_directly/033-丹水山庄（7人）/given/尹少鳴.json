@@ -1,0 +1,82 @@
+{
+    "尹少鳴": [
+        [
+            "虞北辰",
+            "father of x"
+        ],
+        [
+            "任",
+            "mother of x"
+        ],
+        [
+            "赵洛意",
+            "acquaintance of x, helped by x, admirer of x"
+        ],
+        [
+            "赵万雷",
+            "father of x"
+        ],
+        [
+            "冯双骥",
+            "acquaintance of x, suspect of x"
+        ]
+    ],
+    "虞北辰": [
+        [
+            "尹少鳴",
+            "child of x"
+        ],
+        [
+            "任",
+            "wife of x"
+        ]
+    ],
+    "任": [
+        [
+            "尹少鳴",
+            "child of x"
+        ],
+        [
+            "虞北辰",
+            "husband of x"
+        ]
+    ],
+    "赵洛意": [
+        [
+            "尹少鳴",
+            "helped by x, admirer of x, saved by x"
+        ],
+        [
+            "赵万雷",
+            "child of x"
+        ],
+        [
+            "冯双骥",
+            "subordinate of x, suspect to x"
+        ]
+    ],
+    "赵万雷": [
+        [
+            "赵洛意",
+            "father of x"
+        ],
+        [
+            "冯双骥",
+            "subordinate of x"
+        ]
+    ],
+    "冯双骥": [
+        [
+            "尹少鳴",
+            "helper of x, suspected by x"
+        ],
+        [
+            "赵洛意",
+            "subordinate of x"
+        ],
+        [
+            "赵万雷",
+            "subordinate of x"
+        ]
+    ]
+}

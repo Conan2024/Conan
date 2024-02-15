@@ -1,0 +1,23 @@
+{
+    "松节": [
+      ["忍冬", "friend of x, business partner of x"], 
+      ["玄参", "co worker of x, information receiver of x"], 
+      ["蜂", "same person as x (different reference)"], 
+      ["陆英", "acquaintance of x, suspect of x"]
+    ],
+    "忍冬": [
+      ["松节", "friend of x, business partner of x"], 
+      ["陆英", "acquaintance of x, suspect of x"]
+    ],
+    "玄参": [
+      ["松节", "co worker of x, information receiver of x"], 
+      ["陆英", "acquaintance of x, suspect of x"]
+    ],
+    "陆英": [
+      ["忍冬", "acquaintance of x, suspect of x"], 
+      ["玄参", "acquaintance of x, suspect of x"]
+    ],
+    "蜂": [
+      ["松节", "same person as x (different reference)"]
+    ]
+}

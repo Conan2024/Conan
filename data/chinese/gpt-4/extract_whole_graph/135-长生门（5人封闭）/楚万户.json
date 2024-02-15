@@ -1,0 +1,104 @@
+{
+    "楚万户": [
+        [
+            "马三",
+            "employee of x"
+        ],
+        [
+            "李浩",
+            "employee of x"
+        ],
+        [
+            "王婷婷",
+            "wife of x"
+        ],
+        [
+            "楚川",
+            "son of x, biological son of x"
+        ],
+        [
+            "苏圣策",
+            "doctor of x, deceiver of x, information receiver from x"
+        ]
+    ],
+    "马三": [
+        [
+            "楚万户",
+            "employer of x"
+        ],
+        [
+            "李浩",
+            "acquaintance of x"
+        ],
+        [
+            "唐瑶瑶",
+            "superior of x"
+        ]
+    ],
+    "李浩": [
+        [
+            "楚万户",
+            "employer of x"
+        ],
+        [
+            "马三",
+            "acquaintance of x"
+        ]
+    ],
+    "王婷婷": [
+        [
+            "楚万户",
+            "husband of x"
+        ],
+        [
+            "楚川",
+            "step-mother of x"
+        ],
+        [
+            "唐瑶瑶",
+            "superior of x"
+        ],
+        [
+            "苏圣策",
+            "acquaintance of x"
+        ]
+    ],
+    "楚川": [
+        [
+            "楚万户",
+            "father of x, biological father of x"
+        ],
+        [
+            "王婷婷",
+            "step-son of x"
+        ],
+        [
+            "唐瑶瑶",
+            "romantic relationships with x"
+        ]
+    ],
+    "苏圣策": [
+        [
+            "楚万户",
+            "patient of x, deceived by x"
+        ],
+        [
+            "王婷婷",
+            "acquaintance of x"
+        ]
+    ],
+    "唐瑶瑶": [
+        [
+            "楚川",
+            "romantic relationships with x"
+        ],
+        [
+            "马三",
+            "subordinate of x"
+        ],
+        [
+            "王婷婷",
+            "subordinate of x"
+        ]
+    ]
+}

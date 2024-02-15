@@ -1,0 +1,35 @@
+{
+    "段约同": [
+      ["白常恭", "father in law of x"], 
+      [" votre mother", "mother of x"], 
+      ["岳客沙", "step father of x"], 
+      ["易阿姨", "step mother of x"], 
+      ["安琪", "girlfriend of x, colleague of x"], 
+      ["Li Zitai", "acquaintance of x, informant of x"], 
+      ["吴百安", "suspect of x"]
+    ],
+    "白常恭": [
+      ["段约同", "son in law of x"], 
+      ["岳客沙", "friend of x"]
+    ],
+    "岳客沙": [
+      ["段约同", "step son of x"], 
+      ["白常恭", "friend of x"]
+    ],
+    "易阿姨": [
+      ["段约同", "step daughter of x"], 
+      ["白常恭", "husband of x"]
+    ],
+    "安琪": [
+      ["段约同", "girlfriend of x, colleague of x"], 
+      ["易阿姨", "mother of x"]
+    ],
+    "Li Zitai": [
+      ["段约同", "acquaintance of x, informant of x"], 
+      ["白常恭", "friend of x"]
+    ],
+    "吴百安": [
+      ["段约同", "suspect of x"], 
+      ["夏三虎", "brother in law of x"]
+    ]
+}

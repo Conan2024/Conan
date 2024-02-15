@@ -1,0 +1,112 @@
+{
+    "约翰": [
+        [
+            "小布莱克",
+            "employee of x, guarded by x, informant of x, deceived by x"
+        ],
+        [
+            "山姆医生",
+            "acquaintance of x"
+        ],
+        [
+            "杰克",
+            "lover of x, beneficiary of x"
+        ],
+        [
+            "安妮",
+            "dislike of x, stranger to x"
+        ],
+        [
+            "杰西帕",
+            "former student of x, employer of x, information receiver from x"
+        ],
+        [
+            "老布莱克",
+            "victim of x"
+        ]
+    ],
+    "杰克": [
+        [
+            "小布莱克",
+            "acquaintance of x, business partner of x"
+        ],
+        [
+            "安妮",
+            "wife of x"
+        ],
+        [
+            "约翰",
+            "lover of x, beneficiary from x"
+        ],
+        [
+            "老布莱克",
+            "enemy of x, intended victim of x"
+        ]
+    ],
+    "小布莱克": [
+        [
+            "老布莱克",
+            "son of x"
+        ],
+        [
+            "杰克",
+            "acquaintance of x, business partner of x"
+        ],
+        [
+            "约翰",
+            "employer of x, guarded by x, victim of x's deception"
+        ],
+        [
+            "山姆医生",
+            "employer of x, service provider of x"
+        ]
+    ],
+    "老布莱克": [
+        [
+            "小布莱克",
+            "father of x"
+        ],
+        [
+            "约翰",
+            "perpetrator of x"
+        ],
+        [
+            "杰克",
+            "enemy of x"
+        ]
+    ],
+    "杰西帕": [
+        [
+            "老布莱克",
+            "daughter of x's victim"
+        ],
+        [
+            "约翰",
+            "employer of x, student of x, informed by x"
+        ]
+    ],
+    "安妮": [
+        [
+            "杰克",
+            "wife of x"
+        ],
+        [
+            "约翰",
+            "stranger to x"
+        ]
+    ],
+    "山姆医生": [
+        [
+            "老布莱克",
+            "service provider of x"
+        ],
+        [
+            "小布莱克",
+            "employee of x"
+        ],
+        [
+            "约翰",
+            "acquaintance of x"
+        ]
+    ]
+}

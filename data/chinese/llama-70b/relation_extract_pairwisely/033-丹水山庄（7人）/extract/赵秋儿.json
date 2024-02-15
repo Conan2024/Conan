@@ -1,0 +1,156 @@
+{
+    "赵秋儿": [
+        [
+            "赵洛意",
+            "Friend, Mentor, Teacher"
+        ],
+        [
+            "管家冯双骥",
+            "Mentor/Teacher",
+            "Friend/Confidant",
+            "Rival/Competitor"
+        ],
+        [
+            "大少爷赵卫",
+            "old urchin",
+            "冯竹",
+            "管家",
+            "赵洛意"
+        ],
+        [
+            "老爷赵万雷",
+            "Father-in-law",
+            "Employer"
+        ],
+        [
+            "冯竹",
+            "Employer of X",
+            "Master of X"
+        ]
+    ],
+    "赵洛意": [
+        [
+            "赵秋儿",
+            "Friend, Mentor, Teacher"
+        ],
+        [
+            "管家冯双骥",
+            "Relationship 1: Teacher-Student",
+            "Relationship 2: Employer-Employee"
+        ],
+        [
+            "大少爷赵卫",
+            "关系1",
+            "关系2"
+        ],
+        [
+            "老爷赵万雷",
+            "Relative of X"
+        ],
+        [
+            "冯竹",
+            "older sister / younger brother",
+            "mentor",
+            "teacher",
+            "caregiver"
+        ]
+    ],
+    "管家冯双骥": [
+        [
+            "赵秋儿",
+            "Manager/Supervisor",
+            "Friend/Confidant"
+        ],
+        [
+            "赵洛意",
+            "Relationship 1: Teacher-Student",
+            "Relationship 2: Employer-Employee"
+        ],
+        [
+            "大少爷赵卫",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "老爷赵万雷",
+            "Employer of X",
+            "Master of X"
+        ]
+    ],
+    "大少爷赵卫": [
+        [
+            "赵秋儿",
+            "赵洛意",
+            "管家",
+            "冯竹",
+            "赵秋儿"
+        ],
+        [
+            "赵洛意",
+            "关系1",
+            "关系2"
+        ],
+        [
+            "管家冯双骥",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "老爷赵万雷",
+            "mentor, protector, and father-like figure"
+        ],
+        [
+            "冯竹",
+            "relationship 1",
+            "relationship 2"
+        ]
+    ],
+    "老爷赵万雷": [
+        [
+            "赵秋儿",
+            "Daughter-in-law",
+            "Employee"
+        ],
+        [
+            "赵洛意",
+            "Wife",
+            "Suspicious"
+        ],
+        [
+            "管家冯双骥",
+            "Employee of X",
+            "Servant of X"
+        ],
+        [
+            "大少爷赵卫",
+            "mentee, protected, and son-like figure"
+        ],
+        [
+            "冯竹",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5, relationship 6, relationship 7"
+        ]
+    ],
+    "冯竹": [
+        [
+            "赵秋儿",
+            "Employee of X",
+            "Servant of X"
+        ],
+        [
+            "赵洛意",
+            "older sister / younger brother",
+            "mentee",
+            "student",
+            "dependent"
+        ],
+        [
+            "大少爷赵卫",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "老爷赵万雷",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5, relationship 6, relationship 7"
+        ]
+    ]
+}

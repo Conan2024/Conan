@@ -1,0 +1,48 @@
+{
+    "乔•罗伯特森": [
+      ["麦克斯•派克", "friend of x, quest companion of x, crime partner of x"], 
+      ["露西•哈里森", "acquaintance of x, possibly family of x"], 
+      ["麦克斯•琼斯", "friend of x, crime partner of x, possibly family of x"], 
+      ["丹尼尔•佩里", "friend of x, quest companion of x, crime partner of x"]
+    ],
+    "Sleer&Leech": [
+      ["麦克斯•派克", "subordinate of x, same person as x (different identity)"], 
+      ["露西•哈里森", "subordinate of x"], 
+      ["麦克斯•琼斯", "subordinate of x, service provider of x, informant of x"], 
+      ["丹尼尔•佩里", "employer of x, mentor of x, business partner of x, superior of x, informant of x"], 
+      ["约翰•摩根", "superior of x, customer of x"], 
+      ["艾米•摩根", "superior of x, business partner of x"]
+    ],
+    "露西•哈里森": [
+      ["乔•罗伯特森", "acquaintance of x, possibly family of x"], 
+      ["Sleer&Leech", "superior of x"], 
+      ["麦克斯•琼斯", "adversary of x, information receiver from x"], 
+      ["约翰•摩根", "victim of x"], 
+      ["艾米•摩根", "acquaintance of x"]
+    ],
+    "麦克斯•琼斯": [
+      ["乔•罗伯特森", "friend of x, crime partner of x, possibly family of x"], 
+      ["Sleer&Leech", "subordinate of x, service provider of x, informant of x"], 
+      ["露西•哈里森", "manipulator of x, information receiver from x"], 
+      ["丹尼尔•佩里", "disliked by x, suspected by x, suspect to x, dislike of x"], 
+      ["约翰•摩根", "acquaintance of x, helped by x, same person as x (different identity)"]
+    ],
+    "丹尼尔•佩里": [
+      ["乔•罗伯特森", "friend of x, quest companion of x, crime partner of x"], 
+      ["Sleer&Leech", "employee of x, student of x, business partner of x, subordinate of x, information receiver from x"], 
+      ["麦克斯•琼斯", "suspected by x, victim of x, dislike of x"], 
+      ["约翰•摩根", "victim of x"]
+    ],
+    "约翰•摩根": [
+      ["Sleer&Leech", "subordinate of x, service provider of x"], 
+      ["露西•哈里森", "child of x"], 
+      ["麦克斯•琼斯", "helped by x, same person as x (different reference)"], 
+      ["丹尼尔•佩里", "suspected by x"], 
+      ["艾米•摩根", "victim of x"]
+    ],
+    "艾米•摩根": [
+      ["Sleer&Leech", "subordinate of x, business partner of x"], 
+      ["露西•哈里森", "acquaintance of x"], 
+      ["约翰•摩根", "husband of x"]
+    ]
+}

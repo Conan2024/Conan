@@ -1,0 +1,42 @@
+{
+    "廖雪寒": [
+      ["海悠", "helped by x, helper of x"], 
+      ["吕名然", "manipulator of x, manipulated by x"]
+    ],
+    "廖一乔 (廖公子的父亲)": [
+      ["廖雪寒", "father of x"]
+    ],
+    "茱丽": [
+      ["廖雪寒", "admirer of x"], 
+      ["海悠", "guest of x"]
+    ],
+    "海悠": [
+      ["廖雪寒", "helper of x, helper of x"], 
+      ["茱丽", "guest of x"]
+    ],
+    "张医师": [
+      ["廖雪寒", "doctor of x"]
+    ],
+    "罗亨理": [
+      ["廖雪寒", "debtor of x"], 
+      ["吕名然", "employer of x"]
+    ],
+    "吕名然": [
+      ["廖雪寒", "suspected by x, victim of x"], 
+      ["罗亨理", "employee of x"], 
+      ["谭仁昌", "colleague of x"]
+    ],
+    "谭仁昌": [
+      ["吕名然", "colleague of x"]
+    ],
+    "承格": [
+      ["吕名然", "son of x"]
+    ],
+    "红儿": [
+      ["廖雪寒", "helper of x, helper of x"], 
+      ["吕名然", "manipulated by x"]
+    ],
+    "韦太太": [
+      ["吕名然", "fondness of x"]
+    ]
+}

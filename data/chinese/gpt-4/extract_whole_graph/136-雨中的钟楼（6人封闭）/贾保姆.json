@@ -1,0 +1,94 @@
+{
+    "贾保姆": [
+        [
+            "甄珠宝商",
+            "wife of x"
+        ],
+        [
+            "姚钱树",
+            "extramarital affair with x"
+        ],
+        [
+            "王姐",
+            "friend of x, adulterer's spouse of x"
+        ],
+        [
+            "李梅梅",
+            "employee of x"
+        ],
+        [
+            "李长青",
+            "employer of x, informant of x"
+        ]
+    ],
+    "甄珠宝商": [
+        [
+            "贾保姆",
+            "husband of x"
+        ],
+        [
+            "李长青",
+            "business partner of x, buyer of x"
+        ],
+        [
+            "姚钱树",
+            "business partner of x, seller of x"
+        ]
+    ],
+    "姚钱树": [
+        [
+            "贾保姆",
+            "extramarital affair with x"
+        ],
+        [
+            "王姐",
+            "husband of x"
+        ],
+        [
+            "甄珠宝商",
+            "business partner of x, customer of x"
+        ],
+        [
+            "李梅梅",
+            "acquaintance of x"
+        ]
+    ],
+    "王姐": [
+        [
+            "姚钱树",
+            "wife of x"
+        ],
+        [
+            "贾保姆",
+            "friend of x, adulterer's spouse of x"
+        ]
+    ],
+    "李梅梅": [
+        [
+            "贾保姆",
+            "employer of x"
+        ],
+        [
+            "姚钱树",
+            "acquaintance of x"
+        ],
+        [
+            "李长青",
+            "married to x (under the identity of 李梅梅), same person as x (different identity)"
+        ]
+    ],
+    "李长青": [
+        [
+            "贾保姆",
+            "employee of x, information receiver from x"
+        ],
+        [
+            "李梅梅",
+            "married to x (under the identity of 李梅梅), same person as x (different identity)"
+        ],
+        [
+            "甄珠宝商",
+            "business partner of x, seller of x"
+        ]
+    ]
+}

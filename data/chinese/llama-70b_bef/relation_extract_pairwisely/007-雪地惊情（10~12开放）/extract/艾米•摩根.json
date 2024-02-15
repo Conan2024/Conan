@@ -1,0 +1,16 @@
+{
+    "艾米•摩根": [
+      ["麦克斯•派克", "friend of x, mentor of x, colleague of x, customer of x"]
+    ],
+    "露西•哈里森": [
+      ["艾莱克斯•哈维", "friend of x"]
+    ],
+    "麦克斯•派克": [
+      ["艾米•摩根", "friend of x, mentor of x, colleague of x, customer of x"], 
+      ["艾莱克斯•哈维", "acquaintance of x, suspect of x"]
+    ],
+    "艾莱克斯•哈维": [
+      ["露西•哈里森", "friend of x"], 
+      ["麦克斯•派克", "acquaintance of x"]
+    ]
+}

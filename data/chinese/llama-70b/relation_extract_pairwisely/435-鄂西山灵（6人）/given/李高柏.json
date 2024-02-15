@@ -1,0 +1,751 @@
+{
+    "周教授": [
+        [
+            "如娅",
+            "关系1",
+            "关系2"
+        ],
+        [
+            "山灵",
+            "mentor"
+        ],
+        [
+            "巴府山",
+            "Employer of X",
+            "Mentor of X"
+        ],
+        [
+            "巴府山的女儿",
+            "Stranger to X",
+            "Acquaintance of X"
+        ],
+        [
+            "李德木",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "李良松",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "李高柏",
+            "Teacher-Student",
+            "Mentor-Mentee"
+        ],
+        [
+            "郑函贞",
+            "Friend",
+            "Mentor"
+        ],
+        [
+            "隼",
+            "Friend",
+            "Mentor"
+        ],
+        [
+            "鬼印",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "如娅": [
+        [
+            "周教授",
+            "关系1",
+            "关系2"
+        ],
+        [
+            "山灵",
+            "acquaintance",
+            "friend"
+        ],
+        [
+            "巴府山",
+            "李高柏"
+        ],
+        [
+            "巴府山的女儿",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "李德木",
+            " acquaintance",
+            " classmate",
+            " colleague",
+            " friend",
+            " roommate",
+            " schoolmate"
+        ],
+        [
+            "李良松",
+            "ACQUAINTANCE",
+            "CHILDHOOD FRIEND"
+        ],
+        [
+            "李高柏",
+            "Friend",
+            "Classmate",
+            "Schoolmate"
+        ],
+        [
+            "甘玛",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "郑函贞",
+            "Acquaintance",
+            " Classmate",
+            "Schoolmate",
+            " Nephew",
+            "Aunt",
+            " Uncle",
+            "Cousin",
+            "Friend",
+            "Mentor",
+            "Teacher",
+            " Student",
+            "Informant",
+            "Information Receiver",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X",
+            "Nephew of X",
+            "Aunt of X",
+            "Uncle of X",
+            "Cousin of X"
+        ],
+        [
+            "隼",
+            " acquaintance",
+            " classmate",
+            " colleague",
+            " friend",
+            " roommate",
+            " schoolmate"
+        ],
+        [
+            "鬼印",
+            "兄弟hangout",
+            "friend"
+        ]
+    ],
+    "山灵": [
+        [
+            "周教授",
+            "mentee"
+        ],
+        [
+            "如娅",
+            "acquaintance",
+            "friend"
+        ],
+        [
+            "巴府山",
+            "husband of 如娅"
+        ],
+        [
+            "巴府山的女儿",
+            "Relative"
+        ],
+        [
+            "李德木",
+            " acquaintance",
+            " classmate",
+            " colleague",
+            " friend",
+            " helper",
+            " mentor",
+            " student",
+            " teacher"
+        ],
+        [
+            "李良松",
+            "Friend, Mentor"
+        ],
+        [
+            "李高柏",
+            "friend",
+            "mentor",
+            "guardian",
+            "teacher"
+        ],
+        [
+            "甘玛",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "郑函贞",
+            "master",
+            "teacher",
+            "friend",
+            "loyalty"
+        ],
+        [
+            "隼",
+            "father-in-law/son-in-law",
+            "employer/employee",
+            "teacher/student",
+            "mentor/mentee",
+            "friend"
+        ],
+        [
+            "鬼印",
+            "兄弟"
+        ]
+    ],
+    "巴府山": [
+        [
+            "周教授",
+            "Employer of X",
+            "Mentor of X"
+        ],
+        [
+            "如娅",
+            "李高柏"
+        ],
+        [
+            "山灵",
+            "father of 隼"
+        ],
+        [
+            "巴府山的女儿",
+            "husband of X"
+        ],
+        [
+            "李德木",
+            "Employer of X",
+            "Master of X",
+            "Superior of x",
+            "Tenant of X"
+        ],
+        [
+            "李良松",
+            "Employer of X",
+            "Master of X",
+            "Superior of x"
+        ],
+        [
+            "李高柏",
+            "relation1, relation2"
+        ],
+        [
+            "甘玛",
+            "employer of X",
+            "master of X"
+        ],
+        [
+            "郑函贞",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "隼",
+            "employer",
+            "master"
+        ],
+        [
+            "鬼印",
+            "Employer of X",
+            "Master of X",
+            "Superior of X",
+            "Perpetrator of X"
+        ]
+    ],
+    "巴府山的女儿": [
+        [
+            "周教授",
+            "Stranger to X",
+            "Acquaintance of X"
+        ],
+        [
+            "如娅",
+            "Fiancee",
+            " Sister"
+        ],
+        [
+            "山灵",
+            "Fiancé"
+        ],
+        [
+            "巴府山",
+            "wife of X"
+        ],
+        [
+            "李德木",
+            "Relative",
+            "Friend"
+        ],
+        [
+            "李良松",
+            "fiancé",
+            "brother",
+            "friend",
+            "servant",
+            "student"
+        ],
+        [
+            "李高柏",
+            "relationship 1, relationship 2, ..., relationship 10"
+        ],
+        [
+            "甘玛",
+            "李高柏"
+        ],
+        [
+            "郑函贞",
+            "wife",
+            "sister",
+            "daughter",
+            "niece",
+            "cousin",
+            "friend"
+        ],
+        [
+            "隼",
+            "关系1",
+            "关系2"
+        ],
+        [
+            "鬼印",
+            "Relative"
+        ]
+    ],
+    "李德木": [
+        [
+            "周教授",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "如娅",
+            " acquaintance",
+            " classmate",
+            " colleague",
+            " friend",
+            " roommate",
+            " schoolmate"
+        ],
+        [
+            "山灵",
+            " acquaintance",
+            " classmate",
+            " colleague",
+            " friend",
+            " helper",
+            " mentor",
+            " student",
+            " teacher"
+        ],
+        [
+            "巴府山",
+            "Friend of X",
+            "Mentor of X",
+            "teacher of x",
+            "Student of X"
+        ],
+        [
+            "巴府山的女儿",
+            "Brother",
+            "Friend"
+        ],
+        [
+            "李良松",
+            "friendship"
+        ],
+        {
+            "甘玛": [
+                "same person (different reference)",
+                "same person (different identity)",
+                "enemy",
+                "suspect",
+                "stranger"
+            ]
+        },
+        [
+            "郑函贞",
+            "brother-in-law, friend"
+        ],
+        [
+            "隼",
+            "brother-in-law, friend"
+        ],
+        [
+            "鬼印",
+            "brother-in-law",
+            " друigos"
+        ]
+    ],
+    "李良松": [
+        [
+            "周教授",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "如娅",
+            "ACQUAINTANCE",
+            "CHILDHOOD FRIEND"
+        ],
+        [
+            "山灵",
+            "Friend, Mentored"
+        ],
+        [
+            "巴府山",
+            "Employee of X",
+            "Servant of X",
+            "Subordinate of X"
+        ],
+        [
+            "巴府山的女儿",
+            "fiancé",
+            "brother",
+            "friend",
+            "servant",
+            "student"
+        ],
+        [
+            "李德木",
+            "friendship"
+        ],
+        [
+            "李高柏",
+            "兄弟",
+            "干友",
+            "帮手",
+            "学生",
+            "伙伴",
+            "合伙",
+            "朋友"
+        ],
+        [
+            "甘玛",
+            "关系1",
+            "关系2"
+        ],
+        [
+            "郑函贞",
+            "brother-in-law, friend"
+        ],
+        [
+            "隼",
+            "brother-in-law, friend"
+        ],
+        [
+            "鬼印",
+            "brother-in-law",
+            " друigos"
+        ]
+    ],
+    "李高柏": [
+        [
+            "周教授",
+            "Teacher-Student",
+            "Mentor-Mentee"
+        ],
+        [
+            "如娅",
+            "Friend",
+            "Classmate",
+            "Schoolmate"
+        ],
+        [
+            "山灵",
+            "friend",
+            "mentee",
+            "ward",
+            "student"
+        ],
+        [
+            "巴府山",
+            "relation1, relation2"
+        ],
+        [
+            "巴府山的女儿",
+            "relationship 1, relationship 2, ..., relationship 10"
+        ],
+        [
+            "李良松",
+            "兄弟",
+            "干友",
+            "帮手",
+            "学生",
+            "伙伴",
+            "合伙",
+            "朋友"
+        ],
+        [
+            "甘玛",
+            "friend",
+            "mentor",
+            "romantic partner"
+        ],
+        [
+            "郑函贞",
+            "friend, mentor, colleague"
+        ],
+        [
+            "隼",
+            "Brother, Apprentice, Friend, Helper, Student"
+        ],
+        [
+            "鬼印",
+            "victim"
+        ]
+    ],
+    "Teacher-Student": [
+        [
+            " Grosvenor",
+            "学生与教师",
+            "好友",
+            "帮助者"
+        ]
+    ],
+    "Grosvenor": [
+        [
+            "Teacher-Student",
+            "学生与教师",
+            "好友",
+            "帮助者"
+        ]
+    ],
+    "郑函贞": [
+        [
+            "周教授",
+            "Friend",
+            "Mentee"
+        ],
+        [
+            "如娅",
+            "Acquaintance",
+            "Classmate",
+            "Schoolmate",
+            " Nephew",
+            "Aunt",
+            "Uncle",
+            "Cousin",
+            "Friend",
+            "Mentor",
+            "Teacher",
+            "Student",
+            "Informant",
+            "Information Receiver",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X",
+            "Nephew of X",
+            "Aunt of X",
+            "Uncle of X",
+            "Cousin of X"
+        ],
+        [
+            "山灵",
+            "fiancé",
+            "student",
+            "reincarnation",
+            "trust"
+        ],
+        [
+            "巴府山",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "바府山的女儿",
+            "husband",
+            "brother",
+            "son",
+            "uncle",
+            "friend"
+        ],
+        [
+            "李德木",
+            "brother-in-law, friend"
+        ],
+        [
+            "李良松",
+            "sister-in-law, friend"
+        ],
+        [
+            "李高柏",
+            "friend, mentee, colleague"
+        ],
+        [
+            "甘玛",
+            "friend, classmate"
+        ],
+        [
+            "隼",
+            "mentee, student, and friend"
+        ],
+        [
+            "鬼印",
+            "Friend, Mentor"
+        ]
+    ],
+    "隼": [
+        [
+            "周教授",
+            "Friend",
+            "Mentee"
+        ],
+        [
+            "如娅",
+            " acquaintance",
+            " classmate",
+            " colleague",
+            " friend",
+            " roommate",
+            " schoolmate"
+        ],
+        [
+            "山灵",
+            "father-in-law/son-in-law",
+            "employer/employee",
+            "teacher/student",
+            "mentor/mentee",
+            "friend"
+        ],
+        [
+            "巴府山",
+            "employee",
+            "subordinate"
+        ],
+        [
+            "巴府山的女儿",
+            "关系1",
+            "关系2"
+        ],
+        [
+            "李德木",
+            "brother-in-law, friend"
+        ],
+        [
+            "李良松",
+            "brother-in-law, friend"
+        ],
+        [
+            "李高柏",
+            "Brother, Apprentice, Friend, Helper, Student"
+        ],
+        [
+            "甘玛",
+            "哥哥",
+            "friend"
+        ],
+        [
+            "郑函贞",
+            "mentor, teacher, and friend"
+        ],
+        [
+            "鬼印",
+            "李高柏",
+            "巴府山",
+            "李德木"
+        ]
+    ],
+    "鬼印": [
+        [
+            "周教授",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "如娅",
+            "兄弟hangout",
+            "master"
+        ],
+        [
+            "山灵",
+            "兄弟"
+        ],
+        [
+            "巴府山",
+            "Employer of X",
+            "Master of X",
+            "Superior of X",
+            "Perpetrator of X"
+        ],
+        [
+            "巴府山的女儿",
+            "Fiancé"
+        ],
+        [
+            "李德木",
+            "brother-in-law",
+            " old friend"
+        ],
+        [
+            "李良松",
+            "brother-in-law",
+            " old friend"
+        ],
+        [
+            "甘玛",
+            "sibling",
+            "Parent of X"
+        ],
+        [
+            "郑函贞",
+            "Friend, Mentor"
+        ],
+        [
+            "隼",
+            "李高柏",
+            "巴府山",
+            "李德木"
+        ]
+    ],
+    "甘玛": [
+        [
+            "如娅",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "山灵",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "巴府山",
+            "employee of X",
+            "servant of X"
+        ],
+        [
+            "巴府山的女儿",
+            "李高柏"
+        ],
+        {
+            "李德木": [
+                "same person (different reference)",
+                "same person (different identity)",
+                "enemy",
+                "suspect",
+                "stranger"
+            ]
+        },
+        [
+            "李良松",
+            "关系1",
+            "关系2"
+        ],
+        [
+            "李高柏",
+            "friend",
+            "mentee",
+            "romantic partner"
+        ],
+        [
+            "郑函贞",
+            "friend, classmate"
+        ],
+        [
+            "隼",
+            "妹妹",
+            "friend"
+        ],
+        [
+            "鬼印",
+            "sibling",
+            "Child of X"
+        ]
+    ]
+}

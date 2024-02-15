@@ -1,0 +1,45 @@
+{
+    "周持同": [
+      ["崔寿亨", "grandfather of x"], 
+      ["大哥", "brother of x, older brother of x"], 
+      ["嫂子", "sister in law of x"], 
+      ["宿年", "nephew of x, younger brother of x"], 
+      ["于宿年", "brother in law of x"], 
+      ["甜愁", "lover of x, lover of x"]
+    ],
+    "崔寿亨": [
+      ["周持同", "grandfather of x"], 
+      ["大哥", "father of x, grandfather of x"], 
+      ["嫂子", "mother of x, grandmother of x"], 
+      ["宿年", "son of x, nephew of x"], 
+      ["于宿年", "son in law of x, brother in law of x"]
+    ],
+    "大哥": [
+      ["周持同", "brother of x, younger brother of x"], 
+      ["嫂子", "wife of x, sister in law of x"], 
+      ["宿年", "nephew of x, son of x"], 
+      ["于宿年", "brother in law of x, son in law of x"]
+    ],
+    "嫂子": [
+      ["周持同", "brother in law of x, husband of x"], 
+      ["大哥", "husband of x, older brother of x"], 
+      ["宿年", "nephew of x, son of x"], 
+      ["于宿年", "brother in law of x, son in law of x"]
+    ],
+    "宿年": [
+      ["周持同", "nephew of x, younger brother of x"], 
+      ["大哥", "uncle of x, older brother of x"], 
+      ["嫂子", "aunt of x, sister in law of x"], 
+      ["于宿年", "father of x, brother in law of x"]
+    ],
+    "于宿年": [
+      ["周持同", "brother in law of x, husband of x"], 
+      ["大哥", "brother of x, older brother of x"], 
+      ["嫂子", "sister in law of x, wife of x"], 
+      ["宿年", "brother of x, younger brother of x"]
+    ],
+    "甜愁": [
+      ["周持同", "lover of x, lover of x"], 
+      ["崔寿亨", "master of x, grandfather of x"]
+    ]
+}

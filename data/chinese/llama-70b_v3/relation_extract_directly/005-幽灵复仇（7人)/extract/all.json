@@ -1,0 +1,41 @@
+{
+    "岳东汶": [
+      ["孟老爷", "friend of x"], 
+      ["吴百安", "classmate of x, enemy of x"], 
+      ["阿明", "colleague of x, friend of x"], 
+      ["夏三虎", "friend of x"], 
+      ["白常恭", "friend of x"], 
+      ["岳客沙", "friend of x"], 
+      ["李子材", "father of x, classmate of x, colleague of x"]
+    ],
+    "岳客沙": [
+      ["吴百安", "friend of x, colleague of x"], 
+      ["岳东汶", "friend of x"]
+    ],
+    "吴百安": [
+      ["岳客沙", "friend of x, colleague of x"], 
+      ["岳东汶", "friend of x"]
+    ],
+    "阿明": [
+      ["李子材", "father of x, classmate of x, colleague of x"], 
+      ["岳东汶", "friend of x, colleague of x"]
+    ],
+    "李子材": [
+      ["阿明", "father of x, classmate of x, colleague of x"], 
+      ["岳东汶", "friend of x, doctor of x"]
+    ],
+    "春三虎": [
+      ["岳东汶", "friend of x"], 
+      ["夏仲鹏", "older brother of x"]
+    ],
+    "白常恭": [
+      ["岳东汶", "friend of x"], 
+      ["阿明", "father of x, classmate of x, colleague of x"]
+    ],
+    "夏仲鹏": [
+      ["春三虎", "older brother of x"]
+    ],
+    "夏叔娥": [
+      ["春三虎", "niece of x, colleague of x"]
+    ]
+}

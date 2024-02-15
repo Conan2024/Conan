@@ -1,0 +1,44 @@
+{
+    "方医生": [
+      ["姚长寿", "colleague of x"], 
+      ["姚仲义", "nephew of x"], 
+      ["张得采", "adversary of x"], 
+      ["张雅娣", "cousin of x"], 
+      ["田红娇", "cousin of x"], 
+      ["神秘人", "enemy of x"]
+    ],
+    "姚长寿": [
+      ["方医生", "colleague of x"], 
+      ["姚仲义", "nephew of x"], 
+      ["孟老爷", "father of x"], 
+      ["神秘人", "enemy of x"]
+    ],
+    "姚仲义": [
+      ["方医生", "nephew of x"], 
+      ["姚长寿", "brother of x"], 
+      ["孟老爷", "father of x"]
+    ],
+    "孟老爷": [
+      ["姚长寿", "father of x"], 
+      ["姚仲义", "nephew of x"], 
+      ["神秘人", "enemy of x"]
+    ],
+    "张得采": [
+      ["张雅娣", "cousin of x"], 
+      ["田红娇", "cousin of x"]
+    ],
+    "张雅娣": [
+      ["方医生", "cousin of x"], 
+      ["张得采", "cousin of x"], 
+      ["田红娇", "cousin of x"]
+    ],
+    "田红娇": [
+      ["方医生", "cousin of x"], 
+      ["张得采", "cousin of x"], 
+      ["张雅娣", "cousin of x"]
+    ],
+    "神秘人": [
+      ["方医生", "enemy of x"], 
+      ["姚长寿", "enemy of x"]
+    ]
+}

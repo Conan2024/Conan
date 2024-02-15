@@ -1,0 +1,30 @@
+{
+    "West": [
+      ["Sylvia Costa", "friend of x"], 
+      ["Penny Parker", "mentor of x"], 
+      ["Catherine Scott", "friend of x"], 
+      ["John Miller", "former romantic relationships with x"]
+    ],
+    "Sylvia Costa": [
+      ["West", "friend of x"], 
+      ["Catherine Scott", "friend of x"], 
+      ["John Miller", "ex romantic relationships with x"]
+    ],
+    "Penny Parker": [
+      ["West", "mentor of x"], 
+      ["John Miller", "informant of x"]
+    ],
+    "Catherine Scott": [
+      ["West", "friend of x"], 
+      ["Sylvia Costa", "friend of x"], 
+      ["Oliver Richards", "fiance of x"]
+    ],
+    "John Miller": [
+      ["West", "former romantic relationships with x"], 
+      ["Sylvia Costa", "ex romantic relationships with x"], 
+      ["Penny Parker", "informant of x"]
+    ],
+    "Oliver Richards": [
+      ["Catherine Scott", "fiancee of x"]
+    ]
+}

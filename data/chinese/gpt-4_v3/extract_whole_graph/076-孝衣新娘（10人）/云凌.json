@@ -1,0 +1,170 @@
+{
+    "云凌": [
+        [
+            "廖一乔",
+            "father of x"
+        ],
+        [
+            "唐婉枫",
+            "mother of x"
+        ],
+        [
+            "唐茂光",
+            "uncle of x"
+        ],
+        [
+            "任爷爷（任仲远）",
+            "acquaintance of x, helper of x"
+        ],
+        [
+            "徐伯清",
+            "lover of x, relative of x"
+        ],
+        [
+            "舅舅的女儿",
+            "cousin of x"
+        ]
+    ],
+    "廖一乔": [
+        [
+            "云凌",
+            "child of x"
+        ],
+        [
+            "唐婉枫",
+            "husband of x"
+        ],
+        [
+            "唐茂光",
+            "brother in law of x"
+        ],
+        [
+            "任爷爷（任仲远）",
+            "helped by x"
+        ]
+    ],
+    "唐婉枫": [
+        [
+            "云凌",
+            "child of x"
+        ],
+        [
+            "廖一乔",
+            "wife of x"
+        ],
+        [
+            "唐茂光",
+            "same person as x (different identity)"
+        ],
+        [
+            "舅舅的女儿",
+            "mother of x"
+        ]
+    ],
+    "唐茂光": [
+        [
+            "云凌",
+            "father in law of x"
+        ],
+        [
+            "廖一乔",
+            "brother in law of x"
+        ],
+        [
+            "唐婉枫",
+            "same person as x (different identity)"
+        ]
+    ],
+    "任爷爷（任仲远）": [
+        [
+            "云凌",
+            "acquaintance of x, helper of x"
+        ],
+        [
+            "廖一乔",
+            "helper of x"
+        ]
+    ],
+    "徐伯清": [
+        [
+            "云凌",
+            "lover of x, relative of x"
+        ],
+        [
+            "姚仲义",
+            "acquaintance of x"
+        ]
+    ],
+    "舅舅的女儿": [
+        [
+            "云凌",
+            "cousin of x"
+        ],
+        [
+            "唐婉枫",
+            "child of x"
+        ]
+    ],
+    "姚仲义": [
+        [
+            "徐伯清",
+            "acquaintance of x"
+        ],
+        [
+            "虞医师",
+            "superior of x"
+        ],
+        [
+            "陈均梦",
+            "brother in law of x"
+        ],
+        [
+            "红夫人",
+            "mother of x"
+        ],
+        [
+            "贵叔",
+            "acquaintance of x"
+        ]
+    ],
+    "虞医师": [
+        [
+            "姚仲义",
+            "subordinate of x"
+        ],
+        [
+            "陈均梦",
+            "perpetrator of x"
+        ]
+    ],
+    "红夫人": [
+        [
+            "姚仲义",
+            "mother of x"
+        ],
+        [
+            "贵叔",
+            "helped by x"
+        ]
+    ],
+    "贵叔": [
+        [
+            "姚仲义",
+            "acquaintance of x"
+        ],
+        [
+            "红夫人",
+            "helper of x"
+        ]
+    ],
+    "陈均梦": [
+        [
+            "虞医师",
+            "victim of x"
+        ],
+        [
+            "姚仲义",
+            "sister in law of x"
+        ]
+    ]
+}

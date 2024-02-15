@@ -1,0 +1,39 @@
+{
+    "哈罗德•哈里森": [
+      ["玛丽娜", "husband of x, father of x child"], 
+      ["露西•哈里森", "daughter of x, child of x husband"], 
+      ["艾米•摩根", "sister of x, sister in law of x"], 
+      ["杰奎琳•佩里", "co wife of x, sister in law of x"], 
+      ["麦克斯•派克", "colleague of x, potential enemy of x"]
+    ],
+    "玛丽娜": [
+      ["哈罗德•哈里森", "husband of x, father of x child"], 
+      ["露西•哈里森", "daughter of x, child of x husband"], 
+      ["艾米•摩根", "sister of x, sister in law of x"], 
+      ["杰奎琳•佩里", "co wife of x, sister in law of x"]
+    ],
+    "露西•哈里森": [
+      ["哈罗德•哈里森", "father of x, husband of x mother"], 
+      ["玛丽娜", "mother of x, wife of x father"], 
+      ["艾米•摩根", "aunt of x, sister of x mother"], 
+      ["杰奎琳•佩里", "co wife of x, sister in law of x"]
+    ],
+    "艾米•摩根": [
+      ["哈罗德•哈里森", "brother in law of x, husband of x sister"], 
+      ["玛丽娜", "sister of x, wife of x brother in law"], 
+      ["露西•哈里森", "niece of x, daughter of x sister"], 
+      ["杰奎琳•佩里", "co wife of x, sister in law of x"]
+    ],
+    "杰奎琳•佩里": [
+      ["哈罗德•哈里森", "brother in law of x, husband of x co wife"], 
+      ["玛丽娜", "co wife of x, sister in law of x"], 
+      ["露西•哈里森", "stepdaughter of x, child of x co wife"], 
+      ["艾米•摩根", "sister in law of x, wife of x brother in law"]
+    ],
+    "麦克斯•派克": [
+      ["哈罗德•哈里森", "colleague of x, potential enemy of x"], 
+      ["玛丽娜", "colleague of x, potential enemy of x"], 
+      ["露西•哈里森", "colleague of x, potential enemy of x"], 
+      ["杰奎琳•佩里", "colleague of x, potential enemy of x"]
+    ]
+}

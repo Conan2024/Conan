@@ -1,0 +1,84 @@
+{
+    "王邻居": [
+        [
+            "李国富",
+            "debt of x, creditor of x, acquaintance of x, quest companion of x, suspect to x"
+        ],
+        [
+            "何老六",
+            "acquaintance of x, neighbour of x, quest companion of x"
+        ],
+        [
+            "张洁",
+            "neighbour of x"
+        ]
+    ],
+    "李国富": [
+        [
+            "王邻居",
+            "debtor of x, victim of x, acquaintance of x, quest companion of x, suspected by x"
+        ],
+        [
+            "何老六",
+            "co-worker of x, quest companion of x, gambling buddy of x, debtor of x"
+        ],
+        [
+            "张洁",
+            "debtor of x, acquaintance of x"
+        ],
+        [
+            "慕北",
+            "debtor of x, possibly victim of x"
+        ]
+    ],
+    "何老六": [
+        [
+            "王邻居",
+            "acquaintance of x, neighbour of x"
+        ],
+        [
+            "李国富",
+            "co-worker of x, quest companion of x, gambling buddy of x, suspect to x"
+        ],
+        [
+            "张洁",
+            "acquaintance of x"
+        ],
+        [
+            "慕北",
+            "acquaintance of x, helper of x"
+        ]
+    ],
+    "张洁": [
+        [
+            "王邻居",
+            "neighbour of x"
+        ],
+        [
+            "李国富",
+            "creditor of x, acquaintance of x"
+        ],
+        [
+            "何老六",
+            "acquaintance of x"
+        ],
+        [
+            "慕北",
+            "stranger to x"
+        ]
+    ],
+    "慕北": [
+        [
+            "李国富",
+            "creditor of x, possible perpetrator"
+        ],
+        [
+            "何老六",
+            "debtor of x, victim of x, suspect of x"
+        ],
+        [
+            "张洁",
+            "stranger to x"
+        ]
+    ]
+}

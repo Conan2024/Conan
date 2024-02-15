@@ -1,0 +1,72 @@
+{
+    "冯双骥": [
+      ["任师父", "mentor of x, possibly family of x"], 
+      ["李郁", "extramarital affair with x, mother of x's child, admired by x"], 
+      ["赵万雷", "husband of x's lover, comrade of x, employer of x, victim of x"], 
+      ["赵洛意", "daughter of x, cared for by x"], 
+      ["冯竹", "child of x"], 
+      ["尹少鸣", "acquaintance of x"], 
+      ["郭望山", "business partner of x"], 
+      ["赵秋儿", "acquaintance of x"], 
+      ["齐岳", "colleague of x, subordinate of x"], 
+      ["赵卫", "step son of x, admirer of x"]
+    ],
+    "任师父": [
+      ["冯双骥", "student of x"]
+    ],
+    "李郁": [
+      ["冯双骥", "extramarital affair with x, child of x"], 
+      ["赵万雷", "husband of x, cheater of x"], 
+      ["赵洛意", "mother of x, caregiver of x"], 
+      ["赵秋儿", "employer of x"], 
+      ["赵卫", "mother of x"]
+    ],
+    "赵万雷": [
+      ["冯双骥", "friend of x, manipulated by x, victim of x"], 
+      ["李郁", "wife of x, deceived by x"], 
+      ["赵洛意", "father of x"], 
+      ["郭望山", "business partner of x"], 
+      ["赵秋儿", "employer of x"], 
+      ["齐岳", "employer of x, subordinate of x"], 
+      ["赵卫", "father of x"]
+    ],
+    "赵洛意": [
+      ["冯双骥", "father of x, protector of x"], 
+      ["李郁", "daughter of x"], 
+      ["赵万雷", "daughter of x"], 
+      ["冯竹", "half sister of x"], 
+      ["尹少鸣", "acquaintance of x"], 
+      ["赵秋儿", "friend of x"], 
+      ["齐岳", "protected by x"], 
+      ["赵卫", "half sister of x"]
+    ],
+    "冯竹": [
+      ["冯双骥", "child of x"], 
+      ["赵洛意", "half sister of x"]
+    ],
+    "尹少鸣": [
+      ["冯双骥", "acquaintance of x"], 
+      ["赵洛意", "acquaintance of x"]
+    ],
+    "郭望山": [
+      ["冯双骥", "business partner of x"], 
+      ["赵万雷", "business partner of x"]
+    ],
+    "赵秋儿": [
+      ["冯双骥", "acquaintance of x"], 
+      ["李郁", "employee of x"], 
+      ["赵万雷", "servant of x"], 
+      ["赵洛意", "friend of x"]
+    ],
+    "齐岳": [
+      ["冯双骥", "colleague of x, superior of x"], 
+      ["赵万雷", "employer of x, superior of x"], 
+      ["赵洛意", "protector of x"]
+    ],
+    "赵卫": [
+      ["冯双骥", "step father of x, mentor of x"], 
+      ["李郁", "mother of x"], 
+      ["赵万雷", "son of x"], 
+      ["赵洛意", "half sibling of x"]
+    ]
+}

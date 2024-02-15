@@ -1,0 +1,71 @@
+{
+    "薛达财": [
+      ["于彦诚", "friend of x, colleague of x, classmate of x, rival of x"], 
+      ["张太太", "wife of x, friend of x"], 
+      ["葛月曼", "sister of x, friend of x"], 
+      ["葛月萝", "sister of x, friend of x"], 
+      ["葛继先", "father of x"], 
+      ["薛玉帆", "son of x, nephew of x"], 
+      ["朱陵山", "brother in law of x, rival of x"]
+    ],
+    "于彦诚": [
+      ["薛达财", "friend of x, colleague of x, classmate of x, rival of x"], 
+      ["张太太", "friend of x"], 
+      ["葛月曼", "sister of x"], 
+      ["葛月萝", "sister of x"], 
+      ["葛继先", "father of x"], 
+      ["薛玉帆", "son of x"], 
+      ["朱陵山", "brother in law of x"]
+    ],
+    "张太太": [
+      ["薛达财", "husband of x, friend of x"], 
+      ["于彦诚", "friend of x"], 
+      ["葛月曼", "sister of x"], 
+      ["葛月萝", "sister of x"], 
+      ["葛继先", "father of x"], 
+      ["薛玉帆", "son of x"], 
+      ["朱陵山", "brother in law of x, rival of x"]
+    ],
+    "葛月曼": [
+      ["于彦诚", "sister of x"], 
+      ["张太太", "sister of x"], 
+      ["葛月萝", "sister of x"], 
+      ["葛继先", "father of x"], 
+      ["薛玉帆", "nephew of x"], 
+      ["朱陵山", "brother in law of x"]
+    ],
+    "葛月萝": [
+      ["于彦诚", "sister of x"], 
+      ["张太太", "sister of x"], 
+      ["葛月曼", "sister of x"], 
+      ["葛继先", "father of x"], 
+      ["薛玉帆", "nephew of x"], 
+      ["朱陵山", "brother in law of x"]
+    ],
+    "葛继先": [
+      ["于彦诚", "son of x"], 
+      ["张太太", "daughter in law of x"], 
+      ["葛月曼", "daughter of x"], 
+      ["葛月萝", "daughter of x"], 
+      ["薛玉帆", "grandson of x"], 
+      ["朱陵山", "son in law of x"]
+    ],
+    "薛玉帆": [
+      ["薛达财", "father of x"], 
+      ["于彦诚", "friend of x, colleague of x"], 
+      ["张太太", "mother of x"], 
+      ["葛月曼", "aunt of x"], 
+      ["葛月萝", "aunt of x"], 
+      ["葛继先", "grandfather of x"], 
+      ["朱陵山", "uncle of x"]
+    ],
+    "朱陵山": [
+      ["薛达财", "brother in law of x, rival of x"], 
+      ["于彦诚", "rival of x"], 
+      ["张太太", "brother in law of x"], 
+      ["葛月曼", "sister in law of x"], 
+      ["葛月萝", "sister in law of x"], 
+      ["葛继先", "father in law of x"], 
+      ["薛玉帆", "nephew of x"]
+    ]
+}

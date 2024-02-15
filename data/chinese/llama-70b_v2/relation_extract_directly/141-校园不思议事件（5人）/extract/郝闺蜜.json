@@ -1,0 +1,26 @@
+{
+    "郝闺蜜": [
+      ["张恶霸", "same person as x (different reference)"], 
+      ["林校花", "friend of x"]
+    ],
+    "张恶霸": [
+      ["郝闺蜜", "suspect of x"], 
+      ["林校花", "fiancé of x"]
+    ],
+    "林校花": [
+      ["郝闺蜜", "friend of x"], 
+      ["张恶霸", "fiancé of x"]
+    ],
+    "王学习": [
+      ["张恶霸", "acquaintance of x"], 
+      ["郝闺蜜", "classmate of x"]
+    ],
+    "李小弟": [
+      ["张恶霸", "acquaintance of x"], 
+      ["郝闺蜜", "classmate of x"]
+    ],
+    "赵帅哥": [
+      ["张恶霸", "friend of x"], 
+      ["郝闺蜜", "classmate of x"]
+    ]
+}

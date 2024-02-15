@@ -1,0 +1,84 @@
+{
+    "葛月萝": [
+      ["月曼", "sister of x, family member of x"], 
+      ["朱陵山", "husband of x, 养老女婿 of x"], 
+      ["薛达财", "family relationship of x, friendly relationship of x, complex and suspicious relationship"], 
+      ["乐婉", "adopted daughter of x, step daughter of x, servant master of x, neighbor of x, friend of x"], 
+      ["阿爸", "husband of x"], 
+      ["阿妈", "daughter of x, niece of x, cousin of x, adopted daughter of x"], 
+      ["张太太", "朋友 of x, 憧憬 of x, 师傅 of x, 援助 of x, 敌人 of x"], 
+      ["张俊诗", "uncle of x, boss of x, friend of x"]
+    ],
+    "月曼": [
+      ["葛月萝", "sister of x, family member of x"], 
+      ["朱陵山", "relative by marriage of x"], 
+      ["乐婉", "葛继先 of x, 葛月萝 of x"], 
+      ["阿爸", "relation1 of x, relation2 of x"], 
+      ["阿妈", "relation1 of x, relation2 of x"], 
+      ["张太太", "acquaintance of x, neighbor of x"], 
+      ["张俊诗", "wife of x, 葛继先的小女儿 of x, 葛家的法眼 of x"]
+    ],
+    "朱陵山": [
+      ["葛月萝", "husband of x, 养老女婿 of x"], 
+      ["月曼", "husband of x"], 
+      ["乐婉", "monthly relationship 1 of x"], 
+      ["阿爸", "husband of x, extramarital affair with x"], 
+      ["阿妈", "葛month萝 of x"], 
+      ["张太太", "husband of x, family member of x, acquaintance of x, neighbor of x"]
+    ],
+    "薛达财": [
+      ["葛月萝", "family relationship of x, friendly relationship of x, complex and suspicious relationship"], 
+      ["乐婉", "maternal uncle of x, adoptive father of x, father in law of x"], 
+      ["阿爸", "husband of x 月萝, father of x 月萝's child, co owner of x 葛家财产"], 
+      ["阿妈", "husband of x"], 
+      ["张太太", "relationship 1: husband of x cousin, relationship 2: friend of x husband"]
+    ],
+    "乐婉": [
+      ["葛月萝", "adopted daughter of x, step daughter of x, servant master of x, neighbor of x, friend of x"], 
+      ["月曼", "葛继先 of x, 葛月萝 of x"], 
+      ["朱陵山", "monthly relationship 1 of x"], 
+      ["薛达财", "daughter in law of x"], 
+      ["阿爸", "mistress of x, daughter in law of x, employee of x, friend/confidante of x"], 
+      ["阿妈", "friend of x, confidant of x, spy of x, ally of x"]
+    ],
+    "阿爸": [
+      ["葛月萝", "father of x"], 
+      ["月曼", "relation1 of x, relation2 of x"], 
+      ["朱陵山", "father of x, perpetrator of x"], 
+      ["薛达财", "father in law of x 月萝, grandfather of x 月萝's child, co owner of x 葛家财产"], 
+      ["楽婉", "mistress of x, son in law of x, employer of x, friend/confidante of x"], 
+      ["阿妈", "husband of x, father of x, master of x, employer of x, older generation of x"], 
+      ["张太太", "relative of x, 友商 of x"], 
+      ["张俊诗", "father in law of x"]
+    ],
+    "阿妈": [
+      ["葛月萝", "daughter of x, niece of x, cousin of x, adopted daughter of x"], 
+      ["月曼", "relation1 of x, relation2 of x"], 
+      ["朱陵山", "葛month萝 of x"], 
+      ["薛达财", "wife of x"], 
+      ["乐婉", "friend of x, confidant of x, spy of x, ally of x"], 
+      ["阿爸", "wife of x, mother of x, sister of x, daughter of x, younger generation of x"], 
+      ["张太太", "relative of x, acquaintance of x"], 
+      ["张俊诗", "husband of x, stranger to x"]
+    ],
+    "张太太": [
+      ["葛月萝", "朋友 of x, 憧憬 of x, 师傅 of x, 援助 of x, 敌人 of x"], 
+      ["月曼", "acquaintance of x, neighbor of x"], 
+      ["朱陵山", "husband of x, family member of x, acquaintance of x, neighbor of x"], 
+      ["薛达财", "relationship 1: cousin in law of x, relationship 2: friend of x spouse"], 
+      ["阿爸", "relative of x, 友商 of x"], 
+      ["阿妈", "relative of x, acquaintance of x"], 
+      ["张俊诗", "relationship 1: husband wife of x, relationship 2: romantic partner of x, relationship 3: mother in law of x, relationship 4: father in law of x, relationship 5: business partner of x, relationship 6: employee employer of x, relationship 7: neighbor of x"]
+    ],
+    "张俊诗": [
+      ["葛月萝", "niece of x, employee of x, friend of x"], 
+      ["月曼", "husband of x, 葛继先的法眼 of x, old friend of x"], 
+      ["乐婉", "friend of x 葛月萝's husband"], 
+      ["阿爸", "son in law of x"], 
+      ["阿妈", "wife of x, stranger to x"], 
+      ["张太太", "relationship 1: husband wife of x, relationship 2: romantic partner of x, relationship 3: father in law of x, relationship 4: mother in law of x, relationship 5: business partner of x, relationship 6: employee employer of x, relationship 7: neighbor of x"]
+    ],
+    "楽婉": [
+      ["张俊诗", "husband of x 葛月萝's friend"]
+    ]
+}

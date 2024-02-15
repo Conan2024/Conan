@@ -1,0 +1,58 @@
+{
+    "特尔特拉福德": [
+      ["李仲", "acquaintance of x"], 
+      ["李延", "manipulated by x, same person as x (different identity)"], 
+      ["尔矢斯芭嗒", "helper of x, same person as x (different identity), manipulator of x"], 
+      ["陈倩", "child of x"], 
+      ["方柳", "acquaintance of x"], 
+      ["小茜", "acquaintance of x"]
+    ],
+    "李仲": [
+      ["特尔特拉福德", "acquaintance of x"], 
+      ["李延", "sibling of x"], 
+      ["尔矢斯芭嗒", "acquaintance of x"], 
+      ["陈倩", "romantic relationships with x, future relative of x"], 
+      ["方柳", "acquaintance of x"], 
+      ["小茜", "acquaintance of x"]
+    ],
+    "李延": [
+      ["特尔特拉福德", "manipulator of x, same person as x (different identity)"], 
+      ["李仲", "sibling of x"], 
+      ["尔矢斯芭嗒", "acquaintance of x"], 
+      ["陈倩", "acquaintance of x"], 
+      ["方柳", "acquaintance of x"], 
+      ["小茜", "acquaintance of x"]
+    ],
+    "尔矢斯芭嗒": [
+      ["特尔特拉福德", "helped by x, same person as x (different identity), manipulated by x"], 
+      ["李仲", "acquaintance of x"], 
+      ["李延", "acquaintance of x"], 
+      ["陈倩", "adoptive father of x"], 
+      ["方柳", "acquaintance of x"], 
+      ["小茜", "acquaintance of x"]
+    ],
+    "陈倩": [
+      ["特尔特拉福德", "child of x"], 
+      ["李仲", "romantic relationships with x, future relative of x"], 
+      ["李延", "acquaintance of x"], 
+      ["尔矢斯芭嗒", "adopted by x"], 
+      ["方柳", "acquaintance of x"], 
+      ["小茜", "acquaintance of x"]
+    ],
+    "方柳": [
+      ["特尔特拉福德", "acquaintance of x"], 
+      ["李仲", "acquaintance of x"], 
+      ["李延", "acquaintance of x"], 
+      ["尔矢斯芭嗒", "acquaintance of x"], 
+      ["陈倩", "acquaintance of x"], 
+      ["小茜", "acquaintance of x"]
+    ],
+    "小茜": [
+      ["特尔特拉福德", "acquaintance of x"], 
+      ["李仲", "acquaintance of x"], 
+      ["李延", "acquaintance of x"], 
+      ["尔矢斯芭嗒", "acquaintance of x"], 
+      ["陈倩", "acquaintance of x"], 
+      ["方柳", "acquaintance of x"]
+    ]
+}

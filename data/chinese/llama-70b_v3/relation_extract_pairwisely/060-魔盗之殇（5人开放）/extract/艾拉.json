@@ -1,0 +1,25 @@
+{
+    "剧务戴维": [
+      ["罗琳", "colleague of x"], 
+      ["保安凯文", "acquaintance of x, friend of x, admirer of x"]
+    ],
+    "罗琳": [
+      ["后勤格里夫", "friend of x"], 
+      ["古思特", "friend of x"]
+    ],
+    "后勤格里夫": [
+      ["罗琳", "friend of x"], 
+      ["保安凯文", "same person as x (different reference)"]
+    ],
+    "保安凯文": [
+      ["后勤格里夫", "same person as x (different reference)"], 
+      ["古思特", "friend of x, acquaintance of x"]
+    ],
+    "古思特": [
+      ["罗琳", "master of x, bully of x"], 
+      ["保安凯文", "employer of x, master of x"]
+    ],
+    "宣传罗琳": [
+      ["剧务戴维", "friend of x"]
+    ]
+}

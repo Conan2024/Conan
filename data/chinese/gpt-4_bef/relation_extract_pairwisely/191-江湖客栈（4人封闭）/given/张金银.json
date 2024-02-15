@@ -1,0 +1,50 @@
+{
+    "张金银": [
+      ["孟三春", "sworn brother of x, friend of x, business partner of x, informant of x, victim of x"], 
+      ["张金山", "sibling of x, brother of x"], 
+      ["洪江水", "employee of x, acquaintance of x"], 
+      ["蔡思娘", "employer of x, acquaintance of x"], 
+      ["洪长烈", "enemy of x, adversary of x, victim of x"], 
+      ["洪二郎", "enemy of x, adversary of x"]
+    ],
+    "孟三春": [
+      ["张金银", "sworn brother of x, friend of x, business partner of x, information receiver from x, betrayed by x, killed by x"], 
+      ["张金山", "sworn brother of x"], 
+      ["洪江水", "employee of x, quest companion of x, suspected by x, murderer of x"], 
+      ["蔡思娘", "employer of x, quest companion of x"], 
+      ["洪长烈", "adversary of x, suspect to x, victim of x"], 
+      ["洪二郎", "adversary of x, victim of x, suspected by x"]
+    ],
+    "张金山": [
+      ["张金银", "sibling of x, brother of x"], 
+      ["孟三春", "sworn brother of x"], 
+      ["洪江水", "enemy of x, suspected by x"], 
+      ["蔡思娘", "acquaintance of x, colleague of x"], 
+      ["洪长烈", "enemy of x, adversary of x"], 
+      ["洪二郎", "enemy of x, adversary of x, perpetrator of x"]
+    ],
+    "洪江水": [
+      ["张金银", "employer of x, acquaintance of x"], 
+      ["孟三春", "employer of x, quest companion of x, suspect to x"], 
+      ["张金山", "perpetrator of x, suspected by x"], 
+      ["蔡思娘", "colleague of x, acquaintance of x"]
+    ],
+    "蔡思娘": [
+      ["张金银", "employee of x, acquaintance of x"], 
+      ["孟三春", "employee of x, quest companion of x"], 
+      ["张金山", "acquaintance of x, colleague of x"], 
+      ["洪江水", "colleague of x, acquaintance of x"]
+    ],
+    "洪长烈": [
+      ["张金银", "enemy of x, adversary of x, perpetrator of x"], 
+      ["孟三春", "adversary of x, suspected by x"], 
+      ["张金山", "enemy of x, adversary of x"], 
+      ["洪二郎", "father of x"]
+    ],
+    "洪二郎": [
+      ["张金银", "enemy of x, adversary of x"], 
+      ["孟三春", "adversary of x, perpetrator of x, suspect of x"], 
+      ["张金山", "enemy of x, victim of x, adversary of x"], 
+      ["洪长烈", "child of x"]
+    ]
+}

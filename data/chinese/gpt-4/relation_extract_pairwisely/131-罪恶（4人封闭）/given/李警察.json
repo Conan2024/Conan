@@ -1,0 +1,92 @@
+{
+    "李警察": [
+        [
+            "李警察的女友",
+            "girlfriend of x, victim of x, helped by x"
+        ],
+        [
+            "王村长",
+            "subject of investigation for x, acquainted by x, guest of x, suspect of x"
+        ],
+        [
+            "胡调研",
+            "acquaintance of x, information receiver from x, colleague of x"
+        ],
+        [
+            "赵慈善",
+            "suspected by x, victim of x, adversary of x, suspect to x, subject of investigation for x"
+        ]
+    ],
+    "李警察的女友": [
+        [
+            "李警察",
+            "boyfriend of x, seeker of help from x, saved by x"
+        ],
+        [
+            "王村长",
+            "stranger to x"
+        ],
+        [
+            "胡调研",
+            "acquaintance of x"
+        ],
+        [
+            "赵慈善",
+            "victim of x, adversary of x, hater of x, disliked by x, deceiver of x, deceived by x"
+        ]
+    ],
+    "王村长": [
+        [
+            "李警察",
+            "subject of investigation by x, acquaintance of x, host of x, suspected by x"
+        ],
+        [
+            "李警察的女友",
+            "stranger to x"
+        ],
+        [
+            "胡调研",
+            "acquaintance of x, information receiver from x, quest companion of x"
+        ],
+        [
+            "赵慈善",
+            "suspected by x, helped by x"
+        ]
+    ],
+    "胡调研": [
+        [
+            "李警察",
+            "acquaintance of x, informant of x, colleague of x"
+        ],
+        [
+            "李警察的女友",
+            "acquaintance of x"
+        ],
+        [
+            "王村长",
+            "acquaintance of x, informant of x, quest companion of x"
+        ],
+        [
+            "赵慈善",
+            "victim of x, disliked by x"
+        ]
+    ],
+    "赵慈善": [
+        [
+            "李警察",
+            "suspect of x, perpetrator of x, adversary of x"
+        ],
+        [
+            "李警察的女友",
+            "perpetrator of x, adversary of x, hater of x, disliked by x, deceiver of x, deceived by x"
+        ],
+        [
+            "王村长",
+            "suspect of x, helper of x"
+        ],
+        [
+            "胡调研",
+            "perpetrator of x, dislike of x"
+        ]
+    ]
+}

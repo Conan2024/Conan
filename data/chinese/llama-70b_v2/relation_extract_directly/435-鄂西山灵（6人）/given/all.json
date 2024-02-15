@@ -1,0 +1,44 @@
+{
+    "郑函贞": [
+      ["隼", "acquaintance of x, helped of x"], 
+      ["李高柏", "assistant of x, informant of x"], 
+      ["巴府山", "host of x, suspect of x"], 
+      ["忱纱", "caregiver of x, acquaintance of x, sibling of x"], 
+      ["李德木", "employer of x"], 
+      ["周教授", "mentee of x, fiancé's father of x"], 
+      ["周景鱼", "brother in law of x"], 
+      ["鬼印", "rival of x, enemy of x"], 
+      ["甘玛", "friend of x"]
+    ],
+    "隼": [
+      ["郑函贞", "acquaintance of x, helped of x"], 
+      ["李高柏", "student of x"]
+    ],
+    "李高柏": [
+      ["郑函贞", "assistant of x, informant of x"], 
+      ["巴府山", "student of x"]
+    ],
+    "忱纱": [
+      ["郑函贞", "caregiver of x, acquaintance of x, sibling of x"], 
+      ["李德木", "employee of x"]
+    ],
+    "李德木": [
+      ["忱纱", "employee of x"]
+    ],
+    "周教授": [
+      ["郑函贞", "mentee of x, future son in law of x"]
+    ],
+    "周景鱼": [
+      ["郑函贞", "fiancé of x, brother in law of x"]
+    ],
+    "鬼印": [
+      ["郑函贞", "rival of x, enemy of x"]
+    ],
+    "甘玛": [
+      ["郑函贞", "friend of x"]
+    ],
+    "巴府山": [
+      ["郑函贞", "host of x, suspect of x"], 
+      ["李高柏", "student of x"]
+    ]
+}

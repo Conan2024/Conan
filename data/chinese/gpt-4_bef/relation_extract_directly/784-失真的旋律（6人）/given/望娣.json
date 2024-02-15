@@ -1,0 +1,71 @@
+{
+    "阮望娣": [
+      ["阮钱德", "father of x"], 
+      ["阮太太", "mother of x"], 
+      ["招楠", "sibling of x, replaced x's identity, victim of x, sister of x"], 
+      ["贵郎", "sibling of x, brother of x"], 
+      ["罗秀才", "information receiver from x"], 
+      ["罗有诺", "admirer of x, romantic relationships with x"], 
+      ["雪嫣", "sister of x"], 
+      ["齐故飞", "acquaintance of x"], 
+      ["黑莉", "acquaintance of x"], 
+      ["王子摩", "deceived by x"]
+    ],
+    "阮钱德": [
+      ["阮望娣", "child of x, daughter of x"], 
+      ["阮招楠", "child of x, daughter of x"], 
+      ["招楠", "child of x, daughter of x"], 
+      ["贵郎", "child of x, son of x"]
+    ],
+    "阮太太": [
+      ["阮望娣", "child of x, daughter of x"], 
+      ["招楠", "child of x, daughter of x, helped by x"], 
+      ["贵郎", "child of x, son of x"], 
+      ["罗秀才", "tenant of x"], 
+      ["罗有诺", "son of x"], 
+      ["雪嫣", "daughter of x"], 
+      ["王子摩", "manipulated by x"], 
+      ["罗有诺", "manipulator of x"], 
+      ["王子摩", "acquaintance of x"]
+    ],
+    "招楠": [
+      ["阮望娣", "sibling of x, victim of x, sister of x"], 
+      ["阮钱德", "father of x"], 
+      ["阮太太", "mother of x"], 
+      ["贵郎", "sibling of x, brother of x"], 
+      ["罗有诺", "acquaintance of x"], 
+      ["雪嫣", "acquaintance of x"]
+    ],
+    "贵郎": [
+      ["阮望娣", "sibling of x, sister of x"], 
+      ["阮钱德", "father of x"], 
+      ["阮太太", "mother of x"], 
+      ["招楠", "sibling of x, sister of x"]
+    ],
+    "罗秀才": [
+      ["阮太太", "tenant of x"], 
+      ["罗有诺", "father of x"], 
+      ["雪嫣", "father of x"]
+    ],
+    "罗有诺": [
+      ["罗秀才", "child of x, son of x"], 
+      ["雪嫣", "sibling of x, sister of x"], 
+      ["阮望娣", "admirer of x, romantic relationships with x"], 
+      ["阮太太", "adoptive mother of x"]
+    ],
+    "雪嫣": [
+      ["罗秀才", "child of x, daughter of x"], 
+      ["罗有诺", "sibling of x, brother of x"], 
+      ["阮望娣", "sister of x"], 
+      ["阮太太", "adoptive mother of x"]
+    ],
+    "齐故飞": [
+      ["阮望娣", "acquaintance of x"]
+    ],
+    "黑莉": [
+      ["阮望娣", "acquaintance of x"]
+    ],
+    "王子摩": [
+      ["阮望娣", "deceiver of x, deceived by x"]
+    ]
+}

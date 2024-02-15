@@ -1,0 +1,48 @@
+{
+    "顾梦楚": [
+      ["杨水巡", "acquaintance of x, helper of x"], 
+      ["敏兮", "cousin of x, friend of x"], 
+      ["柔儿", "sibling of x, friend of x"], 
+      ["族兄", "relative of x, friend of x"], 
+      ["穆伯宣", "mother in law of x, acquaintance of x"]
+    ],
+    "夕婷": [
+      ["顾梦楚", "spouse of x, friend of x"], 
+      ["杏儿", "parent of x, guardian of x"]
+    ],
+    "杨水巡": [
+      ["顾梦楚", "acquaintance of x, helper of x"], 
+      ["敏兮", "father of x, mentor of x"]
+    ],
+    "敏兮": [
+      ["顾梦楚", "cousin of x, friend of x"], 
+      ["杨水巡", "father of x, mentor of x"]
+    ],
+    "柔儿": [
+      ["顾梦楚", "sibling of x, friend of x"], 
+      ["敏兮", "sibling of x, friend of x"]
+    ],
+    "族兄": [
+      ["顾梦楚", "relative of x, friend of x"], 
+      ["穆伯宣", "family of x, kin of x"]
+    ],
+    "穆伯宣": [
+      ["族兄", "family of x, kin of x"], 
+      ["顾梦楚", "friend of x, mentor of x"]
+    ],
+    "杏儿": [
+      ["夕婷", "parent of x, guardian of x"], 
+      ["顾梦楚", "friend of x, mentor of x"]
+    ],
+    "章善人": [
+      ["顾梦楚", "acquaintance of x"], 
+      ["于伯", "manager of x, chapter zhong of x"]
+    ],
+    "于伯": [
+      ["章善人", "manager of x"], 
+      ["顾梦楚", "acquaintance of x"]
+    ],
+    " Fengr": [
+      ["顾梦楚", "lover of x"]
+    ]
+}

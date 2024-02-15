@@ -1,0 +1,91 @@
+{
+    "郭望山": [
+      ["小混混", "enemy of x, rival of x"], 
+      ["赵万雷", "friend of x, mentor of x"], 
+      ["任师父", "student of x, colleague of x"], 
+      ["廖老板", "business partner of x, customer of x"], 
+      ["冯双骥", "mentor of x"], 
+      ["齐岳", "mentor of x"], 
+      ["尹少鸣", "colleague of x"], 
+      ["花子狸", "friend of x, mentor of x"]
+    ],
+    "小混混": [
+      ["郭望山", "enemy of x, rival of x"], 
+      ["赵万雷", "enemy of x"], 
+      ["任师父", "informant of x"], 
+      ["廖老板", "employed by x, thief of x, acquaintance of x"], 
+      ["冯双骥", "suspected by x"], 
+      ["齐岳", "acquaintance of x"], 
+      ["尹少鸣", "enemy of x, rival of x"], 
+      ["花子狸", "neighbor of x"]
+    ],
+    "赵万雷": [
+      ["郭望山", "friend of x, student of x"], 
+      ["小混混", "enemy of x"], 
+      ["任师父", "mentor of x"], 
+      ["廖老板", "employer of x"], 
+      ["冯双骥", "father of x"], 
+      ["齐岳", "fellow soldiers of x"], 
+      ["尹少鸣", "mentor of x"], 
+      ["花子狸", "extramarital affair with"]
+    ],
+    "任师父": [
+      ["郭望山", "mentor of x, colleague of x"], 
+      ["小混混", "student of x"], 
+      ["赵万雷", "student of x"], 
+      ["廖老板", "mentor of x, business partner of x"], 
+      ["冯双骥", "mentor of x"], 
+      ["齐岳", "student of x"], 
+      ["尹少鸣", "teacher of x"], 
+      ["花子狸", "student of x"]
+    ],
+    "廖老板": [
+      ["郭望山", "business partner of x, product provider of x"], 
+      ["小混混", "employer of x, hired x as thief, knows x"], 
+      ["赵万雷", "employee of x"], 
+      ["任师父", "student of x"], 
+      ["冯双骥", "business partner of x"], 
+      ["齐岳", "employee of x"], 
+      ["尹少鸣", "business partner of x"], 
+      ["花子狸", "business partner of x"]
+    ],
+    "冯双骥": [
+      ["郭望山", "student of x"], 
+      ["小混混", "potential informant of x"], 
+      ["赵万雷", "son of x"], 
+      ["任师父", "student of x"], 
+      ["廖老板", "business partner of x"], 
+      ["齐岳", "friend of x"], 
+      ["尹少鸣", "ex romantic relationships with"], 
+      ["花子狸", "informant of x"]
+    ],
+    "齐岳": [
+      ["郭望山", "student of x"], 
+      ["小混混", "acquaintance of x"], 
+      ["赵万雷", "fellow soldiers of x"], 
+      ["任师父", "teacher of x"], 
+      ["廖老板", "employer of x"], 
+      ["冯双骥", "friend of x"], 
+      ["尹少鸣", "close friends of x"], 
+      ["花子狸", "friend of x"]
+    ],
+    "花子狸": [
+      ["郭望山", "student of x, admired by x"], 
+      ["小混混", "neighbor of x"], 
+      ["赵万雷", "extramarital affair with"], 
+      ["任师父", "mentor of x"], 
+      ["廖老板", "business partner of x"], 
+      ["冯双骥", "mentor of x"], 
+      ["齐岳", "friend of x"], 
+      ["尹少鸣", "parent of x"]
+    ],
+    "尹少鸣": [
+      ["小混混", "enemy of x, rival of x"], 
+      ["赵万雷", "student of x"], 
+      ["任师父", "student of x"], 
+      ["廖老板", "business partner of x"], 
+      ["冯双骥", "ex romantic relationships with"], 
+      ["齐岳", "classmates of x"], 
+      ["花子狸", "child of x"]
+    ]
+}

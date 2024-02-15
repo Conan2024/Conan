@@ -1,0 +1,36 @@
+{
+    "薛媚娘": [
+      ["中年女人", "saved by x"], 
+      ["萧体育", "secret lover of x"], 
+      ["秦老大", "romantic relationships with x"], 
+      ["郑友好", "student of x"], 
+      ["韦小弟", "student of x"], 
+      ["贾美丽", "mentor of x"], 
+      ["庄清纯", "student of x"]
+    ],
+    "中年女人": [
+      ["薛媚娘", "saved by x"]
+    ],
+    "萧体育": [
+      ["薛媚娘", "secret lover of x"]
+    ],
+    "秦老大": [
+      ["薛媚娘", "romantic relationships with x"], 
+      ["郑友好", "classmate of x"], 
+      ["韦小弟", "classmate of x"]
+    ],
+    "郑友好": [
+      ["薛媚娘", "student of x"], 
+      ["秦老大", "classmate of x"]
+    ],
+    "韦小弟": [
+      ["薛媚娘", "student of x"], 
+      ["秦老大", "classmate of x"]
+    ],
+    "贾美丽": [
+      ["薛媚娘", "mentor of x"]
+    ],
+    "庄清纯": [
+      ["薛媚娘", "student of x"]
+    ]
+}

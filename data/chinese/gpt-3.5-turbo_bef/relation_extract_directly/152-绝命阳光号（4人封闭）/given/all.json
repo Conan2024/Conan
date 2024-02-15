@@ -1,0 +1,37 @@
+{
+    "张大副": [
+      ["杨老板", "business partner of x, information receiver from x, adversary of x, attempted perpetrator of x"], 
+      ["很天真", "perpetrator of x, attempted perpetrator of x"], 
+      ["王船工", "product provider of x, victim of x"]
+    ],
+    "很天真": [
+      ["杨老板", "colleague of x, attempted perpetrator of x"], 
+      ["雯秘书", "victim of x"]
+    ],
+    "杨老板": [
+      ["雯秘书", "employer of x, information receiver from x"], 
+      ["很天真", "colleague of x"], 
+      ["玲船医", "information receiver from x"], 
+      ["张大副", "business partner of x"], 
+      ["王小工", "enemy of x"]
+    ],
+    "雯秘书": [
+      ["杨老板", "employee of x, mentor of x"], 
+      ["很天真", "colleague of x, victim of x"], 
+      ["张大副", "business partner of x"], 
+      ["玲船医", "informant of x, information receiver from x"], 
+      ["王小工", "adversary of x"]
+    ],
+    "王船工": [
+      ["张大副", "product provider of x"]
+    ],
+    "玲船医": [
+      ["杨老板", "informant of x, information receiver from x"], 
+      ["雯秘书", "informant of x, information receiver from x"], 
+      ["王小工", "wife of x"]
+    ],
+    "王小工": [
+      ["玲船医", "husband of x"], 
+      ["雯秘书", "adversary of x"]
+    ]
+}

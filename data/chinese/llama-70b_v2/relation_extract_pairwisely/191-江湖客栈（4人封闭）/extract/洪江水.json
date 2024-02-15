@@ -1,0 +1,20 @@
+{
+    "洪江水": [
+      ["张红生", "master servant of x, employer employee of x, tenant landlord of x, friend acquaintance of x, crush of x"], 
+      ["蔡思娘", "enemy of x, rival of x, or adversary of x, romantic interest of x"]
+    ],
+    "张红生": [
+      ["洪江水", "master servant of x, employer employee of x, tenant landlord of x, friend acquaintance of x, affection of x"], 
+      ["孟三春", "acquaintance of x"], 
+      ["蔡思娘", "mentor of x, employer of x, friend of x, romantic partner of x"]
+    ],
+    "蔡思娘": [
+      ["洪江水", "enemy of x, rival of x, or adversary of x, romantic interest of x"], 
+      ["孟三春", "romantic interest of x"], 
+      ["张红生", "mentor of x, employer of x, friend of x, romantic partner of x"]
+    ],
+    "孟三春": [
+      ["张红生", "acquaintance of x"], 
+      ["蔡思娘", "romantic interest of x"]
+    ]
+}

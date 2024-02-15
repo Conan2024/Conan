@@ -1,0 +1,80 @@
+{
+    "经理": [
+        [
+            "女士",
+            "extramarital affair with x, ex-romantic relationships with x"
+        ],
+        [
+            "代理",
+            "acquaintance of x"
+        ],
+        [
+            "李无义",
+            "murderer of x, schoolmate of x, colleague of x, blackmailed by x, romantic rival of x"
+        ],
+        [
+            "同事",
+            "colleague of x"
+        ]
+    ],
+    "女士": [
+        [
+            "经理",
+            "extramarital affair with x, ex-romantic relationships with x"
+        ],
+        [
+            "李无义",
+            "wife of x, victim of x"
+        ],
+        [
+            "同事",
+            "stranger to x"
+        ]
+    ],
+    "代理": [
+        [
+            "经理",
+            "acquaintance of x"
+        ],
+        [
+            "女士",
+            "stranger to x"
+        ],
+        [
+            "同事",
+            "stranger to x"
+        ]
+    ],
+    "李无义": [
+        [
+            "经理",
+            "schoolmate of x, adversary of x, blackmailer of x, victim of x"
+        ],
+        [
+            "女士",
+            "husband of x"
+        ],
+        [
+            "同事",
+            "colleague of x"
+        ]
+    ],
+    "同事": [
+        [
+            "经理",
+            "colleague of x"
+        ],
+        [
+            "女士",
+            "stranger to x"
+        ],
+        [
+            "李无义",
+            "colleague of x"
+        ],
+        [
+            "代理",
+            "stranger to x"
+        ]
+    ]
+}

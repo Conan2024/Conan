@@ -1,0 +1,92 @@
+{
+    "魏学霸": [
+        [
+            "甜记者",
+            "sister of 魏学霸"
+        ],
+        [
+            "严歌手",
+            "admired by 魏学霸, admirer of 严歌手"
+        ],
+        [
+            "甄演员",
+            "jealous of 甄演员, enemy of 甄演员, perpetrator of 甄演员"
+        ],
+        [
+            "白经纪",
+            "dislike of 白经纪, jealous of 白经纪"
+        ]
+    ],
+    "甜记者": [
+        [
+            "魏学霸",
+            "sister of 甜记者"
+        ],
+        [
+            "严歌手",
+            "acquaintance of 严歌手"
+        ],
+        [
+            "甄演员",
+            "informant of 甄演员"
+        ],
+        [
+            "白经纪",
+            "acquaintance of 白经纪"
+        ]
+    ],
+    "严歌手": [
+        [
+            "魏学霸",
+            "admired by 严歌手, stranger to 严歌手"
+        ],
+        [
+            "甜记者",
+            "acquaintance of 甜记者"
+        ],
+        [
+            "甄演员",
+            "work partner of 严歌手, romantic interests of 严歌手"
+        ],
+        [
+            "白经纪",
+            "work partner of 白经纪"
+        ]
+    ],
+    "甄演员": [
+        [
+            "魏学霸",
+            "victim of 甄演员, disliked by 甄演员"
+        ],
+        [
+            "甜记者",
+            "source of information for 甄演员"
+        ],
+        [
+            "严歌手",
+            "work partner of 甄演员, romantic interests of 甄演员"
+        ],
+        [
+            "白经纪",
+            "boyfriend of 甄演员"
+        ]
+    ],
+    "白经纪": [
+        [
+            "魏学霸",
+            "disliked by 白经纪, stranger to 白经纪"
+        ],
+        [
+            "甜记者",
+            "acquaintance of 白经纪"
+        ],
+        [
+            "严歌手",
+            "work partner of 白经纪"
+        ],
+        [
+            "甄演员",
+            "girlfriend of 白经纪"
+        ]
+    ]
+}

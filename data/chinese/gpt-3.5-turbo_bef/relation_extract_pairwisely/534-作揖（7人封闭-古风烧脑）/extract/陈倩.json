@@ -1,0 +1,65 @@
+{
+    "陈倩": [
+      ["陈孜靖", "daughter of x"], 
+      ["陈氏", "child of x"], 
+      ["小茜", "friend of x, saved by x"], 
+      ["李仲", "co wives of x, romantic relationships with x"], 
+      ["李钦仁", "wife of x"], 
+      ["土匪", "saved by x"], 
+      ["李府大公子", "romantic relationships with x"]
+    ],
+    "陈孜靖": [
+      ["陈倩", "father of x"], 
+      ["陈氏", "father of x"], 
+      ["小茜", "daughter of x"], 
+      ["李仲", "fiance of x"], 
+      ["李钦仁", "fiance of x"], 
+      ["李府大公子", "son in law of x"]
+    ],
+    "陈氏": [
+      ["陈倩", "mother of x"], 
+      ["陈孜靖", "wife of x"], 
+      ["小茜", "sibling of x"], 
+      ["李仲", "future son in law of x"], 
+      ["李钦仁", "husband of x"], 
+      ["李府大公子", "future son in law of x"]
+    ],
+    "小茜": [
+      ["陈倩", "friend of x, saviour of x"], 
+      ["陈孜靖", "adoptive father of x"], 
+      ["陈氏", "sibling of x"], 
+      ["李仲", "romantic relationships with x"], 
+      ["李钦仁", "friend of x"], 
+      ["李府大公子", "romantic relationships with x"]
+    ],
+    "李仲": [
+      ["陈倩", "co wives of x, romantic relationships with x"], 
+      ["陈孜靖", "fiancee of x"], 
+      ["陈氏", "girlfriend of x"], 
+      ["小茜", "romantic relationships with x"], 
+      ["李钦仁", "husband of x"], 
+      ["土匪", "helper of x"], 
+      ["李府大公子", "lover of x"]
+    ],
+    "李钦仁": [
+      ["陈倩", "husband of x"], 
+      ["陈孜靖", "fiance of x"], 
+      ["陈氏", "wife of x"], 
+      ["小茜", "friend of x"], 
+      ["李仲", "wife of x"], 
+      ["李府大公子", "father of x"]
+    ],
+    "土匪": [
+      ["陈倩", "saviour of x"], 
+      ["李仲", "saved by x"], 
+      ["李府大公子", "acquaintance of x"]
+    ],
+    "李府大公子": [
+      ["陈倩", "romantic relationships with x"], 
+      ["陈孜靖", "father in law of x"], 
+      ["小茜", "romantic relationships with x"], 
+      ["李仲", "lover of x"], 
+      ["李钦仁", "son of x"], 
+      ["土匪", "acquaintance of x"]
+    ]
+}

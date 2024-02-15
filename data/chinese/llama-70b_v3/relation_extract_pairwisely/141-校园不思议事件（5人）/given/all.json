@@ -1,0 +1,60 @@
+{
+    "张恶霸": [
+      ["李大哥", "bully of x, manipulator of x"], 
+      ["李小弟", "perpetrator of x, bully of x"], 
+      ["王学习", "adversary of x, bully of x, manipulator of x, superior of x, employer of x, master of x, enemy of x, rival of x"], 
+      ["赵帅哥", "bully of x, manipulator of x"], 
+      ["郝闺蜜", "student of x, subordinate of x"]
+    ],
+    "李大哥": [
+      ["张恶霸", "subordinate of x"], 
+      ["李小弟", "bully of x, adversary of x"], 
+      ["林校花", "acquaintance of x"], 
+      ["赵帅哥", "enemy of x, rival of x, manipulator of x, acquaintance of x"], 
+      ["郝闺蜜", "acquaintance of x, friend of x"]
+    ],
+    "李小弟": [
+      ["张恶霸", "victim of x"], 
+      ["李大哥", "subordinate of x"], 
+      ["林校花", "acquaintance of x, classmate of x, schoolmate of x, neighbour of x"], 
+      ["王学习", "bully of x, subordinate of x, rival of x, informant of x, helper of x"], 
+      ["表姐", "rival of x, enemy of x"], 
+      ["赵帅哥", "colleague of x"], 
+      ["郝闺蜜", "subordinate of x"]
+    ],
+    "林校花": [
+      ["李大哥", "acquaintance of x"], 
+      ["李小弟", "acquaintance of x, classmate of x, schoolmate of x, neighbour of x"], 
+      ["王学习", "classmate of x, bully of x"], 
+      ["表姐", "friend of x, schoolmate of x, classmate of x, acquaintance of x, superior of x, subordinate of x, mentor of x, bully of x, victim of x"], 
+      ["郝闺蜜", "acquaintance of x"]
+    ],
+    "王学习": [
+      ["张恶霸", "victim of x, subordinate of x, employee of x, servant of x, adversary of x"], 
+      ["李小弟", "bully of x, subordinate of x, rival of x, informant of x, helper of x"], 
+      ["林校花", "boyfriend of x, classmate of x, bully of x, master of x"], 
+      ["表姐", "perpetrator of x, friend of x"], 
+      ["赵帅哥", "friend of x, acquaintance of x"]
+    ],
+    "表姐": [
+      ["李小弟", "rival of x, enemy of x"], 
+      ["林校花", "friend of x, schoolmate of x, classmate of x, acquaintance of x, superior of x, subordinate of x, mentor of x, bully of x, victim of x"], 
+      ["王学习", "perpetrator of x, friend of x"], 
+      ["郝闺蜜", "classmate of x"]
+    ],
+    "赵帅哥": [
+      ["张恶霸", "friend of x, acquaintance of x"], 
+      ["李大哥", "friend of x, classmate of x, schoolmate of x, colleague of x"], 
+      ["李小弟", "colleague of x"], 
+      ["王学习", "friend of x, acquaintance of x"], 
+      ["郝闺蜜", "acquaintance of x, friend of x"]
+    ],
+    "郝闺蜜": [
+      ["张恶霸", "student of x, friend of x"], 
+      ["李大哥", "acquaintance of x, friend of x"], 
+      ["李小弟", "bully of x"], 
+      ["林校花", "acquaintance of x"], 
+      ["表姐", "classmate of x"], 
+      ["赵帅哥", "acquaintance of x, friend of x"]
+    ]
+}

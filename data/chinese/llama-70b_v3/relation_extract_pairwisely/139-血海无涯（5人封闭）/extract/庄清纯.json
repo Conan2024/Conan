@@ -1,0 +1,33 @@
+{
+    "庄清纯": [
+      ["秦专家", "teacher of x, adversary of x, enemy of x, rival of x, manipulator of x, deceiver of x"], 
+      ["秦老大", "sibling of x, classmate of x"], 
+      ["贾美丽", "friend of x, classmate of x, secret admirer of x"]
+    ],
+    "秦专家": [
+      ["庄清纯", "teacher of x, adversary of x, enemy of x, rival of x, manipulator of x, deceiver of x"], 
+      ["秦老大", "informant of x, neighbour of x, helper of x"], 
+      ["贾美丽", "friend of x, mentor of x, teacher of x, informant of x, acquaintance of x"], 
+      ["萧体育", "father in law of x"], 
+      ["薛媚娘", "bully of x, manipulator of x"]
+    ],
+    "秦老大": [
+      ["庄清纯", "sibling of x, classmate of x"], 
+      ["秦专家", "son of x, neighbour of x, helper of x"], 
+      ["萧体育", "rival in love of x"]
+    ],
+    "贾美丽": [
+      ["庄清纯", "friend of x, classmate of x, secret admirer of x"], 
+      ["秦专家", "friend of x, mentor of x, teacher of x, informant of x, acquaintance of x"], 
+      ["薛媚娘", "classmate of x, friend of x"]
+    ],
+    "萧体育": [
+      ["秦专家", "boyfriend of x"], 
+      ["秦老大", "teacher of x, lover of x, acquaintance of x"], 
+      ["薛媚娘", "girlfriend of x"]
+    ],
+    "薛媚娘": [
+      ["贾美丽", "classmate of x, friend of x"], 
+      ["萧体育", "boyfriend of x"]
+    ]
+}

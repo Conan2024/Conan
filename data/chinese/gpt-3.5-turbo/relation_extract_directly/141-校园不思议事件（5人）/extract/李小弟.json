@@ -1,0 +1,130 @@
+{
+    "李小弟": [
+        [
+            "李大哥",
+            "sibling of, admired by, friends with"
+        ],
+        [
+            "表哥",
+            "same person as 李大哥 (different reference)"
+        ],
+        [
+            "张恶霸",
+            "enemy of, business partner of"
+        ],
+        [
+            "王学习",
+            "acquaintance of, informant of"
+        ],
+        [
+            "赵帅哥",
+            "friend of, quest companion of"
+        ],
+        [
+            "林校花",
+            "romantic relationships with 张恶霸, friend of 郝闺蜜"
+        ],
+        [
+            "郝闺蜜",
+            "friend of 林校花"
+        ]
+    ],
+    "李大哥": [
+        [
+            "李小弟",
+            "sibling of"
+        ],
+        [
+            "表哥",
+            "same person as 李小弟 (different reference)"
+        ],
+        [
+            "李大哥的高中",
+            "subject of investigation for 李小弟"
+        ]
+    ],
+    "表哥": [
+        [
+            "李小弟",
+            "same person as 李大哥 (different reference)"
+        ],
+        [
+            "李大哥",
+            "same person as 表哥 (different reference)"
+        ]
+    ],
+    "张恶霸": [
+        [
+            "李小弟",
+            "enemy of, business partner of"
+        ],
+        [
+            "王学习",
+            "same high school as"
+        ],
+        [
+            "林校花",
+            "romantic relationships with 张恶霸"
+        ],
+        [
+            "郝闺蜜",
+            "interest in"
+        ]
+    ],
+    "王学习": [
+        [
+            "李小弟",
+            "acquaintance of, informant of"
+        ],
+        [
+            "张恶霸",
+            "same high school as"
+        ],
+        [
+            "赵帅哥",
+            "friend of"
+        ],
+        [
+            "郝闺蜜",
+            "interest in"
+        ]
+    ],
+    "赵帅哥": [
+        [
+            "李小弟",
+            "friend of, quest companion of"
+        ],
+        [
+            "张恶霸",
+            "friend of"
+        ]
+    ],
+    "林校花": [
+        [
+            "李小弟",
+            "friends with 张恶霸"
+        ],
+        [
+            "张恶霸",
+            "romantic relationships with 林校花"
+        ],
+        [
+            "郝闺蜜",
+            "friend of 林校花"
+        ]
+    ],
+    "郝闺蜜": [
+        [
+            "李小弟",
+            "friend of 林校花"
+        ],
+        [
+            "张恶霸",
+            "interest in"
+        ],
+        [
+            "林校花",
+            "friend of 郝闺蜜"
+        ]
+    ]
+}

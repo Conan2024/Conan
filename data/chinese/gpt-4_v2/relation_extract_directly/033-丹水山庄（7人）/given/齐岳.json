@@ -1,0 +1,82 @@
+{
+    "齐岳": [
+      ["双面虎（郭望山）", "victim of x, manipulated by x"], 
+      ["赵万雷", "employee of x, suspected by x"], 
+      ["赵卫", "acquaintance of x"], 
+      ["赵洛意", "acquaintance of x, daughter of x's employer"], 
+      ["赵秋儿", "suspected family of x, possibly x's biological daughter"], 
+      ["冯双骥", "superior of x, colleague of x, possibly family of x (adoptive father of x's sister)"], 
+      ["冯竹", "colleague of x, informant of x"], 
+      ["尹少鸣", "acquaintance of x"]
+    ],
+    "双面虎（郭望山）": [
+      ["齐岳", "deceived by x, perpetrator of x, adversary of x"]
+    ],
+    "郭望山": [
+      ["齐岳", "victim of x, manipulated by x"], 
+      ["赵万雷", "acquaintance of x, customer of x"], 
+      ["赵卫", "acquaintance of x"], 
+      ["赵洛意", "acquaintance of x"], 
+      ["赵秋儿", "acquaintance of x"], 
+      ["冯双骥", "acquaintance of x"], 
+      ["冯竹", "acquaintance of x"], 
+      ["尹少鸣", "acquaintance of x"]
+    ],
+    "赵万雷": [
+      ["齐岳", "employer of x, murdered by x's manipulator"], 
+      ["郭望山", "business partner of x, murder victim of x"], 
+      ["赵卫", "father of x"], 
+      ["赵洛意", "father of x"], 
+      ["赵秋儿", "employer of x"], 
+      ["冯双骥", "employee of x"], 
+      ["冯竹", "employee of x"], 
+      ["尹少鸣", "acquaintance of x"]
+    ],
+    "赵洛意": [
+      ["齐岳", "employee of x's father"], 
+      ["郭望山", "acquaintance of x"], 
+      ["赵万雷", "daughter of x"], 
+      ["赵卫", "sibling of x"], 
+      ["赵秋儿", "employer of x, friend of x"], 
+      ["冯双骥", "employee of x's father"], 
+      ["冯竹", "acquaintance of x"], 
+      ["尹少鸣", "acquaintance of x"]
+    ],
+    "赵秋儿": [
+      ["齐岳", "suspected family of x, possibly x's biological daughter"], 
+      ["郭望山", "acquaintance of x"], 
+      ["赵万雷", "employee of x"], 
+      ["赵洛意", "employee of x, friend of x"], 
+      ["赵卫", "acquaintance of x"], 
+      ["冯双骥", "adoptive father of x"], 
+      ["冯竹", "acquaintance of x, possibly family of x (adoptive sister of x)"], 
+      ["尹少鸣", "acquaintance of x"]
+    ],
+    "冯双骥": [
+      ["齐岳", "subordinate of x, colleague of x"], 
+      ["郭望山", "acquaintance of x"], 
+      ["赵万雷", "subordinate of x"], 
+      ["赵洛意", "subordinate of x"], 
+      ["赵秋儿", "possibly x's adopted daughter"], 
+      ["冯竹", "daughter of x"], 
+      ["尹少鸣", "nephew of x"]
+    ],
+    "冯竹": [
+      ["齐岳", "colleague of x, informant to x"], 
+      ["郭望山", "acquaintance of x"], 
+      ["赵万雷", "subordinate of x"], 
+      ["赵洛意", "acquaintance of x"], 
+      ["赵秋儿", "acquaintance of x, possibly family of x (adoptive sister of x)"], 
+      ["冯双骥", "daughter of x"], 
+      ["尹少鸣", "cousin of x"]
+    ],
+    "尹少鸣": [
+      ["齐岳", "acquaintance of x"], 
+      ["郭望山", "acquaintance of x"], 
+      ["赵万雷", "acquaintance of x"], 
+      ["赵洛意", "acquaintance of x"], 
+      ["赵秋儿", "acquaintance of x"], 
+      ["冯双骥", "uncle of x"], 
+      ["冯竹", "cousin of x"]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "李延": [
+      ["陈孜靖", "romantic relationships with x"], 
+      ["陈倩", "friend of x"]
+    ],
+    "陈孜靖": [
+      ["李延", "romantic relationships with x"], 
+      ["陈倩", "child of x, sibling of x"]
+    ],
+    "陈倩": [
+      ["李延", "friend of x"], 
+      ["陈孜靖", "father of x, sibling of x"]
+    ]
+}

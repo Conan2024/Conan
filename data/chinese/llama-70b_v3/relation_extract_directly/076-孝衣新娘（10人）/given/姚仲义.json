@@ -1,0 +1,37 @@
+{
+    "姚仲义": [
+      ["虞君鸿", "friend of x"], 
+      ["陈均梦", "wife of x"]
+    ],
+    "虞君鸿": [
+      ["姚仲义", "friend of x"]
+    ],
+    "陈均梦": [
+      ["姚仲义", "wife of x"]
+    ],
+    "Red Woman": [
+      ["徐伯清", "wife of x"]
+    ],
+    "徐伯清": [
+      ["Red Woman", "wife of x"], 
+      ["云凌", "wife of x"]
+    ],
+    "云凌": [
+      ["徐伯清", "wife of x"], 
+      ["姚仲义", "friend of x"]
+    ],
+    "短发女人": [
+      ["陈安巧", "friend of x"]
+    ],
+    "陈安巧": [
+      ["短发女人", "friend of x"], 
+      [" Chen 均梦", "wife of x"]
+    ],
+    "贵叔": [
+      ["虞君鸿", "friend of x"], 
+      ["陈均梦", "friend of x"]
+    ],
+    "headers": [
+      [" Chen 均梦", "friend of x"]
+    ]
+}

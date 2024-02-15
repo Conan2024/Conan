@@ -1,0 +1,25 @@
+{
+    "帕洛斯基医生": [
+      ["弗兰克", "acquaintance of x, helped by x"], 
+      ["汉斯·里莫瑞特", "suspect of x, adversary of x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["弗兰克", "acquaintance of x, helped by x"], 
+      ["德雷克·里莫瑞特", "brother of x, lost touch with x"]
+    ],
+    "托尼": [
+      ["弗兰克", "acquaintance of x, helped by x"], 
+      ["托尼", "friend of x, trust issues with x"]
+    ],
+    "弗兰克": [
+      ["帕洛斯基医生", "employee of x, helped by x"], 
+      ["托尼", "friend of x, trust issues with x"]
+    ],
+    "德雷克·里莫瑞特": [
+      ["汉斯·里莫瑞特", "brother of x, lost touch with x"], 
+      ["帕洛斯基医生", "acquaintance of x, suspect of x"]
+    ],
+    "院长伯克利": [
+      ["你", "acquaintance of x, first met at a charity dance of x"]
+    ]
+}

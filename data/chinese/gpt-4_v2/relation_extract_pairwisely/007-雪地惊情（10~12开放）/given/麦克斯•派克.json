@@ -1,0 +1,51 @@
+{
+    "乔•罗伯特森": [
+      ["麦克斯•派克", "friend of x, quest companion of x, accomplice in theft with x"], 
+      ["露西•哈里森", "acquaintance of x, possibly family of x"], 
+      ["麦克斯•琼斯", "friend of x, crime partner of x, possibly family of x"], 
+      ["丹尼尔•佩里", "friend of x, quest companion of x, crime partner of x"]
+    ],
+    "Sleer&Leech": [
+      ["麦克斯•派克", "employee of x, same person as x (different identity)"], 
+      ["露西•哈里森", "employee of x"], 
+      ["麦克斯•琼斯", "employee of x, informant of x, money launderer for x"], 
+      ["丹尼尔•佩里", "possible employer of x, possible mentor of x, possible business partner of x, possible superior of x, possible informant of x"], 
+      ["约翰•摩根", "employer of x, client of x"], 
+      ["艾米•摩根", "employer of x, business partner of x"]
+    ],
+    "露西•哈里森": [
+      ["乔•罗伯特森", "acquaintance of x, possibly family of x"], 
+      ["Sleer&Leech", "employer of x"], 
+      ["麦克斯•琼斯", "blackmailer of x, information receiver from x"], 
+      ["约翰•摩根", "victim of x"], 
+      ["艾米•摩根", "acquaintance of x"]
+    ],
+    "麦克斯•琼斯": [
+      ["乔•罗伯特森", "friend of x, crime partner of x, possibly family of x"], 
+      ["Sleer&Leech", "employee of x, informant of x, money launderer for x"], 
+      ["露西•哈里森", "blackmailing x, has information from x"], 
+      ["丹尼尔•佩里", "suspected by x, suspect to x, dislike of x, disliked by x"], 
+      ["约翰•摩根", "same person as x (different identity), acquaintance of x, helped by x"]
+    ],
+    "丹尼尔•佩里": [
+      ["乔•罗伯特森", "friend of x, quest companion of x, crime partner of x"], 
+      ["Sleer&Leech", "possible employee of x, possible student of x, possible business partner of x, possible subordinate of x, possible information receiver from x"], 
+      ["麦克斯•琼斯", "suspector of x, victim of x, disliker of x"], 
+      ["约翰•摩根", "victim of x"]
+    ],
+    "约翰•摩根": [
+      ["Sleer&Leech", "employee of x, service provider of x"], 
+      ["露西•哈里森", "child of x"], 
+      ["麦克斯•琼斯", "same person as x (different reference), helped by x"], 
+      ["丹尼尔•佩里", "suspected by x"], 
+      ["艾米•摩根", "victim of x"]
+    ],
+    "艾米•摩根": [
+      ["Sleer&Leech", "employee of x, business partner of x"], 
+      ["露西•哈里森", "acquaintance of x"], 
+      ["约翰•摩根", "husband of x"]
+    ],
+    "error": [
+      ["I", "n of x, s of x, u of x, f of x, f of x, i of x, c of x, i of x, e of x, n of x, t of x, i of x, n of x, f of x, o of x, r of x, m of x, a of x, t of x, i of x, o of x, n of x, t of x, o of x, d of x, e of x, t of x, e of x, r of x, m of x, i of x, n of x, e of x, r of x, e of x, l of x, a of x, t of x, i of x, o of x, n of x, s of x, h of x, i of x, p of x, s of x"]
+    ]
+}

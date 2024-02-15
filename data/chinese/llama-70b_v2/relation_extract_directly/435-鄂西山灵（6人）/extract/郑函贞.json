@@ -1,0 +1,29 @@
+{
+    "郑函贞": [
+      ["周教授", "mentor of x, friend of x"], 
+      ["忱纱", "classmate of x, rival of x"], 
+      ["巴府山", "acquaintance of x, helper of x"], 
+      ["鹃歌", "lover of x, partner of x"], 
+      ["鬼印", "adversary of x, enemy of x"]
+    ],
+    "周教授": [
+      ["郑函贞", "mentee of x, friend of x"], 
+      ["忱纱", "daughter of x, student of x"]
+    ],
+    "忱纱": [
+      ["郑函贞", "classmate of x, rival of x"], 
+      ["周教授", "father of x, mentor of x"]
+    ],
+    "巴府山": [
+      ["郑函贞", "acquaintance of x, helper of x"], 
+      ["鹃歌", "daughter of x, friend of x"]
+    ],
+    "鹃歌": [
+      ["郑函贞", "lover of x, partner of x"], 
+      ["巴府山", "father of x, friend of x"]
+    ],
+    "鬼印": [
+      ["郑函贞", "adversary of x, enemy of x"], 
+      ["鹃歌", "rival of x, enemy of x"]
+    ]
+}

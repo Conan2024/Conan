@@ -1,0 +1,149 @@
+{
+    "赵三": [
+        [
+            "赵中正",
+            "adopted by"
+        ],
+        [
+            "赵中杨",
+            "co siblings of x"
+        ],
+        [
+            "张伟",
+            "private matters helper of x",
+            "collaborator with x"
+        ],
+        [
+            "马老板",
+            "customer of x"
+        ],
+        [
+            "陈媚儿",
+            "romantic relationships with x"
+        ]
+    ],
+    "赵中正": [
+        [
+            "赵三",
+            "adopted"
+        ],
+        [
+            "赵中杨",
+            "extramarital affair with x"
+        ],
+        [
+            "张伟",
+            "business partner of x",
+            "co-conspirator of x"
+        ],
+        [
+            "马老板",
+            "business partner of x"
+        ],
+        [
+            "陈媚儿",
+            "romantic relationships with x"
+        ]
+    ],
+    "赵三 and 赵中正": [
+        [
+            "siblings"
+        ]
+    ],
+    "赵中杨": [
+        [
+            "赵三",
+            "co siblings of x"
+        ],
+        [
+            "赵中正",
+            "extramarital affair with x"
+        ],
+        [
+            "张伟",
+            "helper of x"
+        ],
+        [
+            "马老板",
+            "business partner of x"
+        ],
+        [
+            "陈媚儿",
+            "romantic relationships with x"
+        ]
+    ],
+    "张伟": [
+        [
+            "赵三",
+            "helper of x",
+            "collaborator with x"
+        ],
+        [
+            "赵中正",
+            "business partner of x",
+            "co-conspirator of x"
+        ],
+        [
+            "赵中杨",
+            "helper of x"
+        ],
+        [
+            "马老板",
+            "customer of x",
+            "friend of x"
+        ],
+        [
+            "陈媚儿",
+            "fondness of x",
+            "acquaintance of x"
+        ]
+    ],
+    "马老板": [
+        [
+            "赵三",
+            "seller of x"
+        ],
+        [
+            "赵中正",
+            "business partner of x"
+        ],
+        [
+            "赵中杨",
+            "business partner of x"
+        ],
+        [
+            "张伟",
+            "product provider of x",
+            "acquaintance of x"
+        ],
+        [
+            "陈媚儿",
+            "boyfriend of x",
+            "girlfriend of x"
+        ]
+    ],
+    "陈媚儿": [
+        [
+            "赵三",
+            "romantic relationships with x"
+        ],
+        [
+            "赵中正",
+            "romantic relationships with x"
+        ],
+        [
+            "赵中杨",
+            "romantic relationships with x"
+        ],
+        [
+            "张伟",
+            "fondness of x",
+            "acquaintance of x"
+        ],
+        [
+            "马老板",
+            "girlfriend of x",
+            "boyfriend of x"
+        ]
+    ]
+}

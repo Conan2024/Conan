@@ -1,0 +1,24 @@
+{
+    "赵卫": [
+      ["光绪皇帝", "father of x"]
+    ],
+    "瑜妃": [
+      ["赵卫", "son of x"], 
+      ["冯双骥", "sister of x"]
+    ],
+    "光绪皇帝": [
+      ["赵卫", "son of x"], 
+      ["赵万雷", "son of x"]
+    ],
+    "赵万雷": [
+      ["赵洛意", "brother of x"]
+    ],
+    "冯双骥": [
+      ["瑜妃", "sister of x"], 
+      ["赵万雷", "brother of x"]
+    ],
+    "赵洛意": [
+      ["瑜妃", "sister of x"], 
+      ["赵万雷", "brother of x"]
+    ]
+}

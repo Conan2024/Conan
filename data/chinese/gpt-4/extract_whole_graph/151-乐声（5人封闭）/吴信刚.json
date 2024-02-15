@@ -1,0 +1,50 @@
+{
+    "吴信刚": [
+        [
+            "李大飞",
+            "business partner of x, co-conspirator of x, deceived by x, victim of x"
+        ],
+        [
+            "任风",
+            "employer of x, adversary of x"
+        ],
+        [
+            "曾聪齐",
+            "business partner of x, customer of x, deceiver of x, victim of x"
+        ]
+    ],
+    "李大飞": [
+        [
+            "吴信刚",
+            "business partner of x, co-conspirator of x, deceiver of x, perpetrator of x"
+        ],
+        [
+            "任风",
+            "adversary of x, disliked by x"
+        ],
+        [
+            "曾聪齐",
+            "service provider of x, deceptive seller to x"
+        ]
+    ],
+    "任风": [
+        [
+            "吴信刚",
+            "employee of x, adversary of x"
+        ],
+        [
+            "李大飞",
+            "adversary of x, disliker of x"
+        ]
+    ],
+    "曾聪齐": [
+        [
+            "吴信刚",
+            "business partner of x, seller to x, victim of x"
+        ],
+        [
+            "李大飞",
+            "customer of x, deceived by x"
+        ]
+    ]
+}

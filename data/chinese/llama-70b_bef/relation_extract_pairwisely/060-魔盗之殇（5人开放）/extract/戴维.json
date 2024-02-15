@@ -1,0 +1,25 @@
+{
+    "宣传罗琳": [
+      ["助手艾拉", "rival of x"]
+    ],
+    "助手艾拉": [
+      ["宣传罗琳", "rival of x"], 
+      ["保安凯文", "friend of x, colleague of x"], 
+      ["后勤格里夫", "husband of x"], 
+      ["古思特", "husband of x"]
+    ],
+    "后勤格里夫": [
+      ["宣传罗琳", "jealous of x"], 
+      ["助手艾拉", "husband of x"], 
+      ["保安凯文", "colleague of x, business partner of x"], 
+      ["古思特", "rival of x"]
+    ],
+    "古思特": [
+      ["助手艾拉", "husband of x"], 
+      ["后勤格里夫", "rival of x"]
+    ],
+    "保安凯文": [
+      ["助手艾拉", "friend of x, colleague of x"], 
+      ["后勤格里夫", "colleague of x, business partner of x"]
+    ]
+}

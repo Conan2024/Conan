@@ -1,0 +1,26 @@
+{
+    "凯文": [
+      ["古思特", "master of x, employer of x"], 
+      ["艾拉", "friend of x"]
+    ],
+    "罗琳": [
+      ["戴维", "co worker of x, friend of x"], 
+      ["古思特", "master/apprentice of x, enemy/rival of x, co conspirator of x"], 
+      ["艾拉", "mentor of x, employer of x"]
+    ],
+    "戴维": [
+      ["罗琳", "co worker of x, friend of x"], 
+      ["艾拉", "superior subordinate of x, romantic partners of x, accomplices of x"]
+    ],
+    "古思特": [
+      ["凯文", "employee of x, colleague of x"], 
+      ["罗琳", "master/apprentice of x, enemy/rival of x, co conspirator of x"], 
+      ["艾拉", "master of x, manipulate of x"]
+    ],
+    "艾拉": [
+      ["凯文", "friend of x"], 
+      ["罗琳", "mentor of x, employer of x"], 
+      ["戴维", "superior subordinate of x, romantic partners of x, accomplices of x"], 
+      ["古思特", "mentor of x, bully of x"]
+    ]
+}

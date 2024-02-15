@@ -1,0 +1,124 @@
+{
+    "雯秘书": [
+        [
+            "杨老板",
+            "subordinate of x, perpetrator of x, information receiver from x, informant of x"
+        ],
+        [
+            "很天真",
+            "colleague of x, victim of x"
+        ],
+        [
+            "张大副",
+            "colleague of x, manipulated by x"
+        ],
+        [
+            "玲船医",
+            "informant of x, deceived by x"
+        ],
+        [
+            "王小工",
+            "victim of x, manipulated by x"
+        ]
+    ],
+    "杨老板": [
+        [
+            "很天真",
+            "subordinate of x"
+        ],
+        [
+            "张大副",
+            "business partner of x"
+        ],
+        [
+            "玲船医",
+            "spy of x"
+        ],
+        [
+            "雯秘书",
+            "superior of x, deceived by x"
+        ],
+        [
+            "王小工",
+            "stranger to x"
+        ]
+    ],
+    "很天真": [
+        [
+            "杨老板",
+            "superior of x"
+        ],
+        [
+            "雯秘书",
+            "colleague of x, killed by x"
+        ]
+    ],
+    "张大副": [
+        [
+            "杨老板",
+            "business partner of x"
+        ],
+        [
+            "玲船医",
+            "colleague of x"
+        ],
+        [
+            "王船工",
+            "crime partner of x"
+        ],
+        [
+            "雯秘书",
+            "colleague of x, acquaintance of x"
+        ]
+    ],
+    "玲船医": [
+        [
+            "杨老板",
+            "informant of x"
+        ],
+        [
+            "张大副",
+            "colleague of x"
+        ],
+        [
+            "雯秘书",
+            "informant of x, deceived by x"
+        ],
+        [
+            "王船工",
+            "colleague of x"
+        ]
+    ],
+    "王船工": [
+        [
+            "张大副",
+            "crime partner of x"
+        ],
+        [
+            "玲船医",
+            "colleague of x"
+        ],
+        [
+            "王小工",
+            "father of x"
+        ],
+        [
+            "雯秘书",
+            "manipulated by x"
+        ]
+    ],
+    "王小工": [
+        [
+            "王船工",
+            "child of x"
+        ],
+        [
+            "玲船医",
+            "son in law of x"
+        ],
+        [
+            "雯秘书",
+            "victim of x, manipulated by x, killed by x"
+        ]
+    ]
+}

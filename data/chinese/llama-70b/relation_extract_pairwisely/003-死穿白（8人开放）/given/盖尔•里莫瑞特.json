@@ -1,0 +1,98 @@
+{
+    "德雷克·里莫瑞特": [
+        [
+            "护士长科斯塔",
+            "acquaintance",
+            "lawyer",
+            "client"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "relationship 1, relationship 2, relationship 3, relationship 4"
+        ],
+        [
+            "盖尔·里莫瑞特",
+            "relationship 1",
+            "relationship 2"
+        ]
+    ],
+    "护士长科斯타": [
+        [
+            "德雷克·里莫瑞特",
+            "acquaintance",
+            "lawyer",
+            "client"
+        ]
+    ],
+    "汉斯·里莫瑞特": [
+        [
+            "德雷克·里莫瑞特",
+            "relationship 1, relationship 2, relationship 3, relationship 4"
+        ],
+        [
+            "护士长科斯塔",
+            "relationship 1",
+            "relationship 2",
+            "relationship 3",
+            "relationship 4",
+            "relationship 5",
+            "relationship 6",
+            "relationship 7"
+        ],
+        [
+            "盖尔·里莫瑞特",
+            "relationship 1",
+            "relationship 2",
+            "relationship 3",
+            "relationship 4",
+            "relationship 5",
+            "relationship 6",
+            "relationship 7"
+        ]
+    ],
+    "盖尔·里莫瑞特": [
+        [
+            "德雷克·里莫瑞特",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "护士长科斯塔",
+            "colleague",
+            "patient",
+            "suspect",
+            "adversary",
+            "acquaintance"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "relationship 1",
+            "relationship 2",
+            "relationship 3",
+            "relationship 4",
+            "relationship 5",
+            "relationship 6",
+            "relationship 7"
+        ]
+    ],
+    "护士长科斯塔": [
+        [
+            "汉斯·里莫瑞特",
+            "relationship 1",
+            "relationship 2",
+            "relationship 3",
+            "relationship 4",
+            "relationship 5",
+            "relationship 6",
+            "relationship 7"
+        ],
+        [
+            "盖尔·里莫瑞特",
+            "colleague",
+            "patient",
+            "suspect",
+            "adversary",
+            "acquaintance"
+        ]
+    ]
+}

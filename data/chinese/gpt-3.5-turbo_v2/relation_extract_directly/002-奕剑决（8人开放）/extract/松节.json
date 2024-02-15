@@ -1,0 +1,40 @@
+{
+    "松节": [
+      ["玄冰教", "employee of x"], 
+      ["蜂", "employee of x"], 
+      ["盗圣", "suspected by x, rival of x"], 
+      ["忍冬", "acquaintance of x"], 
+      ["陆英", "suspicious of x"], 
+      ["玄参", "suspicious of x"]
+    ],
+    "玄冰教": [
+      ["松节", "employer of x"], 
+      ["蜂", "information receiver from x"], 
+      ["忍冬", "colleague of x"], 
+      ["盗圣", "adversary of x"]
+    ],
+    "蜂": [
+      ["松节", "employer of x"], 
+      ["玄冰教", "product provider of x"], 
+      ["忍冬", "acquaintance of x"], 
+      ["盗圣", "adversary of x"]
+    ],
+    "盗圣": [
+      ["松节", "suspect of x, enemy of x"], 
+      ["玄冰教", "adversary of x"], 
+      ["蜂", "adversary of x"]
+    ],
+    "忍冬": [
+      ["松节", "acquaintance of x"], 
+      ["玄冰教", "colleague of x"], 
+      ["蜂", "acquaintance of x"]
+    ],
+    "陆英": [
+      ["松节", "suspicious of x"], 
+      ["武林盟", "suspect of x"]
+    ],
+    "玄参": [
+      ["松节", "suspicious of x"], 
+      ["陆英", "suspect of x"]
+    ]
+}

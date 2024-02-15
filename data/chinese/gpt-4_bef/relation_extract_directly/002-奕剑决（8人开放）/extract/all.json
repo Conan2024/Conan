@@ -1,0 +1,30 @@
+{
+    "陆英": [
+      ["杜仲", "student of x, quest companion of x, possibly family of x, informant of x, information receiver from x, subordinate of x"], 
+      ["紫苏", "romantic relationships with x, secret lover of x"], 
+      ["凌霄", "colleague of x, acquaintance of x"], 
+      ["玄冰使", "suspect to x, colleague of x, acquaintance of x"], 
+      ["武林盟使", "colleague of x, acquaintance of x"], 
+      ["二师叔", "colleague of x"]
+    ],
+    "杜仲": [
+      ["陆英", "mentor of x, superior of x, employer of x"], 
+      ["二师叔", "colleague of x"]
+    ],
+    "二师叔": [
+      ["陆英", "colleague of x"], 
+      ["杜仲", "colleague of x"]
+    ],
+    "紫苏": [
+      ["陆英", "lover of x"]
+    ],
+    "凌霄": [
+      ["陆英", "colleague of x, acquaintance of x"]
+    ],
+    "玄冰使": [
+      ["陆英", "adversary of x"]
+    ],
+    "武林盟使": [
+      ["陆英", "colleague of x, acquaintance of x"]
+    ]
+}

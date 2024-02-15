@@ -1,0 +1,184 @@
+{
+    "牧师汤姆": [
+        [
+            "帕洛斯基医生",
+            "helper of x, deceiver of x, information receiver from x"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "business partner of x, manipulator of x, customer of x"
+        ],
+        [
+            "弗兰克",
+            "superior of x, helped by x, acquaintance of x, manipulator of x, deceiver of x, information receiver from x"
+        ],
+        [
+            "托尼",
+            "admired by x, helped by x, deceiver of x, manipulator of x, suspect to x"
+        ],
+        [
+            "院长伯克利",
+            "helper of x, deceiver of x, acquaintance of x, business partner of x, manipulator of x, information receiver from x"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "informant of x, helper of x, patient of x"
+        ]
+    ],
+    "帕洛斯基医生": [
+        [
+            "牧师汤姆",
+            "informant of x, deceived by x, patient of x"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "victim of x"
+        ],
+        [
+            "弗兰克",
+            "patient of x, information receiver from x"
+        ],
+        [
+            "托尼",
+            "possibly family of x"
+        ],
+        [
+            "院长伯克利",
+            "acquaintance of x, colleague of x"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "acquaintance of x, dislike of x"
+        ]
+    ],
+    "汉斯·里莫瑞特": [
+        [
+            "牧师汤姆",
+            "business partner of x, service provider of x, manipulated by x"
+        ],
+        [
+            "帕洛斯基医生",
+            "perpetrator of x"
+        ],
+        [
+            "弗兰克",
+            "victim of x"
+        ],
+        [
+            "托尼",
+            "victim of x, suspect to x"
+        ],
+        [
+            "院长伯克利",
+            "relative of x, colleague of x"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "twin brother of x"
+        ]
+    ],
+    "弗兰克": [
+        [
+            "牧师汤姆",
+            "subordinate of x, helper of x, acquaintance of x, manipulated by x, deceived by x, informant of x"
+        ],
+        [
+            "帕洛斯基医生",
+            "doctor of x, informant of x"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "perpetrator of x"
+        ],
+        [
+            "托尼",
+            "sibling of x"
+        ],
+        [
+            "院长伯克利",
+            "acquaintance of x"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "helped by x, admirer of x, patient of x, informant of x"
+        ]
+    ],
+    "托尼": [
+        [
+            "牧师汤姆",
+            "admirer of x, helped by x, victim of x, deceived by x"
+        ],
+        [
+            "帕洛斯基医生",
+            "possibly family of x"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "perpetrator of x's family, suspected by x, adversary of x"
+        ],
+        [
+            "弗兰克",
+            "sibling of x"
+        ],
+        [
+            "院长伯克利",
+            "acquaintance of x"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "admirer of x, helped by x, deceived by x, information receiver from x"
+        ]
+    ],
+    "院长伯克利": [
+        [
+            "牧师汤姆",
+            "helped by x, informant of x, acquaintance of x, business partner of x, deceived by x"
+        ],
+        [
+            "帕洛斯基医生",
+            "acquaintance of x, colleague of x"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "colleague of x, possibly family of x"
+        ],
+        [
+            "弗兰克",
+            "acquaintance of x"
+        ],
+        [
+            "托尼",
+            "acquaintance of x"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "superior of x, host of x"
+        ]
+    ],
+    "德雷克·里莫瑞特": [
+        [
+            "牧师汤姆",
+            "informant of x, helped by x, doctor of x"
+        ],
+        [
+            "帕洛斯基医生",
+            "acquaintance of x"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "twin brother of x"
+        ],
+        [
+            "弗兰克",
+            "helper of x, admired by x, doctor of x, information receiver from x"
+        ],
+        [
+            "托尼",
+            "helper of x, informant of x, deceiver of x, patient of x"
+        ],
+        [
+            "院长伯克利",
+            "subordinate of x, guest of x"
+        ]
+    ]
+}

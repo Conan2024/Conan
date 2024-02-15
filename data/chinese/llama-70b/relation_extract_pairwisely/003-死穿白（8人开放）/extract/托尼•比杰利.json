@@ -1,0 +1,62 @@
+{
+    "托尼•比杰利": [
+        [
+            "弗兰克•卡门",
+            "brother, friend, partner in crime, helped, helped"
+        ],
+        [
+            "詹姆斯•菜利",
+            "mentor/mentee, friends, business partners, benefactor/beneficiary"
+        ],
+        [
+            "汤姆•神父",
+            "relationship 1",
+            "relationship 2"
+        ]
+    ],
+    "弗兰克•卡门": [
+        [
+            "托尼•比杰利",
+            "brother, friend, partner in crime, helped, helped"
+        ],
+        [
+            "詹姆斯•菜利",
+            "mentor/teacher"
+        ],
+        [
+            "汤姆•神父",
+            "mentorship, friendship, savior, protégé, patient"
+        ]
+    ],
+    "詹姆斯•菜利": [
+        [
+            "托尼•比杰利",
+            "mentor/mentee, friends, business partners, benefactor/beneficiary"
+        ],
+        [
+            "弗兰克•卡门",
+            "mentee/student"
+        ],
+        [
+            "汤姆•神父",
+            "mentor",
+            "idol"
+        ]
+    ],
+    "汤姆•神父": [
+        [
+            "托尼•比杰利",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "弗兰克•卡门",
+            "mentorship, friendship, savior, protégé, patient"
+        ],
+        [
+            "詹姆斯•菜利",
+            "mentee",
+            "admirer"
+        ]
+    ]
+}

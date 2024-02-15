@@ -1,0 +1,20 @@
+{
+    "李延": [
+      ["李仲", "brother of x, friend of x"], 
+      ["陈孜靖", "acquaintance of x"]
+    ],
+    "李仲": [
+      ["李延", "brother of x, friend of x"], 
+      ["陈孜靖", "friend of x"], 
+      ["陈倩", "friend of x, cousin of x"]
+    ],
+    "陈孜靖": [
+      ["李延", "acquaintance of x"], 
+      ["李仲", "friend of x"], 
+      ["陈倩", "father of x, mother of x, older sister of x, younger sister of x, brother of x, cousin of x, uncle of x, aunt of x, grandfather of x, grandmother of x"]
+    ],
+    "陈倩": [
+      ["李仲", "friend of x, cousin of x"], 
+      ["陈孜靖", "father of x, mother of x, older sister of x, younger sister of x, brother of x, cousin of x, uncle of x, aunt of x, grandfather of x, grandmother of x"]
+    ]
+}

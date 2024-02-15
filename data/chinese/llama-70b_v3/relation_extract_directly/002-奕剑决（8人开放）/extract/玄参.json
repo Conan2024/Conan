@@ -1,0 +1,16 @@
+{
+    "二师叔": [
+      ["玄参", "husband of x, adversary of x"], 
+      ["杜仲", "brother in law of x, student of x"], 
+      ["陆英", "suspect of x"]
+    ],
+    "玄参": [
+      ["二师叔", "husband of x, adversary of x"], 
+      ["杜仲", "brother in law of x, student of x"], 
+      ["陆英", "suspect of x"]
+    ],
+    "陆英": [
+      ["玄参", "suspect of x"], 
+      ["二师叔", "suspect of x"]
+    ]
+}

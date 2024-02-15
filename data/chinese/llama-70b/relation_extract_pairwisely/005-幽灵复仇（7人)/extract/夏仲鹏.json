@@ -1,0 +1,317 @@
+{
+    "夏仲鹏": [
+        [
+            "夏北归",
+            "same person as X (different reference)",
+            "same person as X (different identity)"
+        ],
+        [
+            "夏三虎",
+            "Relative",
+            "Co-worker"
+        ],
+        [
+            "田吉秀一",
+            "mentor",
+            "teacher",
+            "master"
+        ],
+        [
+            "李子材",
+            "Master-Disciple Relationship",
+            "Friendship",
+            "Mutual Respect"
+        ],
+        [
+            "阿娥",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "宇祖成木",
+            "敌人",
+            "恩人",
+            "赌债人",
+            "拜护人",
+            "对手"
+        ]
+    ],
+    "夏北归": [
+        [
+            "夏仲鹏",
+            "father of X",
+            "mentor of X"
+        ],
+        [
+            "夏三虎",
+            " Uncle-Nephew Relationship",
+            "Co-Founder of 夏家拳"
+        ],
+        [
+            "田吉秀一",
+            "relationship 1: father of fiancé",
+            "relationship 2: master-disciple",
+            "relationship 3: debt-related",
+            "relationship 4: rivalry"
+        ],
+        {
+            "李子材": [
+                "father-in-law",
+                "master",
+                "ally"
+            ],
+            "relationship 1": "father-in-law",
+            "relationship 2": "master"
+        },
+        [
+            "阿娥",
+            "father",
+            "mentor",
+            "creator",
+            "successor"
+        ],
+        [
+            "宇祖成木",
+            "father",
+            "teacher",
+            "mentor",
+            "employer",
+            "master",
+            "adversary"
+        ]
+    ],
+    "夏三虎": [
+        [
+            "夏仲鹏",
+            "Brother",
+            "Boss"
+        ],
+        [
+            "夏北归",
+            "Brother-in-law",
+            "Co-Founder of 夏家拳",
+            "Business Partner"
+        ],
+        [
+            "田吉秀一",
+            "friend",
+            "training partner"
+        ],
+        [
+            "李子材",
+            "friend",
+            "mentor"
+        ],
+        [
+            "阿娥",
+            "uncle",
+            "father figure"
+        ],
+        [
+            "宇祖成木",
+            "older brother-in-law",
+            "friend"
+        ]
+    ],
+    "田吉秀一": [
+        [
+            "夏仲鹏",
+            "student",
+            "apprentice",
+            "master-disciple relationship"
+        ],
+        [
+            "夏北归",
+            "relationship 1: fiancé's father",
+            "relationship 2: student-master",
+            "relationship 3: debtor",
+            "relationship 4: rival"
+        ],
+        [
+            "夏三虎",
+            "friend",
+            "debtor"
+        ],
+        [
+            "李子材",
+            "师傅",
+            "夏仲鹏",
+            "兄友"
+        ],
+        [
+            "阿娥",
+            "relationship 1: Master-apprentice",
+            "relationship 2: Familial"
+        ],
+        [
+            "梳西洋胡须的男人",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "宇祖成木",
+            "subordinate",
+            "past relationship",
+            "Shared Goal"
+        ]
+    ],
+    "李子材": [
+        [
+            "夏仲鹏",
+            "Master-Disciple Relationship",
+            "Friendship",
+            "Mutual Respect"
+        ],
+        {
+            "夏北归": [
+                "father-in-law",
+                "master",
+                "ally"
+            ],
+            "relationship 1": "father-in-law",
+            "relationship 2": "master"
+        },
+        [
+            "夏三虎",
+            "friend",
+            "mentor"
+        ],
+        [
+            "田吉秀一",
+            "学生",
+            "夏仲鹏",
+            "朋友"
+        ],
+        [
+            "阿娥",
+            "teacher-student",
+            "grateful bond"
+        ],
+        [
+            "梳西洋胡须的男人",
+            "former friend",
+            " acquaintance",
+            "rival",
+            "opponent"
+        ],
+        [
+            "宇祖成木",
+            "friend"
+        ]
+    ],
+    "阿娥": [
+        [
+            "夏仲鹏",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "夏北归",
+            "father",
+            "student",
+            "successor"
+        ],
+        [
+            "夏三虎",
+            "niece",
+            "loyal companion"
+        ],
+        [
+            "田吉秀一",
+            "relationship 1: Master-apprentice",
+            "relationship 2: Familial"
+        ],
+        [
+            "李子材",
+            "teacher-student",
+            "grateful bond"
+        ],
+        [
+            "梳西洋胡须的男人",
+            "relationship 1: 学生与教师",
+            "relationship 2: 朋友"
+        ],
+        [
+            "宇祖成木",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "宇祖成木": [
+        [
+            "夏仲鹏",
+            "敌人",
+            "恩人",
+            "赌债人",
+            "拜护人",
+            "对手"
+        ],
+        [
+            "夏北归",
+            "son",
+            "student",
+            "mentee",
+            "employee",
+            "servant",
+            "adversary"
+        ],
+        [
+            "夏三虎",
+            "younger brother-in-law",
+            "friend"
+        ],
+        [
+            "田吉秀一",
+            "president",
+            "employer",
+            "past relationship",
+            "Shared Goal"
+        ],
+        [
+            "李子材",
+            "friend"
+        ],
+        [
+            "阿娥",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "梳西洋胡须的男人",
+            "夏三虎"
+        ]
+    ],
+    "梳西洋胡须的男人": [
+        [
+            "夏北归",
+            "son-father relationship"
+        ],
+        [
+            "夏三虎",
+            "Relationship 1: Acquaintance",
+            "Relationship 2: Suspect"
+        ],
+        [
+            "田吉秀一",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "李子材",
+            "former friend",
+            "acquaintance",
+            "rival",
+            "opponent"
+        ],
+        [
+            "阿娥",
+            "relationship 1: 老师处下的学生",
+            "relationship 2:  friend"
+        ],
+        [
+            "宇祖成木",
+            "夏三虎"
+        ]
+    ],
+    " summer Three Peaks": [
+        [
+            "梳西洋胡须的男人",
+            "Relationship 1: Acquaintance",
+            "Relationship 2: Suspect"
+        ]
+    ]
+}

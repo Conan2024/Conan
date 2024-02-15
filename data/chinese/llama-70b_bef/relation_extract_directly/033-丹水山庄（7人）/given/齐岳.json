@@ -1,0 +1,26 @@
+{
+    "齐岳": [
+      ["冯双骥", "friend of x"], 
+      ["赵万雷", "employer of x"]
+    ],
+    "冯双骥": [
+      ["齐岳", "friend of x"], 
+      ["赵万雷", "father of x"]
+    ],
+    "赵万雷": [
+      ["齐岳", "employer of x"], 
+      ["赵卫", "son of x"]
+    ],
+    "赵卫": [
+      ["赵万雷", "father of x"]
+    ],
+    "赵洛意": [
+      ["冯总管", "brother in law of x"]
+    ],
+    "赵秋儿": [
+      ["冯总管", "niece of x"]
+    ],
+    "冯总管": [
+      ["冯管家", "father of x"]
+    ]
+}

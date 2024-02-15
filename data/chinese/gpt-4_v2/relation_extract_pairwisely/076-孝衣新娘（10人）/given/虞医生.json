@@ -1,0 +1,124 @@
+{
+    "虞君鸿": [
+      ["虞北辰", "child of x, son of x, biological son of x"], 
+      ["任", "mother of x, biological mother of x"], 
+      ["任仲远", "grandchild of x, student of x"], 
+      ["姚仲义", "friend of x, quest companion of x, information receiver from x, helper of x"], 
+      ["孟深", "acquaintance of x, child of x's friend"], 
+      ["方乘山", "acquaintance of x, child of x's helper"], 
+      ["范", "acquaintance of x"], 
+      ["姚长寿", "acquaintance of x, child of x's friend, information receiver from x, helped by x, quest companion of x, saviour of x, possibly family of x (given the ties between their families)"], 
+      ["红夫人", "acquaintance of x, quest companion of x, information receiver from x"], 
+      ["姚孟仁", "acquaintance of x, friend of x, quest companion of x"]
+    ],
+    "虞北辰": [
+      ["虞君鸿", "father of x, biological father of x"], 
+      ["任", "same person as x (different reference), husband of x"], 
+      ["任仲远", "father in law of x"], 
+      ["姚仲义", "friend of x, acquaintance of x, father of x 虞君鸿"], 
+      ["孟深", "friend of x, colleague of x, helper of x, acquaintance of x, quest companion of x"], 
+      ["方乘山", "acquaintance of x, host of x"], 
+      ["范", "acquaintance of x, possible information receiver from x"], 
+      ["姚长寿", "friend of x, acquaintance of x, colleague of x"], 
+      ["姚孟仁", "father of x"]
+    ],
+    "任": [
+      ["虞君鸿", "child of x, son of x, biological son of x"], 
+      ["虞北辰", "same person as x (different reference), wife of x"], 
+      ["任仲远", "grandfather of x"], 
+      ["姚仲义", "acquaintance of x, friend of x"], 
+      ["孟深", "acquaintance of x"], 
+      ["方乘山", "acquaintance of x"], 
+      ["红夫人", "mother in law of x, possibly family of x"], 
+      ["姚孟仁", "无直接关系 of x"]
+    ],
+    "任仲远": [
+      ["虞君鸿", "grandparent of x, mentor of x"], 
+      ["虞北辰", "son in law of x"], 
+      ["任", "grandchild of x"], 
+      ["姚仲义", "grandfather of x, possibly family of x"], 
+      ["孟深", "acquaintance of x"], 
+      ["方乘山", "acquaintance of x"], 
+      ["姚长寿", "relative of x, grandfather of x"], 
+      ["红夫人", "grandfather of x"], 
+      ["姚孟仁", "grandparent of x"]
+    ],
+    "姚仲义": [
+      ["虞君鸿", "friend of x, quest companion of x, informant of x, helped by x"], 
+      ["虞北辰", "child of co worker/business associate of x, friend of x, host of x's child"], 
+      ["任", "acquaintance of x, friend of x"], 
+      ["任仲远", "grandchild of x, possibly family of x"], 
+      ["孟深", "acquaintance of x, friend of x, son of x's colleague"], 
+      ["方乘山", "acquaintance of x, possibly family of x"], 
+      ["范", "acquaintance of x"], 
+      ["姚长寿", "child of x, son of x, biological son of x"], 
+      ["红夫人", "step mother of x, red lady of x, wife of biological father of x"], 
+      ["姚孟仁", "sibling of x, child of x"]
+    ],
+    "孟深": [
+      ["虞君鸿", "friend of x's child, friend of x"], 
+      ["虞北辰", "friend of x, colleague of x, helped by x, acquaintance of x, quest companion of x"], 
+      ["任", "acquaintance of x"], 
+      ["任仲远", "acquaintance of x"], 
+      ["姚仲义", "acquaintance of x, friend of x, colleague of x's father"], 
+      ["方乘山", "acquaintance of x, business partner of x"], 
+      ["范", "acquaintance of x, colleague of x"], 
+      ["姚长寿", "friend of x, colleague of x, business partner of x"], 
+      ["虞医生", "friend of x"], 
+      ["姚孟仁", "employer of x, possible direct or indirect cause of x death"]
+    ],
+    "方乘山": [
+      ["虞君鸿", "helper of x, helped x's father"], 
+      ["虞北辰", "guest of x, acquaintance of x"], 
+      ["任", "acquaintance of x"], 
+      ["任仲远", "acquaintance of x"], 
+      ["姚仲义", "acquaintance of x, possibly family of x"], 
+      ["孟深", "acquaintance of x, subordinate of x"], 
+      ["范", "acquaintance of x, colleague of x, subordinate of x"], 
+      ["姚长寿", "acquaintance of x, helper of x"], 
+      ["红夫人", "acquaintance of x"], 
+      ["姚孟仁", "acquaintance of x"]
+    ],
+    "范": [
+      ["虞君鸿", "acquaintance of x"], 
+      ["虞北辰", "acquaintance of x, possible informant of x"], 
+      ["姚仲义", "acquaintance of x"], 
+      ["孟深", "acquaintance of x, colleague of x"], 
+      ["方乘山", "acquaintance of x, colleague of x, superior of x"], 
+      ["姚长寿", "acquaintance of x, employee of x"], 
+      ["红夫人", "acquaintance of x, colleague of x"]
+    ],
+    "姚长寿": [
+      ["虞君鸿", "parent of x's friend, patient of x x (as x is to impersonate a doctor for him), helped by x"], 
+      ["虞北辰", "friend of x, acquaintance of x, colleague of x"], 
+      ["任仲远", "relative of x, acquaintance of x"], 
+      ["姚仲义", "father of x, biological father of x"], 
+      ["孟深", "friend of x, product provider of x, business partner of x"], 
+      ["方乘山", "acquaintance of x, helped by x"], 
+      ["范", "employer of x, acquaintance of x"], 
+      ["红夫人", "husband of x"], 
+      ["姚孟仁", "father of x"]
+    ],
+    "红夫人": [
+      ["虞君鸿", "acquaintance of x, quest companion of x, information provider of x"], 
+      ["任", "daughter in law of x, possibly family of x"], 
+      ["任仲远", "granddaughter in law of x"], 
+      ["姚仲义", "step son of x, red lady's stepson of x"], 
+      ["虞医生", "step mother of x"], 
+      ["方乘山", "acquaintance of x"], 
+      ["范", "acquaintance of x, colleague of x"], 
+      ["姚长寿", "wife of x"], 
+      ["姚孟仁", "wife of x, step mother of x"]
+    ],
+    "姚孟仁": [
+      ["虞君鸿", "acquaintance of x, friend of x, quest companion of x"], 
+      ["虞北辰", "child of x"], 
+      ["任", "无直接关系 of x"], 
+      ["任仲远", "grandchild of x"], 
+      ["姚仲义", "sibling of x, child of x"], 
+      ["孟深", "employee of x, deceased of x"], 
+      ["方乘山", "acquaintance of x"], 
+      ["姚长寿", "child of x"], 
+      ["红夫人", "mother of x (deceased son)"]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "海悠": [
+      ["Akito", "student of x"], 
+      ["Rin", "father of x"]
+    ],
+    "Rin": [
+      ["海悠", "child of x"], 
+      ["Akito", "wife of x"]
+    ],
+    "Akito": [
+      ["Rin", "wife of x"], 
+      ["海悠", "student of x"]
+    ]
+}

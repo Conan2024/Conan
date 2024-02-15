@@ -1,0 +1,30 @@
+{
+    "古斯特": [
+      ["宣传罗琳", "romantic relationships with x"], 
+      ["剧务戴维", "friend of x"], 
+      ["助手艾拉", "romantic relationships with x"], 
+      ["保安凯文", "colleague of x"]
+    ],
+    "宣传罗琳": [
+      ["古斯特", "romantic relationships with x"], 
+      ["剧务戴维", "informant of x"], 
+      ["助手艾拉", "romantic relationships with x"]
+    ],
+    "剧务戴维": [
+      ["古斯特", "friend of x"], 
+      ["宣传罗琳", "informant of x"], 
+      ["助手艾拉", "friend of x"], 
+      ["保安凯文", "colleague of x"]
+    ],
+    "助手艾拉": [
+      ["古斯特", "romantic relationships with x"], 
+      ["宣传罗琳", "romantic relationships with x"], 
+      ["剧务戴维", "friend of x"], 
+      ["保安凯文", "ex wife of x"]
+    ],
+    "保安凯文": [
+      ["古斯特", "friend of x"], 
+      ["剧务戴维", "colleague of x"], 
+      ["助手艾拉", "ex husband of x"]
+    ]
+}

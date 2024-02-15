@@ -1,0 +1,36 @@
+{
+    "林阳": [
+      ["林夕", "养brother of x"], 
+      ["林惟仁", "养father of x"], 
+      ["苏阳", "acquaintance of x"], 
+      ["顾宇", "friend of x"], 
+      ["顾晴", "lover of x"]
+    ],
+    "林夕": [
+      ["林阳", "养sister of x"], 
+      ["林惟仁", "father of x"]
+    ],
+    "林惟仁": [
+      ["林阳", "养son of x"], 
+      ["林夕", "daughter of x"]
+    ],
+    "苏阳": [
+      ["林夕", "sibling of x"], 
+      ["林阳", "acquaintance of x"]
+    ],
+    "顾宇": [
+      ["顾晴", "brother of x"], 
+      ["林阳", "friend of x"]
+    ],
+    "顾晴": [
+      ["顾宇", "sister of x"], 
+      ["林阳", "lover of x"]
+    ],
+    "沈城": [
+      ["林阳", "employee of x"]
+    ],
+    "派对": [
+      ["林夕", "organizer of x"], 
+      ["苏阳", "participant of x"]
+    ]
+}

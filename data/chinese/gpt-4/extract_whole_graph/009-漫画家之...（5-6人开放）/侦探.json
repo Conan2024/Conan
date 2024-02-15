@@ -1,0 +1,104 @@
+{
+    "侦探": [
+        [
+            "白饍",
+            "subject of investigation for x"
+        ],
+        [
+            "老刘",
+            "information receiver from x"
+        ],
+        [
+            "阿海",
+            "information receiver from x"
+        ],
+        [
+            "阿莎",
+            "information receiver from x"
+        ],
+        [
+            "林教授",
+            "information receiver from x"
+        ],
+        [
+            "小杜",
+            "information receiver from x"
+        ]
+    ],
+    "白饍": [
+        [
+            "老刘",
+            "colleague of x"
+        ],
+        [
+            "阿海",
+            "subordinate of x, friend of x"
+        ],
+        [
+            "小杜",
+            "subordinate of x, friend of x"
+        ],
+        [
+            "阿莎",
+            "girlfriend of x"
+        ],
+        [
+            "林教授",
+            "friend of x"
+        ]
+    ],
+    "老刘": [
+        [
+            "白饍",
+            "colleague of x"
+        ],
+        [
+            "阿海",
+            "acquaintance of x"
+        ],
+        [
+            "小杜",
+            "acquaintance of x"
+        ]
+    ],
+    "阿海": [
+        [
+            "白饍",
+            "boss of x, friend of x"
+        ],
+        [
+            "老刘",
+            "acquaintance of x"
+        ],
+        [
+            "小杜",
+            "colleague of x"
+        ]
+    ],
+    "小杜": [
+        [
+            "白饍",
+            "boss of x, friend of x"
+        ],
+        [
+            "阿海",
+            "colleague of x"
+        ],
+        [
+            "老刘",
+            "acquaintance of x"
+        ]
+    ],
+    "阿莎": [
+        [
+            "白饍",
+            "boyfriend of x"
+        ]
+    ],
+    "林教授": [
+        [
+            "白饍",
+            "friend of x"
+        ]
+    ]
+}

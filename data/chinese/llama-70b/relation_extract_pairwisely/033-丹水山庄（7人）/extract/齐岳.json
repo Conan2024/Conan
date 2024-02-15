@@ -1,0 +1,334 @@
+{
+    "鲁泰": [
+        [
+            "赵万雷",
+            "acquaintance",
+            "employer-employee",
+            "common enemy",
+            "past connection"
+        ],
+        [
+            "冯双骥",
+            "colleague",
+            "master-servant",
+            "past connection"
+        ],
+        [
+            "赵洛意",
+            "敌人",
+            "仇人",
+            "帮手",
+            "受害者"
+        ],
+        [
+            "赵秋儿",
+            "wife of employer",
+            "mother of student",
+            "killer of husband",
+            "suspect of death"
+        ],
+        [
+            "管家",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "妹妹",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "花子狸",
+            "former acquaintance, rival, enemy, grandson's enemy, sister's enemy"
+        ]
+    ],
+    "赵万雷": [
+        [
+            "鲁泰",
+            "acquaintance",
+            "employer-employee",
+            "common enemy",
+            "past connection"
+        ],
+        [
+            "冯双骥",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "husband of mother",
+            "master",
+            "indirectly responsible for death of mother",
+            "friend"
+        ],
+        [
+            "husband",
+            "master",
+            "father-in-law"
+        ],
+        [
+            "husband of daughter",
+            "employer",
+            "past connection"
+        ],
+        [
+            "妹妹",
+            "統一 Kaiser",
+            "過去的敵人",
+            "悔恨的對象"
+        ],
+        [
+            "花子狸",
+            "employer of 齐岳",
+            "person who helped 齐岳 escape from the law"
+        ]
+    ],
+    "冯双骥": [
+        [
+            "鲁泰",
+            "colleague",
+            "master-servant",
+            "past connection"
+        ],
+        [
+            "赵万雷",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "赵洛意",
+            "employer",
+            "recruiter",
+            "personal connection"
+        ],
+        [
+            "赵秋儿",
+            "employer",
+            "superior",
+            "crush"
+        ],
+        [
+            "管家",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "妹妹",
+            "savior",
+            "mentor",
+            "employer",
+            "friend"
+        ],
+        [
+            "花子狸",
+            "冯竹"
+        ]
+    ],
+    "赵洛意": [
+        [
+            "鲁泰",
+            "敌人",
+            "仇人",
+            "帮手",
+            "受害者"
+        ],
+        [
+            "son of husband",
+            "informant",
+            "friend"
+        ],
+        [
+            "冯双骥",
+            "employer",
+            "recruiter",
+            "personal connection"
+        ],
+        [
+            "赵秋儿",
+            "brother",
+            "adoptive father",
+            "mentor",
+            "savior",
+            "master",
+            "close friend"
+        ],
+        [
+            "管家",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "妹妹",
+            "仇人",
+            "寻找者",
+            "保护者",
+            "Old Friend"
+        ],
+        [
+            "花子狸",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "赵秋儿": [
+        [
+            "鲁泰",
+            " Husband",
+            "Mother-in-law",
+            "Victim",
+            "Deceased"
+        ],
+        [
+            "wife",
+            "daughter",
+            "step-daughter"
+        ],
+        [
+            "冯双骥",
+            "informant",
+            "enemy"
+        ],
+        [
+            "赵洛意",
+            "brother",
+            "adoptive daughter",
+            "disciple",
+            "daughter",
+            "servant",
+            "close friend"
+        ],
+        {
+            "管家": [
+                "wife",
+                "shared secret"
+            ]
+        },
+        [
+            "妹妹",
+            "sister",
+            "aunt",
+            "niece"
+        ],
+        [
+            "花子狸",
+            "acquaintance",
+            "suspicious person",
+            "enemy",
+            "victim"
+        ]
+    ],
+    "管家": [
+        [
+            "鲁泰",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "father-in-law",
+            "employer",
+            "past connection"
+        ],
+        [
+            "冯双骥",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "赵洛意",
+            "relationship 1, relationship 2"
+        ],
+        {
+            "赵秋儿": [
+                "employer",
+                "shared secret"
+            ]
+        },
+        [
+            "妹妹",
+            "养father",
+            "savior",
+            "employer",
+            "enemy"
+        ],
+        [
+            "花子狸",
+            "employer",
+            "master",
+            "perpetrator",
+            "adversary",
+            "suspect"
+        ]
+    ],
+    "妹妹": [
+        [
+            "鲁泰",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "赵万雷",
+            "受害人",
+            "救世主",
+            "追憶的人"
+        ],
+        [
+            "冯双骥",
+            "savior",
+            "mentor",
+            "employer",
+            "friend"
+        ],
+        [
+            "赵洛意",
+            "兄妹",
+            "仇人",
+            "寻找者",
+            "保护者"
+        ],
+        [
+            "赵秋儿",
+            "sister",
+            "older sister",
+            "aunt"
+        ],
+        [
+            "管家",
+            "养father",
+            "savior",
+            "employer",
+            "enemy"
+        ],
+        [
+            "花子狸",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "花子狸": [
+        [
+            "鲁泰",
+            "former acquaintance, rival, enemy, grandson's enemy, sister's enemy"
+        ],
+        [
+            "赵万雷",
+            "person who sold 齐岳's sister",
+            "中间人 who helped 齐岳 escape from the law"
+        ],
+        [
+            "冯双骥",
+            "冯竹"
+        ],
+        [
+            "赵洛意",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "赵秋儿",
+            "acquaintance",
+            "suspicious person",
+            "enemy",
+            "victim"
+        ],
+        [
+            "管家",
+            "informant",
+            "subordinate",
+            "victim",
+            "enemy",
+            "deceased"
+        ],
+        [
+            "妹妹",
+            "relationship 1, relationship 2"
+        ]
+    ]
+}

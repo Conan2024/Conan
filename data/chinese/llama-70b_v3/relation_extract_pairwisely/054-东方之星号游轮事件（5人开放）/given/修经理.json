@@ -1,0 +1,48 @@
+{
+    "修仁杰": [
+      ["修经理", "business partner of x"], 
+      ["刘奇", "business partner of x"], 
+      ["韩亦暮", "acquaintance of x, business partner of x, friend of x, information receiver from x"]
+    ],
+    "修经理": [
+      ["修仁杰", "business partner of x"], 
+      ["刘奇", "business partner of x, rival of x"], 
+      ["张文远", "friend of x"], 
+      ["林若彤", "friend of x"], 
+      ["韩亦暮", "friend of x"]
+    ],
+    "刘奇": [
+      ["修仁杰", "business partner of x"], 
+      ["修经理", "business partner of x, rival of x"], 
+      ["张文远", "classmate of x, business partner of x, betrayer of x"], 
+      ["林若彤", "business partner of x, acquaintance of x"], 
+      ["洪子廉", "classmate of x, acquaintance of x"], 
+      ["韩亦暮", "classmate of x, business partner of x"]
+    ],
+    "张文远": [
+      ["修经理", "friend of x"], 
+      ["刘奇", "classmate of x, business partner of x, betrayer of x"], 
+      ["林若彤", "colleague of x"], 
+      ["韩亦暮", "business partner of x"]
+    ],
+    "林若彤": [
+      ["修经理", "friend of x"], 
+      ["刘奇", "business partner of x, acquaintance of x"], 
+      ["洪子廉", "enemy of x, rival of x, manipulator of x, victim of x"], 
+      ["韩亦暮", "acquaintance of x, colleague of x, business partner of x"]
+    ],
+    "韩亦暮": [
+      ["修仁杰", "acquaintance of x, business partner of x, friend of x, information receiver from x"], 
+      ["修经理", "friend of x"], 
+      ["刘奇", "classmate of x, business partner of x"], 
+      ["张文远", "business partner of x"], 
+      ["林若彤", "acquaintance of x, colleague of x, business partner of x"], 
+      ["洪子廉", "acquaintance of x, business partner of x"]
+    ],
+    "洪子廉": [
+      ["刘奇", "classmate of x, acquaintance of x"], 
+      ["张文远", "business partner of x"], 
+      ["林若彤", "enemy of x, rival of x, manipulator of x, bully of x"], 
+      ["韩亦暮", "acquaintance of x, business partner of x"]
+    ]
+}

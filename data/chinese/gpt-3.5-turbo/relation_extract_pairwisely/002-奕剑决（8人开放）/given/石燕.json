@@ -1,0 +1,137 @@
+{
+    "石燕": [
+        [
+            "武林盟的调查人员",
+            "employee of 武林盟"
+        ],
+        [
+            "蜂",
+            "mentor of x"
+        ],
+        [
+            "红花夫人",
+            "master of x"
+        ],
+        [
+            "杜仲",
+            "student of x, deceived by x, victim of x"
+        ],
+        [
+            "陆英",
+            "helper of x"
+        ]
+    ],
+    "武林盟的调查人员": [
+        [
+            "石燕",
+            "employer of 石燕"
+        ],
+        [
+            "蜂",
+            "informant of x, adversary of x"
+        ],
+        [
+            "红花夫人",
+            "mentor of x"
+        ],
+        [
+            "杜仲",
+            "adversary of x",
+            "suspect of x"
+        ],
+        [
+            "陆英",
+            "fellow members of 武林盟"
+        ]
+    ],
+    "蜂": [
+        [
+            "石燕",
+            "student of x"
+        ],
+        [
+            "武林盟的调查人员",
+            "informant of x, adversary of x"
+        ],
+        [
+            "红花夫人",
+            "helper of x",
+            "student of x"
+        ],
+        [
+            "杜仲",
+            "student of x"
+        ],
+        [
+            "陆英",
+            "student of x"
+        ]
+    ],
+    "红花夫人": [
+        [
+            "石燕",
+            "mentor of x"
+        ],
+        [
+            "武林盟的调查人员",
+            "student of x"
+        ],
+        [
+            "蜂",
+            "mentor of x"
+        ],
+        [
+            "杜仲",
+            "fiance of x"
+        ],
+        [
+            "陆英",
+            "mentor of"
+        ]
+    ],
+    "杜仲": [
+        [
+            "石燕",
+            "mentor of x, deceiver of x, perpetrator of x"
+        ],
+        [
+            "武林盟的调查人员",
+            "jealous of x",
+            "suspected by x"
+        ],
+        [
+            "蜂",
+            "mentor of x"
+        ],
+        [
+            "红花夫人",
+            "ex husband of x"
+        ],
+        [
+            "陆英",
+            "student of x"
+        ]
+    ],
+    "陆英": [
+        [
+            "石燕",
+            "acquaintance of x"
+        ],
+        [
+            "武林盟的调查人员",
+            "fellow members of 武林盟"
+        ],
+        [
+            "蜂",
+            "teacher of x"
+        ],
+        [
+            "红花夫人",
+            "student of"
+        ],
+        [
+            "杜仲",
+            "teacher of x"
+        ]
+    ]
+}

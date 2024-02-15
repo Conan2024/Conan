@@ -1,0 +1,55 @@
+{
+    "麦克斯•琼斯": [
+      ["乔•罗伯特森", "friend of x, quest companion of x"], 
+      ["克里斯丁•邓恩", "romantic relationships with x"], 
+      ["约翰•摩根", "friend of x"], 
+      ["哈罗德•哈里森", "colleague of x"], 
+      ["玛丽娜•哈里森", "lover of x"], 
+      ["露西•哈里森", "romantic relationships with x"]
+    ],
+    "乔•罗伯特森": [
+      ["麦克斯•琼斯", "friend of x, quest companion of x"], 
+      ["克里斯丁•邓恩", "friend of x, quest companion of x"], 
+      ["约翰•摩根", "friend of x"], 
+      ["哈罗德•哈里森", "friend of x"], 
+      ["玛丽娜•哈里森", "romantic relationships with x"], 
+      ["露西•哈里森", "romantic relationships with x"]
+    ],
+    "克里斯丁•邓恩": [
+      ["麦克斯•琼斯", "romantic relationships with x"], 
+      ["乔•罗伯特森", "friend of x, quest companion of x"], 
+      ["约翰•摩根", "quest companion of x, friend of x"], 
+      ["哈罗德•哈里森", "fondness of x"], 
+      ["玛丽娜•哈里森", "romantic relationships with x"], 
+      ["露西•哈里森", "friend of x, mentor of x"]
+    ],
+    "约翰•摩根": [
+      ["麦克斯•琼斯", "friend of x"], 
+      ["克里斯丁•邓恩", "quest companion of x, friend of x"], 
+      ["玛丽娜•哈里森", "extramarital affair with x"], 
+      ["露西•哈里森", "fondness of x"]
+    ],
+    "哈罗德•哈里森": [
+      ["麦克斯•琼斯", "colleague of x"], 
+      ["乔•罗伯特森", "friend of x"], 
+      ["克里斯丁•邓恩", "fondness of x"], 
+      ["玛丽娜•哈里森", "husband of x"], 
+      ["露西•哈里森", "husband of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["麦克斯•琼斯", "lover of x"], 
+      ["乔•罗伯特森", "romantic relationships with x"], 
+      ["克里斯丁•邓恩", "romantic relationships with x"], 
+      ["约翰•摩根", "extramarital affair with x"], 
+      ["哈罗德•哈里森", "wife of x"], 
+      ["露西•哈里森", "wife of x"]
+    ],
+    "露西•哈里森": [
+      ["麦克斯•琼斯", "romantic relationships with x"], 
+      ["乔•罗伯特森", "romantic relationships with x"], 
+      ["克里斯丁•邓恩", "friend of x, student of x"], 
+      ["约翰•摩根", "fondness of x"], 
+      ["哈罗德•哈里森", "wife of x"], 
+      ["玛丽娜•哈里森", "husband of x"]
+    ]
+}

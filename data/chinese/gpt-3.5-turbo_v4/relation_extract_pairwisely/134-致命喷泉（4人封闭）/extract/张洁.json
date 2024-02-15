@@ -1,0 +1,72 @@
+{
+    "张洁": [
+      ["爸爸", "child of x"], 
+      ["妈妈", "same person as x (different reference), same person as x (different identity)"], 
+      ["姑娘", "romantic relationships with x, admirer of x"], 
+      ["李国富", "colleague of x"], 
+      ["何老六", "helper of x"], 
+      ["王邻居", "neighbour of x, crime partner of x"], 
+      ["慕北", "romantic relationships with x"]
+    ],
+    "爸爸": [
+      ["张洁", "father of x"], 
+      ["妈妈", "husband of x"], 
+      ["姑娘", "same person as x (different reference), child of x"], 
+      ["李国富", "father of x"], 
+      ["何老六", "employee of x"], 
+      ["王邻居", "neighbour of x"], 
+      ["慕北", "admirer of x"]
+    ],
+    "妈妈": [
+      ["张洁", "same person as x (different reference), same person as x (different identity)"], 
+      ["爸爸", "wife of x"], 
+      ["姑娘", "romantic relationships with x"], 
+      ["李国富", "romantic relationships with x, helper of x"], 
+      ["何老六", "helper of x, helped by x"], 
+      ["王邻居", "neighbour of x"], 
+      ["慕北", "romantic relationships with x"]
+    ],
+    "姑娘": [
+      ["张洁", "romantic relationships with x, admired by x"], 
+      ["爸爸", "same person as x (different reference), father of x"], 
+      ["妈妈", "romantic relationships with x"], 
+      ["李国富", "romantic relationships with x, extramarital affair with x"], 
+      ["何老六", "romantic relationships with x"], 
+      ["王邻居", "friend of x"], 
+      ["慕北", "romantic relationships with x"]
+    ],
+    "李国富": [
+      ["张洁", "colleague of x"], 
+      ["爸爸", "son of x"], 
+      ["妈妈", "romantic relationships with x, helped by x"], 
+      ["姑娘", "romantic relationships with x, extramarital affair with x"], 
+      ["何老六", "quest companion of x, helper of x"], 
+      ["慕北", "romantic relationships with x, same person as x (different reference)"]
+    ],
+    "何老六": [
+      ["张洁", "quest companion of x"], 
+      ["爸爸", "employer of x"], 
+      ["妈妈", "helper of x, helped by x"], 
+      ["姑娘", "romantic relationships with x"], 
+      ["李国富", "quest companion of x, helper of x"], 
+      ["王邻居", "neighbour of x"], 
+      ["慕北", "romantic relationships with x"]
+    ],
+    "王邻居": [
+      ["张洁", "neighbour of x, crime partner of x"], 
+      ["爸爸", "neighbour of x"], 
+      ["妈妈", "neighbour of x"], 
+      ["姑娘", "friend of x"], 
+      ["何老六", "neighbour of x"], 
+      ["慕北", "neighbour of x"]
+    ],
+    "慕北": [
+      ["张洁", "romantic relationships with x"], 
+      ["爸爸", "admired by x"], 
+      ["妈妈", "romantic relationships with x"], 
+      ["姑娘", "romantic relationships with x"], 
+      ["李国富", "romantic relationships with x, same person as x (different reference)"], 
+      ["何老六", "romantic relationships with x"], 
+      ["王邻居", "neighbour of x"]
+    ]
+}

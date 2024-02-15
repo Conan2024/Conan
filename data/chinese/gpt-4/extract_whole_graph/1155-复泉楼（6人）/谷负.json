@@ -1,0 +1,72 @@
+{
+    "谷负": [
+        [
+            "俊奴",
+            "same person as x (different identity)"
+        ],
+        [
+            "常生",
+            "acquaintance of x"
+        ],
+        [
+            "方大哥",
+            "mentor of x, friend of x"
+        ],
+        [
+            "国先生",
+            "saviour of x, friend of x"
+        ],
+        [
+            "卢恩健",
+            "adversary of x, enemy of x"
+        ],
+        [
+            "旗劳",
+            "information receiver from x, helped by x"
+        ]
+    ],
+    "俊奴": [
+        [
+            "谷负",
+            "same person as x (different reference)"
+        ]
+    ],
+    "常生": [
+        [
+            "谷负",
+            "acquaintance of x"
+        ],
+        [
+            "方大哥",
+            "colleague of x"
+        ]
+    ],
+    "方大哥": [
+        [
+            "谷负",
+            "student of x, friend of x"
+        ],
+        [
+            "常生",
+            "colleague of x"
+        ]
+    ],
+    "国先生": [
+        [
+            "谷负",
+            "saviour of x, friend of x"
+        ]
+    ],
+    "卢恩健": [
+        [
+            "谷负",
+            "adversary of x, enemy of x"
+        ]
+    ],
+    "旗劳": [
+        [
+            "谷负",
+            "informant of x, helper of x"
+        ]
+    ]
+}

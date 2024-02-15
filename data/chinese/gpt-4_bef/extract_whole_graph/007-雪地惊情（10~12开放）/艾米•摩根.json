@@ -1,0 +1,34 @@
+{
+    "艾米•摩根": [
+      ["哈罗德•哈里森", "sibling of x"], 
+      ["玛丽娜•哈里森", "sister in law of x, disliked by x"], 
+      ["约翰•摩根", "husband of x, ex husband of x"], 
+      ["艾莱克斯•哈维", "friend of x, debtor of x"], 
+      ["露西•哈里森", "acquaintance of x"], 
+      ["麦克斯•派克", "suspicious of x"]
+    ],
+    "哈罗德•哈里森": [
+      ["艾米•摩根", "sibling of x"], 
+      ["玛丽娜•哈里森", "husband of x"], 
+      ["约翰•摩根", "brother in law of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["艾米•摩根", "sister in law of x"], 
+      ["哈罗德•哈里森", "wife of x"], 
+      ["约翰•摩根", "brother in law of x"]
+    ],
+    "露西•哈里森": [
+      ["艾米•摩根", "acquaintance of x"]
+    ],
+    "麦克斯•派克": [
+      ["艾米•摩根", "suspect to x"]
+    ],
+    "艾莱克斯•哈维": [
+      ["艾米•摩根", "friend of x, creditor of x"]
+    ],
+    "约翰•摩根": [
+      ["艾米•摩根", "wife of x, ex wife of x"], 
+      ["哈罗德•哈里森", "brother in law of x"], 
+      ["玛丽娜•哈里森", "sister in law of x"]
+    ]
+}

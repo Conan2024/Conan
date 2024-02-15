@@ -1,0 +1,92 @@
+{
+    "李保安": [
+        [
+            "田助理",
+            "victim of x, subject of investigation for x"
+        ],
+        [
+            "孙清洁",
+            "friend of x"
+        ],
+        [
+            "贾教授",
+            "adversary of x"
+        ],
+        [
+            "秦鸥",
+            "helped by x, saviour of x"
+        ]
+    ],
+    "田助理": [
+        [
+            "李保安",
+            "manipulator of x, perpetrator of x"
+        ],
+        [
+            "李保安",
+            "colleague of x"
+        ],
+        [
+            "贾教授",
+            "romantic relationships with x, extramarital affair with x"
+        ],
+        [
+            "秦鸥",
+            "extramarital affair with x"
+        ]
+    ],
+    "孙清洁": [
+        [
+            "李保安",
+            "friend of x"
+        ],
+        [
+            "李保安",
+            "friend of x"
+        ],
+        [
+            "贾教授",
+            "romantic relationships with x"
+        ],
+        [
+            "秦鸥",
+            "friend of x"
+        ]
+    ],
+    "贾教授": [
+        [
+            "李保安",
+            "adversary of x"
+        ],
+        [
+            "田助理",
+            "romantic relationships with x, extramarital affair with x"
+        ],
+        [
+            "孙清洁",
+            "romantic relationships with x"
+        ],
+        [
+            "秦鸥",
+            "romantic relationships with x"
+        ]
+    ],
+    "秦鸥": [
+        [
+            "李保安",
+            "helped by x, saviour of x"
+        ],
+        [
+            "田助理",
+            "extramarital affair with x"
+        ],
+        [
+            "孙清洁",
+            "friend of x"
+        ],
+        [
+            "贾教授",
+            "romantic relationships with x"
+        ]
+    ]
+}

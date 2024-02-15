@@ -1,0 +1,14 @@
+{
+    "王邻居": [
+      ["李国富", "acquaintance of x, suspect of x"], 
+      ["何老六", "friend of x, business partner of x, suspicious of x, adversary of x"]
+    ],
+    "李国富": [
+      [" Wang neighbor", "acquaintance of x, suspect of x"], 
+      ["何老六", "friend of x, business partner of x"]
+    ],
+    "何老六": [
+      ["王邻居", "friend of x, business partner of x, suspicious of x, adversary of x"], 
+      ["李国富", "friend of x, business partner of x"]
+    ]
+}

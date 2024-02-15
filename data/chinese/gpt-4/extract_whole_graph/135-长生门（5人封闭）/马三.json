@@ -1,0 +1,144 @@
+{
+    "马三": [
+        [
+            "张青",
+            "acquaintance of x, business partner of x"
+        ],
+        [
+            "张青的徒弟",
+            "acquaintance of x"
+        ],
+        [
+            "楚万户",
+            "employer of x, deceived by x"
+        ],
+        [
+            "苏圣策",
+            "acquaintance of x, victim of x"
+        ],
+        [
+            "王婷婷",
+            "employer of x, attempted perpetrator of x"
+        ],
+        [
+            "楚川",
+            "acquaintance of x"
+        ],
+        [
+            "李浩",
+            "acquaintance of x, manipulator of x"
+        ]
+    ],
+    "张青": [
+        [
+            "马三",
+            "acquaintance of x, business partner of x"
+        ],
+        [
+            "张青的徒弟",
+            "mentor of x"
+        ]
+    ],
+    "张青的徒弟": [
+        [
+            "张青",
+            "student of x"
+        ],
+        [
+            "马三",
+            "acquaintance of x"
+        ],
+        [
+            "李浩",
+            "same person as x (different identity)"
+        ]
+    ],
+    "楚万户": [
+        [
+            "马三",
+            "employee of x, manipulated by x"
+        ],
+        [
+            "苏圣策",
+            "acquaintance of x"
+        ],
+        [
+            "王婷婷",
+            "wife of x"
+        ],
+        [
+            "楚川",
+            "son of x"
+        ]
+    ],
+    "苏圣策": [
+        [
+            "马三",
+            "acquaintance of x, perpetrator of x"
+        ],
+        [
+            "楚万户",
+            "employer of x"
+        ]
+    ],
+    "王婷婷": [
+        [
+            "马三",
+            "employee of x, attempted victim of x"
+        ],
+        [
+            "楚万户",
+            "husband of x"
+        ],
+        [
+            "唐瑶瑶",
+            "employer of x, murderer of x"
+        ]
+    ],
+    "楚川": [
+        [
+            "楚万户",
+            "father of x"
+        ],
+        [
+            "唐瑶瑶",
+            "romantic relationships with x"
+        ],
+        [
+            "马三",
+            "acquaintance of x"
+        ]
+    ],
+    "李浩": [
+        [
+            "张青的徒弟",
+            "same person as x (different identity)"
+        ],
+        [
+            "马三",
+            "manipulated by x, information receiver from x"
+        ],
+        [
+            "楚万户",
+            "suspected by x, victim of x"
+        ],
+        [
+            "苏圣策",
+            "suspected by x"
+        ]
+    ],
+    "唐瑶瑶": [
+        [
+            "楚川",
+            "romantic relationships with x"
+        ],
+        [
+            "王婷婷",
+            "murderer of x, employer of x"
+        ],
+        [
+            "马三",
+            "perpetrator of x"
+        ]
+    ]
+}

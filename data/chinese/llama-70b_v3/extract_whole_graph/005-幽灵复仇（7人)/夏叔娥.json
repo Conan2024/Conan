@@ -1,0 +1,42 @@
+{
+    "夏叔娥": [
+      ["吴伯伯", "acquaintance of x, helper of x"], 
+      ["岳客沙", "friend of x"], 
+      ["三叔", "uncle of x, mentor of x"], 
+      ["夏三虎", "father of x, mentor of x"], 
+      ["洛意丝", "friend of x"]
+    ],
+    "吴伯伯": [
+      ["夏叔娥", "acquaintance of x"], 
+      ["吴百安", "friend of x, business partner of x"], 
+      ["摩云神拳", "mentor of x"]
+    ],
+    "岳客沙": [
+      ["夏叔娥", "friend of x"], 
+      ["夏三虎", "debtor of x"]
+    ],
+    "三叔": [
+      ["夏叔娥", "uncle of x, mentor of x"], 
+      ["夏三虎", "brother of x, mentor of x"], 
+      ["吴伯伯", "acquaintance of x"]
+    ],
+    "夏三虎": [
+      ["夏叔娥", "mentor of x"], 
+      ["夏仲鹏", "brother of x, teacher of x"]
+    ],
+    "洛意丝": [
+      ["夏叔娥", "friend of x"]
+    ],
+    "吴百安": [
+      ["吴伯伯", "friend of x, business partner of x"], 
+      ["夏家拳馆", "customer of x"]
+    ],
+    "夏仲鹏": [
+      ["夏叔娥", "uncle of x, teacher of x"], 
+      ["夏三虎", "brother of x, mentor of x"]
+    ],
+    "阿明": [
+      ["夏叔娥", "friend of x"], 
+      ["夏三虎", "debtor of x"]
+    ]
+}

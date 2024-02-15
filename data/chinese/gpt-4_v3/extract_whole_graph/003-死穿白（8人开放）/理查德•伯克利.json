@@ -1,0 +1,118 @@
+{
+    "理查德•伯克利": [
+        [
+            "汉斯·里莫瑞特",
+            "acquaintance of x, disliked by x, x's victim's family, suspect to x"
+        ],
+        [
+            "伊莱恩·卡特尔",
+            "acquaintance of x, informant of x"
+        ],
+        [
+            "帕洛斯基医生",
+            "colleague of x, subject of investigation for x"
+        ],
+        [
+            "西尔维亚·科斯塔",
+            "subordinate of x"
+        ],
+        [
+            "神父汤姆",
+            "acquaintance of x, guest of x"
+        ]
+    ],
+    "汉斯·里莫瑞特": [
+        [
+            "理查德•伯克利",
+            "acquaintance of x, suspected by x, subordinate of x"
+        ],
+        [
+            "帕洛斯基医生",
+            "colleague of x"
+        ],
+        [
+            "西尔维亚·科斯塔",
+            "colleague of x"
+        ],
+        [
+            "神父汤姆",
+            "acquaintance of x"
+        ]
+    ],
+    "伊莱恩·卡特尔": [
+        [
+            "理查德•伯克利",
+            "superior of x, information receiver from x"
+        ],
+        [
+            "帕洛斯基医生",
+            "mentor of x"
+        ],
+        [
+            "西尔维亚·科斯塔",
+            "acquaintance of x"
+        ]
+    ],
+    "帕洛斯基医生": [
+        [
+            "理查德•伯克利",
+            "colleague of x, manipulated by x"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "colleague of x"
+        ],
+        [
+            "伊莱恩·卡特尔",
+            "mentor of x"
+        ],
+        [
+            "西尔维亚·科斯塔",
+            "superior of x"
+        ],
+        [
+            "神父汤姆",
+            "acquaintance of x"
+        ]
+    ],
+    "西尔维亚·科斯塔": [
+        [
+            "理查德•伯克利",
+            "superior of x"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "colleague of x"
+        ],
+        [
+            "伊莱恩·卡特尔",
+            "superior of x"
+        ],
+        [
+            "帕洛斯基医生",
+            "subordinate of x"
+        ],
+        [
+            "神父汤姆",
+            "acquaintance of x"
+        ]
+    ],
+    "神父汤姆": [
+        [
+            "理查德•伯克利",
+            "acquaintance of x, host of x"
+        ],
+        [
+            "汉斯·里莫瑞特",
+            "acquaintance of x"
+        ],
+        [
+            "帕洛斯基医生",
+            "acquaintance of x"
+        ],
+        [
+            "西尔维亚·科斯塔",
+            "acquaintance of x"
+        ]
+    ]
+}

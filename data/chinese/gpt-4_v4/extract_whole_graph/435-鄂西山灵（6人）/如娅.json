@@ -1,0 +1,65 @@
+{
+    "如娅": [
+      ["苗纳", "father of x"], 
+      ["田氏", "mother of x"], 
+      ["苗氏", "aunt of x"], 
+      ["鹃歌", "cousin of x"], 
+      ["隼", "cousin of x"], 
+      ["鬼印", "mentor of x, helper of x, husband of x, adoptive brother of x"], 
+      ["甘玛", "helper of x, adoptive sister of x"], 
+      ["李德木", "admirer of x, extramarital affair with x"], 
+      ["李良松", "friend of x"], 
+      ["李高柏", "helper of x, student of x, friend of x"], 
+      ["阿贞", "acquaintance of x"]
+    ],
+    "苗氏": [
+      ["苗纳", "same person as x (different identity)"], 
+      ["如娅", "niece of x"], 
+      ["巴府山", "husband of x"], 
+      ["鹃歌", "child of x"], 
+      ["隼", "child of x"], 
+      ["鬼印", "son in law of x"]
+    ],
+    "巴府山": [
+      ["苗氏", "wife of x"], 
+      ["鹃歌", "child of x"], 
+      ["隼", "child of x"]
+    ],
+    "隼": [
+      ["鹃歌", "same person as x (different identity)"], 
+      ["苗氏", "mother of x"], 
+      ["巴府山", "father of x"], 
+      ["甘玛", "fiancee of x"], 
+      ["如娅", "cousin of x"], 
+      ["郑函贞", "friend of x"], 
+      ["李高柏", "acquaintance of x"]
+    ],
+    "鬼印": [
+      ["苗纳", "mentor of x"], 
+      ["如娅", "helped by x, wife of x, adoptive sister of x"], 
+      ["甘玛", "student of x, adoptive sister of x"], 
+      ["鹃歌", "fiancee of x"]
+    ],
+    "甘玛": [
+      ["如娅", "helper of x, adoptive sister of x"], 
+      ["鬼印", "adoptive brother of x, mentor of x"], 
+      ["隼", "fiance of x"]
+    ],
+    "李德木": [
+      ["如娅", "admired by x, extramarital affair with x"], 
+      ["李良松", "same person as x (different identity)"], 
+      ["李高柏", "same person as x (different identity)"]
+    ],
+    "李高柏": [
+      ["李德木", "same person as x (different identity)"], 
+      ["李良松", "same person as x (different identity)"], 
+      ["如娅", "helper of x, student of x, friend of x"]
+    ],
+    "鹃歌": [
+      ["苗氏", "mother of x"], 
+      ["巴府山", "father of x"], 
+      ["隼", "same person as x (different identity)"], 
+      ["如娅", "cousin of x"], 
+      ["鬼印", "fiance of x"]
+    ]
+}

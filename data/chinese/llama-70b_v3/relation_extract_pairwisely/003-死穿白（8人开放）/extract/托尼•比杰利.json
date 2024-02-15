@@ -1,0 +1,19 @@
+{
+    "托尼•比杰利": [
+      ["弗兰克•卡门", "brother of x, friend of x"], 
+      ["詹姆斯•菜利", "friend of x"]
+    ],
+    "弗兰克•卡门": [
+      ["托尼•比杰利", "brother of x, friend of x"], 
+      ["汤姆•神父", "mentor of x, friend of x, patient of x"]
+    ],
+    "詹姆斯•菜利": [
+      ["托尼•比杰利", "friend of x"], 
+      ["弗兰克•卡门", "student of x"], 
+      ["汤姆•神父", "mentor of x"]
+    ],
+    "汤姆•神父": [
+      ["弗兰克•卡门", "mentor of x, friend of x, patient of x"], 
+      ["詹姆斯•菜利", "admirer of x"]
+    ]
+}

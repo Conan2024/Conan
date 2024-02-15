@@ -1,0 +1,43 @@
+{
+    "王船工": [
+      ["张大副", "victim of x, enemy of x"], 
+      ["路人甲", "friend of x, acquaintance of x, rival of x, suspect of x, helper of x"], 
+      ["王小工", "colleague of x, enemy of x"], 
+      ["杨老板", "employer of x, master of x, perpetrator of x, manipulator of x, deceiver of x"]
+    ],
+    "张大副": [
+      ["王船工", "victim of x, enemy of x"], 
+      ["路人甲", "business partner of x"], 
+      ["玲船医", "business partner of x"], 
+      ["王小工", "employer of x, master of x, superior of x"], 
+      ["杨老板", "business partner of x"]
+    ],
+    "路人甲": [
+      ["王船工", "friend of x, acquaintance of x, rival of x, suspect of x, helper of x"], 
+      ["张大副", "business partner of x"], 
+      ["玲船医", "acquaintance of x"], 
+      ["王小工", "friend of x, business partner of x"], 
+      ["杨老板", "acquaintance of x, business partner of x, friend of x, rival of x, subordinate of x, superior of x"]
+    ],
+    "玲船医": [
+      ["路人甲", "acquaintance of x"], 
+      ["王小工", "relative of x, friend of x"], 
+      ["杨老板", "friend of x, acquaintance of x"]
+    ],
+    "王小工": [
+      ["王船工", "colleague of x, enemy of x"], 
+      ["张大副", "employee of x, subordinate of x, suspect of x"], 
+      ["路人甲", "friend of x, business partner of x"], 
+      ["杨老板", "friend of x, suspect of x"]
+    ],
+    "杨老板": [
+      ["王船工", "employee of x, servant of x, victim of x, manipulated by x, deceived by x"], 
+      ["张大副", "business partner of x"], 
+      ["路人甲", "acquaintance of x, business partner of x, friend of x, rival of x, subordinate of x, superior of x"], 
+      ["玲船医", "friend of x, acquaintance of x"], 
+      ["王小工", "customer of x, friend of x, suspect of x"]
+    ],
+    " Wang Xiaogong": [
+      ["玲船医", "relative of x, friend of x"]
+    ]
+}

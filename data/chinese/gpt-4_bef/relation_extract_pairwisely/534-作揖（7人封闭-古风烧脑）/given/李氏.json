@@ -1,0 +1,96 @@
+{
+    "李氏": [
+      ["方絮", "same person as x (different identity), wife of x, victim of x, deceived by x"], 
+      ["方竹", "lover of x, secret lover of x, saviour of x, helped by x"], 
+      ["方眠", "sibling of x, younger sister of x, adversary of x"], 
+      ["收养的男孩", "adoptive mother of x, romantic relationships with x, lover of x, helped by x, secret lover of x"], 
+      ["李钦仁", "wife of x, victim of x"], 
+      ["李仲", "mother of x"], 
+      ["李延", "biological mother of x, victim of x"], 
+      ["陈倩", "mother in law of x"]
+    ],
+    "方絮": [
+      ["李氏", "same person as x (different identity), husband of x, deceiver of x, perpetrator of x"], 
+      ["方竹", "lover of x, helped by x, quest companion of x, secret lover of x, admirer of x"], 
+      ["方叶", "sibling of x, sister of x"], 
+      ["方眠", "sister of x"], 
+      ["收养的男孩", "adoptive brother of x, secret lover of x, lover of x"], 
+      ["李钦仁", "wife of x, victim of x, suspect of x, murderer of x"], 
+      ["李仲", "mother of x, ex romantic relationships with x, secret lover of x, victim of x, deceived by x, helped by x, information receiver from x, quest companion of x"], 
+      ["李延", "mother of x, biological mother of x"], 
+      ["陈倩", "mother in law of x"]
+    ],
+    "方竹": [
+      ["李氏", "lover of x, secret lover of x, seeker of help from x, helped by x"], 
+      ["方絮", "lover of x, romantic relationships with x, helper of x, quest companion of x, secret admirer of x, admired by x"], 
+      ["方叶", "same person as x (different identity)"], 
+      ["收养的男孩", "lover of x, helper of x, secret admirer of x, quest companion of x"], 
+      ["李仲", "biological father of x, lover of x"], 
+      ["李延", "biological father of x"], 
+      ["陈倩", "romantic relationships with x, secret lover of x, information receiver from x, guest of x, helper of x"]
+    ],
+    "方眠": [
+      ["李氏", "sibling of x, older sister of x, adversary of x"], 
+      ["方絮", "sister of x"], 
+      ["方叶", "sibling of x, younger sister of x"], 
+      ["李钦仁", "step father of x"], 
+      ["李仲", "half sister of x, same person as x (different identity)"], 
+      ["李延", "half brother of x"], 
+      ["陈倩", "sister in law of x"]
+    ],
+    "收养的男孩": [
+      ["李氏", "adoptive son of x, romantic relationships with x, lover of x, helper of x, secret lover of x"], 
+      ["方絮", "adoptive sister of x, secret lover of x, lover of x"], 
+      ["方竹", "lover of x, helped by x, information receiver from x, saved by x"], 
+      ["李钦仁", "biological father of x, secret lover of x"], 
+      ["李仲", "biological father of x, lover of x"]
+    ],
+    "李钦仁": [
+      ["李氏", "husband of x, perpetrator of x"], 
+      ["方絮", "husband of x, perpetrator of x"], 
+      ["方叶", "brother in law of x, perpetrator of x"], 
+      ["方眠", "step daughter of x"], 
+      ["收养的男孩", "biological son of x, extramarital affair with x"], 
+      ["李延", "father of x"], 
+      ["陈倩", "father of x, future father in law of x"]
+    ],
+    "李仲": [
+      ["李氏", "child of x"], 
+      ["方絮", "child of x, helped by x, quest companion of x, information receiver from x"], 
+      ["方竹", "child of x"], 
+      ["方叶", "child of x"], 
+      ["方眠", "half brother of x, same person as x (different identity)"], 
+      ["收养的男孩", "child of x"], 
+      ["李延", "twin brother of x, biological son of x"], 
+      ["陈倩", "fiance of x"]
+    ],
+    "李延": [
+      ["李氏", "biological son of x, saved by x"], 
+      ["方絮", "child of x, son of x, biological son of x"], 
+      ["方竹", "biological son of x"], 
+      ["方叶", "child of x"], 
+      ["方眠", "half brother of x"], 
+      ["李钦仁", "son of x"], 
+      ["李仲", "twin brother of x, biological son of x"], 
+      ["陈倩", "fiance of x"]
+    ],
+    "陈倩": [
+      ["李氏", "daughter in law of x"], 
+      ["方絮", "daughter in law of x"], 
+      ["方竹", "romantic relationships with x, secret lover of x"], 
+      ["方眠", "sister in law of x"], 
+      ["收养的男孩", "lover of x"], 
+      ["李钦仁", "daughter in law of x"], 
+      ["李仲", "fiancee of x"], 
+      ["李延", "fiancee of x"]
+    ],
+    "方叶": [
+      ["方絮", "sibling of x, brother of x"], 
+      ["方竹", "same person as x (different identity)"], 
+      ["方眠", "sibling of x, older brother of x"], 
+      ["收养的男孩", "sibling of x, perpetrator of x"], 
+      ["李钦仁", "victim of x"], 
+      ["李仲", "biological father of x"], 
+      ["李延", "biological father of x"]
+    ]
+}

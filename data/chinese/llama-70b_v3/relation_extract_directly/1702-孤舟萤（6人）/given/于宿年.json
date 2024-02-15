@@ -1,0 +1,32 @@
+{
+    "于宿年": [
+      ["崔寿亨", "enemy of x"], 
+      ["周持同", "brother of x"], 
+      ["昔颜", "father of x"], 
+      ["嫣楠", "sister of x"], 
+      ["宝柑", "friend of x"], 
+      ["琏逸", "friend of x"]
+    ],
+    "嫣楠": [
+      ["崔寿亨", "son of x"], 
+      ["琏逸", "sister of x"]
+    ],
+    "周持同": [
+      ["于宿年", "brother of x"], 
+      ["周蒙当", "brother of x"]
+    ],
+    "崔寿亨": [
+      ["于宿年", "enemy of x"], 
+      ["嫣楠", "son of x"]
+    ],
+    "昔颜": [
+      ["于宿年", "father of x"]
+    ],
+    "宝柑": [
+      ["于宿年", "friend of x"]
+    ],
+    "琏逸": [
+      ["于宿年", "friend of x"], 
+      ["嫣楠", "sister of x"]
+    ]
+}

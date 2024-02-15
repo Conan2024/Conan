@@ -1,0 +1,45 @@
+{
+    "理查德•伯克利": [
+      ["努力", "employer of x, superior of x, mentor of x, friend of x, enemy of x"], 
+      ["医生德雷克•里莫瑞特", "acquaintance of x, colleague of x, business partner of x"], 
+      ["警察伊莱恩•卡特尔", "employee of x, mentor of x, teacher of x, informant of x, acquaintance of x, colleague of x, business partner of x"], 
+      ["小偷", "employee of x, colleague of x"]
+    ],
+    "努力": [
+      ["理查德•伯克利", "employer of x, superior of x, mentor of x, friend of x, enemy of x"], 
+      ["医生德雷克•里莫瑞特", "employee of x, colleague of x, acquaintance of x, classmate of x, schoolmate of x"], 
+      ["警察伊莱恩•卡特尔", "informant of x"], 
+      ["小偷", "colleague of x"]
+    ],
+    "高效率": [
+      ["把握机遇", "friend of x, colleague of x"], 
+      ["医生德雷克•里莫瑞特", "colleague of x"]
+    ],
+    "医生德雷克•里莫瑞特": [
+      ["理查德•伯克利", "acquaintance of x, colleague of x, business partner of x"], 
+      ["努力", "employee of x, colleague of x, acquaintance of x, classmate of x, schoolmate of x"], 
+      ["高效率", "colleague of x"], 
+      ["把握机遇", "colleague of x"], 
+      ["警察伊莱恩•卡特尔", "acquaintance of x, colleague of x, helper of x, informant of x, mentor of x, student of x, teacher of x, friend of x"], 
+      ["小偷", "colleague of x"]
+    ],
+    "警察伊莱恩•卡特尔": [
+      ["理查德•伯克利", "mentor of x, teacher of x, informant of x, acquaintance of x, colleague of x, business partner of x"], 
+      ["努力", "informant of x, employer of x"], 
+      ["把握机遇", "teacher of x"], 
+      ["医生德雷克•里莫瑞特", "acquaintance of x, colleague of x, friend of x, helper of x, informant of x, mentor of x, student of x, teacher of x"], 
+      ["小偷", "business partner of x"]
+    ],
+    "小偷": [
+      ["理查德•伯克利", "employee of x, colleague of x"], 
+      ["努力", "colleague of x"], 
+      ["把握机遇", "employee of x, colleague of x"], 
+      ["医生德雷克•里莫瑞特", "doctor of x"]
+    ],
+    "把握机遇": [
+      ["高效率", "friend of x, colleague of x"], 
+      ["医生德雷克•里莫瑞特", "colleague of x"], 
+      ["警察伊莱恩•卡特尔", "teacher of x"], 
+      ["小偷", "employee of x, colleague of x"]
+    ]
+}

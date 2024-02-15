@@ -1,0 +1,36 @@
+{
+    "张恶霸": [
+      ["李小弟", "enemy of x, rival of x, manipulator of x, betrayer of x"], 
+      ["王学习", "enemy of x, rival of x, manipulator of x, victim of x"], 
+      ["赵帅哥", "boyfriend of x, rival of x, adversary of x"], 
+      ["郝闺蜜", "boyfriend of x, rival of x, adversary of x"]
+    ],
+    "李小弟": [
+      ["张恶霸", "enemy of x, rival of x, manipulated of x, betrayed of x"], 
+      ["王学习", "rival of x, enemy of x"], 
+      ["赵帅哥", "friend of x, confidant of x"], 
+      ["郝闺蜜", "childhood friend of x, closest friend of x, confidant of x, supportive companion of x"]
+    ],
+    "林校花": [
+      ["赵帅哥", "savior of x"]
+    ],
+    "王学习": [
+      ["张恶霸", "enemy of x, rival of x, manipulated of x, bully of x"], 
+      ["李小弟", "rival of x, enemy of x"], 
+      ["赵帅哥", "friend of x, confidant of x"], 
+      ["郝闺蜜", "childhood friend of x, crush of x"]
+    ],
+    "赵帅哥": [
+      ["张恶霸", "girlfriend of x, friend of x, acquaintance of x"], 
+      ["李小弟", "friend of x, confidant of x"], 
+      ["林校花", "savior of x"], 
+      ["王学习", "friend of x, confidant of x"], 
+      ["郝闺蜜", "friend of x, confidant of x"]
+    ],
+    "郝闺蜜": [
+      ["张恶霸", "boyfriend of x, rival of x, adversary of x"], 
+      ["李小弟", "childhood friend of x, closest friend of x, confidant of x, supportive companion of x"], 
+      ["王学习", "childhood friend of x, object of x affection"], 
+      ["赵帅哥", "friend of x, confidant of x"]
+    ]
+}

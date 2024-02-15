@@ -1,0 +1,50 @@
+{
+    "李延": [
+      ["李钦仁", "father of x"], 
+      ["李仲", "same person as x (different identity), older brother of x"], 
+      ["李氏", "mother of x"], 
+      ["接生婆", "helper of x"], 
+      ["郎中", "helper of x"], 
+      ["两女子", "saved by x"], 
+      ["歹徒", "perpetrator of x, disliked by x, adversary of x"], 
+      ["陈府", "acquaintance of x"], 
+      ["其中一女子", "saved by x"], 
+      ["另一个女子", "saved by x"], 
+      ["陈孜靖", "acquaintance of x, future father in law of x"], 
+      ["陈倩", "lover of x, possibly family of x"], 
+      ["李府下人", "subordinate of x, helper of x"], 
+      ["众宾客", "guest of x"], 
+      ["陪嫁丫鬟", "acquaintance of x"], 
+      ["众人", "guest of x"]
+    ],
+    "李仲": [
+      ["李延", "same person as x (different identity), younger brother of x"], 
+      ["李钦仁", "father of x"], 
+      ["李氏", "mother of x"], 
+      ["陈倩", "fiancee of x"]
+    ],
+    "李氏": [
+      ["李延", "child of x"], 
+      ["李仲", "child of x"], 
+      ["李钦仁", "husband of x"], 
+      ["陈倩", "future relative of x"]
+    ],
+    "李钦仁": [
+      ["李延", "child of x"], 
+      ["李仲", "child of x"], 
+      ["李氏", "wife of x"]
+    ],
+    "接生婆": [
+      ["李延", "helped by x"], 
+      ["李氏", "helper of x"]
+    ],
+    "陈孜靖": [
+      ["陈倩", "father of x"], 
+      ["李仲", "future son in law of x"]
+    ],
+    "陈倩": [
+      ["李延", "admirer of x, ex romantic relationships with x"], 
+      ["李仲", "fiancee of x"], 
+      ["陈孜靖", "child of x"]
+    ]
+}

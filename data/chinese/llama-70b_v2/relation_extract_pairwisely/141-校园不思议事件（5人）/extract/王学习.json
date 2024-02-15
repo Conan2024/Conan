@@ -1,0 +1,38 @@
+{
+    "王学习": [
+      ["张恶霸", "acquaintance of x, classmate of x"], 
+      ["李小弟", "学生与恶霸 of x, 朋友 of x, 胆小鬼 of x, 考上全国最好的大学 of x, 摆脱恶魔 of x"], 
+      ["郝闺蜜", "manipulator manipulated of x"]
+    ],
+    "张恶霸": [
+      ["王学习", "acquaintance of x, classmate of x"], 
+      ["李小弟", "perpetrator of x, bully of x"], 
+      ["赵帅哥", "bully of x, tormentor of x, manipulator of x"], 
+      ["郝闺蜜", "学生 of x, 奴隶 of x"]
+    ],
+    "李小弟": [
+      ["王学习", "学生与恶霸 of x, 朋友 of x, 胆小鬼 of x, 考上全国最好的大学 of x, 摆脱恶魔 of x"], 
+      ["张恶霸", "victim of x, target of x bullying"], 
+      ["赵帅哥", "关系1 of x, 关系2 of x"], 
+      ["林校花", "acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helped by  wang xiu's bullying"], 
+      ["郝闺蜜", "subordinate of x, follower of x"]
+    ],
+    "郝闺蜜": [
+      ["王学习", "manipulator manipulated of x"], 
+      ["张恶霸", "学生 of x, 朋友 of x"], 
+      ["李小弟", "leader of x, bully of x"], 
+      ["赵帅哥", "acquaintance of x, friend of x"], 
+      ["林校花", "acquaintance of x"]
+    ],
+    "赵帅哥": [
+      ["张恶霸", "friend of x, acquaintance of x, partner in crime of x"], 
+      ["李小弟", "关系1 of x, 关系2 of x"], 
+      ["林校花", "suspect of x murder"], 
+      ["郝闺蜜", "acquaintance of x, friend of x"]
+    ],
+    "林校花": [
+      ["李小弟", "acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helped by  wang xiu's bullying"], 
+      ["赵帅哥", "suspect of x murder"], 
+      ["郝闺蜜", "acquaintance of x"]
+    ]
+}

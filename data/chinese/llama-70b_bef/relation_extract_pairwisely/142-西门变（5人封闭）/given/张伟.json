@@ -1,0 +1,25 @@
+{
+    "张伟": [
+      ["赵中正", "employee of x, bully of x, suspect of x, adversary of x"], 
+      ["马老板", "subordinate of x, deceiver of x, suspicious of x"]
+    ],
+    "李成": [
+      ["张伟", "superior of x"], 
+      ["赵中杨", "employee of x, colleague of x"]
+    ],
+    "赵三": [
+      ["赵中正", "subordinate of x, informant of x, friend of x, business partner of x"], 
+      ["马老板", "brother of x, business partner of x, buyer of x, manipulator of x, adversary of x, enemy of x"]
+    ],
+    "赵中杨": [
+      ["李成", "employer of x, master of x"]
+    ],
+    "赵中正": [
+      ["张伟", "employer of x, victim of x"], 
+      ["赵三", "subordinate of x, informant of x, friend of x, business partner of x"]
+    ],
+    "马老板": [
+      ["张伟", "subordinate of x, suspicious of x"], 
+      ["赵三", "brother of x, business partner of x, buyer of x, manipulator of x, adversary of x, enemy of x"]
+    ]
+}

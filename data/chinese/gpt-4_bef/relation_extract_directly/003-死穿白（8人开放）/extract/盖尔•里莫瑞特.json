@@ -1,0 +1,38 @@
+{
+    "盖尔•里莫瑞特": [
+      ["汉斯•里莫瑞特医生", "murderer of x, wife of x"], 
+      ["德雷克•里莫瑞特", "extramarital affair with x"], 
+      ["盖尔的父亲", "father of x"], 
+      ["科斯塔护士长", "helped by x"], 
+      ["吉姆•梅森", "suspected by x"], 
+      ["伊莱恩•卡特尔", "acquaintance of x"], 
+      ["约翰逊", "host of x, friend of x"], 
+      ["詹姆斯•菜利", "informant of x, helped by x"]
+    ],
+    "汉斯•里莫瑞特医生": [
+      ["盖尔•里莫瑞特", "victim of x, husband of x"], 
+      ["德雷克•里莫瑞特", "sibling of x"], 
+      ["科斯塔护士长", "colleague of x"], 
+      ["罗伯特•凯西", "patient of x"], 
+      ["吉姆•梅森", "doctor of x"], 
+      ["约翰逊", "friend of x"]
+    ],
+    "德雷克•里莫瑞特": [
+      ["盖尔•里莫瑞特", "extramarital affair with x"], 
+      ["汉斯•里莫瑞特医生", "sibling of x"]
+    ],
+    "科斯塔护士长": [
+      ["汉斯•里莫瑞特医生", "colleague of x"]
+    ],
+    "罗伯特•凯西": [
+      ["汉斯•里莫瑞特医生", "doctor of x"], 
+      ["科斯塔护士长", "patient of x"]
+    ],
+    "伊莱恩•卡特尔": [
+      ["盖尔•里莫瑞特", "acquaintance of x"]
+    ],
+    "约翰逊": [
+      ["盖尔•里莫瑞特", "host of x, friend of x"], 
+      ["汉斯•里莫瑞特医生", "friend of x"]
+    ]
+}

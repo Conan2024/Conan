@@ -1,0 +1,16 @@
+{
+    "庄清纯": [
+      ["贾美丽", "lover of x, murderer of x"], 
+      ["薛媚娘", "girlfriend of x"]
+    ],
+    "贾美丽": [
+      ["庄清纯", "lover of x, murderer of x"], 
+      ["秦老大", "enemy of x"]
+    ],
+    "秦老大": [
+      ["贾美丽", "enemy of x"]
+    ],
+    "薛媚娘": [
+      ["庄清纯", "girlfriend of x"]
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "约翰·保尔森": [
+        [
+            "布莱恩",
+            "workmate of x, possibly friend of x"
+        ],
+        [
+            "克莱姆",
+            "blackmailed by x, acquaintance of x"
+        ],
+        [
+            "齐克",
+            "friend of x, acquaintance of x"
+        ],
+        [
+            "法拉第医生",
+            "acquaintance of x"
+        ],
+        [
+            "小鹿",
+            "acquaintance of x, saviour of x, possibly friend of x"
+        ],
+        [
+            "丹",
+            "subordinate of x, acquaintance of x"
+        ],
+        [
+            "伊利亚",
+            "stranger to x, possibly disliked by x"
+        ]
+    ],
+    "克莱姆": [
+        [
+            "约翰·保尔森",
+            "blackmailer of x, acquaintance of x"
+        ]
+    ],
+    "齐克": [
+        [
+            "约翰·保尔森",
+            "friend of x, acquaintance of x"
+        ],
+        [
+            "法拉第医生",
+            "gambler with x, possibly adversary of x"
+        ]
+    ],
+    "法拉第医生": [
+        [
+            "齐克",
+            "gambled with x, possibly adversary of x"
+        ],
+        [
+            "约翰·保尔森",
+            "acquaintance of x"
+        ]
+    ],
+    "小鹿": [
+        [
+            "约翰·保尔森",
+            "saved x, possibly friend of x, acquaintance of x"
+        ]
+    ],
+    "丹": [
+        [
+            "约翰·保尔森",
+            "superior of x, colleague of x, possibly displeased with x"
+        ],
+        [
+            "布莱恩",
+            "colleague of x"
+        ]
+    ],
+    "伊利亚": [
+        [
+            "约翰·保尔森",
+            "acquaintance of x, possibly disliked by x"
+        ]
+    ],
+    "布莱恩": [
+        [
+            "约翰·保尔森",
+            "workmate of x, possibly friend of x"
+        ],
+        [
+            "丹",
+            "colleague of x"
+        ]
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "赵中正": [
+      ["赵家", "member of x"], 
+      ["赵中杨", "sibling of x"], 
+      ["赵三", "subordinate of x, friend of x, attempted perpetrator of x"], 
+      ["陈媚儿", "subordinate of x, informant of x"], 
+      ["李成", "subordinate of x, blackmailed by x"], 
+      ["李家", "ally of x, business partner of x"], 
+      ["老族长", "father of x"], 
+      ["东域", "enemy of x"], 
+      ["机关弩", "product provider of x"], 
+      ["陈媚儿（在赵中杨的房间里）", "attempted victim of x"]
+    ],
+    "赵中杨": [
+      ["赵家", "member of x"], 
+      ["赵中正", "sibling of x, suspected by x, victim of x"], 
+      ["老族长", "father of x, fondness of x"], 
+      ["陈媚儿", "romantic relationships with x, admirer of x"], 
+      ["李成", "subordinate of x"]
+    ],
+    "赵三": [
+      ["赵中正", "superior of x, informant of x, attempted perpetrator of x"], 
+      ["赵中杨", "attempted victim of x"]
+    ],
+    "陈媚儿": [
+      ["赵中杨", "romantic relationships with x, admirer of x"], 
+      ["赵中正", "subordinate of x, informant of x"]
+    ],
+    "李成": [
+      ["赵中杨", "superior of x"], 
+      ["赵家", "servant of x"], 
+      ["赵中正", "manipulator of x, superior of x, blackmailed by x"]
+    ],
+    "老族长": [
+      ["赵中正", "son of x"], 
+      ["赵中杨", "son of x, fondness of x"]
+    ],
+    "李家": [
+      ["赵中正", "ally of x, business partner of x"]
+    ]
+}

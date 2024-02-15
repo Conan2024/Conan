@@ -1,0 +1,37 @@
+{
+    "孙清洁": [
+      ["田助理", "colleague of x"], 
+      ["田助理", "blackmailer of x"], 
+      ["孙清洁", "blackmailed by 田助理 of x"], 
+      ["李保安", "friend of x"], 
+      ["李保安", "blackmailed by 田助理 of x"], 
+      ["贾教授", "employeerr of x"], 
+      ["贾教授", "subject of x admiration for x"], 
+      ["贾教授", "involved in a scandal with 田助理 of x"], 
+      ["贾教授", "admired by x"], 
+      ["田助理", "involved in a scandal with 贾教授 of x"], 
+      ["田助理", "blackmailer of x 李保安"], 
+      ["孙清洁", "witness to scandal involving 田助理 of x"], 
+      ["孙清洁", "sender of x x compromising video to 田助理"]
+    ],
+    "田助理": [
+      ["孙清洁", "colleague of x"], 
+      ["田助理", "blackmailer of x 孙清洁"], 
+      ["孙清洁", "blackmailed by x"], 
+      ["李保安", "blackmailed by x"], 
+      ["贾教授", "involved in a scandal with x"], 
+      ["田助理", "involved in a scandal with 贾教授 of x"], 
+      ["田助理", "affair with student of x"]
+    ],
+    "李保安": [
+      ["孙清洁", "friend of x"], 
+      ["孙清洁", "blackmailed by 田助理 of x"], 
+      ["田助理", "blackmailer of x"], 
+      ["李保安", "lost phone of x"]
+    ],
+    "贾教授": [
+      ["孙清洁", "employee of x"], 
+      ["孙清洁", "admired by x"], 
+      ["贾教授", "involved in a scandal with 田助理 of x"]
+    ]
+}

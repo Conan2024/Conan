@@ -1,0 +1,92 @@
+{
+    "李警察": [
+        [
+            "李警察的女友",
+            "romantic relationships with x"
+        ],
+        [
+            "王村长",
+            "helper of x, possibly family of x"
+        ],
+        [
+            "胡调研",
+            "mentor of x"
+        ],
+        [
+            "赵慈善",
+            "adversary of x, perpetrator of x"
+        ]
+    ],
+    "李警察的女友": [
+        [
+            "李警察",
+            "romantic relationships with x"
+        ],
+        [
+            "王村长",
+            "lover of x"
+        ],
+        [
+            "胡调研",
+            "romantic relationships with x"
+        ],
+        [
+            "赵慈善",
+            "girlfriend of x"
+        ]
+    ],
+    "王村长": [
+        [
+            "李警察",
+            "helper of x"
+        ],
+        [
+            "李警察的女友",
+            "boyfriend of x"
+        ],
+        [
+            "胡调研",
+            "friend of x"
+        ],
+        [
+            "赵慈善",
+            "employer of x"
+        ]
+    ],
+    "胡调研": [
+        [
+            "李警察",
+            "mentor of x"
+        ],
+        [
+            "李警察的女友",
+            "romantic relationships with x"
+        ],
+        [
+            "王村长",
+            "friend of x"
+        ],
+        [
+            "赵慈善",
+            "business partner of x, friend of x"
+        ]
+    ],
+    "赵慈善": [
+        [
+            "李警察",
+            "adversary of x, victim of x"
+        ],
+        [
+            "李警察的女友",
+            "ex girlfriend of x"
+        ],
+        [
+            "王村长",
+            "employee of x"
+        ],
+        [
+            "胡调研",
+            "business partner of x, friend of x"
+        ]
+    ]
+}

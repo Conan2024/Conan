@@ -1,0 +1,51 @@
+{
+    "张文远": [
+      ["刘奇", "subordinate of x, disliked by x, victim of x, suspected by x, adversary of x, investigation receiver from x"], 
+      ["洪子廉", "subordinate of x, suspect of x, disliked by x"], 
+      ["韩亦暮", "acquaintance of x, colleague of x"], 
+      ["修仁杰", "acquaintance of x, colleague of x"], 
+      ["林若彤", "acquaintance of x"], 
+      ["张二副", "subordinate of x, dislike of x, victim of x, employee of x"]
+    ],
+    "刘奇": [
+      ["张文远", "superior of x, dislike of x, suspect of x, investigation subject for x, manipulator of x, perpetrator of x"], 
+      ["洪子廉", "superior of x"], 
+      ["修仁杰", "superior of x, disliked by x, adversary of x, victim of x"], 
+      ["林若彤", "superior of x"], 
+      ["张二副", "superior of x, disliked by x, deceiver of x, suspect of x"]
+    ],
+    "洪子廉": [
+      ["张文远", "superior of x, suspected by x, disliker of x"], 
+      ["刘奇", "subordinate of x"], 
+      ["韩亦暮", "acquaintance of x, superior of x"], 
+      ["修仁杰", "acquaintance of x, colleague of x"], 
+      ["张二副", "superior of x, subject of x investigation for x"]
+    ],
+    "韩亦暮": [
+      ["张文远", "acquaintance of x, colleague of x"], 
+      ["洪子廉", "acquaintance of x, subordinate of x"], 
+      ["修仁杰", "acquaintance of x"], 
+      ["林若彤", "acquaintance of x"], 
+      ["张二副", "acquaintance of x, colleague of x, information receiver from x, disliked by x"]
+    ],
+    "修仁杰": [
+      ["张文远", "acquaintance of x, colleague of x"], 
+      ["洪子廉", "acquaintance of x, colleague of x"], 
+      ["韩亦暮", "acquaintance of x"], 
+      ["张二副", "acquaintance of x"]
+    ],
+    "林若彤": [
+      ["张文远", "acquaintance of x"], 
+      ["刘奇", "subordinate of x"], 
+      ["韩亦暮", "acquaintance of x"], 
+      ["张二副", "acquaintance of x"]
+    ],
+    "张二副": [
+      ["张文远", "superior of x, disliked by x, perpetrator of x, employer of x"], 
+      ["刘奇", "subordinate of x, dislike of x, deceived by x, investigator of x"], 
+      ["洪子廉", "subordinate of x, disliked by x"], 
+      ["韩亦暮", "colleague of x, superior of x, disliker of x"], 
+      ["修仁杰", "acquaintance of x"], 
+      ["林若彤", "acquaintance of x"]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "甄商": [
+        [
+            "贾保姆",
+            "wife of 甄商, cheated on by 甄商"
+        ],
+        [
+            "姚钱树",
+            "acquaintance of 甄商, business partner of 甄商, attempted murderer of 甄商, extramarital affair with 甄商's wife"
+        ],
+        [
+            "张",
+            "stranger to 甄商"
+        ],
+        [
+            "李长青",
+            "stranger to 甄商"
+        ],
+        [
+            "摇钱树",
+            "information receiver from 甄商"
+        ]
+    ],
+    "贾保姆": [
+        [
+            "甄商",
+            "husband of 贾保姆"
+        ],
+        [
+            "姚钱树",
+            "extramarital affair with 贾保姆"
+        ],
+        [
+            "李长青",
+            "employee of 贾保姆"
+        ]
+    ],
+    "姚钱树": [
+        [
+            "甄商",
+            "acquaintance of 姚钱树, business partner of 姚钱树, victim of 姚钱树"
+        ],
+        [
+            "贾保姆",
+            "extramarital affair with 姚钱树"
+        ],
+        [
+            "张",
+            "friend of 姚钱树"
+        ]
+    ],
+    "张": [
+        [
+            "姚钱树",
+            "friend of 张"
+        ],
+        [
+            "甄商",
+            "stranger to 张"
+        ]
+    ],
+    "摇钱树": [
+        [
+            "甄商",
+            "information provider to 摇钱树"
+        ]
+    ],
+    "李长青": [
+        [
+            "贾保姆",
+            "employer of 李长青"
+        ]
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "阿明": [
+      ["钱明", "friend of x"], 
+      ["小红", "friend of x"], 
+      ["王刚", "friend of x"], 
+      ["李华", "friend of x"], 
+      ["阿明的妻子", "wife of x"]
+    ],
+    "钱明": [
+      ["阿明", "friend of x"], 
+      ["小红", "friend of x"], 
+      ["王刚", "friend of x"], 
+      ["李华", "friend of x"]
+    ],
+    "小红": [
+      ["阿明", "friend of x"], 
+      ["钱明", "friend of x"], 
+      ["王刚", "romantic relationships with x"], 
+      ["李华", "friend of x"]
+    ],
+    "王刚": [
+      ["阿明", "friend of x"], 
+      ["钱明", "romantic relationships with x"], 
+      ["小红", "romantic relationships with x"], 
+      ["李华", "friend of x"]
+    ],
+    "李华": [
+      ["阿明", "friend of x"], 
+      ["钱明", "friend of x"], 
+      ["小红", "friend of x"], 
+      ["王刚", "friend of x"]
+    ],
+    "阿明的妻子": [
+      ["阿明", "wife of x"]
+    ]
+}

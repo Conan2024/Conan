@@ -1,0 +1,34 @@
+{
+    "孟三春": [
+      ["张金银", "同谋生手段 of x, 帮手 of x, 兄弟 of x, 同事 of x, 凉城人 of x"], 
+      ["洪二郎", "brother of x, master of x, deputy of x, ally of x, enemy of x, predecessor of x, junior of x, student of x, subordinate of x, assistant of x"], 
+      ["洪江水", "brother of x, mentor of x, rival of x, friend of x, colleague of x"]
+    ],
+    "张金银": [
+      ["孟三春", "同谋生手段 of x, 帮手 of x, 兄弟 of x, 同事 of x, 凉城人 of x"], 
+      ["张金山", "兄弟 of x, 义兄弟 of x, 战友 of x, 帮派 of x, 共同勾结 of x"], 
+      ["洪江水", "兄弟/兄妹 of x, 朋友/亲友 of x, 搭档/partner of x, 师徒/导师 of x, 舅舅/姐妹 of x"], 
+      ["洪长烈", "兄弟 of x, 敌人 of x, 嫉敌 of x, old friend of x, 合伙 of x, 雇佣人 of x, 邻居 of x, 追求者 of x, 赏金 of x, 亲朋 of x"]
+    ],
+    "洪二郎": [
+      ["孟三春", "brother of x, master of x, deputy of x, ally of x, enemy of x, predecessor of x, junior of x, student of x, subordinate of x, assistant of x"], 
+      ["张金山", "co workers of x"], 
+      ["蔡思娘", "兄弟 of x, 姐妹 of x, 表兄弟 of x, 表妹 of x, 战友 of x, 爱人 of x"]
+    ],
+    "洪江水": [
+      ["孟三春", "brother of x, mentee of x, rival of x, friend of x, colleague of x"], 
+      ["张金银", "兄弟/兄妹 of x, 朋友/亲友 of x, 搭档/partner of x, 师徒/导师 of x, 舅舅/姐妹 of x"]
+    ],
+    "洪长烈": [
+      ["张金银", "兄弟 of x, 敌人 of x, 嫉敌 of x, old friend of x, 合伙 of x, 雇佣人 of x, 邻居 of x, 追求者 of x, 赏金 of x, 亲朋 of x"], 
+      ["蔡思娘", "husband of x, father of x, older brother of x, cousin of x, friend of x, mentor of x, teacher of x, employer of x, servant of x, enemy of x"]
+    ],
+    "蔡思娘": [
+      ["张金银", "boss of x, assistant of x, brother of x, sister in law of x, niece of x, uncle of x, protected of x, protector of x, friend of x, friend of x, apprentice of x, mentor of x"], 
+      ["洪长烈", "husband of x, father of x, older brother of x, cousin of x, friend of x, mentor of x, teacher of x, employer of x, servant of x, enemy of x"]
+    ],
+    "张金山": [
+      ["张金银", "兄弟 of x, 义兄弟 of x, 战友 of x, 帮派 of x, 共同勾结 of x"], 
+      ["洪二郎", "co workers of x"]
+    ]
+}

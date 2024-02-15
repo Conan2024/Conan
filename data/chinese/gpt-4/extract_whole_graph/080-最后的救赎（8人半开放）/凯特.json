@@ -1,0 +1,88 @@
+{
+    "凯特": [
+        [
+            "彼得",
+            "ex-romantic relationships with x, admirer of x"
+        ],
+        [
+            "朱莉",
+            "jealous of x"
+        ],
+        [
+            "丹尼尔",
+            "enemy of x, suspected by x"
+        ],
+        [
+            "查理",
+            "informant of x, acquaintance of x"
+        ],
+        [
+            "李老师",
+            "ex-romantic relationships with x, deceived by x, informant of x"
+        ],
+        [
+            "本",
+            "ex-romantic relationships with x, attempted perpetrator of x"
+        ]
+    ],
+    "彼得": [
+        [
+            "凯特",
+            "admired by x"
+        ],
+        [
+            "朱莉",
+            "romantic relationships with x"
+        ]
+    ],
+    "朱莉": [
+        [
+            "彼得",
+            "romantic relationships with x"
+        ],
+        [
+            "丹尼尔",
+            "disliked by x"
+        ],
+        [
+            "凯特",
+            "jealous by x"
+        ]
+    ],
+    "丹尼尔": [
+        [
+            "凯特",
+            "victim of x"
+        ],
+        [
+            "朱莉",
+            "dislike of x"
+        ]
+    ],
+    "查理": [
+        [
+            "凯特",
+            "information receiver from x"
+        ]
+    ],
+    "李老师": [
+        [
+            "凯特",
+            "ex-romantic relationships with x, manipulator of x"
+        ],
+        [
+            "本",
+            "suspected by x"
+        ]
+    ],
+    "本": [
+        [
+            "凯特",
+            "ex-romantic relationships with x, suspect of x"
+        ],
+        [
+            "李老师",
+            "suspected by x"
+        ]
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "弗兰克·比杰利": [
+        [
+            "德雷克·里莫瑞特",
+            "brother",
+            "friend",
+            "acquaintance",
+            "colleague"
+        ],
+        [
+            "托尼",
+            "神父汤姆",
+            "医院的人"
+        ],
+        [
+            "神父汤姆",
+            "弟弟",
+            "托尼",
+            "被雇佣者"
+        ]
+    ],
+    "德雷克·里莫瑞特": [
+        [
+            "弗兰克·比杰利",
+            "brother",
+            "friend",
+            "acquaintance",
+            "colleague"
+        ],
+        [
+            "托尼",
+            "brother",
+            "mentor"
+        ],
+        [
+            "神父汤姆",
+            "brother",
+            "Co-conspirator"
+        ]
+    ],
+    "托尼": [
+        [
+            "弗兰克·比杰利",
+            "神父汤姆",
+            "医院的人"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "brother",
+            "mentee"
+        ],
+        [
+            "神父汤姆",
+            "兄弟",
+            "Co-conspirator"
+        ]
+    ],
+    "神父汤姆": [
+        [
+            "弗兰克·比杰利",
+            "托尼",
+            "雇佣者"
+        ],
+        [
+            "德雷克·里莫瑞特",
+            "brother",
+            "Co-conspirator"
+        ],
+        [
+            "托尼",
+            "Employer",
+            "Accomplice"
+        ]
+    ]
+}

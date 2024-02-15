@@ -1,0 +1,12 @@
+{
+    "Alice": [
+      ["Charlie", "friend of x"]
+    ],
+    "Bob": [
+      ["Charlie", "student of x"]
+    ],
+    "Charlie": [
+      ["Alice", "friend of x"], 
+      ["Bob", "teacher of x"]
+    ]
+}

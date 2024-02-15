@@ -1,0 +1,44 @@
+{
+    "林校花": [
+      ["林校花的后妈", "step mother of x"], 
+      ["林校花的弟弟", "sibling of x"], 
+      ["林校花的父亲", "father of x"], 
+      ["赵帅哥", "romantic relationships with x, disliked by x"], 
+      ["张恶霸", "fiance of x, victim of x, disliked by x"], 
+      ["林校花的亲生母亲", "mother of x"], 
+      ["郝闺蜜", "friend of x"]
+    ],
+    "林校花的父亲": [
+      ["林校花的后妈", "husband of x"], 
+      ["林校花", "child of x"], 
+      ["林校花的亲生母亲", "husband of x"]
+    ],
+    "林校花的亲生母亲": [
+      ["林校花", "mother of x"]
+    ],
+    "林校花的后妈": [
+      ["林校花的父亲", "wife of x"]
+    ],
+    "张恶霸": [
+      ["张董事长", "child of x"], 
+      ["林校花", "fiance of x, disliked by x"], 
+      ["赵帅哥", "friend of x"], 
+      ["王学习", "acquaintance of x"], 
+      ["李小弟", "acquaintance of x"]
+    ],
+    "张董事长": [
+      ["张恶霸", "father of x"]
+    ],
+    "赵帅哥": [
+      ["张恶霸", "friend of x"], 
+      ["林校花", "romantic relationships with x, admirer of x"]
+    ],
+    "郝闺蜜": [
+      ["林校花", "friend of x"]
+    ],
+    "林校花的弟弟": [
+      ["林校花", "sibling of x"], 
+      ["林校花的父亲", "father of x"], 
+      ["林校花的后妈", "child of x"]
+    ]
+}

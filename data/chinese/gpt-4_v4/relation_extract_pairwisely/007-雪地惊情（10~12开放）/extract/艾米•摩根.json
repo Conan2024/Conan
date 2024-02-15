@@ -1,0 +1,105 @@
+{
+    "艾米•摩根": [
+      ["哈罗德", "same person as x (different identity), sister of x"], 
+      ["安娜", "disliked by x, sister in law of x"], 
+      ["玛丽娜", "disliked by x, sister in law of x"], 
+      ["杰奎琳", "sister in law of x, acquaintance of x"], 
+      ["艾莱克斯", "friend of x, debtor of x, debtor of x"], 
+      ["约翰•摩根", "helped by x, ex wife of x"], 
+      ["露西•哈里森", "same person as x (different identity), sister of x"], 
+      ["麦克斯•派克", "acquaintance of x, suspect of x"], 
+      ["乔", "acquaintance of x, suspected by x"]
+    ],
+    "哈罗德": [
+      ["艾米•摩根", "same person as x (different identity), sibling of x"], 
+      ["安娜", "admired by x, ex husband of x"], 
+      ["玛丽娜", "victim of x, admirer of x, husband of x, deceived by x"], 
+      ["杰奎琳", "wife of x"], 
+      ["艾莱克斯", "acquaintance of x"], 
+      ["约翰•摩根", "brother in law of x"], 
+      ["戴维斯", "acquaintance of x"], 
+      ["露西•哈里森", "same person as x (different identity)"], 
+      ["麦克斯•派克", "acquaintance of x"], 
+      ["乔", "business partner of x, suspected by x"]
+    ],
+    "安娜": [
+      ["艾米•摩根", "sister in law of x, dislike of x"], 
+      ["哈罗德", "ex wife of x"], 
+      ["杰奎琳", "ex wife of x, sister in law of x"], 
+      ["约翰•摩根", "ex husband of x"], 
+      ["露西•哈里森", "ex wife of x"]
+    ],
+    "玛丽娜": [
+      ["艾米•摩根", "dislike of x, sister in law of x"], 
+      ["哈罗德", "admired by x, wife of x, deceiver of x"], 
+      ["安娜", "wife of x, rival in love of x"], 
+      ["杰奎琳", "same person as x (different identity)"], 
+      ["露西•哈里森", "sister in law of x"], 
+      ["麦克斯•派克", "extramarital affair with x"], 
+      ["乔", "extramarital affair with x"]
+    ],
+    "杰奎琳": [
+      ["艾米•摩根", "sibling of x, acquaintance of x"], 
+      ["哈罗德", "husband of x"], 
+      ["安娜", "husband of x, sister in law of x"], 
+      ["玛丽娜", "same person as x (different identity)"], 
+      ["艾米•摩根", "acquaintance of x"], 
+      ["约翰•摩根", "ex wife of x"], 
+      ["露西•哈里森", "same person as x (different identity), sister of x"], 
+      ["乔", "same person as x (different identity), sister of x"]
+    ],
+    "艾莱克斯": [
+      ["艾米•摩根", "friend of x, creditor of x, creditor of x"], 
+      ["哈罗德", "acquaintance of x"], 
+      ["艾米•摩根", "friend of x, debtor of x"], 
+      ["约翰•摩根", "debtor of x"], 
+      ["戴维斯", "acquaintance of x, information receiver from x"], 
+      ["露西•哈里森", "friend of x, debtor of x"], 
+      ["麦克斯•派克", "debtor of x"], 
+      ["乔", "business partner of x"]
+    ],
+    "约翰•摩根": [
+      ["艾米•摩根", "relative of x, ex husband of x"], 
+      ["哈罗德", "brother in law of x"], 
+      ["安娜", "ex wife of x"], 
+      ["杰奎琳", "ex husband of x"], 
+      ["艾莱克斯", "creditor of x"], 
+      ["戴维斯", "host of x"], 
+      ["露西•哈里森", "ex wife of x"], 
+      ["艾米•摩根", "ex husband of x"]
+    ],
+    "露西•哈里森": [
+      ["艾米•摩根", "same person as x (different identity), sister of x"], 
+      ["哈罗德", "same person as x (different identity)"], 
+      ["安娜", "ex husband of x"], 
+      ["玛丽娜", "sister in law of x"], 
+      ["杰奎琳", "same person as x (different identity), sister of x"], 
+      ["艾莱克斯", "friend of x, creditor of x"], 
+      ["约翰•摩根", "ex husband of x"], 
+      ["麦克斯•派克", "acquaintance of x"]
+    ],
+    "麦克斯•派克": [
+      ["艾米•摩根", "acquaintance of x, suspected by x"], 
+      ["哈罗德", "acquaintance of x"], 
+      ["玛丽娜", "lover of x"], 
+      ["艾莱克斯", "creditor of x"], 
+      ["艾米•摩根", "suspect to x"], 
+      ["露西•哈里森", "acquaintance of x"], 
+      ["乔", "suspected by x, suspect of x"]
+    ],
+    "乔": [
+      ["艾米•摩根", "suspect to x"], 
+      ["哈罗德", "suspect of x, crime partner of x"], 
+      ["玛丽娜", "secret lover of x"], 
+      ["杰奎琳", "same person as x (different identity), sibling of x"], 
+      ["艾莱克斯", "customer of x"], 
+      ["戴维斯", "suspect of x"], 
+      ["麦克斯•派克", "suspect of x, suspected by x"]
+    ],
+    "戴维斯": [
+      ["哈罗德", "acquaintance of x"], 
+      ["艾莱克斯", "acquaintance of x, informant of x"], 
+      ["约翰•摩根", "guest of x"], 
+      ["乔", "suspected by x"]
+    ]
+}

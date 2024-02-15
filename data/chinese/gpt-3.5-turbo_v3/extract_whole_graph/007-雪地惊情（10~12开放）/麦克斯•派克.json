@@ -1,0 +1,52 @@
+{
+    "麦克斯•派克": [
+        [
+            "乔•罗伯特森",
+            "friend of x, crime partner of x, quest companion of x"
+        ],
+        [
+            "哈罗德•哈里森",
+            "stranger to x, suspect of x, dislike of x"
+        ]
+    ],
+    "乔•罗伯特森": [
+        [
+            "麦克斯•派克",
+            "friend of x, crime partner of x, quest companion of x"
+        ]
+    ],
+    "哈罗德•哈里森": [
+        [
+            "麦克斯•派克",
+            "stranger to x, suspect of x, dislike of x"
+        ],
+        [
+            "玛丽娜•哈里森",
+            "husband of x"
+        ]
+    ],
+    "玛丽娜•哈里森": [
+        [
+            "哈罗德•哈里森",
+            "wife of x"
+        ],
+        [
+            "戴维斯",
+            "extramarital affair with x"
+        ],
+        [
+            "露西•哈里森",
+            "mother of x"
+        ]
+    ],
+    "露西•哈里森": [
+        [
+            "玛丽娜•哈里森",
+            "daughter of x"
+        ],
+        [
+            "麦克斯•派克",
+            "deceived by x"
+        ]
+    ]
+}

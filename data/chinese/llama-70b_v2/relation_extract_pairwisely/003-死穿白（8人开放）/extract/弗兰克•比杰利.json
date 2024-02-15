@@ -1,0 +1,23 @@
+{
+    "托尼": [
+      ["神父汤姆", "兄弟 of x, co conspirator of x"], 
+      ["医生", "brother of x, friend of x"], 
+      ["医院的人", "神父汤姆 of x"]
+    ],
+    "神父汤姆": [
+      ["托尼", "employer of x, accomplice of x"], 
+      ["托尼", "医院的人 of x"], 
+      ["医生", "friend of x, acquaintance of x"], 
+      ["医院的人", "relationship 1: employer employee of x, relationship 2: co conspirator of x"]
+    ],
+    "医生": [
+      ["托尼", "doctor patient of x, acquaintance of x"], 
+      ["神父汤姆", "friend of x, acquaintance of x"], 
+      ["医院的人", "friend of x"]
+    ],
+    "医院的人": [
+      ["托尼", "神父汤姆 of x"], 
+      ["神父汤姆", "relationship 1: hostage taker of x, relationship 2: unknown associate of x"], 
+      ["医生", "captor of x"]
+    ]
+}

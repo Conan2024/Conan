@@ -1,0 +1,43 @@
+{
+    "赵洛意": [
+      ["赵万雷", "father daughter of x"], 
+      ["尹少鸣", "acquaintance of x, savior of x"], 
+      ["赵安", "brother sister of x"]
+    ],
+    "尹少鸣": [
+      ["赵万雷", "uncle nephew of x"], 
+      ["赵洛意", "acquaintance of x, savior of x"]
+    ],
+    "赵万雷": [
+      ["赵洛意", "father daughter of x"], 
+      ["赵安", "brother sister of x"]
+    ],
+    "赵卫": [
+      ["赵洛意", "brother sister of x"], 
+      ["赵万雷", "father son of x"]
+    ],
+    "管家": [
+      ["赵洛意", "employer employee of x"], 
+      ["赵万雷", "employer employee of x"]
+    ],
+    "丫鬟赵秋儿": [
+      ["赵洛意", "master servant of x"], 
+      ["管家", "master servant of x"]
+    ],
+    "赵秋儿": [
+      ["赵洛意", "sister like relationship of x"], 
+      ["管家", "daughter like relationship of x"]
+    ],
+    "冯双骥": [
+      ["赵洛意", "like father like daughter of x"], 
+      ["赵万雷", "like father like son of x"]
+    ],
+    "冯竹": [
+      ["管家", "daughter of x"], 
+      ["赵洛意", "like sister like relationship of x"]
+    ],
+    "齐岳": [
+      ["管家", "subordinate of x"], 
+      ["赵洛意", "like subordinate of x"]
+    ]
+}

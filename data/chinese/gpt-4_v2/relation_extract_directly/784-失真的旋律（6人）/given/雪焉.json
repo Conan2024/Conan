@@ -1,0 +1,68 @@
+{
+    "雪焉": [
+      ["罗万利", "father of x"], 
+      ["罗有诺", "sibling of x"], 
+      ["阮太太", "helper of x, former landlord of x"], 
+      ["望娣", "acquaintance of x"], 
+      ["招楠", "acquaintance of x, disliked by x"], 
+      ["贵郎", "acquaintance of x"], 
+      ["黑莉", "acquaintance of x"], 
+      ["齐故飞", "acquaintance of x"], 
+      ["王子摩", "extramarital affair with x, romantic relationships with x, deceived by x, deceiver of x"]
+    ],
+    "罗万利": [
+      ["雪焉", "child of x"], 
+      ["罗有诺", "child of x"], 
+      ["阮太太", "former tenant of x"]
+    ],
+    "罗有诺": [
+      ["雪焉", "sibling of x"], 
+      ["罗万利", "father of x"], 
+      ["阮太太", "former fellow tenant of x, helped by x"]
+    ],
+    "阮太太": [
+      ["雪焉", "former employer of x, landlord of x"], 
+      ["罗万利", "former landlord of x"], 
+      ["罗有诺", "former landlord of x, recipient of x help from x"], 
+      ["望娣", "mother of x"], 
+      ["招楠", "mother of x"], 
+      ["贵郎", "son of x"], 
+      ["黑莉", "acquaintance of x"], 
+      ["齐故飞", "acquaintance of x"], 
+      ["王子摩", "employer of x"]
+    ],
+    "望娣": [
+      ["雪焉", "acquaintance of x"], 
+      ["阮太太", "daughter of x"], 
+      ["招楠", "sibling of x"], 
+      ["贵郎", "sibling of x"], 
+      ["黑莉", "acquaintance of x"], 
+      ["齐故飞", "acquaintance of x"]
+    ],
+    "招楠": [
+      ["雪焉", "acquaintance of x, disliked by x"], 
+      ["阮太太", "daughter of x"], 
+      ["望娣", "sibling of x"], 
+      ["贵郎", "sibling of x"], 
+      ["王子摩", "wife of x, widow of x"]
+    ],
+    "贵郎": [
+      ["雪焉", "acquaintance of x"], 
+      ["阮太太", "mother of x"], 
+      ["望娣", "sibling of x"], 
+      ["招楠", "sibling of x"]
+    ],
+    "黑莉": [
+      ["雪焉", "acquaintance of x"], 
+      ["阮太太", "former tenant of x"], 
+      ["齐故飞", "romantic relationships with x"]
+    ],
+    "齐故飞": [
+      ["雪焉", "acquaintance of x"], 
+      ["黑莉", "romantic relationships with x"]
+    ],
+    "王子摩": [
+      ["雪焉", "romantic relationships with x, extramarital affair with x, deceived by x, murderer of x"], 
+      ["招楠", "husband of x, deceased by x"]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "段约同": [
+      [" votre mother", "父亲 of x, family member of x, manipulator of x, acquaintance of x"], 
+      [" votre father", "父亲 of x"], 
+      ["白常恭", "father son of x, relative of x, friend of x, subordinate of x, colleague of x"]
+    ],
+    " votre mother": [
+      ["段约同", "father of x, family member of x, manipulator of x, acquaintance of x"], 
+      [" votre father", "romantic relationships of x, co workers of x"], 
+      ["白常恭", "父亲 of x"], 
+      ["岳客沙", "父亲 of x"], 
+      ["安琪", "acquaintance of x, friend of x, informant of x"], 
+      ["易阿姨", "情侶 of x"], 
+      ["李子材", "父亲 of x, husband of x, estranged husband of x"], 
+      ["吴百安", "父亲 of x"]
+    ],
+    " votre father": [
+      ["段约同", "父亲 of x"], 
+      [" votre mother", "romantic relationships of x, co workers of x"], 
+      ["白常恭", "父亲 of x"], 
+      ["岳客沙", "父亲 of x"], 
+      ["安琪", "acquaintance of x, friend of x, informant of x"], 
+      ["易阿姨", "estranged father of x, father in law of x"], 
+      ["李子材", "父亲 of x"], 
+      ["吴百安", "父亲 of x"]
+    ],
+    "白常恭": [
+      ["段约同", "father son of x, relative of x, friend of x, subordinate of x, colleague of x"], 
+      [" votre mother", "父亲 of x"], 
+      [" votre father", "父亲 of x"], 
+      ["岳客沙", "uncle of x, nephew of x, 岳大哥 of x"], 
+      ["安琪", "father in law of x, business partner of x"], 
+      ["李子材", "friend's son of x, victim's family member of x, former employee's son of x"], 
+      ["吴百安", "acquaintance of x, classmate of x"]
+    ],
+    "岳客沙": [
+      [" votre mother", "父亲 of x"], 
+      [" votre father", "父亲 of x"], 
+      ["白常恭", "兄 long lost brother of x, nephew of x, 岳大哥 of x"], 
+      ["易阿姨", "acquaintance of x, classmate of x, colleague of x, friend of x, informant of x, student of x, helper of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, tenant of x, patient of x"], 
+      ["吴百安", "相互敬畏的亲儿子 of x, 陌生人 of x"]
+    ],
+    "安琪": [
+      [" votre mother", "acquaintance of x, friend of x, informant of x"], 
+      [" votre father", "acquaintance of x, friend of x, informant of x"], 
+      ["白常恭", "wife of x, colleague of x"], 
+      ["易阿姨", "wife of x father, sister of x father"], 
+      ["李子材", "niece of x"], 
+      ["吴百安", "family friend of x, acquaintance of x"]
+    ],
+    "易阿姨": [
+      ["母亲", "姐妹 of x"], 
+      ["voleur father", "estranged mother of x, mother in law of x"], 
+      ["岳客沙", "acquaintance of x, classmate of x, colleague of x, friend of x, informant of x, student of x, helper of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, tenant of x, patient of x"], 
+      ["安琪", "mother of x, wife of x father"], 
+      ["李子材", "husband of x"], 
+      ["吴百安", "family relationship of x"]
+    ],
+    "李子材": [
+      ["武 mère", "father of x, estranged father of x, spouse of x"], 
+      [" votre father", "父亲 of x"], 
+      ["白常恭", "friend's son of x, victim's family member of x, former employee's son of x"], 
+      ["安琪", "nephew of x"], 
+      ["易阿姨", "wife of x"]
+    ],
+    "吴百安": [
+      [" votre mother", "父亲 of x"], 
+      [" votre father", "父亲 of x"], 
+      ["白常恭", "acquaintance of x, classmate of x"], 
+      ["岳客沙", "相互敬畏的亲儿子 of x, 朋友 of x"], 
+      ["安琪", "family friend of x, acquaintance of x"], 
+      ["易阿姨", "family relationship of x"]
+    ]
+}

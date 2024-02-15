@@ -1,0 +1,40 @@
+{
+    "戴维斯•佩里": [
+      ["玛丽娜•哈里森", "adversary of x"], 
+      ["杰奎琳•佩里", "dislike of x, rival of x"], 
+      ["露西•哈里森", "acquaintance of x"], 
+      ["哈罗德•哈里森", "rival of x"], 
+      ["艾米•摩根", "colleague of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["戴维斯•佩里", "suspect of x"], 
+      ["杰奎琳•佩里", "rival of x"], 
+      ["露西•哈里森", "daughter of x"], 
+      ["哈罗德•哈里森", "brother of x"]
+    ],
+    "杰奎琳•佩里": [
+      ["戴维斯•佩里", "dislike of x, rival of x"], 
+      ["玛丽娜•哈里森", "rival of x"], 
+      ["露西•哈里森", "younger sister of x"], 
+      ["哈罗德•哈里森", "brother of x"]
+    ],
+    "露西•哈里森": [
+      ["戴维斯•佩里", "acquaintance of x"], 
+      ["玛丽娜•哈里森", "mother of x"], 
+      ["杰奎琳•佩里", "younger sister of x, rival of x"], 
+      ["哈罗德•哈里森", "uncle of x"]
+    ],
+    "哈罗德•哈里森": [
+      ["戴维斯•佩里", "rival of x"], 
+      ["玛丽娜•哈里森", "sister of x"], 
+      ["杰奎琳•佩里", "younger sister of x, rival of x"], 
+      ["露西•哈里森", "niece of x"]
+    ],
+    "艾米•摩根": [
+      ["戴维斯•佩里", "colleague of x"], 
+      ["玛丽娜•哈里森", "colleague of x"], 
+      ["杰奎琳•佩里", "colleague of x"], 
+      ["露西•哈里森", "colleague of x"], 
+      ["哈罗德•哈里森", "colleague of x"]
+    ]
+}

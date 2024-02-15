@@ -1,0 +1,116 @@
+{
+    "陈倩": [
+        [
+            "陈孜靖",
+            "father of x"
+        ],
+        [
+            "陈氏",
+            "relative of x, mother of x"
+        ],
+        [
+            "李仲",
+            "fiance of x, lover of x, saved by x"
+        ],
+        [
+            "小茜",
+            "same person as x (different identity), replaced x's identity"
+        ],
+        [
+            "李钦仁",
+            "victim of x, future father in law of x"
+        ],
+        [
+            "李王爷",
+            "attempted perpetrator of x, killed by x"
+        ]
+    ],
+    "陈孜靖": [
+        [
+            "陈倩",
+            "child of x"
+        ],
+        [
+            "陈氏",
+            "relative of x, wife of x"
+        ],
+        [
+            "小茜",
+            "acquaintance of x"
+        ],
+        [
+            "李钦仁",
+            "business partner of x, colleague of x"
+        ],
+        [
+            "李王爷",
+            "acquaintance of x"
+        ]
+    ],
+    "陈氏": [
+        [
+            "陈倩",
+            "relative of x, child of x"
+        ],
+        [
+            "陈孜靖",
+            "relative of x, husband of x"
+        ]
+    ],
+    "小茜": [
+        [
+            "陈倩",
+            "same person as x (different identity), replaced x's identity"
+        ],
+        [
+            "陈孜靖",
+            "acquaintance of x"
+        ]
+    ],
+    "李仲": [
+        [
+            "陈倩",
+            "fiance of x, lover of x, saviour of x, saved by x"
+        ],
+        [
+            "李钦仁",
+            "child of x"
+        ],
+        [
+            "李王爷",
+            "same person as x (different identity), perpetrator of x, attempted murderer of x"
+        ]
+    ],
+    "李钦仁": [
+        [
+            "陈倩",
+            "future relative of x, murderer of x"
+        ],
+        [
+            "李仲",
+            "father of x"
+        ],
+        [
+            "陈孜靖",
+            "business partner of x, colleague of x"
+        ],
+        [
+            "李王爷",
+            "father of x"
+        ]
+    ],
+    "李王爷": [
+        [
+            "陈倩",
+            "perpetrator of x, victim of x"
+        ],
+        [
+            "李仲",
+            "same person as x (different identity), victim of x"
+        ],
+        [
+            "李钦仁",
+            "child of x"
+        ]
+    ]
+}

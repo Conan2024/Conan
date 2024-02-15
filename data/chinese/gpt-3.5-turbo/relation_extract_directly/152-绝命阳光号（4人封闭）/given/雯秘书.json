@@ -1,0 +1,156 @@
+{
+    "雯秘书": [
+        [
+            "杨老板",
+            "employer of 雯秘书, master of 雯秘书"
+        ],
+        [
+            "很天真",
+            "colleague of 雯秘书"
+        ],
+        [
+            "张大副",
+            "information receiver from 雯秘书, 杨老板's guest, potentially romantic relationships with 雯秘书"
+        ],
+        [
+            "玲船医",
+            "informant of 雯秘书, potentially romantic relationships with 雯秘书"
+        ],
+        [
+            "王船工",
+            "potential ally/follower of 雯秘书"
+        ],
+        [
+            "王小工",
+            "玲船医 and 王船工's son, potential pawn of 雯秘书"
+        ],
+        [
+            "杨老板's henchmen",
+            "followers of 雯秘书"
+        ],
+        [
+            "很天真's killers",
+            "killers of 很天真"
+        ],
+        [
+            "杨老板's drug suppliers",
+            "deceiver of 雯秘书"
+        ],
+        [
+            "杨老板's bodyguards",
+            "subordinates of 雯秘书"
+        ]
+    ],
+    "杨老板": [
+        [
+            "雯秘书",
+            "employee of 杨老板"
+        ],
+        [
+            "很天真",
+            "colleague of 杨老板"
+        ],
+        [
+            "张大副",
+            "business partner of 杨老板, potential adversary of 杨老板"
+        ],
+        [
+            "玲船医",
+            "informant of 杨老板"
+        ],
+        [
+            "王船工",
+            "co-worker of 杨老板"
+        ],
+        [
+            "王小工",
+            "son of 王船工 and 玲船医, potential adversary of 杨老板"
+        ],
+        [
+            "杨老板's drug suppliers",
+            "suppliers of 杨老板"
+        ],
+        [
+            "杨老板's bodyguards",
+            "subordinates of 杨老板"
+        ]
+    ],
+    "很天真": [
+        [
+            "雯秘书",
+            "colleague of 很天真"
+        ],
+        [
+            "杨老板",
+            "colleague of 很天真"
+        ],
+        [
+            "杨老板's drug suppliers",
+            "subordinate of 很天真"
+        ]
+    ],
+    "张大副": [
+        [
+            "雯秘书",
+            "information receiver from 张大副, potentially romantic relationships with 张大副"
+        ],
+        [
+            "杨老板",
+            "business partner of 张大副, 杨老板's guest"
+        ],
+        [
+            "玲船医",
+            "information receiver from 张大副"
+        ],
+        [
+            "王船工",
+            "business partner of 张大副"
+        ],
+        [
+            "王小工",
+            "王船工's son"
+        ]
+    ],
+    "玲船医": [
+        [
+            "雯秘书",
+            "informant of 玲船医"
+        ],
+        [
+            "张大副",
+            "informant of 玲船医"
+        ],
+        [
+            "杨老板",
+            "informant of 玲船医"
+        ],
+        [
+            "杨老板's bodyguards",
+            "subordinate of 玲船医"
+        ]
+    ],
+    "王船工": [
+        [
+            "雯秘书",
+            "potential ally/follower of 雯秘书"
+        ],
+        [
+            "张大副",
+            "business partner of 王船工"
+        ],
+        [
+            "王小工",
+            "王船工's son"
+        ]
+    ],
+    "王小工": [
+        [
+            "雯秘书",
+            "potential pawn of 雯秘书"
+        ],
+        [
+            "王船工",
+            "son of 王船工 and 玲船医"
+        ]
+    ]
+}

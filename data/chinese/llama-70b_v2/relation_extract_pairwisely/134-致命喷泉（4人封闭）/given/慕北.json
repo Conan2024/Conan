@@ -1,0 +1,30 @@
+{
+    "何老六": [
+      ["张洁", "colleague of x, friend of x"], 
+      ["慕北", "同事 of x, 同pg of x, 值班共事 of x, 潜在的合伙 of x, 可疑的嫌疑人 of x, 信息mil of x"], 
+      ["李国富", "colleague of x"], 
+      [" colleague", "suspect of x"]
+    ],
+    "张洁": [
+      ["何老六", "colleague of x, friend of x"], 
+      ["慕北", "同事 of x, 护安工作 relations of x, 警察学员 of x, 卧底警察 of x, 嫌疑人 of x, 警察调查对象 of x, 黑社会成员 of x, 敌对势力 of x, 竞争对手 of x, 警察内部负责人 of x, 警察训练员 of x"], 
+      ["警察", "colleague of x, friend of x"]
+    ],
+    "慕北": [
+      ["何老六", "同事 of x, 同pg of x, 值班共事 of x, 潜在的合伙 of x, 可疑的嫌疑人 of x, 信息mil of x"], 
+      ["张洁", "同事 of x, 护安工作 relations of x, 警察学员 of x, 卧底警察 of x, 嫌疑人 of x, 警察调查对象 of x, 黑社会成员 of x, 敌对势力 of x, 竞争对手 of x, 警察内部负责人 of x, 警察训练员 of x"], 
+      ["李国富", "colleague of x, suspicious of x, investigator of x"], 
+      ["警察", "colleague of x, friend of x"]
+    ],
+    "李国富": [
+      ["何老六", "colleague of x"], 
+      ["慕北", "colleague of x, suspect of x, deceased of x"], 
+      ["警察", "colleague of x"]
+    ],
+    "警察": [
+      ["何老六", "suspect of x"], 
+      ["张洁", "colleague of x, friend of x"], 
+      ["慕北", "colleague of x, friend of x"], 
+      ["李国富", "colleague of x"]
+    ]
+}

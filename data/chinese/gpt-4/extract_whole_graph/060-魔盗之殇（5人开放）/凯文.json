@@ -1,0 +1,86 @@
+{
+    "凯文": [
+        [
+            "助手艾拉",
+            "friend of x, helper of x, helped by x"
+        ],
+        [
+            "宣传罗琳",
+            "sibling of x, sister of x, accomplice of x, manipulated by x"
+        ],
+        [
+            "剧务戴维",
+            "acquaintance of x, disliked by x, manipulator of x, suspect of x"
+        ],
+        [
+            "魔术师古思特",
+            "employer of x, victim of x, manipulator of x"
+        ],
+        [
+            "后勤格里夫",
+            "acquaintance of x, adversary of x"
+        ]
+    ],
+    "助手艾拉": [
+        [
+            "凯文",
+            "friend of x, helper of x, helped by x"
+        ],
+        [
+            "魔术师古思特",
+            "employee of x, fiancee of x, victim of x"
+        ]
+    ],
+    "宣传罗琳": [
+        [
+            "凯文",
+            "sibling of x, brother of x, accomplice of x, manipulator of x"
+        ],
+        [
+            "剧务戴维",
+            "romantic interests of x, disliked by x"
+        ],
+        [
+            "魔术师古思特",
+            "former crime partner of x, adversary of x"
+        ]
+    ],
+    "剧务戴维": [
+        [
+            "凯文",
+            "acquaintance of x, dislikes of x"
+        ],
+        [
+            "宣传罗琳",
+            "romantic interest of x, manipulator of x"
+        ],
+        [
+            "魔术师古思特",
+            "crime partner of x, suspect of x"
+        ]
+    ],
+    "魔术师古思特": [
+        [
+            "凯文",
+            "employee of x, deceased by x"
+        ],
+        [
+            "助手艾拉",
+            "employer of x, proposer of x"
+        ],
+        [
+            "宣传罗琳",
+            "former crime partner of x, adversary of x"
+        ],
+        [
+            "剧务戴维",
+            "crime partner of x, suspect to x"
+        ]
+    ],
+    "后勤格里夫": [
+        [
+            "凯文",
+            "acquaintance of x, suspect of x, adversary of x"
+        ]
+    ]
+}

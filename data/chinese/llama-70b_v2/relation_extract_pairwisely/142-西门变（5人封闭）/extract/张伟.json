@@ -1,0 +1,40 @@
+{
+    "张伟": [
+      ["李成", "coworker of x, inferior of x"], 
+      ["陈媚儿", "赵中杨的手下 of x, 赵中杨的准少奶奶 of x, 赵中杨的生意拍 santai of x, 赵中杨的救命敌人 of x, 赵中杨的卖国贼 of x"], 
+      ["赵三", "jealousy of x, attempted murder of x"], 
+      ["马老板", "subordinate of x, deceiver of x, suspicious of x, potential adversary of x"]
+    ],
+    "赵中杨": [
+      ["李成", "mentee of x, friend of x, and colleague of x"], 
+      ["陈媚儿", "手下 of x, 朋友 of x"]
+    ],
+    "李成": [
+      ["张伟", "coworker of x, superior of x"], 
+      ["赵中杨", "mentor of x, friend of x, and colleague of x"], 
+      ["陈媚儿", "同僚 of x, 朋友 of x"], 
+      ["赵三", "coworker of x"], 
+      ["马老板", "relationship 1: acquaintance of x, relationship 2: business partner of x"]
+    ],
+    "陈媚儿": [
+      ["张伟", "赵中杨的手下 of x, 赵中杨的准少奶奶 of x, 赵中杨的生意拍 santai of x, 赵中杨的救命敌人 of x, 赵中杨的卖国贼 of x"], 
+      ["赵中杨", "手下 of x, 朋友 of x"]
+    ],
+    "赵三": [
+      ["张伟", "jealousy of x, rivalry of x"], 
+      ["李成", "coworker of x"], 
+      ["马老板", "brother of x, business partner of x, buyer of x, manipulator of x, adversary of x, enemy of x"]
+    ],
+    "马老板": [
+      ["张伟", "subordinate of x, deceived of x, suspicious of x, potential adversary of x"], 
+      ["李成", "relationship 1: acquaintance of x, relationship 2: business partner of x"], 
+      ["chen mm-tzu", "关系 of x"], 
+      ["赵三", "brother of x, business partner of x, buyer of x, manipulator of x, adversary of x, enemy of x"]
+    ],
+    "chen媚儿": [
+      ["李成", "同僚 of x, 朋友 of x"]
+    ],
+    "chen mm-tzu": [
+      ["马老板", "关系 of x"]
+    ]
+}

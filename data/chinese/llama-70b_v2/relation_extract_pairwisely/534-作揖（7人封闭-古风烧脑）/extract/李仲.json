@@ -1,0 +1,64 @@
+{
+    "李仲": [
+      ["李延", "brothers of x, sibling rivalry of x, father son relationship of x, servant master relationship of x, love rivals of x"], 
+      ["李钦仁", "father son of x, master servant of x, mentor mentee of x, friendship of x"], 
+      ["李氏", "brother sister rapport of x"], 
+      ["陈孜靖", "friend of x, prospective groom of x, crush of x, love interest of x"], 
+      ["陈倩", "父亲的婚姻伙伴 of x, 心动的人 of x"], 
+      ["丫头", "lover of x, friend of x"]
+    ],
+    "李延": [
+      ["李仲", "brothers of x, sibling rivalry of x, father son relationship of x, servant master relationship of x, love rivals of x"], 
+      ["李钦仁", "brother of x, son of x, sibling of x, mentee of x"], 
+      ["李氏", "brother of x, son of x 李钦仁 and x, stranger to x, acquaintance of x, classmate of x"], 
+      ["陈孜靖", "brother in law of x, rival of x"], 
+      ["陈倩", "husband of x, lover of x"], 
+      ["丫头", "brother of x, lover of x, friend of x"]
+    ],
+    "李钦仁": [
+      ["李仲", "father son of x, master servant of x, mentor mentee of x, friendship of x"], 
+      ["李延", "brother of x, son of x, sibling of x, mentor of x"], 
+      ["李氏", "father son of x, brother brother of x"], 
+      ["陈孜靖", "father in law and son in law of x, business partner of x, friend of x"], 
+      ["陈倩", "father in law of x, potential romantic relationship of x"], 
+      ["丫头", "father daughter relationship of x, potential romantic relationship of x"]
+    ],
+    "李氏": [
+      ["李仲", "brother sister rapport of x"], 
+      ["李延", "brother of x, son of x 李钦仁 and x, mother of x, aunt of x, niece of x"], 
+      ["李钦仁", "father son of x, brother brother of x"], 
+      ["陈孜靖", "husband of x, son in law of x"], 
+      ["陈倩", "brother in law of x, sister in law of x"], 
+      ["丫头", "sister of x, friend of x"]
+    ],
+    "陈孜靖": [
+      ["李仲", "friend of x, prospective groom of x, love interest of x"], 
+      ["李延", "brother in law of x, rival of x"], 
+      ["李钦仁", "father in law and son in law of x, business partner of x, friend of x"], 
+      ["李氏", "father in law of x, son in law of x"]
+    ],
+    "陈倩": [
+      ["李仲", "妻子 of x, 心动的人 of x"], 
+      ["李延", "wife of x, lover of x"], 
+      ["李钦仁", "father in law of x, potential romantic relationship of x"], 
+      ["李氏", "brother in law of x, sister in law of x"]
+    ],
+    "丫头": [
+      ["李仲", "lover of x, friend of x"], 
+      ["李延", "brother of x, lover of x, friend of x"], 
+      ["李钦仁", "father daughter relationship of x, potential romantic relationship of x"], 
+      ["chen qian", "inferiority of x, master servant relationship of x"]
+    ],
+    "丫頭": [
+      ["李氏", "brother of x, friend of x"]
+    ],
+    "chen zheng jing": [
+      ["chen yu", "father in law and daughter in law of x"]
+    ],
+    "chen yu": [
+      ["chen zheng jing", "wife and husband of x"]
+    ],
+    "chen qian": [
+      [" servant ", "inferiority of x"]
+    ]
+}

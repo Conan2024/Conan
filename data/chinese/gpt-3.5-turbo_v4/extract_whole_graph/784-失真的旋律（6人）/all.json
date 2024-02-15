@@ -1,0 +1,39 @@
+{
+    "阮望娣": [
+      ["阮太太", "mother of x, same person as x (different reference)"], 
+      ["阮钱德", "father of x, deceived by x"], 
+      ["招楠", "sibling of x, killed by x"], 
+      ["贵郎", "sibling of x"], 
+      ["罗有诺", "romantic relationships with x, acquaintance of x, same person as x (different reference)"], 
+      ["雪嫣", "romantic relationships with x, same person as x (different reference)"], 
+      ["黑莉", "romantic relationships with x, same person as x (different reference)"], 
+      ["王子摩", "deceived by x, ex husband of x"], 
+      ["自己", "manipulator of x"]
+    ],
+    "阮太太": [
+      ["阮望娣", "mother of x, same person as x (different reference)"], 
+      ["阮钱德", "wife of x"]
+    ],
+    "招楠": [
+      ["阮望娣", "sibling of x, same person as x (different reference)"]
+    ],
+    "罗有诺": [
+      ["阮望娣", "romantic relationships with x, acquaintance of x, manipulated by x"], 
+      ["雪嫣", "romantic relationships with x, manipulated by x"], 
+      ["黑莉", "romantic relationships with x, manipulated by x"]
+    ],
+    "雪嫣": [
+      ["阮望娣", "romantic relationships with x, manipulated by x"], 
+      ["罗有诺", "romantic relationships with x"]
+    ],
+    "黑莉": [
+      ["阮望娣", "romantic relationships with x, manipulated by x"], 
+      ["罗有诺", "romantic relationships with x"]
+    ],
+    "王子摩": [
+      ["阮望娣", "deceived by x, ex wife of x"]
+    ],
+    "阮招楠": [
+      ["阮望娣", "killed by x"]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "赵中正": [
+      ["赵三", "perpetrator of x 赵中杨's murder, bully of x, enemy of x"], 
+      ["陈媚儿", "friend of x"], 
+      ["李成", "business partner of x, co conspirator of x"]
+    ],
+    "马老板": [
+      ["赵三", "husband of x"], 
+      ["李成", "business partner of x, enemy of x"], 
+      ["赵中杨", "suspect of x, acquaintance of x, informant of x"], 
+      ["张伟", "relative of x, informant of x, helper of x"]
+    ],
+    "赵三": [
+      ["赵中正", "victim of x 赵中杨's murder, killed by x"], 
+      ["马老板", "father in law of x"], 
+      ["陈媚儿", "perpetrator of x father's death, enemy of x, obstacle of x, target of x manipulation, victim of x revenge"], 
+      ["赵中杨", "rival of x, enemy of x"], 
+      ["张伟", "赵中杨 of x, 赵中正 of x, 赵家二公子 of x, 赵家二公子的手下 of x"]
+    ],
+    "陈媚儿": [
+      ["赵中正", "friend of x, suspect of x"], 
+      ["赵三", "wife of x"], 
+      ["赵三", "perpetrator of x father's death, enemy of x, obstacle of x, target of x manipulation, victim of x revenge"], 
+      ["李成", "perpetrator of x attempted murder, adversary of x, enemy of x, rival of x, manipulator of x, colleague of x"], 
+      ["张伟", "perpetrator of x father's death, lover of x, enemy of x, manipulator of x, victim of x bullying"]
+    ],
+    "李成": [
+      ["赵中正", "business partner of x, co conspirator of x"], 
+      ["马老板", "business partner of x, enemy of x"], 
+      ["陈媚儿", "victim of x attempted murder, adversary of x, enemy of x, rival of x, informant of x, customer of x"], 
+      ["赵中杨", "acquaintance of x, friend of x, classmate of x, schoolmate of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["张伟", "same person as x"]
+    ],
+    "赵中杨": [
+      ["马老板", "victim of x, disliked by x, suspect of x"], 
+      ["赵三", "rival of x, enemy of x"], 
+      ["李成", "acquaintance of x, friend of x, classmate of x, schoolmate of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["张伟", "关系1 of x, 关系2 of x"]
+    ],
+    "张伟": [
+      ["马老板", "relative of x, employee of x, helper of x"], 
+      ["赵三", "赵中杨 of x, 赵中正 of x, 赵家二公子 of x, 赵家二公子的手下 of x"], 
+      ["陈媚儿", "perpetrator of x father's death, lover of x, enemy of x, manipulator of x, victim of x bullying"], 
+      ["李成", "same person as x"], 
+      ["赵中杨", "关系1 of x, 关系2 of x"]
+    ],
+    "chen媚儿": [
+      ["赵中杨", "wife of x, killer of x"]
+    ]
+}

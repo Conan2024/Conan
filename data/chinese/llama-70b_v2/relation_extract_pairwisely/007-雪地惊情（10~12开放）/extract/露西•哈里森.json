@@ -1,0 +1,52 @@
+{
+    "露西•哈里森": [
+      ["乔纳森•佩里", "哈罗德和玛丽娜•哈里森 of x, 杰奎琳•佩里 of x, 丹尼尔•佩里 of x, 戴维斯•佩里 of x, 艾米•摩根 of x"], 
+      ["哈罗德和玛丽娜•哈里森", "乔纳森•佩里 of x, 杰奎琳•佩里 of x, 丹尼尔•佩里 of x, 戴维斯•佩里 of x, 艾米•摩根 of x"], 
+      ["艾米•摩根", "friend of x, classmate of x"]
+    ],
+    "乔纳森•佩里": [
+      ["露西•哈里森", "哈罗德和玛丽娜•哈里森 of x, 杰奎琳•佩里 of x, 丹尼尔•佩里 of x, 戴维斯•佩里 of x, 艾米•摩根 of x"], 
+      ["哈罗德和玛丽娜•哈里森", "romantic relationship of x, brother in law of x"], 
+      ["杰奎琳•佩里", "romantic relationship of x, co workers of x"], 
+      ["丹尼尔•佩里", "brother in law of x, friend of x"], 
+      ["艾米•摩根", "关系 1 of x, 关系 2 of x"], 
+      ["哈罗德和玛丽娜•哈里森", "表兄 relationship of x, romantic relationship of x"]
+    ],
+    "哈罗德和玛丽娜•哈里森": [
+      ["露西•哈里森", "乔纳森•佩里 of x, 杰奎琳•佩里 of x, 丹尼尔•佩里 of x, 戴维斯•佩里 of x, 艾米•摩根 of x"], 
+      ["乔纳森•佩里", "romantic relationship of x, brother in law of x"], 
+      ["杰奎琳•佩里", "丹尼尔•佩里 of x, 乔纳森•佩里 of x, 戴维斯•佩里 of x"], 
+      ["丹尼尔•佩里", "父 mother relationship of x, 父child relationship of x"], 
+      ["戴维斯•佩里", "父 mother relationship of x, 父child relationship of x"], 
+      ["艾米•摩根", "杰奎琳•佩里 of x"]
+    ],
+    "丹尼尔•佩里": [
+      ["乔纳森•佩里", "brother in law of x, friend of x"], 
+      ["哈罗德和玛丽娜•哈里森", "兄妹 relationship of x, musical partnership of x"], 
+      ["杰奎琳•佩里", "co workers of x"], 
+      ["戴维斯•佩里", "relative of x, friend of x, confidant of x, benefactor of x"], 
+      ["艾米•摩根", "friend of x, confidant of x"]
+    ],
+    "艾米•摩根": [
+      ["露西•哈里森", "friend of x, classmate of x"], 
+      ["乔纳森•佩里", "关系 1 of x, 关系 2 of x"], 
+      ["哈罗德和玛丽娜•哈里森", "friendship of x"], 
+      ["哈罗德和玛丽娜•哈里森", "杰奎琳•佩里 of x"], 
+      ["丹尼尔•佩里", "friend of x, confidant of x"], 
+      ["戴维斯•佩里", "friend of x, informant of x, suspect of x"]
+    ],
+    "杰奎琳•佩里": [
+      ["乔纳森•佩里", "romantic relationship of x, co workers of x"], 
+      ["哈罗德和玛丽娜•哈里森", "乔纳森•佩里 of x, 丹尼尔•佩里 of x, 艾米•摩根 of x"], 
+      ["哈罗德和玛丽娜•哈里森", "姨妈 relationship of x"], 
+      ["丹尼尔•佩里", "co workers of x"], 
+      ["戴维斯•佩里", "乔纳森•佩里 of x"]
+    ],
+    "戴维斯•佩里": [
+      ["丹尼尔•佩里", "弟弟 relationship of x"], 
+      ["哈罗德和玛丽娜•哈里森", "兄妹 relationship of x, 姨父 relationship of x"], 
+      ["杰奎琳•佩里", "乔纳森•佩里 of x"], 
+      ["丹尼尔•佩里", "relative of x, friend of x, confidant of x, benefactor of x"], 
+      ["艾米•摩根", "helper of x, friend of x, informant of x"]
+    ]
+}

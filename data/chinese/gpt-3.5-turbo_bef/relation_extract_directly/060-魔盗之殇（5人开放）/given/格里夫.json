@@ -1,0 +1,22 @@
+{
+    "后勤格里夫": [
+      ["魔术师古思特", "friend of x, employer of x"], 
+      ["助手艾拉", "ex romantic relationships with x, betrayer of x"], 
+      ["剧务戴维", "friend of x"], 
+      ["保安凯文", "suspected by x, deceived by x"]
+    ],
+    "魔术师古思特": [
+      ["后勤格里夫", "friend of x, employee of x"], 
+      ["助手艾拉", "romantic relationships with x"]
+    ],
+    "助手艾拉": [
+      ["后勤格里夫", "ex romantic relationships with x, betrayer of x"], 
+      ["魔术师古思特", "romantic relationships with x"]
+    ],
+    "剧务戴维": [
+      ["后勤格里夫", "friend of x"]
+    ],
+    "保安凯文": [
+      ["后勤格里夫", "suspected by x, deceived by x"]
+    ]
+}

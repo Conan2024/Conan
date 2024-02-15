@@ -1,0 +1,96 @@
+{
+    "李浩": [
+        [
+            "张青",
+            "student of x, deceased by x"
+        ],
+        [
+            "楚万户",
+            "suspected by x, adversary of x, employer of x"
+        ],
+        [
+            "王婷婷",
+            "acquaintance of x, wife of x's employer"
+        ],
+        [
+            "楚川",
+            "child of x's acquaintance, acquaintance of x"
+        ],
+        [
+            "苏圣策",
+            "suspected by x, possible perpetrator against x's mentor"
+        ],
+        [
+            "马三",
+            "helper of x, informant of x"
+        ]
+    ],
+    "张青": [
+        [
+            "李浩",
+            "mentor of x, helped by x, deceased"
+        ],
+        [
+            "苏圣策",
+            "victim of x"
+        ]
+    ],
+    "楚万户": [
+        [
+            "李浩",
+            "employee of x, suspected perpetrator against x"
+        ],
+        [
+            "王婷婷",
+            "husband of x"
+        ],
+        [
+            "楚川",
+            "father of x"
+        ],
+        [
+            "苏圣策",
+            "acquaintance of x"
+        ]
+    ],
+    "王婷婷": [
+        [
+            "楚万户",
+            "wife of x"
+        ],
+        [
+            "李浩",
+            "employer's wife, informant of x"
+        ]
+    ],
+    "楚川": [
+        [
+            "楚万户",
+            "son of x"
+        ],
+        [
+            "苏圣策",
+            "biological son of x"
+        ]
+    ],
+    "苏圣策": [
+        [
+            "李浩",
+            "suspected by x"
+        ],
+        [
+            "楚川",
+            "biological father of x"
+        ],
+        [
+            "张青",
+            "perpetrator of x"
+        ]
+    ],
+    "马三": [
+        [
+            "李浩",
+            "informant of x, helped by x"
+        ]
+    ]
+}

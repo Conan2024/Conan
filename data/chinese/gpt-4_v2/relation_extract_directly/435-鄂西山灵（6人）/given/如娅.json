@@ -1,0 +1,87 @@
+{
+    "如娅": [
+      ["田氏", "mother of x"], 
+      ["苗纳", "father of x"], 
+      ["苗氏", "aunt of x"], 
+      ["鹃歌", "cousin of x"], 
+      ["隼", "cousin of x"], 
+      ["鬼印", "husband of x, former student of x's father, same person as x's foster brother, mentor of x"], 
+      ["甘玛", "rescued by x's father, lived with x"], 
+      ["李德木", "lover of x, extramarital affair with x, deceased of x"], 
+      ["李良松", "acquaintance of x"], 
+      ["李高柏", "friend of x, helped by x"], 
+      ["巴府山", "uncle of x x by marriage, father in law of x"], 
+      ["私塾先生", "acquaintance of x, teacher of x's cousin"], 
+      ["中年男人", "perpetrator of x, victim of x"]
+    ],
+    "田氏": [
+      ["如娅", "daughter of x"], 
+      ["苗纳", "husband of x"], 
+      ["苗氏", "sister in law of x"]
+    ],
+    "苗纳": [
+      ["如娅", "daughter of x"], 
+      ["田氏", "wife of x"], 
+      ["鬼印", "student of x, same person as adopted son of x"], 
+      ["苗氏", "sister of x"], 
+      ["甘玛", "rescued by x"]
+    ],
+    "苗氏": [
+      ["如娅", "niece of x"], 
+      ["苗纳", "brother of x"], 
+      ["田氏", "sister in law of x"], 
+      ["巴府山", "husband of x"], 
+      ["鹃歌", "daughter of x"], 
+      ["隼", "son of x"]
+    ],
+    "巴府山": [
+      ["苗氏", "wife of x"], 
+      ["鹃歌", "daughter of x"], 
+      ["隼", "son of x"], 
+      ["鬼印", "son in law of x"]
+    ],
+    "鬼印": [
+      ["如娅", "wife of x"], 
+      ["苗纳", "mentor of x"], 
+      ["甘玛", "sibling of x"], 
+      ["巴府山", "father in law of x"]
+    ],
+    "甘玛": [
+      ["如娅", "friend of x"], 
+      ["苗纳", "rescuer of x"], 
+      ["鬼印", "sibling of x"]
+    ],
+    "李德木": [
+      ["如娅", "lover of x, extramarital affair with x"], 
+      ["李良松", "brother of x"], 
+      ["李高柏", "brother of x"]
+    ],
+    "李良松": [
+      ["李德木", "brother of x"], 
+      ["李高柏", "brother of x"], 
+      ["如娅", "acquaintance of x"]
+    ],
+    "李高柏": [
+      ["李德木", "brother of x"], 
+      ["李良松", "brother of x"], 
+      ["如娅", "friend of x, helped by x"]
+    ],
+    "鹃歌": [
+      ["如娅", "cousin of x"], 
+      ["苗氏", "mother of x"], 
+      ["巴府山", "father of x"]
+    ],
+    "隼": [
+      ["如娅", "cousin of x"], 
+      ["苗氏", "mother of x"], 
+      ["巴府山", "father of x"]
+    ],
+    "私塾先生": [
+      ["如娅", "acquaintance of x"], 
+      ["隼", "student of x"]
+    ],
+    "中年男人": [
+      ["如娅", "victim of x, perpetrator of x"], 
+      ["鬼印", "victim of x"]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "保安凯文": [
+      ["助手艾拉", "helper of x, quest companion of x, crime partner of x"], 
+      ["宣传罗琳", "same person as x (different identity), crime partner of x, manipulated by x"], 
+      ["魔术师古思特", "quest companion of x, attempted perpetrator of x, subordinate of x, informant of x, enemy of x, manipulated by x, suspect to x"], 
+      ["剧务戴维", "acquaintance of x, colleague of x, disliked by x, suspect to x, adversary of x"], 
+      ["后勤格里夫", "suspected by x, informant of x"]
+    ],
+    "助手艾拉": [
+      ["保安凯文", "helped by x, quest companion of x, crime partner of x"], 
+      ["宣传罗琳", "suspect of x, x's victim's family"], 
+      ["魔术师古思特", "helper of x, quest companion of x, attempted perpetrator of x"], 
+      ["剧务戴维", "helper of x, quest companion of x"], 
+      ["后勤格里夫", "acquaintance of x"]
+    ],
+    "宣传罗琳": [
+      ["保安凯文", "same person as x (different identity), crime partner of x, manipulator of x"], 
+      ["助手艾拉", "crime partner of x, betrayed by x"], 
+      ["魔术师古思特", "crime partner of x, colleague of x, acquaintance of x, crime partner of x"], 
+      ["剧务戴维", "same person as x (different identity), crime partner of x, admired by x"], 
+      ["后勤格里夫", "adversary of x"]
+    ],
+    "魔术师古思特": [
+      ["保安凯文", "superior of x, victim of x, information receiver from x, manipulator of x, deceived by x"], 
+      ["助手艾拉", "victim of x, fiance of x"], 
+      ["宣传罗琳", "crime partner of x, colleague of x, acquaintance of x, crime partner of x"], 
+      ["剧务戴维", "business partner of x, crime partner of x"], 
+      ["后勤格里夫", "suspect of x, possibly family of x"]
+    ],
+    "剧务戴维": [
+      ["保安凯文", "acquaintance of x, colleague of x, dislike of x, suspected by x, adversary of x"], 
+      ["助手艾拉", "helper of x, quest companion of x, admired by x"], 
+      ["宣传罗琳", "lover of x, crime partner of x"], 
+      ["魔术师古思特", "business partner of x, crime partner of x"], 
+      ["后勤格里夫", "colleague of x, possibly family of x"]
+    ],
+    "后勤格里夫": [
+      ["保安凯文", "suspect of x, information receiver from x"], 
+      ["助手艾拉", "acquaintance of x"], 
+      ["宣传罗琳", "adversary of x"], 
+      ["魔术师古思特", "suspected by x, possibly family of x"], 
+      ["剧务戴维", "colleague of x, possibly family of x"]
+    ]
+}

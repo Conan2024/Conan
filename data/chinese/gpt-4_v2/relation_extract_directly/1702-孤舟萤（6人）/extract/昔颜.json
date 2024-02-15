@@ -1,0 +1,94 @@
+{
+    "汪昔颜": [
+      ["汪舜明", "father of x"], 
+      ["昔容", "sibling of x"], 
+      ["崔寿亨", "extra marital affair with x, later husband of x"], 
+      ["宝柑", "servant of x, later co wife of x"], 
+      ["周蒙当", "romantic relationships with x, attempted perpetrator of x"], 
+      ["周持同", "acquaintance of x"], 
+      ["宝柳", "servant of x, later disliked by x"], 
+      ["琏逸", "nephew of x"], 
+      ["嫣楠", "niece of x, helped by x"], 
+      ["河嫂", "servant of x, helper of x"], 
+      ["宝桂", "servant of x"], 
+      ["宝杨", "acquaintance of x"], 
+      ["甜愁", "co wife of x, disliked by x"], 
+      ["宿年", "acquaintance of x"]
+    ],
+    "汪舜明": [
+      ["汪昔颜", "child of x"], 
+      ["昔容", "child of x"]
+    ],
+    "昔容": [
+      ["汪昔颜", "sibling of x"], 
+      ["汪舜明", "child of x"], 
+      ["崔寿亨", "wife of x"], 
+      ["琏逸", "son of x"], 
+      ["嫣楠", "daughter of x"]
+    ],
+    "崔寿亨": [
+      ["昔容", "husband of x"], 
+      ["汪昔颜", "extra marital affair with x, later husband of x"], 
+      ["宝柑", "later has affair with x, later husband of x"], 
+      ["琏逸", "son of x"], 
+      ["嫣楠", "daughter of x"], 
+      ["宝桂", "employer of x"], 
+      ["宿年", "acquaintance of x"], 
+      ["周持同", "acquaintance of x"]
+    ],
+    "周蒙当": [
+      ["汪昔颜", "romantic relationships with x, attempted perpetrator of x"], 
+      ["周持同", "sibling of x"], 
+      ["宝柳", "husband of x"], 
+      ["琏逸", "father of x"]
+    ],
+    "周持同": [
+      ["周蒙当", "sibling of x"], 
+      ["宿年", "acquaintance of x"]
+    ],
+    "宝柑": [
+      ["汪昔颜", "servant of x, later co wife of x"], 
+      ["崔寿亨", "affair with x, later co wife of x"], 
+      ["甜愁", "same person as x (different identity)"]
+    ],
+    "宝柳": [
+      ["周蒙当", "husband of x"], 
+      ["琏逸", "mother of x"], 
+      ["汪昔颜", "servant of x, later disliked by x"]
+    ],
+    "琏逸": [
+      ["宝柳", "son of x"], 
+      ["周蒙当", "son of x"], 
+      ["昔容", "nephew of x"], 
+      ["汪昔颜", "nephew of x"]
+    ],
+    "嫣楠": [
+      ["昔容", "daughter of x"], 
+      ["崔寿亨", "daughter of x"], 
+      ["汪昔颜", "niece of x, helped by x"], 
+      ["宝桂", "acquaintance of x"], 
+      ["宝杨", "servant of x"], 
+      ["甜愁", "acquaintance of x, disliked by x"], 
+      ["周持同", "acquaintance of x"]
+    ],
+    "河嫂": [
+      ["汪昔颜", "servant of x, helper of x"]
+    ],
+    "宝桂": [
+      ["汪昔颜", "servant of x"], 
+      ["崔寿亨", "employee of x"]
+    ],
+    "宝杨": [
+      ["嫣楠", "servant of x"], 
+      ["汪昔颜", "acquaintance of x"]
+    ],
+    "甜愁": [
+      ["汪昔颜", "co wife of x, disliked by x"], 
+      ["崔寿亨", "affair with x"], 
+      ["宝柑", "same person as x (different identity)"]
+    ],
+    "宿年": [
+      ["周持同", "acquaintance of x"], 
+      ["汪昔颜", "acquaintance of x"]
+    ]
+}

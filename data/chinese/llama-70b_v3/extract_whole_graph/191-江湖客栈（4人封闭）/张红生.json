@@ -1,0 +1,26 @@
+{
+    "张红生": [
+      ["孟三春", "husband of x, enemy of x, murderer of x"], 
+      ["洪长烈", "father of x, victim of x"], 
+      ["蔡思娘", "sister in law of x, enemy of x, rival of x"], 
+      ["洪江水", "acquaintance of x, helper of x, enemy of x"]
+    ],
+    "孟三春": [
+      ["张红生", "wife of x, manipulator of x"], 
+      ["张金银", "brother of x"], 
+      ["张金山", "brother of x, enemy of x"], 
+      ["燕山堂", "enemy of x"]
+    ],
+    "洪长烈": [
+      ["张红生", "daughter of x"], 
+      ["洪江水", "son in law of x, enemy of x"]
+    ],
+    "蔡思娘": [
+      ["张红生", "sister in law of x, rival of x"], 
+      ["孟三春", "brother in law of x, enemy of x"]
+    ],
+    "洪江水": [
+      ["张红生", "acquaintance of x, helper of x"], 
+      ["孟三春", "brother in law of x, enemy of x"]
+    ]
+}

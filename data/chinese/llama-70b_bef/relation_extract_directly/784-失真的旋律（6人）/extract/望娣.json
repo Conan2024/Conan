@@ -1,0 +1,43 @@
+{
+    "阮望娣": [
+      ["王子摩", "husband of x"], 
+      ["招楠（姐姐）", "sister of x"], 
+      ["贵郎（弟弟）", "brother of x"], 
+      ["罗秀才", "mentor of x"], 
+      ["罗有诺", "friend of x"], 
+      ["雪嫣", "friend of x"], 
+      ["齐故飞", "acquaintance of x"], 
+      ["黑莉", "acquaintance of x"]
+    ],
+    "王子摩": [
+      ["阮望娣", "wife of x"], 
+      ["招楠（姐姐）", "sister in law of x"]
+    ],
+    "招楠（姐姐）": [
+      ["阮望娣", "sister of x"], 
+      ["王子摩", "brother in law of x"]
+    ],
+    "贵郎（弟弟）": [
+      ["阮望娣", "sister of x"], 
+      ["王子摩", "brother in law of x"]
+    ],
+    "罗秀才": [
+      ["阮望娣", "mentor of x"], 
+      ["罗有诺", "son of x"]
+    ],
+    "罗有诺": [
+      ["雪嫣", "sister of x"]
+    ],
+    "雪嫣": [
+      ["阮望娣", "friend of x"], 
+      ["罗秀才", "mother of x"]
+    ],
+    "齐故飞": [
+      ["阮望娣", "acquaintance of x"], 
+      ["招楠（姐姐）", "friend of x"]
+    ],
+    "黑莉": [
+      ["阮望娣", "acquaintance of x"], 
+      ["招楠（姐姐）", "friend of x"]
+    ]
+}

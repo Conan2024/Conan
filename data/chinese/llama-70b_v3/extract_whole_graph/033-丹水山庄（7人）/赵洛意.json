@@ -1,0 +1,36 @@
+{
+    "赵洛意": [
+      ["赵万雷", "father of x"], 
+      ["尹少鸣", "acquaintance of x"], 
+      ["赵安", "brother of x"], 
+      ["赵秋儿", "sister of x, friend of x"]
+    ],
+    "赵万雷": [
+      ["赵洛意", "father of x"], 
+      ["尹少鸣", "acquaintance of x"]
+    ],
+    "尹少鸣": [
+      ["赵洛意", "acquaintance of x"], 
+      ["赵万雷", "acquaintance of x"]
+    ],
+    "赵安": [
+      ["赵洛意", "brother of x"], 
+      ["赵秋儿", "friend of x"]
+    ],
+    "赵秋儿": [
+      ["赵洛意", "sister of x, friend of x"], 
+      ["赵安", "friend of x"]
+    ],
+    "冯双骥": [
+      ["赵洛意", "servant of x"], 
+      ["赵万雷", "servant of x"]
+    ],
+    "赵卫": [
+      ["赵洛意", "brother of x"], 
+      ["赵万雷", "brother of x"]
+    ],
+    "冯竹": [
+      ["赵洛意", "daughter of x"], 
+      ["赵万雷", "daughter of x"]
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "小茜": [
+      ["李仲", "classmate of x"], 
+      ["李家熟人", "classmate of x"], 
+      ["陈倩", "adoptive sister of x"], 
+      ["Chen Zhiwu's adopted daughter", "sister of x"]
+    ],
+    "李仲": [
+      ["小茜", "classmate of x"], 
+      ["李家熟人", "friend of x"], 
+      ["李钦仁", "father in law of x"]
+    ],
+    "李家熟人": [
+      ["小茜", "classmate of x"], 
+      ["李仲", "friend of x"], 
+      ["李钦仁", "father in law of x"], 
+      ["陈倩", "acquaintance of x, friend of x, romantic relationships with x, fiance of x"], 
+      ["陈孜靖", "father in law of x"]
+    ],
+    "李钦仁": [
+      ["李仲", "son in law of x"], 
+      ["李家熟人", "father in law of x"], 
+      ["陈孜靖", "father in law of x, master of x"]
+    ],
+    "陈倩": [
+      ["小茜", "adoptive brother of x"], 
+      ["李家熟人", "acquaintance of x, friend of x, romantic relationships with x, fiance of x"]
+    ],
+    "Chen Zhiwu": [
+      ["小茜", "brother of x, lover of x"]
+    ],
+    "陈孜靖": [
+      ["李仲", "father in law of x"], 
+      ["李家熟人", "father in law of x"], 
+      ["李钦仁", "father in law of x, master of x"]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "凌霄": [
+      ["师父", "student of x, informant of x"]
+    ],
+    "师父": [
+      ["凌霄", "mentor of x, information receiver from x"], 
+      ["大师兄", "mentor of x"]
+    ],
+    "蜂": [
+      ["师父", "information receiver from x"]
+    ],
+    "大师兄": [
+      ["师父", "student of x"], 
+      ["蜂", "employer of x"]
+    ]
+}

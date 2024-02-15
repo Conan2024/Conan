@@ -1,0 +1,112 @@
+{
+    "麦克斯•派克": [
+      ["乔•罗伯特森", "friend of x, crime partner of x, helper of x, helped by x, informant of x, quest companion of x"], 
+      ["麦克斯•琼斯", "same person as x (different identity)"], 
+      ["克里斯丁•邓恩", "informant of x, quest companion of x"], 
+      ["Sleer&Leech", "employee of x, informant of x"], 
+      ["约翰•摩根", "acquaintance of x, helper of x"], 
+      ["哈罗德•哈里森", "acquaintance of x, suspected by x"], 
+      ["玛丽娜•哈里森", "informant of x, information receiver from x, acquaintance of x"], 
+      ["露西•哈里森", "information receiver from x"], 
+      ["丹尼尔", "adversary of x"], 
+      ["戴维斯", "suspected by x, acquaintance of x, suspected by x"]
+    ],
+    "乔•罗伯特森": [
+      ["麦克斯•派克", "friend of x, crime partner of x, helper of x, helped by x, information receiver from x, quest companion of x"], 
+      ["麦克斯•琼斯", "friend of x, crime partner of x"], 
+      ["Sleer&Leech", "friend of x, quest companion of x, informant of x, information receiver from x, crime partner of x"], 
+      ["哈罗德•哈里森", "acquaintance of x, information receiver from x"], 
+      ["戴维斯", "acquaintance of x"]
+    ],
+    "麦克斯•琼斯": [
+      ["麦克斯•派克", "same person as x (different reference)"], 
+      ["乔•罗伯特森", "friend of x, crime partner of x"], 
+      ["克里斯丁•邓恩", "informant of x"], 
+      ["Sleer&Leech", "same person as x (different identity), employee of x"], 
+      ["约翰•摩根", "acquaintance of x, helped by x, suspect to x"], 
+      ["哈罗德•哈里森", "acquaintance of x, suspected by x"], 
+      ["玛丽娜•哈里森", "acquaintance of x"], 
+      ["露西•哈里森", "information receiver from x"], 
+      ["丹尼尔", "suspected by x, adversary of x"], 
+      ["戴维斯", "suspected by x"]
+    ],
+    "克里斯丁•邓恩": [
+      ["麦克斯•派克", "information receiver from x, quest companion of x"], 
+      ["麦克斯•琼斯", "information receiver from x"], 
+      ["麦克斯•派克", "informant of x"], 
+      ["麦克斯•派克", "informant of x"], 
+      ["玛丽娜•哈里森", "informant of x"], 
+      ["露西•哈里森", "information receiver from x"], 
+      ["丹尼尔", "informant of x"], 
+      ["戴维斯", "informant of x, romantic relationships with x"]
+    ],
+    "Sleer&Leech": [
+      ["麦克斯•派克", "employer of x, information receiver from x"], 
+      ["乔•罗伯特森", "employer of x, customer of x"], 
+      ["麦克斯•琼斯", "same person as x (different reference), employer of x"], 
+      ["麦克斯•派克", "employer of x, business partner of x"], 
+      ["约翰•摩根", "employer of x"], 
+      ["哈罗德•哈里森", "acquaintance of x, suspect of x, suspected by x"], 
+      ["玛丽娜•哈里森", "employer of x"], 
+      ["露西•哈里森", "employer of x"], 
+      ["丹尼尔", "employer of x"], 
+      ["戴维斯", "employee of x, colleague of x, information receiver from x"]
+    ],
+    "约翰•摩根": [
+      ["麦克斯•派克", "acquaintance of x, helped by x"], 
+      ["麦克斯•琼斯", "acquaintance of x, helper of x, suspicious of x"], 
+      ["Sleer&Leech", "employee of x, customer of x"], 
+      ["哈罗德•哈里森", "victim of x"], 
+      ["露西•哈里森", "victim of x"], 
+      ["戴维斯", "acquaintance of x"]
+    ],
+    "哈罗德•哈里森": [
+      ["麦克斯•派克", "acquaintance of x"], 
+      ["乔•罗伯特森", "acquaintance of x, suspected by x"], 
+      ["麦克斯•琼斯", "acquaintance of x, suspect of x"], 
+      ["麦克斯•派克", "acquaintance of x, suspected by x"], 
+      ["Sleer&Leech", "acquaintance of x, suspect to x, suspicious of x"], 
+      ["约翰•摩根", "acquaintance of x, suspect to x"], 
+      ["玛丽娜•哈里森", "husband of x"], 
+      ["露西•哈里森", "father of x"], 
+      ["戴维斯", "suspect of x, possibly family of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["麦克斯•派克", "informant of x, information receiver from x, acquaintance of x"], 
+      ["麦克斯•琼斯", "suspected by x"], 
+      ["克里斯丁•邓恩", "information receiver from x"], 
+      ["Sleer&Leech", "employee of x"], 
+      ["哈罗德•哈里森", "wife of x"], 
+      ["露西•哈里森", "mother of x"], 
+      ["丹尼尔", "extramarital affair with x"], 
+      ["戴维斯", "wife of x, romantic relationships with x, extramarital affair with x"]
+    ],
+    "露西•哈里森": [
+      ["麦克斯•派克", "informant of x"], 
+      ["克里斯丁•邓恩", "informant of x"], 
+      ["Sleer&Leech", "employee of x"], 
+      ["约翰•摩根", "child of x"], 
+      ["哈罗德•哈里森", "child of x"], 
+      ["玛丽娜•哈里森", "child of x"], 
+      ["戴维斯", "child of x, disliked by x"]
+    ],
+    "丹尼尔": [
+      ["麦克斯•派克", "enemy of x"], 
+      ["麦克斯•琼斯", "suspect of x, victim of x"], 
+      ["克里斯丁•邓恩", "information receiver from x"], 
+      ["Sleer&Leech", "employee of x"], 
+      ["玛丽娜•哈里森", "extramarital affair with x"], 
+      ["戴维斯", "suspect to x"]
+    ],
+    "戴维斯": [
+      ["麦克斯•派克", "suspect of x"], 
+      ["乔•罗伯特森", "extramarital affair with x"], 
+      ["克里斯丁•邓恩", "information receiver from x, extramarital affair with x"], 
+      ["Sleer&Leech", "employer of x, colleague of x, informant of x"], 
+      ["约翰•摩根", "acquaintance of x, helper of x"], 
+      ["哈罗德•哈里森", "suspected by x, romantic relationships with x"], 
+      ["玛丽娜•哈里森", "extramarital affair with x, lover of x, romantic relationships with x"], 
+      ["露西•哈里森", "extramarital affair with x, dislike of x"], 
+      ["丹尼尔", "extramarital affair with x, suspected by x"]
+    ]
+}

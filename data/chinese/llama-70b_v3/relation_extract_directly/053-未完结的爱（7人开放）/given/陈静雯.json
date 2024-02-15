@@ -1,0 +1,74 @@
+{
+    "陈静雯": [
+      ["顾宇", "lover of x"], 
+      ["林夕", "friend of x"], 
+      ["苏阳", "acquaintance of x, colleague of x"], 
+      ["郑心媚", "mother of x"], 
+      ["顾明和", "lover of x"], 
+      ["林惟仁", "uncle of x, attempted murderer of x"], 
+      ["沈城", "acquaintance of x, servant of x"]
+    ],
+    "顾宇": [
+      ["陈静雯", "lover of x"], 
+      ["林夕", "friend of x"], 
+      ["苏阳", "acquaintance of x, colleague of x"], 
+      ["郑心媚", "mother of x"], 
+      ["顾明和", "father of x"], 
+      ["林惟仁", "uncle of x"], 
+      ["沈城", "acquaintance of x, servant of x"]
+    ],
+    "林夕": [
+      ["顾宇", "friend of x"], 
+      ["陈静雯", "lover of x, friend of x"], 
+      ["苏阳", "acquaintance of x, colleague of x"], 
+      ["郑心媚", "mother of x"], 
+      ["顾明和", "father of x"], 
+      ["林惟仁", "uncle of x"], 
+      ["沈城", "acquaintance of x, servant of x"]
+    ],
+    "苏阳": [
+      ["顾宇", "acquaintance of x, colleague of x"], 
+      ["陈静雯", "acquaintance of x, colleague of x"], 
+      ["林夕", "acquaintance of x, colleague of x"], 
+      ["郑心媚", "mother of x"], 
+      ["顾明和", "father of x"], 
+      ["林惟仁", "uncle of x"], 
+      ["沈城", "acquaintance of x, servant of x"]
+    ],
+    "郑心媚": [
+      ["陈静雯", "daughter of x"], 
+      ["顾宇", "lover of x"], 
+      ["林夕", "friend of x"], 
+      ["苏阳", "acquaintance of x, colleague of x"], 
+      ["顾明和", "father of x"], 
+      ["林惟仁", "uncle of x"], 
+      ["沈城", "acquaintance of x, servant of x"]
+    ],
+    "顾明和": [
+      ["陈静雯", "lover of x"], 
+      ["顾宇", "son of x"], 
+      ["林夕", "friend of x"], 
+      ["苏阳", "acquaintance of x, colleague of x"], 
+      ["郑心媚", "mother of x"], 
+      ["林惟仁", "uncle of x"], 
+      ["沈城", "acquaintance of x, servant of x"]
+    ],
+    "林惟仁": [
+      ["陈静雯", "niece of x, attempted murderer of x"], 
+      ["顾宇", "uncle of x"], 
+      ["林夕", "friend of x"], 
+      ["苏阳", "acquaintance of x, colleague of x"], 
+      ["郑心媚", "mother of x"], 
+      ["顾明和", "brother of x"], 
+      ["沈城", "acquaintance of x, servant of x"]
+    ],
+    "沈城": [
+      ["陈静雯", "acquaintance of x, servant of x"], 
+      ["顾宇", "acquaintance of x, servant of x"], 
+      ["林夕", "acquaintance of x, servant of x"], 
+      ["苏阳", "acquaintance of x, colleague of x"], 
+      ["郑心媚", "mother of x"], 
+      ["顾明和", "acquaintance of x, servant of x"], 
+      ["林惟仁", "acquaintance of x, servant of x"]
+    ]
+}

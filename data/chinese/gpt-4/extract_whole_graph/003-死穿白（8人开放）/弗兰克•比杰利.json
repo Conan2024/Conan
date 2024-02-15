@@ -1,0 +1,50 @@
+{
+    "弗兰克•比杰利": [
+        [
+            "托尼",
+            "sibling of x, guardian of x, admired by x, deceiver of x"
+        ],
+        [
+            "神父汤姆",
+            "employer of x, co-conspirator with x, deceiver of x"
+        ],
+        [
+            "医院的人",
+            "stranger to x"
+        ]
+    ],
+    "托尼": [
+        [
+            "弗兰克•比杰利",
+            "sibling of x, admirer of x"
+        ],
+        [
+            "神父汤姆",
+            "deceived by x"
+        ],
+        [
+            "医院的人",
+            "hostage taker of x"
+        ]
+    ],
+    "神父汤姆": [
+        [
+            "弗兰克•比杰利",
+            "employee of x, co-conspirator with x"
+        ],
+        [
+            "托尼",
+            "deceiver of x"
+        ]
+    ],
+    "医院的人": [
+        [
+            "弗兰克•比杰利",
+            "stranger to x, possible victim of x"
+        ],
+        [
+            "托尼",
+            "hostage of x"
+        ]
+    ]
+}

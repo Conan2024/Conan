@@ -1,0 +1,595 @@
+{
+    "你": [
+        [
+            "路人甲",
+            "弟弟",
+            "杨老板",
+            "雯秘书",
+            "王船工",
+            "玲船医"
+        ],
+        [
+            "张大副",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "王船工",
+            "玲船医",
+            "杨老板",
+            "弟弟"
+        ],
+        [
+            "杨老板",
+            "弟弟",
+            "王船工",
+            "玲船医"
+        ],
+        [
+            "雯秘书",
+            "business partner",
+            "friend"
+        ],
+        [
+            "王小工",
+            "玲船医",
+            "王船工",
+            "杨老板",
+            "弟弟",
+            "雯秘书"
+        ],
+        [
+            "毒瘾",
+            " Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "玲船医",
+            "张大副",
+            "王船工"
+        ],
+        [
+            "很天真",
+            "co-worker"
+        ]
+    ],
+    "路人甲": [
+        [
+            "你",
+            "弟弟",
+            "杨老板",
+            "雯秘书",
+            "王船工",
+            "玲船医"
+        ],
+        [
+            "张大副",
+            "朋友",
+            "同事",
+            "敌人",
+            "竞争对手",
+            "MENTOR",
+            "学生",
+            "工作伙伴",
+            "供应商",
+            "客户"
+        ],
+        [
+            "왕船工",
+            "handled-subordinate"
+        ],
+        [
+            "杨老板",
+            "弟弟",
+            "玲船医",
+            "王船工",
+            "王小工",
+            "雯秘书"
+        ],
+        [
+            "雯秘书",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "王小工",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "毒瘾",
+            "弟弟",
+            "杨老板",
+            "雯秘书",
+            "王船工",
+            "玲船医",
+            "王小工"
+        ],
+        [
+            "玲船医",
+            "Friend",
+            "Colleague",
+            "Business Partner",
+            " Customer",
+            "Acquaintance",
+            " Classmate"
+        ],
+        [
+            "很天真",
+            "弟弟",
+            "杨老板",
+            "雯秘书",
+            "王船工",
+            "玲船医",
+            "friend",
+            "acquaintance"
+        ]
+    ],
+    "张大副": [
+        [
+            "你",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "你",
+            "玲船医"
+        ],
+        [
+            "路人甲",
+            "朋友",
+            "same person",
+            "敌人",
+            "竞争对手",
+            "MENTOR",
+            "学生",
+            "工作伙伴",
+            "Supplier",
+            "Customer"
+        ],
+        [
+            "王船工",
+            "superior",
+            "mentor",
+            "friend",
+            "manipulator"
+        ],
+        [
+            "杨老板",
+            "relationship 1, relationship 2, ..., relationship 10"
+        ],
+        [
+            "雯秘书",
+            "业务партнер",
+            "共谋者"
+        ],
+        [
+            "王小工",
+            "mentor",
+            "employer",
+            "manipulator",
+            "enemy"
+        ],
+        [
+            "毒瘾",
+            "relationship 1, relationship 2, ..., relationship 10"
+        ],
+        {
+            "玲船医": [
+                "informant",
+                "love interest"
+            ]
+        },
+        [
+            "很天真",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "王船工": [
+        [
+            "你",
+            "玲船医",
+            "杨老板",
+            "王小工"
+        ],
+        [
+            "你",
+            "王小工",
+            "玲船医",
+            "杨老板"
+        ],
+        [
+            "你",
+            "玲船医"
+        ],
+        [
+            "路人甲",
+            "handled-subordinate",
+            "accomplice"
+        ],
+        [
+            "张大副",
+            "superior",
+            "mentor",
+            "friend",
+            "manipulated"
+        ],
+        [
+            "杨老板",
+            "employee",
+            "acquaintance",
+            "co-worker",
+            "fellow criminal"
+        ],
+        [
+            "雯秘书",
+            "employee",
+            "colleague"
+        ],
+        [
+            "王小工",
+            "Employee of X",
+            "Helped by X",
+            "Informant of X",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X"
+        ],
+        [
+            "毒瘾",
+            "employee"
+        ],
+        [
+            "玲船医",
+            "业务партнер",
+            "共同谋杀"
+        ],
+        [
+            "很天真",
+            "brother"
+        ]
+    ],
+    "杨老板": [
+        [
+            "你",
+            "雯秘书",
+            "Employee of X",
+            "Perpetrator of X"
+        ],
+        [
+            "你",
+            "王小工",
+            "王船工",
+            "雯秘书"
+        ],
+        [
+            "路人甲",
+            "弟弟",
+            "玲船医",
+            "王船工",
+            "王小工",
+            "雯秘书"
+        ],
+        [
+            "张大副",
+            "relationship 1, relationship 2, ..., relationship 10"
+        ],
+        [
+            "王船工",
+            "employee",
+            "acquaintance",
+            "co-worker",
+            "fellow criminal"
+        ],
+        [
+            "雯秘书",
+            "Business Partner",
+            "Buyer",
+            "Tenant"
+        ],
+        [
+            "王小工",
+            "relationship 1"
+        ],
+        [
+            "毒瘾",
+            "Employee of X",
+            "Business Partner of X"
+        ],
+        [
+            "玲船医",
+            "Employee of X",
+            "Business Partner of X",
+            "Customer of X",
+            "Buyer of X"
+        ],
+        [
+            "很天真",
+            "Employee of X",
+            "Subordinate of X",
+            "Right-hand man of X",
+            "Trusted person of X",
+            "Partner in crime of X"
+        ]
+    ],
+    "雯秘书": [
+        [
+            "你",
+            "business partner",
+            "friend"
+        ],
+        [
+            "杨老板"
+        ],
+        [
+            "路人甲",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "张大副",
+            "业务партнер",
+            "共谋者"
+        ],
+        [
+            "王船工",
+            "boss",
+            "employer"
+        ],
+        [
+            "杨老板",
+            "Business Partner",
+            "Secretary",
+            "Informant"
+        ],
+        [
+            "王小工",
+            "张大副",
+            "杨老板"
+        ],
+        [
+            "毒瘾",
+            "杨老板"
+        ],
+        [
+            "玲船医",
+            "coworker",
+            "acquaintance"
+        ],
+        [
+            "很天真",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "王小工": [
+        [
+            "你",
+            "玲船医",
+            "王船工",
+            "杨老板"
+        ],
+        [
+            "路人甲",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "张大副",
+            "mentor",
+            "employer",
+            "manipulator",
+            "enemy"
+        ],
+        [
+            "王船工",
+            "Father of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Employee of X",
+            "Helped by X",
+            "Informant of X"
+        ],
+        [
+            "杨老板",
+            "relationship 2"
+        ],
+        [
+            "雯秘书",
+            "张大副",
+            "杨老板"
+        ],
+        [
+            "毒瘾",
+            "family member",
+            "co-worker"
+        ],
+        [
+            "玲船医",
+            "son-in-law",
+            "coworker"
+        ],
+        [
+            "很天真",
+            "Employee of X",
+            "Colleague of X",
+            "Business Partner of X",
+            "Friend of X",
+            "Acquaintance of X",
+            " информа receiver from X"
+        ]
+    ],
+    "玲船医": [
+        [
+            "你",
+            "王小工",
+            "王船工"
+        ],
+        [
+            "你",
+            "张大副"
+        ],
+        [
+            "路人甲",
+            "Friend",
+            "Colleague",
+            "Business Partner",
+            "Customer",
+            "Acquaintance",
+            "Classmate"
+        ],
+        {
+            "张大副": [
+                "informant",
+                "love interest"
+            ]
+        },
+        [
+            "王船工",
+            "业务 Parcours",
+            "共同谋杀"
+        ],
+        [
+            "杨老板",
+            "Employee of X",
+            "Business Partner of X",
+            "Informant of X",
+            "Acquaintance of X"
+        ],
+        [
+            "雯秘书",
+            "coworker",
+            "acquaintance"
+        ],
+        [
+            "王小工",
+            "wife",
+            "spy"
+        ],
+        [
+            "毒瘾",
+            "Superior of X",
+            "Employer of X",
+            "Co-worker of X",
+            "Informant of X",
+            "Person of Interest of X",
+            "Acquaintance of X",
+            "classmate of x",
+            "Schoolmate of X"
+        ],
+        [
+            "很天真",
+            "friend",
+            "coworker"
+        ]
+    ],
+    "弟弟": [
+        [
+            "你"
+        ]
+    ],
+    "毒瘾": [
+        [
+            "你",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "路人甲",
+            "弟弟",
+            "杨老板",
+            "雯秘书",
+            "王船工",
+            "玲船匚",
+            "王小工"
+        ],
+        [
+            "张大副",
+            "relationship 1, relationship 2, ..., relationship 10"
+        ],
+        [
+            "王船工",
+            "employer"
+        ],
+        [
+            "杨老板",
+            "Employee of X",
+            "Business Partner of X"
+        ],
+        [
+            "雯秘书",
+            "张大副"
+        ],
+        [
+            "王小工",
+            "family member",
+            "co-worker"
+        ],
+        [
+            "玲船医",
+            "Employee of X",
+            "Co-worker of X",
+            "Informant of X",
+            "Person of Interest of X",
+            "Acquaintance of X",
+            "classmate of x",
+            "Schoolmate of X"
+        ],
+        [
+            "很天真",
+            "王船工",
+            "玲船医"
+        ]
+    ],
+    "很天真": [
+        [
+            "你",
+            "brother"
+        ],
+        [
+            "路人甲",
+            "弟弟",
+            "杨老板",
+            "雯秘书",
+            "王船工",
+            "玲船医",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "张大副",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "王船工",
+            "brother"
+        ],
+        [
+            "杨老板",
+            "Brother of X",
+            "Good friend of X",
+            "Trusted person of X",
+            "Partner in crime of X"
+        ],
+        [
+            "雯秘书",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "王小工",
+            "Brother of X",
+            "Son of X",
+            " Nephew of X",
+            "Cousin of X",
+            "Friend of X",
+            "Acquaintance of X"
+        ],
+        [
+            "毒瘾",
+            "王船工",
+            "玲船医"
+        ],
+        [
+            "玲船医",
+            "friend",
+            "coworker"
+        ]
+    ]
+}

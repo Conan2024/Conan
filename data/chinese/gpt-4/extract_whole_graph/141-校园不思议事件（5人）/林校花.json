@@ -1,0 +1,100 @@
+{
+    "林校花": [
+        [
+            "张恶霸",
+            "fiancee of x, victim of x, disliked by x, hater of x, murderer of x"
+        ],
+        [
+            "赵帅哥",
+            "admirer of x, extramarital affair with x, admirer of x's fiance"
+        ],
+        [
+            "郝闺蜜",
+            "friend of x, confidant of x"
+        ],
+        [
+            "林校花的父亲",
+            "father of x, disapprover of x, superior of x"
+        ],
+        [
+            "林校花的后妈",
+            "step mother of x, possibly disliked by x"
+        ],
+        [
+            "林校花的弟弟",
+            "sibling of x, younger brother of x"
+        ]
+    ],
+    "张恶霸": [
+        [
+            "林校花",
+            "fiance of x, perpetrator of x, disliked by x, victim of x"
+        ],
+        [
+            "赵帅哥",
+            "friend of x, admirer of x's fiancee"
+        ],
+        [
+            "张董事长",
+            "father of x, superior of x"
+        ]
+    ],
+    "赵帅哥": [
+        [
+            "林校花",
+            "romantic relationships with x, admired by x, helper of x, information receiver from x"
+        ],
+        [
+            "张恶霸",
+            "friend of x, adulterer with x's fiancee"
+        ]
+    ],
+    "郝闺蜜": [
+        [
+            "林校花",
+            "friend of x, confidant of x"
+        ]
+    ],
+    "林校花的父亲": [
+        [
+            "林校花",
+            "father of x, superior of x"
+        ],
+        [
+            "林校花的后妈",
+            "husband of x"
+        ],
+        [
+            "林校花的弟弟",
+            "father of x, biological father of x"
+        ]
+    ],
+    "林校花的后妈": [
+        [
+            "林校花",
+            "step mother of x"
+        ],
+        [
+            "林校花的父亲",
+            "wife of x"
+        ],
+        [
+            "林校花的弟弟",
+            "mother of x, step mother of x"
+        ]
+    ],
+    "林校花的弟弟": [
+        [
+            "林校花",
+            "sibling of x, sister of x"
+        ],
+        [
+            "林校花的父亲",
+            "son of x, biological son of x"
+        ],
+        [
+            "林校花的后妈",
+            "son of x, step son of x"
+        ]
+    ]
+}

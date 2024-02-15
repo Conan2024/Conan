@@ -1,0 +1,88 @@
+{
+    "李仲": [
+      ["李府李钦仁", "servant of x, patient of x, guard of x"], 
+      ["李氏", "husband of x"], 
+      ["郎中", "classmate of x"], 
+      ["陈府的府主陈孜靖", "mentor of x"], 
+      ["陈倩", "father of x"], 
+      ["陈府的千金", "romantic relationships with x, admirer of x"], 
+      ["丫头", "sibling of x"]
+    ],
+    "李延": [
+      ["李府李钦仁", "son of x"], 
+      ["李氏", "brother of x"], 
+      ["郎中", "acquaintance of x, guest of x, colleague of x"], 
+      ["陈府的府主陈孜靖", "friend of x"], 
+      ["陈倩", "wife of x"], 
+      ["陈府的千金", "saviour of x"], 
+      ["丫头", "child of x, sibling of x"]
+    ],
+    "李府李钦仁": [
+      ["李仲", "employer of x, master of x"], 
+      ["李延", "father of x"], 
+      ["李氏", "husband of x"], 
+      ["郎中", "mentor of x"], 
+      ["陈府的府主陈孜靖", "employer of x"], 
+      ["陈倩", "wife of x"], 
+      ["陈府的千金", "sister of x"], 
+      ["丫头", "employee of x"]
+    ],
+    "李氏": [
+      ["李仲", "wife of x"], 
+      ["李延", "sister in law of x"], 
+      ["李府李钦仁", "wife of x"], 
+      ["郎中", "wife of x"], 
+      ["陈府的府主陈孜靖", "wife of x"], 
+      ["陈倩", "mother of x"], 
+      ["丫头", "mother of x"]
+    ],
+    "郎中": [
+      ["李仲", "classmate of x"], 
+      ["李延", "acquaintance of x, host of x, colleague of x"], 
+      ["李府李钦仁", "student of x"], 
+      ["李氏", "husband of x"], 
+      ["陈府的府主陈孜靖", "friend of x"], 
+      ["陈倩", "mentor of x"], 
+      ["陈府的千金", "doctor of x"], 
+      ["丫头", "mentor of x"]
+    ],
+    "陈府的府主陈孜靖": [
+      ["李仲", "student of x"], 
+      ["李延", "friend of x"], 
+      ["李府李钦仁", "employee of x"], 
+      ["李氏", "husband of x"], 
+      ["郎中", "friend of x"], 
+      ["陈倩", "wife of x"], 
+      ["陈府的千金", "father of x"], 
+      ["丫头", "father in law of x"]
+    ],
+    "陈府的千金": [
+      ["李仲", "romantic relationships with x, admired by x"], 
+      ["李延", "saved by x"], 
+      ["李府李钦仁", "sister of x"], 
+      ["李氏", "step daughter of x"], 
+      ["郎中", "patient of x"], 
+      ["陈府的府主陈孜靖", "daughter of x"], 
+      ["陈倩", "sister of x"], 
+      ["丫头", "child of x"]
+    ],
+    "丫头": [
+      ["李仲", "sibling of x"], 
+      ["李延", "father of x, sibling of x"], 
+      ["李府李钦仁", "employer of x"], 
+      ["李氏", "daughter of x"], 
+      ["郎中", "student of x"], 
+      ["陈府的府主陈孜靖", "daughter in law of x"], 
+      ["陈倩", "sibling of x"], 
+      ["陈府的千金", "father of x"]
+    ],
+    "陈倩": [
+      ["李延", "husband of x"], 
+      ["李府李钦仁", "husband of x"], 
+      ["李氏", "daughter of x"], 
+      ["郎中", "student of x"], 
+      ["陈府的府主陈孜靖", "husband of x"], 
+      ["陈府的千金", "sister of x"], 
+      ["丫头", "sibling of x"]
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "张伟": [
+        [
+            "赵中杨",
+            "subordinate of x, employee of x, perpetrator of x, deceiver of x, murderer of x"
+        ],
+        [
+            "赵中正",
+            "acquaintance of x, business partner of x"
+        ],
+        [
+            "陈媚儿",
+            "colleague of x"
+        ],
+        [
+            "李成",
+            "colleague of x, helped by x"
+        ],
+        [
+            "赵三",
+            "business partner of x, betrayed by x, deceiver of x"
+        ],
+        [
+            "马老板",
+            "deceived by x, customer of x"
+        ]
+    ],
+    "赵中杨": [
+        [
+            "张伟",
+            "superior of x, employer of x, victim of x, deceived by x"
+        ],
+        [
+            "陈媚儿",
+            "subordinate of x, romantic relationships with x"
+        ],
+        [
+            "李成",
+            "subordinate of x, friend of x"
+        ],
+        [
+            "赵中正",
+            "sibling of x"
+        ],
+        [
+            "赵三",
+            "subordinate of x"
+        ]
+    ],
+    "赵中正": [
+        [
+            "赵中杨",
+            "sibling of x"
+        ],
+        [
+            "赵三",
+            "subordinate of x"
+        ]
+    ],
+    "陈媚儿": [
+        [
+            "赵中杨",
+            "superior of x, romantic relationships with x"
+        ],
+        [
+            "张伟",
+            "colleague of x"
+        ],
+        [
+            "李成",
+            "colleague of x"
+        ]
+    ],
+    "李成": [
+        [
+            "赵中杨",
+            "superior of x, helper of x, friend of x"
+        ],
+        [
+            "张伟",
+            "colleague of x"
+        ],
+        [
+            "陈媚儿",
+            "colleague of x"
+        ]
+    ],
+    "赵三": [
+        [
+            "张伟",
+            "business partner of x, deceiver of x"
+        ],
+        [
+            "赵中正",
+            "superior of x"
+        ]
+    ],
+    "马老板": [
+        [
+            "张伟",
+            "product provider of x"
+        ]
+    ]
+}

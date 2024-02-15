@@ -1,0 +1,890 @@
+{
+    "五个姐姐": [
+        [
+            "你",
+            "sibling of x"
+        ],
+        [
+            "张洁",
+            "ex-romantic relationships with x"
+        ],
+        [
+            "妻子"
+        ],
+        [
+            "记者",
+            "friend of x"
+        ],
+        [
+            "妈妈",
+            "child of x"
+        ],
+        [
+            "姑娘",
+            "sibling of x"
+        ],
+        [
+            "爸爸",
+            "child of x"
+        ],
+        [
+            "何老六",
+            "sibling of x",
+            "possibly family of x"
+        ],
+        [
+            "王大哥",
+            "brother in law of x"
+        ],
+        [
+            "警察",
+            "suspicious of x"
+        ],
+        [
+            "父亲",
+            "child of x"
+        ],
+        [
+            "王邻居",
+            "neighbor of x"
+        ],
+        [
+            "慕北",
+            "sibling of"
+        ],
+        [
+            "李国富",
+            "sibling of"
+        ]
+    ],
+    "你": [
+        [
+            "五个姐姐",
+            "sibling of x"
+        ],
+        [
+            "张洁",
+            "work colleague of x"
+        ],
+        [
+            "stranger to 妻子"
+        ],
+        [
+            "记者",
+            "subject of investigation for x"
+        ],
+        [
+            "妈妈",
+            "child of x"
+        ],
+        [
+            "慕北",
+            "同事 of x",
+            "murderer of x",
+            "accomplice of x"
+        ],
+        [
+            "爸爸",
+            "child of x"
+        ],
+        [
+            "何老六",
+            "perpetrator of x"
+        ],
+        [
+            "王大哥",
+            "friend of x"
+        ],
+        [
+            "警察",
+            "suspected by x"
+        ],
+        [
+            "father of x"
+        ],
+        [
+            "王邻居",
+            "neighbor of x"
+        ],
+        [
+            "慕北",
+            "同事"
+        ],
+        [
+            "李国富",
+            "co-worker of x"
+        ]
+    ],
+    "张洁": [
+        [
+            "五个姐姐",
+            "ex-romantic relationships with x"
+        ],
+        [
+            "你",
+            "work colleague of x"
+        ],
+        [
+            "妻子"
+        ],
+        [
+            "记者",
+            "informant of x"
+        ],
+        [
+            "妈妈",
+            "daughter of x"
+        ],
+        [
+            "姑娘",
+            "fellow night shift security guard"
+        ],
+        [
+            "爸爸",
+            "daughter of x"
+        ],
+        [
+            "何老六",
+            "ex-coworkers (crime partners)"
+        ],
+        [
+            "王大哥",
+            "friend of x",
+            "colleague of x"
+        ],
+        [
+            "警察",
+            "acquaintance of x"
+        ],
+        [
+            "daughter of 父亲"
+        ],
+        [
+            "王邻居",
+            "acquaintance of 张洁",
+            "neighbor of 张洁"
+        ],
+        [
+            "慕北",
+            "colleague of x"
+        ],
+        [
+            "李国富",
+            "romantic relationships with x"
+        ]
+    ],
+    "妻子": [
+        [
+            "五个姐姐"
+        ],
+        [
+            "stranger to 你"
+        ],
+        [
+            "张洁"
+        ],
+        [
+            "记者",
+            "husband of x"
+        ],
+        [
+            "妈妈",
+            "husband of x"
+        ],
+        [
+            "姑娘",
+            "romantic relationships with x"
+        ],
+        [
+            "爸爸",
+            "husband of x"
+        ],
+        [
+            "何老六",
+            "husband of x"
+        ],
+        [
+            "王大哥",
+            "husband of x"
+        ],
+        [
+            "警察",
+            "wife of x"
+        ],
+        [
+            "父亲",
+            "husband of x"
+        ],
+        [
+            "王邻居",
+            "husband of x"
+        ],
+        [
+            "慕北",
+            "wife of x"
+        ],
+        [
+            "李国富",
+            "husband of x"
+        ]
+    ],
+    "记者": [
+        [
+            "五个姐姐",
+            "friend of x"
+        ],
+        [
+            "你",
+            "information receiver from x"
+        ],
+        [
+            "张洁",
+            "information receiver from x"
+        ],
+        [
+            "妻子",
+            "wife of x"
+        ],
+        [
+            "妈妈",
+            "informant of x"
+        ],
+        [
+            "姑娘",
+            "helped by x"
+        ],
+        [
+            "爸爸",
+            "child of x"
+        ],
+        [
+            "何老六",
+            "informant of x",
+            "information receiver from x"
+        ],
+        [
+            "王大哥",
+            "neighbor of x"
+        ],
+        [
+            "警察",
+            "informant of x",
+            "information receiver from x"
+        ],
+        [
+            "父亲",
+            "child of x"
+        ],
+        [
+            "王邻居",
+            "neighbor of x"
+        ],
+        [
+            "慕北",
+            "acquaintance of"
+        ],
+        [
+            "李国富",
+            "employer of 李国富",
+            "possible informant of 李国富"
+        ]
+    ],
+    "妈妈": [
+        [
+            "五个姐姐",
+            "mother of x"
+        ],
+        [
+            "你",
+            "mother of x"
+        ],
+        [
+            "张洁",
+            "mother of x"
+        ],
+        [
+            "妻子",
+            "wife of x"
+        ],
+        [
+            "记者",
+            "information receiver from x"
+        ],
+        [
+            "姑娘",
+            "daughter of x"
+        ],
+        [
+            "爸爸",
+            "husband of x"
+        ],
+        [
+            "何老六",
+            "mother of x"
+        ],
+        [
+            "王大哥",
+            "friend of x"
+        ],
+        [
+            "警察",
+            "helper of x"
+        ],
+        [
+            "父亲",
+            "child of x"
+        ],
+        [
+            "王邻居",
+            "neighbour of x"
+        ],
+        [
+            "慕北",
+            "saviour of x",
+            "seeker of help from x"
+        ],
+        [
+            "李国富",
+            "friend of x, co-worker of x"
+        ]
+    ],
+    "姑娘": [
+        [
+            "五个姐姐",
+            "sibling of x"
+        ],
+        [
+            "张洁",
+            "fellow night shift security guard"
+        ],
+        [
+            "妻子",
+            "romantic relationships with x"
+        ],
+        [
+            "记者",
+            "information receiver from x"
+        ],
+        [
+            "妈妈",
+            "mother of x"
+        ],
+        [
+            "爸爸",
+            "daughter of x"
+        ],
+        [
+            "何老六",
+            "informant of x"
+        ],
+        [
+            "王大哥",
+            "friend of x"
+        ],
+        [
+            "警察",
+            "helper of x"
+        ],
+        [
+            "父亲",
+            "child of x"
+        ],
+        [
+            "王邻居",
+            "neighbour of x"
+        ],
+        [
+            "慕北",
+            "stranger to x",
+            "helper of x"
+        ],
+        [
+            "李国富",
+            "fiance of x"
+        ]
+    ],
+    "爸爸": [
+        [
+            "五个姐姐",
+            "father of x"
+        ],
+        [
+            "你",
+            "father of x"
+        ],
+        [
+            "张洁",
+            "father of x"
+        ],
+        [
+            "妻子",
+            "child of x"
+        ],
+        [
+            "记者",
+            "father of x"
+        ],
+        [
+            "妈妈",
+            "wife of x"
+        ],
+        [
+            "姑娘",
+            "father of x"
+        ],
+        [
+            "何老六",
+            "father of x"
+        ],
+        [
+            "王大哥",
+            "husband of x"
+        ],
+        [
+            "警察",
+            "ex-colleague of x"
+        ],
+        [
+            "父亲",
+            "father of x"
+        ],
+        [
+            "王邻居",
+            "neighbor of x"
+        ],
+        [
+            "慕北",
+            "friend of x",
+            "same person as x (different reference)"
+        ],
+        [
+            "李国富",
+            "father in law of x",
+            "host of x"
+        ]
+    ],
+    "何老六": [
+        [
+            "五个姐姐",
+            "sibling of x",
+            "possibly family of x"
+        ],
+        [
+            "你",
+            "perpetrator of x"
+        ],
+        [
+            "张洁",
+            "ex-coworkers (crime partners)"
+        ],
+        [
+            "妻子",
+            "wife of x"
+        ],
+        [
+            "记者",
+            "subject of investigation for x"
+        ],
+        [
+            "妈妈",
+            "child of x"
+        ],
+        [
+            "姑娘",
+            "informant of x"
+        ],
+        [
+            "爸爸",
+            "child of x"
+        ],
+        [
+            "王大哥",
+            "informant of x",
+            "guest of x"
+        ],
+        [
+            "警察",
+            "perpetrator of x",
+            "attempted perpetrator of x"
+        ],
+        [
+            "父亲",
+            "child of x"
+        ],
+        [
+            "王邻居",
+            "acquaintance of x",
+            "neighbour of x"
+        ],
+        [
+            "慕北",
+            "acquaintance of x"
+        ],
+        [
+            "李国富",
+            "co-worker at Cube Community's night security team"
+        ]
+    ],
+    "王大哥": [
+        [
+            "五个姐姐",
+            "sister in law of x"
+        ],
+        [
+            "你",
+            "friend of x"
+        ],
+        [
+            "张洁",
+            "friend of x",
+            "colleague of x"
+        ],
+        [
+            "妻子",
+            "wife of x"
+        ],
+        [
+            "记者",
+            "neighbor of x"
+        ],
+        [
+            "妈妈",
+            "friend of x"
+        ],
+        [
+            "姑娘",
+            "friend of x"
+        ],
+        [
+            "爸爸",
+            "friend of x"
+        ],
+        [
+            "何老六",
+            "information receiver from x"
+        ],
+        [
+            "警察",
+            "friend of"
+        ],
+        [
+            "父亲",
+            "son of x"
+        ],
+        [
+            "王邻居",
+            "neighbor of 王邻居"
+        ],
+        [
+            "慕北",
+            "friend of x"
+        ],
+        [
+            "李国富",
+            "friend of x, debtor of x"
+        ]
+    ],
+    "警察": [
+        [
+            "五个姐姐",
+            "suspicious of x"
+        ],
+        [
+            "你",
+            "informant of x"
+        ],
+        [
+            "张洁",
+            "acquaintance of x"
+        ],
+        [
+            "妻子",
+            "husband of x"
+        ],
+        [
+            "记者",
+            "informant of x",
+            "information receiver from x",
+            "suspected by x"
+        ],
+        [
+            "妈妈",
+            "helper of x"
+        ],
+        [
+            "姑娘",
+            "helper of x"
+        ],
+        [
+            "爸爸",
+            "ex-colleague of x"
+        ],
+        [
+            "何老六",
+            "suspect of x"
+        ],
+        [
+            "王大哥",
+            "friend of"
+        ],
+        [
+            "父亲",
+            "suspected by x"
+        ],
+        [
+            "王邻居",
+            "informant of x"
+        ],
+        [
+            "慕北",
+            "stranger to x",
+            "work colleague of x"
+        ],
+        [
+            "李国富",
+            "helper of x",
+            "manipulated by x"
+        ]
+    ],
+    "父亲": [
+        [
+            "五个姐姐",
+            "father of x"
+        ],
+        [
+            "child of x"
+        ],
+        [
+            "father of 张洁"
+        ],
+        [
+            "妻子",
+            "father of x"
+        ],
+        [
+            "记者",
+            "father of x"
+        ],
+        [
+            "妈妈",
+            "parent of x"
+        ],
+        [
+            "姑娘",
+            "father of x"
+        ],
+        [
+            "爸爸",
+            "child of x"
+        ],
+        [
+            "何老六",
+            "father of x"
+        ],
+        [
+            "王大哥",
+            "father of x"
+        ],
+        [
+            "警察",
+            "suspect of x"
+        ],
+        [
+            "王邻居",
+            "neighbour of"
+        ],
+        [
+            "慕北",
+            "romantic relationships with x"
+        ],
+        [
+            "李国富",
+            "extramarital affair with x"
+        ]
+    ],
+    "王邻居": [
+        [
+            "五个姐姐",
+            "neighbor of x"
+        ],
+        [
+            "你",
+            "neighbor of x"
+        ],
+        [
+            "张洁",
+            "acquaintance of 王邻居",
+            "neighbor of 王邻居"
+        ],
+        [
+            "妻子",
+            "wife of x"
+        ],
+        [
+            "记者",
+            "neighbor of x"
+        ],
+        [
+            "妈妈",
+            "neighbour of x"
+        ],
+        [
+            "姑娘",
+            "neighbour of x"
+        ],
+        [
+            "爸爸",
+            "neighbor of x"
+        ],
+        [
+            "王大哥",
+            "neighbor of 王大哥"
+        ],
+        [
+            "警察",
+            "information receiver from x"
+        ],
+        [
+            "父亲",
+            "neighbour of"
+        ],
+        [
+            "慕北",
+            "neighbour of x"
+        ],
+        [
+            "李国富",
+            "neighbour of x",
+            "possibly family of x"
+        ]
+    ],
+    "慕北": [
+        [
+            "五个姐姐",
+            "sibling of"
+        ],
+        [
+            "你",
+            "同事 of x",
+            "murdered by x"
+        ],
+        [
+            "你",
+            "同事"
+        ],
+        [
+            "张洁",
+            "colleague of x"
+        ],
+        [
+            "妻子",
+            "husband of x"
+        ],
+        [
+            "记者",
+            "acquaintance of"
+        ],
+        [
+            "妈妈",
+            "saviour of x",
+            "seeker of help from x"
+        ],
+        [
+            "姑娘",
+            "stranger to x",
+            "helper of x"
+        ],
+        [
+            "爸爸",
+            "friend of x",
+            "same person as x (different reference)"
+        ],
+        [
+            "何老六",
+            "acquaintance of x"
+        ],
+        [
+            "王大哥",
+            "friend of x"
+        ],
+        [
+            "警察",
+            "stranger to x",
+            "work colleague of x"
+        ],
+        [
+            "父亲",
+            "romantic relationships with x"
+        ],
+        [
+            "王邻居",
+            "neighbour of x"
+        ],
+        [
+            "李国富",
+            "fiance of x"
+        ]
+    ],
+    "李国富": [
+        [
+            "五个姐姐",
+            "sibling of"
+        ],
+        [
+            "你",
+            "co-worker of x"
+        ],
+        [
+            "张洁",
+            "romantic relationships with x"
+        ],
+        [
+            "妻子",
+            "wife of x"
+        ],
+        [
+            "记者",
+            "employee of 记者",
+            "possible informant of 记者"
+        ],
+        [
+            "妈妈",
+            "friend of x, co-worker of x"
+        ],
+        [
+            "姑娘",
+            "fiancee of x"
+        ],
+        [
+            "爸爸",
+            "son in law of x",
+            "guest of x"
+        ],
+        [
+            "何老六",
+            "co-worker at Cube Community's night security team"
+        ],
+        [
+            "王大哥",
+            "friend of x, creditor of x"
+        ],
+        [
+            "警察",
+            "manipulator of x",
+            "manipulated by x"
+        ],
+        [
+            "父亲",
+            "extramarital affair with x"
+        ],
+        [
+            "王邻居",
+            "neighbour of x",
+            "possibly family of x"
+        ],
+        [
+            "慕北",
+            "fiancee of x"
+        ]
+    ]
+}

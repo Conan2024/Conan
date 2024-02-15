@@ -1,0 +1,22 @@
+{
+    "萧体育": [
+      ["薛媚娘", "girlfriend of x"], 
+      ["庄清纯", "secret lover of x, victim of x, helped by x, liked by x, suspected by x"], 
+      ["贾美丽", "victim of x, blackmailed by x, enemy of x"]
+    ],
+    "薛媚娘": [
+      ["萧体育", "boyfriend of x"], 
+      ["庄清纯", "jealous of x, victim of x, love rival of x"], 
+      ["贾美丽", "acquaintance of x"]
+    ],
+    "庄清纯": [
+      ["萧体育", "secret lover of x, admirer of x, helper of x, suspect to x"], 
+      ["薛媚娘", "lover of x, victim of x"], 
+      ["贾美丽", "helper of x, helped by x, suspect to x, schoolmate of x, roommate of x"]
+    ],
+    "贾美丽": [
+      ["萧体育", "blackmailer of x, adversary of x"], 
+      ["薛媚娘", "acquaintance of x"], 
+      ["庄清纯", "helped by x, suspect of x, schoolmate of x, roommate of x"]
+    ]
+}

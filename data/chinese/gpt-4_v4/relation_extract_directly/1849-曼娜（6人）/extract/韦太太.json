@@ -1,0 +1,80 @@
+{
+    "吕采茜": [
+      ["吕守本", "father of x"], 
+      ["李氏", "mother of x"], 
+      ["吕名然", "same person as x (different identity), sibling of x"], 
+      ["明纱", "friend of x"], 
+      ["罗亨理", "employer of x, acquaintance of x"], 
+      ["谭仁昌", "acquaintance of x, relative of x, secret lover of x"], 
+      ["欣雅", "acquaintance of x"], 
+      ["韦洋遥", "husband of x"], 
+      ["海悠", "acquaintance of x, step daughter of x"], 
+      ["尚致", "acquaintance of x"], 
+      ["阿萍", "acquaintance of x"]
+    ],
+    "韦洋遥": [
+      ["吕采茜", "wife of x"], 
+      ["海悠", "adoptive daughter of x"], 
+      ["谭仁昌", "acquaintance of x"], 
+      ["明纱", "acquaintance of x"]
+    ],
+    "海悠": [
+      ["韦洋遥", "relative of x"], 
+      ["吕采茜", "step mother of x"], 
+      ["明纱", "adoptive mother of x"]
+    ],
+    "尚致": [
+      ["谭仁昌", "nephew of x"], 
+      ["吕名然", "mentor of x"]
+    ],
+    "明纱": [
+      ["谭仁昌", "wife of x"], 
+      ["吕采茜", "friend of x"], 
+      ["罗亨理", "same person as x (different identity), sibling of x"], 
+      ["欣雅", "servant of x"], 
+      ["海悠", "adoptive daughter of x"]
+    ],
+    "罗亨理": [
+      ["明纱", "same person as x (different identity), sister of x"], 
+      ["吕守本", "subordinate of x"], 
+      ["吕采茜", "employer of x"], 
+      ["谭仁昌", "business partner of x"], 
+      ["尚致", "acquaintance of x"]
+    ],
+    "谭仁昌": [
+      ["明纱", "husband of x"], 
+      ["吕采茜", "acquaintance of x, secret lover of x"], 
+      ["罗亨理", "business partner of x"], 
+      ["尚致", "uncle of x"], 
+      ["韦洋遥", "acquaintance of x"]
+    ],
+    "吕名然": [
+      ["吕采茜", "same person as x (different identity), sister of x"], 
+      ["吕守本", "father of x"], 
+      ["李氏", "mother of x"], 
+      ["尚致", "mentor of x"]
+    ],
+    "阿萍": [
+      ["明纱", "servant of x"], 
+      ["吕采茜", "acquaintance of x"]
+    ],
+    "廖公子": [
+      ["明纱", "acquaintance of x"], 
+      ["韦洋遥", "acquaintance of x"]
+    ],
+    "吕守本": [
+      ["吕采茜", "father of x"], 
+      ["李氏", "husband of x"], 
+      ["吕名然", "father of x"], 
+      ["罗亨理", "subordinate of x"]
+    ],
+    "李氏": [
+      ["吕采茜", "mother of x"], 
+      ["吕名然", "mother of x"], 
+      ["吕守本", "wife of x"]
+    ],
+    "欣雅": [
+      ["明纱", "servant of x"], 
+      ["吕采茜", "acquaintance of x"]
+    ]
+}

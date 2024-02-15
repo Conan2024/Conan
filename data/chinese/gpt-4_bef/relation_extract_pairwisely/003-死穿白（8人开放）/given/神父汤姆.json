@@ -1,0 +1,32 @@
+{
+    "神父汤姆": [
+      ["德雷克·里莫瑞特", "patient of x, information receiver from x"], 
+      ["托尼", "deceiver of x, saviour of x"], 
+      ["弗兰克", "manipulator of x, helper of x, employer of x, information receiver from x, deceiver of x"], 
+      ["帕洛斯基医生", "acquaintance of x, information receiver from x, helper of x, quest companion of x"]
+    ],
+    "德雷克·里莫瑞特": [
+      ["神父汤姆", "doctor of x"], 
+      ["托尼", "doctor of x"], 
+      ["弗兰克", "doctor of x, information receiver from x"], 
+      ["牧师汤姆", "doctor of x, information receiver from x"]
+    ],
+    "托尼": [
+      ["神父汤姆", "deceived by x, admirer of x"], 
+      ["德雷克·里莫瑞特", "patient of x"], 
+      ["弗兰克", "brother of x, helper of x, information receiver from x"], 
+      ["帕洛斯基医生", "patient of x, possibly family of x"]
+    ],
+    "弗兰克": [
+      ["神父汤姆", "helped by x, employee of x, deceived by x"], 
+      ["德雷克·里莫瑞特", "patient of x, helped by x, deceiver of x"], 
+      ["托尼", "brother of x, helped by x, informant of x"], 
+      ["你（角色名）", "helper of x, quest companion of x"]
+    ],
+    "帕洛斯基医生": [
+      ["神父汤姆", "informant of x, helped by x, customer of x"], 
+      ["牧师汤姆", "acquaintance of x"], 
+      ["托尼", "doctor of x, victim of x"], 
+      ["你（角色名）", "information receiver from x, patient of x"]
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "汪昔颜": [
+      ["汪舜明", "father of x"], 
+      ["昔容", "sibling of x"], 
+      ["崔寿亨", "brother in law of x, husband of x"], 
+      ["周蒙当", "acquaintance of x, ex romantic relationships with x"], 
+      ["宝柑", "servant of x, co wives of x, step daughter of x"], 
+      ["宝柳", "dislike of x"], 
+      ["周持同", "acquaintance of x"], 
+      ["琏逸", "nephew of x"], 
+      ["嫣楠", "niece of x, step daughter of x"], 
+      ["福叔", "servant of x"], 
+      ["宿年", "acquaintance of x"]
+    ],
+    "昔容": [
+      ["汪舜明", "daughter of x"], 
+      ["汪昔颜", "sibling of x"], 
+      ["崔寿亨", "husband of x"], 
+      ["宝柑", "servant of x"], 
+      ["嫣楠", "daughter of x"]
+    ],
+    "崔寿亨": [
+      ["昔容", "wife of x"], 
+      ["汪昔颜", "sister in law of x, wife of x"], 
+      ["宝柑", "servant of x, concubine of x"], 
+      ["宝柳", "daughter in law of x"], 
+      ["周持同", "acquaintance of x"], 
+      ["嫣楠", "daughter of x"], 
+      ["周蒙当", "business partner of x"]
+    ],
+    "宝柑": [
+      ["崔寿亨", "master of x, husband of x"], 
+      ["汪昔颜", "servant of x, co wives of x, mother in law of x"], 
+      ["昔容", "servant of x"], 
+      ["嫣楠", "niece of x"]
+    ],
+    "宝柳": [
+      ["周蒙当", "husband of x"], 
+      ["汪昔颜", "acquaintance of x, dislike of x"], 
+      ["崔寿亨", "daughter in law of x"], 
+      ["琏逸", "son of x"]
+    ],
+    "周蒙当": [
+      ["宝柳", "wife of x"], 
+      ["周持同", "sibling of x"], 
+      ["琏逸", "father of x"], 
+      ["汪昔颜", "acquaintance of x, ex romantic relationships with x"], 
+      ["崔寿亨", "business partner of x"]
+    ],
+    "周持同": [
+      ["周蒙当", "sibling of x"]
+    ],
+    "琏逸": [
+      ["宝柳", "mother of x"], 
+      ["周蒙当", "father of x"]
+    ],
+    "嫣楠": [
+      ["昔容", "mother of x"], 
+      ["崔寿亨", "father of x"], 
+      ["汪昔颜", "aunt of x, step mother of x"], 
+      ["宝柑", "step mother of x"]
+    ],
+    "福叔": [
+      ["崔寿亨", "servant of x"], 
+      ["汪昔颜", "servant of x"], 
+      ["嫣楠", "servant of x"]
+    ],
+    "宿年": [
+      ["周持同", "acquaintance of x"], 
+      ["汪昔颜", "acquaintance of x"]
+    ]
+}

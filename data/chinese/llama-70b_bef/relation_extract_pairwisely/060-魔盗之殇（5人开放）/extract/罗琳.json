@@ -1,0 +1,34 @@
+{
+    "剧团宣传工作的员工": [
+      ["现在的剧务戴维", "friend of x"], 
+      ["助手艾拉", "acquaintance of x, colleague of x"], 
+      ["保安凯文", "acquaintance of x, colleague of x"], 
+      ["后勤格里夫", "colleague of x, friend of x"]
+    ],
+    "魔术师古思特": [
+      ["助手艾拉", "mentor of x, friend of x"], 
+      ["保安凯文", "mentor of x, friend of x"], 
+      ["后勤格里夫", "master of x, employer of x, manipulator of x"]
+    ],
+    "现在的剧务戴维": [
+      ["剧团宣传工作的员工", "friend of x"]
+    ],
+    "助手艾拉": [
+      ["剧团宣传工作的员工", "acquaintance of x, colleague of x"], 
+      ["魔术师古思特", "mentor of x, friend of x"], 
+      ["保安凯文", "friend of x, colleague of x"], 
+      ["后勤格里夫", "friend of x, acquaintance of x"]
+    ],
+    "保安凯文": [
+      ["剧团宣传工作的员工", "acquaintance of x, colleague of x"], 
+      ["魔术师古思特", "mentor of x, friend of x"], 
+      ["助手艾拉", "friend of x, colleague of x"], 
+      ["后勤格里夫", "friend of x, colleague of x"]
+    ],
+    "后勤格里夫": [
+      ["剧团宣传工作的员工", "colleague of x, friend of x"], 
+      ["魔术师古思特", "master of x, employer of x, manipulated by x"], 
+      ["助手艾拉", "friend of x, acquaintance of x"], 
+      ["保安凯文", "friend of x, colleague of x"]
+    ]
+}

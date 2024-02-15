@@ -1,0 +1,39 @@
+{
+    "雪焉": [
+      ["招楠", "colleague of x, friend of x"], 
+      ["望娣", "sister of x, colleague of x, friend of x"], 
+      ["阮有诺", "brother of x, friend of x, student of x"]
+    ],
+    "招楠": [
+      ["雪焉", "colleague of x, friend of x"], 
+      ["望娣", "sister of x, colleague of x, friend of x"], 
+      ["阮有诺", "brother of x, friend of x, student of x"]
+    ],
+    "望娣": [
+      ["雪焉", "sister of x, colleague of x, friend of x"], 
+      ["招楠", "colleague of x, friend of x"], 
+      ["阮有诺", "brother of x, friend of x, student of x"]
+    ],
+    "阮太太": [
+      ["阮有诺", "brother of x, friend of x, student of x"]
+    ],
+    "阮有诺": [
+      ["雪焉", "brother of x, friend of x, student of x"], 
+      ["招楠", "brother of x, friend of x"]
+    ],
+    "贵郎": [
+      ["招楠", "student of x"], 
+      ["望娣", "student of x"], 
+      ["阮太太", "mother of x"]
+    ],
+    "黑莉": [
+      ["招楠", "classmate of x, friend of x"], 
+      ["望娣", "classmate of x, friend of x"], 
+      ["阮太太", "classmate of x, friend of x"]
+    ],
+    "齐故飞": [
+      ["招楠", "classmate of x, friend of x"], 
+      ["望娣", "classmate of x, friend of x"], 
+      ["阮太太", "classmate of x, friend of x"]
+    ]
+}

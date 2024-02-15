@@ -1,0 +1,58 @@
+{
+    "帕尔尼奥": [
+        [
+            "瓦伦",
+            "romantic relationships with x, admirer of x"
+        ],
+        [
+            "格里斯",
+            "accomplice of x, crime partner of x"
+        ],
+        [
+            "迪克",
+            "victim of x, husband of x's romantic interest"
+        ]
+    ],
+    "瓦伦": [
+        [
+            "帕尔尼奥",
+            "admired by x"
+        ],
+        [
+            "格里斯",
+            "stranger to x"
+        ],
+        [
+            "迪克",
+            "wife of x"
+        ]
+    ],
+    "格里斯": [
+        [
+            "帕尔尼奥",
+            "accomplice of x, crime partner of x"
+        ],
+        [
+            "迪克",
+            "victim of x"
+        ],
+        [
+            "瓦伦",
+            "stranger to x"
+        ]
+    ],
+    "迪克": [
+        [
+            "瓦伦",
+            "husband of x"
+        ],
+        [
+            "帕尔尼奥",
+            "murderer of x, rival of x"
+        ],
+        [
+            "格里斯",
+            "murderer of x, accomplice of x's murderer"
+        ]
+    ]
+}

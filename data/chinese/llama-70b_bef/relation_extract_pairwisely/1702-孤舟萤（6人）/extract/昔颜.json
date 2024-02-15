@@ -1,0 +1,69 @@
+{
+    "昔颜": [
+      ["姐姐", "sibling of x"], 
+      ["宝柑", "sister of x, servant of x, mother of x, enemy of x"], 
+      ["嫣楠", "sister in law of x, adoptive mother of x, cousin of x, aunt of x"]
+    ],
+    "姐姐": [
+      ["昔颜", "sibling of x"], 
+      ["周蒙当", "husband of x, friend of x, acquaintance of x"], 
+      ["宝柑", "co wives of x"], 
+      ["宝柳", "co wives of x"], 
+      ["琏逸", "sister in law of x, friend of x"], 
+      ["嫣楠", "sister in law of x, fiancee of x"], 
+      ["郎中", "husband of x, father in law of x, servant of x, sister in law of x, nephew of x"]
+    ],
+    "崔寿亨": [
+      ["周蒙当", "brother in law of x"], 
+      ["琏逸", "master of x, mentor of x, friend of x"]
+    ],
+    "周蒙当": [
+      ["姐姐", "wife of x, friend of x, acquaintance of x"], 
+      ["崔寿亨", "brother in law of x"], 
+      ["宝柑", "friend of x"], 
+      ["宝柳", "husband of x, lover of x"], 
+      ["嫣楠", "husband of x"], 
+      ["郎中", "husband of x, father of x"]
+    ],
+    "宝柑": [
+      ["昔颜", "sister of x, wife of x, mother of x, enemy of x"], 
+      ["姐姐", "co wives of x"], 
+      ["周蒙当", "friend of x"], 
+      ["琏逸", "servant of x"], 
+      ["嫣楠", "niece of x, jealous of x"], 
+      ["河嫂", "sister in law of x"]
+    ],
+    "宝柳": [
+      ["姐姐", "co wives of x"], 
+      ["周蒙当", "wife of x, lover of x"], 
+      ["琏逸", "sister in law of x"], 
+      ["河嫂", "sister in law of x"], 
+      ["郎中", "wife of x, servant of x, friend of x"]
+    ],
+    "琏逸": [
+      ["姐姐", "sister in law of x, friend of x"], 
+      ["崔寿享", "father of x, servant of x, friend of x"], 
+      ["宝柑", "master of x"], 
+      ["河嫂", "son of x, nephew of x, cousin of x"]
+    ],
+    "嫣楠": [
+      ["昔颜", "sister in law of x, adoptive mother of x, cousin of x, aunt of x"], 
+      ["姐姐", "sister in law of x, fiance of x"], 
+      ["周蒙当", "wife of x"], 
+      ["宝柑", "helper of x"], 
+      ["河嫂", "sister in law of x, husband of x"]
+    ],
+    "河嫂": [
+      ["宝柑", "sister in law of x"], 
+      ["宝柳", "sister in law of x"], 
+      ["琏逸", "son of x, nephew of x, cousin of x, master of x"], 
+      ["嫣楠", "sister in law of x, husband of x"], 
+      ["郎中", "friend of x"]
+    ],
+    "郎中": [
+      ["姐姐", "wife of x, father in law of x, servant of x, sister in law of x, nephew of x"], 
+      ["周蒙当", "wife of x, mother of x"], 
+      ["宝柳", "husband of x, friend of x, friend of x"], 
+      ["河嫂", "friend of x"]
+    ]
+}

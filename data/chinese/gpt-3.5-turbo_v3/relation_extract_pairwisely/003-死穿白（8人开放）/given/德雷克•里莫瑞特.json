@@ -1,0 +1,84 @@
+{
+    "汉斯·里莫瑞特": [
+        [
+            "盖尔·里莫瑞特",
+            "brother of x"
+        ],
+        [
+            "西尔维娅·科斯塔",
+            "wife of x"
+        ],
+        [
+            "帕洛斯基医生",
+            "doctor of x"
+        ],
+        [
+            "理查德·伯克利",
+            "mentor of x"
+        ]
+    ],
+    "盖尔·里莫瑞特": [
+        [
+            "汉斯·里莫瑞特",
+            "brother of x"
+        ],
+        [
+            "西尔维娅·科斯塔",
+            "mentor of x, admirer of x"
+        ],
+        [
+            "帕洛斯基医生",
+            "father in law of x"
+        ],
+        [
+            "理查德·伯克利",
+            "father of x"
+        ]
+    ],
+    "西尔维娅·科斯塔": [
+        [
+            "汉斯·里莫瑞特",
+            "husband of x"
+        ],
+        [
+            "盖尔·里莫瑞特",
+            "student of x, admired by x"
+        ],
+        [
+            "帕洛斯基医生",
+            "mentor of x"
+        ],
+        [
+            "理查德·伯克利",
+            "mentor of x"
+        ]
+    ],
+    "帕洛斯基医生": [
+        [
+            "汉斯·里莫瑞特",
+            "patient of x"
+        ],
+        [
+            "西尔维娅·科斯塔",
+            "student of x"
+        ],
+        [
+            "理查德·伯克利",
+            "mentor of x"
+        ]
+    ],
+    "理查德·伯克利": [
+        [
+            "汉斯·里莫瑞特",
+            "student of x"
+        ],
+        [
+            "西尔维娅·科斯塔",
+            "student of x"
+        ],
+        [
+            "帕洛斯基医生",
+            "student of x"
+        ]
+    ]
+}

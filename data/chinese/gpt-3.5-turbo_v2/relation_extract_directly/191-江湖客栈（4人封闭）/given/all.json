@@ -1,0 +1,54 @@
+{
+    "张红生": [
+      ["孟三春", "husband of x, romantic relationships with x"], 
+      ["洪江水", "friend of x"], 
+      ["蔡思娘", "ex romantic relationships with x"], 
+      ["洪长烈", "father of x"], 
+      ["张金银", "ex wife of x 张金山, romantic relationships with x"], 
+      ["张金山", "victim of x, brother of x 张金银"], 
+      ["洪三妹", "same person as x (different identity)"], 
+      ["洪二郎", "same person as x (different identity)"], 
+      ["洪寨主", "superior of x"], 
+      ["孟三春", "husband of x, romantic relationships with x, perpetrator of x 张金山, attempted murderer of x, victim of x"], 
+      ["张金银", "ex wife of x 张金山, romantic relationships with x"], 
+      ["洪江水", "friend of x"], 
+      ["蔡思娘", "ex romantic relationships with x, fondness of x"], 
+      ["洪长烈", "father of x"], 
+      ["张金山", "victim of x, brother of x 张金银"], 
+      ["张红生", "linked_character of x, romantic relationships with 孟三春 of x"]
+    ],
+    "孟三春": [
+      ["张红生", "wife of x, romantic relationships with x"], 
+      ["张红生", "wife of x, romantic relationships with x"], 
+      ["张金山", "perpetrator of x, attempted murderer of x 张红生, victim of x 张红生"], 
+      ["张红生", "husband of x, romantic relationships with x, perpetrator of x 张金山, attempted murderer of x, victim of x"]
+    ],
+    "洪江水": [
+      ["张红生", "friend of x"]
+    ],
+    "蔡思娘": [
+      ["张红生", "ex romantic relationships with x, fondness of x"]
+    ],
+    "洪长烈": [
+      ["张红生", "father of x"]
+    ],
+    "张金银": [
+      ["张红生", "ex wife of x 张金山, romantic relationships with x"], 
+      ["张红生", "ex wife of x 张金山, romantic relationships with x"], 
+      ["张金山", "brother of x"]
+    ],
+    "张金山": [
+      ["张红生", "victim of x, brother of x 张金银"], 
+      ["孟三春", "perpetrator of x, attempted murderer of x 张红生, victim of x 张红生"], 
+      ["张金银", "brother of x"]
+    ],
+    "洪三妹": [
+      ["张红生", "same person as x (different identity)"]
+    ],
+    "洪二郎": [
+      ["张红生", "same person as x (different identity)"]
+    ],
+    "洪寨主": [
+      ["张红生", "superior of x"]
+    ]
+}

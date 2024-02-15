@@ -1,0 +1,26 @@
+{
+    "顾晴": [
+      ["林夕", "friend of x, lover of x"], 
+      ["林阳", "brother of x, lover of x"], 
+      ["顾宇", "friend of x"]
+    ],
+    "林夕": [
+      ["顾晴", "friend of x, lover of x"], 
+      ["林阳", "brother of x"], 
+      ["顾宇", "friend of x"]
+    ],
+    "林阳": [
+      ["顾晴", "brother of x, lover of x"]
+    ],
+    "苏阳": [
+      ["顾宇", "friend of x"]
+    ],
+    "顾宇": [
+      ["顾晴", "friend of x"], 
+      ["林夕", "friend of x"]
+    ],
+    "林彤": [
+      ["顾晴", "friend of x"], 
+      ["林夕", "friend of x"]
+    ]
+}

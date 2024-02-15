@@ -1,0 +1,160 @@
+{
+    "乔•罗伯特森": [
+        [
+            "艾米•摩根",
+            "Friend/Acquaintance"
+        ],
+        [
+            "露西•哈里森",
+            "同事",
+            "朋友",
+            "嫌疑人"
+        ]
+    ],
+    "艾미•摩根": [
+        [
+            "乔•罗伯特森",
+            "Friend/Acquaintance"
+        ]
+    ],
+    "露西•哈里森": [
+        [
+            "乔•罗伯特森",
+            "同事",
+            "朋友",
+            "嫌疑人"
+        ],
+        [
+            "麦克斯•派克",
+            "acquaintance, colleague"
+        ],
+        [
+            "丹尼尔•佩里",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "约翰•摩根",
+            "wife of X",
+            "涉及的人"
+        ],
+        [
+            "乔纳森•佩里",
+            "同事",
+            "朋友",
+            "合谋者"
+        ]
+    ],
+    "麦克斯•派克": [
+        [
+            "丹尼尔•佩里",
+            "同事, 朋友, 合作伙伴, 谋杀者"
+        ],
+        [
+            "约翰•摩根",
+            "Acquaintance, Deceiver"
+        ],
+        [
+            "艾米•摩根",
+            "acquaintance, colleague"
+        ],
+        [
+            "露西•哈里森",
+            "acquaintance, colleague"
+        ],
+        [
+            "乔纳森•佩里",
+            "朋友",
+            "合谋者"
+        ]
+    ],
+    "丹尼尔•佩里": [
+        [
+            "麦克斯•派克",
+            "同事, 朋友, 合作伙伴, 谋杀者"
+        ],
+        [
+            "约翰•摩根",
+            "acquaintance",
+            "business partner",
+            "suspect"
+        ],
+        [
+            "艾米•摩根",
+            "Acquaintance"
+        ],
+        [
+            "露西•哈里森",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "乔纳森•佩里",
+            "Friend",
+            "Acquaintance"
+        ]
+    ],
+    "约翰•摩根": [
+        [
+            "麦克斯•派克",
+            "Acquaintance, Deceived"
+        ],
+        [
+            "丹尼尔•佩里",
+            "acquaintance",
+            "business partner",
+            "suspect"
+        ],
+        [
+            "艾米•摩根",
+            " Husband of X (different identity)",
+            "killed by X"
+        ],
+        [
+            "露西•哈里森",
+            "husband of X",
+            "受害人"
+        ],
+        [
+            "乔纳森•佩里",
+            "friend"
+        ]
+    ],
+    "艾米•摩根": [
+        [
+            "麦克斯•派克",
+            "colleague, potential love interest"
+        ],
+        [
+            "丹尼尔•佩里",
+            "Acquaintance"
+        ],
+        [
+            "约翰•摩根",
+            " Wife of X (different reference)",
+            "Victim of X"
+        ]
+    ],
+    "乔纳森•佩里": [
+        [
+            "麦克斯•派克",
+            "朋友",
+            "合谋者"
+        ],
+        [
+            "丹尼尔•佩里",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "约翰•摩根",
+            "friend"
+        ],
+        [
+            "露西•哈里森",
+            "同事",
+            "朋友",
+            "合谋者"
+        ]
+    ]
+}

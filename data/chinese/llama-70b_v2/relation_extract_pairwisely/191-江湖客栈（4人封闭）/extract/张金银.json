@@ -1,0 +1,37 @@
+{
+    "张金银": [
+      ["洪长烈", "兄弟 of x, 敌人 of x, 嫉敌 of x, old friend of x, 合伙 of x, 雇佣人 of x, 邻居 of x, 追求者 of x, 赏金 of x, 亲朋 of x"], 
+      ["张金山", "兄弟 of x, 义兄弟 of x, 投机 of x, 老友 of x, 师徒 of x"], 
+      ["洪江水", "兄弟/兄妹 of x, 朋友/亲友 of x, 搭档/partner of x, 师徒/导师 of x, 舅舅/姐妹 of x"]
+    ],
+    "洪长烈": [
+      ["张金银", "兄弟 of x, 敌人 of x, 嫉敌 of x, old friend of x, 合伙 of x, 雇佣人 of x, 邻居 of x, 追求者 of x, 赏金 of x, 亲朋 of x"], 
+      ["张金山", "leader of x, killer of x, strained relationship of x"], 
+      ["洪江水", "older brother of x, mentor of x, teacher of x, employer of x, superior of x, subordinate of x, employee of x, servant of x, prisoner of x"], 
+      ["蔡思娘", "husband of x, father of x, older brother of x, cousin of x, friend of x, mentor of x, teacher of x, employer of x, servant of x, enemy of x"]
+    ],
+    "张金山": [
+      ["张金银", "兄弟 of x, 义兄弟 of x, 投机 of x, 老友 of x, 师徒 of x"], 
+      ["洪长烈", "leader of x, killer of x, strained relationship of x"], 
+      ["洪家寨少寨主", "对手 of x, 敌人 of x, 协商 of x, 帮手 of x, 朋友 of x"]
+    ],
+    "洪江水": [
+      ["张金银", "兄弟/兄妹 of x, 朋友/亲友 of x, 搭档/partner of x, 师徒/导师 of x, 舅舅/姐妹 of x"], 
+      ["孟三春", "brother of x, mentee of x, rival of x, friend of x, colleague of x"], 
+      ["洪长烈", "older brother of x, mentor of x, teacher of x, employer of x, superior of x, subordinate of x, employee of x, servant of x, prisoner of x"]
+    ],
+    "蔡思娘": [
+      ["张金银", "boss of x, assistant of x, brother of x, sister in law of x, niece of x, uncle of x, protected of x, protector of x, friend of x, friend of x, apprentice of x, mentor of x"], 
+      ["洪长烈", "husband of x, father of x, older brother of x, cousin of x, friend of x, mentor of x, teacher of x, employer of x, servant of x, enemy of x"], 
+      ["洪家寨少寨主", "sister of x, daughter of x, adopted daughter of x, concubine of x, mistress of x"]
+    ],
+    "孟三春": [
+      ["洪江水", "brother of x, mentor of x, rival of x, friend of x, colleague of x"], 
+      ["洪家寨少寨主", "关系1 of x, 关系2 of x"]
+    ],
+    "洪家寨少寨主": [
+      ["孟三春", "关系1 of x, 关系2 of x"], 
+      ["张金山", "对手 of x, 敌人 of x, 协商 of x, 帮手 of x, 朋友 of x"], 
+      ["蔡思娘", "sister of x, daughter of x, adopted daughter of x, concubine of x, mistress of x"]
+    ]
+}

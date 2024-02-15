@@ -1,0 +1,32 @@
+{
+    "郭望山": [
+      ["赵万雷", "acquaintance of x, acquaintance of x"], 
+      ["任师父", "introduction of x, acquaintance of x"], 
+      ["廖老板", "stranger to x, acquaintance of x"], 
+      ["虞义辰", "same person as x (different identity), acquaintance of x"]
+    ],
+    "任师父": [
+      ["郭望山", "introduction of x, acquaintance of x"], 
+      ["赵万雷", "same person as x (different reference), acquaintance of x"], 
+      ["廖老板", "subordinate of x, employee of x"], 
+      ["虞义辰", "same person as x (different identity), acquaintance of x"]
+    ],
+    "廖老板": [
+      ["任师父", "subordinate of x, employee of x"], 
+      ["郭望山", "introduction of x, acquaintance of x"], 
+      ["赵万雷", "same person as x (different reference), acquaintance of x"], 
+      ["虞义辰", "same person as x (different identity), acquaintance of x"]
+    ],
+    "赵万雷": [
+      ["郭望山", "acquaintance of x, acquaintance of x"], 
+      ["任师父", "same person as x (different reference), acquaintance of x"], 
+      ["廖老板", "same person as x (different reference), acquaintance of x"], 
+      ["虞义辰", "same person as x (different identity), acquaintance of x"]
+    ],
+    "虞义辰": [
+      ["郭望山", "same person as x (different identity), acquaintance of x"], 
+      ["任师父", "same person as x (different reference), acquaintance of x"], 
+      ["廖老板", "same person as x (different reference), acquaintance of x"], 
+      ["赵万雷", "same person as x (different identity), acquaintance of x"]
+    ]
+}

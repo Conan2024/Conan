@@ -1,0 +1,135 @@
+{
+    "韦小弟": [
+      ["韦小弟的父亲", "son of x, biological son of x"], 
+      ["韦小弟的母亲", "son of x, biological son of x, information receiver from x"], 
+      ["秦专家", "enemy of x, deceiver of x, suspect to x, victim of x, student of x"], 
+      ["秦老大", "quest companion of x, manipulated by x, enemy of x, victim of x, suspect to x, murderer of x"], 
+      ["秦老大的一个跟班", "quest companion of x, colleague of x, acquaintance of x"], 
+      ["萧体育（体育老师）", "student of x"], 
+      ["薛媚娘（音乐老师）", "student of x"], 
+      ["庄清纯", "classmate of x, admirer of x"], 
+      ["贾美丽", "acquaintance of x, classmate of x"], 
+      ["郑友好", "classmate of x, quest companion of x, information receiver from x, superior of x"]
+    ],
+    "韦小弟的父亲": [
+      ["韦小弟", "father of x, biological father of x"], 
+      ["韦小弟的母亲", "husband of x"], 
+      ["秦专家", "victim of x, deceived by x"], 
+      ["秦老大", "victim of x"], 
+      ["秦老大的一个跟班", "enemy of x"], 
+      ["薛媚娘（音乐老师）", "acquaintance of x"], 
+      ["庄清纯", "acquaintance of x"]
+    ],
+    "韦小弟的母亲": [
+      ["韦小弟", "mother of x, biological mother of x, informant of x"], 
+      ["韦小弟的父亲", "wife of x"], 
+      ["秦专家", "victim of x"], 
+      ["秦老大", "enemy of x, x's enemy's family"], 
+      ["秦老大的一个跟班", "enemy of x, suspect to x"], 
+      ["萧体育（体育老师）", "teacher of x"], 
+      ["薛媚娘（音乐老师）", "acquaintance of x, possibly family of x"], 
+      ["庄清纯", "acquaintance of x"], 
+      ["贾美丽", "acquaintance of x"], 
+      ["郑友好", "acquaintance of x"]
+    ],
+    "秦专家": [
+      ["韦小弟", "enemy of x, deceived by x, suspect of x"], 
+      ["韦小弟的父亲", "perpetrator of x, deceiver of x"], 
+      ["韦小弟的母亲", "perpetrator of x"], 
+      ["秦老大", "father of x"], 
+      ["秦老大的一个跟班", "superior of x"], 
+      ["萧体育（体育老师）", "colleague of x"], 
+      ["薛媚娘（音乐老师）", "acquaintance of x"], 
+      ["庄清纯", "victim of x"], 
+      ["贾美丽", "suspected by x, romantic relationships with x"], 
+      ["郑友好", "helper of x, helped by x, victim of x, disliked by x"], 
+      ["穿黑衣的男生", "victim of x"]
+    ],
+    "秦老大": [
+      ["韦小弟", "quest companion of x, manipulator of x, victim of x, deceived by x"], 
+      ["韦小弟的父亲", "perpetrator of x"], 
+      ["韦小弟的母亲", "x's victim's family"], 
+      ["秦专家", "child of x"], 
+      ["秦老大的一个跟班", "superior of x, quest companion of x"], 
+      ["萧体育（体育老师）", "student of x"], 
+      ["薛媚娘（音乐老师）", "student of x"], 
+      ["庄清纯", "classmate of x, acquaintance of x"], 
+      ["贾美丽", "classmate of x, acquaintance of x"], 
+      ["郑友好", "perpetrator of x, superior of x"], 
+      ["穿黑衣的男生", "same person as x (different identity)"]
+    ],
+    "秦老大的一个跟班": [
+      ["韦小弟", "quest companion of x, colleague of x, acquaintance of x"], 
+      ["韦小弟的母亲", "enemy of x, suspected by x"], 
+      ["秦专家", "subordinate of x"], 
+      ["秦老大", "subordinate of x, quest companion of x"], 
+      ["萧体育（体育老师）", "student of x, acquaintance of x"], 
+      ["薛媚娘（音乐老师）", "student of x"], 
+      ["庄清纯", "acquaintance of x, classmate of x"], 
+      ["贾美丽", "acquaintance of x, classmate of x"], 
+      ["郑友好", "acquaintance of x, quest companion of x, superior of x, helped by x"], 
+      ["穿黑衣的男生", "acquaintance of x"]
+    ],
+    "萧体育（体育老师）": [
+      ["韦小弟", "teacher of x"], 
+      ["韦小弟的母亲", "student of x"], 
+      ["秦专家", "colleague of x"], 
+      ["秦老大", "teacher of x"], 
+      ["秦老大的一个跟班", "teacher of x"], 
+      ["薛媚娘（音乐老师）", "romantic relationships with x"], 
+      ["庄清纯", "colleague of x"], 
+      ["贾美丽", "acquaintance of x"], 
+      ["郑友好", "teacher of x"]
+    ],
+    "薛媚娘（音乐老师）": [
+      ["韦小弟", "teacher of x"], 
+      ["韦小弟的父亲", "acquaintance of x"], 
+      ["韦小弟的母亲", "acquaintance of x, possibly family of x"], 
+      ["秦专家", "acquaintance of x"], 
+      ["秦老大", "teacher of x"], 
+      ["秦老大的一个跟班", "teacher of x"], 
+      ["萧体育（体育老师）", "romantic relationships with x"], 
+      ["庄清纯", "teacher of x"], 
+      ["贾美丽", "acquaintance of x"], 
+      ["郑友好", "teacher of x"]
+    ],
+    "庄清纯": [
+      ["韦小弟", "classmate of x, admired by x"], 
+      ["秦专家", "child of x"], 
+      ["秦老大", "classmate of x, acquaintance of x"], 
+      ["秦老大的一个跟班", "acquaintance of x, classmate of x"], 
+      ["萧体育（体育老师）", "student of x"], 
+      ["薛媚娘（音乐老师）", "student of x"], 
+      ["贾美丽", "friend of x"], 
+      ["郑友好", "acquaintance of x, classmate of x"]
+    ],
+    "贾美丽": [
+      ["韦小弟", "acquaintance of x, classmate of x"], 
+      ["韦小弟的母亲", "acquaintance of x"], 
+      ["秦专家", "suspect of x, romantic relationships with x"], 
+      ["秦老大", "classmate of x, acquaintance of x"], 
+      ["秦老大的一个跟班", "acquaintance of x, classmate of x"], 
+      ["萧体育（体育老师）", "student of x"], 
+      ["薛媚娘（音乐老师）", "student of x"], 
+      ["庄清纯", "friend of x"], 
+      ["郑友好", "acquaintance of x, classmate of x"], 
+      ["穿黑衣的男生", "acquaintance of x, classmate of x"]
+    ],
+    "郑友好": [
+      ["韦小弟", "classmate of x, quest companion of x, informant of x, subordinate of x"], 
+      ["韦小弟的母亲", "acquaintance of x"], 
+      ["秦专家", "helper of x, helped by x, perpetrator of x"], 
+      ["秦老大", "victim of x, subordinate of x"], 
+      ["秦老大的一个跟班", "acquaintance of x, quest companion of x, subordinate of x, helper of x"], 
+      ["萧体育（体育老师）", "student of x"], 
+      ["薛媚娘（音乐老师）", "student of x"], 
+      ["庄清纯", "acquaintance of x, classmate of x"], 
+      ["贾美丽", "acquaintance of x, classmate of x"]
+    ],
+    "穿黑衣的男生": [
+      ["秦专家", "perpetrator of x"], 
+      ["秦老大", "same person as x (different identity)"], 
+      ["秦老大的一个跟班", "acquaintance of x"], 
+      ["贾美丽", "acquaintance of x, classmate of x"]
+    ]
+}

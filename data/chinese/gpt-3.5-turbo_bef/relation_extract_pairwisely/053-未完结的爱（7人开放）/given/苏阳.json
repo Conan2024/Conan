@@ -1,0 +1,68 @@
+{
+    "苏阳": [
+      ["林惟仁", "student of x, fiance of x"], 
+      ["林夕", "fiance of x"], 
+      ["林彤", "lover of x"], 
+      ["顾明和", "fiancee of x"], 
+      ["顾晴", "boyfriend of x, girlfriend of x"], 
+      ["沈城", "mentor of x, guard of x"]
+    ],
+    "林惟仁": [
+      ["苏阳", "teacher of x"], 
+      ["林夕", "father of x"], 
+      ["林彤", "father of x"], 
+      ["顾明和", "employer of x"], 
+      ["顾晴", "fiancee of x"], 
+      ["沈城", "nephew of x"]
+    ],
+    "林夕": [
+      ["苏阳", "fiancee of x"], 
+      ["林惟仁", "child of x"], 
+      ["林彤", "wife of x"], 
+      ["顾明和", "fiance of x"], 
+      ["顾晴", "romantic relationships with x"], 
+      ["顾宇", "romantic relationships with x, ex boyfriend of x"], 
+      ["沈城", "wife of x"]
+    ],
+    "林彤": [
+      ["苏阳", "lover of x"], 
+      ["苏阳", "ex girlfriend of x"], 
+      ["林惟仁", "daughter of x"], 
+      ["林夕", "husband of x"], 
+      ["顾明和", "lover of x, murderer of x"], 
+      ["顾晴", "ex girlfriend of x"], 
+      ["顾宇", "ex boyfriend of x"], 
+      ["沈城", "secret lover of x"]
+    ],
+    "顾明和": [
+      ["苏阳", "future father in law of x"], 
+      ["林惟仁", "employee of x"], 
+      ["林夕", "fiancee of x"], 
+      ["林彤", "secret lover of x"], 
+      ["顾晴", "girlfriend of x, ex boyfriend of x"], 
+      ["顾宇", "father in law of x, future father in law of x"], 
+      ["沈城", "landlord of x"]
+    ],
+    "顾晴": [
+      ["苏阳", "ex girlfriend of x"], 
+      ["林惟仁", "fiance of x"], 
+      ["林夕", "romantic relationships with x"], 
+      ["林彤", "ex boyfriend of x"], 
+      ["顾明和", "boyfriend of x, ex girlfriend of x"]
+    ],
+    "沈城": [
+      ["苏阳", "student of x"], 
+      ["林惟仁", "uncle of x"], 
+      ["林夕", "husband of x"], 
+      ["林彤", "secret lover of x"], 
+      ["顾明和", "tenant of x"], 
+      ["顾晴", "son in law of x"], 
+      ["顾宇", "fiance of x, boyfriend of x"]
+    ],
+    "顾宇": [
+      ["林夕", "romantic relationships with x, ex girlfriend of x"], 
+      ["林彤", "ex girlfriend of x"], 
+      ["顾明和", "boyfriend of x"], 
+      ["沈城", "helper of x, helped by x"]
+    ]
+}

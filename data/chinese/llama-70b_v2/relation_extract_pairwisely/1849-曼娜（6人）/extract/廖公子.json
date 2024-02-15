@@ -1,0 +1,22 @@
+{
+    "廖雪寒": [
+      ["廖一乔", "father daughter relationship of x"], 
+      ["茱丽", "biological mother of x, stepmother of x, adopted son of x, biological father of x, brother or sister of x, cousin of x, student of x, adopted son of x, nephew of x, friend of x"], 
+      ["海悠", "姐姐 of x, 张医师太太 of x"]
+    ],
+    "廖一乔": [
+      ["廖雪寒", "father daughter relationship of x"], 
+      ["茱丽", "father of x, employer of x, benefactor of x, acquaintance of x"], 
+      ["海悠", "姐姐 of x, 父亲 of x, 母亲 of x, 摆布 of x, 利用 of x, 分裂 of x"]
+    ],
+    "茱丽": [
+      ["廖雪寒", "biological mother of x, stepmother of x, adopted son of x, biological father of x, brother or sister of x, cousin of x, student of x, adopted son of x, nephew of x, friend of x"], 
+      ["廖一乔", "stepmother of x, employee of x, beneficiary of x, acquaintance of x"], 
+      ["海悠", "廖公子 of x, 罗亨利 of x, 吕名然 of x"]
+    ],
+    "海悠": [
+      ["廖雪寒", "孤儿院院长 of x, 孤儿院小孩 of x"], 
+      ["廖一乔", "姐姐 of x, 父亲 of x, 母亲 of x, 摆布 of x, 利用 of x, 分裂 of x"], 
+      ["茱丽", "廖公子 of x, 罗亨利 of x, 吕名然 of x"]
+    ]
+}

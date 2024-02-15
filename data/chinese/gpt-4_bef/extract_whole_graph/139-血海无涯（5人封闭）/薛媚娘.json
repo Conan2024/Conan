@@ -1,0 +1,45 @@
+{
+    "薛媚娘": [
+      ["中年女人", "saviour of x"], 
+      ["自己", "same person as x (different reference)"], 
+      ["萧体育", "boyfriend of x"], 
+      ["秦老大", "student of x, secret lover of x, manipulated by x"], 
+      ["秦专家", "future father in law of x, manipulated by x"], 
+      ["秦夫人", "future mother in law of x"], 
+      ["贾美丽", "student of x, manipulated by x, victim of x"]
+    ],
+    "中年女人": [
+      ["薛媚娘", "victim of x"], 
+      ["秦老大", "biological mother of x"]
+    ],
+    "萧体育": [
+      ["薛媚娘", "girlfriend of x"]
+    ],
+    "秦老大": [
+      ["薛媚娘", "teacher of x, secret lover of x, disliked by x"], 
+      ["秦专家", "son of x"], 
+      ["秦夫人", "step mother of x"], 
+      ["郑友好", "classmate of x"], 
+      ["韦小弟", "classmate of x"], 
+      ["贾美丽", "classmate of x"]
+    ],
+    "秦专家": [
+      ["薛媚娘", "manipulated by x"], 
+      ["秦老大", "father of x"], 
+      ["秦夫人", "husband of x"]
+    ],
+    "秦夫人": [
+      ["秦老大", "step mother of x"], 
+      ["秦专家", "wife of x"]
+    ],
+    "贾美丽": [
+      ["薛媚娘", "student of x, manipulated by x"], 
+      ["秦老大", "bully of x, suspect of x"]
+    ],
+    "郑友好": [
+      ["秦老大", "classmate of x"]
+    ],
+    "韦小弟": [
+      ["秦老大", "classmate of x"]
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "赵中正": [
+        [
+            "赵家族长",
+            "child of x"
+        ],
+        [
+            "赵中杨",
+            "same person as x (different identity), victim of x"
+        ],
+        [
+            "赵家",
+            "relative of x, possibly family of x"
+        ],
+        [
+            "李家",
+            "business partner of x, informant of x"
+        ],
+        [
+            "赵三",
+            "subordinate of x, friend of x, quest companion of x, manipulated by x"
+        ],
+        [
+            "陈媚儿",
+            "subordinate of x, deceiver of x"
+        ],
+        [
+            "李成",
+            "subordinate of x, manipulated by x"
+        ]
+    ],
+    "赵中杨": [
+        [
+            "赵中正",
+            "same person as x (different identity), attempted perpetrator of x"
+        ],
+        [
+            "陈媚儿",
+            "lover of x"
+        ],
+        [
+            "赵家族长",
+            "child of x"
+        ]
+    ],
+    "赵家族长": [
+        [
+            "赵中正",
+            "father of x"
+        ],
+        [
+            "赵中杨",
+            "father of x"
+        ]
+    ],
+    "赵三": [
+        [
+            "赵中正",
+            "superior of x, friend of x, quest companion of x"
+        ],
+        [
+            "赵中杨",
+            "attempted perpetrator of x"
+        ]
+    ],
+    "李成": [
+        [
+            "赵中正",
+            "superior of x"
+        ],
+        [
+            "赵中杨",
+            "subordinate of x, attempted perpetrator of x"
+        ]
+    ],
+    "陈媚儿": [
+        [
+            "赵中杨",
+            "subordinate of x, lover of x"
+        ],
+        [
+            "赵中正",
+            "subordinate of x, deceiver of x"
+        ]
+    ],
+    "赵家": [
+        [
+            "赵中正",
+            "relative of x"
+        ],
+        [
+            "赵中杨",
+            "relative of x"
+        ],
+        [
+            "赵家族长",
+            "superior of x"
+        ]
+    ],
+    "李家": [
+        [
+            "赵中正",
+            "business partner of x, informant of x"
+        ]
+    ]
+}

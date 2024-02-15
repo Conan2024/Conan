@@ -1,0 +1,70 @@
+{
+    "李氏": [
+      ["方叶", "sibling of x"], 
+      ["方眠", "sibling of x"], 
+      ["mother of 李氏", "x"], 
+      ["adopted boy from 方府", "possibly family of x, liked by x"], 
+      ["李仲", "son of x"], 
+      ["李延", "son of x, child of x 方竹"], 
+      ["李钦仁", "husband of x, enemy of x, attempted perpetrator of x, murderer of x 方府"], 
+      ["方竹", "loved by x, romantic relationships with x, biological father of x 李延"], 
+      ["陈倩", "daughter in law of x"], 
+      ["陈孜靖", "father in law of x 李仲, relative of x through marriage"]
+    ],
+    "方叶": [
+      ["方絮", "sibling of x"], 
+      ["方眠", "sibling of x"], 
+      ["mother of 方叶", "x"]
+    ],
+    "方眠": [
+      ["方絮", "sibling of x"], 
+      ["方叶", "sibling of x"], 
+      ["mother of 方眠", "x"]
+    ],
+    "adopted boy from 方府": [
+      ["方絮", "possibly family of x, liked by x"], 
+      ["方叶", "possibly family of x"], 
+      ["方眠", "possibly family of x"]
+    ],
+    "mother of 李氏": [
+      ["方叶", "child of x"], 
+      ["方眠", "child of x"], 
+      ["李氏", "child of mother of x"]
+    ],
+    "李仲": [
+      ["李延", "sibling of x"], 
+      ["李氏", "child of x"], 
+      ["李钦仁", "father of x"], 
+      ["陈倩", "fiancee of x"], 
+      ["李府", "home of x"]
+    ],
+    "李延": [
+      ["李仲", "sibling of x"], 
+      ["李氏", "child of x"], 
+      ["李钦仁", "same person as x (different identity), disliked by x"], 
+      ["方竹", "biological father of x"]
+    ],
+    "李钦仁": [
+      ["李仲", "father of x"], 
+      ["李延", "same person as x (different identity), disliked by x"], 
+      ["李氏", "husband of x, enemy of x, attempted perpetrator of x, murderer of x 方府"], 
+      ["李府", "master of x"], 
+      ["陈倩", "in law of x through 李仲's marriage"]
+    ],
+    "方竹": [
+      ["李延", "biological father of x"], 
+      ["李氏", "loved by x, romantic relationships with x"], 
+      ["李府", "acquaintance of x"]
+    ],
+    "陈倩": [
+      ["李仲", "fiancee of x"], 
+      ["李氏", "mother in law of x"], 
+      ["李钦仁", "father in law of x"], 
+      ["陈孜靖", "child of x"]
+    ],
+    "陈孜靖": [
+      ["陈倩", "father of x"], 
+      ["李仲", "future son in law of x"], 
+      ["李氏", "future relative of x through marriage"]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "德雷克•里莫瑞特": [
+      ["汉斯·里莫瑞特", "son of x, brother of x"], 
+      ["盖尔·里莫瑞特", "son of x, brother of x"], 
+      ["理查德·伯克利", "enemy of x, suspect of x"], 
+      ["帕洛斯基医生", "mentor of x, informant of x"], 
+      ["伊莱恩·卡特尔", "romantic relationships with x"], 
+      ["西尔维亚·科斯塔", "acquaintance of x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["德雷克•里莫瑞特", "father of x, husband of x"], 
+      ["盖尔·里莫瑞特", "brother of x"], 
+      ["伊莱恩·卡特尔", "romantic relationships with x"]
+    ],
+    "盖尔·里莫瑞特": [
+      ["德雷克•里莫瑞特", "father of x, husband of x"], 
+      ["汉斯·里莫瑞特", "brother of x"]
+    ],
+    "理查德·伯克利": [
+      ["德雷克•里莫瑞特", "enemy of x, suspect of x"]
+    ],
+    "帕洛斯基医生": [
+      ["德雷克•里莫瑞特", "mentor of x, informant of x"]
+    ],
+    "伊莱恩·卡特尔": [
+      ["德雷克•里莫瑞特", "romantic relationships with x"], 
+      ["汉斯·里莫瑞特", "romantic relationships with x"]
+    ],
+    "西尔维亚·科斯塔": [
+      ["德雷克•里莫瑞特", "acquaintance of x"]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "剧务戴维": [
+      ["罗琳", "想办法拜托古思特的纠缠 of x"], 
+      ["后勤格里夫", "罗琳 of x"], 
+      ["保安凯文", "related to 罗琳 of x, interested in 罗琳 of x, has a crush on 罗琳 of x"], 
+      ["古思特", "相互感情 of x"], 
+      ["宣传罗琳", "恋人 of x"]
+    ],
+    "罗琳": [
+      ["剧务戴维", "宣传 of x"], 
+      ["后勤格里夫", "剧务戴维 of x, 宣传x, 关系 1 of x, 关系 2 of x"], 
+      ["保安凯文", "剧务戴维 of x, 宣传x, 你 of x"], 
+      ["古思特", "friend of x"]
+    ],
+    "你": [
+      ["后勤格里夫", "保安凯文 of x, 罗琳 of x, 剧务戴维 of x, 古思特 of x, 毒蛇 of x, 秘密 of x"]
+    ],
+    "后勤格里夫": [
+      ["剧务戴维", "罗琳 of x"], 
+      ["罗琳", "你 of x, 保安凯文 of x, 剧务戴维 of x, 关系 1 of x, 关系 2 of x"], 
+      ["保安凯文", "剧务戴维 of x, 罗琳 of x, ancient love of x, same person as x (different reference)"], 
+      ["古思特", "骗子 of x, 投资者 of x"]
+    ],
+    "保安凯文": [
+      ["剧务戴维", "helped x, knows x's secret, related to x"], 
+      ["罗琳", "剧务戴维 of x, 你 of x"], 
+      ["后勤格里夫", "剧务戴维 of x, 罗琳 of x, ancient love of x, same person as x (different reference)"], 
+      ["古思特", "表演助手 of x"], 
+      ["古思特", "friend of x, acquaintance of x"]
+    ],
+    "古思特": [
+      ["剧务戴维", "相互感情 of x"], 
+      ["罗琳", "master of x, bully of x"], 
+      ["后勤格里夫", "表演助手 of x, 纠缠 of x"], 
+      ["保安凯文", "employer of x, master of x"]
+    ],
+    "宣传罗琳": [
+      ["剧务戴维", "好友 of x"]
+    ]
+}

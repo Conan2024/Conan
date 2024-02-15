@@ -1,0 +1,25 @@
+{
+    "赵帅哥": [
+      ["张恶霸", "friend of x"], 
+      ["郝闺蜜", "classmate of x"]
+    ],
+    "张恶霸": [
+      ["赵帅哥", "adversary of x"], 
+      ["郝闺蜜", "classmate of x"]
+    ],
+    "郝闺蜜": [
+      ["赵帅哥", "classmate of x"], 
+      ["张恶霸", "friend of x"]
+    ],
+    "王学习": [
+      ["张恶霸", "friend of x"], 
+      ["郝闺蜜", "classmate of x"]
+    ],
+    "李小弟": [
+      ["张恶霸", "friend of x"], 
+      ["郝闺蜜", "classmate of x"]
+    ],
+    "table": [
+      ["王学习", "older brother of x, friend of x, perpetrator of x"]
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "紫苏": [
+      ["杜仲", "friend of x"], 
+      ["玄参", "friend of x"], 
+      ["三徒", "friend of x"]
+    ],
+    "三徒": [
+      ["紫苏", "friend of x"], 
+      ["玄参", "friend of x"]
+    ],
+    "玄参": [
+      ["紫苏", "friend of x"], 
+      ["杜仲", "friend of x"]
+    ],
+    "杜仲": [
+      ["紫苏", "lover of x"], 
+      ["忘忧", "friend of x"]
+    ],
+    "忘忧": [
+      ["杜仲", "friend of x"], 
+      ["玄参", "friend of x"]
+    ]
+}

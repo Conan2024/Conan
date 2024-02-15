@@ -1,0 +1,35 @@
+{
+    "陈静雯": [
+      ["顾宇", "lover of x"], 
+      ["林夕", "acquaintance of x, enemy of x"], 
+      ["顾明和", "father in law of x"], 
+      ["林惟仁", "enemy of x, manipulator of x"], 
+      ["苏阳", "fiance of x"]
+    ],
+    "顾宇": [
+      ["陈静雯", "lover of x"], 
+      ["林夕", "acquaintance of x, enemy of x"], 
+      ["顾明和", "father of x"], 
+      ["林惟仁", "enemy of x"]
+    ],
+    "林夕": [
+      ["顾宇", "acquaintance of x, enemy of x"], 
+      ["陈静雯", "acquaintance of x, lover of x"], 
+      ["顾明和", "father in law of x"], 
+      ["林惟仁", "enemy of x"]
+    ],
+    "顾明和": [
+      ["顾宇", "son of x"], 
+      ["陈静雯", "daughter in law of x"], 
+      ["林惟仁", "enemy of x"]
+    ],
+    "林惟仁": [
+      ["顾宇", "enemy of x"], 
+      ["陈静雯", "enemy of x"], 
+      ["顾明和", "enemy of x"]
+    ],
+    "苏阳": [
+      ["陈静雯", "fiance of x"], 
+      ["顾宇", "acquaintance of x"]
+    ]
+}

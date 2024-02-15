@@ -1,0 +1,42 @@
+{
+    "托尼•比杰利": [
+      ["安东尼", "mentor of x"], 
+      ["弗兰克卡门", "friend of x"], 
+      ["詹姆斯莱利", "friend of x, colleague of x"], 
+      ["汤姆", "friend of x, classmate of x"], 
+      ["护士长", "employee of x, helper of x"]
+    ],
+    "安东尼": [
+      ["托尼•比杰利", "student of x"], 
+      ["弗兰克卡门", "fiance of x 托尼•比杰利"], 
+      ["詹姆斯莱利", "romantic relationships with x"], 
+      ["汤姆", "friend of x"], 
+      ["护士长", "nurse of x anthony"]
+    ],
+    "詹姆斯莱利": [
+      ["托尼•比杰利", "friend of x, colleague of x"], 
+      ["安东尼", "romantic relationships with x"], 
+      ["弗兰克卡门", "secret lover of x"], 
+      ["汤姆", "mentor of x"], 
+      ["护士长", "mentor of x"]
+    ],
+    "护士长": [
+      ["托尼•比杰利", "employer of x, mentor of x"], 
+      ["安东尼", "patient of x the nurse"], 
+      ["弗兰克卡门", "ex girlfriend of x"], 
+      ["詹姆斯莱利", "student of x"], 
+      ["汤姆", "student of x"]
+    ],
+    "弗兰克卡门": [
+      ["安东尼", "fiancee of x 托尼•比杰利"], 
+      ["詹姆斯莱利", "lover of x"], 
+      ["汤姆", "employer of x, business partner of x"], 
+      ["护士长", "ex boyfriend of x"]
+    ],
+    "汤姆": [
+      ["安东尼", "friend of x"], 
+      ["弗兰克卡门", "employee of x, business partner of x"], 
+      ["詹姆斯莱利", "student of x"], 
+      ["护士长", "mentor of x"]
+    ]
+}

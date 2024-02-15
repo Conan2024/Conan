@@ -1,0 +1,123 @@
+{
+    "李延": [
+      ["陈秋水", "friend of x"], 
+      ["陆婷", "colleague of x"], 
+      ["黄明", "informant of x"], 
+      ["刘婷", "classmate of x"], 
+      ["王建民", "teacher of x"], 
+      ["杨慧", "neighbour of x"], 
+      ["赵辉", "master of x"], 
+      ["韩娜", "servant of x"], 
+      ["林宇", "guard of x"]
+    ],
+    "白雪": [
+      ["陈秋水", "friend of x"], 
+      ["赵辉", "employer of x"], 
+      ["韩娜", "colleague of x"], 
+      ["林宇", "colleague of x"]
+    ],
+    "陈秋水": [
+      ["李延", "friend of x"], 
+      ["白雪", "friend of x"], 
+      ["陆婷", "colleague of x"], 
+      ["黄明", "informant of x"], 
+      ["刘婷", "classmate of x"], 
+      ["王建民", "teacher of x"], 
+      ["杨慧", "neighbour of x"], 
+      ["赵辉", "master of x"], 
+      ["韩娜", "servant of x"], 
+      ["林宇", "guard of x"]
+    ],
+    "陆婷": [
+      ["李延", "colleague of x"], 
+      ["白雪", "colleague of x"], 
+      ["陈秋水", "colleague of x"], 
+      ["黄明", "informant of x"], 
+      ["刘婷", "classmate of x"], 
+      ["王建民", "teacher of x"], 
+      ["赵辉", "master of x"], 
+      ["韩娜", "servant of x"], 
+      ["林宇", "guard of x"]
+    ],
+    "黄明": [
+      ["李延", "informant of x"], 
+      ["白雪", "informant of x"], 
+      ["陈秋水", "informant of x"], 
+      ["陆婷", "informant of x"], 
+      ["刘婷", "classmate of x"], 
+      ["王建民", "teacher of x"], 
+      ["赵辉", "employer of x"], 
+      ["韩娜", "employee of x"], 
+      ["林宇", "colleague of x"]
+    ],
+    "刘婷": [
+      ["李延", "classmate of x"], 
+      ["白雪", "classmate of x"], 
+      ["陈秋水", "classmate of x"], 
+      ["陆婷", "classmate of x"], 
+      ["黄明", "classmate of x"], 
+      ["王建民", "teacher of x"], 
+      ["赵辉", "master of x"], 
+      ["韩娜", "servant of x"], 
+      ["林宇", "guard of x"]
+    ],
+    "王建民": [
+      ["李延", "teacher of x"], 
+      ["白雪", "teacher of x"], 
+      ["陈秋水", "teacher of x"], 
+      ["陆婷", "teacher of x"], 
+      ["黄明", "teacher of x"], 
+      ["刘婷", "teacher of x"], 
+      ["赵辉", "master of x"], 
+      ["韩娜", "employee of x"], 
+      ["林宇", "colleague of x"]
+    ],
+    "杨慧": [
+      ["李延", "neighbour of x"], 
+      ["白雪", "neighbour of x"], 
+      ["陈秋水", "neighbour of x"], 
+      ["陆婷", "neighbour of x"], 
+      ["黄明", "neighbour of x"], 
+      ["刘婷", "neighbour of x"], 
+      ["王建民", "neighbour of x"], 
+      ["赵辉", "master of x"], 
+      ["韩娜", "servant of x"], 
+      ["林宇", "guard of x"]
+    ],
+    "赵辉": [
+      ["李延", "master of x"], 
+      ["白雪", "employer of x"], 
+      ["陈秋水", "master of x"], 
+      ["陆婷", "master of x"], 
+      ["黄明", "employer of x"], 
+      ["刘婷", "master of x"], 
+      ["王建民", "master of x"], 
+      ["杨慧", "master of x"], 
+      ["韩娜", "servant of x"], 
+      ["林宇", "guard of x"]
+    ],
+    "韩娜": [
+      ["李延", "servant of x"], 
+      ["白雪", "colleague of x"], 
+      ["陈秋水", "servant of x"], 
+      ["陆婷", "servant of x"], 
+      ["黄明", "employee of x"], 
+      ["刘婷", "servant of x"], 
+      ["王建民", "employee of x"], 
+      ["杨慧", "servant of x"], 
+      ["赵辉", "servant of x"], 
+      ["林宇", "guard of x"]
+    ],
+    "林宇": [
+      ["李延", "guard of x"], 
+      ["白雪", "colleague of x"], 
+      ["陈秋水", "guard of x"], 
+      ["陆婷", "guard of x"], 
+      ["黄明", "colleague of x"], 
+      ["刘婷", "guard of x"], 
+      ["王建民", "colleague of x"], 
+      ["杨慧", "guard of x"], 
+      ["赵辉", "guard of x"], 
+      ["韩娜", "guard of x"]
+    ]
+}

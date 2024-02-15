@@ -1,0 +1,67 @@
+{
+    "如娅": [
+      ["苗纳", "father of x"], 
+      ["田氏", "mother of x"], 
+      ["苗氏", "aunt of x"], 
+      ["鹃歌", "cousin of x"], 
+      ["隼", "cousin of x"], 
+      ["鬼印", "husband of x, student of x's father, adoptive brother of x, helper of x"], 
+      ["甘玛", "adoptive sister of x, helper of x"], 
+      ["李德木", "extramarital affair with x, admirer of x"], 
+      ["李良松", "friend of x"], 
+      ["李高柏", "helper of x, student of x, friend of x"], 
+      ["巴府山", "uncle of x x by marriage"], 
+      ["阿贞", "acquaintance of x"]
+    ],
+    "苗氏": [
+      ["苗纳", "sibling of x"], 
+      ["如娅", "niece of x"], 
+      ["巴府山", "husband of x"], 
+      ["鹃歌", "daughter of x"], 
+      ["隼", "son of x"], 
+      ["鬼印", "son in law of x"]
+    ],
+    "巴府山": [
+      ["苗氏", "wife of x"], 
+      ["鹃歌", "daughter of x"], 
+      ["隼", "son of x"], 
+      ["如娅", "niece of x x by marriage"]
+    ],
+    "隼": [
+      ["鹃歌", "sibling of x"], 
+      ["苗氏", "mother of x"], 
+      ["巴府山", "father of x"], 
+      ["甘玛", "fiancee of x"], 
+      ["如娅", "cousin of x"], 
+      ["郑函贞", "friend of x"], 
+      ["李高柏", "acquaintance of x"]
+    ],
+    "鬼印": [
+      ["苗纳", "mentor of x"], 
+      ["如娅", "wife of x, adoptive sister of x, helped by x"], 
+      ["甘玛", "adoptive sister of x, student of x"], 
+      ["鹃歌", "fiancee of x"]
+    ],
+    "甘玛": [
+      ["如娅", "adoptive sister of x, helper of x"], 
+      ["鬼印", "adoptive brother of x, mentor of x"], 
+      ["隼", "fiance of x"]
+    ],
+    "李德木": [
+      ["如娅", "extramarital affair with x, admired by x"], 
+      ["李良松", "sibling of x"], 
+      ["李高柏", "sibling of x"]
+    ],
+    "李高柏": [
+      ["李德木", "sibling of x"], 
+      ["李良松", "sibling of x"], 
+      ["如娅", "helper of x, student of x, friend of x"]
+    ],
+    "鹃歌": [
+      ["苗氏", "mother of x"], 
+      ["巴府山", "father of x"], 
+      ["隼", "sibling of x"], 
+      ["如娅", "cousin of x"], 
+      ["鬼印", "fiance of x"]
+    ]
+}

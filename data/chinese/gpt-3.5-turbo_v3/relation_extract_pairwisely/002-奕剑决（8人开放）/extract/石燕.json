@@ -1,0 +1,54 @@
+{
+    "石燕": [
+        [
+            "红花夫人",
+            "mentor of x, student of x"
+        ],
+        [
+            "杜仲",
+            "fondness of x, mentor of x"
+        ],
+        [
+            "陆英",
+            "mentor of x"
+        ]
+    ],
+    "红花夫人": [
+        [
+            "石燕",
+            "mentor of x, student of x"
+        ],
+        [
+            "杜仲",
+            "ex husband of x"
+        ],
+        [
+            "陆英",
+            "mentor of x"
+        ]
+    ],
+    "杜仲": [
+        [
+            "石燕",
+            "admired by x"
+        ],
+        [
+            "红花夫人",
+            "ex wife of x"
+        ],
+        [
+            "陆英",
+            "co wives of x"
+        ]
+    ],
+    "陆英": [
+        [
+            "石燕",
+            "student of x"
+        ],
+        [
+            "红花夫人",
+            "student of x"
+        ]
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "捕头": [
+        [
+            "刘金福",
+            "subordinate of x, information receiver from x"
+        ],
+        [
+            "刘金威",
+            "acquaintance of x, stranger to x"
+        ],
+        [
+            "季兴洪",
+            "acquaintance of x, stranger to x"
+        ],
+        [
+            "梁有余",
+            "acquaintance of x, stranger to x"
+        ],
+        [
+            "梁如月",
+            "acquaintance of x, stranger to x"
+        ],
+        [
+            "齐蓉儿",
+            "acquaintance of x, stranger to x"
+        ],
+        [
+            "武元凤",
+            "acquaintance of x, stranger to x"
+        ],
+        [
+            "武三刀",
+            "acquaintance of x, stranger to x"
+        ],
+        [
+            "郭回峰",
+            "information receiver from x"
+        ]
+    ],
+    "刘金福": [
+        [
+            "捕头",
+            "superior of x"
+        ],
+        [
+            "刘金威",
+            "brother of x"
+        ],
+        [
+            "季兴洪",
+            "subordinate of x"
+        ],
+        [
+            "梁有余",
+            "subordinate of x"
+        ],
+        [
+            "梁如月",
+            "subordinate of x, daughter of x's subordinate"
+        ],
+        [
+            "齐蓉儿",
+            "wife of x"
+        ],
+        [
+            "武元凤",
+            "guest of x"
+        ],
+        [
+            "武三刀",
+            "subordinate of x, servant of x's guest"
+        ]
+    ],
+    "刘金威": [
+        [
+            "刘金福",
+            "brother of x"
+        ],
+        [
+            "捕头",
+            "acquaintance of x, stranger to x"
+        ]
+    ],
+    "季兴洪": [
+        [
+            "刘金福",
+            "superior of x"
+        ],
+        [
+            "捕头",
+            "acquaintance of x, stranger to x"
+        ]
+    ],
+    "梁有余": [
+        [
+            "刘金福",
+            "superior of x"
+        ],
+        [
+            "梁如月",
+            "father of x"
+        ],
+        [
+            "捕头",
+            "acquaintance of x, stranger to x"
+        ]
+    ],
+    "梁如月": [
+        [
+            "梁有余",
+            "daughter of x"
+        ],
+        [
+            "刘金福",
+            "daughter of x's subordinate"
+        ],
+        [
+            "捕头",
+            "acquaintance of x, stranger to x"
+        ]
+    ],
+    "齐蓉儿": [
+        [
+            "刘金福",
+            "wife of x"
+        ],
+        [
+            "捕头",
+            "acquaintance of x, stranger to x"
+        ]
+    ],
+    "武元凤": [
+        [
+            "刘金福",
+            "guest of x"
+        ],
+        [
+            "武三刀",
+            "superior of x"
+        ],
+        [
+            "捕头",
+            "acquaintance of x, stranger to x"
+        ]
+    ],
+    "武三刀": [
+        [
+            "武元凤",
+            "subordinate of x"
+        ],
+        [
+            "刘金福",
+            "servant of x's host"
+        ],
+        [
+            "捕头",
+            "acquaintance of x, stranger to x"
+        ]
+    ],
+    "郭回峰": [
+        [
+            "捕头",
+            "stranger to x"
+        ]
+    ]
+}

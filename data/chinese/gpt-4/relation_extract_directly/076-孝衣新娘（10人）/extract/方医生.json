@@ -1,0 +1,178 @@
+{
+    "方敏月": [
+        [
+            "方乘山",
+            "child of x"
+        ],
+        [
+            "孟老爷",
+            "employer of x's parent"
+        ],
+        [
+            "杜老总管",
+            "helper of x's parent"
+        ],
+        [
+            "姚长寿",
+            "father's colleague"
+        ],
+        [
+            "姚孟仁",
+            "mentor of x"
+        ],
+        [
+            "姚仲义",
+            "student of x"
+        ],
+        [
+            "张雅娣",
+            "acquaintance of x"
+        ],
+        [
+            "张得采",
+            "ex romantic relationships of x"
+        ],
+        [
+            "宋医生",
+            "colleague of x"
+        ],
+        [
+            "田红娇",
+            "cousin of x, x's patient"
+        ],
+        [
+            "神秘人",
+            "unknown"
+        ]
+    ],
+    "方乘山": [
+        [
+            "方敏月",
+            "father of x"
+        ],
+        [
+            "孟老爷",
+            "subordinate of x"
+        ],
+        [
+            "杜老总管",
+            "helper of x"
+        ],
+        [
+            "姚长寿",
+            "colleague of x"
+        ]
+    ],
+    "孟老爷": [
+        [
+            "方乘山",
+            "superior of x"
+        ],
+        [
+            "方敏月",
+            "employer of x's parent"
+        ],
+        [
+            "杜老总管",
+            "employer of x"
+        ]
+    ],
+    "杜老总管": [
+        [
+            "方乘山",
+            "superior of x"
+        ],
+        [
+            "方敏月",
+            "employer of x's parent"
+        ]
+    ],
+    "姚长寿": [
+        [
+            "方敏月",
+            "ex employer of x, x's patient"
+        ],
+        [
+            "姚孟仁",
+            "father of x"
+        ],
+        [
+            "姚仲义",
+            "father of x"
+        ],
+        [
+            "方乘山",
+            "colleague of x"
+        ],
+        [
+            "田红娇",
+            "husband of x"
+        ]
+    ],
+    "姚孟仁": [
+        [
+            "姚长寿",
+            "son of x"
+        ],
+        [
+            "姚仲义",
+            "sibling of x"
+        ],
+        [
+            "方敏月",
+            "student of x"
+        ]
+    ],
+    "姚仲义": [
+        [
+            "姚长寿",
+            "son of x"
+        ],
+        [
+            "姚孟仁",
+            "sibling of x"
+        ],
+        [
+            "方敏月",
+            "student of x"
+        ]
+    ],
+    "张雅娣": [
+        [
+            "张得采",
+            "aunt of x"
+        ]
+    ],
+    "张得采": [
+        [
+            "方敏月",
+            "ex romantic relationships of x"
+        ],
+        [
+            "张雅娣",
+            "nephew of x"
+        ]
+    ],
+    "宋医生": [
+        [
+            "方敏月",
+            "colleague of x"
+        ]
+    ],
+    "田红娇": [
+        [
+            "姚长寿",
+            "wife of x, x's patient"
+        ],
+        [
+            "方敏月",
+            "cousin of x"
+        ]
+    ],
+    "神秘人": [
+        [
+            "方敏月",
+            "unknown"
+        ]
+    ]
+}

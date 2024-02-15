@@ -1,0 +1,117 @@
+{
+    "保安凯文": [
+      ["助手艾拉", "suspected by x"], 
+      ["宣传罗琳", "friend of x"], 
+      ["剧务戴维", "ex romantic relationships with x"], 
+      ["后勤格里夫", "suspected by x"], 
+      ["艾拉", "ex boyfriend of x"], 
+      ["凯文", "brother of x"], 
+      ["格里夫", "suspected by x"]
+    ],
+    "助手艾拉": [
+      ["保安凯文", "secret lover of x"], 
+      ["宣传罗琳", "extramarital affair with x"], 
+      ["后勤格里夫", "helper of x"], 
+      ["魔术师古思特", "helper of x"], 
+      ["艾拉", "helper of x"], 
+      ["古思特", "secret lover of x, betrayed by x"], 
+      ["凯文", "acquaintance of x"], 
+      ["格里夫", "helper of x"], 
+      ["罗琳", "helper of x"]
+    ],
+    "宣传罗琳": [
+      ["保安凯文", "friend of x"], 
+      ["助手艾拉", "extramarital affair with x"], 
+      ["剧务戴维", "friend of x"], 
+      ["魔术师古思特", "romantic relationships with x"], 
+      ["艾拉", "friend of x"], 
+      ["格里夫", "friend of x"], 
+      ["罗琳", "friend of x"], 
+      ["戴维", "romantic relationships with x"]
+    ],
+    "剧务戴维": [
+      ["保安凯文", "ex romantic relationships with x"], 
+      ["宣传罗琳", "friend of x"], 
+      ["后勤格里夫", "admirer of x"], 
+      ["魔术师古思特", "friend of x"], 
+      ["艾拉", "friend of x"], 
+      ["古思特", "friend of x"], 
+      ["凯文", "adversary of x, adversary of x"], 
+      ["格里夫", "friend of x, helper of x"], 
+      ["罗琳", "admirer of x"], 
+      ["戴维", "helper of x, lover of x"]
+    ],
+    "后勤格里夫": [
+      ["保安凯文", "acquaintance of x"], 
+      ["剧务戴维", "admirer of x"], 
+      ["艾拉", "romantic relationships with x"], 
+      ["古思特", "acquaintance of x"], 
+      ["格里夫", "friend of x"], 
+      ["戴维", "friend of x"]
+    ],
+    "魔术师古思特": [
+      ["助手艾拉", "employer of x"], 
+      ["宣传罗琳", "romantic relationships with x"], 
+      ["剧务戴维", "friend of x"], 
+      ["艾拉", "extramarital affair with x, deceived by x"], 
+      ["古思特", "husband of x, fiance of x"], 
+      ["格里夫", "suspected by x"]
+    ],
+    "艾拉": [
+      ["保安凯文", "ex girlfriend of x"], 
+      ["助手艾拉", "helped by x"], 
+      ["宣传罗琳", "friend of x"], 
+      ["剧务戴维", "friend of x"], 
+      ["后勤格里夫", "romantic relationships with x"], 
+      ["魔术师古思特", "extramarital affair with x, deceiver of x"], 
+      ["古思特", "extramarital affair with x"], 
+      ["凯文", "extramarital affair with x"], 
+      ["罗琳", "wife of x"], 
+      ["戴维", "ex girlfriend of x"]
+    ],
+    "古思特": [
+      ["保安凯文", "suspected by x"], 
+      ["助手艾拉", "secret lover of x, betrayer of x"], 
+      ["剧务戴维", "friend of x"], 
+      ["后勤格里夫", "acquaintance of x"], 
+      ["魔术师古思特", "wife of x, fiancee of x"], 
+      ["艾拉", "extramarital affair with x"], 
+      ["格里夫", "colleague of x"]
+    ],
+    "凯文": [
+      ["保安凯文", "brother of x"], 
+      ["助手艾拉", "acquaintance of x"], 
+      ["剧务戴维", "adversary of x, adversary of x"], 
+      ["艾拉", "extramarital affair with x"], 
+      ["格里夫", "fondness of x"], 
+      ["罗琳", "lover of x"]
+    ],
+    "格里夫": [
+      ["保安凯文", "suspect of x"], 
+      ["宣传罗琳", "friend of x"], 
+      ["剧务戴维", "friend of x"], 
+      ["后勤格里夫", "friend of x"], 
+      ["魔术师古思特", "mentor of x"], 
+      ["古思特", "colleague of x"], 
+      ["凯文", "informant of x"], 
+      ["罗琳", "friend of x"], 
+      ["戴维", "friend of x"]
+    ],
+    "罗琳": [
+      ["助手艾拉", "helper of x"], 
+      ["宣传罗琳", "friend of x"], 
+      ["剧务戴维", "ex romantic relationships with x"], 
+      ["艾拉", "husband of x"], 
+      ["凯文", "lover of x"], 
+      ["格里夫", "friend of x"], 
+      ["戴维", "friend of x"]
+    ],
+    "戴维": [
+      ["宣传罗琳", "romantic relationships with x"], 
+      ["剧务戴维", "helper of x, lover of x"], 
+      ["后勤格里夫", "friend of x"], 
+      ["艾拉", "ex boyfriend of x"], 
+      ["格里夫", "friend of x"], 
+      ["罗琳", "friend of x"]
+    ]
+}

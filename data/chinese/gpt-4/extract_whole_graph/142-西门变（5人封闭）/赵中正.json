@@ -1,0 +1,96 @@
+{
+    "赵中正": [
+        [
+            "赵中杨",
+            "brother of x, enemy of x, perpetrator of x"
+        ],
+        [
+            "赵三",
+            "subordinate of x, helper of x, friend of x, information receiver from x, attempted perpetrator of x"
+        ],
+        [
+            "陈媚儿",
+            "subordinate of x, secret lover of x, deceiver of x"
+        ],
+        [
+            "李成",
+            "subordinate of x, manipulated by x, informant of x"
+        ],
+        [
+            "东域",
+            "business partner of x, informant of x"
+        ],
+        [
+            "李家",
+            "business partner of x, informant of x"
+        ]
+    ],
+    "赵中杨": [
+        [
+            "赵中正",
+            "brother of x, adversary of x, victim of x"
+        ],
+        [
+            "陈媚儿",
+            "lover of x, manipulated by x"
+        ],
+        [
+            "赵三",
+            "acquaintance of x"
+        ],
+        [
+            "李成",
+            "subordinate of x, deceiver of x"
+        ]
+    ],
+    "赵三": [
+        [
+            "赵中正",
+            "superior of x, friend of x, information receiver from x"
+        ],
+        [
+            "赵中杨",
+            "acquaintance of x, attempted victim of x"
+        ]
+    ],
+    "陈媚儿": [
+        [
+            "赵中杨",
+            "lover of x, deceiver of x"
+        ],
+        [
+            "赵中正",
+            "superior of x, informant of x"
+        ]
+    ],
+    "李成": [
+        [
+            "赵中杨",
+            "superior of x, deceived by x"
+        ],
+        [
+            "赵中正",
+            "superior of x, manipulator of x, helped by x"
+        ]
+    ],
+    "东域": [
+        [
+            "赵中正",
+            "business partner of x, information receiver from x"
+        ],
+        [
+            "李家",
+            "ally of x"
+        ]
+    ],
+    "李家": [
+        [
+            "赵中正",
+            "business partner of x, information receiver from x"
+        ],
+        [
+            "东域",
+            "ally of x"
+        ]
+    ]
+}

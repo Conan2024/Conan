@@ -1,0 +1,50 @@
+{
+    "孙清洁": [
+        [
+            "贾教授",
+            "Supervisor-Employee",
+            "Blackmailer-Blackmailed"
+        ]
+    ],
+    "贾教授": [
+        [
+            "孙清洁",
+            "Supervisor-Employee",
+            "Blackmailer-Blackmailed"
+        ],
+        [
+            "李保安",
+            "co-worker, acquaintance"
+        ],
+        [
+            "田助理",
+            "Superior of x",
+            "Employer of X",
+            "Master of X",
+            "Controller of X"
+        ]
+    ],
+    "李保安": [
+        [
+            "田助理",
+            "Acquaintance of X"
+        ],
+        [
+            "贾教授",
+            "co-worker, acquaintance"
+        ]
+    ],
+    "田助理": [
+        [
+            "李保安",
+            "Acquaintance of X"
+        ],
+        [
+            "贾教授",
+            "Superior of x",
+            "Employer of X",
+            "Master of X",
+            "controller of X"
+        ]
+    ]
+}

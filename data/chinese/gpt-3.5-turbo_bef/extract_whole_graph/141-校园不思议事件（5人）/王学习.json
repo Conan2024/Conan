@@ -1,0 +1,20 @@
+{
+    "王学习": [
+      ["张恶霸", "bully of x, manipulated by x, attempted murderer of x"]
+    ],
+    "张恶霸": [
+      ["王学习", "victim of x, manipulated by x"], 
+      ["赵帅哥", "friend of x"], 
+      ["林校花", "fiancee of x"]
+    ],
+    "赵帅哥": [
+      ["张恶霸", "friend of x"]
+    ],
+    "林校花": [
+      ["张恶霸", "fiancee of x"], 
+      ["郝闺蜜", "friend of x"]
+    ],
+    "郝闺蜜": [
+      ["林校花", "friend of x"]
+    ]
+}

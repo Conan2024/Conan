@@ -1,0 +1,100 @@
+{
+    "卢记者": [
+        [
+            "朱老板",
+            "acquaintance of x, source of disdain for x"
+        ],
+        [
+            "死者",
+            "admirer of x, rejected by x, perpetrator of x, murderer of x"
+        ],
+        [
+            "朱老板的原配夫人",
+            "acquainted through x"
+        ],
+        [
+            "朱黎",
+            "acquaintance of x, disliked by x"
+        ],
+        [
+            "陈女仆",
+            "acquaintance of x"
+        ],
+        [
+            "王流氓",
+            "informant of x"
+        ]
+    ],
+    "朱老板": [
+        [
+            "卢记者",
+            "disliked by x"
+        ],
+        [
+            "死者",
+            "extramarital affair with x, lover of x"
+        ],
+        [
+            "朱老板的原配夫人",
+            "husband of x"
+        ],
+        [
+            "朱黎",
+            "father of x"
+        ]
+    ],
+    "死者": [
+        [
+            "卢记者",
+            "victim of x, romantic interest of x, rejected x"
+        ],
+        [
+            "朱老板",
+            "lover of x, romantic relationships with x"
+        ]
+    ],
+    "朱老板的原配夫人": [
+        [
+            "朱老板",
+            "wife of x"
+        ],
+        [
+            "死者",
+            "husband's lover, disliked by x"
+        ],
+        [
+            "卢记者",
+            "acquaintance of x"
+        ]
+    ],
+    "朱黎": [
+        [
+            "朱老板",
+            "son of x"
+        ],
+        [
+            "死者",
+            "father's lover, disliked by x"
+        ],
+        [
+            "卢记者",
+            "disliker of x"
+        ]
+    ],
+    "陈女仆": [
+        [
+            "卢记者",
+            "acquaintance of x"
+        ],
+        [
+            "死者",
+            "servant of x"
+        ]
+    ],
+    "王流氓": [
+        [
+            "卢记者",
+            "information provider for x"
+        ]
+    ]
+}

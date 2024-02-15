@@ -1,0 +1,51 @@
+{
+    "雯秘书": [
+      ["杨老板", "employer of x, master of x"], 
+      ["很天真", "colleague of x"], 
+      ["张大副", "information receiver from x, 杨老板's guest of x, potentially romantic relationships with x"], 
+      ["玲船医", "informant of x, potentially romantic relationships with x"], 
+      ["王船工", "potential ally/follower of x"], 
+      ["王小工", "玲船医 and 王船工's son of x, potential pawn of x"], 
+      ["杨老板's henchmen", "followers of x"], 
+      ["很天真's killers", "killers of x 很天真"], 
+      ["杨老板's drug suppliers", "deceiver of x"], 
+      ["杨老板's bodyguards", "subordinates of x"]
+    ],
+    "杨老板": [
+      ["雯秘书", "employee of x"], 
+      ["很天真", "colleague of x"], 
+      ["张大副", "business partner of x, potential adversary of x"], 
+      ["玲船医", "informant of x"], 
+      ["王船工", "co worker of x"], 
+      ["王小工", "son of x 王船工 and 玲船医, potential adversary of x"], 
+      ["杨老板's drug suppliers", "suppliers of x"], 
+      ["杨老板's bodyguards", "subordinates of x"]
+    ],
+    "很天真": [
+      ["雯秘书", "colleague of x"], 
+      ["杨老板", "colleague of x"], 
+      ["杨老板's drug suppliers", "subordinate of x"]
+    ],
+    "张大副": [
+      ["雯秘书", "information receiver from x, potentially romantic relationships with x"], 
+      ["杨老板", "business partner of x, x's guest"], 
+      ["玲船医", "information receiver from x"], 
+      ["王船工", "business partner of x"], 
+      ["王小工", "王船工's son of x"]
+    ],
+    "玲船医": [
+      ["雯秘书", "informant of x"], 
+      ["张大副", "informant of x"], 
+      ["杨老板", "informant of x"], 
+      ["杨老板's bodyguards", "subordinate of x"]
+    ],
+    "王船工": [
+      ["雯秘书", "potential ally/follower of x"], 
+      ["张大副", "business partner of x"], 
+      ["王小工", "x's son"]
+    ],
+    "王小工": [
+      ["雯秘书", "potential pawn of x"], 
+      ["王船工", "son of x and 玲船医"]
+    ]
+}

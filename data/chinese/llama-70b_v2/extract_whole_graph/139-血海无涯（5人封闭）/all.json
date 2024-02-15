@@ -1,0 +1,33 @@
+{
+    "薛媚娘": [
+      ["秦老大", "acquaintance of x, rival of x"], 
+      ["萧体育", "classmate of x, colleague of x"], 
+      ["郑友好", "acquaintance of x, helped of x"], 
+      ["秦专家", "lover of x, rapist of x"]
+    ],
+    "秦老大": [
+      ["薛媚娘", "friend of x, acquaintance of x"], 
+      ["郑友好", "student of x, colleague of x"], 
+      ["萧体育", "teacher of x, colleague of x"]
+    ],
+    "秦专家": [
+      ["秦老大", "son of x, victim of x"], 
+      ["薛媚娘", "lover of x, rapist of x"]
+    ],
+    "郑友好": [
+      ["秦老大", "acquaintance of x, helped of x"], 
+      ["薛媚娘", "acquaintance of x, helped of x"]
+    ],
+    "萧体育": [
+      ["秦老大", "teacher of x, colleague of x"], 
+      ["薛媚娘", "colleague of x, rival of x"]
+    ],
+    "妈妈": [
+      ["秦专家", "lover of x, rapist of x"], 
+      ["秦老大", "son of x, victim of x"]
+    ],
+    "贾美丽": [
+      ["薛媚娘", "student of x, target of x"], 
+      ["秦老大", "teacher of x, acquaintance of x"]
+    ]
+}

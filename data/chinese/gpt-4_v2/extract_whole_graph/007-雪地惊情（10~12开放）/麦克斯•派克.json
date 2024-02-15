@@ -1,0 +1,30 @@
+{
+    "麦克斯•派克": [
+      ["乔•罗伯特森", "friend of x, crime partner of x"], 
+      ["克里斯丁•邓恩", "informant of x, information receiver from x"], 
+      ["哈罗德•哈里森", "suspected by x, acquaintance of x"], 
+      ["玛丽娜•哈里森", "suspected by x, acquaintance of x"], 
+      ["露西•哈里森", "blackmailed by x, holder of x's secret, acquaintance of x"]
+    ],
+    "乔•罗伯特森": [
+      ["麦克斯•派克", "friend of x, crime partner of x"]
+    ],
+    "克里斯丁•邓恩": [
+      ["麦克斯•派克", "informant of x, information receiver from x"]
+    ],
+    "哈罗德•哈里森": [
+      ["麦克斯•派克", "suspect of x, colleague of x"], 
+      ["玛丽娜•哈里森", "husband of x"], 
+      ["露西•哈里森", "father of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["麦克斯•派克", "suspect of x, acquaintance of x"], 
+      ["哈罗德•哈里森", "wife of x"], 
+      ["露西•哈里森", "mother of x"]
+    ],
+    "露西•哈里森": [
+      ["麦克斯•派克", "blackmailer of x, holder of x's secret, acquaintance of x"], 
+      ["哈罗德•哈里森", "daughter of x"], 
+      ["玛丽娜•哈里森", "daughter of x"]
+    ]
+}

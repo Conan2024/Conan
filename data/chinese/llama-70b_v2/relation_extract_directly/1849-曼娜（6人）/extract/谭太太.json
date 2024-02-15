@@ -1,0 +1,46 @@
+{
+    "谭太太": [
+      ["采茜", "close friend of x, fellow conspirator of x"], 
+      ["海悠", "close friend of x, fellow conspirator of x"], 
+      ["吕名然", "acquaintance of x, potential ally of x"], 
+      ["尚致", "acquaintance of x, potential ally of x"], 
+      ["廖公子", "business partner of x, potential enemy of x"]
+    ],
+    "采茜": [
+      ["谭太太", "close friend of x, fellow conspirator of x"], 
+      ["海悠", "close friend of x, fellow conspirator of x"], 
+      ["吕名然", "acquaintance of x"], 
+      ["尚致", "acquaintance of x"]
+    ],
+    "海悠": [
+      ["谭太太", "close friend of x, fellow conspirator of x"], 
+      ["采茜", "close friend of x, fellow conspirator of x"], 
+      ["吕名然", "acquaintance of x"], 
+      ["尚致", "acquaintance of x"]
+    ],
+    "吕名然": [
+      ["欣雅", "close friend of x"]
+    ],
+    "尚致": [
+      ["谭太太", "acquaintance of x, potential ally of x"], 
+      ["采茜", "acquaintance of x"], 
+      ["吕名然", "acquaintance of x"]
+    ],
+    "廖公子": [
+      ["谭太太", "business partner of x, potential enemy of x"], 
+      ["廖氏商行", "owner of x"]
+    ],
+    "欣雅": [
+      ["谭太太", "close friend of x"], 
+      ["采茜", "close friend of x"]
+    ],
+    "谭仁昌": [
+      ["谭太太", "husband of x"]
+    ],
+    "谭尚致": [
+      ["谭仁昌", "son of x"]
+    ],
+    "吕庆致": [
+      ["谭仁昌", "daughter of x"]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "李高柏": [
+      ["巴府山", "employee of x"], 
+      ["鬼印", "friend of x"], 
+      ["如娅", "friend of x"], 
+      ["隼", "student of x"], 
+      ["甘玛", "friend of x, suspect of x"]
+    ],
+    "巴府山": [
+      ["李高柏", "employee of x"], 
+      ["鬼印", "friend of x"], 
+      ["如娅", "friend of x"], 
+      ["隼", "son of x, student of x"], 
+      ["甘玛", "friend of x"]
+    ],
+    "鬼印": [
+      ["李高柏", "friend of x"], 
+      ["巴府山", "friend of x"], 
+      ["如娅", "friend of x"], 
+      ["隼", "student of x"], 
+      ["甘玛", "friend of x"]
+    ],
+    "如娅": [
+      ["李高柏", "friend of x"], 
+      ["巴府山", "friend of x"], 
+      ["鬼印", "friend of x"], 
+      ["隼", "student of x"], 
+      ["甘玛", "friend of x, suspect of x"]
+    ],
+    "隼": [
+      ["李高柏", "student of x"], 
+      ["巴府山", "son of x, student of x"], 
+      ["鬼印", "student of x"], 
+      ["如娅", "student of x"], 
+      ["甘玛", "student of x, suspect of x"]
+    ],
+    "甘玛": [
+      ["李高柏", "friend of x, suspect of x"], 
+      ["巴府山", "friend of x"], 
+      ["鬼印", "friend of x"], 
+      ["如娅", "friend of x, suspect of x"], 
+      ["隼", "student of x, suspect of x"]
+    ],
+    "李德木": [
+      ["李高柏", "friend of x, suspect of x"], 
+      ["巴府山", "friend of x"], 
+      ["鬼印", "friend of x"], 
+      ["如娅", "friend of x"], 
+      ["隼", "student of x"]
+    ]
+}

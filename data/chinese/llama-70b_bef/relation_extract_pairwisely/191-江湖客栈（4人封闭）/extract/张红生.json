@@ -1,0 +1,29 @@
+{
+    "张红生": [
+      ["张金山", "husband of x"], 
+      ["洪江水", "acquaintance of x, friend of x, helper of x, informant of x, manipulator of x, victim of x, adversary of x, enemy of x, rival of x, colleague of x, customer of x, patient of x, tenant of x, servant of x, subordinate of x, superior of x, employee of x, employer of x, classmate of x, schoolmate of x"]
+    ],
+    "孟三春": [
+      ["张金银", "husband of x, killed by x"], 
+      ["洪长烈", "husband of x, lover of x, enemy of x, rival of x, manipulator of x, victim of x, acquaintance of x, friend of x"], 
+      ["洪江水", "husband of x, killed by x"]
+    ],
+    "张金山": [
+      ["张红生", "wife of x, victim of x"]
+    ],
+    "洪长烈": [
+      ["张红生", "father of x"], 
+      ["孟三春", "husband of x, lover of x, enemy of x, rival of x, manipulator of x, victim of x, acquaintance of x, friend of x"]
+    ],
+    "蔡思娘": [
+      ["张金银", "friend of x, acquaintance of x, superior of x, employer of x, colleague of x"]
+    ],
+    "洪江水": [
+      ["张红生", "acquaintance of x, friend of x, helper of x, informant of x, manipulator of x, victim of x, adversary of x, enemy of x, rival of x, colleague of x, customer of x, patient of x, tenant of x, servant of x, subordinate of x, superior of x, employee of x, employer of x, classmate of x, schoolmate of x"], 
+      ["孟三春", "wife of x, helper of x"]
+    ],
+    "张金银": [
+      ["孟三春", "brother of x, sibling of x, killed by x"], 
+      ["蔡思娘", "friend of x, acquaintance of x, subordinate of x, colleague of x"]
+    ]
+}

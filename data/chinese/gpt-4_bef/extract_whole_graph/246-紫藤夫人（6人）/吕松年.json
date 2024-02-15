@@ -1,0 +1,55 @@
+{
+    "吕松年": [
+      ["吕陆升", "business partner of x"], 
+      ["葛继先", "victim of x, attempted perpetrator of x"], 
+      ["薛达财", "acquaintance of x, information receiver from x"], 
+      ["朱陵山", "adversary of x, business partner of x"], 
+      ["严义充", "victim of x, manipulated by x"], 
+      ["于尚勇", "customer of x"], 
+      ["葛月萝", "acquaintance of x"], 
+      ["薛玉帆", "acquaintance of x"], 
+      ["于彦诚", "customer of x"]
+    ],
+    "吕陆升": [
+      ["吕松年", "business partner of x"], 
+      ["葛继先", "acquaintance of x, information receiver from x"], 
+      ["薛达财", "customer of x"], 
+      ["朱陵山", "acquaintance of x, suspect to x"], 
+      ["严义充", "perpetrator of x"], 
+      ["于尚勇", "acquaintance of x, suspicious of x"], 
+      ["乐婉", "suspected by x"], 
+      ["薛玉帆", "customer of x"], 
+      ["于彦诚", "customer of x"]
+    ],
+    "葛继先": [
+      ["吕陆升", "helper of x"], 
+      ["葛月萝", "father of x"], 
+      ["朱陵山", "son in law of x"], 
+      ["严义充", "acquaintance of x"]
+    ],
+    "严义充": [
+      ["吕松年", "deceived by x"], 
+      ["吕陆升", "deceiver of x"], 
+      ["葛继先", "acquaintance of x"]
+    ],
+    "薛达财": [
+      ["吕松年", "customer of x"], 
+      ["吕陆升", "acquaintance of x"], 
+      ["薛玉帆", "father of x"]
+    ],
+    "朱陵山": [
+      ["吕松年", "business partner of x, adversary of x"], 
+      ["吕陆升", "acquaintance of x"], 
+      ["葛继先", "father in law of x"], 
+      ["葛月萝", "husband of x"]
+    ],
+    "于尚勇": [
+      ["吕松年", "customer of x, suspected by x"], 
+      ["吕陆升", "acquaintance of x, suspicious of x"], 
+      ["乐婉", "acquaintance of x"]
+    ],
+    "于彦诚": [
+      ["吕松年", "customer of x"], 
+      ["吕陆升", "customer of x"]
+    ]
+}

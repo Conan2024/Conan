@@ -1,0 +1,71 @@
+{
+    "薛媚娘": [
+      ["萧体育", "lover of x, admirer of x, helped by x, secret lover of x, manipulator of x, deceiver of x"], 
+      ["秦老大", "teacher of x, secret lover of x, deceiver of x, suspect to x"], 
+      ["秦专家", "lover of x, secret lover of x, lover of x, adversary of x"], 
+      ["贾美丽", "teacher of x, perpetrator of x, manipulator of x, suspect to x"], 
+      ["庄清纯", "teacher of x, perpetrator of x, manipulator of x, deceiver of x"], 
+      ["郑友好", "acquaintance of x, teacher of x, suspect to x"], 
+      ["韦小弟", "student of x, acquaintance of x"]
+    ],
+    "萧体育": [
+      ["薛媚娘", "lover of x, admirer of x, helper of x, boyfriend of x, manipulated by x, deceived by x"], 
+      ["秦老大", "lover of x, extramarital affair with x, suspect of x, deceived by x"], 
+      ["庄清纯", "colleague of x, deceived by x, manipulated by x, betrayed by x"], 
+      ["郑友好", "teacher of x, colleague of x"], 
+      ["韦小弟", "admirer of x, mentor of x"]
+    ],
+    "秦老大": [
+      ["薛媚娘", "student of x, manipulated by x, deceived by x"], 
+      ["萧体育", "lover of x, victim of x, deceiver of x, suspected by x"], 
+      ["秦专家", "child of x, child of x, biological son of x"], 
+      ["贾美丽", "student of x, quest companion of x, victim of x, disliked by x, suspect to x, manipulated by x"], 
+      ["庄清纯", "teacher of x, secret lover of x"], 
+      ["郑友好", "friend of x, classmate of x"], 
+      ["韦小弟", "student of x, friend of x"]
+    ],
+    "秦专家": [
+      ["薛媚娘", "victim of x, lover of x, deceived by x"], 
+      ["秦老大", "father of x, biological father of x"], 
+      ["贾美丽", "victim of x, disliked by x"], 
+      ["庄清纯", "student of x"], 
+      ["郑友好", "student of x, student of x"], 
+      ["韦小弟", "student of x"]
+    ],
+    "贾美丽": [
+      ["薛媚娘", "student of x, victim of x, manipulated by x, suspected by x"], 
+      ["萧体育", "victim of x"], 
+      ["秦老大", "teacher of x, quest companion of x, perpetrator of x, dislike of x, manipulated by x, suspected by x"], 
+      ["秦专家", "perpetrator of x, dislike of x"], 
+      ["庄清纯", "student of x, victim of x"], 
+      ["郑友好", "classmate of x"], 
+      ["韦小弟", "classmate of x, schoolmate of x"]
+    ],
+    "庄清纯": [
+      ["薛媚娘", "student of x, victim of x, manipulated by x, deceived by x"], 
+      ["萧体育", "colleague of x"], 
+      ["秦老大", "student of x, manipulated by x"], 
+      ["秦专家", "teacher of x"], 
+      ["贾美丽", "teacher of x, perpetrator of x"], 
+      ["郑友好", "classmate of x"], 
+      ["韦小弟", "acquaintance of x, classmate of x"]
+    ],
+    "郑友好": [
+      ["薛媚娘", "acquaintance of x, student of x, suspected by x"], 
+      ["萧体育", "student of x, acquaintance of x"], 
+      ["秦老大", "friend of x, classmate of x"], 
+      ["秦专家", "mentor of x, acquaintance of x"], 
+      ["贾美丽", "classmate of x"], 
+      ["庄清纯", "classmate of x"], 
+      ["韦小弟", "friend of x, classmate of x"]
+    ],
+    "韦小弟": [
+      ["薛媚娘", "teacher of x, acquaintance of x"], 
+      ["萧体育", "student of x, information receiver from x"], 
+      ["秦老大", "friend of x, classmate of x"], 
+      ["秦专家", "teacher of x"], 
+      ["贾美丽", "classmate of x, schoolmate of x"], 
+      ["庄清纯", "acquaintance of x, classmate of x"], 
+      ["郑友好", "friend of x, classmate of x"]
+    ]
+}

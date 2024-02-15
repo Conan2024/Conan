@@ -1,0 +1,25 @@
+{
+    "张大副": [
+      ["杨老板", "murderer of x"], 
+      ["王船工", "co conspirator of x"]
+    ],
+    "很天真": [
+      ["张大副", "brother of x"], 
+      ["杨老板", "boss of x"]
+    ],
+    "杨老板": [
+      ["张大副", "business partner of x"], 
+      ["雯秘书", "secretary of x"]
+    ],
+    "雯秘书": [
+      ["杨老板", "boss of x"], 
+      ["张大副", "colleague of x"]
+    ],
+    "王船工": [
+      ["张大副", "acquaintance of x"], 
+      ["玲船医", "sweetheart of x"]
+    ],
+    "玲船医": [
+      ["杨老板", "bully of x"]
+    ]
+}

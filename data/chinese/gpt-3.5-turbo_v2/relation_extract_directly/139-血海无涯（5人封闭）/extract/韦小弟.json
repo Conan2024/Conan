@@ -1,0 +1,28 @@
+{
+    "韦小弟": [
+      ["父亲", "father of x"], 
+      ["母亲", "mother of x"], 
+      ["秦专家", "subject of x investigation for x, perpetrator of x's family"], 
+      ["庄清纯", "friend of x"], 
+      ["贾美丽", "friend of x"], 
+      ["郑友好", "friend of x, saved by x, helper of x, manipulated by x"]
+    ],
+    "父亲": [
+      ["韦小弟", "child of x"]
+    ],
+    "母亲": [
+      ["韦小弟", "child of x"]
+    ],
+    "秦专家": [
+      ["韦小弟", "suspect to x, perpetrator of x's family"]
+    ],
+    "庄清纯": [
+      ["韦小弟", "friend of x"]
+    ],
+    "贾美丽": [
+      ["韦小弟", "friend of x"]
+    ],
+    "郑友好": [
+      ["韦小弟", "friend of x, saved by x, helper of x, manipulated by x"]
+    ]
+}

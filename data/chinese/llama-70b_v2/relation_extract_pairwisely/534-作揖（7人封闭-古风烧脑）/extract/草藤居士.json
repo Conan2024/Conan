@@ -1,0 +1,44 @@
+{
+    "方竹": [
+      ["方絮", "romantic partner of x, closest friend of x"], 
+      ["方叶", "brother of x, sibling of x"], 
+      ["方眠", "brother in law of x, rival of x"], 
+      [" Li钦仁", "brother in law of x, rival of x, enemy of x"]
+    ],
+    "方絮": [
+      ["方竹", "romantic partner of x, closest friend of x"], 
+      ["方叶", "romantic relationship of x, friend of x, confidant of x, victim of x"], 
+      ["方眠", "sister of x, enemy of x"], 
+      [" Chen孜靖", "childhood sweetheart of x, love interest of x, savior of x, mentor of x, bond of x, mutual respect of x"], 
+      ["Li钦仁", "wife of x li钦仁, romantic relationship of x, suspect of x, emotional destroyer of x"]
+    ],
+    "方叶": [
+      ["方竹", "brother of x, sibling of x"], 
+      ["方絮", "romantic relationship of x, bully of x, perpetrator of x"], 
+      ["方眠", "sibling of x, rival of x"], 
+      ["Chen孜靖", "relationship 1: mother in law of x, relationship 2: husband in law of x"], 
+      [" Li钦仁", "romantic relationship of x"]
+    ],
+    "方眠": [
+      ["方竹", "sister in law of x, fiancee of x"], 
+      ["方絮", "sister of x, friend of x"], 
+      ["方叶", "sibling of x, rival of x"], 
+      [" Chen孜靖", "father's adopted daughter of x, romantic relationship of x, allies in revenge of x"], 
+      [" Li钦仁", "sister in law of x, rival of x"]
+    ],
+    " Chen孜靖": [
+      ["方絮", "childhood sweetheart of x, love interest of x, savior of x, mentor of x, bond of x, mutual respect of x"], 
+      ["方眠", "father's adopted daughter of x, romantic relationship of x, allies in revenge of x"]
+    ],
+    " Li钦仁": [
+      ["方竹", "brother in law of x, rival of x, enemy of x"], 
+      ["方叶", "romantic relationship of x"], 
+      ["方眠", "brother in law of x, rival of x"]
+    ],
+    "Li钦仁": [
+      ["方絮", "rival of x, wife of x, suspect of x, emotional destroyer of x"]
+    ],
+    "Chen孜靖": [
+      ["方叶", "relationship 1: wife of x, relationship 2: enemy of x"]
+    ]
+}

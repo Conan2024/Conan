@@ -1,0 +1,43 @@
+{
+    "韦太太": [
+      ["明纱", "friend of x, childhood friend of x"], 
+      ["罗亨理", "acquaintance of x, business partner of x"], 
+      ["谭仁昌", "husband of x, superior of x"]
+    ],
+    "海悠": [
+      ["韦太太", "friend of x, confidant of x"], 
+      ["明纱", "adopted daughter of x, familial relationship of x"], 
+      ["谭仁昌", "adopted father of x, familial relationship of x"]
+    ],
+    "明纱": [
+      ["韦太太", "friend of x, childhood friend of x"], 
+      ["罗亨理", "brother of x, familial relationship of x"], 
+      ["谭仁昌", "husband of x, marital relationship of x"]
+    ],
+    "罗亨理": [
+      ["韦太太", "acquaintance of x, business partner of x"], 
+      ["明纱", "sister of x, familial relationship of x"], 
+      ["谭仁昌", "brother in law of x, familial relationship of x"]
+    ],
+    "谭仁昌": [
+      ["韦太太", "wife of x, marital relationship of x"], 
+      ["明纱", "sister in law of x, familial relationship of x"], 
+      ["罗亨理", "brother of x, familial relationship of x"]
+    ],
+    "欣雅": [
+      ["韦太太", "friend of x, confidant of x"], 
+      ["明纱", "friend of x, confidant of x"], 
+      ["罗亨理", "friend of x, confidant of x"], 
+      ["谭仁昌", "friend of x, confidant of x"]
+    ],
+    "吕名然": [
+      ["韦太太", "brother of x, familial relationship of x"], 
+      ["明纱", "nephew of x, familial relationship of x"], 
+      ["谭仁昌", "nephew of x, familial relationship of x"]
+    ],
+    "尚致": [
+      ["明纱", "nephew of x, familial relationship of x"], 
+      ["谭仁昌", "nephew of x, familial relationship of x"], 
+      ["罗亨理", "friend of x, familial relationship of x"]
+    ]
+}

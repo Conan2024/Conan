@@ -1,0 +1,78 @@
+{
+    "魏女儿": [
+        [
+            "爸爸",
+            "deceased father of x"
+        ],
+        [
+            "妈妈",
+            "mother of x"
+        ],
+        [
+            "甄叔叔 (甄主任)",
+            "step-father of x, disliked by x, suspected by x, victim of x"
+        ],
+        [
+            "白患者",
+            "acquaintance of x, admirer of x, admired by x"
+        ]
+    ],
+    "爸爸": [
+        [
+            "魏女儿",
+            "deceased father of x"
+        ],
+        [
+            "妈妈",
+            "husband of x"
+        ],
+        [
+            "甄叔叔 (甄主任)",
+            "patient of x"
+        ]
+    ],
+    "妈妈": [
+        [
+            "魏女儿",
+            "mother of x"
+        ],
+        [
+            "爸爸",
+            "wife of x, widow of x"
+        ],
+        [
+            "甄叔叔 (甄主任)",
+            "wife of x, victim of x"
+        ]
+    ],
+    "甄叔叔 (甄主任)": [
+        [
+            "魏女儿",
+            "step-father of x, perpetrator of x, disliked by x, suspected by x, victim of x"
+        ],
+        [
+            "妈妈",
+            "husband of x, perpetrator of x"
+        ],
+        [
+            "爸爸",
+            "doctor of x, suspected perpetrator of x"
+        ],
+        [
+            "王护士",
+            "extramarital affair with x"
+        ]
+    ],
+    "王护士": [
+        [
+            "甄叔叔 (甄主任)",
+            "extramarital affair with x"
+        ]
+    ],
+    "白患者": [
+        [
+            "魏女儿",
+            "acquaintance of x, admirer of x, admired by x"
+        ]
+    ]
+}

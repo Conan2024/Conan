@@ -1,0 +1,104 @@
+{
+    "茱丽": [
+      ["张太太", "wife of x"], 
+      ["稚筠", "aunt of x, future mother in law of x"], 
+      ["葛继先", "acquaintance of x, friend of x"], 
+      ["葛月萝", "friend of x, helper of x, helped by x, helper of x, saviour of x, information receiver from x"], 
+      ["葛月曼", "friend of x, helper of x, helped by x, quest companion of x, information receiver from x, guest of x, host of x"], 
+      ["吕松年", "acquaintance of x, guest of x"], 
+      ["吕陆升", "victim of x, acquaintance of x"], 
+      ["于彦诚", "acquaintance of x, helper of x, helped by x, quest companion of x"], 
+      ["于尚勇", "helper of x, guest of x"]
+    ],
+    "张太太": [
+      ["茱丽", "husband of x"], 
+      ["稚筠", "adoptive daughter of x"], 
+      ["葛继先", "acquaintance of x, friend of x"], 
+      ["葛月萝", "friend of x, superior of x, helper of x, acquaintance of x, information receiver from x, service provider of x, saviour of x"], 
+      ["葛月曼", "acquaintance of x, friend of x"], 
+      ["吕松年", "acquaintance of x, possibly family of x"], 
+      ["吕陆升", "acquaintance of x"], 
+      ["于彦诚", "friend of x, helped by x, customer of x, information receiver from x"], 
+      ["于尚勇", "acquaintance of x, helper of x, helped by x"]
+    ],
+    "稚筠": [
+      ["茱丽", "future relative of x, niece of x"], 
+      ["张太太", "adoptive mother of x"], 
+      ["葛继先", "acquaintance of x, possibly family of x"], 
+      ["葛月萝", "acquaintance of x"], 
+      ["葛月曼", "niece of x"], 
+      ["吕松年", "suspected by x"], 
+      ["于彦诚", "acquaintance of x, information receiver from x"], 
+      ["于尚勇", "quest companion of x, acquaintance of x, informant of x, customer of x, information receiver from x, possibly family of x"]
+    ],
+    "葛继先": [
+      ["茱丽", "acquaintance of x, friend of x"], 
+      ["张太太", "acquaintance of x, friend of x"], 
+      ["稚筠", "acquaintance of x, possibly family of x"], 
+      ["葛月萝", "father of x"], 
+      ["葛月曼", "father of x"], 
+      ["吕松年", "victim of x"], 
+      ["吕陆升", "victim of x, x's enemy's family"], 
+      ["于彦诚", "acquaintance of x, customer of x"]
+    ],
+    "葛月萝": [
+      ["茱丽", "friend of x, helped by x, helped by x, helped by x"], 
+      ["张太太", "friend of x, subordinate of x, helped by x, acquaintance of x, customer of x, informant of x, saved by x"], 
+      ["稚筠", "acquaintance of x"], 
+      ["葛继先", "child of x"], 
+      ["葛月曼", "same person as x (different identity), younger sister of x"], 
+      ["吕陆升", "possibly family of x"], 
+      ["于彦诚", "friend of x, customer of x"], 
+      ["于尚勇", "acquaintance of x"]
+    ],
+    "葛月曼": [
+      ["茱丽", "friend of x, informant of x, helped by x, quest companion of x, guest of x, host of x"], 
+      ["张太太", "acquaintance of x, friend of x"], 
+      ["稚筠", "aunt of x"], 
+      ["葛继先", "child of x"], 
+      ["葛月萝", "same person as x (different identity), older sister of x"], 
+      ["吕松年", "same person as x (different identity), sister of x"], 
+      ["吕陆升", "same person as x (different identity)"], 
+      ["于彦诚", "acquaintance of x, customer of x"], 
+      ["于尚勇", "acquaintance of x"]
+    ],
+    "吕松年": [
+      ["茱丽", "acquaintance of x, host of x"], 
+      ["张太太", "acquaintance of x, possibly family of x"], 
+      ["稚筠", "suspect to x"], 
+      ["葛继先", "perpetrator of x"], 
+      ["葛月曼", "same person as x (different identity), sibling of x"], 
+      ["吕陆升", "same person as x (different identity)"], 
+      ["于尚勇", "cousin of x"]
+    ],
+    "吕陆升": [
+      ["茱丽", "perpetrator of x, acquaintance of x, suspect to x"], 
+      ["张太太", "acquaintance of x"], 
+      ["葛继先", "perpetrator of x, possibly family of x"], 
+      ["葛月萝", "possibly family of x"], 
+      ["葛月曼", "same person as x (different identity)"], 
+      ["吕松年", "same person as x (different identity)"], 
+      ["于彦诚", "same person as x (different identity), sibling of x"], 
+      ["于尚勇", "friend of x"]
+    ],
+    "于彦诚": [
+      ["茱丽", "acquaintance of x, helped by x, quest companion of x, helper of x"], 
+      ["张太太", "friend of x, helper of x, product provider of x, informant of x"], 
+      ["稚筠", "acquaintance of x, informant of x"], 
+      ["葛继先", "acquaintance of x, product provider of x"], 
+      ["葛月萝", "friend of x, product provider of x"], 
+      ["葛月曼", "acquaintance of x, product provider of x"], 
+      ["吕陆升", "same person as x (different identity), sibling of x"], 
+      ["于尚勇", "same person as x (different identity)"]
+    ],
+    "于尚勇": [
+      ["茱丽", "helped by x, host of x"], 
+      ["张太太", "acquaintance of x, helper of x, helped by x"], 
+      ["稚筠", "helper of x, quest companion of x, informant of x, acquaintance of x, service provider of x, possibly family of x"], 
+      ["葛月萝", "acquaintance of x"], 
+      ["葛月曼", "acquaintance of x"], 
+      ["吕松年", "cousin of x"], 
+      ["吕陆升", "friend of x"], 
+      ["于彦诚", "same person as x (different identity)"]
+    ]
+}

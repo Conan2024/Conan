@@ -1,0 +1,327 @@
+{
+    "周教授": [
+        [
+            "郑函贞",
+            "学生/教师",
+            "朋友",
+            "潜在的爱情对象",
+            "兄弟/姐妹"
+        ],
+        [
+            "忱纱",
+            "friend",
+            "mentor"
+        ],
+        [
+            "巴府山",
+            "relationhip 1: mentor of X",
+            "relationship 2: acquaintance of X"
+        ],
+        [
+            "鹃歌",
+            "学生与教师",
+            "朋友"
+        ],
+        [
+            "鬼印",
+            "mentor",
+            "friend"
+        ],
+        [
+            "Direction Guide",
+            "情人"
+        ],
+        [
+            "詹天佑",
+            "father-in-law",
+            "mentor",
+            "colleague"
+        ]
+    ],
+    "郑函贞": [
+        [
+            "忱纱",
+            "鹃歌"
+        ],
+        [
+            "巴府山",
+            "guest, patient, friend, person of interest"
+        ],
+        [
+            "鹃歌",
+            "朋友",
+            "浮生相亲",
+            "师弟",
+            "潜在的情报",
+            "救命恩人",
+            "同谋考察",
+            "潜在的敌人"
+        ],
+        [
+            "鬼印",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Direction Guide",
+            "Friend",
+            "Mentor",
+            "Teacher",
+            "Informant",
+            "Acquaintance",
+            "Classmate",
+            "Schoolmate",
+            "Neighbour",
+            "Helper",
+            "Business Partner",
+            "Customer",
+            "Tenant",
+            "Patient",
+            "Subject of investigation"
+        ],
+        [
+            "詹天佑",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "忱纱": [
+        [
+            "郑函贞",
+            "鹃歌"
+        ],
+        [
+            "周教授",
+            "friend",
+            "mentee"
+        ],
+        [
+            "巴府山",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "鹃歌",
+            "romantic relationship",
+            "姐弟",
+            "同一个垭"
+        ],
+        [
+            "鬼印",
+            "鹃歌"
+        ],
+        [
+            "Direction Guide",
+            "Acquaintance"
+        ],
+        [
+            "詹天佑",
+            "friend"
+        ]
+    ],
+    "巴府山": [
+        [
+            "郑函贞",
+            "host, medical care provider, friend's father, person of interest"
+        ],
+        [
+            "周教授",
+            "relationship 1: employer of X",
+            "relationship 2: neighbor of X"
+        ],
+        [
+            "忱纱",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "鹃歌",
+            "father",
+            "fiancé",
+            "husband"
+        ],
+        [
+            "鬼印",
+            "婚约"
+        ],
+        [
+            "Direction Guide",
+            "Friend",
+            "Business Partner"
+        ],
+        {
+            "relationships": [
+                "詹天佑",
+                "鹃歌",
+                "colleague"
+            ]
+        }
+    ],
+    "鹃歌": [
+        [
+            "郑函贞",
+            "朋友",
+            "浮生相亲",
+            "师弟",
+            "潜在的情报",
+            "救命恩人",
+            "同谋考察",
+            "潜在的敌人"
+        ],
+        [
+            "周教授",
+            "朋友",
+            "受欢迎的人"
+        ],
+        [
+            "忱纱",
+            "romantic relationship",
+            "姐弟",
+            "Directionally Challenged"
+        ],
+        [
+            "巴府山",
+            "daughter",
+            "fiancée",
+            "wife"
+        ],
+        [
+            "鬼印",
+            "关系 1",
+            "关系 2"
+        ],
+        [
+            "Direction Guide",
+            "Love Interest",
+            "Friend"
+        ],
+        [
+            "詹天佑",
+            "sibling",
+            "romantic partner",
+            "informant",
+            "close friend"
+        ]
+    ],
+    "鬼印": [
+        [
+            "郑函贞",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "周教授",
+            "mentee",
+            "friend"
+        ],
+        [
+            "忱纱",
+            "鹃歌"
+        ],
+        [
+            "巴府山",
+            "婚约"
+        ],
+        [
+            "鹃歌",
+            "关系 1",
+            "关系 2"
+        ],
+        [
+            "Direction Guide",
+            "Perpetrator of X"
+        ],
+        [
+            "詹天佑",
+            "friend, mentor"
+        ]
+    ],
+    "Direction Guide": [
+        [
+            "郑函贞",
+            "Friend",
+            "Mentor",
+            "Teacher",
+            "Informant",
+            "Acquaintance",
+            "Classmate",
+            "Schoolmate",
+            "Neighbour",
+            "Helper",
+            "Business Partner",
+            "Customer",
+            "Tenant",
+            "Patient",
+            "Subject of investigation"
+        ],
+        [
+            "周教授",
+            "情人"
+        ],
+        [
+            "忱纱",
+            "Mentor",
+            "Teacher"
+        ],
+        [
+            "巴府山",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "鹃歌",
+            "Love Interest",
+            "Friend"
+        ],
+        [
+            "鬼印",
+            "Victim of X"
+        ],
+        [
+            "詹天佑",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "詹天佑": [
+        [
+            "郑函贞",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "周教授",
+            "father-in-law",
+            "mentee",
+            "colleague"
+        ],
+        [
+            "忱纱",
+            "father",
+            "teacher",
+            "friend"
+        ],
+        {
+            "relationships": [
+                "巴府山",
+                "鹃歌",
+                "colleague"
+            ]
+        },
+        [
+            "鹃歌",
+            "sibling",
+            "romantic partner",
+            "informant",
+            "close friend"
+        ],
+        [
+            "鬼印",
+            "friend, mentor"
+        ],
+        [
+            "Direction Guide",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "情人": [
+        [
+            "周教授",
+            "Direction Guide",
+            "鹃歌"
+        ]
+    ]
+}

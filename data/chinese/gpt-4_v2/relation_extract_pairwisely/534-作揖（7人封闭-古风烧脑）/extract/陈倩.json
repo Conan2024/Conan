@@ -1,0 +1,133 @@
+{
+    "陈倩": [
+      ["陈孜靖", "daughter of x, fiancee of x"], 
+      ["陈氏", "daughter of x"], 
+      ["丫墨", "informant of x, acquaintance of x"], 
+      ["小茜", "adoptive sister of x, friend of x"], 
+      ["草藤居士", "adoptive sister of x, friend of x"], 
+      ["李府府主李钦仁", "future relative of x, daughter in law of x"], 
+      ["李仲", "fiancee of x, lover of x, victim of x, helped by x, secretly admired by x"], 
+      ["喊住歹徒的书生", "extramarital affair with x, saved by x"], 
+      ["土匪", "victim of x"], 
+      ["李王爷", "victim of x, disliked by x"]
+    ],
+    "陈孜靖": [
+      ["陈倩", "father of x"], 
+      ["陈氏", "husband of x, father of x"], 
+      ["丫墨", "father of x"], 
+      ["小茜", "adoptive daughter of x, sister of x"], 
+      ["草藤居士", "adoptive father of x, quest companion of x"], 
+      ["媒婆", "customer of x"], 
+      ["李府府主李钦仁", "future father in law of x"], 
+      ["李仲", "future father in law of x"], 
+      ["李氏夫人", "father in law of x"], 
+      ["喊住歹徒的书生", "father of x"], 
+      ["土匪", "victim of x"], 
+      ["李王爷", "father in law of x"]
+    ],
+    "陈氏": [
+      ["陈倩", "mother of x"], 
+      ["陈孜靖", "wife of x, mother of x"], 
+      ["丫墨", "mother of x"], 
+      ["小茜", "mother of x"], 
+      ["草藤居士", "mother of x"], 
+      ["喊住歹徒的书生", "mother in law of x"], 
+      ["李王爷", "victim of x"]
+    ],
+    "丫墨": [
+      ["陈倩", "information receiver from x, acquaintance of x"], 
+      ["陈孜靖", "child of x"], 
+      ["陈氏", "child of x"], 
+      ["媒婆", "helper of x"], 
+      ["李府府主李钦仁", "servant of x, helper of x"], 
+      ["李仲", "acquaintance of x"], 
+      ["喊住歹徒的书生", "helper of x, helped by x"], 
+      ["李王爷", "perpetrator of x"]
+    ],
+    "小茜": [
+      ["陈倩", "adoptive sister of x, friend of x"], 
+      ["陈孜靖", "adoptive father of x, sister's x"], 
+      ["陈氏", "child of x"], 
+      ["草藤居士", "adoptive sister of x"], 
+      ["媒婆", "adopted sister of x, co wives of x"], 
+      ["李仲", "acquaintance of x, friend of x"], 
+      ["李氏夫人", "acquaintance of x, guest of x"], 
+      ["李王爷", "saviour of x, acquaintance of x"]
+    ],
+    "草藤居士": [
+      ["陈倩", "adoptive sister of x, friend of x"], 
+      ["陈孜靖", "adoptive daughter of x, friend of x"], 
+      ["陈氏", "child of x"], 
+      ["小茜", "adoptive mother of x"], 
+      ["李府府主李钦仁", "acquaintance of x"], 
+      ["喊住歹徒的书生", "possibly family of x, saviour of x"]
+    ],
+    "媒婆": [
+      ["陈倩", "visitor of x"], 
+      ["陈孜靖", "service provider of x"], 
+      ["小茜", "attempted perpetrator of x"], 
+      ["李府府主李钦仁", "acquaintance of x"], 
+      ["李氏夫人", "acquaintance of x"], 
+      ["李王爷", "perpetrator of x"]
+    ],
+    "李府府主李钦仁": [
+      ["陈倩", "future relative of x, father in law of x"], 
+      ["陈孜靖", "father in law of x"], 
+      ["丫墨", "employer of x, helped by x"], 
+      ["草藤居士", "acquaintance of x"], 
+      ["媒婆", "customer of x"], 
+      ["李仲", "father of x"], 
+      ["李氏夫人", "husband of x"], 
+      ["喊住歹徒的书生", "employer of x, father of x"], 
+      ["土匪", "victim of x"], 
+      ["李王爷", "father of x, superior of x"]
+    ],
+    "李仲": [
+      ["陈倩", "fiance of x, lover of x, helper of x, admirer of x"], 
+      ["陈孜靖", "fiance of x"], 
+      ["丫墨", "acquaintance of x"], 
+      ["小茜", "acquaintance of x, friend of x"], 
+      ["李府府主李钦仁", "child of x"], 
+      ["李氏夫人", "son of x"], 
+      ["喊住歹徒的书生", "same person as x (different reference), fiance of x"], 
+      ["土匪", "victim of x"], 
+      ["李王爷", "victim of x, hurt by x, killed by x"]
+    ],
+    "喊住歹徒的书生": [
+      ["陈倩", "extramarital affair with x, saviour of x"], 
+      ["陈孜靖", "child of x"], 
+      ["陈氏", "son in law of x"], 
+      ["丫墨", "helped by x, helper of x"], 
+      ["草藤居士", "possibly family of x, seeker of x help from x"], 
+      ["李府府主李钦仁", "employee of x, son of x"], 
+      ["李仲", "same person as x (different reference), fiance of x"], 
+      ["土匪", "victim of x"], 
+      ["李王爷", "savior of x, admirer of x"]
+    ],
+    "土匪": [
+      ["陈倩", "perpetrator of x"], 
+      ["陈孜靖", "perpetrator of x"], 
+      ["李府府主李钦仁", "perpetrator of x"], 
+      ["李仲", "perpetrator of x"], 
+      ["喊住歹徒的书生", "perpetrator of x"]
+    ],
+    "李王爷": [
+      ["陈倩", "perpetrator of x, disliker of x"], 
+      ["陈孜靖", "son in law of x"], 
+      ["陈氏", "perpetrator of x"], 
+      ["丫墨", "victim of x"], 
+      ["小茜", "saved by x, acquaintance of x"], 
+      ["媒婆", "victim of x"], 
+      ["李府府主李钦仁", "child of x, subordinate of x"], 
+      ["李仲", "perpetrator of x, attempted perpetrator of x"], 
+      ["喊住歹徒的书生", "victim of x, disliked by x"], 
+      ["土匪", "victim of x"]
+    ],
+    "李氏夫人": [
+      ["陈孜靖", "mother in law of x"], 
+      ["小茜", "acquaintance of x, host of x"], 
+      ["媒婆", "customer of x"], 
+      ["李府府主李钦仁", "wife of x"], 
+      ["李仲", "mother of x"]
+    ]
+}

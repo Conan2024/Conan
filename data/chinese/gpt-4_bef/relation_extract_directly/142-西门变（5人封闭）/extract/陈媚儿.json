@@ -1,0 +1,43 @@
+{
+    "陈媚儿": [
+      ["陈媚儿的父母", "child of x"], 
+      ["地痞", "victim of x, adversary of x"], 
+      ["小少爷", "saved by x"], 
+      ["赵中杨", "lover of x, enemy of x, victim of x, attempted murderer of x"], 
+      ["大公子赵中正", "employer of x"], 
+      ["李成", "acquaintance of x"]
+    ],
+    "陈媚儿的父母": [
+      ["地痞", "victim of x"]
+    ],
+    "地痞": [
+      ["陈媚儿", "perpetrator of x, killed by x"], 
+      ["陈媚儿的父母", "perpetrator of x"], 
+      ["小少爷", "adversary of x"]
+    ],
+    "小少爷": [
+      ["陈媚儿", "saviour of x"], 
+      ["地痞", "enemy of x"], 
+      ["手下", "superior of x"], 
+      ["李成", "superior of x"]
+    ],
+    "手下": [
+      ["小少爷", "subordinate of x"], 
+      ["李成", "colleague of x"]
+    ],
+    "赵中杨": [
+      ["陈媚儿", "lover of x, deceived by x, victim of x"], 
+      ["大公子赵中正", "sibling of x"], 
+      ["李成", "superior of x"]
+    ],
+    "大公子赵中正": [
+      ["陈媚儿", "employee of x, information receiver from x"], 
+      ["赵中杨", "sibling of x"]
+    ],
+    "李成": [
+      ["陈媚儿", "acquaintance of x"], 
+      ["小少爷", "subordinate of x"], 
+      ["手下", "colleague of x"], 
+      ["赵中杨", "subordinate of x"]
+    ]
+}

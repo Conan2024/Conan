@@ -1,0 +1,190 @@
+{
+    "张大副": [
+        [
+            "很天真",
+            "brother of x"
+        ],
+        [
+            "杨老板",
+            "business partner of x",
+            "trusted by x"
+        ],
+        [
+            "雯秘书",
+            "co-worker with x"
+        ],
+        [
+            "王船工",
+            "colleague of x",
+            "helper of x"
+        ],
+        [
+            "玲船医",
+            "helper of"
+        ],
+        [
+            "王小工",
+            "friend of x",
+            "business partner of x"
+        ]
+    ],
+    "很天真": [
+        [
+            "张大副",
+            "brother of x"
+        ],
+        [
+            "杨老板",
+            "helper of x"
+        ],
+        [
+            "雯秘书",
+            "ex coworker of 张大副"
+        ],
+        [
+            "弟弟 of 王船工"
+        ],
+        [
+            "玲船医",
+            "secret admirer of x"
+        ],
+        [
+            "王小工",
+            "brother of王小工"
+        ]
+    ],
+    "杨老板": [
+        [
+            "张大副",
+            "business partner of x",
+            "trusted by x"
+        ],
+        [
+            "很天真",
+            "suspected by x"
+        ],
+        [
+            "雯秘书",
+            "informant of 杨老板",
+            "information receiver from 杨老板"
+        ],
+        [
+            "王船工",
+            "employee of x"
+        ],
+        [
+            "玲船医",
+            "secret lover of x"
+        ],
+        [
+            "王小工",
+            "business partner of x"
+        ]
+    ],
+    "雯秘书": [
+        [
+            "张大副",
+            "co-worker with x"
+        ],
+        [
+            "很天真",
+            "ex coworker of 张大副"
+        ],
+        [
+            "杨老板",
+            "informant of 雯秘书",
+            "information receiver from 雯秘书"
+        ],
+        [
+            "王船工",
+            "secret lover of x",
+            "minion of x"
+        ],
+        [
+            "玲船医",
+            "co-workers"
+        ],
+        [
+            "王小工",
+            "romantic relationships with x",
+            "mentor of x"
+        ]
+    ],
+    "玲船医": [
+        [
+            "张大副",
+            "informant of"
+        ],
+        [
+            "很天真",
+            "secret admirer of x"
+        ],
+        [
+            "杨老板",
+            "secret lover of x"
+        ],
+        [
+            "雯秘书",
+            "co-workers"
+        ],
+        [
+            "王船工",
+            "lover of x",
+            "secret lover of x"
+        ],
+        [
+            "王小工",
+            "lover of x"
+        ]
+    ],
+    "王小工": [
+        [
+            "张大副",
+            "friend of x",
+            "business partner of x"
+        ],
+        [
+            "很天真",
+            "brother of很天真"
+        ],
+        [
+            "杨老板",
+            "business partner of x"
+        ],
+        [
+            "雯秘书",
+            "romantic relationships with x"
+        ],
+        [
+            "王船工",
+            "brother"
+        ],
+        [
+            "玲船医",
+            "lover of x"
+        ]
+    ],
+    "王船工": [
+        [
+            "船工 of 张大副"
+        ],
+        [
+            "杨老板",
+            "employer of x"
+        ],
+        [
+            "雯秘书",
+            "lover of x",
+            "subordinate of x"
+        ],
+        [
+            "玲船医",
+            "lover of x",
+            "secret lover of x"
+        ],
+        [
+            "王小工",
+            "brother"
+        ]
+    ]
+}

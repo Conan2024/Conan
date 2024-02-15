@@ -1,0 +1,94 @@
+{
+    "艾秘书": [
+        [
+            "罗杰爵士",
+            "employee of x, subordinate of x, possible murderer of x"
+        ],
+        [
+            "罗杰爵士夫人",
+            "acquaintance of x"
+        ],
+        [
+            "罗格",
+            "acquaintance of x, manipulated by x"
+        ],
+        [
+            "普罗律师",
+            "acquaintance of x, suspected by x"
+        ],
+        [
+            "马尔医生",
+            "acquaintance of x, information receiver from x"
+        ]
+    ],
+    "罗杰爵士": [
+        [
+            "艾秘书",
+            "employer of x, superior of x, possible victim of x"
+        ],
+        [
+            "罗杰爵士夫人",
+            "husband of x"
+        ],
+        [
+            "罗格",
+            "father of x"
+        ],
+        [
+            "普罗律师",
+            "father of x"
+        ],
+        [
+            "马尔医生",
+            "patient of x"
+        ]
+    ],
+    "罗杰爵士夫人": [
+        [
+            "艾秘书",
+            "acquaintance of x"
+        ],
+        [
+            "罗杰爵士",
+            "wife of x"
+        ],
+        [
+            "罗格",
+            "step-mother of x"
+        ],
+        [
+            "普罗律师",
+            "step-mother of x"
+        ]
+    ],
+    "罗格": [
+        [
+            "艾秘书",
+            "manipulator of x, helped by x"
+        ],
+        [
+            "罗杰爵士",
+            "son of x"
+        ]
+    ],
+    "普罗律师": [
+        [
+            "艾秘书",
+            "acquaintance of x, deceiver of x"
+        ],
+        [
+            "罗杰爵士",
+            "son of x"
+        ]
+    ],
+    "马尔医生": [
+        [
+            "艾秘书",
+            "informant of x, service provider of x"
+        ],
+        [
+            "罗杰爵士",
+            "doctor of x"
+        ]
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "林夕": [
+        [
+            "林惟仁",
+            "father, doctor, employer"
+        ],
+        [
+            "林阳",
+            "Brother, Son of 林惟仁",
+            "Sibling of X",
+            "Child of X"
+        ],
+        [
+            "沈城",
+            "acquaintance, friend"
+        ],
+        [
+            "苏阳",
+            "恋人, 朋友, Familiar Stranger, 照顾者"
+        ],
+        [
+            "顾宇",
+            "Boyfriend/Girlfriend, Stranger",
+            "Friend"
+        ],
+        [
+            "顾晴",
+            "friend, classmate, caretaker, lover"
+        ]
+    ],
+    "林惟仁": [
+        [
+            "林夕",
+            "daughter, patient, subordinate"
+        ],
+        [
+            "林阳",
+            "father-son",
+            "master-apprentice"
+        ],
+        [
+            "沈城",
+            "employer",
+            "loyal servant"
+        ],
+        [
+            "苏阳",
+            "father-son relationship, mentor-mentee relationship, employer-employee relationship"
+        ],
+        [
+            "顾宇",
+            "father-son relationship, mentor-mentee relationship, employer-employee relationship"
+        ],
+        [
+            "顾晴",
+            "father-daughter",
+            "doctor-patient"
+        ]
+    ],
+    "林阳": [
+        [
+            "林夕",
+            "Sister of X",
+            "Sibling of X",
+            "Child of X"
+        ],
+        [
+            "林惟仁",
+            "brother-in-law",
+            "colleague"
+        ],
+        [
+            "沈城",
+            "Brother-in-law, Co-worker, Friend"
+        ],
+        [
+            "苏阳",
+            "Brother-in-law, Husband of 顾晴"
+        ],
+        [
+            "顾宇",
+            "boyfriend",
+            "ex-boyfriend"
+        ],
+        [
+            "顾晴",
+            "boyfriend, girlfriend"
+        ]
+    ],
+    "沈城": [
+        [
+            "林夕",
+            "employer, acquaintance"
+        ],
+        [
+            "林惟仁",
+            "employer",
+            "loyal servant"
+        ],
+        [
+            "林阳",
+            "Brother-in-law, Co-worker, Friend"
+        ],
+        [
+            "苏阳",
+            "superior",
+            "employer"
+        ],
+        [
+            "顾晴",
+            "Employee of X",
+            "Servant of X"
+        ]
+    ],
+    "苏阳": [
+        [
+            "林夕",
+            "恋人, 朋友, Familiar Stranger, 被照顾者"
+        ],
+        [
+            "林惟仁",
+            "father-son relationship, mentor-mentee relationship, subordinate-superior relationship"
+        ],
+        [
+            "林阳",
+            "Brother-in-law, Boyfriend of 林夕"
+        ],
+        [
+            "顾宇",
+            "关系1, 关系2"
+        ],
+        [
+            "顾晴",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "顾宇": [
+        [
+            "林夕",
+            "Boyfriend/Girlfriend, Stranger",
+            "Friend"
+        ],
+        [
+            "林惟仁",
+            "son, mentee, employee"
+        ],
+        [
+            "林阳",
+            "girlfriend",
+            "ex-girlfriend"
+        ],
+        [
+            "苏阳",
+            "关系1, 关系2"
+        ],
+        [
+            "顾晴",
+            "close friend, confidant, and former girlfriend"
+        ]
+    ],
+    "顾晴": [
+        [
+            "林夕",
+            "friend, classmate, caretaker, lover"
+        ],
+        [
+            "林惟仁",
+            "father-daughter",
+            "doctor-patient"
+        ],
+        [
+            "林阳",
+            "boyfriend, girlfriend"
+        ],
+        [
+            "沈城",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "苏阳",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "顾宇",
+            "close friend, confidant, and former boyfriend"
+        ]
+    ],
+    "苏陽": [
+        [
+            "沈城",
+            "subordinate",
+            "boyfriend"
+        ]
+    ]
+}

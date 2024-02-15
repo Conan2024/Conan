@@ -1,0 +1,19 @@
+{
+    "赵中正": [
+      ["赵中杨", "brother of x"], 
+      ["赵三", "friend of x"], 
+      ["陈媚儿", "ex romantic relationships with x"], 
+      ["李成", "employee of x"]
+    ],
+    "赵中杨": [
+      ["赵中正", "brother of x"], 
+      ["陈媚儿", "romantic relationships with x"]
+    ],
+    "陈媚儿": [
+      ["赵中杨", "romantic relationships with x"], 
+      ["赵中正", "ex romantic relationships with x"]
+    ],
+    "赵三": [
+      ["赵中正", "friend of x"]
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "谭太太": [
+      ["蔡仁昌", "husband of x"], 
+      ["欣雅", "acquaintance of x, attempted perpetrator of x"], 
+      ["采茜", "friend of x"], 
+      ["海悠", "adopted mother of x"]
+    ],
+    "蔡仁昌": [
+      ["谭太太", "wife of x"], 
+      ["吕名然", "rival in love of x"]
+    ],
+    "欣雅": [
+      ["谭太太", "acquaintance of x, attempted perpetrator of x"], 
+      ["海悠", "adopted sister of x"]
+    ],
+    "采茜": [
+      ["谭太太", "friend of x"], 
+      ["吕名然", "ex romantic relationships with x"]
+    ],
+    "海悠": [
+      ["谭太太", "adopted daughter of x"]
+    ],
+    "吕名然": [
+      ["谭太太", "rival in love of x"], 
+      ["采茜", "ex romantic relationships with x"]
+    ]
+}

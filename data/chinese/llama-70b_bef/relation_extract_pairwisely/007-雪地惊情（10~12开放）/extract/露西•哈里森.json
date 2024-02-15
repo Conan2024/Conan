@@ -1,0 +1,26 @@
+{
+    "露西•哈里森": [
+      ["艾米•摩根", "friend of x, classmate of x"]
+    ],
+    "乔纳森•佩里": [
+      ["哈罗德和玛丽娜•哈里森", "brother in law of x"], 
+      ["丹尼尔•佩里", "brother in law of x, friend of x"]
+    ],
+    "哈罗德和玛丽娜•哈里森": [
+      ["乔纳森•佩里", "brother in law of x"]
+    ],
+    "丹尼尔•佩里": [
+      ["乔纳森•佩里", "brother in law of x, friend of x"], 
+      ["戴维斯•佩里", "relative of x, friend of x"], 
+      ["艾米•摩根", "friend of x"]
+    ],
+    "艾米•摩根": [
+      ["露西•哈里森", "friend of x, classmate of x"], 
+      ["丹尼尔•佩里", "friend of x"], 
+      ["戴维斯•佩里", "friend of x, informant of x, suspect of x"]
+    ],
+    "戴维斯•佩里": [
+      ["丹尼尔•佩里", "relative of x, friend of x"], 
+      ["艾米•摩根", "helper of x, friend of x, informant of x"]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "林阳": [
+      ["林惟仁", "adoptive son of x"], 
+      ["林夕", "adoptive brother of x, sibling of x"], 
+      ["顾晴", "admired by x, ex romantic relationships with x, romantic relationships with x, suspect of x"], 
+      ["沈城", "employee of x, informant of x"], 
+      ["苏阳", "sibling's fiance of x, adversary of x, suspected by x, information receiver from x"], 
+      ["顾宇", "ex boyfriend of x's sibling, acquaintance of x"]
+    ],
+    "林惟仁": [
+      ["林阳", "father of x (adoptive)"], 
+      ["林夕", "father of x, future father in law of x"], 
+      ["顾晴", "father of x, business partner of x"], 
+      ["沈城", "employee of x"], 
+      ["苏阳", "adoptive father of x, fiance of x's daughter, information receiver from x, rival of x"], 
+      ["顾宇", "sworn brother of x"]
+    ],
+    "林夕": [
+      ["林阳", "adoptive sister of x, sibling of x"], 
+      ["林惟仁", "child of x, future wife of x x (engaged to be), fiancee of x"], 
+      ["顾晴", "romantic relationships with x, ex romantic relationships with x, fiancee of x's brother"], 
+      ["沈城", "child of x, information receiver from x"], 
+      ["苏阳", "fiance of x, patient of x"], 
+      ["顾宇", "ex romantic relationships with x"]
+    ],
+    "顾晴": [
+      ["林阳", "admires x, ex romantic relationships with x, romantic relationships with x, suspect by x"], 
+      ["林惟仁", "child of x, business partner of x"], 
+      ["林夕", "romantic relationships with x's brother, ex romantic relationships with x's brother, brother's fiancée of x"], 
+      ["沈城", "acquaintance of x, employer of x"], 
+      ["林阳", "romantic relationships with x, ex romantic relationships with x"], 
+      ["顾宇", "sibling of x"]
+    ],
+    "沈城": [
+      ["林阳", "employer of x, information receiver from x"], 
+      ["林惟仁", "employer of x"], 
+      ["林夕", "father of x, informant of x"], 
+      ["顾晴", "employee of x, acquaintance of x"], 
+      ["苏阳", "acquaintance of x"], 
+      ["顾宇", "acquaintance of x, helper of x, informant of x"]
+    ],
+    "苏阳": [
+      ["林阳", "fiance of x's sibling, adversary of x, suspected by x, subject of x investigation for x"], 
+      ["林惟仁", "fiance of x's daughter, informant of x, adversary of x"], 
+      ["林夕", "fiancee of x, doctor of x"], 
+      ["林阳", "fiance of x's sister, suspected by x, subject of x investigation for x"], 
+      ["沈城", "acquaintance of x"], 
+      ["顾宇", "ex romantic relationships with x"]
+    ],
+    "顾宇": [
+      ["林阳", "ex boyfriend of x's sibling, acquaintance of x"], 
+      ["林惟仁", "sworn brother of x"], 
+      ["林夕", "ex romantic relationships with x"], 
+      ["顾晴", "sibling of x"], 
+      ["沈城", "acquaintance of x, helped by x, information receiver from x"], 
+      ["苏阳", "ex girlfriend of x"]
+    ]
+}

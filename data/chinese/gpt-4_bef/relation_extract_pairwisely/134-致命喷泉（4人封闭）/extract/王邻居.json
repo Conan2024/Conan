@@ -1,0 +1,42 @@
+{
+    "王邻居": [
+      ["警察", "informant of x, quest companion of x, debtor of x, suspect to x"], 
+      ["记者", "information receiver from x, acquaintance of x"], 
+      ["李国富", "creditor of x, neighbour of x, quest companion of x, suspect of x"], 
+      ["何老六", "acquaintance of x"]
+    ],
+    "王邻居的妻子": [
+      ["王邻居", "husband of x"], 
+      ["警察", "possibly family of x"], 
+      ["李国富", "possibly family of x"], 
+      ["何老六", "acquaintance of x, neighbour of x"]
+    ],
+    "警察": [
+      ["王邻居", "information receiver from x, victim of x, creditor of x"], 
+      ["王邻居的妻子", "possibly family of x"], 
+      ["记者", "information receiver from x"], 
+      ["李国富", "victim of x"], 
+      ["何老六", "acquaintance of x, information receiver from x"]
+    ],
+    "记者": [
+      ["王邻居", "informant of x, acquaintance of x"], 
+      ["王邻居的妻子", "possibly family of x"], 
+      ["警察", "informant of x, adversary of x"], 
+      ["李国富", "adversary of x, information receiver from x"], 
+      ["何老六", "acquaintance of x, quest companion of x"]
+    ],
+    "李国富": [
+      ["王邻居", "debtor of x, neighbour of x, suspect to x"], 
+      ["王邻居的妻子", "possibly family of x"], 
+      ["警察", "suspected by x, debtor of x"], 
+      ["记者", "suspected by x"], 
+      ["何老六", "debtor of x, quest companion of x"]
+    ],
+    "何老六": [
+      ["王邻居", "acquaintance of x"], 
+      ["王邻居的妻子", "acquaintance of x, neighbour of x"], 
+      ["警察", "informant of x, suspect of x"], 
+      ["记者", "acquaintance of x, quest companion of x"], 
+      ["李国富", "creditor of x"]
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "依琳•卡特": [
+      ["詹姆斯•莱利", "husband of x"], 
+      ["伯克利", "son of x"], 
+      ["帕洛斯基医生", "doctor of x"], 
+      ["科斯塔护士长", "nurse of x"], 
+      ["德雷克•里默瑞特", "friend of x"], 
+      ["汉斯•里默瑞特", "friend of x"], 
+      ["盖尔•里默瑞特", "friend of x"], 
+      ["神父汤姆", "friend of x"], 
+      ["伊莱恩•卡特尔（警察）", "sister of x"]
+    ],
+    "詹姆斯•莱利": [
+      ["依琳•卡特", "wife of x"], 
+      ["伯克利", "father of x"], 
+      ["德雷克•里默瑞特", "friend of x"], 
+      ["汉斯•里默瑞特", "friend of x"], 
+      ["盖尔•里默瑞特", "friend of x"], 
+      ["神父汤姆", "friend of x"], 
+      ["伊莱恩•卡特尔（警察）", "sister in law of x"]
+    ],
+    "伯克利": [
+      ["依琳•卡特", "mother of x"], 
+      ["詹姆斯•莱利", "son of x"], 
+      ["德雷克•里默瑞特", "friend of x"], 
+      ["汉斯•里默瑞特", "friend of x"], 
+      ["盖尔•里默瑞特", "friend of x"], 
+      ["神父汤姆", "friend of x"], 
+      ["伊莱恩•卡特尔（警察）", "nephew of x"]
+    ],
+    "帕洛斯基医生": [
+      ["依琳•卡特", "doctor of x"]
+    ],
+    "科斯塔护士长": [
+      ["依琳•卡特", "nurse of x"]
+    ],
+    "德雷克•里默瑞特": [
+      ["依琳•卡特", "friend of x"], 
+      ["詹姆斯•莱利", "friend of x"], 
+      ["伯克利", "friend of x"], 
+      ["汉斯•里默瑞特", "brother of x"], 
+      ["盖尔•里默瑞特", "brother of x"], 
+      ["神父汤姆", "friend of x"], 
+      ["伊莱恩•卡特尔（警察）", "friend of x"]
+    ],
+    "汉斯•里默瑞特": [
+      ["依琳•卡特", "friend of x"], 
+      ["詹姆斯•莱利", "friend of x"], 
+      ["伯克利", "friend of x"], 
+      ["德雷克•里默瑞特", "brother of x"], 
+      ["盖尔•里默瑞特", "brother of x"], 
+      ["神父汤姆", "friend of x"], 
+      ["伊莱恩•卡特尔（警察）", "friend of x"]
+    ],
+    "盖尔•里默瑞特": [
+      ["依琳•卡特", "friend of x"], 
+      ["詹姆斯•莱利", "friend of x"], 
+      ["伯克利", "friend of x"], 
+      ["德雷克•里默瑞特", "brother of x"], 
+      ["汉斯•里默瑞特", "brother of x"], 
+      ["神父汤姆", "friend of x"], 
+      ["伊莱恩•卡特尔（警察）", "friend of x"]
+    ],
+    "神父汤姆": [
+      ["依琳•卡特", "friend of x"], 
+      ["詹姆斯•莱利", "friend of x"], 
+      ["伯克利", "friend of x"], 
+      ["德雷克•里默瑞特", "friend of x"], 
+      ["汉斯•里默瑞特", "friend of x"], 
+      ["盖尔•里默瑞特", "friend of x"], 
+      ["伊莱恩•卡特尔（警察）", "friend of x"]
+    ],
+    "伊莱恩•卡特尔（警察）": [
+      ["依琳•卡特", "sister of x"], 
+      ["詹姆斯•莱利", "sister in law of x"], 
+      ["伯克利", "nephew of x"], 
+      ["德雷克•里默瑞特", "friend of x"], 
+      ["汉斯•里默瑞特", "friend of x"], 
+      ["盖尔•里默瑞特", "friend of x"], 
+      ["神父汤姆", "friend of x"]
+    ]
+}

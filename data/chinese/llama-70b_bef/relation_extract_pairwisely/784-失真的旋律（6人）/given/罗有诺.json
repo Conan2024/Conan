@@ -1,0 +1,51 @@
+{
+    "招楠": [
+      ["望娣", "acquaintance of x"], 
+      ["罗万利", "father of x, brother of x"], 
+      ["罗有诺", "cousin of x"], 
+      ["雪嫣", "acquaintance of x"]
+    ],
+    "望娣": [
+      ["招楠", "acquaintance of x"], 
+      ["罗万利", "relative of x"], 
+      ["贵郎", "sibling of x"], 
+      ["阮太太", "classmate of x"]
+    ],
+    "罗万利": [
+      ["招楠", "daughter of x, son of x"], 
+      ["望娣", "father of x"], 
+      ["贵郎", "adoptive father of x, mentor of x, friend of x"], 
+      ["雪嫣", "teacher of x, mentor of x, friend of x"], 
+      ["黑莉", "perpetrator of x, bully of x"], 
+      ["齐故飞", "cousin of x"]
+    ],
+    "罗有诺": [
+      ["招楠", "younger sister of x, cousin of x"]
+    ],
+    "贵郎": [
+      ["望娣", "sibling of x"], 
+      ["罗万利", "adoptive son of x, friend of x"]
+    ],
+    "阮太太": [
+      ["望娣", "mother of x"], 
+      ["贵郎", "adoptive mother of x"], 
+      ["雪嫣", "friend of x"], 
+      ["齐故飞", "friend of x, acquaintance of x"]
+    ],
+    "雪嫣": [
+      ["招楠", "acquaintance of x"], 
+      ["罗万利", "sibling of x, friend of x, classmate of x, schoolmate of x"], 
+      ["阮太太", "friend of x"], 
+      ["黑莉", "acquaintance of x"], 
+      ["齐故飞", "relative of x, acquaintance of x, classmate of x"]
+    ],
+    "黑莉": [
+      ["罗万利", "victim of x, suspicious of x"], 
+      ["雪嫣", "acquaintance of x"]
+    ],
+    "齐故飞": [
+      ["罗万利", "cousin of x"], 
+      ["阮太太", "friend of x, acquaintance of x"], 
+      ["雪嫣", "relative of x, acquaintance of x, classmate of x"]
+    ]
+}

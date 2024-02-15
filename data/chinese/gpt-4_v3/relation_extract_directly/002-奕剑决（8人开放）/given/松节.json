@@ -1,0 +1,94 @@
+{
+    "松节": [
+        [
+            "武林盟的信使",
+            "helped by x, colleague of x, friend of x, same person as x (different identity), informant of x"
+        ],
+        [
+            "蜂",
+            "helper of x, same person as x (different reference), informant of x"
+        ],
+        [
+            "陆英",
+            "suspected by x"
+        ],
+        [
+            "忍冬",
+            "service provider of x, friend of x, business partner of x"
+        ]
+    ],
+    "武林盟的信使": [
+        [
+            "松节",
+            "helped by x, colleague of x, friend of x, same person as x (different identity), information receiver from x"
+        ],
+        [
+            "蜂",
+            "same person as x (different reference), information receiver from x"
+        ],
+        [
+            "忍冬",
+            "service provider of x, colleague of x, business partner of x"
+        ]
+    ],
+    "蜂": [
+        [
+            "松节",
+            "helper of x, same person as x (different reference), informant of x"
+        ],
+        [
+            "武林盟的信使",
+            "same person as x (different reference), informant of x"
+        ],
+        [
+            "忍冬",
+            "superior of x, business partner of x"
+        ]
+    ],
+    "陆英": [
+        [
+            "松节",
+            "suspect of x"
+        ],
+        [
+            "玄参",
+            "colleague of x"
+        ],
+        [
+            "忍冬",
+            "colleague of x"
+        ]
+    ],
+    "玄参": [
+        [
+            "陆英",
+            "colleague of x"
+        ],
+        [
+            "忍冬",
+            "colleague of x"
+        ]
+    ],
+    "忍冬": [
+        [
+            "松节",
+            "service provider of x, friend of x, business partner of x"
+        ],
+        [
+            "武林盟的信使",
+            "service provider of x, colleague of x, business partner of x"
+        ],
+        [
+            "蜂",
+            "subordinate of x, business partner of x"
+        ],
+        [
+            "陆英",
+            "colleague of x"
+        ],
+        [
+            "玄参",
+            "colleague of x"
+        ]
+    ]
+}

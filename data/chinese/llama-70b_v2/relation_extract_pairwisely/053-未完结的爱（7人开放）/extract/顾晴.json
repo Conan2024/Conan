@@ -1,0 +1,76 @@
+{
+    "顾晴": [
+      ["顾宇", "苏阳 of x, 林夕 of x, 林惟仁 of x, 林阳 of x"], 
+      ["苏阳", "husband of x, 林夕 of x, friend of x, 顾宇 of x, brother of x"], 
+      ["林阳", "friend of x, acquaintance of x"], 
+      ["顾明和", "friend of x, sister of x, patient of x"], 
+      ["林惟仁", "林夕 of x"], 
+      ["林彤", "rivalry of x, enmity of x"]
+    ],
+    "顾宇": [
+      ["顾晴", "苏阳 of x, 林夕 of x, 林惟仁 of x, 林阳 of x"], 
+      ["林夕", "顾明和 of x, 苏阳 of x, x"], 
+      ["苏阳", "林夕 of x, 顾明和 of x"], 
+      ["林阳", "rival of x, enemy of x, manipulator of x, manipulated of x"], 
+      ["顾明和", "顾晴 of x"], 
+      ["林惟仁", "father in law of x, husband of x friend"], 
+      ["林彤", "顾明和 of x, 林惟仁 of x, 林夕 of x"]
+    ],
+    "苏阳": [
+      ["顾晴", "wife of x, 林夕 of x, lover of x, 顾宇 of x, brother in law of x"], 
+      ["顾晴", "love interest of x, rival of x"], 
+      ["林夕", "朋友 of x, 戀愛关系 of x, 竞争对手 of x, 嫉妒 of x"], 
+      ["顾宇", "林夕 of x, 顾明和 of x"], 
+      ["顾明和", "father daughter of x, husband wife of x, adversary of x"], 
+      ["林惟仁", "doctor of x, romantic relationship of x, patient of x, business partner of x, conflicted relationship of x, past relationship of x"], 
+      ["林彤", "doctor of x, love interest of x, friend of x"]
+    ],
+    "林阳": [
+      ["顾晴", "friend of x, acquaintance of x"], 
+      ["林夕", "同人 of x, 朋友 of x, 青梅竹马 of x, 兄妹 of x, 敌对 of x, 竞争对手 of x"], 
+      ["顾宇", "rival of x, enemy of x, manipulator of x, manipulated of x"], 
+      ["林惟仁", "friend (childhood) of x, employer employee of x, doctor patient of x, past conflict of x, current conflict of x"], 
+      ["林彤", "朋友 of x, 情人 of x, 敌人 of x, plot twist of x"]
+    ],
+    "林夕": [
+      ["顾晴", "friend of x, former classmate of x, acquaintance of x"], 
+      ["顾晴", "苏阳 of x"], 
+      ["顾宇", "顾明和 of x, 苏阳 of x, x"], 
+      ["苏阳", "朋友 of x, 戀愛关系 of x, 竞争对手 of x, 嫉妒 of x, 敌对 of x"], 
+      ["林阳", "同人 of x, 朋友 of x, 青梅竹马 of x, 兄妹 of x, 敌对 of x, 竞争对手 of x"], 
+      ["顾明和", "father of x, master apprentice of x, mentor mentee of x, close friend of x"], 
+      ["林惟仁", "boyfriend of x, brother of x"], 
+      ["林彤", "苏阳 of x"], 
+      ["顾宇", "ex boyfriend, cheated by 顾晴 of x"]
+    ],
+    "lined": [
+      ["苏阳", "colleague of x, rival of x"]
+    ],
+    "顾明和": [
+      ["顾晴", "father of x, brother of x, doctor of x"], 
+      ["林夕", "daughter of x, mentee of x, close friend of x"], 
+      ["顾宇", "顾晴 of x"], 
+      ["顾宇", "father of x, died under mysterious circumstances of x"], 
+      ["苏阳", "father daughter of x, husband wife of x, adversary of x"], 
+      ["林惟仁", "father employee relationship of x, suspicious of x stealing boyfriend"], 
+      ["林彤", "relationship 1: 父亲 of x, relationship 2: 总裁 of x"]
+    ],
+    "林惟仁": [
+      ["顾晴", "林夕 of x"], 
+      ["林夕", "daughter of x, girlfriend of x"], 
+      ["顾宇", "son in law of x, husband of x daughter"], 
+      ["苏阳", "doctor of x, romantic relationship of x, patient of x, business partner of x, conflicted relationship of x, past relationship of x"], 
+      ["林阳", "father son of x, employer employee of x, doctor patient of x, past conflict of x, current conflict of x"], 
+      ["顾明和", "father daughter relationship of x, suspected of x stealing boyfriend"], 
+      ["林彤", "father daughter of x, employer employee of x, patient nurse of x, past relationship of x"]
+    ],
+    "林彤": [
+      ["顾晴", "friendship of x, romantic relationship of x"], 
+      ["林夕", "苏阳 of x"], 
+      ["顾宇", "顾明和 of x, 林惟仁 of x, 林夕 of x"], 
+      ["苏阳", "doctor of x, love interest of x, friend of x"], 
+      ["林阳", "朋友 of x, 情人 of x, 敌人 of x, plot twist of x"], 
+      ["顾明和", "relationship 1: 妈妈 of x, relationship 2: 顾晴的姐姐 of x"], 
+      ["林惟仁", "father daughter of x, employer employee of x, patient nurse of x, past relationship of x"]
+    ]
+}

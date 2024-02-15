@@ -1,0 +1,639 @@
+{
+    "阿浮": [
+        [
+            "张医师",
+            "informant of x",
+            "suspected by x"
+        ],
+        [
+            "吕名然",
+            "son in law of x",
+            "father in law of x"
+        ],
+        [
+            "欣雅",
+            "mother of x"
+        ],
+        [
+            "谭太太",
+            "son of x",
+            "child of x"
+        ],
+        [
+            "谭仁昌",
+            "child of x",
+            "son in law of x",
+            "business partner of x"
+        ],
+        [
+            "承格",
+            "mother of x"
+        ],
+        [
+            "海悠",
+            "child of x",
+            "阿浮",
+            "father of x"
+        ],
+        [
+            "尚致",
+            "sibling of x",
+            "possible co-conspirator"
+        ],
+        [
+            "红儿",
+            "child of x",
+            "lover of x"
+        ],
+        [
+            "采茜",
+            "child of x",
+            "sibling of x"
+        ],
+        [
+            "廖公子",
+            "child of 廖公子"
+        ]
+    ],
+    "张医师": [
+        [
+            "阿浮",
+            "informant of x",
+            "suspected by x"
+        ],
+        [
+            "吕名然",
+            "doctor of 吕名然",
+            "fiance of 吕名然"
+        ],
+        [
+            "欣雅",
+            "mother of 欣雅"
+        ],
+        [
+            "谭太太",
+            "doctor of, husband of"
+        ],
+        [
+            "谭仁昌",
+            "doctor of 谭仁昌",
+            "adversary of 谭仁昌"
+        ],
+        [
+            "承格",
+            "student of x",
+            "informant of x"
+        ],
+        [
+            "海悠",
+            "patient of x"
+        ],
+        [
+            "尚致",
+            "doctor of x",
+            "colleague of x"
+        ],
+        [
+            "红儿",
+            "doctor of 红儿",
+            "killer of 红儿"
+        ],
+        [
+            "采茜",
+            "doctor of",
+            "patient of"
+        ],
+        [
+            "廖公子",
+            "admirer of x",
+            "helper of x"
+        ]
+    ],
+    "吕名然": [
+        [
+            "阿浮",
+            "father in law of x",
+            "son in law of x"
+        ],
+        [
+            "张医师",
+            "patient of 张医师",
+            "fiancee of 张医师"
+        ],
+        [
+            "欣雅",
+            "father",
+            "father of x"
+        ],
+        [
+            "谭太太",
+            "lover of x",
+            "romantic relationships with x"
+        ],
+        [
+            "谭仁昌",
+            "employee of 吕名然",
+            "business partner of 吕名然"
+        ],
+        [
+            "承格",
+            "father of",
+            "employer of"
+        ],
+        [
+            "海悠",
+            "husband of 海悠",
+            "extramarital affair with 海悠"
+        ],
+        [
+            "尚致",
+            "nephew"
+        ],
+        [
+            "红儿",
+            "extramarital affair with x"
+        ],
+        [
+            "采茜",
+            "helper of x"
+        ],
+        [
+            "廖公子",
+            "helper of x"
+        ]
+    ],
+    "欣雅": [
+        [
+            "阿浮",
+            "child of x"
+        ],
+        [
+            "张医师",
+            "child of 张医师"
+        ],
+        [
+            "吕名然",
+            "child",
+            "child of x"
+        ],
+        [
+            "谭太太",
+            "wife of x",
+            "sibling of x"
+        ],
+        [
+            "谭仁昌",
+            "mother of x",
+            "wife of x"
+        ],
+        [
+            "承格",
+            "child of x",
+            "mother of x"
+        ],
+        [
+            "海悠",
+            "sibling of x, character background"
+        ],
+        [
+            "尚致",
+            "child of x"
+        ],
+        [
+            "红儿",
+            "mother of x",
+            "照顾者 for 承格"
+        ],
+        [
+            "采茜",
+            "mother of x",
+            "bully of x"
+        ],
+        [
+            "廖公子",
+            "possible family of x",
+            "husband of x",
+            "wife of x",
+            "stranger to x"
+        ]
+    ],
+    "谭太太": [
+        [
+            "阿浮",
+            "mother of x",
+            "parent of x"
+        ],
+        [
+            "张医师",
+            "patient of, wife of"
+        ],
+        [
+            "吕名然",
+            "lover of x",
+            "romantic relationships with x"
+        ],
+        [
+            "欣雅",
+            "husband of x",
+            "sibling of x"
+        ],
+        [
+            "谭仁昌",
+            "wife of x"
+        ],
+        [
+            "承格",
+            "adoptive son of x"
+        ],
+        [
+            "海悠",
+            "fondness of",
+            "wife of"
+        ],
+        [
+            "尚致",
+            "wife of x, accomplice of x"
+        ],
+        [
+            "红儿",
+            "helper of x, co-worker of x"
+        ],
+        [
+            "采茜",
+            "临时住户"
+        ],
+        [
+            "廖公子",
+            "husband of x",
+            "stranger to x"
+        ]
+    ],
+    "谭仁昌": [
+        [
+            "阿浮",
+            "parent of x",
+            "father of x",
+            "father in law of x",
+            "employer of x"
+        ],
+        [
+            "张医师",
+            "patient of 张医师",
+            "adversary of 张医师"
+        ],
+        [
+            "吕名然",
+            "employer of 谭仁昌",
+            "business partner of 谭仁昌"
+        ],
+        [
+            "欣雅",
+            "father of x",
+            "husband of x"
+        ],
+        [
+            "谭太太",
+            "husband of x"
+        ],
+        [
+            "承格",
+            "father of x"
+        ],
+        [
+            "海悠",
+            "husband of x",
+            "unknown relationship"
+        ],
+        [
+            "尚致",
+            "father of 尚致",
+            "step father of 承格"
+        ],
+        [
+            "红儿",
+            "father of x",
+            "employer of x"
+        ],
+        [
+            "采茜",
+            "husband of x",
+            "wife of x",
+            "suspected by x"
+        ],
+        [
+            "廖公子",
+            "husband of x"
+        ]
+    ],
+    "承格": [
+        [
+            "阿浮",
+            "child of x"
+        ],
+        [
+            "张医师",
+            "informant of x",
+            "mentor of x"
+        ],
+        [
+            "吕名然",
+            "child of",
+            "employee of"
+        ],
+        [
+            "欣雅",
+            "child of x",
+            "son of x"
+        ],
+        [
+            "谭太太",
+            "adoptive mother of x",
+            "son of 谭太太"
+        ],
+        [
+            "谭仁昌",
+            "son of x",
+            "fondness of x"
+        ],
+        [
+            "海悠",
+            "child of x",
+            "son of x"
+        ],
+        [
+            "尚致",
+            "brother",
+            "sibling of x"
+        ],
+        [
+            "红儿",
+            "possible family of 红儿, husband of 红儿"
+        ],
+        [
+            "采茜",
+            "child of x",
+            "co-worker of x",
+            "mother in law of x"
+        ],
+        [
+            "廖公子",
+            "fostered by",
+            "mentor of"
+        ]
+    ],
+    "海悠": [
+        [
+            "阿浮",
+            "parent of x",
+            "海悠",
+            "son of x"
+        ],
+        [
+            "张医师",
+            "doctor of x"
+        ],
+        [
+            "吕名然",
+            "wife of 吕名然",
+            "extramarital affair with 吕名然"
+        ],
+        [
+            "欣雅",
+            "sibling of x, character background"
+        ],
+        [
+            "谭太太",
+            "fondness of",
+            "husband of"
+        ],
+        [
+            "谭仁昌",
+            "wife of x",
+            "unknown relationship"
+        ],
+        [
+            "承格",
+            "parent of x",
+            "mother of x"
+        ],
+        [
+            "尚致",
+            "friend of x, counselor of x, companion of x"
+        ],
+        [
+            "红儿",
+            "daughter of x"
+        ],
+        [
+            "采茜",
+            "relatives of each other",
+            "romantic relationships with x"
+        ],
+        [
+            "廖公子",
+            "fiance of x"
+        ]
+    ],
+    "尚致": [
+        [
+            "阿浮",
+            "sibling of x",
+            "possible co-conspirator"
+        ],
+        [
+            "张医师",
+            "patient of x",
+            "colleague of x"
+        ],
+        [
+            "吕名然",
+            "uncle"
+        ],
+        [
+            "欣雅",
+            "parent of x"
+        ],
+        [
+            "谭太太",
+            "husband of x, accomplice of x"
+        ],
+        [
+            "谭仁昌",
+            "son of 谭仁昌",
+            "step son of 承格"
+        ],
+        [
+            "承格",
+            "brother",
+            "sibling of x"
+        ],
+        [
+            "海悠",
+            "friend of x, counsel to x, companion of x"
+        ],
+        [
+            "红儿",
+            "siblings",
+            "employer of x"
+        ],
+        [
+            "采茜",
+            "boyfriend of x",
+            "father of x"
+        ],
+        [
+            "廖公子",
+            "sibling of x"
+        ]
+    ],
+    "红儿": [
+        [
+            "阿浮",
+            "mother of x",
+            "lover of x"
+        ],
+        [
+            "张医师",
+            "patient of 张医师",
+            "victim of 张医师"
+        ],
+        [
+            "吕名然",
+            "extramarital affair with x",
+            "同为谭家仆人"
+        ],
+        [
+            "欣雅",
+            "child of x",
+            "care receiver from 欣雅"
+        ],
+        [
+            "谭太太",
+            "helper of x, co-worker of x"
+        ],
+        [
+            "谭仁昌",
+            "daughter of x",
+            "employee of x"
+        ],
+        [
+            "承格",
+            "possible family of 承格, wife of 承格"
+        ],
+        [
+            "海悠",
+            "mother of x"
+        ],
+        [
+            "尚致",
+            "siblings",
+            "employee of x"
+        ],
+        [
+            "采茜",
+            "foster mother of 承格",
+            "daughter in law of x"
+        ],
+        [
+            "廖公子",
+            "daughter of x",
+            "sibling of x"
+        ]
+    ],
+    "廖公子": [
+        [
+            "阿浮",
+            "parent of 阿浮"
+        ],
+        [
+            "张医师",
+            "admired by x",
+            "helped by x"
+        ],
+        [
+            "吕名然",
+            "unknown relationship"
+        ],
+        [
+            "谭太太",
+            "wife of x",
+            "stranger to x"
+        ],
+        [
+            "谭仁昌",
+            "wife of x"
+        ],
+        [
+            "承格",
+            "fostered",
+            "student of"
+        ],
+        [
+            "海悠",
+            "fiancee of x",
+            "同父异母兄弟 of 秋颖"
+        ],
+        [
+            "尚致",
+            "sibling of x"
+        ],
+        [
+            "采茜",
+            "friend of x",
+            "possible son of x"
+        ]
+    ],
+    "采茜": [
+        [
+            "张医师",
+            "doctor of",
+            "patient of"
+        ],
+        [
+            "吕名然",
+            "helped by x",
+            "wife of x"
+        ],
+        [
+            "欣雅",
+            "daughter of x",
+            "victim of x"
+        ],
+        [
+            "谭太太",
+            "结义兄弟"
+        ],
+        [
+            "谭仁昌",
+            "wife of x",
+            "husband of x",
+            "admired by x"
+        ],
+        [
+            "承格",
+            "mother of x",
+            "co-worker of x",
+            "son in law of x"
+        ],
+        [
+            "海悠",
+            "relatives of each other",
+            "romantic relationships with x"
+        ],
+        [
+            "尚致",
+            "girlfriend of x",
+            "mother of x"
+        ],
+        [
+            "红儿",
+            "step mother of 承格",
+            "mother in law of x"
+        ],
+        [
+            "廖公子",
+            "friend of x",
+            "possible mother of x"
+        ]
+    ]
+}

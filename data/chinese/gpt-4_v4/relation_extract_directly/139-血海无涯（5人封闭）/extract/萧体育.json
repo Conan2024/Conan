@@ -1,0 +1,23 @@
+{
+    "萧体育": [
+      ["薛媚娘", "lover of x, ex romantic relationships with x"], 
+      ["庄清纯", "admirer of x, student of x, extramarital affair with x"], 
+      ["贾美丽", "student of x, adversary of x, victim of x"]
+    ],
+    "薛媚娘": [
+      ["萧体育", "lover of x, ex romantic relationships with x"], 
+      ["庄清纯", "colleague of x"]
+    ],
+    "庄清纯": [
+      ["萧体育", "admired by x, student of x, extramarital affair with x"], 
+      ["薛媚娘", "colleague of x"], 
+      ["贾美丽", "friend of x, classmate of x"]
+    ],
+    "贾美丽": [
+      ["萧体育", "student of x, adversary of x, victim of x"], 
+      ["庄清纯", "friend of x, classmate of x"]
+    ],
+    "秦老大的司机": [
+      ["萧体育", "acquaintance of x, victim of x"]
+    ]
+}

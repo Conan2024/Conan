@@ -1,0 +1,52 @@
+{
+    "依琳•卡特": [
+      ["伊莱恩·卡特尔", "same person as x (different identity)"], 
+      ["詹姆斯·莱利", "subject of x investigation for x"], 
+      ["帕洛斯基医生", "mentor of x, superior of x"], 
+      ["汉斯·里莫瑞提", "acquaintance of x"], 
+      ["德雷克·里莫瑞提", "acquaintance of x, colleague of x"], 
+      ["护士长科斯塔", "helper of x, colleague of x"], 
+      ["伯克利", "employer of x, superior of x"], 
+      ["盖尔·里默瑞特", "possibly family of x (wife of hans), suspected by x"], 
+      ["吉姆梅森", "possibly information receiver from x (medical lawsuit)"], 
+      ["神父汤姆", "suspected by x"], 
+      ["埃里克", "patient of x"]
+    ],
+    "帕洛斯基医生": [
+      ["汉斯·里莫瑞提", "colleague of x"], 
+      ["德雷克·里莫瑞提", "colleague of x"], 
+      ["护士长科斯塔", "subordinate of x"], 
+      ["伯克利", "acquaintance of x"], 
+      ["依琳•卡特", "student of x, subordinate of x"]
+    ],
+    "汉斯·里莫瑞提": [
+      ["帕洛斯基医生", "colleague of x"], 
+      ["德雷克·里莫瑞提", "sibling of x, twin brother of x"], 
+      ["盖尔·里默瑞特", "husband of x"], 
+      ["吉姆梅森", "adversary of x (medical lawsuit)"]
+    ],
+    "德雷克·里莫瑞提": [
+      ["帕洛斯基医生", "colleague of x"], 
+      ["汉斯·里莫瑞提", "sibling of x, twin brother of x"], 
+      ["护士长科斯塔", "colleague of x"], 
+      ["神父汤姆", "acquaintance of x"]
+    ],
+    "护士长科斯塔": [
+      ["帕洛斯基医生", "superior of x"], 
+      ["德雷克·里莫瑞提", "colleague of x"]
+    ],
+    "伯克利": [
+      ["帕洛斯基医生", "acquaintance of x"], 
+      ["依琳•卡特", "employee of x"]
+    ],
+    "盖尔·里默瑞特": [
+      ["汉斯·里莫瑞提", "wife of x"], 
+      ["德雷克·里莫瑞提", "sister in law of x"]
+    ],
+    "吉姆梅森": [
+      ["汉斯·里莫瑞提", "adversary of x (medical lawsuit)"]
+    ],
+    "神父汤姆": [
+      ["德雷克·里莫瑞提", "acquaintance of x"]
+    ]
+}

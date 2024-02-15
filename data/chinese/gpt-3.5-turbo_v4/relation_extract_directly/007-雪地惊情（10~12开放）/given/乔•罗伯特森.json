@@ -1,0 +1,40 @@
+{
+    "乔•罗伯特森": [
+      ["麦克斯•琼斯", "friend of x"], 
+      ["丹尼尔•佩里", "acquaintance of x"], 
+      ["约翰•摩根", "victim of x"], 
+      ["艾米•摩根", "acquaintance of x"]
+    ],
+    "国际刑警组织": [
+      ["麺克斯•琼斯", "information receiver from x, informant of x"], 
+      ["丹尼尔•佩里", "mentor of x"], 
+      ["约翾•摩根", "suspect to x"]
+    ],
+    "Sleer&Leech": [
+      ["麺克斯•琼斯", "business partner of x"]
+    ],
+    "露西•哈里森": [
+      ["乔纳森•佩里", "romantic relationships with x"]
+    ],
+    "乔纳森•佩里": [
+      ["露西•哈里森", "romantic relationships with x"]
+    ],
+    "麦克斯•琼斯": [
+      ["乔•罗伯特森", "friend of x"], 
+      ["国际刑警组织", "information receiver from x"], 
+      ["Sleer&Leech", "business partner of x"], 
+      ["约翾•摩根", "adversary of x"]
+    ],
+    "丹尼尔•佩里": [
+      ["乔•罗伯特森", "acquaintance of x"], 
+      ["国际刑警组织", "mentor of x"]
+    ],
+    "约翾•摩根": [
+      ["乔•罗伯特森", "perpetrator of x"], 
+      ["国际刑警组织", "suspect to x"], 
+      ["麺克斯•琼斯", "adversary of x"]
+    ],
+    "艾米•摩根": [
+      ["乔•罗伯特森", "acquaintance of x"]
+    ]
+}

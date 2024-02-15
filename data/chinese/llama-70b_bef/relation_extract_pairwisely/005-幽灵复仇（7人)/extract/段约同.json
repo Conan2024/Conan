@@ -1,0 +1,47 @@
+{
+    "段约同": [
+      [" votre mother", "manipulator of x, acquaintance of x"], 
+      ["白常恭", "relative of x, friend of x, subordinate of x, colleague of x"]
+    ],
+    " votre mother": [
+      ["段约同", "father of x, manipulator of x, acquaintance of x"], 
+      ["安琪", "acquaintance of x, friend of x, informant of x"], 
+      ["李子材", "husband of x"]
+    ],
+    " votre father": [
+      ["安琪", "acquaintance of x, friend of x, informant of x"], 
+      ["易阿姨", "father in law of x"]
+    ],
+    "白常恭": [
+      ["段约同", "relative of x, friend of x, subordinate of x, colleague of x"], 
+      ["岳客沙", "uncle of x, nephew of x"], 
+      ["安琪", "father in law of x, business partner of x"], 
+      ["吴百安", "acquaintance of x, classmate of x"]
+    ],
+    "岳客沙": [
+      ["白常恭", "nephew of x"], 
+      ["易阿姨", "acquaintance of x, classmate of x, colleague of x, friend of x, informant of x, student of x, helper of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, tenant of x, patient of x"]
+    ],
+    "安琪": [
+      [" votre mother", "acquaintance of x, friend of x, informant of x"], 
+      [" votre father", "acquaintance of x, friend of x, informant of x"], 
+      ["白常恭", "wife of x, colleague of x"], 
+      ["李子材", "niece of x"], 
+      ["吴百安", "acquaintance of x"]
+    ],
+    "易阿姨": [
+      ["voleur father", "mother in law of x"], 
+      ["岳客沙", "acquaintance of x, classmate of x, colleague of x, friend of x, informant of x, student of x, helper of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, tenant of x, patient of x"], 
+      ["安琪", "mother of x"], 
+      ["李子材", "husband of x"]
+    ],
+    "李子材": [
+      ["武 mère", "father of x"], 
+      ["安琪", "nephew of x"], 
+      ["易阿姨", "wife of x"]
+    ],
+    "吴百安": [
+      ["白常恭", "acquaintance of x, classmate of x"], 
+      ["安琪", "acquaintance of x"]
+    ]
+}

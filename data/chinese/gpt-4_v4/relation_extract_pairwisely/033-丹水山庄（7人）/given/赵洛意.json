@@ -1,0 +1,72 @@
+{
+    "赵洛意": [
+      ["赵万雷", "child of x, child of x, biological daughter of x"], 
+      ["赵卫", "same person as x (different identity)"], 
+      ["冯双骥", "father of x, mentor of x"], 
+      ["冯竹", "acquaintance of x, possibly family of x"], 
+      ["齐岳", "subordinate of x, acquaintance of x"], 
+      ["尹少鸣", "saviour of x, acquaintance of x, guest of x, suspected by x"], 
+      ["赵秋儿", "servant of x, friend of x, sister of x, teacher of x"]
+    ],
+    "赵万雷": [
+      ["赵洛意", "father of x, biological father of x"], 
+      ["赵卫", "father of x"], 
+      ["冯双骥", "superior of x, patient of x"], 
+      ["冯竹", "father of x"], 
+      ["尹少鸣", "possibly family of x"], 
+      ["赵秋儿", "father of x, superior of x"]
+    ],
+    "赵卫": [
+      ["赵洛意", "same person as x (different identity)"], 
+      ["赵万雷", "child of x"], 
+      ["冯双骥", "same person as x (different identity)"], 
+      ["冯竹", "same person as x (different identity)"], 
+      ["齐岳", "sibling of x, patient of x"], 
+      ["尹少鸣", "acquaintance of x, superior of x"], 
+      ["赵秋儿", "same person as x (different identity)"]
+    ],
+    "冯双骥": [
+      ["赵洛意", "child of x, student of x"], 
+      ["赵万雷", "subordinate of x, service provider of x"], 
+      ["赵卫", "same person as x (different identity)"], 
+      ["冯竹", "father of x"], 
+      ["齐岳", "colleague of x, subordinate of x"], 
+      ["尹少鸣", "relative of x, uncle of x"], 
+      ["赵秋儿", "helper of x, subordinate of x"]
+    ],
+    "冯竹": [
+      ["赵洛意", "acquaintance of x, possibly family of x"], 
+      ["赵万雷", "child of x"], 
+      ["赵卫", "same person as x (different identity)"], 
+      ["冯双骥", "child of x"], 
+      ["齐岳", "acquaintance of x"], 
+      ["尹少鸣", "acquaintance of x, possibly family of x"], 
+      ["赵秋儿", "acquaintance of x, helper of x, possibly family of x"]
+    ],
+    "齐岳": [
+      ["赵洛意", "superior of x, acquaintance of x"], 
+      ["赵卫", "subordinate of x, helper of x"], 
+      ["冯双骥", "colleague of x, superior of x"], 
+      ["冯竹", "acquaintance of x"], 
+      ["尹少鸣", "acquaintance of x"], 
+      ["赵秋儿", "master of x, acquaintance of x"]
+    ],
+    "尹少鸣": [
+      ["赵洛意", "saved by x, acquaintance of x, guest of x, suspect to x"], 
+      ["赵万雷", "relative of x, suspected by x"], 
+      ["赵卫", "acquaintance of x, subordinate of x"], 
+      ["冯双骥", "relative of x, nephew of x"], 
+      ["冯竹", "acquaintance of x, possibly family of x"], 
+      ["齐岳", "acquaintance of x"], 
+      ["赵秋儿", "helper of x, acquaintance of x, suspect to x"]
+    ],
+    "赵秋儿": [
+      ["赵洛意", "servant of x, friend of x, sister of x, student of x"], 
+      ["赵万雷", "child of x, subordinate of x"], 
+      ["赵卫", "same person as x (different identity)"], 
+      ["冯双骥", "helped by x, superior of x"], 
+      ["冯竹", "acquaintance of x, helped by x, possibly family of x"], 
+      ["齐岳", "subordinate of x, acquaintance of x"], 
+      ["尹少鸣", "helped by x, acquaintance of x"]
+    ]
+}

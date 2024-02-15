@@ -1,0 +1,25 @@
+{
+    "陆英": [
+      ["恋人", "romantic relationships with x"], 
+      ["杜仲", "mentor of x"], 
+      ["凌霄", "friend of x"], 
+      ["紫苏", "acquaintance of x"], 
+      ["玄参", "suspect of x"]
+    ],
+    "恋人": [
+      ["陆英", "romantic relationships with x"]
+    ],
+    "杜仲": [
+      ["陆英", "mentor of x"]
+    ],
+    "凌霄": [
+      ["陆英", "friend of x"]
+    ],
+    "紫苏": [
+      ["陆英", "acquaintance of x"], 
+      ["凌霄", "acquaintance of x"]
+    ],
+    "玄参": [
+      ["陆英", "suspect of x"]
+    ]
+}

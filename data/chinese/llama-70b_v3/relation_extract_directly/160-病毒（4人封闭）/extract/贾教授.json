@@ -1,0 +1,16 @@
+{
+    "贾教授": [
+      ["田助理", "adversary of x"], 
+      ["秦鸥", "acquaintance of x"]
+    ],
+    "田助理": [
+      ["秦鸥", "girlfriend of x"]
+    ],
+    "秦鸥": [
+      ["贾教授", "acquaintance of x"], 
+      ["田助理", "boyfriend of x"]
+    ],
+    "大姐": [
+      ["贾教授", "colleague of x"]
+    ]
+}

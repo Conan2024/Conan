@@ -1,0 +1,38 @@
+{
+    "周忱纱": [
+      ["隼", "friend of x"], 
+      ["李德木", "acquaintance of x"], 
+      ["汪氏", "friend of x"], 
+      ["巴府山", "acquaintance of x"], 
+      ["甘玛", "friend of x, teacher of x, mentor of x"]
+    ],
+    "郑函贞": [
+      ["周忱纱", "friend of x"], 
+      ["巴府山", "employer of x"], 
+      ["隼", "friend of x"], 
+      ["甘玛", "mentor of x"]
+    ],
+    "李德木": [
+      ["周忱纱", "acquaintance of x"], 
+      ["隼", "friend of x"]
+    ],
+    "汪氏": [
+      ["周忱纱", "friend of x"]
+    ],
+    "巴府山": [
+      ["周忱纱", "acquaintance of x"], 
+      ["郑函贞", "employer of x"]
+    ],
+    "隼": [
+      ["周忱纱", "friend of x"], 
+      ["李德木", "friend of x"]
+    ],
+    "甘玛": [
+      ["周忱纱", "friend of x, teacher of x, mentor of x"], 
+      ["郑函贞", "mentor of x"]
+    ],
+    "郑昌珉": [
+      ["周忱纱", "friend of x"], 
+      ["郑函贞", "friend of x"]
+    ]
+}

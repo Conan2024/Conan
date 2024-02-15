@@ -1,0 +1,46 @@
+{
+    "李氏": [
+      ["李钦仁", "husband of x, father of x"], 
+      ["长子李仲", "son of x, mother of x, friend of x"], 
+      ["次子李延", "mother of x"]
+    ],
+    "方絮": [
+      ["方竹", "biological mother of x"]
+    ],
+    "方叶": [
+      ["長子李仲", "sibling of x"], 
+      ["次子李延", "biological father of x, master of x, mentor of x"], 
+      ["方竹", "older brother of x"]
+    ],
+    "方眠": [
+      ["李钦仁", "biological mother of x"], 
+      ["次子李延", "son of x, mother of x"], 
+      ["方竹", "biological mother of x, enemy of x"]
+    ],
+    "李钦仁": [
+      ["李氏", "husband of x, father of x"], 
+      ["方眠", "father of x"], 
+      ["長子李仲", "husband of x, father of x"], 
+      ["次子李延", "husband of x"]
+    ],
+    "長子李仲": [
+      ["李氏", "son of x, mother of x, friend of x"], 
+      ["方叶", "sibling of x, cousin of x"], 
+      ["李钦仁", "wife of x, mother of x"], 
+      ["次子李延", "father of x, mother of x, brother of x, sister of x"], 
+      ["方竹", "brother in law of x, friend of x"]
+    ],
+    "次子李延": [
+      ["李氏", "son of x"], 
+      ["方叶", "son of x, servant of x"], 
+      ["方眠", "son of x, mother of x"], 
+      ["李钦仁", "wife of x"], 
+      ["長子李仲", "father of x, mother of x, brother of x, sister of x"]
+    ],
+    "方竹": [
+      ["方絮", "biological mother of x, father of x"], 
+      ["方叶", "younger brother of x"], 
+      ["方眠", "enemy of x"], 
+      ["長子李仲", "brother in law of x, friend of x"]
+    ]
+}

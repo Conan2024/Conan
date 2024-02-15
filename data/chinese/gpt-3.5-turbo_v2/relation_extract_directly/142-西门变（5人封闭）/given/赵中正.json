@@ -1,0 +1,46 @@
+{
+    "赵中正": [
+      ["赵中杨", "sibling of x"], 
+      ["赵中杨", "attempted perpetrator of x"], 
+      ["赵中杨", "suspect of x"], 
+      ["陈媚儿", "ex romantic relationships with x"], 
+      ["陈媚儿", "informant of x"], 
+      ["李成", "employee of x"], 
+      ["李成", "manipulated by x"], 
+      ["赵三", "friend of x"], 
+      ["赵三", "helper of x"], 
+      ["赵三", "attempted perpetrator of x"], 
+      ["赵三", "suspected by x"], 
+      ["赵三", "disliked by x"], 
+      ["赵三", "unsuccessful helper of x"]
+    ],
+    "赵中杨": [
+      ["赵中正", "sibling of x"], 
+      ["赵中正", "attempted perpetrator of x"], 
+      ["赵中正", "suspect of x"], 
+      ["陈媚儿", "ex romantic relationships with x"], 
+      ["陈媚儿", "informant of x"], 
+      ["李成", "employee of x"], 
+      ["李成", "helped by x"], 
+      ["陈媚儿", "subject of x investigation for x"], 
+      ["陈媚儿", "suspected by x"], 
+      ["赵三", "helper of x"], 
+      ["赵三", "attempted perpetrator of x"], 
+      ["赵三", "suspected by x"], 
+      ["赵三", "disliked by x"], 
+      ["赵三", "unsuccessful helper of x"]
+    ],
+    "李成": [
+      ["赵中正", "subordinate of x"], 
+      ["赵中正", "manipulated by x"], 
+      ["赵中杨", "employee of x"], 
+      ["赵中杨", "helped by x"], 
+      ["赵中正", "product provider of x"]
+    ],
+    "陈媚儿": [
+      ["赵中正", "ex romantic relationships with x"], 
+      ["赵中正", "informant of x"], 
+      ["赵中杨", "ex romantic relationships with x"], 
+      ["赵中杨", "informant of x"]
+    ]
+}

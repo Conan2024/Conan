@@ -1,0 +1,44 @@
+{
+    "杜仲": [
+      ["武林盟的调查人员", "same person as x (different reference)"], 
+      ["石燕", "teacher student of x"], 
+      ["红花夫人", "mentee of x (different reference)"], 
+      ["蜂", "killed by of x"], 
+      ["陆英", "acquaintance of x, fellow disciple of x, schoolmate of x"]
+    ],
+    "武林盟的调查人员": [
+      ["杜仲", "same person as x (different reference)"], 
+      ["红花夫人", "student of x, recipient of x, acquaintance of x, helper of x, perpetrator of x, bully of x, murderer of x"], 
+      ["蜂", "同性調查員 of x"], 
+      ["陆英", "acquaintance of x"]
+    ],
+    "石燕": [
+      ["杜仲", "teacher student of x"], 
+      ["陆英", "同谋者 of x, 师徒 of x, 敌人 of x"]
+    ],
+    "红花夫人": [
+      ["杜仲", "teacher of x (different identity)"], 
+      ["武林盟的调查人员", "teacher of x, mentor of x, informant of x, information receiver from x, co wives of x, husband of x, wife of x, fiance of x, fiancee of x"], 
+      ["蜂", "relationship 1: 师傅与徒弟 of x, relationship 2: 复仇者与被复仇的 of x"], 
+      ["陆英", "relation ship 1relation ship 2 of x"]
+    ],
+    "蜂": [
+      ["杜仲", "killed by of x"], 
+      ["武林盟的调查人员", "同性調查員 of x"], 
+      ["红花夫人", "relationship 1: 师傅与徒弟 of x, relationship 2: 被复仇者 of x"], 
+      ["陆英", "colleague of x, acquaintance of x"]
+    ],
+    "陆英": [
+      ["杜仲", "acquaintance of x, fellow disciple of x, schoolmate of x"], 
+      ["武林盟的调查人员", "acquaintance of x"], 
+      ["石燕", "同谋者 of x, 师徒 of x, 敌人 of x"], 
+      ["红花夫人", "relation ship 1relation ship 2 of x"], 
+      ["蜂", "colleague of x, acquaintance of x"]
+    ],
+    "type": [
+      ["v", "i of x, c of x, t of x, i of x, m of x"]
+    ],
+    "description": [
+      ["杜", "仲 of x, b of x, e of x, t of x, r of x, a of x, y of x, e of x, d of x, a of x, n of x, d of x, d of x, e of x, s of x, t of x, r of x, o of x, y of x, e of x, d of x, r of x, e of x, d of x, f of x, l of x, o of x, w of x, e of x, r of x, w of x, i of x, f of x, e of x, ' of x, s of x, l of x, i of x, f of x, e of x"]
+    ]
+}

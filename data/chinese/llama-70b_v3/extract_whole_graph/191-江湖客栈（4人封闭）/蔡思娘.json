@@ -1,0 +1,17 @@
+{
+    "蔡思娘": [
+      ["张红生", "friend of x"], 
+      ["孟三春", "enemy of x, victim of x"]
+    ],
+    "张红生": [
+      ["蔡思娘", "friend of x, lover of x"], 
+      ["孟三春", "husband of x"]
+    ],
+    "孟三春": [
+      ["蔡思娘", "enemy of x, victim of x"], 
+      ["张红生", "wife of x, lover of x"]
+    ],
+    "洪江水": [
+      ["蔡思娘", "acquaintance of x"]
+    ]
+}

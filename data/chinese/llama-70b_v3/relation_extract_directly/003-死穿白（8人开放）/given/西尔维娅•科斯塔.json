@@ -1,0 +1,31 @@
+{
+    "西尔维娅·科斯塔": [
+      ["汉斯·里莫瑞特", "friend of x"], 
+      ["盖尔·里莫瑞特", "sister of x"], 
+      ["德雷克·里莫瑞特", "suspect of x"], 
+      ["帕洛斯基医生", "colleague of x, mentor of x"], 
+      ["伊莱恩·卡特尔", "colleague of x, friend of x"], 
+      ["理查德·伯克利", "acquaintance of x, colleague of x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["西尔维娅·科斯TA", "friend of x"], 
+      ["盖尔·里莫瑞特", "sister of x"]
+    ],
+    "盖尔·里莫瑞特": [
+      ["西尔维娅·科斯TA", "sister of x"], 
+      ["汉斯·里莫瑞特", "brother of x"]
+    ],
+    "德雷克·里莫瑞特": [
+      ["西尔维娅·科斯TA", "suspect of x"], 
+      ["汉斯·里莫瑞特", "brother of x"]
+    ],
+    "帕洛斯基医生": [
+      ["西尔维娅·科斯TA", "colleague of x, mentor of x"]
+    ],
+    "伊莱恩·卡特尔": [
+      ["西尔维娅·科斯TA", "colleague of x, friend of x"]
+    ],
+    "理查德·伯克利": [
+      ["西尔维娅·科斯TA", "acquaintance of x, colleague of x"]
+    ]
+}

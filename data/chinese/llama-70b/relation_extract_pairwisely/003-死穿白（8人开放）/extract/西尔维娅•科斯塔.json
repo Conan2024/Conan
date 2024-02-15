@@ -1,0 +1,322 @@
+{
+    "西尔维娅•科斯塔": [
+        [
+            "詹姆斯•莱利",
+            "employer-employee",
+            "business partner"
+        ],
+        [
+            "帕罗斯基•医生",
+            "同事",
+            "朋友",
+            "帮手",
+            "被操控的",
+            "受欺骗的",
+            "医生",
+            "患者"
+        ],
+        [
+            "汉斯•里莫瑞特",
+            "Colleague",
+            " Friend",
+            "Acquaintance"
+        ],
+        [
+            "吉姆•梅森",
+            "Co-worker",
+            "Friend",
+            "Acquaintance",
+            "Business Partner",
+            "Customer",
+            "Client",
+            "Victim",
+            "Bully",
+            "Murderer",
+            "Attempted Murderer",
+            "Suspect",
+            "Adversary",
+            "Enemy",
+            "Rival",
+            "Manipulator",
+            "Manipulated",
+            "Superior",
+            "Subordinate",
+            "Employee",
+            "Servant",
+            "Colleague",
+            "Business Associate",
+            "Buyer",
+            "Tenant",
+            "Patient"
+        ],
+        [
+            "罗伯特•凯西",
+            " Employee of X",
+            " Informant of X",
+            " Acquaintance of X",
+            " Colleague of X",
+            " Helper of X",
+            " Victim of X"
+        ]
+    ],
+    "詹姆斯•莱利": [
+        [
+            "西尔维娅•科斯塔",
+            "employee-employer",
+            "business partner"
+        ],
+        [
+            "帕罗斯基•医生",
+            "mentor",
+            "colleague",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "汉斯•里莫瑞特",
+            " Employer-Employee",
+            " Bully-Victim"
+        ],
+        [
+            "罗伯特•凯西",
+            " Employee of X",
+            " Informant of X",
+            " Acquaintance of X"
+        ]
+    ],
+    "帕罗斯基•医生": [
+        [
+            "西尔维娅•科斯塔",
+            "同事",
+            "朋友",
+            "帮手",
+            "被操控的",
+            "受欺骗的",
+            "医生",
+            "患者"
+        ],
+        [
+            "詹姆斯•莱利",
+            "mentor",
+            "colleague",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "汉斯•里莫瑞特",
+            "Colleague",
+            "Friend",
+            "Mentor",
+            "Teacher",
+            "Student",
+            "Informant",
+            "Acquaintance",
+            "Classmate",
+            "Schoolmate",
+            "Neighbour",
+            "Helper",
+            "Adversary",
+            "Enemy",
+            "Rival",
+            "Manipulator",
+            "Manipulated",
+            "Superior",
+            "Employer",
+            "Master",
+            "Subordinate",
+            "Employee",
+            "servant",
+            "Colleague",
+            "Business Partner",
+            "Customer",
+            "Buyer",
+            "Tenant",
+            "Patient"
+        ],
+        [
+            "吉姆•梅森",
+            "对手",
+            "竞争对手",
+            "同事",
+            "救人对象"
+        ],
+        [
+            "罗伯特•凯西",
+            " colleague",
+            " Acquaintance",
+            "  Information Receiver from",
+            " Neighbour",
+            " Helper",
+            " Victim"
+        ]
+    ],
+    "汉斯•里莫瑞特": [
+        [
+            "西尔维娅•科斯塔",
+            "Colleague",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "詹姆斯•莱利",
+            " Colleague",
+            " Perpetrator-Victim"
+        ],
+        [
+            "詹姆斯•莱利",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "帕罗斯基•医生",
+            "Colleague",
+            "Friend",
+            "Mentor",
+            "Teacher",
+            "Student",
+            "Informant",
+            "Acquaintance",
+            "Classmate",
+            "Schoolmate",
+            "Neighbour",
+            "Helper",
+            "Adversary",
+            "Enemy",
+            "Rival",
+            "Manipulator",
+            "Manipulated",
+            "Superior",
+            "Employer",
+            "Master",
+            "Subordinate",
+            "Employee",
+            "servant",
+            "Colleague",
+            "Business Partner",
+            "Customer",
+            "Buyer",
+            "Tenant",
+            "Patient"
+        ],
+        [
+            "吉姆•梅森",
+            "Doctor-Patient, Suspect-Victim, Perpetrator-Bully, Acquaintance-Friend"
+        ],
+        [
+            "罗伯特•凯西",
+            "同事",
+            "急诊部门的医生"
+        ]
+    ],
+    "吉姆•梅森": [
+        [
+            "西尔维娅•科斯塔",
+            "Co-worker",
+            "Friend",
+            "Acquaintance",
+            "Business Partner",
+            "Customer",
+            "Client",
+            "Victim",
+            "Bully",
+            "Murderer",
+            "Attempted Murderer",
+            "Suspect",
+            "Adversary",
+            "Enemy",
+            "Rival",
+            "Manipulator",
+            "Manipulated",
+            "Superior",
+            "Subordinate",
+            "Employee",
+            "Servant",
+            "Colleague",
+            "Business Associate",
+            "Buyer",
+            "Tenant",
+            "Patient"
+        ],
+        [
+            "汉斯•里莫瑞特",
+            "Doctor-Patient, Suspect-Victim, Perpetrator-Bully, Acquaintance-Friend"
+        ],
+        [
+            "罗伯特•凯西",
+            "rival",
+            "enemy"
+        ]
+    ],
+    "罗伯特•凯西": [
+        [
+            "西尔维娅•科斯타",
+            " Employer of X",
+            " Master of X",
+            " Perpetrator of X",
+            " Bully of X",
+            " Murderer of X",
+            " Attempted Murderer of X"
+        ],
+        [
+            "詹姆斯•莱利",
+            " Victim of X",
+            " Patient of X"
+        ],
+        [
+            "帕罗斯基•医生",
+            " Acquaintance",
+            " Customer",
+            " Student",
+            " Victim",
+            " Suspect"
+        ],
+        [
+            "汉斯•里莫瑞特",
+            "整形外科医生",
+            "受训的护士"
+        ],
+        [
+            "吉姆•梅森",
+            "rival",
+            "enemy"
+        ]
+    ],
+    "盖尔•里莫瑞特": [
+        [
+            "詹姆斯•莱利",
+            "Friend",
+            "Colleague",
+            "Business Partner"
+        ]
+    ],
+    "德雷克•里莫瑞特": [
+        [
+            "詹姆斯•莱利",
+            "Friend",
+            "Colleague"
+        ]
+    ],
+    "帕洛斯基医生": [
+        [
+            "詹姆斯•莱利",
+            "Colleague",
+            "Supervisor"
+        ]
+    ],
+    "理查德•伯克利": [
+        [
+            "詹姆斯•莱利",
+            "Colleague",
+            "Supervisor"
+        ]
+    ],
+    "吉姚•梅森": [
+        [
+            "帕罗斯基•医生",
+            "对手",
+            "竞争对手",
+            "同事",
+            "救人对象"
+        ]
+    ]
+}

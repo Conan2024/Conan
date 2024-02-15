@@ -1,0 +1,118 @@
+{
+    "张小妹": [
+        [
+            "亲生母亲",
+            "daughter of x"
+        ],
+        [
+            "亲生父亲",
+            "daughter of x"
+        ],
+        [
+            "李管家",
+            "adoptive father of x"
+        ],
+        [
+            "甄有钱",
+            "same person as x (different identity), biological father of x, victim of x"
+        ],
+        [
+            "甄公子",
+            "sibling of x"
+        ],
+        [
+            "王作家",
+            "acquaintance of x"
+        ],
+        [
+            "王国庆",
+            "romantic relationships with x, accomplice in murder of x"
+        ]
+    ],
+    "亲生母亲": [
+        [
+            "张小妹",
+            "mother of x"
+        ],
+        [
+            "甄有钱",
+            "extramarital affair with x"
+        ]
+    ],
+    "亲生父亲": [
+        [
+            "张小妹",
+            "father of x"
+        ],
+        [
+            "甄有钱",
+            "same person as x (different reference)"
+        ]
+    ],
+    "李管家": [
+        [
+            "张小妹",
+            "adoptive daughter of x"
+        ],
+        [
+            "甄有钱",
+            "employee of x"
+        ]
+    ],
+    "甄有钱": [
+        [
+            "张小妹",
+            "child of x, killed by x"
+        ],
+        [
+            "亲生母亲",
+            "extramarital affair with x, deceased lover of x"
+        ],
+        [
+            "亲生父亲",
+            "same person as x (different reference)"
+        ],
+        [
+            "甄公子",
+            "father of x"
+        ],
+        [
+            "王作家",
+            "friend of x"
+        ],
+        [
+            "王国庆",
+            "acquaintance of x"
+        ]
+    ],
+    "甄公子": [
+        [
+            "甄有钱",
+            "son of x"
+        ],
+        [
+            "张小妹",
+            "sibling of x"
+        ]
+    ],
+    "王作家": [
+        [
+            "王国庆",
+            "father of x"
+        ],
+        [
+            "甄有钱",
+            "friend of x"
+        ]
+    ],
+    "王国庆": [
+        [
+            "张小妹",
+            "romantic relationships with x, accomplice in murder of x"
+        ],
+        [
+            "王作家",
+            "son of x"
+        ]
+    ]
+}

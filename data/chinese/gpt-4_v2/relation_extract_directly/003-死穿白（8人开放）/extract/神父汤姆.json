@@ -1,0 +1,29 @@
+{
+    "牧师汤姆": [
+      ["德雷克·里莫瑞特", "patient of x, information receiver from x, possible hidden affection due to recent shared grief of x"], 
+      ["汉斯·里莫瑞特", "intended to manipulate but never met of x, deceased; attempted secret business partner of x"], 
+      ["托尼", "deceiver of x, admired by x, peril from x due to present circumstances"], 
+      ["弗兰克", "deceiver of x, manipulated by x, past collaborator with x for a show; victim of x"], 
+      ["帕洛斯基医生", "confidant of x, potential suspect for x, informant of x, helped by x through counseling suggestion"], 
+      ["院长伯克利", "business partner of x; hosted by x for hospital visits; influenced by x"]
+    ],
+    "帕洛斯基医生": [
+      ["牧师汤姆", "confidant to x, informer to x about personal loss, counseled by x"], 
+      ["汉斯·里莫瑞特", "disliked by x, blamed by x for loss of x family member"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["牧师汤姆", "target of x manipulation by x, intender performer for x, deceased of x"], 
+      ["帕洛斯基医生", "dislike of x, blamed by x"]
+    ],
+    "弗兰克": [
+      ["牧师汤姆", "hired by x, helped by x, performer for x’s shows, recipient of x a surgery funded by x"], 
+      ["托尼", "sibling of x, gratitude towards x’s perceived powers due to x’s actions"]
+    ],
+    "托尼": [
+      ["牧师汤姆", "deceived by x, grateful to x, currently a threat to x"], 
+      ["弗兰克", "sibling of x, indirectly helped by x"]
+    ],
+    "院长伯克利": [
+      ["牧师汤姆", "allowed x to perform in his hospital, enjoys similar lavish lifestyle as x, potentially manipulable by x"]
+    ]
+}

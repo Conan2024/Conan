@@ -1,0 +1,56 @@
+{
+    "孙清洁": [
+      ["贾教授", "mentor of x"], 
+      ["老板", "employer of x"]
+    ],
+    "贾教授": [
+      ["田助理", "student of x"], 
+      ["田助理的女友秦鸥", "romantic relationships with x"], 
+      ["学生打扮的女生", "romantic relationships with x"], 
+      ["保安", "acquaintance of x"], 
+      ["学校的李保安", "acquaintance of x"], 
+      ["清洁工大姐", "acquaintance of x"], 
+      ["大姐", "acquaintance of x"], 
+      ["秦鸥", "ex girlfriend of x"], 
+      ["一个学生打扮的女生", "ex girlfriend of x"]
+    ],
+    "老板": [
+      ["孙清洁", "employee of x"]
+    ],
+    "学校的李保安": [
+      ["贾教授", "acquaintance of x"]
+    ],
+    "一个学生打扮的女生": [
+      ["贾教授", "ex boyfriend of x"]
+    ],
+    "秦鸥": [
+      ["田助理的女友秦鸥", "fiancee of x"], 
+      ["贾教授", "ex girlfriend of x"]
+    ],
+    "田助理": [
+      ["贾教授", "mentor of x"], 
+      ["田助理的女友秦鸥", "fiance of x"], 
+      ["贾教授", "ex romantic relationships with x"], 
+      ["学生打扮的女生", "romantic relationships with x"]
+    ],
+    "李保安": [
+      ["贾教授", "acquaintance of x"]
+    ],
+    "大姐": [
+      ["贾教授", "acquaintance of x"], 
+      ["贾教授", "informant of x"]
+    ],
+    "田助理的女友秦鸥": [
+      ["田助理", "fiancee of x"], 
+      ["秦鸥", "ex boyfriend of x"]
+    ],
+    "清洁工大姐": [
+      ["贾教授", "acquaintance of x"]
+    ],
+    "保安": [
+      ["贾教授", "acquaintance of x"]
+    ],
+    "秦欧": [
+      ["秦鸥", "father of x"]
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "松节": [
+      ["武林盟的信使", "friend of x, information receiver from x, helper of x"], 
+      ["蜂", "co worker of x"], 
+      ["陆英", "informant of x"], 
+      ["玄参", "colleague of x"], 
+      ["忍冬", "quest companion of x, informant of x"]
+    ],
+    "武林盟的信使": [
+      ["松节", "friend of x, information receiver from x, helper of x"], 
+      ["蜂", "information receiver from x"], 
+      ["陆英", "informant of x"], 
+      ["玄参", "acquaintance of x, information receiver from x"], 
+      ["忍冬", "colleague of x"]
+    ],
+    "蜂": [
+      ["松节", "co worker of x"], 
+      ["武林盟的信使", "informant of x"], 
+      ["陆英", "informant of x"], 
+      ["玄参", "informant of x, information receiver from x"], 
+      ["忍冬", "co worker of x"]
+    ],
+    "陆英": [
+      ["松节", "information receiver from x"], 
+      ["武林盟的信使", "informant of x"], 
+      ["蜂", "informant of x"], 
+      ["玄参", "acquaintance of x"]
+    ],
+    "玄参": [
+      ["松节", "colleague of x"], 
+      ["武林盟的信使", "acquaintance of x, informant of x"], 
+      ["蜂", "informant of x, information receiver from x"], 
+      ["陆英", "acquaintance of x"], 
+      ["忍冬", "ally of x, informant of x"]
+    ],
+    "忍冬": [
+      ["松节", "quest companion of x, informant of x"], 
+      ["武林盟的信使", "colleague of x"], 
+      ["蜂", "co worker of x"], 
+      ["玄参", "ally of x, informant of x"]
+    ]
+}

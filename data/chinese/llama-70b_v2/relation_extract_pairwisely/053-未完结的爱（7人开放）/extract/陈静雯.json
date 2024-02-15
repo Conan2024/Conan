@@ -1,0 +1,87 @@
+{
+    "陈静雯": [
+      ["林夕", "关系1 of x, 关系2 of x"], 
+      ["苏阳", "former colleague of x, investigation target of x, suspect of x, adversary of x, rival of x, enemy of x, opponent of x"], 
+      ["沈城", "employee of x, informant of x, acquaintance of x, classmate of x, schoolmate of x, neighbor of x, helped by x, betrayed by x"], 
+      ["郑心媚", "relationship 1: kinswoman (mother's sister) of x, relationship 2: acquaintance (colleague's girlfriend) of x"], 
+      ["顾明和", "same person as x (different reference), same person as x (different identity), stranger to x, acquaintance of x, helper of x, perpetrator of x, victim of x, killed by x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, suspect of x, suspicious of x"], 
+      ["林惟仁", "friend of x"]
+    ],
+    "林夕": [
+      ["陈静雯", "关系1 of x, 关系2 of x"], 
+      ["苏阳", "former lover of x, estranged lover of x, acquaintance of x, coworker of x"], 
+      ["沈城", "relationhip 1: x is the servant of x, relationship 2: x is the investigation target of x"], 
+      ["郑心媚", "former lover of x, acquaintance of x, coworker of x"], 
+      ["顾明和", "father of x, 匿名资助人 of x"], 
+      ["仁和医院院长", "same person as x (different reference), same person as x (different identity)"], 
+      ["林惟仁", "father in law of x"]
+    ],
+    "苏阳": [
+      ["陈静雯", "wife of x, fiancee of x, lover of x, murderer of x, accomplice of x, co conspirator of x, rival of x"], 
+      ["顾宇", "wife of x, lover of x, victim of x, killed of x, dislike of x, disliked of x, suspicious of x, suspect of x, acquaintance of x"], 
+      ["林夕", "fiancé of x, estranged lover of x, former lover of x, colleague of x"], 
+      ["沈城", "former classmate of x, acquaintance of x, friend of x"], 
+      ["郑心媚", "former lover of x, acquaintance of x, coworker of x"], 
+      ["顾明和", "father in law of x"], 
+      ["仁和医院院长", "same person as x (different reference), same person as x (different identity)"], 
+      ["林惟仁", "father in law of x"]
+    ],
+    "沈城": [
+      ["陈静雯", "employee of x, informant of x, acquaintance of x, classmate of x, schoolmate of x, neighbor of x, helped by x, betrayed by x"], 
+      ["顾宇", "son in law of x, deceased of x"], 
+      ["林夕", "relationship 1: x is the employer of x, relationship 2: x is the suspect of x's father's death"], 
+      ["苏阳", "former classmate of x, acquaintance of x, friend of x"], 
+      ["郑心媚", "co wives of x, acquaintance of x"], 
+      ["husband of 顾明和's mother", "father of x 顾宇, business partner of x 顾明和, helper of x 陈静雯, acquaintance of x 陈静雯"], 
+      ["仁和医院院长", "acquaintance of x"], 
+      ["林惟仁", "relationship 1: x is the uncle of x, relationship 2: x is the husband of x's mother"]
+    ],
+    "郑心媚": [
+      ["陈静雯", "relationship 1: kinswoman (mother's sister) of x, relationship 2: acquaintance (colleague's girlfriend) of x"], 
+      ["顾宇", "mother of x unborn child, deceased of x"], 
+      ["林夕", "daughter of x, lover of x, coworker of x"], 
+      ["苏阳", "daughter of x, lover of x, coworker of x"], 
+      ["沈城", "murderer of x, suspect of x"], 
+      ["顾明和", "same person as x (different reference), same person as x (different identity)"], 
+      ["仁和医院院长", "same person as x (different reference), same person as x (different identity)"], 
+      ["林惟仁", "same person as x (different reference), same person as x (different identity)"]
+    ],
+    "顾明和": [
+      ["陈静雯", "father of x, relative of x, nephew of x, niece of x, informant of x, teacher of x, mentor of x, adversary of x, rival of x, friend of x, enemy of x, coworker of x, business partner of x, customer of x, buyer of x"], 
+      ["顾宇", "brother of x, father of x, uncle of x, friend of x, mentor of x, teacher of x, student of x, informant of x, acquaintance of x"], 
+      ["林夕", "父亲 of x, 杀死的凶手 of x"], 
+      ["苏阳", "son in law of x"], 
+      [" father of 顾宇", "business partner of x 沈城, acquaintance of x  chen静雯"], 
+      ["郑心媚", "father of x, mother of x"], 
+      ["仁和医院院长", "same person as x (different reference), same person as x (different identity)"], 
+      ["林惟仁", "同事 of x, 共谋害死顾氏集团 of x, 杀 death of x, 嫉妒 of x"]
+    ],
+    "林惟仁": [
+      ["陈静雯", "friend of x"], 
+      ["顾宇", "father in law of x, co worker of x, victim of x murder, person of x interest in investigation"], 
+      ["林夕", "father in law of x"], 
+      ["苏阳", "father in law of x"], 
+      ["沈城", "relationship 1: x is the nephew of x, relationship 2: x is the son of x's wife"], 
+      ["郑心媚", "father of x, mother of x"], 
+      ["顾明和", "同事 of x, 共谋害死顾氏集团 of x, 杀 death of x, 嫉妒 of x"], 
+      ["仁和医院院长", "acquaintance of x"]
+    ],
+    "顾宇": [
+      ["林夕", "relationhip 1 of x"], 
+      ["苏阳", "former lover of x, manipulator of x, master of x, employee of x, subordinate of x, customer of x, business partner of x"], 
+      ["沈城", "father in law of x, deceased of x"], 
+      ["郑心媚", "former lover of x, father of x unborn child"], 
+      ["顾明和", "father of x, 孩子的父亲 of x, lover of x, romantic relationship with x, cohabitant of x"], 
+      ["仁和医院院长", "same person as x (different reference), same person as x (different identity), stranger to x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by x"], 
+      ["林惟仁", "father of x unborn child, lover of x, suspect of x murder, person of x interest in investigation"]
+    ],
+    "仁和医院院长": [
+      ["顾宇", "same person as x (different reference), same person as x (different identity), stranger to x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by x"], 
+      ["林夕", "same person as x (different reference), same person as x (different identity)"], 
+      ["苏阳", "same person as x (different reference), same person as x (different identity)"], 
+      ["沈城", "acquaintance of x"], 
+      ["郑心媚", "acquaintance of x, classmate of x, schoolmate of x, neighbour of x"], 
+      ["顾明和", "colleague of x, boss of x"], 
+      ["林惟仁", "acquaintance of x"]
+    ]
+}

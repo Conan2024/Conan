@@ -1,0 +1,20 @@
+{
+    "洪子": [
+      ["刘奇", "subordinate of x"], 
+      ["韩亦暮", "subordinate of x"], 
+      ["张文远", "same person as x (different reference)"]
+    ],
+    "刘奇": [
+      ["林若彤", "subordinate of x"]
+    ],
+    "韩亦暮": [
+      ["洪子", "subordinate of x"]
+    ],
+    "林若彤": [
+      ["刘奇", "subordinate of x"]
+    ],
+    "张文远": [
+      ["洪子", "same person as x (different reference)"], 
+      ["刘奇", "subordinate of x"]
+    ]
+}

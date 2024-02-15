@@ -1,0 +1,70 @@
+{
+    "何小弟": [
+        [
+            "海老板",
+            "employer of x, enemy of x, suspected by x"
+        ],
+        [
+            "五个兄弟",
+            "sworn brother of x, victim of x"
+        ],
+        [
+            "海北",
+            "suspected by x, adversary of x"
+        ],
+        [
+            "杨沧海",
+            "stranger to x, information receiver from x"
+        ],
+        [
+            "江钟",
+            "acquaintance of x"
+        ]
+    ],
+    "海老板": [
+        [
+            "何小弟",
+            "employee of x, deceiver of x"
+        ],
+        [
+            "五个兄弟",
+            "murderer of x"
+        ],
+        [
+            "海北",
+            "same person as x (different identity), same person as x (different reference)"
+        ]
+    ],
+    "五个兄弟": [
+        [
+            "何小弟",
+            "sworn brother of x"
+        ],
+        [
+            "海老板",
+            "victim of x"
+        ]
+    ],
+    "海北": [
+        [
+            "何小弟",
+            "mentor of x"
+        ],
+        [
+            "杨沧海",
+            "business partner of x"
+        ]
+    ],
+    "杨沧海": [
+        [
+            "何小弟",
+            "stranger to x"
+        ]
+    ],
+    "江钟": [
+        [
+            "何小弟",
+            "acquaintance of x"
+        ]
+    ]
+}

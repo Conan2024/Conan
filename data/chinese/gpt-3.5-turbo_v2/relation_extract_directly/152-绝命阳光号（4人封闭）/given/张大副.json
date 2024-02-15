@@ -1,0 +1,80 @@
+{
+    "张大副": [
+      ["弟弟很天真", "sibling of x"], 
+      ["弟弟很天真", "employee of x 杨老板"], 
+      ["杨老板", "business partner of x (in illegal drug trade)"], 
+      ["杨老板", "acquaintance of x"], 
+      ["雯秘书", "employee of x 杨老板"], 
+      ["wang小工", "co worker of x"], 
+      ["玲船医", "acquaintance of x"], 
+      ["玲船医", "loved by 王小工 of x"], 
+      ["玲船医", "informant of x"], 
+      ["玲船医", "informant of x 杨老板"], 
+      ["王船工", "helper of x"], 
+      ["王船工", "attempted murderer of x"], 
+      ["王小工", "son of x 王船工"], 
+      ["王小工", "boyfriend of x 玲船医"], 
+      ["杨老板", "victim of x"], 
+      ["杨老板", "suspected by x"], 
+      ["杨老板", "manipulator of x"], 
+      ["杨老板", "murderer of x's brother"], 
+      ["杨老板", "suspect of x's brother's murder"], 
+      ["杨老板", "adversary of x"]
+    ],
+    "很天真": [
+      ["张大副", "sibling of x"], 
+      ["很天真", "employee of x 杨老板"], 
+      ["很天真", "informant of x 张大副"], 
+      ["很天真", "informant of x 杨老板"], 
+      ["杨老板", "employer of x"], 
+      ["杨老板", "business partner of x 张大副 (in illegal drug trade)"]
+    ],
+    "杨老板": [
+      ["张大副", "business partner of x (in illegal drug trade)"], 
+      ["张大副", "acquaintance of x"], 
+      ["很天真", "employer of x"], 
+      ["很天真", "employee of x"], 
+      ["雯秘书", "employee of x"], 
+      ["王小工", "employee of x"], 
+      ["张大副's brother", "murderer of x"], 
+      ["张大副's brother", "suspect of x"], 
+      ["杨老板", "informant of x 张大副"], 
+      ["杨老板", "informant of x 很天真"], 
+      ["杨老板", "adversary of x 张大副"], 
+      ["杨老板", "murderer of x 很天真"], 
+      ["杨老板", "suspect of x 很天真's murder"], 
+      ["杨老板", "adversary of x 很天真"]
+    ],
+    "雯秘书": [
+      ["杨老板", "employee of x"], 
+      ["杨老板", "informant of x 张大副"]
+    ],
+    "王船工": [
+      ["张大副", "co worker of x"], 
+      ["玲船医", "loved by x"], 
+      ["玲船医", "informant of x 张大副"], 
+      ["王小工", "father of x"], 
+      ["杨老板", "victim of x"], 
+      ["杨老板", "suspected by x"], 
+      ["杨老板", "manipulator of x"], 
+      ["王小工", "victim of x"], 
+      ["王小工", "murderer of x"]
+    ],
+    "玲船医": [
+      ["张大副", "acquaintance of x"], 
+      ["杨老板", "employee of x"], 
+      ["王小工", "girlfriend of x"], 
+      ["张大副", "informant of x"], 
+      ["杨老板", "informant of x"], 
+      ["杨老板", "suspected by x"], 
+      ["张大副", "manipulator of x"], 
+      ["王小工", "murderer of x"]
+    ],
+    "王小工": [
+      ["王船工", "son of x"], 
+      ["玲船医", "girlfriend of x"], 
+      ["杨老板", "victim of x"], 
+      ["杨老板", "suspected by x"], 
+      ["杨老板", "murderer of x"]
+    ]
+}

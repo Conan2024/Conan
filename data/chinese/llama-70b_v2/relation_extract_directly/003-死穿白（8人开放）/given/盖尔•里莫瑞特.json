@@ -1,0 +1,24 @@
+{
+    "盖尔•里莫瑞特": [
+      ["德雷克•里莫瑞特", "lover of x, father of x child, suspect of x murder"], 
+      ["汉斯•里莫瑞特", "husband of x, doctor of x, victim of x murder"], 
+      ["护士长科斯타", "colleague of x, defendant of x"], 
+      ["吉姆•梅森", "accuser of x, patient of x"], 
+      ["詹姆斯•菜利", "customer of x, blackmailer of x"]
+    ],
+    "德雷克•里莫瑞特": [
+      ["盖尔•里莫瑞特", "lover of x, mother of x child, suspect of x murder"], 
+      ["汉斯•里莫瑞特", "brother of x, doctor of x, victim of x murder"]
+    ],
+    "护士长科斯タ": [
+      ["盖尔•里莫瑞特", "colleague of x, defendant of x"], 
+      ["德雷克•里莫瑞特", "colleague of x, defendant of x"]
+    ],
+    "吉姆•梅森": [
+      ["汉斯•里莫瑞特", "accuser of x, patient of x"], 
+      ["盖尔•里莫瑞特", "accuser of x, patient of x"]
+    ],
+    "詹姆斯•菜利": [
+      ["盖尔•里莫瑞特", "customer of x, blackmailer of x"]
+    ]
+}

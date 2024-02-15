@@ -1,0 +1,58 @@
+{
+    "张金银": [
+      ["孟三春", "sworn brother of x"], 
+      ["张金山", "sibling of x"], 
+      ["洪江水", "jianghu brothers of x"], 
+      ["蔡思娘", "friend of x"], 
+      ["洪长烈", "rival of x"], 
+      ["洪二郎", "friend of x"]
+    ],
+    "孟三春": [
+      ["张金银", "sworn brother of x"], 
+      ["张金山", "brother of x"], 
+      ["洪江水", "friend of x, fondness of x"], 
+      ["蔡思娘", "wife of x, lover of x"], 
+      ["洪长烈", "rival of x"], 
+      ["洪二郎", "brotherhood of x"]
+    ],
+    "张金山": [
+      ["张金银", "sibling of x"], 
+      ["孟三春", "brother of x"], 
+      ["洪江水", "sibling of x"], 
+      ["蔡思娘", "husband of x"], 
+      ["洪长烈", "rival of x"], 
+      ["洪二郎", "brother in law of x"]
+    ],
+    "洪江水": [
+      ["张金银", "jianghu brothers of x"], 
+      ["孟三春", "friend of x, fondness of x"], 
+      ["张金山", "sibling of x"], 
+      ["蔡思娘", "co worker of x"], 
+      ["洪长烈", "helper of x"], 
+      ["洪二郎", "friend of x"]
+    ],
+    "蔡思娘": [
+      ["张金银", "friend of x"], 
+      ["孟三春", "husband of x, lover of x"], 
+      ["张金山", "wife of x"], 
+      ["洪江水", "co worker of x"], 
+      ["洪长烈", "friend of x, business partner of x"], 
+      ["洪二郎", "acquaintance of x"]
+    ],
+    "洪长烈": [
+      ["张金银", "rival of x"], 
+      ["孟三春", "rival of x"], 
+      ["张金山", "rival of x"], 
+      ["洪江水", "helper of x"], 
+      ["蔡思娘", "friend of x, business partner of x"], 
+      ["洪二郎", "extramarital affair with x"]
+    ],
+    "洪二郎": [
+      ["张金银", "friend of x"], 
+      ["孟三春", "brotherhood of x"], 
+      ["张金山", "brother in law of x"], 
+      ["洪江水", "friend of x"], 
+      ["蔡思娘", "acquaintance of x"], 
+      ["洪长烈", "extramarital affair with x"]
+    ]
+}

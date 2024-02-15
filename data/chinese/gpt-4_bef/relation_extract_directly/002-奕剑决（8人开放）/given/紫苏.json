@@ -1,0 +1,14 @@
+{
+    "紫苏": [
+      ["杜仲", "colleague of x, subordinate of x"], 
+      ["玄冰教神曲使", "informant of x"]
+    ],
+    "杜仲": [
+      ["紫苏", "colleague of x, superior of x"], 
+      ["玄冰教神曲使", "adversary of x"]
+    ],
+    "玄冰教神曲使": [
+      ["紫苏", "information receiver from x"], 
+      ["杜仲", "adversary of x"]
+    ]
+}

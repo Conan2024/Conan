@@ -1,0 +1,50 @@
+{
+    "廖雪寒": [
+      ["廖一乔", "child of x"], 
+      ["张医师", "informant of x, doctor of x"], 
+      ["茱丽", "secret lover of x, service provider of x"], 
+      ["海悠", "product provider of x"], 
+      ["罗亨理", "debtor of x, victim of x"], 
+      ["吕名然", "manipulated by x, adversary of x"], 
+      ["罗明纱", "suspected by x"], 
+      ["谭尚致", "colleague of x"], 
+      ["谭仁昌", "manipulator of x, suspect of x"], 
+      ["韦太太", "enemy of x"], 
+      ["承格", "saved by x"]
+    ],
+    "廖一乔": [
+      ["廖雪寒", "parent of x"], 
+      ["谭仁昌", "business partner of x"]
+    ],
+    "张医师": [
+      ["廖雪寒", "information receiver from x, doctor of x"]
+    ],
+    "茱丽": [
+      ["廖雪寒", "secret lover of x, service provider of x"]
+    ],
+    "海悠": [
+      ["廖雪寒", "product provider of x"]
+    ],
+    "罗亨理": [
+      ["廖雪寒", "debtor of x, victim of x"]
+    ],
+    "吕名然": [
+      ["廖雪寒", "manipulated by x, adversary of x"]
+    ],
+    "罗明纱": [
+      ["廖雪寒", "suspected by x"]
+    ],
+    "谭尚致": [
+      ["廖雪寒", "colleague of x"]
+    ],
+    "谭仁昌": [
+      ["廖雪寒", "manipulator of x, suspect of x"], 
+      ["廖一乔", "business partner of x"]
+    ],
+    "韦太太": [
+      ["廖雪寒", "enemy of x"]
+    ],
+    "承格": [
+      ["廖雪寒", "saved by x"]
+    ]
+}

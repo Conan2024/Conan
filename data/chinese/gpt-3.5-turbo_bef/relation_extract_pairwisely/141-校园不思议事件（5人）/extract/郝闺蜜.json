@@ -1,0 +1,56 @@
+{
+    "你": [
+      ["表姐", "sibling of x"], 
+      ["张恶霸", "romantic relationships with x"], 
+      ["林校花", "admirer of x, romantic relationships with x"], 
+      ["王学习", "friend of x"], 
+      ["李小弟", "friend of x"], 
+      ["赵帅哥", "romantic relationships with x"]
+    ],
+    "表姐": [
+      ["你", "sibling of x"], 
+      ["张恶霸", "extramarital affair with x, romantic relationships with x"], 
+      ["王学习", "sibling of x"], 
+      ["李小弟", "friend of x"], 
+      ["赵帅哥", "romantic relationships with x"]
+    ],
+    "张恶霸": [
+      ["你", "ex romantic relationships with x"], 
+      ["表姐", "extramarital affair with x, romantic relationships with x"], 
+      ["林校花", "lover of x, boyfriend of x"], 
+      ["王学习", "ex boyfriend of x"], 
+      ["李小弟", "adversary of x, murderer of x"], 
+      ["赵帅哥", "romantic relationships with x"]
+    ],
+    "林校花": [
+      ["你", "friend of x, romantic relationships with x"], 
+      ["张恶霸", "lover of x, girlfriend of x"], 
+      ["王学习", "fiance of x"], 
+      ["李小弟", "friend of x, informant of x"], 
+      ["赵帅哥", "romantic relationships with x, friend of x"]
+    ],
+    "王学习": [
+      ["你", "friend of x"], 
+      ["表姐", "sibling of x"], 
+      ["张恶霸", "ex girlfriend of x"], 
+      ["林校花", "fiancee of x"], 
+      ["李小弟", "quest companion of x, friend of x"], 
+      ["赵帅哥", "ex romantic relationships with x, romantic relationships with x"]
+    ],
+    "李小弟": [
+      ["你", "friend of x"], 
+      ["表姐", "friend of x"], 
+      ["张恶霸", "adversary of x, victim of x"], 
+      ["林校花", "friend of x, helper of x"], 
+      ["王学习", "quest companion of x, friend of x"], 
+      ["赵帅哥", "friend of x"]
+    ],
+    "赵帅哥": [
+      ["你", "romantic relationships with x"], 
+      ["表姐", "romantic relationships with x"], 
+      ["张恶霸", "romantic relationships with x"], 
+      ["林校花", "romantic relationships with x, friend of x"], 
+      ["王学习", "ex romantic relationships with x, romantic relationships with x"], 
+      ["李小弟", "friend of x"]
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "弗兰克•比杰利": [
+      ["托尼", "older brother of x, mentor of x, deceiver of x, saviour of x, suspect to x"], 
+      ["莱利", "mentor of x, employer of x"], 
+      ["汤姆神父", "deceiver of x, coworker of x, employer of x"]
+    ],
+    "托尼": [
+      ["弗兰克•比杰利", "younger brother of x, admirer of x, helped by x, deceived by x"], 
+      ["莱利", "mentor of x, employer of x"], 
+      ["汤姆神父", "deceived by x, admirer of x"]
+    ],
+    "莱利": [
+      ["弗兰克•比杰利", "protege of x, employee of x"], 
+      ["托尼", "student of x, employee of x"], 
+      ["汤姆神父", "employer of x, conspirator with x"]
+    ],
+    "汤姆神父": [
+      ["弗兰克•比杰利", "deceived by x, coworker of x, employee of x"], 
+      ["托尼", "deceiver of x"], 
+      ["莱利", "employee of x, conspirator with x"]
+    ]
+}

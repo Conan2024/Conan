@@ -1,0 +1,21 @@
+{
+    "孙清洁": [
+      ["李保安", "friend of x"], 
+      ["贾教授", "informant of x, information receiver from x"]
+    ],
+    "田助理": [
+      ["孙清洁", "employer of x"], 
+      ["李保安", "adversary of x"], 
+      ["贾教授", "extramarital affair with x"]
+    ],
+    "李保安": [
+      ["孙清洁", "friend of x"], 
+      ["田助理", "adversary of x"], 
+      ["贾教授", "informant of x"]
+    ],
+    "贾教授": [
+      ["孙清洁", "informant of x, information receiver from x"], 
+      ["田助理", "extramarital affair with x"], 
+      ["李保安", "informant of x"]
+    ]
+}

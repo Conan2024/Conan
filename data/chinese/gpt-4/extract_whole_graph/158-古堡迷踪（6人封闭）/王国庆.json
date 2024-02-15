@@ -1,0 +1,112 @@
+{
+    "王国庆": [
+        [
+            "王作家",
+            "father of 王国庆"
+        ],
+        [
+            "张小妹",
+            "romantic relationships with 王国庆"
+        ],
+        [
+            "甄有钱",
+            "acquaintance of 王国庆, enemy of 王国庆"
+        ],
+        [
+            "丁助手",
+            "friend of 王国庆"
+        ],
+        [
+            "甄公子",
+            "acquaintance of 王国庆"
+        ],
+        [
+            "李管家",
+            "host of 王国庆"
+        ]
+    ],
+    "王作家": [
+        [
+            "王国庆",
+            "child of 王作家"
+        ],
+        [
+            "甄有钱",
+            "friend of 王作家"
+        ],
+        [
+            "丁助手",
+            "employee of 王作家"
+        ]
+    ],
+    "张小妹": [
+        [
+            "王国庆",
+            "romantic relationships with 张小妹"
+        ],
+        [
+            "甄有钱",
+            "biological father of 张小妹"
+        ],
+        [
+            "甄公子",
+            "acquaintance of 张小妹, possibly family of 张小妹"
+        ],
+        [
+            "李管家",
+            "adoptive father of 张小妹"
+        ]
+    ],
+    "甄有钱": [
+        [
+            "王作家",
+            "friend of 甄有钱"
+        ],
+        [
+            "王国庆",
+            "acquaintance of 甄有钱, victim of 甄有钱"
+        ],
+        [
+            "张小妹",
+            "child of 甄有钱"
+        ],
+        [
+            "甄公子",
+            "father of 甄公子"
+        ],
+        [
+            "李管家",
+            "employee of 甄有钱"
+        ]
+    ],
+    "丁助手": [
+        [
+            "王作家",
+            "employer of 丁助手"
+        ],
+        [
+            "王国庆",
+            "friend of 丁助手"
+        ]
+    ],
+    "甄公子": [
+        [
+            "甄有钱",
+            "child of 甄公子"
+        ],
+        [
+            "张小妹",
+            "acquaintance of 甄公子, possibly family of 甄公子"
+        ]
+    ],
+    "李管家": [
+        [
+            "甄有钱",
+            "employee of 李管家"
+        ],
+        [
+            "张小妹",
+            "child of 李管家"
+        ]
+    ]
+}

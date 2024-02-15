@@ -1,0 +1,42 @@
+{
+    "chen wei": [
+      ["Li Yan", "husband of x, lover of x"], 
+      ["little witch", "same birthplace of x, foster daughter of x, siblings of x, good friends of x, romantic partner of x"]
+    ],
+    "Li Yan": [
+      ["Chen Wei", "wife of x, lover of x"]
+    ],
+    "陈倩": [
+      ["李钦仁", "father of x, son of x, future son in law of x, father in law of x, wife of x"]
+    ],
+    "李钦仁": [
+      ["陈倩", "father of x, son of x, future son in law of x, father in law of x, wife of x"], 
+      ["李仲", "son in law of x"], 
+      ["小茜", "husband of x (different identity)"], 
+      ["王爷", "father in law of x"]
+    ],
+    "little witch": [
+      ["chen wei", "same birthplace of x, foster daughter of x, siblings of x, good friends of x, romantic partner of x"]
+    ],
+    "chen_qian": [
+      ["wang_ye", "father in law of x, potential spouse of x, friend of x"]
+    ],
+    "wang_ye": [
+      ["chen_qian", "father in law of x, potential spouse of x, friend of x"]
+    ],
+    "李仲": [
+      ["李钦仁", "father in law of x"], 
+      ["小茜", "husband of x (different reference)"], 
+      ["王爷", "husband of x, stranger to x"]
+    ],
+    "小茜": [
+      ["李仲", "wife of x (different reference)"], 
+      ["李钦仁", "wife of x (different identity)"], 
+      ["王爷", "adoptive father of x, mentor of x"]
+    ],
+    "王爷": [
+      ["李仲", "wife of x, stranger to x"], 
+      ["李钦仁", "father in law of x"], 
+      ["小茜", "adopted daughter of x, protégé of x"]
+    ]
+}

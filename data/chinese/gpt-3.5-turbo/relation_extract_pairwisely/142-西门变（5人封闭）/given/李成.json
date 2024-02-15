@@ -1,0 +1,93 @@
+{
+    "李成": [
+        [
+            "赵中正",
+            "友人 of 赵中正"
+        ],
+        [
+            "赵中杨",
+            "friend of x"
+        ],
+        [
+            "陈媚儿",
+            "helper of x"
+        ],
+        [
+            "张伟",
+            "bodyguard of"
+        ]
+    ],
+    "赵中正": [
+        [
+            "李成",
+            "友人 of 李成"
+        ],
+        [
+            "赵中杨",
+            "brother of x"
+        ],
+        [
+            "陈媚儿",
+            "ex girlfriend of x"
+        ],
+        [
+            "张伟",
+            "guard of x"
+        ]
+    ],
+    "赵中杨": [
+        [
+            "李成",
+            "friend of x"
+        ],
+        [
+            "赵中正",
+            "brother of x"
+        ],
+        [
+            "陈媚儿",
+            "friend of x"
+        ],
+        [
+            "张伟",
+            "guard of x",
+            "helper of x"
+        ]
+    ],
+    "陈媚儿": [
+        [
+            "李成",
+            "helper of x"
+        ],
+        [
+            "赵中正",
+            "ex boyfriend of x"
+        ],
+        [
+            "赵中杨",
+            "friend of x"
+        ],
+        [
+            "张伟",
+            "informant of"
+        ]
+    ],
+    "张伟": [
+        [
+            "李成",
+            "acquaintance of"
+        ],
+        [
+            "赵中正",
+            "employer of x"
+        ],
+        [
+            "赵中杨",
+            "guard of x"
+        ],
+        [
+            "陈媚儿",
+            "helper of"
+        ]
+    ]
+}

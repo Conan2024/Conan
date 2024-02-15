@@ -1,0 +1,84 @@
+{
+    "姚仲义": [
+      ["姚长寿", "father of x"], 
+      ["徐夫人", "mother in law of x, step mother of x"], 
+      ["姚孟仁", "sibling of x, half brother of x, adversary of x, victim of x"], 
+      ["张雅娣", "mother of x"], 
+      ["敏月姐", "friend of x"], 
+      ["张得采", "acquaintance of x, relative of x"], 
+      ["虞君鸿", "friend of x, quest companion of x, informant of x, information receiver from x, helped by x, patient of x"], 
+      ["红夫人", "step mother of x"], 
+      ["陈均梦", "sister in law of x, helped by x"], 
+      ["云凌", "acquaintance of x"], 
+      ["贵叔", "helper of x, quest companion of x"], 
+      ["方医生", "acquaintance of x"]
+    ],
+    "姚长寿": [
+      ["姚仲义", "father of x"], 
+      ["徐夫人", "wife of x"], 
+      ["红夫人", "wife of x"], 
+      ["姚孟仁", "son of x"], 
+      ["张雅娣", "lover of x"], 
+      ["陈均梦", "daughter in law of x"]
+    ],
+    "张雅娣": [
+      ["姚仲义", "son of x"], 
+      ["姚长寿", "extramarital affair with x, lover of x"], 
+      ["敏月姐", "aunt of x"], 
+      ["张得采", "son of x"]
+    ],
+    "敏月姐": [
+      ["姚仲义", "friend of x"], 
+      ["张雅娣", "niece of x"], 
+      ["张得采", "sibling of x"]
+    ],
+    "张得采": [
+      ["张雅娣", "mother of x"], 
+      ["姚仲义", "cousin of x"], 
+      ["敏月姐", "sibling of x"]
+    ],
+    "虞君鸿": [
+      ["姚仲义", "friend of x, helped by x, student of x, information receiver from x"], 
+      ["陈均梦", "acquaintance of x, helped by x"], 
+      ["贵叔", "patient of x, saved by x"]
+    ],
+    "红夫人": [
+      ["姚长寿", "wife of x"], 
+      ["姚仲义", "step mother of x"], 
+      ["陈均梦", "acquaintance of x"], 
+      ["方医生", "employer of x"], 
+      ["贵叔", "employer of x, admirer of x"], 
+      ["云凌", "acquaintance of x"]
+    ],
+    "陈均梦": [
+      ["姚孟仁", "wife of x"], 
+      ["姚仲义", "sister in law of x, helped by x"], 
+      ["姚长寿", "daughter in law of x"], 
+      ["虞君鸿", "acquaintance of x, helped by x"]
+    ],
+    "云凌": [
+      ["姚仲义", "acquaintance of x"], 
+      ["贵叔", "acquaintance of x"]
+    ],
+    "贵叔": [
+      ["姚仲义", "helper of x"], 
+      ["虞君鸿", "saviour of x"], 
+      ["红夫人", "employee of x, admirer of x"], 
+      ["云凌", "acquaintance of x"]
+    ],
+    "方医生": [
+      ["红夫人", "employee of x"], 
+      ["姚长寿", "patient of x"]
+    ],
+    "姚孟仁": [
+      ["姚仲义", "sibling of x, half brother of x, adversary of x, perpetrator of x"], 
+      ["陈均梦", "husband of x"], 
+      ["姚长寿", "son of x"], 
+      ["虞君鸿", "acquaintance of x"]
+    ],
+    "徐夫人": [
+      ["姚长寿", "wife of x"], 
+      ["姚孟仁", "biological son of x"], 
+      ["姚仲义", "step son of x"]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "夏叔娥": [
+      ["夏伯龙", "father of x"], 
+      ["夏仲鹏", "uncle of x, teacher of x, helper of x"], 
+      ["夏三虎", "uncle of x"], 
+      ["骆明", "student of x, friend of x"], 
+      ["岳客沙", "student of x"], 
+      ["吴百安", "acquaintance of x"], 
+      ["吴伯伯", "acquaintance of x"], 
+      ["洛意丝", "friend of x"], 
+      ["吴笑", "acquaintance of x"]
+    ],
+    "夏伯龙": [
+      ["夏叔娥", "child of x"], 
+      ["夏仲鹏", "sibling of x"], 
+      ["夏三虎", "sibling of x"]
+    ],
+    "夏仲鹏": [
+      ["夏叔娥", "niece of x, student of x, helped by x"], 
+      ["夏伯龙", "sibling of x"], 
+      ["夏三虎", "sibling of x"], 
+      ["骆明", "acquaintance of x"]
+    ],
+    "夏三虎": [
+      ["夏叔娥", "niece of x"], 
+      ["夏伯龙", "sibling of x"], 
+      ["夏仲鹏", "sibling of x"], 
+      ["骆明", "acquaintance of x"], 
+      ["岳客沙", "acquaintance of x"], 
+      ["吴伯伯", "suspected by x"], 
+      ["洛意丝", "acquaintance of x"]
+    ],
+    "骆明": [
+      ["夏三虎", "acquaintance of x"]
+    ],
+    "吴百安": [
+      ["夏叔娥", "informant of x, suspected by x"], 
+      ["夏伯龙", "product provider of x"], 
+      ["吴笑", "father of x"]
+    ],
+    "吴伯伯": [
+      ["夏叔娥", "acquaintance of x"], 
+      ["易阿姨", "friend of x"]
+    ],
+    "洛意丝": [
+      ["夏叔娥", "friend of x"]
+    ],
+    "吴笑": [
+      ["吴百安", "son of x"]
+    ]
+}

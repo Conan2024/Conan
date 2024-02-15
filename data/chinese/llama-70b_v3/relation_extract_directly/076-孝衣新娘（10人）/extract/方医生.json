@@ -1,0 +1,31 @@
+{
+    "方医生": [
+      ["姚长寿", "father of x"], 
+      ["张得采", "friend of x"], 
+      ["张雅娣", "concubine of x"]
+    ],
+    "姚长寿": [
+      ["方医生", "father of x"], 
+      ["张得采", "child of x"], 
+      ["张雅娣", "wife of x"]
+    ],
+    "张得采": [
+      ["方医生", "friend of x"], 
+      ["张雅娣", "wife of x"], 
+      ["姚长寿", "child of x"]
+    ],
+    "张雅娣": [
+      ["张得采", "wife of x"], 
+      ["姚长寿", "child of x"]
+    ],
+    "姚孟仁": [
+      ["姚长寿", "father of x"]
+    ],
+    "姚孟义": [
+      ["姚长寿", "father of x"]
+    ],
+    "方敏月": [
+      ["方医生", "daughter of x"], 
+      ["姚长寿", "uncle of x"]
+    ]
+}

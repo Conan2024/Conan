@@ -1,0 +1,46 @@
+{
+    "齐故飞": [
+      ["招楠", "acquaintance of x, neighbor of x, victim of x"], 
+      ["黑莉", "acquaintance of x, neighbor of x"], 
+      ["贵郎", "brother of x, friend of x, co worker of x"], 
+      ["阮太太", "landlady of x, mother like figure of x, co worker of x"], 
+      ["罗秀才", "acquaintance of x, neighbor of x, victim of x"]
+    ],
+    "招楠": [
+      ["齐故飞", "acquaintance of x, neighbor of x, victim of x"], 
+      ["黑莉", "acquaintance of x, neighbor of x"], 
+      ["贵郎", "acquaintance of x, neighbor of x, co worker of x"]
+    ],
+    "黑莉": [
+      ["齐故飞", "acquaintance of x, neighbor of x"], 
+      ["招楠", "acquaintance of x, neighbor of x"], 
+      ["贵郎", "acquaintance of x, neighbor of x, co worker of x"]
+    ],
+    "贵郎": [
+      ["齐故飞", "brother of x, friend of x, co worker of x"], 
+      ["招楠", "acquaintance of x, neighbor of x, co worker of x"], 
+      ["黑莉", "acquaintance of x, neighbor of x, co worker of x"]
+    ],
+    "阮太太": [
+      ["齐故飞", "tenant of x, friend of x, co worker of x"], 
+      ["招楠", "tenant of x, friend of x"], 
+      ["贵郎", "son of x, friend of x, co worker of x"]
+    ],
+    "罗秀才": [
+      ["齐故飞", "acquaintance of x, neighbor of x, victim of x"], 
+      ["招楠", "acquaintance of x, neighbor of x, victim of x"], 
+      ["贵郎", "acquaintance of x, neighbor of x, co worker of x"]
+    ],
+    "雪嫣": [
+      ["齐故飞", "acquaintance of x, neighbor of x"], 
+      ["招楠", "acquaintance of x, neighbor of x"], 
+      ["贵郎", "acquaintance of x, neighbor of x, co worker of x"]
+    ],
+    "罗有诺": [
+      ["齐故飞", "friend of x, acquaintance of x"], 
+      ["招楠", "friend of x, acquaintance of x"]
+    ],
+    "阮清礼": [
+      ["齐故飞", "sister in law of x, friend of x"]
+    ]
+}

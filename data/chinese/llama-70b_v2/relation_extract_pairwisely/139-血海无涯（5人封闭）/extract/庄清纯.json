@@ -1,0 +1,36 @@
+{
+    "庄清纯": [
+      ["秦专家", "stepfather of x, music teacher of x, adversary of x, enemy of x, rival of x, manipulator of x, deceiver of x"], 
+      ["秦老大", "兄妹 of x, 异父异母的哥哥 of x, 同班同学 of x, 音乐cademy fellow students of x, 秦专家的亲生子女 of x"], 
+      ["贾美丽", "朋友 of x, 同学 of x, 团队成员 of x, 邻居 of x, 秘密交往 of x, 潜在的竞争对手 of x, 靠近的人 of x"]
+    ],
+    "秦专家": [
+      ["庄清纯", "stepfather of x, music teacher of x, adversary of x, enemy of x, rival of x, manipulator of x, deceiver of x"], 
+      ["秦老大", "uncle niece of x, informant recipient of x, acquaintance friend of x, neighbour of x, helper of x"], 
+      ["贾美丽", "friend of x, mentor of x, teacher of x, informant of x, acquaintance of x"], 
+      ["萧体育", "father in law of x"], 
+      ["薛媚娘", "father in law/step father of x, bully of x, manipulator of x"]
+    ],
+    "秦老大": [
+      ["庄清纯", "兄妹 of x, 异父异母的哥哥 of x, 同班同学 of x, 音乐cademy fellow students of x, 秦专家的亲生子女 of x"], 
+      ["秦专家", "father son of x, brother sister of x, friend friend of x, neighbour of x, helper of x"], 
+      ["贾美丽", "former classmate of x"], 
+      ["萧体育", "异父异母的哥哥 of x, rival in love of x"]
+    ],
+    "贾美丽": [
+      ["庄清纯", "朋友 of x, 同学 of x, 团队成员 of x, 邻居 of x, 秘密交往 of x, 潜在的竞争对手 of x, 靠近的人 of x"], 
+      ["秦专家", "friend of x, mentor of x, teacher of x, informant of x, acquaintance of x"], 
+      ["秦老大", "former classmate of x"], 
+      ["薛媚娘", "同学 of x, 朋友 of x"]
+    ],
+    "萧体育": [
+      ["秦专家", "boyfriend of x"], 
+      ["秦老大", "teacher of x, lover of x, acquaintance of x"], 
+      ["薛媚娘", "girlfriend of x, secret relationship of x"]
+    ],
+    "薛媚娘": [
+      ["秦专家", "mother in law/step mother of x, bullied of x, manipulated of x"], 
+      ["贾美丽", "同学 of x, 朋友 of x"], 
+      ["萧体育", "boyfriend of x, secret relationship of x"]
+    ]
+}

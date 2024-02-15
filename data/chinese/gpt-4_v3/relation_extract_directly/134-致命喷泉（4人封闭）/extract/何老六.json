@@ -1,0 +1,96 @@
+{
+    "何老六": [
+        [
+            "李国富",
+            "subordinate of x, relative of x, crime partner of x"
+        ],
+        [
+            "张洁",
+            "colleague of x, crime partner of x"
+        ],
+        [
+            "慕北",
+            "colleague of x"
+        ],
+        [
+            "王大哥",
+            "acquaintance of x, customer of x, creditor of x"
+        ],
+        [
+            "二姐",
+            "same person as x (different identity)"
+        ],
+        [
+            "老爸",
+            "father of x"
+        ]
+    ],
+    "李国富": [
+        [
+            "何老六",
+            "superior of x, victim of x, crime partner of x"
+        ],
+        [
+            "张洁",
+            "subordinate of x, crime partner of x"
+        ],
+        [
+            "慕北",
+            "subordinate of x"
+        ],
+        [
+            "王大哥",
+            "acquaintance of x, debtor of x"
+        ]
+    ],
+    "张洁": [
+        [
+            "何老六",
+            "colleague of x, crime partner of x"
+        ],
+        [
+            "李国富",
+            "superior of x, crime partner of x"
+        ],
+        [
+            "慕北",
+            "colleague of x"
+        ]
+    ],
+    "慕北": [
+        [
+            "何老六",
+            "colleague of x"
+        ],
+        [
+            "李国富",
+            "superior of x"
+        ],
+        [
+            "张洁",
+            "colleague of x"
+        ]
+    ],
+    "王大哥": [
+        [
+            "何老六",
+            "acquaintance of x, service provider of x, debtor of x"
+        ],
+        [
+            "李国富",
+            "acquaintance of x, adversary of x, creditor of x"
+        ]
+    ],
+    "二姐": [
+        [
+            "何老六",
+            "same person as x (different identity)"
+        ]
+    ],
+    "老爸": [
+        [
+            "何老六",
+            "child of x"
+        ]
+    ]
+}

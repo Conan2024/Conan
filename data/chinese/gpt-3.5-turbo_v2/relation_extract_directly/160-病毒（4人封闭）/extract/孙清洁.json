@@ -1,0 +1,27 @@
+{
+    "孙清洁": [
+      ["田助理", "informant of x"], 
+      ["学校的李保安", "acquaintance of x"], 
+      ["贾教授", "subject of x investigation for x"], 
+      ["一个学生打扮的女生", "unknown relationship with x"]
+    ],
+    "田助理": [
+      ["孙清洁", "information receiver from x"], 
+      ["贾教授", "co wives of x"], 
+      ["一个学生打扮的女生", "unknown relationship with x"]
+    ],
+    "学校的李保安": [
+      ["孙清洁", "acquaintance of x"], 
+      ["田助理", "information receiver from x"]
+    ],
+    "贾教授": [
+      ["孙清洁", "subject of x investigation for x"], 
+      ["田助理", "co wives of x"], 
+      ["一个学生打扮的女生", "romantic relationships with x"]
+    ],
+    "一个学生打扮的女生": [
+      ["孙清洁", "unknown relationship with x"], 
+      ["田助理", "unknown relationship with x"], 
+      ["贾教授", "romantic relationships with x"]
+    ]
+}

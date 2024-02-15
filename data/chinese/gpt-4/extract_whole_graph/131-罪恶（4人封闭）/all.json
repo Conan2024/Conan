@@ -1,0 +1,78 @@
+{
+    "胡调研": [
+        [
+            "王村长",
+            "acquaintance of x, information receiver from x, helper of x"
+        ],
+        [
+            "李警察",
+            "friend of x, colleague of x"
+        ],
+        [
+            "赵慈善",
+            "enemy of x, victim of x, adversary of x, disliked by x, manipulator of x, attempted perpetrator of x"
+        ],
+        [
+            "赵慈善的员工",
+            "helper of x"
+        ],
+        [
+            "胡调研的儿子",
+            "son of x, victim of x"
+        ]
+    ],
+    "王村长": [
+        [
+            "胡调研",
+            "helper of x, informant of x"
+        ],
+        [
+            "赵慈善",
+            "acquaintance of x"
+        ]
+    ],
+    "李警察": [
+        [
+            "胡调研",
+            "friend of x, colleague of x"
+        ]
+    ],
+    "赵慈善": [
+        [
+            "胡调研",
+            "adversary of x, disliked by x, deceiver of x, manipulator of x, perpetrator of x"
+        ],
+        [
+            "王村长",
+            "acquaintance of x"
+        ],
+        [
+            "赵慈善的员工",
+            "superior of x, exploiter of x"
+        ],
+        [
+            "胡调研的儿子",
+            "perpetrator of x"
+        ]
+    ],
+    "赵慈善的员工": [
+        [
+            "赵慈善",
+            "employee of x, victim of x"
+        ],
+        [
+            "胡调研",
+            "informant of x"
+        ]
+    ],
+    "胡调研的儿子": [
+        [
+            "胡调研",
+            "son of x"
+        ],
+        [
+            "赵慈善",
+            "victim of x"
+        ]
+    ]
+}

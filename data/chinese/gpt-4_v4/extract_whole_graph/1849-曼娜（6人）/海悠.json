@@ -1,0 +1,63 @@
+{
+    "海悠": [
+      ["韦扬逢", "father of x"], 
+      ["周氏", "mother of x"], 
+      ["韦洋遥", "relative of x"], 
+      ["吕采茜", "mother of x"], 
+      ["罗明纱", "adoptive mother of x"], 
+      ["谭仁昌", "father of x"], 
+      ["谭公馆", "guest of x"], 
+      ["尚致", "adoptive brother of x"], 
+      ["吕名然", "business partner of x, uncle of x"], 
+      ["谭承格", "same person as x (different identity)"], 
+      ["廖公子", "relative of x"]
+    ],
+    "韦扬逢": [
+      ["海悠", "father of x"]
+    ],
+    "周氏": [
+      ["海悠", "mother of x"]
+    ],
+    "韦洋遥": [
+      ["海悠", "relative of x"], 
+      ["吕采茜", "husband of x"]
+    ],
+    "吕采茜": [
+      ["海悠", "mother of x"], 
+      ["韦洋遥", "wife of x"], 
+      ["吕名然", "sister of x"]
+    ],
+    "罗明纱": [
+      ["海悠", "adoptive mother of x"], 
+      ["谭仁昌", "wife of x"], 
+      ["谭公馆", "host of x"]
+    ],
+    "谭仁昌": [
+      ["罗明纱", "husband of x"], 
+      ["海悠", "father of x"], 
+      ["谭公馆", "host of x"], 
+      ["尚致", "uncle of x"], 
+      ["谭承格", "relative of x"], 
+      ["吕名然", "superior of x"]
+    ],
+    "谭公馆": [
+      ["海悠", "guest of x"], 
+      ["罗明纱", "host of x"], 
+      ["谭仁昌", "host of x"]
+    ],
+    "尚致": [
+      ["海悠", "adoptive brother of x"], 
+      ["谭仁昌", "nephew of x"]
+    ],
+    "吕名然": [
+      ["吕采茜", "sibling of x"], 
+      ["罗明纱", "uncle of x"], 
+      ["谭仁昌", "subordinate of x"]
+    ],
+    "谭承格": [
+      ["谭仁昌", "adoptive son of x"]
+    ],
+    "廖公子": [
+      ["罗明纱", "relative of x"]
+    ]
+}

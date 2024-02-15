@@ -1,0 +1,45 @@
+{
+    "岳东汶": [
+      ["林珊", "uncle of x"], 
+      ["戴浩", "uncle of x"], 
+      ["曹梅", "aunt of x"], 
+      ["岳东泽", "cousin of x"], 
+      ["岳东秀", "cousin of x"], 
+      ["岳希", "father of x"], 
+      ["王玉芳", "mother of x"], 
+      ["岳东汶", "brother of x 岳东郭, cousin of x 岳东找, uncle of x 岳东泽 and 岳东秀"], 
+      ["岳东思", "brother of x"], 
+      ["岳东郭", "brother of x, cousin of x 岳东找, uncle of x 岳东泽 and 岳东秀"], 
+      ["岳东找", "brother of x, cousin of x 岳东郭, uncle of x 岳东泽 and 岳东秀"]
+    ],
+    "林珊": [
+      ["岳东汶", "nephew of x"]
+    ],
+    "戴浩": [
+      ["岳东汶", "nephew of x"]
+    ],
+    "曹梅": [
+      ["岳东汶", "nephew of x"]
+    ],
+    "岳东泽": [
+      ["岳东汶", "cousin of x, 岳东秀 of x, 岳东找 of x, and 岳东郭 of x"]
+    ],
+    "岳东秀": [
+      ["岳东汶", "cousin of x 岳东泽, x, 岳东找 of x, and 岳东郭 of x"]
+    ],
+    "岳东思": [
+      ["岳东汶", "brother of x"]
+    ],
+    "岳东郭": [
+      ["岳东汶", "brother of x, cousin of x 岳东泽, 岳东秀 of x, and 岳东找 of x"]
+    ],
+    "岳东找": [
+      ["岳东汶", "brother of x, cousin of x 岳东泽, 岳东秀 of x, and 岳东郭 of x"]
+    ],
+    "岳希": [
+      ["岳东汶", "father of x"]
+    ],
+    "王玉芳": [
+      ["岳东汶", "mother of x"]
+    ]
+}

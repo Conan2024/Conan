@@ -1,0 +1,79 @@
+{
+    "吕松年": [
+      ["吕陆升", "sibling of x, business partner of x"], 
+      ["葛继先", "acquaintance of x, victim of x"], 
+      ["朱陵山", "accomplice of x, acquaintance of x"], 
+      ["薛达财", "customer of x"], 
+      ["严义充", "victim of x"], 
+      ["薛玉帆", "acquaintance of x"], 
+      ["于彦诚", "acquaintance of x"], 
+      ["于尚勇", "acquaintance of x"]
+    ],
+    "吕陆升": [
+      ["吕松年", "sibling of x, business partner of x"], 
+      ["葛继先", "acquaintance of x"], 
+      ["朱陵山", "suspect of x"], 
+      ["薛达财", "customer of x"], 
+      ["严义充", "victim of x"], 
+      ["乐婉", "acquaintance of x"], 
+      ["薛玉帆", "acquaintance of x"], 
+      ["于彦诚", "acquaintance of x"], 
+      ["于尚勇", "suspected by x"]
+    ],
+    "葛继先": [
+      ["吕松年", "acquaintance of x, victim of x's perpetrators"], 
+      ["吕陆升", "acquaintance of x"], 
+      ["朱陵山", "son in law of x, murderer of x"], 
+      ["严义充", "acquaintance of x"]
+    ],
+    "朱陵山": [
+      ["吕松年", "accomplice of x, blackmailer of x"], 
+      ["吕陆升", "suspected by x"], 
+      ["葛继先", "father in law of x, victim of x"], 
+      ["乐婉", "romantic relationships with x"], 
+      ["薛玉帆", "acquaintance of x, kidnapper of x"], 
+      ["于彦诚", "acquaintance of x"], 
+      ["于尚勇", "acquaintance of x"]
+    ],
+    "薛达财": [
+      ["吕松年", "customer of x"], 
+      ["吕陆升", "customer of x"], 
+      ["朱陵山", "acquaintance of x"], 
+      ["薛玉帆", "father of x"]
+    ],
+    "严义充": [
+      ["吕松年", "victim of x"], 
+      ["吕陆升", "victim of x"], 
+      ["葛继先", "acquaintance of x"]
+    ],
+    "乐婉": [
+      ["朱陵山", "romantic relationships with x"], 
+      ["薛玉帆", "acquaintance of x"], 
+      ["于彦诚", "acquaintance of x"], 
+      ["于尚勇", "host of x"]
+    ],
+    "薛玉帆": [
+      ["薛达财", "son of x"], 
+      ["吕松年", "acquaintance of x, saved by x"], 
+      ["朱陵山", "kidnapper of x, acquaintance of x"], 
+      ["乐婉", "acquaintance of x"], 
+      ["于彦诚", "rescuer of x"], 
+      ["于尚勇", "acquaintance of x"]
+    ],
+    "于彦诚": [
+      ["吕松年", "acquaintance of x"], 
+      ["吕陆升", "acquaintance of x"], 
+      ["朱陵山", "acquaintance of x"], 
+      ["乐婉", "acquaintance of x"], 
+      ["薛玉帆", "rescuer of x"], 
+      ["于尚勇", "sibling of x"]
+    ],
+    "于尚勇": [
+      ["吕松年", "acquaintance of x, suspected by x"], 
+      ["吕陆升", "acquaintance of x"], 
+      ["朱陵山", "acquaintance of x"], 
+      ["乐婉", "guest of x"], 
+      ["薛玉帆", "acquaintance of x"], 
+      ["于彦诚", "sibling of x"]
+    ]
+}

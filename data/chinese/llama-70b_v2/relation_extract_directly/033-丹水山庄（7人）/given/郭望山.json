@@ -1,0 +1,53 @@
+{
+    "郭望山": [
+      ["冯双骥", "friend of x"], 
+      ["任师父", "introduced by of x"], 
+      ["小混混", "friend of x"], 
+      ["尹少鸣", "friend of x"], 
+      ["廖老板", "employer of x"], 
+      ["赵万雷", "business partner of x"], 
+      ["花子狸", "acquaintance of x"]
+    ],
+    "任师父": [
+      ["郭望山", "introduced by of x"], 
+      ["冯双骥", "friend of x"], 
+      ["小混混", "friend of x"], 
+      ["尹少鸣", "friend of x"]
+    ],
+    "冯双骥": [
+      ["郭望山", "friend of x"], 
+      ["任师父", "friend of x"], 
+      ["小混混", "friend of x"], 
+      ["尹少鸣", "friend of x"]
+    ],
+    "小混混": [
+      ["郭望山", "friend of x"], 
+      ["任师父", "friend of x"], 
+      ["冯双骥", "friend of x"], 
+      ["尹少鸣", "friend of x"]
+    ],
+    "尹少鸣": [
+      ["郭望山", "friend of x"], 
+      ["任师父", "friend of x"], 
+      ["冯双骥", "friend of x"], 
+      ["小混混", "friend of x"]
+    ],
+    "廖老板": [
+      ["郭望山", "employer of x"], 
+      ["冯双骥", "employee of x"], 
+      ["小混混", "employee of x"], 
+      ["尹少鸣", "employee of x"]
+    ],
+    "赵万雷": [
+      ["郭望山", "business partner of x"]
+    ],
+    "花子狸": [
+      ["郭望山", "acquaintance of x"]
+    ],
+    "齐岳": [
+      ["郭望山", "enemy of x"]
+    ],
+    "冯总管": [
+      ["郭望山", "acquaintance of x"]
+    ]
+}

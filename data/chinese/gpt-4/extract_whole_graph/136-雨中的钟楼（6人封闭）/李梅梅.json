@@ -1,0 +1,60 @@
+{
+    "李梅梅": [
+        [
+            "陈红灯",
+            "same person as x (different identity)"
+        ],
+        [
+            "姚钱树",
+            "acquaintance of x"
+        ],
+        [
+            "李长青",
+            "partner of x, victim of x"
+        ],
+        [
+            "王二",
+            "same person as x (different reference)"
+        ]
+    ],
+    "陈红灯": [
+        [
+            "姚钱树",
+            "informant of x, acquaintance of x"
+        ],
+        [
+            "王二",
+            "romantic relationships with x"
+        ]
+    ],
+    "姚钱树": [
+        [
+            "李梅梅",
+            "acquaintance of x, victim of x"
+        ],
+        [
+            "陈红灯",
+            "information receiver from x, acquaintance of x"
+        ]
+    ],
+    "李长青": [
+        [
+            "李梅梅",
+            "partner of x, victim of x"
+        ],
+        [
+            "王二",
+            "same person as x (different reference)"
+        ]
+    ],
+    "王二": [
+        [
+            "陈红灯",
+            "romantic relationships with x"
+        ],
+        [
+            "李长青",
+            "same person as x (different reference)"
+        ]
+    ]
+}

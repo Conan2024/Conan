@@ -1,0 +1,37 @@
+{
+    "科斯塔护士长": [
+      ["母亲", "mother of x"], 
+      ["父亲", "father of x"], 
+      ["詹姆斯·莱利", "creditor of x, adversary of x"], 
+      ["汉斯·里莫瑞提", "acquaintance of x, victim of x"], 
+      ["盖尔·里莫瑞特", "lawyer of x"], 
+      ["德雷克·里莫瑞提", "acquaintance of x"], 
+      ["帕洛斯基医生", "colleague of x, superior of x"], 
+      ["伊莱恩·卡特尔", "colleague of x, helped by x"], 
+      ["理查德·伯克利", "superior of x, colleague of x"]
+    ],
+    "汉斯·里莫瑞提（死者）": [
+      ["科斯塔护士长", "victim of x"], 
+      ["盖尔·里莫瑞特", "husband of x"], 
+      ["德雷克·里莫瑞提", "twin brother of x"]
+    ],
+    "盖尔·里莫瑞特": [
+      ["汉斯·里莫瑞提", "wife of x"], 
+      ["科斯塔护士长", "customer of x"]
+    ],
+    "德雷克·里莫瑞提": [
+      ["汉斯·里莫瑞提", "twin brother of x"], 
+      ["科斯塔护士长", "colleague of x"]
+    ],
+    "帕洛斯基医生": [
+      ["科斯塔护士长", "colleague of x, superior of x"], 
+      ["伊莱恩·卡特尔", "mentor of x"]
+    ],
+    "伊莱恩·卡特尔": [
+      ["帕洛斯基医生", "mentor of x"], 
+      ["科斯塔护士长", "colleague of x, helped by x"]
+    ],
+    "理查德·伯克利": [
+      ["科斯塔护士长", "superior of x, colleague of x"]
+    ]
+}
