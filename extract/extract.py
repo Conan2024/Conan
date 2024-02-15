@@ -117,7 +117,6 @@ class CharExtraction():
         else:
             #print("split")
             if len(list(variable_value.keys())) == 0:
-                # 计算可以塞多少text并塞满，得到塞的文本和剩下的文本
                 prompt_current = prompt.replace(variable_key, str(variable_value))
                 promt_len = count_string_tokens(prompt_current)
                 max_len = self.config.max_tokens - promt_len
@@ -127,44 +126,25 @@ class CharExtraction():
                 variable_value = self.gen_response_35(sys, prompt)
 
             prompt = self.prompts[update_prompt_format]
-            #print("check!!!!!!!!", update_prompt_format)
             for key, value in fixed_replace_dic.items():
                 prompt = prompt.replace(key, str(value))
             while True:
-                # 计算当前能填充多少文本
                 prompt_current = prompt.replace(variable_key, str(variable_value))
                 promt_len = count_string_tokens(prompt_current)
                 max_len = self.config.max_tokens - promt_len
-                # if max_len < 0, i.e. prompt is longer than max_tokens, just return what we have
-                """if max_len < 0:
-                    if ifsave:
-                        with open(save_path, 'w') as f:
-                            json.dump(variable_value, f, ensure_ascii=False, indent=4)
-                            f.close()
-                    print("prompt longer than max_tokens")
-                    return variable_value"""
-                # 如果剩下的填充不完，就分块
                 if count_string_tokens(character_background_text) >  max_len:
                     chunks = self.split_text(character_background_text, max_len)
                     prompt_current = prompt.replace("{character_background_text}", chunks[0]).replace(variable_key, str(variable_value))
-                    #print("check 1 ======", prompt_current)
                     response = self.gen_response_35(sys, prompt_current)
                     if len(list(response.keys())) > 0:
                         variable_value = response
                     character_background_text = ''.join(chunks[1:])
-                    """if ifsave:
-                        with open(save_path, 'w') as f:
-                            json.dump(variable_value, f, ensure_ascii=False, indent=4)
-                            f.close()
-                    return variable_value"""
                 else:
                     prompt_current = prompt.replace("{character_background_text}", character_background_text).replace(variable_key, str(variable_value))
-                    #print("check 2 ======", prompt_current)
                     response = self.gen_response_35(sys, prompt_current)
                     if len(list(response.keys())) > 0:
                         variable_value = response
                     break
-            #print(variable_value)
             if ifsave:
                 with open(save_path, 'w') as f:
                     json.dump(variable_value, f, ensure_ascii=False, indent=4)
@@ -245,11 +225,7 @@ class CharExtraction():
     def extract_character(self, story_path, character_dir):
         if not os.path.isdir(character_dir):
             os.makedirs(character_dir)
-        
         character_all = {}
-        """with open(os.path.join(story_path, background_file), 'r') as f:
-            character_background_text = f.read()
-            f.close()"""
         for background_file in os.listdir(story_path):
             if background_file == ".DS_Store":
                 continue
@@ -265,9 +241,6 @@ class CharExtraction():
             self.out_of_limit('ext_character_list_prompt', 'update_character_list_prompt', fixed_replace_dic, "{character_list}", {}, character_background_text, save_path, error_save={"characters":[]})
 
         save_all_path = os.path.join(character_dir, "all.json")
-        """if os.path.exists(save_all_path):
-            print(save_all_path, "exists")
-            return None"""
         character_list_all = []
         for character_file in os.listdir(character_dir):
             if (character_file == ".DS_Store") or (character_file == "all.json"):
@@ -276,52 +249,11 @@ class CharExtraction():
                 character_list = json.load(f)["characters"]
                 f.close()
             character_list_all += character_list
-            #character_name = background_file[:-4]
-            #save_path = os.path.join(character_dir, character_name+".json")
-            #with open(os.path.join(story_path, background_file), 'r') as f:
-            #    character_background_text = f.read()
-            #    f.close()
-            #fixed_replace_dic = {"{character_name}": character_name}
-            #character_all = self.out_of_limit('ext_character_list_prompt', 'update_character_list_prompt', fixed_replace_dic, "{character_list}", character_all, character_background_text, save_all_path, ifsave=False)
         character_list_all = list(set(character_list_all))
         with open(save_all_path, 'w') as f:
             json.dump({"characters":character_list_all}, f, ensure_ascii=False, indent=4)
             f.close()
 
-    """def extract_relation_given_character(self, story_path, character_dir, save_dir, character="extract"):
-        
-        Input: 
-            {character_background_text} the story, 
-            list of characters 
-        Returns: 
-            list of relationship graphs
-       
-        if not os.path.isdir(save_dir):
-            os.makedirs(save_dir)
-
-        for background_file in os.listdir(story_path):
-            if background_file == ".DS_Store":
-                continue
-            character_name = background_file[:-4]
-            save_path = os.path.join(save_dir, character_name+".json")
-            if os.path.exists(save_path):
-                print(save_path, "exists")
-                continue
-            with open(os.path.join(story_path, background_file), 'r') as f:
-                character_background_text = f.read()
-                f.close()
-            if character == "extract":
-                with open(os.path.join(character_dir, character_name+".json"), 'r') as f:
-                    character_list = json.load(f)["characters"]
-                    f.close()
-            elif character == "given":
-                with open(os.path.join(self.annotation_dir, character_name+".json"), "r") as f:
-                    character_list = list(json.load(f).keys())
-                    f.close()
-            
-            fixed_replace_dic = {"{character_name}": character_name, "{categories}": str(self.category_list), "{character_list}": character_list}
-            self.out_of_limit('extract_relation_given_character', 'update_relation_given_character', fixed_replace_dic, "{relationships_graph}", {}, character_background_text, save_path)
-    """
     def extract_relations_pairwisely(self, story_path, character_dir, save_dir, character="extract"):
         if not os.path.isdir(save_dir):
             os.makedirs(save_dir)
@@ -517,19 +449,7 @@ class CharExtraction():
             extract_whole_graph_dir = os.path.join(os.getcwd(), "data", language, self.config.model + "_v2", "extract_whole_graph", story_folder)
             extract_whole_graph_save_dir = os.path.join(os.getcwd(), "data", language, self.config.model + "_v3", "extract_whole_graph", story_folder)
             _, relationship_to_specified = self.check_one_story(extract_whole_graph_dir, extract_whole_graph_save_dir, gpt4_relationship_to_specified_path, relationship_to_specified)
-            """
-            if not os.path.isdir(extract_whole_graph_save_dir):
-                os.makedirs(extract_whole_graph_save_dir)
-            for background_file in os.listdir(extract_whole_graph_dir):
-                if background_file == ".DS_Store":
-                    continue
-                save_path = os.path.join(extract_whole_graph_save_dir, background_file)
-                #character_name, ext = os.path.splitext(background_file)
-                with open(save_path, "r") as f:
-                    relationships_dic = json.load(f)
-                    f.close()
-                relationships_dic, relationship_to_specified = self.relationships_to_english(relationships_dic, relationship_to_specified, save_path, gpt4_relationship_to_specified_path)
-            """
+
             # given characters (can be extracted characters or labelled characters), extract relations directly
             relation_extract_directly_dir = os.path.join(os.getcwd(), "data", language, self.config.model + "_v2", "relation_extract_directly", story_folder)
             relation_extract_directly_save_dir = os.path.join(os.getcwd(), "data", language, self.config.model + "_v3", "relation_extract_directly", story_folder)
@@ -584,19 +504,7 @@ class CharExtraction():
                     relationship_list_unknown = [r for r in relationship_list if r not in relationship_to_specified]
                     relationships[i] = [relationship[0], ", ".join(relationship_list_known + relationship_list_unknown)]
                     print(relationship_list_unknown)
-                """if len(relationships_ood) > 0:
-                    ood = True
-                    relationship_list_unknown = [r for r in relationships_ood if r not in relationship_to_specified]
-                    prompt = self.prompts["re_category"].replace("{relationship_list}", str(relationship_list_unknown)).replace("{categories}", str(self.category_list))
-                    updated_dic = self.gen_response_35("", prompt)
-                    new_dict = {key: value for key, value in updated_dic.items() if value in self.category_list_n}
-                    print("update_dic", new_dict)
-                    new_dict.update(relationship_to_specified)
-                    relationship_to_specified = new_dict.copy()
-                    relationship_list_known = [relationship_to_specified[r] for r in relationships_ood if r in relationship_to_specified]
-                    relationship_list_unknown = [r for r in relationships_ood if r not in relationship_to_specified]
-                    relationships[i] = [relationship[0], ", ".join(relationship_list_known + relationship_list_unknown)]
-                    print(relationship_list_unknown)"""
+
             relationships_dic[character] = relationships
         with open(save_path, 'w') as f:
             json.dump(relationships_dic, f, ensure_ascii=False, indent=4)
@@ -624,14 +532,7 @@ class CharExtraction():
         name_to_english_dir = os.path.join(stats_dir, "name_to_english.json")
         name_list_dic = self.get_name_list(label_dir, char_save_path)
         name_to_english_dic = self.name_to_english(name_list_dic, name_to_english_dir)
-        #name_to_english_dic, extract_name_to_english_dic = self.name_to_english(label_dir, name_to_english_dir, extract_character_dir, extract_name_to_english_dir)
 
-        # TO DO - generate?
-        #extract_label_dir = os.path.join(os.getcwd(), "data", language, "gpt-4", "extract_whole_graph")
-        #extract_char_save_path = os.path.join(stats_dir, "extract_char_name_list.json")
-        #extract_name_to_english_dir = os.path.join(stats_dir, "extract_name_to_english.json")
-        #extract_name_list_dic = self.get_name_list(extract_label_dir, extract_char_save_path)
-        #extract_name_to_english_dic = self.name_to_english(extract_name_list_dic, extract_name_to_english_dir)
         extract_name_to_english_dic = {}
 
         #translate story names
@@ -706,67 +607,6 @@ class CharExtraction():
             json.dump(name_to_english_dic, f, ensure_ascii=False, indent=4)
             f.close()
         return name_to_english_dic
-    
-    """
-    def name_to_english(self, stories_dir, save_path, extract_character_dir, extract_name_to_english_dir):
-        if os.path.exists(save_path):
-            with open(save_path, "r") as f:
-                name_to_english_dic = json.load(f)
-                f.close()
-        else:
-            name_to_english_dic = {}
-            for story_folder in os.listdir(stories_dir):
-                if story_folder == ".DS_Store":
-                    continue
-                source_dir = os.path.join(stories_dir, story_folder)
-                character_list = []
-                for background_file in os.listdir(source_dir):
-                    if story_folder == ".DS_Store":
-                        continue
-                    character_name, ext = os.path.splitext(background_file)
-                    with open(os.path.join(source_dir, background_file), "r") as f:
-                        relationships_dic = json.load(f)
-                        f.close()
-                    character_list += list(relationships_dic.keys()) + [character_name]
-                    for key, value in relationships_dic.items():
-                        character_list += [char[0] for char in value]
-                character_list = list(set(character_list))
-                prompt = self.prompts["trasnlate_names"].replace("{character_names}", str(character_list))
-                translated_dic = self.gen_response_35("", prompt)
-                name_to_english_dic[story_folder] = translated_dic
-                print(character_list, translated_dic)
-            with open(save_path, 'w') as f:
-                json.dump(name_to_english_dic, f, ensure_ascii=False, indent=4)
-                f.close()
-
-        if os.path.exists(extract_name_to_english_dir):
-            with open(extract_name_to_english_dir, "r") as f:
-                extract_character_dic = json.load(f)
-                f.close()
-        else:
-            extract_character_dic = {}
-            for story_folder in os.listdir(extract_character_dir):
-                if story_folder == ".DS_Store":
-                    continue
-                source_dir = os.path.join(extract_character_dir, story_folder)
-                character_list = []
-                for background_file in os.listdir(source_dir):
-                    if story_folder == ".DS_Store":
-                        continue
-                    character_name, ext = os.path.splitext(background_file)
-                    with open(os.path.join(source_dir, background_file), "r") as f:
-                        character_list += list(json.load(f)) + [character_name]
-                        f.close()
-                character_list = list(set(character_list))
-                prompt = self.prompts["trasnlate_names"].replace("{character_names}", str(character_list))
-                translated_dic = self.gen_response_35("", prompt)
-                extract_character_dic[story_folder] = translated_dic
-                print(character_list, translated_dic)
-            with open(extract_name_to_english_dir, 'w') as f:
-                json.dump(extract_character_dic, f, ensure_ascii=False, indent=4)
-                f.close()
-        return name_to_english_dic, extract_character_dic
-        """
 
     def story_to_english(self, stories_dir, save_dir):
         if os.path.exists(save_dir):
@@ -868,61 +708,13 @@ class CharExtraction():
                                 translated_relationships = []
                                 for relationship in relationships:
                                     linked_character = name_to_english_this_story[relationship[0]]
-                                    """relationships_split = relationship[1].split(",")
-                                    relationships_combined = []
-                                    for r in relationships_split:
-                                        try:
-                                            relationship_category = relationship_to_english_dic[r]
-                                        except:
-                                            relationship_category = translator.translate(r)
-                                            #relationship_categories = translator.translate(relationship[1])
-                                        relationships_combined.append(relationship_category)
-                                    relationship_categories = relationships_combined.join(", ")"""
+
                                     translated_relationships.append([linked_character, relationship[1]])
                                 translated_data[translated_name] = translated_relationships
                                 
-                            """for character_name, relationships in data.items():
-                                character_name = translator.translate(character_name)
-                                for relationship in relationships:
-                                    relationship[0] = translator.translate(relationship[0])  # Translate linked_character
-                                    relationship[1] = translator.translate(relationship[1])  # Translate relationship categories"""
                             with open(target_path, 'w') as f:
                                 json.dump(translated_data, f, ensure_ascii=False, indent=4)
                                 f.close()
-
-    """def translate_names(self):
-        engligh_version_dir = os.path.join(os.getcwd(), "data", "english", "data_final")
-        translator = GoogleTranslator(source='auto', target='en')
-        for story_folder in os.listdir(engligh_version_dir):
-            if story_folder == ".DS_Store":
-                continue
-            else:
-                folder_path = os.path.join(engligh_version_dir, story_folder)
-                new_folder_path = self.translate_folder_name(folder_path, translator)
-                # Renaming the folder
-                os.rename(folder_path, new_folder_path)
-                new_folder_path = os.path.join(new_folder_path, "txt")
-                for background_file in os.listdir(new_folder_path):
-                    if story_folder == ".DS_Store":
-                        continue
-                    else:
-                        name, ext = os.path.splitext(background_file)
-                        translated_name = translator.translate(name) + ext
-                        file_path = os.path.join(new_folder_path, background_file)
-                        new_file_path = os.path.join(new_folder_path, translated_name)
-                        os.rename(file_path, new_file_path)"""
-
-    """def translate_folder_name(self, folder_path, translator):
-        folder_dir, folder_name = os.path.split(folder_path)
-        translated_name = translator.translate(folder_name)
-        return os.path.join(folder_dir, translated_name)
-
-    def translate_filename(self, file_path, translator):
-        file_dir, filename = os.path.split(file_path)
-        name, ext = os.path.splitext(filename)
-        translated_name = translator.translate(name)
-        return os.path.join(file_dir, translated_name + ext)"""
-
 
     def translate_text(self, text, dest_language='en'):
         #print(text[:20])
