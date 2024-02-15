@@ -1,0 +1,44 @@
+{
+    "Chief Wang": [
+        [
+            "Zhang Villager",
+            "stranger to x, disliked by x, possibly family of x"
+        ],
+        [
+            "Officer Li",
+            "stranger to x, subject of investigation for x"
+        ],
+        [
+            "Hu Investigate",
+            "stranger to x, subject of investigation for x"
+        ],
+        [
+            "Zhao Cishan",
+            "stranger to x, attempted perpetrator of x, victim of x"
+        ]
+    ],
+    "Zhang Villager": [
+        [
+            "Chief Wang",
+            "stranger to x, disliked by x, possibly family of x"
+        ]
+    ],
+    "Officer Li": [
+        [
+            "Chief Wang",
+            "stranger to x, subject of investigation for x"
+        ]
+    ],
+    "Hu Investigate": [
+        [
+            "Chief Wang",
+            "stranger to x, subject of investigation for x"
+        ]
+    ],
+    "Zhao Cishan": [
+        [
+            "Chief Wang",
+            "stranger to x, attempted perpetrator of x, victim of x"
+        ]
+    ]
+}

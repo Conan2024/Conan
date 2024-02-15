@@ -1,0 +1,48 @@
+{
+    "Liao Xuehan": [
+      ["Liao Yiqiao", "father of x"], 
+      ["Dr. Zhang", "informant of x"], 
+      ["Julie", "informant of x"], 
+      ["Luo Hengli", "debtor of x"], 
+      ["Lv Mingran", "debtor of x"], 
+      ["Tan Renchang", "sibling of x"], 
+      ["Mrs. Wei", "suspicious of x"], 
+      ["A Ping", "servant of x"]
+    ],
+    "Liao Yiqiao": [
+      ["Liao Xuehan", "child of x"]
+    ],
+    "Dr. Zhang": [
+      ["Liao Xuehan", "informant of x"]
+    ],
+    "Julie": [
+      ["Liao Xuehan", "informant of x"], 
+      ["Hai You", "helper of x"]
+    ],
+    "Hai You": [
+      ["Julie", "helped by x"]
+    ],
+    "Luo Hengli": [
+      ["Liao Xuehan", "debtor of x"], 
+      ["Lv Mingran", "brother in law of x"]
+    ],
+    "Lv Mingran": [
+      ["Liao Xuehan", "debtor of x"], 
+      ["Luo Hengli", "brother in law of x"]
+    ],
+    "Tan Shangzhi": [
+      ["Tan Renchang", "sibling of x"]
+    ],
+    "Tan Renchang": [
+      ["Tan Shangzhi", "sibling of x"]
+    ],
+    "Mrs. Wei": [
+      ["Liao Xuehan", "suspicious of x"]
+    ],
+    "Cheng Ge": [
+      ["Julie", "adoptive father of x"]
+    ],
+    "A Ping": [
+      ["Liao Xuehan", "servant of x"]
+    ]
+}

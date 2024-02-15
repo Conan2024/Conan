@@ -1,0 +1,54 @@
+{
+    "Zhang Hongsheng": [
+      ["Meng Sanchun", "wife of x"], 
+      ["Hong Changlie", "husband of x"], 
+      ["Zhang Jinyin", "wife of x"], 
+      ["Zhang Jinshan", "husband of x"], 
+      ["Cai Siniang", "fondness of x, suspicious of x"], 
+      ["Hong Jiangshui", "mentor of x"]
+    ],
+    "Meng Sanchun": [
+      ["Zhang Hongsheng", "husband of x"], 
+      ["Hong Changlie", "husband of x"], 
+      ["Zhang Jinyin", "friend of x"], 
+      ["Zhang Jinshan", "romantic relationships with x"], 
+      ["Cai Siniang", "romantic relationships with x, rival in love of x"], 
+      ["Hong Jiangshui", "husband of x, wife of x"]
+    ],
+    "Hong Changlie": [
+      ["Zhang Hongsheng", "father of x"], 
+      ["Meng Sanchun", "wife of x"], 
+      ["Zhang Jinshan", "father of x"], 
+      ["Cai Siniang", "friend of x"]
+    ],
+    "Zhang Jinyin": [
+      ["Zhang Hongsheng", "husband of x"], 
+      ["Meng Sanchun", "friend of x"], 
+      ["Zhang Jinshan", "sibling of x"], 
+      ["Cai Siniang", "romantic relationships with x"], 
+      ["Hong Jiangshui", "fondness of x"]
+    ],
+    "Zhang Jinshan": [
+      ["Zhang Hongsheng", "wife of x"], 
+      ["Meng Sanchun", "romantic relationships with x"], 
+      ["Hong Changlie", "child of x"], 
+      ["Zhang Jinyin", "sibling of x"], 
+      ["Cai Siniang", "romantic relationships with x, adversary of x"], 
+      ["Hong Jiangshui", "friend of x"]
+    ],
+    "Cai Siniang": [
+      ["Zhang Hongsheng", "secret crush of x, jealous of x"], 
+      ["Meng Sanchun", "romantic relationships with x"], 
+      ["Hong Changlie", "informant of x"], 
+      ["Zhang Jinyin", "romantic relationships with x"], 
+      ["Zhang Jinshan", "romantic relationships with x, adversary of x"], 
+      ["Hong Jiangshui", "admired by x, suspect of x"]
+    ],
+    "Hong Jiangshui": [
+      ["Zhang Hongsheng", "sibling of x"], 
+      ["Meng Sanchun", "wife of x, husband of x"], 
+      ["Zhang Jinyin", "fondness of x"], 
+      ["Zhang Jinshan", "friend of x"], 
+      ["Cai Siniang", "friend of x, suspected by x"]
+    ]
+}

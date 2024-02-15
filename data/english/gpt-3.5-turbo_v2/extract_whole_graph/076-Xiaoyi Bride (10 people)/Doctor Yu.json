@@ -1,0 +1,28 @@
+{
+    "Doctor Yu": [
+      ["Yu Junhong", "same person as yu junhong (different reference) of x"], 
+      ["Yu Beichen", "father of x doctor yu"], 
+      ["Ren", "mother of x doctor yu"], 
+      ["Ren Zhongyuan", "grandfather of x doctor yu"], 
+      ["Meng Shen", "friend of x doctor yu's father"], 
+      ["Yao Zhongyi", "friend of x doctor yu"], 
+      ["Yao Changshou", "father of x yao zhongyi"], 
+      ["Yao Mengren", "deceased elder brother of x yao zhongyi"], 
+      ["Lady Hong", "landlord of x baili village, employer of x yao changshou"], 
+      ["Xu Boqing", "person that the short haired woman is looking for of x"], 
+      ["Man with a messy hair", "helped doctor yu after the fire of x"], 
+      ["Mysterious Man", "unknown relationship to doctor yu of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Doctor Yu", "friend of x yao zhongyi"], 
+      ["Yao Changshou", "father of x yao zhongyi"], 
+      ["Yao Mengren", "deceased elder brother of x yao zhongyi"]
+    ],
+    "Yao Changshou": [
+      ["Doctor Yu", "employer of x doctor yu's father"], 
+      ["Yao Zhongyi", "father of x yao zhongyi"]
+    ],
+    "Lady Hong": [
+      ["Yao Changshou", "successor of x yao changshou"]
+    ]
+}

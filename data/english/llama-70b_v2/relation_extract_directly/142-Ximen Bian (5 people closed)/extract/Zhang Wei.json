@@ -1,0 +1,42 @@
+{
+    "Zhang Wei": [
+      ["Zhao ZHONGYANG", "close guard of x, suspicious of x"], 
+      ["Zhao ZHONGZHENG", "old master of x, disliked of x"], 
+      ["Chen Meier", "little grandmother of x, acquaintance of x"], 
+      ["Li Cheng", "honest man of x, friend of x"], 
+      ["Zhao San", "master of x, co conspirator of x"], 
+      ["Ma Laoban", "business partner of x, deceiver of x"]
+    ],
+    "Zhao ZHONGYANG": [
+      ["Zhang Wei", "close guard of x, suspicious of x"], 
+      ["Zhao ZHONGZHENG", "father of x, disliked of x"], 
+      ["Chen Meier", "little grandmother of x, acquaintance of x"], 
+      ["Li Cheng", "honest man of x, friend of x"], 
+      ["Zhao San", "son of x, co conspirator of x"]
+    ],
+    "Zhao ZHONGZHENG": [
+      ["Zhang Wei", "disliked of x, suspicious of x"], 
+      ["Zhao ZHONGYANG", "son of x, close guard of x"], 
+      ["Chen Meier", "little grandmother of x, acquaintance of x"], 
+      ["Li Cheng", "honest man of x, friend of x"]
+    ],
+    "Chen Meier": [
+      ["Zhang Wei", "acquaintance of x, little grandmother of x"], 
+      ["Zhao ZHONGYANG", "close guard of x, acquaintance of x"], 
+      ["Zhao ZHONGZHENG", "little grandmother of x, acquaintance of x"]
+    ],
+    "Li Cheng": [
+      ["Zhang Wei", "friend of x, honest man of x"], 
+      ["Zhao ZHONGYANG", "close guard of x, friend of x"], 
+      ["Zhao ZHONGZHENG", "friend of x, honest man of x"]
+    ],
+    "Zhao San": [
+      ["Zhang Wei", "co conspirator of x, master of x"], 
+      ["Zhao ZHONGYANG", "son of x, close guard of x"], 
+      ["Zhao ZHONGZHENG", "son of x, co conspirator of x"]
+    ],
+    "Ma Laoban": [
+      ["Zhang Wei", "business partner of x, deceived of x"], 
+      ["Zhao San", "co conspirator of x, master of x"]
+    ]
+}

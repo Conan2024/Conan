@@ -1,0 +1,39 @@
+{
+    "Zhang Wei": [
+      ["Zhao Zhongyang", "guard of x"], 
+      ["Zhao Zhongyang", "business partner of x"], 
+      ["Zhao ZHONGZHENG", "master of x"], 
+      ["Zhao Zhongyang", "employer of x"], 
+      ["Zhao Zhongyang", "victim of x"], 
+      ["Ma Laoban", "customer of x"], 
+      ["Zhao ZHONGYANG", "guard of x"], 
+      ["Li Cheng", "patient of x"], 
+      ["Zhao Zhongyang", "employer of x"], 
+      ["Zhao San", "business partner of x"], 
+      ["Ma Laoban", "customer of x"]
+    ],
+    "Zhao ZHONGYANG": [
+      ["Zhang Wei", "guard of x"], 
+      ["Zhang Wei", "guard of x"], 
+      ["Zhao San", "business partner of x"], 
+      ["Zhao ZHONGZHENG", "master of x"], 
+      ["Zhang Wei", "employee of x"], 
+      ["Zhang Wei", "perpetrator of x"], 
+      ["Zhang Wei", "attempted murderer of x"]
+    ],
+    "Zhao San": [
+      ["Zhao ZHONGZHENG", "business partner of x"], 
+      ["Zhang Wei", "business partner of x"]
+    ],
+    "Zhao ZHONGZHENG": [
+      ["Zhang Wei", "business partner of x"], 
+      ["Zhao San", "business partner of x"]
+    ],
+    "Li Cheng": [
+      ["Zhang Wei", "patient of x"]
+    ],
+    "Ma Laoban": [
+      ["Zhang Wei", "customer of x"], 
+      ["Zhang Wei", "customer of x"]
+    ]
+}

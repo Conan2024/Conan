@@ -1,0 +1,21 @@
+{
+    "David": [
+      ["Gust", "adversary of x"], 
+      ["Rowling", "admirer of x"], 
+      ["Kevin", "acquaintance of x"]
+    ],
+    "Gust": [
+      ["David", "adversary of x"], 
+      ["Rowling", "manipulator of x"]
+    ],
+    "Rowling": [
+      ["David", "admirer of x"], 
+      ["Kevin", "acquaintance of x"]
+    ],
+    "Kevin": [
+      ["David", "acquaintance of x"]
+    ],
+    "Ella": [
+      ["David", "friend of x"]
+    ]
+}

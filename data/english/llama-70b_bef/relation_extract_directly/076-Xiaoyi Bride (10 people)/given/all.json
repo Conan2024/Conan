@@ -1,0 +1,51 @@
+{
+    "Doctor Fang": [
+      ["Fang Chengshan", "father of x"], 
+      ["Fang Minyue", "mother of x"], 
+      ["Master Meng", "mentor of x"], 
+      ["Yao Changshou", "colleague of x, acquaintance of x"], 
+      ["Yao Mengren", "acquaintance of x"], 
+      ["Yao Zhongyi", "acquaintance of x"], 
+      ["Zhang Decai", "friend of x"], 
+      ["Zhang Yadi", "nephew of x, acquaintance of x"]
+    ],
+    "Fang Chengshan": [
+      ["Doctor Fang", "son of x"], 
+      ["Fang Minyue", "wife of x"]
+    ],
+    "Fang Minyue": [
+      ["Doctor Fang", "son of x"], 
+      ["Yao Changshou", "colleague of x"]
+    ],
+    "Yao Changshou": [
+      ["Mysterious Man", "acquaintance of x"]
+    ],
+    "Yao Mengren": [
+      ["Mysterious Man", "acquaintance of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Mysterious Man", "acquaintance of x"]
+    ],
+    "Zhang Decai": [
+      ["Mysterious Man", "acquaintance of x"]
+    ],
+    "Zhang Yadi": [
+      ["Mysterious Man", "acquaintance of x"]
+    ],
+    "Mysterious Man": [
+      ["Doctor Fang", "acquaintance of x"], 
+      ["Yao Changshou", "acquaintance of x"]
+    ],
+    "Tian Hongjiao": [
+      ["Doctor Fang", "cousin of x"]
+    ],
+    "FAN": [
+      ["Lady Hong", "fiance of x"]
+    ],
+    "Yu": [
+      ["Yao Changshou", "brother of x"]
+    ],
+    "Short-Hired Woman": [
+      ["Doctor Fang", "wife of x"]
+    ]
+}

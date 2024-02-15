@@ -1,0 +1,237 @@
+{
+    "He Laoliu": [
+        [
+            "Li Guofu",
+            "Perpetrator of X",
+            "Accomplice of X"
+        ],
+        [
+            "ZHANG JIE",
+            "co-worker, accomplice, friend, confidant"
+        ],
+        [
+            "MU BEI",
+            "Co-workers",
+            "Partners in crime",
+            "Suspects",
+            "Accomplices",
+            "Adversaries"
+        ],
+        [
+            "Big Brother Wang",
+            "Acquaintance",
+            "Co-worker",
+            "Gambling Partner",
+            "Suspect"
+        ],
+        [
+            "Neighbor Wang",
+            "acquaintance",
+            "suspicious",
+            "rival"
+        ],
+        [
+            "Second Sister",
+            "Acquaintance",
+            "Business Partner"
+        ]
+    ],
+    "Li Guofu": [
+        [
+            "He Laoliu",
+            "Perpetrator of X",
+            "Mastermind of X"
+        ],
+        [
+            "ZHANG JIE",
+            "Superior of x",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "MU BEI",
+            "relationship 1: Supervisor/Subordinate",
+            "relationship 2: Partner in crime"
+        ],
+        [
+            "Big Brother Wang",
+            "relationship 1: Accomplice in crime",
+            "relationship 2: Debtor/Creditor"
+        ],
+        [
+            "Neighbor Wang",
+            "Acquaintance",
+            "Business Partner",
+            "Gambling Partner",
+            "Debtor",
+            "Murderer"
+        ],
+        [
+            "Second Sister",
+            "relationship 1 ",
+            "relationship 2 "
+        ]
+    ],
+    "ZHANG JIE": [
+        [
+            "He Laoliu",
+            "co-worker, accomplice, friend, confidant"
+        ],
+        [
+            "Li Guofu",
+            "Superior of x",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "MU BEI",
+            "colleague",
+            "acquaintance"
+        ],
+        [
+            "Big Brother Wang",
+            "Colleague",
+            "Acquaintance"
+        ],
+        [
+            "Neighbor Wang",
+            "Acquaintance",
+            "Fellow gambler"
+        ],
+        [
+            "Second Sister",
+            "Acquaintance"
+        ]
+    ],
+    "MU BEI": [
+        [
+            "He Laoliu",
+            "Co-workers",
+            "Partners in crime",
+            "Suspects",
+            "Accomplices",
+            "Adversaries"
+        ],
+        [
+            "Li Guofu",
+            "relationship 1: Supervisor/Subordinate",
+            "relationship 2: Partner in crime"
+        ],
+        [
+            "ZHANG JIE",
+            "colleague",
+            "acquaintance"
+        ],
+        [
+            "Big Brother Wang",
+            "Colleague"
+        ],
+        [
+            "Neighbor Wang",
+            "Colleague"
+        ],
+        [
+            "Second Sister",
+            "Colleague"
+        ]
+    ],
+    "Big Brother Wang": [
+        [
+            "He Laoliu",
+            "Acquaintance",
+            "Co-worker",
+            "Gambling Partner",
+            "Witness"
+        ],
+        [
+            "Li Guofu",
+            "relationship 1: Accomplice in crime",
+            "relationship 2: Debtor/Creditor"
+        ],
+        [
+            "ZHANG JIE",
+            "Colleague",
+            "Acquaintance"
+        ],
+        [
+            "MU BEI",
+            "Colleague"
+        ],
+        [
+            "Neighbor Wang",
+            "Acquaintance",
+            "Gambling Partner"
+        ],
+        [
+            "Second Sister",
+            "Acquaintance",
+            "Business Partner"
+        ]
+    ],
+    "Neighbor Wang": [
+        [
+            "He Laoliu",
+            "acquaintance",
+            "suspicious",
+            "rival"
+        ],
+        [
+            "Li Guofu",
+            "Acquaintance",
+            "Business Partner",
+            "Gambling Partner",
+            "Creditor",
+            "Victim"
+        ],
+        [
+            "ZHANG JIE",
+            "Acquaintance",
+            "Fellow gambler"
+        ],
+        [
+            "MU BEI",
+            "Colleague",
+            "Adversary"
+        ],
+        [
+            "Big Brother Wang",
+            "Acquaintance",
+            "Gambling Partner"
+        ],
+        [
+            "Second Sister",
+            "Acquaintance",
+            "Business Partner"
+        ]
+    ],
+    "Second Sister": [
+        [
+            "He Laoliu",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Li Guofu",
+            "relationship 1 ",
+            "relationship 2 "
+        ],
+        [
+            "ZHANG JIE",
+            "Acquaintance"
+        ],
+        [
+            "MU BEI",
+            "Colleague"
+        ],
+        [
+            "Big Brother Wang",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Neighbor Wang",
+            "Acquaintance",
+            "Business Partner"
+        ]
+    ]
+}

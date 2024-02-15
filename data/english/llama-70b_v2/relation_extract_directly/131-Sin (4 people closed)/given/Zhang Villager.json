@@ -1,0 +1,22 @@
+{
+    "Zhang Villager": [
+      ["Chief Wang", "acquaintance of x"], 
+      ["Hu Research", "suspect of x"]
+    ],
+    "Chief Wang": [
+      ["Zhang Villager", "acquaintance of x"], 
+      ["Murderer", "suspect of x"]
+    ],
+    "Hu Research": [
+      ["Zhang Villager", "suspect of x"], 
+      ["Murderer", "suspect of x"]
+    ],
+    "Murderer": [
+      ["Zhang Villager", "suspect of x"], 
+      ["Chief Wang", "suspect of x"]
+    ],
+    "Officer Li": [
+      ["Zhang Villager", "suspect of x"], 
+      ["Hu Research", "colleague of x"]
+    ]
+}

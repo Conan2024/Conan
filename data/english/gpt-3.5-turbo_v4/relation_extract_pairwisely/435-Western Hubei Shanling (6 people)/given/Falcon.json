@@ -1,0 +1,126 @@
+{
+    "Ba Falcon": [
+      ["Ba Mansion Mountain", "employer of x"], 
+      ["Mountain Spirit", "mentor of x"], 
+      ["Miao Na", "romantic relationships with x"], 
+      ["Miao Shi", "romantic relationships with x, friend of x"], 
+      ["Gui Yin", "friend of x, mentor of x"], 
+      ["Juan Ge", "friend of x, lover of x, business partner of x"], 
+      ["Li Gaobai", "friend of x, romantic relationships with x, admirer of x"], 
+      ["Professor Zhou", "mentor of x"], 
+      ["Chen Sha", "lover of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Miao Na", "father of x"], 
+      ["Li Gaobai", "friend of x, romantic relationships with x"]
+    ],
+    "Mountain Spirit": [
+      ["Ba Falcon", "student of x"], 
+      ["Li Gaobai", "mentor of x, mentor of x, secret lover of x"], 
+      ["Chen Sha", "mentor of x"]
+    ],
+    "Miao Na": [
+      ["Ba Falcon", "romantic relationships with x"], 
+      ["Ba Mansion Mountain", "daughter of x"], 
+      ["Miao Shi", "sister of x, cousin of x, friend of x"], 
+      ["Gui Yin", "father of x"], 
+      ["Juan Ge", "cousin of x, friend of x, neighbour of x"], 
+      ["Li Gaobai", "romantic relationships with x"], 
+      ["Professor Zhou", "wife of x"], 
+      ["Chen Sha", "romantic relationships with x"], 
+      ["Adult Man", "friend of x, father of x, child of x"]
+    ],
+    "Miao Shi": [
+      ["Ba Falcon", "romantic relationships with x"], 
+      ["Ba Mansion Mountain", "mother of x"], 
+      ["Miao Na", "sister of x, cousin of x, friend of x"], 
+      ["Gui Yin", "friend of x, romantic relationships with x"], 
+      ["Ruya", "cousin of x, same person as x (different identity)"], 
+      ["Juan Ge", "sister in law of x, aunt of x, friend of x"], 
+      ["Li Gaobai", "mentor of x, romantic relationships with x, friend of x"], 
+      ["Professor Zhou", "lover of x"], 
+      ["Chen Sha", "friend of x, romantic relationships with x, mentor of x"], 
+      ["Adult Man", "extramarital affair with x, rebellion against x, rival of x"]
+    ],
+    "Gui Yin": [
+      ["Ba Falcon", "friend of x"], 
+      ["Ba Mansion Mountain", "child of x"], 
+      ["Miao Shi", "friend of x, romantic relationships with x"], 
+      ["Ruya", "cousin of x, acquaintance of x"], 
+      ["Li Gaobai", "mentor of x, adversary of x, business partner of x"], 
+      ["Chen Sha", "sister of x, mentor of x"], 
+      ["Adult Man", "father of x, father in law of x, future father in law of x, step father of x"]
+    ],
+    "Ruya": [
+      ["Ba Mansion Mountain", "employee of x"], 
+      ["Miao Shi", "cousin of x, same person as x (different identity)"], 
+      ["Gui Yin", "cousin of x, acquaintance of x"], 
+      ["Juan Ge", "cousin of x, romantic relationships with x"], 
+      ["Li Gaobai", "friend of x, romantic relationships with x, informant of x"], 
+      ["Adult Man", "friend of x"]
+    ],
+    "Juan Ge": [
+      ["Ba Falcon", "friend of x, lover of x, business partner of x"], 
+      ["Ba Mansion Mountain", "child of x, friend of x"], 
+      ["Miao Na", "cousin of x, friend of x, neighbour of x"], 
+      ["Miao Shi", "friend of x, niece of x, friend of x"], 
+      ["Ruya", "cousin of x, romantic relationships with x"], 
+      ["Li Gaobai", "sibling of x, friend of x, mentor of x"], 
+      ["Professor Zhou", "mentor of x"], 
+      ["Chen Sha", "sister of x, fiancee of x"], 
+      ["Intern", "friend of x, acquaintance of x"], 
+      ["Adult Man", "friend of x, romantic relationships with x, quest companion of x"]
+    ],
+    "Li Gaobai": [
+      ["Ba Falcon", "friend of x, romantic relationships with x"], 
+      ["Ba Mansion Mountain", "friend of x, saviour of x, romantic relationships with x"], 
+      ["Mountain Spirit", "student of x, secret lover of x"], 
+      ["Miao Na", "student of x"], 
+      ["Gui Yin", "student of x, adversary of x, business partner of x"], 
+      ["Ruya", "friend of x, romantic relationships with x, helper of x"], 
+      ["Juan Ge", "sibling of x, friend of x, mentor of x"], 
+      ["Professor Zhou", "mentor of x"], 
+      ["Chen Sha", "friend of x"], 
+      ["Intern", "friend of x"]
+    ],
+    "Professor Zhou": [
+      ["Ba Falcon", "teacher of x"], 
+      ["Miao Na", "husband of x"], 
+      ["Miao Shi", "lover of x"], 
+      ["Gui Yin", "father of x"], 
+      ["Ruya", "friend of x"], 
+      ["Juan Ge", "student of x"], 
+      ["Chen Sha", "romantic relationships with x, student of x, mentor of x"], 
+      ["Adult Man", "mentor of x"]
+    ],
+    "Chen Sha": [
+      ["Ba Falcon", "lover of x"], 
+      ["Mountain Spirit", "student of x, ex romantic relationships with x"], 
+      ["Miao Na", "romantic relationships with x"], 
+      ["Miao Shi", "friend of x, romantic relationships with x, student of x"], 
+      ["Gui Yin", "brother in law of x, student of x"], 
+      ["Juan Ge", "sister of x, fiance of x"], 
+      ["Li Gaobai", "friend of x, student of x"], 
+      ["Professor Zhou", "romantic relationships with x, mentor of x, student of x"], 
+      ["Adult Man", "friend of x, neighbour of x, romantic relationships with x"]
+    ],
+    "Intern": [
+      ["Gui Yin", "friend of x"], 
+      ["Ruya", "romantic relationships with x"], 
+      ["Juan Ge", "friend of x, acquaintance of x"], 
+      ["Li Gaobai", "friend of x, student of x"], 
+      ["Chen Sha", "friend of x"], 
+      ["Adult Man", "friend of x"]
+    ],
+    "Adult Man": [
+      ["Ba Falcon", "friend of x"], 
+      ["Miao Na", "friend of x, son of x, father of x"], 
+      ["Miao Shi", "extramarital affair with x, rebellion against x, rival of x"], 
+      ["Gui Yin", "child of x, son in law of x, future son in law of x, adoptive son of x, step son of x"], 
+      ["Ruya", "friend of x"], 
+      ["Juan Ge", "friend of x, romantic relationships with x, quest companion of x"], 
+      ["Li Gaobai", "student of x, friend of x, romantic relationships with x"], 
+      ["Professor Zhou", "student of x"], 
+      ["Chen Sha", "friend of x, neighbour of x, romantic relationships with x, colleague of x"]
+    ]
+}

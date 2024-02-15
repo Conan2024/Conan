@@ -1,0 +1,20 @@
+{
+    "First Mate Zhang": [
+      ["Shipyard Worker Wang", "same person as x (different reference)"]
+    ],
+    "Naive Hen": [
+      ["First Mate Zhang", "colleague of x"], 
+      ["Boss Yang", "friend of x"], 
+      ["Shipyard Worker Wang", "acquaintance of x"]
+    ],
+    "Boss Yang": [
+      ["Naive Hen", "colleague of x"]
+    ],
+    "Ship Doctor Ling": [
+      ["Worker Wang", "daughter in law of x"], 
+      ["Shipyard Worker Wang", "child of x"]
+    ],
+    "Worker Wang": [
+      ["Shipyard Worker Wang", "child of x"]
+    ]
+}

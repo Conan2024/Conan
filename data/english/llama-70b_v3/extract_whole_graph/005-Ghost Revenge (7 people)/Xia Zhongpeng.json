@@ -1,0 +1,41 @@
+{
+    "Xia Zhongpeng": [
+      ["Xia Sanhu", "brother of x, friend of x, rival of x"], 
+      ["Xia Shue", "sister of x, friend of x"], 
+      ["A'e", "lover of x, friend of x"], 
+      ["Yue Dongwen", "acquaintance of x, enemy of x"], 
+      ["Luo Ming", "acquaintance of x, helper of x"], 
+      ["Duan Yuetong", "acquaintance of x"], 
+      ["Yu Zu Chengmu", "acquaintance of x"]
+    ],
+    "Xia Sanhu": [
+      ["Xia Zhongpeng", "brother of x, friend of x, rival of x"], 
+      ["Xia Shue", "sister of x, friend of x"], 
+      ["A'e", "lover of x, friend of x"], 
+      ["Yue Dongwen", "acquaintance of x, enemy of x"], 
+      ["Luo Ming", "acquaintance of x, helper of x"]
+    ],
+    "Xia Shue": [
+      ["Xia Bolong", "daughter of x"]
+    ],
+    "A'e": [
+      ["Xia Zhongpeng", "lover of x, friend of x"], 
+      ["Xia Sanhu", "lover of x, friend of x"], 
+      ["Xia Shue", "friend of x"]
+    ],
+    "Yue Dongwen": [
+      ["Xia Sanhu", "acquaintance of x, enemy of x"]
+    ],
+    "Luo Ming": [
+      ["Xia Sanhu", "acquaintance of x, helper of x"]
+    ],
+    "Duan Yuetong": [
+      ["Xia Zhongpeng", "acquaintance of x"]
+    ],
+    "Yu Zu Chengmu": [
+      ["Xia Zhongpeng", "acquaintance of x"]
+    ],
+    "Xia Bolong": [
+      ["Xia Zhongpeng", "brother of x"]
+    ]
+}

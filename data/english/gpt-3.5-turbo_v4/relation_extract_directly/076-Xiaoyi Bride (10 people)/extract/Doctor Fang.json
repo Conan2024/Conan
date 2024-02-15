@@ -1,0 +1,43 @@
+{
+    "Fang Minyue": [
+      ["Fang Chengshan", "father of x"], 
+      ["Master Meng", "superior of x"], 
+      ["Steward Du", "deceiver of x"], 
+      ["Yao Changshou", "landlord of x"], 
+      ["Yao Mengren", "student of x"], 
+      ["Yao Zhongyi", "student of x"], 
+      ["Zhang Yadi", "colleague of x"], 
+      ["Zhang Decai", "romantic relationships with x"]
+    ],
+    "Fang Chengshan": [
+      ["Master Meng", "employer of x"], 
+      ["Steward Du", "helper of x, deceiver of x"]
+    ],
+    "Master Meng": [
+      ["Fang Chengshan", "employee of x"], 
+      ["Steward Du", "helper of x"]
+    ],
+    "Steward Du": [
+      ["Fang Chengshan", "employer of x"], 
+      ["Master Meng", "employer of x"]
+    ],
+    "Yao Changshou": [
+      ["Fang Minyue", "colleague of x"], 
+      ["Yao Mengren", "father of x"], 
+      ["Yao Zhongyi", "father of x"]
+    ],
+    "Yao Mengren": [
+      ["Fang Minyue", "teacher of x"], 
+      ["Yao Changshou", "son of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Fang Minyue", "teacher of x"], 
+      ["Yao Changshou", "son of x"]
+    ],
+    "Zhang Yadi": [
+      ["Fang Minyue", "colleague of x"]
+    ],
+    "Zhang Decai": [
+      ["Fang Minyue", "romantic relationships with x"]
+    ]
+}

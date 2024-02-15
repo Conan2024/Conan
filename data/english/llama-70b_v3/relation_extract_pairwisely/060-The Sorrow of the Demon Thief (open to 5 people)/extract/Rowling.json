@@ -1,0 +1,22 @@
+{
+    "Assistant Ella": [
+      ["Thetrical Work David", "friend of x"], 
+      ["Logistics Griff", "friend of x"], 
+      ["Kevin Kevin", "friend of x"]
+    ],
+    "Thetrical Work David": [
+      ["Assistant Ella", "friend of x"], 
+      ["Logistics Griff", "colleague of x, business partner of x"], 
+      ["Kevin Kevin", "suspicious of x, adversary of x"]
+    ],
+    "Logistics Griff": [
+      ["Assistant Ella", "employer of x"], 
+      ["Thetrical Work David", "colleague of x, business partner of x"], 
+      ["Kevin Kevin", "employer of x, master of x, superior of x"]
+    ],
+    "Kevin Kevin": [
+      ["Assistant Ella", "friend of x"], 
+      ["Thetrical Work David", "suspicious of x, adversary of x"], 
+      ["Logistics Griff", "brother of x, sibling of x"]
+    ]
+}

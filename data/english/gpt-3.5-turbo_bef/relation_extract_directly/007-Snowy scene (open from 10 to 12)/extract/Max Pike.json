@@ -1,0 +1,22 @@
+{
+    "Max Pike": [
+      ["Joe Robertson", "friend of x"], 
+      ["Joe Robertson", "acquaintance of x"], 
+      ["Kristin Dunn", "romantic relationships with x"], 
+      ["Qiao", "acquaintance of x"], 
+      ["Daniel", "suspect of x"]
+    ],
+    "Joe Robertson": [
+      ["Max Pike", "friend of x"], 
+      ["Max Pike", "acquaintance of x"]
+    ],
+    "Kristin Dunn": [
+      ["Max Pike", "romantic relationships with x"]
+    ],
+    "Qiao": [
+      ["Max Pike", "acquaintance of x"]
+    ],
+    "Daniel": [
+      ["Max Pike", "suspect of x"]
+    ]
+}

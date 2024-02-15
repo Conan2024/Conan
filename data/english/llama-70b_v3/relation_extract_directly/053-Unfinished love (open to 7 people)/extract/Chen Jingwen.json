@@ -1,0 +1,38 @@
+{
+    "Chen Jingwen": [
+      ["Gu Yu", "lover of x"], 
+      ["Lin Xi", "rival of x"], 
+      ["Shen Cheng", "acquaintance of x"], 
+      ["Zheng Xinmei", "mother of x, victim of x"]
+    ],
+    "Gu Yu": [
+      ["Chen Jingwen", "lover of x"], 
+      ["Lin Xi", "friend of x"], 
+      ["Shen Cheng", "acquaintance of x"], 
+      ["Lin Weiren", "father of x"]
+    ],
+    "Lin Xi": [
+      ["Gu Yu", "friend of x"], 
+      ["Chen Jingwen", "rival of x"], 
+      ["Shen Cheng", "acquaintance of x"], 
+      ["Lin Weiren", "father of x"]
+    ],
+    "Shen Cheng": [
+      ["Gu Yu", "acquaintance of x"], 
+      ["Chen Jingwen", "acquaintance of x"], 
+      ["Lin Xi", "acquaintance of x"], 
+      ["Lin Weiren", "employer of x"]
+    ],
+    "Zheng Xinmei": [
+      ["Chen Jingwen", "daughter of x, victim of x"], 
+      ["Gu Yu", "lover of x"], 
+      ["Lin Xi", "friend of x"], 
+      ["Shen Cheng", "acquaintance of x"]
+    ],
+    "Lin Weiren": [
+      ["Gu Yu", "father of x"], 
+      ["Lin Xi", "daughter of x, victim of x"], 
+      ["Shen Cheng", "employee of x"], 
+      ["Chen Jingwen", "lover of x"]
+    ]
+}

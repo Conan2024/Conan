@@ -1,0 +1,20 @@
+{
+    "Wei Xiaodi": [
+      ["Father", "father of x, possibly family of x"], 
+      ["Mother", "mother of x, possibly family of x"], 
+      ["Qin Expert", "adversary of x"]
+    ],
+    "Qin Laoda": [
+      ["Wei Xiaodi", "friend of x"], 
+      ["Zheng Youhao", "classmate of x"], 
+      ["JIA Meili", "girlfriend of x"], 
+      ["Xiao Tiyu", "teacher of x"], 
+      ["Xue Meiniang", "teacher of x"]
+    ],
+    "Zheng Youhao": [
+      ["Qin Laoda", "classmate of x"]
+    ],
+    "JIA Meili": [
+      ["Qin Laoda", "friend of x"]
+    ]
+}

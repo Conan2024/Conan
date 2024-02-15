@@ -1,0 +1,53 @@
+{
+    "Chen Anqiao": [
+      ["Yao Changshou", "suspect of x"], 
+      ["Yao Zhongyi", "brother in law of x"], 
+      ["Chen Junmeng", "cousin of x"], 
+      ["Doctor Fang", "acquaintance of x"]
+    ],
+    "Chen Junmeng": [
+      ["Chen Anqiao", "cousin of x"], 
+      ["Yao Mengren", "husband of x"], 
+      ["Yao Changshou", "father in law of x"]
+    ],
+    "Chen Qingwu": [
+      ["Chen Anqiao", "daughter of x"], 
+      ["Chen Junmeng", "son of x"], 
+      ["Lady Hong", "wife of x"], 
+      ["Yao Changshou", "father in law of x"]
+    ],
+    "Lady Hong": [
+      ["Yao Changshou", "husband of x"], 
+      ["Yao Zhongyi", "son of x"]
+    ],
+    "Yao Changshou": [
+      ["Yao Zhongyi", "brother of x"], 
+      ["Chen Anqiao", "suspect of x"], 
+      ["Chen Junmeng", "son in law of x"], 
+      ["Lady Hong", "wife of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Yao Changshou", "brother of x"], 
+      ["Chen Anqiao", "sister in law of x"], 
+      ["Chen Junmeng", "brother in law of x"], 
+      ["Lady Hong", "mother of x"]
+    ],
+    "Doctor Fang": [
+      ["Chen Anqiao", "acquaintance of x"], 
+      ["Lady Hong", "friend of x"]
+    ],
+    "Mysterious Man": [
+      ["Yao Changshou", "enemy of x"], 
+      ["Chen Anqiao", "suspect of x"]
+    ],
+    "Short-haired Woman": [
+      ["Yao Zhongyi", "friend of x"], 
+      ["Lady Hong", "acquaintance of x"]
+    ],
+    "Xu Boqing": [
+      ["Short-haired Woman", "acquaintance of x"]
+    ],
+    "Physician Yu": [
+      ["Chen Anqiao", "acquaintance of x"]
+    ]
+}

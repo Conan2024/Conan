@@ -1,0 +1,52 @@
+{
+    "Yu Yancheng": [
+      ["Le Wan", "sister in law of x"], 
+      ["Yu Yancheng", "brother of x"], 
+      ["Mrs. Zhang", "acquaintance of x"], 
+      ["Zhang Junshi", "friend of x"]
+    ],
+    "Le Wan": [
+      ["Yu Yancheng", "sister in law of x"], 
+      ["Mrs. Zhang", "employer of x"]
+    ],
+    "Mrs. Zhang": [
+      ["Yu Yancheng", "acquaintance of x"], 
+      ["Zhang Junshi", "wife of x"]
+    ],
+    "Zhang Junshi": [
+      ["Yu Yancheng", "friend of x"], 
+      ["Ge Jixian", "victim of x"]
+    ],
+    "Zhi Jun": [
+      ["Yu Yancheng", "sister of x"], 
+      ["Zhang Junshi", "brother of x"]
+    ],
+    "Yu Shangyong": [
+      ["Yu Yancheng", "brother of x"], 
+      ["Xue Dacai", "friend of x"]
+    ],
+    "Xue Dacai": [
+      ["Yu Shangyong", "friend of x"], 
+      ["Zhu Lingshan", "cousin of x"]
+    ],
+    "Zhu Lingshan": [
+      ["Yu Yancheng", "friend of x"], 
+      ["Ge Yueluo", "husband of x"]
+    ],
+    "Ge Jixian": [
+      ["Yu Yancheng", "father of x"]
+    ],
+    "Ge Yueman": [
+      ["Yu Yancheng", "sister of x"]
+    ],
+    "Ge Yueluo": [
+      ["Yu Yancheng", "sister of x"], 
+      ["Zhu Lingshan", "husband of x"]
+    ],
+    "Xue Yufan": [
+      ["Yu Yancheng", "rival of x"]
+    ],
+    "Lü Songnian": [
+      ["Lü Lusheng", "father of x"]
+    ]
+}

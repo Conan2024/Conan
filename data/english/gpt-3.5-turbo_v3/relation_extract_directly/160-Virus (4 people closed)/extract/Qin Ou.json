@@ -1,0 +1,42 @@
+{
+    "Qin Ou": [
+        [
+            "Tian Zhuli",
+            "girlfriend of x, ex romantic relationships with"
+        ],
+        [
+            "Professor Jia",
+            "victim of x, subject of investigation for x"
+        ],
+        [
+            "security guard",
+            "informant of x, helper of x, helper of x"
+        ]
+    ],
+    "Tian Zhuli": [
+        [
+            "Qin Ou",
+            "boyfriend of x, ex romantic relationships with"
+        ],
+        [
+            "Professor Jia",
+            "helper of x"
+        ]
+    ],
+    "Professor Jia": [
+        [
+            "Qin Ou",
+            "subject of investigation for x"
+        ],
+        [
+            "Tian Zhuli",
+            "helper of x"
+        ]
+    ],
+    "security guard": [
+        [
+            "Qin Ou",
+            "informant of x, helper of x, helper of x"
+        ]
+    ]
+}

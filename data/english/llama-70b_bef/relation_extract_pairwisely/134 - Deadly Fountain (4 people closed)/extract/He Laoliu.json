@@ -1,0 +1,50 @@
+{
+    "He Laoliu": [
+      ["Li Guofu", "perpetrator of x"], 
+      ["ZHANG JIE", "friend of x"], 
+      ["Big Brother Wang", "acquaintance of x, suspect of x"], 
+      ["Neighbor Wang", "acquaintance of x, suspicious of x, rival of x"], 
+      ["Second Sister", "acquaintance of x, business partner of x"]
+    ],
+    "Li Guofu": [
+      ["He Laoliu", "perpetrator of x"], 
+      ["ZHANG JIE", "superior of x, colleague of x, business partner of x"], 
+      ["Neighbor Wang", "acquaintance of x, business partner of x, debtor of x, murderer of x"]
+    ],
+    "ZHANG JIE": [
+      ["He Laoliu", "friend of x"], 
+      ["Li Guofu", "superior of x, colleague of x, business partner of x"], 
+      ["MU BEI", "colleague of x, acquaintance of x"], 
+      ["Big Brother Wang", "colleague of x, acquaintance of x"], 
+      ["Neighbor Wang", "acquaintance of x"], 
+      ["Second Sister", "acquaintance of x"]
+    ],
+    "MU BEI": [
+      ["ZHANG JIE", "colleague of x, acquaintance of x"], 
+      ["Big Brother Wang", "colleague of x"], 
+      ["Neighbor Wang", "colleague of x"], 
+      ["Second Sister", "colleague of x"]
+    ],
+    "Big Brother Wang": [
+      ["He Laoliu", "acquaintance of x"], 
+      ["ZHANG JIE", "colleague of x, acquaintance of x"], 
+      ["MU BEI", "colleague of x"], 
+      ["Neighbor Wang", "acquaintance of x"], 
+      ["Second Sister", "acquaintance of x, business partner of x"]
+    ],
+    "Neighbor Wang": [
+      ["He Laoliu", "acquaintance of x, suspicious of x, rival of x"], 
+      ["Li Guofu", "acquaintance of x, business partner of x, creditor of x, victim of x"], 
+      ["ZHANG JIE", "acquaintance of x"], 
+      ["MU BEI", "colleague of x, adversary of x"], 
+      ["Big Brother Wang", "acquaintance of x"], 
+      ["Second Sister", "acquaintance of x, business partner of x"]
+    ],
+    "Second Sister": [
+      ["He Laoliu", "acquaintance of x, business partner of x"], 
+      ["ZHANG JIE", "acquaintance of x"], 
+      ["MU BEI", "colleague of x"], 
+      ["Big Brother Wang", "acquaintance of x, business partner of x"], 
+      ["Neighbor Wang", "acquaintance of x, business partner of x"]
+    ]
+}

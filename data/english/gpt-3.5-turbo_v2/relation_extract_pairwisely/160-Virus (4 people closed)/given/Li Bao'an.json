@@ -1,0 +1,32 @@
+{
+    "Li Bao'an": [
+      ["Tian Zhuli", "helped by x"], 
+      ["Sun Qingjie", "friend of x, talks about tian zhuli of x"], 
+      ["Qin Ou", "friend of x"], 
+      ["Professor Jia", "romantic relationships with x, adversary of x"]
+    ],
+    "Tian Zhuli": [
+      ["Li Bao'an", "employer of x"], 
+      ["Sun Qingjie", "friend of x, talks about x"], 
+      ["Qin Ou", "extramarital affair with x, romantic relationships with x"], 
+      ["Professor Jia", "mentor of x, colleague of x"]
+    ],
+    "Sun Qingjie": [
+      ["Li Bao'an", "friend of x, talks about tian zhuli of x"], 
+      ["Tian Zhuli", "friend of x, talks about x"], 
+      ["Qin Ou", "friend of x"], 
+      ["Professor Jia", "friend of x, colleague of x"]
+    ],
+    "Qin Ou": [
+      ["Li Bao'an", "friend of x"], 
+      ["Tian Zhuli", "extramarital affair with x, romantic relationships with x"], 
+      ["Sun Qingjie", "friend of x"], 
+      ["Professor Jia", "extramarital affair with x"]
+    ],
+    "Professor Jia": [
+      ["Li Bao'an", "romantic relationships with x, adversary of x"], 
+      ["Tian Zhuli", "student of x"], 
+      ["Sun Qingjie", "friend of x, colleague of x"], 
+      ["Qin Ou", "extramarital affair with x"]
+    ]
+}

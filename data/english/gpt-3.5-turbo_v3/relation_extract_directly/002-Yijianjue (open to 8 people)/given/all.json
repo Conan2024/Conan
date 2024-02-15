@@ -1,0 +1,244 @@
+{
+    "You": [
+        [
+            "Du Zhong",
+            "friend of x"
+        ],
+        [
+            "Xuan Can",
+            "friend of x"
+        ],
+        [
+            "Wang You",
+            "superior of x"
+        ],
+        [
+            "Second Senior Uncle",
+            "possibly family of x"
+        ]
+    ],
+    "Du Zhong": [
+        [
+            "You",
+            "friend of x"
+        ],
+        [
+            "Xuan Can",
+            "superior of x"
+        ],
+        [
+            "Master",
+            "employer of x"
+        ],
+        [
+            "Lady Safflower",
+            "lover of x"
+        ],
+        [
+            "Du Zhong's Child",
+            "child of x"
+        ]
+    ],
+    "Xuan Can": [
+        [
+            "You",
+            "friend of x"
+        ],
+        [
+            "Du Zhong",
+            "superior of x"
+        ],
+        [
+            "Master",
+            "employer of x"
+        ]
+    ],
+    "Master": [
+        [
+            "Du Zhong",
+            "employer of x"
+        ],
+        [
+            "Xuan Can",
+            "employer of x"
+        ],
+        [
+            "Second Senior Uncle",
+            "mentor of x"
+        ]
+    ],
+    "Second Senior Uncle": [
+        [
+            "You",
+            "possibly family of x"
+        ],
+        [
+            "Master",
+            "mentor of x"
+        ]
+    ],
+    "Wang You": [
+        [
+            "You",
+            "superior of x"
+        ],
+        [
+            "Third Junior Brother",
+            "fondness of x"
+        ]
+    ],
+    "Lu Ying": [
+        [
+            "Eldest Senior Brother",
+            "extramarital affair with x"
+        ],
+        [
+            "Ling Xiao",
+            "extramarital affair with x"
+        ],
+        [
+            "Lady Safflower",
+            "admired by x"
+        ]
+    ],
+    "Eldest Senior Brother": [
+        [
+            "Lu Ying",
+            "extramarital affair with x"
+        ],
+        [
+            "Ling Xiao",
+            "extramarital affair with x"
+        ],
+        [
+            "Lady Safflower",
+            "romantic relationships with x"
+        ]
+    ],
+    "Ling Xiao": [
+        [
+            "Lu Ying",
+            "extramarital affair with x"
+        ],
+        [
+            "Eldest Senior Brother",
+            "extramarital affair with x"
+        ]
+    ],
+    "Zi Su": [
+        [
+            "Third Junior Brother",
+            "admirer of x"
+        ]
+    ],
+    "Third Junior Brother": [
+        [
+            "Wang You",
+            "fondness of x"
+        ],
+        [
+            "Zi Su",
+            "admirer of x"
+        ],
+        [
+            "Song Jie",
+            "classmate of x"
+        ],
+        [
+            "Ren Dong",
+            "classmate of x"
+        ]
+    ],
+    "Shi Yan": [
+        [
+            "Martial Alliance's Investigator",
+            "informant of x"
+        ]
+    ],
+    "Martial Alliance's Investigator": [
+        [
+            "Shi Yan",
+            "information receiver from x"
+        ]
+    ],
+    "Lady Safflower": [
+        [
+            "Du Zhong",
+            "lover of x"
+        ],
+        [
+            "Lu Ying",
+            "admired by x"
+        ],
+        [
+            "Jue Ming",
+            "lover of x"
+        ]
+    ],
+    "Feng": [
+        [
+            "Mysterious Ice Sect's Divine Melody Envoy",
+            "colleague of x"
+        ]
+    ],
+    "Mysterious Ice Sect's Divine Melody Envoy": [
+        [
+            "Feng",
+            "colleague of x"
+        ],
+        [
+            "Mysterious Ice Sect's Messenger",
+            "information receiver from x"
+        ]
+    ],
+    "Jue Ming": [
+        [
+            "Lady Safflower",
+            "lover of x"
+        ],
+        [
+            "Saint of Thieves",
+            "acquaintance of x"
+        ]
+    ],
+    "Saint of Thieves": [
+        [
+            "Jue Ming",
+            "acquaintance of x"
+        ]
+    ],
+    "Mysterious Ice Sect's Messenger": [
+        [
+            "Mysterious Ice Sect's Divine Melody Envoy",
+            "information receiver from x"
+        ],
+        [
+            "Song Jie",
+            "guest of x"
+        ]
+    ],
+    "Song Jie": [
+        [
+            "Third Junior Brother",
+            "classmate of x"
+        ],
+        [
+            "Mysterious Ice Sect's Messenger",
+            "guest of x"
+        ],
+        [
+            "Ren Dong",
+            "guest of x"
+        ]
+    ],
+    "Ren Dong": [
+        [
+            "Third Junior Brother",
+            "classmate of x"
+        ],
+        [
+            "Song Jie",
+            "guest of x"
+        ]
+    ]
+}

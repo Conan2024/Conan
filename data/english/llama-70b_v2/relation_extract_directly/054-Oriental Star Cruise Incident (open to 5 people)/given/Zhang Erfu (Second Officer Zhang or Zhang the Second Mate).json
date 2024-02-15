@@ -1,0 +1,44 @@
+{
+    "Zhang Erfu": [
+      ["Liu Qi", "hate of x, superior of x"], 
+      ["Hong Zilian", "dissatisfied of x, leader of x"], 
+      ["Han Yimu", "no special intersection of x"], 
+      ["Xiu Renjie", "no special intersection of x"], 
+      ["Lin Ruotong", "no special intersection of x"]
+    ],
+    "Liu Qi": [
+      ["Zhang Erfu", "hate of x, subordinate of x"], 
+      ["Hong Zilian", "promote of x, schoolmate of x"], 
+      ["Han Yimu", "no special intersection of x"], 
+      ["Xiu Renjie", "no special intersection of x"], 
+      ["Lin Ruotong", "no special intersection of x"]
+    ],
+    "Hong Zilian": [
+      ["Zhang Erfu", "dissatisfied of x, promote of x"], 
+      ["Liu Qi", "promote of x, schoolmate of x"], 
+      ["Han Yimu", "no special intersection of x"], 
+      ["Xiu Renjie", "no special intersection of x"], 
+      ["Lin Ruotong", "no special intersection of x"]
+    ],
+    "Han Yimu": [
+      ["Zhang Erfu", "no special intersection of x"], 
+      ["Liu Qi", "no special intersection of x"], 
+      ["Hong Zilian", "no special intersection of x"], 
+      ["Xiu Renjie", "no special intersection of x"], 
+      ["Lin Ruotong", "no special intersection of x"]
+    ],
+    "Xiu Renjie": [
+      ["Zhang Erfu", "no special intersection of x"], 
+      ["Liu Qi", "no special intersection of x"], 
+      ["Hong Zilian", "no special intersection of x"], 
+      ["Han Yimu", "no special intersection of x"], 
+      ["Lin Ruotong", "no special intersection of x"]
+    ],
+    "Lin Ruotong": [
+      ["Zhang Erfu", "no special intersection of x"], 
+      ["Liu Qi", "no special intersection of x"], 
+      ["Hong Zilian", "no special intersection of x"], 
+      ["Han Yimu", "no special intersection of x"], 
+      ["Xiu Renjie", "no special intersection of x"]
+    ]
+}

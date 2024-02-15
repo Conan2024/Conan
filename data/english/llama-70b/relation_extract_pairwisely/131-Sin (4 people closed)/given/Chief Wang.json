@@ -1,0 +1,112 @@
+{
+    "Chief Wang": [
+        [
+            "Hu Investigate",
+            "Acquaintance",
+            "Suspect",
+            "Rival",
+            "Victim"
+        ],
+        [
+            "Officer Li",
+            "Husband of X",
+            "Perpetrator of X"
+        ],
+        [
+            "Zhang Villager",
+            "Acquaintance",
+            "Fellow villager"
+        ],
+        [
+            "Zhao Cishan",
+            "Perpetrator of",
+            "Murderer of"
+        ]
+    ],
+    "Hu Investigate": [
+        [
+            "Chief Wang",
+            "Acquaintance",
+            "Suspect",
+            "Rival",
+            "Victim"
+        ],
+        [
+            "Officer Li",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect"
+        ],
+        [
+            "Zhang Villager",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect"
+        ],
+        [
+            "Zhao Cishan",
+            "Relationship 1: Suspect",
+            "Relationship 2: Victim"
+        ]
+    ],
+    "Officer Li": [
+        [
+            "Chief Wang",
+            "Suspect of X",
+            "Investigator of X"
+        ],
+        [
+            "Hu Investigate",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect"
+        ],
+        [
+            "Zhang Villager",
+            "Acquaintance",
+            "Classmate"
+        ],
+        [
+            "Zhao Cishan",
+            "Suspect of X"
+        ]
+    ],
+    "Zhang Villager": [
+        [
+            "Chief Wang",
+            "Acquaintance",
+            "Fellow villager"
+        ],
+        [
+            "Hu Investigate",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect"
+        ],
+        [
+            "Officer Li",
+            "Acquaintance",
+            "Classmate"
+        ],
+        [
+            "Zhao Cishan",
+            "Acquaintance"
+        ]
+    ],
+    "Zhao Cishan": [
+        [
+            "Chief Wang",
+            "Victim of",
+            "Killed by"
+        ],
+        [
+            "Hu Investigate",
+            "Relationship 1: Suspect",
+            "Relationship 2: Victim"
+        ],
+        [
+            "Officer Li",
+            "Suspect of X"
+        ],
+        [
+            "Zhang Villager",
+            "Acquaintance"
+        ]
+    ]
+}

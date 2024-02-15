@@ -1,0 +1,27 @@
+{
+    "Caotng Jushi": [
+      ["Lang Zhong", "romantic relationships with x"], 
+      ["Li Qinren", "husband of x"], 
+      ["Fang Ye", "father of x"]
+    ],
+    "Fang Mian": [
+      ["Caotng Jushi", "sibling of x"]
+    ],
+    "Fang Xu": [
+      ["Caotng Jushi", "romantic relationships with x"], 
+      ["Lang Zhong", "romantic relationships with x"], 
+      ["Li Qinren", "husband of x"]
+    ],
+    "Master Chen": [
+      ["Chen Qian", "mother of x"]
+    ],
+    "Chen Qian": [
+      ["Caotng Jushi", "sibling of x"]
+    ],
+    "Xiao Qian": [
+      ["Fang Ye", "father of x"]
+    ],
+    "Fang Ye": [
+      ["Xiao Qian", "father of x"]
+    ]
+}

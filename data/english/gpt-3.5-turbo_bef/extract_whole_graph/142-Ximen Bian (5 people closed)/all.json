@@ -1,0 +1,46 @@
+{
+    "ZHANG Wei": [
+      ["Zhao ZHONGYANG", "guard of x"], 
+      ["Zhao ZHONGYANG", "admirer of x"], 
+      ["Zhao ZHONGZHENG", "acquaintance of x"], 
+      ["Chen Meier", "acquaintance of x"], 
+      ["Li Cheng", "acquaintance of x"], 
+      ["Zhao San", "friend of x"], 
+      ["Ma Laoban", "customer of x"], 
+      ["Zhao Zhongyang", "employee of x"], 
+      ["Zhao Zhongyang", "subordinate of x"], 
+      ["Zhao Zhongyang", "adversary of x"], 
+      ["Zhao Zhongyang", "victim of x"], 
+      ["Zhao Zhongyang", "superior of x"]
+    ],
+    "Zhao ZHONGYANG": [
+      ["ZHANG Wei", "guard of x"], 
+      ["Li Cheng", "patient of x"], 
+      ["Zhao San", "business partner of x"], 
+      ["Ma Laoban", "landlord of x"], 
+      ["Zhao Zhongyang", "employer of x"], 
+      ["Zhao Zhongyang", "master of x"], 
+      ["Zhao Zhongyang", "subordinate of x"], 
+      ["Zhao Zhongyang", "fiance of x"], 
+      ["Zhao Zhongyang", "son in law of x"]
+    ],
+    "Zhao ZHONGZHENG": [
+      ["ZHANG Wei", "acquaintance of x"], 
+      ["Zhao San", "master of x"]
+    ],
+    "Chen Meier": [
+      ["ZHANG Wei", "acquaintance of x"]
+    ],
+    "Li Cheng": [
+      ["ZHANG Wei", "acquaintance of x"], 
+      ["Zhao ZHONGYANG", "patient of x"]
+    ],
+    "Zhao San": [
+      ["ZHANG Wei", "friend of x"], 
+      ["Zhao ZHONGYANG", "business partner of x"]
+    ],
+    "Ma Laoban": [
+      ["ZHANG Wei", "customer of x"], 
+      ["Zhao ZHONGYANG", "landlord of x"]
+    ]
+}

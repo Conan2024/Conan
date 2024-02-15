@@ -1,0 +1,48 @@
+{
+    "Han Yi": [
+      ["Liu Qi", "dislike of x, attempted perpetrator of x, victim of x"], 
+      ["Xiu Renjie", "friend of x"], 
+      ["Lin Ruotong", "ex romantic relationships with x"], 
+      ["Hong Zilian", "adversary of x"], 
+      ["Zhang Wenyuan", "acquaintance of x"]
+    ],
+    "Liu Qi": [
+      ["Han Yi", "disliked by x, attempted perpetrator of x, victim of x"], 
+      ["Xiu Renjie", "informant of x"], 
+      ["Lin Ruotong", "romantic relationships with x"], 
+      ["Hong Zilian", "employer of x"], 
+      ["Zhang Wenyuan", "colleague of x"]
+    ],
+    "Xiu Renjie": [
+      ["Han Yi", "friend of x"], 
+      ["Liu Qi", "informant of x"]
+    ],
+    "Lin Ruotong": [
+      ["Han Yi", "ex romantic relationships with x"], 
+      ["Liu Qi", "romantic relationships with x"]
+    ],
+    "Hong Zilian": [
+      ["Han Yi", "adversary of x, subject of x investigation for x"], 
+      ["Liu Qi", "employer of x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Han Yi", "acquaintance of x"], 
+      ["Liu Qi", "colleague of x"]
+    ],
+    "Manager Xiu": [
+      ["Han Yi", "unknown relationship of x"], 
+      ["Liu Qi", "unknown relationship of x"]
+    ],
+    "Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)": [
+      ["Han Yi", "unreported relationship of x"]
+    ],
+    "Singer Lin": [
+      ["Han Yi", "unknown relationship of x"]
+    ],
+    "Captain Hong": [
+      ["Han Yi", "unreported relationship of x"]
+    ],
+    "Han Chengwu (Han the Attendant or Han the Crew Member)": [
+      ["Han Yi", "unknown relationship of x"]
+    ]
+}

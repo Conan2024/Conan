@@ -1,0 +1,67 @@
+{
+    "Mrs. Tan": [
+      ["Tan Renchang", "husband of x"], 
+      ["Luo Mingsha", "same person as x (different reference)"], 
+      ["Xinya", "friend of x"], 
+      ["Cai Qian", "friend of x"], 
+      ["Hai You", "foster daughter of x"], 
+      ["Shang Zhi", "nephew of x"], 
+      ["Lv Mingran", "brother of x"], 
+      ["Cheng Ge", "adopted son of x"]
+    ],
+    "Luo Mingsha": [
+      ["Mrs. Tan", "same person as x (different reference)"], 
+      ["Tan Renchang", "husband of x"]
+    ],
+    "Tan Renchang": [
+      ["Mrs. Tan", "husband of x"], 
+      ["Luo Mingsha", "wife of x"]
+    ],
+    "Xinya": [
+      ["Mrs. Tan", "friend of x"], 
+      ["Cai Qian", "friend of x"]
+    ],
+    "Cai Qian": [
+      ["Xinya", "friend of x"], 
+      ["Mrs. Tan", "friend of x"]
+    ],
+    "Lu": [
+      ["Cai Qian", "same person as x (different reference)"], 
+      ["Xinya", "same person as x (different reference)"]
+    ],
+    "Hai You": [
+      ["Mrs. Tan", "foster daughter of x"], 
+      ["Tan Renchang", "father of x"]
+    ],
+    "Shang Zhi": [
+      ["Mrs. Tan", "nephew of x"], 
+      ["Tan Renchang", "father of x"]
+    ],
+    "Lv Mingran": [
+      ["Mrs. Tan", "brother of x"], 
+      ["Tan Renchang", "brother of x"]
+    ],
+    "Cheng Ge": [
+      ["Mrs. Tan", "adopted son of x"], 
+      ["Tan Renchang", "adopted son of x"]
+    ],
+    "Liao Gongzi": [
+      ["Mrs. Tan", "acquaintance of x"], 
+      ["Lv Mingran", "friend of x"]
+    ],
+    "Tan Shang Zhi": [
+      ["Tan Renchang", "son of x"], 
+      ["Shang Zhi", "son of x"]
+    ],
+    "Tan family": [
+      ["Mrs. Tan", "family member of x"], 
+      ["Tan Renchang", "family member of x"], 
+      ["Hai You", "family member of x"], 
+      ["Shang Zhi", "family member of x"], 
+      ["Lv Mingran", "family member of x"]
+    ],
+    "Yuanheng Luo": [
+      ["Cai Qian", "relative of x"], 
+      ["Luo Mingsha", "relative of x"]
+    ]
+}

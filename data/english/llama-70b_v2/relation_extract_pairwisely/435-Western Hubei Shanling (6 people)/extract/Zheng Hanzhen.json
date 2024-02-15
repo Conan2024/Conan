@@ -1,0 +1,58 @@
+{
+    "Zheng Hanzhen": [
+      ["Professor Zhou", "friend of x, mentor of x, teacher of x, informant of x, acquaintance of x, suspect of x, adversary of x, enemy of x, rival of x, manipulator of x, manipulated by x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["Chen Sha", "friend of x, classmate of x, colleague of x"], 
+      ["Ba Mansion Mountain", "friend of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by x"], 
+      ["Juan Ge", "friend of x, lover of x"], 
+      ["Gui Yin", "lover of x, adversary of x"], 
+      ["Li Demu", "friend of x, colleague of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"]
+    ],
+    "Professor Zhou": [
+      ["Zheng Hanzhen", "friend of x, mentor of x, teacher of x, informant of x, acquaintance of x, suspect of x, adversary of x, enemy of x, rival of x, manipulator of x, manipulated by x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["Chen Sha", "friend of x, mentor of x"], 
+      ["Ba Mansion Mountain", "superior of x, employer of x, master of x, supervisor of x"], 
+      ["Juan Ge", "friend of x, colleague of x"], 
+      ["Gui Yin", "friend of x, mentor of x"], 
+      ["Li Demu", "friend of x, mentor of x, teacher of x, classmate of x, colleague of x, business partner of x"]
+    ],
+    "Chen Sha": [
+      ["Zheng Hanzhen", "friend of x, classmate of x, colleague of x"], 
+      ["Professor Zhou", "friend of x, mentee of x"], 
+      ["Ba Mansion Mountain", "friend of x, acquaintance of x"], 
+      ["Juan Ge", "friend of x, classmate of x"], 
+      ["Gui Yin", "husband of x, same person as x (different identity)"], 
+      ["Li Demu", "friend of x, roommate of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Zheng Hanzhen", "friend of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by x"], 
+      ["Professor Zhou", "co worker of x, subordinate of x, employee of x, servant of x"], 
+      ["Chen Sha", "friend of x, acquaintance of x"], 
+      ["Juan Ge", "friend of x, acquaintance of x"], 
+      ["Gui Yin", "friend of x, acquaintance of x"], 
+      ["Li Demu", "master of x, employee of x"]
+    ],
+    "Juan Ge": [
+      ["Zheng Hanzhen", "fiancee of x, bully of x"], 
+      ["Professor Zhou", "friend of x, colleague of x"], 
+      ["Chen Sha", "fiancee of x, acquaintance of x"], 
+      ["Ba Mansion Mountain", "fiancee of x, lover of x"], 
+      ["Gui Yin", "fiancee of x"], 
+      ["Li Demu", "friend of x, acquaintance of x"]
+    ],
+    "Gui Yin": [
+      ["Zheng Hanzhen", "lover of x, adversary of x"], 
+      ["Professor Zhou", "friend of x, mentee of x"], 
+      ["Chen Sha", "wife of x, same person as x (different reference)"], 
+      ["Ba Mansion Mountain", "friend of x, acquaintance of x"], 
+      ["Juan Ge", "fiance of x"], 
+      ["Li Demu", "fiance of x, bully of x"]
+    ],
+    "Li Demu": [
+      ["Zheng Hanzhen", "friend of x, colleague of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["Professor Zhou", "friend of x, mentor of x, teacher of x, classmate of x, colleague of x, business partner of x"], 
+      ["Chen Sha", "friend of x, roommate of x"], 
+      ["Ba Mansion Mountain", "employee of x, perpetrator of x"], 
+      ["Juan Ge", "friend of x, acquaintance of x"], 
+      ["Gui Yin", "fiancee of x, victim of x"]
+    ]
+}

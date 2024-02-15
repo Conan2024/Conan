@@ -1,0 +1,36 @@
+{
+    "Shen Jie": [
+      ["Lin Tong", "child of x"], 
+      ["qin siqin", "wife of x"], 
+      ["Lin Weiren", "subject of x investigation for x"], 
+      ["Gu Minghe", "subject of x investigation for x"], 
+      ["Lin Xi", "adversary of x"], 
+      ["Su Yang", "romantic relationships with x"]
+    ],
+    "qin siqin": [
+      ["Shen Jie", "husband of x"], 
+      ["Lin Tong", "child of x"]
+    ],
+    "Lin Tong": [
+      ["Shen Jie", "parent of x"], 
+      ["qin siqin", "parent of x"], 
+      ["Su Yang", "ex boyfriend of x"]
+    ],
+    "Gu Minghe": [
+      ["Shen Jie", "subject of x investigation for x"]
+    ],
+    "Lin Weiren": [
+      ["Shen Jie", "subject of x investigation for x"], 
+      ["Lin Xi", "father of x"]
+    ],
+    "Su Yang": [
+      ["Shen Jie", "romantic relationships with x"], 
+      ["Lin Tong", "ex boyfriend of x"], 
+      ["Lin Xi", "romantic relationships with x"]
+    ],
+    "Lin Xi": [
+      ["Shen Jie", "adversary of x"], 
+      ["Su Yang", "romantic relationships with x"], 
+      ["Lin Weiren", "child of x"]
+    ]
+}

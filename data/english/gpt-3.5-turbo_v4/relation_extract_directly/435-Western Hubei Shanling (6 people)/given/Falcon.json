@@ -1,0 +1,70 @@
+{
+    "Ba Falcon": [
+      ["Mountain Spirit", "mentor of x"], 
+      ["Juan Ge", "friend of x"], 
+      ["Li Gaobai", "colleague of x"], 
+      ["Professor Zhou", "teacher of x"], 
+      ["Gui Yin", "friend of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Ba Falcon", "mentor of x"], 
+      ["Mountain Spirit", "helper of x"], 
+      ["Miao Na", "friend of x"], 
+      ["Juan Ge", "friend of x"], 
+      ["Gui Yin", "friend of x"]
+    ],
+    "Mountain Spirit": [
+      ["Ba Falcon", "mentor of x"], 
+      ["Ba Mansion Mountain", "mentor of x"], 
+      ["Miao Na", "friend of x"], 
+      ["Gui Yin", "friend of x"], 
+      ["Ruya", "saviour of x"], 
+      ["Juan Ge", "friend of x"]
+    ],
+    "Miao Na": [
+      ["Ba Mansion Mountain", "friend of x"], 
+      ["Mountain Spirit", "friend of x"], 
+      ["Ruya", "friend of x"], 
+      ["Juan Ge", "friend of x"]
+    ],
+    "Miao Shi": [
+      ["Intern", "colleague of x"], 
+      ["Adult Man", "colleague of x"]
+    ],
+    "Gui Yin": [
+      ["Mountain Spirit", "friend of x"], 
+      ["Ruya", "friend of x"], 
+      ["Ba Falcon", "friend of x"], 
+      ["Ba Mansion Mountain", "friend of x"]
+    ],
+    "Ruya": [
+      ["Mountain Spirit", "saviour of x"], 
+      ["Miao Na", "friend of x"], 
+      ["Gui Yin", "friend of x"], 
+      ["Juan Ge", "friend of x"]
+    ],
+    "Juan Ge": [
+      ["Ba Falcon", "friend of x"], 
+      ["Ba Mansion Mountain", "friend of x"], 
+      ["Miao Na", "friend of x"], 
+      ["Ruya", "friend of x"]
+    ],
+    "Li Gaobai": [
+      ["Ba Falcon", "colleague of x"]
+    ],
+    "Professor Zhou": [
+      ["Ba Falcon", "teacher of x"], 
+      ["Chen Sha", "acquaintance of x"]
+    ],
+    "Chen Sha": [
+      ["Professor Zhou", "acquaintance of x"], 
+      ["Intern", "acquaintance of x"]
+    ],
+    "Intern": [
+      ["Miao Shi", "colleague of x"], 
+      ["Chen Sha", "acquaintance of x"]
+    ],
+    "Adult Man": [
+      ["Miao Shi", "colleague of x"]
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "Hao Guimi": [
+      ["Li Xiaodi", "friend of x"], 
+      ["Lin Xiaohua", "friend of x, acquaintance of x"], 
+      ["Wang Xuexi", "friend of x, acquaintance of x"], 
+      ["Zhang Eba", "friend of x"], 
+      ["Zhao Shuaige", "friend of x, acquaintance of x"], 
+      ["Li Xiaodi", "wang xuexi"]
+    ],
+    "Li Xiaodi": [
+      ["Hao Guimi", "friend of x"], 
+      ["Lin Xiaohua", "suspect of x, classmate of x"], 
+      ["Wang Xuexi", "hao guimi of x"], 
+      ["Zhang Eba", "fiance of x, suspect of x"], 
+      ["Zhao Shuaige", "fiance of x, suspect of x"]
+    ],
+    "Lin Xiaohua": [
+      ["Hao Guimi", "fiancee of x, victim of x"], 
+      ["Li Xiaodi", "victim of x, fiance of x"], 
+      ["Wang Xuexi", "fiancee of x (different identity), suspect of x"], 
+      ["Zhang Eba", "fiancee of x, suspect of x"], 
+      ["Zhao Shuaige", "fiancee of x, adversary of x, enemy of x, rival of x, suspect of x"]
+    ],
+    "Wang Xuexi": [
+      ["Hao Guimi", "friend of x, acquaintance of x"], 
+      ["Li Xiaodi", "hao guimi of x"], 
+      ["Lin Xiaohua", "fiance of x (different identity), suspect of x"], 
+      ["Zhang Eba", "acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, perpetrator of x, suspect of x"], 
+      ["Zhao Shuaige", "acquaintance of x, classmate of x"]
+    ],
+    "Zhang Eba": [
+      ["Hao Guimi", "fiance of x"], 
+      ["Li Xiaodi", "fiancee of x, victim of x"], 
+      ["Lin Xiaohua", "fiance of x, victim of x"], 
+      ["Wang Xuexi", "fiance of x, victim of x, killed of x, adversary of x, enemy of x, rival of x, manipulator of x"], 
+      ["Zhao Shuaige", "fiance of x, suspect of x"]
+    ],
+    "Zhao Shuaige": [
+      ["Hao Guimi", "friend of x, acquaintance of x"], 
+      ["Li Xiaodi", "fiancee of x, acquaintance of x"], 
+      ["Lin Xiaohua", "fiance of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x"], 
+      ["Wang Xuexi", "acquaintance of x, classmate of x"], 
+      ["Zhang Eba", "friend of x, acquaintance of x"]
+    ]
+}

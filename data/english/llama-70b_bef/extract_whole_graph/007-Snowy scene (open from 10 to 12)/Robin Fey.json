@@ -1,0 +1,30 @@
+{
+    "Robin Fey": [
+      ["Perry Fey", "friend of x, acquaintance of x"], 
+      ["Daniel Fey", "friend of x, colleague of x"], 
+      ["Marina Fey", "acquaintance of x, suspicious of x"], 
+      ["Jacqueline Fey", "acquaintance of x, adversary of x"], 
+      ["Jonathan Fey", "friend of x, suspect of x"], 
+      ["Harold Harrison", "acquaintance of x"], 
+      ["Lucy Harrison", "acquaintance of x"]
+    ],
+    "Lucy Harrison": [
+      ["Robin Fey", "acquaintance of x"], 
+      ["Harold Harrison", "father of x"], 
+      ["Marina Fey", "mother of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Robin Fey", "acquaintance of x, adversary of x"], 
+      ["Marina Fey", "sister of x"], 
+      ["Harold Harrison", "husband of x"]
+    ],
+    "Harold Harrison": [
+      ["Robin Fey", "acquaintance of x"], 
+      ["Marina Fey", "wife of x"], 
+      ["Jacqueline Perry", "sister in law of x"]
+    ],
+    "Amy Morgan": [
+      ["Robin Fey", "acquaintance of x"], 
+      ["Max Morgan", "husband of x"]
+    ]
+}

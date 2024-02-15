@@ -1,0 +1,32 @@
+{
+    "Shen Cheng": [
+      ["Lin Weiren", "enemy of x, victim of x"], 
+      ["Lin Xi", "daughter of x, enemy of x"], 
+      ["Su Yang", "boyfriend of x, enemy of x"], 
+      ["Gu Minghe", "acquaintance of x, suspect of x"], 
+      ["Lin Tong", "daughter of x"]
+    ],
+    "Lin Weiren": [
+      ["Shen Cheng", "enemy of x"], 
+      ["Lin Xi", "daughter of x, victim of x"], 
+      ["Su Yang", "enemy of x, son in law of x"], 
+      ["Gu Minghe", "business partner of x, suspect of x"]
+    ],
+    "Lin Xi": [
+      ["Shen Cheng", "enemy of x"], 
+      ["Lin Weiren", "father of x, victim of x"], 
+      ["Su Yang", "boyfriend of x, enemy of x"], 
+      ["Lin Tong", "sister of x"]
+    ],
+    "Su Yang": [
+      ["Shen Cheng", "enemy of x"], 
+      ["Lin Weiren", "enemy of x, father in law of x"], 
+      ["Lin Xi", "girlfriend of x, victim of x"], 
+      ["Gu Minghe", "business partner of x, suspect of x"]
+    ],
+    "Gu Minghe": [
+      ["Shen Cheng", "acquaintance of x, suspect of x"], 
+      ["Lin Weiren", "business partner of x, suspect of x"], 
+      ["Lin Xi", "sister in law of x, victim of x"]
+    ]
+}

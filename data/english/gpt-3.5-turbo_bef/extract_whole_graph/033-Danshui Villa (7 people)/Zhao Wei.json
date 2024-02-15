@@ -1,0 +1,19 @@
+{
+    "Zhao Wei": [
+      ["Fang Shuangji", "helper of x"], 
+      ["Zhao Wanlei", "enemy of x"], 
+      ["Zhao Qiuer", "acquaintance of x"]
+    ],
+    "Fang Shuangji": [
+      ["Zhao Wei", "helper of x"], 
+      ["Zhao Wanlei", "colleague of x"], 
+      ["Zhao Luoyi", "acquaintance of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Zhao Wei", "enemy of x"], 
+      ["Fang Shuangji", "colleague of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Fang Shuangji", "acquaintance of x"]
+    ]
+}

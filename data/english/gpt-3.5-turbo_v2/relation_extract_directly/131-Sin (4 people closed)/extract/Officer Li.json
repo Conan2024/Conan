@@ -1,0 +1,24 @@
+{
+    "Officer Li": [
+      ["Superior", "authority over of x"], 
+      ["Murderer", "suspected by of x, adversary of x"], 
+      ["Chief Wang", "acquaintance of x"], 
+      ["Zhao Cishan", "adversary of x, attempted murderer of x, victim of x, attempted perpetrator of x"], 
+      ["Hu Investigate", "acquaintance of x"]
+    ],
+    "Superior": [
+      ["Officer Li", "authority over of x"]
+    ],
+    "Murderer": [
+      ["Officer Li", "suspected by of x, adversary of x"]
+    ],
+    "Chief Wang": [
+      ["Officer Li", "acquaintance of x"]
+    ],
+    "Zhao Cishan": [
+      ["Officer Li", "adversary of x, attempted murderer of x, victim of x, attempted perpetrator of x"]
+    ],
+    "Hu Investigate": [
+      ["Officer Li", "acquaintance of x"]
+    ]
+}

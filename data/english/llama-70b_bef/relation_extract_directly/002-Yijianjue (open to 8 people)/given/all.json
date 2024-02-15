@@ -1,0 +1,25 @@
+{
+    "Xuan Can": [
+      ["Du Zhong", "friend of x, suspect of x"], 
+      ["Master", "suspect of x"], 
+      ["Ren Dong", "friend of x, colleague of x, suspect of x"], 
+      ["Lu Ying", "friend of x, colleague of x"]
+    ],
+    "Du Zhong": [
+      ["Xuan Can", "friend of x, suspect of x"], 
+      ["Master", "friend of x"], 
+      ["Ren Dong", "friend of x, colleague of x"]
+    ],
+    "Master": [
+      ["Xuan Can", "suspect of x"], 
+      ["Du Zhong", "friend of x"], 
+      ["Ren Dong", "friend of x, colleague of x"]
+    ],
+    "Ren Dong": [
+      ["Xuan Can", "friend of x, colleague of x, suspect of x"], 
+      ["Du Zhong", "friend of x, colleague of x"]
+    ],
+    "Lu Ying": [
+      ["Xuan Can", "friend of x, colleague of x"]
+    ]
+}

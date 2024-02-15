@@ -1,0 +1,121 @@
+{
+    "Amy Morgan": [
+      ["Daniel Perry", "friend of x, colleague of x"], 
+      ["Davis Perry", "friend of x"], 
+      ["Harold Harrison", "wife of x, sister in law of x"], 
+      ["Jacqueline Perry", "wife of x, sister in law of x"], 
+      ["Joe Robertson", "acquaintance of x"], 
+      ["John Morgan", "wife of x"], 
+      ["Jonathan Perry", "sister in law of x, dislike of x"], 
+      ["Marina Harrison", "sister in law of x, friend of x"], 
+      ["Robin Fey", "colleague of x, business partner of x"]
+    ],
+    "Daniel Perry": [
+      ["Amy Morgan", "friend of x, colleague of x"], 
+      ["Davis Perry", "brother of x, friend of x"], 
+      ["Harold Harrison", "brother in law of x, rival of x"], 
+      ["Joe Robertson", "acquaintance of x, suspicious of x"], 
+      ["John Morgan", "brother in law of x"], 
+      ["Jonathan Perry", "father of x, husband of x"], 
+      ["Marina Harrison", "wife of x, sister in law of x, ex romantic relationships with x"], 
+      ["Robin Fey", "friend of x, colleague of x"]
+    ],
+    "Davis Perry": [
+      ["Amy Morgan", "friend of x"], 
+      ["Daniel Perry", "brother of x, friend of x"], 
+      ["Harold Harrison", "brother in law of x, friend of x"], 
+      ["Jacqueline Perry", "brother in law of x, friend of x"], 
+      ["Joe Robertson", "brother in law of x, friend of x"], 
+      ["John Morgan", "brother in law of x, friend of x"], 
+      ["Jonathan Perry", "brother of x, friend of x"], 
+      ["Lucy Harrison", "brother in law of x, uncle of x"], 
+      ["Marina Harrison", "brother in law of x, helped by x"], 
+      ["Robin Fey", "brother of x, friend of x"]
+    ],
+    "Harold Harrison": [
+      ["Amy Morgan", "husband of x, brother in law of x"], 
+      ["Daniel Perry", "brother in law of x, rival of x"], 
+      ["Davis Perry", "brother in law of x, friend of x"], 
+      ["Joe Robertson", "acquaintance of x, suspicious of x"], 
+      ["John Morgan", "brother in law of x, rival of x, adversary of x"], 
+      ["Jonathan Perry", "father of x, husband of x"], 
+      ["Lucy Harrison", "father of x, husband of x"], 
+      ["Marina Harrison", "husband of x, same person as x (different identity)"], 
+      ["Robin Fey", "friend of x, colleague of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Amy Morgan", "husband of x, brother in law of x"], 
+      ["Davis Perry", "husband of x, sister in law of x"], 
+      ["Joe Robertson", "wife of x, sister in law of x, co wives of x"], 
+      ["John Morgan", "wife of x, dislike of x, disliked by x"], 
+      ["Jonathan Perry", "wife of x, mother of x"], 
+      ["Lucy Harrison", "sister in law of x, wife of x"], 
+      ["Marina Harrison", "sister in law of x, wife of x"], 
+      ["Robin Fey", "wife of x, co wives of x"]
+    ],
+    "Joe Robertson": [
+      ["Amy Morgan", "acquaintance of x"], 
+      ["Daniel Perry", "acquaintance of x, suspect of x"], 
+      ["Davis Perry", "brother in law of x, friend of x"], 
+      ["Harold Harrison", "acquaintance of x, suspicious of x"], 
+      ["Jacqueline Perry", "husband of x, brother in law of x"], 
+      ["John Morgan", "acquaintance of x, suspicious of x"], 
+      ["Jonathan Perry", "brother in law of x, suspect of x"], 
+      ["Lucy Harrison", "suspect of x, adversary of x"], 
+      ["Marina Harrison", "brother in law of x"], 
+      ["Robin Fey", "friend of x, colleague of x"]
+    ],
+    "John Morgan": [
+      ["Amy Morgan", "husband of x"], 
+      ["Daniel Perry", "brother in law of x"], 
+      ["Davis Perry", "brother in law of x, friend of x"], 
+      ["Harold Harrison", "brother in law of x, rival of x, adversary of x"], 
+      ["Jacqueline Perry", "husband of x, adversary of x, enemy of x"], 
+      ["Joe Robertson", "acquaintance of x, suspicious of x"], 
+      ["Jonathan Perry", "brother in law of x"], 
+      ["Robin Fey", "colleague of x, business partner of x"]
+    ],
+    "Jonathan Perry": [
+      ["Amy Morgan", "brother in law of x"], 
+      ["Daniel Perry", "son of x"], 
+      ["Davis Perry", "son of x, nephew of x"], 
+      ["Harold Harrison", "son of x, brother of x"], 
+      ["Jacqueline Perry", "son of x"], 
+      ["Joe Robertson", "nephew of x, suspected by x"], 
+      ["John Morgan", "uncle of x, son of x"], 
+      ["Marina Harrison", "brother in law of x"], 
+      ["Robin Fey", "colleague of x, business partner of x"]
+    ],
+    "Lucy Harrison": [
+      ["Davis Perry", "brother in law of x, uncle of x"], 
+      ["Harold Harrison", "daughter of x, same person as x (different identity)"], 
+      ["Jacqueline Perry", "daughter of x, sibling of x"], 
+      ["Joe Robertson", "suspect of x, adversary of x"], 
+      ["Marina Harrison", "daughter of x, sibling of x"], 
+      ["Robin Fey", "sibling of x, friend of x"]
+    ],
+    "Marina Harrison": [
+      ["Amy Morgan", "sister in law of x, friend of x"], 
+      ["Daniel Perry", "husband of x, brother in law of x, ex romantic relationships with x"], 
+      ["Davis Perry", "sister in law of x, helped by x"], 
+      ["Harold Harrison", "wife of x, same person as x (different identity), ex romantic relationships with x"], 
+      ["Jacqueline Perry", "sister in law of x, wife of x"], 
+      ["Joe Robertson", "sister in law of x"], 
+      ["John Morgan", "brother in law of x"], 
+      ["Jonathan Perry", "sister in law of x"], 
+      ["Lucy Harrison", "mother of x, sister of x"], 
+      ["Robin Fey", "sister in law of x"]
+    ],
+    "Robin Fey": [
+      ["Amy Morgan", "colleague of x, business partner of x"], 
+      ["Daniel Perry", "friend of x, colleague of x"], 
+      ["Davis Perry", "friend of x, colleague of x"], 
+      ["Harold Harrison", "friend of x, colleague of x"], 
+      ["Jacqueline Perry", "husband of x, colleague of x"], 
+      ["Joe Robertson", "friend of x, colleague of x"], 
+      ["John Morgan", "colleague of x, business partner of x"], 
+      ["Jonathan Perry", "colleague of x, business partner of x"], 
+      ["Lucy Harrison", "sibling of x, friend of x"], 
+      ["Marina Harrison", "brother in law of x"]
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Yilin Carter": [
+      ["Hospital Dean Berkeley", "superior of x, suspicious of x"]
+    ],
+    "Dr. Paloski": [
+      ["Hans Rymorite", "colleague of x"], 
+      ["Drake Rimerite", "colleague of x"], 
+      ["Head Nurse Costa", "colleague of x"], 
+      ["Hospital Dean Berkeley", "superior of x, suspicious of x"]
+    ],
+    "Hans Rymorite": [
+      ["Dr. Paloski", "colleague of x"], 
+      ["Drake Rimerite", "twin brother of x"], 
+      ["Head Nurse Costa", "colleague of x"], 
+      ["Hospital Dean Berkeley", "superior of x, suspicious of x"]
+    ],
+    "Drake Rimerite": [
+      ["Dr. Paloski", "colleague of x"], 
+      ["Hans Rymorite", "twin brother of x"], 
+      ["Head Nurse Costa", "colleague of x"], 
+      ["Hospital Dean Berkeley", "superior of x, suspicious of x"]
+    ],
+    "Head Nurse Costa": [
+      ["Dr. Paloski", "colleague of x"], 
+      ["Hans Rymorite", "colleague of x"], 
+      ["Drake Rimerite", "colleague of x"], 
+      ["Hospital Dean Berkeley", "superior of x, suspicious of x"]
+    ],
+    "Hospital Dean Berkeley": [
+      ["Yilin Carter", "superior of x, suspicious of x"], 
+      ["Dr. Paloski", "colleague of x"], 
+      ["Hans Rymorite", "colleague of x"], 
+      ["Drake Rimerite", "colleague of x"], 
+      ["Head Nurse Costa", "colleague of x"]
+    ]
+}

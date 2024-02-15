@@ -1,0 +1,94 @@
+{
+    "Brother Gu": [
+      ["Gu Chumeng", "sibling of x"], 
+      ["Gu Lianshan", "sibling of x, son of x"], 
+      ["Gu Zhiyu", "grandfather of x, grandson of x"], 
+      ["Minxi", "friend of x, mentor of x"], 
+      ["Xinger", "wife of x"], 
+      ["Yang Shuixun", "friend of x, mentor of x"], 
+      ["Zhang Shanren", "friend of x, mentor of x"]
+    ],
+    "Gu Chumeng": [
+      ["Brother Gu", "sibling of x"], 
+      ["Gu Lianshan", "father of x, mother of x, sibling of x, brother of x, son of x, husband of x"], 
+      ["Gu Zhiyu", "father of x, mentor of x"], 
+      ["Minxi", "friend of x, classmate of x"], 
+      ["Xinger", "husband of x, master of x"], 
+      ["Xiting", "husband of x, same person as x (different reference)"], 
+      ["Yang Shuixun", "friend of x, acquaintance of x"], 
+      ["Zhang Fanghao", "husband of x, same person as x (different reference)"], 
+      ["Zhang Shanren", "husband of x, same person as x (different reference)"]
+    ],
+    "Gu Lianshan": [
+      ["Brother Gu", "sibling of x, father of x"], 
+      ["Gu Chumeng", "father of x, mother of x, sibling of x, brother of x, son of x, husband of x"], 
+      ["Gu Zhiyu", "father of x, grandfather of x"], 
+      ["Minxi", "father of x, husband of x"], 
+      ["Xinger", "husband of x, master of x"], 
+      ["Yang Shuixun", "father in law of x"], 
+      ["Zhang Fanghao", "father in law of x"], 
+      ["Zhang Shanren", "father in law of x, father of x"]
+    ],
+    "Gu Zhiyu": [
+      ["Brother Gu", "father of x, son of x"], 
+      ["Gu Chumeng", "son of x"], 
+      ["Gu Lianshan", "son of x, grandson of x"], 
+      ["Minxi", "friend of x, mentor of x"], 
+      ["Xinger", "wife of x, same person as x (different reference)"], 
+      ["Yang Shuixun", "friend of x, mentor of x"], 
+      ["Zhang Fanghao", "father in law of x, father of x"], 
+      ["Zhang Shanren", "father in law of x, mentor of x"]
+    ],
+    "Minxi": [
+      ["Brother Gu", "friend of x"], 
+      ["Gu Chumeng", "friend of x, classmate of x"], 
+      ["Gu Lianshan", "daughter of x, wife of x"], 
+      ["Gu Zhiyu", "friend of x"], 
+      ["Xinger", "sister in law of x, friend of x"], 
+      ["Yang Shuixun", "friend of x, acquaintance of x"], 
+      ["Zhang Shanren", "friend of x, colleague of x"]
+    ],
+    "Xinger": [
+      ["Brother Gu", "wife of x"], 
+      ["Gu Chumeng", "wife of x, servant of x"], 
+      ["Gu Lianshan", "wife of x, servant of x"], 
+      ["Gu Zhiyu", "husband of x, same person as x (different reference)"], 
+      ["Minxi", "sister in law of x, friend of x"], 
+      ["Xiting", "wife of x, sister of x"], 
+      ["Zhang Fanghao", "wife of x, same person as x (different reference)"], 
+      ["Zhang Shanren", "wife of x, same person as x (different reference)"]
+    ],
+    "Xiting": [
+      ["Gu Chumeng", "wife of x, same person as x (different identity)"], 
+      ["Xinger", "husband of x, brother of x"], 
+      ["Zhang Shanren", "wife of x, same person as x (different identity)"]
+    ],
+    "Yang Shuixun": [
+      ["Brother Gu", "friend of x, mentor of x"], 
+      ["Gu Chumeng", "friend of x, acquaintance of x"], 
+      ["Gu Lianshan", "father in law of x"], 
+      ["Gu Zhiyu", "friend of x, mentor of x"], 
+      ["Minxi", "father of x, employer of x"], 
+      ["Zhang Fanghao", "friend of x, mentor of x"], 
+      ["Zhang Shanren", "friend of x, acquaintance of x"]
+    ],
+    "Zhang Fanghao": [
+      ["Gu Chumeng", "wife of x, same person as x (different reference)"], 
+      ["Gu Lianshan", "father in law of x"], 
+      ["Gu Zhiyu", "son in law of x, husband of x"], 
+      ["Xinger", "husband of x, same person as x (different reference)"], 
+      ["Yang Shuixun", "friend of x"], 
+      ["Zhang Shanren", "husband of x, wife of x"]
+    ],
+    "Zhang Shanren": [
+      ["Brother Gu", "friend of x, mentor of x"], 
+      ["Gu Chumeng", "wife of x, same person as x (different reference)"], 
+      ["Gu Lianshan", "son in law of x, husband of x"], 
+      ["Gu Zhiyu", "son in law of x"], 
+      ["Minxi", "friend of x, colleague of x"], 
+      ["Xinger", "husband of x, same person as x (different reference)"], 
+      ["Xiting", "husband of x, same person as x (different reference)"], 
+      ["Yang Shuixun", "friend of x, acquaintance of x"], 
+      ["Zhang Fanghao", "husband of x, wife of x"]
+    ]
+}

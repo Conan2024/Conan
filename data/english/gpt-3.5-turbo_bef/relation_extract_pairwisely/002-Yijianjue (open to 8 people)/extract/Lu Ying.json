@@ -1,0 +1,30 @@
+{
+    "Lu Ying": [
+      ["Yi Jian Villa Master Du Zhong", "student of x"], 
+      ["Zi Su", "fondness of x"], 
+      ["Xu Xuanbing", "mentor of x"]
+    ],
+    "Yi Jian Villa Master Du Zhong": [
+      ["Lu Ying", "master of x"], 
+      ["Zi Su", "fiancee of x"], 
+      ["Xu Xuanbing", "informant of x, information receiver from x"], 
+      ["Second Senior Uncle", "father of x"]
+    ],
+    "Zi Su": [
+      ["Lu Ying", "fondness of x"], 
+      ["Yi Jian Villa Master Du Zhong", "fiance of x"]
+    ],
+    "Xu Xuanbing": [
+      ["Yi Jian Villa Master Du Zhong", "informant of x, information receiver from x"], 
+      ["Five engraved martial arts alliances", "friend of x"], 
+      ["Second Senior Uncle", "mentor of x, friend of x"]
+    ],
+    "Five engraved martial arts alliances": [
+      ["Xu Xuanbing", "friend of x"], 
+      ["Second Senior Uncle", "co wives of x"]
+    ],
+    "Second Senior Uncle": [
+      ["Yi Jian Villa Master Du Zhong", "subordinate of x"], 
+      ["Xu Xuanbing", "student of x, friend of x"]
+    ]
+}

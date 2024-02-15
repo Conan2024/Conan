@@ -1,0 +1,34 @@
+{
+    "Zhao Wei": [
+      ["Zhao Wanlei", "father of x"], 
+      ["Fang Shuangji", "acquaintance of x, friend of x"], 
+      ["YU Fei", "mother of x"], 
+      ["Emperor Guangxu", "biological father of x"], 
+      ["FENG Shuangji", "acquaintance of x, friend of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Zhao Wei", "daughter of x, victim of x"], 
+      ["Fang Shuangji", "acquaintance of x, friend of x"], 
+      ["YU Fei", "wife of x"]
+    ],
+    "Fang Shuangji": [
+      ["Zhao Wei", "acquaintance of x, friend of x"], 
+      ["Zhao Wanlei", "acquaintance of x, friend of x"], 
+      ["YU Fei", "acquaintance of x"]
+    ],
+    "YU Fei": [
+      ["Zhao Wei", "mother of x"], 
+      ["Zhao Wanlei", "husband of x"]
+    ],
+    "Emperor Guangxu": [
+      ["Zhao Wei", "biological father of x"]
+    ],
+    "FENG Shuangji": [
+      ["Zhao Wei", "acquaintance of x, friend of x"], 
+      ["Zhao Wanlei", "acquaintance of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Zhao Wei", "sister of x"], 
+      ["Zhao Wanlei", "sister in law of x"]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "Mu Bei": [
+        [
+            "Li Guofu",
+            "colleague of x, friend of x"
+        ],
+        [
+            "He Laoliu",
+            "friend of x"
+        ],
+        [
+            "ZHANG JIE",
+            "colleague of x, friend of x, friend of x"
+        ]
+    ],
+    "Li Guofu": [
+        [
+            "Mu Bei",
+            "colleague of x, friend of x"
+        ],
+        [
+            "He Laoliu",
+            "friend of x, colleague of x, colleague of x"
+        ],
+        [
+            "ZHANG JIE",
+            "romantic relationships with x"
+        ]
+    ],
+    "He Laoliu": [
+        [
+            "Mu Bei",
+            "friend of x"
+        ],
+        [
+            "Li Guofu",
+            "friend of x, colleague of x, colleague of x"
+        ],
+        [
+            "ZHANG JIE",
+            "friend of x, colleague of x"
+        ]
+    ],
+    "ZHANG JIE": [
+        [
+            "Mu Bei",
+            "colleague of x, friend of x, friend of x"
+        ],
+        [
+            "Li Guofu",
+            "romantic relationships with x"
+        ],
+        [
+            "He Laoliu",
+            "friend of x, colleague of x"
+        ]
+    ]
+}

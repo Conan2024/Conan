@@ -1,0 +1,62 @@
+{
+    "Xue Dacai": [
+      ["Ge Jixian", "friend of x, former superior of x"], 
+      ["Ge Yueluo", "sister in law of x, friend of x"], 
+      ["Zhu Lingshan", "cousin of x, friend of x"], 
+      ["Yu Shangyong", "acquaintance of x, informant of x"], 
+      ["Lü Songnian", "friend of x, business partner of x"], 
+      ["Lü Lusheng", "friend of x, employee of x"], 
+      ["Mrs. Zhang", "neighbor of x, acquaintance of x"]
+    ],
+    "Ge Jixian": [
+      ["Xue Dacai", "friend of x, former subordinate of x"], 
+      ["Ge Yueluo", "daughter of x, heir of x"], 
+      ["Zhu Lingshan", "son in law of x, friend of x"], 
+      ["Yu Shangyong", "acquaintance of x, informant of x"]
+    ],
+    "Ge Yueluo": [
+      ["Xue Dacai", "sister in law of x, friend of x"], 
+      ["Ge Jixian", "father of x, former superior of x"], 
+      ["Zhu Lingshan", "husband of x, friend of x"], 
+      ["Yu Shangyong", "acquaintance of x"]
+    ],
+    "Zhu Lingshan": [
+      ["Xue Dacai", "cousin of x, friend of x"], 
+      ["Ge Jixian", "father in law of x, friend of x"], 
+      ["Ge Yueluo", "wife of x, friend of x"], 
+      ["Yu Shangyong", "acquaintance of x"]
+    ],
+    "Yu Shangyong": [
+      ["Xue Dacai", "acquaintance of x, informant of x"], 
+      ["Ge Jixian", "acquaintance of x, informant of x"], 
+      ["Ge Yueluo", "acquaintance of x"], 
+      ["Zhu Lingshan", "acquaintance of x"]
+    ],
+    "Lü Songnian": [
+      ["Xue Dacai", "friend of x, business partner of x"], 
+      ["Ge Jixian", "friend of x, business partner of x"], 
+      ["Ge Yueluo", "friend of x"], 
+      ["Zhu Lingshan", "friend of x"]
+    ],
+    "Lü Lusheng": [
+      ["Xue Dacai", "friend of x, employee of x"], 
+      ["Ge Jixian", "friend of x, employee of x"], 
+      ["Ge Yueluo", "friend of x"], 
+      ["Zhu Lingshan", "friend of x"]
+    ],
+    "Mrs. Zhang": [
+      ["Xue Dacai", "neighbor of x, acquaintance of x"], 
+      ["Ge Jixian", "neighbor of x, acquaintance of x"], 
+      ["Ge Yueluo", "neighbor of x, acquaintance of x"], 
+      ["Zhu Lingshan", "neighbor of x, acquaintance of x"]
+    ],
+    "Xue Yufan": [
+      ["Xue Dacai", "son of x"], 
+      ["Zhu Lingshan", "cousin of x"], 
+      ["Mrs. Zhang", "love interest of x"]
+    ],
+    "Yu Yancheng": [
+      ["Xue Yufan", "rival of x"], 
+      ["Mrs. Zhang", "acquaintance of x"]
+    ]
+}

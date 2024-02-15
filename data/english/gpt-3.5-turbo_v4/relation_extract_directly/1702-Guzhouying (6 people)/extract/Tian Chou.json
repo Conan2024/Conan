@@ -1,0 +1,58 @@
+{
+    "Sun Tian'er": [
+      ["Sun Xian'en", "father of x"], 
+      ["Tian Chou", "child of x, same person as x (different identity)"]
+    ],
+    "Sun Xian'en": [
+      ["Sun Tian'er", "child of x"], 
+      ["Tian Chou", "child of x, same person as x (different identity)"]
+    ],
+    "Zhou Mengdang": [
+      ["Tian Chou", "child of x, same person as x (different identity)"]
+    ],
+    "Zhang Pozai": [
+      ["Bao Liu", "friend of x"], 
+      ["Xi Yan", "friend of x"], 
+      ["Cui Shouheng", "friend of x"], 
+      ["Bao Gan", "friend of x"]
+    ],
+    "Bao Liu": [
+      ["Zhang Pozai", "friend of x"]
+    ],
+    "Xi Yan": [
+      ["Zhang Pozai", "friend of x"]
+    ],
+    "Cui Shouheng": [
+      ["Zhang Pozai", "friend of x"]
+    ],
+    "Bao Gan": [
+      ["Zhang Pozai", "friend of x"]
+    ],
+    "Cui Yannan": [
+      ["Bao Yang", "wife of x"]
+    ],
+    "Bao Yang": [
+      ["Cui Yannan", "husband of x"]
+    ],
+    "Bao Gui": [
+      ["Su Nian", "father of x"], 
+      ["Uncle Fu", "employer of x"]
+    ],
+    "Su Nian": [
+      ["Bao Gui", "son of x"]
+    ],
+    "Uncle Fu": [
+      ["Bao Gui", "employer of x"]
+    ],
+    "Zhou Chitong": [
+      ["Taitai", "husband of x"]
+    ],
+    "Taitai": [
+      ["Zhou Chitong", "wife of x"]
+    ],
+    "Tian Chou": [
+      ["Sun Tian'er", "child of x"], 
+      ["Sun Xian'en", "father of x, same person as x (different identity)"], 
+      ["Tian Chou", "same person as x (different reference)"]
+    ]
+}

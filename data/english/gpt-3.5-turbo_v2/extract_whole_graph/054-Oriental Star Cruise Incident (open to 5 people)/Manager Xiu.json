@@ -1,0 +1,36 @@
+{
+    "Manager Xiu": [
+      ["Liu Qi", "high school alumni of x"], 
+      ["Liu Qi", "leader of x private drugs on boat"], 
+      ["Hong Zilian", "not much intersection of x"], 
+      ["Han Yimu", "good opinion of x, disgusted with liu qi of x"], 
+      ["Lin Ruotong", "direct leader zhang wenyuan of x"]
+    ],
+    "Liu Qi": [
+      ["Manager Xiu", "high school alumni of x"], 
+      ["Manager Xiu", "leader of x private drugs on boat"], 
+      ["Han Yimu", "disgusted with of x"], 
+      ["Zhang Erfu", "threatened by of x"], 
+      ["Captain Yang Chenlin", "killed of x"], 
+      ["Captain Yang Chenlin", "discovered poisoning on ship of x"]
+    ],
+    "Han Yimu": [
+      ["Manager Xiu", "good opinion of x"], 
+      ["Manager Xiu", "disgusted with liu qi of x"]
+    ],
+    "Lin Ruotong": [
+      ["Manager Xiu", "belongs to bar of x"], 
+      ["Manager Xiu", "direct leader zhang wenyuan of x"]
+    ],
+    "Zhang Erfu": [
+      ["Liu Qi", "threatened by of x"], 
+      ["Captain Yang Chenlin", "second of xficer"], 
+      ["deceased", "second of xficer"]
+    ],
+    "Captain Yang Chenlin": [
+      ["Liu Qi", "killed of x"], 
+      ["Liu Qi", "discovered poisoning on ship of x"], 
+      ["Zhang Erfu", "second of xficer"], 
+      ["deceased", "captain of x"]
+    ]
+}

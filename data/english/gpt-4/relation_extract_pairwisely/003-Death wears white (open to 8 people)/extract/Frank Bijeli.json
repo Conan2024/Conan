@@ -1,0 +1,92 @@
+{
+    "Tony": [
+        [
+            "Lelly",
+            "godfather of x"
+        ],
+        [
+            "Riley",
+            "enemy of x, victim of x"
+        ],
+        [
+            "Father Tom",
+            "believer in Father Tom's powers, victim of Father Tom's deceit, brother of Frank Bijeli"
+        ],
+        [
+            "People in the hospital",
+            "brother of x"
+        ]
+    ],
+    "Lelly": [
+        [
+            "Tony",
+            "child of x"
+        ],
+        [
+            "Riley",
+            "godfather of x, employer of x"
+        ],
+        [
+            "Frank Bijeli",
+            "godfather of x, employer of x, partner in deception of x"
+        ],
+        [
+            "People in the hospital",
+            "customer of x, perpetrator of x"
+        ]
+    ],
+    "Riley": [
+        [
+            "Tony",
+            "perpetrator of x, adversary of x"
+        ],
+        [
+            "Lelly",
+            "business partner of x, product provider of x"
+        ],
+        [
+            "Father Tom",
+            "employer of x, customer of x"
+        ],
+        [
+            "People in the hospital",
+            "stranger to x, perpetrator of x"
+        ]
+    ],
+    "Father Tom": [
+        [
+            "Tony",
+            "deceiver of Tony, part of a deception with Frank Bijeli"
+        ],
+        [
+            "Frank Bijeli",
+            "employer of x, co-conspirator in deception of x"
+        ],
+        [
+            "Riley",
+            "employee of x, service provider of x"
+        ],
+        [
+            "People in the hospital",
+            "helper of x, deceiver of x"
+        ]
+    ],
+    "People in the hospital": [
+        [
+            "Tony",
+            "subject of investigation for x, saved by x"
+        ],
+        [
+            "Lelly",
+            "victim of x, service provider of x"
+        ],
+        [
+            "Riley",
+            "victim of x, stranger to x"
+        ],
+        [
+            "Father Tom",
+            "host of x, victims of x"
+        ]
+    ]
+}

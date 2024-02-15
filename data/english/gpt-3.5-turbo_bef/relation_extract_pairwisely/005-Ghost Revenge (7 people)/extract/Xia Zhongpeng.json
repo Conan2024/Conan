@@ -1,0 +1,150 @@
+{
+    "Xia Zhongpeng": [
+      ["Xia Beigui", "brother of x, friend of x"], 
+      ["Xia Bolong", "brother of x, victim of x, murderer of x, attempted murderer of x"], 
+      ["Xia Sanhu", "brother of x"], 
+      ["Xia Shue (A'e)", "brother of x, uncle of x"], 
+      ["Li Zicai", "doctor of x"], 
+      ["Man with a Western-style beard", "brother of x"], 
+      ["Yu Jin", "friend of x, romantic relationships with x"], 
+      ["Aming", "brother of x, mentor of x"], 
+      ["Abao", "brother of x"]
+    ],
+    "Xia Beigui": [
+      ["Xia Zhongpeng", "brother of x, friend of x"], 
+      ["Xia Bolong", "brother of x"], 
+      ["Tian Jixiu Yi", "ex romantic relationships with x"], 
+      ["Xia Shue (A'e)", "helper of x"], 
+      ["Yu Jin", "brother in law of x"], 
+      ["Duan Yuetong", "suspicious of x, informant of x"], 
+      ["Yue Dongwen", "friend of x"], 
+      ["Lu Dong", "brother of x"], 
+      ["Abao", "brother of x"]
+    ],
+    "Xia Bolong": [
+      ["Xia Zhongpeng", "brother of x, perpetrator of x, victim of x"], 
+      ["Xia Beigui", "brother of x"], 
+      ["Xia Sanhu", "brother of x"], 
+      ["Tian Jixiu Yi", "friend of x"], 
+      ["Xia Shue (A'e)", "brother of x"], 
+      ["Duan Yuetong", "friend of x"], 
+      ["Yue Dongwen", "murderer of x, manipulated by x"], 
+      ["Lu Dong", "brother of x"]
+    ],
+    "Xia Sanhu": [
+      ["Xia Zhongpeng", "brother of x"], 
+      ["Xia Bolong", "brother of x"], 
+      ["Xia Shue (A'e)", "brother of x, victim of x"], 
+      ["Li Zicai", "brother of x"], 
+      ["Man with a Western-style beard", "romantic relationships with x, ex boyfriend of x"], 
+      ["Duan Yuetong", "murderer of x"], 
+      ["Aming", "murderer of x"], 
+      ["Lu Dong", "brother of x"], 
+      ["Abao", "brother of x"]
+    ],
+    "Tian Jixiu Yi": [
+      ["Xia Beigui", "ex romantic relationships with x"], 
+      ["Xia Bolong", "friend of x"], 
+      ["Xia Shue (A'e)", "possibly family of x"], 
+      ["Man with a Western-style beard", "murderer of x"], 
+      ["Duan Yuetong", "friend of x, acquaintance of x"], 
+      ["Yue Dongwen", "same person as x (different reference)"], 
+      ["Aming", "acquaintance of x"], 
+      ["Lu Dong", "murderer of x, manipulator of x"], 
+      ["Abao", "brother of x"]
+    ],
+    "Xia Shue (A'e)": [
+      ["Xia Zhongpeng", "niece of x, daughter of x"], 
+      ["Xia Beigui", "helper of x"], 
+      ["Xia Bolong", "niece of x"], 
+      ["Xia Sanhu", "sibling of x, perpetrator of x"], 
+      ["Tian Jixiu Yi", "possibly family of x"], 
+      ["Aming", "friend of x"], 
+      ["Lu Dong", "friend of x"], 
+      ["Abao", "friend of x"]
+    ],
+    "Li Zicai": [
+      ["Xia Zhongpeng", "patient of x"], 
+      ["Xia Beigui", "patient of x"], 
+      ["Xia Sanhu", "doctor of x"], 
+      ["Duan Yuetong", "friend of x, acquaintance of x"], 
+      ["Yue Dongwen", "acquaintance of x"], 
+      ["Aming", "friend of x"], 
+      ["Lu Dong", "friend of x"]
+    ],
+    "Man with a Western-style beard": [
+      ["Xia Zhongpeng", "brother of x"], 
+      ["Xia Sanhu", "romantic relationships with x, ex boyfriend of x"], 
+      ["Tian Jixiu Yi", "victim of x"], 
+      ["Yu Jin", "guest of x, acquaintance of x"], 
+      ["Duan Yuetong", "acquaintance of x"], 
+      ["Yue Dongwen", "informant of x, information receiver from x"], 
+      ["Aming", "acquaintance of x"]
+    ],
+    "Yu Jin": [
+      ["Xia Zhongpeng", "friend of x, romantic relationships with x"], 
+      ["Xia Beigui", "sister in law of x"], 
+      ["Man with a Western-style beard", "customer of x, acquaintance of x"], 
+      ["Duan Yuetong", "brother of x"], 
+      ["Yue Dongwen", "friend of x"], 
+      ["Aming", "brother of x"], 
+      ["Lu Dong", "brother of x"], 
+      ["Abao", "brother of x"]
+    ],
+    "Duan Yuetong": [
+      ["Xia Beigui", "suspicious of x, informant of x"], 
+      ["Xia Bolong", "friend of x"], 
+      ["Xia Sanhu", "victim of x"], 
+      ["Tian Jixiu Yi", "friend of x, acquaintance of x"], 
+      ["Li Zicai", "friend of x, acquaintance of x"], 
+      ["Man with a Western-style beard", "acquaintance of x"], 
+      ["Yu Jin", "brother of x"], 
+      ["Aming", "acquaintance of x"], 
+      ["Lu Dong", "friend of x"], 
+      ["Abao", "friend of x"]
+    ],
+    "Aming": [
+      ["Xia Zhongpeng", "brother of x, student of x"], 
+      ["Tian Jixiu Yi", "acquaintance of x"], 
+      ["Xia Shue (A'e)", "friend of x"], 
+      ["Li Zicai", "friend of x"], 
+      ["Man with a Western-style beard", "acquaintance of x"], 
+      ["Yu Jin", "student of x"], 
+      ["Duan Yuetong", "acquaintance of x"], 
+      ["Yue Dongwen", "acquaintance of x"], 
+      ["Lu Dong", "quest companion of x"]
+    ],
+    "Abao": [
+      ["Xia Zhongpeng", "brother of x"], 
+      ["Xia Beigui", "brother of x"], 
+      ["Xia Sanhu", "brother of x"], 
+      ["Tian Jixiu Yi", "brother of x"], 
+      ["Xia Shue (A'e)", "friend of x"], 
+      ["Yu Jin", "brother of x"], 
+      ["Duan Yuetong", "friend of x"], 
+      ["Lu Dong", "brother of x"]
+    ],
+    "Yue Dongwen": [
+      ["Xia Beigui", "friend of x"], 
+      ["Xia Bolong", "victim of x, manipulator of x"], 
+      ["Tian Jixiu Yi", "same person as x (different reference)"], 
+      ["Li Zicai", "acquaintance of x"], 
+      ["Man with a Western-style beard", "informant of x, information receiver from x"], 
+      ["Yu Jin", "friend of x"], 
+      ["Aming", "acquaintance of x"], 
+      ["Lu Dong", "business partner of x"]
+    ],
+    "Lu Dong": [
+      ["Xia Beigui", "brother of x"], 
+      ["Xia Bolong", "brother of x"], 
+      ["Xia Sanhu", "brother of x"], 
+      ["Tian Jixiu Yi", "victim of x, manipulated by x"], 
+      ["Xia Shue (A'e)", "friend of x"], 
+      ["Li Zicai", "friend of x"], 
+      ["Yu Jin", "brother of x"], 
+      ["Duan Yuetong", "friend of x"], 
+      ["Yue Dongwen", "business partner of x"], 
+      ["Aming", "quest companion of x"], 
+      ["Abao", "brother of x"]
+    ]
+}

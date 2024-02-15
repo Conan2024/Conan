@@ -1,0 +1,106 @@
+{
+    "Xia Shue": [
+      ["Xia Bolong", "child of x"], 
+      ["Aming", "friend of x, student of x"], 
+      ["Yue Kesa", "student of x"], 
+      ["Wu Baian", "friend of x, helper of x"], 
+      ["Wu Xiao", "admirer of x"], 
+      ["Luo Yisi", "friend of x"], 
+      ["Auntie Yi", "relative of x, fondness of x"]
+    ],
+    "Xia Zhongpeng": [
+      ["Luo Ming", "mentor of x"], 
+      ["Aming", "friend of x, mentor of x"], 
+      ["Yue Kesa", "uncle of x"], 
+      ["Wu Baian", "uncle of x, patient of x"], 
+      ["Wu Xiao", "guard of x"], 
+      ["Auntie Yi", "helper of x"]
+    ],
+    "Xia Sanhu": [
+      ["Xia Bolong", "sibling of x"], 
+      ["Xia Zhongpeng", "nephew of x"], 
+      ["Luo Ming", "student of x"], 
+      ["Yue Kesa", "friend of x"], 
+      ["Wu Baian", "helped by x, helper of x"], 
+      ["Wu Xiao", "student of x"], 
+      ["Luo Yisi", "mentor of x, romantic relationships with x"], 
+      ["Auntie Yi", "teacher of x"]
+    ],
+    "Luo Ming": [
+      ["Xia Bolong", "friend of x"], 
+      ["Xia Zhongpeng", "student of x"], 
+      ["Xia Sanhu", "teacher of x"], 
+      ["Yue Kesa", "friend of x"], 
+      ["Wu Baian", "friend of x"], 
+      ["Wu Xiao", "friend of x"], 
+      ["Auntie Yi", "co wives of x"]
+    ],
+    "Aming": [
+      ["Xia Shue", "friend of x, student of x"], 
+      ["Xia Zhongpeng", "friend of x, student of x"], 
+      ["Wu Baian", "admired by x"], 
+      ["Luo Yisi", "friend of x"], 
+      ["Auntie Yi", "mentor of x"]
+    ],
+    "Yue Kesa": [
+      ["Xia Shue", "mentor of x"], 
+      ["Xia Zhongpeng", "nephew of x"], 
+      ["Xia Sanhu", "friend of x"], 
+      ["Luo Ming", "friend of x"], 
+      ["Wu Baian", "friend of x"], 
+      ["Wu Xiao", "friend of x"], 
+      ["Luo Yisi", "friend of x"], 
+      ["Auntie Yi", "fondness of x, admired by x"]
+    ],
+    "Wu Baian": [
+      ["Xia Shue", "friend of x"], 
+      ["Xia Bolong", "friend of x"], 
+      ["Xia Zhongpeng", "nephew of x, doctor of x"], 
+      ["Xia Sanhu", "helped by x, helped by x"], 
+      ["Luo Ming", "friend of x"], 
+      ["Aming", "student of x"], 
+      ["Yue Kesa", "acquaintance of x"], 
+      ["Wu Xiao", "helped by x"], 
+      ["Auntie Yi", "friend of x"]
+    ],
+    "Wu Xiao": [
+      ["Xia Shue", "admired by x"], 
+      ["Xia Bolong", "teacher of x, master of x"], 
+      ["Xia Sanhu", "mentor of x"], 
+      ["Luo Ming", "friend of x"], 
+      ["Yue Kesa", "friend of x"], 
+      ["Luo Yisi", "student of x, informant of x"], 
+      ["Auntie Yi", "mentor of x"]
+    ],
+    "Luo Yisi": [
+      ["Xia Shue", "friend of x"], 
+      ["Xia Bolong", "friend of x"], 
+      ["Xia Sanhu", "student of x, romantic relationships with x"], 
+      ["Aming", "friend of x"], 
+      ["Yue Kesa", "friend of x"], 
+      ["Wu Baian", "information receiver from x"], 
+      ["Wu Xiao", "mentor of x, friend of x"], 
+      ["Auntie Yi", "mentor of x"]
+    ],
+    "Auntie Yi": [
+      ["Xia Shue", "relative of x, fondness of x"], 
+      ["Xia Bolong", "relative of x"], 
+      ["Xia Sanhu", "student of x"], 
+      ["Luo Ming", "student of x"], 
+      ["Aming", "student of x"], 
+      ["Yue Kesa", "fondness of x, admired by x"], 
+      ["Wu Baian", "friend of x"], 
+      ["Wu Xiao", "informant of x"], 
+      ["Luo Yisi", "student of x"]
+    ],
+    "Xia Bolong": [
+      ["Xia Zhongpeng", "guard of x"], 
+      ["Xia Sanhu", "child of x, sibling of x"], 
+      ["Luo Ming", "friend of x"], 
+      ["Aming", "friend of x, mentor of x"], 
+      ["Wu Baian", "friend of x"], 
+      ["Wu Xiao", "mentor of x, student of x"], 
+      ["Luo Yisi", "friend of x"], 
+      ["Auntie Yi", "relative of x"]
+    ]
+}

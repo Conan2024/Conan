@@ -1,0 +1,28 @@
+{
+    "Lin Yang": [
+      ["Lin Weiren", "adopted son of x, suspected murderer of x"], 
+      ["Lin Xi", "sister of x, patient of x"], 
+      ["Gu Qing", "love interest of x, suspect of x"], 
+      ["Su Yang", "rival of x, suspect of x"], 
+      ["Shen Cheng", "butler of x, informant of x"]
+    ],
+    "Gu Qing": [
+      ["Lin Yang", "love interest of x, suspect of x"], 
+      ["Lin Weiren", "father of x, victim of x"]
+    ],
+    "Lin Weiren": [
+      ["Lin Yang", "adopted son of x, suspected murderer of x"], 
+      ["Lin Xi", "daughter of x, patient of x"]
+    ],
+    "Lin Xi": [
+      ["Lin Yang", "brother of x, patient of x"], 
+      ["Lin Weiren", "father of x, victim of x"]
+    ],
+    "Su Yang": [
+      ["Lin Yang", "rival of x, suspect of x"], 
+      ["Gu Qing", "lover of x"]
+    ],
+    "Shen Cheng": [
+      ["Lin Yang", "informant of x, butler of x"]
+    ]
+}

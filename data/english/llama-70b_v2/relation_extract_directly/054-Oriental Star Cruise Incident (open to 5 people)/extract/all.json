@@ -1,0 +1,29 @@
+{
+    "Lin Ruotong": [
+      ["Liu Qi", "acquaintance of x, dated 3 times of x, disliked of x"], 
+      ["Hong Zilian", "lover of x, secretly dating of x"], 
+      ["Zhang Wenyuan", "ignored of x, singer of x"], 
+      ["Han Yimu", "angry of x, quarrelled of x"], 
+      ["Xiu Renjie", "direct leader of x, knows drinking habits of x"]
+    ],
+    "Liu Qi": [
+      ["Lin Ruotong", "acquaintance of x, dated 3 times of x, disliked of x"], 
+      ["Hong Zilian", "teacher of x, drug smuggling partner of x"], 
+      ["Zhang Wenyuan", "deputy of x, dissatisfied with liu qi's promotion of x"]
+    ],
+    "Hong Zilian": [
+      ["Lin Ruotong", "lover of x, secretly dating of x"], 
+      ["Liu Qi", "teacher of x, drug smuggling partner of x"]
+    ],
+    "Han Yimu": [
+      ["Lin Ruotong", "angry of x, quarrelled of x"], 
+      ["Zhang Wenyuan", "quarrelled of x, punished of x"]
+    ],
+    "Xiu Renjie": [
+      ["Lin Ruotong", "direct leader of x, knows drinking habits of x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Lin Ruotong", "ignored of x, singer of x"], 
+      ["Liu Qi", "deputy of x, dissatisfied with liu qi's promotion of x"]
+    ]
+}

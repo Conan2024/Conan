@@ -1,0 +1,41 @@
+{
+    "Xiu renjie": [
+      ["Liu Qi", "high school alumni of x, drug dealing partner of x"], 
+      ["Hong Zilian", "acquaintance of x, captain of x the ship"], 
+      ["Han Yimu", "friend of x, shares a dislike for liu qi of x"], 
+      ["Lin Ruotong", "subordinate of x, singer at the bar of x"], 
+      ["ZHANG WENYUAN", "supervisor of x, manager of x the bar"]
+    ],
+    "Liu Qi": [
+      ["Xiu renjie", "drug dealing partner of x, acquaintance of x"], 
+      ["Hong Zilian", "subordinate of x, captain of x the ship"], 
+      ["Han Yimu", "acquaintance of x, shares a dislike for xiu renjie"], 
+      ["ZHANG WENYUAN", "supervisor of x, manager of x the bar"]
+    ],
+    "Hong Zilian": [
+      ["Xiu renjie", "acquaintance of x, bar manager of x"], 
+      ["Liu Qi", "subordinate of x, captain of x the ship"], 
+      ["Han Yimu", "acquaintance of x, shares a dislike for liu qi of x"]
+    ],
+    "Han Yimu": [
+      ["Xiu renjie", "friend of x, shares a dislike for liu qi of x"], 
+      ["Liu Qi", "acquaintance of x, disliked by han yimu of x"], 
+      ["Hong Zilian", "acquaintance of x, captain of x the ship"]
+    ],
+    "Lin Ruotong": [
+      ["Xiu renjie", "direct leader of x, bar manager of x"], 
+      ["ZHANG WENYUAN", "supervisor of x, manager of x the bar"]
+    ],
+    "ZHANG WENYUAN": [
+      ["Xiu renjie", "supervisor of x, manager of x the bar"], 
+      ["Lin Ruotong", "subordinate of x, singer at the bar of x"]
+    ],
+    "Yang Chenlin": [
+      ["Liu Qi", "victim of x, poisoned by liu qi of x"], 
+      ["Xiu renjie", "acquaintance of x, bar manager of x"]
+    ],
+    "Han ChenGwu": [
+      ["Xiu renjie", "acquaintance of x, crew member of x"], 
+      ["Liu Qi", "acquaintance of x, ignored xiu renjie"]
+    ]
+}

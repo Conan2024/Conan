@@ -1,0 +1,80 @@
+{
+    "Tony Bijeli": [
+        [
+            "Anthony",
+            "same person as x (different reference)"
+        ],
+        [
+            "Frank Carmen",
+            "sibling of x"
+        ],
+        [
+            "James Riley",
+            "mentor of x"
+        ],
+        [
+            "Father Tom",
+            "admired by x"
+        ],
+        [
+            "Nurses",
+            "acquaintance of x"
+        ],
+        [
+            "Hospital staff",
+            "stranger to x"
+        ]
+    ],
+    "Anthony": [
+        [
+            "Tony Bijeli",
+            "same person as x (different identity)"
+        ]
+    ],
+    "Frank Carmen": [
+        [
+            "Tony Bijeli",
+            "sibling of x"
+        ],
+        [
+            "Father Tom",
+            "victim of x"
+        ]
+    ],
+    "James Riley": [
+        [
+            "Tony Bijeli",
+            "student of x"
+        ],
+        [
+            "Nurses",
+            "employer of x"
+        ]
+    ],
+    "Father Tom": [
+        [
+            "Tony Bijeli",
+            "admired by x"
+        ],
+        [
+            "Frank Carmen",
+            "saviour of x"
+        ]
+    ],
+    "Nurses": [
+        [
+            "Tony Bijeli",
+            "acquaintance of x"
+        ],
+        [
+            "James Riley",
+            "employee of x"
+        ]
+    ],
+    "Hospital staff": [
+        [
+            "Tony Bijeli",
+            "victim of x"
+        ]
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "Dr. Paloski": [
+        [
+            "Drake Li Morette",
+            "Hans Li Morette"
+        ],
+        [
+            "Father Tom",
+            "You (role name)",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Frank",
+            "Tony",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Tony",
+            "relationship 1",
+            "relationship 2"
+        ]
+    ],
+    "Drake Li Morette": [
+        [
+            "Dr. Paloski",
+            "Hans Li Morette"
+        ],
+        [
+            "Father Tom",
+            "Doctor-patient relationship",
+            "Confidant relationship"
+        ],
+        [
+            "Frank",
+            "Tony",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Tony",
+            "Hans Li Morette",
+            "relationship 1",
+            "relationship 2"
+        ]
+    ],
+    "Hans Li Morette": [
+        [
+            "Dr. Paloski",
+            "Drake Li Morette"
+        ]
+    ],
+    "Father Tom": [
+        [
+            "Dr. Paloski",
+            "You (role name)",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Drake Li Morette",
+            "Doctor-patient relationship",
+            "Confidant relationship"
+        ],
+        [
+            "Frank",
+            "Tony",
+            "Dr. Drake Li Morette",
+            "Dr. Paloski",
+            "Dean Berkeley"
+        ],
+        [
+            "Tony",
+            "Dr. Drake Li Morette",
+            "Dr. Paloski",
+            "Frank",
+            "Hans Li Morette"
+        ]
+    ],
+    "Frank": [
+        [
+            "Dr. Paloski",
+            "Tony",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Drake Li Morette",
+            "Tony",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Father Tom",
+            "Tony",
+            "Dr. Drake Li Morette",
+            "Dr. Paloski"
+        ],
+        [
+            "Tony",
+            "Relationship 1, Relationship 2"
+        ]
+    ],
+    "Tony": [
+        [
+            "Dr. Paloski",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Drake Li Morette",
+            "Frank",
+            "relationship 3",
+            "relationship 4"
+        ],
+        [
+            "Drake Li Morette",
+            "Hans Li Morette",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Father Tom",
+            "Dr. Drake Li Morette",
+            "Dr. Paloski",
+            "Frank",
+            "Hans Li Morette"
+        ],
+        [
+            "Frank",
+            "Relationship 1, Relationship 2"
+        ]
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "Wang Xuexi": [
+      ["Zhang Eba", "bully of x, helper of x"], 
+      ["Li Dage", "helper of x, unsuccessful helper of x"], 
+      ["Lin Xiaohua", "suspect to x, adversary of x"], 
+      ["Zhao Shuaige", "classmate of x, suspect to x"], 
+      ["Hao Guimi", "adversary of x, attempted murderer of x"]
+    ],
+    "Zhang Eba": [
+      ["Wang Xuexi", "victim of x, manipulated by x"], 
+      ["Li Xiaodi", "bully of x, acquaintance of x"], 
+      ["Li Dage", "bully of x, master of x"], 
+      ["Lin Xiaohua", "fiancee of x, secret lover of x"], 
+      ["Zhao Shuaige", "friend of x, fiancee of x"], 
+      ["Hao Guimi", "romantic relationships with x, quest companion of x"]
+    ],
+    "Li Xiaodi": [
+      ["Zhang Eba", "victim of x, acquaintance of x"], 
+      ["Li Dage", "romantic relationships with x"], 
+      ["Lin Xiaohua", "acquaintance of x"], 
+      ["Zhao Shuaige", "friend of x, classmate of x"], 
+      ["Hao Guimi", "ex romantic relationships with x"]
+    ],
+    "Li Dage": [
+      ["Wang Xuexi", "helped by x, suspect to x"], 
+      ["Zhang Eba", "victim of x, servant of x"], 
+      ["Li Xiaodi", "romantic relationships with x, manipulator of x"], 
+      ["Lin Xiaohua", "fiance of x, quest companion of x"], 
+      ["Zhao Shuaige", "admirer of x, helper of x"]
+    ],
+    "Lin Xiaohua": [
+      ["Wang Xuexi", "victim of x, adversary of x"], 
+      ["Zhang Eba", "fiance of x, secret lover of x"], 
+      ["Li Xiaodi", "acquaintance of x"], 
+      ["Li Dage", "fiance of x, quest companion of x"], 
+      ["Zhao Shuaige", "friend of x, informant of x"], 
+      ["Hao Guimi", "fiance of x, classmate of x"]
+    ],
+    "Zhao Shuaige": [
+      ["Wang Xuexi", "classmate of x, information receiver from x"], 
+      ["Zhang Eba", "friend of x, fiance of x"], 
+      ["Li Xiaodi", "friend of x, classmate of x"], 
+      ["Li Dage", "mentor of x, informant of x"], 
+      ["Lin Xiaohua", "quest companion of x, messenger of x"], 
+      ["Hao Guimi", "friend of x, classmate of x"]
+    ],
+    "Hao Guimi": [
+      ["Wang Xuexi", "suspect to x, victim of x"], 
+      ["Zhang Eba", "romantic relationships with x, quest companion of x"], 
+      ["Li Xiaodi", "ex romantic relationships with x"], 
+      ["Lin Xiaohua", "fiancee of x, classmate of x"], 
+      ["Zhao Shuaige", "friend of x, classmate of x"]
+    ]
+}

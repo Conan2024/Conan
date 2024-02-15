@@ -1,0 +1,158 @@
+{
+    "Boss Yang": [
+        [
+            "First Mate Zhang",
+            "Acquaintance",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "Ship Doctor Ling",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "Employer of X",
+            "Master of X",
+            "Superior of X",
+            "Business Partner of X"
+        ],
+        [
+            "Worker Wang",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ]
+    ],
+    "First Mate Zhang": [
+        [
+            "Boss Yang",
+            "Acquaintance",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "Ship Doctor Ling",
+            "son-in-law",
+            "business partner"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "Superior of x",
+            "Business Partner of X",
+            "Co-conspirator in drug trafficking"
+        ],
+        [
+            "Worker Wang",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Ship Doctor Ling": [
+        [
+            "Boss Yang",
+            "Employee of X",
+            "Subordinate of X"
+        ],
+        [
+            "First Mate Zhang",
+            "daughter-in-law",
+            "colleague"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "Son-in-law",
+            "Informant of"
+        ],
+        [
+            "Worker Wang",
+            "Son-in-law",
+            "Friend"
+        ]
+    ],
+    "Shipyard Worker Wang": [
+        [
+            "Boss Yang",
+            "Employee of X",
+            "Subordinate of X",
+            "Helped by X",
+            "Manipulated by X"
+        ],
+        [
+            "First Mate Zhang",
+            "Subordinate of X",
+            "Employee of X",
+            "Co-conspirator in drug trafficking"
+        ],
+        [
+            "Ship Doctor Ling",
+            "Father-in-law",
+            "Acquaintance of"
+        ],
+        [
+            "Worker Wang",
+            "Son",
+            "Father",
+            "Informant of X",
+            "Adversary of X",
+            "Enemy of X",
+            "Rival of X",
+            "Superior of x",
+            "Employer of X",
+            "Master of X",
+            "Subordinate of X",
+            "Employee of X",
+            "servant of X",
+            "Colleague of X",
+            "Business Partner of X",
+            "Customer of X",
+            "Buyer of X",
+            "Tenant of X"
+        ]
+    ],
+    "Worker Wang": [
+        [
+            "Boss Yang",
+            "Employee of X",
+            "Subordinate of X"
+        ],
+        [
+            "First Mate Zhang",
+            "Father of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Student of X",
+            "Informant of X",
+            "Acquaintance of X",
+            "Colleague of X",
+            "Business Partner of X",
+            "Customer of X"
+        ],
+        [
+            "Ship Doctor Ling",
+            "Father-in-law",
+            "Friend"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "Son",
+            "Father",
+            "Informant of X",
+            "Adversary of X",
+            "Enemy of X",
+            "Rival of X",
+            "Superior of x",
+            "Employer of X",
+            "Master of X",
+            "Subordinate of X",
+            "Employee of X",
+            "servant of X",
+            "Colleague of X",
+            "Business Partner of X",
+            "Customer of X",
+            "Buyer of X",
+            "Tenant of X"
+        ]
+    ]
+}

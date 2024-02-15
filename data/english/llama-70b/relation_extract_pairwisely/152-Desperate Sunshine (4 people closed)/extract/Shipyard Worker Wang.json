@@ -1,0 +1,213 @@
+{
+    "Shipyard Worker Wang": [
+        [
+            "First Mate Zhang",
+            "Friend",
+            "Business Partner",
+            "Co-worker"
+        ],
+        [
+            "Ship Doctor Ling",
+            "Father-in-law",
+            "Secret Partner"
+        ],
+        [
+            "Boss Yang",
+            "Friend",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "Naive Hen",
+            "Friend",
+            "Acquaintance",
+            "Informant",
+            "Helped by"
+        ],
+        [
+            "Worker Wang",
+            "Son",
+            "Father",
+            "Informant of X",
+            "Adversary of X",
+            "Enemy of X",
+            "Rival of X",
+            "Superior of x",
+            "Employer of X",
+            "Master of X",
+            "Subordinate of X",
+            "Employee of X",
+            "servant of X",
+            "Colleague of X",
+            "Business Partner of X",
+            "Customer of X",
+            "Buyer of X",
+            "Tenant of X"
+        ]
+    ],
+    "First Mate Zhang": [
+        [
+            "Shipyard Worker Wang",
+            "Friend",
+            "Business Partner",
+            "Co-worker"
+        ],
+        [
+            "Ship Doctor Ling",
+            "son-in-law",
+            "business partner"
+        ],
+        [
+            "Boss Yang",
+            "Acquaintance",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "Naive Hen",
+            "Friend",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "Worker Wang",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Ship Doctor Ling": [
+        [
+            "Shipyard Worker Wang",
+            "Son-in-law",
+            "Acquaintance"
+        ],
+        [
+            "First Mate Zhang",
+            "daughter-in-law",
+            "colleague"
+        ],
+        [
+            "Boss Yang",
+            "friend"
+        ],
+        [
+            "Naive Hen",
+            "Daughter-in-law",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Worker Wang",
+            "Son-in-law",
+            "Friend"
+        ]
+    ],
+    "Boss Yang": [
+        [
+            "Shipyard Worker Wang",
+            "Friend",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "First Mate Zhang",
+            "Acquaintance",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "Ship Doctor Ling",
+            "acquaintance"
+        ],
+        [
+            "Naive Hen",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ],
+        [
+            "Worker Wang",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ]
+    ],
+    "Naive Hen": [
+        [
+            "Shipyard Worker Wang",
+            "Friend",
+            "Acquaintance",
+            "Informant",
+            "Helped by"
+        ],
+        [
+            "First Mate Zhang",
+            "Friend",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "Ship Doctor Ling",
+            "Same person as X (different reference)",
+            "Friend of X"
+        ],
+        [
+            "Boss Yang",
+            "Informant of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Worker Wang",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Worker Wang": [
+        [
+            "Shipyard Worker Wang",
+            "Son",
+            "Father",
+            "Informant of X",
+            "Adversary of X",
+            "Enemy of X",
+            "Rival of X",
+            "Superior of x",
+            "Employer of X",
+            "Master of X",
+            "Subordinate of X",
+            "Employee of X",
+            "servant of X",
+            "Colleague of X",
+            "Business Partner of X",
+            "Customer of X",
+            "Buyer of X",
+            "Tenant of X"
+        ],
+        [
+            "First Mate Zhang",
+            "Father of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Student of X",
+            "Informant of X",
+            "Acquaintance of X",
+            "Colleague of X",
+            "Business Partner of X",
+            "Customer of X"
+        ],
+        [
+            "Ship Doctor Ling",
+            "Father-in-law",
+            "Friend"
+        ],
+        [
+            "Boss Yang",
+            "Employee of X",
+            "Subordinate of X"
+        ],
+        [
+            "Naive Hen",
+            "Father of X",
+            "Mentor of X"
+        ]
+    ]
+}

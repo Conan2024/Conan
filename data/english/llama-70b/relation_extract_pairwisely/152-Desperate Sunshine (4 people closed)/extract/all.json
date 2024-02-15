@@ -1,0 +1,507 @@
+{
+    "Naive Hen": [
+        [
+            "Boss Yang",
+            "friend",
+            "business partner"
+        ],
+        [
+            "Ship Doctor Ling",
+            "Brother",
+            "Friend"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "Brother",
+            "Friend"
+        ],
+        [
+            "Secretary Wen",
+            "Brother",
+            "Friend"
+        ],
+        [
+            "First Mate Zhang",
+            "Brother",
+            "Friend"
+        ],
+        [
+            "Shipyard Worker Wang's wife",
+            "brother-in-law"
+        ],
+        [
+            "Shipyard Worker Wang's son",
+            "brother"
+        ],
+        [
+            "Worker Wang's son",
+            "Brother",
+            "Friend"
+        ],
+        [
+            "Worker Wang",
+            "Brother",
+            "Friend"
+        ],
+        [
+            "Boss Yang",
+            "First Mate Zhang"
+        ]
+    ],
+    "Boss Yang": [
+        [
+            "Naive Hen",
+            "friend",
+            "business partner"
+        ],
+        [
+            "Ship Doctor Ling",
+            "Employee",
+            "Drug Trafficker",
+            "Victim"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "Secretary Wen",
+            "Ship Doctor Ling",
+            "First Mate Zhang",
+            "Naive Hen",
+            "Superior",
+            "Employer",
+            "Master",
+            "Subordinate",
+            "Perpetrator",
+            "Victim"
+        ],
+        [
+            "Secretary Wen",
+            "Extramarital Affair"
+        ],
+        [
+            "First Mate Zhang",
+            "Master",
+            "Employer",
+            "Business Partner",
+            "Drug transaction partner"
+        ],
+        [
+            "Shipyard Worker Wang's wife",
+            "Secretary Wen",
+            "Naive Hen"
+        ],
+        [
+            "Shipyard Worker Wang's son",
+            "Employee of X",
+            "Business Partner of X"
+        ],
+        [
+            "Worker Wang's son",
+            "relation 1",
+            "relation 2"
+        ],
+        [
+            "Worker Wang",
+            "Ship Doctor Ling",
+            "Shipyard Worker Wang's son",
+            "Secretary Wen",
+            "First Mate Zhang",
+            "Naive Hen"
+        ]
+    ],
+    "Ship Doctor Ling": [
+        [
+            "Naive Hen",
+            "Shipyard Worker Wang",
+            "Informant"
+        ],
+        [
+            "Boss Yang",
+            "Undercover",
+            "Informant",
+            "Co-conspirator"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "Acquaintance",
+            "Undercover"
+        ],
+        [
+            "Secretary Wen",
+            "Friend",
+            "Co-worker"
+        ],
+        [
+            "First Mate Zhang",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect"
+        ],
+        [
+            "Shipyard Worker Wang's wife",
+            "Friend",
+            "Informant"
+        ],
+        [
+            "Shipyard Worker Wang's son",
+            "Relationship 1: Ship Doctor Ling is undercover as Worker Wang's girlfriend to keep an eye on him for First Mate Zhang",
+            "Relationship 2: Ship Doctor Ling is Worker Wang's girlfriend and is loyal to First Mate Zhang"
+        ],
+        [
+            "Worker Wang's son",
+            "Relationship 1: Ship Doctor Ling is the undercover agent of First Mate Zhang, and her relationship with Worker Wang's son is that of a monitor and a monitored person.",
+            "Relationship 2: Ship Doctor Ling is the love interest of Worker Wang's son, and their relationship is that of a secret romance."
+        ],
+        [
+            "Worker Wang",
+            "relationship 1: Ship Doctor Ling is Worker Wang's girlfriend",
+            "relationship 2: Ship Doctor Ling is an undercover agent working for First Mate Zhang"
+        ]
+    ],
+    "Shipyard Worker Wang": [
+        [
+            "Naive Hen",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Boss Yang",
+            "Ship Doctor Ling",
+            "First Mate Zhang",
+            "Naive Hen",
+            "Superior",
+            "Employer",
+            "Master",
+            "Subordinate",
+            "Perpetrator",
+            "Victim"
+        ],
+        [
+            "Ship Doctor Ling",
+            "Friend",
+            "Co-worker"
+        ],
+        [
+            "Secretary Wen",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "First Mate Zhang",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Shipyard Worker Wang's wife",
+            "friend, colleague"
+        ],
+        [
+            "Shipyard Worker Wang's son",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Worker Wang's son",
+            "Acquaintance",
+            "Co-worker"
+        ],
+        [
+            "Worker Wang",
+            "relation 1",
+            "relation 2"
+        ]
+    ],
+    "Secretary Wen": [
+        [
+            "Naive Hen",
+            "Boss Yang",
+            "Colleague"
+        ],
+        [
+            "Boss Yang",
+            "Extramarital Affair"
+        ],
+        [
+            "Boss Yang"
+        ],
+        [
+            "Ship Doctor Ling",
+            "Friend",
+            "Co-worker"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "First Mate Zhang",
+            "Business Partner",
+            "Co-worker"
+        ],
+        [
+            "Shipyard Worker Wang's wife",
+            "Colleague",
+            "Business Partner"
+        ],
+        [
+            "Shipyard Worker Wang's son",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "Worker Wang's son",
+            "Relationship 1: Secretary Wen is the assistant of Worker Wang's son's boss, Boss Yang. She is loyal to Boss Yang and helps him with his illegal drug transactions.",
+            "Relationship 2: Secretary Wen is the person who Secretary Wen is in contact with the most on the ship, and they have a close relationship."
+        ],
+        [
+            "Worker Wang",
+            "Superior-subordinate relationship",
+            "Drug trade accomplice"
+        ]
+    ],
+    "First Mate Zhang": [
+        [
+            "Naive Hen",
+            "Brother",
+            "Business Partner"
+        ],
+        [
+            "Boss Yang",
+            "Subordinate",
+            "Brother",
+            "Drug transaction partner",
+            "Accomplice"
+        ],
+        [
+            "Ship Doctor Ling",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "Employer",
+            "Mentor"
+        ],
+        [
+            "Secretary Wen",
+            "Business Partner",
+            "Co-worker"
+        ],
+        [
+            "Shipyard Worker Wang's wife",
+            "Business Partner of X",
+            "Co-conspirator in illegal drug transactions"
+        ],
+        [
+            "Shipyard Worker Wang's son",
+            "Employee of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Worker Wang's son",
+            "Relationship 1: Superior-Subordinate",
+            "Relationship 2: Drug Trafficking Accomplice"
+        ],
+        [
+            "Worker Wang",
+            "Ship Doctor Ling",
+            "Boss Yang",
+            "Naive Hen",
+            "Secretary Wen",
+            "relationship 1",
+            "relationship 2"
+        ]
+    ],
+    "Shipyard Worker Wang's wife": [
+        [
+            "Naive Hen",
+            "sister-in-law"
+        ],
+        [
+            "Boss Yang",
+            "Ship Doctor Ling"
+        ],
+        [
+            "Ship Doctor Ling",
+            "Friend",
+            "Informant"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "wife, acquaintance"
+        ],
+        [
+            "Secretary Wen",
+            "Colleague",
+            "Business Partner"
+        ],
+        [
+            "First Mate Zhang",
+            "Business Partner of X",
+            "Co-conspirator in illegal drug transactions"
+        ],
+        [
+            "Shipyard Worker Wang's son",
+            "Friend of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Worker Wang's son",
+            "Mother-in-law",
+            "Co-wife"
+        ],
+        [
+            "Worker Wang",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect"
+        ]
+    ],
+    "Shipyard Worker Wang's son": [
+        [
+            "Naive Hen",
+            "son",
+            "colleague"
+        ],
+        [
+            "Boss Yang",
+            "Father of X",
+            "Co-worker of X"
+        ],
+        [
+            "Ship Doctor Ling",
+            "Relationship 1: Worker Wang's son is Ship Doctor Ling's boyfriend and is loyal to First Mate Zhang",
+            "Relationship 2: Worker Wang's son is Ship Doctor Ling's boyfriend and is being monitored by her for First Mate Zhang"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "Son",
+            "Employee"
+        ],
+        [
+            "Secretary Wen",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "First Mate Zhang",
+            "Employee of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Shipyard Worker Wang's wife",
+            "Son of X",
+            "Friend of X"
+        ],
+        [
+            "Worker Wang's son",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Worker Wang",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect"
+        ]
+    ],
+    "Worker Wang's son": [
+        [
+            "Naive Hen",
+            "Son",
+            "Friend"
+        ],
+        [
+            "Boss Yang",
+            "relation 1",
+            "relation 2"
+        ],
+        [
+            "Ship Doctor Ling",
+            "Relationship 1: Worker Wang's son is the person that Ship Doctor Ling is monitoring, and their relationship is that of a monitor and a monitored person.",
+            "Relationship 2: Worker Wang's son is the love interest of Ship Doctor Ling, and their relationship is that of a secret romance."
+        ],
+        [
+            "Shipyard Worker Wang",
+            "Son",
+            "Acquaintance"
+        ],
+        [
+            "Secretary Wen",
+            "Relationship 1: Worker Wang's son is the son of Shipyard Worker Wang, who is a subordinate of Boss Yang and a friend of Secretary Wen.",
+            "Relationship 2: Worker Wang's son is the person who Ship Doctor Ling, a person close to Secretary Wen, is in love with."
+        ],
+        [
+            "First Mate Zhang",
+            "Relationship 1: Subordinate",
+            "Relationship 2: Drug Trafficking Accomplice"
+        ],
+        [
+            "Shipyard Worker Wang's wife",
+            "Father-in-law",
+            "Son-in-law"
+        ],
+        [
+            "Shipyard Worker Wang's son",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Worker Wang",
+            "Ship Doctor Ling",
+            "relationship 1 (father-son)",
+            "relationship 2 (acquaintance)"
+        ]
+    ],
+    "Worker Wang": [
+        [
+            "Naive Hen",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Boss Yang",
+            "Ship Doctor Ling",
+            "Shipyard Worker Wang's son",
+            "First Mate Zhang",
+            "Naive Hen"
+        ],
+        [
+            "Ship Doctor Ling",
+            "relationship 1: Worker Wang is Ship Doctor Ling's boyfriend",
+            "relationship 2: Worker Wang is a suspect in the murder of Boss Yang"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "relation 1",
+            "relation 2"
+        ],
+        [
+            "Secretary Wen",
+            "Superior-subordinate relationship",
+            "Drug trade accomplice"
+        ],
+        [
+            "First Mate Zhang",
+            "Ship Doctor Ling",
+            "Boss Yang",
+            "Naive Hen",
+            "Secretary Wen",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Shipyard Worker Wang's wife",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect"
+        ],
+        [
+            "Shipyard Worker Wang's son",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect"
+        ],
+        [
+            "Worker Wang's son",
+            "Ship Doctor Ling",
+            "relationship 1 (father-son)",
+            "relationship 2 (acquaintance)"
+        ]
+    ]
+}

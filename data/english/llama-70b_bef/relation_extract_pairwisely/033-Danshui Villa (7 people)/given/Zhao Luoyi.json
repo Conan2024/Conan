@@ -1,0 +1,57 @@
+{
+    "Feng Shuangji": [
+      ["Feng Zhu", "acquaintance of x, classmate of x"], 
+      ["Qi Yue", "friend of x, classmate of x"], 
+      ["Yin Shaoming", "acquaintance of x"], 
+      ["Zhao Luoyi", "friend of x"], 
+      ["Zhao Wanlei", "daughter of x"], 
+      ["Zhao Wei", "sibling of x, friend of x"]
+    ],
+    "Feng Zhu": [
+      ["Feng Shuangji", "acquaintance of x, classmate of x"], 
+      ["Qi Yue", "acquaintance of x"], 
+      ["Yin Shaoming", "acquaintance of x, suspect of x"], 
+      ["Zhao Luoyi", "friend of x, acquaintance of x"], 
+      ["Zhao Qiuer", "mentor of x"], 
+      ["Zhao Wei", "acquaintance of x, suspicious of x, dislike of x"]
+    ],
+    "Qi Yue": [
+      ["Feng Shuangji", "friend of x, classmate of x"], 
+      ["Feng Zhu", "acquaintance of x"], 
+      ["Yin Shaoming", "friend of x"], 
+      ["Zhao Luoyi", "acquaintance of x"], 
+      ["Zhao Wei", "friend of x, classmate of x"]
+    ],
+    "Yin Shaoming": [
+      ["Feng Shuangji", "acquaintance of x"], 
+      ["Feng Zhu", "acquaintance of x, suspect of x"], 
+      ["Qi Yue", "friend of x"], 
+      ["Zhao Luoyi", "friend of x"], 
+      ["Zhao Wanlei", "acquaintance of x"], 
+      ["Zhao Wei", "friend of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Feng Shuangji", "friend of x"], 
+      ["Feng Zhu", "friend of x, acquaintance of x"], 
+      ["Qi Yue", "acquaintance of x"], 
+      ["Yin Shaoming", "friend of x"]
+    ],
+    "Zhao Qiuer": [
+      ["Zhao Wanlei", "father of x"], 
+      ["Zhao Wei", "sister of x, brother of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Feng Shuangji", "father of x"], 
+      ["Yin Shaoming", "acquaintance of x"], 
+      ["Zhao Qiuer", "daughter of x"], 
+      ["Zhao Wei", "father of x"]
+    ],
+    "Zhao Wei": [
+      ["Feng Shuangji", "sibling of x, friend of x"], 
+      ["Feng Zhu", "acquaintance of x, suspicious of x, dislike of x"], 
+      ["Qi Yue", "friend of x, classmate of x"], 
+      ["Yin Shaoming", "friend of x"], 
+      ["Zhao Qiuer", "sister of x, brother of x"], 
+      ["Zhao Wanlei", "brother of x, son of x"]
+    ]
+}

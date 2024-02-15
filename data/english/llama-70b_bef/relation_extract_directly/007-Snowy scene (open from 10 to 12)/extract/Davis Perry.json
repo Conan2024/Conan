@@ -1,0 +1,58 @@
+{
+    "Davis Perry": [
+      ["Marina Harrison", "same person as x (different reference), romantic relationships with x"], 
+      ["Daniel Perry", "same person as x (different identity), brother of x"], 
+      ["Jacqueline Perry", "dislike of x"], 
+      ["Lucy Harrison", "same person as x (different reference), colleague of x"], 
+      ["Harold Harrison", "same person as x (different reference), uncle of x"], 
+      ["Amy Morgan", "same person as x (different reference), sister in law of x"]
+    ],
+    "Marina Harrison": [
+      ["Davis Perry", "same person as x (different reference), romantic relationships with x"], 
+      ["Daniel Perry", "same person as x (different identity), husband of x"], 
+      ["Jacqueline Perry", "dislike of x"], 
+      ["Lucy Harrison", "same person as x (different reference), daughter of x"], 
+      ["Harold Harrison", "same person as x (different reference), father of x"], 
+      ["Amy Morgan", "same person as x (different reference), sister in law of x"]
+    ],
+    "Daniel Perry": [
+      ["Davis Perry", "same person as x (different reference), brother of x"], 
+      ["Marina Harrison", "same person as x (different reference), wife of x"], 
+      ["Jacqueline Perry", "dislike of x"], 
+      ["Lucy Harrison", "same person as x (different reference), daughter of x"], 
+      ["Harold Harrison", "same person as x (different reference), father of x"], 
+      ["Amy Morgan", "same person as x (different reference), sister in law of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Davis Perry", "dislike of x"], 
+      ["Marina Harrison", "dislike of x"], 
+      ["Daniel Perry", "same person as x (different reference), husband of x"], 
+      ["Lucy Harrison", "same person as x (different reference), daughter of x"], 
+      ["Harold Harrison", "same person as x (different reference), father of x"], 
+      ["Amy Morgan", "same person as x (different reference), sister in law of x"]
+    ],
+    "Lucy Harrison": [
+      ["Davis Perry", "same person as x (different reference), colleague of x"], 
+      ["Marina Harrison", "same person as x (different reference), mother of x"], 
+      ["Daniel Perry", "same person as x (different reference), father of x"], 
+      ["Jacqueline Perry", "dislike of x"], 
+      ["Harold Harrison", "same person as x (different reference), uncle of x"], 
+      ["Amy Morgan", "same person as x (different reference), aunt of x"]
+    ],
+    "Harold Harrison": [
+      ["Davis Perry", "same person as x (different reference), uncle of x"], 
+      ["Marina Harrison", "same person as x (different reference), aunt of x"], 
+      ["Daniel Perry", "same person as x (different reference), father of x"], 
+      ["Jacqueline Perry", "dislike of x"], 
+      ["Lucy Harrison", "same person as x (different reference), cousin of x"], 
+      ["Amy Morgan", "same person as x (different reference), sister of x"]
+    ],
+    "Amy Morgan": [
+      ["Davis Perry", "same person as x (different reference), sister in law of x"], 
+      ["Marina Harrison", "same person as x (different reference), sister in law of x"], 
+      ["Daniel Perry", "same person as x (different reference), brother in law of x"], 
+      ["Jacqueline Perry", "dislike of x"], 
+      ["Lucy Harrison", "same person as x (different reference), cousin of x"], 
+      ["Harold Harrison", "same person as x (different reference), brother of x"]
+    ]
+}

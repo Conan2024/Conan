@@ -1,0 +1,84 @@
+{
+    "Zhu Li": [
+      ["Mrs. Zhang", "wife of x"], 
+      ["Ge Jixian", "business partner of x, friend of x, mentor of x"], 
+      ["Lü Songnian", "wife of x"], 
+      ["Lü Lusheng", "wife of x, mother of x"], 
+      ["Yu Yancheng", "employee of x, secret lover of x"]
+    ],
+    "Mrs. Zhang": [
+      ["Zhu Li", "husband of x, fondness of x"], 
+      ["Zhi Jun", "wife of x"], 
+      ["Ge Jixian", "friend of x"], 
+      ["Ge Yueluo", "wife of x"], 
+      ["Ge Yueman", "friend of x, mentor of x, acquaintance of x"], 
+      ["Yu Yancheng", "wife of x, romantic relationships with x"], 
+      ["Yu Shangyong", "wife of x"], 
+      ["Lü Lusheng", "mother of x"]
+    ],
+    "Zhi Jun": [
+      ["Mrs. Zhang", "husband of x"], 
+      ["Ge Jixian", "friend of x, mentor of x, secret lover of x"], 
+      ["Ge Yueman", "mentor of x, student of x"], 
+      ["Lü Songnian", "acquaintance of x, friend of x, messenger of x"], 
+      ["Yu Shangyong", "friend of x, mentor of x, lover of x, father of x"]
+    ],
+    "Ge Jixian": [
+      ["Zhu Li", "business partner of x, friend of x"], 
+      ["Mrs. Zhang", "friend of x"], 
+      ["Zhi Jun", "friend of x, student of x, secret lover of x"], 
+      ["Ge Yueluo", "father of x"], 
+      ["Lü Songnian", "friend of x, wife of x, mother of x"], 
+      ["Lü Lusheng", "friend of x, mentor of x, informant of x, enemy of x"], 
+      ["Yu Yancheng", "friend of x, patient of x"], 
+      ["Yu Shangyong", "husband of x, father of x"]
+    ],
+    "Ge Yueluo": [
+      ["Mrs. Zhang", "husband of x"], 
+      ["Ge Jixian", "daughter of x"], 
+      ["Lü Songnian", "fiancee of x"], 
+      ["Yu Yancheng", "friend of x, fondness of x"], 
+      ["Yu Shangyong", "husband of x, employer of x"]
+    ],
+    "Ge Yueman": [
+      ["Mrs. Zhang", "friend of x, mentor of x, acquaintance of x"], 
+      ["Zhi Jun", "student of x, mentor of x, acquaintance of x, teacher of x, schoolmate of x"], 
+      ["Ge Jixian", "friend of x"], 
+      ["Lü Songnian", "fiance of x"], 
+      ["Yu Shangyong", "romantic relationships with x, mother of x"]
+    ],
+    "Lü Songnian": [
+      ["Zhu Li", "husband of x"], 
+      ["Zhi Jun", "acquaintance of x, friend of x"], 
+      ["Ge Jixian", "friend of x, husband of x, father of x"], 
+      ["Ge Yueluo", "fiance of x"], 
+      ["Ge Yueman", "fiancee of x"], 
+      ["Lü Lusheng", "father of x"], 
+      ["Yu Yancheng", "informant of x, fondness of x"], 
+      ["Yu Shangyong", "mentor of x"]
+    ],
+    "Lü Lusheng": [
+      ["Zhu Li", "husband of x, father of x"], 
+      ["Ge Jixian", "friend of x, informant of x, helper of x, enemy of x"], 
+      ["Lü Songnian", "son of x"], 
+      ["Yu Shangyong", "friend of x, mentor of x"]
+    ],
+    "Yu Yancheng": [
+      ["Zhu Li", "employer of x, secret lover of x"], 
+      ["Mrs. Zhang", "husband of x, romantic relationships with x"], 
+      ["Ge Jixian", "friend of x, doctor of x"], 
+      ["Ge Yueluo", "friend of x, fondness of x"], 
+      ["Lü Songnian", "mentor of x, liked by x"], 
+      ["Yu Shangyong", "brother of x, husband of x"]
+    ],
+    "Yu Shangyong": [
+      ["Mrs. Zhang", "husband of x"], 
+      ["Zhi Jun", "friend of x, student of x, lover of x, son of x"], 
+      ["Ge Jixian", "wife of x, mother of x"], 
+      ["Ge Yueluo", "wife of x, employee of x"], 
+      ["Ge Yueman", "romantic relationships with x, son of x"], 
+      ["Lü Songnian", "student of x"], 
+      ["Lü Lusheng", "friend of x, student of x"], 
+      ["Yu Yancheng", "brother of x, ex boyfriend of x, wife of x"]
+    ]
+}

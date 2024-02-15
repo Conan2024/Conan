@@ -1,0 +1,60 @@
+{
+    "Li Cheng": [
+        [
+            "Zhao Zhongzheng",
+            "employer of x"
+        ],
+        [
+            "Zhao Zhongyang",
+            "mentor of x, admirer of x"
+        ],
+        [
+            "Zhang Wei",
+            "colleague of x"
+        ],
+        [
+            "Chen Meier",
+            "acquaintance of x"
+        ]
+    ],
+    "Zhao Zhongzheng": [
+        [
+            "Li Cheng",
+            "employee of x"
+        ]
+    ],
+    "Zhao Zhongyang": [
+        [
+            "Li Cheng",
+            "student of x"
+        ],
+        [
+            "Chen Meier",
+            "acquaintance of x"
+        ],
+        [
+            "Zhang Wei",
+            "colleague of x"
+        ]
+    ],
+    "Chen Meier": [
+        [
+            "Zhao Zhongyang",
+            "acquaintance of x"
+        ],
+        [
+            "Li Cheng",
+            "acquaintance of x"
+        ]
+    ],
+    "Zhang Wei": [
+        [
+            "Li Cheng",
+            "colleague of x"
+        ],
+        [
+            "Zhao Zhongyang",
+            "colleague of x"
+        ]
+    ]
+}

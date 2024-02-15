@@ -1,0 +1,60 @@
+{
+    "Liao Gongzi": [
+      ["Hong Er", "friend of x, debtor of x"], 
+      ["Liao Xuehan", "son of x, lover of x"], 
+      ["Dr. Zhang", "friend of x, husband of x"], 
+      ["Julie", "friend of x"], 
+      ["Tan Renchang", "friend of x, business partner of x"], 
+      ["Lv Mingran", "business partner of x, sibling of x"], 
+      ["Tan Shangzhi", "friend of x, business partner of x"]
+    ],
+    "Cheng Ge": [
+      ["Tan Renchang", "father of x, friend of x"], 
+      ["Liao Xuehan", "friend of x, acquaintance of x"], 
+      ["Lv Mingran", "friend of x, sibling of x"], 
+      ["Hong Er", "acquaintance of x"]
+    ],
+    "Dr. Zhang": [
+      ["Julie", "husband of x, lover of x"], 
+      ["Liao Xuehan", "friend of x, lover of x"], 
+      ["Hong Er", "acquaintance of x"]
+    ],
+    "Hai You": [
+      ["Liao Xuehan", "friend of x, acquaintance of x"], 
+      ["Julie", "acquaintance of x"], 
+      ["Hong Er", "acquaintance of x"]
+    ],
+    "Julie": [
+      ["Liao Xuehan", "lover of x, friend of x"], 
+      ["Dr. Zhang", "husband of x, lover of x"], 
+      ["Hai You", "acquaintance of x"], 
+      ["Hong Er", "acquaintance of x"]
+    ],
+    "Luo Hengli": [
+      ["Liao Gongzi", "business partner of x, debtor of x"], 
+      ["Lv Mingran", "sibling of x, business partner of x"], 
+      ["Hong Er", "acquaintance of x"]
+    ],
+    "Lv Mingran": [
+      ["Luo Hengli", "sibling of x, business partner of x"], 
+      ["Liao Gongzi", "business partner of x, debtor of x"], 
+      ["Hong Er", "acquaintance of x"]
+    ],
+    "Tan Renchang": [
+      ["Liao Gongzi", "friend of x, business partner of x"], 
+      ["Tan Shangzhi", "friend of x, business partner of x"], 
+      ["Cheng Ge", "father of x, friend of x"]
+    ],
+    "Tan Shangzhi": [
+      ["Tan Renchang", "friend of x, business partner of x"], 
+      ["Liao Gongzi", "friend of x, business partner of x"], 
+      ["Cheng Ge", "friend of x, father of x"]
+    ],
+    "Hong Er": [
+      ["Liao Gongzi", "friend of x, debtor of x"], 
+      ["Liao Xuehan", "lover of x, friend of x"], 
+      ["Dr. Zhang", "acquaintance of x"], 
+      ["Julie", "acquaintance of x"], 
+      ["Tan Renchang", "acquaintance of x"]
+    ]
+}

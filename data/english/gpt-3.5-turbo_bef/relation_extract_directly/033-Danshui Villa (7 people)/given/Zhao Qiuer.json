@@ -1,0 +1,24 @@
+{
+    "Zhao Qiuer": [
+      ["Zhao Luoyi", "servant of x, friend of x"], 
+      ["Zhao Wanlei", "attempted perpetrator of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Zhao Qiuer", "employer of x, mentor of x, friend of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Zhao Qiuer", "attempted perpetrator of x"], 
+      ["Feng Shuangji", "colleague of x"], 
+      ["Qi Yue", "colleague of x, friend of x"]
+    ],
+    "Feng Shuangji": [
+      ["Zhao Qiuer", "superior of x"], 
+      ["Zhao Wanlei", "colleague of x"], 
+      ["Qi Yue", "colleague of x"]
+    ],
+    "Qi Yue": [
+      ["Zhao Qiuer", "superior of x"], 
+      ["Zhao Luoyi", "colleague of x, friend of x"], 
+      ["Zhao Wanlei", "colleague of x, friend of x"]
+    ]
+}

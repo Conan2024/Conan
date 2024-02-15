@@ -1,0 +1,402 @@
+{
+    "Madam Li or Li family": [
+        [
+            "Fang Xu",
+            "mother of Fang Xu"
+        ],
+        [
+            "Fang Zhu",
+            "romantic relationship with x"
+        ],
+        [
+            "Fang Ye",
+            "sibling of x"
+        ],
+        [
+            "Fang Mian",
+            "romantic relationships with x",
+            "fiance of x"
+        ],
+        [
+            "Adopted boy",
+            "mother-son relationship",
+            "guardian of Adopted boy"
+        ],
+        [
+            "Li Qinren",
+            "wife of x"
+        ],
+        [
+            "Li Zhong",
+            "mother of Li Zhong"
+        ],
+        [
+            "Li Yan",
+            "mother of Li Yan"
+        ],
+        [
+            "Chen Qian",
+            "romantic relationships with x"
+        ]
+    ],
+    "Fang Xu": [
+        [
+            "Madam Li or Li family",
+            "child of Madam Li or Li family"
+        ],
+        [
+            "Fang Zhu",
+            "lover of x, friend of x"
+        ],
+        [
+            "Fang Ye",
+            "brother of"
+        ],
+        [
+            "Fang Mian",
+            "sibling of x"
+        ],
+        [
+            "Adopted boy",
+            "friend of x, romantic relationship with x"
+        ],
+        [
+            "Li Qinren",
+            "lover of x"
+        ],
+        [
+            "Li Zhong",
+            "mother of Li Zhong",
+            "parent-child relationship"
+        ],
+        [
+            "Li Yan",
+            "mother of Li Yan"
+        ],
+        [
+            "Chen Qian",
+            "romantic relationships with x"
+        ]
+    ],
+    "Fang Zhu": [
+        [
+            "Madam Li or Li family",
+            "romantic relationship with x"
+        ],
+        [
+            "Fang Xu",
+            "lover of x, friend of x"
+        ],
+        [
+            "Fang Ye",
+            "brother of x",
+            "friend of x"
+        ],
+        [
+            "Fang Mian",
+            "sibling of"
+        ],
+        [
+            "Adopted boy",
+            "fiance of x"
+        ],
+        [
+            "Li Qinren",
+            "mother in law of x"
+        ],
+        [
+            "Li Zhong",
+            "mother of Li Zhong"
+        ],
+        [
+            "Li Yan",
+            "mother of Li Yan",
+            "personal relationship"
+        ],
+        [
+            "Chen Qian",
+            "husband of x"
+        ]
+    ],
+    "Fang Ye": [
+        [
+            "Madam Li or Li family",
+            "sibling of x"
+        ],
+        [
+            "Fang Xu",
+            "brother of"
+        ],
+        [
+            "Fang Zhu",
+            "brother of x",
+            "friend of x"
+        ],
+        [
+            "Fang Mian",
+            "sibling of x"
+        ],
+        [
+            "Adopted boy",
+            "brother"
+        ],
+        [
+            "Li Qinren",
+            "romantic relationships with x"
+        ],
+        [
+            "Li Zhong",
+            "brother of"
+        ],
+        [
+            "Li Yan",
+            "brother of x"
+        ],
+        [
+            "Chen Qian",
+            "romantic relationships with Chen Qian",
+            "ex-romantic relationships with Chen Qian"
+        ]
+    ],
+    "Fang Mian": [
+        [
+            "Madam Li or Li family",
+            "romantic relationships with x",
+            "fiancee of x"
+        ],
+        [
+            "Fang Xu",
+            "sibling of x"
+        ],
+        [
+            "Fang Zhu",
+            "sibling of"
+        ],
+        [
+            "Fang Ye",
+            "sibling of x"
+        ],
+        [
+            "Adopted boy",
+            "sibling of x"
+        ],
+        [
+            "Li Qinren",
+            "romantic relationships with x"
+        ],
+        [
+            "Li Zhong",
+            "brother"
+        ],
+        [
+            "Li Yan",
+            "sibling of x"
+        ],
+        [
+            "Chen Qian",
+            "sibling of x"
+        ]
+    ],
+    "Adopted boy": [
+        [
+            "Madam Li or Li family",
+            "brother relationship",
+            "ward of Madam Li or Li family"
+        ],
+        [
+            "Fang Xu",
+            "friend of x, romantic relationship with x"
+        ],
+        [
+            "Fang Zhu",
+            "fiancee of x"
+        ],
+        [
+            "Fang Ye",
+            "sibling"
+        ],
+        [
+            "Fang Mian",
+            "sibling of x"
+        ],
+        [
+            "Li Qinren",
+            "fiance of x",
+            "lover of x"
+        ],
+        [
+            "Li Zhong",
+            "child of x",
+            "sibling of x"
+        ],
+        [
+            "Li Yan",
+            "adopted son of"
+        ],
+        [
+            "Chen Qian",
+            "romantic relationships with x",
+            "fondness of x"
+        ]
+    ],
+    "Li Qinren": [
+        [
+            "Madam Li or Li family",
+            "husband of x"
+        ],
+        [
+            "Fang Xu",
+            "lover of x"
+        ],
+        [
+            "Fang Zhu",
+            "fiance of x"
+        ],
+        [
+            "Fang Ye",
+            "romantic relationships with x"
+        ],
+        [
+            "Fang Mian",
+            "romantic relationships with x"
+        ],
+        [
+            "Adopted boy",
+            "fiancee of x",
+            "lover of x"
+        ],
+        [
+            "Li Zhong",
+            "mother of x",
+            "son of x"
+        ],
+        [
+            "Li Yan",
+            "father of Li Yan"
+        ],
+        [
+            "Chen Qian",
+            "husband of x"
+        ]
+    ],
+    "Li Zhong": [
+        [
+            "Madam Li or Li family",
+            "son of Madam Li or Li family"
+        ],
+        [
+            "Fang Xu",
+            "son of Fang Xu",
+            "parent-child relationship"
+        ],
+        [
+            "Fang Zhu",
+            "son of Fang Zhu"
+        ],
+        [
+            "Fang Ye",
+            "brother of"
+        ],
+        [
+            "Fang Mian",
+            "sister"
+        ],
+        [
+            "Adopted boy",
+            "brother of x",
+            "child of x"
+        ],
+        [
+            "Li Qinren",
+            "son of x",
+            "mother of x"
+        ],
+        [
+            "Li Yan",
+            "brother"
+        ],
+        [
+            "Chen Qian",
+            "romantic relationships with x"
+        ]
+    ],
+    "Li Yan": [
+        [
+            "Madam Li or Li family",
+            "son of Madam Li or Li Family"
+        ],
+        [
+            "Fang Xu",
+            "son of Fang Xu"
+        ],
+        [
+            "Fang Zhu",
+            "son of Fang Zhu",
+            "personal relationship"
+        ],
+        [
+            "Fang Ye",
+            "sister of x"
+        ],
+        [
+            "Fang Mian",
+            "sibling of x"
+        ],
+        [
+            "Adopted boy",
+            "adoptive mother of"
+        ],
+        [
+            "Li Qinren",
+            "son of Li Qinren"
+        ],
+        [
+            "Li Zhong",
+            "brother"
+        ],
+        [
+            "Chen Qian",
+            "lover of x"
+        ]
+    ],
+    "Chen Qian": [
+        [
+            "Madam Li or Li family",
+            "romantic relationships with x"
+        ],
+        [
+            "Fang Xu",
+            "romantic relationships with x"
+        ],
+        [
+            "Fang Zhu",
+            "wife of x"
+        ],
+        [
+            "Fang Ye",
+            "romantic relationships with Fang Ye",
+            "ex-romantic relationships with Fang Ye"
+        ],
+        [
+            "Fang Mian",
+            "sibling of x"
+        ],
+        [
+            "Adopted boy",
+            "romantic relationships with x",
+            "fondness of x"
+        ],
+        [
+            "Li Qinren",
+            "wife of x"
+        ],
+        [
+            "Li Zhong",
+            "romantic relationships with x"
+        ],
+        [
+            "Li Yan",
+            "lover of x"
+        ]
+    ]
+}

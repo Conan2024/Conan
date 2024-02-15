@@ -1,0 +1,38 @@
+{
+    "Chen Jingwen": [
+      ["Gu Yu", "lover of x, father of x child"], 
+      ["Lin Xi", "rival of x, love interest of x"], 
+      ["Shen Cheng", "acquaintance of x, housekeeper of x"], 
+      ["Zheng Xinmei", "mother of x, victim of x"]
+    ],
+    "Gu Yu": [
+      ["Chen Jingwen", "lover of x, mother of x child"], 
+      ["Lin Xi", "love interest of x, friend of x"], 
+      ["Shen Cheng", "acquaintance of x, housekeeper of x"], 
+      ["Lin Weiren", "father of x, deceased of x"]
+    ],
+    "Lin Xi": [
+      ["Gu Yu", "love interest of x, friend of x"], 
+      ["Chen Jingwen", "rival of x, love interest of x"], 
+      ["Shen Cheng", "acquaintance of x, housekeeper of x"], 
+      ["Lin Weiren", "father of x, deceased of x"]
+    ],
+    "Shen Cheng": [
+      ["Gu Yu", "acquaintance of x, housekeeper of x"], 
+      ["Chen Jingwen", "acquaintance of x, housekeeper of x"], 
+      ["Lin Xi", "acquaintance of x, housekeeper of x"], 
+      ["Lin Weiren", "employer of x, deceased of x"]
+    ],
+    "Zheng Xinmei": [
+      ["Chen Jingwen", "daughter of x, victim of x"], 
+      ["Gu Yu", "lover of x, father of x child"], 
+      ["Lin Xi", "friend of x, love interest of x"], 
+      ["Shen Cheng", "acquaintance of x, housekeeper of x"]
+    ],
+    "Lin Weiren": [
+      ["Gu Yu", "father of x, deceased of x"], 
+      ["Lin Xi", "daughter of x, victim of x"], 
+      ["Shen Cheng", "employee of x, housekeeper of x"], 
+      ["Chen Jingwen", "lover of x, mother of x child"]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "Yun Ling": [
+      ["Xu Boqing", "lover of x, friend of x, suspect of x"], 
+      ["Liao Yiqiao", "father of x, chairman of x jin chamber of x commerce, employer of x"], 
+      ["Tang Maoguang", "business partner of x, master of x, acquaintance of x"], 
+      ["Grandpa Ren", "housekeeper of x, guardian of x, neighbour of x"], 
+      ["Yao Zhongyi", "friend of x, brother in law of x, classmate of x"], 
+      ["Chen Junmeng", "sister in law of x, friend of x, schoolmate of x"], 
+      ["Uncle GUI", "uncle of x, doctor of x, suspicious of x"]
+    ],
+    "Xu Boqing": [
+      ["Yun Ling", "lover of x, friend of x, victim of x"], 
+      ["Liao Yiqiao", "business partner of x, chairman of x jin chamber of x commerce"], 
+      ["Tang Maoguang", "business partner of x, master of x"], 
+      ["Yao Zhongyi", "friend of x, brother in law of x"], 
+      ["Chen Junmeng", "sister in law of x, friend of x"]
+    ],
+    "Liao Yiqiao": [
+      ["Yun Ling", "daughter of x, chairman of x jin chamber of x commerce, employee of x"], 
+      ["Xu Boqing", "business partner of x, friend of x"], 
+      ["Tang Maoguang", "business partner of x, master of x"]
+    ],
+    "Tang Maoguang": [
+      ["Liao Yiqiao", "business partner of x, master of x"], 
+      ["Xu Boqing", "business partner of x, friend of x"]
+    ],
+    "Grandpa Ren": [
+      ["Yun Ling", "housekeeper of x, guardian of x"], 
+      ["Liao Yiqiao", "employee of x, chairman of x jin chamber of x commerce"]
+    ],
+    "Yao Zhongyi": [
+      ["Xu Boqing", "friend of x, brother in law of x"], 
+      ["Yun Ling", "friend of x, sister in law of x"], 
+      ["Chen Junmeng", "sister of x, friend of x"]
+    ],
+    "Chen Junmeng": [
+      ["Yao Zhongyi", "brother of x, friend of x"], 
+      ["Xu Boqing", "friend of x, brother in law of x"], 
+      ["Yun Ling", "friend of x, sister in law of x"]
+    ],
+    "Uncle GUI": [
+      ["Yao Zhongyi", "uncle of x, doctor of x"], 
+      ["Chen Junmeng", "uncle of x, doctor of x"]
+    ],
+    "Lady Hong": [
+      ["Yao Zhongyi", "wife of x, sister in law of x"], 
+      ["Chen Junmeng", "sister in law of x"]
+    ]
+}

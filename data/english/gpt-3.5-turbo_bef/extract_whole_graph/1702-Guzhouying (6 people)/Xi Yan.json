@@ -1,0 +1,64 @@
+{
+    "Xi Yan": [
+      ["Cui Shouheng", "husband of x"], 
+      ["Cui Rong", "sister of x"], 
+      ["Cui Shouheng", "brother in law of x"], 
+      ["Cui Yannan", "daughter of x"], 
+      ["Bao Liu", "sister of x"], 
+      ["Cui Lianyi", "son of x"], 
+      ["Zhou Chitong", "brother in law of x"], 
+      ["Cui Shouheng", "husband of x"]
+    ],
+    "Zhou Mengdang": [
+      ["Bao Liu", "wife of x"], 
+      ["Zhou Chitong", "brother of x"], 
+      ["Zhou Mengdang", "helper of x"], 
+      ["Cui Shouheng", "enemy of x"]
+    ],
+    "Cui Shouheng": [
+      ["Xi Yan", "husband of x"], 
+      ["Cui Rong", "brother in law of x"], 
+      ["Cui Yannan", "daughter of x"], 
+      ["Bao Liu", "brother in law of x"], 
+      ["Cui Rong", "wife of x"], 
+      ["Cui Yannan", "daughter of x"], 
+      ["Yong Chenghua", "lawyer of x"]
+    ],
+    "Cui Rong": [
+      ["Xi Yan", "sister of x"], 
+      ["Cui Shouheng", "sister in law of x"], 
+      ["Cui Yannan", "niece of x"], 
+      ["Cui Shouheng", "brother in law of x"]
+    ],
+    "Cui Yannan": [
+      ["Xi Yan", "daughter of x"], 
+      ["Cui Shouheng", "father of x"], 
+      ["Cui Shouheng", "father of x"], 
+      ["Bao Liu", "adversary of x"], 
+      ["Yong Chenghua", "lawyer of x"]
+    ],
+    "Bao Liu": [
+      ["Xi Yan", "sister of x"], 
+      ["Zhou Mengdang", "husband of x"], 
+      ["Zhou Chitong", "brother of x"], 
+      ["Cui Shouheng", "brother in law of x"], 
+      ["Cui Lianyi", "son of x"], 
+      ["Yong Chenghua", "lawyer of x"]
+    ],
+    "Cui Lianyi": [
+      ["Bao Liu", "son of x"], 
+      ["Cui Yannan", "brother of x"], 
+      ["Cui Shouheng", "nephew of x"], 
+      ["Cui Shouheng", "nephew of x"], 
+      ["Cui Yannan", "brother of x"], 
+      ["Yong Chenghua", "lawyer of x"]
+    ],
+    "Zhou Chitong": [
+      ["Zhou Mengdang", "brother of x"], 
+      ["Xi Yan", "brother in law of x"], 
+      ["Cui Rong", "brother in law of x"]
+    ],
+    "Yong Chenghua": [
+      ["Cui Yannan", "lawyer of x"]
+    ]
+}

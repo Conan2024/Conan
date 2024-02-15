@@ -1,0 +1,26 @@
+{
+    "Zhou Lianyi": [
+      ["Zhou Mengdang", "father of x"], 
+      ["Yu Shi", "mother of x"], 
+      ["Zhou Chitong", "uncle of x"], 
+      ["Su Nian", "uncle of x"]
+    ],
+    "Zhou Mengdang": [
+      ["Zhou Lianyi", "child of x"]
+    ],
+    "Yu Shi": [
+      ["Zhou Lianyi", "mother of x"]
+    ],
+    "Zhou Chitong": [
+      ["Zhou Lianyi", "uncle of x"]
+    ],
+    "Su Nian (Yu Su Nian)": [
+      ["Zhou Lianyi", "uncle of x"]
+    ],
+    "Bao Gan": [
+      ["Zhou Lianyi", "informant of x"]
+    ],
+    "Cui Shouheng": [
+      ["Zhou Lianyi", "future father in law of x"]
+    ]
+}

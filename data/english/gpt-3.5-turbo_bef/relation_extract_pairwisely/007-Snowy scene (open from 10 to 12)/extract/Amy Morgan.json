@@ -1,0 +1,138 @@
+{
+    "Amy Morgan": [
+      ["Harold Harrison", "brother of x"], 
+      ["Marina Harrison", "sister of x"], 
+      ["Jacqueline", "friend of x"], 
+      ["Elex", "friend of x"], 
+      ["John Morgan", "ex husband of x, friend of x"], 
+      ["Davis", "friend of x"], 
+      ["Lucy Harrison", "sibling of x, friend of x"], 
+      ["Max Pike", "acquaintance of x, suspicious of x, information receiver from x"], 
+      ["Alex Harvey", "friend of x, debtor of x"], 
+      ["Qiao", "friend of x, information receiver from x"]
+    ],
+    "Harold Harrison": [
+      ["Amy Morgan", "sibling of x"], 
+      ["Anna", "wife of x, ex wife of x"], 
+      ["Marina Harrison", "ex wife of x, future father in law of x"], 
+      ["Elex", "friend of x, seeker of help from x"], 
+      ["John Morgan", "brother in law of x, friend of x"], 
+      ["Davis", "sibling of x, friend of x"], 
+      ["Lucy Harrison", "sibling of x, child of x"], 
+      ["Max Pike", "friend of x, informant of x"], 
+      ["Alex Harvey", "friend of x, debtor of x"]
+    ],
+    "Anna": [
+      ["Harold Harrison", "husband of x, ex husband of x"], 
+      ["Marina Harrison", "wife of x, ex romantic relationships with x"], 
+      ["Jacqueline", "sibling of x, friend of x"], 
+      ["Elex", "friend of x, debtor of x"], 
+      ["John Morgan", "ex wife of x, friend of x"], 
+      ["Davis", "informant of x, information receiver from x, acquaintance of x"], 
+      ["Lucy Harrison", "sibling of x, friend of x"], 
+      ["Max Pike", "secret crush of x"]
+    ],
+    "Marina Harrison": [
+      ["Amy Morgan", "sister of x"], 
+      ["Harold Harrison", "wife of x, suspected by x"], 
+      ["Anna", "wife of x, ex romantic relationships with x"], 
+      ["Jacqueline", "sister of x, adversary of x"], 
+      ["John Morgan", "romantic relationships with x, ex romantic relationships with x"], 
+      ["Davis", "ex husband of x, father of x"], 
+      ["Lucy Harrison", "sibling of x"], 
+      ["Max Pike", "extramarital affair with x"], 
+      ["Alex Harvey", "business partner of x, customer of x"]
+    ],
+    "Jacqueline": [
+      ["Amy Morgan", "friend of x"], 
+      ["Anna", "sibling of x, friend of x"], 
+      ["Marina Harrison", "sister of x, adversary of x"], 
+      ["Elex", "friend of x"], 
+      ["John Morgan", "ex husband of x, friend of x"], 
+      ["Davis", "sister in law of x, informant of x"], 
+      ["Lucy Harrison", "sibling of x, disliked by x"], 
+      ["Max Pike", "ex boyfriend of x, acquaintance of x"], 
+      ["Alex Harvey", "acquaintance of x"], 
+      ["Qiao", "suspected by x, dislike of x"]
+    ],
+    "Elex": [
+      ["Amy Morgan", "friend of x"], 
+      ["Harold Harrison", "friend of x, helper of x"], 
+      ["Anna", "friend of x, creditor of x"], 
+      ["Jacqueline", "friend of x"], 
+      ["John Morgan", "friend of x"], 
+      ["Davis", "friend of x"], 
+      ["Lucy Harrison", "friend of x"], 
+      ["Max Pike", "information receiver from x, helper of x"], 
+      ["Qiao", "friend of x"]
+    ],
+    "John Morgan": [
+      ["Amy Morgan", "ex wife of x, friend of x"], 
+      ["Harold Harrison", "brother in law of x, friend of x"], 
+      ["Anna", "ex husband of x, friend of x"], 
+      ["Marina Harrison", "romantic relationships with x, ex romantic relationships with x"], 
+      ["Jacqueline", "ex wife of x, friend of x"], 
+      ["Elex", "friend of x"], 
+      ["Davis", "friend of x, informant of x"], 
+      ["Lucy Harrison", "friend of x, possibly family of x"], 
+      ["Max Pike", "friend of x"], 
+      ["Alex Harvey", "friend of x"], 
+      ["Qiao", "ex husband of x, friend of x"]
+    ],
+    "Davis": [
+      ["Harold Harrison", "sibling of x, friend of x"], 
+      ["Anna", "informant of x, information receiver from x, acquaintance of x"], 
+      ["Marina Harrison", "ex wife of x, mother of x"], 
+      ["Jacqueline", "brother in law of x, informant of x"], 
+      ["Elex", "friend of x"], 
+      ["John Morgan", "friend of x, information receiver from x"], 
+      ["Max Pike", "suspect to x"], 
+      ["Alex Harvey", "acquaintance of x"], 
+      ["Qiao", "informant of x, information receiver from x"]
+    ],
+    "Lucy Harrison": [
+      ["Amy Morgan", "sibling of x, friend of x"], 
+      ["Harold Harrison", "sibling of x, child of x"], 
+      ["Anna", "sister of x, friend of x"], 
+      ["Marina Harrison", "sibling of x"], 
+      ["Jacqueline", "sibling of x, disliked by x"], 
+      ["Elex", "friend of x"], 
+      ["John Morgan", "friend of x, possibly family of x"], 
+      ["Max Pike", "sibling of x, suspected by x"], 
+      ["Alex Harvey", "friend of x"], 
+      ["Qiao", "friend of x"]
+    ],
+    "Max Pike": [
+      ["Amy Morgan", "acquaintance of x, suspicious of x"], 
+      ["Harold Harrison", "friend of x, information receiver from x"], 
+      ["Anna", "secret crush of x"], 
+      ["Marina Harrison", "extramarital affair with x"], 
+      ["Jacqueline", "ex girlfriend of x, acquaintance of x"], 
+      ["Elex", "informant of x, information receiver from x"], 
+      ["John Morgan", "friend of x"], 
+      ["Davis", "suspected by x, adversary of x"], 
+      ["Lucy Harrison", "sibling of x, suspicious of x"], 
+      ["Amy Morgan", "acquaintance of x"], 
+      ["Qiao", "informant of x, information receiver from x"]
+    ],
+    "Alex Harvey": [
+      ["Amy Morgan", "friend of x, creditor of x"], 
+      ["Harold Harrison", "friend of x, creditor of x"], 
+      ["Marina Harrison", "product provider of x, debtor of x"], 
+      ["Jacqueline", "acquaintance of x"], 
+      ["John Morgan", "friend of x"], 
+      ["Davis", "acquaintance of x"], 
+      ["Lucy Harrison", "friend of x"], 
+      ["Qiao", "acquaintance of x"]
+    ],
+    "Qiao": [
+      ["Amy Morgan", "informant of x, friend of x"], 
+      ["Jacqueline", "suspect of x, disliked by x"], 
+      ["Elex", "acquaintance of x"], 
+      ["John Morgan", "ex wife of x, friend of x"], 
+      ["Davis", "suspect of x, suspected by x"], 
+      ["Lucy Harrison", "friend of x"], 
+      ["Max Pike", "informant of x, information receiver from x"], 
+      ["Alex Harvey", "seller of x"]
+    ]
+}

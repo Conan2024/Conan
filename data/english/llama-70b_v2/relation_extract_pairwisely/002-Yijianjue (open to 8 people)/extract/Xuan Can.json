@@ -1,0 +1,22 @@
+{
+    "Xuan Can": [
+      ["Du Zhong", "second senior uncle of x, suspicious of x, co leader of x the villa, untrusting of x"], 
+      ["Ren Dong", "second senior uncle of x, acquaintance of x"], 
+      ["Lu Ying", "second senior uncle of x, master of x"]
+    ],
+    "Du Zhong": [
+      ["Xuan Can", "second senior uncle of x, suspicious of x, co leader of x the villa, untrusting of x"], 
+      ["Ren Dong", "second senior uncle of x, master of xuan can"], 
+      ["Lu Ying", "second senior uncle of x, suspicious of x"]
+    ],
+    "Ren Dong": [
+      ["Xuan Can", "second senior uncle of x, acquaintance of x"], 
+      ["Du Zhong", "second senior uncle of x, friend of xuan can"], 
+      ["Lu Ying", "relationship 1: hidden relationship with xuan can, relationship 2: past interaction of x"]
+    ],
+    "Lu Ying": [
+      ["Xuan Can", "second senior uncle of x, master of x"], 
+      ["Du Zhong", "second senior uncle of x, suspicious of x"], 
+      ["Ren Dong", "relationship 1: disciple of xuan can, relationship 2: seized a suspicious person of x"]
+    ]
+}

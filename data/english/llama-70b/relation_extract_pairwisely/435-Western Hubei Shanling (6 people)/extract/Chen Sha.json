@@ -1,0 +1,293 @@
+{
+    "Zhou Chen Sha": [
+        [
+            "Zhou Yuntang",
+            "Father",
+            "Daughter"
+        ],
+        [
+            "Zheng Hanzhen",
+            "Friend",
+            "Classmate",
+            "Colleague"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Friend, Savior"
+        ],
+        [
+            "Falcon",
+            "friend",
+            "classmate"
+        ],
+        [
+            "Gan Ma",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Li Demu",
+            "friend",
+            "classmate"
+        ],
+        [
+            "Wizard",
+            "Friend",
+            "Acquaintance"
+        ]
+    ],
+    "Zhou Yuntang": [
+        [
+            "Zhou Chen Sha",
+            "Father",
+            "Daughter"
+        ],
+        [
+            "Zheng Hanzhen",
+            "Father of Zheng Hanzhen",
+            "Employer of Zheng Hanzhen"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Father of X",
+            "Mentor of X",
+            "Teacher of X"
+        ],
+        [
+            "Falcon",
+            "relationaship 1: Father-Son",
+            "relationship 2: Friend"
+        ],
+        [
+            "Gan Ma",
+            "Falcon",
+            "Zheng Hanzhen",
+            "Ba Mansion Mountain",
+            "Li Demu",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Li Demu",
+            "Father of X",
+            "Employer of X"
+        ],
+        [
+            "Wizard",
+            "Father of Zhou Chen Sha",
+            "Employer of Zhou Chen Sha"
+        ]
+    ],
+    "Zheng Hanzhen": [
+        [
+            "Zhou Chen Sha",
+            "Friend",
+            "Classmate",
+            "Colleague"
+        ],
+        [
+            "Zhou Yuntang",
+            "Son of Zhou Yuntang",
+            "Employee of Zhou Yuntang"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Friend, Helper"
+        ],
+        [
+            "Falcon",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Gan Ma",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Li Demu",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Wizard",
+            "Friend",
+            "Classmate"
+        ]
+    ],
+    "Ba Mansion Mountain": [
+        [
+            "Zhou Chen Sha",
+            "Friend, Savior"
+        ],
+        [
+            "Zhou Yuntang",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Zheng Hanzhen",
+            "Friend, Helper"
+        ],
+        [
+            "Falcon",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Gan Ma",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Li Demu",
+            "Co-worker, Friend"
+        ],
+        [
+            "Wizard",
+            "Friend",
+            "Informant"
+        ]
+    ],
+    "Falcon": [
+        [
+            "Zhou Chen Sha",
+            "friend",
+            "classmate"
+        ],
+        [
+            "Zhou Yuntang",
+            "relationship 1: Father-Son",
+            "relationship 2: Friend"
+        ],
+        [
+            "Zheng Hanzhen",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Gan Ma",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Li Demu",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Wizard",
+            "friend, acquaintance"
+        ]
+    ],
+    "Gan Ma": [
+        [
+            "Zhou Chen Sha",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Zhou Yuntang",
+            "Falcon",
+            "Zheng Hanzhen",
+            "Ba Mansion Mountain",
+            "Li Demu",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Zheng Hanzhen",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Falcon",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Li Demu",
+            "Acquaintance, Suspect"
+        ],
+        [
+            "Wizard",
+            "sister, acquaintance"
+        ]
+    ],
+    "Li Demu": [
+        [
+            "Zhou Chen Sha",
+            "friend",
+            "classmate"
+        ],
+        [
+            "Zhou Yuntang",
+            "Son of X",
+            "Employee of X"
+        ],
+        [
+            "Zheng Hanzhen",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Co-worker, Friend"
+        ],
+        [
+            "Falcon",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Gan Ma",
+            "Acquaintance, Suspect"
+        ],
+        [
+            "Wizard",
+            "Perpetrator of X",
+            "Bully of X"
+        ]
+    ],
+    "Wizard": [
+        [
+            "Zhou Chen Sha",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Zhou Yuntang",
+            "Master of Zhou Chen Sha",
+            "Supervisor of Zhou Chen Sha"
+        ],
+        [
+            "Zheng Hanzhen",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Friend",
+            "Informant"
+        ],
+        [
+            "Falcon",
+            "friend, acquaintance"
+        ],
+        [
+            "Gan Ma",
+            "sister, acquaintance"
+        ],
+        [
+            "Li Demu",
+            "Perpetrator of X",
+            "Bully of X"
+        ]
+    ]
+}

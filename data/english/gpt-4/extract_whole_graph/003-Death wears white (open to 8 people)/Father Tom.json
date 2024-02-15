@@ -1,0 +1,184 @@
+{
+    "Father Tom": [
+        [
+            "Dr. Paloski",
+            "acquaintance of x, informant of x"
+        ],
+        [
+            "Hans Li Morette",
+            "stranger to x"
+        ],
+        [
+            "Drake Li Morette",
+            "doctor of x, information receiver from x, acquaintance of x"
+        ],
+        [
+            "Tony",
+            "victim of x, deceived by x"
+        ],
+        [
+            "Frank",
+            "faux patient of x, helper of x"
+        ],
+        [
+            "Dean Berkeley",
+            "acquaintance of x, guest of x"
+        ]
+    ],
+    "Dr. Paloski": [
+        [
+            "Father Tom",
+            "patient of x, admirer of x"
+        ],
+        [
+            "Hans Li Morette",
+            "adversary of x, disliked by x"
+        ],
+        [
+            "Drake Li Morette",
+            "colleague of x, stranger to x"
+        ],
+        [
+            "Tony",
+            "stranger to x"
+        ],
+        [
+            "Frank",
+            "stranger to x"
+        ],
+        [
+            "Dean Berkeley",
+            "stranger to x"
+        ]
+    ],
+    "Hans Li Morette": [
+        [
+            "Father Tom",
+            "intended business partner of x, stranger to x"
+        ],
+        [
+            "Dr. Paloski",
+            "adversary of x, disliked by x"
+        ],
+        [
+            "Drake Li Morette",
+            "twin brother of x, colleague of x"
+        ],
+        [
+            "Tony",
+            "stranger to x"
+        ],
+        [
+            "Frank",
+            "stranger to x"
+        ],
+        [
+            "Dean Berkeley",
+            "stranger to x"
+        ]
+    ],
+    "Drake Li Morette": [
+        [
+            "Father Tom",
+            "doctor of x, information receiver from x"
+        ],
+        [
+            "Dr. Paloski",
+            "colleague of x, stranger to x"
+        ],
+        [
+            "Hans Li Morette",
+            "twin brother of x, deceased brother of x"
+        ],
+        [
+            "Tony",
+            "stranger to x"
+        ],
+        [
+            "Frank",
+            "stranger to x"
+        ],
+        [
+            "Dean Berkeley",
+            "colleague of x"
+        ]
+    ],
+    "Tony": [
+        [
+            "Father Tom",
+            "deceived by x"
+        ],
+        [
+            "Dr. Paloski",
+            "stranger to x"
+        ],
+        [
+            "Hans Li Morette",
+            "stranger to x"
+        ],
+        [
+            "Drake Li Morette",
+            "stranger to x"
+        ],
+        [
+            "Frank",
+            "brother of x"
+        ],
+        [
+            "Dean Berkeley",
+            "stranger to x"
+        ]
+    ],
+    "Frank": [
+        [
+            "Father Tom",
+            "faux patient of x, helper of x"
+        ],
+        [
+            "Dr. Paloski",
+            "stranger to x"
+        ],
+        [
+            "Hans Li Morette",
+            "stranger to x"
+        ],
+        [
+            "Drake Li Morette",
+            "stranger to x"
+        ],
+        [
+            "Tony",
+            "brother of x"
+        ],
+        [
+            "Dean Berkeley",
+            "stranger to x"
+        ]
+    ],
+    "Dean Berkeley": [
+        [
+            "Father Tom",
+            "acquaintance of x, host of x"
+        ],
+        [
+            "Dr. Paloski",
+            "stranger to x"
+        ],
+        [
+            "Hans Li Morette",
+            "stranger to x"
+        ],
+        [
+            "Drake Li Morette",
+            "colleague of x"
+        ],
+        [
+            "Tony",
+            "stranger to x"
+        ],
+        [
+            "Frank",
+            "stranger to x"
+        ]
+    ]
+}

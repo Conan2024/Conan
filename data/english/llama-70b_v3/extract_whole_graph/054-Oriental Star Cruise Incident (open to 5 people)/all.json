@@ -1,0 +1,22 @@
+{
+    "Lin Ruotong": [
+      ["Liu Qi", "admirer of x"], 
+      ["Hong Zilian", "lover of x"], 
+      ["Zhang Wenyuan", "acquaintance of x"], 
+      ["Han Yimu", "colleague of x"]
+    ],
+    "Liu Qi": [
+      ["Lin Ruotong", "admirer of x"], 
+      ["Hong Zilian", "dislike of x"]
+    ],
+    "Hong Zilian": [
+      ["Lin Ruotong", "lover of x"], 
+      ["Liu Qi", "dislike of x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Lin Ruotong", "acquaintance of x"]
+    ],
+    "Han Yimu": [
+      ["Lin Ruotong", "colleague of x"]
+    ]
+}

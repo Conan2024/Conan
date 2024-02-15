@@ -1,0 +1,118 @@
+{
+    "Guilang": [
+        [
+            "Mother",
+            "father of x"
+        ],
+        [
+            "Zhaonan",
+            "sibling of x"
+        ],
+        [
+            "Wangdi",
+            "sibling of x"
+        ],
+        [
+            "Luo Xiucai",
+            "informant of x"
+        ],
+        [
+            "Luo Younuo",
+            "child of x"
+        ],
+        [
+            "Xue Yan",
+            "stranger to x"
+        ]
+    ],
+    "Zhaonan": [
+        [
+            "Guilang",
+            "sibling of x"
+        ],
+        [
+            "Wangdi",
+            "sibling of x"
+        ],
+        [
+            "Hei Li",
+            "dance partner of x zhaonan"
+        ],
+        [
+            "Qi Gu Fei",
+            "informant of x"
+        ]
+    ],
+    "Wangdi": [
+        [
+            "Guilang",
+            "sibling of x"
+        ],
+        [
+            "Zhaonan",
+            "sibling of x"
+        ],
+        [
+            "Luo Younuo",
+            "acquaintance of x"
+        ]
+    ],
+    "Luo Xiucai": [
+        [
+            "Guilang",
+            "informant of x"
+        ]
+    ],
+    "Luo Younuo": [
+        [
+            "Guilang",
+            "child of x"
+        ],
+        [
+            "Xue Yan",
+            "stranger to x"
+        ],
+        [
+            "Qi Gu Fei",
+            "acquaintance of x"
+        ]
+    ],
+    "Xue Yan": [
+        [
+            "Guilang",
+            "stranger to x"
+        ],
+        [
+            "Luo Younuo",
+            "stranger to x"
+        ]
+    ],
+    "Qi Gu Fei": [
+        [
+            "Zhaonan",
+            "informant of x"
+        ],
+        [
+            "Hei Li",
+            "romantic relationships with x"
+        ],
+        [
+            "Luo Younuo",
+            "informant of x"
+        ]
+    ],
+    "Hei Li": [
+        [
+            "Zhaonan",
+            "dance partner of x hei li"
+        ],
+        [
+            "Guilang",
+            "romantic relationships with x"
+        ],
+        [
+            "Qi Gu Fei",
+            "romantic relationships with x"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "David": [
+      ["Gust", "ex romantic relationships with gust"], 
+      ["Publicity Rowling", "ex romantic relationships with publicity rowling"], 
+      ["Ella", "unknown relationship with ella of x"], 
+      ["Kevin", "dislike of x kevin"], 
+      ["Griff", "friend of x griff, suspicious of x griff"]
+    ],
+    "Gust": [
+      ["David", "ex romantic relationships with david"], 
+      ["Publicity Rowling", "romantic relationships with publicity rowling of x"], 
+      ["Ella", "romantic relationships with ella of x"], 
+      ["Kevin", "unknown relationship with kevin of x"], 
+      ["Griff", "unknown relationship with griff of x"]
+    ],
+    "Publicity Rowling": [
+      ["David", "ex romantic relationships with david"], 
+      ["Gust", "romantic relationships with gust of x"], 
+      ["Ella", "unknown relationship with ella of x"], 
+      ["Kevin", "romantic relationships with kevin of x"], 
+      ["Griff", "unknown relationship with griff of x"]
+    ],
+    "Ella": [
+      ["David", "unknown relationship with david of x"], 
+      ["Gust", "romantic relationships with gust of x"], 
+      ["Publicity Rowling", "unknown relationship with publicity rowling of x"], 
+      ["Kevin", "unknown relationship with kevin of x"], 
+      ["Griff", "unknown relationship with griff of x"]
+    ],
+    "Kevin": [
+      ["David", "unknown relationship with david of x"], 
+      ["Gust", "unknown relationship with gust of x"], 
+      ["Publicity Rowling", "romantic relationships with publicity rowling of x"], 
+      ["Ella", "unknown relationship with ella of x"], 
+      ["Griff", "unknown relationship with griff of x"]
+    ],
+    "Griff": [
+      ["David", "friend of x david, suspicious of x david"], 
+      ["Gust", "unknown relationship with gust of x"], 
+      ["Publicity Rowling", "unknown relationship with publicity rowling of x"], 
+      ["Ella", "unknown relationship with ella of x"], 
+      ["Kevin", "unknown relationship with kevin of x"]
+    ]
+}

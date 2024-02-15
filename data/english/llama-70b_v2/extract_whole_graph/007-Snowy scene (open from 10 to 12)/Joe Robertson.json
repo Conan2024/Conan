@@ -1,0 +1,30 @@
+{
+    "Joe Robertson": [
+      ["Max Pike", "friend of x, hypocritical associate of x"], 
+      ["Daniel Perry", "acquaintance of x, potential ally of x"]
+    ],
+    "Max Pike": [
+      ["Joe Robertson", "friend of x, hypocritical associate of x"], 
+      ["Amy Morgan", "business partner of x, potential suspect of x"]
+    ],
+    "Amy Morgan": [
+      ["John Morgan", "husband of x, deceased of x"], 
+      ["Joe Robertson", "acquaintance of x, potential suspect of x"]
+    ],
+    "John Morgan": [
+      ["Amy Morgan", "wife of x, potential suspect of x"], 
+      ["Joe Robertson", "acquaintance of x, potential witness of x"]
+    ],
+    "Lucy Harrison": [
+      ["Jonathan Perry", "fiancé of x, potential ally of x"], 
+      ["Joe Robertson", "acquaintance of x, potential witness of x"]
+    ],
+    "Jonathan Perry": [
+      ["Lucy Harrison", "fiancé of x, potential ally of x"], 
+      ["Daniel Perry", "brother of x, potential ally of x"]
+    ],
+    "Daniel Perry": [
+      ["Jonathan Perry", "brother of x, potential ally of x"], 
+      ["Joe Robertson", "acquaintance of x, potential ally of x"]
+    ]
+}

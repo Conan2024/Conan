@@ -1,0 +1,40 @@
+{
+    "Alex Harvey": [
+      ["Marina Harrison", "cousin of x"], 
+      ["Jacqueline Perry", "friend of x, acquaintance of x"], 
+      ["Harold Harrison", "acquaintance of x"], 
+      ["Davis Perry", "acquaintance of x"], 
+      ["John Morgan", "acquaintance of x"]
+    ],
+    "Marina Harrison": [
+      ["Alex Harvey", "cousin of x"], 
+      ["Jacqueline Perry", "sister of x, rival of x"], 
+      ["Harold Harrison", "husband of x"], 
+      ["Davis Perry", "lover of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Alex Harvey", "friend of x, acquaintance of x"], 
+      ["Marina Harrison", "sister of x, jealous of x"], 
+      ["Harold Harrison", "brother in law of x"], 
+      ["Davis Perry", "brother in law of x"]
+    ],
+    "Harold Harrison": [
+      ["Alex Harvey", "acquaintance of x"], 
+      ["Marina Harrison", "wife of x"], 
+      ["Jacqueline Perry", "sister in law of x, jealous of x"], 
+      ["Davis Perry", "brother in law of x"]
+    ],
+    "Davis Perry": [
+      ["Alex Harvey", "acquaintance of x"], 
+      ["Marina Harrison", "sister in law of x"], 
+      ["Jacqueline Perry", "sister in law of x, rival of x"], 
+      ["Harold Harrison", "brother in law of x"]
+    ],
+    "Amy Morgan": [
+      ["John Morgan", "brother of x"]
+    ],
+    "John Morgan": [
+      ["Alex Harvey", "acquaintance of x"], 
+      ["Amy Morgan", "sister of x"]
+    ]
+}

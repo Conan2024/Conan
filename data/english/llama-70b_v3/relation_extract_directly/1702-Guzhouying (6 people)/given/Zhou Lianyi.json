@@ -1,0 +1,30 @@
+{
+    "Zhou Lianyi": [
+      ["Cui Shouheng", "father in law of x, master of x"], 
+      ["Yannan", "sister in law of x, friend of x"], 
+      ["Xi Yan", "aunt of x, master of x"], 
+      ["Tian Chou", "friend of x"], 
+      ["Uncle Fu", "acquaintance of x"]
+    ],
+    "Cui Shouheng": [
+      ["Zhou Lianyi", "son in law of x, master of x"], 
+      ["Yannan", "daughter of x, master of x"], 
+      ["Xi Yan", "wife of x, master of x"], 
+      ["Tian Chou", "friend of x"], 
+      ["Uncle Fu", "friend of x"]
+    ],
+    "Yannan": [
+      ["Zhou Lianyi", "brother in law of x, master of x"], 
+      ["Cui Shouheng", "father of x, master of x"], 
+      ["Xi Yan", "mother of x, master of x"], 
+      ["Tian Chou", "friend of x"], 
+      ["Uncle Fu", "acquaintance of x"]
+    ],
+    "Xi Yan": [
+      ["Zhou Lianyi", "aunt of x, master of x"], 
+      ["Cui Shouheng", "husband of x, master of x"], 
+      ["Yannan", "daughter of x, master of x"], 
+      ["Tian Chou", "friend of x"], 
+      ["Uncle Fu", "acquaintance of x"]
+    ]
+}

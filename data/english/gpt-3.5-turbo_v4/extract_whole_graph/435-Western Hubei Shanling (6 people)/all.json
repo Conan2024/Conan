@@ -1,0 +1,33 @@
+{
+    "Gan Ma": [
+      ["Gan Yin", "brother of x, sibling of x"], 
+      ["Ba Mansion Mountain", "employer of x, employee of x"], 
+      ["Juan Ge (Cuckoo Song)", "friend of x, friend of x"], 
+      ["Chen Sha", "friend of x"], 
+      ["Ruya", "child of x"]
+    ],
+    "Gan Yin": [
+      ["Gan Ma", "sibling of x, brother of x"], 
+      ["Juan Ge (Cuckoo Song)", "fiancee of x, fiancee of x"], 
+      ["Ba Mansion Mountain", "employer of x, employer of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Gan Ma", "employee of x, employee of x"], 
+      ["Juan Ge (Cuckoo Song)", "child of x, child of x, fiancee of x"], 
+      ["Gan Yin", "employer of x, employer of x"]
+    ],
+    "Juan Ge (Cuckoo Song)": [
+      ["Gan Ma", "friend of x, friend of x"], 
+      ["Gan Yin", "fiancee of x, fiancee of x"], 
+      ["Ba Mansion Mountain", "father of x"]
+    ],
+    "Chen Sha": [
+      ["Gan Ma", "friend of x"]
+    ],
+    "Li Gaobai": [
+      ["Wizard", "colleague of x"]
+    ],
+    "Ruya": [
+      ["Wizard", "father of x"]
+    ]
+}

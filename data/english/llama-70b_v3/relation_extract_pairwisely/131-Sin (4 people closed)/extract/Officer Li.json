@@ -1,0 +1,27 @@
+{
+    "Officer Li": [
+      ["Chief Wang", "suspect of x"], 
+      ["Hu Investigate", "colleague of x, friend of x, rival of x, suspect of x, victim of x, perpetrator of x"], 
+      ["Officer Li's girlfriend", "wife of x"]
+    ],
+    "Chief Wang": [
+      ["Officer Li", "suspect of x"], 
+      ["Suspect", "acquaintance of x, victim of x, perpetrator of x, informant of x, helper of x"]
+    ],
+    "Hu Investigate": [
+      ["Officer Li", "colleague of x, friend of x, rival of x, suspect of x"], 
+      ["Zhao Cishan", "acquaintance of x, business partner of x"], 
+      ["Officer Li's girlfriend", "acquaintance of x"]
+    ],
+    "Zhao Cishan": [
+      ["Officer Li", "perpetrator of x"], 
+      ["Hu Investigate", "acquaintance of x, business partner of x"], 
+      ["Officer Li's girlfriend", "suspect of x"]
+    ],
+    "Officer Li's girlfriend": [
+      ["Officer Li", "wife of x"], 
+      ["Chief Wang", "suspect of x, acquaintance of x, victim of x, perpetrator of x, informant of x, helper of x"], 
+      ["Hu Investigate", "acquaintance of x"], 
+      ["Zhao Cishan", "suspect of x"]
+    ]
+}

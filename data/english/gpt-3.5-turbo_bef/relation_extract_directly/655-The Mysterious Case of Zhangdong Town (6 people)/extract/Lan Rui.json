@@ -1,0 +1,52 @@
+{
+    "Lan Rui": [
+      ["Zhang Fanghao", "father of x"], 
+      ["Ms. Yao", "mother of x"], 
+      ["Uncle Yu", "helper of x"], 
+      ["Minxi", "friend of x"], 
+      ["Xiting", "friend of x"], 
+      ["Shen Wusheng", "friend of x"], 
+      ["Teacher Bai", "mentor of x"]
+    ],
+    "Zhang Fanghao": [
+      ["Lan Rui", "daughter of x"], 
+      ["Ms. Yao", "husband of x"], 
+      ["Uncle Yu", "subordinate of x"], 
+      ["Yang Shuixun", "friend of x"], 
+      ["Minxi", "friend of x"], 
+      ["Xiting", "friend of x"], 
+      ["Shen Wusheng", "informant of x"]
+    ],
+    "Ms. Yao": [
+      ["Lan Rui", "mother of x"], 
+      ["Zhang Fanghao", "wife of x"]
+    ],
+    "Uncle Yu": [
+      ["Lan Rui", "helper of x"], 
+      ["Zhang Fanghao", "subordinate of x"]
+    ],
+    "Yang Shuixun": [
+      ["Zhang Fanghao", "friend of x"]
+    ],
+    "Minxi": [
+      ["Lan Rui", "friend of x"], 
+      ["Yang Shuixun", "friend of x"]
+    ],
+    "Xiting": [
+      ["Lan Rui", "friend of x"], 
+      ["Minxi", "friend of x"], 
+      ["Teacher Bai", "friend of x"], 
+      ["Gu Chumeng", "husband of x"]
+    ],
+    "Shen Wusheng": [
+      ["Lan Rui", "friend of x"], 
+      ["Zhang Fanghao", "informant of x"]
+    ],
+    "Teacher Bai": [
+      ["Lan Rui", "mentor of x"], 
+      ["Xiting", "friend of x"]
+    ],
+    "Gu Chumeng": [
+      ["Xiting", "husband of x"]
+    ]
+}

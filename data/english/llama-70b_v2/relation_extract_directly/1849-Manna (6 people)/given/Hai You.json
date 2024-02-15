@@ -1,0 +1,73 @@
+{
+    "Hai You": [
+      ["Tan Renchang", "uncle of x, guardian of x, brother in law of x"], 
+      ["Mrs. Tan", "adopted mother of x, close friend of x, benefactor of x"], 
+      ["Lv Caiqian", "cousin of x, adopted mother of x, benefactor of x"], 
+      ["Lv Mingran", "brother in law of x, benefactor of x"], 
+      ["Shang Zhi", "brother of x, friend of x, benefactor of x"]
+    ],
+    "Mrs. Tan": [
+      ["Hai You", "adopted daughter of x, close friend of x, benefactor of x"], 
+      ["Tan Renchang", "son of x, husband of x, benefactor of x"], 
+      ["Luo Mingsha", "sister in law of x, benefactor of x"], 
+      ["Lv Caiqian", "daughter in law of x, adopted mother of x, benefactor of x"], 
+      ["Lv Mingran", "brother in law of x, benefactor of x"], 
+      ["Shang Zhi", "nephew of x, friend of x, benefactor of x"]
+    ],
+    "Tan Renchang": [
+      ["Hai You", "niece of x, ward of x, adopted daughter of x"], 
+      ["Mrs. Tan", "wife of x, mother of x, benefactor of x"], 
+      ["Luo Mingsha", "mother in law of x"], 
+      ["Lv Caiqian", "sister in law of x"], 
+      ["Lv Mingran", "brother in law of x"], 
+      ["Shang Zhi", "nephew of x, friend of x"]
+    ],
+    "Luo Mingsha": [
+      ["Mrs. Tan", "sister in law of x, benefactor of x"], 
+      ["Tan Renchang", "brother in law of x, husband of x"], 
+      ["Hai You", "adopted daughter of x, close friend of x, benefactor of x"], 
+      ["Lv Caiqian", "daughter in law of x"], 
+      ["Lv Mingran", "brother in law of x"]
+    ],
+    "Lv Caiqian": [
+      ["Hai You", "adopted mother of x, cousin of x, benefactor of x"], 
+      ["Mrs. Tan", "mother in law of x, benefactor of x"], 
+      ["Tan Renchang", "brother in law of x, husband of x"], 
+      ["Luo Mingsha", "sister in law of x"], 
+      ["Lv Mingran", "brother in law of x"]
+    ],
+    "Lv Mingran": [
+      ["Hai You", "adopted sister of x, cousin of x, benefactor of x"], 
+      ["Mrs. Tan", "mother in law of x, benefactor of x"], 
+      ["Tan Renchang", "brother in law of x, husband of x"], 
+      ["Luo Mingsha", "sister in law of x"], 
+      ["Lv Caiqian", "brother in law of x"]
+    ],
+    "Shang Zhi": [
+      ["Hai You", "brother of x, friend of x, benefactor of x"], 
+      ["Mrs. Tan", "aunt of x, benefactor of x"], 
+      ["Tan Renchang", "uncle of x, guardian of x, benefactor of x"], 
+      ["Luo Mingsha", "aunt of x"], 
+      ["Lv Caiqian", "aunt of x"]
+    ],
+    "Cheng Ge": [
+      ["Shang Zhi", "friend of x"], 
+      ["Tan Renchang", "friend of x"]
+    ],
+    "Zhou Shi": [
+      ["Tan Renchang", "secretary of x"]
+    ],
+    "Liao Gongzi": [
+      ["Shang Zhi", "acquaintance of x"]
+    ],
+    "Cai Qian": [
+      ["Mrs. Tan", "acquaintance of x"]
+    ],
+    "Tan Shang Zhi": [
+      ["Tan Renchang", "son of x"]
+    ],
+    "Woman": [
+      ["Hai You", "friend of x"], 
+      ["Tan Renchang", "murderer of x"]
+    ]
+}

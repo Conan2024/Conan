@@ -1,0 +1,25 @@
+{
+    "Xue Meiniang": [
+      ["Qin Laoda", "student of x"], 
+      ["Zheng Youhao", "classmate of x"], 
+      ["Wei Xiaodi", "classmate of x"]
+    ],
+    "Qin Laoda": [
+      ["Zheng Youhao", "classmate of x"], 
+      ["Wei Xiaodi", "classmate of x"], 
+      ["Xiao Tiyu", "hate of x"]
+    ],
+    "Zheng Youhao": [
+      ["Xue Meiniang", "classmate of x"], 
+      ["Qin Laoda", "classmate of x"], 
+      ["Wei Xiaodi", "classmate of x"]
+    ],
+    "Wei Xiaodi": [
+      ["Xue Meiniang", "classmate of x"], 
+      ["Qin Laoda", "classmate of x"], 
+      ["Zheng Youhao", "classmate of x"]
+    ],
+    "Xiao Tiyu": [
+      ["Qin Laoda", "hate of x"]
+    ]
+}

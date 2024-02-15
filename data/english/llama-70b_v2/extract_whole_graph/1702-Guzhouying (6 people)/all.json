@@ -1,0 +1,43 @@
+{
+    "Zhou Chitong": [
+      ["Tian Chou", "romantic partner of x"], 
+      ["Yannan", "acquaintance of x"], 
+      ["Xi Yan", "sister in law of x"], 
+      ["Cui Shouheng", "brother in law of x"], 
+      ["Lianyi", "nephew of x"], 
+      ["Su Nian", "friend of x"], 
+      ["Bao Gan", "friend of x"]
+    ],
+    "Tian Chou": [
+      ["Zhou Chitong", "romantic partner of x"], 
+      ["Yannan", "acquaintance of x"]
+    ],
+    "Yannan": [
+      ["Zhou Chitong", "acquaintance of x"], 
+      ["Tian Chou", "acquaintance of x"]
+    ],
+    "Xi Yan": [
+      ["Zhou Chitong", "friend of x"], 
+      ["Tian Chou", "acquaintance of x"]
+    ],
+    "Cui Shouheng": [
+      ["Zhou Chitong", "brother in law of x"], 
+      ["Tian Chou", "acquaintance of x"]
+    ],
+    "Lianyi": [
+      ["Zhou Chitong", "nephew of x"], 
+      ["Tian Chou", "acquaintance of x"]
+    ],
+    "Su Nian": [
+      ["Zhou Chitong", "friend of x"], 
+      ["Tian Chou", "acquaintance of x"]
+    ],
+    "Bao Gan": [
+      ["Zhou Chitong", "friend of x"], 
+      ["Tian Chou", "acquaintance of x"]
+    ],
+    "Uncle Fu": [
+      ["Zhou Chitong", "friend of x"], 
+      ["Tian Chou", "acquaintance of x"]
+    ]
+}

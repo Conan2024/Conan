@@ -1,0 +1,21 @@
+{
+    "Xuan Can": [
+      ["Du Zhong", "friend of x, secret lover of x"], 
+      ["Ren Dong", "information receiver from x, acquaintance of x"], 
+      ["Lu Ying", "student of x"]
+    ],
+    "Du Zhong": [
+      ["Xuan Can", "friend of x, secret lover of x"], 
+      ["Ren Dong", "co wives of x, quest companion of x"], 
+      ["Lu Ying", "suspicious of x"]
+    ],
+    "Ren Dong": [
+      ["Xuan Can", "informant of x, information receiver from x"], 
+      ["Du Zhong", "co wives of x, quest companion of x"], 
+      ["Lu Ying", "student of x"]
+    ],
+    "Lu Ying": [
+      ["Xuan Can", "teacher of x"], 
+      ["Ren Dong", "teacher of x"]
+    ]
+}

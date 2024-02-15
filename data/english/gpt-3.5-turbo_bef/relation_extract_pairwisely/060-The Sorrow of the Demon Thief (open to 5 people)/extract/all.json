@@ -1,0 +1,77 @@
+{
+    "Assistant Ella": [
+      ["Griff", "employer of x"], 
+      ["TheTrical Work David", "friend of x"], 
+      ["Kevin", "helper of x"], 
+      ["David", "friend of x, informant of x"], 
+      ["Publicity Rowling", "friend of x"]
+    ],
+    "Ella": [
+      ["magician Gust", "fondness of x, perpetrator of x"], 
+      ["Rowling", "friend of x, informant of x"], 
+      ["Kevin", "helper of x"], 
+      ["Publicity Rowling", "friend of x"]
+    ],
+    "magician Gust": [
+      ["Ella", "fondness of x, manipulator of x"], 
+      ["Rowling", "romantic relationships with x, ex romantic relationships with x"], 
+      ["TheTrical Work David", "romantic relationships with x, admirer of x"], 
+      ["Kevin", "friend of x"], 
+      ["Gust", "romantic relationships with x"]
+    ],
+    "Griff": [
+      ["Assistant Ella", "employee of x, victim of x"], 
+      ["TheTrical Work David", "suspected by x"], 
+      ["Kevin", "helper of x"], 
+      ["David", "suspected by x"], 
+      ["Publicity Rowling", "admirer of x"]
+    ],
+    "Publicity Rowling": [
+      ["Assistant Ella", "friend of x"], 
+      ["Ella", "friend of x"], 
+      ["Griff", "admirer of x"], 
+      ["Rowling", "friend of x"], 
+      ["Kevin", "friend of x"], 
+      ["David", "friend of x"]
+    ],
+    "TheTrical Work David": [
+      ["Assistant Ella", "friend of x"], 
+      ["Ella", "friend of x"], 
+      ["magician Gust", "romantic relationships with x"], 
+      ["Kevin", "friend of x"], 
+      ["David", "friend of x"], 
+      ["Publicity Rowling", "romantic relationships with x"]
+    ],
+    "Kevin": [
+      ["Assistant Ella", "helped by x"], 
+      ["Ella", "helper of x"], 
+      ["magician Gust", "friend of x, helper of x"], 
+      ["Griff", "helped by x"], 
+      ["Rowling", "friend of x"], 
+      ["TheTrical Work David", "friend of x"], 
+      ["David", "friend of x"], 
+      ["Gust", "friend of x, acquaintance of x"], 
+      ["Publicity Rowling", "friend of x"]
+    ],
+    "David": [
+      ["Assistant Ella", "fondness of x"], 
+      ["Griff", "suspect of x"], 
+      ["Rowling", "admirer of x"], 
+      ["TheTrical Work David", "friend of x"], 
+      ["Kevin", "friend of x"], 
+      ["Gust", "friend of x"], 
+      ["Publicity Rowling", "admirer of x"]
+    ],
+    "Gust": [
+      ["magician Gust", "romantic relationships with x"], 
+      ["Kevin", "employer of x, authority over x"], 
+      ["David", "friend of x, informant of x"]
+    ],
+    "Rowling": [
+      ["Ella", "friend of x"], 
+      ["magician Gust", "romantic relationships with x, ex romantic relationships with x"], 
+      ["Kevin", "friend of x"], 
+      ["David", "friend of x"], 
+      ["Publicity Rowling", "friend of x"]
+    ]
+}

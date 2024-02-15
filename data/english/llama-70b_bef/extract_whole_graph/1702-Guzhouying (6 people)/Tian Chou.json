@@ -1,0 +1,47 @@
+{
+    "Tian Chou": [
+      ["Xi Yan", "friend of x"], 
+      ["Zhou Chitong", "acquaintance of x"], 
+      ["Zhou Mengdang", "enemy of x, perpetrator of x"], 
+      ["Bao Liu", "sister of x, friend of x"], 
+      ["Cui Shouheng", "master of x, employer of x"], 
+      ["Yannan", "nephew of x"]
+    ],
+    "Xi Yan": [
+      ["Tian Chou", "friend of x"], 
+      ["Zhou Mengdang", "husband of x, enemy of x"], 
+      ["Bao Liu", "sister in law of x"], 
+      ["Cui Shouheng", "master of x, employer of x"]
+    ],
+    "Zhou Chitong": [
+      ["Tian Chou", "acquaintance of x"], 
+      ["Zhou Mengdang", "brother of x, enemy of x"], 
+      ["Bao Liu", "brother in law of x"]
+    ],
+    "Zhou Mengdang": [
+      ["Tian Chou", "enemy of x, perpetrator of x"], 
+      ["Xi Yan", "wife of x, enemy of x"], 
+      ["Bao Liu", "wife of x, sister in law of x"], 
+      ["Cui Shouheng", "master of x, employer of x"]
+    ],
+    "Bao Liu": [
+      ["Tian Chou", "sister of x, friend of x"], 
+      ["Xi Yan", "sister in law of x"], 
+      ["Zhou Mengdang", "husband of x, enemy of x"], 
+      ["Zhou Chitong", "brother in law of x"]
+    ],
+    "Cui Shouheng": [
+      ["Tian Chou", "master of x, employer of x"], 
+      ["Xi Yan", "sister of x"], 
+      ["Zhou Mengdang", "master of x, employer of x"]
+    ],
+    "Yannan": [
+      ["Tian Chou", "nephew of x"], 
+      ["Zhou Mengdang", "father of x, enemy of x"], 
+      ["Xi Yan", "mother of x, sister in law of x"]
+    ],
+    "Lianyi": [
+      ["Tian Chou", "daughter of x, niece of x"], 
+      ["Xi Yan", "mother of x, sister in law of x"]
+    ]
+}

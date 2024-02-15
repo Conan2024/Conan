@@ -1,0 +1,35 @@
+{
+    "you": [
+      ["Zhao Luoyi", "personal girl of x"], 
+      ["Zhao Wanlei", "care about very much of x"], 
+      ["Feng Shuangji", "afraid of x"], 
+      ["Feng Zhu", "not close to of x"], 
+      ["Qi Yue", "afraid of x"]
+    ],
+    "Zhao Luoyi": [
+      ["you", "personal girl of x"], 
+      ["Zhao Wanlei", "daughter of x"], 
+      ["Zhao Wei", "sibling of x"], 
+      ["Feng Shuangji", "advised by of x"], 
+      ["Feng Zhu", "not close to of x"], 
+      ["Qi Yue", "afraid of x"]
+    ],
+    "Zhao Wanlei": [
+      ["you", "care about very much of x"], 
+      ["Zhao Luoyi", "father of x"], 
+      ["Feng Shuangji", "advised by of x"]
+    ],
+    "Feng Shuangji": [
+      ["you", "severe with of x"], 
+      ["Zhao Luoyi", "advised by of x"], 
+      ["Zhao Wanlei", "advised by of x"]
+    ],
+    "Feng Zhu": [
+      ["you", "not close to of x"], 
+      ["Zhao Luoyi", "not close to of x"]
+    ],
+    "Qi Yue": [
+      ["you", "afraid of x"], 
+      ["Zhao Luoyi", "afraid of x"]
+    ]
+}

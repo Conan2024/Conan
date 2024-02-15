@@ -1,0 +1,62 @@
+{
+    "Yilin Carter": [
+        [
+            "Dr. Paloski",
+            "superior of x"
+        ],
+        [
+            "Hans Rymorite",
+            "colleague of x"
+        ],
+        [
+            "Drake Rimerite",
+            "colleague of x"
+        ],
+        [
+            "Head Nurse Costa",
+            "friend of x"
+        ],
+        [
+            "Hospital Dean Berkeley",
+            "information receiver from x"
+        ]
+    ],
+    "Dr. Paloski": [
+        [
+            "Yilin Carter",
+            "subordinate of x, friend of x"
+        ]
+    ],
+    "Hans Rymorite": [
+        [
+            "Yilin Carter",
+            "colleague of x"
+        ]
+    ],
+    "Drake Rimerite": [
+        [
+            "Yilin Carter",
+            "colleague of x"
+        ],
+        [
+            "Head Nurse Costa",
+            "friend of x"
+        ]
+    ],
+    "Head Nurse Costa": [
+        [
+            "Yilin Carter",
+            "friend of x"
+        ],
+        [
+            "Drake Rimerite",
+            "friend of x"
+        ]
+    ],
+    "Hospital Dean Berkeley": [
+        [
+            "Yilin Carter",
+            "informant of x"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Duan Yuetong": [
+      ["Yu Zu Chengmu", "acquaintance of x"], 
+      ["Yue Kesa", "friend of x"], 
+      ["Li Zicai", "classmate of x"]
+    ],
+    "Xia Sanhu": [
+      ["Wu Baian", "acquaintance of x"], 
+      ["Anqi", "acquaintance of x"], 
+      ["Yu Zu Chengmu", "classmate of x"], 
+      ["Yue Kesa", "acquaintance of x"]
+    ],
+    "Wu Baian": [
+      ["Xia Sanhu", "acquaintance of x"], 
+      ["Anqi", "acquaintance of x"], 
+      ["Yu Zu Chengmu", "classmate of x"], 
+      ["Yue Kesa", "acquaintance of x"]
+    ],
+    "Anqi": [
+      ["Xia Sanhu", "acquaintance of x"], 
+      ["Wu Baian", "acquaintance of x"], 
+      ["Yu Zu Chengmu", "classmate of x"], 
+      ["Yue Kesa", "acquaintance of x"]
+    ],
+    "Yu Zu Chengmu": [
+      ["Duan Yuetong", "acquaintance of x"], 
+      ["Xia Sanhu", "classmate of x"], 
+      ["Wu Baian", "classmate of x"], 
+      ["Anqi", "classmate of x"], 
+      ["Yue Kesa", "acquaintance of x"]
+    ],
+    "Yue Kesa": [
+      ["Duan Yuetong", "friend of x"], 
+      ["Xia Sanhu", "acquaintance of x"], 
+      ["Wu Baian", "acquaintance of x"], 
+      ["Anqi", "acquaintance of x"], 
+      ["Yu Zu Chengmu", "acquaintance of x"]
+    ]
+}

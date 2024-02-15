@@ -1,0 +1,55 @@
+{
+    "Mrs. Tan": [
+      ["Luo Hengli", "husband of x"], 
+      ["Tan Renchang", "son of x"], 
+      ["Xinya", "patient of x"], 
+      ["Cai Qian", "friend of x"], 
+      ["Lv Mingran", "secret lover of x"], 
+      ["Shang Zhi", "nephew of x"], 
+      ["Cheng Ge", "adoptive son of x"], 
+      ["Mrs. Wei", "friend of x"]
+    ],
+    "Luo Mingsha": [
+      ["Cai Qian", "friend of x"], 
+      ["Lv Mingran", "secret lover of x"]
+    ],
+    "Rosa": [
+      ["Cai Qian", "friend of x"], 
+      ["Lv Mingran", "secret lover of x"]
+    ],
+    "Luo Hengli": [
+      ["Mrs. Tan", "wife of x"], 
+      ["Tan Renchang", "son in law of x"]
+    ],
+    "Tan Renchang": [
+      ["Mrs. Tan", "wife of x"], 
+      ["Luo Hengli", "father in law of x"], 
+      ["Cheng Ge", "adoptive brother of x"], 
+      ["Shang Zhi", "nephew of x"]
+    ],
+    "Xinya": [
+      ["Mrs. Tan", "patient of x"], 
+      ["Cai Qian", "friend of x"]
+    ],
+    "Cai Qian": [
+      ["Mrs. Tan", "friend of x"], 
+      ["Luo Mingsha, Rosa", "friend of x"], 
+      ["Hai You", "friend of x"], 
+      ["Xinya", "friend of x"]
+    ],
+    "Mrs. Wei": [
+      ["Mrs. Tan", "friend of x"]
+    ],
+    "Lv Mingran": [
+      ["Mrs. Tan", "secret lover of x"]
+    ],
+    "Hai You": [
+      ["Cai Qian", "friend of x"]
+    ],
+    "Shang Zhi": [
+      ["Tan Renchang", "nephew of x"]
+    ],
+    "Cheng Ge": [
+      ["Tan Renchang", "adoptive brother of x"]
+    ]
+}

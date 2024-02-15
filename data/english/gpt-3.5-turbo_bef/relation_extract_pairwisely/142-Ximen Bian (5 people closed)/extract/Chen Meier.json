@@ -1,0 +1,91 @@
+{
+    "Chen Meier": [
+      ["Chen Meier's parents", "child of x"], 
+      ["young master", "helper of x, friend of x"], 
+      ["Ximen Zhao family second son, zhao zhongyuang", "romantic relationships with x"], 
+      ["Majesty of Zhao ZHONGZHEG", "romantic relationships with x, information receiver from x"], 
+      ["Zhao Zhongyang", "romantic relationships with x"], 
+      ["Zhao ZHONGZHENG", "fondness of x, romantic relationships with x"], 
+      ["Zhao family members", "acquaintance of x, lover of x"], 
+      ["Li Cheng", "romantic relationships with x, informant of x"]
+    ],
+    "Chen Meier's parents": [
+      ["sister-in-law", "friend of x"], 
+      ["Ximen Zhao family second son, zhao zhongyuang", "friend of x, informant of x"], 
+      ["Majesty of Zhao ZHONGZHEG", "father of x"], 
+      ["Zhao ZHONGZHENG", "suspicious of x"], 
+      ["Zhao family members", "fondness of x"], 
+      ["Li Cheng", "guard of x"]
+    ],
+    "sister-in-law": [
+      ["Chen Meier's parents", "friend of x"], 
+      ["young master", "wife of x, lover of x"], 
+      ["Ximen Zhao family second son, zhao zhongyuang", "father of x"], 
+      ["Majesty of Zhao ZHONGZHEG", "romantic relationships with x"], 
+      ["Zhao ZHONGZHENG", "ex romantic relationships with x, disliked by x"], 
+      ["Zhao family members", "helper of x"], 
+      ["Li Cheng", "future relative of x"]
+    ],
+    "young master": [
+      ["sister-in-law", "brother in law of x"], 
+      ["Ximen Zhao family second son, zhao zhongyuang", "helper of x"], 
+      ["Majesty of Zhao ZHONGZHEG", "romantic relationships with x, information receiver from x"], 
+      ["Zhao Zhongyang", "romantic relationships with x"], 
+      ["Zhao ZHONGZHENG", "enemy of x"], 
+      ["Zhao family members", "fiance of x, ex romantic relationships with x"], 
+      ["Li Cheng", "friend of x"]
+    ],
+    "Ximen Zhao family second son, zhao zhongyuang": [
+      ["Chen Meier", "romantic relationships with x"], 
+      ["Chen Meier's parents", "helper of x, helped by x"], 
+      ["sister-in-law", "child of x"], 
+      ["young master", "helped by x"], 
+      ["Zhao ZHONGZHENG", "romantic relationships with x"], 
+      ["Li Cheng", "romantic relationships with x, informant of x"]
+    ],
+    "Majesty of Zhao ZHONGZHEG": [
+      ["Chen Meier", "romantic relationships with x, informant of x"], 
+      ["Chen Meier's parents", "victim of x"], 
+      ["sister-in-law", "romantic relationships with x"], 
+      ["young master", "romantic relationships with x, information receiver from x"], 
+      ["Zhao Zhongyang", "romantic relationships with x, informant of x"], 
+      ["Zhao ZHONGZHENG", "lover of x"], 
+      ["Zhao family members", "extramarital affair with x"], 
+      ["Li Cheng", "romantic relationships with x"]
+    ],
+    "Zhao Zhongyang": [
+      ["Chen Meier", "romantic relationships with x"], 
+      ["Chen Meier's parents", "admirer of x"], 
+      ["young master", "romantic relationships with x"], 
+      ["Majesty of Zhao ZHONGZHEG", "romantic relationships with x, informant of x"], 
+      ["Zhao ZHONGZHENG", "romantic relationships with x, admirer of x"], 
+      ["Li Cheng", "romantic relationships with x"]
+    ],
+    "Zhao ZHONGZHENG": [
+      ["Chen Meier", "admired by x, romantic relationships with x"], 
+      ["sister-in-law", "ex romantic relationships with x, disliked by x"], 
+      ["young master", "enemy of x"], 
+      ["Ximen Zhao family second son, zhao zhongyuang", "romantic relationships with x"], 
+      ["Majesty of Zhao ZHONGZHEG", "lover of x"], 
+      ["Zhao Zhongyang", "romantic relationships with x, ex romantic relationships with x"], 
+      ["Li Cheng", "friend of x, helper of x"]
+    ],
+    "Zhao family members": [
+      ["Chen Meier", "acquaintance of x, lover of x"], 
+      ["sister-in-law", "helped by x"], 
+      ["young master", "fiancee of x, ex romantic relationships with x"], 
+      ["Majesty of Zhao ZHONGZHEG", "extramarital affair with x"], 
+      ["Li Cheng", "friend of x"]
+    ],
+    "Li Cheng": [
+      ["Chen Meier", "romantic relationships with x, information receiver from x"], 
+      ["Chen Meier's parents", "employer of x"], 
+      ["sister-in-law", "future relative of x"], 
+      ["young master", "friend of x"], 
+      ["Ximen Zhao family second son, zhao zhongyuang", "romantic relationships with x, informant of x"], 
+      ["Majesty of Zhao ZHONGZHEG", "romantic relationships with x"], 
+      ["Zhao Zhongyang", "romantic relationships with x"], 
+      ["Zhao ZHONGZHENG", "friend of x, helped by x"], 
+      ["Zhao family members", "friend of x"]
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "Feng Shuangji": [
+      ["Feng Zhu", "husband of x, father of x"], 
+      ["Guo Wangshan", "acquaintance of x, friend of x, helper of x"], 
+      ["Li Yu", "husband of x, friend of x"], 
+      ["Qi Yue", "mentor of x, friend of x, helper of x, subordinate of x"], 
+      ["Ren Shifu", "master of x, employer of x, helper of x, friend of x, acquaintance of x"], 
+      ["Yin Shaoming", "acquaintance of x, colleague of x, friend of x, helper of x, mentor of x, subordinate of x"], 
+      ["Zhao Luoyi", "employer of x, master of x"], 
+      ["Zhao Qiuer", "acquaintance of x, friend of x, helper of x"], 
+      ["Zhao Wanlei", "friend of x, helper of x, acquaintance of x"], 
+      ["Zhao Wei", "husband of x, father of x"]
+    ],
+    "Feng Zhu": [
+      ["Feng Shuangji", "wife of x, mother of x"], 
+      ["Guo Wangshan", "friend of x"], 
+      ["Li Yu", "wife of x, mother of x"], 
+      ["Qi Yue", "wife of x, mother of x"], 
+      ["Yin Shaoming", "biological daughter of x"], 
+      ["Zhao Luoyi", "wife of x, mother of x"], 
+      ["Zhao Qiuer", "sibling of x, friend of x"], 
+      ["Zhao Wanlei", "husband of x, father of x"], 
+      ["Zhao Wei", "wife of x, mother of x"]
+    ],
+    "Guo Wangshan": [
+      ["Feng Shuangji", "acquaintance of x, friend of x, helper of x"], 
+      ["Feng Zhu", "friend of x"], 
+      ["Li Yu", "husband of x, informant of x"], 
+      ["Qi Yue", "husband of x, father of x"], 
+      ["Ren Shifu", "master of x, employer of x, friend of x"], 
+      ["Yin Shaoming", "husband of x, ex romantic relationships with x"], 
+      ["Zhao Luoyi", "husband of x, father of x"], 
+      ["Zhao Qiuer", "friend of x, helper of x, acquaintance of x"], 
+      ["Zhao Wanlei", "acquaintance of x, friend of x, colleague of x, business partner of x"], 
+      ["Zhao Wei", "friend of x, mentor of x, teacher of x, informant of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x"]
+    ],
+    "Li Yu": [
+      ["Feng Shuangji", "wife of x, friend of x"], 
+      ["Feng Zhu", "husband of x, father of x"], 
+      ["Guo Wangshan", "wife of x, information receiver from x"], 
+      ["Qi Yue", "wife of x, friend of x, colleague of x"], 
+      ["Ren Shifu", "master of x, employer of x"], 
+      ["Yin Shaoming", "wife of x, friend of x"], 
+      ["Zhao Luoyi", "wife of x, mother of x"], 
+      ["Zhao Qiuer", "wife of x, mother of x"], 
+      ["Zhao Wanlei", "wife of x, mother of x"], 
+      ["Zhao Wei", "wife of x, mother of x"]
+    ],
+    "Qi Yue": [
+      ["Feng Shuangji", "mentor of x, friend of x, helper of x, subordinate of x"], 
+      ["Feng Zhu", "husband of x, father of x"], 
+      ["Guo Wangshan", "wife of x, mother of x"], 
+      ["Li Yu", "husband of x, friend of x, colleague of x"], 
+      ["Ren Shifu", "master of x, friend of x"], 
+      ["Yin Shaoming", "husband of x, father of x"], 
+      ["Zhao Luoyi", "husband of x, father of x"], 
+      ["Zhao Qiuer", "husband of x, father of x"], 
+      ["Zhao Wanlei", "friend of x"], 
+      ["Zhao Wei", "husband of x, father of x"]
+    ],
+    "Ren Shifu": [
+      ["Feng Shuangji", "master of x, employer of x, helper of x, friend of x, acquaintance of x"], 
+      ["Guo Wangshan", "master of x, employer of x, friend of x"], 
+      ["Li Yu", "master of x, employer of x"], 
+      ["Qi Yue", "friend of x, employer of x"], 
+      ["Yin Shaoming", "master of x"], 
+      ["Zhao Luoyi", "adversary of x, enemy of x"], 
+      ["Zhao Qiuer", "master of x, employer of x, helper of x"], 
+      ["Zhao Wanlei", "master of x, employer of x, superior of x, friend of x, acquaintance of x"], 
+      ["Zhao Wei", "master of x"]
+    ],
+    "Yin Shaoming": [
+      ["Feng Shuangji", "acquaintance of x, colleague of x, friend of x, helper of x, mentor of x, subordinate of x"], 
+      ["Feng Zhu", "biological father of x"], 
+      ["Guo Wangshan", "wife of x, romantic relationships with x"], 
+      ["Li Yu", "husband of x, friend of x"], 
+      ["Qi Yue", "wife of x, mother of x"], 
+      ["Zhao Luoyi", "husband of x, father of x"], 
+      ["Zhao Qiuer", "friend of x, helper of x, acquaintance of x"], 
+      ["Zhao Wanlei", "friend of x, mentor of x, helper of x, acquaintance of x"], 
+      ["Zhao Wei", "friend of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Feng Shuangji", "employer of x, master of x"], 
+      ["Feng Zhu", "husband of x, father of x"], 
+      ["Guo Wangshan", "wife of x, mother of x"], 
+      ["Li Yu", "husband of x, father of x"], 
+      ["Qi Yue", "wife of x, mother of x"], 
+      ["Ren Shifu", "adversary of x, enemy of x"], 
+      ["Yin Shaoming", "wife of x, mother of x"], 
+      ["Zhao Qiuer", "wife of x, mother of x"], 
+      ["Zhao Wanlei", "friend of x, helper of x, acquaintance of x"], 
+      ["Zhao Wei", "husband of x, father of x"]
+    ],
+    "Zhao Qiuer": [
+      ["Feng Shuangji", "acquaintance of x, friend of x, helper of x"], 
+      ["Feng Zhu", "sibling of x, friend of x"], 
+      ["Guo Wangshan", "friend of x, helper of x, acquaintance of x"], 
+      ["Li Yu", "husband of x, father of x"], 
+      ["Qi Yue", "wife of x, mother of x"], 
+      ["Ren Shifu", "helper of x, friend of x"], 
+      ["Yin Shaoming", "friend of x, helper of x, acquaintance of x"], 
+      ["Zhao Luoyi", "husband of x, father of x"], 
+      ["Zhao Wanlei", "friend of x, helper of x"], 
+      ["Zhao Wei", "husband of x, father of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Feng Shuangji", "friend of x, employer of x, acquaintance of x"], 
+      ["Feng Zhu", "wife of x, mother of x"], 
+      ["Guo Wangshan", "acquaintance of x, friend of x, colleague of x, business partner of x"], 
+      ["Li Yu", "husband of x, father of x"], 
+      ["Qi Yue", "friend of x"], 
+      ["Ren Shifu", "helper of x, friend of x, master of x, employer of x, superior of x"], 
+      ["Yin Shaoming", "friend of x, mentor of x, employer of x, acquaintance of x"], 
+      ["Zhao Luoyi", "friend of x, helper of x, acquaintance of x"], 
+      ["Zhao Qiuer", "friend of x, helper of x"], 
+      ["Zhao Wei", "brother in law of x, friend of x"]
+    ],
+    "Zhao Wei": [
+      ["Feng Shuangji", "wife of x, mother of x"], 
+      ["Feng Zhu", "husband of x, father of x"], 
+      ["Guo Wangshan", "son of x, student of x, friend of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["Li Yu", "husband of x, father of x"], 
+      ["Qi Yue", "wife of x, mother of x"], 
+      ["Ren Shifu", "student of x"], 
+      ["Yin Shaoming", "friend of x"], 
+      ["Zhao Luoyi", "wife of x, mother of x"], 
+      ["Zhao Qiuer", "wife of x, mother of x"], 
+      ["Zhao Wanlei", "brother in law of x, friend of x"]
+    ]
+}

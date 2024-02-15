@@ -1,0 +1,234 @@
+{
+    "Liao Xuehan": [
+        [
+            "Liao Yiqiao",
+            "father of x"
+        ],
+        [
+            "Liao Yiqiao",
+            "employer of x"
+        ],
+        [
+            "Liao's Trading Company",
+            "employer of x"
+        ],
+        [
+            "Dr. Zhang",
+            "doctor of x"
+        ],
+        [
+            "Julie",
+            "informant of x"
+        ],
+        [
+            "Julie",
+            "cared for x when x was ill"
+        ],
+        [
+            "Lv Mingran",
+            "helper of x"
+        ],
+        [
+            "Cheng Ge",
+            "adopted by x"
+        ],
+        [
+            "Cheng Ge",
+            "helped by x"
+        ],
+        [
+            "Shang Zhi",
+            "suspect of x"
+        ],
+        [
+            "Tan Renchang",
+            "business partner of x"
+        ],
+        [
+            "Tan Mingsha",
+            "wife of x"
+        ],
+        [
+            "Hai You",
+            "child of x"
+        ],
+        [
+            "Mrs. Wei",
+            "victim of x"
+        ],
+        [
+            "Lawyer",
+            "lawyer of x"
+        ],
+        [
+            "A Ping",
+            "personal maid of x"
+        ],
+        [
+            "A Ping",
+            "witness to x's activities"
+        ]
+    ],
+    "Liao Yiqiao": [
+        [
+            "Liao Xuehan",
+            "child of x"
+        ],
+        [
+            "Liao Xuehan",
+            "employee of x"
+        ],
+        [
+            "Liao's Trading Company",
+            "employer of x"
+        ]
+    ],
+    "Liao's Trading Company": [
+        [
+            "Liao Xuehan",
+            "child of x"
+        ],
+        [
+            "Liao Xuehan",
+            "employee of x"
+        ],
+        [
+            "Liao Yiqiao",
+            "employer of x"
+        ],
+        [
+            "Tan Renchang",
+            "business partner of x"
+        ]
+    ],
+    "Dr. Zhang": [
+        [
+            "Liao Xuehan",
+            "patient of x"
+        ]
+    ],
+    "Julie": [
+        [
+            "Liao Xuehan",
+            "informant of x"
+        ],
+        [
+            "Liao Xuehan",
+            "cared for x when x was ill"
+        ]
+    ],
+    "Hai You": [
+        [
+            "Liao Xuehan",
+            "helped by x"
+        ],
+        [
+            "Liao Xuehan",
+            "child of x"
+        ]
+    ],
+    "Tan Renchang": [
+        [
+            "Liao Xuehan",
+            "business partner of x"
+        ],
+        [
+            "Liao Xuehan",
+            "co-employer of x"
+        ],
+        [
+            "Tan Mingsha",
+            "husband of x"
+        ],
+        [
+            "Cheng Ge",
+            "adopted by x"
+        ]
+    ],
+    "Tan Mingsha": [
+        [
+            "Liao Xuehan",
+            "wife of x"
+        ],
+        [
+            "Tan Renchang",
+            "husband of x"
+        ]
+    ],
+    "Cheng Ge": [
+        [
+            "Liao Xuehan",
+            "adopted by x"
+        ],
+        [
+            "Liao Xuehan",
+            "helped by x"
+        ],
+        [
+            "Tan Renchang",
+            "adopted by x"
+        ]
+    ],
+    "Lv Mingran": [
+        [
+            "Liao Xuehan",
+            "helper of x"
+        ],
+        [
+            "Liao Xuehan",
+            "borrowed money from x"
+        ],
+        [
+            "Liao Xuehan",
+            "witnessed suspicious behavior involving x"
+        ],
+        [
+            "Shang Zhi",
+            "helper of x"
+        ],
+        [
+            "Shang Zhi",
+            "saw x's dead body"
+        ]
+    ],
+    "Mrs. Wei": [
+        [
+            "Liao Xuehan",
+            "victim of x"
+        ]
+    ],
+    "Shang Zhi": [
+        [
+            "Liao Xuehan",
+            "suspect of x"
+        ],
+        [
+            "Lv Mingran",
+            "helper of x"
+        ],
+        [
+            "Lv Mingran",
+            "witnessed suspicious behavior involving x"
+        ],
+        [
+            "Mrs. Tan",
+            "witnessed x's dead body"
+        ]
+    ],
+    "Lawyer": [
+        [
+            "Liao Xuehan",
+            "lawyer of x"
+        ]
+    ],
+    "A Ping": [
+        [
+            "Liao Xuehan",
+            "personal maid of x"
+        ],
+        [
+            "Liao Xuehan",
+            "witnessed x's activities"
+        ]
+    ]
+}

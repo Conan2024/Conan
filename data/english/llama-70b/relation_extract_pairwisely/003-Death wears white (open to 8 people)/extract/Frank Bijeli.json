@@ -1,0 +1,43 @@
+{
+    "Tony": [
+        [
+            "Father Tom",
+            "Brother"
+        ],
+        [
+            "People in the hospital",
+            "Father Tom",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Father Tom",
+            "People in the hospital"
+        ]
+    ],
+    "Father Tom": [
+        [
+            "Tony",
+            "Employer",
+            "Deceiver"
+        ],
+        [
+            "Tony",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "People in the hospital",
+            "Tony"
+        ]
+    ],
+    "People in the hospital": [
+        [
+            "Tony",
+            "Father Tom",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Father Tom",
+            "Tony"
+        ]
+    ]
+}

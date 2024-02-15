@@ -1,0 +1,57 @@
+{
+    "Mrs. Wei": [
+      ["Tan Renchang", "lover of x"], 
+      ["Mingsha", "friend of x"], 
+      ["Luo Hengli", "business partner of x"], 
+      ["Xinya", "acquaintance of x"], 
+      ["Hai You", "daughter of x, acquaintance of x"], 
+      ["Shang Zhi", "acquaintance of x"], 
+      ["Cheng Ge", "acquaintance of x"]
+    ],
+    "Tan Renchang": [
+      ["Mrs. Wei", "lover of x"], 
+      ["Mingsha", "sister in law of x, friend of x"], 
+      ["Luo Hengli", "friend of x"], 
+      ["Hai You", "daughter of x"], 
+      ["Shang Zhi", "acquaintance of x"]
+    ],
+    "Mingsha": [
+      ["Mrs. Wei", "friend of x"], 
+      ["Tan Renchang", "brother in law of x, husband of x"], 
+      ["Luo Hengli", "brother of x"], 
+      ["Hai You", "daughter of x"], 
+      ["Shang Zhi", "acquaintance of x"]
+    ],
+    "Luo Hengli": [
+      ["Mrs. Wei", "business partner of x"], 
+      ["Tan Renchang", "friend of x"], 
+      ["Mingsha", "brother of x"], 
+      ["Hai You", "daughter of x"], 
+      ["Shang Zhi", "acquaintance of x"]
+    ],
+    "Xinya": [
+      ["Mrs. Wei", "acquaintance of x"], 
+      ["Shang Zhi", "acquaintance of x"]
+    ],
+    "Hai You": [
+      ["Mrs. Wei", "daughter of x, acquaintance of x"], 
+      ["Tan Renchang", "daughter of x"], 
+      ["Mingsha", "daughter of x"], 
+      ["Luo Hengli", "daughter of x"], 
+      ["Shang Zhi", "acquaintance of x"]
+    ],
+    "Shang Zhi": [
+      ["Mrs. Wei", "acquaintance of x"], 
+      ["Tan Renchang", "acquaintance of x"], 
+      ["Mingsha", "acquaintance of x"], 
+      ["Luo Hengli", "acquaintance of x"], 
+      ["Xinya", "acquaintance of x"]
+    ],
+    "Cheng Ge": [
+      ["Mrs. Wei", "acquaintance of x"], 
+      ["Tan Renchang", "acquaintance of x"], 
+      ["Mingsha", "acquaintance of x"], 
+      ["Luo Hengli", "acquaintance of x"], 
+      ["Xinya", "acquaintance of x"]
+    ]
+}

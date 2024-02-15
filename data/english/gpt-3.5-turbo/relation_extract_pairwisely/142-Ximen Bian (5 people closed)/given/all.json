@@ -1,0 +1,188 @@
+{
+    "Zhang Wei": [
+        [
+            "Zhao Zhongyang",
+            "guard of"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "guard of"
+        ],
+        [
+            "Zhao San",
+            "guard of x",
+            "business partner of x"
+        ],
+        [
+            "Chen Meier",
+            "guard of"
+        ],
+        [
+            "Li Cheng",
+            "guard of x"
+        ],
+        [
+            "Ma Laoban",
+            "betrayed by x"
+        ]
+    ],
+    "Zhao Zhongyang": [
+        [
+            "Zhang Wei",
+            "close guard of"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "friend of x"
+        ],
+        [
+            "Zhao San",
+            "friend of x"
+        ],
+        [
+            "Chen Meier",
+            "fiance of x"
+        ],
+        [
+            "Li Cheng",
+            "guard of"
+        ],
+        [
+            "Ma Laoban",
+            "employer of x",
+            "customer of x"
+        ]
+    ],
+    "Zhao Zhongzheng": [
+        [
+            "Zhang Wei",
+            "close guard of"
+        ],
+        [
+            "Zhao Zhongyang",
+            "friend of x"
+        ],
+        [
+            "Zhao San",
+            "friend of"
+        ],
+        [
+            "Chen Meier",
+            "close relationship"
+        ],
+        [
+            "Li Cheng",
+            "guard of x"
+        ],
+        [
+            "Ma Laoban",
+            "buyer of x"
+        ]
+    ],
+    "Zhao San": [
+        [
+            "Zhang Wei",
+            "close guard of x",
+            "fellow businessman with x"
+        ],
+        [
+            "Zhao Zhongyang",
+            "friend of x"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "business partner of"
+        ],
+        [
+            "Chen Meier",
+            "friend of x"
+        ],
+        [
+            "Li Cheng",
+            "romantic relationships with x"
+        ],
+        [
+            "Ma Laoban",
+            "helper of x",
+            "replaced x's identity"
+        ]
+    ],
+    "Chen Meier": [
+        [
+            "Zhang Wei",
+            "employer of"
+        ],
+        [
+            "Zhao Zhongyang",
+            "fiancee of x"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "close relationship"
+        ],
+        [
+            "Zhao San",
+            "friend of x"
+        ],
+        [
+            "Li Cheng",
+            "fellow conspirators"
+        ],
+        [
+            "Ma Laoban",
+            "fondness of Zhang Wei",
+            "helper of Zhang Wei"
+        ]
+    ],
+    "Ma Laoban": [
+        [
+            "Zhang Wei",
+            "victim of x"
+        ],
+        [
+            "Zhao Zhongyang",
+            "employee of x",
+            "business partner of x"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "seller of x"
+        ],
+        [
+            "Zhao San",
+            "helper of x",
+            "replaced x's identity"
+        ],
+        [
+            "Chen Meier",
+            "fondness of Zhang Wei",
+            "helper of Zhang Wei"
+        ],
+        [
+            "Li Cheng",
+            "business partner of x"
+        ]
+    ],
+    "Li Cheng": [
+        [
+            "Zhao Zhongyang",
+            "guarded by"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "being cared by x"
+        ],
+        [
+            "Zhao San",
+            "romantic relationships with x"
+        ],
+        [
+            "Chen Meier",
+            "fellow conspirators"
+        ],
+        [
+            "Ma Laoban",
+            "business partner of x"
+        ]
+    ]
+}

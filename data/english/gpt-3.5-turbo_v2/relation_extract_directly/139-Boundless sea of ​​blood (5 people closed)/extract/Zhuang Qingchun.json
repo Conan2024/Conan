@@ -1,0 +1,71 @@
+{
+    "Zhuang Qingchun": [
+      ["Qin Expert", "stepfather of x zhuang qingchun, replaced x's identity"], 
+      ["Qin Laoda", "stepbrother of x zhuang qingchun"], 
+      ["Wei Xiaodi", "romantic relationships with zhuang qingchun of x"], 
+      ["Zheng Youhao", "romantic relationships with zhuang qingchun of x"], 
+      ["Jia Meili", "friend of x zhuang qingchun"], 
+      ["Xiao Tiyu", "romantic relationships with zhuang qingchun of x"], 
+      ["Xue Meiniang", "romantic relationships with xiao tiyu"], 
+      ["Mother", "mother of x zhuang qingchun"], 
+      ["Detective Office", "informant of x zhuang qingchun"], 
+      ["Qin Laoda", "victim of x zhuang qingchun"], 
+      ["Jia Meili", "deceived by zhuang qingchun of x"], 
+      ["Qin Expert", "deceiver of x zhuang qingchun"], 
+      ["Jia Meili", "suspected by zhuang qingchun of x"], 
+      ["Mother", "suspicious of x zhuang qingchun"], 
+      ["Jia Meili", "jealous of x zhuang qingchun"]
+    ],
+    "Qin Expert": [
+      ["Zhuang Qingchun", "stepfather of x zhuang qingchun, replaced x's identity"], 
+      ["Qin Laoda", "son of x qin expert"], 
+      ["Jia Meili", "extramarital affair with qin expert"], 
+      ["Jia Meili", "perpetrator of x zhuang qingchun's family"], 
+      ["Mother", "suspected by qin expert"], 
+      ["Jia Meili", "deceiver of x qin expert"], 
+      ["Jia Meili", "suspected by qin expert"], 
+      ["Jia Meili", "manipulated by qin expert"]
+    ],
+    "Qin Laoda": [
+      ["Zhuang Qingchun", "stepbrother of x zhuang qingchun"], 
+      ["Zhuang Qingchun", "romantic relationships with wei xiaodi"], 
+      ["Zhuang Qingchun", "romantic relationships with zheng youhao of x"], 
+      ["Zhuang Qingchun", "admirer of x jia meili"], 
+      ["Xiao Tiyu", "victim of x qin laoda"], 
+      ["Jia Meili", "attempted perpetrator of x qin laoda"], 
+      ["Zhuang Qingchun", "hate of x qin laoda"]
+    ],
+    "Wei Xiaodi": [
+      ["Zhuang Qingchun", "romantic relationships with zhuang qingchun of x"]
+    ],
+    "Zheng Youhao": [
+      ["Zhuang Qingchun", "romantic relationships with zhuang qingchun of x"]
+    ],
+    "Jia Meili": [
+      ["Zhuang Qingchun", "friend of x zhuang qingchun"], 
+      ["Xiao Tiyu", "romantic relationships with jia meili of x"], 
+      ["Qin Expert", "extramarital affair with jia meili"], 
+      ["Zhuang Qingchun", "deceived by jia meili of x"], 
+      ["Zhuang Qingchun", "perpetrator of x jia meili"], 
+      ["Xiao Tiyu", "attempted perpetrator of x jia meili"], 
+      ["Xue Meiniang", "romantic relationships with qin expert"], 
+      ["Qin Expert", "deceiver of x jia meili"], 
+      ["Zhuang Qingchun", "suspect of x jia meili"], 
+      ["Zhuang Qingchun", "jealous by jia meili of x"]
+    ],
+    "Xiao Tiyu": [
+      ["Zhuang Qingchun", "romantic relationships with zhuang qingchun of x"], 
+      ["Xue Meiniang", "romantic relationships with xiao tiyu"], 
+      ["Jia Meili", "victim of xiao tiyu"]
+    ],
+    "Xue Meiniang": [
+      ["Xiao Tiyu", "romantic relationships with xue meiniang"]
+    ],
+    "Mother": [
+      ["Zhuang Qingchun", "mother of x zhuang qingchun"], 
+      ["Qin Expert", "suspected by mother of x"]
+    ],
+    "Detective Office": [
+      ["Zhuang Qingchun", "informant of x zhuang qingchun"]
+    ]
+}

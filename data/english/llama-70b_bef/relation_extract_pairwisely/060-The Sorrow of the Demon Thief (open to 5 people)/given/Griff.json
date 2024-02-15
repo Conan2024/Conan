@@ -1,0 +1,143 @@
+{
+    "Assistant Ella": [
+      ["David", "colleague of x, business partner of x"], 
+      ["Griff", "same person as x (different reference), same person as x (different identity)"], 
+      ["Kevin", "acquaintance of x"], 
+      ["Logistics Griff", "suspect of x, victim of x"], 
+      ["Magician Gust", "same person as x (different reference), same person as x (different identity), friend of x, acquaintance of x"], 
+      ["Publicity Rowling", "colleague of x"], 
+      ["Rowling", "friend of x"], 
+      ["Security Kevin", "friend of x"]
+    ],
+    "David": [
+      ["Assistant Ella", "colleague of x, business partner of x"], 
+      ["Ella", "colleague of x, friend of x"], 
+      ["Griff", "friend of x, colleague of x"], 
+      ["Gust", "friend of x, rival of x"], 
+      ["Kevin", "acquaintance of x, rival of x"], 
+      ["Logistics Griff", "friend of x, mentor of x"], 
+      ["Magician Gust", "friend of x, rival of x"], 
+      ["Publicity Rowling", "friend of x, informant of x"], 
+      ["Rowling", "friend of x, acquaintance of x"], 
+      ["Security Kevin", "acquaintance of x, friend of x"], 
+      ["Theatrical Work David", "friend of x, acquaintance of x"]
+    ],
+    "Ella": [
+      ["David", "colleague of x, friend of x"], 
+      ["Griff", "same person as x (different reference), same person as x (different identity), romantic relationships with x, fiance of x, fiancee of x, co wives of x, child of x, son of x, daughter of x, sibling of x, brother of x, sister of x, relative of x, nephew of x, aunt of x, uncle of x, niece of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by x"], 
+      ["Kevin", "thief of x"], 
+      ["Logistics Griff", "same person as x (different reference), same person as x (different identity)"], 
+      ["Publicity Rowling", "acquaintance of x"], 
+      ["Theatrical Work David", "acquaintance of x"]
+    ],
+    "Griff": [
+      ["Assistant Ella", "same person as x (different reference), same person as x (different identity)"], 
+      ["David", "friend of x, colleague of x"], 
+      ["Ella", "same person as x (different reference), same person as x (different identity), romantic relationships with x, fiance of x, fiancee of x, co wives of x, child of x, son of x, daughter of x, sibling of x, brother of x, sister of x, relative of x, nephew of x, aunt of x, uncle of x, niece of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by x"], 
+      ["Gust", "informant of x"], 
+      ["Kevin", "colleague of x"], 
+      ["Logistics Griff", "colleague of x"], 
+      ["Magician Gust", "colleague of x, informant of x, adversary of x, enemy of x"], 
+      ["Publicity Rowling", "colleague of x, friend of x"], 
+      ["Rowling", "colleague of x, friend of x, informant of x"], 
+      ["Security Kevin", "colleague of x"], 
+      ["Theatrical Work David", "acquaintance of x, colleague of x"]
+    ],
+    "Gust": [
+      ["David", "friend of x, rival of x"], 
+      ["Griff", "employer of x, master of x"], 
+      ["Kevin", "acquaintance of x, suspect of x"], 
+      ["Logistics Griff", "employer of x, master of x, superior of x, informant of x, acquaintance of x"], 
+      ["Magician Gust", "employer of x, master of x, superior of x, informant of x, acquaintance of x"], 
+      ["Publicity Rowling", "employer of x, master of x, superior of x"], 
+      ["Rowling", "employee of x, superior of x, master of x, subordinate of x, colleague of x, business partner of x"], 
+      ["Security Kevin", "acquaintance of x, colleague of x"], 
+      ["Theatrical Work David", "acquaintance of x"]
+    ],
+    "Theatrical Work David": [
+      ["David", "friend of x, acquaintance of x"], 
+      ["Ella", "acquaintance of x"], 
+      ["Griff", "acquaintance of x, colleague of x"], 
+      ["Gust", "acquaintance of x"], 
+      ["Kevin", "acquaintance of x, suspect of x"], 
+      ["Logistics Griff", "acquaintance of x, classmate of x, colleague of x"], 
+      ["Magician Gust", "acquaintance of x, suspect of x"], 
+      ["Publicity Rowling", "acquaintance of x"], 
+      ["Rowling", "acquaintance of x"], 
+      ["Security Kevin", "colleague of x, friend of x"]
+    ],
+    "Publicity Rowling": [
+      ["Assistant Ella", "colleague of x"], 
+      ["David", "friend of x, informant of x"], 
+      ["Ella", "colleague of x, friend of x"], 
+      ["Griff", "colleague of x, friend of x"], 
+      ["Gust", "employee of x, subordinate of x, colleague of x"], 
+      ["Kevin", "colleague of x"], 
+      ["Logistics Griff", "colleague of x, friend of x"], 
+      ["Magician Gust", "acquaintance of x"], 
+      ["Rowling", "same person as x (different reference), same person as x (different identity)"], 
+      ["Security Kevin", "colleague of x"], 
+      ["Theatrical Work David", "acquaintance of x"]
+    ],
+    "Kevin": [
+      ["Assistant Ella", "acquaintance of x"], 
+      ["David", "acquaintance of x, rival of x"], 
+      ["Ella", "thief of x"], 
+      ["Griff", "colleague of x"], 
+      ["Gust", "acquaintance of x, suspect of x"], 
+      ["Logistics Griff", "suspect of x, bully of x, perpetrator of x, attempted murderer of x"], 
+      ["Magician Gust", "suspect of x, bully of x, attempted perpetrator of x"], 
+      ["Publicity Rowling", "colleague of x"], 
+      ["Rowling", "acquaintance of x, suspect of x"], 
+      ["Theatrical Work David", "acquaintance of x, suspect of x"]
+    ],
+    "Logistics Griff": [
+      ["Assistant Ella", "suspect of x, perpetrator of x"], 
+      ["David", "friend of x, mentor of x"], 
+      ["Ella", "same person as x (different reference), same person as x (different identity)"], 
+      ["Griff", "colleague of x"], 
+      ["Gust", "employee of x, subordinate of x, business partner of x, customer of x, tenant of x"], 
+      ["Kevin", "acquaintance of x, classmate of x, schoolmate of x, neighbour of x"], 
+      ["Magician Gust", "perpetrator of x, bully of x, attempted murderer of x, adversary of x, enemy of x, rival of x, manipulator of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["Publicity Rowling", "colleague of x, friend of x"], 
+      ["Rowling", "colleague of x, informant of x, adversary of x, enemy of x"], 
+      ["Security Kevin", "colleague of x"], 
+      ["Theatrical Work David", "acquaintance of x, classmate of x, colleague of x"]
+    ],
+    "Magician Gust": [
+      ["Assistant Ella", "same person as x (different reference), same person as x (different identity), employer of x, master of x, superior of x"], 
+      ["David", "friend of x, rival of x"], 
+      ["Ella", "employer of x"], 
+      ["Griff", "colleague of x, informant of x, adversary of x, enemy of x"], 
+      ["Gust", "employer of x, master of x, superior of x, informant of x, acquaintance of x"], 
+      ["Kevin", "employer of x, master of x, superior of x"], 
+      ["Logistics Griff", "victim of x, killed by x, dislike of x, disliked by x, deceiver of x, betrayer of x, deceived by x, betrayed by x, suspected by x, suspicious of x, suspect of x, adversary of x, enemy of x, rival of x, manipulator of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["Publicity Rowling", "acquaintance of x"], 
+      ["Rowling", "employer of x, master of x, superior of x, mentor of x, teacher of x, informant of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, suspicious of x, suspect of x, adversary of x, enemy of x, rival of x"], 
+      ["Security Kevin", "acquaintance of x, suspect of x"], 
+      ["Theatrical Work David", "acquaintance of x, suspect of x"]
+    ],
+    "Rowling": [
+      ["Assistant Ella", "friend of x"], 
+      ["David", "friend of x, acquaintance of x"], 
+      ["Griff", "colleague of x, friend of x, informant of x"], 
+      ["Gust", "employee of x, superior of x, master of x, subordinate of x, colleague of x, business partner of x"], 
+      ["Kevin", "acquaintance of x, suspect of x"], 
+      ["Logistics Griff", "colleague of x, informant of x, adversary of x, enemy of x"], 
+      ["Magician Gust", "employer of x, master of x, superior of x, mentor of x, teacher of x, informant of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, suspicious of x, suspect of x, adversary of x, enemy of x, rival of x"], 
+      ["Publicity Rowling", "same person as x (different reference), same person as x (different identity)"], 
+      ["Security Kevin", "acquaintance of x"], 
+      ["Theatrical Work David", "acquaintance of x"]
+    ],
+    "Security Kevin": [
+      ["Assistant Ella", "friend of x"], 
+      ["David", "acquaintance of x, friend of x"], 
+      ["Griff", "colleague of x"], 
+      ["Gust", "acquaintance of x, colleague of x"], 
+      ["Logistics Griff", "colleague of x"], 
+      ["Magician Gust", "acquaintance of x, suspect of x"], 
+      ["Publicity Rowling", "colleague of x"], 
+      ["Rowling", "acquaintance of x"], 
+      ["Theatrical Work David", "colleague of x, friend of x"]
+    ]
+}

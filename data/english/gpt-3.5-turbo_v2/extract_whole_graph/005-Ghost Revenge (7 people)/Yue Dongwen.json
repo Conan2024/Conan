@@ -1,0 +1,60 @@
+{
+    "Yue Dongwen": [
+      ["Master Meng", "friend of x"], 
+      ["Chinese martial artist", "admired by of x"], 
+      ["Akiyama Zuoman", "adversary of x"], 
+      ["Wu Baian", "employee of x, co worker of x"], 
+      ["Yue Kesa", "son of x"], 
+      ["AMing", "friend of x, benefactor of x"], 
+      ["xia Sanhu", "debtor of x"], 
+      ["xia Zhongpeng", "brother of x"], 
+      ["XIA Shue", "affectionate towards of x"], 
+      ["Li Zicai", "classmate of x"], 
+      ["Nursery Chief", "colleague of x"], 
+      ["alun", "driver of x"], 
+      ["Wu Baian's wife", "deceased of x"]
+    ],
+    "Wu Baian": [
+      ["Yue Dongwen", "employer of x, co worker of x"], 
+      ["Wu Baian's wife", "deceased of x"], 
+      ["Yue Kesa", "son of x"], 
+      ["AMing", "friend of x"], 
+      ["xia Shue", "trusted by of x"], 
+      ["Nursery Chief", "colleague of x"], 
+      ["xia Sanhu", "colleague of x"]
+    ],
+    "Yue Kesa": [
+      ["Yue Dongwen", "son of x"], 
+      ["xia Shue", "friend of x"]
+    ],
+    "xia Sanhu": [
+      ["Yue Dongwen", "debtor of x"], 
+      ["Yue Kesa", "debtor of x"], 
+      ["xia Zhongpeng", "brother of x"], 
+      ["XIA Shue", "niece of x"]
+    ],
+    "xia Zhongpeng": [
+      ["xia Sanhu", "brother of x"]
+    ],
+    "XIA Shue": [
+      ["Yue Dongwen", "affectionate towards of x"], 
+      ["Yue Kesa", "friend of x"], 
+      ["xia Sanhu", "niece of x"], 
+      ["wu Baian", "trusted by of x"]
+    ],
+    "AMing": [
+      ["Yue Dongwen", "friend of x, benefactor of x"], 
+      ["Li Zicai", "father of x"]
+    ],
+    "Li Zicai": [
+      ["Yue Dongwen", "classmate of x"], 
+      ["AMing", "son of x"]
+    ],
+    "Nursery Chief": [
+      ["Yue Dongwen", "colleague of x"], 
+      ["Wu Baian", "colleague of x"]
+    ],
+    "alun": [
+      ["Yue Dongwen", "driver of x"]
+    ]
+}

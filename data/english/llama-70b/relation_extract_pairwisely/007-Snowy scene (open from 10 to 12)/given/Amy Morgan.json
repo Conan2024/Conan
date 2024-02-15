@@ -1,0 +1,362 @@
+{
+    "Alex Harvey": [
+        [
+            "Amy Morgan",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Anna",
+            "Friend of X",
+            "Business Partner of X"
+        ],
+        [
+            "Harold Harrison",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Joe Robertson",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "John Morgan",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Lucy Harrison",
+            "Friend of X",
+            "Business Partner of X"
+        ],
+        [
+            "Marina Harrison",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Max Pike",
+            "Friend",
+            "Business Partner"
+        ]
+    ],
+    "Amy Morgan": [
+        [
+            "Alex Harvey",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Anna",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Harold Harrison",
+            "Sister of X",
+            "Friend of X"
+        ],
+        [
+            "Joe Robertson",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "John Morgan",
+            "Wife of X",
+            "Friend of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Friend of X",
+            "Business Partner of X"
+        ],
+        [
+            "Marina Harrison",
+            "Sister, Dislike"
+        ],
+        [
+            "Max Pike",
+            "Friend",
+            "Business Partner"
+        ]
+    ],
+    "Anna": [
+        [
+            "Alex Harvey",
+            "Friend of X",
+            "Business Partner of X"
+        ],
+        [
+            "Amy Morgan",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Harold Harrison",
+            "Wife of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Joe Robertson",
+            "Wife of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "John Morgan",
+            "Wife of X",
+            "Ex-wife of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Sister, Rival"
+        ],
+        [
+            "Marina Harrison",
+            "Sister-in-law",
+            "Dislike"
+        ],
+        [
+            "Max Pike",
+            "Stranger to X"
+        ]
+    ],
+    "Harold Harrison": [
+        [
+            "Alex Harvey",
+            "Sibling",
+            "Beneficiary"
+        ],
+        [
+            "Amy Morgan",
+            "Brother of X",
+            "Friend of X"
+        ],
+        [
+            "Anna",
+            "Husband of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Joe Robertson",
+            "brother, friend"
+        ],
+        [
+            "John Morgan",
+            "brother, friend"
+        ],
+        [
+            "Lucy Harrison",
+            "Brother, Protector"
+        ],
+        [
+            "Marina Harrison",
+            "Brother",
+            "Friend"
+        ],
+        [
+            "Max Pike",
+            "Brother, Suspect"
+        ]
+    ],
+    "Joe Robertson": [
+        [
+            "Alex Harvey",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Amy Morgan",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Anna",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Harold Harrison",
+            "brother, friend"
+        ],
+        [
+            "John Morgan",
+            "Friend",
+            "Beneficiary"
+        ],
+        [
+            "Lucy Harrison",
+            "Friend of X",
+            "Business Partner of X"
+        ],
+        [
+            "Marina Harrison",
+            "brother-in-law, friend"
+        ],
+        [
+            "Max Pike",
+            "Friend of X",
+            "Business Partner of X"
+        ]
+    ],
+    "John Morgan": [
+        [
+            "Alex Harvey",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Amy Morgan",
+            "Husband of X",
+            "Friend of X"
+        ],
+        [
+            "Anna",
+            "Husband of X",
+            "Ex-husband of X"
+        ],
+        [
+            "Harold Harrison",
+            "brother-in-law, friend"
+        ],
+        [
+            "Joe Robertson",
+            "Friend",
+            "Beneficiary"
+        ],
+        [
+            "Lucy Harrison",
+            "Husband of X",
+            "Stranger to X"
+        ],
+        [
+            "Marina Harrison",
+            "Husband of X",
+            "Wife of X"
+        ],
+        [
+            "Max Pike",
+            "Husband of X",
+            "Ex-husband of X"
+        ]
+    ],
+    "Lucy Harrison": [
+        [
+            "Alex Harvey",
+            "Friend of X",
+            "Business Partner of X"
+        ],
+        [
+            "Amy Morgan",
+            "Friend of X",
+            "Business Partner of X"
+        ],
+        [
+            "Anna",
+            "Sister, Rival"
+        ],
+        [
+            "Harold Harrison",
+            "Brother, Protected"
+        ],
+        [
+            "Joe Robertson",
+            "Friend of X",
+            "Business Partner of X"
+        ],
+        [
+            "John Morgan",
+            "Wife of X",
+            "Stranger to X"
+        ],
+        [
+            "Marina Harrison",
+            "Sister, Dislike"
+        ],
+        [
+            "Max Pike",
+            "Friend of X",
+            "Business Partner of X"
+        ]
+    ],
+    "Marina Harrison": [
+        [
+            "Alex Harvey",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Amy Morgan",
+            "Sister, Disliked"
+        ],
+        [
+            "Anna",
+            "Brother-in-law",
+            "Disliked"
+        ],
+        [
+            "Harold Harrison",
+            "Sister",
+            "Friend"
+        ],
+        [
+            "Joe Robertson",
+            "sister-in-law, friend"
+        ],
+        [
+            "John Morgan",
+            "Husband of X",
+            "Wife of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Sister, Disliked"
+        ],
+        [
+            "Max Pike",
+            "Same person as X (different reference)",
+            "Ex-romantic relationships with X"
+        ]
+    ],
+    "Max Pike": [
+        [
+            "Alex Harvey",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Amy Morgan",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Anna",
+            "Stranger to X"
+        ],
+        [
+            "Harold Harrison",
+            "Brother-in-law, Suspect"
+        ],
+        [
+            "Joe Robertson",
+            "Friend of X",
+            "Business Partner of X"
+        ],
+        [
+            "John Morgan",
+            "Husband of X",
+            "Ex-husband of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Friend of X",
+            "Business Partner of X"
+        ],
+        [
+            "Marina Harrison",
+            "Same person as X (different reference)",
+            "Ex-romantic relationships with X"
+        ]
+    ]
+}

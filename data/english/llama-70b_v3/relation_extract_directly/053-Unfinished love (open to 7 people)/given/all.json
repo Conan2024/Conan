@@ -1,0 +1,39 @@
+{
+    "Lin Xi": [
+      ["Gu Yu", "boyfriend of x"], 
+      ["Su Yang", "lover of x, acquaintance of x"], 
+      ["Gu Qing", "sister in law of x, friend of x"], 
+      ["Lin Weiren", "father of x, enemy of x"], 
+      ["Shen Cheng", "acquaintance of x"]
+    ],
+    "Gu Yu": [
+      ["Lin Xi", "girlfriend of x"], 
+      ["Su Yang", "brother in law of x, acquaintance of x"], 
+      ["Gu Qing", "sister of x, friend of x"], 
+      ["Lin Weiren", "uncle of x, enemy of x"]
+    ],
+    "Su Yang": [
+      ["Lin Xi", "girlfriend of x, acquaintance of x"], 
+      ["Gu Yu", "brother in law of x, acquaintance of x"], 
+      ["Gu Qing", "friend of x, acquaintance of x"], 
+      ["Lin Weiren", "father in law of x, enemy of x"]
+    ],
+    "Gu Qing": [
+      ["Lin Xi", "friend of x, sister in law of x"], 
+      ["Gu Yu", "brother of x, friend of x"], 
+      ["Su Yang", "friend of x, acquaintance of x"], 
+      ["Lin Weiren", "father of x, enemy of x"]
+    ],
+    "Lin Weiren": [
+      ["Lin Xi", "daughter of x, enemy of x"], 
+      ["Gu Yu", "uncle of x, enemy of x"], 
+      ["Su Yang", "son in law of x, enemy of x"], 
+      ["Gu Qing", "daughter of x, enemy of x"]
+    ],
+    "Shen Cheng": [
+      ["Lin Xi", "employer of x, acquaintance of x"], 
+      ["Gu Yu", "acquaintance of x"], 
+      ["Su Yang", "acquaintance of x"], 
+      ["Lin Weiren", "employer of x, enemy of x"]
+    ]
+}

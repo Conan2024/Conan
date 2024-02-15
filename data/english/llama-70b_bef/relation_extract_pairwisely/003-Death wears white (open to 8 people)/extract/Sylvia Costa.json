@@ -1,0 +1,33 @@
+{
+    "Hans Li Morette": [
+      ["Gale Li Morette", "colleague of x, friend of x"], 
+      ["Dr. Paloski", "friend of x, colleague of x"], 
+      ["Elaine Carter", "friend of x, colleague of x"], 
+      ["Richard Berkeley", "friend of x, colleague of x"]
+    ],
+    "Gale Li Morette": [
+      ["Hans Li Morette", "colleague of x, friend of x"]
+    ],
+    "Drake Li Morette": [
+      ["Hans Li Morette", "brother of x"], 
+      ["Dr. Paloski", "colleague of x"], 
+      ["Elaine Carter", "acquaintance of x"], 
+      ["Richard Berkeley", "colleague of x"]
+    ],
+    "Dr. Paloski": [
+      ["Hans Li Morette", "friend of x, colleague of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Richard Berkeley", "superior of x, employee of x, servant of x"]
+    ],
+    "Elaine Carter": [
+      ["Hans Li Morette", "friend of x, colleague of x"], 
+      ["Drake Li Morette", "acquaintance of x"], 
+      ["Richard Berkeley", "colleague of x"]
+    ],
+    "Richard Berkeley": [
+      ["Hans Li Morette", "friend of x, colleague of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Dr. Paloski", "superior of x, employer of x"], 
+      ["Elaine Carter", "colleague of x"]
+    ]
+}

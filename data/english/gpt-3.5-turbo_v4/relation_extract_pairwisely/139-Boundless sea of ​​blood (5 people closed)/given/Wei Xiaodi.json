@@ -1,0 +1,67 @@
+{
+    "Wei Xiaodi": [
+      ["Wei Xiaodi's Father", "child of x"], 
+      ["Wei Xiaodi's Mother", "child of x"], 
+      ["Qin Expert", "extramarital affair with x"], 
+      ["Qin Laoda", "friend of x"], 
+      ["Zhuang Qingchun", "classmate of x"], 
+      ["Jia Meili", "classmate of x, friend of x"], 
+      ["Zheng Youhao", "classmate of x"]
+    ],
+    "Wei Xiaodi's Father": [
+      ["Wei Xiaodi", "father of x"], 
+      ["Wei Xiaodi's Mother", "husband of x"], 
+      ["Qin Expert", "father of x"], 
+      ["Qin Laoda", "friend of x"], 
+      ["Zhuang Qingchun", "friend of x, mentor of x"], 
+      ["Jia Meili", "father of x"], 
+      ["Zheng Youhao", "helper of x, helped by x"]
+    ],
+    "Wei Xiaodi's Mother": [
+      ["Wei Xiaodi", "mother of x"], 
+      ["Wei Xiaodi's Father", "wife of x"], 
+      ["Qin Expert", "extramarital affair with x"], 
+      ["Qin Laoda", "murderer of x"], 
+      ["Jia Meili", "friend of x, neighbour of x"], 
+      ["Zheng Youhao", "friend of x"]
+    ],
+    "Qin Expert": [
+      ["Wei Xiaodi", "victim of x"], 
+      ["Wei Xiaodi's Father", "perpetrator of x, disliked by x"], 
+      ["Wei Xiaodi's Mother", "extramarital affair with x"], 
+      ["Qin Laoda", "romantic relationships with x, adversary of x"], 
+      ["Zhuang Qingchun", "romantic relationships with x"], 
+      ["Jia Meili", "romantic relationships with x"], 
+      ["Zheng Youhao", "romantic relationships with x"]
+    ],
+    "Qin Laoda": [
+      ["Wei Xiaodi's Mother", "victim of x"], 
+      ["Qin Expert", "romantic relationships with x, adversary of x"], 
+      ["Zhuang Qingchun", "friend of x"], 
+      ["Jia Meili", "friend of x"], 
+      ["Zheng Youhao", "friend of x"]
+    ],
+    "Zhuang Qingchun": [
+      ["Wei Xiaodi", "classmate of x"], 
+      ["Wei Xiaodi's Father", "friend of x"], 
+      ["Qin Expert", "romantic relationships with x"], 
+      ["Qin Laoda", "classmate of x"], 
+      ["Jia Meili", "classmate of x"]
+    ],
+    "Jia Meili": [
+      ["Wei Xiaodi", "classmate of x, friend of x"], 
+      ["Wei Xiaodi's Father", "admirer of x"], 
+      ["Wei Xiaodi's Mother", "friend of x, neighbour of x"], 
+      ["Qin Expert", "romantic relationships with x"], 
+      ["Qin Laoda", "friend of x"], 
+      ["Zhuang Qingchun", "classmate of x"], 
+      ["Zheng Youhao", "romantic relationships with x"]
+    ],
+    "Zheng Youhao": [
+      ["Wei Xiaodi", "helped by x"], 
+      ["Wei Xiaodi's Father", "helper of x, helped by x"], 
+      ["Wei Xiaodi's Mother", "helper of x"], 
+      ["Qin Expert", "romantic relationships with x"], 
+      ["Jia Meili", "romantic relationships with x"]
+    ]
+}

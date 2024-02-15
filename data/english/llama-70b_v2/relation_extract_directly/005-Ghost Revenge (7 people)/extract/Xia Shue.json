@@ -1,0 +1,54 @@
+{
+    "Xia Shue": [
+      ["Xia Bolong", "father of x"], 
+      ["Xia Zhongpeng", "uncle of x"], 
+      ["Luo Ming", "disciple of x"], 
+      ["Yue Kesa", "disciple of x"], 
+      ["Wu Bobo", "acquaintance of x"]
+    ],
+    "Xia Bolong": [
+      ["Xia Shue", "daughter of x"]
+    ],
+    "Xia Zhongpeng": [
+      ["Xia Shue", "niece of x"], 
+      ["Luo Ming", "disciple of x"]
+    ],
+    "Luo Ming": [
+      ["Xia Shue", "coach of x"], 
+      ["Yue Kesa", "friend of x"]
+    ],
+    "Yue Kesa": [
+      ["Xia Shue", "coach of x"], 
+      ["Luo Ming", "friend of x"]
+    ],
+    "Wu Bobo": [
+      ["Xia Shue", "acquaintance of x"], 
+      ["Wu Baian", "son of x"]
+    ],
+    "Wu Baian": [
+      ["Wu Bobo", "father of x"]
+    ],
+    "Auntie Yi": [
+      ["Wu Bobo", "friend of x"]
+    ],
+    "Luo YISI": [
+      ["Xia Shue", "friend of x"]
+    ],
+    "Zhang": [
+      ["Xia Shue", "acquaintance of x"]
+    ],
+    "Lao Kai": [
+      ["Wu Bobo", "customer of x"]
+    ],
+    "Fang's Descendant": [
+      ["Xia Shue", "adversary of x"]
+    ],
+    "Xia Sanhu": [
+      ["Xia Shue", "third uncle of x"], 
+      ["Xia Zhongpeng", "brother of x"]
+    ],
+    "Xia Sanhua": [
+      ["Xia Shue", "third uncle of x"], 
+      ["Xia Zhongpeng", "brother of x"]
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "Neighbor Wang": [
+        [
+            "Li Guofu",
+            "Acquaintance, Suspect"
+        ],
+        [
+            "He Laoliu",
+            "Acquaintance, Suspect"
+        ],
+        [
+            "Wife of Neighbor Wang",
+            "Husband of X",
+            "Investigator of X"
+        ]
+    ],
+    "Li Guofu": [
+        [
+            "Neighbor Wang",
+            "Acquaintance, Suspect"
+        ],
+        [
+            "He Laoliu",
+            "Adversary, Rival"
+        ],
+        [
+            "Wife of Neighbor Wang",
+            "Adversary, Enemy"
+        ]
+    ],
+    "He Laoliu": [
+        [
+            "Neighbor Wang",
+            "Acquaintance, Suspect"
+        ],
+        [
+            "Li Guofu",
+            "Adversary, Rival"
+        ],
+        [
+            "Wife of Neighbor Wang",
+            "Suspect of X",
+            "Adversary of X"
+        ]
+    ],
+    "Wife of Neighbor Wang": [
+        [
+            "Neighbor Wang",
+            "Wife of X",
+            "Missing Person"
+        ],
+        [
+            "Li Guofu",
+            "Adversary, Enemy"
+        ],
+        [
+            "He Laoliu",
+            "Victim of X",
+            "missing person"
+        ]
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "He Laoliu": [
+      ["Li Guofu", "superior of x, co conspirator of x"], 
+      ["ZHANG JIE", "team member of x, accomplice of x"], 
+      ["MU BEI", "colleague of x, suspect of x"], 
+      ["Big Brother Wang", "acquaintance of x, debtor of x"], 
+      ["Neighbor Wang", "acquaintance of x, suspect of x"]
+    ],
+    "Li Guofu": [
+      ["He Laoliu", "superior of x, co conspirator of x"], 
+      ["ZHANG JIE", "team member of x, accomplice of x"], 
+      ["MU BEI", "colleague of x, suspect of x"], 
+      ["Big Brother Wang", "acquaintance of x, debtor of x"]
+    ],
+    "ZHANG JIE": [
+      ["He Laoliu", "team member of x, accomplice of x"], 
+      ["Li Guofu", "superior of x, co conspirator of x"], 
+      ["MU BEI", "colleague of x, suspect of x"]
+    ],
+    "MU BEI": [
+      ["He Laoliu", "colleague of x, suspect of x"], 
+      ["Li Guofu", "superior of x, co conspirator of x"], 
+      ["ZHANG JIE", "team member of x, accomplice of x"]
+    ],
+    "Big Brother Wang": [
+      ["He Laoliu", "acquaintance of x, debtor of x"], 
+      ["Li Guofu", "acquaintance of x, debtor of x"]
+    ],
+    "Neighbor Wang": [
+      ["He Laoliu", "acquaintance of x, suspect of x"], 
+      ["Li Guofu", "acquaintance of x, suspect of x"]
+    ]
+}

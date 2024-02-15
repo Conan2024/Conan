@@ -1,0 +1,14 @@
+{
+    "Shi Yan": [
+      ["Lady Safflower", "teacher of x, mentor of x"], 
+      ["Du Zhong", "enemy of x, deceiver of x"]
+    ],
+    "Lady Safflower": [
+      ["Shi Yan", "teacher of x, mentor of x"], 
+      ["Du Zhong", "lover of x, deceived by x"]
+    ],
+    "Du Zhong": [
+      ["Shi Yan", "enemy of x, deceived by x"], 
+      ["Lady Safflower", "lover of x, deceiver of x"]
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Assistant Ella": [
+      ["Magician Gust", "romantic relationships with x"], 
+      ["Logistics Griff", "deceiver of x"], 
+      ["Security Kevin", "helper of x"], 
+      ["Publicity Rowling", "friend of x"], 
+      ["Ella", "deceiver of x"]
+    ],
+    "Magician Gust": [
+      ["Assistant Ella", "romantic relationships with x"], 
+      ["Security Kevin", "friend of x"], 
+      ["Magician Gust", "replaced x's identity"]
+    ],
+    "Security Kevin": [
+      ["Assistant Ella", "helper of x"], 
+      ["Magician Gust", "friend of x"], 
+      ["Security Kevin", "helper of x"]
+    ],
+    "Logistics Griff": [
+      ["Assistant Ella", "deceiver of x"], 
+      ["Logistics Griff", "victim of x"]
+    ],
+    "Publicity Rowling": [
+      ["Assistant Ella", "friend of x"]
+    ]
+}

@@ -1,0 +1,390 @@
+{
+    "Gu Qing": [
+        [
+            "Lin Xi",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Su Yang",
+            "Rival of X",
+            "Adversary of X",
+            "Enemy of X",
+            "Suspect of X",
+            "Suspicious of X",
+            "Suspicion of X",
+            "Victim of X",
+            "killed by x"
+        ],
+        [
+            "Gu Yu",
+            "Sibling of X",
+            "Co-wives of X"
+        ],
+        [
+            "Lin Yang",
+            "Rival",
+            "Friend"
+        ],
+        [
+            "Gu Ming",
+            "father-daughter",
+            "president-employee"
+        ],
+        [
+            "Lin Weiren",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Lin Tong",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Shen Cheng",
+            "Acquaintance",
+            "Classmate"
+        ]
+    ],
+    "Lin Xi": [
+        [
+            "Gu Qing",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Su Yang",
+            "Rival of X",
+            "Suspect of X"
+        ],
+        [
+            "Gu Yu",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Lin Yang",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Gu Ming",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Lin Weiren",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Lin Tong",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Shen Cheng",
+            "Friend",
+            "Acquaintance"
+        ]
+    ],
+    "Su Yang": [
+        [
+            "Gu Qing",
+            "Rival of X",
+            "Adversary of X",
+            "Enemy of X",
+            "Suspect of X",
+            "Suspicious of X",
+            "Suspicion of X",
+            "Victim of X",
+            "killed by x"
+        ],
+        [
+            "Lin Xi",
+            "Rival of X",
+            "Suspect of X"
+        ],
+        [
+            "Gu Yu",
+            "Ex-romantic relationships with X",
+            "Rival of X"
+        ],
+        [
+            "Lin Yang",
+            "Relationship 1: Acquaintance",
+            "Relationship 2: Love interest"
+        ],
+        [
+            "Gu Ming",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect of murder"
+        ],
+        [
+            "Lin Weiren",
+            "relationship 1: Attending doctor resident in Lin's manor",
+            "relationship 2: Love interest of Lin Xi"
+        ],
+        [
+            "Lin Tong",
+            "Rival of X",
+            "Adversary of X",
+            "Enemy of X"
+        ],
+        [
+            "Shen Cheng",
+            "Acquaintance, Suspect"
+        ]
+    ],
+    "Gu Yu": [
+        [
+            "Gu Qing",
+            "Sibling of X",
+            "Co-wives of X"
+        ],
+        [
+            "Lin Xi",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Su Yang",
+            "Wife of X",
+            "Rival of X"
+        ],
+        [
+            "Lin Yang",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Gu Ming",
+            "Brother",
+            "Suspect of murder"
+        ],
+        [
+            "Lin Weiren",
+            "Brother-in-law",
+            "Suspect of murder"
+        ],
+        [
+            "Lin Tong",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Shen Cheng",
+            "friend",
+            "acquaintance"
+        ]
+    ],
+    "Lin Yang": [
+        [
+            "Gu Qing",
+            "Rival",
+            "Friend"
+        ],
+        [
+            "Lin Xi",
+            "Brother",
+            "Suspect"
+        ],
+        [
+            "Su Yang",
+            "Relationship 1: Brother",
+            "Relationship 2: Love interest"
+        ],
+        [
+            "Gu Yu",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Gu Ming",
+            "Friend"
+        ],
+        [
+            "Lin Weiren",
+            "Lin Xi",
+            "Gu Qing",
+            "Su Yang",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Lin Tong",
+            "relationship 1: Friend",
+            "relationship 2: Acquaintance"
+        ],
+        [
+            "Shen Cheng",
+            "friend",
+            "acquaintance"
+        ]
+    ],
+    "Gu Ming": [
+        [
+            "Gu Qing",
+            "father-daughter",
+            "president-employee"
+        ],
+        [
+            "Lin Xi",
+            "father",
+            "deceased"
+        ],
+        [
+            "Su Yang",
+            "relationship 1: President of company and father of Gu Yu",
+            "relationship 2: Victim of murder"
+        ],
+        [
+            "Gu Yu",
+            "Father",
+            "Murder victim"
+        ],
+        [
+            "Lin Yang",
+            "Father of Lin Xi"
+        ],
+        [
+            "Lin Weiren",
+            "Employer of X"
+        ],
+        [
+            "Lin Tong",
+            "friend"
+        ],
+        [
+            "Shen Cheng",
+            "Employer of X",
+            "Master of X"
+        ]
+    ],
+    "Lin Weiren": [
+        [
+            "Gu Qing",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Lin Xi",
+            "Father",
+            "Superior"
+        ],
+        [
+            "Su Yang",
+            "relationship 1: Father of Lin Xi",
+            "relationship 2: Superior of Su Yang"
+        ],
+        [
+            "Gu Yu",
+            "Father-in-law",
+            "Victim of murder"
+        ],
+        [
+            "Lin Yang",
+            "Lin Xi",
+            "Gu Qing",
+            "Su Yang",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Gu Ming",
+            "Superior of X"
+        ],
+        [
+            "Lin Tong",
+            "Same person as X (different identity)",
+            "Stranger to X"
+        ],
+        [
+            "Shen Cheng",
+            "Father of X",
+            "Employer of X"
+        ]
+    ],
+    "Lin Tong": [
+        [
+            "Gu Qing",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Lin Xi",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Su Yang",
+            "Rival of X",
+            "Adversary of X",
+            "Enemy of X"
+        ],
+        [
+            "Gu Yu",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Lin Yang",
+            "relationship 1: Friend",
+            "relationship 2: Acquaintance"
+        ],
+        [
+            "Gu Ming",
+            "friend"
+        ],
+        [
+            "Lin Weiren",
+            "Same person as X (different identity)",
+            "Stranger to X"
+        ],
+        [
+            "Shen Cheng",
+            "Acquaintance"
+        ]
+    ],
+    "Shen Cheng": [
+        [
+            "Gu Qing",
+            "Acquaintance",
+            "Classmate"
+        ],
+        [
+            "Lin Xi",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Su Yang",
+            "Acquaintance, Suspect"
+        ],
+        [
+            "Gu Yu",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Lin Yang",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Gu Ming",
+            "Employee of X",
+            "Servant of X"
+        ],
+        [
+            "Lin Weiren",
+            "Father of X",
+            "Employer of X"
+        ],
+        [
+            "Lin Tong",
+            "Acquaintance"
+        ]
+    ]
+}

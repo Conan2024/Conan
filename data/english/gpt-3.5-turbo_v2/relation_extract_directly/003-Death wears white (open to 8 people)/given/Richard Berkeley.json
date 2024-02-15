@@ -1,0 +1,32 @@
+{
+    "Richard Berkeley": [
+      ["Hans Li Morette", "colleague of x richard berkeley"], 
+      ["Elaine Carter", "mentor of x richard berkeley"], 
+      ["Dr. Paloski", "mentor of x richard berkeley"], 
+      ["Sylvia Costa", "acquaintance of x richard berkeley"], 
+      ["Father Tom", "acquaintance of x richard berkeley"]
+    ],
+    "Hans Li Morette": [
+      ["Richard Berkeley", "colleague of x hans li morette"], 
+      ["Drake Li Morette", "sibling of x hans li morette"]
+    ],
+    "Drake Li Morette": [
+      ["Richard Berkeley", "unknown relationship with drake li morette of x"], 
+      ["Hans Li Morette", "sibling of x drake li morette"]
+    ],
+    "Elaine Carter": [
+      ["Richard Berkeley", "mentor of x elaine carter"], 
+      ["Dr. Paloski", "mentor of x elaine carter"]
+    ],
+    "Dr. Paloski": [
+      ["Richard Berkeley", "mentor of x dr, paloski of x"], 
+      ["Hans Li Morette", "paloski of x"], 
+      ["Drake Li Morette", "paloski of x"], 
+      ["Elaine Carter", "mentor of x dr, paloski of x"], 
+      ["Sylvia Costa", "paloski of x"], 
+      ["Father Tom", "paloski of x"]
+    ],
+    "Sylvia Costa": [
+      ["Richard Berkeley", "acquaintance of x sylvia costa"]
+    ]
+}

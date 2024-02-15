@@ -1,0 +1,30 @@
+{
+    "Lin Ruotong": [
+      ["Liu Qi", "lover of x, colleague of x"], 
+      ["Captain Hong", "lover of x"], 
+      ["Han Yimu", "acquaintance of x"], 
+      ["Zhang Wenyuan", "acquaintance of x"]
+    ],
+    "Liu Qi": [
+      ["Lin Ruotong", "lover of x, colleague of x"], 
+      ["Han Yimu", "acquaintance of x"], 
+      ["Zhang Wenyuan", "acquaintance of x"]
+    ],
+    "Captain Hong": [
+      ["Lin Ruotong", "lover of x"]
+    ],
+    "Xiu Renjie": [
+      ["Han Yimu", "acquaintance of x"], 
+      ["Zhang Wenyuan", "acquaintance of x"]
+    ],
+    "Han Yimu": [
+      ["Lin Ruotong", "acquaintance of x"], 
+      ["Liu Qi", "acquaintance of x"], 
+      ["Zhang Wenyuan", "acquaintance of x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Lin Ruotong", "acquaintance of x"], 
+      ["Liu Qi", "acquaintance of x"], 
+      ["Han Yimu", "acquaintance of x"]
+    ]
+}

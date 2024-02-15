@@ -1,0 +1,47 @@
+{
+    "Liao Xuehan": [
+      ["Liao Yiqiao", "father of x"], 
+      ["Julie", "wife of x"], 
+      ["Dr. Zhang", "friend of x"], 
+      ["Luo Hengli", "business partner of x"], 
+      ["Lv Mingran", "employee of x"]
+    ],
+    "Liao Yiqiao": [
+      ["Liao Xuehan", "son of x"], 
+      ["Julie", "sister in law of x"]
+    ],
+    "Julie": [
+      ["Liao Xuehan", "wife of x"], 
+      ["Liao Yiqiao", "brother in law of x"]
+    ],
+    "Dr. Zhang": [
+      ["Liao Xuehan", "friend of x"], 
+      ["Julie", "husband of x"]
+    ],
+    "Luo Hengli": [
+      ["Liao Xuehan", "business partner of x"], 
+      ["Lv Mingran", "superior of x"]
+    ],
+    "Lv Mingran": [
+      ["Luo Hengli", "subordinate of x"], 
+      ["Liao Xuehan", "adversary of x"]
+    ],
+    "Tan Renchang": [
+      ["Luo Hengli", "brother in law of x"], 
+      ["Luo Mingsha", "sister in law of x"]
+    ],
+    "Luo Mingsha": [
+      ["Tan Renchang", "husband of x"], 
+      ["Luo Hengli", "brother of x"]
+    ],
+    "Cheng Ge": [
+      ["Luo Mingsha", "nephew of x"]
+    ],
+    "Liao Gongzi": [
+      ["Liao Xuehan", "father of x"], 
+      ["Julie", "wife of x"], 
+      ["Dr. Zhang", "friend of x"], 
+      ["Luo Hengli", "business partner of x"], 
+      ["Lv Mingran", "employee of x"]
+    ]
+}

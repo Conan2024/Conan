@@ -1,0 +1,37 @@
+{
+    "Gu Yu": [
+      ["Chen Jingwen", "girlfriend of x"], 
+      ["Su Yang", "rival of x, enemy of x"], 
+      ["Gu Ming", "father of x"], 
+      ["Qin Siqin", "patient of x"], 
+      ["Zheng Xinmei", "patient of x"], 
+      ["Lin Weiren", "enemy of x"]
+    ],
+    "Lin Xi": [
+      ["Su Yang", "fiance of x, enemy of x"], 
+      ["Chen Jingwen", "rival of x, enemy of x"]
+    ],
+    "Chen Jingwen": [
+      ["Gu Yu", "girlfriend of x"], 
+      ["Lin Xi", "rival of x, enemy of x"]
+    ],
+    "Su Yang": [
+      ["Gu Yu", "rival of x, enemy of x"], 
+      ["Lin Xi", "fiance of x, enemy of x"]
+    ],
+    "Gu Ming": [
+      ["Gu Yu", "father of x"]
+    ],
+    "Qin Siqin": [
+      ["Gu Yu", "patient of x"]
+    ],
+    "Zheng Xinmei": [
+      ["Gu Yu", "patient of x"]
+    ],
+    "Lin Weiren": [
+      ["Gu Yu", "enemy of x"]
+    ],
+    "Shen Cheng": [
+      ["Gu Yu", "acquaintance of x"]
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "Li Bao'an": [
+        [
+            "Professor Jia",
+            "Acquaintance",
+            "Informant"
+        ],
+        [
+            "Sun Qingjie",
+            "friend, confidant"
+        ],
+        [
+            "Tian Zhuli",
+            "Co-worker",
+            "Friend"
+        ]
+    ],
+    "Professor Jia": [
+        [
+            "Li Bao'an",
+            "Acquaintance",
+            "Informant"
+        ],
+        [
+            "Sun Qingjie",
+            "Teacher of",
+            "Employer of"
+        ],
+        [
+            "Tian Zhuli",
+            "Superior of x",
+            "Employer of X"
+        ]
+    ],
+    "Sun Qingjie": [
+        [
+            "Li Bao'an",
+            "friend, confidant"
+        ],
+        [
+            "Professor Jia",
+            "Teacher of",
+            "Employee of"
+        ],
+        [
+            "Tian Zhuli",
+            "Colleague",
+            "Adversary"
+        ]
+    ],
+    "Tian Zhuli": [
+        [
+            "Li Bao'an",
+            "Co-worker",
+            "Friend"
+        ],
+        [
+            "Professor Jia",
+            "Superior of x",
+            "Employer of X"
+        ],
+        [
+            "Sun Qingjie",
+            "Colleague",
+            "Adversary"
+        ]
+    ]
+}

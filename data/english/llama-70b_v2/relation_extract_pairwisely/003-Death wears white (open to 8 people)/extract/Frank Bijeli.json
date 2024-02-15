@@ -1,0 +1,15 @@
+{
+    "Tony": [
+      ["Father Tom", "brother of x"], 
+      ["People in the hospital", "father tom of x"], 
+      ["Father Tom", "people in the hospital of x"]
+    ],
+    "Father Tom": [
+      ["Tony", "employer of x, deceiver of x"], 
+      ["People in the hospital", "tony of x"]
+    ],
+    "People in the hospital": [
+      ["Tony", "father tom of x"], 
+      ["Father Tom", "tony of x"]
+    ]
+}

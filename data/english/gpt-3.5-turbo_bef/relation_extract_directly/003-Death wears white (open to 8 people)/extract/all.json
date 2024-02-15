@@ -1,0 +1,32 @@
+{
+    "You (Tom)": [
+      ["Hans li Morette", "colleague of x"], 
+      ["Gale Li Morette", "friend of x"], 
+      ["Drake Li Morette", "brother of x"], 
+      ["Dr. Paloski", "colleague of x"], 
+      ["Elaine Carter", "colleague of x"], 
+      ["Richard Berkeley", "superior of x"]
+    ],
+    "Hans li Morette": [
+      ["You (Tom)", "colleague of x"], 
+      ["Gale Li Morette", "husband of x"]
+    ],
+    "Gale Li Morette": [
+      ["You (Tom)", "friend of x"], 
+      ["Hans li Morette", "wife of x"]
+    ],
+    "Drake Li Morette": [
+      ["You (Tom)", "brother of x"]
+    ],
+    "Dr. Paloski": [
+      ["You (Tom)", "colleague of x"], 
+      ["Elaine Carter", "colleague of x"]
+    ],
+    "Elaine Carter": [
+      ["You (Tom)", "colleague of x"], 
+      ["Dr. Paloski", "colleague of x"]
+    ],
+    "Richard Berkeley": [
+      ["You (Tom)", "superior of x"]
+    ]
+}

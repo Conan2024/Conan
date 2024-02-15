@@ -1,0 +1,40 @@
+{
+    "Neighbor Wang": [
+      ["Neighbor Wang's wife", "husband of x, wife of x"], 
+      ["Police", "neighbour of x"], 
+      ["Reporters", "friend of x"], 
+      ["Li Guofu", "friend of x, debtor of x"], 
+      ["He Laoliu", "neighbour of x, same person as x (different reference)"]
+    ],
+    "Neighbor Wang's wife": [
+      ["Neighbor Wang", "wife of x"], 
+      ["Police", "suspicious of x, victim of x"], 
+      ["Reporters", "informant of x"], 
+      ["Li Guofu", "neighbour of x"], 
+      ["He Laoliu", "neighbour of x"]
+    ],
+    "Police": [
+      ["Neighbor Wang", "suspected by x"], 
+      ["Neighbor Wang", "neighbour of x"], 
+      ["Li Guofu", "neighbour of x"], 
+      ["He Laoliu", "neighbour of x"]
+    ],
+    "Reporters": [
+      ["Neighbor Wang", "informant of x"], 
+      ["Li Guofu", "debtor of x"], 
+      ["He Laoliu", "acquaintance of x"]
+    ],
+    "Li Guofu": [
+      ["Neighbor Wang", "friend of x, debtor of x"], 
+      ["Neighbor Wang's wife", "suspect of x"], 
+      ["Police", "neighbour of x"], 
+      ["Reporters", "creditor of x"], 
+      ["He Laoliu", "neighbour of x"]
+    ],
+    "He Laoliu": [
+      ["Neighbor Wang", "neighbour of x, same person as x (different reference)"], 
+      ["Police", "neighbour of x"], 
+      ["Reporters", "acquaintance of x"], 
+      ["Li Guofu", "neighbour of x"]
+    ]
+}

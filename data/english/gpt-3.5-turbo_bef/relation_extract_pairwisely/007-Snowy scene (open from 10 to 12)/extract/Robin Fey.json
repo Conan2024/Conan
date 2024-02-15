@@ -1,0 +1,92 @@
+{
+    "Robin Fey": [
+      ["Daniel", "friend of x, colleague of x, informant of x, admirer of x, romantic relationships with x"], 
+      ["Marina", "friend of x"], 
+      ["Harrison", "friend of x, guest of x, suspected by x, suspicious of x, seeker of help from x"], 
+      ["Jacqueline Perry", "guest of x, suspicious of x"], 
+      ["Lucy Harrison", "mentor of x, relative of x"], 
+      ["Amy Morgan", "acquaintance of x, helped by x"]
+    ],
+    "Perry": [
+      ["Daniel", "friend of x, employer of x"], 
+      ["Marina", "wife of x"], 
+      ["Jacqueline", "sibling of x, rival of x, rival in love of x"], 
+      ["Jonathan", "father of x"], 
+      ["Amy Morgan", "wife of x, patient of x"]
+    ],
+    "Daniel": [
+      ["Robin Fey", "friend of x, colleague of x, information receiver from x, admirer of x, romantic relationships with x"], 
+      ["Perry", "acquaintance of x, employee of x"], 
+      ["Marina", "friend of x, possibly family of x, romantic relationships with x"], 
+      ["Harrison", "friend of x"], 
+      ["Harold", "employer of x"], 
+      ["Lucy Harrison", "admirer of x, mentor of x"], 
+      ["Amy Morgan", "future relative of x, landlord of x"]
+    ],
+    "Marina": [
+      ["Robin Fey", "friend of x"], 
+      ["Perry", "husband of x"], 
+      ["Daniel", "friend of x, possibly family of x, romantic relationships with x"], 
+      ["Harrison", "wife of x"], 
+      ["Jacqueline", "extramarital affair with x"], 
+      ["Harold", "husband of x, admired by x"], 
+      ["Lucy Harrison", "mother of x, wife of x"], 
+      ["Amy Morgan", "victim of x, daughter in law of x"]
+    ],
+    "Harrison": [
+      ["Robin Fey", "friend of x, host of x, suspect of x, suspicious of x"], 
+      ["Daniel", "friend of x"], 
+      ["Marina", "husband of x"], 
+      ["Jacqueline", "wife of x, colleague of x"], 
+      ["Jonathan", "father of x, employer of x"], 
+      ["Harold", "husband of x, customer of x"], 
+      ["Lucy Harrison", "mentor of x, employer of x"], 
+      ["Amy Morgan", "husband of x, fiancee of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Robin Fey", "host of x, disliked by x"]
+    ],
+    "Lucy Harrison": [
+      ["Robin Fey", "student of x, relative of x"], 
+      ["Daniel", "admired by x"], 
+      ["Marina", "daughter of x"], 
+      ["Harrison", "student of x"], 
+      ["Jacqueline", "child of x, victim of x"], 
+      ["Amy Morgan", "acquaintance of x, friend of x"]
+    ],
+    "Amy Morgan": [
+      ["Robin Fey", "acquaintance of x, helper of x"], 
+      ["Perry", "husband of x, doctor of x"], 
+      ["Daniel", "tenant of x, suspicious of x"], 
+      ["Marina", "mother in law of x"], 
+      ["Harrison", "wife of x, fiance of x"], 
+      ["Jacqueline", "adversary of x, crime partner of x"], 
+      ["Jonathan", "possibly family of x, helped by x"], 
+      ["Harold", "wife of x, husband of x"], 
+      ["Lucy Harrison", "acquaintance of x"]
+    ],
+    "Jacqueline": [
+      ["Perry", "sibling of x, rival of x, rival in love of x"], 
+      ["Marina", "extramarital affair with x"], 
+      ["Harrison", "husband of x, colleague of x"], 
+      ["Jonathan", "sibling of x, suspected by x"], 
+      ["Harold", "wife of x, extramarital affair with x"], 
+      ["Amy Morgan", "adversary of x, crime partner of x"]
+    ],
+    "Jonathan": [
+      ["Perry", "son of x, student of x"], 
+      ["Daniel", "child of x"], 
+      ["Harrison", "child of x, employee of x"], 
+      ["Jacqueline", "sibling of x, perpetrator of x's family"], 
+      ["Harold", "son of x"], 
+      ["Amy Morgan", "child of x, possibly family of x, suspect to x"]
+    ],
+    "Harold": [
+      ["Daniel", "employee of x"], 
+      ["Marina", "wife of x, admirer of x"], 
+      ["Harrison", "wife of x, employee of x"], 
+      ["Jacqueline", "husband of x, extramarital affair with x, deceived by x"], 
+      ["Jonathan", "father of x"], 
+      ["Amy Morgan", "husband of x, wife of x, extramarital affair with x"]
+    ]
+}

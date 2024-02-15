@@ -1,0 +1,46 @@
+{
+    "Xiao Qian": [
+      ["Chen Qian", "friend of x"], 
+      ["Li Zhong", "love interest of x"]
+    ],
+    "Chen Qian": [
+      ["Xiao Qian", "friend of x"]
+    ],
+    "Li Zhong": [
+      ["Xiao Qian", "love interest of x"], 
+      ["Li Wangye (Lord Li)", "fiance of x"]
+    ],
+    "Li Wangye (Lord Li)": [
+      ["Xiao Qian", "victim of x"], 
+      ["Fang Xu", "husband of x"]
+    ],
+    "Fang Xu": [
+      ["Fang Liu", "same person as x (different reference)"], 
+      ["Fang Ye", "sibling of x"]
+    ],
+    "Fang Ye": [
+      ["Fang Liu", "sibling of x"], 
+      ["Fang Xu", "sibling of x"]
+    ],
+    "Fang Mian": [
+      ["Fang Liu", "sibling of x"], 
+      ["Fang Xu", "sibling of x"]
+    ],
+    "Grandma": [
+      ["Fang Liu", "grandmother of x"]
+    ],
+    "Li Qianren": [
+      ["Fang Liu", "enemy of x"]
+    ],
+    "Li Yan": [
+      ["Li Wangye (Lord Li)", "father of x"]
+    ],
+    "Fang Liu": [
+      ["Fang Xu", "same person as x (different reference)"], 
+      ["Fang Ye", "sibling of x"]
+    ],
+    "Fang Zhu": [
+      ["Fang Liu", "same person as x (different reference)"], 
+      ["Fang Xu", "same person as x (different reference)"]
+    ]
+}

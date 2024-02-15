@@ -1,0 +1,141 @@
+{
+    "Ruya's mother": [
+        [
+            "Ruya's father",
+            "husband of x"
+        ],
+        [
+            "Ruya's grandmother",
+            "daughter of x"
+        ]
+    ],
+    "Ruya's father": [
+        [
+            "Ruya's mother",
+            "wife of x"
+        ],
+        [
+            "Ruya's grandmother",
+            "son of x"
+        ]
+    ],
+    "Ruya's grandmother": [
+        [
+            "Ruya's mother",
+            "mother of x"
+        ],
+        [
+            "Ruya's father",
+            "mother of x"
+        ],
+        [
+            "Ruya's great-grandfather",
+            "daughter of x"
+        ]
+    ],
+    "Ruya's great-grandfather": [
+        [
+            "Ruya's grandmother",
+            "father of x"
+        ]
+    ],
+    "Dervish": [],
+    "Mistral": [],
+    "Sea Quake": [],
+    "Gui Yin": [
+        [
+            "Ruya",
+            "husband of x"
+        ],
+        [
+            "Gan Ma",
+            "brother of x"
+        ],
+        [
+            "Li Demu",
+            "master of x"
+        ],
+        [
+            "Chen Sha",
+            "friend of x"
+        ],
+        [
+            "Falcon",
+            "friend of x"
+        ]
+    ],
+    "Li Demu": [
+        [
+            "Gui Yin",
+            "student of x"
+        ],
+        [
+            "Gan Ma",
+            "master of x"
+        ],
+        [
+            "Ruya",
+            "friend of x"
+        ],
+        [
+            "Falcon",
+            "brother of x"
+        ]
+    ],
+    "Gan Ma": [
+        [
+            "Gui Yin",
+            "sister of x"
+        ],
+        [
+            "Ruya",
+            "friend of x"
+        ],
+        [
+            "Chen Sha",
+            "friend of x"
+        ],
+        [
+            "Falcon",
+            "lover of x"
+        ]
+    ],
+    "Juan Ge (Cuckoo Song)": [
+        [
+            "Ruya's aunt",
+            "mother of x"
+        ],
+        [
+            "Falcon",
+            "cousin of x"
+        ]
+    ],
+    "Li Gaobai": [
+        [
+            "Li Demu",
+            "brother of x"
+        ],
+        [
+            "Falcon",
+            "friend of x"
+        ]
+    ],
+    "Chen Sha": [
+        [
+            "Gan Ma",
+            "friend of x"
+        ],
+        [
+            "Gui Yin",
+            "friend of x"
+        ]
+    ],
+    "Zheng Hanzhen": [],
+    "Phoenix Clan Leader": [],
+    "Jin Wei": [],
+    "Xue Fei": [],
+    "Feng Li": [],
+    "Liu Yan": [],
+    "Qin Ling": [],
+    "Bai Ling": []
+}

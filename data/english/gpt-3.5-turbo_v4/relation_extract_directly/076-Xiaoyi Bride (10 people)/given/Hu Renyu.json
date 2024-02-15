@@ -1,0 +1,109 @@
+{
+    "Hu Renyu": [
+      ["Fan Jinkui", "same person as x (different reference), same person as x (different identity)"], 
+      ["Golden Beard", "same person as x (different reference)"], 
+      ["Tian Hongjiao", "fiancee of x"], 
+      ["Yao Changshou", "extramarital affair with x, romantic relationships with x, victim of x, victim of x"], 
+      ["Fang Chengshan", "attempted perpetrator of x, killed by x"], 
+      ["Steward Du", "attempted perpetrator of x"], 
+      ["Li Kuansheng", "perpetrator of x"], 
+      ["Li Guangsheng", "perpetrator of x"], 
+      ["Yu Beichen", "informant of x"], 
+      ["Suzhou Girl", "saviour of x"], 
+      ["White-headed Snake", "business partner of x"], 
+      ["Tian Hongjiao", "wife of x"]
+    ],
+    "Fan Jinkui": [
+      ["Hu Renyu", "same person as x (different reference), same person as x (different identity)"], 
+      ["Golden Beard", "same person as x (different reference)"], 
+      ["Tian Hongjiao", "fiance of x"]
+    ],
+    "Golden Beard": [
+      ["Hu Renyu", "same person as x (different reference)"], 
+      ["Fan Jinkui", "same person as x (different reference)"], 
+      ["Tian Hongjiao", "fiancee of x"]
+    ],
+    "Tian Hongjiao": [
+      ["Hu Renyu", "fiancee of x"], 
+      ["Yao Changshou", "wife of x"], 
+      ["Fang Chengshan", "uncle of x"], 
+      ["Steward Du", "helper of x"], 
+      ["Li Kuansheng", "customer of x"], 
+      ["Li Guangsheng", "customer of x"], 
+      ["Yu Beichen", "informant of x"], 
+      ["White-headed Snake", "business partner of x"]
+    ],
+    "Yao Changshou": [
+      ["Hu Renyu", "extramarital affair with x, romantic relationships with x, victim of x"], 
+      ["Tian Hongjiao", "wife of x"], 
+      ["Fang Chengshan", "attempted perpetrator of x, victim of x"], 
+      ["Steward Du", "attempted perpetrator of x"], 
+      ["Li Kuansheng", "perpetrator of x"], 
+      ["Li Guangsheng", "perpetrator of x"], 
+      ["Yu Beichen", "information receiver from x"], 
+      ["Golden Beard", "extramarital affair with x, romantic relationships with x"]
+    ],
+    "Fang Chengshan": [
+      ["Hu Renyu", "attempted perpetrator of x, victim of x"], 
+      ["Yao Changshou", "attempted perpetrator of x, victim of x"], 
+      ["Steward Du", "attempted perpetrator of x"], 
+      ["Li Kuansheng", "perpetrator of x"], 
+      ["Li Guangsheng", "perpetrator of x"], 
+      ["Tian Hongjiao", "niece of x"], 
+      ["Yu Beichen", "business partner of x"], 
+      ["White-headed Snake", "romantic relationships with x"]
+    ],
+    "Steward Du": [
+      ["Hu Renyu", "attempted perpetrator of x"], 
+      ["Yao Changshou", "attempted perpetrator of x"], 
+      ["Fang Chengshan", "attempted perpetrator of x"], 
+      ["Li Kuansheng", "employer of x"], 
+      ["Li Guangsheng", "employer of x"], 
+      ["Tian Hongjiao", "helper of x"], 
+      ["Yu Beichen", "informant of x"], 
+      ["White-headed Snake", "employer of x"]
+    ],
+    "Li Kuansheng": [
+      ["Hu Renyu", "perpetrator of x"], 
+      ["Yao Changshou", "perpetrator of x"], 
+      ["Fang Chengshan", "perpetrator of x"], 
+      ["Steward Du", "employer of x"], 
+      ["Li Guangsheng", "employer of x"], 
+      ["Tian Hongjiao", "customer of x"], 
+      ["Yu Beichen", "product provider of x"], 
+      ["White-headed Snake", "employer of x"]
+    ],
+    "Li Guangsheng": [
+      ["Hu Renyu", "perpetrator of x"], 
+      ["Yao Changshou", "perpetrator of x"], 
+      ["Fang Chengshan", "perpetrator of x"], 
+      ["Steward Du", "employer of x"], 
+      ["Li Kuansheng", "employer of x"], 
+      ["Tian Hongjiao", "customer of x"], 
+      ["Yu Beichen", "service provider of x"], 
+      ["White-headed Snake", "employer of x"]
+    ],
+    "Yu Beichen": [
+      ["Hu Renyu", "informant of x"], 
+      ["Tian Hongjiao", "service provider of x"], 
+      ["White-headed Snake", "product provider of x"]
+    ],
+    "Long-haired Girl": [
+      ["Suzhou Girl", "seeker of help from x"], 
+      ["Golden Beard", "saviour of x"]
+    ],
+    "Suzhou Girl": [
+      ["Hu Renyu", "saviour of x"], 
+      ["Long-haired Girl", "seeker of help from x"], 
+      ["Golden Beard", "saviour of x"]
+    ],
+    "White-headed Snake": [
+      ["Hu Renyu", "business partner of x"], 
+      ["Tian Hongjiao", "business partner of x"], 
+      ["Fang Chengshan", "romantic relationships with x"], 
+      ["Steward Du", "employer of x"], 
+      ["Li Kuansheng", "employer of x"], 
+      ["Li Guangsheng", "employer of x"], 
+      ["Yu Beichen", "product provider of x"]
+    ]
+}

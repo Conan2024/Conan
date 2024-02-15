@@ -1,0 +1,19 @@
+{
+    "Ling Xiao": [
+      ["Master", "teacher of x, suspicious of x"], 
+      ["Eldest Senior Brother/Sister", "classmate of x, friend of x"], 
+      ["Second Senior Uncle", "relative of x"]
+    ],
+    "Master": [
+      ["Ling Xiao", "teacher of x, suspect of x"], 
+      ["Eldest Senior Brother/Sister", "classmate of x, friend of x"]
+    ],
+    "Eldest Senior Brother/Sister": [
+      ["Ling Xiao", "classmate of x, friend of x"], 
+      ["Second Senior Uncle", "relative of x"]
+    ],
+    "Second Senior Uncle": [
+      ["Ling Xiao", "relative of x"], 
+      ["Master", "teacher of x, suspect of x"]
+    ]
+}

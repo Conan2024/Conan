@@ -1,0 +1,134 @@
+{
+    "He Laoliu": [
+        [
+            "Li Guofu",
+            "colleague of x, crime partner of x"
+        ],
+        [
+            "Zhang Jie",
+            "colleague of x, crime partner of x"
+        ],
+        [
+            "Mu Bei",
+            "friend of x"
+        ],
+        [
+            "Big Brother Wang",
+            "friend of x"
+        ],
+        [
+            "Neighbor Wang",
+            "neighbour of x"
+        ]
+    ],
+    "Li Guofu": [
+        [
+            "He Laoliu",
+            "colleague of x, crime partner of x"
+        ],
+        [
+            "Zhang Jie",
+            "colleague of x, crime partner of x"
+        ],
+        [
+            "Mu Bei",
+            "business partner of x"
+        ],
+        [
+            "Big Brother Wang",
+            "friend of x"
+        ],
+        [
+            "Neighbor Wang",
+            "friend of x"
+        ]
+    ],
+    "Zhang Jie": [
+        [
+            "He Laoliu",
+            "colleague of x, crime partner of x"
+        ],
+        [
+            "Li Guofu",
+            "colleague of x, crime partner of x"
+        ],
+        [
+            "Mu Bei",
+            "colleague of x"
+        ],
+        [
+            "Big Brother Wang",
+            "potential enemy of x big brother wang, potential victim of x big brother wang"
+        ],
+        [
+            "Neighbor Wang",
+            "neighbour of x"
+        ]
+    ],
+    "Mu Bei": [
+        [
+            "He Laoliu",
+            "friend of x"
+        ],
+        [
+            "Li Guofu",
+            "business partner of x"
+        ],
+        [
+            "Zhang Jie",
+            "colleague of x"
+        ],
+        [
+            "Big Brother Wang",
+            "neighbour of x"
+        ],
+        [
+            "Neighbor Wang",
+            "neighbour of x"
+        ]
+    ],
+    "Big Brother Wang": [
+        [
+            "He Laoliu",
+            "friend of x"
+        ],
+        [
+            "Li Guofu",
+            "adversary of x"
+        ],
+        [
+            "Zhang Jie",
+            "potential enemy of x zhang jie, potential victim of x zhang jie"
+        ],
+        [
+            "Mu Bei",
+            "neighbour of x"
+        ],
+        [
+            "Neighbor Wang",
+            "friend of x"
+        ]
+    ],
+    "Neighbor Wang": [
+        [
+            "He Laoliu",
+            "guest of x"
+        ],
+        [
+            "Li Guofu",
+            "friend of x"
+        ],
+        [
+            "Zhang Jie",
+            "neighbour of x"
+        ],
+        [
+            "Mu Bei",
+            "colleague of x, enemy of x"
+        ],
+        [
+            "Big Brother Wang",
+            "fondness of x"
+        ]
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Mrs. Zhang": [
+      ["Yu Shangyong", "friend of x"], 
+      ["Le Wan", "niece of x"], 
+      ["Ge Yueman", "cousin of x"], 
+      ["Yu Yancheng", "brother in law of x"], 
+      ["Lu Lusheng", "acquaintance of x"], 
+      ["Xue Yufan", "acquaintance of x"]
+    ],
+    "Zhi Jun": [
+      ["Mrs. Zhang", "aunt of x"]
+    ],
+    "Yu Shangyong": [
+      ["Mrs. Zhang", "friend of x"], 
+      ["Ge Yueman", "friend of x"], 
+      ["Le Wan", "girlfriend of x"]
+    ],
+    "Ge Yueman": [
+      ["Mrs. Zhang", "cousin of x"], 
+      ["Yu Shangyong", "friend of x"], 
+      ["Le Wan", "friend of x"]
+    ],
+    "Le Wan": [
+      ["Mrs. Zhang", "niece of x"], 
+      ["Yu Shangyong", "girlfriend of x"], 
+      ["Ge Yueman", "friend of x"]
+    ],
+    "Yu Yancheng": [
+      ["Mrs. Zhang", "brother in law of x"], 
+      ["Yu Shangyong", "brother of x"]
+    ],
+    "Lu Lusheng": [
+      ["Mrs. Zhang", "acquaintance of x"]
+    ],
+    "Xue Yufan": [
+      ["Mrs. Zhang", "acquaintance of x"]
+    ]
+}

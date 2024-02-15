@@ -1,0 +1,161 @@
+{
+    "Drake Li Morette": [
+        [
+            "Head NURSE COSTA",
+            "Lover",
+            "Father of child"
+        ],
+        [
+            "Leine Carter",
+            "Lover",
+            "Father of child"
+        ],
+        [
+            "Father Tom",
+            "Lover and real father of child",
+            "Relationship 1: Lover",
+            "Relationship 2: Real father of child"
+        ],
+        [
+            "Hans Li Morette",
+            "Lover, Father of Child"
+        ],
+        [
+            "Jim Mason",
+            "Lover, Future Father"
+        ],
+        [
+            "Hans Li Morette",
+            "Head NURSE COSTA"
+        ]
+    ],
+    "Head NURSE COSTA": [
+        [
+            "Drake Li Morette",
+            "Defended her case",
+            "Acquaintance"
+        ],
+        [
+            "Leine Carter",
+            "Relationship 1: Acquaintance",
+            "Relationship 2: Suspect"
+        ],
+        [
+            "Father Tom",
+            "Relationship 1: Defendant's lawyer",
+            "Relationship 2: Acquaintance"
+        ],
+        [
+            "Hans Li Morette",
+            "Drake Li Morette"
+        ],
+        [
+            "Jim Mason",
+            "Relationship 1: Defendant and NurseRelationship 2: Acquaintance"
+        ]
+    ],
+    "Leine Carter": [
+        [
+            "Drake Li Morette",
+            "Lover",
+            "Mother of child"
+        ],
+        [
+            "Head NURSE COSTA",
+            "Relationship 1: Acquaintance",
+            "Relationship 2: Suspect"
+        ],
+        [
+            "Father Tom",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Drake Li Morette",
+            "Head NURSE COSTA",
+            "Father Tom"
+        ],
+        [
+            "Jim Mason",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Father Tom": [
+        [
+            "Drake Li Morette",
+            "Relationship 1: Lover",
+            "Relationship 2: Real father of child"
+        ],
+        [
+            "Head NURSE COSTA",
+            "Relationship 1: Defendant's lawyer",
+            "Relationship 2: Acquaintance"
+        ],
+        [
+            "Leine Carter",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Relationship 1: Murderer and Victim",
+            "Relationship 2: Suspect and Investigator"
+        ],
+        [
+            "Jim Mason",
+            "Relationship 1: Father Tom is Jim Mason's doctor, and Jim Mason is Father Tom's patient.Relationship 2: Father Tom is Jim Mason's potential murderer, and Jim Mason is Father Tom's victim."
+        ]
+    ],
+    "Hans Li Morette": [
+        [
+            "Drake Li Morette",
+            "Brother, Husband"
+        ],
+        [
+            "Head NURSE COSTA",
+            "Drake Li Morette"
+        ],
+        [
+            "Leine Carter",
+            "Drake Li Morette",
+            "Jim Mason"
+        ],
+        [
+            "Father Tom",
+            "Relationship 1: Murderer and Victim",
+            "Relationship 2: Suspect and Investigator"
+        ],
+        [
+            "Jim Mason",
+            "Drake Li Morette",
+            "relationship 1",
+            "relationship 2"
+        ]
+    ],
+    "Jim Mason": [
+        [
+            "Drake Li Morette",
+            "Future Son, Victim"
+        ],
+        [
+            "Head NURSE COSTA",
+            "Relationship 1: Patient and DoctorRelationship 2: Acquaintance"
+        ],
+        [
+            "Leine Carter",
+            "Victim of X",
+            "Killed by X"
+        ],
+        [
+            "Father Tom",
+            "Relationship 1: Jim Mason is Father Tom's patient, and Father Tom is Jim Mason's doctor.Relationship 2: Jim Mason is Father Tom's victim, and Father Tom is Jim Mason's potential murderer."
+        ],
+        [
+            "Hans Li Morette",
+            "relationship 1",
+            "relationship 2"
+        ]
+    ]
+}

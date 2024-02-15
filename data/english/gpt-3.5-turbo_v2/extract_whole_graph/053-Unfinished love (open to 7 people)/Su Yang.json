@@ -1,0 +1,91 @@
+{
+    "Su Yang": [
+      ["Lin Weiren", "teacher of x su yang"], 
+      ["Lin Weiren", "father in law of x su yang"], 
+      ["Lin Xi", "fiancee of x su yang"], 
+      ["Lin Xi", "patient of x su yang"], 
+      ["Lin Xi", "romantic relationships with su yang of x"], 
+      ["Gu Qing", "ex girlfriend of x su yang"], 
+      ["Gu Qing", "daughter of x su yang's parents' preferred choice for marriage"], 
+      ["Lin Tong", "ex girlfriend of x su yang"], 
+      ["Lin Tong", "girlfriend of x su yang"], 
+      ["Lin Tong", "patient of x su yang"], 
+      ["Lin Tong", "romantic relationships with su yang of x"], 
+      ["Lin Tong", "deceased of x"], 
+      ["Shen Cheng", "housekeeper of x lin weiren"], 
+      ["Shen Cheng", "father of x x lin tong"], 
+      ["Gu Ming", "victim of x su yang"], 
+      ["Gu Ming", "killed by su yang of x"], 
+      ["Lin Yang", "witness of x su yang's suspicious behavior"], 
+      ["Dean Lin", "mentor of x su yang"], 
+      ["Dean Lin", "father of x lin xi"], 
+      ["Dean Lin", "superior of x su yang"], 
+      ["Qin Siqin", "investigated by su yang of x"]
+    ],
+    "Lin Weiren": [
+      ["Su Yang", "student of x lin weiren"], 
+      ["Su Yang", "proposed engagement to lin xi"], 
+      ["Lin Xi", "daughter of x lin weiren"], 
+      ["Lin Xi", "engaged to su yang of x"], 
+      ["Shen Cheng", "employee subordinate to lin weiren of x"], 
+      ["Gu Ming", "enemy of x lin weiren"], 
+      ["Gu Ming", "victim of x lin weiren"], 
+      ["Lin Yang", "witness of x lin weiren's suspicious behavior"]
+    ],
+    "Lin Xi": [
+      ["Su Yang", "fiance of x lin xi"], 
+      ["Su Yang", "attending doctor of x lin xi"], 
+      ["Su Yang", "romantic relationships with lin xi"], 
+      ["Gu Yu", "admirer of x lin xi"], 
+      ["Lin Weiren", "father of x lin xi"], 
+      ["Shen Cheng", "father of x lin xi"], 
+      ["Qin Siqin", "suspicious of x lin xi"]
+    ],
+    "Gu Qing": [
+      ["Su Yang", "ex girlfriend of x gu qing"], 
+      ["Su Yang", "uninterested in gu qing of x"], 
+      ["Su Yang", "pursued by gu qing of x"], 
+      ["Gu Yu", "admirer of x gu qing"], 
+      ["Gu Yu", "rival in love of x su yang"]
+    ],
+    "Lin Tong": [
+      ["Su Yang", "ex girlfriend of x x lin tong"], 
+      ["Su Yang", "girlfriend of x x lin tong"], 
+      ["Su Yang", "pursued by lin tong of x"], 
+      ["Lin Weiren", "father of x x lin tong"], 
+      ["Shen Cheng", "father of x x lin tong"], 
+      ["Dean Lin", "superior of x x lin tong"], 
+      ["Gu Ming", "victim's family of x x lin tong"], 
+      ["Su Yang", "suspicious of x x lin tong"], 
+      ["Qin Siqin", "cause of x x x death investigated by lin tong"]
+    ],
+    "Shen Cheng": [
+      ["Lin Weiren", "housekeeper of x shen cheng"], 
+      ["Lin Tong", "father of x shen cheng"]
+    ],
+    "Gu Ming": [
+      ["Lin Weiren", "enemy of x gu ming"], 
+      ["Lin Weiren", "perpetrator of x gu ming's family"], 
+      ["Su Yang", "perpetrator of x gu ming"], 
+      ["Su Yang", "attempted murderer of x gu ming"], 
+      ["Su Yang", "murderer of x gu ming"]
+    ],
+    "Lin Yang": [
+      ["Su Yang", "suspect to lin yang of x"], 
+      ["Su Yang", "suspected by lin yang of x"], 
+      ["Lin Weiren", "witness of x lin yang's suspicious behavior"], 
+      ["Lin Weiren", "witness of x su yang's suspicious behavior"]
+    ],
+    "Dean Lin": [
+      ["Su Yang", "mentor of x dean lin"], 
+      ["Lin Weiren", "father of x dean lin"], 
+      ["Lin Xi", "daughter of x dean lin"], 
+      ["Su Yang", "student of x dean lin"], 
+      ["Gu Ming", "perpetrator of x dean lin's family"]
+    ],
+    "Qin Siqin": [
+      ["Su Yang", "subject of x investigation for qin siqin"], 
+      ["Lin Tong", "cause of x x death investigated by qin siqin"], 
+      ["Lin Xi", "suspected by qin siqin of x"]
+    ]
+}

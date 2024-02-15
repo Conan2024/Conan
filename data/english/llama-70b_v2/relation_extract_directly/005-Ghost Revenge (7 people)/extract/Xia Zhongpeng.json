@@ -1,0 +1,64 @@
+{
+    "Xia Zhongpeng": [
+      ["Xia Beigui", "father of x"], 
+      ["Xia Bolong", "brother of x"], 
+      ["Xia Sanhu", "brother of x"], 
+      ["A'e", "niece of x"], 
+      ["Tian Jixiu Yi", "acquaintance of x"], 
+      ["Yu Jin", "acquaintance of x"]
+    ],
+    "Xia Beigui": [
+      ["Xia Zhongpeng", "son of x"], 
+      ["Xia Bolong", "son of x"], 
+      ["Xia Sanhu", "son of x"]
+    ],
+    "Xia Bolong": [
+      ["Xia Zhongpeng", "brother of x"], 
+      ["Xia Beigui", "father of x"], 
+      ["Xia Sanhu", "brother of x"]
+    ],
+    "Xia Sanhu": [
+      ["Xia Zhongpeng", "brother of x"], 
+      ["Xia Beigui", "father of x"], 
+      ["A'e", "daughter of x"], 
+      ["Yue Dongwen", "friend of x"], 
+      ["Duan Yuetong", "friend of x"]
+    ],
+    "A'e": [
+      ["Xia Zhongpeng", "niece of x"], 
+      ["Xia Sanhu", "father of x"]
+    ],
+    "Tian Jixiu Yi": [
+      ["Xia Zhongpeng", "acquaintance of x"], 
+      ["Xia Sanhu", "friend of x"]
+    ],
+    "Li Zicai": [
+      ["Xia Zhongpeng", "acquaintance of x"]
+    ],
+    "Yu Jin": [
+      ["Xia Zhongpeng", "acquaintance of x"]
+    ],
+    "Yu Zu Chengmu": [
+      ["Xia Sanhu", "friend of x"], 
+      ["Yue Dongwen", "friend of x"]
+    ],
+    "Yue Dongwen": [
+      ["Xia Sanhu", "friend of x"], 
+      ["Yu Zu Chengmu", "friend of x"]
+    ],
+    "Duan Yuetong": [
+      ["Yu Zu Chengmu", "friend of x"]
+    ],
+    "Xia Guanzhu": [
+      ["Yu Zu Chengmu", "friend of x"]
+    ],
+    "Yu Shue": [
+      ["Xia Sanhu", "brother of x"]
+    ],
+    "Xia Shue": [
+      ["Xia Sanhu", "brother of x"]
+    ],
+    "Aming": [
+      ["Xia Zhongpeng", "acquaintance of x"]
+    ]
+}

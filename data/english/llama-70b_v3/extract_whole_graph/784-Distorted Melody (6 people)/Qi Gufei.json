@@ -1,0 +1,32 @@
+{
+    "Qi Gufei": [
+      ["Luo Younuo", "friend of x"], 
+      ["Hei Li", "sister of x, rival of x"]
+    ],
+    "Luo Younuo": [
+      ["Qi Gufei", "friend of x"]
+    ],
+    "Zhaonan": [
+      ["Hei Li", "sister of x, rival of x"]
+    ],
+    "Hei Li": [
+      ["Qi Gufei", "sister of x, rival of x"], 
+      ["Zhaonan", "sister of x, rival of x"]
+    ],
+    "Guilang": [
+      ["Qi Gufei", "friend of x"], 
+      ["Zhaonan", "sister of x, friend of x"]
+    ],
+    "Wangdi": [
+      ["Zhaonan", "sister of x"]
+    ],
+    "Xue Yan": [
+      ["Guilang", "sister of x"]
+    ],
+    "Baron Smith": [
+      ["Hei Li", "acquaintance of x"]
+    ],
+    "Wang Zimo": [
+      ["Qi Gufei", "acquaintance of x"]
+    ]
+}

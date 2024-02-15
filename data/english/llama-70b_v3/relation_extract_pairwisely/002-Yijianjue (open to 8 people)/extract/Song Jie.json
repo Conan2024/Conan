@@ -1,0 +1,32 @@
+{
+    "Song Jie": [
+      ["Xuan Bingjiao", "messenger of x"], 
+      ["Ren Dong", "friend of x, acquaintance of x"], 
+      ["Lu Ying", "acquaintance of x, suspect of x"], 
+      ["Erxuan Can", "acquaintance of x, colleague of x"]
+    ],
+    "Xuan Bingjiao": [
+      ["Song Jie", "employer of x"], 
+      ["Ren Dong", "friend of x, business partner of x"], 
+      ["Lu Ying", "mentor of x, employer of x"], 
+      ["Erxuan Can", "employee of x"]
+    ],
+    "Ren Dong": [
+      ["Song Jie", "friend of x, acquaintance of x"], 
+      ["Xuan Bingjiao", "friend of x, business partner of x"], 
+      ["Lu Ying", "friend of x, acquaintance of x"], 
+      ["Erxuan Can", "friend of x, acquaintance of x"]
+    ],
+    "Lu Ying": [
+      ["Song Jie", "acquaintance of x, suspect of x"], 
+      ["Xuan Bingjiao", "employee of x"], 
+      ["Ren Dong", "friend of x, acquaintance of x"], 
+      ["Erxuan Can", "acquaintance of x, colleague of x"]
+    ],
+    "Erxuan Can": [
+      ["Song Jie", "acquaintance of x, colleague of x"], 
+      ["Xuan Bingjiao", "employee of x"], 
+      ["Ren Dong", "friend of x, acquaintance of x"], 
+      ["Lu Ying", "acquaintance of x, colleague of x"]
+    ]
+}

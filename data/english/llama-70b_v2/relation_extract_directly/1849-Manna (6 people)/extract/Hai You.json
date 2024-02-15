@@ -1,0 +1,58 @@
+{
+    "Hai You": [
+      ["Wei Yangfeng", "father of x"], 
+      ["Zhou Shi", "mother of x"], 
+      ["Wei Yangyao", "cousin of x"], 
+      ["Lv Caiqian", "cousin of x"], 
+      ["Mrs. Tan", "adopted mother of x"], 
+      ["Tan Renchang", "uncle of x"], 
+      ["Shang Zhi", "brother in law of x"], 
+      ["Lv Mingran", "brother in law of x"], 
+      ["Cheng Ge", "brother in law of x"]
+    ],
+    "Wei Yangfeng": [
+      ["Hai You", "son of x"]
+    ],
+    "Zhou Shi": [
+      ["Hai You", "daughter of x"]
+    ],
+    "Wei Yangyao": [
+      ["Hai You", "cousin of x"]
+    ],
+    "Lv Caiqian": [
+      ["Liao Gongzi", "friend of x"]
+    ],
+    "Mrs. Tan": [
+      ["Hai You", "adopted daughter of x"], 
+      ["Tan Renchang", "husband of x"], 
+      ["Lv Mingran", "brother of x"], 
+      ["Cheng Ge", "son of x"]
+    ],
+    "Tan Renchang": [
+      ["Liao Gongzi", "friend of x"]
+    ],
+    "Shang Zhi": [
+      ["Tan Renchang", "uncle of x"], 
+      ["Hai You", "brother in law of x"], 
+      ["Cheng Ge", "brother in law of x"]
+    ],
+    "Lv Mingran": [
+      ["Tan Shang Zhi", "brother in law of x"]
+    ],
+    "Cheng Ge": [
+      ["Tan Shang Zhi", "brother in law of x"]
+    ],
+    "Liao Gongzi": [
+      ["Cai Qian", "friend of x"]
+    ],
+    "A Ping": [
+      ["Mrs. Tan", "personal maid of x"]
+    ],
+    "Cai Qian": [
+      ["Lv Caiqian", "sister of x"]
+    ],
+    "Tan Shang Zhi": [
+      ["Tan Renchang", "nephew of x"], 
+      ["Shang Zhi", "brother of x"]
+    ]
+}

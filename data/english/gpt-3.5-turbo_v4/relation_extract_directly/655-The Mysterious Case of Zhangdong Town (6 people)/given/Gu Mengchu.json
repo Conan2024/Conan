@@ -1,0 +1,36 @@
+{
+    "Gu Chumeng": [
+      ["Gu Zhiyu", "grandparent of x"]
+    ],
+    "Xiting": [
+      ["Gu Chumeng", "wife of x"]
+    ],
+    "Xinger": [
+      ["Gu Chumeng", "helper of x"]
+    ],
+    "Gu Zhiyu": [
+      ["Gu Chumeng", "child of x"]
+    ],
+    "Gu Lianshan": [
+      ["Gu Chumeng", "father of x"]
+    ],
+    "Yang Shuixun": [
+      ["Gu Chumeng", "acquaintance of x"], 
+      ["Minxi", "father of x"]
+    ],
+    "Minxi": [
+      ["Gu Chumeng", "friend of x"], 
+      ["Yang Shuixun", "daughter of x"]
+    ],
+    "Brother Gu": [
+      ["Gu Chumeng", "same person as x (different identity)"]
+    ],
+    "Zhang Shanren": [
+      ["Gu Chumeng", "acquaintance of x"], 
+      ["Caiya", "buyer of x"]
+    ],
+    "Zhang Fanghao": [
+      ["Gu Chumeng", "acquaintance of x"], 
+      ["Yang Shuixun", "servant of x"]
+    ]
+}

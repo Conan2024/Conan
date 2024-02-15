@@ -1,0 +1,44 @@
+{
+    "Yu Yancheng": [
+      ["Yu Shangyong", "brother of x"], 
+      ["Mrs. Zhang", "friend of x"], 
+      ["Le Wan", "acquaintance of x"], 
+      ["Uncle Zhu", "friend of x"], 
+      ["Lü Lusheng", "enemy of x"]
+    ],
+    "Yu Shangyong": [
+      ["Yu Yancheng", "brother of x"], 
+      ["Zhang Junshi", "friend of x"]
+    ],
+    "Zhang Junshi": [
+      ["Yu Shangyong", "friend of x"], 
+      ["Mrs. Zhang", "wife of x"], 
+      ["Le Wan", "acquaintance of x"]
+    ],
+    "Le Wan": [
+      ["Yu Yancheng", "acquaintance of x"], 
+      ["Uncle Zhu", "friend of x"], 
+      ["Mrs. Zhang", "friend of x"]
+    ],
+    "Uncle Zhu": [
+      ["Yu Yancheng", "friend of x"], 
+      ["Le Wan", "friend of x"]
+    ],
+    "Lü Lusheng": [
+      ["Yu Yancheng", "enemy of x"]
+    ],
+    "Mrs. Zhang": [
+      ["Zhang Junshi", "wife of x"], 
+      ["Yu Yancheng", "friend of x"], 
+      ["Le Wan", "friend of x"]
+    ],
+    "Yan Yichong": [
+      ["Yu Yancheng", "master of x"]
+    ],
+    "Zhi Jun": [
+      ["Yu Yancheng", "niece of x"]
+    ],
+    "Zhang Junshi's niece": [
+      ["Zhang Junshi", "niece of x"]
+    ]
+}

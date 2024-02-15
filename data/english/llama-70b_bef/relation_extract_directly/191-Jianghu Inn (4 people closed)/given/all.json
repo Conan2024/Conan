@@ -1,0 +1,28 @@
+{
+    "Zhang Jinyin": [
+      ["Meng Sanchun", "friend of x, rival of x, enemy of x"], 
+      ["Hong Jiangshui", "acquaintance of x, helper of x"], 
+      ["Cai Siniang", "acquaintance of x, suspect of x"]
+    ],
+    "Meng Sanchun": [
+      ["Zhang Jinyin", "friend of x, rival of x, enemy of x"], 
+      ["Hong Jiangshui", "acquaintance of x"], 
+      ["Cai Siniang", "acquaintance of x"]
+    ],
+    "Hong Jiangshui": [
+      ["Zhang Jinyin", "acquaintance of x, helper of x"], 
+      ["Meng Sanchun", "acquaintance of x"]
+    ],
+    "Cai Siniang": [
+      ["Zhang Jinyin", "acquaintance of x, suspect of x"], 
+      ["Meng Sanchun", "acquaintance of x"]
+    ],
+    "Hong Erlang": [
+      ["Zhang Jinyin", "suspect of x, enemy of x"], 
+      ["Meng Sanchun", "enemy of x"]
+    ],
+    "Hong Changlie": [
+      ["Zhang Jinyin", "suspect of x, enemy of x"], 
+      ["Meng Sanchun", "enemy of x"]
+    ]
+}

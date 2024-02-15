@@ -1,0 +1,16 @@
+{
+    "Ship Doctor Ling": [
+      ["Boss Yang", "acquaintance of x"], 
+      ["First Mate Zhang", "acquaintance of x, suspect of x"], 
+      ["Worker Wang", "husband of x"]
+    ],
+    "Boss Yang": [
+      ["Ship Doctor Ling", "employer of x, business partner of x"]
+    ],
+    "First Mate Zhang": [
+      ["Ship Doctor Ling", "acquaintance of x, suspect of x"]
+    ],
+    "Worker Wang": [
+      ["Ship Doctor Ling", "husband of x"]
+    ]
+}

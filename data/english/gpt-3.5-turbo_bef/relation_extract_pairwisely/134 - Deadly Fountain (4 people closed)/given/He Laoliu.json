@@ -1,0 +1,26 @@
+{
+    "He Laoliu": [
+      ["Mu Bei", "friend of x"], 
+      ["Big Brother Wang", "friend of x"], 
+      ["Neighbor Wang", "neighbour of x"]
+    ],
+    "Li Guofu": [
+      ["Mu Bei", "business partner of x"], 
+      ["Big Brother Wang", "friend of x"], 
+      ["Neighbor Wang", "friend of x"]
+    ],
+    "Mu Bei": [
+      ["He Laoliu", "friend of x"], 
+      ["Li Guofu", "business partner of x"]
+    ],
+    "Big Brother Wang": [
+      ["He Laoliu", "friend of x"], 
+      ["Li Guofu", "adversary of x"], 
+      ["Neighbor Wang", "friend of x"]
+    ],
+    "Neighbor Wang": [
+      ["Li Guofu", "friend of x"], 
+      ["Mu Bei", "colleague of x, enemy of x"], 
+      ["Big Brother Wang", "fondness of x"]
+    ]
+}

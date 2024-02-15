@@ -1,0 +1,33 @@
+{
+    "Duan Yuetong": [
+      ["Wu Baian", "suspect of x, murderer of x"], 
+      ["XIA SANHU", "acquaintance of x, boxing hall owner"], 
+      ["Yue Kesa", "brother of x, martial arts student of x"], 
+      ["Anqi", "girlfriend of x, friend of x"], 
+      ["Yue Dongwen", "father in law of x, businessman of x"]
+    ],
+    "Wu Baian": [
+      ["Duan Yuetong", "investigator of x, police of x"], 
+      ["XIA SANHU", "classmate of x, boxing hall owner"]
+    ],
+    "XIA SANHU": [
+      ["Duan Yuetong", "acquaintance of x, police of x"], 
+      ["Wu Baian", "classmate of x, boxing hall owner"]
+    ],
+    "Yue Kesa": [
+      ["Duan Yuetong", "brother of x, martial arts student of x"], 
+      ["Yue Dongwen", "father of x, businessman of x"]
+    ],
+    "Anqi": [
+      ["Duan Yuetong", "girlfriend of x, friend of x"], 
+      ["Yue Kesa", "brother of x, martial arts student of x"]
+    ],
+    "Yue Dongwen": [
+      ["Yue Kesa", "son of x, businessman of x"], 
+      ["Duan Yuetong", "father in law of x, police of x"]
+    ],
+    "Yu Zu Chengmu": [
+      ["Duan Yuetong", "acquaintance of x, boxing hall owner"], 
+      ["Wu Baian", "classmate of x, boxing hall owner"]
+    ]
+}

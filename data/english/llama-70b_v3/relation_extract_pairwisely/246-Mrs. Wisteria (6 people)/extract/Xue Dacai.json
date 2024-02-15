@@ -1,0 +1,87 @@
+{
+    "Xue Dacai": [
+      ["Ge Jixian", "friend of x, mentor of x"], 
+      ["Ge Yueluo", "husband of x"], 
+      ["Zhu Lingshan", "friend of x, mentor of x"], 
+      ["Xue Yufan", "son of x"], 
+      ["Lü Songnian", "acquaintance of x, business partner of x"], 
+      ["Lü Lusheng", "friend of x, business partner of x"], 
+      ["Yu Shangyong", "acquaintance of x, business partner of x"]
+    ],
+    "Ge Jixian": [
+      ["Xue Dacai", "friend of x, mentor of x"], 
+      ["Ge Yueluo", "father in law of x"], 
+      ["Zhu Lingshan", "father in law of x"], 
+      ["Xue Yufan", "father in law of x"], 
+      ["Lü Songnian", "business partner of x"], 
+      ["Lü Lusheng", "friend of x, mentor of x"], 
+      ["Yu Shangyong", "acquaintance of x, suspect of x, informant of x, perpetrator of x"]
+    ],
+    "Ge Yueluo": [
+      ["Xue Dacai", "wife of x"], 
+      ["Ge Jixian", "daughter of x"], 
+      ["Zhu Lingshan", "husband of x, son in law of x"], 
+      ["Xue Yufan", "husband of x, son of x"], 
+      ["Lü Songnian", "wife of x, informant of x"], 
+      ["Lü Lusheng", "wife of x"], 
+      ["Yu Shangyong", "acquaintance of x, suspect of x"], 
+      ["Mrs. Zhang", "wife of x"]
+    ],
+    "Zhu Lingshan": [
+      ["Xue Dacai", "friend of x, mentor of x"], 
+      ["Ge Jixian", "father in law of x"], 
+      ["Ge Yueluo", "wife of x, daughter in law of x"], 
+      ["Xue Yufan", "husband of x, father of x"], 
+      ["Lü Songnian", "friend of x, acquaintance of x"], 
+      ["Lü Lusheng", "friend of x, acquaintance of x"], 
+      ["Yu Shangyong", "friend of x, acquaintance of x"], 
+      ["Mrs. Zhang", "husband of x, son in law of x"]
+    ],
+    "Xue Yufan": [
+      ["Ge Jixian", "father in law of x"], 
+      ["Ge Yueluo", "wife of x, daughter of x"], 
+      ["Zhu Lingshan", "wife of x, mother of x"], 
+      ["Lü Songnian", "acquaintance of x, business partner of x, neighbour of x, friend of x"], 
+      ["Lü Lusheng", "acquaintance of x"], 
+      ["Yu Shangyong", "acquaintance of x, business partner of x, suspect of x"], 
+      ["Mrs. Zhang", "business partner of x, acquaintance of x"]
+    ],
+    "Lü Songnian": [
+      ["Xue Dacai", "acquaintance of x, business partner of x"], 
+      ["Ge Jixian", "business partner of x"], 
+      ["Ge Yueluo", "husband of x, informant of x"], 
+      ["Zhu Lingshan", "friend of x, acquaintance of x"], 
+      ["Xue Yufan", "acquaintance of x, business partner of x, neighbour of x, friend of x"], 
+      ["Lü Lusheng", "brother of x, business partner of x"], 
+      ["Yu Shangyong", "acquaintance of x, business partner of x"], 
+      ["Mrs. Zhang", "acquaintance of x, business partner of x"]
+    ],
+    "Lü Lusheng": [
+      ["Xue Dacai", "friend of x, business partner of x"], 
+      ["Ge Jixian", "friend of x, mentor of x"], 
+      ["Ge Yueluo", "husband of x, friend of x"], 
+      ["Zhu Lingshan", "friend of x, acquaintance of x"], 
+      ["Xue Yufan", "acquaintance of x"], 
+      ["Lü Songnian", "brother of x, business partner of x"], 
+      ["Yu Shangyong", "friend of x, acquaintance of x"], 
+      ["Mrs. Zhang", "friend of x, acquaintance of x"]
+    ],
+    "Yu Shangyong": [
+      ["Xue Dacai", "acquaintance of x, business partner of x"], 
+      ["Ge Jixian", "acquaintance of x, suspect of x, informant of x, perpetrator of x"], 
+      ["Ge Yueluo", "acquaintance of x, suspect of x"], 
+      ["Zhu Lingshan", "friend of x, acquaintance of x"], 
+      ["Xue Yufan", "acquaintance of x, business partner of x, suspect of x"], 
+      ["Lü Songnian", "acquaintance of x, business partner of x"], 
+      ["Lü Lusheng", "friend of x, acquaintance of x"], 
+      ["Mrs. Zhang", "acquaintance of x, informant of x"]
+    ],
+    "Mrs. Zhang": [
+      ["Ge Yueluo", "wife of x"], 
+      ["Zhu Lingshan", "wife of x, daughter of x"], 
+      ["Xue Yufan", "business partner of x, acquaintance of x"], 
+      ["Lü Songnian", "acquaintance of x, business partner of x"], 
+      ["Lü Lusheng", "friend of x, acquaintance of x"], 
+      ["Yu Shangyong", "acquaintance of x, informant of x"]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "Master Chen": [
+      ["Li Wangye (Lord Li)", "business partner of x"], 
+      ["Fangfu", "ally of x"], 
+      ["Chen Qian", "daughter of x"], 
+      ["Prince Kim Kim-Eric Yisi Bada", "friend of x"], 
+      ["Fang XU", "acquaintance of x"]
+    ],
+    "Li Wangye (Lord Li)": [
+      ["Master Chen", "business partner of x"], 
+      ["Fangfu", "ally of x"], 
+      ["Fangfang", "wife of x"], 
+      ["Li Zhong", "son of x"], 
+      ["Li Yan", "son of x"]
+    ],
+    "Fangfu": [
+      ["Master Chen", "ally of x"], 
+      ["Fangfang", "wife of x"], 
+      ["Li Wangye (Lord Li)", "business partner of x"]
+    ],
+    "Fangfang": [
+      ["Fangfu", "wife of x"], 
+      ["Li Wangye (Lord Li)", "husband of x"]
+    ],
+    "Prince Kim Kim-Eric Yisi Bada": [
+      ["Master Chen", "friend of x"], 
+      ["Fang XU", "acquaintance of x"]
+    ],
+    "Fang XU": [
+      ["Prince Kim Kim-Eric Yisi Bada", "acquaintance of x"], 
+      ["Fangfu", "husband of x"]
+    ],
+    "Chen Qian": [
+      ["Master Chen", "daughter of x"], 
+      ["Li Wangye (Lord Li)", "fiancé of x"]
+    ],
+    "Madam Li": [
+      ["Li Zhong", "mother of x"], 
+      ["Li Yan", "mother of x"]
+    ],
+    "Li Zhong": [
+      ["Madam Li", "son of x"], 
+      ["Li Yan", "twin brother of x"]
+    ],
+    "Li Yan": [
+      ["Madam Li", "son of x"], 
+      ["Li Zhong", "twin brother of x"]
+    ],
+    "Li Gongzi": [
+      ["Master Chen", "subordinate of x"]
+    ]
+}

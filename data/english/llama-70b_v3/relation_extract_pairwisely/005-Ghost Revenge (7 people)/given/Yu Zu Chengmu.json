@@ -1,0 +1,132 @@
+{
+    "Aming": [
+      ["Anqi", "friend of x"], 
+      ["Duan Hejun", "friend of x"], 
+      ["Duan Yuetong", "friend of x, business partner of x"], 
+      ["Li Luoming", "friend of x, colleague of x"], 
+      ["Li Zicai", "brother in law of x, business partner of x"], 
+      ["Li Zijun", "friend of x, business partner of x"], 
+      ["Wu Baian", "friend of x, acquaintance of x"], 
+      ["Xia Bolong", "friend of x, rival of x"], 
+      ["Xia Sanhu", "friend of x, acquaintance of x"], 
+      ["Yu Zu Chengmu", "friend of x, business partner of x"]
+    ],
+    "Anqi": [
+      ["Aming", "friend of x"], 
+      ["Duan Hejun", "friend of x"], 
+      ["Duan Yuetong", "friend of x, acquaintance of x"], 
+      ["Li Luoming", "friend of x, colleague of x"], 
+      ["Li Zicai", "brother in law of x, friend of x"], 
+      ["Li Zijun", "friend of x"], 
+      ["Wu Baian", "friend of x, acquaintance of x"], 
+      ["Xia Bolong", "friend of x, acquaintance of x"], 
+      ["Xia Sanhu", "friend of x, acquaintance of x"], 
+      ["Yu Zu Chengmu", "friend of x, acquaintance of x"]
+    ],
+    "Duan Hejun": [
+      ["Aming", "friend of x"], 
+      ["Anqi", "friend of x"], 
+      ["Duan Yuetong", "wife of x, same person as x (different reference)"], 
+      ["Li Luoming", "friend of x"], 
+      ["Li Zicai", "business partner of x"], 
+      ["Li Zijun", "friend of x"], 
+      ["Wu Baian", "business partner of x"], 
+      ["Xia Sanhu", "friend of x, business partner of x"], 
+      ["Yu Zu Chengmu", "adversary of x"]
+    ],
+    "Duan Yuetong": [
+      ["Aming", "friend of x, business partner of x"], 
+      ["Anqi", "friend of x, acquaintance of x"], 
+      ["Duan Hejun", "husband of x, same person as x (different reference)"], 
+      ["Li Luoming", "friend of x, acquaintance of x"], 
+      ["Li Zicai", "brother in law of x, friend of x"], 
+      ["Li Zijun", "friend of x"], 
+      ["Wu Baian", "friend of x, acquaintance of x"], 
+      ["Xia Bolong", "acquaintance of x, friend of x"], 
+      ["Xia Sanhu", "friend of x, acquaintance of x"], 
+      ["Yu Zu Chengmu", "friend of x, business partner of x"]
+    ],
+    "Li Luoming": [
+      ["Aming", "friend of x, colleague of x"], 
+      ["Anqi", "friend of x, colleague of x"], 
+      ["Duan Hejun", "friend of x"], 
+      ["Duan Yuetong", "friend of x, acquaintance of x"], 
+      ["Li Zicai", "brother of x, acquaintance of x"], 
+      ["Li Zijun", "friend of x, colleague of x"], 
+      ["Wu Baian", "friend of x, acquaintance of x"], 
+      ["Xia Bolong", "friend of x, acquaintance of x"], 
+      ["Xia Sanhu", "friend of x, acquaintance of x"], 
+      ["Yu Zu Chengmu", "friend of x"]
+    ],
+    "Li Zicai": [
+      ["Aming", "brother in law of x, business partner of x"], 
+      ["Anqi", "brother in law of x, friend of x"], 
+      ["Duan Hejun", "business partner of x"], 
+      ["Duan Yuetong", "brother in law of x, friend of x"], 
+      ["Li Luoming", "brother of x, acquaintance of x"], 
+      ["Li Zijun", "brother of x, brother of x"], 
+      ["Wu Baian", "brother in law of x, uncle of x"], 
+      ["Xia Bolong", "brother in law of x"], 
+      ["Xia Sanhu", "brother in law of x, business partner of x"], 
+      ["Yu Zu Chengmu", "brother of x, friend of x"]
+    ],
+    "Li Zijun": [
+      ["Aming", "friend of x, business partner of x"], 
+      ["Anqi", "friend of x"], 
+      ["Duan Hejun", "friend of x"], 
+      ["Duan Yuetong", "friend of x"], 
+      ["Li Luoming", "friend of x, colleague of x"], 
+      ["Li Zicai", "brother of x, younger brother of x"], 
+      ["Wu Baian", "friend of x, acquaintance of x"], 
+      ["Xia Bolong", "friend of x, rival of x"], 
+      ["Xia Sanhu", "friend of x, rival of x"], 
+      ["Yu Zu Chengmu", "friend of x, acquaintance of x"]
+    ],
+    "Wu Baian": [
+      ["Aming", "friend of x, acquaintance of x"], 
+      ["Anqi", "friend of x, acquaintance of x"], 
+      ["Duan Hejun", "business partner of x"], 
+      ["Duan Yuetong", "friend of x, acquaintance of x"], 
+      ["Li Luoming", "friend of x, acquaintance of x"], 
+      ["Li Zicai", "brother in law of x, uncle of x"], 
+      ["Li Zijun", "friend of x, acquaintance of x"], 
+      ["Xia Bolong", "friend of x, acquaintance of x"], 
+      ["Xia Sanhu", "friend of x, rival of x"], 
+      ["Yu Zu Chengmu", "friend of x, colleague of x, business partner of x"]
+    ],
+    "Xia Bolong": [
+      ["Aming", "friend of x, rival of x"], 
+      ["Anqi", "friend of x, acquaintance of x"], 
+      ["Duan Yuetong", "acquaintance of x, friend of x"], 
+      ["Li Luoming", "friend of x, acquaintance of x"], 
+      ["Li Zicai", "brother in law of x"], 
+      ["Li Zijun", "friend of x, rival of x"], 
+      ["Wu Baian", "friend of x, acquaintance of x"], 
+      ["Xia Sanhu", "acquaintance of x, classmate of x"], 
+      ["Yu Zu Chengmu", "friend of x, acquaintance of x"]
+    ],
+    "Xia Sanhu": [
+      ["Aming", "friend of x, acquaintance of x"], 
+      ["Anqi", "friend of x, acquaintance of x"], 
+      ["Duan Hejun", "friend of x, business partner of x"], 
+      ["Duan Yuetong", "friend of x, acquaintance of x"], 
+      ["Li Luoming", "friend of x, acquaintance of x"], 
+      ["Li Zicai", "brother in law of x, business partner of x"], 
+      ["Li Zijun", "friend of x, rival of x"], 
+      ["Wu Baian", "friend of x, rival of x"], 
+      ["Xia Bolong", "acquaintance of x, classmate of x"], 
+      ["Yu Zu Chengmu", "friend of x"]
+    ],
+    "Yu Zu Chengmu": [
+      ["Aming", "friend of x, business partner of x"], 
+      ["Anqi", "friend of x, acquaintance of x"], 
+      ["Duan Hejun", "adversary of x"], 
+      ["Duan Yuetong", "friend of x, business partner of x"], 
+      ["Li Luoming", "friend of x"], 
+      ["Li Zicai", "brother of x, friend of x"], 
+      ["Li Zijun", "friend of x, acquaintance of x"], 
+      ["Wu Baian", "friend of x, colleague of x, business partner of x"], 
+      ["Xia Bolong", "friend of x, acquaintance of x"], 
+      ["Xia Sanhu", "friend of x"]
+    ]
+}

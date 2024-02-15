@@ -1,0 +1,74 @@
+{
+    "Xuan Can": [
+        [
+            "Du Zhong",
+            "same person as x (different reference)"
+        ],
+        [
+            "Du Zhong",
+            "same person as x (different identity)"
+        ],
+        [
+            "Lu Ying",
+            "friend of x"
+        ],
+        [
+            "Ren Dong",
+            "informant of x"
+        ],
+        [
+            "Ren Dong",
+            "helped by x"
+        ]
+    ],
+    "Du Zhong": [
+        [
+            "Xuan Can",
+            "same person as x (different reference)"
+        ],
+        [
+            "Xuan Can",
+            "same person as x (different identity)"
+        ],
+        [
+            "Lu Ying",
+            "friend of x"
+        ],
+        [
+            "Ren Dong",
+            "informant of x"
+        ],
+        [
+            "Ren Dong",
+            "helped by x"
+        ]
+    ],
+    "Ren Dong": [
+        [
+            "Xuan Can",
+            "friend of x"
+        ],
+        [
+            "Xuan Can",
+            "helped by x"
+        ],
+        [
+            "Du Zhong",
+            "friend of x"
+        ],
+        [
+            "Du Zhong",
+            "helped by x"
+        ]
+    ],
+    "Lu Ying": [
+        [
+            "Xuan Can",
+            "friend of x"
+        ],
+        [
+            "Du Zhong",
+            "friend of x"
+        ]
+    ]
+}

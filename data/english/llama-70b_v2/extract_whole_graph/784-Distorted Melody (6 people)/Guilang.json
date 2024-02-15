@@ -1,0 +1,38 @@
+{
+    "Guilang": [
+      ["Hei Li", "romantic relationships with x"], 
+      ["Mrs. Ruan", "mother of x"], 
+      ["Baron Smith", "employer of x"], 
+      ["Xue Yan", "friend of x"]
+    ],
+    "Hei Li": [
+      ["Guilang", "romantic relationships with x"], 
+      ["Qi Gu Fei", "friend of x"], 
+      ["Baron Smith", "employer of x"]
+    ],
+    "Mrs. Ruan": [
+      ["Guilang", "mother of x"], 
+      ["Baron Smith", "employer of x"]
+    ],
+    "Baron Smith": [
+      ["Guilang", "employer of x"], 
+      ["Hei Li", "employer of x"], 
+      ["Xue Yan", "friend of x"]
+    ],
+    "Xue Yan": [
+      ["Guilang", "friend of x"], 
+      ["Hei Li", "friend of x"]
+    ],
+    "Luo Younuo": [
+      ["Guilang", "brother of x"], 
+      ["Xue Yan", "sister of x"]
+    ],
+    "Wangdi": [
+      ["Luo Younuo", "sister of x"], 
+      ["Guilang", "mother of x"]
+    ],
+    "Qi Gu Fei": [
+      ["Hei Li", "friend of x"], 
+      ["Guilang", "acquaintance of x"]
+    ]
+}

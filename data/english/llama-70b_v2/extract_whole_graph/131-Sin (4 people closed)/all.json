@@ -1,0 +1,14 @@
+{
+    "Chief Wang": [
+      ["Zhao Cishan", "murderer of x, deceased of x"], 
+      ["Zhang Villager", "acquaintance of x, suspicious of x"]
+    ],
+    "Zhao Cishan": [
+      ["Chief Wang", "murderer of x, deceased of x"], 
+      ["Zhang Villager", "acquaintance of x, suspicious of x"]
+    ],
+    "Zhang Villager": [
+      ["Chief Wang", "acquaintance of x, suspicious of x"], 
+      ["Zhao Cishan", "acquaintance of x, suspicious of x"]
+    ]
+}

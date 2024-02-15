@@ -1,0 +1,65 @@
+{
+    "Zheng Hanzhen": [
+      ["Falcon", "friend of x, acquaintance of x"], 
+      ["Ba Mansion Mountain", "friend of x, acquaintance of x"], 
+      ["Chen Sha", "friend of x, classmate of x, acquaintance of x"], 
+      ["Gui Yin", "rival of x, enemy of x"], 
+      ["Juan Ge (Cuckoo Song)", "lover of x, friend of x, accomplice of x"]
+    ],
+    "Falcon": [
+      ["Zheng Hanzhen", "friend of x, acquaintance of x"], 
+      ["Ba Mansion Mountain", "friend of x, acquaintance of x"], 
+      ["Chen Sha", "friend of x, classmate of x, acquaintance of x"], 
+      ["Gui Yin", "enemy of x"], 
+      ["Juan Ge (Cuckoo Song)", "friend of x, acquaintance of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Zheng Hanzhen", "friend of x, acquaintance of x"], 
+      ["Falcon", "friend of x, acquaintance of x"], 
+      ["Chen Sha", "friend of x, classmate of x, acquaintance of x"], 
+      ["Gui Yin", "enemy of x"], 
+      ["Juan Ge (Cuckoo Song)", "daughter of x, friend of x, acquaintance of x"]
+    ],
+    "Chen Sha": [
+      ["Zheng Hanzhen", "friend of x, classmate of x, acquaintance of x"], 
+      ["Falcon", "friend of x, classmate of x, acquaintance of x"], 
+      ["Ba Mansion Mountain", "friend of x, acquaintance of x"], 
+      ["Gui Yin", "enemy of x"], 
+      ["Juan Ge (Cuckoo Song)", "friend of x, classmate of x, acquaintance of x"]
+    ],
+    "Gui Yin": [
+      ["Zheng Hanzhen", "rival of x, enemy of x"], 
+      ["Falcon", "enemy of x"], 
+      ["Ba Mansion Mountain", "enemy of x"], 
+      ["Chen Sha", "enemy of x"], 
+      ["Juan Ge (Cuckoo Song)", "friend of x, classmate of x, acquaintance of x"]
+    ],
+    "Juan Ge (Cuckoo Song)": [
+      ["Zheng Hanzhen", "lover of x, friend of x, accomplice of x"], 
+      ["Falcon", "friend of x, acquaintance of x"], 
+      ["Ba Mansion Mountain", "daughter of x, friend of x, acquaintance of x"], 
+      ["Chen Sha", "friend of x, classmate of x, acquaintance of x"], 
+      ["Gui Yin", "friend of x, classmate of x, acquaintance of x"]
+    ],
+    "Li Gaobai": [
+      ["Zheng Hanzhen", "acquaintance of x"], 
+      ["Falcon", "acquaintance of x"], 
+      ["Ba Mansion Mountain", "acquaintance of x"], 
+      ["Chen Sha", "acquaintance of x"], 
+      ["Gui Yin", "acquaintance of x"]
+    ],
+    "Ruya": [
+      ["Zheng Hanzhen", "acquaintance of x"], 
+      ["Falcon", "acquaintance of x"], 
+      ["Ba Mansion Mountain", "acquaintance of x"], 
+      ["Chen Sha", "acquaintance of x"], 
+      ["Gui Yin", "acquaintance of x"]
+    ],
+    "Gan Ma": [
+      ["Zheng Hanzhen", "acquaintance of x"], 
+      ["Falcon", "acquaintance of x"], 
+      ["Ba Mansion Mountain", "acquaintance of x"], 
+      ["Chen Sha", "acquaintance of x"], 
+      ["Gui Yin", "acquaintance of x"]
+    ]
+}

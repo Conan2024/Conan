@@ -1,0 +1,59 @@
+{
+    "Zheng Hanzhen": [
+      ["Professor Zhou", "friend of x, mentor of x"], 
+      ["Chen Sha", "classmate of x, friend of x"], 
+      ["Ba Mansion Mountain", "acquaintance of x"], 
+      ["Juan Ge (Cuckoo Song)", "lover of x, friend of x"], 
+      ["Gui Yin", "rival of x, enemy of x"], 
+      ["Li Demu", "suspect of x, adversary of x"]
+    ],
+    "Professor Zhou": [
+      ["Zheng Hanzhen", "friend of x, mentor of x"], 
+      ["Chen Sha", "daughter of x"]
+    ],
+    "Chen Sha": [
+      ["Zheng Hanzhen", "classmate of x, friend of x"], 
+      ["Professor Zhou", "father of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Zheng Hanzhen", "acquaintance of x"], 
+      ["Juan Ge (Cuckoo Song)", "daughter of x"]
+    ],
+    "Juan Ge (Cuckoo Song)": [
+      ["Zheng Hanzhen", "lover of x, friend of x"], 
+      ["Ba Mansion Mountain", "father of x"]
+    ],
+    "Gui Yin": [
+      ["Zheng Hanzhen", "rival of x, enemy of x"]
+    ],
+    "Li Demu": [
+      ["Zheng Hanzhen", "suspect of x, adversary of x"]
+    ],
+    "Falcon": [
+      ["Zheng Hanzhen", "friend of x"], 
+      ["Ba Mansion Mountain", "friend of x"]
+    ],
+    "Ruya": [
+      ["Zheng Hanzhen", "friend of x"], 
+      ["Chen Sha", "friend of x"]
+    ],
+    "Gan Ma": [
+      ["Zheng Hanzhen", "friend of x"], 
+      ["Chen Sha", "friend of x"]
+    ],
+    "Wizard": [
+      ["Gui Yin", "master of x"]
+    ],
+    "Ba Mansion Mountain's daughter": [
+      ["Ba Mansion Mountain", "father of x"]
+    ],
+    "Juan Ge (Cuckoo Song)'s son": [
+      ["Juan Ge (Cuckoo Song)", "father of x"]
+    ],
+    "The man who sent Li Gaobai back yesterday": [
+      ["Zheng Hanzhen", "murderer of x"]
+    ],
+    "The person who witnessed Zheng Hanzhen murder Ba Mansion Mountain": [
+      ["Zheng Hanzhen", "murderer of x"]
+    ]
+}

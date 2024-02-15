@@ -1,0 +1,105 @@
+{
+    "Max Pike": [
+      ["Joe Robertson", "friend of x, quest companion of x, crime partner of x"], 
+      ["Kristin Dunn", "romantic relationships with x, employee of x, helped by x"], 
+      ["Christine", "romantic relationships with x, crime partner of x"], 
+      ["Qiao", "crime partner of x, acquaintance of x"], 
+      ["Daniel", "friend of x, acquaintance of x, suspect to x"], 
+      ["John Morgan", "quest companion of x, suspect of x"], 
+      ["Harold Harrison", "colleague of x, suspected by x"], 
+      ["Marina Harrison", "attempted perpetrator of x, suspected by x, extramarital affair with x"], 
+      ["Lucy Harrison", "adversary of x, suspicious of x"]
+    ],
+    "Joe Robertson": [
+      ["Max Pike", "friend of x, quest companion of x, crime partner of x"], 
+      ["Kristin Dunn", "romantic relationships with x, quest companion of x"], 
+      ["Christine", "friend of x, admirer of x"], 
+      ["Qiao", "acquaintance of x, helper of x"], 
+      ["Daniel", "quest companion of x, friend of x"], 
+      ["John Morgan", "friend of x, crime partner of x"], 
+      ["Harold Harrison", "friend of x, admirer of x"], 
+      ["Marina Harrison", "romantic relationships with x, extramarital affair with x"], 
+      ["Lucy Harrison", "friend of x, crime partner of x"]
+    ],
+    "Kristin Dunn": [
+      ["Max Pike", "romantic relationships with x, employee of x, helper of x"], 
+      ["Joe Robertson", "romantic relationships with x, quest companion of x"], 
+      ["Christine", "wife of x, romantic relationships with x"], 
+      ["Qiao", "romantic relationships with x, admirer of x"], 
+      ["Daniel", "secret lover of x, quest companion of x"], 
+      ["John Morgan", "wife of x, secret lover of x"], 
+      ["Harold Harrison", "admirer of x, secret lover of x"], 
+      ["Marina Harrison", "secret crush of x"], 
+      ["Lucy Harrison", "informant of x, suspected by x"]
+    ],
+    "Christine": [
+      ["Max Pike", "romantic relationships with x, crime partner of x"], 
+      ["Joe Robertson", "friend of x, admirer of x"], 
+      ["Kristin Dunn", "husband of x, romantic relationships with x"], 
+      ["John Morgan", "romantic relationships with x, admirer of x"], 
+      ["Harold Harrison", "possibly family of x, romantic relationships with x"], 
+      ["Marina Harrison", "romantic relationships with x, extramarital affair with x"], 
+      ["Lucy Harrison", "romantic relationships with x, informant of x"]
+    ],
+    "Qiao": [
+      ["Max Pike", "crime partner of x, acquaintance of x"], 
+      ["Joe Robertson", "acquaintance of x, helped by x"], 
+      ["Kristin Dunn", "romantic relationships with x, admirer of x"], 
+      ["Daniel", "informant of x, helper of x"], 
+      ["John Morgan", "helper of x, quest companion of x"], 
+      ["Harold Harrison", "acquaintance of x, helper of x"], 
+      ["Marina Harrison", "romantic relationships with x, suspected by x"], 
+      ["Lucy Harrison", "informant of x"]
+    ],
+    "Daniel": [
+      ["Max Pike", "friend of x, acquaintance of x, suspected by x"], 
+      ["Joe Robertson", "quest companion of x, friend of x"], 
+      ["Kristin Dunn", "secret lover of x, quest companion of x"], 
+      ["Qiao", "information receiver from x, informant of x"], 
+      ["Max Pike", "acquaintance of x, informant of x"], 
+      ["Harold Harrison", "suspect of x"], 
+      ["Marina Harrison", "extramarital affair with x, suspected by x"], 
+      ["Lucy Harrison", "suspected by x, deceiver of x"]
+    ],
+    "John Morgan": [
+      ["Max Pike", "quest companion of x, suspect to x"], 
+      ["Joe Robertson", "friend of x, crime partner of x"], 
+      ["Kristin Dunn", "husband of x, secret lover of x"], 
+      ["Christine", "romantic relationships with x, admirer of x"], 
+      ["Qiao", "helper of x, quest companion of x"], 
+      ["Max Pike", "victim of x, suspected by x"], 
+      ["Harold Harrison", "perpetrator of x"], 
+      ["Marina Harrison", "extramarital affair with x, suspect to x"], 
+      ["Lucy Harrison", "admirer of x, informant of x"]
+    ],
+    "Harold Harrison": [
+      ["Max Pike", "colleague of x, suspect to x"], 
+      ["Joe Robertson", "friend of x, admired by x"], 
+      ["Kristin Dunn", "admired by x, secret lover of x"], 
+      ["Christine", "possibly family of x, romantic relationships with x"], 
+      ["Qiao", "acquaintance of x, helped by x"], 
+      ["Daniel", "suspected by x"], 
+      ["John Morgan", "suspicious of x"], 
+      ["Marina Harrison", "husband of x, suspicious of x"]
+    ],
+    "Marina Harrison": [
+      ["Max Pike", "attempted murderer of x, suspect of x, extramarital affair with x"], 
+      ["Joe Robertson", "romantic relationships with x, extramarital affair with x"], 
+      ["Christine", "romantic relationships with x, extramarital affair with x"], 
+      ["Qiao", "romantic relationships with x, suspected by x"], 
+      ["Daniel", "extramarital affair with x, suspect of x"], 
+      ["John Morgan", "extramarital affair with x"], 
+      ["Harold Harrison", "wife of x, suspicious of x"], 
+      ["Lucy Harrison", "wife of x, romantic relationships with x"]
+    ],
+    "Lucy Harrison": [
+      ["Max Pike", "suspicious of x, victim of x"], 
+      ["Joe Robertson", "friend of x, crime partner of x"], 
+      ["Kristin Dunn", "informant of x, information receiver from x"], 
+      ["Christine", "romantic relationships with x, information receiver from x"], 
+      ["Qiao", "informant of x"], 
+      ["Daniel", "suspected by x, victim of x"], 
+      ["John Morgan", "informant of x, victim of x"], 
+      ["Marina Harrison", "husband of x, romantic relationships with x"]
+    ]
+}

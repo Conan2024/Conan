@@ -1,0 +1,70 @@
+{
+    "He Laoliu": [
+        [
+            "Li Guofu",
+            "crime partner of x, mentor of x"
+        ],
+        [
+            "Zhang Jie",
+            "crime partner of x"
+        ],
+        [
+            "Neighbor Wang",
+            "rival of x"
+        ],
+        [
+            "Father",
+            "father of x"
+        ],
+        [
+            "Second sister",
+            "sibling of x"
+        ]
+    ],
+    "Li Guofu": [
+        [
+            "He Laoliu",
+            "crime partner of x, mentor of x"
+        ],
+        [
+            "Zhang Jie",
+            "crime partner of x"
+        ],
+        [
+            "Neighbor Wang",
+            "rival of x"
+        ]
+    ],
+    "Zhang Jie": [
+        [
+            "He Laoliu",
+            "crime partner of x"
+        ],
+        [
+            "Li Guofu",
+            "crime partner of x"
+        ]
+    ],
+    "Neighbor Wang": [
+        [
+            "He Laoliu",
+            "rival of x"
+        ],
+        [
+            "Li Guofu",
+            "rival of x"
+        ]
+    ],
+    "Father": [
+        [
+            "He Laoliu",
+            "father of x"
+        ]
+    ],
+    "Second sister": [
+        [
+            "He Laoliu",
+            "sibling of x"
+        ]
+    ]
+}

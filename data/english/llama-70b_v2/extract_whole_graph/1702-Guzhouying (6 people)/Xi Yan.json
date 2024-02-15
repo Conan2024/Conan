@@ -1,0 +1,93 @@
+{
+    "Xi Yan": [
+      ["Zhou Mengdang", "lover of x, friend of x, past love interest of x"], 
+      ["Cui Shouheng", "husband of x, brother in law of x, deceased of x"], 
+      ["Bao Gan", "maid of x, friend of x, aunt of x, confidant of x"], 
+      ["Yannan", "niece of x, daughter of x, close friend of x"], 
+      ["Tian Chou", "friend of x, confidant of x"], 
+      ["Zhou Chitong", "friend of x, acquaintance of x"], 
+      ["Su Nian", "acquaintance of x, possible suspect of x"], 
+      ["Lianyi", "acquaintance of x, possible suspect of x"], 
+      ["Uncle Fu", "steward of x, acquaintance of x"]
+    ],
+    "Zhou Mengdang": [
+      ["Xi Yan", "lover of x, friend of x, past love interest of x"], 
+      ["Cui Shouheng", "brother in law of x, rival of x, deceased of x"], 
+      ["Bao Gan", "sister of x, rival of x"], 
+      ["Yannan", "niece of x, daughter of x, close friend of x"], 
+      ["Tian Chou", "friend of x"], 
+      ["Zhou Chitong", "friend of x"], 
+      ["Su Nian", "acquaintance of x"], 
+      ["Lianyi", "acquaintance of x"]
+    ],
+    "Cui Shouheng": [
+      ["Xi Yan", "wife of x, sister in law of x, deceased of x"], 
+      ["Zhou Mengdang", "brother in law of x, rival of x, deceased of x"], 
+      ["Bao Gan", "sister of x, maid of x, friend of x, aunt of x"], 
+      ["Yannan", "niece of x, daughter of x"], 
+      ["Tian Chou", "friend of x"], 
+      ["Zhou Chitong", "friend of x"], 
+      ["Su Nian", "acquaintance of x"], 
+      ["Lianyi", "acquaintance of x"]
+    ],
+    "Bao Gan": [
+      ["Xi Yan", "maid of x, friend of x, aunt of x, confidant of x"], 
+      ["Cui Shouheng", "sister of x, maid of x, friend of x, aunt of x"], 
+      ["Zhou Mengdang", "brother of x, rival of x"], 
+      ["Yannan", "niece of x, daughter of x, close friend of x"], 
+      ["Tian Chou", "friend of x"], 
+      ["Zhou Chitong", "friend of x"], 
+      ["Su Nian", "acquaintance of x"], 
+      ["Lianyi", "acquaintance of x"]
+    ],
+    "Yannan": [
+      ["Xi Yan", "niece of x, daughter of x, close friend of x"], 
+      ["Cui Shouheng", "father of x, deceased of x"], 
+      ["Zhou Mengdang", "uncle of x, lover of x, friend of x"], 
+      ["Bao Gan", "aunt of x, maid of x, friend of x"], 
+      ["Tian Chou", "friend of x"], 
+      ["Zhou Chitong", "friend of x"], 
+      ["Su Nian", "acquaintance of x"], 
+      ["Lianyi", "acquaintance of x"]
+    ],
+    "Zhou Chitong": [
+      ["Xi Yan", "friend of x"], 
+      ["Cui Shouheng", "friend of x"], 
+      ["Zhou Mengdang", "friend of x"], 
+      ["Bao Gan", "friend of x"], 
+      ["Yannan", "friend of x"], 
+      ["Tian Chou", "friend of x"], 
+      ["Su Nian", "acquaintance of x"], 
+      ["Lianyi", "acquaintance of x"]
+    ],
+    "Tian Chou": [
+      ["Xi Yan", "friend of x"], 
+      ["Cui Shouheng", "friend of x"], 
+      ["Zhou Mengdang", "friend of x"], 
+      ["Bao Gan", "friend of x"], 
+      ["Yannan", "friend of x"], 
+      ["Zhou Chitong", "friend of x"], 
+      ["Su Nian", "acquaintance of x"], 
+      ["Lianyi", "acquaintance of x"]
+    ],
+    "Su Nian": [
+      ["Xi Yan", "acquaintance of x"], 
+      ["Cui Shouheng", "acquaintance of x"], 
+      ["Zhou Mengdang", "acquaintance of x"], 
+      ["Bao Gan", "acquaintance of x"], 
+      ["Yannan", "acquaintance of x"], 
+      ["Zhou Chitong", "acquaintance of x"], 
+      ["Tian Chou", "friend of x"], 
+      ["Lianyi", "acquaintance of x"]
+    ],
+    "Lianyi": [
+      ["Xi Yan", "acquaintance of x"], 
+      ["Cui Shouheng", "acquaintance of x"], 
+      ["Zhou Mengdang", "acquaintance of x"], 
+      ["Bao Gan", "acquaintance of x"], 
+      ["Yannan", "acquaintance of x"], 
+      ["Zhou Chitong", "acquaintance of x"], 
+      ["Tian Chou", "friend of x"], 
+      ["Su Nian", "acquaintance of x"]
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "Zhao Zhongzheng": [
+        [
+            "Zhao Zhongyang",
+            "brother of x"
+        ],
+        [
+            "Zhao San",
+            "close friend"
+        ],
+        [
+            "Chen Meier",
+            "romantic relationships with x"
+        ],
+        [
+            "Li Cheng",
+            "informant of x",
+            "servant of x"
+        ]
+    ],
+    "Zhao Zhongyang": [
+        [
+            "Zhao Zhongzheng",
+            "brother of x"
+        ],
+        [
+            "Zhao San",
+            "close friend"
+        ],
+        [],
+        [
+            "Li Cheng",
+            "friend of x"
+        ]
+    ],
+    "Zhao San": [
+        [
+            "Zhao Zhongzheng",
+            "close friend"
+        ],
+        [
+            "Zhao Zhongyang",
+            "close friend"
+        ],
+        [
+            "Chen Meier",
+            "friend of x",
+            "criminal partner of x"
+        ],
+        [
+            "Li Cheng",
+            "friend of x"
+        ]
+    ],
+    "Chen Meier": [
+        [
+            "Zhao Zhongzheng",
+            "romantic relationships with x"
+        ],
+        [],
+        [
+            "Zhao San",
+            "friend of x",
+            "criminal partner of x"
+        ],
+        [
+            "Li Cheng",
+            "secret lover of x",
+            "boyfriend of x"
+        ]
+    ],
+    "Li Cheng": [
+        [
+            "Zhao Zhongzheng",
+            "master of x",
+            "information receiver from x"
+        ],
+        [
+            "Zhao Zhongyang",
+            "employee of x"
+        ],
+        [
+            "Zhao San",
+            "undercover of x"
+        ],
+        [
+            "Chen Meier",
+            "secret lover of x",
+            "girlfriend of x"
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Fang Minyue": [
+      ["Fang Chengshan", "father of x fang minyue"], 
+      ["Yao Changshou", "colleague of x fang chengshan"], 
+      ["Tian Hongjiao", "cousin of x fang minyue"], 
+      ["Zhang Decai", "ex boyfriend of x fang minyue"]
+    ],
+    "Fang Chengshan": [
+      ["Fang Minyue", "daughter of x fang chengshan"], 
+      ["Master Meng", "employer of x fang chengshan"], 
+      ["Steward Du", "assistant of x fang chengshan"]
+    ],
+    "Yao Changshou": [
+      ["Fang Minyue", "colleague of x yao changshou"], 
+      ["Yao Mengren", "father of x yao changshou"], 
+      ["Yao Zhongyi", "brother of x yao changshou"], 
+      ["Tian Hongjiao", "cousin of x yao changshou"]
+    ],
+    "Tian Hongjiao": [
+      ["Yao Changshou", "cousin of x tian hongjiao"]
+    ],
+    "Zhang Decai": [
+      ["Fang Minyue", "ex boyfriend of x zhang decai"]
+    ],
+    "Yao Mengren": [
+      ["Fang Minyue", "teacher of x yao mengren"]
+    ],
+    "Yao Zhongyi": [
+      ["Fang Minyue", "brother of x yao zhongyi"]
+    ]
+}

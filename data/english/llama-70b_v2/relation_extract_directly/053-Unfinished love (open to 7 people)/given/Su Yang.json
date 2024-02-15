@@ -1,0 +1,38 @@
+{
+    "Su Yang": [
+      ["Lin Tong", "former lover of x, deceased of x"], 
+      ["Lin Xi", "current lover of x, also lin tong's heart recipient of x"], 
+      ["Dean Lin", "master of x, lin xi's father, and lin tong's killer of x"], 
+      ["Gu Qing", "ex girlfriend, also interested in su yang of x"], 
+      ["Gu Ming", "gu qing's father of x, also murdered by lin xi"]
+    ],
+    "Lin Tong": [
+      ["Su Yang", "lover of x, also lin xi's heart donor"], 
+      ["Lin Xi", "sister of x, also heart recipient of x"], 
+      ["Dean Lin", "father of x, also lin xi's killer"], 
+      ["Shen Cheng", "father's housekeeper of x, also aware of x x lin tong's heart donation"]
+    ],
+    "Lin Xi": [
+      ["Su Yang", "lover of x, also heart donor of x"], 
+      ["Lin Tong", "sister of x, also heart recipient of x"], 
+      ["Dean Lin", "father of x, also killer of x"], 
+      ["Shen Cheng", "father's housekeeper of x, also aware of x x lin tong's heart donation"]
+    ],
+    "Dean Lin": [
+      ["Su Yang", "student of x, also lin xi's fiance"], 
+      ["Lin Tong", "daughter of x, also killed by him of x"], 
+      ["Lin Xi", "daughter of x, also heart recipient of x"], 
+      ["Shen Cheng", "housekeeper of x, also aware of x x lin tong's heart donation"]
+    ],
+    "Gu Qing": [
+      ["Su Yang", "ex boyfriend, also interested in him of x"], 
+      ["Gu Ming", "father of x, also murdered by lin xi"]
+    ],
+    "Gu Ming": [
+      ["Gu Qing", "daughter of x, also murdered by lin xi"]
+    ],
+    "Shen Cheng": [
+      ["Dean Lin", "employer of x, also aware of x x lin tong's heart donation"], 
+      ["Lin Tong", "heart donor of x, also daughter's killer of x"]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "Yang Minxi": [
+      ["Yang Shuixun", "father of x yang minxi"], 
+      ["Gu Chumeng", "romantic relationships with yang minxi"], 
+      ["Lan Rui", "friend of x yang minxi"], 
+      ["Zhang Fanghao", "uncle zhang of x yang minxi"], 
+      ["Xiting", "friend of x yang minxi"]
+    ],
+    "Yang Shuixun": [
+      ["Yang Minxi", "child of x yang shuixun"], 
+      ["Gu Chumeng", "dislike of x yang shuixun"], 
+      ["Zhang Fanghao", "colleague of x yang shuixun"]
+    ],
+    "Gu Chumeng": [
+      ["Yang Minxi", "romantic relationships with gu chumeng of x"], 
+      ["Yang Shuixun", "dislike of x gu chumeng"], 
+      ["Lan Rui", "husband of x gu chumeng"]
+    ],
+    "Lan Rui": [
+      ["Yang Minxi", "friend of x lan rui"], 
+      ["Zhang Fanghao", "friend of x lan rui"], 
+      ["Xiting", "friend of x lan rui"], 
+      ["Gu Chumeng", "wife of x lan rui"]
+    ],
+    "Xiting": [
+      ["Yang Minxi", "friend of xiting"], 
+      ["Lan Rui", "friend of xiting"], 
+      ["Gu Chumeng", "husband of xiting"]
+    ],
+    "Zhang Fanghao": [
+      ["Yang Shuixun", "colleague of x zhang fanghao"], 
+      ["Lan Rui", "friend of x zhang fanghao"], 
+      ["Xiting", "friend of x zhang fanghao"]
+    ],
+    "Shen Wusheng": [
+      ["Yang Minxi", "acquaintance of x shen wusheng"]
+    ],
+    "Xinger": [
+      ["Xiting", "acquaintance of xinger"]
+    ],
+    "Uncle Yu": [
+      ["Yang Minxi", "acquaintance of x uncle yu"]
+    ]
+}

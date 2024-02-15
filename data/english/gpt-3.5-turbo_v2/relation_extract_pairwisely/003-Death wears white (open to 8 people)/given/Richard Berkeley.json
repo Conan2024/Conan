@@ -1,0 +1,44 @@
+{
+    "Richard Berkeley": [
+      ["Hans Li Morette", "employer of x hans li morette"], 
+      ["Drake Li Morette", "employer of x, landlord of x, doctor of x, employer of x, boss of x"], 
+      ["Elaine Carter", "employee of x"], 
+      ["Dr. Paloski", "employer of x"], 
+      ["Sylvia Costa", "friend of x"]
+    ],
+    "Hans Li Morette": [
+      ["Richard Berkeley", "employee of x richard berkeley"], 
+      ["Drake Li Morette", "patient of x"], 
+      ["Elaine Carter", "employee of x"], 
+      ["Dr. Paloski", "lawyer of x"], 
+      ["Sylvia Costa", "employee of x"]
+    ],
+    "Drake Li Morette": [
+      ["Richard Berkeley", "employee of x, tenant of x"], 
+      ["Hans Li Morette", "doctor of x"], 
+      ["Elaine Carter", "mentor of x"], 
+      ["Dr. Paloski", "mentor of x"], 
+      ["Sylvia Costa", "admirer of x, friend of x"]
+    ],
+    "Elaine Carter": [
+      ["Richard Berkeley", "employer of x"], 
+      ["Hans Li Morette", "employer of x"], 
+      ["Drake Li Morette", "student of x"], 
+      ["Dr. Paloski", "co worker of x"], 
+      ["Sylvia Costa", "colleague of x"]
+    ],
+    "Dr. Paloski": [
+      ["Richard Berkeley", "employee of x"], 
+      ["Hans Li Morette", "dean of x"], 
+      ["Drake Li Morette", "student of x"], 
+      ["Elaine Carter", "superior of x"], 
+      ["Sylvia Costa", "mentor of x"]
+    ],
+    "Sylvia Costa": [
+      ["Richard Berkeley", "friend of x"], 
+      ["Hans Li Morette", "employer of x"], 
+      ["Drake Li Morette", "admirer of x, friend of x"], 
+      ["Elaine Carter", "colleague of x"], 
+      ["Dr. Paloski", "student of x"]
+    ]
+}

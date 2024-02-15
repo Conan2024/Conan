@@ -1,0 +1,25 @@
+{
+    "Yin Shaoming": [
+      ["Zhao Luoyi", "friend of x"], 
+      ["Fang Shuangji", "acquaintance of x, suspect of x, helper of x"], 
+      ["Guo Wangshan", "acquaintance of x, helper of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Yin Shaoming", "friend of x"], 
+      ["Fang Shuangji", "helper of x"], 
+      ["Zhao Wanlei", "father of x"]
+    ],
+    "Fang Shuangji": [
+      ["Yin Shaoming", "acquaintance of x, suspect of x, helper of x"], 
+      ["Zhao Luoyi", "helper of x"], 
+      ["Zhao Wanlei", "employer of x"]
+    ],
+    "Guo Wangshan": [
+      ["Yin Shaoming", "acquaintance of x, helper of x"], 
+      ["Zhao Luoyi", "acquaintance of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Zhao Luoyi", "father of x"], 
+      ["Fang Shuangji", "employer of x"]
+    ]
+}

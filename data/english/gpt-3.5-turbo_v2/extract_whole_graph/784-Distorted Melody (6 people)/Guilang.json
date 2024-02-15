@@ -1,0 +1,43 @@
+{
+    "Guilang": [
+      ["Mother", "parent of x guilang"], 
+      ["Zhaonan", "sibling of x guilang"], 
+      ["Wangdi", "sibling of x guilang"], 
+      ["Luo Xiucai", "informant of x guilang"], 
+      ["Luo Younuo", "child of x guilang's mentor"], 
+      ["Xue Yan", "relationship unknown of x"]
+    ],
+    "Zhaonan": [
+      ["Guilang", "sibling of x zhaonan"], 
+      ["Wangdi", "sibling of x zhaonan"], 
+      ["Hei Li", "dance partner of x zhaonan"], 
+      ["Qi Gu Fei", "informant of x zhaonan"]
+    ],
+    "Wangdi": [
+      ["Guilang", "sibling of x wangdi"], 
+      ["Zhaonan", "sibling of x wangdi"], 
+      ["Luo Younuo", "acquaintance of x wangdi"]
+    ],
+    "Luo Xiucai": [
+      ["Guilang", "informant of x guilang"]
+    ],
+    "Luo Younuo": [
+      ["Guilang", "child of x guilang's mentor"], 
+      ["Xue Yan", "relationship unknown of x"], 
+      ["Qi Gu Fei", "acquaintance of x luo younuo"]
+    ],
+    "Xue Yan": [
+      ["Guilang", "relationship unknown of x"], 
+      ["Luo Younuo", "relationship unknown of x"]
+    ],
+    "Qi Gu Fei": [
+      ["Zhaonan", "informant of x qi gu fei"], 
+      ["Hei Li", "romantic relationships with qi gu fei of x"], 
+      ["Luo Younuo", "informant of x qi gu fei"]
+    ],
+    "Hei Li": [
+      ["Zhaonan", "dance partner of x hei li"], 
+      ["Guilang", "romantic relationships with hei li of x"], 
+      ["Qi Gu Fei", "romantic relationships with hei li of x"]
+    ]
+}

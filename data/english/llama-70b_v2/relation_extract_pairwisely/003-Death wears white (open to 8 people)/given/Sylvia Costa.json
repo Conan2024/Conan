@@ -1,0 +1,123 @@
+{
+    "Andrew Paloski": [
+      ["Drake Li Morette", "hans li morette of x, gale li morette of x, dr of x, paloski of x, elaine carter of x, richard berkeley of x"], 
+      ["Elaine Carter", "colleague of x, friend of x"], 
+      ["Gale Li Morette", "hans li morette of x, drake li morette of x, dr of x, paloski of x, elaine carter of x, richard berkeley of x"], 
+      ["Hans Li Morette", "drake li morette of x, gale li morette of x, dr of x, paloski of x, elaine carter of x, richard berkeley of x"], 
+      ["Head Nurse Costa", "relationship 1: supervisor of x, relationship 2: colleague of x"], 
+      ["James Lai Li", "relationship 1: superior subordinate of x, relationship 2: business partner of x"], 
+      ["Jim Mason", "colleague of x, friend of x"], 
+      ["Richard Berkeley", "superior of x, employer of x"], 
+      ["Sylvia Costa", "colleague of x, friend of x"]
+    ],
+    "Drake Li Morette": [
+      ["Andrew Paloski", "hans li morette of x, gale li morette of x"], 
+      ["Elaine Carter", "acquaintance of x"], 
+      ["Gale Li Morette", "hans li morette of x, elaine carter of x, richard berkeley of x"], 
+      ["Hans Li Morette", "relationship 1: colleague of x, relationship 2: suspect in investigation of x"], 
+      ["Head Nurse Costa", "relationship 1: colleague of x, relationship 2: suspect in investigation of x"], 
+      ["James Lai Li", "relationship 1: acquaintance of x, relationship 2: suspect of x murder"], 
+      ["Jim Mason", "relationship 1: acquaintance of x, relationship 2: suspect of x murder"], 
+      ["Mother", "friend of x, colleague of x"], 
+      ["Richard Berkeley", "colleague of x"], 
+      ["Sylvia Costa", "colleague of x, friend of x"], 
+      ["Gale Li Morette", "hans li morette of x"]
+    ],
+    "Elaine Carter": [
+      ["Andrew Paloski", "colleague of x, friend of x"], 
+      ["Drake Li Morette", "acquaintance of x"], 
+      ["Gale Li Morette", "hans li morette of x"], 
+      ["Hans Li Morette", "drake li morette of x, dr of x, paloski of x, richard berkeley of x"], 
+      ["Head Nurse Costa", "relationship 1: mentorship of x, relationship 2: colleague of x"], 
+      ["James Lai Li", "relationship 1: acquaintance of x, relationship 2: suspect of x murder"], 
+      ["Jim Mason", "colleague of x"], 
+      ["Richard Berkeley", "colleague of x"], 
+      ["Sylvia Costa", "colleague of x, friend of x"]
+    ],
+    "Gale Li Morette": [
+      ["Andrew Paloski", "hans li morette of x, drake li morette of x"], 
+      ["Drake Li Morette", "hans li morette of x, elaine carter of x, richard berkeley of x"], 
+      ["Elaine Carter", "hans li morette of x"], 
+      ["Hans Li Morette", "drake li morette of x"], 
+      ["James Lai Li", "hans li morette of x, drake li morette of x"], 
+      ["Jim Mason", "colleague of x, friend of x"], 
+      ["Richard Berkeley", "relationship 1: supervisor employee of x, relationship 2: acquaintance of x"], 
+      ["Sylvia Costa", "acquaintance of x, colleague of x"]
+    ],
+    "Hans Li Morette": [
+      ["Andrew Paloski", "drake li morette of x, gale li morette of x"], 
+      ["Drake Li Morette", "relationship 1: colleague of x, relationship 2: suspect in investigation of x"], 
+      ["Elaine Carter", "drake li morette of x, dr of x, paloski of x, richard berkeley of x"], 
+      ["Gale Li Morette", "drake li morette of x"], 
+      ["James Lai Li", "friend of x, colleague of x"], 
+      ["Jim Mason", "colleague of x, friend of x"], 
+      ["Mother", "friend of x, colleague of x"], 
+      ["Richard Berkeley", "friend of x, colleague of x"], 
+      ["Sylvia Costa", "colleague of x, friend of x"]
+    ],
+    "Head Nurse Costa": [
+      ["Andrew Paloski", "relationship 1: supervisee of x, relationship 2: colleague of x"], 
+      ["Drake Li Morette", "relationship 1: colleague of x, relationship 2: suspect in investigation of x"], 
+      ["Elaine Carter", "relationship 1: mentorship of x, relationship 2: colleague of x"], 
+      ["James Lai Li", "relationship 1: perpetrator of x, relationship 2: victim of x"], 
+      ["Jim Mason", "relationship 1: colleague of x, relationship 2: suspect of x"], 
+      ["Richard Berkeley", "supervisor/subordinate of x"], 
+      ["Sylvia Costa", "relationship 1: supervisor employee of x, relationship 2: confidant of x"]
+    ],
+    "James Lai Li": [
+      ["Andrew Paloski", "relationship 1: superior subordinate of x, relationship 2: business partner of x"], 
+      ["Drake Li Morette", "relationship 1: acquaintance of x, relationship 2: suspect of x murder"], 
+      ["Elaine Carter", "relationship 1: acquaintance of x, relationship 2: suspect of x murder"], 
+      ["Gale Li Morette", "hans li morette of x, drake li morette of x"], 
+      ["Hans Li Morette", "friend of x, colleague of x"], 
+      ["Head Nurse Costa", "relationship 1: perpetrator of x, relationship 2: victim of x"], 
+      ["Jim Mason", "relationship 1: perpetrator of x, relationship 2: victim of x"], 
+      ["Mother", "relationship 1: professional of x, loyal of x, and reliable of x, relationship 2: head nurse of x the emergency ward and a professional person"], 
+      ["Richard Berkeley", "business partner of x, co worker of x"], 
+      ["Sylvia Costa", "business partner of x, co worker of x"]
+    ],
+    "Jim Mason": [
+      ["Andrew Paloski", "colleague of x, friend of x"], 
+      ["Drake Li Morette", "relationship 1: acquaintance of x, relationship 2: suspect of x murder"], 
+      ["Elaine Carter", "colleague of x"], 
+      ["Gale Li Morette", "colleague of x, friend of x"], 
+      ["Hans Li Morette", "colleague of x, friend of x"], 
+      ["Head Nurse Costa", "relationship 1: colleague of x, relationship 2: suspect of x"], 
+      ["James Lai Li", "relationship 1: victim of x, relationship 2: perpetrator of x"], 
+      ["Mother", "sibling of x, relative of x, nephew of x, son of x"], 
+      ["Richard Berkeley", "acquaintance of x"], 
+      ["Sylvia Costa", "acquaintance of x, colleague of x"]
+    ],
+    "Mother": [
+      ["Drake Li Morette", "son of x, patient of x"], 
+      ["Hans Li Morette", "son of x"], 
+      ["James Lai Li", "relationship 1: patient and caregiver of x, relationship 2: dependent on james lai li for financial support of x"], 
+      ["Jim Mason", "sibling of x, relative of x, nephew of x, son of x"], 
+      ["Richard Berkeley", "relationship 1: professional colleague of x, relationship 2: personal acquaintance of x"], 
+      ["Sylvia Costa", "relationship 1: professional of x, loyal of x, and reliable of x, relationship 2: head nurse of x the emergency ward"]
+    ],
+    "Richard Berkeley": [
+      ["Andrew Paloski", "superior of x, employer of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Elaine Carter", "colleague of x"], 
+      ["Gale Li Morette", "relationship 1: supervisor employee of x, relationship 2: acquaintance of x"], 
+      ["Hans Li Morette", "friend of x, colleague of x"], 
+      ["Head Nurse Costa", "supervisor/subordinate of x"], 
+      ["James Lai Li", "business partner of x, co worker of x"], 
+      ["Jim Mason", "acquaintance of x"], 
+      ["Mother", "relationship 1: professional colleague of x, relationship 2: personal acquaintance of x"], 
+      ["Sylvia Costa", "superior of x, employer of x"]
+    ],
+    "Sylvia Costa": [
+      ["Andrew Paloski", "colleague of x, friend of x"], 
+      ["Drake Li Morette", "colleague of x, friend of x"], 
+      ["Elaine Carter", "colleague of x, friend of x"], 
+      ["Gale Li Morette", "acquaintance of x, colleague of x"], 
+      ["Hans Li Morette", "colleague of x, friend of x"], 
+      ["Head Nurse Costa", "relationship 1: supervisor employee of x, relationship 2: confidant of x"], 
+      ["James Lai Li", "business partner of x, co worker of x"], 
+      ["Jim Mason", "acquaintance of x, colleague of x"], 
+      ["Mother", "relationship 1: professional of x, loyal of x, and reliable of x, relationship 2: head nurse of x the emergency ward"], 
+      ["Richard Berkeley", "head nurse of x the emergency ward, professional of x, loyal of x, and reliable of x"]
+    ]
+}

@@ -1,0 +1,724 @@
+{
+    "Li Yan": [
+        [
+            "Li Qinren",
+            "relationship 1 ",
+            "relationship 2 ",
+            "relationship 3 ",
+            "relationship 4 ",
+            "relationship 5 ",
+            "relationship 6 "
+        ],
+        [
+            "Madam Li or Li Family",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Li Zhong",
+            "Brother",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Chen Qian",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5"
+        ],
+        [
+            "Chen Zijing",
+            "acquaintance",
+            "friend",
+            "love interest",
+            "rival"
+        ],
+        [
+            "Li Fu",
+            "brother",
+            "sibling"
+        ],
+        [
+            "Master Chen",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Li Wangye",
+            "Brother-in-law",
+            "Co-wife"
+        ],
+        [
+            "Fu Ru",
+            "relationship 1",
+            "relationship 2",
+            "relationship 3",
+            "relationship 4",
+            "relationship 5",
+            "relationship 6",
+            "relationship 7",
+            "relationship 8",
+            "relationship 9",
+            "relationship 10"
+        ],
+        [
+            "East China Sea",
+            "acquaintance",
+            "romantic relationships",
+            "ex-romantic relationships",
+            "fiance",
+            "fiancee",
+            "co-wives",
+            "nephew",
+            "niece",
+            "cousin"
+        ]
+    ],
+    "Li Qinren": [
+        [
+            "Li Yan",
+            "relationship 1 ",
+            "relationship 2 ",
+            "relationship 3 ",
+            "relationship 4 ",
+            "relationship 5 ",
+            "relationship 6 "
+        ],
+        [
+            "Madam Li or Li Family",
+            "Father of X"
+        ],
+        [
+            "Li Zhong",
+            "Brother",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Chen Qian",
+            "father-son",
+            "brother-sister",
+            "uncle-niece"
+        ],
+        [
+            "Chen Zijing",
+            "father-daughter",
+            "brother-in-law",
+            "master-servant"
+        ],
+        [
+            "Li Fu",
+            "Father-Son",
+            "Master-Servant"
+        ],
+        [
+            "Master Chen",
+            "father-in-law",
+            "son-in-law"
+        ],
+        [
+            "Li Wangye",
+            "Father of X",
+            "Master of X"
+        ],
+        [
+            "Fu Ru",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5, relationship 6"
+        ],
+        [
+            "East China Sea",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5, relationship 6"
+        ],
+        [
+            "Shoubi Nanshan",
+            "Father of Li Yan",
+            "Husband of Madam Li or Li Family"
+        ]
+    ],
+    "Madam Li or Li Family": [
+        [
+            "Li Yan",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Li Qinren",
+            "Mother of X"
+        ],
+        [
+            "Li Zhong",
+            "Mother of X",
+            "Wife of X"
+        ],
+        [
+            "Chen Qian",
+            "Mother-in-law",
+            "Wife of X"
+        ],
+        [
+            "Chen Zijing",
+            "Mother-in-law",
+            "Acquaintance"
+        ],
+        [
+            "Li Fu",
+            "Mother-Son Relationship"
+        ],
+        [
+            "Master Chen",
+            "Mother-in-law",
+            "Wife of X"
+        ],
+        [
+            "Li Wangye",
+            "Mother of X",
+            "Wife of X"
+        ],
+        [
+            "Fu Ru",
+            "Mother",
+            "Wife of X"
+        ],
+        [
+            "East China Sea",
+            "Mother",
+            "Wife of X"
+        ],
+        [
+            "Shoubi Nanshan",
+            "Mother-in-law",
+            "Relative"
+        ]
+    ],
+    "Li Zhong": [
+        [
+            "Li Yan",
+            "Brother",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Li Qinren",
+            "Brother",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Madam Li or Li Family",
+            "Brother of X",
+            "Husband of X"
+        ],
+        [
+            "Chen Qian",
+            "Brother-in-law",
+            "Husband of Chen Qian"
+        ],
+        [
+            "Chen Zijing",
+            "brother-in-law",
+            "husband-to-be",
+            "family member",
+            "acquaintance",
+            "friend"
+        ],
+        [
+            "Li Fu",
+            "brother",
+            "rival"
+        ],
+        [
+            "Master Chen",
+            "father-son",
+            "son-in-law",
+            "acquaintance"
+        ],
+        [
+            "Li Wangye",
+            "Sibling",
+            "Rival",
+            "Enemy"
+        ],
+        [
+            "Fu Ru",
+            "husband",
+            "married"
+        ],
+        [
+            "East China Sea",
+            "Sibling",
+            "Spouse",
+            "Family"
+        ],
+        [
+            "Shoubi Nanshan",
+            "romantic relationship",
+            "arranged marriage",
+            "conflicting relationship"
+        ]
+    ],
+    "Chen Qian": [
+        [
+            "Li Yan",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5"
+        ],
+        [
+            "Li Qinren",
+            "wife-husband",
+            "sister-in-law",
+            "aunt-niece"
+        ],
+        [
+            "Madam Li or Li Family",
+            "Daughter-in-law",
+            "Sister-in-law"
+        ],
+        [
+            "Li Zhong",
+            "Sister-in-law",
+            "Wife of Li Zhong"
+        ],
+        [
+            "Li Fu",
+            "Husband of X",
+            "Stranger to X"
+        ],
+        [
+            "Master Chen",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Li Wangye",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Fu Ru",
+            "Wife of X",
+            "Same person as X "
+        ],
+        [
+            "East China Sea",
+            "Wife of X"
+        ],
+        [
+            "Shoubi Nanshan",
+            "Li Yan"
+        ]
+    ],
+    "Chen Zijing": [
+        [
+            "Li Yan",
+            "acquaintance",
+            "friend",
+            "love interest",
+            "rival"
+        ],
+        [
+            "Li Qinren",
+            "father-daughter",
+            "sister-in-law",
+            "wife-husband"
+        ],
+        [
+            "Madam Li or Li Family",
+            "Mother-in-law",
+            "Acquaintance"
+        ],
+        [
+            "Li Zhong",
+            "brother-in-law",
+            "husband-to-be",
+            "family member",
+            "acquaintance",
+            "friend"
+        ],
+        [
+            "Chen Qian",
+            "Husband of X",
+            "Same person as X "
+        ],
+        [
+            "Li Fu",
+            "acquaintance",
+            "classmate",
+            "neighbour",
+            "co-wives of X"
+        ],
+        [
+            "Master Chen",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Li Wangye",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Fu Ru",
+            "Wife of X",
+            "Same person as X "
+        ],
+        [
+            "East China Sea",
+            "Husband of X",
+            "Stranger to X"
+        ],
+        [
+            "Shoubi Nanshan",
+            "Same person as X "
+        ]
+    ],
+    "Li Fu": [
+        [
+            "Li Yan",
+            "brother",
+            "sibling"
+        ],
+        [
+            "Li Qinren",
+            "Father-Son",
+            "Master-Servant"
+        ],
+        [
+            "Madam Li or Li Family",
+            "Father-Son Relationship"
+        ],
+        [
+            "Li Zhong",
+            "brother",
+            "rival"
+        ],
+        [
+            "Chen Qian",
+            "Wife of X",
+            "Stranger to X"
+        ],
+        [
+            "Chen Zijing",
+            "acquaintance",
+            "classmate",
+            "neighbour",
+            "co-wives of X"
+        ],
+        [
+            "Master Chen",
+            "father-in-law",
+            "son-in-law",
+            "enemy",
+            "past conflict"
+        ],
+        [
+            "Li Wangye",
+            "Brother-in-law",
+            "Co-wife"
+        ],
+        [
+            "Fu Ru",
+            "Same person as X (different reference)"
+        ],
+        [
+            "East China Sea",
+            "Husband of X",
+            "Stranger to X"
+        ],
+        [
+            "Shoubi Nanshan",
+            "Brother-in-law",
+            "Rival"
+        ]
+    ],
+    "Master Chen": [
+        [
+            "Li Yan",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Li Qinren",
+            "father-in-law",
+            "son-in-law"
+        ],
+        [
+            "Madam Li or Li Family",
+            "Father-in-law",
+            "Husband of X"
+        ],
+        [
+            "Li Zhong",
+            "father-son",
+            "father-in-law",
+            "acquaintance"
+        ],
+        [
+            "Chen Qian",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Chen Zijing",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Li Fu",
+            "father-in-law",
+            "son-in-law",
+            "enemy",
+            "past conflict"
+        ],
+        [
+            "Li Wangye",
+            "Husband of X",
+            "Father of X"
+        ],
+        [
+            "Fu Ru",
+            "husband",
+            "married"
+        ],
+        [
+            "East China Sea",
+            "Teacher of X",
+            "Acquaintance of X",
+            "Informant of X",
+            "Friend of X"
+        ],
+        [
+            "Shoubi Nanshan",
+            "enemy",
+            "victim"
+        ]
+    ],
+    "Li Wangye": [
+        [
+            "Li Yan",
+            "Brother-in-law",
+            "Co-wife"
+        ],
+        [
+            "Li Qinren",
+            "Son of X",
+            "Disciple of X"
+        ],
+        [
+            "Madam Li or Li Family",
+            "Husband of X",
+            "Father of X"
+        ],
+        [
+            "Li Zhong",
+            "Sibling",
+            "Rival",
+            "Enemy"
+        ],
+        [
+            "Chen Qian",
+            "Wife of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Chen Zijing",
+            "Husband of X",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Li Fu",
+            "Husband",
+            "Brother-in-law"
+        ],
+        [
+            "Master Chen",
+            "Wife of X",
+            "Mother of X"
+        ],
+        [
+            "Fu Ru",
+            "Husband of X",
+            "Stranger to X"
+        ],
+        [
+            "East China Sea",
+            "Husband of X",
+            "Romantic relationships with X"
+        ],
+        [
+            "Shoubi Nanshan",
+            "brother-in-law",
+            "rival"
+        ]
+    ],
+    "Fu Ru": [
+        [
+            "Li Yan",
+            "relationship 1",
+            "relationship 2",
+            "relationship 3",
+            "relationship 4",
+            "relationship 5",
+            "relationship 6",
+            "relationship 7",
+            "relationship 8",
+            "relationship 9",
+            "relationship 10"
+        ],
+        [
+            "Li Qinren",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5, relationship 6"
+        ],
+        [
+            "Madam Li or Li Family",
+            "Husband of X",
+            "Son of X"
+        ],
+        [
+            "Li Zhong",
+            "wife",
+            "married"
+        ],
+        [
+            "Chen Qian",
+            "Husband of X",
+            "Same person as X "
+        ],
+        [
+            "Chen Zijing",
+            "Husband of X",
+            "Same person as X "
+        ],
+        [
+            "Li Fu",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Master Chen",
+            "wife",
+            "married"
+        ],
+        [
+            "Li Wangye",
+            "Wife of X",
+            "Stranger to X"
+        ],
+        [
+            "East China Sea",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Shoubi Nanshan",
+            "relationship 1",
+            "relationship 2"
+        ]
+    ],
+    "East China Sea": [
+        [
+            "Li Yan",
+            "acquaintance",
+            "romantic relationships",
+            "ex-romantic relationships",
+            "fiance",
+            "fiancee",
+            "co-wives",
+            "nephew",
+            "niece",
+            "cousin"
+        ],
+        [
+            "Li Qinren",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5, relationship 6"
+        ],
+        [
+            "Madam Li or Li Family",
+            "Husband of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Li Zhong",
+            "Sibling",
+            "Spouse",
+            "Family"
+        ],
+        [
+            "Chen Qian",
+            "Husband of X"
+        ],
+        [
+            "Chen Zijing",
+            "Wife of X",
+            "Stranger to X"
+        ],
+        [
+            "Li Fu",
+            "Wife of X",
+            "Stranger to X"
+        ],
+        [
+            "Master Chen",
+            "Teacher of X",
+            "Acquaintance of X",
+            "Informant of X",
+            "Friend of X"
+        ],
+        [
+            "Li Wangye",
+            "Wife of X",
+            "Romantic relationships with X"
+        ],
+        [
+            "Fu Ru",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Shoubi Nanshan",
+            "Rival",
+            "Enemy"
+        ]
+    ],
+    "Shoubi Nanshan": [
+        [
+            "Li Qinren",
+            "Father-in-law of Li Zhong",
+            "Husband of Chen Qian"
+        ],
+        [
+            "Madam Li or Li Family",
+            "Father-in-law",
+            "Relative"
+        ],
+        [
+            "Li Zhong",
+            "romantic relationship",
+            "daughter-in-law",
+            "conflicting relationship"
+        ],
+        [
+            "Chen Qian",
+            "Li Yan"
+        ],
+        [
+            "Chen Zijing",
+            "Same person as X "
+        ],
+        [
+            "Li Fu",
+            "Brother-in-law",
+            "Rival"
+        ],
+        [
+            "Master Chen",
+            "enemy",
+            "perpetrator"
+        ],
+        [
+            "Li Wangye",
+            "brother-in-law",
+            "rival"
+        ],
+        [
+            "Fu Ru",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "East China Sea",
+            "Rival",
+            "Enemy"
+        ]
+    ]
+}

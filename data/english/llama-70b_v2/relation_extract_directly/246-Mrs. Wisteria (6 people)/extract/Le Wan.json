@@ -1,0 +1,45 @@
+{
+    "Le Wan": [
+      ["Zhu Lingshan", "husband of x, kidnapped of x"], 
+      ["Ge Yueman", "sister of x"], 
+      ["Ge Yueluo", "employee of x, servant of x, sister of x"]
+    ],
+    "Ge Yueman": [
+      ["Le Wan", "sister of x"]
+    ],
+    "Zhu Lingshan": [
+      ["Le Wan", "husband of x, kidnapped of x"], 
+      ["Ge Yueluo", "son in law of x, suspicious of x"]
+    ],
+    "Ge Yueluo": [
+      ["Le Wan", "employee of x, servant of x, sister of x"], 
+      ["Zhu Lingshan", "son in law of x, suspicious of x"]
+    ],
+    "Yan Yichong": [
+      ["Le Wan", "grandfather of x, deceased of x"]
+    ],
+    "Wang Huchao": [
+      ["Yan Yichong", "apprentice of x, suspicious of x"]
+    ],
+    "Xue Dacai": [
+      ["Zhu Lingshan", "cousin of x, helper of x"]
+    ],
+    "Mrs. Wisteria": [
+      ["Zhu Lingshan", "mysterious of x, suspicious of x"]
+    ],
+    "Yu Shangyong": [
+      ["Le Wan", "brother in law of x, suspicious of x"]
+    ],
+    "Yu Yancheng": [
+      ["Le Wan", "brother in law of x, suspicious of x"]
+    ],
+    "Zhi Jun": [
+      ["Ge Yueman", "sister of x"]
+    ],
+    "Lü Lusheng": [
+      ["Le Wan", "acquaintance of x, suspicious of x"]
+    ],
+    "Xue Yufan": [
+      ["Le Wan", "acquaintance of x, suspicious of x"]
+    ]
+}

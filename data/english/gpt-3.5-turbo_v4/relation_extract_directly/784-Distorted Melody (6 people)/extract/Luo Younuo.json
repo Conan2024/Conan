@@ -1,0 +1,68 @@
+{
+    "Luo Younuo": [
+      ["Luo Wanli", "father of x"], 
+      ["Xue Yan", "sister of x, neighbour of x"], 
+      ["Mrs. Ruan", "mother of x, neighbour of x"], 
+      ["Wangdi", "lover of x"], 
+      ["Zhaonan", "enemy of x"], 
+      ["Guilang", "student of x"], 
+      ["Qi Gu Fei", "acquaintance of x"], 
+      ["Hei Li", "acquaintance of x"], 
+      ["Mr. Wang", "acquaintance of x"], 
+      ["Wang Zimo", "victim of x, wife of x"], 
+      ["Luo Xiaojia", "sister of x"], 
+      ["Luo Yu", "brother of x"], 
+      ["Luo Min", "mother of x"], 
+      ["Luo Yong", "father of x"]
+    ],
+    "Luo Wanli": [
+      ["Luo Younuo", "child of x"], 
+      ["Xue Yan", "child of x"]
+    ],
+    "Xue Yan": [
+      ["Luo Younuo", "sister of x, neighbour of x"], 
+      ["Mrs. Ruan", "employer of x, neighbour of x"], 
+      ["Luo Youfang", "brother of x"], 
+      ["Luo Youwei", "brother of x"], 
+      ["Luo Xiaotong", "sister of x"], 
+      ["Luo Yanjun", "sister of x"], 
+      ["Luo Yuqi", "sister of x"]
+    ],
+    "Mrs. Ruan": [
+      ["Luo Younuo", "mother of x"], 
+      ["Xue Yan", "employer of x, neighbour of x"], 
+      ["Wangdi", "mother of x"], 
+      ["Zhaonan", "mother of x"], 
+      ["Guilang", "mother of x"], 
+      ["Qi Gu Fei", "business partner of x"], 
+      ["Hei Li", "friend of x"], 
+      ["Luo Min", "mother in law of x"], 
+      ["Luo Wanli", "father in law of x"]
+    ],
+    "Wangdi": [
+      ["Luo Younuo", "lover of x"], 
+      ["Mrs. Ruan", "daughter of x"], 
+      ["Zhaonan", "sister of x"], 
+      ["Wang Zimo", "wife of x"]
+    ],
+    "Zhaonan": [
+      ["Wangdi", "sister of x"]
+    ],
+    "Guilang": [
+      ["Mrs. Ruan", "son of x"]
+    ],
+    "Qi Gu Fei": [
+      ["Luo Younuo", "acquaintance of x"], 
+      ["Mrs. Ruan", "business partner of x"]
+    ],
+    "Hei Li": [
+      ["Luo Younuo", "acquaintance of x"]
+    ],
+    "Mr. Wang": [
+      ["Luo Younuo", "acquaintance of x"]
+    ],
+    "Wang Zimo": [
+      ["Wangdi", "wife of x"], 
+      ["Qin Jingyi", "brother of x"]
+    ]
+}

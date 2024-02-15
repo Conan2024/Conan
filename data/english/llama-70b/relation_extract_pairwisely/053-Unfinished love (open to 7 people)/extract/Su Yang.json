@@ -1,0 +1,515 @@
+{
+    "Su Yang": [
+        [
+            "Lin Tong",
+            "Fiancee",
+            "Lover",
+            "Friend",
+            "Colleague",
+            "Helped by",
+            "Bully",
+            "Murderer",
+            "Attempted Perpetrator",
+            "Attempted Murderer",
+            "Victim",
+            "Killed by",
+            "Dislike",
+            "Disliked by",
+            "Subject of investigation",
+            "Deceiver",
+            "Betrayer",
+            "Deceived by",
+            "Betrayed by",
+            "Suspected by",
+            "Suspicious of",
+            "Suspect of",
+            "Adversary",
+            "Enemy",
+            "Rival",
+            "Manipulator",
+            "Manipulated by",
+            "Superior of",
+            "Employer of",
+            "Master of",
+            "Subordinate of",
+            "Employee of",
+            "Servant of",
+            "Colleague of",
+            "Business Partner of",
+            "Customer of",
+            "Buyer of",
+            "Tenant of",
+            "Patient of"
+        ],
+        [
+            "Lin Xi",
+            "Fiancee",
+            "Perpetrator",
+            "Suspect"
+        ],
+        [
+            "Dean Lin",
+            "Fiancee of X",
+            "Employee of X",
+            "Subordinate of X",
+            "Attending doctor of X",
+            "Suspect of X"
+        ],
+        [
+            "Gu Qing",
+            "Fiancee",
+            "Rival"
+        ],
+        [
+            "Shen Cheng",
+            "Employer of X",
+            "Master of X",
+            "Subordinate of X",
+            "Employee of X",
+            "servant of X",
+            "Colleague of X",
+            "Business Partner of X",
+            "Customer of X",
+            "Buyer of X",
+            "Tenant of X",
+            "Patient of X"
+        ],
+        [
+            "Lin Weiren",
+            "Fiance",
+            "Student of"
+        ],
+        [
+            "Gu Ming",
+            "Fiancee of X",
+            "Co-workers of X",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X"
+        ],
+        [
+            "Lin Tong",
+            "Dean Lin"
+        ]
+    ],
+    "Lin Tong": [
+        [
+            "Su Yang",
+            "Fiancee",
+            "Lover",
+            "Friend",
+            "Colleague",
+            "Helped by",
+            "Bully",
+            "Murderer",
+            "Attempted Perpetrator",
+            "Attempted Murderer",
+            "Victim",
+            "Killed by",
+            "Dislike",
+            "Disliked by",
+            "Subject of investigation",
+            "Deceiver",
+            "Betrayer",
+            "Deceived by",
+            "Betrayed by",
+            "Suspected by",
+            "Suspicious of",
+            "Suspect of",
+            "Adversary",
+            "Enemy",
+            "Rival",
+            "Manipulator",
+            "Manipulated by",
+            "Superior of",
+            "Employer of",
+            "Master of",
+            "Subordinate of",
+            "Employee of",
+            "Servant of",
+            "Colleague of",
+            "Business Partner of",
+            "Customer of",
+            "Buyer of",
+            "Tenant of",
+            "Patient of"
+        ],
+        [
+            "Lin Xi",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Dean Lin",
+            "Su Yang"
+        ],
+        [
+            "Gu Qing",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Shen Cheng",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Lin Weiren",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)",
+            "Stranger to X"
+        ],
+        [
+            "Gu Ming",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Lin Xi": [
+        [
+            "Su Yang",
+            "Fiance",
+            "Victim",
+            "Suspicious"
+        ],
+        [
+            "Lin Tong",
+            "Wife of X",
+            "Fiancee of X"
+        ],
+        [
+            "Dean Lin",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)",
+            "Stranger to X",
+            "Wife of X",
+            "Husband of X",
+            "Extramarital Affair with X",
+            "Romantic relationships with X",
+            "Ex-romantic relationships with X",
+            "Fiance of X",
+            "Fiancee of X",
+            "co-wives of X",
+            "Father of X",
+            "Mother of X",
+            "Child of X",
+            "Son of X",
+            "Daughter of X",
+            "Sibling of X",
+            "Brother of X",
+            "Sister of X",
+            "Relative of X",
+            "Nephew of X",
+            "Aunt of X",
+            "Uncle of X",
+            "Niece of X",
+            "Cousin of X",
+            "Friend of X",
+            "Mentor of X",
+            "teacher of x",
+            "Student of X",
+            "Informant of X",
+            "Information Receiver from X",
+            "Acquaintance of X",
+            "classmate of x",
+            "Schoolmate of X",
+            "Neighbour of X",
+            "Helper of X",
+            "Helped by X",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X",
+            "Attempted Perpetrator of X",
+            "Attempted Murderer of X",
+            "Victim of X",
+            "killed by x"
+        ],
+        [
+            "Gu Qing",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Gu Ming",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Dean Lin": [
+        [
+            "Su Yang",
+            "Father of X",
+            "Employer of X",
+            "Master of X",
+            "Superior of X",
+            "Suspected by X"
+        ],
+        [
+            "Lin Tong",
+            "Su Yang"
+        ],
+        [
+            "Lin Xi",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)",
+            "Stranger to X",
+            "Wife of X",
+            "Husband of X",
+            "Extramarital Affair with X",
+            "Romantic relationships with X",
+            "Ex-romantic relationships with X",
+            "Fiance of X",
+            "Fiancee of X",
+            "co-wives of X",
+            "Father of X",
+            "Mother of X",
+            "Child of X",
+            "Son of X",
+            "Daughter of X",
+            "Sibling of X",
+            "Brother of X",
+            "Sister of X",
+            "Relative of X",
+            "Nephew of X",
+            "Aunt of X",
+            "Uncle of X",
+            "Niece of X",
+            "Cousin of X",
+            "Friend of X",
+            "Mentor of X",
+            "teacher of x",
+            "Student of X",
+            "Informant of X",
+            "Information Receiver from X",
+            "Acquaintance of X",
+            "classmate of x",
+            "Schoolmate of X",
+            "Neighbour of X",
+            "Helper of X",
+            "Helped by X",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X",
+            "Attempted Perpetrator of X",
+            "Attempted Murderer of X",
+            "Victim of X",
+            "killed by x"
+        ],
+        [
+            "Gu Qing",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Shen Cheng",
+            "Friend of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Employee of X",
+            "Master of X",
+            "Subordinate of X",
+            "Supervisor of X",
+            "Attending doctor of X"
+        ],
+        [
+            "Lin Weiren",
+            "relationship 1: Teacher-Student, relationship 2: Superior-Subordinate"
+        ],
+        [
+            "Gu Ming",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Gu Qing": [
+        [
+            "Su Yang",
+            "Fiance",
+            "Rival"
+        ],
+        [
+            "Lin Tong",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Lin Xi",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Dean Lin",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Shen Cheng",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Lin Weiren",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)",
+            "Stranger to X"
+        ],
+        [
+            "Gu Ming",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Shen Cheng": [
+        [
+            "Su Yang",
+            "Housekeeper of X",
+            "Father of X",
+            "Mother of X",
+            "Daughter of X",
+            "Son of X",
+            "Sibling of X",
+            "Brother of X",
+            "Sister of X",
+            "Relative of X",
+            "Nephew of X",
+            "Aunt of X",
+            "Uncle of X",
+            "Cousin of X"
+        ],
+        [
+            "Lin Tong",
+            "Father of X",
+            "Housekeeper of X"
+        ],
+        [
+            "Dean Lin",
+            "Father of X",
+            "Housekeeper of X",
+            "Confidant of X",
+            "Informant of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Gu Qing",
+            "Housekeeper of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Lin Weiren",
+            "Housekeeper of"
+        ],
+        [
+            "Gu Ming",
+            "Acquaintance",
+            "Co-worker"
+        ]
+    ],
+    "Lin Weiren": [
+        [
+            "Su Yang",
+            "Father of",
+            "Teacher of"
+        ],
+        [
+            "Lin Tong",
+            "Father of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Superior of X",
+            "Employer of X",
+            "Master of X",
+            "Subordinate of X",
+            "Employee of X",
+            "Servant of X"
+        ],
+        [
+            "Dean Lin",
+            "relationship 1: Teacher-Student, relationship 2: Superior-Subordinate"
+        ],
+        [
+            "Gu Qing",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)",
+            "Stranger to X"
+        ],
+        [
+            "Shen Cheng",
+            "Father of"
+        ],
+        [
+            "Gu Ming",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)",
+            "Father of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Student of X",
+            "Informant of X",
+            "Information Receiver from X",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X",
+            "Neighbour of X",
+            "Helper of X",
+            "Helped by X",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X",
+            "Attempted Perpetrator of X",
+            "Attempted Murderer of X",
+            "Victim of X",
+            "killed by x"
+        ]
+    ],
+    "Gu Ming": [
+        [
+            "Su Yang",
+            "Fiance of X",
+            "Co-workers of X",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X"
+        ],
+        [
+            "Lin Tong",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Lin Xi",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Dean Lin",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Gu Qing",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Shen Cheng",
+            "Acquaintance",
+            "Co-worker"
+        ],
+        [
+            "Lin Weiren",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)",
+            "Son of X",
+            "Daughter of X",
+            "Sibling of X",
+            "Brother of X",
+            "Sister of X",
+            "Co-wives of X",
+            "Fiance of X",
+            "Fiancee of X",
+            "Romantic relationships with X",
+            "Ex-romantic relationships with X",
+            "Stranger to X"
+        ]
+    ]
+}

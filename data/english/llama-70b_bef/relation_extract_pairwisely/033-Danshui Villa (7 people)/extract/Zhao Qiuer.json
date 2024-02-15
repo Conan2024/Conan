@@ -1,0 +1,48 @@
+{
+    "Zhao Qiuer": [
+      ["Zhao Luoyi", "student of x, friend of x"], 
+      ["Zhao Wanlei", "employer of x, master of x"], 
+      ["Young Master Zhao Wei", "friend of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Zhao Qiuer", "teacher of x, friend of x"], 
+      ["Fang Shuangji", "employer of x, master of x"], 
+      ["Qi Yue", "friend of x"], 
+      ["Young Master Zhao Wei", "friend of x, mentor of x"], 
+      ["Nuer or Daughterfeng Zhu", "sister in law of x, rival of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Zhao Qiuer", "employer of x, master of x"], 
+      ["Qi Yue", "husband of x, master of x, employer of x"], 
+      ["Young Master Zhao Wei", "master of x, mentor of x"], 
+      ["Nuer or Daughterfeng Zhu", "master of x, employer of x"]
+    ],
+    "Fang Shuangji": [
+      ["Zhao Luoyi", "employee of x, servant of x"], 
+      ["Qi Yue", "superior of x, employer of x, master of x"], 
+      ["Young Master Zhao Wei", "friend of x"], 
+      ["Nuer or Daughterfeng Zhu", "co wives of x, friend of x, acquaintance of x"]
+    ],
+    "Qi Yue": [
+      ["Zhao Luoyi", "friend of x"], 
+      ["Zhao Wanlei", "wife of x, employee of x, servant of x"], 
+      ["Fang Shuangji", "subordinate of x, employee of x, servant of x"], 
+      ["Young Master Zhao Wei", "friend of x, acquaintance of x"], 
+      ["Nuer or Daughterfeng Zhu", "superior of x, subordinate of x"]
+    ],
+    "Young Master Zhao Wei": [
+      ["Zhao Qiuer", "friend of x"], 
+      ["Zhao Luoyi", "friend of x, mentor of x"], 
+      ["Zhao Wanlei", "father of x, mentor of x"], 
+      ["Fang Shuangji", "friend of x"], 
+      ["Qi Yue", "friend of x, acquaintance of x"], 
+      ["Nuer or Daughterfeng Zhu", "sibling of x, rival of x"]
+    ],
+    "Nuer or Daughterfeng Zhu": [
+      ["Zhao Luoyi", "sister in law of x, rival of x"], 
+      ["Zhao Wanlei", "master of x, employer of x"], 
+      ["Fang Shuangji", "co wives of x, friend of x, acquaintance of x"], 
+      ["Qi Yue", "superior of x, subordinate of x"], 
+      ["Young Master Zhao Wei", "sibling of x, rival of x"]
+    ]
+}

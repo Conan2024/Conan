@@ -1,0 +1,63 @@
+{
+    "Miao Ruya": [
+      ["Ruya", "same person as x (different identity), replaced x's identity"], 
+      ["Mountain Spirit", "saviour of x, enemy of x"], 
+      ["Miao Na", "friend of x"], 
+      ["Ba Mansion Mountain", "friend of x"], 
+      ["Li Gaobai", "student of x"], 
+      ["Li Demu", "student of x"], 
+      ["Li Liangsong", "teacher of x"], 
+      ["Middle-Aged Man", "murderer of x"], 
+      ["Gui Yin", "admirer of x"], 
+      ["Gan Ma", "admirer of x"], 
+      ["Falcon", "secret lover of x"]
+    ],
+    "Ruya": [
+      ["Miao Ruya", "same person as x (different reference), replaced x's identity"]
+    ],
+    "Mountain Spirit": [
+      ["Miao Ruya", "saviour of x"], 
+      ["Tian Shi", "enemy of x"]
+    ],
+    "Tian Shi": [
+      ["Mountain Spirit", "enemy of x"]
+    ],
+    "Miao Na": [
+      ["Miao Ruya", "friend of x"]
+    ],
+    "Miao Shi": [
+      ["Miao Ruya", "brother of x"], 
+      ["Miao Na", "brother of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Miao Ruya", "friend of x"], 
+      ["Mountain Spirit", "friend of x"]
+    ],
+    "Gui Yin": [
+      ["Miao Ruya", "admirer of x"], 
+      ["Falcon", "secret lover of x"], 
+      ["Gan Ma", "wife of x"]
+    ],
+    "Gan Ma": [
+      ["Miao Ruya", "admirer of x"], 
+      ["Gui Yin", "husband of x"]
+    ],
+    "Falcon": [
+      ["Gui Yin", "secret lover of x"]
+    ],
+    "Li Gaobai": [
+      ["Miao Ruya", "student of x"]
+    ],
+    "Li Demu": [
+      ["Miao Ruya", "student of x"]
+    ],
+    "Li Liangsong": [
+      ["Miao Ruya", "teacher of x"]
+    ],
+    "Middle-Aged Man": [
+      ["Miao Ruya", "murderer of x"]
+    ],
+    "Private Tutor": [
+      ["Miao Ruya", "teacher of x"]
+    ]
+}

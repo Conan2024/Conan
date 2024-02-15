@@ -1,0 +1,75 @@
+{
+    "Li Luo Ming": [
+      ["Li Zicai", "father of x"], 
+      ["Li Zijun", "uncle of x"], 
+      ["Xia Bolong", "same person as x (different reference)"], 
+      ["Xia Zhongpeng", "acquaintance of x"], 
+      ["Xia Shue", "mentor of x, romantic relationships with (xia shue being under 18 could be seen as romantic relationships)"], 
+      ["Bai Changgong", "acquaintance of x, debtor of x"], 
+      ["Yu Zu Chengmu", "uncle of x"], 
+      ["Yue Dongwen", "employer of x"], 
+      ["Duan Yuetong", "police of xficer of x"], 
+      ["Wu Baian", "perpetrator of x"], 
+      ["Lu Dong", "colleague of x x (you fought together)"], 
+      ["Abao", "colleague of x x (you fought together)"]
+    ],
+    "Li Zicai": [
+      ["Li Luo Ming", "son of x"], 
+      ["Xia Sanhu", "perpetrator of x"]
+    ],
+    "Li Zijun": [
+      ["Li Luo Ming", "nephew of x"], 
+      ["Xia Sanhu", "colleague of x"]
+    ],
+    "Xia Sanhu": [
+      ["Li Zicai", "victim of x"], 
+      ["Li Zijun", "colleague of x"], 
+      ["Xia Bolong", "same person as x (different identity)"], 
+      ["Xia Zhongpeng", "colleague of x"], 
+      ["Xia Shue", "colleague of x, possible romantic relationship with (xia shue being underage)"], 
+      ["Bai Changgong", "debtor of x"], 
+      ["Yu Zu Chengmu", "colleague of x"], 
+      ["Wu Baian", "victim of x, perpetrator of x"], 
+      ["Lu Dong", "acquaintance of x x (li luo ming fought together with him)"], 
+      ["Abao", "acquaintance of x x (li luo ming fought together with him)"]
+    ],
+    "Xia Zhongpeng": [
+      ["Xia Sanhu", "uncle of x"], 
+      ["Li Luo Ming", "acquaintance of x"], 
+      ["Xia Shue", "possible romantic relationship with (xia shue being underage)"]
+    ],
+    "Xia Shue": [
+      ["Li Luo Ming", "mentor of x, romantic relationships with (xia shue being under 18 could be seen as romantic relationships)"], 
+      ["Xia Sanhu", "colleague of x, possible romantic relationship with (xia shue being underage)"], 
+      ["Xia Zhongpeng", "possible romantic relationship with (xia shue being underage)"]
+    ],
+    "Bai Changgong": [
+      ["Li Luo Ming", "acquaintance of x"], 
+      ["Xia Sanhu", "debtor of x"]
+    ],
+    "Yu Zu Chengmu": [
+      ["Li Luo Ming", "uncle of x"], 
+      ["Xia Sanhu", "colleague of x"], 
+      ["Anqi", "customer of x, information receiver from of x"]
+    ],
+    "Yue Dongwen": [
+      ["Li Luo Ming", "employer of x"]
+    ],
+    "Duan Yuetong": [
+      ["Li Luo Ming", "informant of x"], 
+      ["Xia Sanhu", "informant of x"]
+    ],
+    "Anqi": [
+      ["Yu Zu Chengmu", "information receiver from of x"]
+    ],
+    "Wu Baian": [
+      ["Li Luo Ming", "victim of x, perpetrator of x"], 
+      ["Xia Sanhu", "informer of x"]
+    ],
+    "Lu Dong": [
+      ["Xia Sanhu", "colleague of x x (fought together with li luo ming)"]
+    ],
+    "Abao": [
+      ["Xia Sanhu", "colleague of x x (fought together with li luo ming)"]
+    ]
+}

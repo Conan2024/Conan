@@ -1,0 +1,42 @@
+{
+    "Robin Fey": [
+      ["Perry", "friend of x"], 
+      ["Daniel", "colleague of x"], 
+      ["Marina", "suspicious of x"], 
+      ["Jonathan", "suspected by x"]
+    ],
+    "Perry": [
+      ["Robin Fey", "friend of x"], 
+      ["Marina", "wife of x"], 
+      ["Jacqueline", "daughter of x, disliked by x"], 
+      ["Jonathan", "son of x"], 
+      ["Harold", "son in law of x"], 
+      ["Lucy Harrison", "daughter of x"]
+    ],
+    "Daniel": [
+      ["Robin Fey", "colleague of x"], 
+      ["Jonathan", "son of x, suspected by x"]
+    ],
+    "Marina": [
+      ["Perry", "wife of x"], 
+      ["Jacqueline", "disliked by x"], 
+      ["Harold", "husband of x"]
+    ],
+    "Jacqueline": [
+      ["Robin Fey", "disliked by x"], 
+      ["Perry", "daughter of x, disliked by x"], 
+      ["Marina", "disliked by x"]
+    ],
+    "Jonathan": [
+      ["Perry", "son of x"], 
+      ["Daniel", "suspected by x"]
+    ],
+    "Harold": [
+      ["Perry", "son in law of x"], 
+      ["Marina", "husband of x"]
+    ],
+    "Lucy Harrison": [
+      ["Perry", "daughter of x"], 
+      ["Jacqueline", "sibling of x"]
+    ]
+}

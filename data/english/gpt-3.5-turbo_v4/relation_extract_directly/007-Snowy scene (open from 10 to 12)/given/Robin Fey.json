@@ -1,0 +1,44 @@
+{
+    "Robin Fey": [
+      ["Daniel Perry", "friend of x"], 
+      ["Jonathan Perry", "suspected by x"], 
+      ["Marina Harrison", "ex romantic relationships with x"], 
+      ["Lucy Harrison", "admired by x"], 
+      ["Amy Morgan", "acquaintance of x"]
+    ],
+    "Daniel Perry": [
+      ["Robin Fey", "friend of x"], 
+      ["Jonathan Perry", "father of x"], 
+      ["Marina Harrison", "ex wife of x"], 
+      ["Davis Perry", "son of x"], 
+      ["Lucy Harrison", "possibly family of x"], 
+      ["Jacqueline Perry", "sibling of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Daniel Perry", "sibling of x"], 
+      ["Jonathan Perry", "sibling of x"], 
+      ["Davis Perry", "nephew of x"]
+    ],
+    "Jonathan Perry": [
+      ["Robin Fey", "acquaintance of x"], 
+      ["Daniel Perry", "son of x"], 
+      ["Davis Perry", "brother of x"], 
+      ["Jacqueline Perry", "sibling of x"]
+    ],
+    "Davis Perry": [
+      ["Daniel Perry", "son of x"], 
+      ["Jonathan Perry", "brother of x"], 
+      ["Jacqueline Perry", "nephew of x"]
+    ],
+    "Lucy Harrison": [
+      ["Robin Fey", "admired by x"], 
+      ["Daniel Perry", "possibly family of x"]
+    ],
+    "Marina Harrison": [
+      ["Robin Fey", "ex romantic relationships with x"], 
+      ["Daniel Perry", "ex wife of x"]
+    ],
+    "Amy Morgan": [
+      ["Robin Fey", "acquaintance of x"]
+    ]
+}

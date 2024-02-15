@@ -1,0 +1,109 @@
+{
+    "Theatrical Work David": [
+      ["Magician Gust", "friend of x"], 
+      ["Security Kevin", "acquaintance of x"], 
+      ["Logistics Griff", "friend of x"], 
+      ["Rowling", "ex romantic relationships with x"]
+    ],
+    "Magician Gust": [
+      ["Theatrical Work David", "friend of x"], 
+      ["Publicity Rowling", "ex romantic relationships with x"], 
+      ["Assistant Ella", "fiance of x"], 
+      ["Logistics Griff", "colleague of x"], 
+      ["Ella", "romantic relationships with x"], 
+      ["Kevin", "employee of x"], 
+      ["Griff", "employee of x"], 
+      ["Rowling", "romantic relationships with x"], 
+      ["David", "business partner of x"]
+    ],
+    "Publicity Rowling": [
+      ["Magician Gust", "ex romantic relationships with x"], 
+      ["Security Kevin", "extramarital affair with x"], 
+      ["Logistics Griff", "secret admirer of x"], 
+      ["Ella", "friend of x"], 
+      ["Gust", "colleague of x"], 
+      ["Rowling", "fiancee of x"], 
+      ["David", "romantic relationships with x"]
+    ],
+    "Assistant Ella": [
+      ["Magician Gust", "fiancee of x"], 
+      ["Security Kevin", "possibly family of x"], 
+      ["Logistics Griff", "friend of x"], 
+      ["Ella", "friend of x"], 
+      ["Kevin", "friend of x"], 
+      ["Griff", "friend of x"]
+    ],
+    "Security Kevin": [
+      ["Theatrical Work David", "suspicious of x"], 
+      ["Publicity Rowling", "extramarital affair with x"], 
+      ["Assistant Ella", "ex romantic relationships with x"], 
+      ["Logistics Griff", "friend of x"], 
+      ["Ella", "romantic relationships with x"], 
+      ["Kevin", "friend of x"], 
+      ["Griff", "friend of x"], 
+      ["Rowling", "romantic relationships with x"]
+    ],
+    "Logistics Griff": [
+      ["Theatrical Work David", "friend of x"], 
+      ["Magician Gust", "business partner of x"], 
+      ["Publicity Rowling", "friend of x"], 
+      ["Assistant Ella", "friend of x"], 
+      ["Security Kevin", "friend of x"], 
+      ["Ella", "friend of x"], 
+      ["Gust", "business partner of x"], 
+      ["Griff", "friend of x"], 
+      ["David", "friend of x"]
+    ],
+    "Gust": [
+      ["Theatrical Work David", "employer of x"], 
+      ["Publicity Rowling", "colleague of x"], 
+      ["Logistics Griff", "business partner of x, employee of x"], 
+      ["Rowling", "lover of x"], 
+      ["David", "quest companion of x, helped by x"]
+    ],
+    "Rowling": [
+      ["Theatrical Work David", "ex romantic relationships with x"], 
+      ["Magician Gust", "romantic relationships with x"], 
+      ["Publicity Rowling", "ex boyfriend of x"], 
+      ["Security Kevin", "romantic relationships with x"], 
+      ["Ella", "friend of x"], 
+      ["Gust", "lover of x"], 
+      ["Kevin", "ex boyfriend of x"], 
+      ["Griff", "acquaintance of x"], 
+      ["David", "ex romantic relationships with x"]
+    ],
+    "Griff": [
+      ["Assistant Ella", "friend of x"], 
+      ["Security Kevin", "friend of x"], 
+      ["Logistics Griff", "friend of x"], 
+      ["Ella", "friend of x, colleague of x"], 
+      ["Rowling", "acquaintance of x"], 
+      ["David", "friend of x"]
+    ],
+    "David": [
+      ["Magician Gust", "friend of x, attempted perpetrator of x"], 
+      ["Publicity Rowling", "romantic relationships with x"], 
+      ["Logistics Griff", "friend of x"], 
+      ["Gust", "quest companion of x"], 
+      ["Kevin", "ex romantic relationships with x"], 
+      ["Rowling", "lover of x, secret admirer of x"]
+    ],
+    "Ella": [
+      ["Magician Gust", "romantic relationships with x"], 
+      ["Publicity Rowling", "friend of x"], 
+      ["Assistant Ella", "friend of x"], 
+      ["Security Kevin", "romantic relationships with x"], 
+      ["Logistics Griff", "friend of x"], 
+      ["Kevin", "informant of x"], 
+      ["Griff", "friend of x"], 
+      ["Rowling", "friend of x"]
+    ],
+    "Kevin": [
+      ["Magician Gust", "employee of x"], 
+      ["Assistant Ella", "acquaintance of x"], 
+      ["Security Kevin", "friend of x"], 
+      ["Ella", "extramarital affair with x"], 
+      ["Rowling", "ex romantic relationships with x"], 
+      ["David", "romantic relationships with x"]
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Zhao Qiuer": [
+      ["Zhao Wanlei", "master of x"], 
+      ["Fang Shuangji", "acquaintance of x"], 
+      ["Young Master Zhao Wei", "acquaintance of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Zhao Wanlei", "father of x"], 
+      ["Fang Shuangji", "acquaintance of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Zhao Luoyi", "daughter of x"], 
+      ["Fang Shuangji", "acquaintance of x"]
+    ],
+    "Fang Shuangji": [
+      ["Zhao Qiuer", "acquaintance of x"], 
+      ["Zhao Luoyi", "acquaintance of x"], 
+      ["Zhao Wanlei", "master of x, acquaintance of x"]
+    ],
+    "Young Master Zhao Wei": [
+      ["Zhao Qiuer", "acquaintance of x"], 
+      ["Zhao Luoyi", "acquaintance of x"]
+    ],
+    "Nuer or Daughterfeng Zhu": [
+      ["Zhao Qiuer", "friend of x"], 
+      ["Zhao Luoyi", "friend of x"]
+    ]
+}

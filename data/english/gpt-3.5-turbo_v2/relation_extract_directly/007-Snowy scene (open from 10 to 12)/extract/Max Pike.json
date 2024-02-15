@@ -1,0 +1,42 @@
+{
+    "Max Pike": [
+      ["Joe Robertson", "friend of x"], 
+      ["Joe Robertson", "co worker of x"], 
+      ["Joe Robertson", "acquaintance of x"], 
+      ["Kristin Dunn", "romantic relationships with x"], 
+      ["Qiao", "acquaintance of x"], 
+      ["Daniel", "suspect of x"], 
+      ["John Morgan", "unknown relationship with x"], 
+      ["Harold Harrison", "suspicion of x"], 
+      ["Marina Harrison", "unknown relationship with x"], 
+      ["Lucy Harrison", "blackmailer of x"]
+    ],
+    "Joe Robertson": [
+      ["Max Pike", "friend of x"], 
+      ["Max Pike", "co worker of x"], 
+      ["Max Pike", "acquaintance of x"]
+    ],
+    "Kristin Dunn": [
+      ["Max Pike", "romantic relationships with x"]
+    ],
+    "Qiao": [
+      ["Max Pike", "acquaintance of x"], 
+      ["Max Pike", "accomplice of x"], 
+      ["Joe Robertson", "accomplice of x"]
+    ],
+    "Daniel": [
+      ["Max Pike", "suspect of x"]
+    ],
+    "John Morgan": [
+      ["Max Pike", "unknown relationship with x"]
+    ],
+    "Harold Harrison": [
+      ["Max Pike", "suspicion of x"]
+    ],
+    "Marina Harrison": [
+      ["Max Pike", "unknown relationship with x"]
+    ],
+    "Lucy Harrison": [
+      ["Max Pike", "blackmailer of x"]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Cui Yannan": [
+      ["Wang Xi Rong", "mother of x"], 
+      ["Cui Shouheng", "father of x"], 
+      ["Xi Yan", "aunt of x"], 
+      ["Bao Gan", "personal maid of x"], 
+      ["Yu Shi", "married to zhou mengdang of x"], 
+      ["Zhou Mengdang", "husband of x yu shi, father of x zhou lianyi"], 
+      ["Zhou Chitong", "brother of x yu shi and uncle of x zhou lianyi"], 
+      ["Su Nian", "brother of x yu shi and uncle of x zhou lianyi"], 
+      ["Zhou Lianyi", "son of x yu shi and nephew of x cui yannan"], 
+      ["Tian Chou", "bao gan's new name after becoming cui yannan's aunt of x"]
+    ],
+    "Wang Xi Rong": [
+      ["Cui Yannan", "child of x"], 
+      ["Xi Yan", "daughter of x"]
+    ],
+    "Cui Shouheng": [
+      ["Cui Yannan", "child of x"]
+    ],
+    "Xi Yan": [
+      ["Cui Yannan", "sister of x"]
+    ],
+    "Bao Gan": [
+      ["Cui Yannan", "maid of x"], 
+      ["Tian Chou", "new name of x after becoming cui yannan's aunt"]
+    ],
+    "Yu Shi": [
+      ["Zhou Mengdang", "married to of x"]
+    ],
+    "Zhou Mengdang": [
+      ["Yu Shi", "husband of x"]
+    ],
+    "Zhou Chitong": [
+      ["Yu Shi", "brother of x"]
+    ],
+    "Su Nian": [
+      ["Yu Shi", "brother of x"]
+    ],
+    "Zhou Lianyi": [
+      ["Yu Shi", "son of x"]
+    ],
+    "Tian Chou": [
+      ["Bao Gan", "new name of x after becoming cui yannan's aunt"]
+    ]
+}

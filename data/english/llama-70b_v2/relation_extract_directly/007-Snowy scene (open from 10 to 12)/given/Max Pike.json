@@ -1,0 +1,29 @@
+{
+    "Max Pike": [
+      ["Joe Robertson", "friend of x, skiing partner of x"], 
+      ["John Morgan", "acquaintance of x, victim of x murder"]
+    ],
+    "Joe Robertson": [
+      ["Max Pike", "friend of x, skiing partner of x"], 
+      ["Harold Harrison", "acquaintance of x"]
+    ],
+    "John Morgan": [
+      ["Max Pike", "acquaintance of x, suspect of x"], 
+      ["Harold Harrison", "colleague of x"]
+    ],
+    "Harold Harrison": [
+      ["Max Pike", "acquaintance of x, suspect of x"], 
+      ["Marina Harrison", "spouse of x"]
+    ],
+    "Marina Harrison": [
+      ["Harold Harrison", "spouse of x"], 
+      ["Davis", "lover of x"]
+    ],
+    "Lucy Harrison": [
+      ["Max Pike", "acquaintance of x"], 
+      ["Harold Harrison", "father of x"]
+    ],
+    "Davis": [
+      ["Marina Harrison", "lover of x"]
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Zhang Jie": [
+      ["Li Guofu", "acquaintance of x, suspect of x"], 
+      ["Mu Bei", "rival of x"], 
+      ["He Laoliu", "friend of x"], 
+      ["Neighbor Wang", "acquaintance of x, helper of x"]
+    ],
+    "Li Guofu": [
+      ["Zhang Jie", "mentor of x"], 
+      ["He Laoliu", "friend of x"], 
+      ["Neighbor Wang", "acquaintance of x, helper of x"]
+    ],
+    "Mu Bei": [
+      ["Zhang Jie", "rival of x"], 
+      ["Li Guofu", "suspect of x"], 
+      ["He Laoliu", "friend of x"]
+    ],
+    "He Laoliu": [
+      ["Zhang Jie", "friend of x"], 
+      ["Li Guofu", "friend of x"], 
+      ["Mu Bei", "friend of x"]
+    ],
+    "Neighbor Wang": [
+      ["Zhang Jie", "acquaintance of x, helper of x"], 
+      ["Li Guofu", "acquaintance of x, helper of x"]
+    ]
+}

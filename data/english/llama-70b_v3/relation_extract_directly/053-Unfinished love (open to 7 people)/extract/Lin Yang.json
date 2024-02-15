@@ -1,0 +1,35 @@
+{
+    "Lin Yang": [
+      ["Lin Weiren", "suspect of x"], 
+      ["Lin Xi", "sister of x, patient of x"], 
+      ["Gu Qing", "suspect of x"], 
+      ["Su Yang", "rival of x, enemy of x"], 
+      ["Shen Cheng", "informant of x"], 
+      ["Private detective", "employee of x, helper of x"]
+    ],
+    "Lin Weiren": [
+      ["Lin Yang", "suspect of x"], 
+      ["Lin Xi", "daughter of x, patient of x"]
+    ],
+    "Lin Xi": [
+      ["Lin Yang", "brother of x"], 
+      ["Gu Qing", "friend of x"]
+    ],
+    "Gu Qing": [
+      ["Lin Yang", "suspect of x"], 
+      ["Lin Xi", "friend of x"], 
+      ["Su Yang", "fiance of x, rival of x"]
+    ],
+    "Su Yang": [
+      ["Lin Yang", "rival of x, enemy of x"], 
+      ["Lin Xi", "fiance of x, patient of x"]
+    ],
+    "Shen Cheng": [
+      ["Lin Yang", "informant of x"], 
+      ["Lin Weiren", "master of x, employer of x"]
+    ],
+    "Private detective": [
+      ["Lin Yang", "employee of x, helper of x"], 
+      ["Lin Weiren", "suspect of x"]
+    ]
+}

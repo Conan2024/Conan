@@ -1,0 +1,37 @@
+{
+    "Master Chen": [
+      ["Li Wangye (Lord Li)", "friend of x, business partner of x"], 
+      ["Fang Xu", "acquaintance of x, suspect of x, helper of x"], 
+      ["Li Yan", "helper of x"], 
+      ["Li Zhong", "helper of x"], 
+      ["Madam Li or Li Family", "wife of x, mother in law of x, victim of x"], 
+      ["Chen Qian", "daughter of x, victim of x"]
+    ],
+    "Li Wangye (Lord Li)": [
+      ["Master Chen", "friend of x, business partner of x"], 
+      ["Fang Xu", "subordinate of x, employee of x, perpetrator of x"], 
+      ["Li Yan", "son of x, helper of x"], 
+      ["Li Zhong", "son of x, helper of x"], 
+      ["Madam Li or Li Family", "wife of x, victim of x"]
+    ],
+    "Fang Xu": [
+      ["Master Chen", "acquaintance of x, suspect of x, perpetrator of x"], 
+      ["Li Wangye (Lord Li)", "subordinate of x, employee of x, victim of x"]
+    ],
+    "Li Yan": [
+      ["Master Chen", "helper of x"], 
+      ["Li Wangye (Lord Li)", "son of x, helper of x"]
+    ],
+    "Li Zhong": [
+      ["Master Chen", "helper of x"], 
+      ["Li Wangye (Lord Li)", "son of x, helper of x"]
+    ],
+    "Madam Li or Li Family": [
+      ["Master Chen", "wife of x, mother in law of x, victim of x"], 
+      ["Li Wangye (Lord Li)", "wife of x, victim of x"]
+    ],
+    "Chen Qian": [
+      ["Master Chen", "daughter of x, victim of x"], 
+      ["Li Wangye (Lord Li)", "daughter in law of x, victim of x"]
+    ]
+}

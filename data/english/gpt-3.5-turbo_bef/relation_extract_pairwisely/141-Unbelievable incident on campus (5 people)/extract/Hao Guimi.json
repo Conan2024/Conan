@@ -1,0 +1,42 @@
+{
+    "Hao Guimi": [
+      ["ZHANG EBA", "seeker of help from x"], 
+      ["Wang Xuexi", "classmate of x, informant of x"], 
+      ["Li Xiaodi", "friend of x, quest companion of x"], 
+      ["Zhao Shuaige", "friend of x, seeker of help from x"]
+    ],
+    "Cousin Sister": [
+      ["LIN XIAOHUA", "friend of x, unsuccessful helper of x"], 
+      ["Wang Xuexi", "cousin of x, admirer of x"], 
+      ["Zhao Shuaige", "classmate of x, friend of x"]
+    ],
+    "ZHANG EBA": [
+      ["Hao Guimi", "perpetrator of x, enemy of x"], 
+      ["LIN XIAOHUA", "romantic relationships with x, manipulated by x"], 
+      ["Wang Xuexi", "fiance of x, adversary of x"]
+    ],
+    "LIN XIAOHUA": [
+      ["Cousin Sister", "friend of x, helper of x"], 
+      ["ZHANG EBA", "victim of x, manipulator of x"], 
+      ["Wang Xuexi", "romantic relationships with x, informant of x"], 
+      ["Hao Guimi", "friend of x"]
+    ],
+    "Wang Xuexi": [
+      ["Hao Guimi", "classmate of x, informant of x"], 
+      ["Cousin Sister", "cousin of x, admired by x, mentor of x"], 
+      ["ZHANG EBA", "friend of x"], 
+      ["LIN XIAOHUA", "romantic relationships with x, information receiver from x"], 
+      ["Zhao Shuaige", "friend of x, quest companion of x"]
+    ],
+    "Li Xiaodi": [
+      ["Hao Guimi", "friend of x, quest companion of x"], 
+      ["LIN XIAOHUA", "helper of x"], 
+      ["Zhao Shuaige", "acquaintance of x"]
+    ],
+    "Zhao Shuaige": [
+      ["Hao Guimi", "helper of x, helped by x"], 
+      ["Cousin Sister", "classmate of x, friend of x"], 
+      ["Wang Xuexi", "friend of x, quest companion of x"], 
+      ["Li Xiaodi", "acquaintance of x"]
+    ]
+}

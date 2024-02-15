@@ -1,0 +1,118 @@
+{
+    "Jia Meili": [
+      ["Qin Expert", "acquaintance of x, classmate of x"], 
+      ["Qin Laoda", "acquaintance of x, classmate of x"], 
+      ["Wei Xiaodi", "friend of x, classmate of x"], 
+      ["Wei Xiaodi's Father", "acquaintance of x"], 
+      ["Wei Xiaodi's Mother", "same person as x (different identity)"], 
+      ["Xiao Tiyu", "friend of x, acquaintance of x"], 
+      ["Xue Meiniang", "wife of x"], 
+      ["Zheng Youhao", "friend of x, classmate of x"], 
+      ["Zhuang Qingchun", "friend of x, classmate of x"], 
+      ["Zhuang Qingchun's Mother", "friend of x, classmate of x"]
+    ],
+    "Qin Expert": [
+      ["Jia Meili", "acquaintance of x, classmate of x"], 
+      ["Qin Laoda", "father of x, murderer of x"], 
+      ["Wei Xiaodi's Father", "same person as x (different identity), same person as x (different reference)"], 
+      ["Wei Xiaodi's Mother", "victim of x"], 
+      ["Xiao Tiyu", "father of x, murderer of x"], 
+      ["Xue Meiniang", "wife of x"], 
+      ["Zheng Youhao", "father of x, murderer of x"], 
+      ["Zhuang Qingchun's Mother", "same person as x (different reference)"]
+    ],
+    "Qin Laoda": [
+      ["Jia Meili", "acquaintance of x, classmate of x"], 
+      ["Qin Expert", "son of x, victim of x"], 
+      ["Wei Xiaodi", "friend of x, acquaintance of x"], 
+      ["Wei Xiaodi's Father", "friend of x, acquaintance of x"], 
+      ["Wei Xiaodi's Mother", "friend of x, classmate of x"], 
+      ["Xiao Tiyu", "friend of x, classmate of x"], 
+      ["Xue Meiniang", "friend of x"], 
+      ["Zheng Youhao", "friend of x, classmate of x"], 
+      ["Zhuang Qingchun", "friend of x, classmate of x"], 
+      ["Zhuang Qingchun's Mother", "friend of x, classmate of x"]
+    ],
+    "Wei Xiaodi": [
+      ["Jia Meili", "friend of x, classmate of x"], 
+      ["Qin Laoda", "friend of x, acquaintance of x"], 
+      ["Wei Xiaodi's Father", "friend of x, classmate of x"], 
+      ["Wei Xiaodi's Mother", "friend of x, classmate of x"], 
+      ["Xiao Tiyu", "friend of x, acquaintance of x"], 
+      ["Xue Meiniang", "classmate of x"], 
+      ["Zheng Youhao", "friend of x, acquaintance of x"], 
+      ["Zhuang Qingchun", "friend of x, acquaintance of x"], 
+      ["Zhuang Qingchun's Mother", "friend of x, classmate of x"]
+    ],
+    "Wei Xiaodi's Father": [
+      ["Jia Meili", "acquaintance of x"], 
+      ["Qin Expert", "father of x, same person as x (different identity)"], 
+      ["Qin Laoda", "friend of x, acquaintance of x"], 
+      ["Wei Xiaodi", "father of x, mentor of x"], 
+      ["Wei Xiaodi's Mother", "husband of x, father of x"], 
+      ["Xiao Tiyu", "friend of x, acquaintance of x"], 
+      ["Zheng Youhao", "friend of x, acquaintance of x, classmate of x"], 
+      ["Zhuang Qingchun", "friend of x, acquaintance of x"], 
+      ["Zhuang Qingchun's Mother", "same person as x (different reference), same person as x (different identity)"]
+    ],
+    "Wei Xiaodi's Mother": [
+      ["Jia Meili", "same person as x (different identity)"], 
+      ["Qin Expert", "victim of x"], 
+      ["Qin Laoda", "fiancee of x"], 
+      ["Wei Xiaodi", "mother of x"], 
+      ["Wei Xiaodi's Father", "wife of x, mother of x"], 
+      ["Xue Meiniang", "mother of x"], 
+      ["Zhuang Qingchun's Mother", "same person as x (different reference), same person as x (different identity)"]
+    ],
+    "Xiao Tiyu": [
+      ["Jia Meili", "friend of x, acquaintance of x"], 
+      ["Qin Expert", "son of x, victim of x"], 
+      ["Qin Laoda", "friend of x, classmate of x"], 
+      ["Wei Xiaodi", "friend of x, acquaintance of x"], 
+      ["Wei Xiaodi's Father", "friend of x, acquaintance of x"], 
+      ["Xue Meiniang", "wife of x, fiancee of x"], 
+      ["Zheng Youhao", "friend of x, classmate of x"], 
+      ["Zhuang Qingchun", "friend of x, classmate of x"]
+    ],
+    "Xue Meiniang": [
+      ["Jia Meili", "husband of x"], 
+      ["Qin Expert", "husband of x"], 
+      ["Qin Laoda", "friend of x"], 
+      ["Wei Xiaodi", "classmate of x"], 
+      ["Wei Xiaodi's Mother", "mother of x"], 
+      ["Xiao Tiyu", "husband of x, fiance of x"], 
+      ["Zheng Youhao", "friend of x, classmate of x"], 
+      ["Zhuang Qingchun", "friend of x, classmate of x"]
+    ],
+    "Zheng Youhao": [
+      ["Jia Meili", "friend of x, classmate of x"], 
+      ["Qin Expert", "son of x, victim of x"], 
+      ["Qin Laoda", "friend of x, classmate of x"], 
+      ["Wei Xiaodi", "friend of x, acquaintance of x"], 
+      ["Wei Xiaodi's Father", "friend of x, acquaintance of x, classmate of x"], 
+      ["Xiao Tiyu", "friend of x, classmate of x"], 
+      ["Xue Meiniang", "friend of x, classmate of x"], 
+      ["Zhuang Qingchun", "classmate of x, acquaintance of x"], 
+      ["Zhuang Qingchun's Mother", "same person as x (different reference), same person as x (different identity), co wives of x, manipulator of x, manipulated by x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x"]
+    ],
+    "Zhuang Qingchun": [
+      ["Jia Meili", "friend of x, classmate of x"], 
+      ["Qin Laoda", "friend of x, classmate of x"], 
+      ["Wei Xiaodi", "friend of x, acquaintance of x"], 
+      ["Wei Xiaodi's Father", "friend of x, acquaintance of x"], 
+      ["Xiao Tiyu", "friend of x, classmate of x"], 
+      ["Xue Meiniang", "friend of x, classmate of x"], 
+      ["Zheng Youhao", "classmate of x, acquaintance of x"], 
+      ["Zhuang Qingchun's Mother", "friend of x, acquaintance of x"]
+    ],
+    "Zhuang Qingchun's Mother": [
+      ["Jia Meili", "mother of x, relative of x"], 
+      ["Qin Expert", "same person as x (different reference)"], 
+      ["Qin Laoda", "friend of x, classmate of x"], 
+      ["Wei Xiaodi", "friend of x, classmate of x"], 
+      ["Wei Xiaodi's Father", "same person as x (different reference), same person as x (different identity)"], 
+      ["Wei Xiaodi's Mother", "same person as x (different reference), same person as x (different identity)"], 
+      ["Zheng Youhao", "same person as x (different reference), same person as x (different identity), co wives of x, manipulator of x, manipulated by x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x"], 
+      ["Zhuang Qingchun", "mother of x, wife of x"]
+    ]
+}

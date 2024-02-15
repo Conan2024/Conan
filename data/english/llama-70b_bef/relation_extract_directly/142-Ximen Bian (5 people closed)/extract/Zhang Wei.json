@@ -1,0 +1,41 @@
+{
+    "Zhang Wei": [
+      ["Zhao ZHONGYANG", "suspicious of x"], 
+      ["Chen Meier", "acquaintance of x"], 
+      ["Li Cheng", "friend of x"], 
+      ["Zhao San", "master of x"], 
+      ["Ma Laoban", "business partner of x, deceiver of x"]
+    ],
+    "Zhao ZHONGYANG": [
+      ["Zhang Wei", "suspicious of x"], 
+      ["Zhao ZHONGZHENG", "father of x"], 
+      ["Chen Meier", "acquaintance of x"], 
+      ["Li Cheng", "friend of x"], 
+      ["Zhao San", "son of x"]
+    ],
+    "Zhao ZHONGZHENG": [
+      ["Zhang Wei", "suspicious of x"], 
+      ["Zhao ZHONGYANG", "son of x"], 
+      ["Chen Meier", "acquaintance of x"], 
+      ["Li Cheng", "friend of x"]
+    ],
+    "Chen Meier": [
+      ["Zhang Wei", "acquaintance of x"], 
+      ["Zhao ZHONGYANG", "acquaintance of x"], 
+      ["Zhao ZHONGZHENG", "acquaintance of x"]
+    ],
+    "Li Cheng": [
+      ["Zhang Wei", "friend of x"], 
+      ["Zhao ZHONGYANG", "friend of x"], 
+      ["Zhao ZHONGZHENG", "friend of x"]
+    ],
+    "Zhao San": [
+      ["Zhang Wei", "master of x"], 
+      ["Zhao ZHONGYANG", "son of x"], 
+      ["Zhao ZHONGZHENG", "son of x"]
+    ],
+    "Ma Laoban": [
+      ["Zhang Wei", "business partner of x"], 
+      ["Zhao San", "master of x"]
+    ]
+}

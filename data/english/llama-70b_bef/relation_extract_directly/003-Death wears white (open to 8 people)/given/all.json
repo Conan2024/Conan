@@ -1,0 +1,38 @@
+{
+    "Andrew Paloski": [
+      ["Tony", "brother of x"], 
+      ["Father Tom", "acquaintance of x, deceiver of x"], 
+      ["Dr. Paloski", "colleague of x, doctor of x"], 
+      ["Drake Li Morette", "acquaintance of x, doctor of x"], 
+      ["Elaine Carter", "acquaintance of x"], 
+      ["Hans Li Morette", "acquaintance of x, doctor of x, rival of x"], 
+      ["Sylvia Costa", "acquaintance of x"]
+    ],
+    "Tony": [
+      ["Frank Bijeli", "brother of x"], 
+      ["Father Tom", "acquaintance of x"]
+    ],
+    "Father Tom": [
+      ["Andrew Paloski", "acquaintance of x"]
+    ],
+    "Hans Li Morette": [
+      ["Andrew Paloski", "acquaintance of x, doctor of x, rival of x"], 
+      ["Drake Li Morette", "brother of x"]
+    ],
+    "Drake Li Morette": [
+      ["Hans Li Morette", "brother of x"], 
+      ["Andrew Paloski", "acquaintance of x, doctor of x"]
+    ],
+    "Elaine Carter": [
+      ["Andrew Paloski", "acquaintance of x"]
+    ],
+    "Sylvia Costa": [
+      ["Andrew Paloski", "acquaintance of x"]
+    ],
+    "Dean Berkeley": [
+      ["Andrew Paloski", "acquaintance of x"]
+    ],
+    "Gale Li Morette": [
+      ["Hans Li Morette", "wife of x, lawyer of x"]
+    ]
+}

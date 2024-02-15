@@ -1,0 +1,31 @@
+{
+    "Zhao Shuaige": [
+      ["Hao Guimi", "friend of x, acquaintance of x"], 
+      ["Zhang Eba", "enemy of x, rival of x"], 
+      ["Lin Xiaohua", "classmate of x"], 
+      ["Wang Xuexi", "friend of x, classmate of x"], 
+      ["Li Xiaodi", "friend of x, classmate of x"], 
+      ["Zhang Eba", "suspect of x, murderer of x"]
+    ],
+    "Hao Guimi": [
+      ["Zhao Shuaige", "friend of x, acquaintance of x"], 
+      ["Zhang Eba", "friend of x, acquaintance of x"]
+    ],
+    "Zhang Eba": [
+      ["Zhao Shuaige", "suspect of x, murderer of x"], 
+      ["Lin Xiaohua", "suspect of x, victim of x"]
+    ],
+    "Lin Xiaohua": [
+      ["Zhang Eba", "fiance of x, classmate of x"], 
+      ["Zhao Shuaige", "classmate of x"], 
+      ["Zhao Shuaige", "suspect of x, victim of x"]
+    ],
+    "Wang Xuexi": [
+      ["Zhao Shuaige", "friend of x, classmate of x"], 
+      ["Zhang Eba", "friend of x, classmate of x"]
+    ],
+    "Li Xiaodi": [
+      ["Zhao Shuaige", "friend of x, classmate of x"], 
+      ["Zhang Eba", "friend of x, classmate of x"]
+    ]
+}

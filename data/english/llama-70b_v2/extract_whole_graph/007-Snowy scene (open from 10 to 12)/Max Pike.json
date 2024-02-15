@@ -1,0 +1,34 @@
+{
+    "Max Pike": [
+      ["Joe Robertson", "friend of x, skiing partner of x"], 
+      ["Kristin Dunn", "acquaintance of x, potential love interest of x"], 
+      ["Harold Harrison", "acquaintance of x, suspicious of x"], 
+      ["Marina Harrison", "acquaintance of x, suspects of x having an affair with davis"], 
+      ["Lucy Harrison", "acquaintance of x, knows secrets from diary of x"]
+    ],
+    "Joe Robertson": [
+      ["Max Pike", "friend of x, skiing partner of x"], 
+      ["Kristin Dunn", "acquaintance of x"]
+    ],
+    "Kristin Dunn": [
+      ["Max Pike", "acquaintance of x, potential love interest of x"], 
+      ["Joe Robertson", "acquaintance of x"]
+    ],
+    "Harold Harrison": [
+      ["Max Pike", "acquaintance of x, suspicious of x"], 
+      ["Marina Harrison", "spouse of x"]
+    ],
+    "Marina Harrison": [
+      ["Harold Harrison", "spouse of x"], 
+      ["Max Pike", "acquaintance of x, suspects of x having an affair with davis"], 
+      ["Davis", "acquaintance of x, potential lover of x"]
+    ],
+    "Lucy Harrison": [
+      ["Max Pike", "acquaintance of x, knows secrets from diary of x"], 
+      ["Harold Harrison", "parent of x"], 
+      ["Marina Harrison", "parent of x"]
+    ],
+    "Davis": [
+      ["Marina Harrison", "acquaintance of x, potential lover of x"]
+    ]
+}

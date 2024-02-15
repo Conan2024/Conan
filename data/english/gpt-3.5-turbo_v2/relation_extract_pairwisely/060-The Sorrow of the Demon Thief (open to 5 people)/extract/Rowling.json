@@ -1,0 +1,32 @@
+{
+    "Gust": [
+      ["David", "employee of x"], 
+      ["Kevin", "brother of x gust"], 
+      ["Ella", "fiancée of x gust"], 
+      ["Griff", "helper of x griff, suspected by griff of x"]
+    ],
+    "David": [
+      ["Gust", "co worker of x"], 
+      ["Kevin", "friend of x"], 
+      ["Ella", "romantic relationships with ella of x"], 
+      ["Griff", "romantic relationships with x"]
+    ],
+    "Kevin": [
+      ["Gust", "mentor of x kevin"], 
+      ["David", "friend of x"], 
+      ["Ella", "brother of x"], 
+      ["Griff", "brother of x"]
+    ],
+    "Ella": [
+      ["Gust", "romantic relationship with gust of x"], 
+      ["David", "romantic relationships with david of x"], 
+      ["Kevin", "sister of x"], 
+      ["Griff", "friend of x"]
+    ],
+    "Griff": [
+      ["Gust", "information receiver from gust of x, suspect of x gust"], 
+      ["David", "romantic relationships with x"], 
+      ["Kevin", "brother of x"], 
+      ["Ella", "person of x interest to x, unknown relationship with x"]
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "Hao Guimi": [
+      ["Zhang Eba", "acquaintance of x, suspect of x"], 
+      ["Lin Xiaohua", "friend of x, accomplice of x"]
+    ],
+    "Zhang Eba": [
+      ["Hao Guimi", "acquaintance of x, suspect of x"], 
+      ["Wang Xuexi", "friend of x, accomplice of x"]
+    ],
+    "Lin Xiaohua": [
+      ["Hao Guimi", "friend of x, accomplice of x"], 
+      ["Zhang Eba", "fiance of x, suspect of x"]
+    ],
+    "Wang Xuexi": [
+      ["Zhang Eba", "friend of x, accomplice of x"]
+    ],
+    "Zhao Shuai": [
+      ["Zhang Eba", "friend of x, accomplice of x"]
+    ],
+    "Li Xiaodi": [
+      ["Hao Guimi", "friend of x"], 
+      ["Zhang Eba", "friend of x"]
+    ]
+}

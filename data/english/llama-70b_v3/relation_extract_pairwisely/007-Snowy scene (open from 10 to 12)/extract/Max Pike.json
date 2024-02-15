@@ -1,0 +1,58 @@
+{
+    "Max Pike": [
+      ["Joe Robertson", "business partner of x"], 
+      ["Kristin Dunn", "husband of x, lover of x"], 
+      ["Harold Harrison", "colleague of x, business partner of x"], 
+      ["Marina Harrison", "friend of x, suspect of x"], 
+      ["Lucy Harrison", "friend of x, business partner of x"], 
+      ["Daniel", "friend of x, business partner of x"]
+    ],
+    "Joe Robertson": [
+      ["Max Pike", "business partner of x"], 
+      ["Kristin Dunn", "friend of x, business partner of x"], 
+      ["Harold Harrison", "business partner of x"], 
+      ["Marina Harrison", "business partner of x"], 
+      ["Lucy Harrison", "friend of x, business partner of x"], 
+      ["Daniel", "friend of x, business partner of x"]
+    ],
+    "Kristin Dunn": [
+      ["Max Pike", "wife of x, lover of x"], 
+      ["Joe Robertson", "friend of x, business partner of x"], 
+      ["Harold Harrison", "wife of x, co wives of x"], 
+      ["Marina Harrison", "friend of x, business partner of x"], 
+      ["Lucy Harrison", "friend of x, business partner of x"], 
+      ["Daniel", "wife of x, friend of x"]
+    ],
+    "Harold Harrison": [
+      ["Max Pike", "colleague of x, business partner of x"], 
+      ["Joe Robertson", "business partner of x"], 
+      ["Kristin Dunn", "husband of x, co wives of x"], 
+      ["Marina Harrison", "suspicious of x"], 
+      ["Lucy Harrison", "father of x, husband of x"], 
+      ["Daniel", "acquaintance of x, colleague of x"]
+    ],
+    "Marina Harrison": [
+      ["Max Pike", "friend of x, suspect of x"], 
+      ["Joe Robertson", "business partner of x"], 
+      ["Kristin Dunn", "friend of x, business partner of x"], 
+      ["Harold Harrison", "suspicious of x"], 
+      ["Lucy Harrison", "mother of x, wife of x"], 
+      ["Daniel", "wife of x, romantic relationships with x"]
+    ],
+    "Lucy Harrison": [
+      ["Max Pike", "friend of x, business partner of x"], 
+      ["Joe Robertson", "friend of x, business partner of x"], 
+      ["Kristin Dunn", "friend of x, business partner of x"], 
+      ["Harold Harrison", "daughter of x, wife of x"], 
+      ["Marina Harrison", "daughter of x, sibling of x"], 
+      ["Daniel", "friend of x"]
+    ],
+    "Daniel": [
+      ["Max Pike", "friend of x, business partner of x"], 
+      ["Joe Robertson", "friend of x, business partner of x"], 
+      ["Kristin Dunn", "husband of x, friend of x"], 
+      ["Harold Harrison", "acquaintance of x, colleague of x"], 
+      ["Marina Harrison", "husband of x, romantic relationships with x"], 
+      ["Lucy Harrison", "friend of x"]
+    ]
+}

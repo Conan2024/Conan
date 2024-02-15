@@ -1,0 +1,81 @@
+{
+    "Mu Bei": [
+        [
+            "Li Guofu",
+            "colleague",
+            "suspect",
+            "acquaintance",
+            "friend",
+            "confidant",
+            "adversary",
+            "manipulator",
+            "deceiver",
+            "betrayer"
+        ],
+        [
+            "He Laoliu",
+            "Colleague",
+            "Suspect",
+            "Acquaintance",
+            "Helper"
+        ],
+        [
+            "ZHANG JIE",
+            "Colleague",
+            "Friend",
+            "Suspicious",
+            "Adversary"
+        ]
+    ],
+    "Li Guofu": [
+        [
+            "Mu Bei",
+            "colleague",
+            "suspect",
+            "acquaintance",
+            "friend",
+            "confidant",
+            "adversary",
+            "manipulator",
+            "deceiver"
+        ],
+        [
+            "He Laoliu",
+            "Colleague of X",
+            "Suspicious of X"
+        ],
+        [
+            "ZHANG JIE",
+            "Colleague of X",
+            "Friend of X"
+        ]
+    ],
+    "He Laoliu": [
+        [
+            "Mu Bei",
+            "Colleague",
+            "Suspect",
+            "Acquaintance",
+            "Helper"
+        ],
+        [
+            "Li Guofu",
+            "Colleague of X",
+            "Suspect of X"
+        ]
+    ],
+    "ZHANG JIE": [
+        [
+            "Mu Bei",
+            "Colleague",
+            "Friend",
+            "Suspicious",
+            "Adversary"
+        ],
+        [
+            "Li Guofu",
+            "Colleague of X",
+            "Friend of X"
+        ]
+    ]
+}

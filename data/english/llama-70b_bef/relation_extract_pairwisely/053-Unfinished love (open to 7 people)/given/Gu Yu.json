@@ -1,0 +1,51 @@
+{
+    "Chen Jingwen": [
+      ["Gu Qing", "wife of x"], 
+      ["Lin Weiren", "wife of x, extramarital affair with x, romantic relationships with x, ex romantic relationships with x"], 
+      ["Qin Siqin", "wife of x, same person as x (different identity)"], 
+      ["Zheng Xinmei", "daughter of x"]
+    ],
+    "Gu Qing": [
+      ["Chen Jingwen", "husband of x"], 
+      ["Gu Minghe", "sibling of x"], 
+      ["Gu Yu", "sister of x"], 
+      ["Lin Weiren", "same person as x (different identity), same person as x (different reference)"], 
+      ["Qin Siqin", "sister in law of x"], 
+      ["Su Yang", "wife of x, fiancee of x"], 
+      ["Zheng Xinmei", "sister of x, informant of x"]
+    ],
+    "Gu Yu": [
+      ["Gu Minghe", "son of x, employee of x"], 
+      ["Gu Qing", "sister of x, acquaintance of x"], 
+      ["Su Yang", "friend of x"]
+    ],
+    "Lin Weiren": [
+      ["Chen Jingwen", "husband of x, fiance of x, fiancee of x, co wives of x"], 
+      ["Gu Minghe", "superior of x, employer of x, master of x, subordinate of x, employee of x"], 
+      ["Gu Qing", "husband of x, father of x"], 
+      ["Zheng Xinmei", "superior of x, employer of x"]
+    ],
+    "Lin Xi": [
+      ["Su Yang", "ex romantic relationships with x"]
+    ],
+    "Qin Siqin": [
+      ["Chen Jingwen", "husband of x, same person as x (different reference)"], 
+      ["Gu Qing", "brother in law of x"]
+    ],
+    "Su Yang": [
+      ["Gu Qing", "husband of x, fiance of x"], 
+      ["Gu Yu", "friend of x"], 
+      ["Lin Xi", "romantic relationships with x, fiance of x"]
+    ],
+    "Zheng Xinmei": [
+      ["Chen Jingwen", "mother of x, victim of x"], 
+      ["Gu Qing", "mother of x, victim of x"], 
+      ["Lin Weiren", "subordinate of x, employee of x"], 
+      ["Lin Xi", "victim of x"]
+    ],
+    "Gu Minghe": [
+      ["Gu Qing", "sibling of x"], 
+      ["Gu Yu", "father of x, employer of x, master of x"], 
+      ["Lin Weiren", "superior of x, employer of x, master of x, subordinate of x, employee of x"]
+    ]
+}

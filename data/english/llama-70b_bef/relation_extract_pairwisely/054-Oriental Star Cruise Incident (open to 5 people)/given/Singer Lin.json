@@ -1,0 +1,56 @@
+{
+    "Han Yimu": [
+      ["Hong Zilian", "lover of x"], 
+      ["Lin Ruotong", "rival of x, enemy of x"], 
+      ["Liu Qi", "rival of x, enemy of x"], 
+      ["Singer Lin", "rival of x, enemy of x"], 
+      ["Zhang Wenyuan", "acquaintance of x"]
+    ],
+    "Hong Zilian": [
+      ["Han Yimu", "lover of x"], 
+      ["Lin Ruotong", "lover of x"], 
+      ["Liu Qi", "boyfriend of x"], 
+      ["Singer Lin", "lover of x"], 
+      ["Xiu Renjie", "lover of x"], 
+      ["Zhang Wenyuan", "lover of x"]
+    ],
+    "Lin Ruotong": [
+      ["Han Yimu", "rival of x, enemy of x"], 
+      ["Hong Zilian", "lover of x"], 
+      ["Liu Qi", "wife of x, ex romantic relationships with x"], 
+      ["Singer Lin", "lover of x"], 
+      ["Xiu Renjie", "superior of x, employer of x"], 
+      ["Zhang Wenyuan", "acquaintance of x"]
+    ],
+    "Liu Qi": [
+      ["Han Yimu", "rival of x, enemy of x"], 
+      ["Hong Zilian", "girlfriend of x"], 
+      ["Lin Ruotong", "husband of x, ex romantic relationships with x"], 
+      ["Singer Lin", "debtor of x"], 
+      ["Xiu Renjie", "superior of x, employer of x, master of x"], 
+      ["Zhang Wenyuan", "friend of x, acquaintance of x"]
+    ],
+    "Singer Lin": [
+      ["Han Yimu", "rival of x, enemy of x"], 
+      ["Hong Zilian", "lover of x"], 
+      ["Lin Ruotong", "lover of x"], 
+      ["Liu Qi", "debtor of x"], 
+      ["Xiu Renjie", "friend of x"], 
+      ["Zhang Wenyuan", "acquaintance of x, colleague of x"]
+    ],
+    "Xiu Renjie": [
+      ["Hong Zilian", "acquaintance of x"], 
+      ["Lin Ruotong", "superior of x, employer of x"], 
+      ["Liu Qi", "superior of x, employer of x, master of x"], 
+      ["Singer Lin", "friend of x"], 
+      ["Zhang Wenyuan", "friend of x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Han Yimu", "acquaintance of x"], 
+      ["Hong Zilian", "lover of x"], 
+      ["Lin Ruotong", "acquaintance of x"], 
+      ["Liu Qi", "friend of x, acquaintance of x"], 
+      ["Singer Lin", "acquaintance of x, colleague of x"], 
+      ["Xiu Renjie", "friend of x"]
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Han Yimu": [
+      ["Liu Qi", "dislike of x"], 
+      ["Hong Zilian", "hate of x"], 
+      ["Han Chengwu (Han the Attendant or Han the Crew Member)", "hate of x, attempted murderer of x"]
+    ],
+    "Liu Qi": [
+      ["Han Chengwu", "hated by x"]
+    ],
+    "Xiu Renjie": [
+      ["Lin Ruotong", "romantic relationships with x, ex romantic relationships with x"], 
+      ["Hong Zilian", "friend of x"]
+    ],
+    "Lin Ruotong": [
+      ["Xiu Renjie", "romantic relationships with x, ex romantic relationships with x"], 
+      ["Hong Zilian", "acquaintance of x"]
+    ],
+    "Hong Zilian": [
+      ["Han Yimu", "enemy of x"], 
+      ["Liu Qi", "hate of x"], 
+      ["Xiu Renjie", "acquaintance of x"], 
+      ["Lin Ruotong", "acquaintance of x"], 
+      ["Zhang Wenyuan", "colleague of x"], 
+      ["Han Chengwu (Han the Attendant or Han the Crew Member)", "fiance of x, disliked by x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Hong Zilian", "colleague of x"], 
+      ["Han Chengwu (Han the Attendant or Han the Crew Member)", "informant of x"]
+    ],
+    "Han Chengwu (Han the Attendant or Han the Crew Member)": [
+      ["Liu Qi", "dislike of x"], 
+      ["Lin Ruotong", "suspect of x"], 
+      ["Hong Zilian", "fiance of x, disliked by x"], 
+      ["Zhang Wenyuan", "admired by x, liked by x, fondness of x"]
+    ]
+}

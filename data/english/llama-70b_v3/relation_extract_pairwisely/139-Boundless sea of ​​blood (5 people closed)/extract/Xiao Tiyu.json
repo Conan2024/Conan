@@ -1,0 +1,32 @@
+{
+    "Xiao Tiyu": [
+      ["Xue Meiniang", "wife of x, lover of x"], 
+      ["Zhuang Qingchun", "same person as x (different reference), romantic relationships with x"], 
+      ["Jia Meili", "adversary of x, enemy of x"], 
+      ["Qin Laoda", "friend of x, mentor of x"]
+    ],
+    "Xue Meiniang": [
+      ["Xiao Tiyu", "husband of x, lover of x"], 
+      ["Zhuang Qingchun", "wife of x, lover of x"], 
+      ["Jia Meili", "wife of x"], 
+      ["Qin Laoda", "wife of x"]
+    ],
+    "Zhuang Qingchun": [
+      ["Xiao Tiyu", "same person as x (different reference), romantic relationships with x"], 
+      ["Xue Meiniang", "husband of x, lover of x"], 
+      ["Jia Meili", "friend of x, classmate of x"], 
+      ["Qin Laoda", "same person as x (different reference), same person as x (different identity)"]
+    ],
+    "Jia Meili": [
+      ["Xiao Tiyu", "adversary of x, enemy of x"], 
+      ["Xue Meiniang", "husband of x"], 
+      ["Zhuang Qingchun", "friend of x, classmate of x"], 
+      ["Qin Laoda", "perpetrator of x, victim of x"]
+    ],
+    "Qin Laoda": [
+      ["Xiao Tiyu", "friend of x, mentor of x"], 
+      ["Xue Meiniang", "husband of x"], 
+      ["Zhuang Qingchun", "same person as x (different reference), same person as x (different identity)"], 
+      ["Jia Meili", "victim of x, perpetrator of x"]
+    ]
+}

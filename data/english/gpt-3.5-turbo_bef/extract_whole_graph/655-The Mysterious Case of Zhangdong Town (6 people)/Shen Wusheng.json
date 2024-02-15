@@ -1,0 +1,52 @@
+{
+    "Shen Wusheng": [
+      ["Minxi", "employer of x"], 
+      ["Caiya", "wife of x"], 
+      ["Boss Zhang", "friend of x"], 
+      ["Gu Chumeng", "colleague of x"], 
+      ["Yang Shuixun", "friend of x, future father in law of x"], 
+      ["Lan Rui", "guest of x"], 
+      ["Xiting", "informant of x, employer of x"]
+    ],
+    "Minxi": [
+      ["Yang Shuixun", "father of x"], 
+      ["Shen Wusheng", "employee of x"], 
+      ["Boss Zhang", "host of x"], 
+      ["Gu Chumeng", "lover of x"], 
+      ["Lan Rui", "friend of x, guest of x"], 
+      ["Xiting", "informant of x, friend of x"]
+    ],
+    "Caiya": [
+      ["Shen Wusheng", "husband of x"]
+    ],
+    "Boss Zhang": [
+      ["Shen Wusheng", "friend of x"], 
+      ["Lan Rui", "customer of x"]
+    ],
+    "Gu Chumeng": [
+      ["Shen Wusheng", "colleague of x"], 
+      ["Minxi", "lover of x"], 
+      ["Yang Shuixun", "enemy of x"], 
+      ["Lan Rui", "business partner of x"], 
+      ["Xiting", "colleague of x"]
+    ],
+    "Yang Shuixun": [
+      ["Shen Wusheng", "friend of x, future son in law of x"], 
+      ["Minxi", "daughter of x"], 
+      ["Gu Chumeng", "enemy of x"], 
+      ["Lan Rui", "guest of x"], 
+      ["Xiting", "informant of x"]
+    ],
+    "Lan Rui": [
+      ["Shen Wusheng", "guest of x"], 
+      ["Minxi", "friend of x, guest of x"], 
+      ["Boss Zhang", "guest of x"], 
+      ["Gu Chumeng", "business partner of x"]
+    ],
+    "Xiting": [
+      ["Shen Wusheng", "informant of x, employer of x"], 
+      ["Minxi", "informant of x, friend of x"], 
+      ["Gu Chumeng", "colleague of x"], 
+      ["Lan Rui", "friend of x"]
+    ]
+}

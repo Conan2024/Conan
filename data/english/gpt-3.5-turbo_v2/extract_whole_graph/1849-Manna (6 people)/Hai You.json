@@ -1,0 +1,73 @@
+{
+    "Hai You": [
+      ["Hai You", "same person as lv caiqian (different identity) of x"], 
+      ["Hai You", "same person as a ping (different identity) of x"], 
+      ["Hai You", "adopted daughter of x luo mingsha"], 
+      ["Hai You", "admired by lv mingran of x"], 
+      ["Hai You", "admired by tan renchang of x"], 
+      ["Hai You", "child of x wei yangfeng"], 
+      ["Hai You", "child of x zhou shi"], 
+      ["Hai You", "niece of x wei yangyao"], 
+      ["Hai You", "maid of x mrs, tan of x"], 
+      ["Hai You", "guest of x tan mansion"], 
+      ["Hai You", "acquaintance of x shang zhi"], 
+      ["Hai You", "foster sister of x shang zhi"], 
+      ["Hai You", "ex romantic relationships with shang zhi"], 
+      ["Hai You", "foster sister of x cheng ge"], 
+      ["Hai You", "ex romantic relationships with cheng ge"], 
+      ["Hai You", "hater of x tan renchang"], 
+      ["Hai You", "murderer of x tan renchang"], 
+      ["Hai You", "murderer of x lv mingran"], 
+      ["Hai You", "murderer of x woman"]
+    ],
+    "Wei Yangfeng": [
+      ["Wei Yangfeng", "father of x hai you"]
+    ],
+    "Zhou Shi": [
+      ["Zhou Shi", "mother of x hai you"]
+    ],
+    "Lv Caiqian": [
+      ["Hai You", "same person as lv caiqian (different identity) of x"], 
+      ["Hai You", "daughter in law of x lv caiqian"], 
+      ["Hai You", "disliked by lv caiqian of x"], 
+      ["Hai You", "wife of x wei yangyao"], 
+      ["Wei Yangyao", "husband of x lv caiqian"]
+    ],
+    "Wei Yangyao": [
+      ["Hai You", "niece of x wei yangyao"], 
+      ["Lv Caiqian", "husband of x wei yangyao"]
+    ],
+    "Luo Mingsha": [
+      ["Hai You", "adopted daughter of x luo mingsha"]
+    ],
+    "Tan Renchang": [
+      ["Hai You", "admired by tan renchang of x"], 
+      ["Lv Mingran", "maid of x tan renchang"], 
+      ["Hai You", "murderer of x tan renchang"], 
+      ["Hai You", "murderer of x lv mingran"], 
+      ["Woman", "lover of x tan renchang"]
+    ],
+    "Lv Mingran": [
+      ["Hai You", "admired by lv mingran of x"], 
+      ["Tan Renchang", "maid of x lv mingran"], 
+      ["Hai You", "murderer of x lv mingran"]
+    ],
+    "A Ping": [
+      ["Hai You", "same person as a ping (different identity) of x"], 
+      ["Hai You", "maid of x mrs, tan of x"]
+    ],
+    "Shang Zhi": [
+      ["Hai You", "acquaintance of x shang zhi"], 
+      ["Hai You", "foster sister of x shang zhi"], 
+      ["Shang Zhi", "half brother of x hai you"], 
+      ["Hai You", "ex romantic relationships with shang zhi"]
+    ],
+    "Cheng Ge": [
+      ["Hai You", "foster sister of x cheng ge"], 
+      ["Hai You", "ex romantic relationships with cheng ge"]
+    ],
+    "Woman": [
+      ["Hai You", "murderer of x woman"], 
+      ["Tan Renchang", "lover of x woman"]
+    ]
+}

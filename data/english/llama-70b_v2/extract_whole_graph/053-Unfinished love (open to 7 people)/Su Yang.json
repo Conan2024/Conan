@@ -1,0 +1,36 @@
+{
+    "Su Yang": [
+      ["Lin Xi", "fiance of x, lover of x"], 
+      ["Lin Tong", "mother of x, deceased of x"], 
+      ["Dean Lin", "master of x, superior of x"], 
+      ["Gu Qing", "ex girlfriend, rival of x"], 
+      ["Shen Cheng", "housekeeper of x, acquaintance of x"]
+    ],
+    "Lin Xi": [
+      ["Su Yang", "fiance of x, lover of x"], 
+      ["Lin Tong", "mother of x, deceased of x"], 
+      ["Dean Lin", "father of x, superior of x"], 
+      ["Gu Qing", "sister of x, rival of x"]
+    ],
+    "Lin Tong": [
+      ["Su Yang", "boyfriend of x, lover of x"], 
+      ["Lin Xi", "daughter of x, deceased of x"], 
+      ["Dean Lin", "husband of x, superior of x"], 
+      ["Shen Cheng", "housekeeper of x, acquaintance of x"]
+    ],
+    "Dean Lin": [
+      ["Su Yang", "student of x, subordinate of x"], 
+      ["Lin Xi", "daughter of x, superior of x"], 
+      ["Lin Tong", "wife of x, deceased of x"], 
+      ["Shen Cheng", "housekeeper of x, acquaintance of x"]
+    ],
+    "Gu Qing": [
+      ["Su Yang", "ex boyfriend, rival of x"], 
+      ["Lin Xi", "sister of x, rival of x"]
+    ],
+    "Shen Cheng": [
+      ["Su Yang", "acquaintance of x, suspect of x"], 
+      ["Lin Tong", "housekeeper of x, acquaintance of x"], 
+      ["Dean Lin", "housekeeper of x, acquaintance of x"]
+    ]
+}

@@ -1,0 +1,334 @@
+{
+    "Ruan Wangdi": [
+        [
+            "Mrs. Ruan",
+            "Sister of X",
+            "Friend of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhaonan",
+            "sister, informant"
+        ],
+        [
+            "Guilang",
+            "brother, rival"
+        ],
+        [
+            "Luo Xiucai",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Qi Gu Fei",
+            "Acquaintance, Colleague"
+        ],
+        [
+            "Hei Li",
+            "Sister, Rival"
+        ],
+        [
+            "Wang Zimo",
+            "Acquaintance, Romantic Interest"
+        ],
+        [
+            "Baron Smith",
+            "Acquaintance, Friend"
+        ]
+    ],
+    "Mrs. Ruan": [
+        [
+            "Ruan Wangdi",
+            "Mother of X",
+            "Landlord of X",
+            "Employer of X"
+        ],
+        [
+            "Zhaonan",
+            "Landlord",
+            "Mother"
+        ],
+        [
+            "Guilang",
+            "Mother, Son"
+        ],
+        [
+            "Luo Xiucai",
+            "landlord, tenant"
+        ],
+        [
+            "Qi Gu Fei",
+            "landlord, dance teacher"
+        ],
+        [
+            "Hei Li",
+            "Landlord",
+            "Mother-in-law"
+        ],
+        [
+            "Wang Zimo",
+            "Landlord",
+            "Mother-in-law"
+        ],
+        [
+            "Baron Smith",
+            "landlord, tenant"
+        ]
+    ],
+    "Zhaonan": [
+        [
+            "Ruan Wangdi",
+            "sister, informant"
+        ],
+        [
+            "Mrs. Ruan",
+            "Tenant",
+            "Sister"
+        ],
+        [
+            "Guilang",
+            "Sister, Friend"
+        ],
+        [
+            "Luo Xiucai",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Qi Gu Fei",
+            "sibling, rival"
+        ],
+        [
+            "Hei Li",
+            "Sister, Friend"
+        ],
+        [
+            "Wang Zimo",
+            "Same person as X (different reference)",
+            "Stranger to X"
+        ],
+        [
+            "Baron Smith",
+            "Stranger to X"
+        ]
+    ],
+    "Guilang": [
+        [
+            "Ruan Wangdi",
+            "brother, rival"
+        ],
+        [
+            "Mrs. Ruan",
+            "Son, Nephew"
+        ],
+        [
+            "Zhaonan",
+            "Brother, Friend"
+        ],
+        [
+            "Luo Xiucai",
+            "Friend, Mentor"
+        ],
+        [
+            "Qi Gu Fei",
+            "Childhood Friend, Classmate"
+        ],
+        [
+            "Hei Li",
+            "Childhood friend, Classmate, Schoolmate"
+        ],
+        [
+            "Wang Zimo",
+            "brother, acquaintance"
+        ],
+        [
+            "Baron Smith",
+            "Friend, Acquaintance"
+        ]
+    ],
+    "Luo Xiucai": [
+        [
+            "Ruan Wangdi",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Mrs. Ruan",
+            "landlord, tenant"
+        ],
+        [
+            "Zhaonan",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Guilang",
+            "Friend, Teacher"
+        ],
+        [
+            "Qi Gu Fei",
+            "Friend, mentor"
+        ],
+        [
+            "Hei Li",
+            "Friend",
+            "Mentor"
+        ],
+        [
+            "Wang Zimo",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Baron Smith",
+            "Friend of X",
+            "Mentor of X"
+        ]
+    ],
+    "Qi Gu Fei": [
+        [
+            "Ruan Wangdi",
+            "Acquaintance, Colleague"
+        ],
+        [
+            "Mrs. Ruan",
+            "landlord, dance teacher"
+        ],
+        [
+            "Zhaonan",
+            "sibling, rival"
+        ],
+        [
+            "Guilang",
+            "Childhood Friend, Classmate"
+        ],
+        [
+            "Luo Xiucai",
+            "Friend, mentor"
+        ],
+        [
+            "Hei Li",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Wang Zimo",
+            "Friend, Colleague"
+        ],
+        [
+            "Baron Smith",
+            "Acquaintance, Colleague"
+        ]
+    ],
+    "Hei Li": [
+        [
+            "Ruan Wangdi",
+            "Sister, Rival"
+        ],
+        [
+            "Mrs. Ruan",
+            "Tenant",
+            "Daughter-in-law"
+        ],
+        [
+            "Zhaonan",
+            "Sister, Friend"
+        ],
+        [
+            "Guilang",
+            "Childhood friend, Classmate, Schoolmate"
+        ],
+        [
+            "Luo Xiucai",
+            "Friend",
+            "Mentee"
+        ],
+        [
+            "Qi Gu Fei",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Wang Zimo",
+            "friend, acquaintance"
+        ],
+        [
+            "Baron Smith",
+            "Acquaintance, Colleague"
+        ]
+    ],
+    "Wang Zimo": [
+        [
+            "Ruan Wangdi",
+            "Acquaintance, Romantic Interest"
+        ],
+        [
+            "Mrs. Ruan",
+            "Tenant",
+            "Son-in-law"
+        ],
+        [
+            "Zhaonan",
+            "Same person as X (different reference)",
+            "Lover of X"
+        ],
+        [
+            "Guilang",
+            "brother, acquaintance"
+        ],
+        [
+            "Luo Xiucai",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Qi Gu Fei",
+            "Friend, Colleague"
+        ],
+        [
+            "Hei Li",
+            "friend, acquaintance"
+        ],
+        [
+            "Baron Smith",
+            "Friend",
+            "Business Partner"
+        ]
+    ],
+    "Baron Smith": [
+        [
+            "Ruan Wangdi",
+            "Acquaintance, Friend"
+        ],
+        [
+            "Mrs. Ruan",
+            "landlord, tenant"
+        ],
+        [
+            "Zhaonan",
+            "Stranger to X"
+        ],
+        [
+            "Guilang",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Luo Xiucai",
+            "Friend of X",
+            "Mentor of X"
+        ],
+        [
+            "Qi Gu Fei",
+            "Acquaintance, Colleague"
+        ],
+        [
+            "Hei Li",
+            "Acquaintance, Colleague"
+        ],
+        [
+            "Wang Zimo",
+            "Friend",
+            "Business Partner"
+        ]
+    ],
+    "Wangdi": [
+        [
+            "Zhaonan",
+            "Sister of X"
+        ]
+    ]
+}

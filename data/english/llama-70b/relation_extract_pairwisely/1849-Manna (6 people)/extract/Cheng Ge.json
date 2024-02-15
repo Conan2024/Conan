@@ -1,0 +1,383 @@
+{
+    "A Fu": [
+        [
+            "Liao Gongzi",
+            "Same person as X (different reference)",
+            "Romantic relationships with X"
+        ],
+        [
+            "Lv Mingran",
+            "Son of X",
+            "Stranger to X"
+        ],
+        [
+            "Xinya",
+            "Son of X",
+            "Stranger to X"
+        ],
+        [
+            "Mrs. Tan",
+            "Son of X",
+            "Stranger to X"
+        ],
+        [
+            "Tan Renchang",
+            "Son of X",
+            "Stranger to X"
+        ],
+        [
+            "Dr. Zhang",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Julie",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Luo Mingsha",
+            "Son of X",
+            "Stranger to X"
+        ]
+    ],
+    "Liao Gongzi": [
+        [
+            "A Fu",
+            "Same person as X (different reference)",
+            "Romantic relationships with X"
+        ],
+        [
+            "Lv Mingran",
+            "Employer of X",
+            "Benefactor of X"
+        ],
+        [
+            "Xinya",
+            "Friend of X",
+            "Mentor of X"
+        ],
+        [
+            "Mrs. Tan",
+            "Friend of X"
+        ],
+        [
+            "Tan Renchang",
+            "Friend, Benefactor"
+        ],
+        [
+            "Dr. Zhang",
+            "benefactor",
+            "mentor"
+        ],
+        [
+            "Julie",
+            "Friend",
+            "Benefactor"
+        ],
+        [
+            "Luo Mingsha",
+            "Friend of X",
+            "Mentor of X"
+        ]
+    ],
+    "Lv Mingran": [
+        [
+            "A Fu",
+            "Father of X",
+            "Savior of X"
+        ],
+        [
+            "Liao Gongzi",
+            "Employee of X",
+            "Beneficiary of X"
+        ],
+        [
+            "Xinya",
+            "Friend of X",
+            "Helped by X"
+        ],
+        [
+            "Mrs. Tan",
+            "Friend of X",
+            "Helped by X"
+        ],
+        [
+            "Tan Renchang",
+            "Friend, Savior, and Confidant"
+        ],
+        [
+            "Dr. Zhang",
+            "Friend of X",
+            "Mentor of X"
+        ],
+        [
+            "Julie",
+            "Same person as X (different reference)",
+            "Romantic relationships with X"
+        ],
+        [
+            "Luo Mingsha",
+            "friend, savior, and confidant"
+        ]
+    ],
+    "Xinya": [
+        [
+            "A Fu",
+            "Mother of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Liao Gongzi",
+            "Friend of X",
+            "Mentor of X"
+        ],
+        [
+            "Lv Mingran",
+            "Friend of X",
+            "Helped by X"
+        ],
+        [
+            "Mrs. Tan",
+            "Wife of X",
+            "Sister of X",
+            "Friend of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Tan Renchang",
+            "Wife of X",
+            "Stranger to X"
+        ],
+        [
+            "Dr. Zhang",
+            "Mother, Savior"
+        ],
+        [
+            "Julie",
+            "Mother, Orphanage Director"
+        ],
+        [
+            "Luo Mingsha",
+            "Mother, Savior"
+        ]
+    ],
+    "Mrs. Tan": [
+        [
+            "A Fu",
+            "Mother of X",
+            "Same person as X",
+            "Wife of X",
+            "Co-wives of X"
+        ],
+        [
+            "Liao Gongzi",
+            "Friend of X"
+        ],
+        [
+            "Lv Mingran",
+            "Friend of X",
+            "Helped by X"
+        ],
+        [
+            "Xinya",
+            "Husband of X",
+            "Brother of X",
+            "Friend of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Tan Renchang",
+            "Mother-Son"
+        ],
+        [
+            "Dr. Zhang",
+            "Friend of X",
+            "Mentor of X"
+        ],
+        [
+            "Julie",
+            "Mother-in-law",
+            "Adoptive Mother"
+        ],
+        [
+            "Luo Mingsha",
+            "Friend of X"
+        ]
+    ],
+    "X": [
+        [
+            "A Fu",
+            "Mrs. Tan",
+            "Father of X",
+            "Mother of X",
+            "Son of X",
+            "Daughter of X",
+            "Sibling of X"
+        ],
+        [
+            "Julie",
+            "Luo Mingsha",
+            "Fiance of X",
+            "Fiancee of X"
+        ]
+    ],
+    "Tan Renchang": [
+        [
+            "A Fu",
+            "Father of X",
+            "Mother of X"
+        ],
+        [
+            "Liao Gongzi",
+            "Friend, Beneficiary"
+        ],
+        [
+            "Lv Mingran",
+            "Friend, Savior, and Confidant"
+        ],
+        [
+            "Xinya",
+            "Husband of X",
+            "Stranger to X"
+        ],
+        [
+            "Mrs. Tan",
+            "Son"
+        ],
+        [
+            "Dr. Zhang",
+            "patient"
+        ],
+        [
+            "Julie",
+            "Employer-Employee",
+            "Benefactor-Beneficiary",
+            "Acquaintance-Acquaintance"
+        ],
+        [
+            "Luo Mingsha",
+            "Wife of X",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Dr. Zhang": [
+        [
+            "A Fu",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Liao Gongzi",
+            "beneficiary",
+            "mentee"
+        ],
+        [
+            "Lv Mingran",
+            "Friend of X",
+            "Mentor of X"
+        ],
+        [
+            "Xinya",
+            "Mother, Savior"
+        ],
+        [
+            "Mrs. Tan",
+            "Friend of X",
+            "Mentor of X"
+        ],
+        [
+            "Tan Renchang",
+            "doctor"
+        ],
+        [
+            "Julie",
+            "Mentor of X",
+            "Friend of X"
+        ],
+        [
+            "Luo Mingsha",
+            "Friend of X",
+            "Mentor of X"
+        ]
+    ],
+    "Julie": [
+        [
+            "A Fu",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Liao Gongzi",
+            "Friend",
+            "Beneficiary"
+        ],
+        [
+            "Lv Mingran",
+            "Same person as X (different reference)",
+            "Romantic relationships with X"
+        ],
+        [
+            "Xinya",
+            "Mother, Orphanage Director"
+        ],
+        [
+            "Mrs. Tan",
+            "Mother-in-law",
+            "Adoptive Mother"
+        ],
+        [
+            "Tan Renchang",
+            "Employer-Employee",
+            "Beneficiary-Benefactor",
+            "Acquaintance-Acquaintance"
+        ],
+        [
+            "Dr. Zhang",
+            "Mentor of X",
+            "Friend of X"
+        ],
+        [
+            "Luo Mingsha",
+            "Wife of X",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Luo Mingsha": [
+        [
+            "A Fu",
+            "Mother of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Liao Gongzi",
+            "Friend of X",
+            "Mentor of X"
+        ],
+        [
+            "Lv Mingran",
+            "friend, savior, and confidant"
+        ],
+        [
+            "Xinya",
+            "Friend, Savior"
+        ],
+        [
+            "Mrs. Tan",
+            "Friend of X"
+        ],
+        [
+            "Tan Renchang",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Dr. Zhang",
+            "Friend of X",
+            "Mentor of X"
+        ],
+        [
+            "Julie",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ]
+    ]
+}

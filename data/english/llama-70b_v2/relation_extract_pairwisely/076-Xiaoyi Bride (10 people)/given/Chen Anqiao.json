@@ -1,0 +1,72 @@
+{
+    "Chen Anqiao": [
+      ["Chen Junmeng", "cousin of x, maid of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["Chen Qingwu", "cousin of x, servant of x"], 
+      ["Chen Shitian", "cousin of x, servant of x"], 
+      ["Lady Hong", "servant of x, informant of x, co conspirator of x"], 
+      ["Yao Changshou", "acquaintance of x, fiance's father of x"], 
+      ["Yao Mengren", "cousin of x, maid of x"], 
+      ["Yao Zhongyi", "acquaintance of x, friend of x"]
+    ],
+    "Chen Junmeng": [
+      ["Chen Anqiao", "cousin of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["Chen Qingwu", "cousin of x, servant of x"], 
+      ["Chen Shitian", "cousin of x, servant of x"], 
+      ["Lady Hong", "wife of x, same person as x (different identity)"], 
+      ["Yao Changshou", "wife of x, same person as x (different reference)"], 
+      ["Yao Mengren", "wife of x, same person as x (different reference)"], 
+      ["Yao Zhongyi", "cousin of x, friend of x"]
+    ],
+    "Chen Qingwu": [
+      ["Chen Anqiao", "father of x, employer of x"], 
+      ["Chen Junmeng", "father of x, employer of x"], 
+      ["Chen Shitian", "uncle of x, employer of x, master of x, superior of x"], 
+      ["Lady Hong", "father in law/daughter in law of x, master/servant of x"], 
+      ["Yao Changshou", "employer of x, master of x, superior of x"], 
+      ["Yao Mengren", "father in law/son in law of x, murderer/victim of x"], 
+      ["Yao Zhongyi", "friend of x"]
+    ],
+    "Chen Shitian": [
+      ["Chen Anqiao", "father of x, master of x"], 
+      ["Chen Junmeng", "father of x, master of x"], 
+      ["Chen Qingwu", "father of x, servant of x, subordinate of x, employee of x"], 
+      ["Yao Changshou", "father in law of x, master of x the house"], 
+      ["Yao Mengren", "uncle of x, informant of x, acquaintance of x"], 
+      ["Yao Zhongyi", "acquaintance of x, friend of x"]
+    ],
+    "Lady Hong": [
+      ["Chen Anqiao", "employer of x, mentor of x, co conspirator of x"], 
+      ["Chen Junmeng", "husband of x, same person as x (different identity)"], 
+      ["Chen Qingwu", "father in law/daughter in law of x, master/servant of x"], 
+      ["Yao Changshou", "mother in law/son in law of x, co wives of x"], 
+      ["Yao Mengren", "wife of x, mother of x, co wife of x, sister of x, daughter of x, son of x, child of x, relative of x, nephew of x, aunt of x, uncle of x, niece of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbor of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by x"], 
+      ["Yao Zhongyi", "mother in law/son in law of x, co wives of x"]
+    ],
+    "Yao Changshou": [
+      ["Chen Anqiao", "acquaintance of x, father in law of x"], 
+      ["Chen Junmeng", "husband of x, same person as x (different reference)"], 
+      ["Chen Qingwu", "father in law of x, brother in law of x"], 
+      ["Chen Shitian", "father in law of x, master of x the house"], 
+      ["Lady Hong", "husband/father of x, co wives of x"], 
+      ["Yao Mengren", "father of x, husband of x, ex romantic relationships with x, romantic relationships with x, same person as x (different identity)"], 
+      ["Yao Zhongyi", "father in law of x, stepfather of x"]
+    ],
+    "Yao Mengren": [
+      ["Chen Anqiao", "husband of x, deceased of x"], 
+      ["Chen Junmeng", "husband of x, same person as x (different reference)"], 
+      ["Chen Qingwu", "husband/father of x, deceased/murdered of x"], 
+      ["Chen Shitian", "cousin of x, husband of x, friend of x"], 
+      ["Lady Hong", "husband of x, father of x, brother of x, sister of x, daughter of x, son of x, child of x, relative of x, nephew of x, aunt of x, uncle of x, niece of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbor of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by x"], 
+      ["Yao Changshou", "son of x, brother of x, same person as x (different reference)"], 
+      ["Yao Zhongyi", "brother in law of x, brother in law of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Chen Anqiao", "acquaintance of x, friend of x"], 
+      ["Chen Junmeng", "cousin of x, friend of x"], 
+      ["Chen Qingwu", "friend of x"], 
+      ["Chen Shitian", "acquaintance of x, friend of x"], 
+      ["Lady Hong", "step son/mother of x, co wives of x"], 
+      ["Yao Changshou", "son of x, stepson of x"], 
+      ["Yao Mengren", "brother in law of x, brother in law of x"]
+    ]
+}

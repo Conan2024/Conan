@@ -1,0 +1,44 @@
+{
+    "Ella": [
+      ["Gust", "employee of x, helped by x, perpetrator of x, bully of x, murderer of x"], 
+      ["Kevin", "relationship 1: employer employee of x, relationship 2: helper helped of x"], 
+      ["Griff", "logistics griff of x, friend of x"], 
+      ["Rowling", "friend of x, colleague of x"], 
+      ["David", "logistics griff of x, security kevin of x, thetrical work david of x, publicity rowling of x, gust of x, acquaintance of x, business partner of x, co worker of x, friend of x, informant of x, mentor of x, teacher of x, student of x, perpetrator of x, victim of x"]
+    ],
+    "Gust": [
+      ["Ella", "employer of x, master of x, superior of x, perpetrator of x, bully of x, murderer of x"], 
+      ["Kevin", "relationship 1: employer employee of x, relationship 2: accomplice in crime of x"], 
+      ["Griff", "relationship 1: employer employee of x, relationship 2: perpetrator victim of x"], 
+      ["Rowling", "relationship 1: employer employee of x, relationship 2: prospective lover of x"], 
+      ["David", "employer of x, master of x, superior of x"]
+    ],
+    "Kevin": [
+      ["Ella", "relationship 1: employer employee of x, relationship 2: helper helped of x"], 
+      ["Gust", "relationship 1: employee employer of x, relationship 2: accomplice in crime of x"], 
+      ["Griff", "acquaintance of x, helped by of x"], 
+      ["Rowling", "friend of x"], 
+      ["David", "friend of x, colleague of x"]
+    ],
+    "Griff": [
+      ["Ella", "logistics griff of x, friend of x"], 
+      ["Gust", "relationship 1: employer employee of x, relationship 2: perpetrator victim of x"], 
+      ["Kevin", "acquaintance of x, helped by of x"], 
+      ["Rowling", "friend of x, co worker of x"], 
+      ["David", "perpetrator of x, bully of x"]
+    ],
+    "Rowling": [
+      ["Ella", "friend of x, colleague of x"], 
+      ["Gust", "relationship 1: employer employee of x, relationship 2: prospective lover of x"], 
+      ["Kevin", "friend of x"], 
+      ["Griff", "friend of x, co worker of x"], 
+      ["David", "friend of x, colleague of x"]
+    ],
+    "David": [
+      ["Ella", "logistics griff of x, security kevin of x, thetrical work david of x, publicity rowling of x, gust of x, acquaintance of x, business partner of x, co worker of x, friend of x, informant of x, mentor of x, teacher of x, student of x, perpetrator of x, victim of x"], 
+      ["Gust", "employee of x, subordinate of x, performer of x"], 
+      ["Kevin", "friend of x, colleague of x"], 
+      ["Griff", "victim of x, bullied by x"], 
+      ["Rowling", "friend of x, colleague of x"]
+    ]
+}

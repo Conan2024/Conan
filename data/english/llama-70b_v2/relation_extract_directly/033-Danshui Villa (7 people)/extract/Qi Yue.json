@@ -1,0 +1,43 @@
+{
+    "Qi Yue": [
+      ["Shuang Mian Hu", "friend of x, savior of x"], 
+      ["Zhao Wanlei", "employer of x, enemy of x"], 
+      ["Fang Shuangji", "housekeeper of x, acquaintance of x"], 
+      ["Zhao Qiuer", "sister of x"], 
+      ["Feng Zhu", "coworker of x, deceiver of x"]
+    ],
+    "Shuang Mian Hu": [
+      ["Qi Yue", "friend of x, savior of x"], 
+      ["Zhao Wanlei", "enemy of x, victim of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Qi Yue", "employer of x, enemy of x"], 
+      ["Shuang Mian Hu", "enemy of x, victim of x"]
+    ],
+    "Fang Shuangji": [
+      ["Qi Yue", "housekeeper of x, acquaintance of x"], 
+      ["Zhao Wanlei", "employer of x, master of x"]
+    ],
+    "Zhao Qiuer": [
+      ["Zhao Wanlei", "daughter of x"], 
+      ["Zhao Luoyi", "sister of x"]
+    ],
+    "Feng Zhu": [
+      ["Qi Yue", "coworker of x, deceiver of x"], 
+      ["Zhao Qiuer", "coworker of x, deceiver of x"]
+    ],
+    "Guo Wangshan": [
+      ["Zhao Wanlei", "friend of x"]
+    ],
+    "Feng Shuangji": [
+      ["Qi Yue", "housekeeper of x, acquaintance of x"], 
+      ["Zhao Wanlei", "employer of x, master of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Zhao Wanlei", "daughter of x"], 
+      ["Zhao Qiuer", "sister of x"]
+    ],
+    "Yin Shaoming": [
+      ["Feng Shuangji", "cousin of x"]
+    ]
+}

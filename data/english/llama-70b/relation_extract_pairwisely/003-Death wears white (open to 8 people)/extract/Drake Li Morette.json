@@ -1,0 +1,158 @@
+{
+    "Gale Li Morette": [
+        [
+            "Richard Berkeley",
+            "Sister-in-law"
+        ],
+        [
+            "Dr. Paloski",
+            "Sister-in-law"
+        ],
+        [
+            "Elaine Carter",
+            "Sister-in-law",
+            "Colleague"
+        ],
+        [
+            "Sylvia Costa",
+            "sister-in-law, colleague"
+        ],
+        [
+            "Drake Li Morette",
+            "Sister-in-law"
+        ]
+    ],
+    "Richard Berkeley": [
+        [
+            "Gale Li Morette",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Dr. Paloski",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ],
+        [
+            "Elaine Carter",
+            "Superior of x",
+            "Employer of X"
+        ],
+        [
+            "Sylvia Costa",
+            "Superior of x",
+            "Employer of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ]
+    ],
+    "Dr. Paloski": [
+        [
+            "Gale Li Morette",
+            "Teacher of X",
+            "Supervisor of X"
+        ],
+        [
+            "Richard Berkeley",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ],
+        [
+            "Elaine Carter",
+            "Superior of x",
+            "Employee of X"
+        ],
+        [
+            "Sylvia Costa",
+            "Superior of x",
+            "Employee of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Relationship 1: Mentor-Mentee",
+            "Relationship 2: Colleague"
+        ]
+    ],
+    "Elaine Carter": [
+        [
+            "Gale Li Morette",
+            "Colleague",
+            "Acquaintance"
+        ],
+        [
+            "Richard Berkeley",
+            "Superior of x",
+            "Employee of X"
+        ],
+        [
+            "Dr. Paloski",
+            "Superior of x",
+            "Employee of X"
+        ],
+        [
+            "Sylvia Costa",
+            "Colleague"
+        ],
+        [
+            "Drake Li Morette",
+            "Acquaintance"
+        ]
+    ],
+    "Sylvia Costa": [
+        [
+            "Gale Li Morette",
+            "colleague, friend"
+        ],
+        [
+            "Richard Berkeley",
+            "Superior of x",
+            "Employee of X"
+        ],
+        [
+            "Dr. Paloski",
+            "Superior of x",
+            "Employee of X"
+        ],
+        [
+            "Elaine Carter",
+            "Colleague"
+        ],
+        [
+            "Drake Li Morette",
+            "Relationship 1: Colleague",
+            "Relationship 2: Suspect in murder investigation"
+        ]
+    ],
+    "Drake Li Morette": [
+        [
+            "Gale Li Morette",
+            "Brother-in-law"
+        ],
+        [
+            "Richard Berkeley",
+            "Employee of X",
+            "Subordinate of X",
+            "Servant of X"
+        ],
+        [
+            "Dr. Paloski",
+            "Relationship 1: Mentor-Mentee",
+            "Relationship 2: Colleague"
+        ],
+        [
+            "Elaine Carter",
+            "Acquaintance"
+        ],
+        [
+            "Sylvia Costa",
+            "Relationship 1: Colleague",
+            "Relationship 2: Suspect in murder investigation"
+        ]
+    ]
+}

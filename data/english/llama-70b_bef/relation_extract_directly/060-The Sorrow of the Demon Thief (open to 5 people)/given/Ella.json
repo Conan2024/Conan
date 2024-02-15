@@ -1,0 +1,40 @@
+{
+    "Assistant Ella": [
+      ["Gust", "employer of x, perpetrator of x"], 
+      ["Logistics Griff", "deceiver of x, suspect of x"], 
+      ["Security Kevin", "friend of x, helper of x"], 
+      ["Publicity Rowling", "friend of x"], 
+      ["Theatrical Work David", "acquaintance of x, rival of x"]
+    ],
+    "David": [
+      ["Theatrical Work David", "same person as x (different reference)"], 
+      ["Publicity Rowling", "acquaintance of x, rival of x"]
+    ],
+    "Ella": [
+      ["Assistant Ella", "same person as x (different reference)"], 
+      ["Gust", "employer of x, perpetrator of x"]
+    ],
+    "Griff": [
+      ["Logistics Griff", "same person as x (different reference)"], 
+      ["Assistant Ella", "deceiver of x, suspect of x"]
+    ],
+    "Gust": [
+      ["Gust", "same person as x (different reference)"], 
+      ["Assistant Ella", "employer of x, perpetrator of x"], 
+      ["Logistics Griff", "deceived by x"]
+    ],
+    "Kevin": [
+      ["Security Kevin", "same person as x (different reference)"], 
+      ["Assistant Ella", "friend of x, helper of x"]
+    ],
+    "Rowling": [
+      ["Publicity Rowling", "same person as x (different reference)"], 
+      ["Assistant Ella", "friend of x"], 
+      ["Theatrical Work David", "acquaintance of x, rival of x"]
+    ],
+    "Theatrical Work David": [
+      ["Theatrical Work David", "same person as x (different reference)"], 
+      ["Publicity Rowling", "acquaintance of x, rival of x"], 
+      ["Assistant Ella", "acquaintance of x"]
+    ]
+}

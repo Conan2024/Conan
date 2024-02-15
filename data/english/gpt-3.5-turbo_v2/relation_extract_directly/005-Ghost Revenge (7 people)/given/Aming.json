@@ -1,0 +1,85 @@
+{
+    "Li Luoming": [
+      ["Li Zicai", "father of x"], 
+      ["Yu Zu Chengmu", "uncle of x"], 
+      ["Xia Sanhu", "adversary of x, perpetrator of x li luoming's family"], 
+      ["Xia Zhongpeng", "acquaintance of x"], 
+      ["Xia Shue", "mentor of x"], 
+      ["Anqi", "unknown of x"]
+    ],
+    "Aming": [
+      ["Li Luo Ming", "same person as li luoming (different reference) of x"], 
+      ["Li Zicai", "father of x"], 
+      ["Yu Zu Chengmu", "uncle of x"], 
+      ["Xia Sanhu", "adversary of x, perpetrator of x aming's family"], 
+      ["Xia Zhongpeng", "acquaintance of x"], 
+      ["Xia Shue", "mentor of x"], 
+      ["Anqi", "unknown of x"], 
+      ["Wu Baian", "murderer of x"]
+    ],
+    "Luo Ming": [
+      ["Li Luoming", "same person as aming (different identity) of x"], 
+      ["Li Zicai", "father of x"], 
+      ["Yu Zu Chengmu", "uncle of x"], 
+      ["Xia Sanhu", "adversary of x, perpetrator of x luo ming's family"], 
+      ["Xia Zhongpeng", "acquaintance of x"], 
+      ["Xia Shue", "mentor of x"], 
+      ["Anqi", "unknown of x"]
+    ],
+    "Bai Changgong": [
+      ["Xia Sanhu", "suspected by of x"]
+    ],
+    "Li Zicai": [
+      ["Li Luo Ming", "child of x"], 
+      ["Aming", "father of x"], 
+      ["Yu Zu Chengmu", "brother in law of x"], 
+      ["Xia Sanhu", "perpetrator of x li zicai's family"]
+    ],
+    "Li Zijun": [
+      ["Aming", "uncle of x"], 
+      ["Yu Zu Chengmu", "self claimed uncle of x"]
+    ],
+    "Yu Zu Chengmu": [
+      ["Li Luo Ming", "friend of x"], 
+      ["Aming", "friend of x"], 
+      ["Li Zicai", "brother in law of x"], 
+      ["Li Zijun", "self claimed uncle of x"], 
+      ["Anqi", "information receiver from yu zu chengmu of x"], 
+      ["Wu Baian", "suspected by of x"]
+    ],
+    "Xia Bolong": [
+      ["Xia Shue", "father of x"]
+    ],
+    "Xia Zhongpeng": [
+      ["Xia Sanhu", "brother of x"], 
+      ["Xia Shue", "acquaintance of x"], 
+      ["Aming", "acquaintance of x"]
+    ],
+    "Xia Sanhu": [
+      ["Xia Zhongpeng", "brother of x"], 
+      ["Aming", "adversary of x, perpetrator of x aming's family"], 
+      ["Li Zicai", "adversary of x"], 
+      ["Xia Shue", "acquaintance of x"], 
+      ["Wu Baian", "victim of x"], 
+      ["Yu Zu Chengmu", "deceived by of x, manipulated by of x"]
+    ],
+    "Xia Shue": [
+      ["Xia Bolong", "daughter of x"], 
+      ["Xia Zhongpeng", "acquaintance of x"], 
+      ["Xia Sanhu", "acquaintance of x"], 
+      ["Aming", "mentor of x"]
+    ],
+    "Yue Dongwen": [
+      ["Li Luoming", "boss of x"]
+    ],
+    "Duan Yuetong": [
+      ["Xia Sanhu", "informant of x"]
+    ],
+    "Anqi": [
+      ["Yu Zu Chengmu", "information receiver from of x"], 
+      ["Aming", "unknown of x"]
+    ],
+    "Wu Baian": [
+      ["Aming", "murderer of x"]
+    ]
+}

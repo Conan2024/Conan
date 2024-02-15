@@ -1,0 +1,37 @@
+{
+    "Neighbor Wang": [
+      ["Neighbor Wang's wife", "missing person (possibly deceased) of x"], 
+      ["Police", "subject of x investigation for neighbor wang"], 
+      ["Reporters", "information receiver from neighbor wang of x"], 
+      ["Li Guofu", "neighbor of x, acquaintance of x"], 
+      ["He Laoliu", "neighbor of x, acquaintance of x"], 
+      ["Li Guofu", "debtor of x neighbor wang"], 
+      ["Neighbor Wang's wife", "possibly family of x neighbor wang"]
+    ],
+    "Neighbor Wang's wife": [
+      ["Neighbor Wang", "missing person (possibly deceased) of x"], 
+      ["Neighbor Wang", "possibly family of x neighbor wang"], 
+      ["Neighbor Wang's wife", "possible romantic relationship with neighbor wang of x"]
+    ],
+    "Police": [
+      ["Neighbor Wang", "suspected by neighbor wang of x"], 
+      ["Reporters", "subject of x investigation for police"], 
+      ["Police", "authority over neighbor wang of x"]
+    ],
+    "Reporters": [
+      ["Neighbor Wang", "admired by neighbor wang of x"], 
+      ["Police", "information receiver from reporters of x"], 
+      ["Reporters", "information receiver from neighbor wang of x"]
+    ],
+    "Li Guofu": [
+      ["Neighbor Wang", "neighbor of x, acquaintance of x"], 
+      ["Neighbor Wang", "debtor of x li guofu"], 
+      ["He Laoliu", "rarely associated with li guofu of x"], 
+      ["Li Guofu", "superior of x he laoliu"]
+    ],
+    "He Laoliu": [
+      ["Neighbor Wang", "neighbor of x, acquaintance of x"], 
+      ["Li Guofu", "rarely associated with he laoliu of x"], 
+      ["Li Guofu", "subordinate of x he laoliu"]
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Chief Wang": [
+      ["Officer Li", "suspect of x, perpetrator of x"], 
+      ["Officer Li's Girlfriend", "suspect of x, witness of x, acquaintance of x, victim of x, perpetrator of x"]
+    ],
+    "Hu Investigate": [
+      ["Officer Li", "colleague of x, friend of x, mentor of x, helper of x, suspect of x, adversary of x, victim of x, perpetrator of x"], 
+      ["Officer Li's Girlfriend", "acquaintance of x, helper of x, informant of x, suspect of x, victim of x"], 
+      ["Zhao Cishan", "acquaintance of x, business partner of x"]
+    ],
+    "Officer Li": [
+      ["Chief Wang", "investigator of x, victim of x"], 
+      ["Hu Investigate", "colleague of x, friend of x, mentor of x, helper of x, suspect of x, adversary of x, victim of x, perpetrator of x"], 
+      ["Officer Li's Girlfriend", "romantic relationship of x, co investigator of x, victim of x, witness of x, helper of x"], 
+      ["Zhao Cishan", "suspect   investigator of x, enemy   avenger of x, victim   perpetrator of x, friend   betrayer of x"]
+    ],
+    "Officer Li's Girlfriend": [
+      ["Chief Wang", "suspect of x, witness of x, acquaintance of x, victim of x, perpetrator of x"], 
+      ["Hu Investigate", "acquaintance of x, helped by of x, information receiver of x, suspected by of x, killed by of x"], 
+      ["Officer Li", "romantic relationship of x, co investigator of x, victim of x, witness of x, helper of x"]
+    ],
+    "Zhao Cishan": [
+      ["Hu Investigate", "acquaintance of x, business partner of x"], 
+      ["Officer Li", "suspect   investigator of x, enemy   avenger of x, perpetrator   victim of x, betrayer   friend of x"]
+    ]
+}

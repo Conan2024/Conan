@@ -1,0 +1,38 @@
+{
+    "Miao Ruya": [
+      ["Li Gaobai", "sister in law of x"], 
+      ["Gan Ma", "friend of x, sister in law of x"], 
+      ["Zheng Hanzhen", "wife of x, romantic relationships with x"], 
+      ["Ba Falcon", "mentor of x, brother of x, acquaintance of x"]
+    ],
+    "Mountain Spirit": [
+      ["Zheng Hanzhen", "mentor of x"]
+    ],
+    "Li Gaobai": [
+      ["Miao Ruya", "brother in law of x"], 
+      ["Zhou Chensha", "friend of x"], 
+      ["Gan Ma", "friend of x, acquaintance of x, informant of x, information receiver from x"], 
+      ["Ba Falcon", "friend of x"]
+    ],
+    "Zhou Chensha": [
+      ["Li Gaobai", "friend of x"], 
+      ["Zheng Hanzhen", "friend of x, sibling of x, classmate of x"], 
+      ["Ba Falcon", "secret lover of x"]
+    ],
+    "Gan Ma": [
+      ["Miao Ruya", "friend of x, brother in law of x, admirer of x"], 
+      ["Li Gaobai", "friend of x, acquaintance of x, informant of x, information receiver from x"]
+    ],
+    "Zheng Hanzhen": [
+      ["Miao Ruya", "husband of x, romantic relationships with x"], 
+      ["Mountain Spirit", "student of x"], 
+      ["Zhou Chensha", "friend of x, sibling of x, classmate of x"], 
+      ["Ba Falcon", "friend of x"]
+    ],
+    "Ba Falcon": [
+      ["Miao Ruya", "mentor of x, sister of x, acquaintance of x"], 
+      ["Li Gaobai", "friend of x"], 
+      ["Zhou Chensha", "secret lover of x"], 
+      ["Zheng Hanzhen", "friend of x"]
+    ]
+}

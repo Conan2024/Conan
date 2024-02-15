@@ -1,0 +1,202 @@
+{
+    "Judy": [
+        [
+            "Zhang Decai",
+            "same person as x (different reference)"
+        ],
+        [
+            "Zhang Yadi",
+            "aunt of x, possibly family of x"
+        ],
+        [
+            "Yao Changshou",
+            "acquaintance of x, helper of x"
+        ],
+        [
+            "Yao Zhongyi",
+            "child of x"
+        ],
+        [
+            "Madam Xu",
+            "adversary of x, disliked by x"
+        ],
+        [
+            "Yao Mengren",
+            "perpetrator of x, disliked by x"
+        ],
+        [
+            "Fang Chengshan",
+            "acquaintance of x"
+        ],
+        [
+            "Fang Minyue",
+            "childhood friend of x, romantic relationships with x, ex romantic relationships with x"
+        ],
+        [
+            "Lady Hong",
+            "acquaintance of x, helped by x, information receiver from x"
+        ],
+        [
+            "White-headed Snake",
+            "accomplice of x, quest companion of x, helper of x"
+        ],
+        [
+            "Fan Jinkui",
+            "informant of x"
+        ],
+        [
+            "man with disheveled hair",
+            "stranger to x"
+        ],
+        [
+            "Long-haired Girl",
+            "stranger to x"
+        ],
+        [
+            "Short-haired Woman",
+            "enemy of x, attempted murderer of x, adversary of x"
+        ],
+        [
+            "Young man",
+            "saviour of x, quest companion of x"
+        ]
+    ],
+    "Zhang Decai": [
+        [
+            "Judy",
+            "same person as x (different identity)"
+        ]
+    ],
+    "Zhang Yadi": [
+        [
+            "Yao Changshou",
+            "concubine of x"
+        ],
+        [
+            "Yao Zhongyi",
+            "mother of x"
+        ],
+        [
+            "Judy",
+            "niece of x, possibly family of x"
+        ]
+    ],
+    "Yao Changshou": [
+        [
+            "Zhang Yadi",
+            "employer of x"
+        ],
+        [
+            "Yao Zhongyi",
+            "father of x"
+        ],
+        [
+            "Madam Xu",
+            "husband of x"
+        ],
+        [
+            "Judy",
+            "acquaintance of x, helped by x"
+        ]
+    ],
+    "Yao Zhongyi": [
+        [
+            "Zhang Yadi",
+            "son of x"
+        ],
+        [
+            "Yao Changshou",
+            "son of x"
+        ],
+        [
+            "Judy",
+            "father of x"
+        ]
+    ],
+    "Madam Xu": [
+        [
+            "Yao Changshou",
+            "wife of x"
+        ],
+        [
+            "Yao Mengren",
+            "mother of x"
+        ]
+    ],
+    "Yao Mengren": [
+        [
+            "Yao Changshou",
+            "son of x"
+        ],
+        [
+            "Madam Xu",
+            "son of x"
+        ]
+    ],
+    "Fang Chengshan": [
+        [
+            "Fang Minyue",
+            "father of x"
+        ],
+        [
+            "Judy",
+            "acquaintance of x"
+        ]
+    ],
+    "Fang Minyue": [
+        [
+            "Fang Chengshan",
+            "daughter of x"
+        ],
+        [
+            "Judy",
+            "childhood friend of x, romantic relationships with x, ex romantic relationships with x"
+        ]
+    ],
+    "Lady Hong": [
+        [
+            "Yao Changshou",
+            "wife of x"
+        ],
+        [
+            "Judy",
+            "acquaintance of x, helped by x, information provider to x"
+        ]
+    ],
+    "White-headed Snake": [
+        [
+            "Judy",
+            "accomplice of x, quest companion of x, helped by x"
+        ]
+    ],
+    "Fan Jinkui": [
+        [
+            "Judy",
+            "informant to x"
+        ]
+    ],
+    "man with disheveled hair": [
+        [
+            "Judy",
+            "stranger to x"
+        ]
+    ],
+    "Long-haired Girl": [
+        [
+            "Judy",
+            "stranger to x"
+        ]
+    ],
+    "Short-haired Woman": [
+        [
+            "Judy",
+            "enemy of x, attempted perpetrator of x, adversary of x"
+        ]
+    ],
+    "Young man": [
+        [
+            "Judy",
+            "saviour of x, quest companion of x"
+        ]
+    ]
+}

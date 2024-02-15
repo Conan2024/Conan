@@ -1,0 +1,50 @@
+{
+    "David": [
+      ["Gust", "rowling of x, kevin of x, griff of x"], 
+      ["Ella", "rowling of x, griff of x, gust of x, kevin of x"], 
+      ["Kevin", "rowling of x, griff of x, gust of x, ella of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped of x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by of x, dislike of x, disliked of x, subject of x investigation, deceiver of x, betrayer of x, deceived of x, betrayed of x, suspected of x, suspicious of x, suspect of x, adversary of x, enemy of x, rival of x, manipulator of x, manipulated of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["Griff", "rowling of x, gust of x, ella of x, kevin of x"]
+    ],
+    "Gust": [
+      ["David", "rowling of x, ella of x"], 
+      ["Rowling", "employer of x, master of x, perpetrator of x"], 
+      ["Ella", "rowling of x, assistant of x, lover of x"], 
+      ["Rowling", "ex romantic relationships, suspect of x"], 
+      ["Griff", "rowling of x, ella of x, assistant of x, lover of x"], 
+      ["Ella", "kevin of x, rowling of x"]
+    ],
+    "Rowling": [
+      ["David", "gust of x, kevin of x"], 
+      ["Gust", "employee of x, victim of x, bully of x"], 
+      ["Gust", "ella of x, partner of x, former lover of x"], 
+      ["Gust", "ex romantic relationships, suspicious of x"], 
+      ["Ella", "ex romantic relationships, friend of x"], 
+      ["Kevin", "ex romantic relationships, friend of x"], 
+      ["Griff", "ex romantic relationships, suspect of x"], 
+      ["Ella", "kevin of x, gust of x"]
+    ],
+    "Kevin": [
+      ["David", "rowling of x, griff of x, gust of x, ella of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped of x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by of x, dislike of x, disliked of x, subject of x investigation, deceiver of x, betrayer of x, deceived of x, betrayed of x, suspected of x, suspicious of x, suspect of x, adversary of x, enemy of x, rival of x, manipulator of x, manipulated of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["Rowling", "security of x, unusual relationship of x"], 
+      ["Rowling", "unusual relationship of x"], 
+      ["Rowling", "ex romantic relationships, friend of x"], 
+      ["Ella", "rowling of x, gust of x"], 
+      ["Griff", "rowling of x"]
+    ],
+    "Griff": [
+      ["David", "gust of x"], 
+      ["David", "rowling of x, gust of x, ella of x"], 
+      ["Gust", "logistics of x, drinking partner of x, suspicious of x"], 
+      ["Gust", "rowling of x, logistics of x, drinking partner of x"], 
+      ["Rowling", "drinking partner of x, accomplice of x"], 
+      ["Ella", "rowling of x, gust of x"], 
+      ["Kevin", "rowling of x"]
+    ],
+    "Ella": [
+      ["David", "rowling of x, gust of x, kevin of x"], 
+      ["Gust", "rowling of x, friend of x, object of x affection"], 
+      ["Rowling", "ex romantic relationships, friend of x"], 
+      ["Kevin", "rowling of x, gust of x"], 
+      ["Griff", "rowling of x, gust of x"]
+    ]
+}

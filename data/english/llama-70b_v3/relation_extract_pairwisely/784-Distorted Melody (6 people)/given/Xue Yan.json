@@ -1,0 +1,102 @@
+{
+    "Guilang": [
+      ["Luo Wanli", "student of x"], 
+      ["Luo Xueyan", "child of x, sibling of x"], 
+      ["Luo Younuo", "friend of x, colleague of x"], 
+      ["Mrs. Ruan", "child of x"], 
+      ["Qi Gufei", "child of x, same person as x (different reference)"], 
+      ["Wang Zimo", "rival of x"], 
+      ["Zhaonan", "child of x, same person as x (different identity)"], 
+      ["Luo Xueyan", "brother of x"]
+    ],
+    "Hei Li": [
+      ["Luo Wanli", "same person as x (different reference), same person as x (different identity)"], 
+      ["Luo Xueyan", "friend of x, rival of x"], 
+      ["Luo Younuo", "sibling of x"], 
+      ["Mrs. Ruan", "adoptive mother of x"], 
+      ["Qi Gufei", "friend of x"], 
+      ["Wang Zimo", "friend of x"], 
+      ["Wangdi", "acquaintance of x, friend of x"], 
+      ["Zhaonan", "friend of x"]
+    ],
+    "Luo Wanli": [
+      ["Guilang", "adoptive father of x, teacher of x"], 
+      ["Hei Li", "same person as x (different reference), same person as x (different identity)"], 
+      ["Luo Xueyan", "father of x, same person as x (different reference)"], 
+      ["Luo Younuo", "father of x, same person as x (different reference)"], 
+      ["Mrs. Ruan", "landlord of x"], 
+      ["Qi Gufei", "father of x"], 
+      ["Wang Zimo", "father in law of x, employer of x"], 
+      ["Wangdi", "father of x"]
+    ],
+    "Luo Xueyan": [
+      ["Guilang", "sibling of x, child of x"], 
+      ["Hei Li", "friend of x, rival of x"], 
+      ["Luo Wanli", "son of x, same person as x (different reference)"], 
+      ["Luo Younuo", "sibling of x, friend of x"], 
+      ["Qi Gufei", "classmate of x"], 
+      ["Wang Zimo", "friend of x, acquaintance of x"], 
+      ["Wangdi", "servant of x"], 
+      ["Zhaonan", "friend of x, rival of x"]
+    ],
+    "Luo Younuo": [
+      ["Guilang", "friend of x, colleague of x"], 
+      ["Hei Li", "sibling of x"], 
+      ["Luo Wanli", "son of x, same person as x (different reference)"], 
+      ["Luo Xueyan", "sibling of x, friend of x"], 
+      ["Mrs. Ruan", "servant of x"], 
+      ["Qi Gufei", "brother of x, friend of x"], 
+      ["Wang Zimo", "brother of x, friend of x"], 
+      ["Zhaonan", "sibling of x, rival of x"]
+    ],
+    "Mrs. Ruan": [
+      ["Guilang", "adoptive mother of x"], 
+      ["Hei Li", "adoptive daughter of x, student of x"], 
+      ["Luo Wanli", "tenant of x"], 
+      ["Luo Xueyan", "adoptive daughter of x, daughter of x, son of x"], 
+      ["Luo Younuo", "adoptive mother of x, employer of x"], 
+      ["Qi Gufei", "landlord of x, adoptive mother of x, employer of x"], 
+      ["Wang Zimo", "landlord of x, employer of x"], 
+      ["Wangdi", "adoptive mother of x"]
+    ],
+    "Qi Gufei": [
+      ["Guilang", "brother of x, same person as x (different identity)"], 
+      ["Hei Li", "friend of x"], 
+      ["Luo Wanli", "son of x, step son of x"], 
+      ["Luo Xueyan", "classmate of x"], 
+      ["Luo Younuo", "brother of x, friend of x"], 
+      ["Mrs. Ruan", "adoptive father of x, employer of x"], 
+      ["Wang Zimo", "friend of x, mentor of x"], 
+      ["Zhaonan", "friend of x"]
+    ],
+    "Wang Zimo": [
+      ["Guilang", "rival of x"], 
+      ["Hei Li", "friend of x"], 
+      ["Luo Wanli", "son in law of x, employee of x"], 
+      ["Luo Xueyan", "friend of x, acquaintance of x"], 
+      ["Luo Younuo", "brother of x, friend of x"], 
+      ["Mrs. Ruan", "tenant of x, employee of x"], 
+      ["Qi Gufei", "friend of x, mentor of x"], 
+      ["Wangdi", "husband of x, same person as x (different identity), lover of x, teacher of x"], 
+      ["Zhaonan", "acquaintance of x, friend of x"]
+    ],
+    "Wangdi": [
+      ["Hei Li", "acquaintance of x, friend of x"], 
+      ["Luo Wanli", "daughter of x, nephew of x, cousin of x"], 
+      ["Luo Xueyan", "servant of x"], 
+      ["Mrs. Ruan", "daughter of x"], 
+      ["Wang Zimo", "wife of x, same person as x (different reference), lover of x, student of x"], 
+      ["Zhaonan", "sister of x, friend of x"]
+    ],
+    "Zhaonan": [
+      ["Guilang", "child of x, same person as x (different identity)"], 
+      ["Hei Li", "friend of x"], 
+      ["Luo Wanli", "father of x"], 
+      ["Luo Xueyan", "bully of x"], 
+      ["Luo Xueyan", "friend of x, rival of x"], 
+      ["Luo Younuo", "sibling of x, rival of x"], 
+      ["Qi Gufei", "friend of x"], 
+      ["Wang Zimo", "acquaintance of x, friend of x"], 
+      ["Wangdi", "sister of x, friend of x"]
+    ]
+}

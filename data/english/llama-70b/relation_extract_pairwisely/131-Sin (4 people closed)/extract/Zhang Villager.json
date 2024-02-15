@@ -1,0 +1,102 @@
+{
+    "Zhang Villager": [
+        [
+            "Chief Wang",
+            "acquaintance",
+            "suspect",
+            "adversary"
+        ],
+        [
+            "Office Li",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Hu Investigate",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "Chief Wang": [
+        [
+            "Zhang Villager",
+            "acquaintance",
+            "suspect",
+            "adversary"
+        ],
+        [
+            "Zhao Cishan",
+            "Acquaintance",
+            "Helped by"
+        ],
+        [
+            "Office Li",
+            "Acquaintance",
+            "Neighbour"
+        ],
+        [
+            "Hu Investigate",
+            "Acquaintance",
+            "Suspect"
+        ]
+    ],
+    "Office Li": [
+        [
+            "Zhang Villager",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Chief Wang",
+            "Acquaintance",
+            "Neighbour"
+        ],
+        [
+            "Zhao Cishan",
+            "Acquaintance"
+        ],
+        [
+            "Hu Investigate",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X",
+            "Perpetrator of X"
+        ]
+    ],
+    "Hu Investigate": [
+        [
+            "Zhang Villager",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Chief Wang",
+            "Acquaintance",
+            "Suspect"
+        ],
+        [
+            "Zhao Cishan",
+            "Investigating",
+            "Suspect of"
+        ],
+        [
+            "Office Li",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X",
+            "Victim of X"
+        ]
+    ],
+    "Zhao Cishan": [
+        [
+            "Chief Wang",
+            "Acquaintance",
+            "Helped by"
+        ],
+        [
+            "Office Li",
+            "Acquaintance"
+        ],
+        [
+            "Hu Investigate",
+            "Victim of",
+            "Killed by"
+        ]
+    ]
+}

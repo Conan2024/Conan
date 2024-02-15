@@ -1,0 +1,282 @@
+{
+    "Ruan Wangdi": [
+        [
+            "Ruan Qiande",
+            "father of x"
+        ],
+        [
+            "Mrs. Ruan",
+            "mother of x"
+        ],
+        [
+            "Zhaonan",
+            "sibling of x, stranger to x (different identity)"
+        ],
+        [
+            "Guilang",
+            "sibling of x"
+        ],
+        [
+            "Luo Xiucai",
+            "informant of x, teacher of x"
+        ],
+        [
+            "Luo Younuo",
+            "extramarital affair with x, friend of x"
+        ],
+        [
+            "Xue Yan",
+            "acquaintance of x"
+        ],
+        [
+            "Qi Gufei",
+            "acquaintance of x"
+        ],
+        [
+            "Hei Li",
+            "acquaintance of x"
+        ],
+        [
+            "Wang Zimo",
+            "husband of x, deceiver of x, deceived by x"
+        ],
+        [
+            "Ruan Zhaonan",
+            "same person as x (different identity)"
+        ]
+    ],
+    "Ruan Qiande": [
+        [
+            "Mrs. Ruan",
+            "husband of x"
+        ],
+        [
+            "Ruan Wangdi",
+            "child of x"
+        ],
+        [
+            "Zhaonan",
+            "child of x"
+        ],
+        [
+            "Guilang",
+            "child of x"
+        ]
+    ],
+    "Mrs. Ruan": [
+        [
+            "Ruan Qiande",
+            "wife of x"
+        ],
+        [
+            "Ruan Wangdi",
+            "child of x"
+        ],
+        [
+            "Zhaonan",
+            "child of x"
+        ],
+        [
+            "Guilang",
+            "child of x"
+        ],
+        [
+            "Luo Xiucai",
+            "tenant of x"
+        ],
+        [
+            "Luo Younuo",
+            "informant of x, helped by x"
+        ],
+        [
+            "Xue Yan",
+            "helper of x, helped by x"
+        ],
+        [
+            "Wang Zimo",
+            "deceiver of x"
+        ],
+        [
+            "Hei Li",
+            "killed by x"
+        ]
+    ],
+    "Zhaonan": [
+        [
+            "Ruan Qiande",
+            "father of x"
+        ],
+        [
+            "Mrs. Ruan",
+            "mother of x"
+        ],
+        [
+            "Ruan Wangdi",
+            "sibling of x, victim of x, same person as x (different reference)"
+        ],
+        [
+            "Guilang",
+            "sibling of x"
+        ],
+        [
+            "Qi Gufei",
+            "co-artists with x"
+        ],
+        [
+            "Hei Li",
+            "co-artists with x"
+        ]
+    ],
+    "Guilang": [
+        [
+            "Ruan Qiande",
+            "father of x"
+        ],
+        [
+            "Mrs. Ruan",
+            "mother of x"
+        ],
+        [
+            "Zhaonan",
+            "sibling of x"
+        ],
+        [
+            "Ruan Wangdi",
+            "sibling of x"
+        ],
+        [
+            "Luo Xiucai",
+            "student of x"
+        ],
+        [
+            "Xue Yan",
+            "friend of x"
+        ]
+    ],
+    "Luo Xiucai": [
+        [
+            "Luo Younuo",
+            "father of x"
+        ],
+        [
+            "Xue Yan",
+            "father of x"
+        ],
+        [
+            "Guilang",
+            "teacher of x"
+        ],
+        [
+            "Ruan Wangdi",
+            "acquaintance of x"
+        ]
+    ],
+    "Luo Younuo": [
+        [
+            "Luo Xiucai",
+            "child of x"
+        ],
+        [
+            "Xue Yan",
+            "sibling of x"
+        ],
+        [
+            "Ruan Wangdi",
+            "extramarital affair with x, friend of x"
+        ],
+        [
+            "Mrs. Ruan",
+            "friend of x, helped by x"
+        ],
+        [
+            "Zhaonan",
+            "acquaintance of x"
+        ]
+    ],
+    "Xue Yan": [
+        [
+            "Luo Xiucai",
+            "child of x"
+        ],
+        [
+            "Luo Younuo",
+            "sibling of x"
+        ],
+        [
+            "Ruan Wangdi",
+            "acquaintance of x"
+        ],
+        [
+            "Mrs. Ruan",
+            "friend of x, helped by x"
+        ],
+        [
+            "Guilang",
+            "friend of x"
+        ]
+    ],
+    "Qi Gufei": [
+        [
+            "Hei Li",
+            "adoptive sibling of x, colleague of x"
+        ],
+        [
+            "Ruan Wangdi",
+            "acquaintance of x"
+        ],
+        [
+            "Zhaonan",
+            "co-artists with x"
+        ]
+    ],
+    "Hei Li": [
+        [
+            "Qi Gufei",
+            "adoptive sibling of x, colleague of x"
+        ],
+        [
+            "Ruan Wangdi",
+            "acquaintance of x"
+        ],
+        [
+            "Zhaonan",
+            "co-artists with x"
+        ],
+        [
+            "Mrs. Ruan",
+            "victim of x"
+        ]
+    ],
+    "Wang Zimo": [
+        [
+            "Ruan Wangdi",
+            "wife of x, victim of x, deceiver of x"
+        ],
+        [
+            "Ruan Zhaonan",
+            "murdered by x"
+        ]
+    ],
+    "Ruan Zhaonan": [
+        [
+            "Ruan Qiande",
+            "father of x"
+        ],
+        [
+            "Mrs. Ruan",
+            "mother of x"
+        ],
+        [
+            "Wang Zimo",
+            "husband of x, attempted murderer of x, murderer of x"
+        ],
+        [
+            "Zhaonan",
+            "same person as x (different identity)"
+        ],
+        [
+            "Ruan Wangdi",
+            "same person as x (different reference)"
+        ]
+    ]
+}

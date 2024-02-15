@@ -1,0 +1,68 @@
+{
+    "Max Pike": [
+        [
+            "Joe Robertson",
+            "friend of x"
+        ],
+        [
+            "Harold Harrison",
+            "suspicious of x"
+        ],
+        [
+            "Marina Harrison",
+            "suspicious of x"
+        ],
+        [
+            "Lucy Harrison",
+            "blackmail of x"
+        ]
+    ],
+    "Joe Robertson": [
+        [
+            "Max Pike",
+            "friend of x"
+        ]
+    ],
+    "Harold Harrison": [
+        [
+            "Max Pike",
+            "suspicious of x"
+        ],
+        [
+            "Marina Harrison",
+            "possible affair with x"
+        ]
+    ],
+    "Marina Harrison": [
+        [
+            "Harold Harrison",
+            "possible affair with x"
+        ]
+    ],
+    "Lucy Harrison": [
+        [
+            "Max Pike",
+            "blackmail of x"
+        ]
+    ],
+    "John Morgan": [
+        [
+            "Max Pike",
+            "stranger to x"
+        ],
+        [
+            "Harold Harrison",
+            "stranger to x"
+        ],
+        [
+            "Jacquelin",
+            "stranger to x"
+        ]
+    ],
+    "Jacquelin": [
+        [
+            "John Morgan",
+            "stranger to x"
+        ]
+    ]
+}

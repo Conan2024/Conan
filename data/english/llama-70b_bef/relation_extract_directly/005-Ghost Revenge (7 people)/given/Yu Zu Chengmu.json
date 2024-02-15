@@ -1,0 +1,39 @@
+{
+    "Yu Zu Chengmu": [
+      ["Duan Yuetong", "acquaintance of x, suspect of x"], 
+      ["Wu Baian", "acquaintance of x, classmate of x"], 
+      ["Li Zicai", "brother of x, business partner of x"], 
+      ["Aming", "nephew of x, acquaintance of x"], 
+      ["Anqi", "friend of x, acquaintance of x"]
+    ],
+    "Duan Yuetong": [
+      ["Yu Zu Chengmu", "acquaintance of x, suspect of x"], 
+      ["Wu Baian", "acquaintance of x, classmate of x"], 
+      ["Li Zicai", "brother in law of x, acquaintance of x"], 
+      ["Aming", "nephew of x, acquaintance of x"]
+    ],
+    "Wu Baian": [
+      ["Yu Zu Chengmu", "acquaintance of x, classmate of x"], 
+      ["Duan Yuetong", "acquaintance of x, classmate of x"], 
+      ["Li Zicai", "brother of x, classmate of x"], 
+      ["Aming", "nephew of x, acquaintance of x"]
+    ],
+    "Li Zicai": [
+      ["Yu Zu Chengmu", "brother of x, business partner of x"], 
+      ["Duan Yuetong", "sister in law of x, acquaintance of x"], 
+      ["Wu Baian", "brother of x, classmate of x"], 
+      ["Aming", "nephew of x, business partner of x, acquaintance of x"]
+    ],
+    "Aming": [
+      ["Yu Zu Chengmu", "uncle of x, business partner of x, acquaintance of x"], 
+      ["Duan Yuetong", "aunt of x, acquaintance of x"], 
+      ["Wu Baian", "acquaintance of x, classmate of x"], 
+      ["Li Zicai", "uncle of x, business partner of x"]
+    ],
+    "Anqi": [
+      ["Yu Zu Chengmu", "friend of x, acquaintance of x"], 
+      ["Duan Yuetong", "acquaintance of x"], 
+      ["Wu Baian", "acquaintance of x"], 
+      ["Li Zicai", "acquaintance of x"]
+    ]
+}

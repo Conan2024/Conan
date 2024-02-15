@@ -1,0 +1,28 @@
+{
+    "Duan Yuetong": [
+      ["Wu Baian", "suspect of x"], 
+      ["Xia Sanhu", "acquaintance of x"], 
+      ["Anqi", "girlfriend of x"], 
+      ["Yue Kesa", "colleague of x"]
+    ],
+    "Wu Baian": [
+      ["Duan Yuetong", "murderer of x"], 
+      ["Yue Kesa", "business partner of x"]
+    ],
+    "Xia Sanhu": [
+      ["Duan Yuetong", "acquaintance of x"], 
+      ["Xia Bolong", "brother of x"]
+    ],
+    "Anqi": [
+      ["Duan Yuetong", "girlfriend of x"], 
+      ["Yue Kesa", "colleague of x"]
+    ],
+    "Yue Kesa": [
+      ["Duan Yuetong", "colleague of x"], 
+      ["Yue Dongwen", "father of x"]
+    ],
+    "Yue Dongwen": [
+      ["Yue Kesa", "son of x"], 
+      ["Wu Baian", "business partner of x"]
+    ]
+}

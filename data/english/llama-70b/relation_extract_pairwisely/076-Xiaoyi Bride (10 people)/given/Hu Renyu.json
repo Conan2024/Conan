@@ -1,0 +1,802 @@
+{
+    "Fan Jinkui": [
+        [
+            "Fang Chengshan",
+            "friend, mentor"
+        ],
+        [
+            "Golden Beard",
+            "Husband of Tian Hongjiao",
+            "Enemy of Yao Changshou"
+        ],
+        [
+            "Hu Renyu",
+            "Wife of X (different identity)",
+            "Friend of X"
+        ],
+        [
+            "Li Guangsheng",
+            " Husband of X",
+            "Wife of X"
+        ],
+        [
+            "Li Kuansheng",
+            " Husband of X",
+            "Wife of X"
+        ],
+        [
+            "Long-haired Girl",
+            "Wife of X",
+            "Fiancee of X"
+        ],
+        [
+            "Steward Du",
+            "Employer-Employee",
+            "Acquaintance"
+        ],
+        [
+            "Suzhou Girl",
+            "Acquaintance",
+            "Benefactor"
+        ],
+        [
+            "Tian Hongjiao",
+            "Fiancee, Business Partner"
+        ],
+        [
+            "White-headed Snake",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Yao Changshou",
+            "Adversary, Enemy"
+        ],
+        [
+            "Yu Beichen",
+            "Adversary, Enemy, Rival, Manipulator, Informant of X",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "Fang Chengshan": [
+        [
+            "Fan Jinkui",
+            "friend, mentor"
+        ],
+        [
+            "Golden Beard",
+            "Acquaintance",
+            "Business Partner",
+            "Enemy"
+        ],
+        [
+            "Hu Renyu",
+            "Acquaintance",
+            "Suspect",
+            "Enemy",
+            "Adversary",
+            "Manipulator",
+            "Informant",
+            "Helper"
+        ],
+        [
+            "Li Guangsheng",
+            "acquaintance",
+            "business partner",
+            "rival"
+        ],
+        [
+            "Li Kuansheng",
+            "acquaintance",
+            "business partner",
+            "rival"
+        ],
+        [
+            "Long-haired Girl",
+            "Perpetrator of X",
+            "Bully of X"
+        ],
+        [
+            "Steward Du",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Suzhou Girl",
+            "Acquaintance",
+            "Benefactor"
+        ],
+        [
+            "Tian Hongjiao",
+            "acquaintance",
+            "business partner",
+            "co-conspirator",
+            "suspect"
+        ],
+        [
+            "White-headed Snake",
+            "Business Partner",
+            "Acquaintance"
+        ],
+        [
+            "Yao Changshou",
+            "Business Partner",
+            "Rival"
+        ],
+        [
+            "Yu Beichen",
+            "Acquaintance",
+            "Classmate"
+        ]
+    ],
+    "Golden Beard": [
+        [
+            "Fan Jinkui",
+            "Husband of Tian Hongjiao",
+            "Enemy of Yao Changshou"
+        ],
+        [
+            "Fang Chengshan",
+            "Acquaintance",
+            "Business Partner",
+            "Enemy"
+        ],
+        [
+            "Hu Renyu",
+            "Acquaintance",
+            "Business Partner",
+            "Suspicious"
+        ],
+        [
+            "Li Guangsheng",
+            "acquaintance",
+            "suspect",
+            "rival",
+            "enemy"
+        ],
+        [
+            "Li Kuansheng",
+            "acquaintance",
+            "suspect",
+            "rival",
+            "enemy"
+        ],
+        [
+            "Long-haired Girl",
+            "Fiancee, Stranger"
+        ],
+        [
+            "Steward Du",
+            "Adversary, Enemy"
+        ],
+        [
+            "Suzhou Girl",
+            "acquaintance",
+            "benefactor"
+        ],
+        [
+            "Tian Hongjiao",
+            "Fiancee, current wife of Yao Changshou",
+            "Business Partner of Yao Changshou"
+        ],
+        [
+            "White-headed Snake",
+            "acquaintance, potential business partner",
+            "enemy, rival"
+        ],
+        [
+            "Yao Changshou",
+            "rival",
+            "enemy",
+            "attempted murderer"
+        ],
+        [
+            {
+                "name": "Yu Beichen",
+                "relationship": "acquaintance"
+            },
+            {
+                "name": "Yu Beichen",
+                "relationship": "suspect"
+            }
+        ]
+    ],
+    "Hu Renyu": [
+        [
+            "Fan Jinkui",
+            "Husband of X (different reference)",
+            "Friend of X"
+        ],
+        [
+            "Fang Chengshan",
+            "Acquaintance",
+            "Suspect",
+            "Enemy",
+            "Adversary",
+            "Manipulator",
+            "Informant",
+            "Helper"
+        ],
+        [
+            "Golden Beard",
+            "Acquaintance",
+            "Business Partner",
+            "Suspicious"
+        ],
+        [
+            "Li Guangsheng",
+            "Wife of X (different identity)"
+        ],
+        [
+            "Li Kuansheng",
+            "Fiancee, husband"
+        ],
+        [
+            "Long-haired Girl",
+            "Wife of X",
+            "Fiancee of X"
+        ],
+        [
+            "Steward Du",
+            "adversary, enemy, rival"
+        ],
+        [
+            "Suzhou Girl",
+            "Ex-romantic relationships with X",
+            "Romantic relationships with X"
+        ],
+        [
+            "Tian Hongjiao",
+            "Fiancee, later wife of Yao Changshou",
+            "Business Partner of Yao Changshou"
+        ],
+        [
+            "White-headed Snake",
+            "Perpetrator of X",
+            "Victim of X"
+        ],
+        [
+            "Yao Changshou",
+            "Adversary, Enemy, Rival"
+        ],
+        [
+            "Yu Beichen",
+            "Adversary, Enemy, Rival",
+            "Fiancee of X (different identity)"
+        ]
+    ],
+    "Li Guangsheng": [
+        [
+            "Fan Jinkui",
+            " Husband of X",
+            "Wife of X"
+        ],
+        [
+            "Fang Chengshan",
+            "acquaintance",
+            "business partner",
+            "rival"
+        ],
+        [
+            "Golden Beard",
+            "acquaintance",
+            "suspect",
+            "rival",
+            "enemy"
+        ],
+        [
+            "Hu Renyu",
+            "Husband of X (different identity)"
+        ],
+        [
+            "Li Kuansheng",
+            "Brother, Co-owner of the Emerald Residence"
+        ],
+        [
+            "Long-haired Girl",
+            "Wife of X",
+            "Fiancee of X"
+        ],
+        [
+            "Steward Du",
+            "Employer-Employee",
+            "Acquaintance"
+        ],
+        [
+            "Suzhou Girl",
+            " Husband of X"
+        ],
+        [
+            "Tian Hongjiao",
+            "Fiancee, Business Partner"
+        ],
+        [
+            "White-headed Snake",
+            "Perpetrator of X",
+            "Victim of X"
+        ],
+        [
+            "Yao Changshou",
+            " Husband of X",
+            "Stranger to X"
+        ],
+        [
+            "Yu Beichen",
+            "rival, enemy"
+        ]
+    ],
+    "Li Kuansheng": [
+        [
+            "Fan Jinkui",
+            " Husband of X",
+            "Wife of X"
+        ],
+        [
+            "Fang Chengshan",
+            "acquaintance",
+            "business partner",
+            "rival"
+        ],
+        [
+            "Golden Beard",
+            "acquaintance",
+            "suspect",
+            "rival",
+            "enemy"
+        ],
+        [
+            "Hu Renyu",
+            "Fiance, wife"
+        ],
+        [
+            "Li Guangsheng",
+            "Brother, Co-owner of the Emerald Residence"
+        ],
+        [
+            "Long-haired Girl",
+            "Wife of X",
+            "Fiancee of X"
+        ],
+        [
+            "Steward Du",
+            "Employer-Employee",
+            "Acquaintance"
+        ],
+        [
+            "Suzhou Girl",
+            "Ex-romantic relationships with X",
+            "Romantic relationships with X"
+        ],
+        [
+            "Tian Hongjiao",
+            "Fiancee, Business Partner"
+        ],
+        [
+            "White-headed Snake",
+            "Perpetrator of X",
+            "Victim of X"
+        ],
+        [
+            "Yao Changshou",
+            "friend, rival"
+        ],
+        [
+            "Yu Beichen",
+            "rival, enemy"
+        ]
+    ],
+    "Long-haired Girl": [
+        [
+            "Fan Jinkui",
+            "Husband of X",
+            "Fiance of X"
+        ],
+        [
+            "Fang Chengshan",
+            "Victim of X",
+            "Killed by X"
+        ],
+        [
+            "Golden Beard",
+            "Fiancee, Stranger"
+        ],
+        [
+            "Hu Renyu",
+            "Wife of X",
+            "Fiancee of X"
+        ],
+        [
+            "Li Guangsheng",
+            "Wife of X",
+            "Fiancee of X"
+        ],
+        [
+            "Li Kuansheng",
+            "Wife of X",
+            "Fiancee of X"
+        ],
+        [
+            "Steward Du",
+            "Acquaintance",
+            "Classmate"
+        ],
+        [
+            "Suzhou Girl",
+            "Friend",
+            "Benefactor"
+        ],
+        [
+            "Tian Hongjiao",
+            "Wife of X",
+            "Fiancee of X"
+        ],
+        [
+            "White-headed Snake",
+            "Perpetrator of X",
+            "Victim of X"
+        ],
+        [
+            "Yao Changshou",
+            "Wife of X",
+            "Stranger to X"
+        ],
+        [
+            "Yu Beichen",
+            "Acquaintance",
+            "Helped by"
+        ]
+    ],
+    "Steward Du": [
+        [
+            "Fan Jinkui",
+            "Employer-Employee",
+            "Acquaintance"
+        ],
+        [
+            "Fang Chengshan",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Golden Beard",
+            "Adversary, Enemy"
+        ],
+        [
+            "Hu Renyu",
+            "adversary, enemy, rival"
+        ],
+        [
+            "Li Guangsheng",
+            "Employer-Employee",
+            "Acquaintance"
+        ],
+        [
+            "Li Kuansheng",
+            "Employer-Employee",
+            "Acquaintance"
+        ],
+        [
+            "Long-haired Girl",
+            "Acquaintance",
+            "Classmate"
+        ],
+        [
+            "Suzhou Girl",
+            "Employer",
+            "Acquaintance"
+        ],
+        [
+            "Tian Hongjiao",
+            "Employer-Employee, relationship 2"
+        ],
+        [
+            "White-headed Snake",
+            "employer",
+            "acquaintance"
+        ],
+        [
+            "Yao Changshou",
+            "employer-employee, acquaintance"
+        ],
+        [
+            "Yu Beichen",
+            "employer-employee, acquaintance"
+        ]
+    ],
+    "Suzhou Girl": [
+        [
+            "Fan Jinkui",
+            "Acquaintance",
+            "Beneficiary"
+        ],
+        [
+            "Fang Chengshan",
+            "Acquaintance",
+            "Beneficiary"
+        ],
+        [
+            "Golden Beard",
+            "acquaintance",
+            "beneficiary"
+        ],
+        [
+            "Hu Renyu",
+            "Romantic relationships with X",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "Li Guangsheng",
+            "Wife of X"
+        ],
+        [
+            "Li Kuansheng",
+            "Ex-romantic relationships with X",
+            "Romantic relationships with X"
+        ],
+        [
+            "Long-haired Girl",
+            "Friend",
+            "Beneficiary"
+        ],
+        [
+            "Steward Du",
+            "Employer",
+            "Acquaintance"
+        ],
+        [
+            "Tian Hongjiao",
+            "Fiancee, later married to Yao Changshou"
+        ],
+        [
+            "White-headed Snake",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Yao Changshou",
+            "Husband of Suzhou Girl"
+        ],
+        [
+            "Yu Beichen",
+            "Acquaintance",
+            "Business Partner",
+            "Suspect"
+        ]
+    ],
+    "Tian Hongjiao": [
+        [
+            "Fan Jinkui",
+            "Fiance, Business Partner"
+        ],
+        [
+            "Fang Chengshan",
+            "acquaintance",
+            "business partner",
+            "co-conspirator",
+            "suspect"
+        ],
+        [
+            "Golden Beard",
+            "Fiancee, current wife of Yao Changshou",
+            "Business Partner of Yao Changshou"
+        ],
+        [
+            "Hu Renyu",
+            "Fiancee, later wife of Yao Changshou",
+            "Business Partner of Yao Changshou"
+        ],
+        [
+            "Li Guangsheng",
+            "Fiance, Business Partner"
+        ],
+        [
+            "Li Kuansheng",
+            "Fiance, Business Partner"
+        ],
+        [
+            "Long-haired Girl",
+            "Husband of X",
+            "Fiance of X"
+        ],
+        [
+            "Steward Du",
+            "Fiance-Fiancee, relationship 2"
+        ],
+        [
+            "Suzhou Girl",
+            "Fiance, later married to Yao Changshou"
+        ],
+        [
+            "White-headed Snake",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Yao Changshou",
+            "Spouse, Victim"
+        ],
+        [
+            "Yu Beichen",
+            "Wife of X",
+            "Selling wine red"
+        ]
+    ],
+    "White-headed Snake": [
+        [
+            "Fan Jinkui",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Fang Chengshan",
+            "Business Partner",
+            "Acquaintance"
+        ],
+        [
+            "Golden Beard",
+            "acquaintance, potential business partner",
+            "enemy, rival"
+        ],
+        [
+            "Hu Renyu",
+            "Perpetrator of X",
+            "Victim of X"
+        ],
+        [
+            "Li Guangsheng",
+            "Perpetrator of X",
+            "Victim of X"
+        ],
+        [
+            "Li Kuansheng",
+            "Perpetrator of X",
+            "Victim of X"
+        ],
+        [
+            "Long-haired Girl",
+            "Perpetrator of X",
+            "Victim of X"
+        ],
+        [
+            "Steward Du",
+            "employer",
+            "acquaintance"
+        ],
+        [
+            "Suzhou Girl",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Tian Hongjiao",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Yao Changshou",
+            "enemy, rival"
+        ],
+        [
+            "Yu Beichen",
+            "Adversary, Enemy"
+        ]
+    ],
+    "Yao Changshou": [
+        [
+            "Fan Jinkui",
+            "Adversary, Enemy"
+        ],
+        [
+            "Fang Chengshan",
+            "Business Partner",
+            "Rival"
+        ],
+        [
+            "Golden Beard",
+            "rival",
+            "enemy",
+            "attempted murderer"
+        ],
+        [
+            "Hu Renyu",
+            "Adversary, Enemy, Rival"
+        ],
+        [
+            "Li Guangsheng",
+            "Wife of X",
+            "Suspect of X"
+        ],
+        [
+            "Li Kuansheng",
+            "friend, rival"
+        ],
+        [
+            "Long-haired Girl",
+            "Husband of X",
+            "Stranger to X"
+        ],
+        [
+            "Steward Du",
+            "employer-employee, acquaintance"
+        ],
+        [
+            "Suzhou Girl",
+            "Wife of Yao Changshou"
+        ],
+        [
+            "Tian Hongjiao",
+            "Spouse, Perpetrator"
+        ],
+        [
+            "White-headed Snake",
+            "enemy, rival"
+        ],
+        [
+            "Yu Beichen",
+            "Rival, Enemy"
+        ]
+    ],
+    "Yu Beichen": [
+        [
+            "Fan Jinkui",
+            "Adversary, Enemy, Rival, Manipulator, Informant of X",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Fang Chengshan",
+            "Acquaintance",
+            "Classmate"
+        ],
+        [
+            {
+                "name": "Golden Beard",
+                "relationship": "acquaintance"
+            },
+            {
+                "name": "Golden Beard",
+                "relationship": "suspicious"
+            }
+        ],
+        [
+            "Hu Renyu",
+            "Adversary, Enemy, Rival",
+            "Fiancee of X (different identity)"
+        ],
+        [
+            "Li Guangsheng",
+            "rival, enemy"
+        ],
+        [
+            "Li Kuansheng",
+            "rival, enemy"
+        ],
+        [
+            "Long-haired Girl",
+            "Acquaintance",
+            "Helped by"
+        ],
+        [
+            "Steward Du",
+            "employer-employee, acquaintance"
+        ],
+        [
+            "Suzhou Girl",
+            "Acquaintance",
+            "Business Partner",
+            "Suspect"
+        ],
+        [
+            "Tian Hongjiao",
+            "Husband of X",
+            "Lascivious person"
+        ],
+        [
+            "White-headed Snake",
+            "Adversary, Enemy"
+        ],
+        [
+            "Yao Changshou",
+            "Rival, Enemy"
+        ]
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Xue Yan": [
+      ["Luo Younuo", "sibling of x"], 
+      ["Wangdi", "sister of x"], 
+      ["Wang Zimo", "romantic relationships with x"]
+    ],
+    "Luo Younuo": [
+      ["Xue Yan", "sibling of x"], 
+      ["Guilang", "friend of x"], 
+      ["Hei Li", "friend of x"], 
+      ["Qi Gu Fei", "friend of x"]
+    ],
+    "Mrs. Ruan": [
+      ["Xue Yan", "employee of x, quest companion of x"], 
+      ["Wangdi", "employer of x, quest companion of x"], 
+      ["Zhaonan", "acquaintance of x, quest companion of x"], 
+      ["Guilang", "acquaintance of x, quest companion of x"], 
+      ["Baron Smith", "employer of x, quest companion of x"]
+    ],
+    "Wangdi": [
+      ["Xue Yan", "sister of x"], 
+      ["Zhaonan", "acquaintance of x"], 
+      ["Guilang", "acquaintance of x"], 
+      ["Hei Li", "acquaintance of x"], 
+      ["Qi Gu Fei", "acquaintance of x"]
+    ],
+    "Zhaonan": [
+      ["Xue Yan", "acquaintance of x"], 
+      ["Wangdi", "sister of x"], 
+      ["Guilang", "friend of x"], 
+      ["Hei Li", "friend of x"], 
+      ["Qi Gu Fei", "friend of x"]
+    ],
+    "Guilang": [
+      ["Xue Yan", "acquaintance of x"], 
+      ["Mrs. Ruan", "acquaintance of x"], 
+      ["Luo Younuo", "acquaintance of x"], 
+      ["Wangdi", "acquaintance of x"], 
+      ["Zhaonan", "friend of x"], 
+      ["Hei Li", "friend of x"], 
+      ["Qi Gu Fei", "friend of x"]
+    ],
+    "Hei Li": [
+      ["Xue Yan", "acquaintance of x"], 
+      ["Luo Younuo", "acquaintance of x"], 
+      ["Wangdi", "acquaintance of x"], 
+      ["Zhaonan", "friend of x"], 
+      ["Guilang", "friend of x"], 
+      ["Qi Gu Fei", "friend of x"]
+    ],
+    "Qi Gu Fei": [
+      ["Xue Yan", "acquaintance of x"], 
+      ["Luo Younuo", "acquaintance of x"], 
+      ["Wangdi", "acquaintance of x"], 
+      ["Zhaonan", "friend of x"], 
+      ["Guilang", "friend of x"], 
+      ["Hei Li", "friend of x"]
+    ],
+    "Baron Smith": [
+      ["Xue Yan", "employer of x"], 
+      ["Mrs. Ruan", "employer of x"]
+    ],
+    "Wang Zimo": [
+      ["Xue Yan", "romantic relationships with x"], 
+      ["Unspecified Widow", "wife of x"]
+    ],
+    "Unspecified Widow": [
+      ["Xue Yan", "enemy of x"], 
+      ["Wang Zimo", "wife of x"]
+    ]
+}

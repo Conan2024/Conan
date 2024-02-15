@@ -1,0 +1,70 @@
+{
+    "Madam Li": [
+      ["Fang Xu", "mother of x"], 
+      ["Fang Ye", "brother of x, bully of x"], 
+      ["Fang Mian", "sister of x, bully of x"], 
+      ["Li Zhong", "son of x"], 
+      ["Li Yan", "son of x"], 
+      ["Lang Zhong", "lover of x"], 
+      ["Chen Fu Qianjin", "daughter in law of x"]
+    ],
+    "Fang Xu": [
+      ["Madam Li", "mother of x"], 
+      ["Fang Ye", "brother of x"], 
+      ["Fang Mian", "sister of x"], 
+      ["Lang Zhong", "lover of x"], 
+      ["Li Zhong", "son of x"], 
+      ["Li Yan", "son of x"]
+    ],
+    "Fang Ye": [
+      ["Madam Li", "mother of x"], 
+      ["Fang Xu", "brother of x"], 
+      ["Fang Mian", "sister of x"], 
+      ["Li Zhong", "nephew of x"], 
+      ["Li Yan", "nephew of x"]
+    ],
+    "Fang Mian": [
+      ["Madam Li", "mother of x"], 
+      ["Fang Xu", "brother of x"], 
+      ["Fang Ye", "brother of x"], 
+      ["Li Zhong", "nephew of x"], 
+      ["Li Yan", "nephew of x"]
+    ],
+    "Li Zhong": [
+      ["Madam Li", "mother of x"], 
+      ["Fang Xu", "father of x"], 
+      ["Fang Ye", "uncle of x"], 
+      ["Fang Mian", "aunt of x"], 
+      ["Chen Fu Qianjin", "wife of x"]
+    ],
+    "Li Yan": [
+      ["Madam Li", "mother of x"], 
+      ["Fang Xu", "father of x"], 
+      ["Fang Ye", "uncle of x"], 
+      ["Fang Mian", "aunt of x"], 
+      ["Chen Fu Qianjin", "wife of x"]
+    ],
+    "Lang Zhong": [
+      ["Madam Li", "lover of x"]
+    ],
+    "Chen Fu Qianjin": [
+      ["Madam Li", "daughter in law of x"], 
+      ["Li Zhong", "husband of x"], 
+      ["Li Yan", "husband of x"]
+    ],
+    "Chen Zijing": [
+      ["Chen Fu Qianjin", "father of x"], 
+      ["Madam Li", "father in law of x"]
+    ],
+    "Fang Zhu": [
+      ["Li Fu", "master of x"]
+    ],
+    "Li Fu": [
+      ["Madam Li", "husband of x"], 
+      ["Fang Zhu", "servant of x"]
+    ],
+    "Wangye (Lord Li)": [
+      ["Madam Li", "husband of x"], 
+      ["Li Zhong", "son of x"]
+    ]
+}

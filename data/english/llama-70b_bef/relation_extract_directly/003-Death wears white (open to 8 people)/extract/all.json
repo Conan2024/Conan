@@ -1,0 +1,29 @@
+{
+    "Gale Li Morette": [
+      ["Hans Li Morette", "deceiver of x"], 
+      ["Drake Li Morette", "lover of x"], 
+      ["Head NURSE COSTA", "acquaintance of x"], 
+      ["Jim Mason", "acquaintance of x"], 
+      ["Leine Carter", "acquaintance of x"]
+    ],
+    "Hans Li Morette": [
+      ["Drake Li Morette", "brother of x, rival of x"], 
+      ["Jim Mason", "patient of x"], 
+      ["Leine Carter", "acquaintance of x"]
+    ],
+    "Drake Li Morette": [
+      ["Gale Li Morette", "lover of x"], 
+      ["Hans Li Morette", "brother of x, rival of x"], 
+      ["Head NURSE COSTA", "acquaintance of x"], 
+      ["Leine Carter", "acquaintance of x"]
+    ],
+    "Head NURSE COSTA": [
+      ["Gale Li Morette", "acquaintance of x"], 
+      ["Hans Li Morette", "colleague of x, doctor of x"]
+    ],
+    "Jim Mason": [
+      ["Hans Li Morette", "patient of x"], 
+      ["Gale Li Morette", "acquaintance of x"], 
+      ["Leine Carter", "acquaintance of x"]
+    ]
+}

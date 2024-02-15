@@ -1,0 +1,162 @@
+{
+    "Chen Meier": [
+        [
+            "Ma Laoban",
+            "Business Partner",
+            "Customer"
+        ],
+        [
+            "Zhang Wei",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Zhao San",
+            "Friend of X",
+            "Informant of X"
+        ],
+        [
+            "Zhao Zhongyang",
+            "Rival of X",
+            "Enemy of X"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "Acquaintance",
+            "Business Partner"
+        ]
+    ],
+    "Ma Laoban": [
+        [
+            "Chen Meier",
+            "Business Partner",
+            "Customer"
+        ],
+        [
+            "Zhang Wei",
+            "Business Partner of X",
+            "Customer of X"
+        ],
+        [
+            "Zhao San",
+            "Business Partner",
+            "buyer"
+        ],
+        [
+            "Zhao Zhongyang",
+            "Business Partner"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "Business Partner"
+        ]
+    ],
+    "Zhang Wei": [
+        [
+            "Chen Meier",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Ma Laoban",
+            "Business Partner of X",
+            "Customer of X"
+        ],
+        [
+            "Zhao San",
+            "Friend of X",
+            "Business Partner of X"
+        ],
+        [
+            "Zhao Zhongyang",
+            "Friend of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "Friend",
+            "Business Partner"
+        ]
+    ],
+    "Zhao San": [
+        [
+            "Chen Meier",
+            "Friend of X",
+            "Informant of X"
+        ],
+        [
+            "Ma Laoban",
+            "Business Partner",
+            "Seller"
+        ],
+        [
+            "Zhang Wei",
+            "Friend of X",
+            "Business Partner of X"
+        ],
+        [
+            "Zhao Zhongyang",
+            "Same person as X (different reference)",
+            "Friend of X",
+            "Helped by X"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "adopted brother, rival"
+        ]
+    ],
+    "Zhao Zhongyang": [
+        [
+            "Chen Meier",
+            "Rival of X",
+            "Enemy of X"
+        ],
+        [
+            "Ma Laoban",
+            "Business Partner"
+        ],
+        [
+            "Zhang Wei",
+            "Friend of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhao San",
+            "Same person as X (different reference)",
+            "Friend of X",
+            "Helped by X"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "adoptive brother",
+            "rival",
+            "acquaintance"
+        ]
+    ],
+    "Zhao Zhongzheng": [
+        [
+            "Chen Meier",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Ma Laoban",
+            "Business Partner"
+        ],
+        [
+            "Zhang Wei",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Zhao San",
+            "adopted brother, rival"
+        ],
+        [
+            "Zhao Zhongyang",
+            "adoptive brother",
+            "rival",
+            "acquaintance"
+        ]
+    ]
+}

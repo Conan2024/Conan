@@ -1,0 +1,20 @@
+{
+    "Shi Yan": [
+      ["Du Zhong", "killed by of x, attempted murderer of x"], 
+      ["Lady Safflower", "apprentice of x, friend of x"], 
+      ["Lu Ying", "acquaintance of x, colleague of x"], 
+      ["Martial Alliance's Investigator", "suspect of x, adversary of x"]
+    ],
+    "Du Zhong": [
+      ["Shi Yan", "killed by of x, victim of x"], 
+      ["Lady Safflower", "former lover of x, betrayer of x"]
+    ],
+    "Lady Safflower": [
+      ["Shi Yan", "apprentice of x, friend of x"], 
+      ["Du Zhong", "former lover of x, betrayed by of x"]
+    ],
+    "Lu Ying": [
+      ["Shi Yan", "acquaintance of x, colleague of x"], 
+      ["Du Zhong", "colleague of x, suspect of x"]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "Chen Qian": [
+      ["Li Qinren", "husband of x, same person as x (different identity)"], 
+      ["Li Zhong", "husband of x, lover of x"], 
+      ["Li's acquaintance", "husband of x, same person as x (different identity)"]
+    ],
+    "Chen Zijing": [
+      ["Li Qinren", "father in law of x"], 
+      ["Li Zhong", "father in law of x, suspect of x"], 
+      ["Li's acquaintance", "father of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by x"], 
+      ["Xiao Qian", "father of x, adoptive father of x"]
+    ],
+    "Li Qinren": [
+      ["Chen Qian", "wife of x, same person as x (different identity)"], 
+      ["Chen Zijing", "son in law of x"], 
+      ["Li Zhong", "father in law of x"], 
+      ["Li's acquaintance", "father in law of x, friend of x"], 
+      ["Xiao Qian", "father in law of x"]
+    ],
+    "Li Zhong": [
+      ["Chen Qian", "wife of x, lover of x"], 
+      ["Chen Zijing", "husband of x, son in law of x"], 
+      ["Li Qinren", "husband of x, son in law of x"], 
+      ["Acquaintance", "friend of x, classmate of x"]
+    ],
+    "Li's acquaintance": [
+      ["Chen Qian", "husband of x, same person as x (different identity)"], 
+      ["Chen Zijing", "brother of x, sister of x, relative of x, nephew of x, aunt of x, uncle of x, niece of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by x"], 
+      ["Li Qinren", "acquaintance of x, friend of x"], 
+      ["Xiao Qian", "friend of x, classmate of x, schoolmate of x, neighbour of x"]
+    ],
+    "Xiao Qian": [
+      ["Chen Zijing", "daughter of x"], 
+      ["Li Qinren", "mother in law of x"], 
+      ["Li's acquaintance", "friend of x, classmate of x, schoolmate of x, neighbour of x"]
+    ],
+    "Acquaintance": [
+      ["Li Zhong", "friend of x, classmate of x"]
+    ]
+}

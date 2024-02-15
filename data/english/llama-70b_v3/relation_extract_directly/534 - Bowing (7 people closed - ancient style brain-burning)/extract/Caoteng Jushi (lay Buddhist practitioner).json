@@ -1,0 +1,50 @@
+{
+    "Fangfu": [
+      ["Fangxu", "same person as x (different reference)"], 
+      ["Fangmian", "same person as x (different identity)"]
+    ],
+    "Fangxu": [
+      ["Fangfu", "same person as x (different reference)"], 
+      ["Langzhong", "husband of x"], 
+      ["Fangmian", "sister of x"]
+    ],
+    "Fangmian": [
+      ["Fangfu", "same person as x (different identity)"], 
+      ["Fangxu", "sister of x"]
+    ],
+    "Langzhong": [
+      ["Fangxu", "husband of x"]
+    ],
+    "Xiao Qian": [
+      ["Fang Ye's daughter", "daughter of x"]
+    ],
+    "Chen Qian": [
+      ["Mrs. Chen", "mother of x"]
+    ],
+    "Master Chen": [
+      ["Chen Mansion", "employer of x"]
+    ],
+    "Mrs. Chen": [
+      ["Chen Qian", "mother of x"]
+    ],
+    "Li Qinren": [
+      ["Fang XU", "husband of x"]
+    ],
+    "Fang XU": [
+      ["Li Qinren", "wife of x"], 
+      ["Fangfu", "daughter of x"], 
+      ["Fangxu", "sister of x"]
+    ],
+    "Li Fu": [
+      ["Fang XU", "husband of x"]
+    ],
+    "Chen Nu": [
+      ["Li Fu", "wife of x"]
+    ],
+    "Shouli": [
+      ["Master Chen", "manipulator of x"]
+    ],
+    "Guests": [
+      ["Shouli", "acquaintance of x"]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "Jacqueline Perry": [
+      ["Marina Harrison", "sister of x, business partner of x, rival of x, adversary of x, enemy of x"], 
+      ["Daniel Perry", "wife of x, suspect of x, adversary of x, rival of x, manipulator of x, manipulated by x"], 
+      ["Jonathan Perry", "son of x, husband of x, sister of x, brother in law of x, cousin of x"], 
+      ["Harold Harrison", "wife of x, sister of x, rival of x, enemy of x"], 
+      ["Alex Harvey", "cousin of x, friend of x"], 
+      ["John Morgan", "wife of x, sister of x, business partner of x, rival of x, adversary of x, suspect of x, perpetrator of x"]
+    ],
+    "Marina Harrison": [
+      ["Jacqueline Perry", "sister of x, business partner of x, rival of x, adversary of x, enemy of x"], 
+      ["Daniel Perry", "wife of x, suspect of x, rival of x, manipulator of x, enemy of x"], 
+      ["Jonathan Perry", "sister of x, colleague of x, rival of x, adversary of x, suspect of x, bully of x"], 
+      ["Harold Harrison", "sister of x, colleague of x, rival of x, enemy of x"], 
+      ["Alex Harvey", "sister of x, colleague of x, rival of x"], 
+      ["John Morgan", "sister of x, colleague of x, rival of x, enemy of x"]
+    ],
+    "Daniel Perry": [
+      ["Jacqueline Perry", "husband of x, suspect of x, adversary of x, rival of x, manipulator of x, manipulated by x"], 
+      ["Marina Harrison", "husband of x, suspect of x, rival of x, manipulated by x, adversary of x"], 
+      ["Jonathan Perry", "husband of x, father of x"], 
+      ["Harold Harrison", "husband of x, suspect of x"], 
+      ["Alex Harvey", "husband of x, suspect of x"], 
+      ["John Morgan", "husband of x, suspect of x"]
+    ],
+    "Jonathan Perry": [
+      ["Jacqueline Perry", "son of x, mother of x, uncle of x, father in law of x, cousin of x"], 
+      ["Marina Harrison", "husband of x, father of x, colleague of x, business partner of x, rival of x, adversary of x"], 
+      ["Daniel Perry", "son of x, husband of x"], 
+      ["Harold Harrison", "brother in law of x, business partner of x, suspicious of x, adversary of x"], 
+      ["Alex Harvey", "cousin of x, friend of x"], 
+      ["John Morgan", "husband of x, suspect of x"]
+    ],
+    "Harold Harrison": [
+      ["Jacqueline Perry", "husband of x, brother in law of x, rival of x, enemy of x"], 
+      ["Marina Harrison", "husband of x, brother in law of x, colleague of x, adversary of x"], 
+      ["Daniel Perry", "brother in law of x"], 
+      ["Jonathan Perry", "brother in law of x, business partner of x, suspicious of x, adversary of x"], 
+      ["Alex Harvey", "brother in law of x"], 
+      ["John Morgan", "husband of x, brother in law of x"]
+    ],
+    "Alex Harvey": [
+      ["Jacqueline Perry", "cousin of x, friend of x"], 
+      ["Marina Harrison", "cousin of x, colleague of x, rival of x"], 
+      ["Daniel Perry", "cousin of x, friend of x"], 
+      ["Jonathan Perry", "cousin of x, friend of x"], 
+      ["Harold Harrison", "cousin of x"], 
+      ["John Morgan", "cousin of x, friend of x"]
+    ],
+    "John Morgan": [
+      ["Jacqueline Perry", "husband of x, brother in law of x, business partner of x, rival of x, adversary of x, victim of x"], 
+      ["Marina Harrison", "husband of x, colleague of x, rival of x, enemy of x"], 
+      ["Daniel Perry", "victim of x, suspicious of x"], 
+      ["Jonathan Perry", "victim of x, suspicious of x"], 
+      ["Harold Harrison", "friend of x, business partner of x"], 
+      ["Alex Harvey", "friend of x, acquaintance of x"]
+    ]
+}

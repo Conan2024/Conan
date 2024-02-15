@@ -1,0 +1,102 @@
+{
+    "Ship Doctor Ling": [
+        [
+            "Boss Yang",
+            "employee of x, informant of x, threatened by x"
+        ],
+        [
+            "First Mate Zhang",
+            "informant of x, quest companion of x, paid by x"
+        ],
+        [
+            "Worker Wang",
+            "fiance of x, romantic relationships with x"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "father in law of x, monitored by x, quest companion of x, helped by x"
+        ],
+        [
+            "Secretary Wen",
+            "information receiver from x, colleague of x"
+        ]
+    ],
+    "Boss Yang": [
+        [
+            "Ship Doctor Ling",
+            "employer of x, superior of x, threatens x"
+        ],
+        [
+            "Secretary Wen",
+            "subordinate of x, employee of x"
+        ],
+        [
+            "First Mate Zhang",
+            "business partner of x, customer of x"
+        ],
+        [
+            "Worker Wang",
+            "acquaintance of x"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "acquaintance of x"
+        ]
+    ],
+    "First Mate Zhang": [
+        [
+            "Ship Doctor Ling",
+            "employer of x, used by x"
+        ],
+        [
+            "Boss Yang",
+            "business partner of x, service provider of x"
+        ],
+        [
+            "Worker Wang",
+            "superior of x, colleague of x"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "subordinate of x, colleague of x"
+        ]
+    ],
+    "Worker Wang": [
+        [
+            "Ship Doctor Ling",
+            "fiancee of x, romantic relationships with x, deceived by x"
+        ],
+        [
+            "First Mate Zhang",
+            "superior of x, colleague of x"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "father of x"
+        ]
+    ],
+    "Shipyard Worker Wang": [
+        [
+            "Ship Doctor Ling",
+            "daughter in law of x, monitored by x, helped by x"
+        ],
+        [
+            "First Mate Zhang",
+            "superior of x, colleague of x"
+        ],
+        [
+            "Worker Wang",
+            "son of x"
+        ]
+    ],
+    "Secretary Wen": [
+        [
+            "Ship Doctor Ling",
+            "colleague of x, source of information for x"
+        ],
+        [
+            "Boss Yang",
+            "employer of x, superior of x"
+        ]
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "Xue Meiniang": [
+      ["Xiao Tiyu", "romantic relationships with x"], 
+      ["Qin Laoda", "lover of x"], 
+      ["Qin Expert", "romantic relationships with x"], 
+      ["Jia Meili", "romantic relationships with x"], 
+      ["Zheng Youhao", "romantic relationships with x, informant of x"], 
+      ["Wei Xiaodi", "lover of x"]
+    ],
+    "Xiao Tiyu": [
+      ["Xue Meiniang", "romantic relationships with x"], 
+      ["Qin Laoda", "romantic relationships with x"], 
+      ["Qin Expert", "romantic relationships with x"], 
+      ["Jia Meili", "boyfriend of x"], 
+      ["Wei Xiaodi", "romantic relationships with x"]
+    ],
+    "Qin Laoda": [
+      ["Xue Meiniang", "lover of x"], 
+      ["Xiao Tiyu", "romantic relationships with x"], 
+      ["Qin Expert", "child of x"], 
+      ["Jia Meili", "friend of x"], 
+      ["Zhuang Qingchun", "lover of x"], 
+      ["Zheng Youhao", "friend of x, classmate of x"], 
+      ["Wei Xiaodi", "romantic relationships with x, informant of x"]
+    ],
+    "Qin Expert": [
+      ["Xue Meiniang", "romantic relationships with x"], 
+      ["Xiao Tiyu", "romantic relationships with x"], 
+      ["Qin Laoda", "father of x"], 
+      ["Jia Meili", "suspected by x"], 
+      ["Zhuang Qingchun", "ex romantic relationships with x, colleague of x, mentor of x"], 
+      ["Zheng Youhao", "fiance of x, teacher of x"], 
+      ["Wei Xiaodi", "lover of x"]
+    ],
+    "Jia Meili": [
+      ["Xue Meiniang", "romantic relationships with x"], 
+      ["Xiao Tiyu", "girlfriend of x"], 
+      ["Qin Laoda", "friend of x"], 
+      ["Qin Expert", "suspected by x"], 
+      ["Zhuang Qingchun", "student of x"], 
+      ["Zheng Youhao", "student of x"], 
+      ["Wei Xiaodi", "romantic relationships with x"]
+    ],
+    "Zhuang Qingchun": [
+      ["Qin Laoda", "lover of x"], 
+      ["Qin Expert", "ex boyfriend of x, murderer of x"], 
+      ["Jia Meili", "teacher of x"], 
+      ["Zheng Youhao", "romantic relationships with x"], 
+      ["Wei Xiaodi", "romantic relationships with x, helper of x"]
+    ],
+    "Zheng Youhao": [
+      ["Xue Meiniang", "romantic relationships with x, informant of x"], 
+      ["Qin Laoda", "friend of x, classmate of x"], 
+      ["Qin Expert", "student of x"], 
+      ["Jia Meili", "teacher of x"], 
+      ["Zhuang Qingchun", "romantic relationships with x"], 
+      ["Wei Xiaodi", "friend of x"]
+    ],
+    "Wei Xiaodi": [
+      ["Xue Meiniang", "lover of x"], 
+      ["Xiao Tiyu", "romantic relationships with x"], 
+      ["Qin Laoda", "romantic relationships with x, informant of x"], 
+      ["Qin Expert", "lover of x"], 
+      ["Jia Meili", "romantic relationships with x"], 
+      ["Zhuang Qingchun", "romantic relationships with x, helped by x"], 
+      ["Zheng Youhao", "friend of x"]
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "Chen Qian": [
+        [
+            "Chen Zijing",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Li Qinren",
+            "Husband",
+            "Lover"
+        ],
+        [
+            "Li Yan",
+            "Husband of X",
+            "Lover of X"
+        ],
+        [
+            "Li Zhong",
+            "Husband of X",
+            "Lover of X"
+        ],
+        [
+            "Madam Li or Li family",
+            "Wife of X"
+        ]
+    ],
+    "Chen Zijing": [
+        [
+            "Chen Qian",
+            "Father of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Li Qinren",
+            "father-in-law",
+            "master"
+        ],
+        [
+            "Li Yan",
+            "Brother-in-law",
+            "Son-in-law"
+        ],
+        [
+            "Li Zhong",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Madam Li or Li family",
+            "Wife of X"
+        ]
+    ],
+    "Li Qinren": [
+        [
+            "Chen Qian",
+            "Wife",
+            "Father"
+        ],
+        [
+            "Chen Zijing",
+            "father-in-law",
+            "master"
+        ],
+        [
+            "Li Yan",
+            "Son of Li Qinren",
+            "Brother of Li Yan",
+            "Same person as Li Yan (different reference)"
+        ],
+        [
+            "Li Zhong",
+            "Father of X",
+            "Master of X"
+        ],
+        [
+            "Madam Li or Li family",
+            "Father of X"
+        ]
+    ],
+    "Li Yan": [
+        [
+            "Chen Qian",
+            "Wife of X",
+            "Lover of X"
+        ],
+        [
+            "Chen Zijing",
+            "Brother-in-law",
+            "Son-in-law"
+        ],
+        [
+            "Li Qinren",
+            "Brother of Li Qinren",
+            "Son of Li Qinren",
+            "Same person as Li Qinren (different reference)"
+        ],
+        [
+            "Li Zhong",
+            "Brother",
+            "Twin brother"
+        ],
+        [
+            "Madam Li or Li family",
+            "Brother",
+            "Son"
+        ]
+    ],
+    "Li Zhong": [
+        [
+            "Chen Qian",
+            "Wife of X",
+            "Lover of X"
+        ],
+        [
+            "Chen Zijing",
+            "Wife of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Li Qinren",
+            "Son of X",
+            "Disciple of X"
+        ],
+        [
+            "Li Yan",
+            "Brother",
+            "Twin brother"
+        ],
+        [
+            "Madam Li or Li family",
+            "Brother",
+            "Son"
+        ]
+    ],
+    "Madam Li or Li family": [
+        [
+            "Chen Qian",
+            "Mother of X"
+        ],
+        [
+            "Chen Zijing",
+            "Mother of X"
+        ],
+        [
+            "Li Qinren",
+            "Mother of X"
+        ],
+        [
+            "Li Yan",
+            "Mother",
+            "Wife of X"
+        ],
+        [
+            "Li Zhong",
+            "Mother",
+            "Wife of X"
+        ]
+    ]
+}

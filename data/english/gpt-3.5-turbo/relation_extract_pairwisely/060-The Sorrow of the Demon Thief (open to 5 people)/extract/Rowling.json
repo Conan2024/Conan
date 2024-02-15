@@ -1,0 +1,95 @@
+{
+    "Gust": [
+        [
+            "David",
+            "employee of x"
+        ],
+        [
+            "Kevin",
+            "brother of Gust"
+        ],
+        [
+            "Ella",
+            "fiancée of Gust"
+        ],
+        [
+            "Griff",
+            "helper of Griff",
+            "suspected by Griff"
+        ]
+    ],
+    "David": [
+        [
+            "Gust",
+            "co-worker of x"
+        ],
+        [
+            "Kevin",
+            "friend of x"
+        ],
+        [
+            "Ella",
+            "romantic relationships with Ella"
+        ],
+        [
+            "Griff",
+            "romantic relationships with x"
+        ]
+    ],
+    "Kevin": [
+        [
+            "Gust",
+            "mentor of Kevin"
+        ],
+        [
+            "David",
+            "friend of x"
+        ],
+        [
+            "Ella",
+            "brother of"
+        ],
+        [
+            "Griff",
+            "brother of"
+        ]
+    ],
+    "Ella": [
+        [
+            "Gust",
+            "romantic relationship with Gust"
+        ],
+        [
+            "David",
+            "romantic relationships with David"
+        ],
+        [
+            "Kevin",
+            "sister of"
+        ],
+        [
+            "Griff",
+            "friend of x"
+        ]
+    ],
+    "Griff": [
+        [
+            "Gust",
+            "information receiver from Gust",
+            "suspect of Gust"
+        ],
+        [
+            "David",
+            "romantic relationships with x"
+        ],
+        [
+            "Kevin",
+            "brother of"
+        ],
+        [
+            "Ella",
+            "person of interest to x",
+            "unknown relationship with x"
+        ]
+    ]
+}

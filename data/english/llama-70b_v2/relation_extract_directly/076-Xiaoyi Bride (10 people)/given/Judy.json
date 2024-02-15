@@ -1,0 +1,55 @@
+{
+    "Judy": [
+      ["Fang Minyue", "childhood sweetheart of x, close friend of x"], 
+      ["Yao Changshan", "uncle of x, father figure of x"], 
+      ["Madam Xu", "aunt of x, mentor of x"], 
+      ["Yao Mengren", "cousin of x, rival of x"], 
+      ["Yao Zhongyi", "brother of x, sibling of x"], 
+      ["Lady Hong", "step mother of x, enemy of x"], 
+      ["White-headed Snake", "acquaintance of x, business partner of x"]
+    ],
+    "Fang Minyue": [
+      ["Judy", "childhood sweetheart of x, close friend of x"], 
+      ["Fang Chengshan", "father of x, deceased of x"]
+    ],
+    "Yao Changshou": [
+      ["Judy", "uncle of x, father figure of x"], 
+      ["Madam Xu", "wife of x, mentor of x"], 
+      ["Yao Mengren", "son of x, rival of x"], 
+      ["Yao Zhongyi", "son of x, sibling of x"], 
+      ["Lady Hong", "wife of x, enemy of x"]
+    ],
+    "Madam Xu": [
+      ["Judy", "aunt of x, mentor of x"], 
+      ["Yao Changshou", "husband of x, father figure of x"], 
+      ["Yao Mengren", "son of x, rival of x"], 
+      ["Yao Zhongyi", "son of x, sibling of x"]
+    ],
+    "Yao Mengren": [
+      ["Judy", "cousin of x, rival of x"], 
+      ["Yao Changshou", "father of x, uncle of x"], 
+      ["Madam Xu", "mother of x, mentor of x"], 
+      ["Yao Zhongyi", "brother of x, sibling of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Judy", "brother of x, sibling of x"], 
+      ["Yao Changshou", "father of x, uncle of x"], 
+      ["Madam Xu", "mother of x, mentor of x"], 
+      ["Yao Mengren", "brother of x, rival of x"]
+    ],
+    "Lady Hong": [
+      ["Judy", "step mother of x, enemy of x"], 
+      ["Yao Changshou", "husband of x, father figure of x"]
+    ],
+    "White-headed Snake": [
+      ["Judy", "acquaintance of x, business partner of x"]
+    ],
+    "Doctor Fang": [
+      ["Judy", "first love of x, close friend of x"], 
+      ["Fang Chengshan", "father of x, deceased of x"]
+    ],
+    "Fang Chengshan": [
+      ["Judy", "father of x, deceased of x"], 
+      ["Fang Minyue", "daughter of x, close friend of x"]
+    ]
+}

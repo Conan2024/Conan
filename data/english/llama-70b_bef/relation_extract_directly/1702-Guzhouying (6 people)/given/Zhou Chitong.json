@@ -1,0 +1,48 @@
+{
+    "Zhou Chitong": [
+      ["Tian Chou", "lover of x"], 
+      ["Xi Yan", "friend of x, acquaintance of x"], 
+      ["Su Nian", "friend of x, acquaintance of x"], 
+      ["Lianyi", "friend of x, acquaintance of x"], 
+      ["Cui Shouheng", "enemy of x, murderer of x"]
+    ],
+    "Tian Chou": [
+      ["Zhou Chitong", "lover of x"], 
+      ["Xi Yan", "friend of x, acquaintance of x"], 
+      ["Su Nian", "friend of x, acquaintance of x"], 
+      ["Lianyi", "friend of x, acquaintance of x"]
+    ],
+    "Xi Yan": [
+      ["Zhou Chitong", "friend of x, acquaintance of x"], 
+      ["Tian Chou", "friend of x, acquaintance of x"], 
+      ["Su Nian", "friend of x, acquaintance of x"], 
+      ["Lianyi", "friend of x, acquaintance of x"]
+    ],
+    "Su Nian": [
+      ["Zhou Chitong", "friend of x, acquaintance of x"], 
+      ["Tian Chou", "friend of x, acquaintance of x"], 
+      ["Xi Yan", "friend of x, acquaintance of x"], 
+      ["Lianyi", "brother of x"]
+    ],
+    "Lianyi": [
+      ["Zhou Chitong", "friend of x, acquaintance of x"], 
+      ["Tian Chou", "friend of x, acquaintance of x"], 
+      ["Xi Yan", "friend of x, acquaintance of x"], 
+      ["Su Nian", "brother of x"]
+    ],
+    "Cui Shouheng": [
+      ["Zhou Chitong", "enemy of x, victim of x"], 
+      ["Tian Chou", "enemy of x"]
+    ],
+    "Yannan": [
+      ["Zhou Chitong", "friend of x, acquaintance of x"], 
+      ["Tian Chou", "friend of x, acquaintance of x"]
+    ],
+    "Taitai": [
+      ["Tian Chou", "same person as x (different reference)"], 
+      ["Zhou Chitong", "acquaintance of x"]
+    ],
+    "Uncle Fu": [
+      ["Yannan", "acquaintance of x"]
+    ]
+}

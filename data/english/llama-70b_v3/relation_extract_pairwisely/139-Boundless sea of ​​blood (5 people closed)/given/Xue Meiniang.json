@@ -1,0 +1,72 @@
+{
+    "Jia Meili": [
+      ["Qin Expert", "acquaintance of x"], 
+      ["Qin Laoda", "acquaintance of x, classmate of x"], 
+      ["Wei Xiaodi", "acquaintance of x, classmate of x"], 
+      ["Xiao Tiyu", "wife of x, fiancee of x"], 
+      ["Xue Meiniang", "acquaintance of x, classmate of x, schoolmate of x, colleague of x"], 
+      ["Zheng Youhao", "wife of x, ex romantic relationships with x, romantic relationships with x"], 
+      ["Zhuang Qingchun", "friend of x, classmate of x"]
+    ],
+    "Qin Expert": [
+      ["Jia Meili", "acquaintance of x"], 
+      ["Qin Laoda", "same person as x (different reference)"], 
+      ["Wei Xiaodi", "mentor of x, suspect of x"], 
+      ["Xiao Tiyu", "wife of x"], 
+      ["Xue Meiniang", "wife of x, same person as x (different reference)"], 
+      ["Zheng Youhao", "acquaintance of x"], 
+      ["Zhuang Qingchun", "same person as x (different reference), same person as x (different identity)"]
+    ],
+    "Qin Laoda": [
+      ["Jia Meili", "acquaintance of x, classmate of x"], 
+      ["Qin Expert", "same person as x (different reference)"], 
+      ["Wei Xiaodi", "acquaintance of x, classmate of x"], 
+      ["Xiao Tiyu", "friend of x, acquaintance of x"], 
+      ["Xue Meiniang", "wife of x"], 
+      ["Zheng Youhao", "same person as x (different reference), same person as x (different identity)"], 
+      ["Zhuang Qingchun", "same person as x (different reference), same person as x (different identity)"]
+    ],
+    "Wei Xiaodi": [
+      ["Jia Meili", "acquaintance of x, classmate of x"], 
+      ["Qin Expert", "student of x, suspect of x"], 
+      ["Qin Laoda", "acquaintance of x, classmate of x"], 
+      ["Xiao Tiyu", "friend of x, acquaintance of x"], 
+      ["Xue Meiniang", "acquaintance of x, classmate of x"], 
+      ["Zheng Youhao", "acquaintance of x, classmate of x"], 
+      ["Zhuang Qingchun", "same person as x (different reference), same person as x (different identity)"]
+    ],
+    "Xiao Tiyu": [
+      ["Jia Meili", "husband of x, fiance of x"], 
+      ["Qin Expert", "husband of x"], 
+      ["Qin Laoda", "friend of x, acquaintance of x"], 
+      ["Wei Xiaodi", "friend of x, acquaintance of x"], 
+      ["Xue Meiniang", "lover of x, manipulator of x"], 
+      ["Zheng Youhao", "wife of x"], 
+      ["Zhuang Qingchun", "same person as x (different reference), same person as x (different identity)"]
+    ],
+    "Xue Meiniang": [
+      ["Jia Meili", "acquaintance of x, classmate of x, schoolmate of x, colleague of x"], 
+      ["Qin Expert", "husband of x, same person as x (different identity), rival of x"], 
+      ["Qin Laoda", "husband of x"], 
+      ["Wei Xiaodi", "acquaintance of x, classmate of x"], 
+      ["Xiao Tiyu", "lover of x"], 
+      ["Zheng Youhao", "acquaintance of x, colleague of x"], 
+      ["Zhuang Qingchun", "acquaintance of x, colleague of x"]
+    ],
+    "Zheng Youhao": [
+      ["Jia Meili", "husband of x, ex romantic relationships with x, romantic relationships with x"], 
+      ["Qin Expert", "acquaintance of x"], 
+      ["Qin Laoda", "same person as x (different reference), same person as x (different identity)"], 
+      ["Wei Xiaodi", "acquaintance of x, classmate of x"], 
+      ["Xiao Tiyu", "husband of x"], 
+      ["Xue Meiniang", "acquaintance of x, colleague of x"]
+    ],
+    "Zhuang Qingchun": [
+      ["Jia Meili", "friend of x, classmate of x"], 
+      ["Qin Expert", "same person as x (different reference), same person as x (different identity)"], 
+      ["Qin Laoda", "same person as x (different reference), same person as x (different identity)"], 
+      ["Wei Xiaodi", "same person as x (different reference), same person as x (different identity)"], 
+      ["Xiao Tiyu", "same person as x (different reference), same person as x (different identity)"], 
+      ["Xue Meiniang", "acquaintance of x, colleague of x"]
+    ]
+}

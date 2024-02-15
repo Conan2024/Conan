@@ -1,0 +1,36 @@
+{
+    "Zhao San": [
+      ["Zhao ZHONGZHENG", "adopted brother of x"], 
+      ["Zhao Zhongyang", "possibly family of x, ex boyfriend of x"], 
+      ["ZHANG Wei", "acquaintance of x"], 
+      ["Ma Laoban", "customer of x"], 
+      ["Zhao ZHONGZHENG", "plotter against x"], 
+      ["Zhao Zhongyang", "target of x's murder attempt"], 
+      ["Unnamed person", "attacker of x"], 
+      ["Unnamed person", "defender of x"]
+    ],
+    "Zhao ZHONGZHENG": [
+      ["Zhao San", "adopted brother of x"], 
+      ["Zhao Zhongyang", "unsuccessful helper of x"], 
+      ["Ma Laoban", "customer of x"], 
+      ["Zhao San", "plotter against x"]
+    ],
+    "Zhao Zhongyang": [
+      ["Zhao San", "possibly family of x, ex girlfriend of x"], 
+      ["ZHANG Wei", "acquaintance of x"], 
+      ["Zhao San", "plotter against x"], 
+      ["Zhao ZHONGZHENG", "unsuccessful helper of x"], 
+      ["Zhao San", "target of x's murder attempt"]
+    ],
+    "ZHANG Wei": [
+      ["Zhao San", "acquaintance of x"]
+    ],
+    "Ma Laoban": [
+      ["Zhao San", "customer of x"], 
+      ["Zhao ZHONGZHENG", "customer of x"]
+    ],
+    "Unnamed person": [
+      ["Zhao San", "attacker of x"], 
+      ["Zhao San", "defender of x"]
+    ]
+}

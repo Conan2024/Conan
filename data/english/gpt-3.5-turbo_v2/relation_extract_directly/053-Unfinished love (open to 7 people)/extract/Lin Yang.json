@@ -1,0 +1,43 @@
+{
+    "Lin Yang": [
+      ["Lin Weiren", "adoptive father of x"], 
+      ["Lin Xi", "sister of x"], 
+      ["shen Cheng", "informant of x"], 
+      ["Gu Qing", "lover of x, ex romantic relationships with x"], 
+      ["Su Yang", "romantic relationships with x, doctor of x"], 
+      ["Gu Minghe", "father of x"]
+    ],
+    "Lin Weiren": [
+      ["Lin Yang", "adopted son of x"], 
+      ["Lin Xi", "daughter of x"], 
+      ["shen Cheng", "informant of x"], 
+      ["Gu Qing", "ex romantic relationships with x"], 
+      ["Su Yang", "adversary of x"]
+    ],
+    "Lin Xi": [
+      ["Lin Yang", "brother of x"], 
+      ["Lin Weiren", "father of x"], 
+      ["shen Cheng", "informant of x"], 
+      ["Gu Qing", "ex romantic relationships with x"], 
+      ["Su Yang", "romantic relationships with x"]
+    ],
+    "shen Cheng": [
+      ["Lin Yang", "informant of x"], 
+      ["Lin Weiren", "informant of x"], 
+      ["Lin Xi", "informant of x"]
+    ],
+    "Gu Qing": [
+      ["Lin Yang", "lover of x, ex romantic relationships with x"], 
+      ["Lin Weiren", "ex romantic relationships with x"], 
+      ["Lin Xi", "ex romantic relationships with x"], 
+      ["Su Yang", "romantic relationships with x"]
+    ],
+    "Su Yang": [
+      ["Lin Yang", "romantic relationships with x, doctor of x"], 
+      ["Lin Weiren", "adversary of x"], 
+      ["Lin Xi", "romantic relationships with x"]
+    ],
+    "Gu Minghe": [
+      ["Lin Yang", "father of x"]
+    ]
+}

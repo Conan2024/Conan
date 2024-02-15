@@ -1,0 +1,22 @@
+{
+    "First Mate Zhang": [
+      ["Boss Yang", "deceiver of x, murderer of x"], 
+      ["Naive Hen", "brother of x"], 
+      ["Secretary Wen", "informant of x"], 
+      ["Ship Doctor Ling", "informant of x"]
+    ],
+    "Naive Hen": [
+      ["First Mate Zhang", "brother of x"], 
+      ["Boss Yang", "manipulator of x"]
+    ],
+    "Boss Yang": [
+      ["Secretary Wen", "informant of x"]
+    ],
+    "Secretary Wen": [
+      ["Boss Yang", "manipulator of x"], 
+      ["First Mate Zhang", "informant of x"]
+    ],
+    "Ship Doctor Ling": [
+      ["First Mate Zhang", "informant of x"]
+    ]
+}

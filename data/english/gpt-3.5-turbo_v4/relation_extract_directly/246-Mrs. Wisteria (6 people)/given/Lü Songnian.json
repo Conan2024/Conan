@@ -1,0 +1,68 @@
+{
+    "Lü Songnian": [
+      ["Lü Lusheng", "brother of x"], 
+      ["Ge Jixian", "victim of x"], 
+      ["Zhu Lingshan", "crime partner of x"], 
+      ["Xue Dacai", "business partner of x"], 
+      ["Yan Yichong", "acquaintance of x"], 
+      ["Yu Yancheng", "customer of x"], 
+      ["Yu Shangyong", "brother of x"], 
+      ["Lü Lusheng", "brother of x"], 
+      ["Zhu Lingshan", "crime partner of x"], 
+      ["Xue Dacai", "friend of x"], 
+      ["Yan Yichong", "acquaintance of x"], 
+      ["Yu Yancheng", "customer of x"], 
+      ["Yu Shangyong", "brother of x"]
+    ],
+    "Lü Lusheng": [
+      ["Lü Songnian", "brother of x"], 
+      ["Ge Jixian", "victim of x"], 
+      ["Xue Dacai", "business partner of x"], 
+      ["Yu Shangyong", "customer of x"], 
+      ["Lü Songnian", "brother of x"], 
+      ["Ge Jixian", "victim of x"], 
+      ["Xue Dacai", "business partner of x"], 
+      ["Yu Yancheng", "customer of x"]
+    ],
+    "Ge Jixian": [
+      ["Lü Songnian", "victim of x"], 
+      ["Lü Lusheng", "victim of x"], 
+      ["Lü Songnian", "victim of x"]
+    ],
+    "Zhu Lingshan": [
+      ["Lü Songnian", "crime partner of x"], 
+      ["Xue Dacai", "son in law of x"], 
+      ["Lü Songnian", "crime partner of x"], 
+      ["Xue Dacai", "father in law of x"]
+    ],
+    "Xue Dacai": [
+      ["Zhu Lingshan", "father in law of x"], 
+      ["Lü Songnian", "friend of x"], 
+      ["Lü Lusheng", "business partner of x"], 
+      ["Xue Yufan", "son of x"], 
+      ["Zhu Lingshan", "father in law of x"], 
+      ["Lü Songnian", "friend of x"], 
+      ["Lü Lusheng", "business partner of x"], 
+      ["Xue Yufan", "son of x"]
+    ],
+    "Yan Yichong": [
+      ["Lü Songnian", "acquaintance of x"], 
+      ["Lü Songnian", "acquaintance of x"]
+    ],
+    "Xue Yufan": [
+      ["Xue Dacai", "son of x"], 
+      ["Xue Dacai", "son of x"]
+    ],
+    "Yu Yancheng": [
+      ["Yu Shangyong", "brother of x"], 
+      ["Lü Lusheng", "customer of x"], 
+      ["Yu Shangyong", "brother of x"], 
+      ["Yu Yancheng", "customer of x"]
+    ],
+    "Yu Shangyong": [
+      ["Yu Yancheng", "brother of x"], 
+      ["Lü Lusheng", "customer of x"], 
+      ["Yu Yancheng", "brother of x"], 
+      ["Yu Shangyong", "customer of x"]
+    ]
+}

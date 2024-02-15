@@ -1,0 +1,110 @@
+{
+    "Xia Zhongpeng": [
+      ["Xia Beigui", "brother of x, friend of x, rival of x, adversary of x, enemy of x, suspect of x, victim of x"], 
+      ["Xia Bolong", "brother of x, friend of x, suspect of x, acquaintance of x"], 
+      ["Xia Sanhu", "brother of x, friend of x, suspect of x, acquaintance of x"], 
+      ["Xia Shue", "brother of x, friend of x, suspect of x, acquaintance of x"], 
+      ["A'e", "brother of x, friend of x, suspect of x, acquaintance of x"], 
+      ["Tian Jixiu Yi", "friend of x, rival of x, enemy of x"], 
+      ["Li Zicai", "friend of x"], 
+      ["Yu Jin", "friend of x, business partner of x"], 
+      ["Yu Zu Chengmu", "brother of x, friend of x, acquaintance of x"]
+    ],
+    "Xia Beigui": [
+      ["Xia Zhongpeng", "brother of x, friend of x, rival of x, adversary of x, enemy of x, suspect of x, victim of x"], 
+      ["Xia Sanhu", "father of x, mentor of x, teacher of x, informant of x"], 
+      ["Xia Shue", "father of x, mentor of x"], 
+      ["A'e", "father of x, murderer of x"], 
+      ["Tian Jixiu Yi", "brother of x, employee of x"], 
+      ["Li Zicai", "friend of x, mentor of x"], 
+      ["Yu Jin", "father of x, murderer of x"], 
+      ["Yu Zu Chengmu", "father of x"]
+    ],
+    "Xia Bolong": [
+      ["Xia Zhongpeng", "brother of x, friend of x, suspect of x, acquaintance of x"], 
+      ["Xia Sanhu", "brother of x, suspect of x"], 
+      ["Xia Shue", "brother of x, father of x"], 
+      ["A'e", "brother of x, father of x"], 
+      ["Tian Jixiu Yi", "brother in law of x, rival of x"], 
+      ["Li Zicai", "brother in law of x, suspect of x"], 
+      ["Yu Jin", "brother in law of x"], 
+      ["Yu Zu Chengmu", "brother in law of x"]
+    ],
+    "Xia Sanhu": [
+      ["Xia Zhongpeng", "brother of x, friend of x, suspect of x, acquaintance of x"], 
+      ["Xia Beigui", "son of x, student of x, friend of x, colleague of x"], 
+      ["Xia Bolong", "brother of x, suspect of x"], 
+      ["Xia Shue", "brother of x, sister of x"], 
+      ["A'e", "brother of x, friend of x"], 
+      ["Tian Jixiu Yi", "friend of x, rival of x"], 
+      ["Li Zicai", "brother in law of x, informant of x"], 
+      ["Yu Jin", "brother in law of x"], 
+      ["Yu Zu Chengmu", "brother of x, friend of x, rival of x"]
+    ],
+    "Xia Shue": [
+      ["Xia Zhongpeng", "brother of x, friend of x, suspect of x, acquaintance of x"], 
+      ["Xia Beigui", "daughter of x, student of x"], 
+      ["Xia Bolong", "sister of x, daughter of x"], 
+      ["Xia Sanhu", "daughter of x, niece of x"], 
+      ["A'e", "daughter of x, student of x, helper of x"], 
+      ["Tian Jixiu Yi", "friend of x, rival of x"], 
+      ["Li Zicai", "friend of x, mentor of x"], 
+      ["Yu Jin", "daughter of x, romantic relationships with x"], 
+      ["Yu Zu Chengmu", "daughter of x, informant of x"]
+    ],
+    "A'e": [
+      ["Xia Zhongpeng", "daughter of x, niece of x, sibling of x"], 
+      ["Xia Beigui", "daughter of x, informant of x"], 
+      ["Xia Bolong", "daughter of x, sister of x"], 
+      ["Xia Sanhu", "daughter of x, sibling of x"], 
+      ["Xia Shue", "father of x, teacher of x"], 
+      ["Tian Jixiu Yi", "friend of x"], 
+      ["Li Zicai", "friend of x, mentor of x"], 
+      ["Yu Jin", "daughter of x, informant of x"], 
+      ["Yu Zu Chengmu", "friend of x"]
+    ],
+    "Tian Jixiu Yi": [
+      ["Xia Zhongpeng", "friend of x, rival of x, enemy of x"], 
+      ["Xia Beigui", "brother of x, debtor of x"], 
+      ["Xia Bolong", "brother in law of x, rival of x"], 
+      ["Xia Sanhu", "friend of x, rival of x"], 
+      ["Xia Shue", "friend of x, rival of x"], 
+      ["A'e", "friend of x"], 
+      ["Li Zicai", "friend of x, acquaintance of x"], 
+      ["Yu Jin", "friend of x, business partner of x"], 
+      ["Yu Zu Chengmu", "friend of x, business partner of x"]
+    ],
+    "Li Zicai": [
+      ["Xia Zhongpeng", "friend of x"], 
+      ["Xia Beigui", "friend of x, mentor of x"], 
+      ["Xia Bolong", "brother in law of x, suspect of x"], 
+      ["Xia Sanhu", "brother in law of x, information receiver from x"], 
+      ["Xia Shue", "friend of x, mentor of x"], 
+      ["A'e", "friend of x, mentor of x"], 
+      ["Tian Jixiu Yi", "friend of x, acquaintance of x"], 
+      ["Yu Jin", "friend of x, business partner of x"], 
+      ["Yu Zu Chengmu", "friend of x, acquaintance of x"]
+    ],
+    "Yu Jin": [
+      ["Xia Zhongpeng", "friend of x, business partner of x"], 
+      ["Xia Beigui", "son of x, victim of x"], 
+      ["Xia Bolong", "brother in law of x"], 
+      ["Xia Sanhu", "brother in law of x"], 
+      ["Xia Shue", "wife of x, romantic relationships with x"], 
+      ["A'e", "father of x, mentor of x"], 
+      ["Tian Jixiu Yi", "friend of x, business partner of x"], 
+      ["Li Zicai", "friend of x, business partner of x"], 
+      ["Yu Zu Chengmu", "friend of x, business partner of x"]
+    ],
+    "Yu Zu Chengmu": [
+      ["Xia Zhongpeng", "brother of x, friend of x, acquaintance of x"], 
+      ["Xia Beigui", "son of x"], 
+      ["Xia Bolong", "brother in law of x"], 
+      ["Xia Sanhu", "brother of x, friend of x, rival of x"], 
+      ["Xia Shue", "father of x, perpetrator of x"], 
+      ["A'e", "friend of x"], 
+      ["Tian Jixiu Yi", "friend of x, business partner of x"], 
+      ["Li Zicai", "friend of x, acquaintance of x"], 
+      ["Yu Jin", "friend of x, business partner of x"]
+    ]
+}

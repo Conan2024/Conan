@@ -1,0 +1,84 @@
+{
+    "Yu Zu Chengmu": [
+      ["Li Zijun", "same person as x (different identity)"], 
+      ["Duan Hejun", "romantic relationships with x"], 
+      ["Xia Bolong", "romantic relationships with x"], 
+      ["Xia Sanhu", "friend of x"], 
+      ["Li Luoming", "nephew of x"], 
+      ["Anqi", "romantic relationships with x, admired by x"]
+    ],
+    "Li Zijun": [
+      ["Yu Zu Chengmu", "same person as x (different identity)"], 
+      ["Duan Hejun", "romantic relationships with x"], 
+      ["Xia Bolong", "romantic relationships with x"], 
+      ["Xia Sanhu", "friend of x"], 
+      ["Li Luoming", "nephew of x"], 
+      ["Anqi", "romantic relationships with x, admired by x"]
+    ],
+    "Li Zicai": [
+      ["Duan Hejun", "romantic relationships with x"], 
+      ["Xia Bolong", "romantic relationships with x"], 
+      ["Xia Sanhu", "friend of x"], 
+      ["Wu Baian", "classmate of x"], 
+      ["Li Luoming", "son of x"], 
+      ["Anqi", "admired by x"]
+    ],
+    "Duan Hejun": [
+      ["Yu Zu Chengmu", "romantic relationships with x"], 
+      ["Li Zijun", "romantic relationships with x"], 
+      ["Li Zicai", "romantic relationships with x"], 
+      ["Xia Bolong", "romantic relationships with x"]
+    ],
+    "Xia Bolong": [
+      ["Yu Zu Chengmu", "romantic relationships with x"], 
+      ["Li Zijun", "romantic relationships with x"], 
+      ["Li Zicai", "romantic relationships with x"], 
+      ["Duan Hejun", "romantic relationships with x"], 
+      ["Xia Sanhu", "brother of x"], 
+      ["Li Luoming", "grandchild of x"], 
+      ["Aming", "acquaintance of x"], 
+      ["Anqi", "romantic relationships with x, admired by x"], 
+      ["Duan Yuetong", "deceived by x"]
+    ],
+    "Xia Sanhu": [
+      ["Yu Zu Chengmu", "friend of x"], 
+      ["Li Zijun", "friend of x"], 
+      ["Li Zicai", "friend of x"], 
+      ["Duan Hejun", "romantic relationships with x"], 
+      ["Xia Bolong", "brother of x"], 
+      ["Li Luoming", "cousin of x"], 
+      ["Aming", "friend of x"], 
+      ["Anqi", "romantic relationships with x, admired by x"]
+    ],
+    "Wu Baian": [
+      ["Anqi", "product provider of x"], 
+      ["Duan Yuetong", "suspected by x"]
+    ],
+    "Li Luoming": [
+      ["Yu Zu Chengmu", "nephew of x"], 
+      ["Li Zijun", "nephew of x"], 
+      ["Li Zicai", "son of x"], 
+      ["Duan Hejun", "child of x"], 
+      ["Xia Bolong", "grandchild of x"], 
+      ["Xia Sanhu", "cousin of x"]
+    ],
+    "Aming": [
+      ["Xia Bolong", "acquaintance of x"], 
+      ["Xia Sanhu", "friend of x"]
+    ],
+    "Anqi": [
+      ["Yu Zu Chengmu", "romantic relationships with x, admired by x"], 
+      ["Li Zijun", "romantic relationships with x, admired by x"], 
+      ["Li Zicai", "admired by x"], 
+      ["Duan Hejun", "admired by x, romantic relationships with x"], 
+      ["Xia Bolong", "romantic relationships with x, admired by x"], 
+      ["Xia Sanhu", "romantic relationships with x, admired by x"], 
+      ["Wu Baian", "product provider of x"], 
+      ["Li Luoming", "admired by x"], 
+      ["Aming", "admired by x"]
+    ],
+    "Duan Yuetong": [
+      ["Xia Bolong", "deceived by x"], 
+      ["Wu Baian", "suspected by x"]
+    ]
+}

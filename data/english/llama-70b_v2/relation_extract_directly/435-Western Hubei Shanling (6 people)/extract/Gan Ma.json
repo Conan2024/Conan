@@ -1,0 +1,64 @@
+{
+    "Gan Ma": [
+      ["Wang Jingji", "lover of x, deceased of x"], 
+      ["Ba Kangzhai", "brother in law of x, friend of x"], 
+      ["Miao Shi", "sister in law of x, friend of x"], 
+      ["Ruya", "friend of x, savior of x"], 
+      ["Chen Sha", "friend of x, confidant of x"], 
+      ["Juan Ge", "fiancee of x, daughter of x"]
+    ],
+    "Wang Jingji": [
+      ["Gan Ma", "lover of x, killer of x"], 
+      ["Ba Kangzhai", "friend of x"]
+    ],
+    "Ba Kangzhai": [
+      ["Gan Ma", "brother in law of x, friend of x"], 
+      ["Wang Jingji", "friend of x"]
+    ],
+    "Miao Shi": [
+      ["Gan Ma", "sister in law of x, friend of x"], 
+      ["Wang Jingji", "friend of x"]
+    ],
+    "Ruya": [
+      ["Juan Ge", "sister of x"]
+    ],
+    "Chen Sha": [
+      ["Gan Ma", "friend of x, confidant of x"], 
+      ["Ruya", "friend of x"]
+    ],
+    "Juan Ge": [
+      ["Gan Yin", "fiancee of x, daughter of x"], 
+      ["Ba Kangzhai", "daughter of x"]
+    ],
+    "Gan Yin": [
+      ["Gan Ma", "brother of x, employee of x"], 
+      ["Ba Kangzhai", "brother in law of x, employer of x"], 
+      ["Miao Shi", "sister in law of x, wife of x"], 
+      ["Ruya", "sister in law of x, friend of x"], 
+      ["Li Gaobai", "apprentice of x"], 
+      ["Juan Ge", "fiancee of x, daughter of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Gan Ma", "sister in law of x"], 
+      ["Gan Yin", "sister in law of x"]
+    ],
+    "Wizard": [
+      ["Gan Ma", "brother of x"], 
+      ["Gan Yin", "brother of x"]
+    ],
+    "Zheng Hanzhen": [
+      ["Ruya", "friend of x"]
+    ],
+    "Falcon": [
+      ["Gan Ma", "fiancee of x"], 
+      ["Ruya", "friend of x"]
+    ],
+    "Li Gaobai": [
+      ["Gan Yin", "apprentice of x"], 
+      ["Ruya", "friend of x"]
+    ],
+    "Juan Ge (Cuckoo Song)": [
+      ["Gan Yin", "daughter of x"], 
+      ["Ba Kangzhai", "father of x"]
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "Lucy Harrison": [
+      ["Harold Harrison", "father of x lucy harrison"], 
+      ["Marina Harrison", "mother of x lucy harrison"], 
+      ["Jacqueline Perry", "aunt of x lucy harrison"], 
+      ["Jonathan Perry", "romantic relationships with lucy harrison of x, cousin of x lucy harrison"], 
+      ["Daniel Perry", "uncle of x lucy harrison"], 
+      ["Davis Perry", "brother of x daniel perry"], 
+      ["Amy Morgan", "informant of x lucy harrison"]
+    ],
+    "Harold Harrison": [
+      ["Lucy Harrison", "child of x harold harrison"], 
+      ["Marina Harrison", "husband of x harold harrison"]
+    ],
+    "Marina Harrison": [
+      ["Lucy Harrison", "child of x marina harrison"], 
+      ["Harold Harrison", "wife of x marina harrison"]
+    ],
+    "Jacqueline Perry": [
+      ["Lucy Harrison", "niece of x jacqueline perry"]
+    ],
+    "Jonathan Perry": [
+      ["Lucy Harrison", "romantic relationships with jonathan perry of x, cousin of x lucy harrison"]
+    ],
+    "Daniel Perry": [
+      ["Lucy Harrison", "niece of x daniel perry"], 
+      ["Davis Perry", "brother of x daniel perry"], 
+      ["Jonathan Perry", "cousin of x daniel perry"]
+    ],
+    "Davis Perry": [
+      ["Lucy Harrison", "cousin of x davis perry"], 
+      ["Daniel Perry", "brother of x davis perry"]
+    ],
+    "Amy Morgan": [
+      ["Lucy Harrison", "information receiver from amy morgan of x"]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "Li Bao'an": [
+      ["Tian Zhuli", "adversary of x, enemy of x"], 
+      ["Sun Qingjie", "colleague of x, friend of x"]
+    ],
+    "Tian Zhuli": [
+      ["Li Bao'an", "bully of x"], 
+      ["Sun Qingjie", "colleague of x, friend of x"]
+    ],
+    "Sun Qingjie": [
+      ["Li Bao'an", "colleague of x, friend of x"], 
+      ["Tian Zhuli", "colleague of x, friend of x"]
+    ]
+}

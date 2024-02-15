@@ -1,0 +1,55 @@
+{
+    "Mu bei": [
+      ["He Laoliu", "co workers of x"], 
+      ["Li Guofu", "co workers of x"], 
+      ["Li Guofu", "suspected by of x"], 
+      ["ZHANG JIE", "friend of x"], 
+      ["ZHANG JIE", "informant of x"], 
+      ["He Laoliu", "sms contact of x"], 
+      ["Police", "obstructs investigation of x"], 
+      ["Reporters", "disrupts investigation of x"]
+    ],
+    "Li Guofu": [
+      ["Mu bei", "co workers of x"], 
+      ["ZHANG JIE", "co workers of x"], 
+      ["ZHANG JIE", "quarrelled with of x"], 
+      ["ZHANG JIE", "preferred duty with of x"], 
+      ["ZHANG JIE", "on duty with of x"], 
+      ["ZHANG JIE", "suspected by of x"], 
+      ["He Laoliu", "duty with of x"], 
+      ["He Laoliu", "sms contact of x"], 
+      ["He Laoliu", "suspected by of x"], 
+      ["Police", "victim of x"], 
+      ["Police", "death caused by of x"]
+    ],
+    "ZHANG JIE": [
+      ["Mu bei", "friend of x"], 
+      ["Mu bei", "informant of x"], 
+      ["Li Guofu", "co workers of x"], 
+      ["Li Guofu", "quarrelled with of x"], 
+      ["Li Guofu", "preferred duty with of x"], 
+      ["Li Guofu", "on duty with of x"], 
+      ["Li Guofu", "suspected by of x"], 
+      ["He Laoliu", "co workers of x"], 
+      ["He Laoliu", "on duty with of x"]
+    ],
+    "He Laoliu": [
+      ["Mu bei", "co workers of x"], 
+      ["Mu bei", "sms contact of x"], 
+      ["Li Guofu", "duty with of x"], 
+      ["Li Guofu", "sms contact of x"], 
+      ["Li Guofu", "suspected by of x"], 
+      ["Police", "sms contact of x"], 
+      ["Police", "suspected by of x"]
+    ],
+    "Police": [
+      ["Mu bei", "obstructs investigation of x"], 
+      ["Li Guofu", "victim of x"], 
+      ["Li Guofu", "death caused by of x"], 
+      ["Reporters", "obstructs investigation of x"]
+    ],
+    "Reporters": [
+      ["Mu bei", "disrupts investigation of x"], 
+      ["Police", "obstructs investigation of x"]
+    ]
+}

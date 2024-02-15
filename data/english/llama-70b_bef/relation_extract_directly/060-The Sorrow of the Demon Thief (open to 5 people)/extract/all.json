@@ -1,0 +1,32 @@
+{
+    "Rowling": [
+      ["Gust", "acquaintance of x, suspect of x"], 
+      ["David", "acquaintance of x, admirer of x, suspect of x"], 
+      ["Ella", "friend of x, helper of x, suspect of x"], 
+      ["Kevin", "brother of x, perpetrator of x, helper of x"]
+    ],
+    "Gust": [
+      ["Rowling", "acquaintance of x, victim of x"], 
+      ["David", "acquaintance of x, employer of x, suspect of x"], 
+      ["Ella", "friend of x, helper of x, fiancee of x"], 
+      ["Kevin", "perpetrator of x, employee of x, helper of x"]
+    ],
+    "David": [
+      ["Rowling", "acquaintance of x, admirer of x, suspect of x"], 
+      ["Gust", "acquaintance of x, employer of x, suspect of x"], 
+      ["Ella", "friend of x, helper of x, suspect of x"], 
+      ["Kevin", "perpetrator of x, employee of x, helper of x"]
+    ],
+    "Ella": [
+      ["Rowling", "friend of x, helper of x, suspect of x"], 
+      ["Gust", "friend of x, fiancee of x, victim of x"], 
+      ["David", "friend of x, helper of x, suspect of x"], 
+      ["Kevin", "perpetrator of x, helper of x"]
+    ],
+    "Kevin": [
+      ["Rowling", "brother of x, perpetrator of x, helper of x"], 
+      ["Gust", "perpetrator of x, employer of x, victim of x"], 
+      ["David", "perpetrator of x, employee of x, helper of x"], 
+      ["Ella", "friend of x, helper of x"]
+    ]
+}

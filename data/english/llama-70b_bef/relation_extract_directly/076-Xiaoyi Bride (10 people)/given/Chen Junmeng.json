@@ -1,0 +1,41 @@
+{
+    "Chen Anqiao": [
+      ["Chen Junmeng", "father in law of x, employer of x"], 
+      ["Yao Changshou", "brother in law of x, friend of x"]
+    ],
+    "Chen Junmeng": [
+      ["Chen Qingwu", "father of x"], 
+      ["Yao Mengren", "husband of x"], 
+      ["Lady Hong", "mother in law of x"], 
+      ["Yao Changshou", "father in law of x"], 
+      ["Uncle Gui", "uncle of x"]
+    ],
+    "Chen Qingwu": [
+      ["Chen Junmeng", "son of x"], 
+      ["Yao Changshou", "colleague of x"]
+    ],
+    "Yao Changshou": [
+      ["Yao Mengren", "son of x"], 
+      ["Lady Hong", "wife of x"], 
+      ["Chen Junmeng", "son in law of x"], 
+      ["Uncle Gui", "brother of x"]
+    ],
+    "Yao Mengren": [
+      ["Yao Changshou", "father of x"], 
+      ["Chen Junmeng", "wife of x"], 
+      ["Lady Hong", "step mother of x"]
+    ],
+    "Lady Hong": [
+      ["Yao Changshou", "wife of x"], 
+      ["Yao Mengren", "step son of x"], 
+      ["Chen Junmeng", "daughter in law of x"]
+    ],
+    "Uncle Gui": [
+      ["Yao Changshou", "brother of x"], 
+      ["Chen Junmeng", "uncle of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Yao Mengren", "brother of x"], 
+      ["Yao Changshou", "brother of x"]
+    ]
+}

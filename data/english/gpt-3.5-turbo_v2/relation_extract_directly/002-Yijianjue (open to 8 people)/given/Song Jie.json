@@ -1,0 +1,26 @@
+{
+    "Song Jie": [
+      ["Martial Alliance's Messenger", "informant of xuan can"], 
+      ["Feng", "affiliated with of x"], 
+      ["Lu Ying", "suspects song jie of x"], 
+      ["Xuan Can", "seeks information from song jie of x"], 
+      ["Ren Dong", "contacts song jie of x"]
+    ],
+    "Martial Alliance's Messenger": [
+      ["Song Jie", "informant of xuan can"]
+    ],
+    "Feng": [
+      ["Song Jie", "affiliated with of x"]
+    ],
+    "Lu Ying": [
+      ["Song Jie", "suspects song jie of x"], 
+      ["Xuan Can", "whispered to lu ying of x"]
+    ],
+    "Xuan Can": [
+      ["Song Jie", "seeks information from song jie of x"], 
+      ["Lu Ying", "whispered to lu ying of x"]
+    ],
+    "Ren Dong": [
+      ["Song Jie", "contacts song jie of x"]
+    ]
+}

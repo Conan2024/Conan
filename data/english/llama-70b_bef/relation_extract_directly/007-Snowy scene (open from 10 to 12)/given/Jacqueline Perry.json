@@ -1,0 +1,32 @@
+{
+    "Jacqueline Perry": [
+      ["Daniel Perry", "husband of x, suspect of x"], 
+      ["Marina Harrison", "sister of x, rival of x, enemy of x"], 
+      ["Harold Harrison", "brother in law of x, colleague of x"], 
+      ["Jonathan Perry", "son of x"], 
+      ["Alex Harvey", "cousin of x, acquaintance of x"]
+    ],
+    "Daniel Perry": [
+      ["Jacqueline Perry", "wife of x, suspect of x"], 
+      ["Marina Harrison", "lover of x"], 
+      ["Jonathan Perry", "son of x"]
+    ],
+    "Marina Harrison": [
+      ["Jacqueline Perry", "sister of x, rival of x, enemy of x"], 
+      ["Harold Harrison", "husband of x, colleague of x"], 
+      ["Alex Harvey", "cousin of x, acquaintance of x"]
+    ],
+    "Harold Harrison": [
+      ["Jacqueline Perry", "sister in law of x, colleague of x"], 
+      ["Marina Harrison", "wife of x, colleague of x"], 
+      ["Alex Harvey", "cousin of x, acquaintance of x"]
+    ],
+    "Jonathan Perry": [
+      ["Jacqueline Perry", "mother of x"], 
+      ["Daniel Perry", "father of x"]
+    ],
+    "Alex Harvey": [
+      ["Jacqueline Perry", "cousin of x, acquaintance of x"], 
+      ["Marina Harrison", "cousin of x, acquaintance of x"]
+    ]
+}

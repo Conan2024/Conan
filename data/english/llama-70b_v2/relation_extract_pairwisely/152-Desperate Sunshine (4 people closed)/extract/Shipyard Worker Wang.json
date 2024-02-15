@@ -1,0 +1,44 @@
+{
+    "Shipyard Worker Wang": [
+      ["First Mate Zhang", "friend of x, business partner of x, co worker of x"], 
+      ["Ship Doctor Ling", "father in law of x, secret partner of x"], 
+      ["Boss Yang", "friend of x, business partner of x, co conspirator of x"], 
+      ["Naive Hen", "friend of x, acquaintance of x, informant of x, helped by of x"], 
+      ["Worker Wang", "son of x, father of x, informant of x, adversary of x, enemy of x, rival of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x"]
+    ],
+    "First Mate Zhang": [
+      ["Shipyard Worker Wang", "friend of x, business partner of x, co worker of x"], 
+      ["Ship Doctor Ling", "son in law of x, business partner of x"], 
+      ["Boss Yang", "acquaintance of x, business partner of x, co conspirator of x"], 
+      ["Naive Hen", "friend of x, business partner of x, co conspirator of x"], 
+      ["Worker Wang", "same person as x (different reference), same person as x (different identity)"]
+    ],
+    "Ship Doctor Ling": [
+      ["Shipyard Worker Wang", "son in law of x, acquaintance of x"], 
+      ["First Mate Zhang", "daughter in law of x, colleague of x"], 
+      ["Boss Yang", "friend of x"], 
+      ["Naive Hen", "daughter in law of x, same person as x (different reference)"], 
+      ["Worker Wang", "son in law of x, friend of x"]
+    ],
+    "Boss Yang": [
+      ["Shipyard Worker Wang", "friend of x, business partner of x, co conspirator of x"], 
+      ["First Mate Zhang", "acquaintance of x, business partner of x, co conspirator of x"], 
+      ["Ship Doctor Ling", "acquaintance of x"], 
+      ["Naive Hen", "employer of x, master of x, superior of x"], 
+      ["Worker Wang", "employer of x, master of x, superior of x"]
+    ],
+    "Naive Hen": [
+      ["Shipyard Worker Wang", "friend of x, acquaintance of x, informant of x, helped by of x"], 
+      ["First Mate Zhang", "friend of x, business partner of x, co conspirator of x"], 
+      ["Ship Doctor Ling", "same person as x (different reference), friend of x"], 
+      ["Boss Yang", "informant of x, acquaintance of x"], 
+      ["Worker Wang", "same person as x (different reference), same person as x (different identity)"]
+    ],
+    "Worker Wang": [
+      ["Shipyard Worker Wang", "son of x, father of x, informant of x, adversary of x, enemy of x, rival of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x"], 
+      ["First Mate Zhang", "father of x, mentor of x, teacher of x, student of x, informant of x, acquaintance of x, colleague of x, business partner of x, customer of x"], 
+      ["Ship Doctor Ling", "father in law of x, friend of x"], 
+      ["Boss Yang", "employee of x, subordinate of x"], 
+      ["Naive Hen", "father of x, mentor of x"]
+    ]
+}

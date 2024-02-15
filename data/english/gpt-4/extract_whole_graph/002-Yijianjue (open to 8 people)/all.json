@@ -1,0 +1,64 @@
+{
+    "You": [
+        [
+            "Du Zhong",
+            "sworn brother of x"
+        ],
+        [
+            "Xuan Can",
+            "sworn brother of x"
+        ]
+    ],
+    "Du Zhong": [
+        [
+            "You",
+            "sworn brother of x"
+        ],
+        [
+            "Xuan Can",
+            "sworn brother of x"
+        ],
+        [
+            "Lady Safflower",
+            "extramarital affair with x"
+        ],
+        [
+            "Du Zhong's son",
+            "child of x"
+        ]
+    ],
+    "Xuan Can": [
+        [
+            "You",
+            "sworn brother of x"
+        ],
+        [
+            "Du Zhong",
+            "sworn brother of x"
+        ]
+    ],
+    "Lady Safflower": [
+        [
+            "Du Zhong",
+            "extramarital affair with x"
+        ],
+        [
+            "Du Zhong's son",
+            "mother of x"
+        ]
+    ],
+    "Du Zhong's son": [
+        [
+            "Du Zhong",
+            "father of x"
+        ],
+        [
+            "Lady Safflower",
+            "mother of x"
+        ],
+        [
+            "You",
+            "future son in law of x"
+        ]
+    ]
+}

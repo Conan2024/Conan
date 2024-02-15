@@ -1,0 +1,20 @@
+{
+    "Zhang Jie": [
+      ["Li Guofu", "leader of x, oppressor of x"], 
+      ["Mu Bei", "love interest of x, rival of x"], 
+      ["He Laoliu", "associate of x, partner in crime of x"], 
+      ["Neighbor Wang", "gambling partner of x"]
+    ],
+    "Li Guofu": [
+      ["Zhang Jie", "subordinate of x, manipulator of x"], 
+      ["Mu Bei", "love interest of x, protectee of x"]
+    ],
+    "Mu Bei": [
+      ["Zhang Jie", "love interest of x, object of x desire"], 
+      ["Li Guofu", "protector of x, manipulator of x"]
+    ],
+    "He Laoliu": [
+      ["Zhang Jie", "associate of x, partner in crime of x"], 
+      ["Li Guofu", "leader of x, manipulator of x"]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Gu Qing": [
+      ["Lin Xi", "good friend of x, childhood friend of x"], 
+      ["Su Yang", "crush of x, love rival of x"], 
+      ["Gu Yu", "brother of x, friend of x lin xi"], 
+      ["Lin Weiren", "father of x lin xi, enemy of x"], 
+      ["Lin Tong", "friend of x, died of x illness"], 
+      ["Shen Cheng", "housekeeper of x lin family, acquaintance of x"]
+    ],
+    "Lin Xi": [
+      ["Gu Qing", "good friend of x, childhood friend of x"], 
+      ["Su Yang", "fiance of x, love interest of x"], 
+      ["Gu Yu", "friend of x, brother of x gu qing"], 
+      ["Lin Weiren", "father of x, enemy of x"], 
+      ["Lin Tong", "sister of x, died of x illness"], 
+      ["Shen Cheng", "housekeeper of x, acquaintance of x"]
+    ],
+    "Su Yang": [
+      ["Gu Qing", "crush of x, love rival of x"], 
+      ["Lin Xi", "fiance of x, love interest of x"], 
+      ["Gu Yu", "friend of x, brother of x gu qing"], 
+      ["Lin Weiren", "father of x lin xi, enemy of x"], 
+      ["Shen Cheng", "housekeeper of x, acquaintance of x"]
+    ],
+    "Gu Yu": [
+      ["Gu Qing", "sister of x, friend of x lin xi"], 
+      ["Lin Xi", "friend of x, sister of x gu qing"], 
+      ["Su Yang", "friend of x, rival in love of x"], 
+      ["Lin Weiren", "enemy of x, father of x lin xi"], 
+      ["Shen Cheng", "housekeeper of x, acquaintance of x"]
+    ],
+    "Lin Weiren": [
+      ["Lin Xi", "daughter of x, enemy of x"], 
+      ["Gu Qing", "enemy of x, friend of x lin xi"], 
+      ["Su Yang", "enemy of x, rival in love of x"], 
+      ["Gu Yu", "enemy of x, friend of x lin xi"], 
+      ["Shen Cheng", "housekeeper of x, acquaintance of x"]
+    ],
+    "Lin Tong": [
+      ["Lin Xi", "sister of x, died of x illness"], 
+      ["Gu Qing", "friend of x, died of x illness"], 
+      ["Su Yang", "friend of x, died of x illness"], 
+      ["Gu Yu", "friend of x, brother of x gu qing"], 
+      ["Shen Cheng", "housekeeper of x, acquaintance of x"]
+    ],
+    "Shen Cheng": [
+      ["Lin Xi", "acquaintance of x, housekeeper of x"], 
+      ["Gu Qing", "acquaintance of x, friend of x lin xi"], 
+      ["Su Yang", "acquaintance of x, housekeeper of x"], 
+      ["Gu Yu", "acquaintance of x, friend of x lin xi"], 
+      ["Lin Weiren", "acquaintance of x, enemy of x"]
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "Neighbor Wang": [
+        [
+            "Neighbor Wang's wife",
+            "husband of x",
+            "missing wife"
+        ],
+        [
+            "Police",
+            "neighbor of x"
+        ],
+        [
+            "Reporters",
+            "friend of x"
+        ],
+        [
+            "Li Guofu",
+            "friend of x",
+            "debt related to x"
+        ],
+        [
+            "He Laoliu",
+            "neighbour of x",
+            "story based relationship"
+        ]
+    ],
+    "Neighbor Wang's wife": [
+        [
+            "Neighbor Wang",
+            "wife of x"
+        ],
+        [
+            "Police",
+            "suspicious of x",
+            "victim of x"
+        ],
+        [
+            "Reporters",
+            "informant of x"
+        ],
+        [
+            "Li Guofu",
+            "neighbor of"
+        ],
+        [
+            "He Laoliu",
+            "neighbor of x"
+        ]
+    ],
+    "Police": [
+        [
+            "Neighbor Wang",
+            "suspected by x"
+        ],
+        [
+            "Neighbor Wang's wife",
+            "subject of investigation for x"
+        ],
+        [
+            "Neighbor Wang",
+            "neighbor of"
+        ],
+        [
+            "Li Guofu",
+            "neighbor of"
+        ],
+        [
+            "He Laoliu",
+            "neighbor of x"
+        ]
+    ],
+    "Reporters": [
+        [
+            "Neighbor Wang",
+            "source of information for x"
+        ],
+        [
+            "Neighbor Wang's wife",
+            "subject of investigation for x"
+        ],
+        [
+            "Neighbor Wang",
+            "subject of investigation for",
+            "exposed by"
+        ],
+        [
+            "Li Guofu",
+            "debtor of x"
+        ],
+        [
+            "He Laoliu",
+            "acquaintance of x"
+        ]
+    ],
+    "Li Guofu": [
+        [
+            "Neighbor Wang",
+            "friend of x",
+            "debt related to x"
+        ],
+        [
+            "Neighbor Wang's wife",
+            "suspected by"
+        ],
+        [
+            "Police",
+            "neighbor of"
+        ],
+        [
+            "Reporters",
+            "creditor of x"
+        ],
+        [
+            "He Laoliu",
+            "neighbor of x"
+        ]
+    ],
+    "He Laoliu": [
+        [
+            "Neighbor Wang",
+            "neighbour of x",
+            "story based relationship"
+        ],
+        [
+            "Neighbor Wang's wife",
+            "subject of investigation for x"
+        ],
+        [
+            "Police",
+            "neighbor of x"
+        ],
+        [
+            "Reporters",
+            "acquaintance of x"
+        ],
+        [
+            "Li Guofu",
+            "neighbor of x"
+        ]
+    ]
+}

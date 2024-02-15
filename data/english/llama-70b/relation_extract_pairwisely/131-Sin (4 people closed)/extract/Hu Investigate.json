@@ -1,0 +1,106 @@
+{
+    "Hu Investigate": [
+        [
+            "Village Chief Wang",
+            "Adversary, Enemy, Rival"
+        ],
+        [
+            "Office Li",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "Zhao Cishan",
+            "Adversary, Suspect"
+        ],
+        [
+            "Zhang Villager",
+            "acquaintance, neighbor, suspicious, informant, helper, co-researcher"
+        ]
+    ],
+    "Village Chief Wang": [
+        [
+            "Hu Investigate",
+            "Adversary, Enemy, Rival"
+        ],
+        [
+            "Office Li",
+            "Superior of X",
+            "Employer of X"
+        ],
+        [
+            "Zhao Cishan",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Zhang Villager",
+            "Acquaintance"
+        ]
+    ],
+    "Office Li": [
+        [
+            "Hu Investigate",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "Village Chief Wang",
+            "Subordinate of X",
+            "Employee of X"
+        ],
+        [
+            "Zhao Cishan",
+            "Colleague"
+        ],
+        [
+            "Zhang Villager",
+            "Acquaintance",
+            "Neighbor",
+            "Suspicious",
+            "Witness",
+            "Potential Accomplice"
+        ]
+    ],
+    "Zhao Cishan": [
+        [
+            "Hu Investigate",
+            "Adversary, Victim"
+        ],
+        [
+            "Village Chief Wang",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Office Li",
+            "Colleague"
+        ],
+        [
+            "Zhang Villager",
+            "acquaintance, suspicious"
+        ]
+    ],
+    "Zhang Villager": [
+        [
+            "Hu Investigate",
+            "acquaintance, neighbor, suspicious, informant, helper, co-researcher"
+        ],
+        [
+            "Village Chief Wang",
+            "Acquaintance"
+        ],
+        [
+            "Office Li",
+            "Acquaintance",
+            "Neighbor",
+            "Suspicious",
+            "Witness",
+            "Potential Accomplice"
+        ],
+        [
+            "Zhao Cishan",
+            "acquaintance, suspicious"
+        ]
+    ]
+}

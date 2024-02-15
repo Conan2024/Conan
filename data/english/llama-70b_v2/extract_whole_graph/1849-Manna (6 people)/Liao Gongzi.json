@@ -1,0 +1,25 @@
+{
+    "Liao Gongzi": [
+      ["Hong Er", "friend turned acquaintance of x"], 
+      ["Lv Mingran", "business partner turned enemy of x"], 
+      ["Luo Hengli", "business partner turned adversary of x"], 
+      ["Mrs. Tan", "acquaintance turned suspect of x"]
+    ],
+    "Hong Er": [
+      ["Liao Gongzi", "friend turned acquaintance of x"], 
+      ["Lv Mingran", "love interest turned enemy of x"]
+    ],
+    "Lv Mingran": [
+      ["Liao Gongzi", "business partner turned enemy of x"], 
+      ["Luo Hengli", "brother turned adversary of x"], 
+      ["Hong Er", "love interest turned enemy of x"]
+    ],
+    "Luo Hengli": [
+      ["Liao Gongzi", "business partner turned adversary of x"], 
+      ["Lv Mingran", "brother turned enemy of x"]
+    ],
+    "Mrs. Tan": [
+      ["Liao Gongzi", "acquaintance turned suspect of x"], 
+      ["Tan Renchang", "husband turned deceased of x"]
+    ]
+}

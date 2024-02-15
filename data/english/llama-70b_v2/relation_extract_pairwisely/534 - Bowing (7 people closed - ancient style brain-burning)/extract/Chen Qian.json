@@ -1,0 +1,99 @@
+{
+    "Chen Qian": [
+      ["Madam Chen or Chen Family", "wife of x"], 
+      ["Chen Zijing", "father son relationship of x"], 
+      ["Caotng Jushi", "adopted sibling of x, childhood friend of x, business partner of x"], 
+      ["Li Zhong", "husband of x, lover of x"], 
+      ["Li Qinren", "husband of x, same person as x (different identity)"], 
+      ["Wangye", "husband of x"]
+    ],
+    "Madam Chen or Chen Family": [
+      ["Chen Qian", "mother of x"], 
+      ["Chen Zijing", "mother of x, father of x"], 
+      ["Xiao Qian", "mother of x, same person as x (different reference)"], 
+      ["Caotng Jushi", "mother in law of x, adoptive mother of x"], 
+      ["Li Zhong", "mother in law of x, father in law of x"], 
+      ["Li Qinren", "mother in law of x, wife of x"], 
+      ["Li Wangye", "wife of x, mother of x, female relative of x"], 
+      ["Wangye", "mother in law of x"], 
+      ["Xiao Qian", "mother of x, same person as x (different reference)"]
+    ],
+    "Chen Zijing": [
+      ["Chen Qian", "father son relationship of x"], 
+      ["Madam Chen or Chen Family", "father of x, husband of x"], 
+      ["Xiao Qian", "father of x, adoptive father of x"], 
+      ["Caotng Jushi", "father in law of x, guardian of x"], 
+      ["Li Zhong", "father in law of x, suspect of x"], 
+      ["Li Qinren", "father in law of x, father of x spouse"], 
+      ["Li Wangye", "father in law of x, perpetrator of x"], 
+      ["Wangye", "father in law of x, perpetrator of x"], 
+      ["Xiao Qian", "father of x, adoptive father of x"]
+    ],
+    "Xiao Qian": [
+      ["Madam Chen or Chen Family", "daughter of x, same person as x (different reference)"], 
+      ["Madam Chen or Chen Family", "daughter of x, same person as x (different reference)"], 
+      ["Chen Zijing", "daughter of x, adopted daughter of x"], 
+      ["Chen Zijing", "daughter of x, adopted daughter of x"], 
+      ["Caotng Jushi", "adopted siblings of x, childhood friends of x, servant master relationship of x"], 
+      ["Li Zhong", "friend of x, rival of x"], 
+      ["Li Qinren", "wife of x, fiancee of x"], 
+      ["Li Wangye", "wife of x, same person as x"], 
+      ["Wangye", "friend of x"], 
+      ["Xiao Qian", "same person as x (different reference)"], 
+      ["Caotng Jushi", "adoptive daughter of x, friend of x"], 
+      ["Li Qinren", "mother in law of x, wedding banquet of x"], 
+      ["Li Wangye", "husband of x, same person as x (different identity)"]
+    ],
+    "Caotng Jushi": [
+      ["Chen Qian", "adopted sibling of x, childhood friend of x, business partner of x"], 
+      ["Madam Chen or Chen Family", "mother in law of x, adoptive mother of x"], 
+      ["Chen Zijing", "father in law of x, guardian of x"], 
+      ["Xiao Qian", "adopted siblings of x, childhood friends of x, master servant relationship of x"], 
+      ["Li Zhong", "friend of x, business partner of x"], 
+      ["Li Qinren", "wife of x, fiancee of x"], 
+      ["Li Wangye", "wife of x"], 
+      ["Wangye ", "perpetrator of x, adversary of x, enemy of x"], 
+      ["Xiao Qian", "adoptive mother of x, friend of x"]
+    ],
+    "Li Zhong": [
+      ["Chen Qian", "wife of x, lover of x"], 
+      ["Madam Chen or Chen Family", "husband of x, son in law of x"], 
+      ["Chen Zijing", "husband of x, son in law of x"], 
+      ["Xiao Qian", "friend of x, rival of x"], 
+      ["Caotng Jushi", "friend of x, business partner of x"], 
+      ["Li Qinren", "husband of x, romantic relationships with x, fiance of x, fiancee of x"], 
+      ["Wangye", "husband of x"]
+    ],
+    "Li Qinren": [
+      ["Chen Qian", "wife of x, same person as x (different identity)"], 
+      ["Madam Chen or Chen Family", "father in law of x, husband of x"], 
+      ["Chen Zijing", "son in law of x, husband of x daughter"], 
+      ["Xiao Qian", "husband of x, fiance of x"], 
+      ["Caotng Jushi", "husband of x, fiance of x"], 
+      ["Li Zhong", "father of x, mentor of x, teacher of x, student of x"], 
+      ["Li Wangye", "father in law of x, relative of x"], 
+      ["Wangye", "father in law of x"], 
+      ["Xiao Qian", "father in law of x, wedding banquet of x"]
+    ],
+    "Wangye": [
+      ["Chen Qian", "wife of x, same person as x"], 
+      ["Madam Chen or Chen Family", "father in law of x"], 
+      ["Chen Zijing", "father in law of x, victim of x"], 
+      ["Xiao Qian", "friend of x"], 
+      ["Li Zhong", "wife of x"], 
+      ["Li Qinren", "son in law of x"], 
+      ["Li Wangye", "same person as x (different reference), same person as x (different identity)"]
+    ],
+    "Li Wangye": [
+      ["Madam Chen or Chen Family", "husband of x, male relative of x"], 
+      ["Chen Zijing", "son in law of x, victim of x"], 
+      ["Xiao Qian", "husband of x, same person as x"], 
+      ["Caotng Jushi", "husband of x"], 
+      ["Li Qinren", "son in law of x, relative of x"], 
+      ["Wangye ", "husband of x"], 
+      ["Xiao Qian", "wife of x"]
+    ],
+    "Wangye ": [
+      ["Caotng Jushi", "perpetrator of x, adversary of x, enemy of x"]
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "Zhang Hongsheng": [
+      ["Meng Sanchun", "friend of x"], 
+      ["Hong Jiangshui", "helper of x"], 
+      ["Cai Siniang", "romantic relationships with x"], 
+      ["Hong Changlie", "friend of x, employer of x"], 
+      ["Zhang Jinyin", "employer of x zhang jinyin, colleague of x zhang jinyin"], 
+      ["Zhang Jinshan", "co bosses of x inn"], 
+      ["Hong Sanmei", "friend of x"], 
+      ["Hong Erlang", "friend of x, helper of x"], 
+      ["Hong Zhaizhu", "employer of x hong jiangshui, landlord of x hong jiangshui"]
+    ],
+    "Meng Sanchun": [
+      ["Zhang Hongsheng", "friend of x"], 
+      ["Hong Jiangshui", "employee of x"], 
+      ["Cai Siniang", "romantic relationships with x"], 
+      ["Hong Changlie", "friend of x"], 
+      ["Zhang Jinyin", "co worker/employer of x"], 
+      ["Zhang Jinshan", "business partner of x, colleague of x"], 
+      ["Hong Sanmei", "friend of x"], 
+      ["Hong Erlang", "employee of x"], 
+      ["Hong Zhaizhu", "co worker of x"]
+    ],
+    "Hong Jiangshui": [
+      ["Zhang Hongsheng", "bos of x"], 
+      ["Meng Sanchun", "employer of x"], 
+      ["Cai Siniang", "romantic relationships with x"], 
+      ["Hong Changlie", "friend of x, business partner of x"], 
+      ["Zhang Jinyin", "employer of x hong jiangshui, boss of x hong jiangshui"], 
+      ["Zhang Jinshan", "friend of x, employer of x"], 
+      ["Hong Sanmei", "friend of x"], 
+      ["Hong Erlang", "brother of x"], 
+      ["Hong Zhaizhu", "father of x hong jiangshui"]
+    ],
+    "Cai Siniang": [
+      ["Zhang Hongsheng", "acquaintance of x"], 
+      ["Meng Sanchun", "romantic relationships with x"], 
+      ["Hong Jiangshui", "romantic relationships with x"], 
+      ["Hong Changlie", "romantic relationships with hong changlie of x"], 
+      ["Zhang Jinyin", "friend of x"], 
+      ["Zhang Jinshan", "potential romantic relationships with x"], 
+      ["Hong Sanmei", "wife of x, lover of x"], 
+      ["Hong Erlang", "girlfriend of x"], 
+      ["Hong Zhaizhu", "wife of x, romantic relationships with x"]
+    ],
+    "Hong Changlie": [
+      ["Zhang Hongsheng", "employee of x, acquaintance of x"], 
+      ["Meng Sanchun", "friend of x"], 
+      ["Hong Jiangshui", "friend of x, business partner of x"], 
+      ["Cai Siniang", "romantic relationships with cai siniang of x"], 
+      ["Zhang Jinyin", "acquaintance of x, co worker of x"], 
+      ["Zhang Jinshan", "colleague of x, business partner of x"], 
+      ["Hong Sanmei", "ex romantic relationships with x"], 
+      ["Hong Erlang", "brother of x"], 
+      ["Hong Zhaizhu", "father of x hong changlie"]
+    ],
+    "Zhang Jinyin": [
+      ["Zhang Hongsheng", "employee of x zhang hongsheng, colleague of x zhang hongsheng"], 
+      ["Meng Sanchun", "co worker/employee of x"], 
+      ["Hong Jiangshui", "employee of x zhang jinyin, worker at the inn of x"], 
+      ["Cai Siniang", "business partner of x"], 
+      ["Hong Changlie", "acquaintance of x, co worker of x"], 
+      ["Zhang Jinshan", "business partner of x"], 
+      ["Hong Sanmei", "friend of x, co worker with x"], 
+      ["Hong Erlang", "business partner of x"], 
+      ["Hong Zhaizhu", "business partner of x, romantic relationships with x"]
+    ],
+    "Zhang Jinshan": [
+      ["Zhang Hongsheng", "co bosses of x inn"], 
+      ["Meng Sanchun", "business partner of x, colleague of x"], 
+      ["Hong Jiangshui", "employee of x, helper of x"], 
+      ["Cai Siniang", "potential romantic relationships with x"], 
+      ["Hong Changlie", "colleague of x, business partner of x"], 
+      ["Zhang Jinyin", "business partner of x"], 
+      ["Hong Sanmei", "friend of x"], 
+      ["Hong Erlang", "business partner of x, guest of x"], 
+      ["Hong Zhaizhu", "brother of x"]
+    ],
+    "Hong Sanmei": [
+      ["Zhang Hongsheng", "employee of x"], 
+      ["Meng Sanchun", "friend of x"], 
+      ["Hong Jiangshui", "friend of x"], 
+      ["Cai Siniang", "husband of x, lover of x"], 
+      ["Hong Changlie", "ex romantic relationships with x"], 
+      ["Zhang Jinyin", "friend of x, co worker with x"], 
+      ["Zhang Jinshan", "friend of x"], 
+      ["Hong Erlang", "sibling of x"], 
+      ["Hong Zhaizhu", "father of x hong sanmei"]
+    ],
+    "Hong Erlang": [
+      ["Zhang Hongsheng", "friend of x, helper of x"], 
+      ["Meng Sanchun", "employee of x"], 
+      ["Hong Jiangshui", "brother of x"], 
+      ["Cai Siniang", "romantic relationships with x"], 
+      ["Hong Changlie", "brother of x"], 
+      ["Zhang Jinyin", "business partner of x"], 
+      ["Zhang Jinshan", "business partner of x, host of x"], 
+      ["Hong Sanmei", "sibling of x"], 
+      ["Hong Zhaizhu", "child of x"]
+    ],
+    "Hong Zhaizhu": [
+      ["Zhang Hongsheng", "employee of x zhang hongsheng, tenant of x zhang hongsheng"], 
+      ["Meng Sanchun", "employer of x"], 
+      ["Hong Jiangshui", "father of x hong jiangshui"], 
+      ["Cai Siniang", "husband of x, romantic relationships with x"], 
+      ["Hong Changlie", "father of x hong changlie"], 
+      ["Zhang Jinyin", "business partner of x, romantic relationships with x"], 
+      ["Zhang Jinshan", "brother of x"], 
+      ["Hong Sanmei", "child of x hong zhaizhu"], 
+      ["Hong Erlang", "father of x"]
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "Shipyard Worker Wang": [
+        [
+            "First Mate Zhang",
+            "business partner of x, adversary of x, quest companion of x"
+        ],
+        [
+            "Worker Wang",
+            "child of x, victim of x"
+        ],
+        [
+            "Ship Doctor Ling",
+            "daughter in law of x, friend of x, admirer of x, seeker of help from x"
+        ],
+        [
+            "Boss Yang",
+            "business partner of x, adversary of x, quest companion of x"
+        ]
+    ],
+    "First Mate Zhang": [
+        [
+            "Shipyard Worker Wang",
+            "business partner of x, helped by x"
+        ],
+        [
+            "Boss Yang",
+            "business partner of x, helped by x"
+        ]
+    ],
+    "Worker Wang": [
+        [
+            "Shipyard Worker Wang",
+            "father of x, information receiver from x"
+        ],
+        [
+            "Ship Doctor Ling",
+            "wife of x"
+        ]
+    ],
+    "Ship Doctor Ling": [
+        [
+            "Shipyard Worker Wang",
+            "father in law of x, helper of x"
+        ],
+        [
+            "Worker Wang",
+            "husband of x"
+        ],
+        [
+            "Boss Yang",
+            "creditor of x, perceived threat to x"
+        ]
+    ],
+    "Boss Yang": [
+        [
+            "Shipyard Worker Wang",
+            "business partner of x, victim of x"
+        ],
+        [
+            "First Mate Zhang",
+            "business partner of x, helped by x"
+        ],
+        [
+            "Ship Doctor Ling",
+            "debtor of x, suspected by x"
+        ]
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Master Chen": [
+      ["Chen Zijing", "father of x"], 
+      ["Madam Chen or Chen Family", "wife of x"], 
+      ["Chen Qian", "daughter of x"], 
+      ["Li Wangye", "business partner of x"], 
+      ["Fang XU", "acquaintance of x"]
+    ],
+    "Li Wangye": [
+      ["Master Chen", "business partner of x"], 
+      ["Fang XU", "wife of x"]
+    ],
+    "Fang XU": [
+      ["Li Wangye", "wife of x"], 
+      ["Chen Qian", "stepdaughter of x"]
+    ],
+    "Chen Qian": [
+      ["Master Chen", "father of x"], 
+      ["Madam Chen or Chen Family", "mother of x"], 
+      ["Fang XU", "stepdaughter of x"]
+    ],
+    "Madam Li or Li Family": [
+      ["Li Zhong", "mother of x"], 
+      ["Li Yan", "mother of x"], 
+      ["Chen Qian", "daughter in law of x"]
+    ],
+    "Li Zhong": [
+      ["Madam Li or Li Family", "mother of x"], 
+      ["Li Yan", "twin brother of x"]
+    ],
+    "Li Yan": [
+      ["Madam Li or Li Family", "mother of x"], 
+      ["Li Zhong", "twin brother of x"]
+    ],
+    "Xiao Qian": [
+      ["Chen Qian", "sister in law of x"], 
+      ["Li Wangye", "wife of x"]
+    ],
+    "Li Gongzi": [
+      ["Master Chen", "subordinate of x"]
+    ]
+}

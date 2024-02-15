@@ -1,0 +1,94 @@
+{
+    "Gu Qing": [
+        [
+            "Gu Ming",
+            "father of x"
+        ],
+        [
+            "Gu Yu",
+            "brother of x"
+        ],
+        [
+            "Lin Xi",
+            "friend of x"
+        ],
+        [
+            "Su Yang",
+            "romantic relationships with x"
+        ],
+        [
+            "Lin Tong",
+            "extramarital affair with x"
+        ],
+        [
+            "Lin Yang",
+            "ex boyfriend of x gu qing"
+        ]
+    ],
+    "Gu Ming": [
+        [
+            "Gu Qing",
+            "child of x"
+        ]
+    ],
+    "Gu Yu": [
+        [
+            "Gu Qing",
+            "sibling of x"
+        ]
+    ],
+    "Lin Xi": [
+        [
+            "Gu Qing",
+            "friend of x"
+        ],
+        [
+            "Gu Yu",
+            "friend of x"
+        ],
+        [
+            "Su Yang",
+            "romantic relationships with x"
+        ]
+    ],
+    "Su Yang": [
+        [
+            "Gu Qing",
+            "romantic relationships with x"
+        ],
+        [
+            "Lin Xi",
+            "romantic relationships with x"
+        ]
+    ],
+    "Lin Tong": [
+        [
+            "Gu Qing",
+            "extramarital affair with x"
+        ]
+    ],
+    "Lin Weiren": [
+        [
+            "Lin Xi",
+            "father of x"
+        ]
+    ],
+    "Lin Yang": [
+        [
+            "Gu Qing",
+            "ex boyfriend of x lin yang"
+        ]
+    ],
+    "Shen Cheng": [
+        [
+            "Lin Xi",
+            "acquaintance of x"
+        ]
+    ],
+    "Unknown Murderer": [
+        [
+            "Gu Ming",
+            "perpetrator of x"
+        ]
+    ]
+}

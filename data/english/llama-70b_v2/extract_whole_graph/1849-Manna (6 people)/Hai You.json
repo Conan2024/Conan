@@ -1,0 +1,38 @@
+{
+    "Hai You": [
+      ["Tan Renchang", "uncle of x, guardian of x"], 
+      ["Mrs. Tan", "adopted mother of x, close friend of x"], 
+      ["Lv Caiqian", "cousin of x, foster mother of x"], 
+      ["Lv Mingran", "cousin of x, brother in law of x"], 
+      ["Shang Zhi", "brother of x, friend of x"]
+    ],
+    "Mrs. Tan": [
+      ["Hai You", "adopted daughter of x, close friend of x"], 
+      ["Tan Renchang", "husband of x, distant relative of x"], 
+      ["Lv Caiqian", "niece of x, foster daughter of x"]
+    ],
+    "Tan Renchang": [
+      ["Hai You", "uncle of x, guardian of x"], 
+      ["Mrs. Tan", "wife of x, distant relative of x"], 
+      ["Lv Mingran", "brother of x, business partner of x"]
+    ],
+    "Lv Caiqian": [
+      ["Hai You", "cousin of x, foster mother of x"], 
+      ["Mrs. Tan", "aunt of x, adoptive mother of x"]
+    ],
+    "Lv Mingran": [
+      ["Hai You", "cousin of x, brother in law of x"], 
+      ["Tan Renchang", "brother of x, business partner of x"]
+    ],
+    "Shang Zhi": [
+      ["Hai You", "brother of x, friend of x"], 
+      ["Tan Renchang", "uncle of x, guardian of x"]
+    ],
+    "Cheng Ge": [
+      ["Tan Renchang", "father of x, adopted son of x"], 
+      ["Mrs. Tan", "mother of x, adoptive mother of x"]
+    ],
+    "Liao Gongzi": [
+      ["Mrs. Tan", "debt collector of x"]
+    ]
+}

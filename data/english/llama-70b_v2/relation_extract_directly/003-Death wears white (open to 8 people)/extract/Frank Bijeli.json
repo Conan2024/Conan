@@ -1,0 +1,19 @@
+{
+    "Frank Bijeli": [
+      ["Tony", "brother of x, trusted ally of x"], 
+      ["Father Tom", "acquaintance of x, deceiver of x"], 
+      ["People in the hospital", "hostages of x"]
+    ],
+    "Tony": [
+      ["Frank Bijeli", "brother of x, trusted ally of x"], 
+      ["Father Tom", "acquaintance of x, manipulator of x"]
+    ],
+    "Father Tom": [
+      ["Frank Bijeli", "acquaintance of x, employer of x"], 
+      ["Tony", "acquaintance of x, manipulated of x"]
+    ],
+    "People in the hospital": [
+      ["Frank Bijeli", "hostage of x"], 
+      ["Tony", "hostage of x"]
+    ]
+}

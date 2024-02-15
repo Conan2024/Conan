@@ -1,0 +1,125 @@
+{
+    "Gust": [
+        [
+            "Ella",
+            "Relationship 1: Assistant",
+            "Relationship 2: Suspicious of cheating"
+        ],
+        [
+            "David",
+            "Employee of X",
+            "Master of X",
+            "Superior of X"
+        ],
+        [
+            "Rowling",
+            "Employee of X",
+            "Superior of X",
+            "Master of X",
+            "Subordinate of X",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "Kevin",
+            "Acquaintance",
+            "Suspect"
+        ]
+    ],
+    "Ella": [
+        [
+            "Gust",
+            "Relationship 1: Assistant",
+            "Relationship 2: Suspicious of cheating"
+        ],
+        [
+            "David",
+            "Guster",
+            "coworker",
+            "accomplice"
+        ],
+        [
+            "Rowling",
+            "Lla is Gust's assistant",
+            "You also know that Gust likes her",
+            "you have been cheated by her a lot of money"
+        ],
+        [
+            "Kevin",
+            "assistant",
+            "thief"
+        ]
+    ],
+    "David": [
+        [
+            "Gust",
+            "Employee of X",
+            "Master of X",
+            "Superior of X"
+        ],
+        [
+            "Ella",
+            "Guster",
+            "coworker",
+            "accomplice"
+        ],
+        [
+            "Rowling",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Kevin",
+            "Acquaintance",
+            "Rival"
+        ]
+    ],
+    "Rowling": [
+        [
+            "Gust",
+            "Employee of X",
+            "Superior of X",
+            "Master of X",
+            "Subordinate of X",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "Ella",
+            "Publicity Rowling",
+            "You are not familiar with",
+            "she seems to have a close relationship with Kevin",
+            "Is she also a thief?"
+        ],
+        [
+            "David",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Kevin",
+            "Acquaintance"
+        ]
+    ],
+    "Kevin": [
+        [
+            "Gust",
+            "Acquaintance",
+            "Suspect"
+        ],
+        [
+            "Ella",
+            "thief",
+            "accomplice"
+        ],
+        [
+            "David",
+            "Acquaintance",
+            "Rival"
+        ],
+        [
+            "Rowling",
+            "Acquaintance"
+        ]
+    ]
+}

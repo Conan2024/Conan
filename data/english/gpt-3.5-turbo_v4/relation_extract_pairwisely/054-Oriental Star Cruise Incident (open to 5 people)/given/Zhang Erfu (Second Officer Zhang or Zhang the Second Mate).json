@@ -1,0 +1,45 @@
+{
+    "Zhang Wenyuan": [
+      ["Liu Qi", "subordinate of x"], 
+      ["Hong Zilian", "subordinate of x"], 
+      ["Xiu Renjie", "friend of x"], 
+      ["Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)", "employee of x"]
+    ],
+    "Liu Qi": [
+      ["Zhang Wenyuan", "authority over x"], 
+      ["Hong Zilian", "ex romantic relationships with x"], 
+      ["Lin Ruotong", "friend of x, ex romantic relationships with x"], 
+      ["Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)", "adversary of x"]
+    ],
+    "Hong Zilian": [
+      ["Liu Qi", "rival of x"], 
+      ["Xiu Renjie", "colleague of x"], 
+      ["Lin Ruotong", "acquaintance of x"], 
+      ["Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)", "colleague of x"]
+    ],
+    "Xiu Renjie": [
+      ["Zhang Wenyuan", "friend of x"], 
+      ["Liu Qi", "colleague of x"], 
+      ["Hong Zilian", "colleague of x"], 
+      ["Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)", "romantic relationships with x"]
+    ],
+    "Lin Ruotong": [
+      ["Liu Qi", "friend of x, ex romantic relationships with x"], 
+      ["Hong Zilian", "acquaintance of x"], 
+      ["Han Yimu", "acquaintance of x"], 
+      ["Xiu Renjie", "acquaintance of x"], 
+      ["Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)", "acquaintance of x"]
+    ],
+    "Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)": [
+      ["Zhang Wenyuan", "employer of x"], 
+      ["Liu Qi", "hate of x"], 
+      ["Hong Zilian", "colleague of x"], 
+      ["Han Yimu", "acquaintance of x"], 
+      ["Xiu Renjie", "romantic relationships with x"], 
+      ["Lin Ruotong", "acquaintance of x"]
+    ],
+    "Han Yimu": [
+      ["Lin Ruotong", "acquaintance of x"], 
+      ["Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)", "friend of x"]
+    ]
+}

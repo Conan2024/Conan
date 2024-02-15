@@ -1,0 +1,196 @@
+{
+    "He Laoliu": [
+        [
+            "Li Guofu",
+            "crime partner of x"
+        ],
+        [
+            "Zhang Jie",
+            "crime partner of x"
+        ],
+        [
+            "Mu Bei",
+            "colleague of x"
+        ],
+        [
+            "Neighbor Wang",
+            "acquaintance of x"
+        ],
+        [
+            "Second sister",
+            "relative of x"
+        ],
+        [
+            "Dad",
+            "relative of x"
+        ],
+        [
+            "Father-in-law",
+            "future relative of x"
+        ],
+        [
+            "Li Guofu",
+            "murderer of x"
+        ],
+        [
+            "Mu Bei",
+            "victim of x"
+        ]
+    ],
+    "Li Guofu": [
+        [
+            "He Laoliu",
+            "crime partner of x"
+        ],
+        [
+            "Zhang Jie",
+            "crime partner of x"
+        ],
+        [
+            "Mu Bei",
+            "colleague of x"
+        ],
+        [
+            "Neighbor Wang",
+            "acquaintance of x"
+        ],
+        [
+            "Second sister",
+            "acquaintance of x"
+        ],
+        [
+            "Dad",
+            "acquaintance of x"
+        ],
+        [
+            "He Laoliu",
+            "murderer of x"
+        ],
+        [
+            "Mu Bei",
+            "victim of x"
+        ]
+    ],
+    "Zhang Jie": [
+        [
+            "He Laoliu",
+            "crime partner of x"
+        ],
+        [
+            "Li Guofu",
+            "crime partner of x"
+        ],
+        [
+            "Mu Bei",
+            "colleague of x"
+        ],
+        [
+            "Second sister",
+            "acquaintance of x"
+        ],
+        [
+            "Dad",
+            "acquaintance of x"
+        ],
+        [
+            "He Laoliu",
+            "murderer of x"
+        ],
+        [
+            "Mu Bei",
+            "victim of x"
+        ]
+    ],
+    "Mu Bei": [
+        [
+            "He Laoliu",
+            "colleague of x"
+        ],
+        [
+            "Li Guofu",
+            "colleague of x"
+        ],
+        [
+            "Zhang Jie",
+            "colleague of x"
+        ],
+        [
+            "He Laoliu",
+            "victim of x"
+        ],
+        [
+            "Li Guofu",
+            "murderer of x"
+        ],
+        [
+            "Zhang Jie",
+            "murderer of x"
+        ]
+    ],
+    "Neighbor Wang": [
+        [
+            "He Laoliu",
+            "acquaintance of x"
+        ],
+        [
+            "Li Guofu",
+            "acquaintance of x"
+        ],
+        [
+            "He Laoliu",
+            "attempted murder victim of x"
+        ],
+        [
+            "Li Guofu",
+            "attempted murderer of x"
+        ],
+        [
+            "Police",
+            "authority over x"
+        ]
+    ],
+    "Second sister": [
+        [
+            "He Laoliu",
+            "relative of x"
+        ],
+        [
+            "Li Guofu",
+            "acquaintance of x"
+        ],
+        [
+            "Dad",
+            "relative of x"
+        ],
+        [
+            "Father-in-law",
+            "future relative of x"
+        ]
+    ],
+    "Dad": [
+        [
+            "He Laoliu",
+            "relative of x"
+        ],
+        [
+            "Second sister",
+            "relative of x"
+        ]
+    ],
+    "Father-in-law": [
+        [
+            "He Laoliu",
+            "future relative of x"
+        ],
+        [
+            "Second sister",
+            "future relative of x"
+        ]
+    ],
+    "Police": [
+        [
+            "Neighbor Wang",
+            "authority over x"
+        ]
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Hao Guimi": [
+      ["Cousin Sister", "sibling of x"], 
+      ["ZHANG EBA", "victim of x, rival of x"]
+    ],
+    "Cousin Sister": [
+      ["Hao Guimi", "sibling of x"]
+    ],
+    "ZHANG EBA": [
+      ["LIN XIAOHUA", "fiancee of x"], 
+      ["Hao Guimi", "perpetrator of x, rival of x"], 
+      ["Wang Xuexi", "business partner of x"], 
+      ["Li Xiaodi", "business partner of x"], 
+      ["Lin Xiaohua", "fiance of x"], 
+      ["Zhao Shuaige", "neighbour of x"]
+    ],
+    "LIN XIAOHUA": [
+      ["ZHANG EBA", "fiance of x"], 
+      ["Hao Guimi", "informant of x"]
+    ],
+    "Wang Xuexi": [
+      ["ZHANG EBA", "business partner of x"]
+    ],
+    "Li Xiaodi": [
+      ["ZHANG EBA", "business partner of x"]
+    ],
+    "Zhao Shuaige": [
+      ["ZHANG EBA", "neighbour of x"]
+    ]
+}

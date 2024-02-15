@@ -1,0 +1,44 @@
+{
+    "Dr. Richard Berkeley": [
+      ["Hans Li Morette", "laine carter of x, dr of x, paloski of x, sylvia costa of x, father tom of x"], 
+      ["Laine Carter", "hans li morette of x, dr of x, paloski of x, sylvia costa of x, father tom of x"], 
+      ["Dr. Paloski", "relationship 1: mentor mentee of x, relationship 2: supervisor intern of x"], 
+      ["Sylvia Costa", "friend of x, colleague of x"], 
+      ["Father Tom", "relationship 1: acquaintance of x, relationship 2: suspect of x"]
+    ],
+    "Hans Li Morette": [
+      ["Dr. Richard Berkeley", "laine carter of x"], 
+      ["Laine Carter", "relationship 1: colleague of x, relationship 2: suspect in investigation of x"], 
+      ["Dr. Paloski", "colleague of x, superior of x"], 
+      ["Sylvia Costa", "friend of x, colleague of x"], 
+      ["Father Tom", "relationship 1: mentorship of x, relationship 2: suspicion of x"]
+    ],
+    "Laine Carter": [
+      ["Dr. Richard Berkeley", "hans li morette of x, dr of x, paloski of x, sylvia costa of x, father tom of x"], 
+      ["Hans Li Morette", "relationship 1: colleague of x, relationship 2: suspect in investigation of x"], 
+      ["Dr. Paloski", "hans li morette of x, sylvia costa of x, father tom of x"], 
+      ["Sylvia Costa", "friend of x, colleague of x"], 
+      ["Father Tom", "same person as x (different reference)"]
+    ],
+    "Dr. Paloski": [
+      ["Dr. Richard Berkeley", "relationship 1: mentor mentee of x, relationship 2: supervisor intern of x"], 
+      ["Hans Li Morette", "colleague of x, superior of x"], 
+      ["Laine Carter", "hans li morette of x, sylvia costa of x, father tom of x"], 
+      ["Sylvia Costa", "friend of x, colleague of x"], 
+      ["Father Tom", "same person as x (different reference)"]
+    ],
+    "Sylvia Costa": [
+      ["Dr. Richard Berkeley", "friend of x, colleague of x"], 
+      ["Hans Li Morette", "friend of x, colleague of x"], 
+      ["Laine Carter", "friend of x, colleague of x"], 
+      ["Dr. Paloski", "friend of x, colleague of x"], 
+      ["Father Tom", "friend of x"]
+    ],
+    "Father Tom": [
+      ["Dr. Richard Berkeley", "relationship 1: acquaintance of x, relationship 2: suspect of x"], 
+      ["Hans Li Morette", "relationship 1: mentorship of x, relationship 2: suspicion of x"], 
+      ["Laine Carter", "same person as x (different reference)"], 
+      ["Dr. Paloski", "same person as x (different reference)"], 
+      ["Sylvia Costa", "friend of x"]
+    ]
+}

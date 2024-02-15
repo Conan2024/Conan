@@ -1,0 +1,47 @@
+{
+    "Du Zhong": [
+      ["Feng", "mentor of x, bully of x"], 
+      ["Lady Safflower", "mentor of x, betrayer of x"], 
+      ["Lu Ying", "master disciple of x, suspect suspicious of x"], 
+      ["Wulin League Envoy", "shi yan of x"], 
+      ["Shi Yan", "enemy of x, deceiver of x"]
+    ],
+    "Feng": [
+      ["Du Zhong", "mentor of x, bully of x"], 
+      ["Lady Safflower", "apprentice of x, revenge accomplice of x"], 
+      ["Lu Ying", "acquaintance of x, suspect of x"], 
+      ["Martial Alliance's Investigator", "wanhua valley's valley lord (lady safflower) of x"], 
+      ["Shi Yan", "apprentice of x wanhua valley, avenger of x, friend of x"]
+    ],
+    "Lady Safflower": [
+      ["Du Zhong", "protege of x, victim of x"], 
+      ["Feng", "master of x, benefactor of x, revenge target of x"], 
+      ["Lu Ying", "mentor of x, friend of x"], 
+      ["Martial Alliance's Investigator", "mentor of x, trainer of x, benefactor of x, sword master of x"], 
+      ["Shi Yan", "mentor of x, friend of x"]
+    ],
+    "Lu Ying": [
+      ["Du Zhong", "master disciple of x, suspect suspicious of x"], 
+      ["Feng", "acquaintance of x, suspect of x"], 
+      ["Lady Safflower", "mentee of x, friend of x"], 
+      ["Martial Alliance's Investigator", "suspect of x, adversary of x"], 
+      ["Shi Yan", "acquaintance of x, suspect of x"]
+    ],
+    "Shi Yan": [
+      ["Du Zhong", "wulin league envoy of x"], 
+      ["Du Zhong", "enemy of x, deceived of x"], 
+      ["Feng", "master of x wanhua valley, creator of x yi jian jue, benefactor of x"], 
+      ["Lady Safflower", "apprentice of x, friend of x"], 
+      ["Lu Ying", "acquaintance of x, suspect of x"], 
+      ["Martial Alliance's Investigator", "wanhua valley's envoy of x"]
+    ],
+    "Wulin League Envoy": [
+      ["Shi Yan", "du zhong of x"]
+    ],
+    "Martial Alliance's Investigator": [
+      ["Feng", "wanhua valley's valley lord (lady safflower) of x"], 
+      ["Lady Safflower", "apprentice of x, protege of x, agent of x, ally of x"], 
+      ["Lu Ying", "suspect of x, adversary of x"], 
+      ["Shi Yan", "wanhua valley's envoy of x"]
+    ]
+}

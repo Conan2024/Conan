@@ -1,0 +1,92 @@
+{
+    "Amy Morgan": [
+      ["Harold Harrison", "sibling of x"], 
+      ["Marina Harrison", "sister of x"], 
+      ["Anna", "ex wife of x"], 
+      ["Lucy Harrison", "sister of x"], 
+      ["Max Pike", "friend of x"], 
+      ["Joe Robertson", "friend of x"], 
+      ["Alex Harvey", "friend of x"], 
+      ["John Morgan", "friend of x, possible family of x, fondness of x"]
+    ],
+    "Harold Harrison": [
+      ["Amy Morgan", "sibling of x"], 
+      ["Marina Harrison", "wife of x"], 
+      ["Anna", "husband of x"], 
+      ["Lucy Harrison", "sibling of x"], 
+      ["Max Pike", "possibly family of x"], 
+      ["Joe Robertson", "brother of x"], 
+      ["Alex Harvey", "friend of x"], 
+      ["John Morgan", "brother in law of x"]
+    ],
+    "Marina Harrison": [
+      ["Amy Morgan", "sister of x"], 
+      ["Harold Harrison", "husband of x"], 
+      ["Anna", "sister of x"], 
+      ["Lucy Harrison", "sister of x"], 
+      ["Max Pike", "extramarital affair with x"], 
+      ["Joe Robertson", "husband of x, romantic relationships with x"], 
+      ["Alex Harvey", "friend of x"], 
+      ["John Morgan", "ex husband of x"]
+    ],
+    "Anna": [
+      ["Amy Morgan", "ex husband of x"], 
+      ["Harold Harrison", "wife of x"], 
+      ["Marina Harrison", "sister of x"], 
+      ["Lucy Harrison", "sister of x"], 
+      ["Max Pike", "acquaintance of x"], 
+      ["Joe Robertson", "secret lover of x, romantic relationships with x"], 
+      ["Alex Harvey", "friend of x, helper of x"], 
+      ["John Morgan", "ex husband of x"]
+    ],
+    "Lucy Harrison": [
+      ["Amy Morgan", "sister of x"], 
+      ["Harold Harrison", "sibling of x"], 
+      ["Marina Harrison", "sister of x"], 
+      ["Anna", "sister of x"], 
+      ["Max Pike", "acquaintance of x"], 
+      ["Joe Robertson", "romantic relationships with x"], 
+      ["Alex Harvey", "friend of x"], 
+      ["John Morgan", "friend of x"]
+    ],
+    "Max Pike": [
+      ["Amy Morgan", "acquaintance of x"], 
+      ["Harold Harrison", "possibly family of x"], 
+      ["Marina Harrison", "extramarital affair with x"], 
+      ["Anna", "acquaintance of x"], 
+      ["Lucy Harrison", "acquaintance of x"], 
+      ["Joe Robertson", "acquaintance of x"], 
+      ["Alex Harvey", "friend of x"], 
+      ["John Morgan", "friend of x"]
+    ],
+    "Joe Robertson": [
+      ["Amy Morgan", "friend of x"], 
+      ["Harold Harrison", "brother of x"], 
+      ["Marina Harrison", "wife of x, romantic relationships with x"], 
+      ["Anna", "secret lover of x, romantic relationships with x"], 
+      ["Lucy Harrison", "romantic relationships with x"], 
+      ["Max Pike", "acquaintance of x"], 
+      ["Alex Harvey", "friend of x"], 
+      ["John Morgan", "friend of x"]
+    ],
+    "Alex Harvey": [
+      ["Amy Morgan", "borrower of x"], 
+      ["Harold Harrison", "acquaintance of x"], 
+      ["Marina Harrison", "borrower of x"], 
+      ["Anna", "friend of x, borrower of x"], 
+      ["Lucy Harrison", "acquaintance of x"], 
+      ["Max Pike", "customer of x"], 
+      ["Joe Robertson", "debtor of x"], 
+      ["John Morgan", "friend of x"]
+    ],
+    "John Morgan": [
+      ["Amy Morgan", "friend of x"], 
+      ["Harold Harrison", "brother in law of x"], 
+      ["Marina Harrison", "ex wife of x"], 
+      ["Anna", "ex wife of x"], 
+      ["Lucy Harrison", "friend of x"], 
+      ["Max Pike", "friend of x"], 
+      ["Joe Robertson", "friend of x"], 
+      ["Alex Harvey", "friend of x"]
+    ]
+}

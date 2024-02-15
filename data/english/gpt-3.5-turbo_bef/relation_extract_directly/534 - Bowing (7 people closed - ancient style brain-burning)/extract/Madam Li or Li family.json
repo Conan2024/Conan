@@ -1,0 +1,86 @@
+{
+    "Madam Li": [
+      ["Fang Xu", "same person as x (different reference)"], 
+      ["Fang Xu", "romantic relationships with x"], 
+      ["Fang Xu", "ex romantic relationships with x"], 
+      ["Fang Ye", "brother of x"], 
+      ["Fang Mian", "sister of x"], 
+      ["Adopted boy", "same person as x (different identity)"], 
+      ["Li Zhong", "son of x"], 
+      ["Li Yan", "son of x"], 
+      ["Li Qinren", "father of x"], 
+      ["Chen Fu Qianjin", "husband of x"], 
+      ["Chen Zijing", "brother in law of x"], 
+      ["Servant", "helper of x"], 
+      ["Fang Zhu", "informant of x"]
+    ],
+    "Fang Xu": [
+      ["Madam Li", "same person as x (different reference)"], 
+      ["Madam Li", "romantic relationships with x"], 
+      ["Madam Li", "ex romantic relationships with x"], 
+      ["Fang Ye", "brother of x"], 
+      ["Fang Mian", "sister of x"], 
+      ["Adopted boy", "same person as x (different identity)"], 
+      ["Li Zhong", "half brother of x"], 
+      ["Li Yan", "half brother of x"]
+    ],
+    "Fang Ye": [
+      ["Madam Li", "brother of x"], 
+      ["Madam Li", "brother of x"], 
+      ["Fang Xu", "brother of x"], 
+      ["Fang Mian", "brother of x"], 
+      ["Adopted boy", "same person as x (different identity)"]
+    ],
+    "Fang Mian": [
+      ["Madam Li", "sister of x"], 
+      ["Madam Li", "sister of x"], 
+      ["Fang Xu", "sister of x"], 
+      ["Fang Ye", "sister of x"], 
+      ["Adopted boy", "same person as x (different identity)"]
+    ],
+    "Adopted boy": [
+      ["Madam Li", "same person as x (different identity)"], 
+      ["Fang Xu", "same person as x (different identity)"], 
+      ["Fang Ye", "same person as x (different identity)"], 
+      ["Fang Mian", "same person as x (different identity)"], 
+      ["Li Zhong", "same person as x (different identity)"], 
+      ["Li Yan", "same person as x (different identity)"]
+    ],
+    "Li Zhong": [
+      ["Madam Li", "son of x"], 
+      ["Fang Xu", "half brother of x"], 
+      ["Li Yan", "twin brother of x"], 
+      ["Li Qinren", "father of x"], 
+      ["Chen Fu Qianjin", "brother in law of x"], 
+      ["Chen Zijing", "brother in law of x"]
+    ],
+    "Li Yan": [
+      ["Madam Li", "son of x"], 
+      ["Fang Xu", "half brother of x"], 
+      ["Li Zhong", "twin brother of x"], 
+      ["Li Qinren", "father of x"], 
+      ["Chen Fu Qianjin", "brother in law of x"], 
+      ["Chen Zijing", "brother in law of x"]
+    ],
+    "Li Qinren": [
+      ["Madam Li", "father of x"], 
+      ["Li Zhong", "father of x"], 
+      ["Li Yan", "father of x"]
+    ],
+    "Chen Fu Qianjin": [
+      ["Madam Li", "husband of x"], 
+      ["Li Zhong", "brother in law of x"], 
+      ["Li Yan", "brother in law of x"]
+    ],
+    "Chen Zijing": [
+      ["Madam Li", "brother in law of x"], 
+      ["Li Zhong", "brother in law of x"], 
+      ["Li Yan", "brother in law of x"]
+    ],
+    "Servant": [
+      ["Madam Li", "helper of x"]
+    ],
+    "Fang Zhu": [
+      ["Madam Li", "informant of x"]
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "Andrew Paloski": [
+      ["Hans Li Morette", "colleague of x, rival of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Eleine Carter", "mentor of x"], 
+      ["Dean Berkeley", "superior of x"], 
+      ["Head Nurse Costa", "subordinate of x"], 
+      ["Father Tom", "informant of x"]
+    ],
+    "Hans Li Morette": [
+      ["Andrew Paloski", "colleague of x, rival of x"], 
+      ["Drake Li Morette", "sibling of x"], 
+      ["Eleine Carter", "mentor of x"], 
+      ["Dean Berkeley", "superior of x"], 
+      ["Head Nurse Costa", "colleague of x"], 
+      ["Father Tom", "informant of x"], 
+      ["Gale Li Morette", "wife of x"]
+    ],
+    "Drake Li Morette": [
+      ["Andrew Paloski", "colleague of x"], 
+      ["Hans Li Morette", "sibling of x"], 
+      ["Eleine Carter", "mentor of x"], 
+      ["Dean Berkeley", "superior of x"], 
+      ["Head Nurse Costa", "colleague of x"], 
+      ["Father Tom", "informant of x"]
+    ],
+    "Eleine Carter": [
+      ["Andrew Paloski", "mentor of x"], 
+      ["Hans Li Morette", "mentor of x"], 
+      ["Drake Li Morette", "mentor of x"], 
+      ["Dean Berkeley", "superior of x"], 
+      ["Head Nurse Costa", "colleague of x"], 
+      ["Father Tom", "informant of x"]
+    ],
+    "Dean Berkeley": [
+      ["Andrew Paloski", "subordinate of x"], 
+      ["Hans Li Morette", "subordinate of x"], 
+      ["Drake Li Morette", "subordinate of x"], 
+      ["Eleine Carter", "subordinate of x"], 
+      ["Head Nurse Costa", "superior of x"], 
+      ["Father Tom", "informant of x"]
+    ],
+    "Head Nurse Costa": [
+      ["Andrew Paloski", "superior of x"], 
+      ["Hans Li Morette", "colleague of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Eleine Carter", "colleague of x"], 
+      ["Dean Berkeley", "superior of x"], 
+      ["Father Tom", "informant of x"]
+    ],
+    "Father Tom": [
+      ["Andrew Paloski", "informant of x"], 
+      ["Hans Li Morette", "informant of x"], 
+      ["Drake Li Morette", "informant of x"], 
+      ["Eleine Carter", "informant of x"], 
+      ["Dean Berkeley", "informant of x"], 
+      ["Head Nurse Costa", "informant of x"]
+    ],
+    "Gale Li Morette": [
+      ["Hans Li Morette", "wife of x"]
+    ]
+}

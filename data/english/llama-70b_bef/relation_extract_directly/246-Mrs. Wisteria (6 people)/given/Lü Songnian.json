@@ -1,0 +1,40 @@
+{
+    "Lü Songnian": [
+      ["Yu Yancheng", "brother of x"], 
+      ["Xue Yufan", "acquaintance of x"], 
+      ["Le Wan", "acquaintance of x"], 
+      ["Zhu Lingshan", "friend of x"], 
+      ["Yu Shangyong", "brother of x"], 
+      ["Ge Jixian", "acquaintance of x"], 
+      ["Ge Yueluo", "murderer of x"]
+    ],
+    "Yu Yancheng": [
+      ["Lü Songnian", "brother of x"], 
+      ["Xue Yufan", "friend of x"], 
+      ["Le Wan", "acquaintance of x"]
+    ],
+    "Xue Yufan": [
+      ["Lü Songnian", "acquaintance of x"], 
+      ["Yu Yancheng", "friend of x"]
+    ],
+    "Le Wan": [
+      ["Lü Songnian", "acquaintance of x"], 
+      ["Yu Yancheng", "acquaintance of x"]
+    ],
+    "Zhu Lingshan": [
+      ["Lü Songnian", "friend of x"]
+    ],
+    "Yu Shangyong": [
+      ["Lü Songnian", "brother of x"], 
+      ["Yu Yancheng", "brother of x"]
+    ],
+    "Ge Jixian": [
+      ["Lü Songnian", "acquaintance of x"]
+    ],
+    "Ge Yueluo": [
+      ["Yu Yancheng", "brother of x"]
+    ],
+    "Zhi Jun": [
+      ["Xue Yufan", "friend of x"]
+    ]
+}

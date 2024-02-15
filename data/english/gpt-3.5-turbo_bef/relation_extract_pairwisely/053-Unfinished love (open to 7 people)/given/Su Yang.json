@@ -1,0 +1,64 @@
+{
+    "Su Yang": [
+      ["Lin Weiren", "fiance of x"], 
+      ["Lin Xi", "romantic relationships with x"], 
+      ["Lin Tong", "romantic relationships with x"], 
+      ["Gu Minghe", "romantic relationships with x"], 
+      ["Gu Yu", "romantic relationships with x"], 
+      ["Shen Cheng", "helper of x"], 
+      ["Lin Xi", "romantic relationships with x"]
+    ],
+    "Lin Weiren": [
+      ["Su Yang", "mentor of x"], 
+      ["Lin Tong", "mentor of x"], 
+      ["Lin Xi", "father of x"], 
+      ["Gu Yu", "ex romantic relationships with x"], 
+      ["Shen Cheng", "employer of x, master of x"]
+    ],
+    "Lin Xi": [
+      ["Su Yang", "romantic relationships with x"], 
+      ["Lin Tong", "ex girlfriend of x"], 
+      ["Gu Minghe", "romantic relationships with x"], 
+      ["Su Yang", "romantic relationships with x"], 
+      ["Shen Cheng", "father of x"]
+    ],
+    "Lin Tong": [
+      ["Su Yang", "romantic relationships with x"], 
+      ["Lin Weiren", "student of x"], 
+      ["Lin Xi", "ex boyfriend of x"], 
+      ["Gu Minghe", "ex boyfriend of x"], 
+      ["Gu Yu", "ex girlfriend of x"], 
+      ["Shen Cheng", "husband of x"]
+    ],
+    "Gu Minghe": [
+      ["Su Yang", "romantic relationships with x"], 
+      ["Lin Xi", "romantic relationships with x"], 
+      ["Lin Tong", "ex girlfriend of x"], 
+      ["Gu Qing", "romantic relationships with x, secret lover of x"], 
+      ["Gu Yu", "romantic relationships with x"], 
+      ["Shen Cheng", "helper of x"]
+    ],
+    "Gu Qing": [
+      ["Su Yang", "ex girlfriend of x"], 
+      ["Gu Minghe", "romantic relationships with x, secret lover of x"], 
+      ["Gu Yu", "secret lover of x"], 
+      ["Su Yang", "romantic relationships with x"]
+    ],
+    "Gu Yu": [
+      ["Su Yang", "romantic relationships with x"], 
+      ["Lin Weiren", "ex romantic relationships with x"], 
+      ["Lin Tong", "ex boyfriend of x"], 
+      ["Gu Minghe", "romantic relationships with x"], 
+      ["Gu Qing", "secret lover of x"], 
+      ["Shen Cheng", "fiance of x"]
+    ],
+    "Shen Cheng": [
+      ["Su Yang", "employer of x"], 
+      ["Lin Weiren", "employee of x, servant of x"], 
+      ["Lin Xi", "daughter of x"], 
+      ["Lin Tong", "wife of x"], 
+      ["Gu Minghe", "employer of x"], 
+      ["Su Yang", "employee of x"], 
+      ["Gu Yu", "employee of x"]
+    ]
+}

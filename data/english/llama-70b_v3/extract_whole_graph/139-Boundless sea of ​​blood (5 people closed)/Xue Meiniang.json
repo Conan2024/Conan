@@ -1,0 +1,17 @@
+{
+    "Xue Meiniang": [
+      ["JIA Meili", "suspect of x"], 
+      ["Qin Laoda", "lover of x"]
+    ],
+    "Qin Laoda": [
+      ["Xue Meiniang", "lover of x, teacher of x"], 
+      ["JIA Meili", "enemy of x"]
+    ],
+    "JIA Meili": [
+      ["Xue Meiniang", "suspect of x"], 
+      ["Qin Laoda", "enemy of x"]
+    ],
+    "Qin Expert": [
+      ["Qin Laoda", "son of x"]
+    ]
+}

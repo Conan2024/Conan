@@ -1,0 +1,21 @@
+{
+    "Zhao Zhongzheng": [
+      ["Zhao Zhongyang", "ibling of x"], 
+      ["Li Cheng", "employee of x"], 
+      ["Chen Meier", "romantic relationships with x"], 
+      ["Zhao San", "friend of x"], 
+      ["Chen Meier", "helper of x"], 
+      ["Li Cheng", "helper of x"]
+    ],
+    "Zhao Zhongyang": [
+      ["Zhao Zhongzheng", "sibling of x"]
+    ],
+    "Li Cheng": [
+      ["Zhao Zhongzheng", "employer of x"], 
+      ["Zhao Zhongzheng", "manipulated by x"]
+    ],
+    "Chen Meier": [
+      ["Zhao Zhongzheng", "romantic relationships with x"], 
+      ["Zhao Zhongzheng", "helper of x"]
+    ]
+}

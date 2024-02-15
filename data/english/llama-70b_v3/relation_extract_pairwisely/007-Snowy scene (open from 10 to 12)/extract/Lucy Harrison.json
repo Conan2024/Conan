@@ -1,0 +1,110 @@
+{
+    "Lucy Harrison": [
+      ["Jonathan Perry", "fiancee of x, romantic relationships with x"], 
+      ["Harold Harrison", "child of x"], 
+      ["Jacqueline Perry", "aunt of x, business partner of x"], 
+      ["Daniel Perry", "cousin of x"], 
+      ["Davis Perry", "cousin of x"], 
+      ["Amy Morgan", "friend of x, classmate of x"], 
+      ["Elex", "friend of x, acquaintance of x"], 
+      ["John Morgan", "acquaintance of x, friend of x"]
+    ],
+    "Jonathan Perry": [
+      ["Lucy Harrison", "fiance of x, romantic relationships with x"], 
+      ["Harold Harrison", "cousin of x, fiance of x"], 
+      ["Marina Harrison", "cousin of x, fiance of x"], 
+      ["Jacqueline Perry", "cousin of x, fiance of x"], 
+      ["Daniel Perry", "cousin of x, fiance of x"], 
+      ["Davis Perry", "cousin of x, fiance of x"], 
+      ["Amy Morgan", "cousin of x, fiance of x"], 
+      ["Elex", "husband of x, lover of x"], 
+      ["John Morgan", "cousin of x, fiance of x"]
+    ],
+    "Harold Harrison": [
+      ["Lucy Harrison", "child of x"], 
+      ["Jonathan Perry", "father of x"], 
+      ["Marina Harrison", "father of x, mother of x"], 
+      ["Jacqueline Perry", "uncle of x, business partner of x"], 
+      ["Daniel Perry", "uncle of x, friend of x"], 
+      ["Davis Perry", "uncle of x, employer of x"], 
+      ["Amy Morgan", "uncle of x, employer of x"], 
+      ["Elex", "uncle of x, friend of x"], 
+      ["John Morgan", "uncle of x, employer of x"]
+    ],
+    "Marina Harrison": [
+      ["Jonathan Perry", "cousin of x, fiancee of x"], 
+      ["Harold Harrison", "mother of x, wife of x"], 
+      ["Jacqueline Perry", "business partner of x"], 
+      ["Daniel Perry", "wife of x, sibling of x, co wives of x, relative of x"], 
+      ["Davis Perry", "uncle of x, employer of x"], 
+      ["Amy Morgan", "friend of x, classmate of x"], 
+      ["Elex", "wife of x"], 
+      ["John Morgan", "wife of x, sibling of x, co wives of x, relative of x, niece of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x"]
+    ],
+    "Jacqueline Perry": [
+      ["Lucy Harrison", "mother of x, business partner of x"], 
+      ["Jonathan Perry", "mother of x, business partner of x"], 
+      ["Harold Harrison", "sister of x, business partner of x"], 
+      ["Marina Harrison", "business partner of x"], 
+      ["Daniel Perry", "mother of x, business partner of x"], 
+      ["Davis Perry", "business partner of x, business partner of x"], 
+      ["Amy Morgan", "business partner of x"], 
+      ["Elex", "mother of x, aunt of x"], 
+      ["John Morgan", "employer of x, business partner of x"]
+    ],
+    "Daniel Perry": [
+      ["Lucy Harrison", "cousin of x"], 
+      ["Jonathan Perry", "cousin of x, fiance of x"], 
+      ["Harold Harrison", "cousin of x, friend of x"], 
+      ["Marina Harrison", "husband of x, brother of x, sibling of x, co wives of x, relative of x"], 
+      ["Jacqueline Perry", "father of x, business partner of x"], 
+      ["Davis Perry", "uncle of x"], 
+      ["Amy Morgan", "uncle of x"], 
+      ["Elex", "uncle of x"], 
+      ["John Morgan", "uncle of x, informant of x"]
+    ],
+    "Davis Perry": [
+      ["Lucy Harrison", "cousin of x"], 
+      ["Jonathan Perry", "brother in law of x, future son in law of x"], 
+      ["Harold Harrison", "brother of x, business partner of x"], 
+      ["Marina Harrison", "employer of x, uncle of x"], 
+      ["Jacqueline Perry", "business partner of x, business partner of x"], 
+      ["Daniel Perry", "brother of x, lawyer of x"], 
+      ["Amy Morgan", "uncle of x, employer of x"], 
+      ["Elex", "uncle of x, friend of x"], 
+      ["John Morgan", "uncle of x, employer of x"]
+    ],
+    "Amy Morgan": [
+      ["Lucy Harrison", "friend of x, classmate of x"], 
+      ["Jonathan Perry", "fiancee of x, cousin of x"], 
+      ["Harold Harrison", "niece of x, employee of x"], 
+      ["Marina Harrison", "friend of x, classmate of x"], 
+      ["Jacqueline Perry", "business partner of x"], 
+      ["Daniel Perry", "cousin of x, friend of x"], 
+      ["Davis Perry", "niece of x, employee of x"], 
+      ["Elex", "friend of x, business partner of x"], 
+      ["John Morgan", "wife of x, sibling of x, co wives of x, relative of x, niece of x"]
+    ],
+    "Elex": [
+      ["Lucy Harrison", "friend of x, acquaintance of x"], 
+      ["Jonathan Perry", "wife of x, same person as x (different identity)"], 
+      ["Harold Harrison", "nephew of x, informant of x"], 
+      ["Marina Harrison", "husband of x"], 
+      ["Jacqueline Perry", "cousin of x, friend of x"], 
+      ["Daniel Perry", "cousin of x"], 
+      ["Davis Perry", "cousin of x, informant of x"], 
+      ["Amy Morgan", "friend of x, business partner of x"], 
+      ["John Morgan", "cousin of x, friend of x"]
+    ],
+    "John Morgan": [
+      ["Lucy Harrison", "acquaintance of x, friend of x"], 
+      ["Jonathan Perry", "uncle of x, father in law of x"], 
+      ["Harold Harrison", "nephew of x, employee of x"], 
+      ["Marina Harrison", "husband of x, brother of x, son of x, nephew of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x"], 
+      ["Jacqueline Perry", "employee of x, business partner of x"], 
+      ["Daniel Perry", "father of x, mentor of x"], 
+      ["Davis Perry", "brother of x, employer of x"], 
+      ["Amy Morgan", "husband of x, father of x, brother of x, uncle of x, nephew of x"], 
+      ["Elex", "cousin of x, friend of x"]
+    ]
+}

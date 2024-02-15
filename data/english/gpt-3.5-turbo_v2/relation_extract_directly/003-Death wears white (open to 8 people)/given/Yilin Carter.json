@@ -1,0 +1,28 @@
+{
+    "Yilin Carter": [
+      ["Elaine Carter", "same person as x (different identity)"], 
+      ["Dean Berkeley", "employer of x"], 
+      ["Dr. Paloski", "mentor of x"]
+    ],
+    "Elaine Carter": [
+      ["Yilin Carter", "same person as x (different identity)"]
+    ],
+    "Dean Berkeley": [
+      ["Yilin Carter", "employee of x"]
+    ],
+    "Dr. Paloski": [
+      ["Yilin Carter", "mentor of x"]
+    ],
+    "Hans Li Morette": [
+      ["Jim Mason", "rival of x"]
+    ],
+    "Jim Mason": [
+      ["Hans Li Morette", "rival of x"]
+    ],
+    "Drake Li Morette": [
+      ["Yilin Carter", "admired by x"]
+    ],
+    "Head Nurse Costa": [
+      ["Yilin Carter", "mentor of x"]
+    ]
+}

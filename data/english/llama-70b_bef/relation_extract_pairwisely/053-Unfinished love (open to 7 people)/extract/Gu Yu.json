@@ -1,0 +1,45 @@
+{
+    "Gu Yu": [
+      ["Su Yang", "friend of x"], 
+      ["Shen Cheng", "employer of x, master of x, superior of x"]
+    ],
+    "Lin Xi": [
+      ["Chen Jingwen", "friend of x"], 
+      ["Su Yang", "ex romantic relationships with x"]
+    ],
+    "Chen Jingwen": [
+      ["Lin Xi", "boyfriend of x"], 
+      ["Qin Siqin", "wife of x, same person as x (different identity)"], 
+      ["Zheng Xinmei", "daughter of x"], 
+      ["Lin Weiren", "wife of x, extramarital affair with x, romantic relationships with x, ex romantic relationships with x"], 
+      ["Shen Cheng", "wife of x, co wives of x"]
+    ],
+    "Su Yang": [
+      ["Gu Yu", "friend of x"], 
+      ["Lin Xi", "romantic relationships with x, fiance of x"], 
+      ["Shen Cheng", "husband of x, fiance of x"]
+    ],
+    "Qin Siqin": [
+      ["Chen Jingwen", "husband of x, same person as x (different reference)"], 
+      ["Shen Cheng", "acquaintance of x"]
+    ],
+    "Zheng Xinmei": [
+      ["Lin Xi", "victim of x"], 
+      ["Chen Jingwen", "mother of x, victim of x"], 
+      ["Lin Weiren", "wife of x, fiancee of x, co wives of x, sister of x, daughter of x, son of x, relative of x, nephew of x, aunt of x, uncle of x, niece of x, cousin of x"], 
+      ["Shen Cheng", "wife of x, fiancee of x, co wives of x, sister of x, daughter of x, son of x, mother of x, father of x, relative of x, nephew of x, aunt of x, uncle of x, niece of x, cousin of x"]
+    ],
+    "Lin Weiren": [
+      ["Chen Jingwen", "husband of x, fiance of x, fiancee of x, co wives of x"], 
+      ["Zheng Xinmei", "husband of x, fiance of x, co wives of x, brother of x, sister of x, father of x, mother of x, child of x, son of x, daughter of x, relative of x, nephew of x, aunt of x, uncle of x, niece of x, cousin of x"], 
+      ["Shen Cheng", "superior of x, employer of x"]
+    ],
+    "Shen Cheng": [
+      ["Gu Yu", "employee of x, subordinate of x, servant of x"], 
+      ["Chen Jingwen", "husband of x, co wives of x"], 
+      ["Su Yang", "husband of x, fiance of x"], 
+      ["Qin Siqin", "acquaintance of x"], 
+      ["Zheng Xinmei", "husband of x, fiance of x, co wives of x, brother of x, sister of x, son of x, daughter of x, father of x, mother of x, relative of x, nephew of x, aunt of x, uncle of x, niece of x, cousin of x"], 
+      ["Lin Weiren", "subordinate of x, employee of x"]
+    ]
+}

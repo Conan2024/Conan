@@ -1,0 +1,447 @@
+{
+    "Shen Cheng": [
+        [
+            "Qin Siqin",
+            "Wife of X",
+            "Mother of X"
+        ],
+        [
+            "Lin Tong",
+            "Daughter, Suspect of murder"
+        ],
+        [
+            "Lin Weiren",
+            "Enemy, Victim"
+        ],
+        [
+            "Su Yang",
+            " enemity, suspicion"
+        ],
+        [
+            "Lin Xi",
+            "Enemy of X",
+            "Rival of X",
+            "Adversary of X",
+            "Manipulator of X",
+            "Manipulated by X"
+        ],
+        [
+            "Gu Minghe",
+            "Perpetrator of X",
+            "Rival of X"
+        ],
+        [
+            "Renhe Hospital",
+            "Perpetrator of X",
+            "Adversary of X",
+            "Enemy of X",
+            "Rival of X",
+            "Manipulator of X",
+            "Manipulated by X",
+            "Superior of X",
+            "Employer of X",
+            "Master of X",
+            "Subordinate of X",
+            "Employee of X",
+            "servant of X",
+            "Colleague of X",
+            "Business Partner of X",
+            "Customer of X",
+            "Buyer of X",
+            "Tenant of X",
+            "Patient of X"
+        ],
+        [
+            "Jinrenhe Hospital",
+            "Perpetrator of X",
+            "Victim of X",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X"
+        ]
+    ],
+    "Qin Siqin": [
+        [
+            "Shen Cheng",
+            "Husband of X",
+            "Father of X"
+        ],
+        [
+            "Lin Tong",
+            "Mother-Daughter",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Lin Weiren",
+            "Wife of X (different identity)",
+            "Mother of X (different reference)",
+            "killed by X"
+        ],
+        [
+            "Su Yang",
+            "Wife of X (different identity)",
+            "Fiancee of X",
+            "Ex-romantic relationships with X",
+            "Romantic relationships with X"
+        ],
+        [
+            "Lin Xi",
+            "Mother-in-law/Daughter-in-law",
+            "Suspect/Victim"
+        ],
+        [
+            "Gu Minghe",
+            "Wife of X",
+            "Suspect of X"
+        ],
+        [
+            "Renhe Hospital",
+            "Wife of X (different identity)"
+        ],
+        [
+            "Jinrenhe Hospital",
+            "Wife of X (different reference)"
+        ]
+    ],
+    "Lin Tong": [
+        [
+            "Shen Cheng",
+            "Father, Suspect of murder"
+        ],
+        [
+            "Qin Siqin",
+            "Daughter-Mother",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Lin Weiren",
+            "Same person as X (different identity)",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Su Yang",
+            "Wife of X (different identity)",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Lin Xi",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Gu Minghe",
+            "Acquaintance",
+            "Co-conspirator"
+        ],
+        [
+            "Renhe Hospital",
+            "Victim of",
+            "Killed by"
+        ],
+        [
+            "Jinrenhe Hospital",
+            "Victim of",
+            "Patient of"
+        ]
+    ],
+    "Lin Weiren": [
+        [
+            "Shen Cheng",
+            "Enemy, Perpetrator"
+        ],
+        [
+            "Qin Siqin",
+            "Husband of X (different identity)",
+            "Father of X (different reference)",
+            "Murderer of X"
+        ],
+        [
+            "Lin Tong",
+            "Father of X",
+            "Murderer of X"
+        ],
+        [
+            "Su Yang",
+            "Adversary, Enemy",
+            "Rival, Manipulator",
+            "Master, Employer",
+            "Superior, Subordinate"
+        ],
+        [
+            "Gu Minghe",
+            "Superior of X",
+            "Employer of X",
+            "Master of X",
+            "Subordinate of X",
+            "Employee of X",
+            "servant of X"
+        ],
+        [
+            "Renhe Hospital",
+            "Superior of X",
+            "Employer of X",
+            "Master of X",
+            "Subordinate of X",
+            "Employee of X",
+            "servant of X"
+        ],
+        [
+            "Jinrenhe Hospital",
+            "Superior of X",
+            "Employer of X"
+        ]
+    ],
+    "Su Yang": [
+        [
+            "Shen Cheng",
+            "enmity, suspicion"
+        ],
+        [
+            "Qin Siqin",
+            "Husband of X (different reference)",
+            "Boyfriend of X",
+            "Romantic relationships with X",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "Lin Tong",
+            "Husband of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Lin Weiren",
+            "Adversary, Enemy",
+            "Rival, Manipulated",
+            "Employee, Subordinate",
+            "Master, Employer"
+        ],
+        [
+            "Lin Xi",
+            "relationship 1: Fiancee of X (different identity)",
+            "relationship 2: Enemy of X"
+        ],
+        [
+            "Gu Minghe",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X",
+            "Attempted Perpetrator of X",
+            "Attempted Murderer of X",
+            "Victim of X",
+            "killed by x"
+        ],
+        [
+            "Renhe Hospital",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X",
+            "Attempted Perpetrator of X",
+            "Attempted Murderer of X",
+            "Victim of X",
+            "killed by x"
+        ],
+        [
+            "Jinrenhe Hospital",
+            "Perpetrator of X",
+            "Husband of X",
+            "Fiance of X"
+        ]
+    ],
+    "Lin Xi": [
+        [
+            "Shen Cheng",
+            "Daughter of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Qin Siqin",
+            "Father-in-law/Son-in-law",
+            "Suspect/Victim"
+        ],
+        [
+            "Lin Tong",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Su Yang",
+            "relationship 1: Fiance of X (different reference)",
+            "relationship 2: Victim of X"
+        ],
+        [
+            "Gu Minghe",
+            " enemy",
+            "rival"
+        ],
+        [
+            "Jinrenhe Hospital",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Gu Minghe": [
+        [
+            "Shen Cheng",
+            "Rival of X",
+            "Enemy of X"
+        ],
+        [
+            "Qin Siqin",
+            "Husband of X",
+            "Perpetrator of X"
+        ],
+        [
+            "Lin Tong",
+            "Acquaintance",
+            "Co-conspirator"
+        ],
+        [
+            "Lin Weiren",
+            "Superior of X",
+            "Employer of X",
+            "Master of X",
+            "Subordinate of X",
+            "Employee of X",
+            "servant of X"
+        ],
+        [
+            "Su Yang",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X",
+            "Attempted Perpetrator of X",
+            "Attempted Murderer of X",
+            "Victim of X",
+            "killed by x"
+        ],
+        [
+            "Lin Xi",
+            "enemy",
+            "rival"
+        ],
+        [
+            "Renhe Hospital",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "Jinrenhe Hospital",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ]
+    ],
+    "Renhe Hospital": [
+        [
+            "Shen Cheng",
+            "Victim of X",
+            "killed by X",
+            "Dislike of X",
+            "Disliked by X",
+            "Subject of investigation for X",
+            "Deceiver of X",
+            "betrayer of X",
+            "Deceived by X",
+            "betrayed by X",
+            "Suspected by X",
+            "Suspicious of X",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X",
+            "Rival of X",
+            "Manipulator of X",
+            "Manipulated by X",
+            "Superior of X",
+            "Employer of X",
+            "Master of X",
+            "Subordinate of X",
+            "Employee of X",
+            "servant of X",
+            "Colleague of X",
+            "Business Partner of X",
+            "Customer of X",
+            "Buyer of X",
+            "Tenant of X",
+            "Patient of X"
+        ],
+        [
+            "Qin Siqin",
+            "Victim of X"
+        ],
+        [
+            "Lin Tong",
+            "Perpetrator of",
+            "Suspect of"
+        ],
+        [
+            "Lin Weiren",
+            "Victim of X",
+            "Killed by X"
+        ],
+        [
+            "Su Yang",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X",
+            "Attempted Perpetrator of X",
+            "Attempted Murderer of X",
+            "Victim of X",
+            "killed by x"
+        ],
+        [
+            "Gu Minghe",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "Jinrenhe Hospital",
+            "Perpetrator of X",
+            "Victim of X",
+            "Suspect of X"
+        ]
+    ],
+    "Jinrenhe Hospital": [
+        [
+            "Shen Cheng",
+            "Perpetrator of X",
+            "Victim of X",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X"
+        ],
+        [
+            "Qin Siqin",
+            "Victim of X"
+        ],
+        [
+            "Lin Tong",
+            "Victim of",
+            "Patient of"
+        ],
+        [
+            "Lin Weiren",
+            "Victim of X",
+            "Patient of X"
+        ],
+        [
+            "Su Yang",
+            "Perpetrator of X",
+            "Husband of X",
+            "Fiance of X"
+        ],
+        [
+            "Lin Xi",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Gu Minghe",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ],
+        [
+            "Renhe Hospital",
+            "Acquaintance of X",
+            "Business Partner of X"
+        ]
+    ]
+}

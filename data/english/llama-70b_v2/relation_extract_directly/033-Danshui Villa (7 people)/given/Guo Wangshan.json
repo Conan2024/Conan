@@ -1,0 +1,21 @@
+{
+    "Guo Wangshan": [
+      ["Zhao Wanlei", "adversary/rival of x"], 
+      ["Feng Shuangji", "friend/acquaintance of x"], 
+      ["Qi Yue", "acquaintance of x"], 
+      ["Yin Shaoming", "cousin of x"]
+    ],
+    "Feng Shuangji": [
+      ["Guo Wangshan", "friend/acquaintance of x"], 
+      ["Zhao Wanlei", "adversary/rival of x"]
+    ],
+    "Yin Shaoming": [
+      ["Feng Shuangji", "cousin of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Guo Wangshan", "adversary/rival of x"]
+    ],
+    "Qi Yue": [
+      ["Guo Wangshan", "acquaintance of x"]
+    ]
+}

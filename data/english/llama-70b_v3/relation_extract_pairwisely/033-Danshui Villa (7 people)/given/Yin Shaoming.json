@@ -1,0 +1,38 @@
+{
+    "Feng Shuangji": [
+      ["Ren", "master of x, business partner of x"], 
+      ["Yin Shaoming", "acquaintance of x, helper of x"], 
+      ["Zhao Luoyi", "acquaintance of x, informant of x"], 
+      ["Zhao Wanlei", "employer of x, master of x"]
+    ],
+    "Ren": [
+      ["Feng Shuangji", "master of x, business partner of x"], 
+      ["Zhao Luoyi", "grandfather of x, friend of x"], 
+      ["Zhao Wanlei", "daughter of x"]
+    ],
+    "Yin Shaoming": [
+      ["Feng Shuangji", "acquaintance of x, helper of x"], 
+      ["Yu Beichen", "son of x, employee of x, acquaintance of x"], 
+      ["Zhao Luoyi", "friend of x"], 
+      ["Zhao Wanlei", "friend of x"]
+    ],
+    "Yu Beichen": [
+      ["Yin Shaoming", "son of x, employee of x, acquaintance of x"], 
+      ["Zhao Luoyi", "father of x"], 
+      ["Zhao Wanlei", "father of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Feng Shuangji", "acquaintance of x, informant of x"], 
+      ["Ren", "grandfather of x, friend of x, victim of x"], 
+      ["Yin Shaoming", "friend of x"], 
+      ["Yu Beichen", "daughter of x"], 
+      ["Zhao Wanlei", "daughter of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Feng Shuangji", "employee of x, servant of x"], 
+      ["Ren", "father of x"], 
+      ["Yin Shaoming", "friend of x"], 
+      ["Yu Beichen", "son of x"], 
+      ["Zhao Luoyi", "father of x"]
+    ]
+}

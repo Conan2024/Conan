@@ -1,0 +1,57 @@
+{
+    "Madam Li": [
+      ["Fang Zhu", "possible family of x"], 
+      ["Li Zhong", "son of x"], 
+      ["Li Yan", "son of x"], 
+      ["Fang Ye", "brother of x"], 
+      ["Fang Mian", "sister of x"], 
+      ["Li Qinren", "husband of x"], 
+      ["Chen Fu Qianjin", "daughter in law of x"], 
+      ["Chen Zijing", "relative of x"], 
+      ["Langzhong", "informant of x"], 
+      ["Li Fu's owner", "adversary of x"]
+    ],
+    "Fang Zhu": [
+      ["Madam Li", "possible family of x"]
+    ],
+    "Li Zhong": [
+      ["Madam Li", "mother of x"], 
+      ["Li Yan", "sibling of x"], 
+      ["Li Fu's owner", "superior of x"]
+    ],
+    "Li Yan": [
+      ["Madam Li", "mother of x"], 
+      ["Li Zhong", "sibling of x"], 
+      ["Li Fu's owner", "disliked by of x"], 
+      ["Fang Zhu", "helper of x"]
+    ],
+    "Fang Ye": [
+      ["Madam Li", "brother of x"], 
+      ["Fang Mian", "sibling of x"]
+    ],
+    "Fang Mian": [
+      ["Madam Li", "sister of x"], 
+      ["Fang Ye", "sibling of x"]
+    ],
+    "Li Qinren": [
+      ["Madam Li", "husband of x"]
+    ],
+    "Chen Fu Qianjin": [
+      ["Madam Li", "daughter in law of x"]
+    ],
+    "Chen Zijing": [
+      ["Chen Fu Qianjin", "relative of x"]
+    ],
+    "Langzhong": [
+      ["Madam Li", "informant of x"], 
+      ["Fang Zhu", "information receiver from of x"]
+    ],
+    "Li Fu's owner": [
+      ["Madam Li", "adversary of x"], 
+      ["Li Zhong", "superior of x"], 
+      ["Li Yan", "disliked by of x"], 
+      ["Fang Zhu", "subject of x investigation for"], 
+      ["Fang Ye", "suspected by of x"], 
+      ["Fang Mian", "suspected by of x"]
+    ]
+}

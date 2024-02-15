@@ -1,0 +1,58 @@
+{
+    "Zhang Jinyin": [
+      ["Meng Sanchun", "brother of x"], 
+      ["Zhang Jinshan", "brother of x"], 
+      ["Hong Jiangshui", "friend of x, acquaintance of x"], 
+      ["Cai Siniang", "wife of x, friend of x"], 
+      ["Hong Changlie", "sibling of x"], 
+      ["Hong Erlang", "brother of x"]
+    ],
+    "Meng Sanchun": [
+      ["Zhang Jinyin", "brother of x"], 
+      ["Zhang Jinshan", "brother of x"], 
+      ["Hong Jiangshui", "friend of x, co wives of x"], 
+      ["Cai Siniang", "romantic relationships with x"], 
+      ["Hong Changlie", "brother of x"], 
+      ["Hong Erlang", "possible family of x"]
+    ],
+    "Zhang Jinshan": [
+      ["Zhang Jinyin", "brother of x"], 
+      ["Meng Sanchun", "brother of x"], 
+      ["Hong Jiangshui", "brother of x"], 
+      ["Cai Siniang", "friend of x"], 
+      ["Hong Changlie", "brother of x"], 
+      ["Hong Erlang", "sibling of x, enemy of x"]
+    ],
+    "Hong Jiangshui": [
+      ["Zhang Jinyin", "friend of x, acquaintance of x"], 
+      ["Meng Sanchun", "friend of x, co wives of x"], 
+      ["Zhang Jinshan", "brother of x"], 
+      ["Cai Siniang", "romantic relationships with x"], 
+      ["Hong Changlie", "ex romantic relationships with x, perpetrator of x"], 
+      ["Hong Erlang", "brother of x"]
+    ],
+    "Cai Siniang": [
+      ["Zhang Jinyin", "husband of x, friend of x"], 
+      ["Meng Sanchun", "romantic relationships with x"], 
+      ["Zhang Jinshan", "friend of x"], 
+      ["Hong Jiangshui", "romantic relationships with x"], 
+      ["Hong Changlie", "romantic relationships with x, admirer of x"], 
+      ["Hong Erlang", "romantic relationships with hong erlang of x"]
+    ],
+    "Hong Changlie": [
+      ["Zhang Jinyin", "sibling of x"], 
+      ["Meng Sanchun", "enemy of x"], 
+      ["Zhang Jinshan", "brother of x"], 
+      ["Hong Jiangshui", "ex romantic relationships with x, victim of x"], 
+      ["Cai Siniang", "romantic relationships with x, admired by x"], 
+      ["Hong Erlang", "brother of x"]
+    ],
+    "Hong Erlang": [
+      ["Zhang Jinyin", "rival of x"], 
+      ["Meng Sanchun", "possible family of x"], 
+      ["Zhang Jinshan", "sibling of x, enemy of x"], 
+      ["Hong Jiangshui", "brother of x"], 
+      ["Cai Siniang", "romantic relationships with cai siniang of x"], 
+      ["Hong Changlie", "brother of x"]
+    ]
+}

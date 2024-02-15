@@ -1,0 +1,71 @@
+{
+    "Drake Li Morette": [
+        [
+            "Father Tom",
+            "Brother",
+            "Friend"
+        ],
+        [
+            "Frank Bijeli",
+            "brother, friend"
+        ],
+        [
+            "Tony",
+            "Father Tom",
+            "People in the hospital"
+        ]
+    ],
+    "Father Tom": [
+        [
+            "Drake Li Morette",
+            "Employer",
+            "Mentor"
+        ],
+        [
+            "Frank Bijeli",
+            "Employer of X",
+            "Deceiver of X"
+        ],
+        [
+            "Tony",
+            "Deceiver of X",
+            "Manipulator of X"
+        ]
+    ],
+    "Frank Bijeli": [
+        [
+            "Drake Li Morette",
+            "brother, friend"
+        ],
+        [
+            "Father Tom",
+            "Employee of X",
+            "Deceived by X"
+        ],
+        [
+            "Tony",
+            "Brother",
+            "Father Tom",
+            "Deceiver"
+        ]
+    ],
+    "Tony": [
+        [
+            "Drake Li Morette",
+            "Father Tom",
+            "People in the hospital"
+        ],
+        [
+            "Father Tom",
+            "Brother of X",
+            "Deceived by X",
+            "Manipulated by X"
+        ],
+        [
+            "Frank Bijeli",
+            "Brother",
+            "Father Tom",
+            "Deceived"
+        ]
+    ]
+}

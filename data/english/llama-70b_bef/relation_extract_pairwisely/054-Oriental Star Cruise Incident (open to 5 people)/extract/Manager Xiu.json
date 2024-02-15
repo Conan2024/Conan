@@ -1,0 +1,86 @@
+{
+    "Xiu renjie": [
+      ["Liu Qi", "friend of x, business partner of x"], 
+      ["Hong Zilian", "colleague of x, business partner of x"], 
+      ["Han Yimu", "friend of x"], 
+      ["Lin Ruotong", "employer of x, superior of x"], 
+      ["ZHANG WENYUAN", "superior of x, employer of x"], 
+      ["Yang Chenlin", "colleague of x, business partner of x"], 
+      ["Han ChenGwu", "colleague of x, business partner of x"], 
+      ["Zhang Erfu", "colleague of x, business partner of x"]
+    ],
+    "Liu Qi": [
+      ["Xiu renjie", "friend of x, business partner of x"], 
+      ["Hong Zilian", "superior of x"], 
+      ["Han Yimu", "friend of x"], 
+      ["Lin Ruotong", "colleague of x"], 
+      ["ZHANG WENYUAN", "business partner of x"], 
+      ["Han ChenGwu", "friend of x"]
+    ],
+    "Hong Zilian": [
+      ["Xiu renjie", "colleague of x, business partner of x"], 
+      ["Liu Qi", "subordinate of x"], 
+      ["Han Yimu", "friend of x, acquaintance of x"], 
+      ["Lin Ruotong", "superior of x, employer of x"], 
+      ["ZHANG WENYUAN", "colleague of x, business partner of x"], 
+      ["Han ChenGwu", "acquaintance of x, business partner of x"], 
+      ["Zhang Erfu", "acquaintance of x, business partner of x"]
+    ],
+    "Han Yimu": [
+      ["Xiu renjie", "friend of x"], 
+      ["Liu Qi", "friend of x"], 
+      ["Hong Zilian", "friend of x, acquaintance of x"], 
+      ["Lin Ruotong", "friend of x"], 
+      ["ZHANG WENYUAN", "friend of x"], 
+      ["Yang Chenlin", "friend of x, disliked by x"], 
+      ["Han ChenGwu", "friend of x"], 
+      ["Zhang Erfu", "friend of x, acquaintance of x"]
+    ],
+    "Lin Ruotong": [
+      ["Xiu renjie", "employee of x, subordinate of x"], 
+      ["Liu Qi", "superior of x"], 
+      ["Hong Zilian", "superior of x"], 
+      ["Han Yimu", "friend of x, colleague of x"], 
+      ["ZHANG WENYUAN", "superior of x"], 
+      ["Yang Chenlin", "colleague of x, business partner of x"], 
+      ["Han ChenGwu", "friend of x, colleague of x"], 
+      ["Zhang Erfu", "colleague of x, friend of x"]
+    ],
+    "ZHANG WENYUAN": [
+      ["Xiu renjie", "subordinate of x, employee of x"], 
+      ["Liu Qi", "business partner of x"], 
+      ["Hong Zilian", "colleague of x, business partner of x"], 
+      ["Han Yimu", "friend of x"], 
+      ["Lin Ruotong", "subordinate of x"], 
+      ["Yang Chenlin", "superior of x, employer of x"], 
+      ["Han ChenGwu", "colleague of x, business partner of x"], 
+      ["Zhang Erfu", "colleague of x, business partner of x"]
+    ],
+    "Yang Chenlin": [
+      ["Xiu renjie", "colleague of x, business partner of x"], 
+      ["Han Yimu", "friend of x, suspicious of x"], 
+      ["Lin Ruotong", "colleague of x, business partner of x"], 
+      ["ZHANG WENYUAN", "subordinate of x, employee of x"], 
+      ["Han ChenGwu", "superior of x, employer of x"], 
+      ["Zhang Erfu", "suspect of x, adversary of x"]
+    ],
+    "Han ChenGwu": [
+      ["Xiu renjie", "colleague of x, business partner of x"], 
+      ["Liu Qi", "friend of x"], 
+      ["Hong Zilian", "acquaintance of x, business partner of x"], 
+      ["Han Yimu", "friend of x"], 
+      ["Lin Ruotong", "friend of x, colleague of x"], 
+      ["ZHANG WENYUAN", "colleague of x, business partner of x"], 
+      ["Yang Chenlin", "subordinate of x, employee of x"], 
+      ["Zhang Erfu", "acquaintance of x, business partner of x"]
+    ],
+    "Zhang Erfu": [
+      ["Xiu renjie", "colleague of x, business partner of x"], 
+      ["Hong Zilian", "acquaintance of x, business partner of x"], 
+      ["Han Yimu", "friend of x, acquaintance of x"], 
+      ["Lin Ruotong", "colleague of x, friend of x"], 
+      ["ZHANG WENYUAN", "colleague of x, business partner of x"], 
+      ["Yang Chenlin", "suspect of x, adversary of x"], 
+      ["Han ChenGwu", "acquaintance of x, business partner of x"]
+    ]
+}

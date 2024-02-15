@@ -1,0 +1,226 @@
+{
+    "Security Kevin": [
+        [
+            "Assistant Ella",
+            "helper of x"
+        ],
+        [
+            "Publicity Rowling",
+            "sister of x, manipulated by x"
+        ],
+        [
+            "Theatrical Work David",
+            "stranger to x"
+        ],
+        [
+            "Logistics Griff",
+            "stranger to x"
+        ],
+        [
+            "Magician Gust",
+            "manipulator of x"
+        ]
+    ],
+    "Assistant Ella": [
+        [
+            "Security Kevin",
+            "helped by x"
+        ],
+        [
+            "Publicity Rowling",
+            "stranger to x"
+        ],
+        [
+            "Theatrical Work David",
+            "romantic relationships with x"
+        ],
+        [
+            "Logistics Griff",
+            "stranger to x"
+        ],
+        [
+            "Magician Gust",
+            "romantic relationships with x"
+        ]
+    ],
+    "Publicity Rowling": [
+        [
+            "Security Kevin",
+            "manipulated by x"
+        ],
+        [
+            "Assistant Ella",
+            "stranger to x"
+        ],
+        [
+            "Theatrical Work David",
+            "friend of x"
+        ],
+        [
+            "Logistics Griff",
+            "stranger to x"
+        ],
+        [
+            "Magician Gust",
+            "same person as x (different identity)"
+        ]
+    ],
+    "Theatrical Work David": [
+        [
+            "Security Kevin",
+            "stranger to x"
+        ],
+        [
+            "Assistant Ella",
+            "romantic relationships with x"
+        ],
+        [
+            "Publicity Rowling",
+            "friend of x"
+        ],
+        [
+            "Logistics Griff",
+            "stranger to x"
+        ],
+        [
+            "Magician Gust",
+            "stranger to x"
+        ]
+    ],
+    "Logistics Griff": [
+        [
+            "Security Kevin",
+            "stranger to x"
+        ],
+        [
+            "Assistant Ella",
+            "stranger to x"
+        ],
+        [
+            "Publicity Rowling",
+            "stranger to x"
+        ],
+        [
+            "Theatrical Work David",
+            "stranger to x"
+        ],
+        [
+            "Magician Gust",
+            "stranger to x"
+        ]
+    ],
+    "Magician Gust": [
+        [
+            "Security Kevin",
+            "subordinate of x"
+        ],
+        [
+            "Assistant Ella",
+            "romantic relationships with x"
+        ],
+        [
+            "Publicity Rowling",
+            "same person as x (different identity)"
+        ],
+        [
+            "Theatrical Work David",
+            "stranger to x"
+        ],
+        [
+            "Logistics Griff",
+            "stranger to x"
+        ]
+    ],
+    "Ella": [
+        [
+            "Gust",
+            "romantic relationships with x"
+        ],
+        [
+            "David",
+            "romantic relationships with x"
+        ],
+        [
+            "Kevin",
+            "helper of x"
+        ]
+    ],
+    "Gust": [
+        [
+            "Ella",
+            "romantic relationships with x"
+        ],
+        [
+            "David",
+            "stranger to x"
+        ],
+        [
+            "Kevin",
+            "superior of x"
+        ]
+    ],
+    "Kevin": [
+        [
+            "Ella",
+            "helped by x"
+        ],
+        [
+            "Gust",
+            "subordinate of x"
+        ],
+        [
+            "Griff",
+            "stranger to x"
+        ],
+        [
+            "Rowling",
+            "manipulated by x"
+        ]
+    ],
+    "Griff": [
+        [
+            "Kevin",
+            "stranger to x"
+        ],
+        [
+            "Gust",
+            "stranger to x"
+        ]
+    ],
+    "Rowling": [
+        [
+            "Kevin",
+            "sister of x, manipulator of x"
+        ],
+        [
+            "Ella",
+            "stranger to x"
+        ],
+        [
+            "Gust",
+            "same person as x (different identity)"
+        ],
+        [
+            "David",
+            "stranger to x"
+        ]
+    ],
+    "David": [
+        [
+            "Kevin",
+            "stranger to x"
+        ],
+        [
+            "Ella",
+            "romantic relationships with x"
+        ],
+        [
+            "Gust",
+            "stranger to x"
+        ],
+        [
+            "Rowling",
+            "friend of x"
+        ]
+    ]
+}

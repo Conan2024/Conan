@@ -1,0 +1,21 @@
+{
+    "Guo Wangshan": [
+      ["Zhao Wanlei", "business rival of x, enemy of x"], 
+      ["Feng Shuangji", "acquaintance of x, friend of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Guo Wangshan", "business rival of x, enemy of x"], 
+      ["Feng Shuangji", "acquaintance of x, friend of x"]
+    ],
+    "Feng Shuangji": [
+      ["Guo Wangshan", "acquaintance of x, friend of x"], 
+      ["Zhao Wanlei", "acquaintance of x, friend of x"]
+    ],
+    "Qi Yue": [
+      ["Guo Wangshan", "suspect of x, investigator of x"], 
+      ["Zhao Wanlei", "suspect of x, investigator of x"]
+    ],
+    "Yin Shaoming": [
+      ["Guo Wangshan", "cousin of x, family member of x"]
+    ]
+}

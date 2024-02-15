@@ -1,0 +1,98 @@
+{
+    "Zhao Zhongzheng": [
+        [
+            "Zhao Zhongyang",
+            "brother, rival"
+        ],
+        [
+            "Chen Meier",
+            "Master-Servant Relationship",
+            "Friend-Friend Relationship",
+            "Love-Hate Relationship",
+            "Enemy-Enemy Relationship",
+            "Suspect-Suspicious Relationship",
+            "Victim-Perpetrator Relationship",
+            "Acquaintance-Acquaintance Relationship"
+        ],
+        [
+            "Zhao San",
+            "friend, accomplice"
+        ],
+        [
+            "Li Cheng",
+            "Acquaintance, Suspicious, Manipulator, Co-conspirator, Enemy"
+        ]
+    ],
+    "Zhao Zhongyang": [
+        [
+            "Zhao Zhongzheng",
+            "brother, rival"
+        ],
+        [
+            "Chen Meier",
+            "Master-Servant Relationship, Lover Relationship, Suspicious Relationship"
+        ],
+        [
+            "Zhao San",
+            "friend, acquaintance"
+        ],
+        [
+            "Li Cheng",
+            "Suspect, Enemy, Rival, Manipulator, Superior"
+        ]
+    ],
+    "Chen Meier": [
+        [
+            "Zhao Zhongzheng",
+            "Master-Servant Relationship",
+            "Friend-Friend Relationship",
+            "Love-Hate Relationship",
+            "Enemy-Enemy Relationship",
+            "Suspect-Suspicious Relationship",
+            "Victim-Perpetrator Relationship",
+            "Acquaintance-Acquaintance Relationship"
+        ],
+        [
+            "Zhao Zhongyang",
+            "Master-Servant Relationship, Lover Relationship, Suspicious Relationship"
+        ],
+        [
+            "Zhao San",
+            "Friend",
+            "Acquaintance"
+        ]
+    ],
+    "Zhao San": [
+        [
+            "Zhao Zhongzheng",
+            "friend, accomplice"
+        ],
+        [
+            "Zhao Zhongyang",
+            "friend, acquaintance"
+        ],
+        [
+            "Chen Meier",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Li Cheng",
+            "Friend, Co-conspirator"
+        ]
+    ],
+    "Li Cheng": [
+        [
+            "Zhao Zhongzheng",
+            "Acquaintance, Suspicious, Manipulated, Co-conspirator, Enemy"
+        ],
+        [
+            "Zhao Zhongyang",
+            "Suspect, Enemy, Rival, Manipulated, Subordinate"
+        ],
+        [
+            "Zhao San",
+            "Friend, Co-conspirator"
+        ]
+    ]
+}

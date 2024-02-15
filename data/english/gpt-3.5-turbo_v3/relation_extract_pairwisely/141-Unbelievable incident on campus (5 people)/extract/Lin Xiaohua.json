@@ -1,0 +1,326 @@
+{
+    "Lin Xiaohua": [
+        [
+            "Dad",
+            "daughter of x, daughter of x"
+        ],
+        [
+            "Stepmother",
+            "daughter of x, daughter of x"
+        ],
+        [
+            "Younger Brother",
+            "sibling of x, adversary of x"
+        ],
+        [
+            "Zhang Eba",
+            "fiancee of x, victim of x"
+        ],
+        [
+            "Chairman Zhang",
+            "fiancee of x, adversary of x"
+        ]
+    ],
+    "Dad": [
+        [
+            "Lin Xiaohua",
+            "father of x, step father of x"
+        ],
+        [
+            "Stepmother",
+            "husband of x, replaced x's identity"
+        ],
+        [
+            "Younger Brother",
+            "father of x, husband of x, replaced x's identity, step mother of x"
+        ],
+        [
+            "Zhang Eba",
+            "fiancee of x, arranged marriage with x"
+        ],
+        [
+            "Chairman Zhang",
+            "employer of x, informant of x"
+        ],
+        [
+            "Zhao Shuai",
+            "fiancee of x, helper of x"
+        ],
+        [
+            "Hao Guimi",
+            "romantic relationships with x, helped by x"
+        ],
+        [
+            "Wang Xuexi",
+            "employer of x, step father of x lin xiaohua"
+        ],
+        [
+            "Li Xiaodi",
+            "mother of x, fiancee of x"
+        ]
+    ],
+    "Stepmother": [
+        [
+            "Lin Xiaohua",
+            "mother of x, mother of x"
+        ],
+        [
+            "Dad",
+            "wife of x, replaced x's identity"
+        ],
+        [
+            "Younger Brother",
+            "stepmother of x younger brother, guardian of x younger brother"
+        ],
+        [
+            "Zhang Eba",
+            "extramarital affair with x, jealous of x"
+        ],
+        [
+            "Chairman Zhang",
+            "future mother in law of x, disliked by x"
+        ],
+        [
+            "Zhao Shuai",
+            "romantic relationships with x, manipulated by x"
+        ],
+        [
+            "Hao Guimi",
+            "fondness of x, admirer of x"
+        ],
+        [
+            "Wang Xuexi",
+            "adversary of x, step mother of x lin xiaohua"
+        ],
+        [
+            "Li Xiaodi",
+            "adversary of x, stepmother of x li xiaodi"
+        ]
+    ],
+    "Younger Brother": [
+        [
+            "Lin Xiaohua",
+            "sibling of x, adversary of x"
+        ],
+        [
+            "Dad",
+            "son of x, child of x, sibling of x"
+        ],
+        [
+            "Stepmother",
+            "stepson of x stepmother, ward of x stepmother"
+        ],
+        [
+            "Zhang Eba",
+            "victim of x, disliked by x"
+        ],
+        [
+            "Chairman Zhang",
+            "romantic relationships with x, fiance of x"
+        ],
+        [
+            "Zhao Shuai",
+            "friend of x, romantic relationships with x"
+        ],
+        [
+            "Hao Guimi",
+            "friend of x, helper of x"
+        ],
+        [
+            "Wang Xuexi",
+            "half brother of x, attempted perpetrator of x"
+        ],
+        [
+            "Li Xiaodi",
+            "brother of x, victim of x"
+        ]
+    ],
+    "Zhang Eba": [
+        [
+            "Lin Xiaohua",
+            "fiance of x, adversary of x"
+        ],
+        [
+            "Dad",
+            "fiance of x, arranged marriage with x"
+        ],
+        [
+            "Stepmother",
+            "extramarital affair with x, jealous of x"
+        ],
+        [
+            "Younger Brother",
+            "adversary of x, disliked by x"
+        ],
+        [
+            "Chairman Zhang",
+            "fiance of x, adversary of x"
+        ],
+        [
+            "Zhao Shuai",
+            "romantic relationships with x, attempted perpetrator of x"
+        ],
+        [
+            "Hao Guimi",
+            "fiance of x, victim of x"
+        ],
+        [
+            "Wang Xuexi",
+            "fiance of x, acquaintance of x"
+        ],
+        [
+            "Li Xiaodi",
+            "fiance of x, attempted murderer of x"
+        ]
+    ],
+    "Chairman Zhang": [
+        [
+            "Lin Xiaohua",
+            "fiance of x, adversary of x"
+        ],
+        [
+            "Dad",
+            "employee of x, information receiver from x"
+        ],
+        [
+            "Stepmother",
+            "future son in law of x, dislike of x"
+        ],
+        [
+            "Younger Brother",
+            "romantic relationships with x, fiancee of x"
+        ],
+        [
+            "Zhang Eba",
+            "future son in law of x, attempted murderer of x"
+        ],
+        [
+            "Zhao Shuai",
+            "adversary of x, suspected by x"
+        ],
+        [
+            "Hao Guimi",
+            "romantic relationships with x, victim of x"
+        ],
+        [
+            "Wang Xuexi",
+            "employer of x, adversary of x"
+        ],
+        [
+            "Li Xiaodi",
+            "employer of x, father of x"
+        ]
+    ],
+    "Zhao Shuai": [
+        [
+            "Dad",
+            "fiance of x, helper of x"
+        ],
+        [
+            "Stepmother",
+            "romantic relationships with x, manipulator of x"
+        ],
+        [
+            "Younger Brother",
+            "friend of x, romantic relationships with x"
+        ],
+        [
+            "Zhang Eba",
+            "romantic relationships with x, manipulator of x"
+        ],
+        [
+            "Chairman Zhang",
+            "adversary of x, suspected by x"
+        ],
+        [
+            "Hao Guimi",
+            "admired by x, helper of x"
+        ],
+        [
+            "Lin Xiaohua",
+            "admirer of x"
+        ],
+        [
+            "Li Xiaodi",
+            "romantic relationships with x, helper of x"
+        ]
+    ],
+    "Hao Guimi": [
+        [
+            "Dad",
+            "romantic relationships with x, helper of x"
+        ],
+        [
+            "Stepmother",
+            "fondness of x, admirer of x"
+        ],
+        [
+            "Younger Brother",
+            "friend of x, information receiver from x"
+        ],
+        [
+            "Zhang Eba",
+            "girlfriend of x, crime partner of x"
+        ],
+        [
+            "Chairman Zhang",
+            "romantic relationships with x, helper of x"
+        ],
+        [
+            "Zhao Shuai",
+            "admirer of x, helper of x"
+        ]
+    ],
+    "Wang Xuexi": [
+        [
+            "Dad",
+            "employee of x, step daughter of x lin xiaohua"
+        ],
+        [
+            "Stepmother",
+            "adversary of x, step child of x lin xiaohua"
+        ],
+        [
+            "Younger Brother",
+            "brother of x, attempted murderer of x"
+        ],
+        [
+            "Zhang Eba",
+            "fiancee of x, acquaintance of x"
+        ],
+        [
+            "Chairman Zhang",
+            "employee of x, adversary of x"
+        ],
+        [
+            "Lin Xiaohua",
+            "helper of x"
+        ]
+    ],
+    "Li Xiaodi": [
+        [
+            "Dad",
+            "daughter of x, fiance of x"
+        ],
+        [
+            "Stepmother",
+            "adversary of x, stepdaughter of x stepmother"
+        ],
+        [
+            "Younger Brother",
+            "sibling of x, victim of x"
+        ],
+        [
+            "Zhang Eba",
+            "fiancee of x, attempted perpetrator of x"
+        ],
+        [
+            "Chairman Zhang",
+            "employee of x, zhang eba's stepmother of x"
+        ],
+        [
+            "Zhao Shuai",
+            "romantic relationships with x, secret crush of x"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "Xia Zhongpeng": [
+      ["Xia Beigui", "father of x"], 
+      ["Xia Sanhu", "victim of x, perpetrator of x"], 
+      ["Xia Shue", "niece of x"], 
+      ["A'e", "niece of x"], 
+      ["Yu Zu Chengmu", "acquaintance of x"], 
+      ["Duan Yuetong", "acquaintance of x"], 
+      ["Yue Dongwen", "acquaintance of x"]
+    ],
+    "Xia Bolong": [
+      ["Xia Zhongpeng", "younger brother of x"], 
+      ["Xia Sanhu", "brother of x"], 
+      ["Xia Shue", "daughter of x"], 
+      ["Yu Zu Chengmu", "acquaintance of x"], 
+      ["Duan Yuetong", "acquaintance of x"], 
+      ["Yue Dongwen", "acquaintance of x"], 
+      ["Xia Guanzhu", "brother of x"]
+    ],
+    "Xia Sanhu": [
+      ["Xia Zhongpeng", "victim of x, perpetrator of x"], 
+      ["Xia Beigui", "father of x"], 
+      ["Xia Bolong", "brother of x"], 
+      ["Li Zicai", "acquaintance of x"], 
+      ["Xia Shue", "cousin of x"], 
+      ["A'e", "cousin of x"], 
+      ["Aming", "acquaintance of x"], 
+      ["Duan Yuetong", "acquaintance of x"], 
+      ["Yue Dongwen", "acquaintance of x"], 
+      ["Xia Guanzhu", "brother of x"]
+    ],
+    "Li Zicai": [
+      ["Xia Zhongpeng", "acquaintance of x"], 
+      ["Xia Sanhu", "acquaintance of x"]
+    ],
+    "Xia Shue": [
+      ["Xia Zhongpeng", "uncle of x"], 
+      ["Xia Bolong", "father of x"], 
+      ["Xia Sanhu", "cousin of x"], 
+      ["Xia Guanzhu", "uncle of x"]
+    ],
+    "A'e": [
+      ["Xia Zhongpeng", "uncle of x"], 
+      ["Xia Bolong", "daughter of x"], 
+      ["Xia Sanhu", "cousin of x"], 
+      ["Xia Shue", "cousin of x"], 
+      ["Xia Guanzhu", "uncle of x"]
+    ],
+    "Luo Ming": [
+      ["Aming", "acquaintance of x"]
+    ],
+    "Aming": [
+      ["Luo Ming", "acquaintance of x"]
+    ],
+    "Yu Zu Chengmu": [
+      ["Xia Zhongpeng", "acquaintance of x"], 
+      ["Xia Bolong", "acquaintance of x"], 
+      ["Xia Sanhu", "acquaintance of x"], 
+      ["Duan Yuetong", "acquaintance of x"]
+    ],
+    "Duan Yuetong": [
+      ["Xia Zhongpeng", "acquaintance of x"], 
+      ["Xia Bolong", "acquaintance of x"], 
+      ["Xia Sanhu", "acquaintance of x"], 
+      ["Yu Zu Chengmu", "acquaintance of x"]
+    ]
+}

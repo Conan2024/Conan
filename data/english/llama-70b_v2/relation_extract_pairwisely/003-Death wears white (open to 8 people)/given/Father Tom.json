@@ -1,0 +1,32 @@
+{
+    "Dr. Paloski": [
+      ["Drake Li Morette", "hans li morette of x"], 
+      ["Father Tom", "you (role name) of x"], 
+      ["Frank", "tony of x"]
+    ],
+    "Drake Li Morette": [
+      ["Dr. Paloski", "hans li morette of x"], 
+      ["Father Tom", "doctor patient relationship of x, confidant relationship of x"], 
+      ["Frank", "tony of x"], 
+      ["Tony", "hans li morette of x"]
+    ],
+    "Hans Li Morette": [
+      ["Dr. Paloski", "drake li morette of x"]
+    ],
+    "Father Tom": [
+      ["Dr. Paloski", "you (role name) of x"], 
+      ["Drake Li Morette", "doctor patient relationship of x, confidant relationship of x"], 
+      ["Frank", "tony of x, dr of x, drake li morette of x, dr of x, paloski of x, dean berkeley of x"], 
+      ["Tony", "dr of x, drake li morette of x, dr of x, paloski of x, frank of x, hans li morette of x"]
+    ],
+    "Frank": [
+      ["Dr. Paloski", "tony of x"], 
+      ["Drake Li Morette", "tony of x"], 
+      ["Father Tom", "tony of x, dr of x, drake li morette of x, dr of x, paloski of x"]
+    ],
+    "Tony": [
+      ["Drake Li Morette", "frank of x"], 
+      ["Drake Li Morette", "hans li morette of x"], 
+      ["Father Tom", "dr of x, drake li morette of x, dr of x, paloski of x, frank of x, hans li morette of x"]
+    ]
+}

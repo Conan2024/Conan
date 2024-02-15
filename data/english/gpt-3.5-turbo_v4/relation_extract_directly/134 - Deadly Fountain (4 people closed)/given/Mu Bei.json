@@ -1,0 +1,34 @@
+{
+    "Mu Bei": [
+      ["Li Guofu", "colleague of x"], 
+      ["Li Guofu", "suspected by x"], 
+      ["Zhang Jie", "acquaintance of x"], 
+      ["Zhang Jie", "helper of x"], 
+      ["Zhang Jie", "informant of x"]
+    ],
+    "Li Guofu": [
+      ["Mu Bei", "colleague of x"], 
+      ["Mu Bei", "suspected by x"], 
+      ["Mu Bei", "business partner of x"], 
+      ["Zhang Jie", "dislike of x"], 
+      ["Zhang Jie", "colleague of x"], 
+      ["Zhang Jie", "colleague of x"], 
+      ["Police", "victim of x"]
+    ],
+    "He Laoliu": [
+      ["Mu Bei", "colleague of x"], 
+      ["Mu Bei", "colleague of x"], 
+      ["Mu Bei", "colleague of x"]
+    ],
+    "Zhang Jie": [
+      ["Mu Bei", "acquaintance of x"], 
+      ["Mu Bei", "helper of x"], 
+      ["Mu Bei", "informant of x"], 
+      ["Li Guofu", "dislike of x"], 
+      ["Li Guofu", "colleague of x"], 
+      ["Li Guofu", "colleague of x"]
+    ],
+    "Police": [
+      ["Li Guofu", "victim of x"]
+    ]
+}

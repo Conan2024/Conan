@@ -1,0 +1,57 @@
+{
+    "He Laoliu": [
+      ["Li Guofu", "friend of x"], 
+      ["Zhang Jie", "helper of x, co worker of x"], 
+      ["Mu Bei", "co workers of x"], 
+      ["Neighbor Wang", "neighbor of x"], 
+      ["Father", "child of x, victim of x"], 
+      ["Second sister", "sibling of x"]
+    ],
+    "Li Guofu": [
+      ["He Laoliu", "mentor of x"], 
+      ["Zhang Jie", "romantic relationships with x, helper of x"], 
+      ["Mu Bei", "business partner of x"], 
+      ["Neighbor Wang", "rival of x, gambling partner of x"], 
+      ["Father", "employer of x"], 
+      ["Second sister", "husband of x second sister, secret lover of x second sister"]
+    ],
+    "Zhang Jie": [
+      ["He Laoliu", "helper of x, co worker of x"], 
+      ["Li Guofu", "romantic relationships with x, helped by x"], 
+      ["Mu Bei", "co worker of x"], 
+      ["Neighbor Wang", "neighbor of x"], 
+      ["Father", "possible sibling of x"], 
+      ["Second sister", "friend of x, schoolmate of x"]
+    ],
+    "Mu Bei": [
+      ["He Laoliu", "co workers of x"], 
+      ["Li Guofu", "business partner of x"], 
+      ["Zhang Jie", "co worker of x"], 
+      ["Neighbor Wang", "neighbor of x"], 
+      ["Father", "child of x"], 
+      ["Second sister", "sister of x, friend of x"]
+    ],
+    "Father": [
+      ["He Laoliu", "father of x, father daughter relationship of x"], 
+      ["Li Guofu", "employee of x"], 
+      ["Zhang Jie", "possible sibling of x"], 
+      ["Mu Bei", "father of x"], 
+      ["Neighbor Wang", "neighbour of x"], 
+      ["Second sister", "sibling of x"]
+    ],
+    "Second sister": [
+      ["He Laoliu", "sibling of x"], 
+      ["Li Guofu", "wife of x li guofu, secret lover of x li guofu"], 
+      ["Zhang Jie", "friend of x, schoolmate of x"], 
+      ["Mu Bei", "sister in law of x, friend of x"], 
+      ["Neighbor Wang", "neighbor of x"], 
+      ["Father", "sibling of x"]
+    ],
+    "Neighbor Wang": [
+      ["Li Guofu", "rival of x, gambling partner of x"], 
+      ["Zhang Jie", "acquaintance of x, gambler with x"], 
+      ["Mu Bei", "neighbor of x"], 
+      ["Father", "neighbour of x"], 
+      ["Second sister", "fiancee of x"]
+    ]
+}

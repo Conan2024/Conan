@@ -1,0 +1,48 @@
+{
+    "Yang Minxi": [
+      ["Brother Gu", "close friend of x, adoptive brother of x"], 
+      ["Lan Rui", "classmate of x, friend of x"], 
+      ["Xiting", "classmate of x, friend of x"], 
+      ["Shen Wusheng", "acquaintance of x, inspector of x"], 
+      ["Uncle Zhang", "uncle of x, father's friend of x"], 
+      ["Yang Shuixun", "father of x, guardian of x"]
+    ],
+    "Brother Gu": [
+      ["Yang Minxi", "close friend of x, adoptive sister of x"], 
+      ["Lan Rui", "classmate of x"]
+    ],
+    "Lan Rui": [
+      ["Yang Minxi", "classmate of x, friend of x"], 
+      ["Xiting", "classmate of x, friend of x"], 
+      ["Uncle Zhang", "father of x"]
+    ],
+    "Xiting": [
+      ["Yang Minxi", "classmate of x, friend of x"], 
+      ["Lan Rui", "classmate of x, friend of x"]
+    ],
+    "Shen Wusheng": [
+      ["Yang Minxi", "investigator of x"]
+    ],
+    "Uncle Zhang": [
+      ["Yang Minxi", "uncle of x, father's friend of x"], 
+      ["Lan Rui", "father of x"]
+    ],
+    "Yang Shuixun": [
+      ["Yang Minxi", "father of x, guardian of x"]
+    ],
+    "Ms. Mei": [
+      ["Yang Minxi", "acquaintance of x"], 
+      ["Brother Gu", "son of x"]
+    ],
+    "Rou'er": [
+      ["Yang Minxi", "acquaintance of x"], 
+      ["Ms. Mei", "daughter of x"]
+    ],
+    "Xinger": [
+      ["Xiting", "maid of x"]
+    ],
+    "Gu Chumeng": [
+      ["Xiting", "husband of x"], 
+      ["Yang Minxi", "interested party of x"]
+    ]
+}

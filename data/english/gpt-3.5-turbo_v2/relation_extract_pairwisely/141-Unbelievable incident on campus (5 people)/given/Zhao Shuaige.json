@@ -1,0 +1,38 @@
+{
+    "Zhao Shuaige": [
+      ["Zhang Eba", "attempted perpetrator of x, manipulated by x"], 
+      ["Lin Xiaohua", "romantic relationships with x, admired by x"], 
+      ["Li Xiaodi", "romantic relationships with x, informant of x"], 
+      ["Wang Xuexi", "co students at the university of x, attempted perpetrator of x wang xuexi"], 
+      ["Hao Guimi", "classmate of x, quest companion of x"]
+    ],
+    "Zhang Eba": [
+      ["Zhao Shuaige", "victim of x, manipulated by x"], 
+      ["Lin Xiaohua", "ex boyfriend of x lin xiaohua, romantic relationships with lin xiaohua"], 
+      ["Li Xiaodi", "classmate of x zhao shuaige, victim of x zhao shuaige"], 
+      ["Wang Xuexi", "friend of x, fiance of x"], 
+      ["Hao Guimi", "friend of x, romantic relationships with x"]
+    ],
+    "Lin Xiaohua": [
+      ["Zhao Shuaige", "romantic relationships with x, secret admirer of x"], 
+      ["Zhang Eba", "ex girlfriend of x zhang eba, romantic relationships with zhang eba of x"], 
+      ["Li Xiaodi", "romantic relationships with x"], 
+      ["Wang Xuexi", "classmate of x, secret admirer of x"]
+    ],
+    "Li Xiaodi": [
+      ["Zhao Shuaige", "romantic relationships with x, informant of x"], 
+      ["Zhang Eba", "classmate of x zhao shuaige, witness to zhang eba's death of x"], 
+      ["Lin Xiaohua", "romantic relationships with x"]
+    ],
+    "Wang Xuexi": [
+      ["Zhao Shuaige", "co students at the university of x, victim of x x attempted perpetration by zhao shuaige"], 
+      ["Zhang Eba", "friend of x, fiance of x"], 
+      ["Lin Xiaohua", "classmate of x, secret admirer of x"], 
+      ["Hao Guimi", "romantic relationships with x, attempted perpetrator of x"]
+    ],
+    "Hao Guimi": [
+      ["Zhao Shuaige", "classmate of x, quest companion of x"], 
+      ["Zhang Eba", "friend of x, romantic relationships with x"], 
+      ["Wang Xuexi", "romantic relationships with x, victim of x"]
+    ]
+}

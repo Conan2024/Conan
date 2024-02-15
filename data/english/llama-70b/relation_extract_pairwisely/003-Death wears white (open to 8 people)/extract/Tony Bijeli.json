@@ -1,0 +1,160 @@
+{
+    "Tony Bijeli": [
+        [
+            "Frank Carmen",
+            "Brother",
+            "Saved his life"
+        ],
+        [
+            "James Riley",
+            "Friend",
+            "Mentor"
+        ],
+        [
+            "Father Tom",
+            "Brother",
+            "Friend"
+        ],
+        [
+            "Nurses",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Hospital staff",
+            "Brother of X",
+            "Father of X"
+        ]
+    ],
+    "Frank Carmen": [
+        [
+            "Tony Bijeli",
+            "Brother",
+            "Saved his life"
+        ],
+        [
+            "James Riley",
+            "Brother",
+            "Friend"
+        ],
+        [
+            "Father Tom",
+            "Brother",
+            "Friend"
+        ],
+        [
+            "Nurses",
+            "Brother",
+            "Savior"
+        ],
+        [
+            "Brother",
+            "Hospital staff"
+        ]
+    ],
+    "James Riley": [
+        [
+            "Tony Bijeli",
+            "Friend",
+            "Mentor"
+        ],
+        [
+            "Frank Carmen",
+            "Friend",
+            "Mentor"
+        ],
+        [
+            "Father Tom",
+            "Friend"
+        ],
+        [
+            "Nurses",
+            "Friend"
+        ],
+        [
+            "Hospital staff",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ]
+    ],
+    "Father Tom": [
+        [
+            "Tony Bijeli",
+            "Mentor",
+            "Information Receiver"
+        ],
+        [
+            "Frank Carmen",
+            "Mentor",
+            "Savior"
+        ],
+        [
+            "James Riley",
+            "Friend"
+        ],
+        [
+            "Nurses",
+            "Relationship 1: Hostage-Captor",
+            "Relationship 2: Believer-Evangelist"
+        ],
+        [
+            "Hospital staff",
+            "Relationship 1: Hostage taker and hostage",
+            "Relationship 2: Believer in Father Tom's power"
+        ]
+    ],
+    "Nurses": [
+        [
+            "Tony Bijeli",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Frank Carmen",
+            "Tony Bijeli",
+            "Hostage"
+        ],
+        [
+            "James Riley",
+            "Friend"
+        ],
+        [
+            "Father Tom",
+            "Relationship 1: Hostage-Captor",
+            "Relationship 2: Believer-Evangelist"
+        ],
+        [
+            "Hospital staff",
+            "Acquaintance",
+            "Colleague"
+        ]
+    ],
+    "Hospital staff": [
+        [
+            "Tony Bijeli",
+            "Hostage of X",
+            "Colleague of X"
+        ],
+        [
+            "Frank Carmen",
+            "Colleague"
+        ],
+        [
+            "James Riley",
+            "Informant of X",
+            "Acquaintance of X",
+            "Colleague of X"
+        ],
+        [
+            "Father Tom",
+            "Relationship 1: Hostage and hostage taker",
+            "Relationship 2: Uncooperative and potentially dangerous individual"
+        ],
+        [
+            "Nurses",
+            "Acquaintance",
+            "Colleague"
+        ]
+    ]
+}

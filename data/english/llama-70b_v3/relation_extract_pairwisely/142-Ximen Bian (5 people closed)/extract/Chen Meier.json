@@ -1,0 +1,20 @@
+{
+    "Chen Meier": [
+      ["Zhao ZHONGYANG", "wife of x, romantic relationships with x, ex romantic relationships with x, betrayer of x, deceiver of x, adversary of x, enemy of x, rival of x"], 
+      ["Li Cheng", "wife of x, husband of x, extramarital affair with x"]
+    ],
+    "Zhao ZHONGYANG": [
+      ["Chen Meier", "husband of x, romantic relationships with x, ex romantic relationships with x, betrayed by x, deceived by x, adversary of x, enemy of x, rival of x"], 
+      ["Zhao ZHONGZHENG", "lover of x, betrayer of x"], 
+      ["Li Cheng", "friend of x, mentor of x, teacher of x"]
+    ],
+    "Li Cheng": [
+      ["Chen Meier", "husband of x, wife of x, extramarital affair with x"], 
+      ["Zhao ZHONGYANG", "friend of x, mentor of x, teacher of x"], 
+      ["Zhao ZHONGZHENG", "wife of x, romantic relationships with x"]
+    ],
+    "Zhao ZHONGZHENG": [
+      ["Zhao ZHONGYANG", "brother of x"], 
+      ["Li Cheng", "husband of x, extramarital affair with x"]
+    ]
+}

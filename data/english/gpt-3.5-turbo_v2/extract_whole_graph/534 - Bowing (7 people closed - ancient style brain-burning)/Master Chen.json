@@ -1,0 +1,57 @@
+{
+    "Master Chen": [
+      ["Li Wangye", "friend of x, mentor of x"], 
+      ["Prince Kim-Eric Yisi Bada", "romantic relationships with x, information receiver from x"], 
+      ["Fang Xu", "wife of x"], 
+      ["Li Zhong", "enemy of x"], 
+      ["Chen Qian", "daughter of x"], 
+      ["Li Yan", "possible family of x"], 
+      ["Madam Li", "possible family of x"], 
+      ["Xiao Qian", "adopted daughter of x, subject of x investigation for x"]
+    ],
+    "Li Wangye": [
+      ["Master Chen", "friend of x, mentor of x"], 
+      ["Fang Xu", "wife of x"], 
+      ["Li Zhong", "fiance of x"], 
+      ["Chen Qian", "future daughter in law of x"], 
+      ["Li Fu", "employer of x"], 
+      ["Li Yan", "possible family of x"]
+    ],
+    "Prince Kim-Eric Yisi Bada": [
+      ["Master Chen", "romantic relationships with x, information receiver from x"], 
+      ["Fang Xu", "informant of x"], 
+      ["Chen Qian", "daughter of x"], 
+      ["Xiao Qian", "friend of x"]
+    ],
+    "Fang Xu": [
+      ["Master Chen", "wife of x"], 
+      ["Li Wangye", "wife of x"], 
+      ["Prince Kim-Eric Yisi Bada", "informant of x"], 
+      ["Chen Qian", "mother of x"]
+    ],
+    "Li Zhong": [
+      ["Master Chen", "enemy of x, romantic relationships with x"], 
+      ["Li Wangye", "fiance of x"], 
+      ["Chen Qian", "fiance of x"], 
+      ["Xiao Qian", "subject of x investigation for x"]
+    ],
+    "Chen Qian": [
+      ["Master Chen", "child of x, romantic relationships with x"], 
+      ["Li Wangye", "future daughter in law of x"], 
+      ["Fang Xu", "daughter of x"], 
+      ["Li Zhong", "fiance of x"]
+    ],
+    "Li Yan": [
+      ["Master Chen", "possible family of x"], 
+      ["Madam Li", "possible family of x"]
+    ],
+    "Madam Li": [
+      ["Master Chen", "possible family of x"], 
+      ["Li Yan", "possible family of x"]
+    ],
+    "Xiao Qian": [
+      ["Master Chen", "adopted daughter of x"], 
+      ["Prince Kim-Eric Yisi Bada", "friend of x"], 
+      ["Li Zhong", "subject of x investigation for x"]
+    ]
+}

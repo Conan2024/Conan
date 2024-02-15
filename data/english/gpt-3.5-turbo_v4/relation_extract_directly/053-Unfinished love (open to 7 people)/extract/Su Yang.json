@@ -1,0 +1,48 @@
+{
+    "Su Yang": [
+      ["Lin Weiren", "mentor of x"], 
+      ["Lin Xi", "fiancee of x, romantic relationships with x, same person as x (different identity)"], 
+      ["Lin Tong", "ex girlfriend of x, romantic relationships with x"], 
+      ["Gu Qing", "liked by x"], 
+      ["Gu Ming", "murderer of x, attempted murderer of x"], 
+      ["Shen Cheng", "father of x, servant of x"], 
+      ["Lin Yang", "brother of x"], 
+      ["Gu Yu", "liked by x"]
+    ],
+    "Lin Weiren": [
+      ["Su Yang", "student of x"], 
+      ["Lin Xi", "daughter of x"], 
+      ["Shen Cheng", "servant of x"]
+    ],
+    "Lin Xi": [
+      ["Su Yang", "fiance of x, romantic relationships with x"], 
+      ["Lin Weiren", "father of x"], 
+      ["Lin Tong", "same person as x (different identity), romantic relationships with x"], 
+      ["Gu Ming", "killed by x"], 
+      ["Shen Cheng", "father of x"]
+    ],
+    "Lin Tong": [
+      ["Su Yang", "ex boyfriend of x, romantic relationships with x"], 
+      ["Shen Cheng", "father of x"]
+    ],
+    "Gu Qing": [
+      ["Su Yang", "admired by x"]
+    ],
+    "Gu Ming": [
+      ["Lin Xi", "attempted murderer of x"]
+    ],
+    "Shen Cheng": [
+      ["Lin Tong", "father of x"], 
+      ["Lin Xi", "father of x"], 
+      ["Lin Weiren", "servant of x"]
+    ],
+    "Lin Yang": [
+      ["Su Yang", "brother of x"]
+    ],
+    "Gu Yu": [
+      ["Su Yang", "liked by x"]
+    ],
+    "qin siqin": [
+      ["Su Yang", "suspected by x"]
+    ]
+}

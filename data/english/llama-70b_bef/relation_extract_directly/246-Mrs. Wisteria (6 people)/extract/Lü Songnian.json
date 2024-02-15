@@ -1,0 +1,62 @@
+{
+    "Lü Songnian": [
+      ["Yu Shangyong", "acquaintance of x"], 
+      ["Yu Yancheng", "brother of x"], 
+      ["Zhu Lingshan", "acquaintance of x"], 
+      ["Xue Dacai", "friend of x"], 
+      ["Le Wan", "acquaintance of x"]
+    ],
+    "Yu Shangyong": [
+      ["Lü Songnian", "acquaintance of x"], 
+      ["Yu Yancheng", "brother of x"], 
+      ["Zhu Lingshan", "acquaintance of x"]
+    ],
+    "Yu Yancheng": [
+      ["Lü Songnian", "brother of x"], 
+      ["Yu Shangyong", "brother of x"], 
+      ["Zhu Lingshan", "acquaintance of x"], 
+      ["Mrs. Zhang", "friend of x"]
+    ],
+    "Zhu Lingshan": [
+      ["Lü Songnian", "acquaintance of x"], 
+      ["Yu Shangyong", "acquaintance of x"], 
+      ["Yu Yancheng", "acquaintance of x"]
+    ],
+    "Xue Dacai": [
+      ["Lü Songnian", "friend of x"], 
+      ["Xue Yufan", "son of x"]
+    ],
+    "Le Wan": [
+      ["Lü Songnian", "acquaintance of x"], 
+      ["Yu Yancheng", "acquaintance of x"]
+    ],
+    "Ge Jixian": [
+      ["Zhu Lingshan", "son in law of x"]
+    ],
+    "Ge Yueman": [
+      ["Ge Jixian", "wife of x"], 
+      ["Zhu Lingshan", "daughter of x"]
+    ],
+    "Xue Yufan": [
+      ["Xue Dacai", "son of x"], 
+      ["Yu Yancheng", "acquaintance of x"]
+    ],
+    "Chao Tiger King": [
+      ["Lü Songnian", "enemy of x"], 
+      ["Yu Yancheng", "acquaintance of x"]
+    ],
+    "Bao Chang": [
+      ["Lü Songnian", "friend of x"], 
+      ["Xue Dacai", "friend of x"]
+    ],
+    "Mrs. Wisteria": [
+      ["Lü Songnian", "acquaintance of x"], 
+      ["Yu Yancheng", "acquaintance of x"]
+    ],
+    "Zhang": [
+      ["Lü Songnian", "acquaintance of x"]
+    ],
+    "Zhi Jun": [
+      ["Xue Yufan", "friend of x"]
+    ]
+}

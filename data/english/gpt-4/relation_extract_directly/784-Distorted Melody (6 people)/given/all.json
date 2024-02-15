@@ -1,0 +1,162 @@
+{
+    "Ruan Guilang": [
+        [
+            "Mrs. Ruan",
+            "mother of x"
+        ],
+        [
+            "Zhaonan",
+            "sibling of x, sister of x"
+        ],
+        [
+            "Wangdi",
+            "sibling of x, sister of x"
+        ],
+        [
+            "Hei Li",
+            "romantic relationships with x, girlfriend of x"
+        ],
+        [
+            "Luo Xiucai",
+            "acquaintance of x, teacher of x"
+        ],
+        [
+            "Luo Younuo",
+            "acquaintance of x"
+        ],
+        [
+            "Xue Yan",
+            "acquaintance of x, friend of x"
+        ],
+        [
+            "Qi Gu Fei",
+            "acquaintance of x"
+        ]
+    ],
+    "Mrs. Ruan": [
+        [
+            "Ruan Guilang",
+            "child of x, son of x"
+        ],
+        [
+            "Zhaonan",
+            "child of x, daughter of x"
+        ],
+        [
+            "Wangdi",
+            "child of x, daughter of x"
+        ],
+        [
+            "Luo Xiucai",
+            "tenant of x"
+        ],
+        [
+            "Luo Younuo",
+            "adopted son of x"
+        ],
+        [
+            "Xue Yan",
+            "adopted daughter of x"
+        ]
+    ],
+    "Zhaonan": [
+        [
+            "Mrs. Ruan",
+            "mother of x"
+        ],
+        [
+            "Ruan Guilang",
+            "sibling of x, brother of x"
+        ],
+        [
+            "Wangdi",
+            "sibling of x, sister of x"
+        ]
+    ],
+    "Wangdi": [
+        [
+            "Mrs. Ruan",
+            "mother of x"
+        ],
+        [
+            "Ruan Guilang",
+            "sibling of x, brother of x"
+        ],
+        [
+            "Zhaonan",
+            "sibling of x, sister of x"
+        ],
+        [
+            "Wang Zimo",
+            "secret lover of x, extramarital affair with x"
+        ]
+    ],
+    "Hei Li": [
+        [
+            "Ruan Guilang",
+            "romantic relationships with x, boyfriend of x"
+        ],
+        [
+            "Qi Gu Fei",
+            "ex romantic relationships with x, colleague of x"
+        ]
+    ],
+    "Luo Xiucai": [
+        [
+            "Mrs. Ruan",
+            "tenant of x"
+        ],
+        [
+            "Ruan Guilang",
+            "student of x"
+        ]
+    ],
+    "Luo Younuo": [
+        [
+            "Mrs. Ruan",
+            "adopted son of x"
+        ],
+        [
+            "Xue Yan",
+            "sibling of x, sister of x"
+        ]
+    ],
+    "Xue Yan": [
+        [
+            "Mrs. Ruan",
+            "adopted daughter of x"
+        ],
+        [
+            "Luo Younuo",
+            "sibling of x, brother of x"
+        ],
+        [
+            "Ruan Guilang",
+            "acquaintance of x, friend of x"
+        ],
+        [
+            "Wang Zimo",
+            "employee of x, servant of x"
+        ]
+    ],
+    "Qi Gu Fei": [
+        [
+            "Ruan Guilang",
+            "acquaintance of x"
+        ],
+        [
+            "Hei Li",
+            "ex romantic relationships with x, colleague of x"
+        ]
+    ],
+    "Wang Zimo": [
+        [
+            "Wangdi",
+            "secret lover of x, extramarital affair with x"
+        ],
+        [
+            "Xue Yan",
+            "employer of x, master of x"
+        ]
+    ]
+}

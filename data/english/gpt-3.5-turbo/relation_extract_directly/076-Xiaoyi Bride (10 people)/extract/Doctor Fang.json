@@ -1,0 +1,112 @@
+{
+    "Fang Minyue": [
+        [
+            "Fang Chengshan",
+            "father of, disappeared"
+        ],
+        [
+            "Master Meng",
+            "employer of father"
+        ],
+        [
+            "Steward Du",
+            "assistant of father, deceased"
+        ],
+        [
+            "Yao Changshou",
+            "colleague of father, landlord"
+        ],
+        [
+            "Yao Mengren",
+            "student of"
+        ],
+        [
+            "Yao Zhongyi",
+            "student of"
+        ],
+        [
+            "Zhang Yadi",
+            "colleague"
+        ],
+        [
+            "Zhang Decai",
+            "first love, disappeared"
+        ]
+    ],
+    "Fang Chengshan": [
+        [
+            "Master Meng",
+            "employer"
+        ],
+        [
+            "Steward Du",
+            "assistant, deceased"
+        ]
+    ],
+    "Master Meng": [
+        [
+            "Fang Chengshan",
+            "employee"
+        ],
+        [
+            "Steward Du",
+            "assistant"
+        ]
+    ],
+    "Steward Du": [
+        [
+            "Fang Chengshan",
+            "employer"
+        ],
+        [
+            "Master Meng",
+            "employer"
+        ]
+    ],
+    "Yao Changshou": [
+        [
+            "Fang Minyue",
+            "colleague"
+        ],
+        [
+            "Yao Mengren",
+            "father of"
+        ],
+        [
+            "Yao Zhongyi",
+            "father of"
+        ]
+    ],
+    "Yao Mengren": [
+        [
+            "Fang Minyue",
+            "teacher of"
+        ],
+        [
+            "Yao Changshou",
+            "son of"
+        ]
+    ],
+    "Yao Zhongyi": [
+        [
+            "Fang Minyue",
+            "teacher of"
+        ],
+        [
+            "Yao Changshou",
+            "son of"
+        ]
+    ],
+    "Zhang Yadi": [
+        [
+            "Fang Minyue",
+            "colleague"
+        ]
+    ],
+    "Zhang Decai": [
+        [
+            "Fang Minyue",
+            "first love, disappeared"
+        ]
+    ]
+}

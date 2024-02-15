@@ -1,0 +1,51 @@
+{
+    "Joe Robertson": [
+      ["Sleer & Leech", "friend of x"], 
+      ["Lucy Harrison", "friend of x"], 
+      ["Max Jones", "friend of x"], 
+      ["Daniel Perry", "friend of x"], 
+      ["Amy Morgan", "friend of x, quest companion of x"]
+    ],
+    "Sleer & Leech": [
+      ["Joe Robertson", "colleague of x"], 
+      ["Max Jones", "business partner of x"], 
+      ["Daniel Perry", "business partner of x"], 
+      ["John Morgan", "helper of x"], 
+      ["Amy Morgan", "business partner of x"]
+    ],
+    "Lucy Harrison": [
+      ["Joe Robertson", "friend of x"], 
+      ["Max Jones", "acquaintance of x"], 
+      ["Daniel Perry", "acquaintance of x, suspicious of x"], 
+      ["John Morgan", "informant of x"], 
+      ["Amy Morgan", "friend of x"]
+    ],
+    "Max Jones": [
+      ["Joe Robertson", "friend of x"], 
+      ["Sleer & Leech", "employee of x"], 
+      ["Daniel Perry", "friend of x, helper of x"], 
+      ["John Morgan", "friend of x, acquaintance of x"], 
+      ["Amy Morgan", "romantic relationships with x"]
+    ],
+    "Daniel Perry": [
+      ["Joe Robertson", "friend of x"], 
+      ["Sleer & Leech", "business partner of x"], 
+      ["Lucy Harrison", "acquaintance of x"], 
+      ["Max Jones", "friend of x, helper of x"], 
+      ["Amy Morgan", "lover of x"]
+    ],
+    "John Morgan": [
+      ["Sleer & Leech", "helped by x"], 
+      ["Lucy Harrison", "suspected by x"], 
+      ["Max Jones", "friend of x, acquaintance of x"], 
+      ["Amy Morgan", "husband of x"]
+    ],
+    "Amy Morgan": [
+      ["Joe Robertson", "friend of x, quest companion of x"], 
+      ["Sleer & Leech", "business partner of x"], 
+      ["Lucy Harrison", "friend of x"], 
+      ["Max Jones", "romantic relationships with x"], 
+      ["Daniel Perry", "lover of x"], 
+      ["John Morgan", "wife of x"]
+    ]
+}

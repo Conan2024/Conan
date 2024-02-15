@@ -1,0 +1,29 @@
+{
+    "Yu Zu Chengmu": [
+      ["Wu Baian", "classmate of x, acquaintance of x"], 
+      ["Xia Bolong", "enemy of x, rival of x"], 
+      ["Xia Sanhu", "friend of x, business partner of x, debtor of x"], 
+      ["Duan Yuetong", "acquaintance of x, suspect of x"], 
+      ["Aming", "nephew of x, business partner of x"], 
+      ["Anqi", "friend of x, potential love interest of x"]
+    ],
+    "Wu Baian": [
+      ["Yu Zu Chengmu", "classmate of x, acquaintance of x"]
+    ],
+    "Xia Bolong": [
+      ["Yu Zu Chengmu", "enemy of x, rival of x"]
+    ],
+    "Xia Sanhu": [
+      ["Yu Zu Chengmu", "friend of x, business partner of x, debtor of x"], 
+      ["Xia Bolong", "brother of x, enemy of x"]
+    ],
+    "Duan Yuetong": [
+      ["Yu Zu Chengmu", "acquaintance of x, suspect of x"]
+    ],
+    "Aming": [
+      ["Yu Zu Chengmu", "nephew of x, business partner of x"]
+    ],
+    "Anqi": [
+      ["Yu Zu Chengmu", "friend of x, potential love interest of x"]
+    ]
+}

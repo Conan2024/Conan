@@ -1,0 +1,48 @@
+{
+    "Alex Harvey": [
+      ["Marina Harrison", "friend of x, cousin of x"], 
+      ["Jacqueline Perry", "friend of x"], 
+      ["Daniel Perry", "dislike of x"], 
+      ["Amy Morgan", "friend of x"], 
+      ["John Morgan", "suspicious of x"], 
+      ["Davis Perry", "suspect to x"], 
+      ["Max Pike", "suspect to x"]
+    ],
+    "Marina Harrison": [
+      ["Alex Harvey", "friend of x, cousin of x"], 
+      ["Jacqueline Perry", "sister of x"], 
+      ["Davis Perry", "secret lover of x"], 
+      ["Lucy Harrison", "secret lover of x"], 
+      ["Jonathan Perry", "secret lover of x"], 
+      ["Amy Morgan", "friend of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Alex Harvey", "friend of x"], 
+      ["Marina Harrison", "sister of x"]
+    ],
+    "Daniel Perry": [
+      ["Alex Harvey", "disliked by x"]
+    ],
+    "Amy Morgan": [
+      ["Alex Harvey", "friend of x"]
+    ],
+    "Lucy Harrison": [
+      ["Marina Harrison", "secret lover of x"], 
+      ["Jonathan Perry", "secret lover of x"]
+    ],
+    "Jonathan Perry": [
+      ["Marina Harrison", "secret lover of x"], 
+      ["Lucy Harrison", "secret lover of x"]
+    ],
+    "John Morgan": [
+      ["Alex Harvey", "suspicious of x"]
+    ],
+    "Davis Perry": [
+      ["Alex Harvey", "suspect of x"], 
+      ["Marina Harrison", "secret lover of x"]
+    ],
+    "Max Pike": [
+      ["Alex Harvey", "suspect of x"], 
+      ["John Morgan", "suspicious of x"]
+    ]
+}

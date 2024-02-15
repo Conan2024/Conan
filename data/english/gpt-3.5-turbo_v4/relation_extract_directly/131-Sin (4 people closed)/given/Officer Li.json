@@ -1,0 +1,26 @@
+{
+    "Officer Li": [
+      ["Chief Wang", "host of x"], 
+      ["Officer Li's Girlfriend", "girlfriend of x, helped by x"], 
+      ["Zhao Cishan", "adversary of x, perpetrator of x's family"]
+    ],
+    "Officer Li's Girlfriend": [
+      ["Officer Li", "boyfriend of x, helped by x"], 
+      ["Zhao Cishan", "adversary of x, perpetrator of x's family"]
+    ],
+    "Chief Wang": [
+      ["Officer Li", "quest companion of x"], 
+      ["Zhao Cishan", "adversary of x"]
+    ],
+    "Hu Investigate": [
+      ["Officer Li", "guest of x"], 
+      ["Chief Wang", "guest of x"], 
+      ["Zhao Cishan", "manipulated by x"]
+    ],
+    "Zhao Cishan": [
+      ["Officer Li", "adversary of x"], 
+      ["Officer Li's Girlfriend", "victim of x"], 
+      ["Chief Wang", "adversary of x"], 
+      ["Hu Investigate", "manipulated by x"]
+    ]
+}

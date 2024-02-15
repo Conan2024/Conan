@@ -1,0 +1,148 @@
+{
+    "Feng": [
+        [
+            "Jue Ming",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Lu Ying",
+            "Adversary, Enemy, Rival"
+        ],
+        [
+            "Mysterious Ice Sect's Messenger",
+            "Saint of Thiefs"
+        ],
+        [
+            "Saint of Thieves",
+            "Adversary"
+        ],
+        [
+            "Zi Su",
+            "Perpetrator of X",
+            "Victim of X"
+        ]
+    ],
+    "Jue Ming": [
+        [
+            "Feng",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Lu Ying",
+            "Acquaintance, Colleague"
+        ],
+        [
+            "Mysterious Ice Sect's Messenger",
+            "Acquaintance"
+        ],
+        [
+            "Saint of Thieves",
+            "Perpetrator of X",
+            "Adversary of X"
+        ],
+        [
+            "Zi Su",
+            "Acquaintance",
+            "Fellow thief"
+        ]
+    ],
+    "Lu Ying": [
+        [
+            "Feng",
+            "Adversary, Enemy, Rival"
+        ],
+        [
+            "Jue Ming",
+            "Acquaintance, Colleague"
+        ],
+        [
+            "Mysterious Ice Sect's Messenger",
+            "Acquaintance"
+        ],
+        [
+            "Saint of Thieves",
+            "Acquaintance"
+        ],
+        [
+            "Zi Su",
+            "Acquaintance, Suspect"
+        ]
+    ],
+    "Mysterious Ice Sect's Messenger": [
+        [
+            "Feng",
+            "Saint of Thiefs"
+        ],
+        [
+            "Jue Ming",
+            "Acquaintance"
+        ],
+        [
+            "Lu Ying",
+            "Acquaintance"
+        ],
+        [
+            "Saint of Thieves",
+            "Acquaintance",
+            "Co-conspirator"
+        ],
+        [
+            "Zi Su",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect"
+        ]
+    ],
+    "Saint of Thieves": [
+        [
+            "Feng",
+            "Adversary"
+        ],
+        [
+            "Jue Ming",
+            "Perpetrator of X",
+            "Adversary of X"
+        ],
+        [
+            "Lu Ying",
+            "Acquaintance"
+        ],
+        [
+            "Mysterious Ice Sect's Messenger",
+            "Acquaintance",
+            "Co-conspirator"
+        ],
+        [
+            "Zi Su",
+            "Perpetrator of X",
+            "Victim of X"
+        ]
+    ],
+    "Zi Su": [
+        [
+            "Feng",
+            "Perpetrator of X",
+            "Victim of X"
+        ],
+        [
+            "Jue Ming",
+            "Acquaintance",
+            "Fellow thief"
+        ],
+        [
+            "Lu Ying",
+            "Acquaintance, Suspect"
+        ],
+        [
+            "Mysterious Ice Sect's Messenger",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect"
+        ],
+        [
+            "Saint of Thieves",
+            "Perpetrator of X",
+            "Victim of X"
+        ]
+    ]
+}

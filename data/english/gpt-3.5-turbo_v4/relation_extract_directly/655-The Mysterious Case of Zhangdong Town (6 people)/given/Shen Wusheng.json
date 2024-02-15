@@ -1,0 +1,42 @@
+{
+    "Shen Wusheng": [
+      ["Li Shijia", "same person as x (different identity), husband of x"], 
+      ["Caiya", "replaced x's identity, wife of x"], 
+      ["Master Yang", "mentor of x"], 
+      ["Yang Shuixun", "mentor of x"], 
+      ["Minxi", "romantic relationships with x"], 
+      ["Gu Chumeng", "romantic relationships with x"], 
+      ["Lan Rui", "romantic relationships with x"], 
+      ["Boss Zhang", "employer of x"], 
+      ["Xiting", "romantic relationships with x"]
+    ],
+    "Li Shijia": [
+      ["Shen Wusheng", "same person as x (different identity), husband of x"]
+    ],
+    "Caiya": [
+      ["Shen Wusheng", "replaced x's identity, wife of x"]
+    ],
+    "Master Yang": [
+      ["Shen Wusheng", "mentor of x"]
+    ],
+    "Yang Shuixun": [
+      ["Shen Wusheng", "mentor of x"], 
+      ["Minxi", "father of x"]
+    ],
+    "Minxi": [
+      ["Shen Wusheng", "romantic relationships with x"], 
+      ["Yang Shuixun", "child of x"]
+    ],
+    "Gu Chumeng": [
+      ["Shen Wusheng", "romantic relationships with x"]
+    ],
+    "Lan Rui": [
+      ["Shen Wusheng", "romantic relationships with x"]
+    ],
+    "Boss Zhang": [
+      ["Shen Wusheng", "customer of x"]
+    ],
+    "Xiting": [
+      ["Shen Wusheng", "romantic relationships with x"]
+    ]
+}

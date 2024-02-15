@@ -1,0 +1,29 @@
+{
+    "Chen Meier": [
+      ["Chen Meier's parents", "child of x"], 
+      ["Ximen Zhao family second son", "enemy of x"], 
+      ["Zhao Zhongyang", "romantic relationships with x"], 
+      ["Zhao Zhongzheng", "informant of x"], 
+      ["Zhao Zhongyang's favorite men", "acquaintance of x"]
+    ],
+    "Chen Meier's parents": [
+      ["Chen Meier", "parent of x"]
+    ],
+    "Ximen Zhao family second son": [
+      ["Chen Meier", "enemy of x"]
+    ],
+    "Zhao Zhongyang": [
+      ["Chen Meier", "romantic relationships with x"], 
+      ["Zhao Zhongzheng", "information receiver from x"], 
+      ["Zhao Zhongyang's favorite men", "subject of x investigation for x"]
+    ],
+    "Zhao Zhongzheng": [
+      ["Chen Meier", "informant of x"], 
+      ["Zhao Zhongyang", "information receiver from x"], 
+      ["Zhao Zhongyang's favorite men", "acquaintance of x"]
+    ],
+    "Zhao Zhongyang's favorite men": [
+      ["Zhao Zhongyang", "acquaintance of x"], 
+      ["Zhao Zhongzheng", "acquaintance of x"]
+    ]
+}

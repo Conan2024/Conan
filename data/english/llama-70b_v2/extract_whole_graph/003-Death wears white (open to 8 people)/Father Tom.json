@@ -1,0 +1,19 @@
+{
+    "Father Tom": [
+      ["Dr. Drake Li Morette", "doctor patient of x, secret keeper of x"], 
+      ["Dr. Paloski", "comforter of x, acquaintance of x"], 
+      ["Frank", "benefactor of x, friend of x"], 
+      ["Tony", "acquaintance of x, manipulator of x"]
+    ],
+    "Dr. Paloski": [
+      ["Father Tom", "comforter of x, acquaintance of x"], 
+      ["Dr. Hans Li Morette", "enemy of x, rival of x"]
+    ],
+    "Dean Berkeley": [
+      ["Father Tom", "acquaintance of x, attracted to of x"]
+    ],
+    "Frank": [
+      ["Father Tom", "benefactor of x, friend of x"], 
+      ["Dr. Drake Li Morette", "doctor patient of x, secret keeper of x"]
+    ]
+}

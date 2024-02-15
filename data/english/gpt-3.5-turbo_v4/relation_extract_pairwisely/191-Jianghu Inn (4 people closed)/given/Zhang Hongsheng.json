@@ -1,0 +1,92 @@
+{
+    "Zhang Hongsheng": [
+      ["Meng Sanchun", "wife of x, extramarital affair with x"], 
+      ["Hong Jiangshui", "wife of x, ex romantic relationships with x"], 
+      ["Cai Siniang", "ex romantic relationships with x"], 
+      ["Hong Changlie", "father of x"], 
+      ["Zhang Jinyin", "wife of x, romantic relationships with x"], 
+      ["Zhang Jinshan", "fiance of x"], 
+      ["Hong Sanmei", "wife of x"], 
+      ["Hong Erlang", "husband of x"]
+    ],
+    "Meng Sanchun": [
+      ["Zhang Hongsheng", "husband of x, extramarital affair with x"], 
+      ["Hong Jiangshui", "husband of x"], 
+      ["Cai Siniang", "extramarital affair with x"], 
+      ["Hong Changlie", "wife of x"], 
+      ["Zhang Jinyin", "co wives of x"], 
+      ["Zhang Jinshan", "husband of x"], 
+      ["Hong Sanmei", "wife of x"], 
+      ["Hong Erlang", "romantic relationships with x"]
+    ],
+    "Hong Jiangshui": [
+      ["Zhang Hongsheng", "husband of x, ex romantic relationships with x"], 
+      ["Meng Sanchun", "wife of x"], 
+      ["Cai Siniang", "romantic relationships with x"], 
+      ["Hong Changlie", "son of x, father of x"], 
+      ["Zhang Jinyin", "helper of x, friend of x"], 
+      ["Zhang Jinshan", "friend of x"], 
+      ["Hong Sanmei", "wife of x"], 
+      ["Hong Erlang", "brother of x"]
+    ],
+    "Cai Siniang": [
+      ["Zhang Hongsheng", "ex romantic relationships with x"], 
+      ["Meng Sanchun", "extramarital affair with x"], 
+      ["Hong Jiangshui", "romantic relationships with x"], 
+      ["Hong Changlie", "helper of x"], 
+      ["Zhang Jinyin", "romantic relationships with x"], 
+      ["Zhang Jinshan", "ex husband of x"], 
+      ["Hong Sanmei", "suspected by x"], 
+      ["Hong Erlang", "friend of x"]
+    ],
+    "Hong Changlie": [
+      ["Zhang Hongsheng", "child of x"], 
+      ["Meng Sanchun", "husband of x"], 
+      ["Hong Jiangshui", "father of x, son of x"], 
+      ["Cai Siniang", "informant of x"], 
+      ["Zhang Jinyin", "possibly family of x"], 
+      ["Zhang Jinshan", "sibling of x"], 
+      ["Hong Sanmei", "father of x"], 
+      ["Hong Erlang", "brother of x"]
+    ],
+    "Zhang Jinyin": [
+      ["Zhang Hongsheng", "husband of x, romantic relationships with x"], 
+      ["Meng Sanchun", "co wives of x"], 
+      ["Hong Jiangshui", "helped by x, friend of x"], 
+      ["Cai Siniang", "romantic relationships with x"], 
+      ["Hong Changlie", "possibly family of x"], 
+      ["Zhang Jinshan", "brother of x"], 
+      ["Hong Sanmei", "fiance of x"], 
+      ["Hong Erlang", "brother of x, same person as x (different identity)"]
+    ],
+    "Zhang Jinshan": [
+      ["Zhang Hongsheng", "fiancee of x"], 
+      ["Meng Sanchun", "brother of x"], 
+      ["Hong Jiangshui", "friend of x"], 
+      ["Cai Siniang", "ex wife of x"], 
+      ["Hong Changlie", "sibling of x"], 
+      ["Zhang Jinyin", "brother of x"], 
+      ["Hong Sanmei", "husband of x"], 
+      ["Hong Erlang", "romantic relationships with x, ex romantic relationships with x"]
+    ],
+    "Hong Sanmei": [
+      ["Zhang Hongsheng", "husband of x"], 
+      ["Meng Sanchun", "husband of x"], 
+      ["Hong Jiangshui", "husband of x"], 
+      ["Cai Siniang", "suspect of x"], 
+      ["Hong Changlie", "child of x"], 
+      ["Zhang Jinyin", "fiancee of x"], 
+      ["Zhang Jinshan", "wife of x"], 
+      ["Hong Erlang", "romantic relationships with x"]
+    ],
+    "Hong Erlang": [
+      ["Zhang Hongsheng", "wife of x"], 
+      ["Meng Sanchun", "romantic relationships with x"], 
+      ["Hong Jiangshui", "brother of x"], 
+      ["Cai Siniang", "friend of x"], 
+      ["Hong Changlie", "brother of x"], 
+      ["Zhang Jinyin", "brother of x, same person as x (different identity)"], 
+      ["Zhang Jinshan", "romantic relationships with x, ex romantic relationships with x"], 
+      ["Hong Sanmei", "romantic relationships with x"]
+    ]
+}

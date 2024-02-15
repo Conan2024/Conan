@@ -1,0 +1,28 @@
+{
+    "Yu Yancheng": [
+      ["Lü Lusheng", "brother of x"], 
+      ["Mrs. Zhang", "acquaintance of x, business partner of x"], 
+      ["Xue Yufan", "acquaintance of x, suspect of x"], 
+      ["Ge Yueman", "acquaintance of x"]
+    ],
+    "Lü Lusheng": [
+      ["Yu Yancheng", "brother of x"], 
+      ["Lü Songnian", "brother of x"]
+    ],
+    "Le Wan": [
+      ["Mrs. Zhang", "acquaintance of x"]
+    ],
+    "Mrs. Zhang": [
+      ["Yu Yancheng", "acquaintance of x, business partner of x"], 
+      ["Le Wan", "acquaintance of x"]
+    ],
+    "Xue Yufan": [
+      ["Yu Yancheng", "acquaintance of x, suspect of x"]
+    ],
+    "Ge Yueman": [
+      ["Yu Yancheng", "acquaintance of x"]
+    ],
+    "Zhi Jun": [
+      ["Ge Yueman", "friend of x"]
+    ]
+}

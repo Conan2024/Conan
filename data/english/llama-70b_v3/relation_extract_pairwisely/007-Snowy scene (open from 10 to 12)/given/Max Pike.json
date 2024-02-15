@@ -1,0 +1,58 @@
+{
+    "Amy Morgan": [
+      ["Daniel Perry", "friend of x, business partner of x"], 
+      ["Joe Robertson", "business partner of x"], 
+      ["John Morgan", "wife of x"], 
+      ["Lucy Harrison", "friend of x, business partner of x"], 
+      ["Max Jones", "friend of x, business partner of x"], 
+      ["Sleer & Leech", "colleague of x, business partner of x"]
+    ],
+    "Daniel Perry": [
+      ["Amy Morgan", "friend of x, business partner of x"], 
+      ["Joe Robertson", "business partner of x"], 
+      ["John Morgan", "business partner of x, colleague of x"], 
+      ["Lucy Harrison", "acquaintance of x"], 
+      ["Max Jones", "friend of x, business partner of x"], 
+      ["Sleer & Leech", "employee of x, business partner of x"]
+    ],
+    "Joe Robertson": [
+      ["Amy Morgan", "business partner of x"], 
+      ["Daniel Perry", "business partner of x"], 
+      ["John Morgan", "friend of x, business partner of x"], 
+      ["Lucy Harrison", "friend of x, business partner of x"], 
+      ["Max Jones", "friend of x, business partner of x"], 
+      ["Sleer & Leech", "friend of x, business partner of x"]
+    ],
+    "John Morgan": [
+      ["Amy Morgan", "husband of x"], 
+      ["Daniel Perry", "business partner of x, colleague of x"], 
+      ["Joe Robertson", "friend of x, business partner of x"], 
+      ["Lucy Harrison", "acquaintance of x"], 
+      ["Max Jones", "friend of x, business partner of x"], 
+      ["Sleer & Leech", "employee of x, business partner of x"]
+    ],
+    "Lucy Harrison": [
+      ["Amy Morgan", "friend of x, business partner of x"], 
+      ["Daniel Perry", "acquaintance of x"], 
+      ["Joe Robertson", "friend of x, business partner of x"], 
+      ["John Morgan", "acquaintance of x"], 
+      ["Max Jones", "friend of x, business partner of x"], 
+      ["Sleer & Leech", "employee of x, subordinate of x"]
+    ],
+    "Max Jones": [
+      ["Amy Morgan", "friend of x, business partner of x"], 
+      ["Daniel Perry", "friend of x, business partner of x"], 
+      ["Joe Robertson", "friend of x, business partner of x"], 
+      ["John Morgan", "friend of x, business partner of x"], 
+      ["Lucy Harrison", "friend of x, business partner of x"], 
+      ["Sleer & Leech", "employee of x, business partner of x"]
+    ],
+    "Sleer & Leech": [
+      ["Amy Morgan", "colleague of x, business partner of x"], 
+      ["Daniel Perry", "employer of x, business partner of x"], 
+      ["Joe Robertson", "employer of x, business partner of x"], 
+      ["John Morgan", "employer of x, business partner of x"], 
+      ["Lucy Harrison", "employer of x, superior of x"], 
+      ["Max Jones", "employer of x, business partner of x"]
+    ]
+}

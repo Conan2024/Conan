@@ -1,0 +1,143 @@
+{
+    "Tian Zhuli": [
+      ["cleaner sister", "girlfriend of x"], 
+      ["Li Bao'an", "boyfriend of x"], 
+      ["security guard", "boyfriend of x"], 
+      ["boss", "boyfriend of x"], 
+      ["elder sister", "sibling of x, friend of x, acquaintance of x, neighbour of x"], 
+      ["student", "boyfriend of x"], 
+      ["Qin OU", "boyfriend of x"], 
+      ["Qin Ou", "boyfriend of x, adversary of x"], 
+      ["Sun Qingjie", "boyfriend of x, ex romantic relationships with x"], 
+      ["Qin Ou", "girlfriend of x"], 
+      ["Tian Zhuli", "friend of x, acquaintance of x, colleague of x, business partner of x"]
+    ],
+    "cleaner sister": [
+      ["Tian Zhuli", "girlfriend of x"], 
+      ["Li Bao'an", "sister in law of x, acquaintance of x, suspect of x"], 
+      ["security guard", "acquaintance of x, helper of x"], 
+      ["Professor Jia", "suspect of x, adversary of x, enemy of x, victim of x"], 
+      ["boss", "friend of x"], 
+      ["elder sister", "same person as x (different reference)"], 
+      ["student", "friend of x"], 
+      ["Qin OU", "sister of x"], 
+      ["Qin Ou", "sister of x, friend of x"], 
+      ["Sun Qingjie", "acquaintance of x"], 
+      ["Professor JIA", "suspect of x, adversary of x, helper of x"]
+    ],
+    "Li Bao'an": [
+      ["Tian Zhuli", "girlfriend of x"], 
+      ["cleaner sister", "sister in law of x, acquaintance of x, suspect of x"], 
+      ["security guard", "acquaintance of x"], 
+      ["Professor Jia", "superior of x, teacher of x, employer of x, friend of x"], 
+      ["boss", "superior of x, master of x, employer of x"], 
+      ["elder sister", "same person as x (different reference)"], 
+      ["student", "acquaintance of x"], 
+      ["Qin OU", "ex romantic relationships with x, rival of x"], 
+      ["Qin Ou", "ex romantic relationships with x, rival of x"], 
+      ["Sun Qingjie", "friend of x, acquaintance of x"], 
+      ["Professor JIA", "superior of x, employer of x"]
+    ],
+    "security guard": [
+      ["Tian Zhuli", "acquaintance of x"], 
+      ["cleaner sister", "acquaintance of x"], 
+      ["Li Bao'an", "acquaintance of x"], 
+      ["Professor Jia", "acquaintance of x, suspicious of x, adversary of x"], 
+      ["boss", "acquaintance of x, helper of x"], 
+      ["elder sister", "acquaintance of x, helper of x"], 
+      ["student", "acquaintance of x"], 
+      ["Qin OU", "acquaintance of x"], 
+      ["Qin Ou", "acquaintance of x"], 
+      ["Sun Qingjie", "acquaintance of x, helper of x"], 
+      ["Professor JIA", "acquaintance of x"]
+    ],
+    "Professor Jia": [
+      ["cleaner sister", "suspect of x, adversary of x, enemy of x, victim of x"], 
+      ["Li Bao'an", "subordinate of x, student of x, employee of x, friend of x"], 
+      ["security guard", "acquaintance of x, suspicious of x, adversary of x"], 
+      ["boss", "superior of x"], 
+      ["elder sister", "superior of x, employer of x"], 
+      ["student", "mentor of x, adversary of x"], 
+      ["Sun Qingjie", "teacher of x, superior of x"], 
+      ["Professor JIA", "superior of x"], 
+      ["Professor Jia", "friend of x, acquaintance of x, colleague of x, business partner of x"]
+    ],
+    "boss": [
+      ["Tian Zhuli", "employer of x, superior of x"], 
+      ["cleaner sister", "friend of x"], 
+      ["Li Bao'an", "superior of x, master of x, employer of x"], 
+      ["security guard", "acquaintance of x, employee of x"], 
+      ["Professor Jia", "superior of x"], 
+      ["elder sister", "suspect of x"], 
+      ["student", "boyfriend of x, adversary of x"], 
+      ["Sun Qingjie", "employer of x"]
+    ],
+    "elder sister": [
+      ["Tian Zhuli", "sibling of x, friend of x, acquaintance of x, neighbour of x"], 
+      ["cleaner sister", "same person as x (different reference)"], 
+      ["Li Bao'an", "same person as x (different reference)"], 
+      ["security guard", "acquaintance of x"], 
+      ["Professor Jia", "superior of x, employer of x"], 
+      ["boss", "suspect of x"], 
+      ["student", "friend of x, acquaintance of x"], 
+      ["Qin OU", "sister of x"], 
+      ["Qin Ou", "sibling of x"], 
+      ["Sun Qingjie", "sibling of x"], 
+      ["Professor JIA", "acquaintance of x"]
+    ],
+    "student": [
+      ["Tian Zhuli", "boyfriend of x"], 
+      ["cleaner sister", "friend of x"], 
+      ["Li Bao'an", "acquaintance of x"], 
+      ["security guard", "acquaintance of x"], 
+      ["Professor Jia", "mentor of x, adversary of x"], 
+      ["boss", "boyfriend of x, adversary of x"], 
+      ["elder sister", "friend of x, acquaintance of x"], 
+      ["Sun Qingjie", "classmate of x"]
+    ],
+    "Qin OU": [
+      ["Tian Zhuli", "girlfriend of x, victim of x"], 
+      ["cleaner sister", "wife of x"], 
+      ["Li Bao'an", "ex romantic relationships with x, rival of x"], 
+      ["security guard", "acquaintance of x"], 
+      ["elder sister", "sister of x"], 
+      ["student", "boyfriend of x"], 
+      ["Qin Ou", "friend of x, acquaintance of x, colleague of x, business partner of x"], 
+      ["Sun Qingjie", "wife of x, ex romantic relationships with x"], 
+      ["Professor JIA", "boyfriend of x"]
+    ],
+    "Qin Ou": [
+      ["Tian Zhuli", "girlfriend of x, rival of x"], 
+      ["cleaner sister", "sister of x, friend of x"], 
+      ["Li Bao'an", "ex romantic relationships with x, rival of x"], 
+      ["security guard", "acquaintance of x"], 
+      ["elder sister", "sibling of x"], 
+      ["student", "acquaintance of x, classmate of x"], 
+      ["Sun Qingjie", "wife of x, romantic relationships with x"], 
+      ["Professor JIA", "suspect of x, adversary of x"]
+    ],
+    "Sun Qingjie": [
+      ["Tian Zhuli", "girlfriend of x, ex romantic relationships with x"], 
+      ["cleaner sister", "acquaintance of x"], 
+      ["Li Bao'an", "friend of x, acquaintance of x"], 
+      ["security guard", "acquaintance of x, helper of x"], 
+      ["Professor Jia", "boyfriend of x"], 
+      ["boss", "employer of x"], 
+      ["elder sister", "sibling of x"], 
+      ["student", "classmate of x"], 
+      ["Qin OU", "husband of x, ex romantic relationships with x"], 
+      ["Qin Ou", "husband of x, romantic relationships with x"], 
+      ["Professor JIA", "friend of x, acquaintance of x"]
+    ],
+    "Professor JIA": [
+      ["cleaner sister", "suspect of x, adversary of x, helper of x"], 
+      ["Li Bao'an", "superior of x, employer of x"], 
+      ["security guard", "acquaintance of x"], 
+      ["Professor Jia", "superior of x"], 
+      ["elder sister", "acquaintance of x"], 
+      ["Sun Qingjie", "friend of x, acquaintance of x"]
+    ],
+    "Security Guard": [
+      ["Security Guard", "friend of x, acquaintance of x, colleague of x, business partner of x"]
+    ]
+}

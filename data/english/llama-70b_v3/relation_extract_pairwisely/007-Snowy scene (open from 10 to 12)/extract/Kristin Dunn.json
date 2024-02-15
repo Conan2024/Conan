@@ -1,0 +1,22 @@
+{
+    "Kristin Dunn": [
+      ["Max Pike", "business partner of x"], 
+      ["Joe Robertson", "business partner of x"], 
+      ["Qiao", "business partner of x, colleague of x"]
+    ],
+    "Max Pike": [
+      ["Kristin Dunn", "business partner of x"], 
+      ["Joe Robertson", "business partner of x"], 
+      ["Qiao", "business partner of x"]
+    ],
+    "Joe Robertson": [
+      ["Kristin Dunn", "business partner of x"], 
+      ["Max Pike", "business partner of x"], 
+      ["Qiao", "business partner of x, colleague of x"]
+    ],
+    "Qiao": [
+      ["Kristin Dunn", "business partner of x, colleague of x"], 
+      ["Max Pike", "business partner of x"], 
+      ["Joe Robertson", "business partner of x, colleague of x"]
+    ]
+}

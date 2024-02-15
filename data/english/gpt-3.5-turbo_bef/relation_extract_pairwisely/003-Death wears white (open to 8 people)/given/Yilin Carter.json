@@ -1,0 +1,56 @@
+{
+    "Yilin Carter": [
+      ["Elaine Carter", "colleague of x"], 
+      ["Dr. Paloski", "superior of x"], 
+      ["Jim Mason", "fiance of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Head Nurse Costa", "colleague of x"]
+    ],
+    "Elaine Carter": [
+      ["Yilin Carter", "colleague of x"], 
+      ["Dr. Paloski", "employee of x"], 
+      ["Hans Li Morette", "victim of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Head Nurse Costa", "colleague of x"]
+    ],
+    "Dr. Paloski": [
+      ["Yilin Carter", "subordinate of x"], 
+      ["Elaine Carter", "master of x"], 
+      ["Dean Berkeley", "subordinate of x"], 
+      ["Hans Li Morette", "teacher of x"], 
+      ["Jim Mason", "mentor of x"], 
+      ["Drake Li Morette", "mentor of x"]
+    ],
+    "Head Nurse Costa": [
+      ["Yilin Carter", "helper of x"], 
+      ["Elaine Carter", "mentor of x"], 
+      ["Dean Berkeley", "colleague of x"], 
+      ["Hans Li Morette", "colleague of x"], 
+      ["Jim Mason", "friend of x"], 
+      ["Drake Li Morette", "colleague of x"]
+    ],
+    "Hans Li Morette": [
+      ["Dean Berkeley", "suspected by x"], 
+      ["Jim Mason", "in the lawsuit against x"], 
+      ["Drake Li Morette", "brother of x"], 
+      ["Head Nurse Costa", "colleague of x"]
+    ],
+    "Jim Mason": [
+      ["Yilin Carter", "suspicious of x, crime partner of x"], 
+      ["Elaine Carter", "patient of x"], 
+      ["Dr. Paloski", "doctor of x"], 
+      ["Hans Li Morette", "in the lawsuit against x"], 
+      ["Head Nurse Costa", "friend of x"]
+    ],
+    "Drake Li Morette": [
+      ["Yilin Carter", "colleague of x"], 
+      ["Elaine Carter", "colleague of x"], 
+      ["Dr. Paloski", "student of x"], 
+      ["Hans Li Morette", "brother of x"], 
+      ["Head Nurse Costa", "colleague of x"]
+    ],
+    "Dean Berkeley": [
+      ["Dr. Paloski", "superior of x"], 
+      ["Head Nurse Costa", "colleague of x"]
+    ]
+}

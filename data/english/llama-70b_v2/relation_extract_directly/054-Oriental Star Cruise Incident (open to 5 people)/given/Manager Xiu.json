@@ -1,0 +1,22 @@
+{
+    "Manager Xiu": [
+      ["Liu Qi", "high school alumni of x, drug dealer partner of x"], 
+      ["Han Yimu", "good opinion of x, disgusted with liu qi of x"], 
+      ["Hong Zilian", "not much intersection of x"], 
+      ["Lin Ruotong", "direct leader of x"]
+    ],
+    "Liu Qi": [
+      ["Manager Xiu", "high school alumni of x, drug dealer partner of x"], 
+      ["Han Yimu", "disgusted with of x, asked to kill of x"]
+    ],
+    "Han Yimu": [
+      ["Manager Xiu", "good opinion of x, disgusted with liu qi of x"], 
+      ["Liu Qi", "asked to kill of x"]
+    ],
+    "Hong Zilian": [
+      ["Manager Xiu", "not much intersection of x"]
+    ],
+    "Lin Ruotong": [
+      ["Manager Xiu", "direct leader of x"]
+    ]
+}

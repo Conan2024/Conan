@@ -1,0 +1,32 @@
+{
+    "Jonathan Perry": [
+      ["Lucy Harrison", "cousin of x, romantic interest of x"], 
+      ["John Morgan", "friend of x, deceased of x"], 
+      ["Alex Harvey", "acquaintance of x, witness of x kiss"], 
+      ["Marina", "aunt of x, adversary of x"]
+    ],
+    "Lucy Harrison": [
+      ["Jonathan Perry", "cousin of x, romantic interest of x"], 
+      ["John Morgan", "friend of x"], 
+      ["Alex Harvey", "acquaintance of x"], 
+      ["Marina", "mother of x, adversary of x"]
+    ],
+    "John Morgan": [
+      ["Jonathan Perry", "friend of x, confidant of x"], 
+      ["Lucy Harrison", "friend of x"], 
+      ["Alex Harvey", "acquaintance of x"], 
+      ["Marina", "adversary of x"]
+    ],
+    "Alex Harvey": [
+      ["Jonathan Perry", "acquaintance of x, witness of x kiss"], 
+      ["Lucy Harrison", "acquaintance of x"], 
+      ["John Morgan", "friend of x"], 
+      ["Marina", "adversary of x"]
+    ],
+    "Marina": [
+      ["Jonathan Perry", "aunt of x, adversary of x"], 
+      ["Lucy Harrison", "daughter of x, adversary of x"], 
+      ["John Morgan", "adversary of x"], 
+      ["Alex Harvey", "adversary of x"]
+    ]
+}

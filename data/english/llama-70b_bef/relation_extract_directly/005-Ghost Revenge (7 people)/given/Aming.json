@@ -1,0 +1,59 @@
+{
+    "Aming": [
+      ["Xia Sanhu", "enemy of x"], 
+      ["Xu Zu Chengmu", "friend of x"], 
+      ["Yu Zu Chengmu", "friend of x"], 
+      ["Anqi", "friend of x"], 
+      ["Li Luoming", "acquaintance of x"]
+    ],
+    "Anqi": [
+      ["Yu Zu Chengmu", "friend of x"], 
+      ["Aming", "friend of x"], 
+      ["Xia Sanhu", "enemy of x"]
+    ],
+    "Bai Changgong": [
+      ["Yu Zu Chengmu", "friend of x"]
+    ],
+    "Duan Yuetong": [
+      ["Li Luoming", "acquaintance of x"]
+    ],
+    "Li Luoming": [
+      ["Li Luo Ming", "father of x"], 
+      ["Xia Sanhu", "enemy of x"]
+    ],
+    "Li Zicai": [
+      ["Li Luo Ming", "father of x"]
+    ],
+    "Li Zijun": [
+      ["Li Luo Ming", "uncle of x"]
+    ],
+    "Luo Ming": [
+      ["Li Luo Ming", "same person as x (different reference)"]
+    ],
+    "Wu Baian": [
+      ["Xia Sanhu", "enemy of x"]
+    ],
+    "Xia Bolong": [
+      ["Xia Sanhu", "brother of x"]
+    ],
+    "Xia Sanhu": [
+      ["Xia Shue", "brother of x"], 
+      ["Xia Zhongpeng", "brother of x"], 
+      ["Yu Zu Chengmu", "friend of x"], 
+      ["Wu Baian", "enemy of x"]
+    ],
+    "Xia Shue": [
+      ["Xia Sanhu", "sister of x"]
+    ],
+    "Xia Zhongpeng": [
+      ["Xia Sanhu", "brother of x"]
+    ],
+    "Yu Zu Chengmu": [
+      ["Aming", "friend of x"], 
+      ["Xia Sanhu", "friend of x"], 
+      ["Anqi", "friend of x"]
+    ],
+    "Yue Dongwen": [
+      ["Li Luo Ming", "friend of x"]
+    ]
+}

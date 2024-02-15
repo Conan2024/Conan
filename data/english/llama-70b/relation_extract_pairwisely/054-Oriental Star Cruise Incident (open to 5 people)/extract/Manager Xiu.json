@@ -1,0 +1,397 @@
+{
+    "Xiu renjie": [
+        [
+            "Liu Qi",
+            "friend",
+            "business partner",
+            "accomplice in drug trafficking",
+            "suspect of murder"
+        ],
+        [
+            "Hong Zilian",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "Han Yimu",
+            "Friend",
+            "Drinking buddy"
+        ],
+        [
+            "Lin Ruotong",
+            "Employer of X",
+            "Superior of X"
+        ],
+        [
+            "ZHANG WENYUAN",
+            "Superior of X",
+            "Employer of X"
+        ],
+        [
+            "Yang Chenlin",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "Han ChenGwu",
+            "Colleague",
+            "Business Partner"
+        ],
+        [
+            "Zhang Erfu",
+            "Colleague of X",
+            "Business Partner of X"
+        ]
+    ],
+    "Liu Qi": [
+        [
+            "Xiu renjie",
+            "friend",
+            "business partner",
+            "accomplice in drug trafficking",
+            "victim of murder"
+        ],
+        [
+            "Hong Zilian",
+            "Captain",
+            "Superior"
+        ],
+        [
+            "Han Yimu",
+            "Friend",
+            "Drug Business Partner"
+        ],
+        [
+            "Lin Ruotong",
+            "Colleague",
+            "Drug dealer partner"
+        ],
+        [
+            "ZHANG WENYUAN",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "Yang Chenlin",
+            "Hong Zilian",
+            "Han Yimu",
+            "Lin Ruotong",
+            "Zhang Wenyuan",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Han ChenGwu",
+            "Friend",
+            "Drug smuggling accomplice"
+        ],
+        [
+            "Zhang Erfu",
+            "Han Yimu",
+            "Liu Qi (Great Deputy)",
+            "Hong Zilian (Captain)",
+            "Lin Ruotong (Singer)",
+            "Zhang Wenyuan"
+        ]
+    ],
+    "Hong Zilian": [
+        [
+            "Xiu renjie",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "Liu Qi",
+            "Deputy Captain",
+            "Subordinate"
+        ],
+        [
+            "Han Yimu",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Lin Ruotong",
+            "Superior of X",
+            "Employer of X"
+        ],
+        [
+            "ZHANG WENYUAN",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "Yang Chenlin",
+            "Captain of the ship",
+            "Superior of Xiu"
+        ],
+        [
+            "Han ChenGwu",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Zhang Erfu",
+            "Acquaintance",
+            "Business Partner"
+        ]
+    ],
+    "Han Yimu": [
+        [
+            "Xiu renjie",
+            "Friend",
+            "Confidant"
+        ],
+        [
+            "Liu Qi",
+            "Friend",
+            "Drug Business Partner"
+        ],
+        [
+            "Hong Zilian",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Lin Ruotong",
+            "Friend",
+            "Drinking Partner"
+        ],
+        [
+            "ZHANG WENYUAN",
+            "Friend",
+            "Drinking partner"
+        ],
+        [
+            "Yang Chenlin",
+            "Friend",
+            "Disliked by X"
+        ],
+        [
+            "Han ChenGwu",
+            "Friend",
+            "Drinking Partner"
+        ],
+        [
+            "Zhang Erfu",
+            "Friend",
+            "Acquaintance"
+        ]
+    ],
+    "Lin Ruotong": [
+        [
+            "Xiu renjie",
+            "Employee of X",
+            "Subordinate of X"
+        ],
+        [
+            "Liu Qi",
+            "Direct leader",
+            "Superior"
+        ],
+        [
+            "Hong Zilian",
+            "Direct Leader of X",
+            "Superior of X"
+        ],
+        [
+            "Han Yimu",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "ZHANG WENYUAN",
+            "Direct Leader",
+            "Superior"
+        ],
+        [
+            "Yang Chenlin",
+            "Colleague",
+            "Business Partner"
+        ],
+        [
+            "Han ChenGwu",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Zhang Erfu",
+            "Colleague",
+            "Friend"
+        ]
+    ],
+    "ZHANG WENYUAN": [
+        [
+            "Xiu renjie",
+            "Subordinate of X",
+            "Employee of X"
+        ],
+        [
+            "Liu Qi",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "Hong Zilian",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "Han Yimu",
+            "Friend",
+            "Drinking partner"
+        ],
+        [
+            "Lin Ruotong",
+            "Direct Report",
+            "Subordinate"
+        ],
+        [
+            "Yang Chenlin",
+            "Superior of x",
+            "Employer of X"
+        ],
+        [
+            "Han ChenGwu",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "Zhang Erfu",
+            "Colleague of X",
+            "Business Partner of X"
+        ]
+    ],
+    "Yang Chenlin": [
+        [
+            "Xiu renjie",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "Liu Qi",
+            "Hong Zilian",
+            "Han Yimu",
+            "Lin Ruotong",
+            "Zhang Wenyuan",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Hong Zilian",
+            "Deceased",
+            "Victim of Xiu"
+        ],
+        [
+            "Han Yimu",
+            "Friend",
+            "Suspicious of X"
+        ],
+        [
+            "Lin Ruotong",
+            "Colleague",
+            "Business Partner"
+        ],
+        [
+            "ZHANG WENYUAN",
+            "Subordinate of X",
+            "Employee of X"
+        ],
+        [
+            "Han ChenGwu",
+            "Superior of x",
+            "Employer of X"
+        ],
+        [
+            "Zhang Erfu",
+            "Suspect of X",
+            "Adversary of X"
+        ]
+    ],
+    "Han ChenGwu": [
+        [
+            "Xiu renjie",
+            "Colleague",
+            "Business Partner"
+        ],
+        [
+            "Liu Qi",
+            "Friend",
+            "Drug smuggling accomplice"
+        ],
+        [
+            "Hong Zilian",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Han Yimu",
+            "Friend",
+            "Drinking Partner"
+        ],
+        [
+            "Lin Ruotong",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "ZHANG WENYUAN",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "Yang Chenlin",
+            "Subordinate of X",
+            "Employee of X"
+        ],
+        [
+            "Zhang Erfu",
+            "Acquaintance",
+            "Business Partner"
+        ]
+    ],
+    "Zhang Erfu": [
+        [
+            "Xiu renjie",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "Liu Qi",
+            "Han Yimu",
+            "Hong Zilian (Captain)",
+            "Lin Ruotong (Singer)",
+            "Zhang Wenyuan"
+        ],
+        [
+            "Hong Zilian",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Han Yimu",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Lin Ruotong",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "ZHANG WENYUAN",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "Yang Chenlin",
+            "Suspect of X",
+            "Adversary of X"
+        ],
+        [
+            "Han ChenGwu",
+            "Acquaintance",
+            "Business Partner"
+        ]
+    ]
+}

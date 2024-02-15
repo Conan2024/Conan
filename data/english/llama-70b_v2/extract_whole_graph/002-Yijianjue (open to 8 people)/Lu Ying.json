@@ -1,0 +1,18 @@
+{
+    "Lu Ying": [
+      ["Master", "teacher of x, suspicious of x"], 
+      ["Lover", "lover of x, secret of x"]
+    ],
+    "Master": [
+      ["Lu Ying", "teacher of x, suspicious of x"], 
+      ["Xuan Bingjiao", "rival of x, enemy of x"]
+    ],
+    "Lover": [
+      ["Lu Ying", "lover of x, secret of x"], 
+      ["Xuan Bingjiao", "rival of x, enemy of x"]
+    ],
+    "Xuan Bingjiao": [
+      ["Master", "rival of x, enemy of x"], 
+      ["Lu Ying", "rival of x, enemy of x"]
+    ]
+}

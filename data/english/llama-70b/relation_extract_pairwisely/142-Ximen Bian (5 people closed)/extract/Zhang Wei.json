@@ -1,0 +1,214 @@
+{
+    "Zhang Wei": [
+        [
+            "Zhao ZHONGYANG",
+            "Friend, Acquaintance, Colleague"
+        ],
+        [
+            "Zhao ZHONGZHENG",
+            "employee, perpetrator"
+        ],
+        [
+            "Chen Meier",
+            "Subordinate of X",
+            "Employee of X"
+        ],
+        [
+            "Zhao San",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Ma Laoban",
+            "Business Partner",
+            "Criminal Accomplice"
+        ]
+    ],
+    "Zhao ZHONGYANG": [
+        [
+            "Zhang Wei",
+            "Friend, Acquaintance, Colleague"
+        ],
+        [
+            "Zhao ZHONGZHENG",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Chen Meier",
+            "Friend, Mentor"
+        ],
+        [
+            "Li Cheng",
+            "Master-Servant Relationship",
+            "Employer-Employee Relationship",
+            "Superior-Subordinate Relationship",
+            "Protector-Protectee Relationship",
+            "Friendship"
+        ],
+        [
+            "Zhao San",
+            "Master of Zhao San",
+            "Friend of Zhao San"
+        ],
+        [
+            "Ma Laoban",
+            "Business Partner, Employee"
+        ]
+    ],
+    "Zhao ZHONGZHENG": [
+        [
+            "Zhang Wei",
+            "employer, victim"
+        ],
+        [
+            "Zhao ZHONGYANG",
+            "Employee of X",
+            "Servant of X"
+        ],
+        [
+            "Chen Meier",
+            "Superior/Employer",
+            "Acquaintance"
+        ],
+        [
+            "Li Cheng",
+            "acquaintance, business partner, customer"
+        ],
+        [
+            "Zhao San",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Ma Laoban",
+            "Business Partner",
+            "Customer",
+            "Rival"
+        ]
+    ],
+    "Chen Meier": [
+        [
+            "Zhang Wei",
+            "Superior of X",
+            "Employer of X"
+        ],
+        [
+            "Zhao ZHONGYANG",
+            "Friend, Mentor"
+        ],
+        [
+            "Zhao ZHONGZHENG",
+            "Superior/Employer",
+            "Acquaintance"
+        ],
+        [
+            "Li Cheng",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Zhao San",
+            "Friend of X",
+            "Business Partner of X"
+        ],
+        [
+            "Ma Laoban",
+            "Business Partner",
+            "Co-conspirators",
+            "Accomplices"
+        ]
+    ],
+    "Zhao San": [
+        [
+            "Zhang Wei",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Zhao ZHONGYANG",
+            "Servant of Zhao ZHONGYANG",
+            "Acquaintance of Zhao ZHONGYANG"
+        ],
+        [
+            "Zhao ZHONGZHENG",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Chen Meier",
+            "Friend of X",
+            "Business Partner of X"
+        ],
+        [
+            "Li Cheng",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Ma Laoban",
+            "Business Partner",
+            "Co-conspirator"
+        ]
+    ],
+    "Ma Laoban": [
+        [
+            "Zhang Wei",
+            "Business Partner",
+            "Victim of Fraud"
+        ],
+        [
+            "Zhao ZHONGYANG",
+            "Business Partner, Employee"
+        ],
+        [
+            "Zhao ZHONGZHENG",
+            "Business Partner",
+            "Customer",
+            "Rival"
+        ],
+        [
+            "Chen Meier",
+            "Business Partner",
+            "Co-conspirators",
+            "Accomplices"
+        ],
+        [
+            "Li Cheng",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Zhao San",
+            "Business Partner",
+            "Co-conspirator"
+        ]
+    ],
+    "Li Cheng": [
+        [
+            "Zhao ZHONGYANG",
+            "Master-Servant Relationship",
+            "Employer-Employee Relationship",
+            "Superior-Subordinate Relationship",
+            "Protector-Protectee Relationship",
+            "Friendship"
+        ],
+        [
+            "Zhao ZHONGZHENG",
+            "acquaintance, business partner, customer"
+        ],
+        [
+            "Chen Meier",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Zhao San",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Ma Laoban",
+            "Friend",
+            "Business Partner"
+        ]
+    ]
+}

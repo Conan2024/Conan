@@ -1,0 +1,532 @@
+{
+    "Hai You": [
+        [
+            "Wei Yangfeng",
+            "Father of Hai You",
+            "Deceased"
+        ],
+        [
+            "Zhou Shi",
+            "Mother of X",
+            "Raised by X"
+        ],
+        [
+            "Wei Yangyao",
+            "adopted daughter",
+            "cousin"
+        ],
+        [
+            "Lv Caiqian",
+            "adopted daughter, cousin"
+        ],
+        [
+            "Mrs. Tan",
+            "adopted daughter, friend"
+        ],
+        [
+            "Tan Renchang",
+            "adopted daughter",
+            "friend"
+        ],
+        [
+            "Shang Zhi",
+            "adopted sister, friend"
+        ],
+        [
+            "Lv Mingran",
+            "adopted daughter, friend"
+        ],
+        [
+            "A Ping",
+            "adopted daughter, caretaker"
+        ],
+        [
+            "Cheng Ge",
+            "adopted daughter, caretaker"
+        ]
+    ],
+    "Wei Yangfeng": [
+        [
+            "Hai You",
+            "Daughter of Wei Yangfeng",
+            "Deceased"
+        ],
+        [
+            "Zhou Shi",
+            "Mother of X"
+        ],
+        [
+            "Wei Yangyao",
+            "Father of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Lv Caiqian",
+            "Mother of X",
+            "Raised X"
+        ],
+        [
+            "Mrs. Tan",
+            "adoptive mother",
+            "guardian"
+        ],
+        [
+            "Tan Renchang",
+            "Father of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Shang Zhi",
+            "father-in-law",
+            "adoptive father"
+        ],
+        [
+            "Lv Mingran",
+            "father-son, adoptive father-son"
+        ],
+        [
+            "A Ping",
+            "Father of X",
+            "Mother of X"
+        ],
+        [
+            "Cheng Ge",
+            "Father of X",
+            "Mother of X"
+        ]
+    ],
+    "Zhou Shi": [
+        [
+            "Hai You",
+            "Child of X",
+            "Raised by X"
+        ],
+        [
+            "Wei Yangfeng",
+            "Father of X"
+        ],
+        [
+            "Wei Yangyao",
+            "Mother of",
+            "Raised by"
+        ],
+        [
+            "Lv Caiqian",
+            "Mother of X",
+            "Raised Hai You Independently"
+        ],
+        [
+            "Mrs. Tan",
+            "adopted daughter, friend"
+        ],
+        [
+            "Tan Renchang",
+            "Mother-in-law",
+            "Adopted daughter"
+        ],
+        [
+            "Shang Zhi",
+            "Mother-like figure, Adoptive mother"
+        ],
+        [
+            "Lv Mingran",
+            "Mother of X",
+            "Raised X"
+        ],
+        [
+            "A Ping",
+            "Mother of X",
+            "Raised by X"
+        ],
+        [
+            "Cheng Ge",
+            "Mother of X",
+            "Wife of X"
+        ]
+    ],
+    "Wei Yangyao": [
+        [
+            "Hai You",
+            "adoptive mother",
+            "cousin"
+        ],
+        [
+            "Wei Yangfeng",
+            "Son of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Zhou Shi",
+            "Cousin of",
+            "Adoptive mother of"
+        ],
+        [
+            "Lv Caiqian",
+            "Mother-in-law",
+            "Adoptive mother"
+        ],
+        [
+            "Mrs. Tan",
+            "adopted daughter",
+            "close friend"
+        ],
+        [
+            "Tan Renchang",
+            "adopted daughter",
+            "lived next door"
+        ],
+        [
+            "Shang Zhi",
+            "adoptive mother, adoptive brother"
+        ],
+        [
+            "Lv Mingran",
+            "adopted daughter, cousin"
+        ],
+        [
+            "A Ping",
+            "Mother-in-law",
+            "Adoptive mother"
+        ],
+        [
+            "Cheng Ge",
+            "adoptive mother",
+            "guardian"
+        ]
+    ],
+    "Lv Caiqian": [
+        [
+            "Hai You",
+            "cousin, adoptive mother"
+        ],
+        [
+            "Wei Yangfeng",
+            "Wife of X",
+            "Cousin of X"
+        ],
+        [
+            "Zhou Shi",
+            "Sister of X",
+            "Did not like Hai You"
+        ],
+        [
+            "Wei Yangyao",
+            "Daughter-in-law",
+            "Adoptive daughter"
+        ],
+        [
+            "Mrs. Tan",
+            "adopted daughter, friend"
+        ],
+        [
+            "Tan Renchang",
+            "Wife of X",
+            "Stranger to X"
+        ],
+        [
+            "Shang Zhi",
+            "Wife of X",
+            "Sister of X"
+        ],
+        [
+            "Lv Mingran",
+            "sibling, cousin"
+        ],
+        [
+            "A Ping",
+            "Mother of X",
+            "Cousin of X"
+        ],
+        [
+            "Cheng Ge",
+            "Mother-in-law/Daughter-in-law, Caregiver/Dependent"
+        ]
+    ],
+    "Mrs. Tan": [
+        [
+            "Hai You",
+            "adopted mother, friend"
+        ],
+        [
+            "Wei Yangfeng",
+            "adoptive daughter",
+            "ward"
+        ],
+        [
+            "Zhou Shi",
+            "adoptive mother, friend"
+        ],
+        [
+            "Wei Yangyao",
+            "adoptive mother",
+            "close friend"
+        ],
+        [
+            "Lv Caiqian",
+            "adoptive mother, friend"
+        ],
+        [
+            "Tan Renchang",
+            "adoptive mother",
+            "wife"
+        ],
+        [
+            "Shang Zhi",
+            "adoptive mother, mentor"
+        ],
+        [
+            "Lv Mingran",
+            "Adopted Mother, Benefactor"
+        ],
+        [
+            "A Ping",
+            "adoptive mother, mentor"
+        ],
+        [
+            "Cheng Ge",
+            "adoptive mother, mentor"
+        ]
+    ],
+    "Tan Renchang": [
+        [
+            "Hai You",
+            "adoptive father",
+            "friend"
+        ],
+        [
+            "Wei Yangfeng",
+            "Son of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Zhou Shi",
+            "Husband",
+            "Adoptive father"
+        ],
+        [
+            "Wei Yangyao",
+            "adoptive father",
+            "lived next door"
+        ],
+        [
+            "Lv Caiqian",
+            "Husband of X",
+            "Stranger to X"
+        ],
+        [
+            "Mrs. Tan",
+            "husband",
+            "father figure"
+        ],
+        [
+            "Shang Zhi",
+            "Husband of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Lv Mingran",
+            "Husband of X",
+            "Stranger to X"
+        ],
+        [
+            "A Ping",
+            "Husband of X",
+            "Father of X",
+            "Master of X",
+            "Employer of X"
+        ],
+        [
+            "Cheng Ge",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Shang Zhi": [
+        [
+            "Hai You",
+            "adopted brother, friend"
+        ],
+        [
+            "Wei Yangfeng",
+            "son-in-law",
+            "adopted son"
+        ],
+        [
+            "Zhou Shi",
+            "Adoptive brother, Son-like figure"
+        ],
+        [
+            "Wei Yangyao",
+            "adoptive brother, adoptive son"
+        ],
+        [
+            "Lv Caiqian",
+            "Husband of X",
+            "Brother of X"
+        ],
+        [
+            "Mrs. Tan",
+            "adoptive brother, student"
+        ],
+        [
+            "Tan Renchang",
+            "Nephew of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Lv Mingran",
+            "brother-in-law, adoptive brother"
+        ],
+        [
+            "A Ping",
+            "adoptive brother, friend"
+        ],
+        [
+            "Cheng Ge",
+            "adoptive brother, friend"
+        ]
+    ],
+    "Lv Mingran": [
+        [
+            "Hai You",
+            "adoptive mother, friend"
+        ],
+        [
+            "Wei Yangfeng",
+            "son, adoptive son"
+        ],
+        [
+            "Zhou Shi",
+            "Son of X",
+            "Inherited business from X"
+        ],
+        [
+            "Wei Yangyao",
+            "adopted daughter, cousin"
+        ],
+        [
+            "Lv Caiqian",
+            "sibling, cousin"
+        ],
+        [
+            "Mrs. Tan",
+            "Adoptive Daughter, Protege"
+        ],
+        [
+            "Tan Renchang",
+            "Wife of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Shang Zhi",
+            "brother-in-law, adoptive brother"
+        ],
+        [
+            "A Ping",
+            "Cousin, Adoptive Mother"
+        ],
+        [
+            "Cheng Ge",
+            "Husband of X",
+            "Stranger to X"
+        ]
+    ],
+    "A Ping": [
+        [
+            "Hai You",
+            "adoptive mother, benefactor"
+        ],
+        [
+            "Wei Yangfeng",
+            "Son of X",
+            "Brother of X"
+        ],
+        [
+            "Zhou Shi",
+            "Daughter of X",
+            "Raised by X"
+        ],
+        [
+            "Wei Yangyao",
+            "Husband",
+            "Father-in-law"
+        ],
+        [
+            "Lv Caiqian",
+            "Daughter of X",
+            "Niece of X"
+        ],
+        [
+            "Mrs. Tan",
+            "adoptive daughter, mentee"
+        ],
+        [
+            "Tan Renchang",
+            "Wife of X",
+            "Mother of X",
+            "Superior of X",
+            "Employee of X"
+        ],
+        [
+            "Shang Zhi",
+            "adoptive brother, friend"
+        ],
+        [
+            "Lv Mingran",
+            "Cousin, Adoptive Daughter"
+        ],
+        [
+            "Cheng Ge",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Cheng Ge": [
+        [
+            "Hai You",
+            "adoptive mother, benefactor"
+        ],
+        [
+            "Wei Yangfeng",
+            "Son of X",
+            "Brother of X"
+        ],
+        [
+            "Zhou Shi",
+            "Father of X",
+            "Husband of X"
+        ],
+        [
+            "Wei Yangyao",
+            "adoptive daughter",
+            "ward"
+        ],
+        [
+            "Lv Caiqian",
+            "Mother-in-law/Daughter-in-law, Caregiver/Dependent"
+        ],
+        [
+            "Mrs. Tan",
+            "adoptive daughter, mentee"
+        ],
+        [
+            "Tan Renchang",
+            "Wife of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Shang Zhi",
+            "adoptive brother, friend"
+        ],
+        [
+            "Lv Mingran",
+            "Wife of X",
+            "Stranger to X"
+        ],
+        [
+            "A Ping",
+            "Wife of X",
+            "Husband of X"
+        ]
+    ]
+}

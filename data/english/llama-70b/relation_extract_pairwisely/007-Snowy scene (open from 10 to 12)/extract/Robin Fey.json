@@ -1,0 +1,480 @@
+{
+    "Robin Fey": [
+        [
+            "Perry",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Daniel",
+            "Friend",
+            "Colleague",
+            "Acquaintance"
+        ],
+        [
+            "Marina",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Jacqueline",
+            "acquaintance",
+            "suspicious",
+            "witness",
+            "potential ally",
+            "potential rival"
+        ],
+        [
+            "Harold",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Jonathan",
+            "Friend",
+            "Suspect"
+        ],
+        [
+            "Lucy Harrison",
+            "Friend",
+            "Mentor"
+        ],
+        [
+            "Amy Morgan",
+            "Friend",
+            "Fellow Musician"
+        ],
+        [
+            "Max",
+            "Friend",
+            "Fellow Musician"
+        ]
+    ],
+    "Perry": [
+        [
+            "Robin Fey",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Daniel",
+            "Friend",
+            "Investigation Subject"
+        ],
+        [
+            "Marina",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Jacqueline",
+            "Friend",
+            "Adversary"
+        ],
+        [
+            "Harold",
+            "Friend",
+            "Adversary"
+        ],
+        [
+            "Jonathan",
+            "Friend",
+            "Investigation Subject"
+        ],
+        [
+            "Lucy Harrison",
+            "Friend",
+            "Mentor"
+        ],
+        [
+            "Amy Morgan",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Max",
+            "Friend",
+            "Colleague"
+        ]
+    ],
+    "Daniel": [
+        [
+            "Robin Fey",
+            "Friend",
+            "Colleague",
+            "Acquaintance"
+        ],
+        [
+            "Perry",
+            "Friend",
+            "Romantic Interest"
+        ],
+        [
+            "Marina",
+            "friend",
+            "confidant"
+        ],
+        [
+            "Jacqueline",
+            "Friend",
+            "Investigation Target"
+        ],
+        [
+            "Harold",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Jonathan",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Lucy Harrison",
+            "Friend",
+            "Mentor"
+        ],
+        [
+            "Amy Morgan",
+            "Friend",
+            "Fellow Musician"
+        ],
+        [
+            "Max",
+            "Friend",
+            "Investigation Subject"
+        ]
+    ],
+    "Marina": [
+        [
+            "Robin Fey",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Perry",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Daniel",
+            "friend",
+            "object of affection"
+        ],
+        [
+            "Jacqueline",
+            "Rival",
+            "Adversary"
+        ],
+        [
+            "Harold",
+            "Wife of X",
+            "Extramarital Affair with X",
+            "Romantic relationships with X",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "Jonathan",
+            "Husband of X",
+            "Extramarital Affair with X"
+        ],
+        [
+            "Lucy Harrison",
+            "Mother of X",
+            "Sibling of X"
+        ],
+        [
+            "Amy Morgan",
+            "Wife of X (different identity)",
+            "Co-wives of X"
+        ],
+        [
+            "Max",
+            "Husband of X",
+            "Ex-romantic relationships with X",
+            "Co-wives of X"
+        ]
+    ],
+    "Jacqueline": [
+        [
+            "Robin Fey",
+            "acquaintance",
+            "suspicious",
+            "witness",
+            "potential ally",
+            "potential rival"
+        ],
+        [
+            "Perry",
+            "Friend",
+            "Adversary"
+        ],
+        [
+            "Daniel",
+            "Friend",
+            "Suspect"
+        ],
+        [
+            "Marina",
+            "Rival",
+            "Adversary"
+        ],
+        [
+            "Harold",
+            "Wife of X",
+            "Extramarital Affair with X",
+            "Romantic relationships with X",
+            "co-wives of X"
+        ],
+        [
+            "Jonathan",
+            "Sister-in-law",
+            "Adversary"
+        ],
+        [
+            "Lucy Harrison",
+            "Rival, Suspect"
+        ],
+        [
+            "Amy Morgan",
+            "Rival of X",
+            "Enemy of X"
+        ],
+        [
+            "Max",
+            "Rival of X",
+            "Adversary of X"
+        ]
+    ],
+    "Harold": [
+        [
+            "Robin Fey",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Perry",
+            "Friend",
+            "Adversary"
+        ],
+        [
+            "Daniel",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Marina",
+            "Husband of X",
+            "Extramarital Affair with X",
+            "Romantic relationships with X",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "Jacqueline",
+            "Husband of X",
+            "Extramarital Affair with X",
+            "Romantic relationships with X",
+            "co-wives of X"
+        ],
+        [
+            "Jonathan",
+            "father-son, suspect-accomplice"
+        ],
+        [
+            "Lucy Harrison",
+            "Father of X",
+            "Child of X"
+        ],
+        [
+            "Amy Morgan",
+            "Husband of X",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "Max",
+            "Husband of Marina",
+            "Father of Lucy"
+        ]
+    ],
+    "Jonathan": [
+        [
+            "Robin Fey",
+            "Friend",
+            "Suspect"
+        ],
+        [
+            "Perry",
+            "Friend",
+            "Suspect"
+        ],
+        [
+            "Daniel",
+            "Son",
+            "Friend"
+        ],
+        [
+            "Marina",
+            "Same person as X (different reference)",
+            "Son of X"
+        ],
+        [
+            "Jacqueline",
+            "Brother-in-law",
+            "Suspect"
+        ],
+        [
+            "Harold",
+            "father-son, suspect-accomplice"
+        ],
+        [
+            "Lucy Harrison",
+            "Son of X",
+            "Dislike of X"
+        ],
+        [
+            "Amy Morgan",
+            "Son of X",
+            "Dislike of X"
+        ],
+        [
+            "Max",
+            "Son of X",
+            "Stranger to X"
+        ]
+    ],
+    "Lucy Harrison": [
+        [
+            "Robin Fey",
+            "Friend",
+            "Mentee"
+        ],
+        [
+            "Perry",
+            "Friend",
+            "Mentee"
+        ],
+        [
+            "Daniel",
+            "Friend",
+            "Mentee"
+        ],
+        [
+            "Marina",
+            "Daughter of X",
+            "Sister of X"
+        ],
+        [
+            "Jacqueline",
+            "Rival, Suspect"
+        ],
+        [
+            "Harold",
+            "Daughter of X",
+            "Sibling of X"
+        ],
+        [
+            "Jonathan",
+            "Daughter of X",
+            "Disliked by X"
+        ],
+        [
+            "Amy Morgan",
+            "Friend"
+        ],
+        [
+            "Max",
+            "Friend"
+        ]
+    ],
+    "Amy Morgan": [
+        [
+            "Robin Fey",
+            "Friend",
+            "Fellow Musician"
+        ],
+        [
+            "Perry",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Daniel",
+            "Friend",
+            "Fellow Musician"
+        ],
+        [
+            "Marina",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Jacqueline",
+            "Rival of X",
+            "Enemy of X"
+        ],
+        [
+            "Harold",
+            "Wife of X",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "Jonathan",
+            "Wife of X",
+            "Suspicious of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Friend"
+        ],
+        [
+            "Max",
+            "Friend"
+        ]
+    ],
+    "Max": [
+        [
+            "Robin Fey",
+            "Friend",
+            "Fellow Musician"
+        ],
+        [
+            "Perry",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Daniel",
+            "Friend",
+            "Investigation Subject"
+        ],
+        [
+            "Marina",
+            "Husband of X",
+            "Ex-romantic relationships with X",
+            "Co-wives of X"
+        ],
+        [
+            "Jacqueline",
+            "Rival of X",
+            "Adversary of X"
+        ],
+        [
+            "Harold",
+            "Brother-in-law of Marina",
+            "Uncle of Lucy"
+        ],
+        [
+            "Jonathan",
+            "Father of X",
+            "Husband of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Friend"
+        ],
+        [
+            "Amy Morgan",
+            "Friend"
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "Shen Wusheng": [
+      ["Yang Shuixun", "friend of x, acquaintance of x"], 
+      ["Minxi", "lover of x, friend of x"], 
+      ["Gu Chumeng", "acquaintance of x, rival of x"], 
+      ["Lan Rui", "friend of x, classmate of x"], 
+      ["Xiting", "friend of x, informant of x"], 
+      ["Mu Boxuan", "nephew of x"]
+    ],
+    "Yang Shuixun": [
+      ["Shen Wusheng", "friend of x, acquaintance of x"], 
+      ["Minxi", "daughter of x, friend of x"], 
+      ["Gu Chumeng", "acquaintance of x, rival of x"], 
+      ["Lan Rui", "friend of x, classmate of x"], 
+      ["Xiting", "friend of x, informant of x"], 
+      ["Mu Boxuan", "nephew of x"]
+    ],
+    "Minxi": [
+      ["Shen Wusheng", "lover of x, friend of x"], 
+      ["Yang Shuixun", "father of x, acquaintance of x"], 
+      ["Gu Chumeng", "acquaintance of x, classmate of x"], 
+      ["Lan Rui", "friend of x, classmate of x"], 
+      ["Xiting", "friend of x, informant of x"], 
+      ["Mu Boxuan", "nephew of x"]
+    ],
+    "Gu Chumeng": [
+      ["Shen Wusheng", "acquaintance of x, rival of x"], 
+      ["Yang Shuixun", "acquaintance of x, rival of x"], 
+      ["Minxi", "acquaintance of x, classmate of x"], 
+      ["Lan Rui", "friend of x, classmate of x"], 
+      ["Xiting", "friend of x, informant of x"], 
+      ["Mu Boxuan", "nephew of x"]
+    ],
+    "Lan Rui": [
+      ["Shen Wusheng", "friend of x, classmate of x"], 
+      ["Yang Shuixun", "friend of x, acquaintance of x"], 
+      ["Minxi", "friend of x, classmate of x"], 
+      ["Gu Chumeng", "friend of x, classmate of x"], 
+      ["Xiting", "friend of x, informant of x"], 
+      ["Mu Boxuan", "nephew of x"]
+    ],
+    "Xiting": [
+      ["Shen Wusheng", "friend of x, informant of x"], 
+      ["Yang Shuixun", "friend of x, acquaintance of x"], 
+      ["Minxi", "friend of x, informant of x"], 
+      ["Gu Chumeng", "friend of x, informant of x"], 
+      ["Lan Rui", "friend of x, classmate of x"], 
+      ["Mu Boxuan", "nephew of x"]
+    ],
+    "Mu Boxuan": [
+      ["Shen Wusheng", "nephew of x"], 
+      ["Yang Shuixun", "nephew of x"], 
+      ["Minxi", "nephew of x"], 
+      ["Gu Chumeng", "nephew of x"], 
+      ["Lan Rui", "nephew of x"], 
+      ["Xiting", "nephew of x"]
+    ]
+}

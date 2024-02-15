@@ -1,0 +1,22 @@
+{
+    "Tony Bijeli": [
+      ["Frank Carmen", "brother of x, savior of x"], 
+      ["Father Tom", "admirer of x, hope for healing of x"]
+    ],
+    "Frank Carmen": [
+      ["Tony Bijeli", "brother of x, friend of x"], 
+      ["James Riley", "godfather of x, mentor of x"]
+    ],
+    "Father Tom": [
+      ["Tony Bijeli", "hostage of x, possible savior of x"], 
+      ["Nurses", "acquaintance of x"]
+    ],
+    "Nurses": [
+      ["Tony Bijeli", "hostage of x"], 
+      ["Hospital staff", "colleague of x"]
+    ],
+    "Hospital staff": [
+      ["Tony Bijeli", "hostage of x"], 
+      ["Father Tom", "acquaintance of x"]
+    ]
+}

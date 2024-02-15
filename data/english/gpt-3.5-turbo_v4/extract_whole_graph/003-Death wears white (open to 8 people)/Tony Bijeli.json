@@ -1,0 +1,22 @@
+{
+    "Tony Bijeli": [
+      ["Frank Bijeli", "brother of x"], 
+      ["Frank Bijeli", "friend of x"], 
+      ["Father Tom", "admired by x"], 
+      ["Nurses", "possibly family of x"]
+    ],
+    "Frank Bijeli": [
+      ["Tony Bijeli", "brother of x"], 
+      ["Tony Bijeli", "friend of x"], 
+      ["Father Tom", "helper of x"], 
+      ["Nurses", "possibly family of x"]
+    ],
+    "Father Tom": [
+      ["Tony Bijeli", "admired by x"], 
+      ["Frank Bijeli", "helper of x"]
+    ],
+    "Nurses": [
+      ["Tony Bijeli", "possibly family of x"], 
+      ["Frank Bijeli", "possibly family of x"]
+    ]
+}

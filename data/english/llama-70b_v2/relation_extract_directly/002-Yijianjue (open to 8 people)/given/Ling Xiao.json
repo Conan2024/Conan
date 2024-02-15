@@ -1,0 +1,19 @@
+{
+    "Eldest Senior Brother": [
+      ["Ling Xiao", "same person as x (different reference)"], 
+      ["Feng", "acquaintance of x"]
+    ],
+    "Feng": [
+      ["Ling Xiao", "friend of x"], 
+      ["Master", "informant of x"]
+    ],
+    "Ling Xiao": [
+      ["Eldest Senior Brother", "same person as x (different reference)"], 
+      ["Feng", "friend of x"], 
+      ["Master", "student of x, perpetrator of x"]
+    ],
+    "Master": [
+      ["Ling Xiao", "teacher of x, victim of x"], 
+      ["Eldest Senior Brother", "same person as x (different reference)"]
+    ]
+}

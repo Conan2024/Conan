@@ -1,0 +1,60 @@
+{
+    "Hong Jiangshui": [
+      ["Hong Zhaizhu", "father of x"], 
+      ["Meng Sanchun", "business partner of x"], 
+      ["ZHANG JINYIN", "business partner of x"], 
+      ["Cai Siniang", "romantic relationships with x, dislike of x"], 
+      ["Meng Sanchun", "attempted perpetrator of x, victim of x"], 
+      ["Cai Siniang", "suspected by x"], 
+      ["Cai Siniang", "helper of x"], 
+      ["Meng Sanchun", "attempted murderer of x"], 
+      ["Meng Sanchun", "killed by x"]
+    ],
+    "Hong Zhaizhu": [
+      ["Hong Jiangshui", "father of x"], 
+      ["Meng Sanchun", "perpetrator of x's family"], 
+      ["ZHANG JINYIN", "perpetrator of x's family"], 
+      ["ZHANG HONGSHENG", "perpetrator of x's family"], 
+      ["Cai Siniang", "perpetrator of x's family"]
+    ],
+    "Meng Sanchun": [
+      ["Hong Jiangshui", "business partner of x"], 
+      ["Cai Siniang", "business partner of x"], 
+      ["ZHANG JINYIN", "business partner of x"], 
+      ["ZHANG HONGSHENG", "business partner of x"], 
+      ["Hong Jiangshui", "attempted perpetrator of x"], 
+      ["Hong Jiangshui", "attempted murderer of x"], 
+      ["Hong Jiangshui", "disliked by x"], 
+      ["Hong Jiangshui", "killed by x"], 
+      ["Cai Siniang", "attempted perpetrator of x"], 
+      ["Hong Jiangshui", "helper of x"]
+    ],
+    "ZHANG JINYIN": [
+      ["Meng Sanchun", "business partner of x"], 
+      ["ZHANG HONGSHENG", "business partner of x"], 
+      ["Cai Siniang", "business partner of x"], 
+      ["Hong Jiangshui", "business partner of x"], 
+      ["Meng Sanchun", "attempted perpetrator of x"], 
+      ["Cai Siniang", "attempted perpetrator of x"]
+    ],
+    "ZHANG HONGSHENG": [
+      ["Meng Sanchun", "business partner of x"], 
+      ["ZHANG JINYIN", "business partner of x"], 
+      ["Cai Siniang", "business partner of x"], 
+      ["Cai Siniang", "admired by x"], 
+      ["Hong Jiangshui", "helper of x"]
+    ],
+    "Cai Siniang": [
+      ["Hong Jiangshui", "romantic relationships with x, disliked by x"], 
+      ["Meng Sanchun", "business partner of x"], 
+      ["ZHANG JINYIN", "business partner of x"], 
+      ["ZHANG HONGSHENG", "business partner of x"], 
+      ["Hong Jiangshui", "suspected by x"], 
+      ["Hong Jiangshui", "helper of x"], 
+      ["Hong Zhaizhu", "deceiver of x"], 
+      ["Meng Sanchun", "perpetrator of x's family"], 
+      ["ZHANG JINYIN", "perpetrator of x's family"], 
+      ["ZHANG HONGSHENG", "perpetrator of x's family"], 
+      ["Cai Siniang", "perpetrator of x's family"]
+    ]
+}

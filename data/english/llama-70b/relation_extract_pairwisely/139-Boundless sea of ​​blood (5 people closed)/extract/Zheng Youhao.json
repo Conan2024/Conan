@@ -1,0 +1,120 @@
+{
+    "Zheng Youhao": [
+        [
+            "Qin Laoda",
+            "friend, savior, classmate"
+        ]
+    ],
+    "Qin Laoda": [
+        [
+            "Zheng Youhao",
+            "friend, savior, classmate"
+        ],
+        [
+            "Jia Meili",
+            "Friend, Classmate"
+        ],
+        [
+            "Wei Xiaodi",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Qin Expert",
+            "Acquaintance",
+            "Classmate"
+        ],
+        [
+            "Mother",
+            "Friend",
+            "Classmate"
+        ]
+    ],
+    "Jia Meili": [
+        [
+            "Qin Laoda",
+            "Friend, Classmate"
+        ],
+        [
+            "Wei Xiaodi",
+            "Friend of X",
+            "Classmate of X"
+        ],
+        [
+            "Qin Expert",
+            "Acquaintance",
+            "Classmate"
+        ],
+        [
+            "Mother",
+            "Wife of X",
+            "Sister of X",
+            "Daughter of X"
+        ]
+    ],
+    "Wei Xiaodi": [
+        [
+            "Qin Laoda",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Jia Meili",
+            "Friend of X",
+            "Classmate of X"
+        ],
+        [
+            "Qin Expert",
+            "Friend of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Mother",
+            "Sibling of X",
+            "Friend of X"
+        ]
+    ],
+    "Qin Expert": [
+        [
+            "Qin Laoda",
+            "Father",
+            "Murderer"
+        ],
+        [
+            "Jia Meili",
+            "Acquaintance",
+            "Classmate"
+        ],
+        [
+            "Wei Xiaodi",
+            "Father of X",
+            "Mentor of X"
+        ],
+        [
+            "Mother",
+            "Wife of X",
+            "Victim of X"
+        ]
+    ],
+    "Mother": [
+        [
+            "Qin Laoda",
+            "Son",
+            "Victim"
+        ],
+        [
+            "Jia Meili",
+            "Wife of X",
+            "Sister of X",
+            "Daughter of X"
+        ],
+        [
+            "Wei Xiaodi",
+            "Son of X",
+            "Brother of X"
+        ],
+        [
+            "Qin Expert",
+            "Husband of X",
+            "Killed by X"
+        ]
+    ]
+}

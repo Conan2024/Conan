@@ -1,0 +1,50 @@
+{
+    "Zhang Wenyuan": [
+      ["Liu Qi", "subordinate of x"], 
+      ["Hong Zilian", "work subordinate of x hong zilian"], 
+      ["Xiu Renjie", "friend of x"], 
+      ["Lin Ruotong", "ex colleague of x"], 
+      ["Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)", "employee of x"]
+    ],
+    "Liu Qi": [
+      ["Zhang Wenyuan", "leader of x"], 
+      ["Hong Zilian", "ex romantic relationships with x"], 
+      ["Xiu Renjie", "co worker of xiu renjie"], 
+      ["Lin Ruotong", "ex romantic relationships with x, friend of x"], 
+      ["Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)", "adversary of x"]
+    ],
+    "Hong Zilian": [
+      ["Zhang Wenyuan", "superior of x zhang wenyuan"], 
+      ["Liu Qi", "rival of x"], 
+      ["Xiu Renjie", "colleague of x"], 
+      ["Lin Ruotong", "acquaintance of x"], 
+      ["Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)", "co worker of x"]
+    ],
+    "Xiu Renjie": [
+      ["Zhang Wenyuan", "friend of x"], 
+      ["Liu Qi", "co worker of x liu qi"], 
+      ["Hong Zilian", "colleague of x"], 
+      ["Lin Ruotong", "acquaintance of xiu renjie"], 
+      ["Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)", "romantic relationships with x"]
+    ],
+    "Lin Ruotong": [
+      ["Zhang Wenyuan", "ex colleague of x"], 
+      ["Liu Qi", "ex romantic relationships with x, friend of x"], 
+      ["Hong Zilian", "acquaintance of x"], 
+      ["Han Yimu", "acquaintance of x"], 
+      ["Xiu Renjie", "acquaintance of x lin ruotong"], 
+      ["Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)", "acquaintance of x"]
+    ],
+    "Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)": [
+      ["Zhang Wenyuan", "employer of x"], 
+      ["Liu Qi", "hate of x"], 
+      ["Hong Zilian", "colleague of x"], 
+      ["Han Yimu", "acquaintance of x"], 
+      ["Xiu Renjie", "romantic relationships with x"], 
+      ["Lin Ruotong", "acquaintance of x"]
+    ],
+    "Han Yimu": [
+      ["Lin Ruotong", "acquaintance of x"], 
+      ["Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)", "friend of x"]
+    ]
+}

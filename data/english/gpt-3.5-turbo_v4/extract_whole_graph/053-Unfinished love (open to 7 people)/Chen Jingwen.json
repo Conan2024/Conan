@@ -1,0 +1,27 @@
+{
+    "Chen Jingwen": [
+      ["Gu Yu", "romantic relationships with x, mother of x"], 
+      ["Lin Xi", "rival in love of x"], 
+      ["Gu Ming", "victim of x"], 
+      ["Gu Yu", "father in law of x"], 
+      ["Zheng Xinmei", "child of x"]
+    ],
+    "Gu Yu": [
+      ["Chen Jingwen", "romantic relationships with x, father of x"], 
+      ["Lin Xi", "lover of x"], 
+      ["Gu Ming", "son of x"]
+    ],
+    "Lin Xi": [
+      ["Gu Yu", "lover of x"]
+    ],
+    "Gu Ming": [
+      ["Chen Jingwen", "perpetrator of x"], 
+      ["Gu Yu", "son of x"]
+    ],
+    "Zheng Xinmei": [
+      ["Chen Jingwen", "mother of x"]
+    ],
+    "Shen Cheng": [
+      ["Chen Jingwen", "acquaintance of x"]
+    ]
+}

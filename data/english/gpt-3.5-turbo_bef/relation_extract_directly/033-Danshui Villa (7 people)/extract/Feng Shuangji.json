@@ -1,0 +1,49 @@
+{
+    "Feng Shuangji": [
+      ["Master Ren", "mentor of x"], 
+      ["Li Yu", "fondness of x, extramarital affair with x, romantic relationships with x"], 
+      ["Zhao Wanlei", "co wives of x, business partner of x, helper of x, helped by x, employer of x, debtor of x"], 
+      ["Zhao Wei", "nephew of x"], 
+      ["Zhao Luoyi", "child of x, teacher of x"], 
+      ["Feng Zhu", "child of x"], 
+      ["Guo Wangshan", "business partner of x"], 
+      ["Song Qun", "employee of x"]
+    ],
+    "Master Ren": [
+      ["Feng Shuangji", "student of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Feng Shuangji", "co wives of x, business partner of x, employer of x, creditor of x, debtor of x"], 
+      ["Li Yu", "co wives of x, husband of x, romantic relationships with x"], 
+      ["Zhao Wei", "son of x"], 
+      ["Zhao Luoyi", "daughter of x"], 
+      ["Qi Yue", "employer of x"], 
+      ["Guo Wangshan", "business partner of x"]
+    ],
+    "Li Yu": [
+      ["Feng Shuangji", "fondness of x, extramarital affair with x, romantic relationships with x"], 
+      ["Zhao Wanlei", "co wives of x, wife of x, romantic relationships with x"], 
+      ["Zhao Wei", "son of x"], 
+      ["Zhao Luoyi", "daughter of x"]
+    ],
+    "Zhao Wei": [
+      ["Feng Shuangji", "nephew of x"], 
+      ["Zhao Wanlei", "son of x"], 
+      ["Zhao Luoyi", "sibling of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Feng Shuangji", "child of x, student of x"], 
+      ["Zhao Wanlei", "child of x"], 
+      ["Zhao Wei", "sibling of x"]
+    ],
+    "Feng Zhu": [
+      ["Feng Shuangji", "child of x"]
+    ],
+    "Guo Wangshan": [
+      ["Feng Shuangji", "business partner of x"], 
+      ["Zhao Wanlei", "business partner of x"]
+    ],
+    "Song Qun": [
+      ["Feng Shuangji", "employee of x"]
+    ]
+}

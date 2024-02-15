@@ -1,0 +1,62 @@
+{
+    "Li Gaobai": [
+      ["Falcon", "friend of x, classmate of x"], 
+      ["Ruya", "friend of x, acquaintance of x"], 
+      ["Gui Yin", "acquaintance of x, suspicious of x"], 
+      ["Ba Mansion Mountain", "employer of x, acquaintance of x"], 
+      ["Daughter of Ba Mansion Mountain", "acquaintance of x"], 
+      ["Professor Zhou", "friend of x, mentor of x"], 
+      ["Li Demu", "brother of x"], 
+      ["Li Liangsong", "brother of x"], 
+      ["Gan Ma", "acquaintance of x"]
+    ],
+    "Falcon": [
+      ["Li Gaobai", "friend of x, classmate of x"], 
+      ["Ruya", "friend of x, acquaintance of x"], 
+      ["Ba Mansion Mountain", "father of x, employer of x"], 
+      ["Daughter of Ba Mansion Mountain", "sister of x"], 
+      ["Gui Yin", "friend of x, acquaintance of x"]
+    ],
+    "Ruya": [
+      ["Li Gaobai", "friend of x, acquaintance of x"], 
+      ["Falcon", "friend of x, acquaintance of x"], 
+      ["Gui Yin", "sister of x, acquaintance of x"], 
+      ["Ba Mansion Mountain", "father of x, employer of x"]
+    ],
+    "Gui Yin": [
+      ["Li Gaobai", "acquaintance of x, suspicious of x"], 
+      ["Falcon", "friend of x, acquaintance of x"], 
+      ["Ruya", "sister of x, acquaintance of x"], 
+      ["Ba Mansion Mountain", "father of x, employer of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Li Gaobai", "employer of x, acquaintance of x"], 
+      ["Falcon", "son of x, employer of x"], 
+      ["Daughter of Ba Mansion Mountain", "daughter of x, employer of x"], 
+      ["Gui Yin", "son in law of x, acquaintance of x"]
+    ],
+    "Daughter of Ba Mansion Mountain": [
+      ["Li Gaobai", "acquaintance of x"], 
+      ["Falcon", "brother of x, employer of x"], 
+      ["Gui Yin", "acquaintance of x"], 
+      ["Ba Mansion Mountain", "father of x, employer of x"]
+    ],
+    "Professor Zhou": [
+      ["Li Gaobai", "friend of x, mentor of x"], 
+      ["Falcon", "acquaintance of x"], 
+      ["Ruya", "acquaintance of x"], 
+      ["Gui Yin", "acquaintance of x"]
+    ],
+    "Li Demu": [
+      ["Li Gaobai", "brother of x"], 
+      ["Li Liangsong", "brother of x"]
+    ],
+    "Li Liangsong": [
+      ["Li Gaobai", "brother of x"], 
+      ["Li Demu", "brother of x"]
+    ],
+    "Gan Ma": [
+      ["Li Gaobai", "acquaintance of x"], 
+      ["Gui Yin", "sister of x, acquaintance of x"]
+    ]
+}

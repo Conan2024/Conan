@@ -1,0 +1,420 @@
+{
+    "Li Zhong": [
+        [
+            "Li Qinren",
+            "son, twin brother"
+        ],
+        [
+            "Madam Li",
+            "Mother, Son"
+        ],
+        [
+            "Chen Qian",
+            "Brother-in-law",
+            "Son-in-law"
+        ],
+        [
+            "Li Yan",
+            "brother, twin brother"
+        ],
+        [
+            "Chen Zijing",
+            "father-in-law",
+            "business partner",
+            "friend"
+        ],
+        [
+            "Master Chen",
+            "Father-in-law",
+            "Mentor"
+        ],
+        [
+            "Li Family",
+            "Son of Li Family",
+            "Brother of Li Yan",
+            "Husband of Chen Qian"
+        ]
+    ],
+    "Li Qinren": [
+        [
+            "Li Zhong",
+            "father, twin brother"
+        ],
+        [
+            "Madam Li",
+            "Father of X",
+            "Master of X"
+        ],
+        [
+            "Chen Qian",
+            "Father-in-law",
+            "Father of the bride"
+        ],
+        [
+            "Li Yan",
+            "Son of Li Qinren",
+            "Brother of Li Yan",
+            "Same person as Li Yan (different reference)"
+        ],
+        [
+            "Chen Zijing",
+            "Father-in-law",
+            "Father of spouse"
+        ],
+        [
+            "Master Chen",
+            "Father-in-law",
+            "Master of Chen Qian"
+        ],
+        [
+            "Li Family",
+            "Father of X",
+            "Master of X",
+            "Employer of X"
+        ]
+    ],
+    "Madam Li": [
+        [
+            "Li Zhong",
+            "Mother, Son"
+        ],
+        [
+            "Li Qinren",
+            "Mother of X",
+            "Wife of X"
+        ],
+        [
+            "Chen Qian",
+            "Mother of X",
+            "Informant of X"
+        ],
+        [
+            "Li Yan",
+            "Mother of X",
+            "Sibling of X"
+        ],
+        [
+            "Chen Zijing",
+            "Mother-in-law",
+            "Wife of X"
+        ],
+        [
+            "Master Chen",
+            "Mother-in-law",
+            "Co-wife"
+        ],
+        [
+            "Li Family",
+            "Mother of X",
+            "Wife of X"
+        ]
+    ],
+    "Chen Qian": [
+        [
+            "Li Zhong",
+            "Sister-in-law",
+            "Wife"
+        ],
+        [
+            "Li Qinren",
+            "Husband",
+            "Son-in-law"
+        ],
+        [
+            "Madam Li",
+            "Wife of X",
+            "Friend of X"
+        ],
+        [
+            "Li Yan",
+            "Husband of X",
+            "Lover of X"
+        ],
+        [
+            "Chen Zijing",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Master Chen",
+            "Husband of X",
+            "Lover of X",
+            "Friend of X"
+        ],
+        [
+            "Li Family",
+            "Wife of X",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Li Yan": [
+        [
+            "Li Zhong",
+            "brother, twin brother"
+        ],
+        [
+            "Li Qinren",
+            "Brother of Li Qinren",
+            "Son of Li Qinren",
+            "Same person as Li Qinren (different reference)"
+        ],
+        [
+            "Madam Li",
+            "Brother of X",
+            "Sibling of X"
+        ],
+        [
+            "Chen Qian",
+            "Wife of X",
+            "Lover of X"
+        ],
+        [
+            "Chen Zijing",
+            "suspect-suspicious",
+            "rival-enemy",
+            "victim-perpetrator"
+        ],
+        [
+            "Master Chen",
+            "brother-in-law",
+            "rival"
+        ],
+        [
+            "Li Family",
+            "brother",
+            "twin brother",
+            "sibling",
+            "son"
+        ]
+    ],
+    "Chen Zijing": [
+        [
+            "Li Zhong",
+            "father-in-law",
+            "business partner",
+            "friend"
+        ],
+        [
+            "Li Qinren",
+            "Father-in-law",
+            "Father of spouse"
+        ],
+        [
+            "Madam Li",
+            "Father-in-law",
+            "Husband of X"
+        ],
+        [
+            "Chen Qian",
+            "Father of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Li Yan",
+            "suspect-suspicious",
+            "rival-enemy",
+            "victim-perpetrator"
+        ],
+        [
+            "Master Chen",
+            "Father-in-law",
+            "Marriage partner's father"
+        ],
+        [
+            "Li Family",
+            "Father-in-law",
+            "Master of Li Zhong"
+        ]
+    ],
+    "Master Chen": [
+        [
+            "Li Zhong",
+            "Son-in-law",
+            "Protege"
+        ],
+        [
+            "Li Qinren",
+            "Father-in-law",
+            "Master of Li Zhong"
+        ],
+        [
+            "Madam Li",
+            "Father-in-law",
+            "Husband of Madam Li"
+        ],
+        [
+            "Chen Qian",
+            "Father of X",
+            "Master of X",
+            "Employer of X"
+        ],
+        [
+            "Li Yan",
+            "brother-in-law",
+            "rival"
+        ],
+        [
+            "Chen Zijing",
+            "Father-in-law",
+            "Marriage partner's father"
+        ],
+        [
+            "Li Family",
+            "Father-in-law",
+            "Mother-in-law",
+            "Brother-in-law",
+            "Sister-in-law",
+            "Uncle",
+            "Aunt",
+            "Nephew",
+            "Niece",
+            "Cousin",
+            "Friend",
+            "Mentor",
+            "Teacher",
+            "Student",
+            "Informant",
+            "Information Receiver",
+            "Acquaintance",
+            "Classmate",
+            "Schoolmate",
+            "Neighbour",
+            "Helper",
+            "Helped",
+            "Perpetrator",
+            "Bully",
+            "Murderer",
+            "Attempted Perpetrator",
+            "Attempted Murderer",
+            "Victim",
+            "killed by",
+            "Dislike",
+            "Disliked by",
+            "Subject of investigation",
+            "Deceiver",
+            "Betrayer",
+            "Deceived",
+            "Betrayed",
+            "Suspected",
+            "Suspicious",
+            "Suspect",
+            "Adversary",
+            "Enemy",
+            "Rival",
+            "Manipulator",
+            "Manipulated",
+            "Superior",
+            "Employer",
+            "Master",
+            "Subordinate",
+            "Employee",
+            "Servant",
+            "Colleague",
+            "Business Partner",
+            "Customer",
+            "Buyer",
+            "Tenant",
+            "Patient"
+        ]
+    ],
+    "Li Family": [
+        [
+            "Li Zhong",
+            "Father of Li Zhong",
+            "Mother of Li Zhong",
+            "Brother of Li Yan",
+            "Son-in-law of Chen Family"
+        ],
+        [
+            "Li Qinren",
+            "Mother of X",
+            "Wife of X",
+            "Sibling of X"
+        ],
+        [
+            "Madam Li",
+            "Father of X",
+            "Husband of X"
+        ],
+        [
+            "Chen Qian",
+            "Father of X",
+            "Mother of X",
+            "Son of X",
+            "Daughter of X",
+            "Brother of X",
+            "Sister of X",
+            "Relative of X"
+        ],
+        [
+            "Li Yan",
+            "brother",
+            "twin brother",
+            "sibling",
+            "son"
+        ],
+        [
+            "Chen Zijing",
+            "Father-in-law",
+            "Master of Li Zhong"
+        ],
+        [
+            "Master Chen",
+            "Father-in-law",
+            "Mother-in-law",
+            "Brother-in-law",
+            "Sister-in-law",
+            "Uncle",
+            "Aunt",
+            "Nephew",
+            "Niece",
+            "Cousin",
+            "Friend",
+            "Mentor",
+            "Teacher",
+            "Student",
+            "Informant",
+            "Information Receiver",
+            "Acquaintance",
+            "Classmate",
+            "Schoolmate",
+            "Neighbour",
+            "Helper",
+            "Helped",
+            "Perpetrator",
+            "Bully",
+            "Murderer",
+            "Attempted Perpetrator",
+            "Attempted Murderer",
+            "Victim",
+            "killed by",
+            "Dislike",
+            "Disliked by",
+            "Subject of investigation",
+            "Deceiver",
+            "Betrayer",
+            "Deceived",
+            "Betrayed",
+            "Suspected",
+            "Suspicious",
+            "Suspect",
+            "Adversary",
+            "Enemy",
+            "Rival",
+            "Manipulator",
+            "Manipulated",
+            "Superior",
+            "Employer",
+            "Master",
+            "Subordinate",
+            "Employee",
+            "Servant",
+            "Colleague",
+            "Business Partner",
+            "Customer",
+            "Buyer",
+            "Tenant",
+            "Patient"
+        ]
+    ]
+}

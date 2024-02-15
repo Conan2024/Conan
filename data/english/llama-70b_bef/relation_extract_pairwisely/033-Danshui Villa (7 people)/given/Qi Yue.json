@@ -1,0 +1,100 @@
+{
+    "Feng Shuangji": [
+      ["Feng Zhu", "employer of x, master of x"], 
+      ["Guo Wangshan", "employer of x, enemy of x"], 
+      ["Qi Yue", "employer of x, master of x"], 
+      ["Yin Shaoming", "employer of x, superior of x, acquaintance of x"], 
+      ["Zhao Luoyi", "father in law of x"], 
+      ["Zhao Qiuer", "employer of x, master of x"], 
+      ["Zhao Wanlei", "master of x"], 
+      ["Zhao Wei", "husband of x, enemy of x, victim of x"]
+    ],
+    "Feng Zhu": [
+      ["Feng Shuangji", "employee of x, servant of x"], 
+      ["Guo Wangshan", "acquaintance of x, colleague of x"], 
+      ["Qi Yue", "acquaintance of x, informant of x"], 
+      ["Shuang Mian Hu", "acquaintance of x, informant of x"], 
+      ["Yin Shaoming", "subordinate of x, informant of x, suspicious of x, adversary of x"], 
+      ["Zhao Luoyi", "acquaintance of x, colleague of x, friend of x, helper of x, suspect of x"], 
+      ["Zhao Qiuer", "acquaintance of x, suspicious of x, rival of x"], 
+      ["Zhao Wanlei", "employer of x, master of x"], 
+      ["Zhao Wei", "acquaintance of x, colleague of x, friend of x, helper of x, informant of x, perpetrator of x, suspect of x, victim of x"]
+    ],
+    "Guo Wangshan": [
+      ["Feng Shuangji", "employee of x, adversary of x"], 
+      ["Feng Zhu", "acquaintance of x, colleague of x"], 
+      ["Qi Yue", "friend of x, colleague of x"], 
+      ["Shuang Mian Hu", "friend of x"], 
+      ["Yin Shaoming", "employer of x, master of x"], 
+      ["Zhao Luoyi", "husband of x, enemy of x, victim of x"], 
+      ["Zhao Qiuer", "acquaintance of x, colleague of x, friend of x"]
+    ],
+    "Qi Yue": [
+      ["Feng Shuangji", "employee of x, servant of x"], 
+      ["Feng Zhu", "acquaintance of x, informant of x"], 
+      ["Guo Wangshan", "friend of x, colleague of x"], 
+      ["Shuang Mian Hu", "friend of x, acquaintance of x"], 
+      ["Yin Shaoming", "subordinate of x, enemy of x, adversary of x"], 
+      ["Zhao Luoyi", "servant of x"], 
+      ["Zhao Qiuer", "acquaintance of x, colleague of x"], 
+      ["Zhao Wanlei", "master of x, employer of x"], 
+      ["Zhao Wei", "servant of x, friend of x"]
+    ],
+    "Shuang Mian Hu": [
+      ["Feng Zhu", "acquaintance of x, informant of x"], 
+      ["Guo Wangshan", "friend of x"], 
+      ["Qi Yue", "friend of x, acquaintance of x"], 
+      ["Yin Shaoming", "friend of x, mentor of x"], 
+      ["Zhao Luoyi", "friend of x"], 
+      ["Zhao Qiuer", "acquaintance of x"], 
+      ["Zhao Wanlei", "friend of x, acquaintance of x"], 
+      ["Zhao Wei", "friend of x, mentor of x"]
+    ],
+    "Yin Shaoming": [
+      ["Feng Shuangji", "subordinate of x, acquaintance of x"], 
+      ["Feng Zhu", "subordinate of x, informant of x, suspicious of x, adversary of x"], 
+      ["Guo Wangshan", "employee of x, servant of x"], 
+      ["Qi Yue", "subordinate of x, enemy of x, adversary of x"], 
+      ["Shuang Mian Hu", "friend of x, mentor of x"], 
+      ["Zhao Luoyi", "friend of x, acquaintance of x"], 
+      ["Zhao Qiuer", "friend of x, rival of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Feng Shuangji", "daughter in law of x"], 
+      ["Feng Zhu", "acquaintance of x, colleague of x, friend of x, helper of x, suspect of x"], 
+      ["Guo Wangshan", "wife of x, enemy of x, victim of x"], 
+      ["Qi Yue", "master of x"], 
+      ["Shuang Mian Hu", "friend of x"], 
+      ["Yin Shaoming", "friend of x, acquaintance of x"], 
+      ["Zhao Qiuer", "sister in law of x, acquaintance of x"], 
+      ["Zhao Wanlei", "wife of x, daughter in law of x"], 
+      ["Zhao Wei", "sister of x"]
+    ],
+    "Zhao Qiuer": [
+      ["Feng Shuangji", "employee of x, servant of x"], 
+      ["Feng Zhu", "acquaintance of x, suspicious of x, rival of x"], 
+      ["Guo Wangshan", "acquaintance of x, colleague of x, friend of x"], 
+      ["Qi Yue", "acquaintance of x, colleague of x"], 
+      ["Shuang Mian Hu", "acquaintance of x"], 
+      ["Yin Shaoming", "friend of x, rival of x"], 
+      ["Zhao Luoyi", "sister in law of x, acquaintance of x"], 
+      ["Zhao Wanlei", "daughter of x"], 
+      ["Zhao Wei", "sister of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Feng Shuangji", "master of x"], 
+      ["Feng Zhu", "employee of x, servant of x"], 
+      ["Guo Wangshan", "master of x"], 
+      ["Qi Yue", "servant of x"], 
+      ["Shuang Mian Hu", "friend of x, acquaintance of x"], 
+      ["Zhao Luoyi", "husband of x, father in law of x"], 
+      ["Zhao Qiuer", "daughter of x"]
+    ],
+    "Zhao Wei": [
+      ["Feng Shuangji", "wife of x, enemy of x, victim of x"], 
+      ["Feng Zhu", "acquaintance of x, colleague of x, friend of x, helper of x, informant of x, perpetrator of x, suspect of x, victim of x"], 
+      ["Qi Yue", "servant of x, friend of x"], 
+      ["Shuang Mian Hu", "friend of x, mentor of x"], 
+      ["Zhao Luoyi", "brother of x"]
+    ]
+}

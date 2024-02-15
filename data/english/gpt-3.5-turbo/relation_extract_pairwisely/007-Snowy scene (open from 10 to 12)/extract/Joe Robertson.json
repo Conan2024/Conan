@@ -1,0 +1,354 @@
+{
+    "Joe Robertson": [
+        [
+            "Max Pike/Max Jones",
+            "friend of, undercover colleague of"
+        ],
+        [
+            "Daniel Perry",
+            "acquaintance of x",
+            "informant of x"
+        ],
+        [
+            "John Morgan",
+            "friend of x",
+            "informant of x"
+        ],
+        [
+            "Amy Morgan",
+            "admirer of x",
+            "informant of x"
+        ],
+        [
+            "Lucy Harrison",
+            "informant of x",
+            "acquaintance of x"
+        ],
+        [
+            "Jonathan Perry",
+            "acquaintance of x",
+            "informant of x",
+            "investigator of x"
+        ],
+        [
+            "Harold",
+            "acquaintance of x",
+            "quest companion of x"
+        ],
+        [
+            "Jacqueline",
+            "colleague of x",
+            "information receiver from x",
+            "friend of x",
+            "investment receiver from x",
+            "suspected by x"
+        ]
+    ],
+    "Max Pike/Max Jones": [
+        [
+            "Joe Robertson",
+            "friend of, unaware of true identity"
+        ],
+        [
+            "Daniel Perry",
+            "co-worker of x",
+            "acquaintance of x",
+            "deceived by x"
+        ],
+        [
+            "Joe Robertson",
+            "informant of x",
+            "helper of x"
+        ],
+        [
+            "Amy Morgan",
+            "acquaintance of x",
+            "suspicious of x"
+        ],
+        [
+            "Lucy Harrison",
+            "informant of",
+            "admirer of"
+        ],
+        [
+            "Jonathan Perry",
+            "friend of x",
+            "business partner of x"
+        ]
+    ],
+    "Daniel Perry": [
+        [
+            "Joe Robertson",
+            "acquaintance of x",
+            "informant of x"
+        ],
+        [
+            "Max Pike/Max Jones",
+            "co-worker of x",
+            "acquaintance of x",
+            "deceiver of x"
+        ],
+        [
+            "John Morgan",
+            "admirer of x",
+            "suspected by x",
+            "acquaintance of x"
+        ],
+        [
+            "Amy Morgan",
+            "acquaintance of x",
+            "possible friend of x"
+        ],
+        [
+            "Lucy Harrison",
+            "romantic relationships with x",
+            "unknown connection"
+        ],
+        [
+            "Jonathan Perry",
+            "sibling of x",
+            "sibling of x"
+        ],
+        [
+            "Harold",
+            "informant of x",
+            "relationship 1"
+        ],
+        [
+            "Jacqueline",
+            "acquaintance of x",
+            "possibly family of x"
+        ]
+    ],
+    "John Morgan": [
+        [
+            "Joe Robertson",
+            "informant of x",
+            "helper of x"
+        ],
+        [
+            "Joe Robertson",
+            "ex-boyfriend of x",
+            "murdered by x"
+        ],
+        [
+            "Daniel Perry",
+            "admirer of x",
+            "suspected by x",
+            "acquaintance of x"
+        ],
+        [
+            "Amy Morgan",
+            "husband of x",
+            "issue in their marriage"
+        ],
+        [
+            "Lucy Harrison",
+            "admirer of x, romantic relationship with x"
+        ],
+        [
+            "Jonathan Perry",
+            "colleague of x",
+            "suspected by x"
+        ],
+        [
+            "Harold",
+            "stranger to x"
+        ],
+        [
+            "Jacqueline",
+            "employer of x",
+            "suspect to x"
+        ]
+    ],
+    "Amy Morgan": [
+        [
+            "Joe Robertson",
+            "informant of x",
+            "disliked by x"
+        ],
+        [
+            "Max Pike/Max Jones",
+            "suspicious of x",
+            "attempted perpetrator of x"
+        ],
+        [
+            "Daniel Perry",
+            "acquaintance of x",
+            "possible friend of x"
+        ],
+        [
+            "John Morgan",
+            "wife of x",
+            "issue in their marriage"
+        ],
+        [
+            "Lucy Harrison",
+            "wife of x",
+            "possibly family of x"
+        ],
+        [
+            "Jonathan Perry",
+            "romantic relationships with x",
+            "harbor secrets of x"
+        ],
+        [
+            "Jacqueline",
+            "wife of x",
+            "friend of x"
+        ]
+    ],
+    "Lucy Harrison": [
+        [
+            "Joe Robertson",
+            "informed by x",
+            "acquaintance of x"
+        ],
+        [
+            "Max Pike/Max Jones",
+            "informant of",
+            "admirer of"
+        ],
+        [
+            "Daniel Perry",
+            "romantic relationships with x",
+            "unknown connection"
+        ],
+        [
+            "John Morgan",
+            "admirer of x, romantic relationship with x"
+        ],
+        [
+            "Amy Morgan",
+            "wife of x",
+            "possibly family of x"
+        ],
+        [
+            "Jonathan Perry",
+            "romantic relationships with x",
+            "friend of x"
+        ],
+        [
+            "Harold",
+            "informant of x",
+            "information receiver from x"
+        ],
+        [
+            "Jacqueline",
+            "friend of x",
+            "acquaintance of x"
+        ]
+    ],
+    "Jonathan Perry": [
+        [
+            "Joe Robertson",
+            "acquaintance of x"
+        ],
+        [
+            "Max Pike/Max Jones",
+            "friend of x",
+            "business partner of x"
+        ],
+        [
+            "Daniel Perry",
+            "sibling of x",
+            "sibling of x"
+        ],
+        [
+            "John Morgan",
+            "co-worker of x",
+            "possibly family of x"
+        ],
+        [
+            "Amy Morgan",
+            "romantic relationships with x",
+            "harbor secrets of x"
+        ],
+        [
+            "Lucy Harrison",
+            "romantic relationships with x",
+            "friend of x"
+        ],
+        [
+            "Harold",
+            "friend of x",
+            "acquaintance of x"
+        ],
+        [
+            "Jacqueline",
+            "romantic relationship with x",
+            "possible acquaintance of x"
+        ]
+    ],
+    "Harold": [
+        [
+            "Joe Robertson",
+            "acquaintance of x",
+            "quest companion of x"
+        ],
+        [
+            "Daniel Perry",
+            "deceiver of x",
+            "relationship 1"
+        ],
+        [
+            "John Morgan",
+            "host of x",
+            "guest of x"
+        ],
+        [
+            "Lucy Harrison",
+            "informant of x",
+            "information receiver from x"
+        ],
+        [
+            "Jonathan Perry",
+            "friend of x",
+            "acquaintance of x"
+        ],
+        [
+            "Joe Robertson",
+            "friend of x",
+            "shared experience of survival"
+        ]
+    ],
+    "Jacqueline": [
+        [
+            "Joe Robertson",
+            "colleague of x",
+            "informant of x",
+            "friend of x",
+            "helper of x",
+            "suspect of x"
+        ],
+        [
+            "Daniel Perry",
+            "acquaintance of x",
+            "possibly family of x"
+        ],
+        [
+            "John Morgan",
+            "employee of x",
+            "suspicious of x"
+        ],
+        [
+            "Amy Morgan",
+            "husband of x",
+            "friend of x"
+        ],
+        [
+            "Lucy Harrison",
+            "friend of x",
+            "acquaintance of x"
+        ],
+        [
+            "Jonathan Perry",
+            "romantic relationship with x",
+            "possible acquaintance of x"
+        ],
+        [
+            "Joe Robertson",
+            "shared experience of survival"
+        ]
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "Tony Bijeli": [
+        [
+            "Frank Bijeli",
+            "brother of x"
+        ],
+        [
+            "Nurses",
+            "patient of Nurses",
+            "seeker of help from Nurses"
+        ],
+        [
+            "Hospital staff",
+            "seeker of help from x"
+        ]
+    ],
+    "Frank Bijeli": [
+        [
+            "Tony Bijeli",
+            "brother of x"
+        ],
+        [
+            "Father Tom",
+            "admired by"
+        ],
+        [
+            "Nurses",
+            "admired by x",
+            "fondness of x"
+        ],
+        [
+            "Hospital staff",
+            "helper of x",
+            "informant of x"
+        ]
+    ],
+    "Nurses": [
+        [
+            "Tony Bijeli",
+            "helper of Tony Bijeli",
+            "helped by Tony Bijeli"
+        ],
+        [
+            "Frank Bijeli",
+            "admired by x",
+            "friend of x"
+        ],
+        [
+            "Hospital staff",
+            "acquaintance of x"
+        ]
+    ],
+    "Hospital staff": [
+        [
+            "Tony Bijeli",
+            "helper of x"
+        ],
+        [
+            "Frank Bijeli",
+            "patient of x"
+        ],
+        [
+            "Father Tom",
+            "suspected by x"
+        ],
+        [
+            "Nurses",
+            "acquaintance of x"
+        ]
+    ],
+    "Father Tom": [
+        [
+            "Frank Bijeli",
+            "admires"
+        ],
+        [
+            "Hospital staff",
+            "informant of x"
+        ]
+    ]
+}

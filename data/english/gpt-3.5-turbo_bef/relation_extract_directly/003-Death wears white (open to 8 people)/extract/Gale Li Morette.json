@@ -1,0 +1,30 @@
+{
+    "Gale Li Morette": [
+      ["Hans Li Morette", "husband of x"], 
+      ["Drake Li Morette", "extramarital affair with x, lover of x"], 
+      ["Head NURSE COSTA", "information receiver from x"], 
+      ["Leine Carter", "acquaintance of x"], 
+      ["Father Tom", "saviour of x"]
+    ],
+    "Hans Li Morette": [
+      ["Gale Li Morette", "wife of x"], 
+      ["Drake Li Morette", "brother of x"], 
+      ["Head NURSE COSTA", "patient of x"], 
+      ["Father Tom", "acquaintance of x"]
+    ],
+    "Drake Li Morette": [
+      ["Gale Li Morette", "extramarital affair with x, lover of x"], 
+      ["Hans Li Morette", "brother of x"]
+    ],
+    "Head NURSE COSTA": [
+      ["Gale Li Morette", "informant of x"], 
+      ["Hans Li Morette", "patient of x"]
+    ],
+    "Leine Carter": [
+      ["Gale Li Morette", "acquaintance of x"]
+    ],
+    "Father Tom": [
+      ["Gale Li Morette", "saviour of x"], 
+      ["Hans Li Morette", "acquaintance of x"]
+    ]
+}

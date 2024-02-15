@@ -1,0 +1,479 @@
+{
+    "Aming": [
+        [
+            "Li Luoming",
+            "Friend, Colleague"
+        ],
+        [
+            "Li Zicai",
+            "orphan, adopted son"
+        ],
+        [
+            "Wu Baian",
+            "Friend, Business Partner"
+        ],
+        [
+            "Xia Sanhu",
+            "Friend of X",
+            "Business Partner of X"
+        ],
+        [
+            "Xia Shue",
+            "Friend of X",
+            "Business Partner of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Friend, Business Partner"
+        ],
+        [
+            "Yue Dongwen",
+            "Friend, Business Partner"
+        ],
+        [
+            "Yue Gu",
+            "Friend, Business Partner"
+        ],
+        [
+            "Yue Kesa",
+            "Friend",
+            "Business Partner"
+        ]
+    ],
+    "Li Luoming": [
+        [
+            "Aming",
+            "Friend, Colleague"
+        ],
+        [
+            "Li Zicai",
+            "Friend of X",
+            "Classmate of X"
+        ],
+        [
+            "Wu Baian",
+            "Business Partner",
+            "Employer of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Business Partner",
+            "Debtor"
+        ],
+        [
+            "Xia Shue",
+            "Business Partner",
+            "Co-worker"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Business Partner",
+            "Co-worker"
+        ],
+        [
+            "Yue Dongwen",
+            "Business Partner",
+            "Friend"
+        ],
+        [
+            "Yue Gu",
+            "Friend of X",
+            "Business Partner of X"
+        ],
+        [
+            "Yue Kesa",
+            "father-son, mentor-student"
+        ]
+    ],
+    "Li Zicai": [
+        [
+            "Aming",
+            "father, mentor"
+        ],
+        [
+            "Li Luoming",
+            "Friend of X",
+            "Classmate of X"
+        ],
+        [
+            "Wu Baian",
+            "former classmate",
+            "research partner"
+        ],
+        [
+            "Xia Sanhu",
+            "Business Partner",
+            "Debtor"
+        ],
+        [
+            "Xia Shue",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Friend"
+        ],
+        [
+            "Yue Dongwen",
+            "Classmate",
+            "Friend"
+        ],
+        [
+            "Yue Gu",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Yue Kesa",
+            "Father of Yue Kesa",
+            "Master of Yue Kesa"
+        ]
+    ],
+    "Wu Baian": [
+        [
+            "Aming",
+            "Friend, Business Partner"
+        ],
+        [
+            "Li Luoming",
+            "Business Partner",
+            "Employee of X"
+        ],
+        [
+            "Li Zicai",
+            "former classmate",
+            "business partner"
+        ],
+        [
+            "Xia Sanhu",
+            "Business Partner",
+            "Lender"
+        ],
+        [
+            "Xia Shue",
+            "Business Partner",
+            "Friend"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Colleague",
+            "Business Partner"
+        ],
+        [
+            "Yue Dongwen",
+            "business partner",
+            "friend"
+        ],
+        [
+            "Yue Gu",
+            "Business Partner of X",
+            "Employee of X",
+            "Colleague of X",
+            "Friend of X"
+        ],
+        [
+            "Yue Kesa",
+            "Business Partner of X",
+            "Friend of X"
+        ]
+    ],
+    "Xia Sanhu": [
+        [
+            "Aming",
+            "Friend of X",
+            "Business Partner of X"
+        ],
+        [
+            "Li Luoming",
+            "Business Partner",
+            "Debtor"
+        ],
+        [
+            "Li Zicai",
+            "Business Partner",
+            "Debtor"
+        ],
+        [
+            "Wu Baian",
+            "Business Partner",
+            "Borrower"
+        ],
+        [
+            "Xia Shue",
+            "Business Partner",
+            "Debtor"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Business Partner",
+            "Debtor"
+        ],
+        [
+            "Yue Dongwen",
+            "borrower of X",
+            "debtor of X"
+        ],
+        [
+            "Yue Gu",
+            "Business Partner",
+            "Debtor"
+        ],
+        [
+            "Yue Kesa",
+            "Business Partner",
+            "Debtor"
+        ]
+    ],
+    "Xia Shue": [
+        [
+            "Aming",
+            "Friend of X",
+            "Business Partner of X"
+        ],
+        [
+            "Li Luoming",
+            "Business Partner",
+            "Co-worker"
+        ],
+        [
+            "Li Zicai",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Wu Baian",
+            "Business Partner",
+            "Friend"
+        ],
+        [
+            "Xia Sanhu",
+            "Business Partner",
+            "Creditor"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Father of X",
+            "Mentor of X",
+            "Teacher of X"
+        ],
+        [
+            "Yue Dongwen",
+            "Master of X",
+            "Employer of X",
+            "Business Partner of X",
+            "Customer of X",
+            "Patient of X"
+        ],
+        [
+            "Yue Gu",
+            "Master of X",
+            "Employer of X",
+            "Business Partner of X",
+            "Customer of X",
+            "Patient of X"
+        ],
+        [
+            "Yue Kesa",
+            "Master of",
+            "Teacher of"
+        ]
+    ],
+    "Xia Zhongpeng": [
+        [
+            "Aming",
+            "Friend, Business Partner"
+        ],
+        [
+            "Li Luoming",
+            "Business Partner",
+            "Co-worker"
+        ],
+        [
+            "Li Zicai",
+            "Friend"
+        ],
+        [
+            "Wu Baian",
+            "Colleague",
+            "Business Partner"
+        ],
+        [
+            "Xia Sanhu",
+            "Business Partner",
+            "Creditor"
+        ],
+        [
+            "Xia Shue",
+            "Son of X",
+            "Student of X",
+            "Informant of X"
+        ],
+        [
+            "Yue Dongwen",
+            "Business Partner",
+            "Debtor"
+        ],
+        [
+            "Yue Gu",
+            "Master of X",
+            "Employer of X",
+            "Business Partner of X"
+        ],
+        [
+            "Yue Kesa",
+            "Master of X",
+            "Employer of X"
+        ]
+    ],
+    "Yue Dongwen": [
+        [
+            "Aming",
+            "Friend, Business Partner"
+        ],
+        [
+            "Li Luoming",
+            "Business Partner",
+            "Friend"
+        ],
+        [
+            "Li Zicai",
+            "Classmate",
+            "Friend"
+        ],
+        [
+            "Wu Baian",
+            "business partner",
+            "friend"
+        ],
+        [
+            "Xia Sanhu",
+            "lender of X",
+            "creditor of X"
+        ],
+        [
+            "Xia Shue",
+            "Disciple of X",
+            "Employee of X",
+            "Servant of X",
+            "Subordinate of X",
+            "Colleague of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Business Partner",
+            "Creditor"
+        ],
+        [
+            "Yue Gu",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Yue Kesa",
+            "Father of",
+            "Son of",
+            "Employer of",
+            "Master of",
+            "Superior of"
+        ]
+    ],
+    "Yue Gu": [
+        [
+            "Aming",
+            "Friend, Business Partner"
+        ],
+        [
+            "Li Luoming",
+            "Friend of X",
+            "Business Partner of X"
+        ],
+        [
+            "Li Zicai",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Wu Baian",
+            "Business Partner of X",
+            "Employer of X",
+            "Master of X",
+            "Mentor of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Business Partner",
+            "Lender"
+        ],
+        [
+            "Xia Shue",
+            "Disciple of X",
+            "Apprentice of X",
+            "Employee of X",
+            "Servant of X",
+            "Patient of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Disciple of X",
+            "Employee of X",
+            "Subordinate of X"
+        ],
+        [
+            "Yue Dongwen",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Yue Kesa",
+            "Son of",
+            "Disciple of",
+            "Apprentice of"
+        ]
+    ],
+    "Yue Kesa": [
+        [
+            "Aming",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Li Luoming",
+            "son, mentee"
+        ],
+        [
+            "Li Zicai",
+            "Son of Li Zicai",
+            "Apprentice of Li Zicai"
+        ],
+        [
+            "Wu Baian",
+            "Business Partner of X",
+            "Friend of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Business Partner",
+            "Debtor"
+        ],
+        [
+            "Xia Shue",
+            "Apprentice of",
+            "Son of"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Apprentice of X",
+            "Employee of X"
+        ],
+        [
+            "Yue Dongwen",
+            "Son of",
+            "Employee of",
+            "Subordinate of",
+            "Servant of"
+        ],
+        [
+            "Yue Gu",
+            "Father of",
+            "Master of",
+            "Teacher of"
+        ]
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "Frank Bijeli": [
+        [
+            "Tony",
+            "sibling of x, helper of x, admired by x, informant of x, deceiver of x"
+        ],
+        [
+            "Father Tom",
+            "employer of x, deceiver of x, helper of x, helped by x"
+        ],
+        [
+            "Drake Li Morette",
+            "stranger to x"
+        ],
+        [
+            "People in the hospital",
+            "stranger to x, victim of x, hostage taker of x"
+        ]
+    ],
+    "Tony": [
+        [
+            "Frank Bijeli",
+            "sibling of x, admires x, helped by x, information receiver from x, deceived by x"
+        ],
+        [
+            "Father Tom",
+            "stranger to x, admired by x"
+        ],
+        [
+            "Drake Li Morette",
+            "stranger to x"
+        ]
+    ],
+    "Father Tom": [
+        [
+            "Frank Bijeli",
+            "employee of x, business partner of x"
+        ],
+        [
+            "Tony",
+            "stranger to x"
+        ],
+        [
+            "Drake Li Morette",
+            "stranger to x"
+        ]
+    ],
+    "Drake Li Morette": [
+        [
+            "Frank Bijeli",
+            "stranger to x"
+        ],
+        [
+            "Tony",
+            "stranger to x"
+        ],
+        [
+            "Father Tom",
+            "stranger to x"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Zhou Lianyi": [
+      ["Zhou Mengdang", "father of x"], 
+      ["Yu Shi", "mother of x"], 
+      ["Zhou Chitong", "uncle of x"], 
+      ["Su Nian", "uncle of x"], 
+      ["Taitai", "owner of x cui zhuang, employer of x's mother"], 
+      ["Wang Shi", "taitai's husband of x"], 
+      ["Cui Shouheng", "employer of x's mother, potential business partner of x's father, murdered by unknown perpetrator of x"], 
+      ["Xi Yan", "cui shouheng's sister of x"], 
+      ["Yannan", "childhood friend of x, potential romantic interest of x"], 
+      ["Bao Gan", "maid at cui zhuang of x, informant of x's mother's disappearance"]
+    ],
+    "Zhou Mengdang": [
+      ["Zhou Lianyi", "child of x"], 
+      ["Yu Shi", "wife of x"], 
+      ["Su Nian", "brother in law of x"], 
+      ["Zhou Chitong", "brother of x"]
+    ],
+    "Yu Shi": [
+      ["Zhou Lianyi", "child of x"], 
+      ["Zhou Mengdang", "husband of x"], 
+      ["Su Nian", "brother of x"]
+    ],
+    "Zhou Chitong": [
+      ["Zhou Lianyi", "nephew of x"], 
+      ["Yu Shi", "sister in law of x"], 
+      ["Su Nian", "brother of x"]
+    ],
+    "Su Nian": [
+      ["Zhou Lianyi", "nephew of x"], 
+      ["Yu Shi", "sister in law of x"], 
+      ["Zhou Chitong", "brother of x"]
+    ],
+    "Cui Shouheng": [
+      ["Cui Yannan", "daughter of x"], 
+      ["Xi Yan", "brother of x"], 
+      ["Zhou Lianyi", "potential business partner of x"]
+    ],
+    "Xi Yan": [
+      ["Cui Shouheng", "brother of x"], 
+      ["Zhou Lianyi", "potential business partner of x"]
+    ],
+    "Yannan": [
+      ["Zhou Lianyi", "childhood friend and potential romantic interest of x"], 
+      ["Cui Shouheng", "daughter of x"], 
+      ["Xi Yan", "friend of x"]
+    ],
+    "Bao Gan": [
+      ["Yu Shi", "informant of x's mother's disappearance"], 
+      ["Cui Shouheng", "maid at cui zhuang of x"]
+    ]
+}

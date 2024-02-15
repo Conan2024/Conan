@@ -1,0 +1,56 @@
+{
+    "Xiao Qian": [
+      ["Fang Liu", "same person as x (different reference)"], 
+      ["Fang Ye", "same person as x (different identity)"], 
+      ["Chen Qian", "friend of x"], 
+      ["Li Yan", "lover of x"], 
+      ["Li Zhong", "fiance of x"], 
+      ["Madam Li", "wife of x"], 
+      ["Master Chen", "mentor of x"]
+    ],
+    "Fang Liu": [
+      ["Xiao Qian", "same person as x (different reference)"], 
+      ["Fang Ye", "father of x"]
+    ],
+    "Fang Ye": [
+      ["Xiao Qian", "same person as x (different identity)"], 
+      ["Fang Liu", "father of x"], 
+      ["Fang Xu", "sister of x"], 
+      ["Fang Mian", "sister of x"]
+    ],
+    "Fang Xu": [
+      ["Fang Ye", "sister of x"], 
+      ["Li Wangye", "husband of x"]
+    ],
+    "Fang Mian": [
+      ["Fang Ye", "sister of x"]
+    ],
+    "Li Wangye": [
+      ["Fang Xu", "husband of x"]
+    ],
+    "Chen Qian": [
+      ["Xiao Qian", "friend of x"], 
+      ["Li Yan", "lover of x"]
+    ],
+    "Li Yan": [
+      ["Chen Qian", "lover of x"], 
+      ["Xiao Qian", "friend of x"]
+    ],
+    "Li Zhong": [
+      ["Chen Qian", "fiance of x"], 
+      ["Li Wangye", "friend of x"]
+    ],
+    "Madam Li": [
+      ["Li Wangye", "wife of x"]
+    ],
+    "Master Chen": [
+      ["Xiao Qian", "mentor of x"], 
+      ["Chen Qian", "father of x"]
+    ],
+    "Li Qinren": [
+      ["Fang Ye", "enemy of x"]
+    ],
+    "Yirongshu": [
+      ["Xiao Qian", "acquaintance of x"]
+    ]
+}

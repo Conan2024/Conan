@@ -1,0 +1,32 @@
+{
+    "Drake Li Morette": [
+      ["Head NURSE COSTA", "lover of x"], 
+      ["Leine Carter", "lover of x"], 
+      ["Father Tom", "lover of x"], 
+      ["Hans Li Morette", "lover of x"], 
+      ["Jim Mason", "lover of x"]
+    ],
+    "Head NURSE COSTA": [
+      ["Drake Li Morette", "acquaintance of x"], 
+      ["Leine Carter", "acquaintance of x, suspect of x"], 
+      ["Father Tom", "acquaintance of x"]
+    ],
+    "Leine Carter": [
+      ["Drake Li Morette", "lover of x"], 
+      ["Head NURSE COSTA", "acquaintance of x, suspect of x"], 
+      ["Father Tom", "acquaintance of x, suspect of x"], 
+      ["Jim Mason", "same person as x (different reference), same person as x (different identity)"]
+    ],
+    "Father Tom": [
+      ["Drake Li Morette", "lover of x"], 
+      ["Head NURSE COSTA", "acquaintance of x"], 
+      ["Leine Carter", "acquaintance of x, suspect of x"]
+    ],
+    "Hans Li Morette": [
+      ["Drake Li Morette", "brother of x, husband of x"]
+    ],
+    "Jim Mason": [
+      ["Drake Li Morette", "victim of x"], 
+      ["Leine Carter", "victim of x, killed by x"]
+    ]
+}

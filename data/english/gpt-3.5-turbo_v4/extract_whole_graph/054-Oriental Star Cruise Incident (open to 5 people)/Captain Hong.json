@@ -1,0 +1,44 @@
+{
+    "Captain Hong": [
+      ["Liu Qi", "student of x"], 
+      ["Liu Qi", "colleague of x"], 
+      ["Liu Qi", "perpetrator of x"], 
+      ["Singer Lin", "lover of x"], 
+      ["Singer Lin", "secret lover of x"], 
+      ["ZHANG WENYUAN", "dislike of x"], 
+      ["ZHANG ERFU", "quest companion of x"], 
+      ["ZHANG ERFU", "helper of x"], 
+      ["Board of Directors", "information receiver from x"], 
+      ["Trinity", "information receiver from x"]
+    ],
+    "Liu Qi": [
+      ["Captain Hong", "mentor of x"], 
+      ["Captain Hong", "colleague of x"], 
+      ["Captain Hong", "perpetrator of x"], 
+      ["ZHANG WENYUAN", "dislike of x"], 
+      ["ZHANG WENYUAN", "informant of x"], 
+      ["ZHANG ERFU", "quest companion of x"], 
+      ["ZHANG ERFU", "helper of x"]
+    ],
+    "Singer Lin": [
+      ["Captain Hong", "lover of x"], 
+      ["Captain Hong", "secret lover of x"]
+    ],
+    "ZHANG WENYUAN": [
+      ["Captain Hong", "dislike of x"], 
+      ["Liu Qi", "dislike of x"], 
+      ["Liu Qi", "informant of x"]
+    ],
+    "ZHANG ERFU": [
+      ["Captain Hong", "quest companion of x"], 
+      ["Captain Hong", "helper of x"], 
+      ["Liu Qi", "quest companion of x"], 
+      ["Liu Qi", "helper of x"]
+    ],
+    "Board of Directors": [
+      ["Captain Hong", "information receiver from x"]
+    ],
+    "Trinity": [
+      ["Captain Hong", "information receiver from x"]
+    ]
+}

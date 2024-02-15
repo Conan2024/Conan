@@ -1,0 +1,40 @@
+{
+    "Frank Bijeli": [
+        [
+            "Tony",
+            "sibling of x, helper of x, helped by x, deceiver of x"
+        ],
+        [
+            "Father Tom",
+            "business partner of x, deceiver of x, helper of x"
+        ],
+        [
+            "People in the hospital",
+            "victim of x, stranger to x"
+        ]
+    ],
+    "Tony": [
+        [
+            "Frank Bijeli",
+            "sibling of x, admires x, helped by x, deceived by x"
+        ],
+        [
+            "Father Tom",
+            "admired by x"
+        ],
+        [
+            "People in the hospital",
+            "stranger to x"
+        ]
+    ],
+    "Father Tom": [
+        [
+            "Frank Bijeli",
+            "business partner of x, deceivee of x"
+        ],
+        [
+            "Tony",
+            "deceiver of x"
+        ]
+    ]
+}

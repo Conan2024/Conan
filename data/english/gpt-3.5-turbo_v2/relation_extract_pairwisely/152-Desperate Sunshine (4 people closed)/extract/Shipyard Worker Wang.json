@@ -1,0 +1,72 @@
+{
+    "Shipyard worker Wang": [
+      ["Captain", "information receiver from captain of x, co worker with captain of x"], 
+      ["First Mate Zhang", "drug trafficking partner of x"], 
+      ["Worker Wang", "father of x"], 
+      ["Ship Doctor Ling", "father in law of x, shipmate of x"], 
+      ["BOSS Yang", "informant of x, suspicious of x"], 
+      ["Naive Hen", "helper of x"], 
+      ["Passers-by", "'informant of x', 'information receiver from x'"]
+    ],
+    "Captain": [
+      ["Shipyard worker Wang", "co worker with shipyard worker wang of x"], 
+      ["First Mate Zhang", "business partner of x, supplier of x"], 
+      ["Worker Wang", "father of x worker wang"], 
+      ["Ship Doctor Ling", "child of x, father in law of x"], 
+      ["BOSS Yang", "business partner of x, information receiver from x"], 
+      ["Naive Hen", "information receiver from x"]
+    ],
+    "First Mate Zhang": [
+      ["Shipyard worker Wang", "drug trafficking partner of x"], 
+      ["Captain", "business partner of x"], 
+      ["Worker Wang", "helper of x"], 
+      ["Ship Doctor Ling", "romantic relationships with of x"], 
+      ["BOSS Yang", "business partner of x"], 
+      ["Naive Hen", "helper of x"], 
+      ["Passers-by", "helper of x"]
+    ],
+    "Worker Wang": [
+      ["Shipyard worker Wang", "son of x"], 
+      ["Captain", "son of x captain"], 
+      ["First Mate Zhang", "acquaintance of x"], 
+      ["Ship Doctor Ling", "daughter in law of x, helper of x"], 
+      ["BOSS Yang", "helper of x"], 
+      ["Naive Hen", "acquaintance of x"], 
+      ["Passers-by", "admirer of x"]
+    ],
+    "Ship Doctor Ling": [
+      ["Shipyard worker Wang", "daughter in law of x"], 
+      ["Captain", "fiancee of x"], 
+      ["First Mate Zhang", "romantic relationships with of x"], 
+      ["Worker Wang", "father in law of x, helper of x"], 
+      ["BOSS Yang", "acquaintance of x"], 
+      ["Naive Hen", "ex romantic relationships with x"], 
+      ["Passers-by", "fondness of x"]
+    ],
+    "BOSS Yang": [
+      ["Shipyard worker Wang", "employee of x, acquaintance of x"], 
+      ["Captain", "business partner of x, information receiver from x"], 
+      ["First Mate Zhang", "business partner of x"], 
+      ["Worker Wang", "information receiver from x"], 
+      ["Ship Doctor Ling", "acquaintance of x"], 
+      ["Naive Hen", "possible business partner of x naive hen"], 
+      ["Passers-by", "helper of x"]
+    ],
+    "Naive Hen": [
+      ["Shipyard worker Wang", "helper of x"], 
+      ["Captain", "informant of x"], 
+      ["First Mate Zhang", "acquaintance of x"], 
+      ["Worker Wang", "acquaintance of x"], 
+      ["Ship Doctor Ling", "ex romantic relationships with x"], 
+      ["BOSS Yang", "possible business partner of x boss yang"], 
+      ["Passers-by", "possible family of x"]
+    ],
+    "Passers-by": [
+      ["Shipyard worker Wang", "'mentor of x', 'informant of x', 'information receiver from x'"], 
+      ["First Mate Zhang", "information receiver from x"], 
+      ["Worker Wang", "helper of x"], 
+      ["Ship Doctor Ling", "informant of x"], 
+      ["BOSS Yang", "helper of x"], 
+      ["Naive Hen", "possible family of x"]
+    ]
+}

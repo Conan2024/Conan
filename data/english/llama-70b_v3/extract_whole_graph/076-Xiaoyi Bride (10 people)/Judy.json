@@ -1,0 +1,18 @@
+{
+    "Judy": [
+      ["Yao Zhongyi", "brother of x"], 
+      ["Short-haired Woman", "business partner of x"], 
+      ["Lady Hong", "step mother of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Judy", "brother of x"], 
+      ["Short-haired Woman", "business partner of x"]
+    ],
+    "Short-haired Woman": [
+      ["Judy", "business partner of x"], 
+      ["Yao Zhongyi", "business partner of x"]
+    ],
+    "Lady Hong": [
+      ["Judy", "step mother of x"]
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Hao Guimi": [
+      ["Cousin Sister", "same person as x (different reference)"], 
+      ["ZHANG EBA", "same person as x (different identity)"]
+    ],
+    "Cousin Sister": [
+      ["Hao Guimi", "same person as x (different reference)"], 
+      ["ZHANG EBA", "victim of x"]
+    ],
+    "ZHANG EBA": [
+      ["Hao Guimi", "same person as x (different identity)"], 
+      ["Cousin Sister", "victim of x"]
+    ],
+    "LIN XIAOHUA": [
+      ["Hao Guimi", "friend of x"], 
+      ["ZHANG EBA", "fiancee of x"]
+    ],
+    "Wang Xuexi": [
+      ["Hao Guimi", "classmate of x"], 
+      ["ZHANG EBA", "acquaintance of x"]
+    ],
+    "Li Xiaodi": [
+      ["Hao Guimi", "classmate of x"], 
+      ["ZHANG EBA", "acquaintance of x"]
+    ],
+    "Zhao Shuaige": [
+      ["Hao Guimi", "acquaintance of x"], 
+      ["ZHANG EBA", "acquaintance of x"]
+    ],
+    "Lin Xiaohua": [
+      ["Hao Guimi", "friend of x"], 
+      ["ZHANG EBA", "fiancee of x"]
+    ],
+    "Zhang Shuai": [
+      ["Hao Guimi", "suspect of x"], 
+      ["ZHANG EBA", "perpetrator of x"]
+    ]
+}

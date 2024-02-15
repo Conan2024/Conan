@@ -1,0 +1,42 @@
+{
+    "Jue Ming": [
+      ["Mysterious Ice Sect's Messenger", "deceiver of x, same person as x (different identity), suspicious of x"], 
+      ["Lu Ying", "acquaintance of x, helper of x"], 
+      ["Feng", "helper of x"], 
+      ["Zi Su", "informant of x, information receiver from x"]
+    ],
+    "Mysterious Ice Sect's Messenger": [
+      ["Jue Ming", "manipulated by x, deceived by x, suspicious of x"], 
+      ["Saint of Thieves", "romantic relationships with x, admirer of x, informant of x"], 
+      ["Lu Ying", "deceiver of x, information receiver from x"], 
+      ["Feng", "information receiver from x, helper of x"], 
+      ["Zi Su", "helper of x"]
+    ],
+    "Lu Ying": [
+      ["Jue Ming", "acquaintance of x, helper of x"], 
+      ["Saint of Thieves", "suspect of x"], 
+      ["Mysterious Ice Sect's Messenger", "deceived by x, informant of x"], 
+      ["Feng", "employee of x, helper of x"], 
+      ["Zi Su", "friend of x"]
+    ],
+    "Feng": [
+      ["Jue Ming", "helped by x"], 
+      ["Saint of Thieves", "friend of x, deceived by x"], 
+      ["Mysterious Ice Sect's Messenger", "information receiver from x, helper of x"], 
+      ["Lu Ying", "employer of x, master of x"], 
+      ["Zi Su", "informant of x, information receiver from x, acquaintance of x, helper of x"]
+    ],
+    "Zi Su": [
+      ["Jue Ming", "friend of x"], 
+      ["acquaintance of Saint of Thieves", "suspect of x"], 
+      ["Mysterious Ice Sect's Messenger", "suspect of x"], 
+      ["Lu Ying", "friend of x"], 
+      ["Feng", "informant of x, information receiver from x, acquaintance of x"]
+    ],
+    "Saint of Thieves": [
+      ["Mysterious Ice Sect's Messenger", "romantic relationships with x, admirer of x, informant of x"], 
+      ["Lu Ying", "acquaintance of x"], 
+      ["Feng", "friend of x, same person as x (different identity)"], 
+      ["acquaintance of Zi Su", "suspect of x"]
+    ]
+}

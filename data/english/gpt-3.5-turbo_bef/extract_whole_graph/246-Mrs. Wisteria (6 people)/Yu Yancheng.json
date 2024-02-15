@@ -1,0 +1,47 @@
+{
+    "Yu Yancheng": [
+      ["Yu Zhiyang", "brother of x"], 
+      ["Li Xinran", "fiancee of x"], 
+      ["Yu Hao", "son of x"], 
+      ["Yu Lin", "son of x"], 
+      ["Zhang Wenyan", "friend of x"], 
+      ["Xu Chen", "friend of x"], 
+      ["Le Wan", "romantic relationships with x"], 
+      ["Yu Shangyong", "brother of x"], 
+      ["Mrs. Zhang", "information receiver from x"], 
+      ["Zhang Junshi", "mentor of x"]
+    ],
+    "Yu Shangyong": [
+      ["Yu Yancheng", "brother of x"], 
+      ["Le Wan", "romantic relationships with x"]
+    ],
+    "Zhu Lingshan": [
+      ["Le Wan", "husband of x"], 
+      ["Ge Yueluo", "son in law of x"], 
+      ["Lü Lusheng", "disliked by x"]
+    ],
+    "Xue Yufan": [
+      ["Le Wan", "romantic relationships with x"], 
+      ["Mrs. Zhang", "admired by x"]
+    ],
+    "Ge Yueman": [
+      ["Ge Yueluo", "sister of x"], 
+      ["Mrs. Zhang", "informant of x"]
+    ],
+    "Mrs. Zhang": [
+      ["Zhang Junshi", "wife of x"], 
+      ["Xue Yufan", "admired by x"], 
+      ["Yu Yancheng", "information receiver from x"], 
+      ["Zhi Jun", "guest of x"], 
+      ["Ge Yueman", "informant of x"]
+    ],
+    "Zhang Junshi": [
+      ["Mrs. Zhang", "husband of x"], 
+      ["Zhi Jun", "uncle of x"], 
+      ["Yu Yancheng", "mentor of x"]
+    ],
+    "Zhi Jun": [
+      ["Zhang Junshi", "niece of x"], 
+      ["Mrs. Zhang", "niece of x"]
+    ]
+}

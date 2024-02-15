@@ -1,0 +1,30 @@
+{
+    "Yang Minxi": [
+      ["Yang Shuixun", "father of x"], 
+      ["Lan Rui", "friend of x"], 
+      ["Xiting (Mu Xiting)", "friend of x"]
+    ],
+    "Yang Shuixun": [
+      ["Yang Minxi", "child of x"], 
+      ["Gu Chumeng", "dislike of x"], 
+      ["Zhang Fanghao", "friend of x"]
+    ],
+    "Gu Chumeng": [
+      ["Yang Shuixun", "dislike of x"], 
+      ["Lan Rui", "husband of x"]
+    ],
+    "Lan Rui": [
+      ["Yang Minxi", "friend of x"], 
+      ["Xiting (Mu Xiting)", "friend of x"], 
+      ["Zhang Fanghao", "daughter of x"]
+    ],
+    "Xiting (Mu Xiting)": [
+      ["Yang Minxi", "friend of x"], 
+      ["Lan Rui", "friend of x"], 
+      ["Gu Chumeng", "wife of x"]
+    ],
+    "Zhang Fanghao": [
+      ["Yang Shuixun", "friend of x"], 
+      ["Lan Rui", "father of x"]
+    ]
+}

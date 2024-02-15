@@ -1,0 +1,32 @@
+{
+    "Wang You": [
+      ["Du Zhong", "friend of x, colleague of x"], 
+      ["Xuan Can", "friend of x, colleague of x"], 
+      ["Fu Xian", "brother of x, mentor of x"], 
+      ["Lady Safflower", "husband of x, father of x"]
+    ],
+    "Du Zhong": [
+      ["Wang You", "friend of x, colleague of x"], 
+      ["Xuan Can", "second or third leader of x, colleague of x"], 
+      ["Fu Xian", "second or third leader of x, entrusted with a mission of x"], 
+      ["Lady Safflower", "husband of x, father of x"]
+    ],
+    "Xuan Can": [
+      ["Wang You", "friend of x, colleague of x"], 
+      ["Du Zhong", "second or third leader of x, colleague of x"], 
+      ["Fu Xian", "brother in law of x, guardian of x"], 
+      ["Lady Safflower", "husband of x, father of x"]
+    ],
+    "Fu Xian": [
+      ["Wang You", "brother of x, mentor of x"], 
+      ["Du Zhong", "second or third leader of x, entrusted with a mission of x"], 
+      ["Xuan Can", "brother in law of x, guardian of x"], 
+      ["Lady Safflower", "son of x, romantic relationship of x"]
+    ],
+    "Lady Safflower": [
+      ["Wang You", "wife of x, mother of x"], 
+      ["Du Zhong", "wife of x, mother of x"], 
+      ["Xuan Can", "wife of x, mother of x"], 
+      ["Fu Xian", "mother of x, romantic relationship of x"]
+    ]
+}

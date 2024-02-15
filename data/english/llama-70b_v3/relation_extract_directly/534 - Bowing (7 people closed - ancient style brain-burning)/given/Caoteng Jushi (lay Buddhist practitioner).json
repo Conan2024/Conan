@@ -1,0 +1,85 @@
+{
+    "Caoteng Jushi (lay Buddhist practitioner)": [
+      ["Xiao Qian", "informant of x"], 
+      ["Chen Qian", "daughter of x, friend of x"]
+    ],
+    "Fang Zhu": [
+      ["Fang Xu", "sister of x, lover of x"], 
+      ["Fang Ye", "brother of x, enemy of x"], 
+      ["Fang Mian", "sister of x"], 
+      ["Daughter of Fang Ye", "niece of x, daughter of x"], 
+      ["Er Yisi Bada", "master of x, friend of x"], 
+      ["Chen Zijing", "mentor of x, friend of x"], 
+      ["Xiao Qian", "niece of x, daughter of x"]
+    ],
+    "Fang Xu": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "lover of x"], 
+      ["Fang Zhu", "brother of x"], 
+      ["Fang Ye", "brother of x, enemy of x"], 
+      ["Fang Mian", "sister of x"], 
+      ["Daughter of Fang Ye", "niece of x, daughter of x"], 
+      ["Er Yisi Bada", "master of x, friend of x"], 
+      ["Chen Zijing", "mentor of x, friend of x"], 
+      ["Xiao Qian", "niece of x, daughter of x"]
+    ],
+    "Fang Ye": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "enemy of x, bully of x"], 
+      ["Fang Zhu", "brother of x"], 
+      ["Fang Xu", "sister of x, lover of x"], 
+      ["Fang Mian", "sister of x"], 
+      ["Daughter of Fang Ye", "daughter of x, daughter of x"], 
+      ["Er Yisi Bada", "master of x, friend of x"], 
+      ["Chen Zijing", "mentor of x, friend of x"], 
+      ["Xiao Qian", "niece of x, daughter of x"]
+    ],
+    "Fang Mian": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "enemy of x"], 
+      ["Fang Zhu", "brother of x"], 
+      ["Fang Xu", "sister of x, lover of x"], 
+      ["Fang Ye", "brother of x, enemy of x"], 
+      ["Daughter of Fang Ye", "niece of x, daughter of x"], 
+      ["Er Yisi Bada", "master of x, friend of x"], 
+      ["Chen Zijing", "mentor of x, friend of x"], 
+      ["Xiao Qian", "niece of x, daughter of x"]
+    ],
+    "Daughter of Fang Ye": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "daughter of x, sister in law of x"], 
+      ["Fang Zhu", "brother in law of x"], 
+      ["Fang Xu", "sister of x, lover of x"], 
+      ["Fang Ye", "father of x, enemy of x"], 
+      ["Fang Mian", "aunt of x"], 
+      ["Er Yisi Bada", "master of x, friend of x"], 
+      ["Chen Zijing", "mentor of x, friend of x"], 
+      ["Xiao Qian", "sister of x, daughter of x"]
+    ],
+    "Er Yisi Bada": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "master of x, friend of x"], 
+      ["Fang Zhu", "friend of x"], 
+      ["Fang Xu", "sister of x, lover of x"], 
+      ["Fang Ye", "friend of x, enemy of x"], 
+      ["Fang Mian", "friend of x"], 
+      ["Daughter of Fang Ye", "friend of x, daughter of x"], 
+      ["Chen Zijing", "friend of x, mentor of x"], 
+      ["Xiao Qian", "friend of x, daughter of x"]
+    ],
+    "Chen Zijing": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "mentor of x, friend of x"], 
+      ["Fang Zhu", "friend of x"], 
+      ["Fang Xu", "sister of x, lover of x"], 
+      ["Fang Ye", "friend of x, enemy of x"], 
+      ["Fang Mian", "friend of x"], 
+      ["Daughter of Fang Ye", "friend of x, daughter of x"], 
+      ["Er Yisi Bada", "master of x, friend of x"], 
+      ["Xiao Qian", "friend of x, daughter of x"]
+    ],
+    "Xiao Qian": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "informant of x"], 
+      ["Fang Zhu", "niece of x, daughter of x"], 
+      ["Fang Xu", "niece of x, daughter of x"], 
+      ["Fang Ye", "niece of x, daughter of x"], 
+      ["Fang Mian", "niece of x, daughter of x"], 
+      ["Daughter of Fang Ye", "sister of x, daughter of x"], 
+      ["Er Yisi Bada", "master of x, friend of x"], 
+      ["Chen Zijing", "mentor of x, friend of x"]
+    ]
+}

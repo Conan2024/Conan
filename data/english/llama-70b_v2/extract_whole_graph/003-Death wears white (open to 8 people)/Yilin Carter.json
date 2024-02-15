@@ -1,0 +1,44 @@
+{
+    "Yilin Carter": [
+      ["Dr. Paloski", "strict of x, authoritative of x"], 
+      ["Hans Rymorite", "deceased of x, unknown of x"], 
+      ["Drake Rimerite", "friendly of x, appreciative of x"], 
+      ["Head Nurse Costa", "friendly of x, considerate of x"], 
+      ["Hospital Dean Berkeley", "superior of x, suspicious of x"]
+    ],
+    "Dr. Paloski": [
+      ["Yilin Carter", "strict of x, authoritative of x"], 
+      ["Hans Rymorite", "colleague of x, deceased of x"], 
+      ["Drake Rimerite", "colleague of x, friendly of x"], 
+      ["Head Nurse Costa", "colleague of x, friendly of x"], 
+      ["Hospital Dean Berkeley", "superior of x, suspicious of x"]
+    ],
+    "Hans Rymorite": [
+      ["Yilin Carter", "deceased of x, unknown of x"], 
+      ["Dr. Paloski", "colleague of x, strict of x"], 
+      ["Drake Rimerite", "twin brother of x, friendly of x"], 
+      ["Head Nurse Costa", "colleague of x, friendly of x"], 
+      ["Hospital Dean Berkeley", "superior of x, suspicious of x"]
+    ],
+    "Drake Rimerite": [
+      ["Yilin Carter", "friendly of x, appreciative of x"], 
+      ["Dr. Paloski", "colleague of x, strict of x"], 
+      ["Hans Rymorite", "twin brother of x, deceased of x"], 
+      ["Head Nurse Costa", "colleague of x, friendly of x"], 
+      ["Hospital Dean Berkeley", "superior of x, suspicious of x"]
+    ],
+    "Head Nurse Costa": [
+      ["Yilin Carter", "friendly of x, considerate of x"], 
+      ["Dr. Paloski", "colleague of x, strict of x"], 
+      ["Hans Rymorite", "colleague of x, deceased of x"], 
+      ["Drake Rimerite", "colleague of x, friendly of x"], 
+      ["Hospital Dean Berkeley", "superior of x, suspicious of x"]
+    ],
+    "Hospital Dean Berkeley": [
+      ["Yilin Carter", "superior of x, suspicious of x"], 
+      ["Dr. Paloski", "colleague of x, strict of x"], 
+      ["Hans Rymorite", "colleague of x, deceased of x"], 
+      ["Drake Rimerite", "colleague of x, friendly of x"], 
+      ["Head Nurse Costa", "colleague of x, friendly of x"]
+    ]
+}

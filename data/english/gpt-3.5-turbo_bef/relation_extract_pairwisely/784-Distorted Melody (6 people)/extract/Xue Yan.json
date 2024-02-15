@@ -1,0 +1,118 @@
+{
+    "Xue Yan": [
+      ["Luo Xue Yan", "helper of x, helped by x"], 
+      ["Luo Wanli", "brother of x, child of x"], 
+      ["Luo Younuo", "sibling of x"], 
+      ["Mrs. Ruan", "helper of x, landlord of x"], 
+      ["Wangdi", "friend of x"], 
+      ["Zhaonan", "sister of x"], 
+      ["Qi Gu Fei", "friend of x"], 
+      ["Hei Li", "romantic relationships with x"]
+    ],
+    "Luo Xue Yan": [
+      ["Xue Yan", "helper of x, helped by x"], 
+      ["Luo Younuo", "sibling of x"], 
+      ["Mrs. Ruan", "helper of x, tenant of x"], 
+      ["Wangdi", "romantic relationships with x"], 
+      ["Zhaonan", "friend of x"], 
+      ["Guilang", "friend of x, informant of x"], 
+      ["Hei Li", "friend of x"], 
+      ["Wang Zimo", "romantic relationships with x, secret lover of x"]
+    ],
+    "Luo Wanli": [
+      ["Xue Yan", "sibling of x"], 
+      ["Mrs. Ruan", "friend of x"], 
+      ["Guilang", "son of x"], 
+      ["Qi Gu Fei", "helper of x, friend of x"], 
+      ["Hei Li", "father of x"], 
+      ["Wang Zimo", "romantic relationships with x"]
+    ],
+    "Luo Younuo": [
+      ["Xue Yan", "sibling of x"], 
+      ["Luo Xue Yan", "sibling of x"], 
+      ["Mrs. Ruan", "friend of x"], 
+      ["Wangdi", "acquaintance of x"], 
+      ["Zhaonan", "child of x"], 
+      ["Guilang", "brother of x"], 
+      ["Qi Gu Fei", "quest companion of x, neighbour of x"], 
+      ["Hei Li", "fiance of x, lover of x"], 
+      ["Wang Zimo", "romantic relationships with x"]
+    ],
+    "Mrs. Ruan": [
+      ["Luo Xue Yan", "landlord of x"], 
+      ["Luo Wanli", "friend of x"], 
+      ["Luo Younuo", "friend of x"], 
+      ["Wangdi", "mother of x, grandmother of x"], 
+      ["Zhaonan", "mother of x"], 
+      ["Guilang", "ex boyfriend of x, ex girlfriend of x"], 
+      ["Qi Gu Fei", "helper of x, helped by x"], 
+      ["Hei Li", "helped by x"], 
+      ["Wang Zimo", "possibly family of x"]
+    ],
+    "Wangdi": [
+      ["Xue Yan", "friend of x"], 
+      ["Luo Xue Yan", "romantic relationships with x"], 
+      ["Luo Younuo", "acquaintance of x"], 
+      ["Mrs. Ruan", "daughter of x, granddaughter of x"], 
+      ["Zhaonan", "friend of x"], 
+      ["Guilang", "fiance of x"], 
+      ["Qi Gu Fei", "extramarital affair with x, romantic relationships with x"], 
+      ["Hei Li", "romantic relationships with x"], 
+      ["Wang Zimo", "lover of x"]
+    ],
+    "Zhaonan": [
+      ["Xue Yan", "sister of x"], 
+      ["Luo Xue Yan", "friend of x"], 
+      ["Luo Younuo", "child of x"], 
+      ["Mrs. Ruan", "daughter of x"], 
+      ["Wangdi", "friend of x"], 
+      ["Guilang", "friend of x"], 
+      ["Qi Gu Fei", "fiance of x"], 
+      ["Hei Li", "romantic relationships with x, ex romantic relationships with x"], 
+      ["Wang Zimo", "romantic relationships with x"]
+    ],
+    "Guilang": [
+      ["Luo Xue Yan", "friend of x, informant of x"], 
+      ["Luo Wanli", "child of x"], 
+      ["Luo Younuo", "brother of x"], 
+      ["Wangdi", "fiancee of x"], 
+      ["Zhaonan", "friend of x"], 
+      ["Qi Gu Fei", "guest of x"], 
+      ["Hei Li", "brother of x"], 
+      ["Wang Zimo", "helper of x, admired by x"]
+    ],
+    "Qi Gu Fei": [
+      ["Xue Yan", "friend of x"], 
+      ["Luo Wanli", "helper of x, friend of x"], 
+      ["Luo Younuo", "quest companion of x, neighbour of x"], 
+      ["Mrs. Ruan", "helper of x, helped by x"], 
+      ["Wangdi", "extramarital affair with x, romantic relationships with x"], 
+      ["Zhaonan", "fiancee of x"], 
+      ["Guilang", "guest of x"], 
+      ["Hei Li", "romantic relationships with x"], 
+      ["Wang Zimo", "friend of x"]
+    ],
+    "Hei Li": [
+      ["Xue Yan", "romantic relationships with x"], 
+      ["Luo Xue Yan", "friend of x"], 
+      ["Luo Wanli", "daughter of x"], 
+      ["Luo Younuo", "fiancee of x, lover of x"], 
+      ["Mrs. Ruan", "helper of x"], 
+      ["Wangdi", "romantic relationships with x"], 
+      ["Zhaonan", "romantic relationships with x, ex romantic relationships with x"], 
+      ["Guilang", "sister in law of x"], 
+      ["Qi Gu Fei", "romantic relationships with x"], 
+      ["Wang Zimo", "lover of x, ex boyfriend of x"]
+    ],
+    "Wang Zimo": [
+      ["Luo Xue Yan", "romantic relationships with x, secret lover of x"], 
+      ["Luo Wanli", "romantic relationships with x"], 
+      ["Luo Younuo", "romantic relationships with x"], 
+      ["Mrs. Ruan", "romantic relationships with x"], 
+      ["Wangdi", "lover of x"], 
+      ["Zhaonan", "romantic relationships with x"], 
+      ["Guilang", "helper of x, admired by x"], 
+      ["Qi Gu Fei", "friend of x"], 
+      ["Hei Li", "lover of x, ex girlfriend of x"]
+    ]
+}

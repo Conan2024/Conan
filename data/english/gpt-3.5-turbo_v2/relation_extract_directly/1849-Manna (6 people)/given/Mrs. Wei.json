@@ -1,0 +1,76 @@
+{
+    "Lv Caiqian": [
+      ["Lv Shouben", "father of x lv caiqian"], 
+      ["Lv Mingran", "sibling of x lv caiqian"], 
+      ["Mingsha", "friend of x lv caiqian"], 
+      ["Xinya", "knows lv caiqian of x"], 
+      ["Tan Renchang", "acquaintance of x lv caiqian"], 
+      ["Hai You", "adoptive daughter of x lv caiqian"]
+    ],
+    "Lv Shouben": [
+      ["Lv Caiqian", "child of x lv shouben"]
+    ],
+    "Luo Mingsha": [
+      ["Lv Caiqian", "friend of x luo mingsha"], 
+      ["Tan Renchang", "wife of x luo mingsha"], 
+      ["Hai You", "adoptive mother of x luo mingsha"]
+    ],
+    "Mrs. Tan": [
+      ["Tan Renchang", "married to mrs of x, tan of x"], 
+      ["Luo Mingsha", "wife of x mrs, tan of x"]
+    ],
+    "Mrs. Wei": [
+      ["Lv Caiqian", "husband of x mrs, wei of x"], 
+      ["Hai You", "adopted mother of x mrs, wei of x"]
+    ],
+    "Li Shi": [
+      ["Lv Caiqian", "mother of x lv caiqian"], 
+      ["Lv Mingran", "mother of x lv mingran"]
+    ],
+    "Lv Mingran": [
+      ["Lv Caiqian", "sibling of x lv mingran"], 
+      ["Lv Shouben", "father of x lv mingran"], 
+      ["Xinya", "knows lv mingran of x"], 
+      ["Wei Yangyao", "adoptive father of x lv mingran"]
+    ],
+    "Mingsha": [
+      ["Lv Caiqian", "friend of x mingsha"], 
+      ["Tan Renchang", "husband of x mingsha"], 
+      ["Hai You", "adoptive daughter of x mingsha"]
+    ],
+    "Tan Renchang": [
+      ["Lv Caiqian", "acquaintance of x tan renchang"], 
+      ["Luo Mingsha", "husband of x tan renchang"], 
+      ["Hai You", "foster father of x tan renchang"], 
+      ["Shang Zhi", "roommate of x tan renchang"], 
+      ["Lv Mingran", "murdered by tan renchang of x"], 
+      ["A Ping", "murdered by tan renchang of x"]
+    ],
+    "Xinya": [
+      ["Lv Caiqian", "knows xinya"], 
+      ["Mingsha", "friend of xinya"]
+    ],
+    "Luo Hengli": [
+      ["Lv Caiqian", "friend of x luo hengli"]
+    ],
+    "Wei Yangyao": [
+      ["Lv Mingran", "adoptive father of x lv mingran"], 
+      ["Mrs. Wei", "husband of x wei yangyao"]
+    ],
+    "Hai You": [
+      ["Lv Caiqian", "adopted daughter of x hai you"], 
+      ["Luo Mingsha", "adoptive mother of x hai you"], 
+      ["Tan Renchang", "foster father of x hai you"], 
+      ["Cheng Ge", "roommate of x hai you"], 
+      ["Lv Mingran", "foster brother of x hai you"]
+    ],
+    "A Ping": [
+      ["Tan Renchang", "murdered by a ping of x"]
+    ],
+    "Shang Zhi": [
+      ["Tan Renchang", "roommate of x shang zhi"]
+    ],
+    "Cheng Ge": [
+      ["Hai You", "roommate of x cheng ge"]
+    ]
+}

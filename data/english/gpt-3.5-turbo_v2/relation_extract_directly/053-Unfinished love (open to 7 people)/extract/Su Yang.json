@@ -1,0 +1,49 @@
+{
+    "Su Yang": [
+      ["Lin Weiren", "mentor of x su yang"], 
+      ["Lin Xi", "fiancee of x su yang, romantic relationship with su yang of x, same person as lin tong (different identity) of x"], 
+      ["Lin Tong", "ex girlfriend of x su yang, romantic relationship with su yang of x"], 
+      ["Gu Qing", "liked by su yang of x"], 
+      ["Gu Ming", "murderer of x su yang, attempted murderer of x lin xi"], 
+      ["Shen Cheng", "father of x x lin tong, servant of x lin weiren"], 
+      ["Lin Yang", "brother of x lin xi"], 
+      ["Gu Yu", "liked by su yang of x"], 
+      ["qin siqin", "possible relationship of x, investigated by su yang of x"]
+    ],
+    "Lin Weiren": [
+      ["Su Yang", "student of x lin weiren"], 
+      ["Lin Xi", "daughter of x lin weiren"], 
+      ["Shen Cheng", "servant of x lin weiren"]
+    ],
+    "Lin Xi": [
+      ["Su Yang", "fiance of x lin xi, romantic relationship with su yang of x"], 
+      ["Lin Weiren", "father of x lin xi"], 
+      ["Lin Tong", "same person as lin tong (different identity) of x, romantic relationship with su yang of x"], 
+      ["Gu Ming", "killed by lin xi"], 
+      ["Shen Cheng", "father of x x lin tong"]
+    ],
+    "Lin Tong": [
+      ["Su Yang", "ex boyfriend of x x lin tong, romantic relationship with su yang of x"], 
+      ["Shen Cheng", "father of x x lin tong"]
+    ],
+    "Gu Qing": [
+      ["Su Yang", "admired by gu qing of x"]
+    ],
+    "Gu Ming": [
+      ["Lin Xi", "attempted murderer of x gu ming"]
+    ],
+    "Shen Cheng": [
+      ["Lin Tong", "father of x x lin tong"], 
+      ["Lin Xi", "father of x x lin tong"], 
+      ["Lin Weiren", "servant of x shen cheng"]
+    ],
+    "Lin Yang": [
+      ["Su Yang", "brother of x lin xi"]
+    ],
+    "Gu Yu": [
+      ["Su Yang", "liked by gu yu of x"]
+    ],
+    "qin siqin": [
+      ["Su Yang", "suspected by su yang of x"]
+    ]
+}

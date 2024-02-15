@@ -1,0 +1,27 @@
+{
+    "Qi Yue": [
+      ["Shuang Mian Hu", "victim of x"], 
+      ["Zhao Wanlei", "employee of x"], 
+      ["Zhao Wei", "employee of x"], 
+      ["zhao Luoyi", "relative of x (possibly sister)"], 
+      ["Zhao Qiuer", "relative of x (possibly sister)"]
+    ],
+    "Shuang Mian Hu": [
+      ["Qi Yue", "perpetrator of x"], 
+      ["Guo Wangshan", "manipulator of x"]
+    ],
+    "Guo Wangshan": [
+      ["Shuang Mian Hu", "manipulated by x"], 
+      ["Zhao Wanlei", "employee of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Qi Yue", "employer of x"], 
+      ["Guo Wangshan", "employer of x"]
+    ],
+    "Zhao Wei": [
+      ["Qi Yue", "employee of x"]
+    ],
+    "zhao Luoyi": [
+      ["Zhao Qiuer", "sibling of x"]
+    ]
+}

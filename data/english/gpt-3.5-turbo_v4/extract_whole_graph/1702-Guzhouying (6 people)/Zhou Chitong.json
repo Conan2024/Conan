@@ -1,0 +1,62 @@
+{
+    "Zhou Chitong": [
+      ["Zhou Mengdang", "brother of x"], 
+      ["Xi Yan", "sister in law of x, friend of x"], 
+      ["Bao Gan", "friend of x, romantic relationships with x"], 
+      ["Cui Shouheng", "brother in law of x, business partner of x"], 
+      ["Yu Su Nian", "friend of x, friend of x"], 
+      ["Zhou Lianyi", "nephew of x"], 
+      ["Cui Yannan", "niece of x"], 
+      ["Taitai", "sister in law of x"], 
+      ["Uncle Fu", "servant of x"], 
+      ["Xi Yan", "friend of x, sister in law of x"], 
+      ["Cui Shouheng", "employer of x, business partner of x"]
+    ],
+    "Zhou Mengdang": [
+      ["Zhou Chitong", "brother of x"], 
+      ["Xi Yan", "wife of x"], 
+      ["Zhou Lianyi", "son of x"], 
+      ["Cui Yannan", "daughter of x"], 
+      ["Taitai", "wife of x"], 
+      ["Cui Shouheng", "brother in law of x"]
+    ],
+    "Xi Yan": [
+      ["Zhou Chitong", "sister in law of x, friend of x"], 
+      ["Zhou Mengdang", "husband of x"], 
+      ["Zhou Lianyi", "son of x"], 
+      ["Cui Yannan", "daughter of x"], 
+      ["Bao Gan", "servant of x, friend of x"], 
+      ["Taitai", "sister of x"]
+    ],
+    "Bao Gan": [
+      ["Zhou Chitong", "friend of x, romantic relationships with x"], 
+      ["Xi Yan", "employer of x, friend of x"], 
+      ["Tian Chou", "replaced x's identity"]
+    ],
+    "Su Nian": [
+      ["Zhou Chitong", "younger brother of x, friend of x"], 
+      ["Zhou Lianyi", "friend of x"], 
+      ["Yu Su Nian", "same person as x (different identity)"]
+    ],
+    "Zhou Lianyi": [
+      ["Zhou Chitong", "nephew of x"], 
+      ["Zhou Mengdang", "son of x"], 
+      ["Xi Yan", "friend of x"], 
+      ["Su Nian", "friend of x"]
+    ],
+    "Cui Yannan": [
+      ["Zhou Chitong", "niece of x"], 
+      ["Zhou Mengdang", "daughter of x"], 
+      ["Xi Yan", "daughter of x"], 
+      ["Cui Shouheng", "daughter of x"], 
+      ["Taitai", "mother of x"]
+    ],
+    "Taitai": [
+      ["Zhou Chitong", "sister in law of x"], 
+      ["Zhou Mengdang", "husband of x"], 
+      ["Xi Yan", "sister of x"]
+    ],
+    "Uncle Fu": [
+      ["Zhou Chitong", "servant of x"]
+    ]
+}

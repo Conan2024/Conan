@@ -1,0 +1,153 @@
+{
+    "Mu Xiting": [
+      ["Xinger", "helper of x"], 
+      ["Gu Chumeng", "wife of x"], 
+      ["Mu Zhongding", "friend of x"], 
+      ["Mu Shuyi", "brother of x"], 
+      ["Mu Boxuan", "sibling of x"], 
+      ["Mu Cun", "father of x"], 
+      ["Zhang Lan", "friend of x, schoolmate of x"], 
+      ["Minxi", "friend of x, romantic relationships with x"], 
+      ["Yang Shuixun", "friend of x"], 
+      ["Zhang Fanghao", "husband of x"]
+    ],
+    "Xinger": [
+      ["Mu Xiting", "informant of x"], 
+      ["Gu Chumeng", "husband of x"], 
+      ["Mu Zhongding", "friend of x, helper of x"], 
+      ["Mu Shuyi", "friend of x, informant of x"], 
+      ["Zhang Lan", "friend of x"], 
+      ["Minxi", "friend of x"], 
+      ["Yang Shuixun", "helper of x"], 
+      ["Zhang Fanghao", "helper of x, helped by x"]
+    ],
+    "Gu Chumeng": [
+      ["Mu Xiting", "husband of x"], 
+      ["Xinger", "wife of x"], 
+      ["Mu Zhongding", "husband of x, romantic relationships with x"], 
+      ["Mu Boxuan", "fiance of x"], 
+      ["Ms. Lin", "husband of x"], 
+      ["Zhang Lan", "husband of x"], 
+      ["Minxi", "romantic relationships with x, business partner of x"], 
+      ["Shen Wusheng", "friend of x"], 
+      ["Husband of Yang Shuixun", "ex boyfriend of x"], 
+      ["Zhang Fanghao", "husband of x"]
+    ],
+    "Mu Zhongding": [
+      ["Mu Xiting", "friend of x"], 
+      ["Xinger", "friend of x, helper of x"], 
+      ["Gu Chumeng", "wife of x, romantic relationships with x"], 
+      ["Mu Shuyi", "son of x"], 
+      ["Mu Boxuan", "sibling of x"], 
+      ["Mu Cun", "sibling of x"], 
+      ["Ms. Lin", "husband of x"], 
+      ["Zhang Lan", "brother of x"], 
+      ["Minxi", "husband of x"], 
+      ["Shen Wusheng", "fiance of x"], 
+      ["Zhang Fanghao", "friend of x, mentor of x"]
+    ],
+    "Mu Shuyi": [
+      ["Mu Xiting", "brother of x"], 
+      ["Xinger", "friend of x, information receiver from x"], 
+      ["Mu Zhongding", "father of x"], 
+      ["Mu Boxuan", "sibling of x"], 
+      ["Mu Cun", "child of x"], 
+      ["Ms. Lin", "daughter of x"], 
+      ["Zhang Lan", "friend of x"], 
+      ["Minxi", "friend of x"], 
+      ["Shen Wusheng", "friend of x"], 
+      ["Yang Shuixun", "friend of x, informant of x"], 
+      ["Zhang Fanghao", "friend of x"]
+    ],
+    "Mu Boxuan": [
+      ["Mu Xiting", "sibling of x"], 
+      ["Gu Chumeng", "fiancee of x"], 
+      ["Mu Zhongding", "sibling of x"], 
+      ["Mu Shuyi", "sibling of x"], 
+      ["Mu Cun", "son of x"], 
+      ["Ms. Lin", "father of x, wife of x"], 
+      ["Zhang Lan", "brother of x"], 
+      ["Minxi", "sibling of x"], 
+      ["Yang Shuixun", "brother of x, husband of x"]
+    ],
+    "Mu Cun": [
+      ["Mu Xiting", "child of x"], 
+      ["Mu Zhongding", "sibling of x"], 
+      ["Mu Shuyi", "father of x"], 
+      ["Mu Boxuan", "father of x"], 
+      ["Ms. Lin", "husband of x"], 
+      ["Zhang Lan", "husband of x"], 
+      ["Shen Wusheng", "employer of x"], 
+      ["Yang Shuixun", "father in law of x"], 
+      ["Zhang Fanghao", "fiance of x"]
+    ],
+    "Ms. Lin": [
+      ["Gu Chumeng", "wife of x"], 
+      ["Mu Zhongding", "wife of x"], 
+      ["Mu Shuyi", "mother of x"], 
+      ["Mu Boxuan", "mother of x, husband of x"], 
+      ["Mu Cun", "wife of x"], 
+      ["Zhang Lan", "friend of x, acquaintance of x"], 
+      ["Minxi", "friend of x"], 
+      ["Shen Wusheng", "helper of x, information receiver from x"], 
+      ["Zhang Fanghao", "husband of x"]
+    ],
+    "Zhang Lan": [
+      ["Mu Xiting", "friend of x, schoolmate of x"], 
+      ["Xinger", "friend of x"], 
+      ["Gu Chumeng", "wife of x"], 
+      ["Mu Zhongding", "sister of x"], 
+      ["Mu Shuyi", "friend of x"], 
+      ["Mu Boxuan", "sister of x"], 
+      ["Mu Cun", "wife of x"], 
+      ["Ms. Lin", "friend of x, acquaintance of x"], 
+      ["Minxi", "friend of x"], 
+      ["Shen Wusheng", "friend of x"], 
+      ["Zhang Fanghao", "wife of x"]
+    ],
+    "Minxi": [
+      ["Mu Xiting", "friend of x, romantic relationships with x"], 
+      ["Xinger", "friend of x"], 
+      ["Gu Chumeng", "romantic relationships with x, business partner of x"], 
+      ["Mu Zhongding", "wife of x"], 
+      ["Mu Shuyi", "friend of x"], 
+      ["Mu Boxuan", "sibling of x"], 
+      ["Ms. Lin", "friend of x"], 
+      ["Zhang Lan", "friend of x"], 
+      ["Shen Wusheng", "helper of x, helper of x"], 
+      ["Yang Shuixun", "friend of x"], 
+      ["Zhang Fanghao", "father of x"]
+    ],
+    "Shen Wusheng": [
+      ["Gu Chumeng", "friend of x"], 
+      ["Mu Zhongding", "fiancee of x"], 
+      ["Mu Shuyi", "informant of x"], 
+      ["Mu Cun", "employee of x"], 
+      ["Ms. Lin", "informant of x, helped by x"], 
+      ["Zhang Lan", "friend of x"], 
+      ["Minxi", "helped by x, helped by x"], 
+      ["Zhang Fanghao", "informant of x, information receiver from x"]
+    ],
+    "Yang Shuixun": [
+      ["Mu Xiting", "friend of x"], 
+      ["Xinger", "helped by x"], 
+      ["Wife of Gu Chumeng", "ex girlfriend of x"], 
+      ["Mu Shuyi", "informant of x"], 
+      ["Mu Boxuan", "brother in law of x, brother in law of x"], 
+      ["Mu Cun", "son in law of x"], 
+      ["Minxi", "friend of x"]
+    ],
+    "Zhang Fanghao": [
+      ["Mu Xiting", "wife of x"], 
+      ["Xinger", "helper of x, helped by x"], 
+      ["Gu Chumeng", "wife of x"], 
+      ["Mu Zhongding", "friend of x, mentor of x"], 
+      ["Mu Shuyi", "friend of x"], 
+      ["Mu Boxuan", "sibling of x"], 
+      ["Mu Cun", "fiancee of x"], 
+      ["Ms. Lin", "wife of x"], 
+      ["Zhang Lan", "husband of x"], 
+      ["Minxi", "daughter of x"], 
+      ["Shen Wusheng", "informant of x, information receiver from x"]
+    ]
+}

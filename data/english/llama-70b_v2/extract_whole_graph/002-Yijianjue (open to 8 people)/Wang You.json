@@ -1,0 +1,24 @@
+{
+    "Wang You": [
+      ["Du Zhong", "friend of x, fellow swordsman of x"], 
+      ["Xuan Can", "friend of x, fellow adventurer of x"]
+    ],
+    "Du Zhong": [
+      ["Wang You", "friend of x, fellow adventurer of x"], 
+      ["Xuan Can", "friend of x, fellow adventurer of x"]
+    ],
+    "Xuan Can": [
+      ["Wang You", "friend of x, fellow adventurer of x"], 
+      ["Du Zhong", "friend of x, fellow adventurer of x"]
+    ],
+    "Fu Xian": [
+      ["Du Zhong", "acquaintance of x, recipient of x letter"]
+    ],
+    "Lady Safflower": [
+      ["Du Zhong", "lover of x, mother of x son"]
+    ],
+    "Son": [
+      ["Du Zhong", "father of x"], 
+      ["Lady Safflower", "mother of x"]
+    ]
+}

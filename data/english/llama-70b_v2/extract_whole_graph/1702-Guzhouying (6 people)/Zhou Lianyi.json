@@ -1,0 +1,49 @@
+{
+    "Zhou Lianyi": [
+      ["Yannan", "romantic interest of x"], 
+      ["Cui Shouheng", "business partner of x"], 
+      ["Xi Yan", "aunt of x"], 
+      ["Taitai (Wang Shi)", "aunt of x"], 
+      ["Cui Yannan", "cousin of x"], 
+      ["Zhou Chitong", "uncle of x"], 
+      ["Su Nian", "uncle of x"], 
+      ["Tian Chou", "friend of x"], 
+      ["Uncle Fu", "acquaintance of x"]
+    ],
+    "Yannan": [
+      ["Zhou Lianyi", "romantic interest of x"], 
+      ["Cui Shouheng", "father of x"]
+    ],
+    "Cui Shouheng": [
+      ["Zhou Lianyi", "business partner of x"], 
+      ["Yannan", "daughter of x"]
+    ],
+    "Xi Yan": [
+      ["Zhou Lianyi", "aunt of x"], 
+      ["Cui Yannan", "mother of x"]
+    ],
+    "Taitai (Wang Shi)": [
+      ["Zhou Lianyi", "aunt of x"], 
+      ["Cui Yannan", "daughter of x"]
+    ],
+    "Cui Yannan": [
+      ["Zhou Lianyi", "cousin of x"], 
+      ["Taitai (Wang Shi)", "daughter of x"]
+    ],
+    "Zhou Chitong": [
+      ["Zhou Lianyi", "uncle of x"], 
+      ["Yu Shi", "brother of x"]
+    ],
+    "Su Nian": [
+      ["Zhou Lianyi", "uncle of x"], 
+      ["Yu Shi", "brother of x"]
+    ],
+    "Tian Chou": [
+      ["Zhou Lianyi", "friend of x"], 
+      ["Yannan", "friend of x"]
+    ],
+    "Uncle Fu": [
+      ["Zhou Lianyi", "acquaintance of x"], 
+      ["Taitai (Wang Shi)", "acquaintance of x"]
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "He Laoliu": [
+        [
+            "Li Guofu",
+            "Suspect of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Mu Bei",
+            "colleague",
+            "suspect",
+            "acquaintance",
+            "helper"
+        ],
+        [
+            "Police",
+            "Suspect-Investigator",
+            "Acquaintance-Friend",
+            "Suspicious-Observed"
+        ],
+        [
+            "Zhang Jie",
+            "Colleague of X",
+            "Friend of X"
+        ]
+    ],
+    "Li Guofu": [
+        [
+            "He Laoliu",
+            "Suspect of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Mu Bei",
+            "Colleague",
+            "Supervisor-Subordinate",
+            "Suspect-Investigator",
+            "Friend-Acquaintance",
+            "Manipulator-Manipulated"
+        ],
+        [
+            "Police",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X"
+        ],
+        [
+            "Zhang Jie",
+            "Colleague of X",
+            "Superior of X"
+        ]
+    ],
+    "Mu Bei": [
+        [
+            "He Laoliu",
+            "colleague",
+            "suspect",
+            "acquaintance",
+            "helper"
+        ],
+        [
+            "Li Guofu",
+            "Colleague",
+            "Supervisor-Subordinate",
+            "Suspect-Investigator",
+            "Friend-Acquaintance",
+            "Manipulator-Manipulated"
+        ],
+        [
+            "Police",
+            "Superior",
+            "Suspect",
+            "Witness",
+            "Victim"
+        ]
+    ],
+    "Police": [
+        [
+            "He Laoliu",
+            "Suspect-Investigator",
+            "Acquaintance-Friend",
+            "Suspicious-Observed"
+        ],
+        [
+            "Li Guofu",
+            "Investigator of X",
+            "Suspicious of X",
+            "Adversary of X"
+        ],
+        [
+            "Mu Bei",
+            "Undercover",
+            "Investigator",
+            "Interviewer",
+            "Helping"
+        ],
+        [
+            "Zhang Jie",
+            "Colleague of X",
+            "Suspicious of X",
+            "Adversary of X"
+        ]
+    ],
+    "Zhang Jie": [
+        [
+            "He Laoliu",
+            "Colleague of X",
+            "Friend of X"
+        ],
+        [
+            "Li Guofu",
+            "Colleague of X",
+            "Subordinate of X"
+        ],
+        [
+            "Police",
+            "Colleague of X",
+            "Suspicious of X",
+            "Adversary of X"
+        ]
+    ]
+}

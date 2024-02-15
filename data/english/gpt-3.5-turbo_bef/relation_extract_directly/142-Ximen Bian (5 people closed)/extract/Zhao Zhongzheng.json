@@ -1,0 +1,22 @@
+{
+    "Zhao Zhongzheng": [
+      ["Zhao ZHONGYANG", "brother of x, attempted perpetrator of x, adversary of x"], 
+      ["Chen Meier", "romantic relationships with x"], 
+      ["Li Cheng", "helper of x, attempted perpetrator of x"], 
+      ["Zhao San", "friend of x, murderer of x"]
+    ],
+    "Zhao Zhongyang": [
+      ["Zhao Zhongzheng", "brother of x, attempted perpetrator of x, adversary of x"], 
+      ["Chen Meier", "romantic relationships with x"]
+    ],
+    "Zhao San": [
+      ["Zhao Zhongzheng", "friend of x, murderer of x"]
+    ],
+    "Chen Meier": [
+      ["Zhao Zhongzheng", "romantic relationships with x"], 
+      ["Zhao Zhongyang", "romantic relationships with x"]
+    ],
+    "Li Cheng": [
+      ["Zhao Zhongzheng", "helper of x, attempted perpetrator of x"]
+    ]
+}

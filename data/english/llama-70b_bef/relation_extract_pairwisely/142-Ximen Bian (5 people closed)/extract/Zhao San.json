@@ -1,0 +1,32 @@
+{
+    "Zhao San": [
+      ["Zhao ZHONGZHENG", "business partner of x, acquaintance of x"], 
+      ["Zhao Zhongyang", "same person as x (different reference), friend of x, helped by x"], 
+      ["ZHANG Wei", "acquaintance of x, business partner of x"], 
+      ["Ma Laoban", "business partner of x, acquaintance of x"]
+    ],
+    "Zhao ZHONGZHENG": [
+      ["Zhao San", "brother of x, business partner of x, acquaintance of x"], 
+      ["Zhao Zhongyang", "same person as x (different reference), sibling of x, rival of x, adversary of x, enemy of x"], 
+      ["ZHANG Wei", "relative of x, business partner of x, customer of x, buyer of x"], 
+      ["Ma Laoban", "business partner of x, adversary of x"]
+    ],
+    "Zhao Zhongyang": [
+      ["Zhao San", "same person as x (different reference), friend of x, helped by x"], 
+      ["Zhao ZHONGZHENG", "same person as x (different reference), sibling of x, rival of x, adversary of x, enemy of x"], 
+      ["ZHANG Wei", "acquaintance of x, business partner of x"], 
+      ["Ma Laoban", "business partner of x, acquaintance of x"]
+    ],
+    "ZHANG Wei": [
+      ["Zhao San", "acquaintance of x, business partner of x"], 
+      ["Zhao ZHONGZHENG", "relative of x, business partner of x, customer of x, buyer of x"], 
+      ["Zhao Zhongyang", "acquaintance of x, business partner of x"], 
+      ["Ma Laoban", "business partner of x, friend of x"]
+    ],
+    "Ma Laoban": [
+      ["Zhao San", "business partner of x, acquaintance of x"], 
+      ["Zhao ZHONGZHENG", "business partner of x, adversary of x"], 
+      ["Zhao Zhongyang", "business partner of x, acquaintance of x"], 
+      ["ZHANG Wei", "business partner of x, friend of x"]
+    ]
+}

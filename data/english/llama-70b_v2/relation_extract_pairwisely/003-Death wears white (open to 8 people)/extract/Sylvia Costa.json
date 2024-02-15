@@ -1,0 +1,45 @@
+{
+    "Hans Li Morette": [
+      ["Gale Li Morette", "drake li morette of x, colleague of x, friend of x"], 
+      ["Drake Li Morette", "relationship 1: colleague of x, relationship 2: friend of x"], 
+      ["Dr. Paloski", "friend of x, colleague of x"], 
+      ["Elaine Carter", "friend of x, colleague of x"], 
+      ["Richard Berkeley", "friend of x, colleague of x"]
+    ],
+    "Gale Li Morette": [
+      ["Hans Li Morette", "drake li morette of x, colleague of x, friend of x"], 
+      ["Drake Li Morette", "hans li morette of x"], 
+      ["Dr. Paloski", "relationship 1: acquaintance of x, relationship 2: defense lawyer of x"], 
+      ["Elaine Carter", "relationship 1: colleague of x, relationship 2: friend of x"], 
+      ["Richard Berkeley", "relationship 1: supervisor employee of x, relationship 2: acquaintance of x"]
+    ],
+    "Drake Li Morette": [
+      ["Hans Li Morette", "gale li morette of x, brother of x"], 
+      ["Hans Li Morette", "relationship 1: colleague of x, relationship 2: friend of x"], 
+      ["Gale Li Morette", "hans li morette of x"], 
+      ["Dr. Paloski", "colleague of x"], 
+      ["Elaine Carter", "acquaintance of x"], 
+      ["Richard Berkeley", "colleague of x"]
+    ],
+    "Dr. Paloski": [
+      ["Hans Li Morette", "friend of x, colleague of x"], 
+      ["Gale Li Morette", "relationship 1: acquaintance of x, relationship 2: defense lawyer of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Elaine Carter", "relationship 1: mentor of x, relationship 2: supervisor of x"], 
+      ["Richard Berkeley", "superior of x, employee of x, servant of x"]
+    ],
+    "Elaine Carter": [
+      ["Hans Li Morette", "friend of x, colleague of x"], 
+      ["Gale Li Morette", "relationship 1: colleague of x, relationship 2: friend of x"], 
+      ["Drake Li Morette", "acquaintance of x"], 
+      ["Dr. Paloski", "relationship 1: mentee of x, relationship 2: subordinate of x"], 
+      ["Richard Berkeley", "colleague of x"]
+    ],
+    "Richard Berkeley": [
+      ["Hans Li Morette", "friend of x, colleague of x"], 
+      ["Gale Li Morette", "relationship 1: supervisor employee of x, relationship 2: acquaintance of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Dr. Paloski", "superior of x, employer of x"], 
+      ["Elaine Carter", "colleague of x"]
+    ]
+}

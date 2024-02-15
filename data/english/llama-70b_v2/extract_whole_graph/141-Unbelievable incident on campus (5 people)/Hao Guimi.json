@@ -1,0 +1,60 @@
+{
+    "Hao Guimi": [
+      ["Cousin Sister", "close peers of x, goal of x"], 
+      ["ZHANG EBA", "suspect of x, enemy of x"], 
+      ["Lin Xiaohua", "friend of x, ally of x"], 
+      ["Wang Xuexi", "acquaintance of x, classmate of x"], 
+      ["Li Xiaodi", "acquaintance of x, classmate of x"], 
+      ["Zhao Shuaige", "acquaintance of x, classmate of x"], 
+      ["Principal", "authority figure of x"]
+    ],
+    "Cousin Sister": [
+      ["Hao Guimi", "sibling of x, deceased of x"], 
+      ["ZHANG EBA", "rapist of x, bully of x"]
+    ],
+    "ZHANG EBA": [
+      ["Hao Guimi", "suspect of x, enemy of x"], 
+      ["Cousin Sister", "rapist of x, bully of x"], 
+      ["Lin Xiaohua", "fiancee of x, abuser of x"], 
+      ["Wang Xuexi", "acquaintance of x, classmate of x"], 
+      ["Li Xiaodi", "acquaintance of x, classmate of x"], 
+      ["Zhao Shuaige", "acquaintance of x, classmate of x"]
+    ],
+    "Lin Xiaohua": [
+      ["Hao Guimi", "friend of x, ally of x"], 
+      ["ZHANG EBA", "fiancee of x, abuser of x"], 
+      ["Wang Xuexi", "acquaintance of x, classmate of x"], 
+      ["Li Xiaodi", "acquaintance of x, classmate of x"], 
+      ["Zhao Shuaige", "acquaintance of x, classmate of x"]
+    ],
+    "Wang Xuexi": [
+      ["Hao Guimi", "acquaintance of x, classmate of x"], 
+      ["ZHANG EBA", "acquaintance of x, classmate of x"], 
+      ["Lin Xiaohua", "acquaintance of x, classmate of x"], 
+      ["Li Xiaodi", "acquaintance of x, classmate of x"], 
+      ["Zhao Shuaige", "acquaintance of x, classmate of x"]
+    ],
+    "Li Xiaodi": [
+      ["Hao Guimi", "acquaintance of x, classmate of x"], 
+      ["ZHANG EBA", "acquaintance of x, classmate of x"], 
+      ["Lin Xiaohua", "acquaintance of x, classmate of x"], 
+      ["Wang Xuexi", "acquaintance of x, classmate of x"], 
+      ["Zhao Shuaige", "acquaintance of x, classmate of x"]
+    ],
+    "Zhao Shuaige": [
+      ["Hao Guimi", "acquaintance of x, classmate of x"], 
+      ["ZHANG EBA", "acquaintance of x, classmate of x"], 
+      ["Lin Xiaohua", "acquaintance of x, classmate of x"], 
+      ["Wang Xuexi", "acquaintance of x, classmate of x"], 
+      ["Li Xiaodi", "acquaintance of x, classmate of x"]
+    ],
+    "Principal": [
+      ["Hao Guimi", "authority figure of x"], 
+      ["Cousin Sister", "authority figure of x"], 
+      ["ZHANG EBA", "authority figure of x"], 
+      ["Lin Xiaohua", "authority figure of x"], 
+      ["Wang Xuexi", "authority figure of x"], 
+      ["Li Xiaodi", "authority figure of x"], 
+      ["Zhao Shuaige", "authority figure of x"]
+    ]
+}

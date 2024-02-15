@@ -1,0 +1,18 @@
+{
+    "Xuan Can": [
+      ["Du Zhong", "suspicious of x"], 
+      ["Ren Dong", "acquaintance of x"], 
+      ["Lu Ying", "master of x"]
+    ],
+    "Du Zhong": [
+      ["Xuan Can", "suspicious of x"], 
+      ["Lu Ying", "suspicious of x"]
+    ],
+    "Ren Dong": [
+      ["Xuan Can", "acquaintance of x"]
+    ],
+    "Lu Ying": [
+      ["Xuan Can", "master of x"], 
+      ["Du Zhong", "suspicious of x"]
+    ]
+}

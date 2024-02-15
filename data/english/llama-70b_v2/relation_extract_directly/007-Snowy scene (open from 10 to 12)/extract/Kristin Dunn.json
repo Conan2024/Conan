@@ -1,0 +1,22 @@
+{
+    "Kristin Dunn": [
+      ["Max Pike", "acquaintance of x, business partner of x"], 
+      ["Joe Robertson", "acquaintance of x"], 
+      ["Qiao", "suspicious of x, potential adversary of x"]
+    ],
+    "Max Pike": [
+      ["Kristin Dunn", "business partner of x, friend of x"], 
+      ["Joe Robertson", "business partner of x, friend of x"], 
+      ["Qiao", "business partner of x, co conspirator of x"]
+    ],
+    "Joe Robertson": [
+      ["Max Pike", "business partner of x, friend of x"], 
+      ["Kristin Dunn", "acquaintance of x"], 
+      ["Qiao", "business partner of x, co conspirator of x"]
+    ],
+    "Qiao": [
+      ["Max Pike", "business partner of x, co conspirator of x"], 
+      ["Joe Robertson", "business partner of x, co conspirator of x"], 
+      ["Kristin Dunn", "suspicious of x, potential adversary of x"]
+    ]
+}

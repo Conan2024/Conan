@@ -1,0 +1,53 @@
+{
+    "Judy": [
+      ["Zhang Decai", "same person as x (different identity)"], 
+      ["Zhang Yadi", "aunt of x"], 
+      ["Yao Changshou", "concubine of x"], 
+      ["Yao Zhongyi", "child of x"], 
+      ["Madam Xu", "wife of x"], 
+      ["Fang Minyue", "friend of x, romantic relationships with x"], 
+      ["Yao Mengren", "dislike of x"], 
+      ["Fang Chengshan", "father of x"], 
+      ["Fan Jinkui", "helper of x"], 
+      ["White-headed Snake", "informant of x"], 
+      ["Short-haired Woman", "business partner of x, adversary of x"], 
+      ["Young man", "saviour of x"]
+    ],
+    "Zhang Decai": [
+      ["Judy", "same person as x (different identity)"]
+    ],
+    "Zhang Yadi": [
+      ["Judy", "niece of x"]
+    ],
+    "Yao Changshou": [
+      ["Judy", "concubine of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Judy", "child of x"]
+    ],
+    "Madam Xu": [
+      ["Judy", "wife of x"]
+    ],
+    "Fang Minyue": [
+      ["Fang Chengshan", "father of x"]
+    ],
+    "Yao Mengren": [
+      ["Judy", "disliked by x"]
+    ],
+    "Fang Chengshan": [
+      ["Judy", "father of x"], 
+      ["Fang Minyue", "friend of x, romantic relationships with x"]
+    ],
+    "Fan Jinkui": [
+      ["Judy", "helper of x"]
+    ],
+    "White-headed Snake": [
+      ["Judy", "informant of x"]
+    ],
+    "Short-haired Woman": [
+      ["Judy", "business partner of x, adversary of x"]
+    ],
+    "Young man": [
+      ["Judy", "saviour of x"]
+    ]
+}

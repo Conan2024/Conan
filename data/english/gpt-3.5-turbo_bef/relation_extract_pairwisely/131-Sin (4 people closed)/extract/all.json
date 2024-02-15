@@ -1,0 +1,119 @@
+{
+    "Officer Li's girlfriend": [
+      ["Superior", "fiance of x"], 
+      ["Chief Wang", "acquaintance of x"], 
+      ["Village Chief Wang", "fiancee of x"], 
+      ["Zhang Villager's father", "romantic relationships with x"], 
+      ["Office Li", "girlfriend of x"], 
+      ["Officer Li", "romantic relationships with x"], 
+      ["Murderer", "romantic relationships with x"], 
+      ["Hu Investigate", "romantic relationships with x, informant of x"]
+    ],
+    "Superior": [
+      ["Officer Li's girlfriend", "fiancee of x"], 
+      ["Village Chief Wang", "authority over x"], 
+      ["Zhang Villager's father", "colleague of x"], 
+      ["Office Li", "subordinate of x, employer of x"], 
+      ["Hu Investigate's two sons", "subordinate of x"], 
+      ["Hu Investigate", "suspected by x"], 
+      ["Zhao Cishan", "suspected by x, adversary of x"]
+    ],
+    "Chief Wang": [
+      ["Officer Li's girlfriend", "acquaintance of x"], 
+      ["Village Chief Wang", "informant of x"], 
+      ["Office Li", "friend of x"], 
+      ["Hu Investigate's two sons", "father of x"], 
+      ["Officer Li", "helper of x"], 
+      ["Murderer", "informant of x"], 
+      ["Hu Investigate", "helper of x"]
+    ],
+    "Village Chief Wang": [
+      ["Officer Li's girlfriend", "suspicious of x"], 
+      ["Zhang Villager's father", "acquaintance of x, neighbour of x"], 
+      ["Office Li", "adversary of x"], 
+      ["Zhang Villager", "helper of x, suspect to x"], 
+      ["Officer Li", "suspected by x"], 
+      ["Murderer", "adversary of x"], 
+      ["Zhao Cishan", "suspect of x"]
+    ],
+    "Zhang Villager's father": [
+      ["Officer Li's girlfriend", "romantic relationships with x"], 
+      ["Superior", "employer of x"], 
+      ["Village Chief Wang", "acquaintance of x, neighbour of x"], 
+      ["Office Li", "father of x, possibly family of x"], 
+      ["Zhang Villager", "father of x"], 
+      ["Hu Investigate's two sons", "father of x"], 
+      ["Officer Li", "father of x"], 
+      ["Murderer", "suspect of x"], 
+      ["Hu Investigate", "helper of x"]
+    ],
+    "Office Li": [
+      ["Officer Li's girlfriend", "boyfriend of x"], 
+      ["Superior", "employee of x"], 
+      ["Chief Wang", "suspected by x"], 
+      ["Village Chief Wang", "suspected by x"], 
+      ["Zhang Villager's father", "adversary of x"], 
+      ["Zhang Villager", "informant of x"], 
+      ["Hu Investigate's two sons", "friend of x"], 
+      ["Officer Li", "friend of x"], 
+      ["Hu Investigate", "friend of x"], 
+      ["Zhao Cishan", "murderer of x"]
+    ],
+    "Zhang Villager": [
+      ["Superior", "informant of x"], 
+      ["Village Chief Wang", "helper of x, suspect of x"], 
+      ["Zhang Villager's father", "child of x"], 
+      ["Officer Li", "suspect of x"], 
+      ["Murderer", "acquaintance of x, suspected by x"], 
+      ["Hu Investigate", "friend of x"], 
+      ["Zhao Cishan", "friend of x, acquaintance of x"]
+    ],
+    "Hu Investigate's two sons": [
+      ["Superior", "superior of x"], 
+      ["Office Li", "helper of x"], 
+      ["Officer Li", "suspected by x, enemy of x"], 
+      ["Hu Investigate", "father of x"], 
+      ["Zhao Cishan", "friend of x, acquaintance of x"]
+    ],
+    "Officer Li": [
+      ["Officer Li's girlfriend", "romantic relationships with x"], 
+      ["Chief Wang", "informant of x"], 
+      ["Zhang Villager's father", "acquaintance of x"], 
+      ["Office Li", "informant of x"], 
+      ["Hu Investigate's two sons", "quest companion of x, student of x"], 
+      ["Hu Investigate", "friend of x"], 
+      ["Zhao Cishan", "suspected by x, manipulated by x"]
+    ],
+    "Murderer": [
+      ["Officer Li's girlfriend", "adversary of x"], 
+      ["Chief Wang", "suspect of x"], 
+      ["Village Chief Wang", "suspected by x"], 
+      ["Zhang Villager's father", "suspected by x"], 
+      ["Office Li", "perpetrator of x"], 
+      ["Zhang Villager", "suspected by x"], 
+      ["Officer Li", "perpetrator of x"], 
+      ["Hu Investigate", "enemy of x"], 
+      ["suspected by x", "murderer of x"]
+    ],
+    "Hu Investigate": [
+      ["Officer Li's girlfriend", "romantic relationships with x, informant of x"], 
+      ["Superior", "informant of x"], 
+      ["Chief Wang", "informant of x"], 
+      ["Zhang Villager's father", "informant of x"], 
+      ["Office Li", "friend of x"], 
+      ["Zhang Villager", "acquaintance of x"], 
+      ["Hu Investigate's two sons", "son of x"], 
+      ["Officer Li", "acquaintance of x"], 
+      ["Murderer", "suspected by x"], 
+      ["Zhao Cishan", "friend of x"]
+    ],
+    "Zhao Cishan": [
+      ["Superior", "suspect of x, adversary of x"], 
+      ["Village Chief Wang", "suspected by x"], 
+      ["Office Li", "victim of x"], 
+      ["Zhang Villager", "friend of x, acquaintance of x"], 
+      ["Hu Investigate's two sons", "friend of x, acquaintance of x"], 
+      ["Officer Li", "manipulator of x"], 
+      ["Hu Investigate", "friend of x"]
+    ]
+}

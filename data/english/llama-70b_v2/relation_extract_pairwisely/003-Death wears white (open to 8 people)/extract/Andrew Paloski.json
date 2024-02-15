@@ -1,0 +1,44 @@
+{
+    "Hans Li Morette": [
+      ["Eleine Carter", "teacher student of x, rival of x"], 
+      ["Dean Berkeley", "mentor of x, teacher of x, co worker of x"], 
+      ["Head Nurse Costa", "colleague of x, rival of x"], 
+      ["Father Tom", "mentor of x, teacher of x, superior of x, employer of x"], 
+      ["Gale Li Morette", "colleague of x, rival of x"]
+    ],
+    "Eleine Carter": [
+      ["Hans Li Morette", "teacher student of x, rival of x"], 
+      ["Dean Berkeley", "supervisor/supervisee of x"], 
+      ["Head Nurse Costa", "supervisor of x, mentor of x"], 
+      ["Father Tom", "acquaintance of x"], 
+      ["Gale Li Morette", "husband of x"]
+    ],
+    "Dean Berkeley": [
+      ["Hans Li Morette", "mentor of x, teacher of x, co worker of x"], 
+      ["Eleine Carter", "supervisor/supervisee of x"], 
+      ["Head Nurse Costa", "superior of x, employer of x"], 
+      ["Father Tom", "acquaintance of x"], 
+      ["Gale Li Morette", "hans li morette of x"]
+    ],
+    "Head Nurse Costa": [
+      ["Hans Li Morette", "colleague of x, supervisor of x"], 
+      ["Eleine Carter", "supervisee of x, mentee of x"], 
+      ["Dean Berkeley", "subordinate of x, employee of x"], 
+      ["Father Tom", "supervisor of x, employer of x"], 
+      ["Gale Li Morette", "superior of x"]
+    ],
+    "Father Tom": [
+      ["Hans Li Morette", "mentor of x, teacher of x, superior of x, employer of x"], 
+      ["Eleine Carter", "acquaintance of x"], 
+      ["Dean Berkeley", "acquaintance of x"], 
+      ["Head Nurse Costa", "supervisor of x, employer of x"], 
+      ["Gale Li Morette", "relationship 1: acquaintance of x, relationship 2: confidant of x"]
+    ],
+    "Gale Li Morette": [
+      ["Hans Li Morette", "spouse of x, victim of x"], 
+      ["Eleine Carter", "wife of x"], 
+      ["Dean Berkeley", "hans li morette of x"], 
+      ["Head Nurse Costa", "wife of x"], 
+      ["Father Tom", "relationship 1: acquaintance of x, relationship 2: confidant of x"]
+    ]
+}

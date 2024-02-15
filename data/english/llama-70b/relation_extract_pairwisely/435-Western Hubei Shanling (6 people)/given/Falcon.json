@@ -1,0 +1,903 @@
+{
+    "Adult Man": [
+        [
+            "Ba Falcon",
+            "Stranger to X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Father of X",
+            "Mansion Owner"
+        ],
+        [
+            "Chen Sha",
+            "Perpetrator of",
+            "Murderer of"
+        ],
+        [
+            "Gui Yin",
+            "Father of X",
+            "Mother of X",
+            "Uncle of X",
+            "Aunt of X",
+            "Cousin of X",
+            "Friend of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Student of X",
+            "Informant of X",
+            "Information Receiver from X",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X",
+            "Neighbour of X",
+            "Helper of X",
+            "Helped by X",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X",
+            "Attempted Perpetrator of X",
+            "Attempted Murderer of X",
+            "Victim of X",
+            "Killed by X"
+        ],
+        [
+            "Intern",
+            "Perpetrator of X",
+            "Murderer of X"
+        ],
+        [
+            "Juan Ge",
+            "Stranger to X",
+            "Acquaintance of X"
+        ],
+        [
+            "Li Gaobai",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Miao Na",
+            "Falcon's uncle",
+            "Falcon's mentor"
+        ],
+        [
+            "Miao Shi",
+            "Brother-in-law",
+            "Friend"
+        ],
+        [
+            "Mountain Spirit",
+            "Suspect of X",
+            "Perpetrator of X"
+        ],
+        [
+            "Professor Zhou",
+            "Acquaintance",
+            "Friend"
+        ],
+        [
+            "Ruya",
+            "Fiancee of X",
+            "Suspect of X"
+        ]
+    ],
+    "Ba Falcon": [
+        [
+            "Adult Man",
+            "Stranger to X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "son, brother, friend, classmate, schoolmate, neighbor, helper"
+        ],
+        [
+            "Chen Sha",
+            "friend",
+            "classmate",
+            "schoolmate"
+        ],
+        [
+            "Gui Yin",
+            "friend, mentor"
+        ],
+        [
+            "Intern",
+            "friend, mentor"
+        ],
+        [
+            "Juan Ge",
+            "Sibling, Cousin, Friend"
+        ],
+        [
+            "Li Gaobai",
+            "friend, classmate, reading companion"
+        ],
+        [
+            "Miao Na",
+            "Cousin, Nephew"
+        ],
+        [
+            "Miao Shi",
+            "Mother, Sister of X"
+        ],
+        [
+            "Mountain Spirit",
+            "friend, rival"
+        ],
+        [
+            "Professor Zhou",
+            "Friend, Mentor"
+        ],
+        [
+            "Ruya",
+            "Cousin, Childhood Friend"
+        ]
+    ],
+    "Ba Mansion Mountain": [
+        [
+            "Adult Man",
+            "Son of X",
+            "Master of X"
+        ],
+        [
+            "Ba Falcon",
+            "father, uncle, master, employer, mentor, teacher, informant"
+        ],
+        [
+            "Chen Sha",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Gui Yin",
+            "Father-in-law",
+            "Friend"
+        ],
+        [
+            "Intern",
+            "Father of X",
+            "Master of X",
+            "Employer of X"
+        ],
+        [
+            "Juan Ge",
+            "relationship 1: Father-Daughter",
+            "relationship 2: Fiance-Fiancee"
+        ],
+        [
+            "Li Gaobai",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Miao Na",
+            "relationaship 1: Father of X",
+            "relationship 2: Master of X"
+        ],
+        [
+            "Miao Shi",
+            "Father of X",
+            "Master of X"
+        ],
+        [
+            "Mountain Spirit",
+            "Father of X",
+            "Bully of X"
+        ],
+        [
+            "Professor Zhou",
+            "Employer of X",
+            "Master of X",
+            "Superior of X",
+            "Father of X",
+            "Uncle of X",
+            "Nephew of X",
+            "Cousin of X",
+            "Informant of X",
+            "Information Receiver from X"
+        ],
+        [
+            "Ruya",
+            "Father of Ruya",
+            "Master of Ruya"
+        ]
+    ],
+    "Chen Sha": [
+        [
+            "Adult Man",
+            "Victim of",
+            "Killed by"
+        ],
+        [
+            "Ba Falcon",
+            "friend",
+            "classmate",
+            "schoolmate"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Gui Yin",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)",
+            "Stranger to X",
+            "Romantic relationships with X",
+            "Ex-romantic relationships with X",
+            "Fiance of X",
+            "Fiancee of X",
+            "co-wives of X",
+            "Brother of X",
+            "Sister of X",
+            "Sibling of X",
+            "Friend of X",
+            "Mentor of X",
+            "teacher of x",
+            "Student of X",
+            "Informant of X",
+            "Information Receiver from X",
+            "Acquaintance of X",
+            "classmate of x",
+            "Schoolmate of X",
+            "Neighbour of X",
+            "Helper of X",
+            "Helped by X",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X",
+            "Attempted Perpetrator of X",
+            "Attempted Murderer of X",
+            "Victim of X",
+            "killed by x"
+        ],
+        [
+            "Intern",
+            "Romantic relationships",
+            "Friend"
+        ],
+        [
+            "Juan Ge",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Li Gaobai",
+            "friend",
+            "classmate"
+        ],
+        [
+            "Miao Shi",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Professor Zhou",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Ruya",
+            "Friend",
+            "Classmate"
+        ]
+    ],
+    "Gui Yin": [
+        [
+            "Adult Man",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)",
+            "Stranger to X",
+            "Wife of X",
+            "Husband of X",
+            "Extramarital Affair with X",
+            "Romantic relationships with X",
+            "Ex-romantic relationships with X",
+            "Fiance of X",
+            "Fiancee of X",
+            "co-wives of X",
+            "Father of X",
+            "Mother of X",
+            "Child of X",
+            "Son of X",
+            "Daughter of X",
+            "Sibling of X",
+            "Brother of X",
+            "Sister of X",
+            "Relative of X",
+            "Nephew of X",
+            "Aunt of X",
+            "Uncle of X",
+            "Niece of X",
+            "Cousin of X",
+            "Friend of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Student of X",
+            "Informant of X",
+            "Information Receiver from X",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X",
+            "Neighbour of X",
+            "Helper of X",
+            "Helped by X",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X",
+            "Attempted Perpetrator of X",
+            "Attempted Murderer of X",
+            "Victim of X",
+            "Killed by X"
+        ],
+        [
+            "Ba Falcon",
+            "friend, mentor"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Son-in-law",
+            "Friend"
+        ],
+        [
+            "Chen Sha",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)",
+            "Stranger to X",
+            "Romantic relationships with X",
+            "Ex-romantic relationships with X",
+            "Fiance of X",
+            "Fiancee of X",
+            "co-wives of X",
+            "Brother of X",
+            "Sister of X",
+            "Sibling of X",
+            "Friend of X",
+            "Mentor of X",
+            "teacher of x",
+            "Student of X",
+            "Informant of X",
+            "Information Receiver from X",
+            "Acquaintance of X",
+            "classmate of x",
+            "Schoolmate of X",
+            "Neighbour of X",
+            "Helper of X",
+            "Helped by X",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X",
+            "Attempted Perpetrator of X",
+            "Attempted Murderer of X",
+            "Victim of X",
+            "killed by x"
+        ],
+        [
+            "Intern",
+            "Teacher of X",
+            "information receiver from X"
+        ],
+        [
+            "Juan Ge",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Li Gaobai",
+            "Friend",
+            "Mentor"
+        ],
+        [
+            "Miao Na",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Miao Shi",
+            "Same person as X (different identity)",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Mountain Spirit",
+            "Friend"
+        ],
+        [
+            "Professor Zhou",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Ruya",
+            "Same person as X (different identity)",
+            "Friend of X"
+        ]
+    ],
+    "Intern": [
+        [
+            "Adult Man",
+            "Victim of X",
+            "Killed by X"
+        ],
+        [
+            "Ba Falcon",
+            "friend, mentor"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Son of X",
+            "Employee of X",
+            "Servant of X"
+        ],
+        [
+            "Chen Sha",
+            "Romantic relationships",
+            "Friend"
+        ],
+        [
+            "Gui Yin",
+            "Fiance of X",
+            "Informant of X"
+        ],
+        [
+            "Juan Ge",
+            "Classmate, Schoolmate"
+        ],
+        [
+            "Li Gaobai",
+            "friend, reading companion"
+        ],
+        [
+            "Miao Na",
+            " acquaintance",
+            "friend"
+        ],
+        [
+            "Miao Shi",
+            "Sister-in-law, Helper"
+        ],
+        [
+            "Mountain Spirit",
+            " acquaintance"
+        ],
+        [
+            "Professor Zhou",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Ruya",
+            "classmate, friend"
+        ]
+    ],
+    "Juan Ge": [
+        [
+            "Adult Man",
+            "Stranger to X",
+            "Acquaintance of X"
+        ],
+        [
+            "Ba Falcon",
+            "Sibling, Cousin, Friend"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "relationship 1: Daughter-Father",
+            "relationship 2: Fiancee-Fiance"
+        ],
+        [
+            "Chen Sha",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Gui Yin",
+            "Wife of X",
+            "Sister of X",
+            "Fiancee of X"
+        ],
+        [
+            "Intern",
+            "Classmate, Schoolmate"
+        ],
+        [
+            "Li Gaobai",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Miao Na",
+            "relationship 1: Cousin",
+            "relationship 2: Future Spouse"
+        ],
+        [
+            "Miao Shi",
+            "sister, friend"
+        ],
+        [
+            "Mountain Spirit",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Professor Zhou",
+            "friend",
+            "classmate"
+        ],
+        [
+            "Ruya",
+            "Sister",
+            "Cousin"
+        ]
+    ],
+    "Li Gaobai": [
+        [
+            "Adult Man",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Ba Falcon",
+            "friend, classmate, reading companion"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Chen Sha",
+            "friend",
+            "classmate"
+        ],
+        [
+            "Gui Yin",
+            "Friend",
+            "Mentee"
+        ],
+        [
+            "Intern",
+            "friend, reading companion"
+        ],
+        [
+            "Juan Ge",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Miao Na",
+            "Brother-in-law",
+            "Son-in-law"
+        ],
+        [
+            "Miao Shi",
+            "friend",
+            "reading companion"
+        ],
+        [
+            "Mountain Spirit",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Professor Zhou",
+            "Friend",
+            "Reading Companion"
+        ],
+        [
+            "Ruya",
+            "Friend",
+            "Reading Companion"
+        ]
+    ],
+    "Miao Na": [
+        [
+            "Adult Man",
+            "Falcon's father",
+            "Falcon's friend"
+        ],
+        [
+            "Ba Falcon",
+            "Cousin, Nephew"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "relationship 1: Son of X",
+            "relationship 2: Apprentice of X"
+        ],
+        [
+            "Gui Yin",
+            "Master of X",
+            "Employee of X"
+        ],
+        [
+            "Intern",
+            "acquaintance",
+            "friend"
+        ],
+        [
+            "Juan Ge",
+            "relationship 1: Cousin",
+            "relationship 2: Future Spouse"
+        ],
+        [
+            "Li Gaobai",
+            "Brother-in-law",
+            "Father-in-law"
+        ],
+        [
+            "Miao Shi",
+            "Sister",
+            "Sibling"
+        ],
+        [
+            "Mountain Spirit",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Professor Zhou",
+            "relationship 1: Teacher-Student",
+            "relationship 2: Employer-Employee"
+        ],
+        [
+            "Ruya",
+            "Sister, deceased"
+        ]
+    ],
+    "Miao Shi": [
+        [
+            "Adult Man",
+            "Brother-in-law",
+            "Friend"
+        ],
+        [
+            "Ba Falcon",
+            "Mother, Sister of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Mother of X",
+            "Wife of X"
+        ],
+        [
+            "Chen Sha",
+            "Mother of X",
+            "Sister of X"
+        ],
+        [
+            "Gui Yin",
+            "Same person as X (different identity)",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Intern",
+            "Mother, Helper"
+        ],
+        [
+            "Juan Ge",
+            "sister, friend"
+        ],
+        [
+            "Li Gaobai",
+            "friend",
+            "reading companion"
+        ],
+        [
+            "Miao Na",
+            "Brother",
+            "Sibling"
+        ],
+        [
+            "Mountain Spirit",
+            "Sister of X",
+            "Wizard"
+        ],
+        [
+            "Professor Zhou",
+            "Mother of X",
+            "Superior of X",
+            "Employer of X",
+            "Master of X",
+            "Subordinate of X",
+            "Employee of X",
+            "Servant of X"
+        ],
+        [
+            "Ruya",
+            "Sister, Aunt"
+        ]
+    ],
+    "Mountain Spirit": [
+        [
+            "Adult Man",
+            "Suspect of X",
+            "Perpetrator of X"
+        ],
+        [
+            "Ba Falcon",
+            "friend, rival"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Same person as X (different reference)",
+            "Victim of X"
+        ],
+        [
+            "Gui Yin",
+            "Friend"
+        ],
+        [
+            "Intern",
+            " acquaintance"
+        ],
+        [
+            "Juan Ge",
+            "Perpetrator of X",
+            "Bully of X"
+        ],
+        [
+            "Li Gaobai",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Miao Na",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Miao Shi",
+            "Fiancee of X",
+            "Bully of X"
+        ],
+        [
+            "Professor Zhou",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X",
+            "Rival of X",
+            "Manipulator of X",
+            "Manipulated by X"
+        ],
+        [
+            "Ruya",
+            "Fiancee of X",
+            "Same person as X"
+        ]
+    ],
+    "Professor Zhou": [
+        [
+            "Adult Man",
+            "Acquaintance",
+            "Friend"
+        ],
+        [
+            "Ba Falcon",
+            "Friend, Mentor"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Employer of X",
+            "Master of X",
+            "Superior of X",
+            "Father of X",
+            "Uncle of X",
+            "Nephew of X",
+            "Cousin of X",
+            "Informant of X",
+            "Information Receiver from X"
+        ],
+        [
+            "Chen Sha",
+            "Father",
+            "Teacher"
+        ],
+        [
+            "Gui Yin",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Intern",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Juan Ge",
+            "friend",
+            "classmate"
+        ],
+        [
+            "Li Gaobai",
+            "Guide",
+            "Friend"
+        ],
+        [
+            "Miao Na",
+            "relationship 1: Teacher-Student",
+            "relationship 2: Employer-Employee"
+        ],
+        [
+            "Miao Shi",
+            "Father of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Informant of X",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X"
+        ],
+        [
+            "Mountain Spirit",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X",
+            "Rival of X",
+            "Manipulator of X",
+            "Manipulated by X"
+        ],
+        [
+            "Ruya",
+            "friend",
+            "acquaintance"
+        ]
+    ],
+    "Ruya": [
+        [
+            "Adult Man",
+            "Fiance of X",
+            "Victim of X"
+        ],
+        [
+            "Ba Falcon",
+            "Cousin, Childhood Friend"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Daughter of Ba Mansion Mountain",
+            "Servant of Ba Mansion Mountain"
+        ],
+        [
+            "Chen Sha",
+            "Cousin",
+            "Friend"
+        ],
+        [
+            "Gui Yin",
+            "Same person as X (different reference)",
+            "Friend of X"
+        ],
+        [
+            "Intern",
+            "classmate, friend"
+        ],
+        [
+            "Juan Ge",
+            "Cousin",
+            "Sister"
+        ],
+        [
+            "Li Gaobai",
+            "Friend",
+            "Reading Companion"
+        ],
+        [
+            "Miao Na",
+            "Sister, deceased"
+        ],
+        [
+            "Miao Shi",
+            "Cousin, Nephew"
+        ],
+        [
+            "Mountain Spirit",
+            "Fiance of X",
+            "Same person as X"
+        ],
+        [
+            "Professor Zhou",
+            "friend",
+            "acquaintance"
+        ]
+    ]
+}

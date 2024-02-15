@@ -1,0 +1,226 @@
+{
+    "Li Luo Ming": [
+        [
+            "Li Zicai",
+            "father of"
+        ],
+        [
+            "Li Zijun",
+            "uncle of"
+        ],
+        [
+            "Xia Sanhu",
+            "stranger to"
+        ],
+        [
+            "Xia Bolong",
+            "same person as x (different reference)"
+        ],
+        [
+            "Xia Zhongpeng",
+            "acquaintance of"
+        ],
+        [
+            "Xia Shue",
+            "mentor of, romantic relationships with (Xia Shue being under 18 could be seen as romantic relationships)"
+        ],
+        [
+            "Bai Changgong",
+            "acquaintance of, debtor of"
+        ],
+        [
+            "Yu Zu Chengmu",
+            "uncle of"
+        ],
+        [
+            "Yue Dongwen",
+            "employer of"
+        ],
+        [
+            "Duan Yuetong",
+            "police officer of"
+        ],
+        [
+            "Anqi",
+            "stranger to"
+        ],
+        [
+            "Wu Baian",
+            "perpetrator of"
+        ],
+        [
+            "Lu Dong",
+            "colleague of (you fought together)"
+        ],
+        [
+            "Abao",
+            "colleague of (you fought together)"
+        ]
+    ],
+    "Li Zicai": [
+        [
+            "Li Luo Ming",
+            "son of"
+        ],
+        [
+            "Xia Sanhu",
+            "perpetrator of"
+        ]
+    ],
+    "Li Zijun": [
+        [
+            "Li Luo Ming",
+            "nephew of"
+        ],
+        [
+            "Xia Sanhu",
+            "colleague of"
+        ]
+    ],
+    "Xia Sanhu": [
+        [
+            "Li Luo Ming",
+            "stranger to"
+        ],
+        [
+            "Li Zicai",
+            "victim of"
+        ],
+        [
+            "Li Zijun",
+            "colleague of"
+        ],
+        [
+            "Xia Bolong",
+            "same person as x (different identity)"
+        ],
+        [
+            "Xia Zhongpeng",
+            "colleague of"
+        ],
+        [
+            "Xia Shue",
+            "colleague of, possible romantic relationship with (Xia Shue being underage)"
+        ],
+        [
+            "Bai Changgong",
+            "debtor of"
+        ],
+        [
+            "Yu Zu Chengmu",
+            "colleague of"
+        ],
+        [
+            "Wu Baian",
+            "victim of, perpetrator of"
+        ],
+        [
+            "Lu Dong",
+            "acquaintance of (Li Luo Ming fought together with him)"
+        ],
+        [
+            "Abao",
+            "acquaintance of (Li Luo Ming fought together with him)"
+        ]
+    ],
+    "Xia Zhongpeng": [
+        [
+            "Xia Sanhu",
+            "uncle of"
+        ],
+        [
+            "Li Luo Ming",
+            "acquaintance of"
+        ],
+        [
+            "Xia Shue",
+            "possible romantic relationship with (Xia Shue being underage)"
+        ]
+    ],
+    "Xia Shue": [
+        [
+            "Li Luo Ming",
+            "mentor of, romantic relationships with (Xia Shue being under 18 could be seen as romantic relationships)"
+        ],
+        [
+            "Xia Sanhu",
+            "colleague of, possible romantic relationship with (Xia Shue being underage)"
+        ],
+        [
+            "Xia Zhongpeng",
+            "possible romantic relationship with (Xia Shue being underage)"
+        ]
+    ],
+    "Bai Changgong": [
+        [
+            "Li Luo Ming",
+            "acquaintance of"
+        ],
+        [
+            "Xia Sanhu",
+            "debtor of"
+        ]
+    ],
+    "Yu Zu Chengmu": [
+        [
+            "Li Luo Ming",
+            "uncle of"
+        ],
+        [
+            "Xia Sanhu",
+            "colleague of"
+        ],
+        [
+            "Anqi",
+            "customer of, information receiver from"
+        ]
+    ],
+    "Yue Dongwen": [
+        [
+            "Li Luo Ming",
+            "employer of"
+        ]
+    ],
+    "Duan Yuetong": [
+        [
+            "Li Luo Ming",
+            "informant of"
+        ],
+        [
+            "Xia Sanhu",
+            "informant of"
+        ]
+    ],
+    "Anqi": [
+        [
+            "Li Luo Ming",
+            "stranger to"
+        ],
+        [
+            "Yu Zu Chengmu",
+            "information receiver from"
+        ]
+    ],
+    "Wu Baian": [
+        [
+            "Li Luo Ming",
+            "victim of, perpetrator of"
+        ],
+        [
+            "Xia Sanhu",
+            "informer of"
+        ]
+    ],
+    "Lu Dong": [
+        [
+            "Xia Sanhu",
+            "colleague of (fought together with Li Luo Ming)"
+        ]
+    ],
+    "Abao": [
+        [
+            "Xia Sanhu",
+            "colleague of (fought together with Li Luo Ming)"
+        ]
+    ]
+}

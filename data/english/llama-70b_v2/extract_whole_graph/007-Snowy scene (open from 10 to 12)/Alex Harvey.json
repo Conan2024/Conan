@@ -1,0 +1,52 @@
+{
+    "Alex Harvey": [
+      ["Marina Harrison", "close friend of x, cousin of x"], 
+      ["Jacqueline Perry", "friend of x, rival of x"], 
+      ["Harold Harrison", "acquaintance of x, marina's husband of x"], 
+      ["Davis Perry", "acquaintance of x, marina's secret lover of x"], 
+      ["Amy Morgan", "friend of x, borrowed money from of x"], 
+      ["John Morgan", "victim of x, suspect in murder investigation of x"]
+    ],
+    "Marina Harrison": [
+      ["Alex Harvey", "close friend of x, cousin of x"], 
+      ["Jacqueline Perry", "sister of x, rival of x"], 
+      ["Harold Harrison", "husband of x, boring acquaintance of x"], 
+      ["Davis Perry", "lover of x, secret relationship of x"], 
+      ["Amy Morgan", "friend of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Alex Harvey", "friend of x, rival of x"], 
+      ["Marina Harrison", "sister of x, rival of x"], 
+      ["Harold Harrison", "acquaintance of x, marina's husband of x"], 
+      ["Davis Perry", "acquaintance of x, marina's lover of x"], 
+      ["Amy Morgan", "friend of x"]
+    ],
+    "Harold Harrison": [
+      ["Alex Harvey", "acquaintance of x"], 
+      ["Marina Harrison", "wife of x, close friend of x"], 
+      ["Jacqueline Perry", "sister in law of x, rival of x"], 
+      ["Davis Perry", "acquaintance of x, marina's lover of x"], 
+      ["Amy Morgan", "acquaintance of x"]
+    ],
+    "Davis Perry": [
+      ["Alex Harvey", "acquaintance of x"], 
+      ["Marina Harrison", "lover of x, secret relationship of x"], 
+      ["Jacqueline Perry", "acquaintance of x, marina's sister of x"], 
+      ["Harold Harrison", "acquaintance of x, marina's husband of x"], 
+      ["Amy Morgan", "friend of x"]
+    ],
+    "Amy Morgan": [
+      ["Alex Harvey", "friend of x, borrowed money from of x"], 
+      ["Marina Harrison", "friend of x"], 
+      ["Jacqueline Perry", "friend of x"], 
+      ["Harold Harrison", "acquaintance of x"], 
+      ["Davis Perry", "friend of x, secret relationship with marina of x"]
+    ],
+    "John Morgan": [
+      ["Alex Harvey", "victim of x, suspect in murder investigation of x"], 
+      ["Marina Harrison", "sister in law of x"], 
+      ["Jacqueline Perry", "sister in law of x"], 
+      ["Harold Harrison", "brother in law of x"], 
+      ["Davis Perry", "acquaintance of x"]
+    ]
+}

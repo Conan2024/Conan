@@ -1,0 +1,84 @@
+{
+    "Shang Zhi": [
+      ["Tan Shang Zhi", "same person as x (different reference)"], 
+      ["Tan Renxing", "father of x"], 
+      ["Jicai Medicine Store", "related to x's family business"], 
+      ["Tan Mansion", "resident of x"], 
+      ["Yuanheng Luo", "business partner of x's family"], 
+      ["Lv", "friend of x's family"], 
+      ["Lv Mingran", "friend of x"], 
+      ["Wei family", "business partner of x's family"], 
+      ["Hai You", "adopted daughter of x's friend"], 
+      ["Zina", "romantic relationships with x (potential secret lover)"], 
+      ["Professor He", "employer of x"], 
+      ["Cai Qian", "unknown relationship with x"], 
+      ["Liao Gongzi", "unknown relationship with x"], 
+      ["A Ping", "maid of x's aunt"]
+    ],
+    "Tan Shang Zhi": [
+      ["Shang Zhi", "same person as x (different reference)"]
+    ],
+    "Shang Zhifang": [
+      ["Shang Zhi", "same person as x (different identity)"]
+    ],
+    "Tan Renxing": [
+      ["Shang Zhi", "child of x"], 
+      ["Tan Mansion", "business competitor of x"]
+    ],
+    "Jicai Medicine Store": [
+      ["Shang Zhi", "related to x's family business"]
+    ],
+    "Tan Mansion": [
+      ["Shang Zhi", "resident of x"], 
+      ["Tan Renxing", "business competitor of x"]
+    ],
+    "Yuanheng Luo": [
+      ["Shang Zhi", "business partner of x's family"]
+    ],
+    "Tan Renchang": [
+      ["Shang Zhi", "relative of x"]
+    ],
+    "Luo Family": [
+      ["Shang Zhi", "related to x's family business"]
+    ],
+    "Luo Hengli": [
+      ["Yuanheng Luo", "sibling of x"]
+    ],
+    "Lv": [
+      ["Shang Zhi", "friend of x's family"]
+    ],
+    "Lv Mingran": [
+      ["Shang Zhi", "friend of x"], 
+      ["Zina", "victim of x's cousin"], 
+      ["Wei family", "resident of x's friend"]
+    ],
+    "Wei family": [
+      ["Shang Zhi", "business partner of x's family"], 
+      ["Lv Mingran", "resident of x's friend"]
+    ],
+    "Hai You": [
+      ["Shang Zhi", "adopted sister of x's friend"], 
+      ["Lv Mingran", "relative of x's friend"]
+    ],
+    "Zina": [
+      ["Shang Zhi", "romantic relationships with x (potential secret lover)"], 
+      ["Lv Mingran", "romantic relationships with x"], 
+      ["Hai You", "acquaintance of x"]
+    ],
+    "Mrs. Wei": [
+      ["Lv Mingran", "romantic relationships with x"], 
+      ["Shang Zhi", "employee of x's cousin"]
+    ],
+    "Professor He": [
+      ["Shang Zhi", "employer of x"]
+    ],
+    "Cai Qian": [
+      ["Shang Zhi", "unknown relationship with x"]
+    ],
+    "Liao Gongzi": [
+      ["Shang Zhi", "unknown relationship with x"]
+    ],
+    "A Ping": [
+      ["Shang Zhi", "maid of x's aunt"]
+    ]
+}

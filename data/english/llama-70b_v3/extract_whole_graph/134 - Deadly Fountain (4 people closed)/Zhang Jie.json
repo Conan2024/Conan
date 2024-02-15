@@ -1,0 +1,17 @@
+{
+    "Zhang Jie": [
+      ["Li Guofu", "adversary of x"], 
+      ["Mu Bei", "rival of x"], 
+      ["He Laoliu", "acquaintance of x"]
+    ],
+    "Li Guofu": [
+      ["Zhang Jie", "subordinate of x, manipulator of x"]
+    ],
+    "Mu Bei": [
+      ["Li Guofu", "manipulator of x"]
+    ],
+    "He Laoliu": [
+      ["Zhang Jie", "acquaintance of x"], 
+      ["Li Guofu", "manipulator of x"]
+    ]
+}

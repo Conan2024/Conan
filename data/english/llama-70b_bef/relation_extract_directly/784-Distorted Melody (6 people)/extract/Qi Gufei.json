@@ -1,0 +1,39 @@
+{
+    "Qi Gufei": [
+      ["Luo Younuo", "acquaintance of x, friend of x"], 
+      ["Hei Li", "friend of x"]
+    ],
+    "Zhaonan": [
+      ["Hei Li", "friend of x"], 
+      ["Luo Younuo", "acquaintance of x"]
+    ],
+    "Hei Li": [
+      ["Qi Gufei", "friend of x"], 
+      ["Zhaonan", "friend of x"], 
+      ["Luo Younuo", "acquaintance of x"]
+    ],
+    "Guilang": [
+      ["Qi Gufei", "brother of x, friend of x"], 
+      ["Zhaonan", "sister of x, friend of x"]
+    ],
+    "Luo Xiucai": [
+      ["Qi Gufei", "acquaintance of x, rival of x"], 
+      ["Zhaonan", "acquaintance of x"]
+    ],
+    "Luo Younuo": [
+      ["Qi Gufei", "acquaintance of x, friend of x"], 
+      ["Zhaonan", "acquaintance of x"]
+    ],
+    "Xue Yan": [
+      ["Hei Li", "friend of x"], 
+      ["Luo Xiucai", "daughter of x"]
+    ],
+    "Wangdi": [
+      ["Zhaonan", "sister of x"], 
+      ["Guilang", "brother of x"]
+    ],
+    "Baron Smith": [
+      ["Qi Gufei", "employer of x"], 
+      ["Hei Li", "employer of x"]
+    ]
+}

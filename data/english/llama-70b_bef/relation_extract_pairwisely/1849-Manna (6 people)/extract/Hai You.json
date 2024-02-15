@@ -1,0 +1,124 @@
+{
+    "Hai You": [
+      ["Zhou Shi", "mother of x"], 
+      ["Wei Yangyao", "cousin of x"], 
+      ["Lv Caiqian", "cousin of x"], 
+      ["Mrs. Tan", "friend of x"], 
+      ["Tan Renchang", "friend of x"], 
+      ["Shang Zhi", "friend of x"], 
+      ["Lv Mingran", "friend of x"]
+    ],
+    "Wei Yangfeng": [
+      ["Zhou Shi", "mother of x"], 
+      ["Wei Yangyao", "father of x, same person as x (different reference)"], 
+      ["Lv Caiqian", "mother of x"], 
+      ["Mrs. Tan", "adoptive mother of x"], 
+      ["Tan Renchang", "father of x, same person as x (different reference)"], 
+      ["Shang Zhi", "father in law of x, adoptive father of x"], 
+      ["A Ping", "father of x, mother of x"], 
+      ["Cheng Ge", "father of x, mother of x"]
+    ],
+    "Zhou Shi": [
+      ["Hai You", "child of x"], 
+      ["Wei Yangfeng", "father of x"], 
+      ["Wei Yangyao", "mother of x"], 
+      ["Lv Caiqian", "mother of x"], 
+      ["Mrs. Tan", "friend of x"], 
+      ["Tan Renchang", "mother in law of x"], 
+      ["Shang Zhi", "adoptive mother of x"], 
+      ["Lv Mingran", "mother of x"], 
+      ["A Ping", "mother of x"], 
+      ["Cheng Ge", "mother of x, wife of x"]
+    ],
+    "Wei Yangyao": [
+      ["Hai You", "adoptive mother of x, cousin of x"], 
+      ["Wei Yangfeng", "son of x, same person as x (different identity)"], 
+      ["Zhou Shi", "cousin of x, adoptive mother of x"], 
+      ["Lv Caiqian", "mother in law of x, adoptive mother of x"], 
+      ["Shang Zhi", "adoptive mother of x, adoptive brother of x"], 
+      ["Lv Mingran", "cousin of x"], 
+      ["A Ping", "mother in law of x, adoptive mother of x"], 
+      ["Cheng Ge", "adoptive mother of x"]
+    ],
+    "Lv Caiqian": [
+      ["Hai You", "cousin of x, adoptive mother of x"], 
+      ["Wei Yangfeng", "wife of x, cousin of x"], 
+      ["Zhou Shi", "sister of x"], 
+      ["Wei Yangyao", "daughter in law of x, adoptive daughter of x"], 
+      ["Mrs. Tan", "friend of x"], 
+      ["Tan Renchang", "wife of x"], 
+      ["Shang Zhi", "wife of x, sister of x"], 
+      ["Lv Mingran", "sibling of x, cousin of x"], 
+      ["A Ping", "mother of x, cousin of x"]
+    ],
+    "Mrs. Tan": [
+      ["Hai You", "friend of x"], 
+      ["Wei Yangfeng", "adoptive daughter of x"], 
+      ["Zhou Shi", "adoptive mother of x, friend of x"], 
+      ["Wei Yangyao", "adoptive mother of x"], 
+      ["Lv Caiqian", "adoptive mother of x, friend of x"], 
+      ["Tan Renchang", "adoptive mother of x, wife of x"], 
+      ["Shang Zhi", "adoptive mother of x, mentor of x"], 
+      ["A Ping", "adoptive mother of x, mentor of x"], 
+      ["Cheng Ge", "adoptive mother of x, mentor of x"]
+    ],
+    "Tan Renchang": [
+      ["Hai You", "adoptive father of x, friend of x"], 
+      ["Wei Yangfeng", "son of x, same person as x (different reference)"], 
+      ["Zhou Shi", "husband of x, adoptive father of x"], 
+      ["Wei Yangyao", "adoptive father of x"], 
+      ["Lv Caiqian", "husband of x"], 
+      ["Mrs. Tan", "husband of x"], 
+      ["Shang Zhi", "husband of x, same person as x (different reference)"], 
+      ["Lv Mingran", "husband of x"], 
+      ["A Ping", "husband of x, father of x, master of x, employer of x"], 
+      ["Cheng Ge", "husband of x, same person as x (different identity)"]
+    ],
+    "Shang Zhi": [
+      ["Hai You", "friend of x"], 
+      ["Wei Yangfeng", "son in law of x"], 
+      ["Zhou Shi", "adoptive brother of x"], 
+      ["Wei Yangyao", "adoptive brother of x, adoptive son of x"], 
+      ["Lv Caiqian", "husband of x, brother of x"], 
+      ["Mrs. Tan", "adoptive brother of x, student of x"], 
+      ["Tan Renchang", "nephew of x, same person as x (different reference)"], 
+      ["Lv Mingran", "brother in law of x, adoptive brother of x"], 
+      ["A Ping", "adoptive brother of x, friend of x"], 
+      ["Cheng Ge", "adoptive brother of x, friend of x"]
+    ],
+    "Lv Mingran": [
+      ["Hai You", "adoptive mother of x, friend of x"], 
+      ["Wei Yangfeng", "son of x, adoptive son of x"], 
+      ["Zhou Shi", "son of x"], 
+      ["Wei Yangyao", "cousin of x"], 
+      ["Lv Caiqian", "sibling of x, cousin of x"], 
+      ["Mrs. Tan", "adoptive daughter of x"], 
+      ["Tan Renchang", "wife of x, same person as x (different identity)"], 
+      ["Shang Zhi", "brother in law of x, adoptive brother of x"], 
+      ["A Ping", "cousin of x, adoptive mother of x"], 
+      ["Cheng Ge", "husband of x"]
+    ],
+    "A Ping": [
+      ["Hai You", "adoptive mother of x"], 
+      ["Wei Yangfeng", "son of x, brother of x"], 
+      ["Zhou Shi", "daughter of x"], 
+      ["Wei Yangyao", "husband of x, father in law of x"], 
+      ["Lv Caiqian", "daughter of x, niece of x"], 
+      ["Mrs. Tan", "adoptive daughter of x"], 
+      ["Tan Renchang", "wife of x, mother of x, superior of x, employee of x"], 
+      ["Shang Zhi", "adoptive brother of x, friend of x"], 
+      ["Lv Mingran", "cousin of x, adoptive daughter of x"], 
+      ["Cheng Ge", "same person as x (different reference), same person as x (different identity)"]
+    ],
+    "Cheng Ge": [
+      ["Hai You", "adoptive mother of x"], 
+      ["Wei Yangfeng", "son of x, brother of x"], 
+      ["Zhou Shi", "father of x, husband of x"], 
+      ["Wei Yangyao", "adoptive daughter of x"], 
+      ["Mrs. Tan", "adoptive daughter of x"], 
+      ["Tan Renchang", "wife of x, same person as x (different reference)"], 
+      ["Shang Zhi", "adoptive brother of x, friend of x"], 
+      ["Lv Mingran", "wife of x"], 
+      ["A Ping", "wife of x, husband of x"]
+    ]
+}

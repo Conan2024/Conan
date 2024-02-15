@@ -1,0 +1,44 @@
+{
+    "Lu Ying": [
+      ["Lover", "romantic relationships with x"], 
+      ["Du Zhong", "big disciple of x"], 
+      ["Ling Xiao", "lover of x, secret lover of x"], 
+      ["Zi Su", "secret lover of x"], 
+      ["Xuan Can", "co wives of x"]
+    ],
+    "Lover": [
+      ["Lu Ying", "romantic relationships with x"], 
+      ["Du Zhong", "lover of x"], 
+      ["Ling Xiao", "lover of x ling xiao"], 
+      ["Zi Su", "lover of x"], 
+      ["Xuan Can", "secret lover of x"]
+    ],
+    "Du Zhong": [
+      ["Lu Ying", "master of x"], 
+      ["Lover", "lover of x"], 
+      ["Ling Xiao", "big disciple of x"], 
+      ["Zi Su", "master of x"], 
+      ["Xuan Can", "big disciple of x yi jian villa, master and disciple of x"]
+    ],
+    "Ling Xiao": [
+      ["Lu Ying", "lover of x, secret lover of x"], 
+      ["Lover", "lover of x lover"], 
+      ["Du Zhong", "master of x"], 
+      ["Zi Su", "mentor of x, secret lover of x"], 
+      ["Xuan Can", "friend of x"]
+    ],
+    "Zi Su": [
+      ["Lu Ying", "secret lover of x"], 
+      ["Lover", "lover of x"], 
+      ["Du Zhong", "big disciple of x"], 
+      ["Ling Xiao", "student of x, secret lover of x"], 
+      ["Xuan Can", "friend of x"]
+    ],
+    "Xuan Can": [
+      ["Lu Ying", "co wives of x"], 
+      ["Lover", "secret lover of x"], 
+      ["Du Zhong", "master and disciple of x"], 
+      ["Ling Xiao", "friend of x"], 
+      ["Zi Su", "friend of x"]
+    ]
+}

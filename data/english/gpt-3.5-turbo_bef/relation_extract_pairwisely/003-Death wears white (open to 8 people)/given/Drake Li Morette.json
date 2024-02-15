@@ -1,0 +1,30 @@
+{
+    "Hans Li Morette": [
+      ["Gale Li Morette", "brother in law of x"], 
+      ["Sylvia Costa", "colleague of x"], 
+      ["Dr. Paloski", "mentor of x"], 
+      ["Richard Berkeley", "employer of x"]
+    ],
+    "Gale Li Morette": [
+      ["Hans Li Morette", "brother in law of x"], 
+      ["Sylvia Costa", "wife of x"], 
+      ["Dr. Paloski", "friend of x"], 
+      ["Richard Berkeley", "husband of x"]
+    ],
+    "Sylvia Costa": [
+      ["Hans Li Morette", "colleague of x"], 
+      ["Gale Li Morette", "husband of x"], 
+      ["Dr. Paloski", "colleague of x"]
+    ],
+    "Dr. Paloski": [
+      ["Hans Li Morette", "student of x"], 
+      ["Gale Li Morette", "teacher of x"], 
+      ["Sylvia Costa", "colleague of x"], 
+      ["Richard Berkeley", "mentor of x"]
+    ],
+    "Richard Berkeley": [
+      ["Hans Li Morette", "employee of x"], 
+      ["Gale Li Morette", "employer of x"], 
+      ["Dr. Paloski", "employer of x"]
+    ]
+}

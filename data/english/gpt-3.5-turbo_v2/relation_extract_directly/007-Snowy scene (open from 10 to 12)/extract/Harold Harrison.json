@@ -1,0 +1,32 @@
+{
+    "Harold Harrison": [
+      ["Marina", "wife of x, romantic relationships with x"], 
+      ["Lucy Harrison", "child of x"], 
+      ["Anna", "ex wife of x"], 
+      ["Amy Morgan", "sibling of x"], 
+      ["Jacqueline Perry", "sister in law of x, co worker of x"]
+    ],
+    "Marina": [
+      ["Harold Harrison", "husband of x, romantic relationships with x"], 
+      ["Lucy Harrison", "child of x"], 
+      ["Anna", "ex wife of x's husband"], 
+      ["Amy Morgan", "sibling in law of x"], 
+      ["Jacqueline Perry", "sister of x, co worker of x"]
+    ],
+    "Lucy Harrison": [
+      ["Harold Harrison", "father of x"], 
+      ["Marina", "mother of x"]
+    ],
+    "Anna": [
+      ["Harold Harrison", "ex husband of x"], 
+      ["Marina", "ex husband of x's sister"]
+    ],
+    "Amy Morgan": [
+      ["Harold Harrison", "sibling of x"], 
+      ["Marina", "sibling in law of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Harold Harrison", "sister in law of x, co worker of x"], 
+      ["Marina", "sister of x, co worker of x"]
+    ]
+}

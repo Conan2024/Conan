@@ -1,0 +1,58 @@
+{
+    "Ling Xiao": [
+        [
+            "Master",
+            "student of x, information receiver from x"
+        ],
+        [
+            "Second Senior Uncle",
+            "student of x, friend of x, suspect of x, possibly family of x"
+        ],
+        [
+            "Eldest Senior Brother/Sister Du Zhong",
+            "student of x"
+        ]
+    ],
+    "Master": [
+        [
+            "Ling Xiao",
+            "mentor of x, informant of x"
+        ],
+        [
+            "Second Senior Uncle",
+            "student of x"
+        ],
+        [
+            "Eldest Senior Brother/Sister Du Zhong",
+            "student of x"
+        ]
+    ],
+    "Second Senior Uncle": [
+        [
+            "Ling Xiao",
+            "mentor of x, employer of x"
+        ],
+        [
+            "Master",
+            "employer of x"
+        ],
+        [
+            "Eldest Senior Brother/Sister Du Zhong",
+            "business partner of x"
+        ]
+    ],
+    "Eldest Senior Brother/Sister Du Zhong": [
+        [
+            "Ling Xiao",
+            "teacher of x"
+        ],
+        [
+            "Master",
+            "mentor of x"
+        ],
+        [
+            "Second Senior Uncle",
+            "business partner of x"
+        ]
+    ]
+}

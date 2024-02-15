@@ -1,0 +1,59 @@
+{
+    "Yao Zhongyi": [
+      ["Yao Changshou", "father of x"], 
+      ["Zhang Yadi", "mother of x"], 
+      ["Yao Mengren", "brother of x"], 
+      ["Minyue Sister", "sister in law of x"], 
+      ["Zhang Decai", "cousin of x"], 
+      ["Yu Junhong", "friend of x"], 
+      ["Chen Junmeng", "sister in law of x"], 
+      ["Doctor Fang", "acquaintance of x"]
+    ],
+    "Yao Changshou": [
+      ["Yao Zhongyi", "son of x"], 
+      ["Madam Xu", "wife of x"]
+    ],
+    "Zhang Yadi": [
+      ["Yao Zhongyi", "son of x"], 
+      ["Yao Changshou", "husband of x"]
+    ],
+    "Madam Xu": [
+      ["Yao Mengren", "son of x"], 
+      ["Yao Changshou", "wife of x"]
+    ],
+    "Yao Mengren": [
+      ["Yao Zhongyi", "brother of x"], 
+      ["Madam Xu", "mother of x"]
+    ],
+    "Minyue Sister": [
+      ["Yao Zhongyi", "sister in law of x"], 
+      ["Zhang Decai", "cousin of x"]
+    ],
+    "Zhang Decai": [
+      ["Minyue Sister", "cousin of x"], 
+      ["Yao Mengren", "brother of x"]
+    ],
+    "Yu Junhong": [
+      ["Yao Zhongyi", "friend of x"]
+    ],
+    "Chen Junmeng": [
+      ["Yao Zhongyi", "sister in law of x"], 
+      ["Yao Mengren", "wife of x"]
+    ],
+    "Lady Hong": [
+      ["Yao Changshou", "wife of x"]
+    ],
+    "Doctor Fang": [
+      ["Yao Zhongyi", "acquaintance of x"]
+    ],
+    "Uncle Gui": [
+      ["Yao Zhongyi", "acquaintance of x"]
+    ],
+    "Xu Boqing": [
+      ["Yao Changshou", "friend of x"]
+    ],
+    "Yun Ling": [
+      ["Yao Zhongyi", "friend of x"], 
+      ["Yao Changshou", "girlfriend of x"]
+    ]
+}

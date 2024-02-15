@@ -1,0 +1,377 @@
+{
+    "Chen Jingwen": [
+        [
+            "Gu Qing",
+            "Wife of X",
+            "Mother of X's child"
+        ],
+        [
+            "Gu Yu",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect"
+        ],
+        [
+            "Lin Weiren",
+            "Wife of X",
+            "Extramarital Affair with X",
+            "Romantic relationships with X",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "Lin Xi",
+            "Relationship 1: Acquaintance",
+            "Relationship 2: Suspect"
+        ],
+        [
+            "Qin Siqin",
+            "Wife of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Su Yang",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect of murder"
+        ],
+        [
+            "Zheng Xinmei",
+            "Daughter of",
+            "Stranger to"
+        ]
+    ],
+    "Gu Qing": [
+        [
+            "Chen Jingwen",
+            "Husband of X",
+            "Father of X's child"
+        ],
+        [
+            "Gu Minghe",
+            "Sibling of X",
+            "Co-workers"
+        ],
+        [
+            "Gu Yu",
+            "sister"
+        ],
+        [
+            "Lin Weiren",
+            "Same person as X (different identity)",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Lin Xi",
+            "relationship 1: Acquaintance",
+            "relationship 2: Friend"
+        ],
+        [
+            "Qin Siqin",
+            "Sister-in-law"
+        ],
+        [
+            "Su Yang",
+            "Wife of X",
+            "Fiancee of X"
+        ],
+        [
+            "Zheng Xinmei",
+            "Sister",
+            "Informant of"
+        ]
+    ],
+    "Gu Yu": [
+        [
+            "Chen Jingwen",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect"
+        ],
+        [
+            "Gu Minghe",
+            "Son of X",
+            "General Manager of X",
+            "Employee of X"
+        ],
+        [
+            "Gu Qing",
+            "sister",
+            "acquaintance"
+        ],
+        [
+            "Lin Weiren",
+            "relationship 1: Superior of X (Gu Yu is the general manager of the company, and Lin Weiren is the Dean of the hospital.)",
+            "relationship 2: Enemy of X (Gu Yu and Lin Weiren have a conflicting relationship due to their involvement in the medical equipment scandal.)"
+        ],
+        [
+            "Lin Xi",
+            "relationship 1: Boyfriend",
+            "relationship 2: Ex-boyfriend"
+        ],
+        [
+            "Qin Siqin",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect of murder"
+        ],
+        [
+            "Su Yang",
+            "Ex-romantic relationships",
+            "Friend"
+        ],
+        [
+            "Zheng Xinmei",
+            "relationship 1: Stranger to X (different reference)",
+            "relationship 2: Helper of X"
+        ]
+    ],
+    "Lin Weiren": [
+        [
+            "Chen Jingwen",
+            "Husband of X",
+            "Fiance of X",
+            "Fiancee of X",
+            "Co-wives of X"
+        ],
+        [
+            "Gu Minghe",
+            "Superior of X",
+            "Employer of X",
+            "Master of X",
+            "Subordinate of X",
+            "Employee of X"
+        ],
+        [
+            "Gu Qing",
+            "Husband of X",
+            "Father of X"
+        ],
+        [
+            "Gu Yu",
+            "relationship 1: Subordinate of X (Lin Weiren is the Dean of the hospital, and Gu Yu is the general manager of the company.)",
+            "relationship 2: Adversary of X (Lin Weiren and Gu Yu have a conflicting relationship due to their involvement in the medical equipment scandal.)"
+        ],
+        [
+            "Lin Xi",
+            "relationship 1: Father-Daughter",
+            "relationship 2: Doctor-Patient"
+        ],
+        [
+            "Qin Siqin",
+            "Relationship 1: Superior of X (Lin Weiren is the dean of Renhe Hospital, and Qin Siqin is a patient who died due to the hospital's medical equipment)",
+            "Relationship 2: Attempted Perpetrator of X (Lin Weiren tried to cover up the truth about Qin Siqin's death, and Qin Siqin's family suffered from lack of evidence and had to give up prosecution)"
+        ],
+        [
+            "Su Yang",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect of murder"
+        ],
+        [
+            "Zheng Xinmei",
+            "Superior of x",
+            "Employer of X"
+        ]
+    ],
+    "Lin Xi": [
+        [
+            "Chen Jingwen",
+            "Relationship 1: Acquaintance",
+            "Relationship 2: Suspect"
+        ],
+        [
+            "Gu Minghe",
+            "relationship 1: Daughter-Father",
+            "relationship 2: Employee-Employer"
+        ],
+        [
+            "Gu Qing",
+            "relationship 1: Acquaintance",
+            "relationship 2: Friend"
+        ],
+        [
+            "Gu Yu",
+            "relationship 1: Girlfriend",
+            "relationship 2: Fiance"
+        ],
+        [
+            "Lin Weiren",
+            "relationship 1: Father-Daughter",
+            "relationship 2: Doctor-Patient"
+        ],
+        [
+            "Qin Siqin",
+            "relationship 1: acquaintance",
+            "relationship 2: friend"
+        ],
+        [
+            "Su Yang",
+            "Ex-romantic relationships with X",
+            "Stranger to X"
+        ],
+        [
+            "Zheng Xinmei",
+            "Stranger to X"
+        ]
+    ],
+    "Qin Siqin": [
+        [
+            "Chen Jingwen",
+            "Husband of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Gu Minghe",
+            "relationship 1: Victim of medical equipment infection",
+            "relationship 2: Mother of unborn child"
+        ],
+        [
+            "Gu Qing",
+            "Brother-in-law"
+        ],
+        [
+            "Gu Yu",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect of murder"
+        ],
+        [
+            "Lin Weiren",
+            "Relationship 1: Victim of X (Qin Siqin died due to the medical equipment used by Renhe Hospital, and Lin Weiren was the dean of the hospital at the time)",
+            "Relationship 2: Attempted Murderer of X (Lin Weiren tried to cover up the truth about Qin Siqin's death, and Qin Siqin's family suffered from lack of evidence and had to give up prosecution)"
+        ],
+        [
+            "Lin Xi",
+            "relationship 1: acquaintance",
+            "relationship 2: friend"
+        ],
+        [
+            "Su Yang",
+            "relationship 1: Victim of medical equipment infection",
+            "relationship 2: Suspect of murdering Gu Ming"
+        ],
+        [
+            "Zheng Xinmei",
+            "Victim of medical equipment infection",
+            "Beneficiary of Gu Yu's compensation"
+        ]
+    ],
+    "Su Yang": [
+        [
+            "Chen Jingwen",
+            "relationship 1: Fiance",
+            "relationship 2: Suspect of murder"
+        ],
+        [
+            "Gu Minghe",
+            "relationship 1: Fiance of X's father",
+            "relationship 2: Husband of X's father"
+        ],
+        [
+            "Gu Qing",
+            "Husband of X",
+            "Fiance of X"
+        ],
+        [
+            "Gu Yu",
+            "Ex-romantic relationships",
+            "Friend"
+        ],
+        [
+            "Lin Weiren",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect of murder"
+        ],
+        [
+            "Lin Xi",
+            "Romantic relationships with X",
+            "Fiance of X"
+        ],
+        [
+            "Qin Siqin",
+            "relationship 1: Fiancé",
+            "relationship 2: Accomplice in murdering Gu Ming"
+        ],
+        [
+            "Zheng Xinmei",
+            "relationship 1: Stranger to X (different reference)",
+            "relationship 2: Wife of X"
+        ]
+    ],
+    "Zheng Xinmei": [
+        [
+            "Chen Jingwen",
+            "Mother of",
+            "Victim of"
+        ],
+        [
+            "Gu Minghe",
+            "relationship 1: Victim of medical equipment infection",
+            "relationship 2: Mother of unborn child"
+        ],
+        [
+            "Gu Qing",
+            "Mother",
+            "Victim of"
+        ],
+        [
+            "Gu Yu",
+            "relationship 1: Helped by X",
+            "relationship 2: Fiancee of X"
+        ],
+        [
+            "Lin Weiren",
+            "Subordinate of X",
+            "Employee of X"
+        ],
+        [
+            "Lin Xi",
+            "Victim of X"
+        ],
+        [
+            "Qin Siqin",
+            "Mother of Chen Jingwen",
+            "Recipient of Gu Yu's support"
+        ],
+        [
+            "Su Yang",
+            "relationship 1: Stranger to X (different reference)",
+            "relationship 2: Husband of X"
+        ]
+    ],
+    "Gu Minghe": [
+        [
+            "Gu Qing",
+            "Sibling of X",
+            "Co-workers"
+        ],
+        [
+            "Gu Yu",
+            "Father of X",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Lin Weiren",
+            "Superior of X",
+            "Employer of X",
+            "Master of X",
+            "Subordinate of X",
+            "Employee of X"
+        ],
+        [
+            "Lin Xi",
+            "relationship 1: Father-Daughter",
+            "relationship 2: Employer-Employee"
+        ],
+        [
+            "Qin Siqin",
+            "relationship 1: Victim of medical equipment infection",
+            "relationship 2: Father of unborn child"
+        ],
+        [
+            "Su Yang",
+            "relationship 1: Father of X's fiancee",
+            "relationship 2: Father of X's husband"
+        ],
+        [
+            "Zheng Xinmei",
+            "relationship 1: Victim of medical equipment infection",
+            "relationship 2: Father of unborn child"
+        ]
+    ]
+}

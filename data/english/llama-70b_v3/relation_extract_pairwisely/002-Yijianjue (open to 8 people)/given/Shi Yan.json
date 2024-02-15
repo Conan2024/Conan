@@ -1,0 +1,35 @@
+{
+    "Du Zhong": [
+      ["Feng", "mentor of x, bully of x"], 
+      ["Lady Safflower", "mentor of x, betrayer of x"], 
+      ["Lu Ying", "suspect of x"], 
+      ["Shi Yan", "enemy of x, deceiver of x"]
+    ],
+    "Feng": [
+      ["Du Zhong", "mentor of x, bully of x"], 
+      ["Lu Ying", "acquaintance of x, suspect of x"], 
+      ["Shi Yan", "friend of x"]
+    ],
+    "Lady Safflower": [
+      ["Du Zhong", "victim of x"], 
+      ["Feng", "master of x"], 
+      ["Lu Ying", "mentor of x, friend of x"], 
+      ["Martial Alliance's Investigator", "mentor of x"], 
+      ["Shi Yan", "mentor of x, friend of x"]
+    ],
+    "Lu Ying": [
+      ["Du Zhong", "suspect of x"], 
+      ["Feng", "acquaintance of x, suspect of x"], 
+      ["Lady Safflower", "friend of x"], 
+      ["Martial Alliance's Investigator", "suspect of x, adversary of x"], 
+      ["Shi Yan", "acquaintance of x, suspect of x"]
+    ],
+    "Shi Yan": [
+      ["Du Zhong", "enemy of x, deceived by x"], 
+      ["Lady Safflower", "friend of x"], 
+      ["Lu Ying", "acquaintance of x, suspect of x"]
+    ],
+    "Martial Alliance's Investigator": [
+      ["Lu Ying", "suspect of x, adversary of x"]
+    ]
+}

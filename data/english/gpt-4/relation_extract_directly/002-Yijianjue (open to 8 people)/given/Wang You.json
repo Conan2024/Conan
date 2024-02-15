@@ -1,0 +1,92 @@
+{
+    "Wang You": [
+        [
+            "Du Zhong",
+            "sworn brother of x, informant of x"
+        ],
+        [
+            "Du Zhong's Child",
+            "helper of x, possibly family of x"
+        ],
+        [
+            "Xuan Can",
+            "sworn brother of x, colleague of x"
+        ],
+        [
+            "Lady Safflower",
+            "acquaintance of x, admirer of x"
+        ]
+    ],
+    "Du Zhong": [
+        [
+            "Wang You",
+            "sworn brother of x, information receiver from x"
+        ],
+        [
+            "Du Zhong's Child",
+            "father of x, biological father of x"
+        ],
+        [
+            "Xuan Can",
+            "sworn brother of x, business partner of x"
+        ],
+        [
+            "Lady Safflower",
+            "romantic relationships with x, mother of x's child"
+        ]
+    ],
+    "Xuan Can": [
+        [
+            "Wang You",
+            "sworn brother of x, colleague of x"
+        ],
+        [
+            "Du Zhong",
+            "sworn brother of x, business partner of x"
+        ],
+        [
+            "Du Zhong's Child",
+            "possibly family of x"
+        ],
+        [
+            "Lady Safflower",
+            "acquaintance of x"
+        ]
+    ],
+    "Du Zhong's Child": [
+        [
+            "Wang You",
+            "informed by x, possibly family of x"
+        ],
+        [
+            "Du Zhong",
+            "son of x, biological son of x"
+        ],
+        [
+            "Xuan Can",
+            "possibly family of x"
+        ],
+        [
+            "Lady Safflower",
+            "mother of x, biological mother of x"
+        ]
+    ],
+    "Lady Safflower": [
+        [
+            "Wang You",
+            "acquaintance of x, admired by x"
+        ],
+        [
+            "Du Zhong",
+            "romantic relationships with x, mother of x's child"
+        ],
+        [
+            "Xuan Can",
+            "acquaintance of x"
+        ],
+        [
+            "Du Zhong's Child",
+            "son of x, biological son of x"
+        ]
+    ]
+}

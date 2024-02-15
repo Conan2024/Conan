@@ -1,0 +1,57 @@
+{
+    "Ge Jixian": [
+      ["Ge Yueluo", "father daughter of x"], 
+      ["Ge Yueman", "sister sister of x"], 
+      ["Zhu Lingshan", "husband wife of x"]
+    ],
+    "Ge Yueman": [
+      ["Ge Jixian", "father daughter of x"], 
+      ["Ge Yueluo", "sister sister of x"]
+    ],
+    "Zhu Lingshan": [
+      ["Ge Jixian", "son in law of x"], 
+      ["Ge Yueluo", "husband wife of x"]
+    ],
+    "Le Wan": [
+      ["Ge Yueluo", "servant of x"]
+    ],
+    "Mrs. Zhang": [
+      ["Ge Yueluo", "friend of x"], 
+      ["Ge Yueman", "friend of x"]
+    ],
+    "Yu Shangyong": [
+      ["Zhi Jun", "friend of x"]
+    ],
+    "Xue Dacai": [
+      ["Zhu Lingshan", "cousin of x"]
+    ],
+    "Zhang Junshi": [
+      ["Ge Yueluo", "lover of x"], 
+      ["Yueman", "husband of x"], 
+      ["Xue Dacai", "enemy of x"]
+    ],
+    "Ge Yueluo": [
+      ["Yueman", "sister sister of x"], 
+      ["Zhang Junshi", "lover of x"], 
+      ["Xue Dacai", "enemy of x"], 
+      ["Lü Songnian", "enemy of x"]
+    ],
+    "Yueman": [
+      ["Ge Yueluo", "sister sister of x"], 
+      ["Zhang Junshi", "husband of x"], 
+      ["Xue Dacai", "enemy of x"]
+    ],
+    "Xue Yufan": [
+      ["Ge Yueluo", "enemy of x"], 
+      ["Xue Dacai", "brother of x"]
+    ],
+    "Lü Lusheng": [
+      ["Xue Yufan", "friend of x"]
+    ],
+    "Yu Yancheng": [
+      ["Lü Lusheng", "friend of x"]
+    ],
+    "Zhi Jun": [
+      ["Mrs. Zhang", "niece of x"]
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "Yun Ling": [
+      ["Xu Boqing", "friend of x, suspect of x"], 
+      ["Liao Yiqiao", "father of x, suspect of x"], 
+      ["Tang Maoguang", "acquaintance of x, suspect of x"], 
+      ["Grandpa Ren", "suspect of x"], 
+      ["Uncle", "uncle of x, suspect of x"], 
+      ["Cousin", "cousin of x, suspect of x"], 
+      ["Lady Hong", "friend of x, suspect of x"], 
+      ["Yao Zhongyi", "friend of x, suspect of x"], 
+      ["Physician Yu", "colleague of x, suspect of x"], 
+      ["Chen Junmeng", "friend of x, suspect of x"]
+    ],
+    "Xu Boqing": [
+      ["Yun Ling", "friend of x, victim of x"], 
+      ["Liao Yiqiao", "friend of x, suspect of x"], 
+      ["Tang Maoguang", "acquaintance of x, suspect of x"], 
+      ["Grandpa Ren", "suspect of x"], 
+      ["Uncle", "uncle of x, suspect of x"], 
+      ["Cousin", "cousin of x, suspect of x"], 
+      ["Lady Hong", "friend of x, suspect of x"], 
+      ["Yao Zhongyi", "friend of x, suspect of x"], 
+      ["Physician Yu", "colleague of x, suspect of x"], 
+      ["Chen Junmeng", "friend of x, suspect of x"]
+    ],
+    "Liao Yiqiao": [
+      ["Yun Ling", "daughter of x, suspect of x"], 
+      ["Xu Boqing", "friend of x, suspect of x"], 
+      ["Tang Maoguang", "acquaintance of x, suspect of x"], 
+      ["Grandpa Ren", "suspect of x"], 
+      ["Uncle", "uncle of x, suspect of x"], 
+      ["Cousin", "cousin of x, suspect of x"], 
+      ["Lady Hong", "friend of x, suspect of x"], 
+      ["Yao Zhongyi", "friend of x, suspect of x"], 
+      ["Physician Yu", "colleague of x, suspect of x"], 
+      ["Chen Junmeng", "friend of x, suspect of x"]
+    ],
+    "Tang Maoguang": [
+      ["Yun Ling", "acquaintance of x, suspect of x"], 
+      ["Xu Boqing", "acquaintance of x, suspect of x"], 
+      ["Liao Yiqiao", "friend of x, suspect of x"], 
+      ["Grandpa Ren", "suspect of x"], 
+      ["Uncle", "uncle of x, suspect of x"], 
+      ["Cousin", "cousin of x, suspect of x"], 
+      ["Lady Hong", "friend of x, suspect of x"], 
+      ["Yao Zhongyi", "friend of x, suspect of x"], 
+      ["Physician Yu", "colleague of x, suspect of x"], 
+      ["Chen Junmeng", "friend of x, suspect of x"]
+    ],
+    "Grandpa Ren": [
+      ["Yun Ling", "suspect of x"], 
+      ["Xu Boqing", "suspect of x"], 
+      ["Liao Yiqiao", "suspect of x"], 
+      ["Uncle", "uncle of x, suspect of x"], 
+      ["Cousin", "cousin of x, suspect of x"], 
+      ["Lady Hong", "friend of x, suspect of x"], 
+      ["Yao Zhongyi", "friend of x, suspect of x"], 
+      ["Physician Yu", "colleague of x, suspect of x"], 
+      ["Chen Junmeng", "friend of x, suspect of x"]
+    ],
+    "Uncle": [
+      ["Yun Ling", "uncle of x, suspect of x"], 
+      ["Xu Boqing", "uncle of x, suspect of x"], 
+      ["Liao Yiqiao", "uncle of x, suspect of x"], 
+      ["Tang Maoguang", "acquaintance of x, suspect of x"], 
+      ["Cousin", "cousin of x, suspect of x"], 
+      ["Lady Hong", "friend of x, suspect of x"], 
+      ["Yao Zhongyi", "friend of x, suspect of x"], 
+      ["Physician Yu", "colleague of x, suspect of x"], 
+      ["Chen Junmeng", "friend of x, suspect of x"]
+    ],
+    "Cousin": [
+      ["Yun Ling", "cousin of x, suspect of x"], 
+      ["Xu Boqing", "cousin of x, suspect of x"], 
+      ["Liao Yiqiao", "cousin of x, suspect of x"], 
+      ["Tang Maoguang", "acquaintance of x, suspect of x"], 
+      ["Uncle", "uncle of x, suspect of x"], 
+      ["Lady Hong", "friend of x, suspect of x"], 
+      ["Yao Zhongyi", "friend of x, suspect of x"], 
+      ["Physician Yu", "colleague of x, suspect of x"], 
+      ["Chen Junmeng", "friend of x, suspect of x"]
+    ],
+    "Lady Hong": [
+      ["Yun Ling", "friend of x, suspect of x"], 
+      ["Xu Boqing", "friend of x, suspect of x"], 
+      ["Liao Yiqiao", "friend of x, suspect of x"], 
+      ["Tang Maoguang", "acquaintance of x, suspect of x"], 
+      ["Uncle", "uncle of x, suspect of x"], 
+      ["Cousin", "cousin of x, suspect of x"], 
+      ["Yao Zhongyi", "brother in law of x, suspect of x"], 
+      ["Physician Yu", "colleague of x, suspect of x"], 
+      ["Chen Junmeng", "friend of x, suspect of x"]
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "He Laoliu": [
+        [
+            "Li Guofu",
+            "friend of x",
+            "colleague of x"
+        ],
+        [
+            "Zhang Jie",
+            "friend of x",
+            "colleague of x"
+        ],
+        [
+            "Mu Bei",
+            "friend of x"
+        ],
+        [
+            "Big Brother Wang",
+            "friend of x"
+        ],
+        [
+            "Neighbor Wang",
+            "neighbor of x"
+        ],
+        [
+            "Police",
+            "colleague of x",
+            "co-worker with x"
+        ]
+    ],
+    "Li Guofu": [
+        [
+            "He Laoliu",
+            "friend of x",
+            "colleague of x"
+        ],
+        [
+            "Mu Bei",
+            "colleague of"
+        ],
+        [
+            "Mu Bei",
+            "friend of x",
+            "helper of x"
+        ],
+        [
+            "Big Brother Wang",
+            "colleague of x"
+        ],
+        [
+            "Neighbor Wang",
+            "neighbor of x"
+        ],
+        [
+            "Police",
+            "colleague of x"
+        ]
+    ],
+    "Zhang Jie": [
+        [
+            "He Laoliu",
+            "friend of x",
+            "colleague of x"
+        ],
+        [
+            "Mu Bei",
+            "colleague of"
+        ],
+        [
+            "Mu Bei",
+            "friend of x"
+        ],
+        [
+            "Mu Bei",
+            "helper of x"
+        ],
+        [
+            "Neighbor Wang",
+            "neighbor of Mu Bei",
+            "acquaintance of Mu Bei"
+        ],
+        [
+            "Police",
+            "co-worker of x"
+        ]
+    ],
+    "Mu Bei": [
+        [
+            "He Laoliu",
+            "work colleague of x"
+        ],
+        [
+            "Li Guofu",
+            "friend of x"
+        ],
+        [
+            "Zhang Jie",
+            "friend of x"
+        ],
+        [
+            "Big Brother Wang",
+            "friend of x"
+        ],
+        [
+            "Neighbor Wang",
+            "acquaintance of x",
+            "helper of x"
+        ],
+        [
+            "Police",
+            "colleague of"
+        ]
+    ],
+    "Big Brother Wang": [
+        [
+            "He Laoliu",
+            "friend of x"
+        ],
+        [
+            "Li Guofu",
+            "colleague of x"
+        ],
+        [
+            "Mu Bei",
+            "co-worker of x"
+        ],
+        [
+            "Mu Bei",
+            "colleague of x"
+        ],
+        [
+            "Neighbor Wang",
+            "friend of x"
+        ],
+        [
+            "Police",
+            "co-worker of x"
+        ]
+    ],
+    "Neighbor Wang": [
+        [
+            "He Laoliu",
+            "neighbor of x"
+        ],
+        [
+            "Li Guofu",
+            "neighbor of x"
+        ],
+        [
+            "Zhang Jie",
+            "neighbor of Mu Bei",
+            "acquaintance of Mu Bei"
+        ],
+        [
+            "Mu Bei",
+            "acquaintance of x",
+            "helper of x"
+        ],
+        [
+            "Big Brother Wang",
+            "friend of x"
+        ],
+        [
+            "Police",
+            "neighbor of x"
+        ]
+    ],
+    "Police": [
+        [
+            "He Laoliu",
+            "colleague of x",
+            "co-worker with x"
+        ],
+        [
+            "Li Guofu",
+            "colleague of x"
+        ],
+        [
+            "Zhang Jie",
+            "co-worker of x"
+        ],
+        [
+            "Mu Bei",
+            "colleague of"
+        ],
+        [
+            "Big Brother Wang",
+            "co-worker of x"
+        ],
+        [
+            "Neighbor Wang",
+            "neighbor of x"
+        ]
+    ]
+}

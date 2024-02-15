@@ -1,0 +1,24 @@
+{
+    "Joe Robertson": [
+      ["Max Pike", "friend of x"], 
+      ["Daniel Perry", "acquaintance of x"]
+    ],
+    "Max Pike": [
+      ["Joe Robertson", "friend of x"], 
+      ["Amy Morgan", "business partner of x"]
+    ],
+    "Amy Morgan": [
+      ["John Morgan", "husband of x"], 
+      ["Joe Robertson", "acquaintance of x"]
+    ],
+    "Lucy Harrison": [
+      ["Jonathan Perry", "sister of x"]
+    ],
+    "Jonathan Perry": [
+      ["Lucy Harrison", "sister of x"], 
+      ["Daniel Perry", "brother of x"]
+    ],
+    "John Morgan": [
+      ["Amy Morgan", "wife of x"]
+    ]
+}

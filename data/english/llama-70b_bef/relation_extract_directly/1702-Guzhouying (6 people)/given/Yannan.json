@@ -1,0 +1,50 @@
+{
+    "Cui Yannan": [
+      ["Cui Shouheng", "father of x"], 
+      ["Wang Xi Rong", "mother of x"], 
+      ["Xi Yan", "brother of x"], 
+      ["Yu Shi", "aunt of x"], 
+      ["Zhou Chitong", "uncle of x"], 
+      ["Su Nian", "cousin of x"], 
+      ["Tian Chou", "aunt of x"]
+    ],
+    "Cui Shouheng": [
+      ["Zhou Chitong", "brother of x"], 
+      ["Xi Yan", "sister of x"]
+    ],
+    "Wang Xi Rong": [
+      ["Cui Yannan", "mother of x"], 
+      ["Xi Yan", "sister of x"]
+    ],
+    "Xi Yan": [
+      ["Cui Shouheng", "brother of x"], 
+      ["Cui Yannan", "brother of x"]
+    ],
+    "Yu Shi": [
+      ["Zhou Chitong", "sister of x"], 
+      ["Cui Yannan", "aunt of x"]
+    ],
+    "Zhou Chitong": [
+      ["Zhou Mengdang", "father of x"], 
+      ["Yu Shi", "brother of x"]
+    ],
+    "Su Nian": [
+      ["Zhou Chitong", "brother of x"], 
+      ["Tian Chou", "uncle of x"]
+    ],
+    "Bao Gan": [
+      ["Tian Chou", "aunt of x"]
+    ],
+    "Tian Chou": [
+      ["Zhou Mengdang", "uncle of x"], 
+      ["Cui Yannan", "aunt of x"]
+    ],
+    "Lianyi": [
+      ["Su Nian", "friend of x"], 
+      ["Zhou Chitong", "brother of x"]
+    ],
+    "Zhou Mengdang": [
+      ["Tian Chou", "uncle of x"], 
+      ["Zhou Chitong", "father of x"]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "Ruya": [
+      ["Gui Yin", "husband of x, mentor of x"], 
+      ["Li Demu", "father of x"], 
+      ["Falcon", "cousin of x"]
+    ],
+    "Gui Yin": [
+      ["Ruya", "wife of x, mentor of x"], 
+      ["Ba Mansion Mountain", "suspect of x"]
+    ],
+    "Li Demu": [
+      ["Ruya", "daughter of x"]
+    ],
+    "Falcon": [
+      ["Ruya", "cousin of x"]
+    ],
+    "Gan Ma": [
+      ["Ruya", "helper of x, patient of x, friend of x"], 
+      ["Gui Yin", "teacher of x, mentor of x"]
+    ],
+    "Chen Sha": [
+      ["Gan Ma", "friend of x"]
+    ],
+    "Zheng Hanzhen": [
+      ["Ruya", "acquaintance of x"]
+    ],
+    "Juan Ge (Cuckoo Song)": [
+      ["Miao Shi", "teacher of x"]
+    ],
+    "Miao Shi": [
+      ["Juan Ge (Cuckoo Song)", "student of x"]
+    ],
+    "Li Gaobai": [
+      ["Ruya", "friend of x, student of x"], 
+      ["Gui Yin", "suspect of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Gui Yin", "suspect of x"], 
+      ["Ruya", "uncle of x, suspect of x"]
+    ],
+    "Middle-Aged Man": [
+      ["Ruya", "murderer of x"]
+    ]
+}

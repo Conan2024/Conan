@@ -1,0 +1,721 @@
+{
+    "Tian Zhuli": [
+        [
+            "cleaner sister",
+            "girlfriend"
+        ],
+        [
+            "Li Bao'an",
+            "Boyfriend, Indifferent"
+        ],
+        [
+            "security guard",
+            "boyfriend"
+        ],
+        [
+            "Professor Jia",
+            "Superior-Subordinate Relationship",
+            "Mentor-Mentee Relationship",
+            "Adversarial Relationship"
+        ],
+        [
+            "boss",
+            "boyfriend"
+        ],
+        [
+            "elder sister",
+            "sibling",
+            "friend",
+            "acquaintance",
+            "neighbour"
+        ],
+        [
+            "student",
+            "boyfriend"
+        ],
+        [
+            "Qin OU",
+            "boyfriend",
+            "Cheater"
+        ],
+        [
+            "Qin Ou",
+            "Boyfriend",
+            "Adversary"
+        ],
+        [
+            "Sun Qingjie",
+            "Boyfriend",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "Professor JIA",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "boss",
+            "Qin OU"
+        ],
+        [
+            "Qin Ou",
+            "boss"
+        ],
+        [
+            "Qin Ou",
+            "girlfriend",
+            "assistant",
+            "Professor Jia"
+        ],
+        [
+            "student",
+            "Professor JIA"
+        ],
+        [
+            "Tian Zhuli",
+            "Qin OU",
+            "Professor Jia",
+            "Security Guard",
+            "Friend of X",
+            "Acquaintance of X",
+            "Colleague of X",
+            "Business Partner of X"
+        ]
+    ],
+    "cleaner sister": [
+        [
+            "Tian Zhuli",
+            "girlfriend"
+        ],
+        [
+            "Li Bao'an",
+            "sister-in-law",
+            "acquaintance",
+            "suspect"
+        ],
+        [
+            "security guard",
+            "acquaintance",
+            "helper"
+        ],
+        [
+            "Professor Jia",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X",
+            "Victim of X"
+        ],
+        [
+            "boss",
+            "friend"
+        ],
+        [
+            "elder sister",
+            "Same person as X (different reference)"
+        ],
+        [
+            "student",
+            "Friend"
+        ],
+        [
+            "Qin OU",
+            "Sister of X"
+        ],
+        [
+            "Qin Ou",
+            "Sister of X",
+            "Friend of X"
+        ],
+        [
+            "Sun Qingjie",
+            "sisterly relationship, friendship, acquaintance"
+        ],
+        [
+            "Professor JIA",
+            "Suspect of X",
+            "Adversary of X",
+            "Helper of X"
+        ]
+    ],
+    "Li Bao'an": [
+        [
+            "Tian Zhuli",
+            "Girlfriend, Angry"
+        ],
+        [
+            "cleaner sister",
+            "sister-in-law",
+            "acquaintance",
+            "suspect"
+        ],
+        [
+            "security guard",
+            "Acquaintance of X"
+        ],
+        [
+            "Professor Jia",
+            "Superior",
+            "Teacher",
+            "Employer",
+            "Friend"
+        ],
+        [
+            "boss",
+            "Superior of x",
+            "Master of X",
+            "Employer of X"
+        ],
+        [
+            "elder sister",
+            "Same person as X (different reference)"
+        ],
+        [
+            "student",
+            "Acquaintance",
+            "Helped by"
+        ],
+        [
+            "Qin OU",
+            "Ex-romantic relationships with X",
+            "Rival of X"
+        ],
+        [
+            "Qin Ou",
+            "Ex-romantic relationships with X",
+            "Rival of X"
+        ],
+        [
+            "Sun Qingjie",
+            "Friend of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Professor JIA",
+            "Superior of X",
+            "Employer of X"
+        ]
+    ],
+    "security guard": [
+        [
+            "Tian Zhuli",
+            "acquaintance"
+        ],
+        [
+            "cleaner sister",
+            "acquaintance",
+            "helped"
+        ],
+        [
+            "Li Bao'an",
+            "Acquaintance of X"
+        ],
+        [
+            "Professor Jia",
+            "acquaintance",
+            "suspicious",
+            "adversary"
+        ],
+        [
+            "boss",
+            "acquaintance",
+            "helper"
+        ],
+        [
+            "elder sister",
+            "acquaintance",
+            "helper"
+        ],
+        [
+            "student",
+            "Acquaintance",
+            "Helped by"
+        ],
+        [
+            "Qin OU",
+            "Acquaintance",
+            "Helped by"
+        ],
+        [
+            "Qin Ou",
+            "Acquaintance",
+            "Helped by"
+        ],
+        [
+            "Sun Qingjie",
+            "acquaintance",
+            "helper",
+            "co-conspirator"
+        ],
+        [
+            "Professor JIA",
+            "Acquaintance"
+        ]
+    ],
+    "Professor Jia": [
+        [
+            "Tian Zhuli",
+            "Superior-Subordinate Relationship",
+            "Mentor-Mentee Relationship"
+        ],
+        [
+            "cleaner sister",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X",
+            "Victim of X"
+        ],
+        [
+            "Li Bao'an",
+            "Subordinate",
+            "Student",
+            "Employee",
+            "Friend"
+        ],
+        [
+            "security guard",
+            "acquaintance",
+            "suspicious",
+            "adversary"
+        ],
+        [
+            "boss",
+            "Superior of X"
+        ],
+        [
+            "elder sister",
+            "Superior of X",
+            "Employer of X"
+        ],
+        [
+            "student",
+            "mentor",
+            "adversary"
+        ],
+        [
+            "Qin OU",
+            "Tian Zhuli"
+        ],
+        [
+            "Qin Ou",
+            "Tian Zhuli"
+        ],
+        [
+            "Sun Qingjie",
+            "Teacher of X",
+            "Superior of X"
+        ],
+        [
+            "Professor JIA",
+            "Superior of X"
+        ],
+        [
+            "boss",
+            "Qin OU",
+            "Tian Zhuli"
+        ],
+        [
+            "Qin Ou",
+            "boss",
+            "Tian Zhuli"
+        ],
+        [
+            "Professor Jia",
+            "Tian Zhuli",
+            "Qin OU",
+            "Security Guard",
+            "Friend of X",
+            "Acquaintance of X",
+            "Colleague of X",
+            "Business Partner of X"
+        ]
+    ],
+    "boss": [
+        [
+            "Tian Zhuli",
+            "employer",
+            "superior"
+        ],
+        [
+            "cleaner sister",
+            "friend"
+        ],
+        [
+            "Li Bao'an",
+            "Superior of x",
+            "Master of X",
+            "Employer of X"
+        ],
+        [
+            "security guard",
+            "acquaintance",
+            "employee"
+        ],
+        [
+            "Professor Jia",
+            "Superior of X"
+        ],
+        [
+            "elder sister",
+            "manipulator/manipulated",
+            "suspect"
+        ],
+        [
+            "student",
+            "boyfriend",
+            "adversary"
+        ],
+        [
+            "Qin OU",
+            "Tian Zhuli",
+            "Professor Jia"
+        ],
+        [
+            "Qin Ou",
+            "Tian Zhuli",
+            "Professor Jia"
+        ],
+        [
+            "Sun Qingjie",
+            "Employer of X"
+        ],
+        [
+            "Professor JIA",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "elder sister": [
+        [
+            "Tian Zhuli",
+            "sibling",
+            "friend",
+            "acquaintance",
+            "neighbour"
+        ],
+        [
+            "cleaner sister",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Li Bao'an",
+            "Same person as X (different reference)"
+        ],
+        [
+            "security guard",
+            "acquaintance",
+            "helped"
+        ],
+        [
+            "Professor Jia",
+            "Superior of X",
+            "Employer of X"
+        ],
+        [
+            "boss",
+            "manipulator/manipulated",
+            "suspect"
+        ],
+        [
+            "student",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Qin OU",
+            "Sister of X"
+        ],
+        [
+            "Qin Ou",
+            "Sibling of X"
+        ],
+        [
+            "Sun Qingjie",
+            "Sibling of X"
+        ],
+        [
+            "Professor JIA",
+            "Acquaintance"
+        ]
+    ],
+    "student": [
+        [
+            "Tian Zhuli",
+            "boyfriend"
+        ],
+        [
+            "cleaner sister",
+            "Friend"
+        ],
+        [
+            "Li Bao'an",
+            "Acquaintance",
+            "Helped by"
+        ],
+        [
+            "security guard",
+            "Acquaintance",
+            "Helped by"
+        ],
+        [
+            "Professor Jia",
+            "mentor",
+            "adversary"
+        ],
+        [
+            "boss",
+            "boyfriend",
+            "adversary"
+        ],
+        [
+            "elder sister",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Qin OU",
+            "Tian Zhuli"
+        ],
+        [
+            "Qin Ou",
+            "Tian Zhuli"
+        ],
+        [
+            "Sun Qingjie",
+            "Classmate"
+        ],
+        [
+            "Professor JIA",
+            "Tian Zhuli"
+        ]
+    ],
+    "Qin OU": [
+        [
+            "Tian Zhuli",
+            "girlfriend",
+            "Victim",
+            "Revenge seeker"
+        ],
+        [
+            "cleaner sister",
+            "Wife of X"
+        ],
+        [
+            "Li Bao'an",
+            "Ex-romantic relationships with X",
+            "Rival of X"
+        ],
+        [
+            "security guard",
+            "Acquaintance",
+            "Helped by"
+        ],
+        [
+            "Professor Jia",
+            "Tian Zhuli"
+        ],
+        [
+            "boss",
+            "Tian Zhuli",
+            "Professor Jia"
+        ],
+        [
+            "elder sister",
+            "Sister of X"
+        ],
+        [
+            "student",
+            "boyfriend",
+            "Tian Zhuli"
+        ],
+        [
+            "Qin Ou",
+            "Tian Zhuli",
+            "Professor Jia",
+            "Security Guard",
+            "Friend of X",
+            "Acquaintance of X",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "Sun Qingjie",
+            "Wife of X",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "Professor JIA",
+            "Boyfriend",
+            "Tian Zhuli"
+        ]
+    ],
+    "Qin Ou": [
+        [
+            "Tian Zhuli",
+            "Girlfriend",
+            "Rival"
+        ],
+        [
+            "cleaner sister",
+            "Sister of X",
+            "Friend of X"
+        ],
+        [
+            "Li Bao'an",
+            "Ex-romantic relationships with X",
+            "Rival of X"
+        ],
+        [
+            "security guard",
+            "Acquaintance",
+            "Helped by"
+        ],
+        [
+            "Professor Jia",
+            "Tian Zhuli"
+        ],
+        [
+            "boss",
+            "Tian Zhuli",
+            "Professor Jia"
+        ],
+        [
+            "elder sister",
+            "Sibling of X"
+        ],
+        [
+            "student",
+            "Tian Zhuli",
+            "Professor Jia",
+            "acquaintance",
+            "classmate"
+        ],
+        [
+            "Sun Qingjie",
+            "Wife of X",
+            "Romantic relationships with X"
+        ],
+        [
+            "Professor JIA",
+            "Boyfriend/Assistant of",
+            "Suspect of",
+            "Adversary of"
+        ]
+    ],
+    "Sun Qingjie": [
+        [
+            "Tian Zhuli",
+            "Girlfriend",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "cleaner sister",
+            "sisterly relationship, friendship, acquaintance"
+        ],
+        [
+            "Li Bao'an",
+            "Friend of X",
+            "Acquaintance of X"
+        ],
+        [
+            "security guard",
+            "acquaintance",
+            "helper",
+            "co-conspirator"
+        ],
+        [
+            "Professor Jia",
+            "Tian Zhuli",
+            "Boyfriend of X"
+        ],
+        [
+            "boss",
+            "Employer of X"
+        ],
+        [
+            "elder sister",
+            "Sibling of X"
+        ],
+        [
+            "student",
+            "Classmate"
+        ],
+        [
+            "Qin OU",
+            "Husband of X",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "Qin Ou",
+            "Husband of X",
+            "Romantic relationships with X"
+        ],
+        [
+            "Professor JIA",
+            "Friend of X",
+            "Acquaintance of X"
+        ]
+    ],
+    "Professor JIA": [
+        [
+            "Tian Zhuli",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "cleaner sister",
+            "Suspect of X",
+            "Adversary of X",
+            "Helper of X"
+        ],
+        [
+            "Li Bao'an",
+            "Superior of X",
+            "Employer of X"
+        ],
+        [
+            "security guard",
+            "Acquaintance"
+        ],
+        [
+            "Professor Jia",
+            "Superior of X"
+        ],
+        [
+            "boss",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "elder sister",
+            "Acquaintance"
+        ],
+        [
+            "student",
+            "Tian Zhuli"
+        ],
+        [
+            "Qin OU",
+            "Assistant",
+            "Tian Zhuli"
+        ],
+        [
+            "Qin Ou",
+            "Girlfriend/Assistant of Tian Zhuli",
+            "Tian Zhuli's superior",
+            "Target of Revenge"
+        ],
+        [
+            "Sun Qingjie",
+            "Friend of X",
+            "Acquaintance of X"
+        ]
+    ],
+    "Security Guard": [
+        [
+            "Security Guard",
+            "Qin OU",
+            "Tian Zhuli",
+            "Professor Jia",
+            "Friend of X",
+            "Acquaintance of X",
+            "Colleague of X",
+            "Business Partner of X"
+        ]
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Lü Songnian": [
+      ["Yu Shangyong", "acquaintance of x, suspicious of x"], 
+      ["Le Wan", "acquaintance of x"], 
+      ["Yu Yancheng", "brother of x, acquaintance of x"], 
+      ["Zhu Lingshan", "business partner of x, rival of x"]
+    ],
+    "Yu Shangyong": [
+      ["Lü Songnian", "acquaintance of x, suspicious of x"], 
+      ["Yu Yancheng", "brother of x, acquaintance of x"], 
+      ["Zhu Lingshan", "business partner of x, rival of x"]
+    ],
+    "Le Wan": [
+      ["Lü Songnian", "acquaintance of x"]
+    ],
+    "Yu Yancheng": [
+      ["Lü Songnian", "brother of x, acquaintance of x"], 
+      ["Yu Shangyong", "brother of x, acquaintance of x"], 
+      ["Zhu Lingshan", "business partner of x, rival of x"]
+    ],
+    "Zhu Lingshan": [
+      ["Lü Songnian", "business partner of x, rival of x"], 
+      ["Yu Shangyong", "business partner of x, rival of x"]
+    ],
+    "Mrs. Zhang": [
+      ["Lü Songnian", "acquaintance of x"], 
+      ["Yu Shangyong", "acquaintance of x"], 
+      ["Ge Yueman", "acquaintance of x"]
+    ],
+    "Ge Yueman": [
+      ["Lü Songnian", "acquaintance of x"], 
+      ["Yu Shangyong", "acquaintance of x"], 
+      ["Mrs. Zhang", "acquaintance of x"]
+    ],
+    "Xue Yufan": [
+      ["Lü Songnian", "acquaintance of x"], 
+      ["Yu Shangyong", "acquaintance of x"]
+    ],
+    "Zhi Jun": [
+      ["Lü Songnian", "acquaintance of x"]
+    ]
+}

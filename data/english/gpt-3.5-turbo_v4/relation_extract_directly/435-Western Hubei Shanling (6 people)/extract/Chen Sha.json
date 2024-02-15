@@ -1,0 +1,63 @@
+{
+    "Chen Sha": [
+      ["Zhou Chen Sha", "same person as x (different reference)"], 
+      ["Zhou Jingyu", "sibling of x"], 
+      ["Li Gaobai", "employer of x"]
+    ],
+    "Zhou Chen Sha": [
+      ["Chen Sha", "same person as x (different reference)"], 
+      ["Zhou Yuntang", "romantic relationships with x"]
+    ],
+    "Zhou Yuntang": [
+      ["Zhou Chen Sha", "romantic relationships with x"], 
+      ["Zheng Hanzhen", "father of x"]
+    ],
+    "Zhou Jingyu": [
+      ["Chen Sha", "sibling of x"], 
+      ["Zheng Hanzhen", "mother of x"]
+    ],
+    "Zheng Hanzhen": [
+      ["Zhou Jingyu", "mother of x"], 
+      ["Zhou Yuntang", "father of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Mountain Spirit", "same person as x (different reference)"], 
+      ["Wizard", "same person as x (different reference)"], 
+      ["Falcon", "same person as x (different reference)"], 
+      ["Gan Ma", "employer of x"]
+    ],
+    "Mountain Spirit": [
+      ["Ba Mansion Mountain", "same person as x (different reference)"]
+    ],
+    "Wizard": [
+      ["Ba Mansion Mountain", "same person as x (different reference)"]
+    ],
+    "Falcon": [
+      ["Ba Mansion Mountain", "same person as x (different reference)"], 
+      ["Gan Ma", "fiance of x"]
+    ],
+    "Gan Ma": [
+      ["Ba Mansion Mountain", "employer of x"], 
+      ["Gui Yin", "fiancee of x"], 
+      ["Ruya", "friend of x"], 
+      ["Chen Sha", "romantic relationships with x"]
+    ],
+    "Li Demu": [
+      ["Ba Mansion Mountain", "employer of x"]
+    ],
+    "Ba Kang": [
+      ["Gui Yin", "friend of x"]
+    ],
+    "Gui Yin": [
+      ["Gan Ma", "fiancee of x"], 
+      ["Ba Kang", "friend of x"], 
+      ["Ruya", "friend of x"]
+    ],
+    "Ruya": [
+      ["Gui Yin", "friend of x"], 
+      ["Gan Ma", "fiance of x"]
+    ],
+    "Li Gaobai": [
+      ["Chen Sha", "employer of x"]
+    ]
+}

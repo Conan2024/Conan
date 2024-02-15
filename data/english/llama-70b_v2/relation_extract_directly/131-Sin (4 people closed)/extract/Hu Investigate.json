@@ -1,0 +1,24 @@
+{
+    "Hu Investigate": [
+      ["Village Chief Wang", "suspect of x, adversary of x"], 
+      ["Office Li", "informant of x, friend of x"], 
+      ["Zhao Cishan", "perpetrator of x, enemy of x"], 
+      ["Zhang Villager", "witness of x, acquaintance of x"]
+    ],
+    "Village Chief Wang": [
+      ["Hu Investigate", "suspect of x, adversary of x"], 
+      ["Zhao Cishan", "co conspirator of x, friend of x"]
+    ],
+    "Office Li": [
+      ["Hu Investigate", "informant of x, friend of x"], 
+      ["Zhao Cishan", "co conspirator of x, acquaintance of x"]
+    ],
+    "Zhao Cishan": [
+      ["Hu Investigate", "perpetrator of x, enemy of x"], 
+      ["Village Chief Wang", "co conspirator of x, friend of x"]
+    ],
+    "Zhang Villager": [
+      ["Hu Investigate", "witness of x, acquaintance of x"], 
+      ["Zhao Cishan", "acquaintance of x, suspect of x"]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Su Yang": [
+      ["Dean Lin", "master of x"]
+    ],
+    "Lin Tong": [
+      ["Su Yang", "lover of x"], 
+      ["Lin Xi", "sister of x"], 
+      ["Dean Lin", "father of x"]
+    ],
+    "Lin Xi": [
+      ["Su Yang", "lover of x"], 
+      ["Lin Tong", "sister of x"], 
+      ["Dean Lin", "father of x"]
+    ],
+    "Dean Lin": [
+      ["Su Yang", "student of x"], 
+      ["Lin Tong", "daughter of x"], 
+      ["Lin Xi", "daughter of x"]
+    ],
+    "Gu Qing": [
+      ["Gu Ming", "father of x"]
+    ],
+    "Gu Ming": [
+      ["Gu Qing", "daughter of x"]
+    ],
+    "Shen Cheng": [
+      ["Dean Lin", "employer of x"]
+    ]
+}

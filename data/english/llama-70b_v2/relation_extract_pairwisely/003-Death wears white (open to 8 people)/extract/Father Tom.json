@@ -1,0 +1,67 @@
+{
+    "Dr. Tom": [
+      ["Dr. Drake Li Morette", "hans li morette of x, tony of x, frank of x, dr of x, paloski of x, dean berkeley of x"], 
+      ["Hans Li Morette", "drake li morette of x, tony of x, frank of x, dr of x, paloski of x, dean berkeley of x"], 
+      ["Frank", "tony of x, dr of x, paloski of x, hans li morette of x, dean berkeley of x"], 
+      ["Dr. Paloski", "hans li morette of x, frank of x, tony of x, dr of x, drake li morette of x, dean berkeley of x"], 
+      ["Dean Berkeley", "hans li morette of x, tony of x, frank of x, dr of x, paloski of x"]
+    ],
+    "Dr. Drake Li Morette": [
+      ["Dr. Tom", "hans li morette of x, tony of x, frank of x"], 
+      ["Hans Li Morette", "tony of x"], 
+      ["Frank", "tony of x"], 
+      ["Tony", "hans li morette of x"], 
+      ["Dr. Paloski", "hans li morette of x, tony of x, frank of x"], 
+      ["Dean Berkeley", "friend of x, colleague of x"]
+    ],
+    "Hans Li Morette": [
+      ["Dr. Tom", "dr of x, drake li morette of x"], 
+      ["Dr. Tom", "drake li morette of x, tony of x, frank of x"], 
+      ["Dr. Tom", "dr of x, paloski of x"], 
+      ["Dr. Drake Li Morette", "tony of x"], 
+      ["Frank", "tony of x, dr of x, paloski of x"], 
+      ["Tony", "drake li morette of x"], 
+      ["Dr. Paloski", "tony of x"], 
+      ["Dean Berkeley", "tony of x, frank of x, dr of x, paloski of x"], 
+      ["Dr. Paloski", "tony of x"]
+    ],
+    "Tony": [
+      ["Dr. Tom", "frank of x"], 
+      ["Dr. Tom", "frank of x"], 
+      ["Dr. Drake Li Morette", "frank of x"], 
+      ["Dr. Drake Li Morette", "hans li morette of x"], 
+      ["Hans Li Morette", "drake li morette of x"], 
+      ["Hans Li Morette", "dr of x, paloski of x"], 
+      ["Frank", "dr of x, paloski of x, hans li morette of x"], 
+      ["Dr. Paloski", "hans li morette of x, frank of x"], 
+      ["Dean Berkeley", "hans li morette of x, frank of x, dr of x, paloski of x"]
+    ],
+    "Frank": [
+      ["Dr. Tom", "tony of x"], 
+      ["Dr. Tom", "tony of x, dr of x, paloski of x, hans li morette of x"], 
+      ["Dr. Tom", "tony of x"], 
+      ["Dr. Drake Li Morette", "tony of x"], 
+      ["Hans Li Morette", "tony of x, dr of x, paloski of x"], 
+      ["Dr. Paloski", "hans li morette of x, tony of x"], 
+      ["Dean Berkeley", "tony of x, dr of x, paloski of x, drake li morette of x"]
+    ],
+    "Dr. Paloski": [
+      ["Dr. Tom", "hans li morette of x, frank of x, tony of x"], 
+      ["Dr. Drake Li Morette", "hans li morette of x, tony of x, frank of x"], 
+      ["Hans Li Morette", "tony of x"], 
+      ["Frank", "hans li morette of x, tony of x"], 
+      ["Tony", "hans li morette of x, frank of x"], 
+      ["Dean Berkeley", "relationship 1: acquaintance of x, relationship 2: suspect of x murder"]
+    ],
+    "Dean Berkeley": [
+      ["Dr. Tom", "hans li morette of x, tony of x, frank of x, dr of x, paloski of x"], 
+      ["Dr. Drake Li Morette", "friend of x, colleague of x"], 
+      ["Hans Li Morette", "tony of x, frank of x, dr of x, paloski of x"], 
+      ["Frank", "tony of x, dr of x, paloski of x, drake li morette of x"], 
+      ["Tony", "hans li morette of x, frank of x, dr of x, paloski of x"], 
+      ["Dr. Paloski", "relationship 1: acquaintance of x, relationship 2: suspect of x murder"]
+    ],
+    "Drake Li Morette": [
+      ["Hans Li Morette", "tony of x"]
+    ]
+}

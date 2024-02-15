@@ -1,0 +1,31 @@
+{
+    "Dr. Tom": [
+      ["Dr. Drake Li Morette", "doctor patient of x, secret keeper of x, acquaintance of x"], 
+      ["Hans Li Morette", "twin brothers of x, potential employee of x, deceased of x"], 
+      ["Frank", "beneficiary of x, hostage of x, acquaintance of x"], 
+      ["Tony", "beneficiary of x, hostage taker of x, acquaintance of x"]
+    ],
+    "Dr. Drake Li Morette": [
+      ["Dr. Tom", "doctor patient of x, secret keeper of x, acquaintance of x"], 
+      ["Hans Li Morette", "twin brothers of x, deceased of x"]
+    ],
+    "Hans Li Morette": [
+      ["Dr. Tom", "potential employee of x, deceased of x, acquaintance of x"], 
+      ["Dr. Drake Li Morette", "twin brothers of x"]
+    ],
+    "Frank": [
+      ["Dr. Tom", "beneficiary of x, hostage of x, acquaintance of x"], 
+      ["Tony", "brother of x, hostage taker of x, acquaintance of x"]
+    ],
+    "Tony": [
+      ["Dr. Tom", "beneficiary of x, hostage taker of x, acquaintance of x"], 
+      ["Frank", "brother of x, hostage of x"]
+    ],
+    "Dr. Paloski": [
+      ["Dr. Tom", "acquaintance of x, suspect of x"], 
+      ["Dr. Drake Li Morette", "acquaintance of x, suspect of x"]
+    ],
+    "Dean Berkeley": [
+      ["Dr. Tom", "acquaintance of x, attracted to of x"]
+    ]
+}

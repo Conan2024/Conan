@@ -1,0 +1,21 @@
+{
+    "Xue Meiniang": [
+      ["JIA Meili", "teacher of x, possible accomplice of x"], 
+      ["Qin Laoda", "lover of x, underground lover of x"]
+    ],
+    "Qin Laoda": [
+      ["Xue Meiniang", "lover of x, underground lover of x"], 
+      ["Mrs. Qin", "stepmother of x, possible murderer of x"]
+    ],
+    "Mrs. Qin": [
+      ["Qin Laoda", "stepmother of x, possible murderer of x"], 
+      ["Xue Meiniang", "hospitalized of x, possible murder victim of x"]
+    ],
+    "JIA Meili": [
+      ["Xue Meiniang", "student of x, possible victim of x"], 
+      ["Qin Laoda", "enemy of x, possible murderer of x"]
+    ],
+    "Jiao Tiyu": [
+      ["Xue Meiniang", "classmate of x"]
+    ]
+}

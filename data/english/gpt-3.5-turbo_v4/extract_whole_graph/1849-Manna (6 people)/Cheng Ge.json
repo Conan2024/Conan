@@ -1,0 +1,47 @@
+{
+    "Cheng Ge": [
+      ["Xinya", "mother of x"], 
+      ["Tan Renchang", "adoptive father of x"], 
+      ["Hai You", "sibling of x"], 
+      ["Shang Zhi", "cousin of x"], 
+      ["Mrs. Tan", "relative of x"], 
+      ["Liao Gongzi", "friend of x"], 
+      ["Mrs. Wei", "friend of x"], 
+      ["Tan Shang Zhi", "cousin of x"], 
+      ["A Ping", "servant of x"]
+    ],
+    "Xinya": [
+      ["Cheng Ge", "son of x"]
+    ],
+    "Tan Renchang": [
+      ["Cheng Ge", "adoptive son of x"]
+    ],
+    "Hai You": [
+      ["Cheng Ge", "brother of x"], 
+      ["Mrs. Tan", "adoptive mother of x"]
+    ],
+    "Shang Zhi": [
+      ["Cheng Ge", "cousin of x"], 
+      ["Liao Gongzi", "friend of x"]
+    ],
+    "Mrs. Tan": [
+      ["Cheng Ge", "relative of x"], 
+      ["Liao Gongzi", "friend of x"], 
+      ["Mrs. Wei", "friend of x"]
+    ],
+    "Liao Gongzi": [
+      ["Cheng Ge", "friend of x"], 
+      ["Shang Zhi", "friend of x"], 
+      ["Mrs. Tan", "friend of x"]
+    ],
+    "Mrs. Wei": [
+      ["Cheng Ge", "friend of x"], 
+      ["Mrs. Tan", "friend of x"]
+    ],
+    "Tan Shang Zhi": [
+      ["Cheng Ge", "cousin of x"]
+    ],
+    "A Ping": [
+      ["Cheng Ge", "servant of x"]
+    ]
+}

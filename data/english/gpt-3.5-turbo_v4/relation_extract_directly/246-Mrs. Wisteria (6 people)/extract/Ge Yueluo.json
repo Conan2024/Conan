@@ -1,0 +1,66 @@
+{
+    "Ge Jixian": [
+      ["Ge Yueluo", "child of x"], 
+      ["Ge Yueman", "child of x"], 
+      ["Zhu Lingshan", "sibling of x"], 
+      ["Xue Dacai", "student of x"], 
+      ["Ge Yueluo", "mother of x"], 
+      ["Zhu Lingshan", "sister of x"], 
+      ["Xue Dacai", "teacher of x"]
+    ],
+    "Ge Yueman": [
+      ["Ge Yueluo", "sibling of x"], 
+      ["Ge Jixian", "child of x"], 
+      ["Zhu Lingshan", "sibling of x"], 
+      ["Xue Dacai", "student of x"], 
+      ["Le Wan", "friend of x"], 
+      ["Yu Shangyong", "colleague of x"], 
+      ["Zhang Junshi", "mentor of x"]
+    ],
+    "Ge Yueluo": [
+      ["Ge Jixian", "child of x"], 
+      ["Ge Yueman", "child of x"], 
+      ["Zhu Lingshan", "sibling of x"], 
+      ["Xue Dacai", "student of x"], 
+      ["Ge Jixian", "mother of x"], 
+      ["Ge Yueman", "father of x"], 
+      ["Mrs. Zhang", "wife of x"]
+    ],
+    "Zhu Lingshan": [
+      ["Ge Jixian", "sibling of x"], 
+      ["Ge Yueman", "sibling of x"], 
+      ["Ge Yueluo", "sibling of x"]
+    ],
+    "Xue Dacai": [
+      ["Ge Jixian", "teacher of x"], 
+      ["Ge Yueluo", "student of x"]
+    ],
+    "Le Wan": [
+      ["Ge Yueman", "friend of x"]
+    ],
+    "Mrs. Zhang": [
+      ["Lü Songnian", "wife of x"], 
+      ["Ge Yueluo", "informant of x"], 
+      ["Ge Yueluo", "mother of x"]
+    ],
+    "Yu Shangyong": [
+      ["Ge Yueman", "colleague of x"]
+    ],
+    "Zhang Junshi": [
+      ["Ge Yueman", "mentor of x"], 
+      ["Mrs. Zhang", "wife of x"]
+    ],
+    "Lü Songnian": [
+      ["Mrs. Zhang", "husband of x"], 
+      ["Mrs. Zhang", "wife of x"]
+    ],
+    "Uncle Xi": [
+      ["Ge Yueluo", "saviour of x"]
+    ],
+    "Zhi Jun": [
+      ["Ge Jixian", "helper of x"]
+    ],
+    "Lü Lusheng": [
+      ["Ge Yueluo", "crime partner of x"]
+    ]
+}

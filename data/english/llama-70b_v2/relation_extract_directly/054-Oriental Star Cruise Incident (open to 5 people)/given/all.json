@@ -1,0 +1,44 @@
+{
+    "Lin Ruotong": [
+      ["Liu Qi", "lover of x, colleague of x"], 
+      ["Captain Hong", "lover of x, secret of x"], 
+      ["Xiu Renjie", "direct leader of x"], 
+      ["Han Yimu", "acquaintance of x, antagonist of x"], 
+      ["Zhang Wenyuan", "acquaintance of x, gun custodian of x"]
+    ],
+    "Liu Qi": [
+      ["Lin Ruotong", "lover of x, colleague of x"], 
+      ["Captain Hong", "direct leader of x"], 
+      ["Xiu Renjie", "manager of x"], 
+      ["Han Yimu", "acquaintance of x"], 
+      ["Zhang Wenyuan", "acquaintance of x"]
+    ],
+    "Captain Hong": [
+      ["Lin Ruotong", "lover of x, secret of x"], 
+      ["Liu Qi", "direct leader of x"], 
+      ["Xiu Renjie", "direct leader of x"], 
+      ["Han Yimu", "direct leader of x"], 
+      ["Zhang Wenyuan", "gun custodian of x"]
+    ],
+    "Xiu Renjie": [
+      ["Lin Ruotong", "direct leader of x"], 
+      ["Liu Qi", "manager of x"], 
+      ["Captain Hong", "direct leader of x"], 
+      ["Han Yimu", "acquaintance of x"], 
+      ["Zhang Wenyuan", "acquaintance of x"]
+    ],
+    "Han Yimu": [
+      ["Lin Ruotong", "acquaintance of x, antagonist of x"], 
+      ["Liu Qi", "acquaintance of x"], 
+      ["Captain Hong", "direct leader of x"], 
+      ["Xiu Renjie", "manager of x"], 
+      ["Zhang Wenyuan", "acquaintance of x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Lin Ruotong", "acquaintance of x, gun custodian of x"], 
+      ["Liu Qi", "acquaintance of x"], 
+      ["Captain Hong", "direct leader of x"], 
+      ["Xiu Renjie", "manager of x"], 
+      ["Han Yimu", "acquaintance of x"]
+    ]
+}

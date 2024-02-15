@@ -1,0 +1,34 @@
+{
+    "Zhou Chitong": [
+      ["Tian Chou", "friend of x, potential love interest of x"], 
+      ["Yannan", "friend of x, accomplice of x"], 
+      ["Xi Yan", "sister in law of x, friend of x"], 
+      ["Cui Shouheng", "friend of x, benefactor of x, rival of x"], 
+      ["Lianyi", "friend of x, accomplice of x"], 
+      ["Su Nian", "brother of x, friend of x"]
+    ],
+    "Tian Chou": [
+      ["Zhou Chitong", "friend of x, potential love interest of x"], 
+      ["Yannan", "friend of x, accomplice of x"]
+    ],
+    "Yannan": [
+      ["Zhou Chitong", "friend of x, accomplice of x"], 
+      ["Tian Chou", "friend of x, accomplice of x"]
+    ],
+    "Xi Yan": [
+      ["Zhou Chitong", "sister in law of x, friend of x"], 
+      ["Tian Chou", "sister in law of x, friend of x"]
+    ],
+    "Cui Shouheng": [
+      ["Zhou Chitong", "friend of x, benefactor of x, rival of x"], 
+      ["Tian Chou", "friend of x, benefactor of x"]
+    ],
+    "Lianyi": [
+      ["Zhou Chitong", "friend of x, accomplice of x"], 
+      ["Yannan", "friend of x, accomplice of x"]
+    ],
+    "Su Nian": [
+      ["Zhou Chitong", "brother of x, friend of x"], 
+      ["Tian Chou", "brother of x, friend of x"]
+    ]
+}

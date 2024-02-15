@@ -1,0 +1,44 @@
+{
+    "Chen Meier": [
+      ["Ma Laoban", "business partner of x, customer of x"], 
+      ["Zhang Wei", "acquaintance of x, business partner of x"], 
+      ["Zhao San", "friend of x, informant of x"], 
+      ["Zhao Zhongyang", "rival of x, enemy of x"], 
+      ["Zhao Zhongzheng", "acquaintance of x, business partner of x"]
+    ],
+    "Ma Laoban": [
+      ["Chen Meier", "business partner of x, customer of x"], 
+      ["Zhang Wei", "business partner of x, customer of x"], 
+      ["Zhao San", "business partner of x, buyer of x"], 
+      ["Zhao Zhongyang", "business partner of x"], 
+      ["Zhao Zhongzheng", "business partner of x"]
+    ],
+    "Zhang Wei": [
+      ["Chen Meier", "acquaintance of x, business partner of x"], 
+      ["Ma Laoban", "business partner of x, customer of x"], 
+      ["Zhao San", "friend of x, business partner of x"], 
+      ["Zhao Zhongyang", "friend of x, acquaintance of x"], 
+      ["Zhao Zhongzheng", "friend of x, business partner of x"]
+    ],
+    "Zhao San": [
+      ["Chen Meier", "friend of x, informant of x"], 
+      ["Ma Laoban", "business partner of x, seller of x"], 
+      ["Zhang Wei", "friend of x, business partner of x"], 
+      ["Zhao Zhongyang", "same person as x (different reference), friend of x, helped by x"], 
+      ["Zhao Zhongzheng", "adopted brother of x, rival of x"]
+    ],
+    "Zhao Zhongyang": [
+      ["Chen Meier", "rival of x, enemy of x"], 
+      ["Ma Laoban", "business partner of x"], 
+      ["Zhang Wei", "friend of x, acquaintance of x"], 
+      ["Zhao San", "same person as x (different reference), friend of x, helped by x"], 
+      ["Zhao Zhongzheng", "adoptive brother of x, rival of x, acquaintance of x"]
+    ],
+    "Zhao Zhongzheng": [
+      ["Chen Meier", "acquaintance of x, business partner of x"], 
+      ["Ma Laoban", "business partner of x"], 
+      ["Zhang Wei", "friend of x, business partner of x"], 
+      ["Zhao San", "adopted brother of x, rival of x"], 
+      ["Zhao Zhongyang", "adoptive brother of x, rival of x, acquaintance of x"]
+    ]
+}

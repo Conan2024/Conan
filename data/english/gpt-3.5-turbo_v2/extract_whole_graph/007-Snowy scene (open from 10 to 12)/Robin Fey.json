@@ -1,0 +1,50 @@
+{
+    "Robin Fey": [
+      ["Perry Family", "friend of x"], 
+      ["Daniel Perry", "friend of x, possible romantic relationship with x"], 
+      ["Marina Perry", "disliked by x"], 
+      ["Harrison Perry", "disliked by x"], 
+      ["Jonathan Perry", "possible suspect of x, acquaintance of x"], 
+      ["Harold Harrison", "acquaintance of x, possible informant of x"], 
+      ["Jacqueline Perry", "disliked by x"], 
+      ["Lucy Harrison", "interest in x"], 
+      ["Amy Morgan", "witnessed x's actions"]
+    ],
+    "Daniel Perry": [
+      ["Robin Fey", "friend of x, possible romantic relationship with x"], 
+      ["Marina Perry", "possible romantic relationship with x"], 
+      ["Lucy Harrison", "possible mentor of x"]
+    ],
+    "Marina Perry": [
+      ["Robin Fey", "disliked by x"], 
+      ["Daniel Perry", "possible romantic relationship with x"], 
+      ["Jacqueline Perry", "rival in love of x"], 
+      ["Lucy Harrison", "mother of x"]
+    ],
+    "Harrison Perry": [
+      ["Robin Fey", "disliked by x"], 
+      ["Harold Harrison", "possible business partner of x"]
+    ],
+    "Jonathan Perry": [
+      ["Robin Fey", "possible suspect of x, acquaintance of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Robin Fey", "disliked by x"], 
+      ["Marina Perry", "rival in love of x"], 
+      ["Lucy Harrison", "sibling of x"]
+    ],
+    "Harold Harrison": [
+      ["Robin Fey", "acquaintance of x, possible informant of x"], 
+      ["Lucy Harrison", "father of x"]
+    ],
+    "Lucy Harrison": [
+      ["Robin Fey", "interest in x"], 
+      ["Daniel Perry", "possible mentor of x"], 
+      ["Marina Perry", "mother of x"], 
+      ["Jacqueline Perry", "sibling of x"], 
+      ["Harold Harrison", "son of x"]
+    ],
+    "Amy Morgan": [
+      ["Robin Fey", "witnessed x's actions"]
+    ]
+}

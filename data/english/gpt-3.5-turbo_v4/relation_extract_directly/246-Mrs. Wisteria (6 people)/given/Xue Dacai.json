@@ -1,0 +1,92 @@
+{
+    "Xue Dacai": [
+      ["Xue Yufan", "father of x"], 
+      ["Zhu Lingshan", "wife of x"], 
+      ["Ge Jixian", "business partner of x"], 
+      ["Ge Yueluo", "business partner of x"], 
+      ["Ge Yueman", "business partner of x"], 
+      ["Lü Songnian", "business partner of x"], 
+      ["Lü Lusheng", "business partner of x"], 
+      ["Yu Shangyong", "business partner of x"]
+    ],
+    "Xue Yufan": [
+      ["Xue Dacai", "child of x"], 
+      ["Zhu Lingshan", "husband of x"], 
+      ["Yu Shangyong", "daughter of x"], 
+      ["Yu Shangyong", "uncle of x"], 
+      ["Lü Lusheng", "attempted perpetrator of x"], 
+      ["Lü Lusheng", "information receiver from x"], 
+      ["Lü Lusheng", "helper of x"]
+    ],
+    "Zhu Lingshan": [
+      ["Xue Dacai", "husband of x"], 
+      ["Xue Yufan", "wife of x"], 
+      ["Ge Yueluo", "wife of x"], 
+      ["Ge Jixian", "son in law of x"], 
+      ["Lü Songnian", "attempted perpetrator of x"], 
+      ["Lü Lusheng", "information receiver from x"], 
+      ["Lü Lusheng", "helper of x"], 
+      ["Yu Shangyong", "suspected by x"]
+    ],
+    "Ge Jixian": [
+      ["Xue Dacai", "business partner of x"], 
+      ["Ge Yueluo", "father of x"], 
+      ["Ge Yueman", "father of x"], 
+      ["Yu Shangyong", "business partner of x"], 
+      ["Lü Songnian", "business partner of x"], 
+      ["Lü Lusheng", "business partner of x"], 
+      ["Yu Yancheng", "business partner of x"], 
+      ["Lü Lusheng", "replaced x's identity"]
+    ],
+    "Ge Yueluo": [
+      ["Xue Dacai", "business partner of x"], 
+      ["Ge Jixian", "wife of x"], 
+      ["Zhu Lingshan", "wife of x"], 
+      ["Ge Jixian", "wife of x"], 
+      ["Lü Songnian", "business partner of x"], 
+      ["Lü Lusheng", "business partner of x"], 
+      ["Yu Shangyong", "business partner of x"]
+    ],
+    "Ge Yueman": [
+      ["Xue Dacai", "business partner of x"], 
+      ["Ge Jixian", "sister of x"], 
+      ["Ge Yueluo", "sister of x"], 
+      ["Lü Songnian", "business partner of x"], 
+      ["Lü Lusheng", "business partner of x"], 
+      ["Yu Shangyong", "business partner of x"]
+    ],
+    "Mrs. Zhang": [
+      ["Xue Yufan", "mother in law of x"], 
+      ["Zhu Lingshan", "mother in law of x"]
+    ],
+    "Lü Songnian": [
+      ["Ge Jixian", "business partner of x"], 
+      ["Ge Yueluo", "business partner of x"], 
+      ["Ge Yueman", "business partner of x"], 
+      ["Lü Lusheng", "business partner of x"], 
+      ["Zhu Lingshan", "attempted murderer of x"]
+    ],
+    "Lü Lusheng": [
+      ["Ge Jixian", "business partner of x"], 
+      ["Ge Yueluo", "business partner of x"], 
+      ["Ge Yueman", "business partner of x"], 
+      ["Xue Yufan", "information receiver from x"], 
+      ["Zhu Lingshan", "information receiver from x"], 
+      ["Xue Yufan", "helper of x"], 
+      ["Zhu Lingshan", "helper of x"]
+    ],
+    "Yu Yancheng": [
+      ["Yu Shangyong", "daughter of x"], 
+      ["Yu Shangyong", "niece of x"]
+    ],
+    "Yu Shangyong": [
+      ["Ge Jixian", "business partner of x"], 
+      ["Ge Yueluo", "business partner of x"], 
+      ["Ge Yueman", "business partner of x"], 
+      ["Yu Yancheng", "daughter of x"], 
+      ["Yu Yancheng", "niece of x"], 
+      ["Xue Yufan", "perpetrator of x"], 
+      ["Zhu Lingshan", "suspected by x"], 
+      ["Xue Yufan", "helper of x"]
+    ]
+}

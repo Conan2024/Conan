@@ -1,0 +1,22 @@
+{
+    "Wang You": [
+      ["Du Zhong", "friend of x"], 
+      ["Du Zhong", "business partner of x"]
+    ],
+    "Du Zhong": [
+      ["Wang You", "friend of x"], 
+      ["Wang You", "business partner of x"], 
+      ["Xuan Can", "friend of x"], 
+      ["Lady Safflower's Child", "child of x"]
+    ],
+    "Xuan Can": [
+      ["Wang You", "friend of x"], 
+      ["Du Zhong", "friend of x"]
+    ],
+    "Lady Safflower's Child": [
+      ["Du Zhong", "child of x"]
+    ],
+    "Lady Safflower": [
+      ["Du Zhong", "extramarital affair with x"]
+    ]
+}

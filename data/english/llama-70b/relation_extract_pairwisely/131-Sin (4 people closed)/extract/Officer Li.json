@@ -1,0 +1,123 @@
+{
+    "Officer Li": [
+        [
+            "Chief Wang",
+            "Suspect of X",
+            "Investigator of X"
+        ],
+        [
+            "Hu Investigate",
+            "Colleague, Partner, Friend, Rival, Suspect, Victim, Perpetrator"
+        ],
+        [
+            "Zhao Cishan",
+            "Suspect - Investigator",
+            "Enemy - Avenger",
+            "Victim - Perpetrator",
+            "Friend - Betrayer"
+        ],
+        [
+            "Officer Li's girlfriend",
+            "Wife of X",
+            "Stranger to X"
+        ]
+    ],
+    "Chief Wang": [
+        [
+            "Officer Li",
+            "Suspect of X",
+            "Village Chief"
+        ],
+        [
+            "Hu Investigate",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5, relationship 6"
+        ],
+        [
+            "Zhao Cishan",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Suspect",
+            "Witness",
+            "Acquaintance",
+            "Victim",
+            "Perpetrator",
+            "Informant",
+            "Helper"
+        ]
+    ],
+    "Hu Investigate": [
+        [
+            "Officer Li",
+            "Colleague, Partner, Friend, Rival, Suspect"
+        ],
+        [
+            "Chief Wang",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5, relationship 6"
+        ],
+        [
+            "Zhao Cishan",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Officer Li's girlfriend",
+            "acquaintance"
+        ]
+    ],
+    "Zhao Cishan": [
+        [
+            "Officer Li",
+            "Suspect - Investigator",
+            "Enemy - Avenger",
+            "Perpetrator - Victim",
+            "Betrayer - Friend"
+        ],
+        [
+            "Chief Wang",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Hu Investigate",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Officer Li's girlfriend",
+            "Suspect-Victim",
+            "Perpetrator-Witness",
+            "Master-Servant",
+            "Enemy-Victim",
+            "Manipulator-Manipulated"
+        ]
+    ],
+    "Officer Li's girlfriend": [
+        [
+            "Officer Li",
+            "Wife of X",
+            "Stranger to X"
+        ],
+        [
+            "Chief Wang",
+            "Suspect",
+            "Witness",
+            "Acquaintance",
+            "Victim",
+            "Perpetrator",
+            "Informant",
+            "Helper"
+        ],
+        [
+            "Hu Investigate",
+            "acquaintance"
+        ],
+        [
+            "Zhao Cishan",
+            "Suspect-Victim",
+            "Perpetrator-Witness",
+            "Master-Servant",
+            "Enemy-Victim",
+            "Manipulator-Manipulated"
+        ]
+    ]
+}

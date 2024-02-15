@@ -1,0 +1,21 @@
+{
+    "Lin Yang": [
+      ["Gu Qing", "romantic relationships with x"], 
+      ["Su Yang", "romantic relationships with x"]
+    ],
+    "Lin Weiren": [
+      ["Lin Xi", "father of x"]
+    ],
+    "Lin Xi": [
+      ["Lin Yang", "brother of x"], 
+      ["Lin Weiren", "daughter of x"]
+    ],
+    "Gu Qing": [
+      ["Lin Yang", "romantic relationships with x"], 
+      ["Su Yang", "romantic relationships with x"]
+    ],
+    "Su Yang": [
+      ["Lin Yang", "romantic relationships with x"], 
+      ["Gu Qing", "romantic relationships with x"]
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Luo Younuo": [
+      ["Wangdi", "sister in law of x, dance student of x, romantic interest of x"], 
+      ["Qi Gu Fei", "acquaintance of x, housemate of x, business partner of x"], 
+      ["Mrs. Ruan", "adoptive mother of x, acquaintance of x, deceased of x"], 
+      ["Guilang", "adoptive brother of x, friend of x"], 
+      ["Xue Yan", "sister of x, confidant of x"], 
+      ["Zhaonan", "sister in law of x, dance student of x, deceased of x"], 
+      ["Hei Li", "friend of x, acquaintance of x"]
+    ],
+    "Wangdi": [
+      ["Luo Younuo", "sister in law of x, dance student of x, romantic interest of x"], 
+      ["Qi Gu Fei", "acquaintance of x, business partner of x"]
+    ],
+    "Qi Gu Fei": [
+      ["Luo Younuo", "acquaintance of x, housemate of x, business partner of x"], 
+      ["Wangdi", "acquaintance of x, business partner of x"]
+    ],
+    "Mrs. Ruan": [
+      ["Luo Younuo", "adoptive mother of x, acquaintance of x, deceased of x"], 
+      ["Wangdi", "sister in law of x, dance student of x, deceased of x"]
+    ],
+    "Guilang": [
+      ["Luo Younuo", "adoptive brother of x, friend of x"], 
+      ["Wangdi", "sister in law of x, dance student of x, deceased of x"]
+    ],
+    "Xue Yan": [
+      ["Luo Younuo", "sister of x, confidant of x"]
+    ],
+    "Zhaonan": [
+      ["Luo Younuo", "sister in law of x, dance student of x, deceased of x"], 
+      ["Wangdi", "sister in law of x, dance student of x, deceased of x"]
+    ],
+    "Hei Li": [
+      ["Luo Younuo", "friend of x, acquaintance of x"], 
+      ["Wangdi", "friend of x, acquaintance of x"]
+    ]
+}

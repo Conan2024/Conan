@@ -1,0 +1,40 @@
+{
+    "Zhou Chen Sha": [
+      ["Falcon", "friend of x, fiancé of x"], 
+      ["Zhou Yuntang", "father of x, landlord of x"], 
+      ["Zheng Hanzhen", "friend of x, acquaintance of x"], 
+      ["Ba Mansion Mountain", "landlord of x, suspect of x"], 
+      ["Gan Ma", "acquaintance of x, rival of x"], 
+      ["Ruya", "friend of x"]
+    ],
+    "Falcon": [
+      ["Zhou Chen Sha", "friend of x, fiancé of x"], 
+      ["Gan Ma", "father of x, rival of x"]
+    ],
+    "Zhou Yuntang": [
+      ["Zhou Chen Sha", "daughter of x, tenant of x"], 
+      ["Zhou Jingyu", "son of x, victim of x"]
+    ],
+    "Zheng Hanzhen": [
+      ["Zhou Chen Sha", "friend of x, acquaintance of x"], 
+      ["Falcon", "friend of x, rival of x"]
+    ],
+    "Gan Ma": [
+      ["Zhou Chen Sha", "acquaintance of x, rival of x"], 
+      ["Falcon", "father of x, fiancé of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Zhou Chen Sha", "landlord of x, suspect of x"], 
+      ["Zheng Hanzhen", "landlord of x"]
+    ],
+    "Li Demu": [
+      ["Zhou Chen Sha", "acquaintance of x, victim of x"]
+    ],
+    "Ruya": [
+      ["Gan Ma", "friend of x"]
+    ],
+    "Gui Yin": [
+      ["Zheng Hanzhen", "friend of x"], 
+      ["Li Gaobai", "friend of x"]
+    ]
+}

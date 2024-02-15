@@ -1,0 +1,56 @@
+{
+    "Lin Xi": [
+      ["Lin Yang", "brother of x"], 
+      ["Gu Yu", "romantic relationships with x"], 
+      ["Gu Qing", "friend of x"], 
+      ["Su Yang", "romantic relationships with x"], 
+      ["Shen Cheng", "employee of x, guard of x"], 
+      ["Chen Jingwen", "friend of x"]
+    ],
+    "Lin Weiren": [
+      ["Lin Yang", "father of x"], 
+      ["Gu Qing", "husband of x"], 
+      ["Su Yang", "fiancee of x, doctor of x"], 
+      ["Shen Cheng", "employer of x"]
+    ],
+    "Lin Yang": [
+      ["Lin Xi", "brother of x"], 
+      ["Lin Weiren", "child of x"], 
+      ["Gu Yu", "romantic relationships with x"], 
+      ["Gu Qing", "sibling of x"], 
+      ["Su Yang", "romantic relationships with x"], 
+      ["Shen Cheng", "brother of x"], 
+      ["Chen Jingwen", "girlfriend of x"]
+    ],
+    "Gu Yu": [
+      ["Lin Xi", "romantic relationships with x"], 
+      ["Lin Yang", "romantic relationships with x"], 
+      ["Gu Qing", "romantic relationships with x"], 
+      ["Chen Jingwen", "romantic relationships with x"]
+    ],
+    "Gu Qing": [
+      ["Lin Xi", "ex romantic relationships with x"], 
+      ["Lin Weiren", "wife of x"], 
+      ["Lin Yang", "sibling of x"], 
+      ["Gu Yu", "romantic relationships with x"]
+    ],
+    "Su Yang": [
+      ["Lin Xi", "romantic relationships with x"], 
+      ["Lin Weiren", "patient of x"], 
+      ["Lin Yang", "romantic relationships with x"], 
+      ["Chen Jingwen", "romantic relationships with x"]
+    ],
+    "Shen Cheng": [
+      ["Lin Xi", "employer of x"], 
+      ["Lin Weiren", "employee of x"], 
+      ["Lin Yang", "helper of x"], 
+      ["Chen Jingwen", "helper of x"]
+    ],
+    "Chen Jingwen": [
+      ["Lin Xi", "jealous of x"], 
+      ["Lin Yang", "boyfriend of x"], 
+      ["Gu Yu", "romantic relationships with x"], 
+      ["Su Yang", "romantic relationships with x"], 
+      ["Shen Cheng", "helper of x"]
+    ]
+}

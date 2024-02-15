@@ -1,0 +1,29 @@
+{
+    "Griff": [
+      ["Assistant Ella", "colleague of x griff"], 
+      ["TheTrical Work David", "colleague of x griff"], 
+      ["Publicity Rowling", "colleague of x griff"], 
+      ["Kevin", "suspected by griff of x"]
+    ],
+    "Assistant Ella": [
+      ["Griff", "colleague of x assistant ella"], 
+      ["Gust", "lover of x assistant ella"], 
+      ["Ella Griffor", "possibly family of x assistant ella"]
+    ],
+    "TheTrical Work David": [
+      ["Griff", "colleague of x thetrical work david"], 
+      ["Gust", "dislike of x thetrical work david"], 
+      ["Rowling", "unsuccessful helper of x thetrical work david"]
+    ],
+    "Publicity Rowling": [
+      ["Griff", "colleague of x publicity rowling"], 
+      ["David", "unsuccessful helper of x publicity rowling"], 
+      ["Kevin", "romantic relationships with publicity rowling of x"]
+    ],
+    "Kevin": [
+      ["Griff", "suspect of x kevin"], 
+      ["Kevin", "theft of x griff"], 
+      ["Gust", "rival in love of x kevin"], 
+      ["Rowling", "romantic relationships with kevin of x"]
+    ]
+}

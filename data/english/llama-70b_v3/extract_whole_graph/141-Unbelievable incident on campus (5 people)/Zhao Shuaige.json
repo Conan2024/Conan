@@ -1,0 +1,47 @@
+{
+    "Zhao Shuaige": [
+      ["Zhang Eba", "friend of x, classmate of x"], 
+      ["Lin Xiaohua", "classmate of x"], 
+      ["Wang Xuexi", "classmate of x"], 
+      ["Li Xiaodi", "classmate of x"], 
+      ["Hao Guimi", "classmate of x"], 
+      ["Zhang Eba's mother", "mother in law of x"]
+    ],
+    "Zhang Eba": [
+      ["Zhao Shuaige", "friend of x, classmate of x"], 
+      ["Lin Xiaohua", "fiancee of x"], 
+      ["Wang Xuexi", "classmate of x"], 
+      ["Li Xiaodi", "classmate of x"], 
+      ["Hao Guimi", "classmate of x"]
+    ],
+    "Lin Xiaohua": [
+      ["Zhang Eba", "fiancee of x"], 
+      ["Wang Xuexi", "classmate of x"], 
+      ["Li Xiaodi", "classmate of x"], 
+      ["Hao Guimi", "classmate of x"]
+    ],
+    "Wang Xuexi": [
+      ["Zhao Shuaige", "classmate of x"], 
+      ["Zhang Eba", "classmate of x"], 
+      ["Lin Xiaohua", "classmate of x"], 
+      ["Li Xiaodi", "classmate of x"], 
+      ["Hao Guimi", "classmate of x"]
+    ],
+    "Li Xiaodi": [
+      ["Zhao Shuaige", "classmate of x"], 
+      ["Zhang Eba", "classmate of x"], 
+      ["Lin Xiaohua", "classmate of x"], 
+      ["Wang Xuexi", "classmate of x"], 
+      ["Hao Guimi", "classmate of x"]
+    ],
+    "Hao Guimi": [
+      ["Zhao Shuaige", "classmate of x"], 
+      ["Zhang Eba", "classmate of x"], 
+      ["Lin Xiaohua", "classmate of x"], 
+      ["Wang Xuexi", "classmate of x"], 
+      ["Li Xiaodi", "classmate of x"]
+    ],
+    "Zhang Eba's mother": [
+      ["Zhao Shuaige", "son in law of x"]
+    ]
+}

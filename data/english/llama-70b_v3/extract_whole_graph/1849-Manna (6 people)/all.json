@@ -1,0 +1,81 @@
+{
+    "Mrs. Tan": [
+      ["Shang Zhi", "acquaintance of x, business partner of x"], 
+      ["Liao Gongzi", "acquaintance of x, suspicious of x"], 
+      ["Cai Qian", "friend of x, suspicious of x"], 
+      ["Cheng Ge", "informant of x"], 
+      ["Hai You", "friend of x, informant of x"], 
+      ["Luo Hengli", "brother of x, suspicious of x"], 
+      ["Tan Renchang", "husband of x"], 
+      ["Xinya", "friend of x, informant of x"], 
+      ["Lv Mingran", "brother of x, lover of x"]
+    ],
+    "Shang Zhi": [
+      ["Mrs. Tan", "acquaintance of x, business partner of x"], 
+      ["Liao Gongzi", "suspicious of x, rival of x"], 
+      ["Cai Qian", "suspicious of x, friend of x"], 
+      ["Cheng Ge", "rival of x"], 
+      ["Hai You", "friend of x, rival of x"], 
+      ["Luo Hengli", "suspicious of x, brother of x"], 
+      ["Tan Renchang", "business partner of x"], 
+      ["Xinya", "friend of x, informant of x"]
+    ],
+    "Liao Gongzi": [
+      ["Mrs. Tan", "acquaintance of x, suspicious of x"], 
+      ["Shang Zhi", "suspicious of x, rival of x"], 
+      ["Cai Qian", "suspicious of x, friend of x"], 
+      ["Cheng Ge", "rival of x"], 
+      ["Hai You", "friend of x, rival of x"], 
+      ["Luo Hengli", "suspicious of x, brother of x"], 
+      ["Tan Renchang", "business partner of x"], 
+      ["Xinya", "friend of x, informant of x"]
+    ],
+    "Cai Qian": [
+      ["Mrs. Tan", "friend of x, suspicious of x"], 
+      ["Shang Zhi", "suspicious of x, friend of x"], 
+      ["Liao Gongzi", "suspicious of x, friend of x"], 
+      ["Cheng Ge", "informant of x"], 
+      ["Hai You", "friend of x, informant of x"], 
+      ["Luo Hengli", "suspicious of x, brother of x"], 
+      ["Tan Renchang", "business partner of x"], 
+      ["Xinya", "friend of x, informant of x"]
+    ],
+    "Cheng Ge": [
+      ["Mrs. Tan", "informant of x"], 
+      ["Shang Zhi", "rival of x"], 
+      ["Liao Gongzi", "suspicious of x"], 
+      ["Cai Qian", "friend of x, informant of x"], 
+      ["Hai You", "friend of x, rival of x"], 
+      ["Luo Hengli", "suspicious of x, brother of x"], 
+      ["Tan Renchang", "business partner of x"], 
+      ["Xinya", "friend of x, informant of x"]
+    ],
+    "Hai You": [
+      ["Mrs. Tan", "friend of x, informant of x"], 
+      ["Shang Zhi", "rival of x"], 
+      ["Liao Gongzi", "suspicious of x"], 
+      ["Cai Qian", "friend of x, informant of x"], 
+      ["Cheng Ge", "friend of x, rival of x"], 
+      ["Luo Hengli", "suspicious of x, brother of x"], 
+      ["Tan Renchang", "business partner of x"], 
+      ["Xinya", "friend of x, informant of x"]
+    ],
+    "Luo Hengli": [
+      ["Mrs. Tan", "brother of x, suspicious of x"], 
+      ["Shang Zhi", "suspicious of x, rival of x"], 
+      ["Liao Gongzi", "suspicious of x, friend of x"], 
+      ["Cai Qian", "suspicious of x, friend of x"], 
+      ["Cheng Ge", "suspicious of x"], 
+      ["Hai You", "suspicious of x, friend of x"], 
+      ["Tan Renchang", "business partner of x"], 
+      ["Xinya", "friend of x, informant of x"]
+    ],
+    "Tan Renchang": [
+      ["Mrs. Tan", "husband of x"], 
+      ["Shang Zhi", "business partner of x"], 
+      ["Liao Gongzi", "suspicious of x, business partner of x"], 
+      ["Cai Qian", "friend of x"], 
+      ["Luo Hengli", "brother of x"], 
+      ["Xinya", "friend of x, informant of x"]
+    ]
+}

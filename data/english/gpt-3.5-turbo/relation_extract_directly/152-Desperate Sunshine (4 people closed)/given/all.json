@@ -1,0 +1,54 @@
+{
+    "First Mate Zhang": [
+        [
+            "Shipyard Worker Wang",
+            "same person as x (different reference)"
+        ]
+    ],
+    "Naive Hen": [
+        [
+            "First Mate Zhang",
+            "co-worker of x"
+        ],
+        [
+            "Boss Yang",
+            "confidant of x"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "casual relationship"
+        ]
+    ],
+    "Boss Yang": [
+        [
+            "Naive Hen",
+            "co-worker of x"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "drug supplier of x"
+        ]
+    ],
+    "Secretary Wen": [
+        [
+            "Shipyard Worker Wang",
+            "stranger to x"
+        ]
+    ],
+    "Ship Doctor Ling": [
+        [
+            "Worker Wang",
+            "daughter-in-law of x"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "filial to x"
+        ]
+    ],
+    "Worker Wang": [
+        [
+            "Shipyard Worker Wang",
+            "child of x"
+        ]
+    ]
+}

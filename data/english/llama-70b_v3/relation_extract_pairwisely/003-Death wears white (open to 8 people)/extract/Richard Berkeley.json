@@ -1,0 +1,34 @@
+{
+    "Dr. Richard Berkeley": [
+      ["Sylvia Costa", "friend of x, colleague of x"], 
+      ["Father Tom", "acquaintance of x, suspect of x"]
+    ],
+    "Hans Li Morette": [
+      ["Laine Carter", "colleague of x"], 
+      ["Dr. Paloski", "colleague of x, superior of x"], 
+      ["Sylvia Costa", "friend of x, colleague of x"]
+    ],
+    "Laine Carter": [
+      ["Hans Li Morette", "colleague of x"], 
+      ["Sylvia Costa", "friend of x, colleague of x"], 
+      ["Father Tom", "same person as x (different reference)"]
+    ],
+    "Dr. Paloski": [
+      ["Hans Li Morette", "colleague of x, superior of x"], 
+      ["Sylvia Costa", "friend of x, colleague of x"], 
+      ["Father Tom", "same person as x (different reference)"]
+    ],
+    "Sylvia Costa": [
+      ["Dr. Richard Berkeley", "friend of x, colleague of x"], 
+      ["Hans Li Morette", "friend of x, colleague of x"], 
+      ["Laine Carter", "friend of x, colleague of x"], 
+      ["Dr. Paloski", "friend of x, colleague of x"], 
+      ["Father Tom", "friend of x"]
+    ],
+    "Father Tom": [
+      ["Dr. Richard Berkeley", "acquaintance of x, suspect of x"], 
+      ["Laine Carter", "same person as x (different reference)"], 
+      ["Dr. Paloski", "same person as x (different reference)"], 
+      ["Sylvia Costa", "friend of x"]
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "Zhang Villager": [
+        [
+            "Zhang Villager's father",
+            "child of x",
+            "father of x"
+        ],
+        [
+            "Chief Wang",
+            "suspected by x",
+            "acquaintance of x",
+            "residence in the village of x"
+        ],
+        [
+            "Office Li",
+            "suspected by x",
+            "acquaintance of x"
+        ],
+        [
+            "Hu Investigate",
+            "adversary of x",
+            "suspect of x"
+        ],
+        [
+            "Zhao Cishan",
+            "victim of x",
+            "suspected by x"
+        ]
+    ],
+    "Zhang Villager's father": [
+        [
+            "Zhang Villager",
+            "father of x",
+            "child of x"
+        ],
+        [
+            "Chief Wang",
+            "inferred father due to 'help Chief Wang work'",
+            "potentially victim of Chief Wang's foes"
+        ],
+        [
+            "Hu Investigate",
+            "informant of Zhang Villager",
+            "information receiver from Hu Investigate"
+        ]
+    ],
+    "Chief Wang": [
+        [
+            "Zhang Villager",
+            "neighbor of x",
+            "authority over x"
+        ],
+        [
+            "Zhang Villager's father",
+            "inferred employee due to 'accidentally went outside Dashan to help Chief Wang work'",
+            "potentially involved in Zhang Villager's father's death"
+        ],
+        [
+            "Office Li",
+            "informant of Zhang Villager",
+            "helper of Zhang Villager"
+        ],
+        [
+            "Hu Investigate",
+            "advisor of ZHANG VILLAGER",
+            "informant of ZHANG VILLAGER"
+        ],
+        [
+            "Zhao Cishan",
+            "neighbor of x",
+            "resident of the same village as x"
+        ]
+    ],
+    "Office Li": [
+        [
+            "Zhang Villager",
+            "informant of x",
+            "informant of x"
+        ],
+        [
+            "Chief Wang",
+            "information receiver from Zhang Villager",
+            "helper of Zhang Villager"
+        ],
+        [
+            "Hu Investigate",
+            "informant of Hu Investigate",
+            "information receiver from Hu Investigate"
+        ],
+        [
+            "Zhao Cishan",
+            "information receiver from x",
+            "helper of x"
+        ]
+    ],
+    "Hu Investigate": [
+        [
+            "Zhang Villager",
+            "adversary of x",
+            "suspected by x"
+        ],
+        [
+            "Zhang Villager's father",
+            "informant of Zhang Villager",
+            "information receiver from Zhang Villager"
+        ],
+        [
+            "Chief Wang",
+            "information receiver from ZHANG VILLAGER",
+            "informant of ZHANG VILLAGER"
+        ],
+        [
+            "Office Li",
+            "informant of Office Li",
+            "information receiver from Office Li"
+        ],
+        [
+            "Quest companion of Zhao Cishan",
+            "Information receiver from Zhang Villager"
+        ]
+    ],
+    "Zhao Cishan": [
+        [
+            "Zhang Villager",
+            "murderer of x",
+            "unsuccessful helper of x"
+        ],
+        [
+            "Chief Wang",
+            "neighbor of x",
+            "resident of the same village as x"
+        ],
+        [
+            "Office Li",
+            "information receiver from x",
+            "helper of x"
+        ],
+        [
+            "Quest companion of Hu Investigate",
+            "Information provider to Zhang Villager"
+        ]
+    ]
+}

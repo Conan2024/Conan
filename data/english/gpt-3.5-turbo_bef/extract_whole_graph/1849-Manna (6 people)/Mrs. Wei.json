@@ -1,0 +1,50 @@
+{
+    "Mrs. Wei": [
+      ["Lv Caiqian", "friend of x, secret lover of x"], 
+      ["Lv Mingran", "sibling of x"], 
+      ["Mingsha", "ex romantic relationships with x, wife of x"], 
+      ["Xinya", "acquaintance of x"]
+    ],
+    "Lv Caiqian": [
+      ["Mrs. Wei", "friend of x, secret lover of x"], 
+      ["Mingsha", "acquaintance of x"]
+    ],
+    "Lv Mingran": [
+      ["Mrs. Wei", "sibling of x"]
+    ],
+    "Mingsha": [
+      ["Mrs. Wei", "ex romantic relationships with x, wife of x"], 
+      ["Lv Caiqian", "acquaintance of x"]
+    ],
+    "Xinya": [
+      ["Mrs. Wei", "acquaintance of x"]
+    ],
+    "Tan Renchang": [
+      ["Mrs. Wei", "romantic relationships with x"], 
+      ["Mingsha", "ex husband of x"], 
+      ["Cheng Ge", "adoptive father of x"]
+    ],
+    "Hai You": [
+      ["Mrs. Wei", "daughter in law of x"], 
+      ["Cheng Ge", "sibling of x"]
+    ],
+    "Cheng Ge": [
+      ["Mrs. Wei", "brother of x"], 
+      ["Hai You", "sibling of x"]
+    ],
+    "Lv Shouben": [
+      ["Mrs. Wei", "father of x"], 
+      ["Lv Caiqian", "child of x"], 
+      ["Lv Mingran", "child of x"]
+    ],
+    "Li Shi": [
+      ["Lv Caiqian", "mother of x"]
+    ],
+    "Luo Hengli": [
+      ["Mrs. Wei", "business partner of x"]
+    ],
+    "Father": [
+      ["Hai You", "father in law of x"], 
+      ["Cheng Ge", "father in law of x"]
+    ]
+}

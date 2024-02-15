@@ -1,0 +1,29 @@
+{
+    "Chief Wang": [
+      ["Zhang Villager", "enemy of x"], 
+      ["Officer Li", "adversary of x, suspect to x"], 
+      ["Hu Investigate", "informant of x, deceiver of x"], 
+      ["Zhao Cishan", "suspect of x, manipulated by x"]
+    ],
+    "Zhang Villager": [
+      ["Officer Li", "informant of x, adversary of x"], 
+      ["Hu Investigate", "informant of x, information receiver from x"], 
+      ["Zhao Cishan", "guest of x, neighbour of x"]
+    ],
+    "Officer Li": [
+      ["Chief Wang", "suspected by x, authority over x"], 
+      ["Zhang Villager", "information receiver from x, adversary of x"], 
+      ["Hu Investigate", "information receiver from x, helped by x"]
+    ],
+    "Hu Investigate": [
+      ["Chief Wang", "information receiver from x, deceived by x"], 
+      ["Zhang Villager", "informant of x, information receiver from x"], 
+      ["Officer Li", "informant of x, information receiver from x"], 
+      ["Zhao Cishan", "information receiver from x, suspected by x"]
+    ],
+    "Zhao Cishan": [
+      ["Chief Wang", "victim of x, manipulator of x"], 
+      ["Zhang Villager", "guest of x, neighbour of x"], 
+      ["Hu Investigate", "quest companion of x, suspected by x"]
+    ]
+}

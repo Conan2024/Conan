@@ -1,0 +1,32 @@
+{
+    "Kevin": [
+      ["Assistant Ella", "employer of x"], 
+      ["Publicity Rowling", "sister of x"], 
+      ["Thetrical Work David", "acquaintance of x"], 
+      ["Logistics Griff", "acquaintance of x"], 
+      ["Gust", "enemy of x"], 
+      ["Gust", "ex husband of x"]
+    ],
+    "Assistant Ella": [
+      ["Kevin", "employee of x"], 
+      ["Gust", "friend of x"]
+    ],
+    "Publicity Rowling": [
+      ["Kevin", "sibling of x"], 
+      ["David", "acquaintance of x"]
+    ],
+    "Thetrical Work David": [
+      ["Kevin", "acquaintance of x"], 
+      ["Publicity Rowling", "acquaintance of x"], 
+      ["Assistant Ella", "acquaintance of x"]
+    ],
+    "Logistics Griff": [
+      ["Kevin", "acquaintance of x"], 
+      ["David", "acquaintance of x"]
+    ],
+    "Gust": [
+      ["Kevin", "enemy of x"], 
+      ["Kevin", "ex husband of x"], 
+      ["Assistant Ella", "friend of x"]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "Chen Meier": [
+      ["Ma Laoban", "business partner of x, co conspirators of x, accomplices of x"], 
+      ["Zhang Wei", "acquaintance of x, business partner of x, co conspirator of x"], 
+      ["Zhao San", "friend of x, business partner of x"], 
+      ["Zhao Zhongyang", "friend of x, business partner of x"], 
+      ["Zhao Zhongzheng", "subordinate of x, loyal of x"]
+    ],
+    "Li Cheng": [
+      ["Ma Laoban", "friend of x, business partner of x"], 
+      ["Zhang Wei", "friend of x, helper of x"], 
+      ["Zhao San", "friend of x, business partner of x"], 
+      ["Zhao Zhongyang", "friend of x, savior of x"], 
+      ["Zhao Zhongzheng", "friend of x, reliable of x, close friend of x"]
+    ],
+    "Ma Laoban": [
+      ["Chen Meier", "business partner of x, co conspirators of x, accomplices of x"], 
+      ["Li Cheng", "friend of x, business partner of x"], 
+      ["Zhang Wei", "business partner of x, friend of x"], 
+      ["Zhao San", "business partner of x, co conspirator of x"], 
+      ["Zhao Zhongyang", "employer of x, master of x"], 
+      ["Zhao Zhongzheng", "business partner of x, employer employee of x"]
+    ],
+    "Zhang Wei": [
+      ["Chen Meier", "acquaintance of x, business partner of x, co conspirator of x"], 
+      ["Li Cheng", "friend of x, helped of x"], 
+      ["Ma Laoban", "business partner of x, friend of x"], 
+      ["Zhao San", "acquaintance of x, business partner of x"], 
+      ["Zhao Zhongyang", "employee of x, servant of x"], 
+      ["Zhao Zhongzheng", "subordinate of x, acquaintance of x"]
+    ],
+    "Zhao San": [
+      ["Chen Meier", "friend of x, business partner of x"], 
+      ["Li Cheng", "friend of x, business partner of x"], 
+      ["Ma Laoban", "business partner of x, co conspirator of x"], 
+      ["Zhang Wei", "acquaintance of x, business partner of x"], 
+      ["Zhao Zhongyang", "business partner of x, acquaintance of x"], 
+      ["Zhao Zhongzheng", "same person as x, same person as x"]
+    ],
+    "Zhao Zhongyang": [
+      ["Chen Meier", "friend of x, business partner of x"], 
+      ["Li Cheng", "friend of x, saved of x"], 
+      ["Ma Laoban", "employee of x, servant of x"], 
+      ["Zhang Wei", "employer of x, master of x"], 
+      ["Zhao San", "business partner of x, acquaintance of x"], 
+      ["Zhao Zhongzheng", "master servant of x, employer employee of x"]
+    ],
+    "Zhao Zhongzheng": [
+      ["Chen Meier", "values of x, grandmother like of x"], 
+      ["Li Cheng", "friend of x, reliable of x, close friend of x"], 
+      ["Ma Laoban", "business partner of x, employer employee of x"], 
+      ["Zhang Wei", "employer of x, acquaintance of x"], 
+      ["Zhao San", "same person as x, same person as x"], 
+      ["Zhao Zhongyang", "master servant of x, employer employee of x"]
+    ]
+}

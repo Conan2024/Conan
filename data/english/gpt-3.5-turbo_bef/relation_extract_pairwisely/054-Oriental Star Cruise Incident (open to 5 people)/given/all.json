@@ -1,0 +1,104 @@
+{
+    "Xiu Renjie": [
+      ["Liu Qi", "friend of x"], 
+      ["Han Yimu", "romantic relationships with x"], 
+      ["Lin Ruotong", "ex romantic relationships with x"], 
+      ["Zhang Wenyuan", "acquaintance of x"], 
+      ["Manager Xiu", "friend of x"], 
+      ["Captain Hong", "friend of x"], 
+      ["Han Chengwu (Han the Attendant or Han the Crew Member)", "romantic relationships with x"]
+    ],
+    "Liu Qi": [
+      ["Zhang Wenyuan", "adversary of x"], 
+      ["Manager Xiu", "employee of x"], 
+      ["Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)", "enemy of x"], 
+      ["Singer Lin", "extramarital affair with x"], 
+      ["Captain Hong", "disliked by x"], 
+      ["Han Chengwu (Han the Attendant or Han the Crew Member)", "deceiver of x, hated by x"]
+    ],
+    "Hong Zilian": [
+      ["Liu Qi", "hate of x"], 
+      ["Han Yimu", "secret crush of x"], 
+      ["Lin Ruotong", "ex romantic relationships with x"], 
+      ["Zhang Wenyuan", "colleague of x"], 
+      ["Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)", "fondness of x, disliked by x"], 
+      ["Singer Lin", "romantic relationships with x"], 
+      ["Captain Hong", "superior of x"], 
+      ["Han Chengwu (Han the Attendant or Han the Crew Member)", "fondness of x, disliked by x"]
+    ],
+    "Han Yimu": [
+      ["Xiu Renjie", "romantic relationships with x"], 
+      ["Hong Zilian", "admired by x"], 
+      ["Lin Ruotong", "romantic relationships with x"], 
+      ["Zhang Wenyuan", "helper of x"], 
+      ["Manager Xiu", "friend of x"], 
+      ["Singer Lin", "romantic relationships with x"], 
+      ["Captain Hong", "adversary of x, hate of x"], 
+      ["Han Chengwu (Han the Attendant or Han the Crew Member)", "helper of x, attempted perpetrator of x"]
+    ],
+    "Lin Ruotong": [
+      ["Xiu Renjie", "ex romantic relationships with x"], 
+      ["Liu Qi", "dislike of x"], 
+      ["Hong Zilian", "ex romantic relationships with x"], 
+      ["Han Yimu", "romantic relationships with x"], 
+      ["Zhang Wenyuan", "helper of x"], 
+      ["Manager Xiu", "romantic relationships with x"], 
+      ["Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)", "romantic relationships with x"], 
+      ["Singer Lin", "romantic relationships with x"], 
+      ["Han Chengwu (Han the Attendant or Han the Crew Member)", "ex romantic relationships with x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Xiu Renjie", "acquaintance of x"], 
+      ["Liu Qi", "hated by x"], 
+      ["Hong Zilian", "colleague of x"], 
+      ["Han Yimu", "acquaintance of x"], 
+      ["Lin Ruotong", "hated by x"], 
+      ["Singer Lin", "acquaintance of x"], 
+      ["Han Chengwu (Han the Attendant or Han the Crew Member)", "employee of x, colleague of x"]
+    ],
+    "Manager Xiu": [
+      ["Xiu Renjie", "friend of x"], 
+      ["Liu Qi", "helped by x"], 
+      ["Han Yimu", "friend of x"], 
+      ["Lin Ruotong", "admired by x"], 
+      ["Captain Hong", "mentor of x"], 
+      ["Han Chengwu (Han the Attendant or Han the Crew Member)", "admired by x, romantic relationships with x"]
+    ],
+    "Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)": [
+      ["Hong Zilian", "fondness of x, disliked by x"], 
+      ["Han Yimu", "acquaintance of x"], 
+      ["Lin Ruotong", "romantic relationships with x"], 
+      ["Singer Lin", "romantic relationships with x"], 
+      ["Captain Hong", "colleague of x"]
+    ],
+    "Singer Lin": [
+      ["Liu Qi", "extramarital affair with x"], 
+      ["Hong Zilian", "romantic relationships with x"], 
+      ["Han Yimu", "ex romantic relationships with x"], 
+      ["Lin Ruotong", "romantic relationships with x"], 
+      ["Zhang Wenyuan", "acquaintance of x"], 
+      ["Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)", "romantic relationships with x"], 
+      ["Captain Hong", "fondness of x"], 
+      ["Han Chengwu (Han the Attendant or Han the Crew Member)", "ex boyfriend of x"]
+    ],
+    "Captain Hong": [
+      ["Xiu Renjie", "friend of x"], 
+      ["Liu Qi", "dislike of x"], 
+      ["Hong Zilian", "subordinate of x"], 
+      ["Han Yimu", "suspect of x, jealous of x"], 
+      ["Manager Xiu", "acquaintance of x"], 
+      ["Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)", "superior of x"], 
+      ["Han Chengwu (Han the Attendant or Han the Crew Member)", "dislike of x"]
+    ],
+    "Han Chengwu (Han the Attendant or Han the Crew Member)": [
+      ["Xiu Renjie", "ex boyfriend of x"], 
+      ["Liu Qi", "dislike of x"], 
+      ["Hong Zilian", "dislike of x"], 
+      ["Han Yimu", "victim of x"], 
+      ["Lin Ruotong", "disliked by x"], 
+      ["Zhang Wenyuan", "employer of x"], 
+      ["Manager Xiu", "fondness of x, romantic relationships with x"], 
+      ["Singer Lin", "ex girlfriend of x"], 
+      ["Captain Hong", "disliked by x"]
+    ]
+}

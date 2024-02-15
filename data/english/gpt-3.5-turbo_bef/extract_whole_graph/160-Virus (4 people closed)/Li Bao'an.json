@@ -1,0 +1,21 @@
+{
+    "Li Bao'an": [
+      ["Tian Zhuli", "adversary of x"], 
+      ["Tian Zhuli", "disliked by x"], 
+      ["Tian Zhuli", "deceiver of x"], 
+      ["Tian Zhuli", "superior of x"], 
+      ["Sun Qingjie", "friend of x"]
+    ],
+    "Tian Zhuli": [
+      ["Li Bao'an", "adversary of x"], 
+      ["Li Bao'an", "disliked by x"], 
+      ["Li Bao'an", "deceiver of x"], 
+      ["Li Bao'an", "subordinate of x"]
+    ],
+    "Sun Qingjie": [
+      ["Li Bao'an", "friend of x"]
+    ],
+    "Qin OU": [
+      ["Li Bao'an", "friend of x"]
+    ]
+}

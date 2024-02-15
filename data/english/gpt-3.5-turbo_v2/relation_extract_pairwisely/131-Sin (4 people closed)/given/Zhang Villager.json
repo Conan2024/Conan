@@ -1,0 +1,56 @@
+{
+    "Zhang Villager": [
+      ["Father of Zhang Villager", "child of x, victim of x"], 
+      ["Chief Wang", "neighbor of x, acquaintance of x"], 
+      ["Hu Research", "informant of x, quest companion of x"], 
+      ["Zhao Cishan", "suspect to x, murderer of x"], 
+      ["Officer Li", "informant of x, information receiver from x, suspicious of x"], 
+      ["Murderer", "attempted perpetrator of x murderer, seeker of x help from murderer"]
+    ],
+    "Father of Zhang Villager": [
+      ["Zhang Villager", "parent of x, victim of x"], 
+      ["Chief Wang", "father of x"], 
+      ["Hu Research", "father of x zhang villager, in the lawsuit against x"], 
+      ["Zhao Cishan", "father of x, killed by x"], 
+      ["Officer Li", "guard of x, victim of x"], 
+      ["Murderer", "victim of x"]
+    ],
+    "Chief Wang": [
+      ["Zhang Villager", "villager of x, neighbor of x"], 
+      ["Father of Zhang Villager", "son in law of x"], 
+      ["Hu Research", "informant of x zhang villager, follower of x zhang villager"], 
+      ["Zhao Cishan", "suspected by x, acquaintance of x"], 
+      ["Officer Li", "subject of x investigation for of xficer li, informant of x zhang villager"], 
+      ["Murderer", "suspected by x, informant of x"]
+    ],
+    "Hu Research": [
+      ["Zhang Villager", "information receiver from x, quest companion of x"], 
+      ["Father of Zhang Villager", "son of x"], 
+      ["Chief Wang", "informant of x zhang villager, follower of x zhang villager"], 
+      ["Zhao Cishan", "informant of x zhao cishan, acquaintance of x zhao cishan"], 
+      ["Officer Li", "information receiver from x"]
+    ],
+    "Zhao Cishan": [
+      ["Zhang Villager", "suspicious of x, victim of x"], 
+      ["Father of Zhang Villager", "child of x, killed by x"], 
+      ["Chief Wang", "suspect of x, acquaintance of x"], 
+      ["Hu Research", "information receiver from hu research of x, acquaintance of x hu research"], 
+      ["Officer Li", "subject of x investigation for x, informant of x"], 
+      ["Murderer", "adversary of x murderer, victim of x murderer"]
+    ],
+    "Officer Li": [
+      ["Zhang Villager", "investigator of x, information receiver from x, suspicious of x"], 
+      ["Father of Zhang Villager", "servant of x, helper of x"], 
+      ["Chief Wang", "superior of x zhang villager, information receiver from zhang villager of x"], 
+      ["Hu Research", "informant of x"], 
+      ["Zhao Cishan", "information receiver from x, helper of x"], 
+      ["Murderer", "suspect to x, information receiver from x"]
+    ],
+    "Murderer": [
+      ["Zhang Villager", "victim of x zhang villager, helper of x zhang villager"], 
+      ["Father of Zhang Villager", "perpetrator of x"], 
+      ["Chief Wang", "suspect to x, deceived by x"], 
+      ["Zhao Cishan", "adversary of x zhao cishan, murderer of x zhao cishan"], 
+      ["Officer Li", "deceiver of x, deceived by x"]
+    ]
+}

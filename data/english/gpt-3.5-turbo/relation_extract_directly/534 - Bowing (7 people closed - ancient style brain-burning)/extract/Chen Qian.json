@@ -1,0 +1,136 @@
+{
+    "Chen Qian": [
+        [
+            "Madam Chen",
+            "same person as x (different identity)"
+        ],
+        [
+            "Chen Zijing",
+            "father of x"
+        ],
+        [
+            "Xiao Qian",
+            "adopted sister of x"
+        ],
+        [
+            "Li Zhong",
+            "romantic relationships with x"
+        ],
+        [
+            "Li Qinren",
+            "father in law of x"
+        ],
+        [
+            "Wangye",
+            "guest of x"
+        ],
+        [
+            "Li Fu's owner",
+            "customer of x"
+        ],
+        [
+            "Li Fu's main force",
+            "authority over x"
+        ]
+    ],
+    "Madam Chen": [
+        [
+            "Chen Qian",
+            "same person as x (different identity)"
+        ]
+    ],
+    "Chen Zijing": [
+        [
+            "Chen Qian",
+            "child of x"
+        ]
+    ],
+    "Xiao Qian": [
+        [
+            "Chen Qian",
+            "adopted sister of x"
+        ],
+        [
+            "Li Zhong",
+            "acquaintance of x"
+        ],
+        [
+            "Wangye",
+            "helper of x"
+        ]
+    ],
+    "Li Zhong": [
+        [
+            "Chen Qian",
+            "romantic relationships with x"
+        ],
+        [
+            "Xiao Qian",
+            "acquaintance of x"
+        ],
+        [
+            "Wangye",
+            "perpetrator of x, victim of x, enemy of x"
+        ],
+        [
+            "Li Qinren",
+            "father of x"
+        ],
+        [
+            "Li Fu's owner",
+            "business partner of x"
+        ],
+        [
+            "Li Fu's main force",
+            "rival of x"
+        ]
+    ],
+    "Li Qinren": [
+        [
+            "Chen Qian",
+            "father in law of x"
+        ],
+        [
+            "Li Zhong",
+            "father of x"
+        ]
+    ],
+    "Wangye": [
+        [
+            "Chen Qian",
+            "guest of x"
+        ],
+        [
+            "Li Zhong",
+            "perpetrator of x, victim of x, enemy of x"
+        ],
+        [
+            "Xiao Qian",
+            "helper of x"
+        ]
+    ],
+    "Li Fu's owner": [
+        [
+            "Chen Qian",
+            "customer of x"
+        ],
+        [
+            "Li Zhong",
+            "business partner of x"
+        ]
+    ],
+    "Li Fu's main force": [
+        [
+            "Chen Qian",
+            "authority over x"
+        ],
+        [
+            "Li Zhong",
+            "rival of x"
+        ],
+        [
+            "Li Qinren",
+            "debtor of x"
+        ]
+    ]
+}

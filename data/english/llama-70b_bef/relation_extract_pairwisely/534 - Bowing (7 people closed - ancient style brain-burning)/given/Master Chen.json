@@ -1,0 +1,79 @@
+{
+    "Chen Qian": [
+      ["Chen Zijing", "wife of x, daughter of x"], 
+      ["Er Yisi Bada", "wife of x, daughter of x, sister of x, brother of x, sibling of x, co wives of x, fiancee of x, romantic relationships with x"], 
+      ["Fang Xu", "wife of x, daughter of x"], 
+      ["Li Wangye (Lord Li)", "wife of x, same person as x (different reference)"], 
+      ["Li Yan", "acquaintance of x, classmate of x, neighbour of x, friend of x, schoolmate of x, colleague of x, business partner of x, customer of x, tenant of x, patient of x"], 
+      ["Li Zhong", "wife of x, sister of x, daughter of x"], 
+      ["Master Chen", "daughter of x, wife of x"]
+    ],
+    "Chen Zijing": [
+      ["Chen Qian", "husband of x, father of x"], 
+      ["Er Yisi Bada", "friend of x, business partner of x"], 
+      ["Fang Xu", "acquaintance of x, business partner of x"], 
+      ["Li Wangye (Lord Li)", "friend of x, business partner of x, informant of x, acquaintance of x"], 
+      ["Li Yan", "friend of x, business partner of x"], 
+      ["Li Zhong", "business partner of x, friend of x"], 
+      ["Master Chen", "friend of x, mentor of x, teacher of x, informant of x, acquaintance of x, business partner of x, customer of x"], 
+      ["Te'ertelafoerde (Old Trafford)", "business partner of x"]
+    ],
+    "Er Yisi Bada": [
+      ["Chen Qian", "husband of x, father of x, mother of x, child of x, son of x, daughter of x, sibling of x, co wives of x, fiance of x, romantic relationships with x"], 
+      ["Chen Zijing", "friend of x, business partner of x"], 
+      ["Li Wangye (Lord Li)", "friend of x"], 
+      ["Li Yan", "friend of x, acquaintance of x"], 
+      ["Li Zhong", "friend of x, classmate of x"], 
+      ["Master Chen", "friend of x"]
+    ],
+    "Fang Xu": [
+      ["Chen Qian", "husband of x"], 
+      ["Chen Zijing", "acquaintance of x, business partner of x"], 
+      ["Li Wangye (Lord Li)", "wife of x, same person as x (different reference)"], 
+      ["Li Yan", "sibling of x, master of x, rival of x"], 
+      ["Li Zhong", "wife of x, daughter of x"], 
+      ["Master Chen", "acquaintance of x, business partner of x, friend of x, mentor of x"]
+    ],
+    "Li Wangye (Lord Li)": [
+      ["Chen Qian", "husband of x, same person as x (different reference)"], 
+      ["Chen Zijing", "friend of x, business partner of x, informant of x, acquaintance of x"], 
+      ["Er Yisi Bada", "friend of x"], 
+      ["Fang Xu", "husband of x, same person as x (different reference)"], 
+      ["Li Yan", "friend of x, mentor of x"], 
+      ["Li Zhong", "acquaintance of x, friend of x, mentor of x, teacher of x, student of x, informant of x, business partner of x, customer of x"], 
+      ["Master Chen", "friend of x, mentor of x, teacher of x, informant of x, acquaintance of x, colleague of x, business partner of x, customer of x, buyer of x"], 
+      ["Te'ertelafoerde (Old Trafford)", "acquaintance of x, business partner of x"]
+    ],
+    "Li Yan": [
+      ["Chen Qian", "acquaintance of x, classmate of x, neighbour of x, friend of x, schoolmate of x, colleague of x, business partner of x, customer of x, tenant of x, patient of x"], 
+      ["Chen Zijing", "friend of x, business partner of x"], 
+      ["Er Yisi Bada", "friend of x, acquaintance of x"], 
+      ["Fang Xu", "sibling of x, servant of x, rival of x"], 
+      ["Li Wangye (Lord Li)", "son of x"], 
+      ["Li Zhong", "brother of x, rival of x"], 
+      ["Master Chen", "acquaintance of x, business partner of x, informant of x, helper of x, suspect of x"], 
+      ["Te'ertelafoerde (Old Trafford)", "acquaintance of x, classmate of x"]
+    ],
+    "Li Zhong": [
+      ["Chen Qian", "husband of x, brother of x, son of x"], 
+      ["Chen Zijing", "business partner of x, friend of x"], 
+      ["Er Yisi Bada", "friend of x, classmate of x"], 
+      ["Fang Xu", "wife of x, son of x"], 
+      ["Li Wangye (Lord Li)", "acquaintance of x, friend of x, mentor of x, teacher of x, student of x, informant of x, business partner of x, customer of x"], 
+      ["Li Yan", "brother of x, rival of x"], 
+      ["Master Chen", "acquaintance of x, business partner of x, informant of x, mentor of x, friend of x"]
+    ],
+    "Master Chen": [
+      ["Chen Qian", "father of x, husband of x"], 
+      ["Chen Zijing", "friend of x, mentor of x, teacher of x, informant of x, acquaintance of x, business partner of x, customer of x"], 
+      ["Er Yisi Bada", "friend of x"], 
+      ["Fang Xu", "acquaintance of x, business partner of x, friend of x, mentor of x"], 
+      ["Li Wangye (Lord Li)", "friend of x, mentor of x, teacher of x, informant of x, acquaintance of x, colleague of x, business partner of x, customer of x, buyer of x"], 
+      ["Li Yan", "acquaintance of x, business partner of x, informant of x, helper of x, suspect of x"], 
+      ["Li Zhong", "acquaintance of x, business partner of x, informant of x, mentor of x, friend of x"]
+    ],
+    "Te'ertelafoerde (Old Trafford)": [
+      ["Li Wangye (Lord Li)", "acquaintance of x, business partner of x"], 
+      ["Li Yan", "acquaintance of x, classmate of x"]
+    ]
+}

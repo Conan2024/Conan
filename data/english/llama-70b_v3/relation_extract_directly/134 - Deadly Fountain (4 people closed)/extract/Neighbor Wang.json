@@ -1,0 +1,14 @@
+{
+    "Neighbor Wang": [
+      ["Li Guofu", "acquaintance of x, debtor of x"], 
+      ["He Laoliu", "acquaintance of x, suspect of x"]
+    ],
+    "Li Guofu": [
+      ["Neighbor Wang", "debtor of x"], 
+      ["He Laoliu", "colleague of x"]
+    ],
+    "He Laoliu": [
+      ["Li Guofu", "colleague of x"], 
+      ["Neighbor Wang", "suspect of x"]
+    ]
+}

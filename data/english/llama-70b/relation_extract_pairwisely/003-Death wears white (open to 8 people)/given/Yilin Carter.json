@@ -1,0 +1,317 @@
+{
+    "Dean Berkeley": [
+        [
+            "Dr. Paloski",
+            "Superior of x",
+            "Employee of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Superior of x",
+            "Employee of X",
+            "Master of X",
+            "Subordinate of X",
+            "Colleague of X"
+        ],
+        [
+            "Elaine Carter",
+            "Superior of x",
+            "Employer of X",
+            "Master of X",
+            "Supervisor of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Superior of x",
+            "Employee of X"
+        ],
+        [
+            "Head Nurse Costa",
+            "Superior of x",
+            "Employer of X"
+        ],
+        [
+            "Jim Mason",
+            "Supervisor of intern Carter",
+            "Employer of intern Carter"
+        ],
+        [
+            "Yilin Carter",
+            "Superior of x",
+            "Employer of X",
+            "Master of X",
+            "Supervisor of X"
+        ]
+    ],
+    "Dr. Paloski": [
+        [
+            "Dean Berkeley",
+            "Superior of x",
+            "Employer of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Supervisor of intern Elaine Carter",
+            "Strict and demanding"
+        ],
+        [
+            "Elaine Carter",
+            "Relationship 1: Mentor-Mentee",
+            "Relationship 2: Supervisor-Intern"
+        ],
+        [
+            "Hans Li Morette",
+            "Supervisor of intern Elaine Carter",
+            "Strict and demanding"
+        ],
+        [
+            "Head Nurse Costa",
+            "relationship 1: Mentor of X",
+            "relationship 2: Supervisor of X"
+        ],
+        [
+            "Jim Mason",
+            "Supervisor of intern Elaine Carter",
+            "Strict and demanding mentor"
+        ],
+        [
+            "Yilin Carter",
+            "Relationship 1: Mentor-Mentee",
+            "Relationship 2: Supervisor-Intern"
+        ]
+    ],
+    "Drake Li Morette": [
+        [
+            "Dean Berkeley",
+            "Superior of x",
+            "Employee of X",
+            "Master of X",
+            "Subordinate of X",
+            "Colleague of X"
+        ],
+        [
+            "Dr. Paloski",
+            "Twin brother and colleague",
+            "Sympathetic towards patients and friendly towards nurses"
+        ],
+        [
+            "Elaine Carter",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Hans Li Morette",
+            "Relationship 1: Twin brothers",
+            "Relationship 2: Colleagues"
+        ],
+        [
+            "Head Nurse Costa",
+            "Relationship 1: Mentorship",
+            "Relationship 2: Colleague"
+        ],
+        [
+            "Jim Mason",
+            "Relationship 1: Colleague",
+            "Relationship 2: Suspect in organ trafficking investigation"
+        ],
+        [
+            "Yilin Carter",
+            "Superior of x",
+            "Employee of X",
+            "Intern of X"
+        ]
+    ],
+    "Elaine Carter": [
+        [
+            "Dean Berkeley",
+            "Undercover police",
+            "Informant of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Dr. Paloski",
+            "Relationship 1: Mentor-Mentee",
+            "Relationship 2: Supervisor-Intern"
+        ],
+        [
+            "Drake Li Morette",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Hans Li Morette",
+            "Superior of x",
+            "Employee of X",
+            "Intern of X",
+            "Colleague of X"
+        ],
+        [
+            "Head Nurse Costa",
+            "relationship 1: Mentorship",
+            "relationship 2: Friendship"
+        ],
+        [
+            "Jim Mason",
+            "Acquaintance",
+            "Colleague"
+        ],
+        [
+            "Yilin Carter",
+            "Supervisor/Supervisee",
+            "Mentor/Mentee",
+            "Colleague",
+            "Friend"
+        ]
+    ],
+    "Hans Li Morette": [
+        [
+            "Dean Berkeley",
+            "Superior of x",
+            "Employee of X"
+        ],
+        [
+            "Dr. Paloski",
+            "Twin brother and colleague",
+            "Respected and admired"
+        ],
+        [
+            "Drake Li Morette",
+            "Relationship 1: Twin brothers",
+            "Relationship 2: Colleagues"
+        ],
+        [
+            "Elaine Carter",
+            "Superior of x",
+            "Employee of X",
+            "Intern of X",
+            "Colleague of X"
+        ],
+        [
+            "Head Nurse Costa",
+            "Colleague"
+        ],
+        [
+            "Jim Mason",
+            "Colleague",
+            "Superior of x"
+        ],
+        [
+            "Yilin Carter",
+            "Superior of x",
+            "Employee of X",
+            "Intern of X"
+        ]
+    ],
+    "Head Nurse Costa": [
+        [
+            "Dean Berkeley",
+            "Subordinate of X",
+            "Employee of X"
+        ],
+        [
+            "Dr. Paloski",
+            "relationship 1: Mentor of X",
+            "relationship 2: Supervisor of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Relationship 1: Mentorship",
+            "Relationship 2: Colleague"
+        ],
+        [
+            "Elaine Carter",
+            "relationship 1: Mentorship",
+            "relationship 2: Friendship"
+        ],
+        [
+            "Hans Li Morette",
+            "Colleague"
+        ],
+        [
+            "Jim Mason",
+            "Colleague"
+        ],
+        [
+            "Yilin Carter",
+            "friendly, considerate, helpful"
+        ]
+    ],
+    "Jim Mason": [
+        [
+            "Dean Berkeley",
+            "Supervisor of intern Carter",
+            "Employer of intern Carter"
+        ],
+        [
+            "Dr. Paloski",
+            "Dr. Paloski's intern",
+            "Incompetent intern"
+        ],
+        [
+            "Drake Li Morette",
+            "Relationship 1: Colleague",
+            "Relationship 2: Suspect in organ trafficking investigation"
+        ],
+        [
+            "Elaine Carter",
+            "Acquaintance",
+            "Colleague"
+        ],
+        [
+            "Hans Li Morette",
+            "Colleague",
+            "Subordinate of X"
+        ],
+        [
+            "Head Nurse Costa",
+            "Colleague"
+        ],
+        [
+            "Yilin Carter",
+            "Acquaintance",
+            "Colleague"
+        ]
+    ],
+    "Yilin Carter": [
+        [
+            "Dean Berkeley",
+            "Intern of Dean Berkeley",
+            "Employee of X",
+            "Subordinate of X",
+            "Colleague of X"
+        ],
+        [
+            "Dr. Paloski",
+            "Relationship 1: Mentor-Mentee",
+            "Relationship 2: Supervisor-Intern"
+        ],
+        [
+            "Drake Li Morette",
+            "Superior of x",
+            "Employee of X",
+            "Intern of X"
+        ],
+        [
+            "Elaine Carter",
+            "Supervisor/Supervisee",
+            "Mentor/Mentee",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Hans Li Morette",
+            "Superior of x",
+            "Employee of X",
+            "Intern of X"
+        ],
+        [
+            "Head Nurse Costa",
+            "friendly, considerate, helpful"
+        ],
+        [
+            "Jim Mason",
+            "Acquaintance",
+            "Colleague"
+        ]
+    ]
+}

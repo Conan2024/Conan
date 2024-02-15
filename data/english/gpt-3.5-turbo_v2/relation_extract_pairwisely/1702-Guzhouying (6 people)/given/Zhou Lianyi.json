@@ -1,0 +1,133 @@
+{
+    "Zhou Lianyi": [
+      ["Zhou Mengdang", "child of x"], 
+      ["Yu Shi", "child of x, romantic relationships with x"], 
+      ["Wang Shi", "helper of x"], 
+      ["Zhou Chitong", "child of x"], 
+      ["Su Nian", "friend of x"], 
+      ["Cui Shouheng", "friend of x, possible romantic relationship with x"], 
+      ["Xi Yan", "romantic relationships with x"], 
+      ["Yannan", "romantic relationships with x"], 
+      ["Cui Yannan", "child of x"], 
+      ["Bao Gan", "possible acquaintance of x, helper of x"]
+    ],
+    "Zhou Mengdang": [
+      ["Zhou Lianyi", "father of x"], 
+      ["Yu Shi", "father of x yu shi"], 
+      ["Wang Shi", "wife of x"], 
+      ["Zhou Chitong", "uncle of x"], 
+      ["Su Nian", "friend of x"], 
+      ["Cui Shouheng", "father in law of x"], 
+      ["Xi Yan", "husband of x"], 
+      ["Yannan", "child of x"], 
+      ["Cui Yannan", "husband of x"], 
+      ["Bao Gan", "husband of x"]
+    ],
+    "Yu Shi": [
+      ["Zhou Lianyi", "mother of x, romantic relationships with x"], 
+      ["Zhou Mengdang", "child of x zhou mengdang"], 
+      ["Wang Shi", "wife of x"], 
+      ["Zhou Chitong", "relative of x"], 
+      ["Su Nian", "mother of x"], 
+      ["Cui Shouheng", "wife of x"], 
+      ["Xi Yan", "wife of x"], 
+      ["Yannan", "child of x, relative of x"], 
+      ["Cui Yannan", "child of x"], 
+      ["Bao Gan", "mother of x bao gan"]
+    ],
+    "Wang Shi": [
+      ["Zhou Lianyi", "admired by x"], 
+      ["Zhou Mengdang", "husband of x"], 
+      ["Yu Shi", "husband of x"], 
+      ["Zhou Chitong", "co wives of x"], 
+      ["Su Nian", "wife of x"], 
+      ["Cui Shouheng", "extramarital affair with x"], 
+      ["Xi Yan", "helper of x"], 
+      ["Yannan", "child of x, friend of x"], 
+      ["Cui Yannan", "romantic relationships with x, co wives of x"], 
+      ["helper of Bao Gan", "acquaintance of x bao gan"]
+    ],
+    "Zhou Chitong": [
+      ["Zhou Lianyi", "uncle of x"], 
+      ["Zhou Mengdang", "nephew of x"], 
+      ["Yu Shi", "relative of x"], 
+      ["Wang Shi", "co wives of x"], 
+      ["Su Nian", "friend of x, acquaintance of x"], 
+      ["Cui Shouheng", "friend of x"], 
+      ["Xi Yan", "friend of x, acquaintance of x"], 
+      ["Yannan", "co wives of x, brother in law of x"], 
+      ["Cui Yannan", "co wives of x"], 
+      ["Bao Gan", "uncle of x bao gan"]
+    ],
+    "Su Nian": [
+      ["Zhou Lianyi", "friend of x"], 
+      ["Zhou Mengdang", "friend of x"], 
+      ["Yu Shi", "brother of x"], 
+      ["Wang Shi", "husband of x"], 
+      ["Zhou Chitong", "friend of x, acquaintance of x"], 
+      ["Cui Shouheng", "friend of x"], 
+      ["Xi Yan", "friend of x"], 
+      ["Yannan", "child of x, sibling of x"], 
+      ["Cui Yannan", "romantic relationships with x"], 
+      ["Bao Gan", "family of x"]
+    ],
+    "Cui Shouheng": [
+      ["Zhou Lianyi", "friend of x, possible romantic relationship with x"], 
+      ["Zhou Mengdang", "future father in law of x"], 
+      ["Yu Shi", "husband of x"], 
+      ["Wang Shi", "extramarital affair with x"], 
+      ["Zhou Chitong", "friend of x"], 
+      ["Su Nian", "friend of x"], 
+      ["Xi Yan", "husband of x"], 
+      ["Yannan", "romantic relationships with x, secret lover of x"], 
+      ["Cui Yannan", "husband of x"], 
+      ["Bao Gan", "husband of x"]
+    ],
+    "Xi Yan": [
+      ["Zhou Lianyi", "romantic relationships with x"], 
+      ["Zhou Mengdang", "wife of x"], 
+      ["Yu Shi", "husband of x"], 
+      ["Zhou Chitong", "friend of x, acquaintance of x"], 
+      ["Su Nian", "friend of x"], 
+      ["Cui Shouheng", "wife of x"], 
+      ["Yannan", "romantic relationships with x"], 
+      ["Cui Yannan", "childhood friends of x"], 
+      ["Bao Gan", "extramarital affair with x"]
+    ],
+    "Yannan": [
+      ["Zhou Lianyi", "romantic relationships with x"], 
+      ["Zhou Mengdang", "child of x"], 
+      ["Yu Shi", "child of x, relative of x"], 
+      ["Wang Shi", "child of x, friend of x"], 
+      ["Zhou Chitong", "co wives of x, sister in law of x"], 
+      ["Su Nian", "child of x, sibling of x"], 
+      ["Cui Shouheng", "romantic relationships with x, secret lover of x"], 
+      ["Xi Yan", "romantic relationships with x"], 
+      ["Cui Yannan", "romantic relationships with x, childhood friends of x"], 
+      ["Bao Gan", "friend of x"]
+    ],
+    "Cui Yannan": [
+      ["Zhou Lianyi", "childhood friend of x"], 
+      ["Zhou Mengdang", "wife of x"], 
+      ["Yu Shi", "mother of x"], 
+      ["Wang Shi", "romantic relationships with x, co wives of x"], 
+      ["Zhou Chitong", "co wives of x"], 
+      ["Su Nian", "romantic relationships with x"], 
+      ["Cui Shouheng", "wife of x"], 
+      ["Xi Yan", "childhood friends of x"], 
+      ["Yannan", "romantic relationships with x, childhood friends of x"], 
+      ["Bao Gan", "child of x"]
+    ],
+    "Bao Gan": [
+      ["Zhou Lianyi", "possible acquaintance of x, helped by x"], 
+      ["Zhou Mengdang", "wife of x"], 
+      ["Yu Shi", "child of x yu shi"], 
+      ["helper of Wang Shi", "acquaintance of x wang shi"], 
+      ["Zhou Chitong", "nephew of x zhou chitong"], 
+      ["Su Nian", "family of x"], 
+      ["Cui Shouheng", "wife of x"], 
+      ["Xi Yan", "extramarital affair with x"], 
+      ["Yannan", "friend of x"], 
+      ["Cui Yannan", "child of x"]
+    ]
+}

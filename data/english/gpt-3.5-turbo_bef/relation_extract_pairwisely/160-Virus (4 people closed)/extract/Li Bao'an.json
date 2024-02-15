@@ -1,0 +1,38 @@
+{
+    "Li Bao'an": [
+      ["Tian Zhuli", "employee of x"], 
+      ["Professor JIA", "colleague of x, business partner of x"], 
+      ["girl dressed as a student", "informant of x"], 
+      ["Sun Qingjie", "friend of x, helper of x"], 
+      ["Qin OU", "suspicious of x, information receiver from x"]
+    ],
+    "Tian Zhuli": [
+      ["Li Bao'an", "employer of x"], 
+      ["girl dressed as a student", "extramarital affair with x"], 
+      ["Sun Qingjie", "friend of x"], 
+      ["Qin OU", "extramarital affair with x, dislike of x"]
+    ],
+    "Professor JIA": [
+      ["Li Bao'an", "colleague of x, business partner of x"], 
+      ["girl dressed as a student", "romantic relationships with x, lover of x"], 
+      ["Sun Qingjie", "friend of x, colleague of x"], 
+      ["Qin OU", "colleague of x"]
+    ],
+    "girl dressed as a student": [
+      ["Tian Zhuli", "extramarital affair with x"], 
+      ["Sun Qingjie", "student of x"]
+    ],
+    "Sun Qingjie": [
+      ["Li Bao'an", "friend of x, helper of x"], 
+      ["Tian Zhuli", "friend of x"], 
+      ["Professor JIA", "friend of x, colleague of x"], 
+      ["girl dressed as a student", "friend of x"], 
+      ["Qin OU", "friend of x"]
+    ],
+    "Qin OU": [
+      ["Li Bao'an", "helper of x"], 
+      ["Tian Zhuli", "extramarital affair with x, dislike of x"], 
+      ["Professor JIA", "colleague of x"], 
+      ["Sun Qingjie", "friend of x"]
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "Zhuang Qingchun": [
+      ["Qin Expert", "stepfather of x, abuser of x"], 
+      ["Qin Laoda", "brother of x, enemy of x"], 
+      ["Jia Meili", "friend of x, enemy of x"], 
+      ["Xiao Tiyu", "boyfriend of x, love interest of x"], 
+      ["Xue Meiniang", "rival of x, enemy of x"], 
+      ["Private detective", "ally of x, helper of x"]
+    ],
+    "Qin Expert": [
+      ["Zhuang Qingchun", "stepdaughter of x, victim of x"], 
+      ["Qin Laoda", "son of x, accomplice of x"], 
+      ["Jia Meili", "lover of x, accomplice of x"], 
+      ["Xiao Tiyu", "rival of x, enemy of x"]
+    ],
+    "Qin Laoda": [
+      ["Zhuang Qingchun", "sister of x, enemy of x"], 
+      ["Jia Meili", "friend of x, accomplice of x"], 
+      ["Xiao Tiyu", "rival of x, enemy of x"]
+    ],
+    "Jia Meili": [
+      ["Zhuang Qingchun", "friend of x, enemy of x"], 
+      ["Qin Expert", "lover of x, accomplice of x"], 
+      ["Qin Laoda", "friend of x, accomplice of x"]
+    ],
+    "Xiao Tiyu": [
+      ["Zhuang Qingchun", "girlfriend of x, love interest of x"], 
+      ["Jia Meili", "rival of x, enemy of x"], 
+      ["Qin Expert", "rival of x, enemy of x"]
+    ],
+    "Xue Meiniang": [
+      ["Zhuang Qingchun", "rival of x, enemy of x"], 
+      ["Jia Meili", "friend of x, accomplice of x"]
+    ],
+    "Private detective": [
+      ["Zhuang Qingchun", "ally of x, helper of x"]
+    ],
+    "Jia Meili's mother": [
+      ["Jia Meili", "daughter of x"]
+    ],
+    "Qin Laoda's mother": [
+      ["Qin Laoda", "son of x"]
+    ],
+    "Qin Expert's mother": [
+      ["Qin Expert", "daughter of x"]
+    ]
+}

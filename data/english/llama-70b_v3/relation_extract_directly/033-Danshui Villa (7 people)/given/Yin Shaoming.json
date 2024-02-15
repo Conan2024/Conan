@@ -1,0 +1,25 @@
+{
+    "Yin Shaoming": [
+      ["Fang Shuangji", "cousin of x, suspect of x"], 
+      ["Guo Wangshan", "acquaintance of x"]
+    ],
+    "Fang Shuangji": [
+      ["Yin Shaoming", "cousin of x"], 
+      ["Zhao Wanlei", "master of x"], 
+      ["Guo Wangshan", "acquaintance of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Zhao Wanlei", "father of x"], 
+      ["Guo Wangshan", "acquaintance of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Yin Shaoming", "enemy of x"], 
+      ["Fang Shuangji", "master of x"], 
+      ["Zhao Luoyi", "daughter of x, victim of x"]
+    ],
+    "Guo Wangshan": [
+      ["Yin Shaoming", "acquaintance of x"], 
+      ["Fang Shuangji", "acquaintance of x"], 
+      ["Zhao Luoyi", "acquaintance of x"]
+    ]
+}

@@ -1,0 +1,315 @@
+{
+    "Gu Minghe": [
+        [
+            "Gu Qing",
+            "Father of X",
+            "Employer of X"
+        ],
+        [
+            "Gu Yu",
+            "Father of X",
+            "Superior of X"
+        ],
+        [
+            "Lin Tong",
+            "relationship 1: Father-Daughter",
+            "relationship 2: Employer-Employee"
+        ],
+        [
+            "Lin Weiren",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Lin Xi",
+            "relationship 1: Father-Daughter",
+            "relationship 2: Employer-Employee"
+        ],
+        [
+            "Lin Yang",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Su Yang",
+            "Employer of X",
+            "Master of X"
+        ]
+    ],
+    "Gu Qing": [
+        [
+            "Gu Minghe",
+            "Son of X",
+            "Employee of X"
+        ],
+        [
+            "Gu Yu",
+            "Sibling of X",
+            "Co-wives of X"
+        ],
+        [
+            "Lin Tong",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Lin Weiren",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Lin Xi",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Lin Yang",
+            "Rival",
+            "Friend"
+        ],
+        [
+            "Su Yang",
+            "Rival of X",
+            "Adversary of X",
+            "Enemy of X",
+            "Suspect of X",
+            "Suspicious of X",
+            "Suspicion of X",
+            "Victim of X",
+            "killed by x"
+        ]
+    ],
+    "Gu Yu": [
+        [
+            "Gu Minghe",
+            "Son of X",
+            "Subordinate of X"
+        ],
+        [
+            "Gu Qing",
+            "Sibling of X",
+            "Co-wives of X"
+        ],
+        [
+            "Lin Tong",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Lin Weiren",
+            "Brother-in-law",
+            "Suspect of murder"
+        ],
+        [
+            "Lin Xi",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Lin Yang",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Su Yang",
+            "rivals in love, competing for the affections of Lin Xi",
+            "acquaintances, they have a mutual friend in Lin Xi"
+        ]
+    ],
+    "Lin Tong": [
+        [
+            "Gu Minghe",
+            "relationship 1: Daughter-Father",
+            "relationship 2: Employee-Employer"
+        ],
+        [
+            "Gu Qing",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Gu Yu",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Lin Weiren",
+            "Same person as X (different identity)",
+            "Stranger to X",
+            "Friend of X",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X"
+        ],
+        [
+            "Lin Xi",
+            "friend",
+            "roommate"
+        ],
+        [
+            "Lin Yang",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Su Yang",
+            "Rival of X",
+            "Suspect of X"
+        ]
+    ],
+    "Lin Weiren": [
+        [
+            "Gu Minghe",
+            "Employee of X",
+            "Subordinate of X"
+        ],
+        [
+            "Gu Qing",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Gu Yu",
+            "Father-in-law",
+            "Victim of murder"
+        ],
+        [
+            "Lin Tong",
+            "Same person as X (different identity)",
+            "Father of X",
+            "Mother of X",
+            "Child of X",
+            "Son of X",
+            "Daughter of X",
+            "Sibling of X"
+        ],
+        [
+            "Lin Xi",
+            "Father of X",
+            "Superior of X"
+        ],
+        [
+            "Lin Yang",
+            "Father of X",
+            "Superior of X"
+        ],
+        [
+            "Su Yang",
+            "relationship 1: Father of Lin Xi, relationship 2: Employer of Su Yang"
+        ]
+    ],
+    "Lin Xi": [
+        [
+            "Gu Minghe",
+            "relationship 1: Daughter-Father",
+            "relationship 2: Employee-Employer"
+        ],
+        [
+            "Gu Qing",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Gu Yu",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Lin Tong",
+            "friend",
+            "roommate"
+        ],
+        [
+            "Lin Weiren",
+            "Daughter of X",
+            "Subordinate of X"
+        ],
+        [
+            "Lin Yang",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Su Yang",
+            "Rival of X",
+            "Suspect of X"
+        ]
+    ],
+    "Lin Yang": [
+        [
+            "Gu Minghe",
+            "Employee of X",
+            "Subordinate of X"
+        ],
+        [
+            "Gu Qing",
+            "Rival",
+            "Friend"
+        ],
+        [
+            "Gu Yu",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Lin Tong",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Lin Weiren",
+            "Son of X",
+            "Subordinate of X"
+        ],
+        [
+            "Lin Xi",
+            "Brother",
+            "Suspect"
+        ],
+        [
+            "Su Yang",
+            "rivals in love, competing for the attention and affection of Gu Qing",
+            "Co-conspirators in the murder of Gu Minghe, working together to kill him"
+        ]
+    ],
+    "Su Yang": [
+        [
+            "Gu Minghe",
+            "Employee of X",
+            "Servant of X"
+        ],
+        [
+            "Gu Qing",
+            "Rival of X",
+            "Adversary of X",
+            "Enemy of X",
+            "Suspect of X",
+            "Suspicious of X",
+            "Suspicion of X",
+            "Victim of X",
+            "killed by x"
+        ],
+        [
+            "Gu Yu",
+            "rivals in love, competing for the affections of Lin Xi",
+            "acquaintances, they have a mutual friend in Lin Xi"
+        ],
+        [
+            "Lin Tong",
+            "Rival of X",
+            "Suspect of X"
+        ],
+        [
+            "Lin Weiren",
+            "relationship 1: Employer of Lin Xi, relationship 2: Father of Lin Xi"
+        ],
+        [
+            "Lin Xi",
+            "Rival of X",
+            "Suspect of X"
+        ],
+        [
+            "Lin Yang",
+            "rivals in love, competing for the attention and affection of Gu Qing",
+            "Co-conspirators in the murder of Gu Minghe, working together to kill him"
+        ]
+    ]
+}

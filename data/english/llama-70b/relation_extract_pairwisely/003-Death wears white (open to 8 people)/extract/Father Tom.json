@@ -1,0 +1,332 @@
+{
+    "Dr. Tom": [
+        [
+            "Dr. Drake Li Morette",
+            "Hans Li Morette",
+            "Tony",
+            "Frank",
+            "Dr. Paloski",
+            "Dean Berkeley"
+        ],
+        [
+            "Hans Li Morette",
+            "Drake Li Morette",
+            "Tony",
+            "Frank",
+            "Dr. Paloski",
+            "Dean Berkeley"
+        ],
+        [
+            "Frank",
+            "Tony",
+            "Dr. Paloski",
+            "Hans Li Morette",
+            "Dean Berkeley"
+        ],
+        [
+            "Tony",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Dr. Paloski",
+            "Hans Li Morette",
+            "Frank",
+            "Tony",
+            "Dr. Drake Li Morette",
+            "Dean Berkeley"
+        ],
+        [
+            "Dean Berkeley",
+            "HANS LI Morette",
+            "Tony",
+            "Frank",
+            "Dr. Paloski"
+        ]
+    ],
+    "Dr. Drake Li Morette": [
+        [
+            "Dr. Tom",
+            "Hans Li Morette",
+            "Tony",
+            "Frank"
+        ],
+        [
+            "Dr. Tom"
+        ],
+        [
+            "Hans Li Morette",
+            "Tony",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Frank",
+            "Tony",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Tony",
+            "Hans Li Morette",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Dr. Paloski",
+            "Hans Li Morette",
+            "Tony",
+            "Frank",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Dean Berkeley",
+            "Friend",
+            "Colleague"
+        ]
+    ],
+    "Hans Li Morette": [
+        [
+            "Dr. Tom",
+            "Dr. Drake Li Morette"
+        ],
+        [
+            "Dr. Tom",
+            "Drake Li Morette",
+            "Tony",
+            "Frank"
+        ],
+        [
+            "Dr. Tom",
+            "Dr. Paloski"
+        ],
+        [
+            "Dr. Drake Li Morette",
+            "Tony",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Frank",
+            "Tony",
+            "Dr. Paloski",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Tony",
+            "Drake Li Morette"
+        ],
+        [
+            "Dr. Paloski",
+            "Tony",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Dean Berkeley",
+            "Tony",
+            "Frank",
+            "Dr. Paloski"
+        ],
+        [
+            "Dr. Paloski",
+            "Tony"
+        ]
+    ],
+    "Tony": [
+        [
+            "Dr. Tom",
+            "Frank"
+        ],
+        [
+            "Dr. Tom",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Dr. Tom",
+            "Frank"
+        ],
+        [
+            "Dr. Drake Li Morette",
+            "Frank",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Dr. Drake Li Morette",
+            "Hans Li Morette",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Hans Li Morette",
+            "Drake Li Morette"
+        ],
+        [
+            "Hans Li Morette",
+            "Dr. Paloski",
+            "relationship 3",
+            "relationship 4"
+        ],
+        [
+            "Frank",
+            "Relationship 1, Relationship 2"
+        ],
+        [
+            "Frank",
+            "Dr. Paloski",
+            "Hans Li Morette"
+        ],
+        [
+            "Dr. Paloski",
+            "Hans Li Morette",
+            "Frank",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Dean Berkeley",
+            "Hans Li Morette",
+            "Frank",
+            "Dr. Paloski"
+        ]
+    ],
+    "Frank": [
+        [
+            "Dr. Tom",
+            "Tony"
+        ],
+        [
+            "Dr. Tom",
+            "Tony",
+            "Dr. Paloski",
+            "Hans Li Morette"
+        ],
+        [
+            "Dr. Tom",
+            "Tony"
+        ],
+        [
+            "Dr. Drake Li Morette",
+            "Tony",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Hans Li Morette",
+            "Tony",
+            "Dr. Paloski",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Tony",
+            "Relationship 1, Relationship 2"
+        ],
+        [
+            "Dr. Paloski",
+            "Hans Li Morette",
+            "Tony"
+        ],
+        [
+            "Dean Berkeley",
+            "Tony",
+            "Dr. Paloski",
+            "Drake Li Morette"
+        ]
+    ],
+    "Dr. Paloski": [
+        [
+            "Dr. Tom"
+        ],
+        [
+            "Dr. Tom",
+            "Hans Li Morette",
+            "Frank",
+            "Tony"
+        ],
+        [
+            "Dr. Drake Li Morette",
+            "Hans Li Morette",
+            "Tony",
+            "Frank",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Hans Li Morette",
+            "Tony",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Frank",
+            "Hans Li Morette",
+            "Tony"
+        ],
+        [
+            "Tony",
+            "Hans Li Morette",
+            "Frank",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Dean Berkeley",
+            "Relationship 1: Acquaintance",
+            "Relationship 2: Suspect of murder"
+        ]
+    ],
+    "Dean Berkeley": [
+        [
+            "Dr. Tom"
+        ],
+        [
+            "Dr. Tom"
+        ],
+        [
+            "Dr. Tom",
+            "HANS LI Morette",
+            "Tony",
+            "Frank",
+            "Dr. Paloski"
+        ],
+        [
+            "Dr. Drake Li Morette",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Hans Li Morette",
+            "Tony",
+            "Frank",
+            "Dr. Paloski"
+        ],
+        [
+            "Frank",
+            "Tony",
+            "Dr. Paloski",
+            "Drake Li Morette"
+        ],
+        [
+            "Tony",
+            "Hans Li Morette",
+            "Frank",
+            "Dr. Paloski"
+        ],
+        [
+            "Dr. Paloski",
+            "Relationship 1: Acquaintance",
+            "Relationship 2: Suspect of murder"
+        ]
+    ],
+    "Drake Li Morette": [
+        [
+            "Hans Li Morette",
+            "Tony"
+        ]
+    ]
+}

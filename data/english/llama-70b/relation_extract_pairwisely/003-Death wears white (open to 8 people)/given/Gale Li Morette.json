@@ -1,0 +1,270 @@
+{
+    "Drake Li Morette": [
+        [
+            "Elaine Carter",
+            "Lover",
+            "Father of child"
+        ],
+        [
+            "Gale Li Morette",
+            "Lover",
+            "Father of child"
+        ],
+        [
+            "Hans Li Morette",
+            "Lover, Father of Child"
+        ],
+        [
+            "Head Nurse Costa",
+            "Lover",
+            "Father of Child"
+        ],
+        [
+            "James Lai Li",
+            "Lover, Father of Child"
+        ],
+        [
+            "Jim Mason",
+            "Lover, Future Father"
+        ],
+        [
+            "Elaine Carter",
+            "Hans Li Morette"
+        ],
+        [
+            "Elaine Carter",
+            "lover"
+        ],
+        [
+            "Hans Li Morette",
+            "Lover",
+            "Father of X",
+            "Brother of X"
+        ]
+    ],
+    "Elaine Carter": [
+        [
+            "Drake Li Morette",
+            "Lover",
+            "Mother of child"
+        ],
+        [
+            "Gale Li Morette",
+            "Lover",
+            "Co-worker"
+        ],
+        [
+            "Hans Li Morette",
+            "Drake Li Morette",
+            "Head NURSE COSTA",
+            "Father Tom"
+        ],
+        [
+            "Head Nurse Costa",
+            "Drake Li Morette"
+        ],
+        [
+            "James Lai Li",
+            "Drake Li Morette",
+            "Hans Li Morette",
+            "Head NURSE COSTA",
+            "Father Tom"
+        ],
+        [
+            "Jim Mason",
+            "Victim of",
+            "Killed by"
+        ]
+    ],
+    "Gale Li Morette": [
+        [
+            "Drake Li Morette",
+            "Husband",
+            "Deceased"
+        ],
+        [
+            "Elaine Carter",
+            "Husband",
+            "Father of unborn child"
+        ],
+        [
+            "Hans Li Morette",
+            "Drake Li Morette",
+            "Head NURSE COSTA",
+            "Leine Carter",
+            "Father Tom"
+        ],
+        [
+            "Head Nurse Costa",
+            "Drake Li Morette",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "James Lai Li",
+            "Drake Li Morette",
+            "Hans Li Morette",
+            "Nurse Costa",
+            "Leine Carter",
+            "Father Tom"
+        ],
+        [
+            "Jim Mason",
+            "Husband",
+            "Father of X"
+        ]
+    ],
+    "Hans Li Morette": [
+        [
+            "Drake Li Morette",
+            "Brother, Husband"
+        ],
+        [
+            "Elaine Carter",
+            "Drake Li Morette",
+            "Jim Mason"
+        ],
+        [
+            "Gale Li Morette",
+            "Drake Li Morette",
+            "Jim Mason"
+        ],
+        [
+            "Head Nurse Costa",
+            "Drake Li Morette",
+            "Leine Carter",
+            "Father Tom",
+            "Victim",
+            "Killed by X"
+        ],
+        [
+            "James Lai Li",
+            "Lover",
+            "Co-worker"
+        ],
+        [
+            "Jim Mason",
+            "Drake Li Morette",
+            "relationship 1",
+            "relationship 2"
+        ]
+    ],
+    "Head Nurse Costa": [
+        [
+            "Drake Li Morette",
+            "Defended her case",
+            "Acquaintance"
+        ],
+        [
+            "Elaine Carter",
+            "defense attorney-client"
+        ],
+        [
+            "Gale Li Morette",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Hans Li Morette",
+            "Defendant",
+            "Innocent"
+        ],
+        [
+            "James Lai Li",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect of"
+        ],
+        [
+            "Jim Mason",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect of"
+        ]
+    ],
+    "James Lai Li": [
+        [
+            "Drake Li Morette",
+            "Lover, Father of Child"
+        ],
+        [
+            "Elaine Carter",
+            "Drake Li Morette",
+            "Hans Li Morette",
+            "Head NURSE COSTA",
+            "Father Tom"
+        ],
+        [
+            "Gale Li Morette",
+            "Drake Li Morette",
+            "Hans Li Morette",
+            "Nurse Costa",
+            "Leine Carter",
+            "Father Tom"
+        ],
+        [
+            "Hans Li Morette",
+            "Lover",
+            "Co-worker"
+        ],
+        [
+            "Head Nurse Costa",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect of"
+        ],
+        [
+            "Jim Mason",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect of X"
+        ]
+    ],
+    "Jim Mason": [
+        [
+            "Drake Li Morette",
+            "Future Son, Victim"
+        ],
+        [
+            "Elaine Carter",
+            "Suspect of",
+            "Murderer of"
+        ],
+        [
+            "Gale Li Morette",
+            "Wife of X",
+            "Victim of X"
+        ],
+        [
+            "Hans Li Morette",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Head Nurse Costa",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect of"
+        ],
+        [
+            "James Lai Li",
+            "relationship 1: Acquaintance",
+            "relationship 2: Victim of X"
+        ]
+    ],
+    "Head NURSE COSTA": [
+        [
+            "Elaine Carter"
+        ]
+    ],
+    "Father Tom": [
+        [
+            "Elaine Carter"
+        ],
+        [
+            "Hans Li Morette",
+            "Stranger to X"
+        ]
+    ],
+    "Leine Carter": [
+        [
+            "Hans Li Morette",
+            "Stranger to X"
+        ]
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "You": [
+      ["Du Zhong", "friend of x du zhong, ex romantic relationships with du zhong"], 
+      ["Xuan Can", "friend of xuan can"]
+    ],
+    "Du Zhong": [
+      ["You", "friend of x you, ex romantic relationships with you"], 
+      ["Xuan Can", "friend of xuan can, husband of xuan can"]
+    ],
+    "Xuan Can": [
+      ["You", "friend of x you"], 
+      ["Du Zhong", "friend of x du zhong, wife of x du zhong"]
+    ],
+    "Fu Xian": [
+      ["Du Zhong", "trusted by du zhong of x"], 
+      ["Wang You", "future father in law of x wang you"]
+    ],
+    "Lady Safflower": [
+      ["Du Zhong", "romantic relationships with du zhong of x, mother of x du zhong's child"]
+    ],
+    "Wang You": [
+      ["Du Zhong", "friend of x du zhong"], 
+      ["Fu Xian", "future son in law of x fu xian"], 
+      ["Du Zhong", "future father in law of x du zhong's child"]
+    ],
+    "Qingyezhai": [
+      ["Wang You", "location of x the yi jianjue sword"], 
+      ["Du Zhong", "location of x the sword of x yi jianjue"]
+    ]
+}

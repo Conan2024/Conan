@@ -1,0 +1,45 @@
+{
+    "Duan Yuetong": [
+      ["Xia Sanhu", "investigation target/acquaintance of x"], 
+      ["Wu Baian", "suspect/acquaintance of x"], 
+      ["Anqi", "girlfriend/acquaintance of x"], 
+      ["Yu Zu Chengmu", "acquaintance of x"], 
+      ["Yue Kesa", "friend/acquaintance of x"], 
+      ["Li Zicai", "classmate of x"]
+    ],
+    "Xia Sanhu": [
+      ["Duan Yuetong", "investigation target/acquaintance of x"], 
+      ["Wu Baian", "acquaintance of x"], 
+      ["Anqi", "acquaintance of x"], 
+      ["Yu Zu Chengmu", "classmate of x"], 
+      ["Yue Kesa", "acquaintance of x"]
+    ],
+    "Wu Baian": [
+      ["Duan Yuetong", "suspect/acquaintance of x"], 
+      ["Xia Sanhu", "acquaintance of x"], 
+      ["Anqi", "acquaintance of x"], 
+      ["Yu Zu Chengmu", "classmate of x"], 
+      ["Yue Kesa", "acquaintance of x"]
+    ],
+    "Anqi": [
+      ["Duan Yuetong", "girlfriend/acquaintance of x"], 
+      ["Xia Sanhu", "acquaintance of x"], 
+      ["Wu Baian", "acquaintance of x"], 
+      ["Yu Zu Chengmu", "classmate of x"], 
+      ["Yue Kesa", "acquaintance of x"]
+    ],
+    "Yu Zu Chengmu": [
+      ["Duan Yuetong", "acquaintance of x"], 
+      ["Xia Sanhu", "classmate of x"], 
+      ["Wu Baian", "classmate of x"], 
+      ["Anqi", "classmate of x"], 
+      ["Yue Kesa", "acquaintance of x"]
+    ],
+    "Yue Kesa": [
+      ["Duan Yuetong", "friend/acquaintance of x"], 
+      ["Xia Sanhu", "acquaintance of x"], 
+      ["Wu Baian", "acquaintance of x"], 
+      ["Anqi", "acquaintance of x"], 
+      ["Yu Zu Chengmu", "acquaintance of x"]
+    ]
+}

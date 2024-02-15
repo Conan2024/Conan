@@ -1,0 +1,37 @@
+{
+    "Caoteng Jushi (lay Buddhist practitioner)": [
+      ["Xiao Qian", "student of x"], 
+      ["Daughter of Fang Ye", "friend of x"], 
+      ["Fang Zhu", "informant of x, helper of x"], 
+      ["Chen Zijing", "fiance of x"]
+    ],
+    "Xiao Qian": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "teacher of x"], 
+      ["Fang Zhu", "adoptive father of x"], 
+      ["Chen Zijing", "friend of x"]
+    ],
+    "Daughter of Fang Ye": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "friend of x"], 
+      ["Fang Zhu", "child of x"], 
+      ["Er Yisi Bada", "child of x"], 
+      ["Chen Zijing", "child of x"]
+    ],
+    "Fang Zhu": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "helped by x"], 
+      ["Daughter of Fang Ye", "daughter of x"]
+    ],
+    "Er Yisi Bada": [
+      ["Daughter of Fang Ye", "adoptive father of x"], 
+      ["Chen Zijing", "adoptive father of x"]
+    ],
+    "Chen Qian": [
+      ["Daughter of Fang Ye", "daughter of x"], 
+      ["Fang Zhu", "adoptive father of x"]
+    ],
+    "Chen Zijing": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "fiance of x"], 
+      ["Xiao Qian", "friend of x"], 
+      ["Daughter of Fang Ye", "adoptive father of x"], 
+      ["Fang Zhu", "adoptive father of x"]
+    ]
+}

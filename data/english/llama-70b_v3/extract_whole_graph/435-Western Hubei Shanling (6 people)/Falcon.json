@@ -1,0 +1,21 @@
+{
+    "Falcon": [
+      ["Zheng Hanzhen", "acquaintance of x"], 
+      ["Ruya", "cousin of x"], 
+      ["Chen Sha", "friend of x"]
+    ],
+    "Chen Sha": [
+      ["Falcon", "friend of x"], 
+      ["Ruya", "cousin of x"]
+    ],
+    "Zheng Hanzhen": [
+      ["Falcon", "acquaintance of x"]
+    ],
+    "Ruya": [
+      ["Falcon", "cousin of x"], 
+      ["Chen Sha", "friend of x"]
+    ],
+    "Gan Ma": [
+      ["Zheng Hanzhen", "acquaintance of x"]
+    ]
+}

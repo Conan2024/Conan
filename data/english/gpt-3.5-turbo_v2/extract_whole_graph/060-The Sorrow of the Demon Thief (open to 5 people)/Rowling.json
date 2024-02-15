@@ -1,0 +1,27 @@
+{
+    "Rowling": [
+      ["Ella", "best friend of x"], 
+      ["David", "former theft partner of x"], 
+      ["Kevin", "brother of x"]
+    ],
+    "Ella": [
+      ["Rowling", "best friend of x"], 
+      ["Gust", "planned to propose to of x"], 
+      ["David", "unknown relationship of x"], 
+      ["Kevin", "friend of x"]
+    ],
+    "David": [
+      ["Rowling", "former theft partner of x"], 
+      ["Ella", "unknown relationship of x"], 
+      ["Kevin", "unknown relationship of x"]
+    ],
+    "Kevin": [
+      ["Rowling", "brother of x"], 
+      ["Ella", "friend of x"], 
+      ["Gust", "trying to get close to of x"]
+    ],
+    "Gust": [
+      ["Ella", "planned to propose to of x"], 
+      ["Kevin", "maintains alertness towards of x"]
+    ]
+}

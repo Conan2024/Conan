@@ -1,0 +1,73 @@
+{
+    "Lin Xi": [
+      ["Lin Weiren", "father of x lin xi"], 
+      ["Lin Yang", "brother of x"], 
+      ["Gu Yu", "romantic relationships with x"], 
+      ["Gu Qing", "friend of x"], 
+      ["Su Yang", "romantic relationships with x"], 
+      ["Shen Cheng", "employee of x, guard of x"], 
+      ["Chen Jingwen", "friend of x"]
+    ],
+    "Lin Weiren": [
+      ["Lin Xi", "child of x lin weiren"], 
+      ["Lin Yang", "father of x"], 
+      ["Gu Yu", "father of x lin xi"], 
+      ["Gu Qing", "husband of x"], 
+      ["Su Yang", "fiancee of x, doctor of x"], 
+      ["Shen Cheng", "employer of x"], 
+      ["Chen Jingwen", "wife of x lin weiren"]
+    ],
+    "Lin Yang": [
+      ["Lin Xi", "brother of x"], 
+      ["Lin Weiren", "child of x"], 
+      ["Gu Yu", "romantic relationships with x"], 
+      ["Gu Qing", "sibling of x"], 
+      ["Su Yang", "romantic relationships with x"], 
+      ["Shen Cheng", "brother of x"], 
+      ["Chen Jingwen", "girlfriend of x"]
+    ],
+    "Gu Yu": [
+      ["Lin Xi", "romantic relationships with x"], 
+      ["Lin Weiren", "boyfriend of x lin xi"], 
+      ["Lin Yang", "romantic relationships with x"], 
+      ["Gu Qing", "romantic relationships with x"], 
+      ["Su Yang", "romantic relationships with su yang of x"], 
+      ["boyfriend of Lin Xi", "childhood friend of x lin xi"], 
+      ["Chen Jingwen", "romantic relationships with x"]
+    ],
+    "Gu Qing": [
+      ["Lin Xi", "ex romantic relationships with x"], 
+      ["Lin Weiren", "wife of x"], 
+      ["Lin Yang", "sibling of x"], 
+      ["Gu Yu", "romantic relationships with x"], 
+      ["Su Yang", "ex romantic relationships with su yang, romantic relationships with su yang of x"], 
+      ["friend of Lin Xi", "ex girlfriend of x lin yang"], 
+      ["Chen Jingwen", "ex friend of x gu qing, jealousy towards gu qing of x"]
+    ],
+    "Su Yang": [
+      ["Lin Xi", "romantic relationships with x"], 
+      ["Lin Weiren", "patient of x"], 
+      ["Lin Yang", "romantic relationships with x"], 
+      ["Gu Yu", "romantic relationships with gu yu of x"], 
+      ["Gu Qing", "ex romantic relationships with gu qing, romantic relationships with gu qing of x"], 
+      ["Shen Cheng", "student of x su yang"], 
+      ["Chen Jingwen", "romantic relationships with x"]
+    ],
+    "Shen Cheng": [
+      ["Lin Xi", "employer of x"], 
+      ["Lin Weiren", "employee of x"], 
+      ["Lin Yang", "helper of x"], 
+      ["housekeeper of Lin Xi", "long time acquaintance of x lin xi"], 
+      ["housekeeper of Lin Xi", "longtime acquaintance of x lin xi"], 
+      ["Su Yang", "mentor of x shen cheng"], 
+      ["Chen Jingwen", "helper of x"]
+    ],
+    "Chen Jingwen": [
+      ["Lin Xi", "jealous of x"], 
+      ["Lin Weiren", "husband of x chen jingwen"], 
+      ["Lin Yang", "boyfriend of x"], 
+      ["Gu Yu", "romantic relationships with x"], 
+      ["Su Yang", "romantic relationships with x"], 
+      ["Shen Cheng", "helper of x"]
+    ]
+}

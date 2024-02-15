@@ -1,0 +1,40 @@
+{
+    "First Mate Zhang": [
+      ["Naive Hen", "sibling of x"], 
+      ["Boss Yang", "employee of x"], 
+      ["Secretary Wen", "employee of x"], 
+      ["Shipyard Worker Wang", "helper of x"], 
+      ["Ship Doctor Ling", "helper of x, lover of x"], 
+      ["Worker Wang", "child of x"]
+    ],
+    "Naive Hen": [
+      ["First Mate Zhang", "sibling of x"], 
+      ["Boss Yang", "employer of x"]
+    ],
+    "Boss Yang": [
+      ["First Mate Zhang", "employee of x"], 
+      ["Secretary Wen", "employee of x"], 
+      ["Shipyard Worker Wang", "product provider of x"], 
+      ["Naive Hen", "employee of x"], 
+      ["Worker Wang", "perpetrator of x"]
+    ],
+    "Secretary Wen": [
+      ["First Mate Zhang", "employee of x"], 
+      ["Boss Yang", "employee of x"]
+    ],
+    "Shipyard Worker Wang": [
+      ["First Mate Zhang", "helper of x"], 
+      ["Boss Yang", "product provider of x"], 
+      ["Ship Doctor Ling", "child of x"], 
+      ["Worker Wang", "child of x"]
+    ],
+    "Ship Doctor Ling": [
+      ["First Mate Zhang", "helper of x, lover of x"], 
+      ["Shipyard Worker Wang", "child of x"]
+    ],
+    "Worker Wang": [
+      ["First Mate Zhang", "child of x"], 
+      ["Shipyard Worker Wang", "child of x"], 
+      ["Ship Doctor Ling", "father of x"]
+    ]
+}

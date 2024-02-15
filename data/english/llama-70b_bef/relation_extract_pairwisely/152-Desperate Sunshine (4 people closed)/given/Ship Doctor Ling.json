@@ -1,0 +1,40 @@
+{
+    "Boss Yang": [
+      ["First Mate Zhang", "employer of x, master of x"], 
+      ["Secretary Wen", "employer of x, master of x"], 
+      ["Ship Doctor Ling", "employer of x, superior of x"], 
+      ["Shipyard Worker Wang", "employer of x, master of x"], 
+      ["Worker Wang", "employer of x, master of x"]
+    ],
+    "First Mate Zhang": [
+      ["Boss Yang", "superior of x"], 
+      ["Secretary Wen", "employer of x, superior of x"], 
+      ["Ship Doctor Ling", "employer of x, superior of x"], 
+      ["Shipyard Worker Wang", "superior of x, employer of x, master of x, subordinate of x, employee of x"], 
+      ["Worker Wang", "employer of x, superior of x"]
+    ],
+    "Secretary Wen": [
+      ["Boss Yang", "employee of x, subordinate of x"], 
+      ["First Mate Zhang", "employee of x, subordinate of x"], 
+      ["Ship Doctor Ling", "employee of x, informant of x"], 
+      ["Shipyard Worker Wang", "friend of x, informant of x"]
+    ],
+    "Ship Doctor Ling": [
+      ["Boss Yang", "employee of x, subordinate of x"], 
+      ["First Mate Zhang", "employee of x, subordinate of x"], 
+      ["Secretary Wen", "employer of x, superior of x"], 
+      ["Shipyard Worker Wang", "friend of x, acquaintance of x"]
+    ],
+    "Shipyard Worker Wang": [
+      ["Boss Yang", "employee of x, subordinate of x"], 
+      ["First Mate Zhang", "superior of x, employer of x, master of x, subordinate of x, employee of x"], 
+      ["Secretary Wen", "friend of x, informant of x"], 
+      ["Ship Doctor Ling", "friend of x, acquaintance of x"], 
+      ["Worker Wang", "husband of x, extramarital affair with x"]
+    ],
+    "Worker Wang": [
+      ["Boss Yang", "employee of x, subordinate of x"], 
+      ["First Mate Zhang", "employee of x, subordinate of x"], 
+      ["Shipyard Worker Wang", "husband of x, extramarital affair with x"]
+    ]
+}

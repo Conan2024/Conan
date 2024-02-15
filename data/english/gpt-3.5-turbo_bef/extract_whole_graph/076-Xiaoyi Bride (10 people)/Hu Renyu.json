@@ -1,0 +1,28 @@
+{
+    "Hu Renyu": [
+      ["Tian Hongjiao", "fiance of x"], 
+      ["Yao Changshou", "ex romantic relationships with x"], 
+      ["Steward Du", "perpetrator of x"], 
+      ["Yu Beichen", "informant of x"], 
+      ["Fan Jinkui", "same person as x (different identity)"]
+    ],
+    "Tian Hongjiao": [
+      ["Hu Renyu", "fiance of x"], 
+      ["Yao Changshou", "husband of x"]
+    ],
+    "Yao Changshou": [
+      ["Tian Hongjiao", "wife of x"], 
+      ["Hu Renyu", "ex romantic relationships with x"]
+    ],
+    "Steward Du": [
+      ["Hu Renyu", "attempted perpetrator of x"], 
+      ["Fang Chengshan", "attempted perpetrator of x"]
+    ],
+    "Yu Beichen": [
+      ["Hu Renyu", "informant of x"], 
+      ["Steward Du", "information receiver from x"]
+    ],
+    "Fan Jinkui": [
+      ["Hu Renyu", "same person as x (different identity)"]
+    ]
+}

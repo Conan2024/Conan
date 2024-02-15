@@ -1,0 +1,41 @@
+{
+    "Shipyard worker Wang": [
+      ["Captain", "co wives of x"], 
+      ["First Mate Zhang", "co wives of x"], 
+      ["Worker Wang", "child of x"], 
+      ["Ship Doctor Ling", "daughter in law of x"], 
+      ["Naive Hen", "acquaintance of x"], 
+      ["BOSS Yang", "acquaintance of x"]
+    ],
+    "Captain": [
+      ["Shipyard worker Wang", "co wives of x"], 
+      ["First Mate Zhang", "co wives of x"]
+    ],
+    "First Mate Zhang": [
+      ["Shipyard worker Wang", "co wives of x"], 
+      ["Captain", "co wives of x"], 
+      ["Worker Wang", "father of x"], 
+      ["BOSS Yang", "romantic relationships with x"], 
+      ["Naive Hen", "acquaintance of x"]
+    ],
+    "Worker Wang": [
+      ["Shipyard worker Wang", "father of x"], 
+      ["Ship Doctor Ling", "romantic relationships with x"], 
+      ["First Mate Zhang", "father of x"], 
+      ["BOSS Yang", "acquaintance of x"]
+    ],
+    "Ship Doctor Ling": [
+      ["Shipyard worker Wang", "daughter in law of x"], 
+      ["Worker Wang", "romantic relationships with x"]
+    ],
+    "BOSS Yang": [
+      ["First Mate Zhang", "romantic relationships with x"], 
+      ["Naive Hen", "acquaintance of x"], 
+      ["Shipyard worker Wang", "acquaintance of x"]
+    ],
+    "Naive Hen": [
+      ["Shipyard worker Wang", "acquaintance of x"], 
+      ["First Mate Zhang", "acquaintance of x"], 
+      ["BOSS Yang", "acquaintance of x"]
+    ]
+}

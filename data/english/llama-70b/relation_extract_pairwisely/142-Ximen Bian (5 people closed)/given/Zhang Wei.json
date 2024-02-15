@@ -1,0 +1,214 @@
+{
+    "Chen Meier": [
+        [
+            "Li Cheng",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Ma Laoban",
+            "Business Partner",
+            "Co-conspirators",
+            "Accomplices"
+        ],
+        [
+            "Zhang Wei",
+            "Acquaintance",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "Zhao San",
+            "Friend of X",
+            "Business Partner of X"
+        ],
+        [
+            "Zhao Zhongyang",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "subordinate, loyal"
+        ]
+    ],
+    "Li Cheng": [
+        [
+            "Chen Meier",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Ma Laoban",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Zhang Wei",
+            "Friend, Helper"
+        ],
+        [
+            "Zhao San",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Zhao Zhongyang",
+            "Friend, Savior"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "Friend",
+            "Reliable",
+            "Close Friend"
+        ]
+    ],
+    "Ma Laoban": [
+        [
+            "Chen Meier",
+            "Business Partner",
+            "Co-conspirators",
+            "Accomplices"
+        ],
+        [
+            "Li Cheng",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Zhang Wei",
+            "Business Partner, Friend"
+        ],
+        [
+            "Zhao San",
+            "Business Partner, Co-conspirator"
+        ],
+        [
+            "Zhao Zhongyang",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "Business Partner, Employer-Employee"
+        ]
+    ],
+    "Zhang Wei": [
+        [
+            "Chen Meier",
+            "Acquaintance",
+            "Business Partner",
+            "Co-conspirator"
+        ],
+        [
+            "Li Cheng",
+            "Friend, Helped"
+        ],
+        [
+            "Ma Laoban",
+            "Business Partner, Friend"
+        ],
+        [
+            "Zhao San",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Zhao Zhongyang",
+            "Employee of X",
+            "Servant of X"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "subordinate",
+            "acquaintance"
+        ]
+    ],
+    "Zhao San": [
+        [
+            "Chen Meier",
+            "Friend of X",
+            "Business Partner of X"
+        ],
+        [
+            "Li Cheng",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Ma Laoban",
+            "Business Partner, Co-conspirator"
+        ],
+        [
+            "Zhang Wei",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Zhao Zhongyang",
+            "business partner, acquaintance"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "Same person as X ",
+            "Same person as X "
+        ]
+    ],
+    "Zhao Zhongyang": [
+        [
+            "Chen Meier",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Li Cheng",
+            "Friend, Saved"
+        ],
+        [
+            "Ma Laoban",
+            "Employee of X",
+            "Servant of X"
+        ],
+        [
+            "Zhang Wei",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Zhao San",
+            "business partner, acquaintance"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "Master-Servant, Employer-Employee"
+        ]
+    ],
+    "Zhao Zhongzheng": [
+        [
+            "Chen Meier",
+            "values, grandmother-like"
+        ],
+        [
+            "Li Cheng",
+            "Friend",
+            "Reliable",
+            "Close Friend"
+        ],
+        [
+            "Ma Laoban",
+            "Business Partner, Employer-Employee"
+        ],
+        [
+            "Zhang Wei",
+            "employer",
+            "acquaintance"
+        ],
+        [
+            "Zhao San",
+            "Same person as X ",
+            "Same person as X "
+        ],
+        [
+            "Zhao Zhongyang",
+            "Master-Servant, Employer-Employee"
+        ]
+    ]
+}

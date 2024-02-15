@@ -1,0 +1,68 @@
+{
+    "Assistant Ella": [
+      ["magician Gust", "employer of x"], 
+      ["magician Gust", "secret lover of x"], 
+      ["Logistics Griff", "deceived by x"], 
+      ["Security Kevin", "helper of x"], 
+      ["Thetrical Work David", "informant of x"], 
+      ["Publicity Rowling", "friend of x"], 
+      ["Rowling", "friend of x"], 
+      ["Rowling", "mentor of x"], 
+      ["Griff", "victim of x"]
+    ],
+    "Ella": [
+      ["magician Gust", "lover of x"], 
+      ["magician Gust", "attempted perpetrator of x"], 
+      ["magician Gust", "manipulator of x"], 
+      ["Logistics Griff", "deceived by x"], 
+      ["Gust", "lover of x"], 
+      ["Griff", "deceived by x"], 
+      ["Griff", "creditor of x"], 
+      ["Griff", "vulnerable to x"], 
+      ["Griff", "possibly family of x"]
+    ],
+    "magician Gust": [
+      ["Assistant Ella", "employee of x"], 
+      ["Assistant Ella", "secret lover of x"], 
+      ["Assistant Ella", "perpetrator of x"], 
+      ["Ella", "lover of x"], 
+      ["Ella", "attempted perpetrator of x"], 
+      ["Ella", "manipulated by x"], 
+      ["Griff", "perpetrator of x"], 
+      ["Security Kevin", "suspected by x"], 
+      ["Security Kevin", "helped by x"], 
+      ["Publicity Rowling", "suspected by x"], 
+      ["Rowling", "adversary of x"], 
+      ["Rowling", "suspect of x"]
+    ],
+    "Griff": [
+      ["Assistant Ella", "deceiver of x"], 
+      ["Assistant Ella", "manipulator of x"], 
+      ["Ella", "deceived by x"], 
+      ["Ella", "creditor of x"], 
+      ["Ella", "vulnerable to x"], 
+      ["magician Gust", "deceiver of x"], 
+      ["magician Gust", "creditor of x"], 
+      ["magician Gust", "vulnerable to x"]
+    ],
+    "Rowling": [
+      ["Assistant Ella", "friend of x"], 
+      ["Assistant Ella", "mentor of x"], 
+      ["magician Gust", "suspect of x"], 
+      ["Thetrical Work David", "admirer of x"], 
+      ["Thetrical Work David", "informant of x"]
+    ],
+    "TheTrical Work David": [
+      ["Thetrical Work David", "admirer of x"], 
+      ["Rowling", "informant of x"]
+    ],
+    "Kevin": [
+      ["Assistant Ella", "helper of x"], 
+      ["magician Gust", "suspected by x"], 
+      ["magician Gust", "helped by x"]
+    ],
+    "David": [
+      ["Thetrical Work David", "informant of x"], 
+      ["Rowling", "mentor of x"]
+    ]
+}

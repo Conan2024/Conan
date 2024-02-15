@@ -1,0 +1,58 @@
+{
+    "Han Yimu": [
+      ["Hong Zilian", "lover of x, secretly dating of x"], 
+      ["Lin Ruotong", "rival of x, enemy of x"], 
+      ["Liu Qi", "rival of x, enemy of x"], 
+      ["Singer Lin", "rival of x, enemy of x"], 
+      ["Xiu Renjie", "manager of x"], 
+      ["Zhang Wenyuan", "acquaintance of x, helped by of x"]
+    ],
+    "Hong Zilian": [
+      ["Han Yimu", "lover of x, unaware of x han yimu's secret dating"], 
+      ["Lin Ruotong", "lover of x, secretly dating of x"], 
+      ["Liu Qi", "boyfriend of x, secret date of x"], 
+      ["Singer Lin", "lover of x"], 
+      ["Xiu Renjie", "lover of x"], 
+      ["Zhang Wenyuan", "lover of x, secretly dating of x"]
+    ],
+    "Lin Ruotong": [
+      ["Han Yimu", "rival of x, enemy of x"], 
+      ["Hong Zilian", "lover of x, secretly dating of x"], 
+      ["Liu Qi", "wife of x, ex romantic relationships with x"], 
+      ["Singer Lin", "lover of x, secretly dating of x"], 
+      ["Xiu Renjie", "manager of x, superior of x, employer of x, direct leader of x"], 
+      ["Zhang Wenyuan", "acquaintance of x, helped by of x"]
+    ],
+    "Liu Qi": [
+      ["Han Yimu", "rival of x, enemy of x"], 
+      ["Hong Zilian", "girlfriend of x, pursuer of x"], 
+      ["Lin Ruotong", "husband of x, ex romantic relationships with x"], 
+      ["Singer Lin", "pursuer of x, debtor of x, contractual dating partner of x"], 
+      ["Xiu Renjie", "superior of x, employer of x, master of x, direct leader of x"], 
+      ["Zhang Wenyuan", "friend of x, acquaintance of x"]
+    ],
+    "Singer Lin": [
+      ["Han Yimu", "rival of x, enemy of x"], 
+      ["Hong Zilian", "lover of x"], 
+      ["Lin Ruotong", "lover of x, pursuer of x"], 
+      ["Liu Qi", "pursued of x, debtor of x, contractual dating partner of x"], 
+      ["Xiu Renjie", "manager of x, friend of x"], 
+      ["Zhang Wenyuan", "acquaintance of x, colleague of x"]
+    ],
+    "Xiu Renjie": [
+      ["Han Yimu", "direct leader of x"], 
+      ["Hong Zilian", "direct leader of x, acquaintance of x"], 
+      ["Lin Ruotong", "manager of x, superior of x, employer of x, direct leader of x"], 
+      ["Liu Qi", "superior of x, employer of x, master of x, direct leader of x"], 
+      ["Singer Lin", "manager of x, friend of x"], 
+      ["Zhang Wenyuan", "manager employee of x, friend of x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Han Yimu", "acquaintance of x, helped by of x"], 
+      ["Hong Zilian", "lover of x, secretly dating of x"], 
+      ["Lin Ruotong", "acquaintance of x, helped of x"], 
+      ["Liu Qi", "friend of x, acquaintance of x"], 
+      ["Singer Lin", "acquaintance of x, colleague of x"], 
+      ["Xiu Renjie", "manager employee of x, friend of x"]
+    ]
+}

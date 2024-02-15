@@ -1,0 +1,103 @@
+{
+    "Zhang Jie": [
+      ["Wife of Neighbor Wang", "acquaintance of x, suspicious of x, rival of x, enemy of x"], 
+      ["ZHANG JIE", "husband of x, ex romantic relationships with x"], 
+      ["MU BEI", "lover of x, enemy of x, friend of x, rival of x"], 
+      ["Li Guofu", "acquaintance of x, co workers of x, suspect investigator of x, adversary enemy of x, rival competitor of x"], 
+      ["Mu Bei", "acquaintance of x, co worker of x, friend of x, suspicious of x, protective of x, rival of x, enemy of x"], 
+      ["He Laoliu", "partner in crime of x, accomplice of x, co workers of x, friends of x, confidants of x"], 
+      ["Second Sister", "acquaintance of x, co worker of x, friend of x, confidant of x, love interest of x, rival of x, suspect of x, victim of x"], 
+      ["Neighbor Wang", "acquaintance of x, co worker of x, suspicious of x, rival of x, enemy of x"], 
+      ["Big Brother Wang", "acquaintance of x, colleague of x, suspicious of x, rival of x, enemy of x, manipulator of x, victim of x"]
+    ],
+    "Wife of Neighbor Wang": [
+      ["Zhang Jie", "acquaintance of x, suspicious of x, rival of x, enemy of x"], 
+      ["ZHANG JIE", "acquaintance of x, suspicious of x, rival of x, enemy of x"], 
+      ["Mu Bei", "acquaintance of x, co worker of x, suspicious of x, rival of x, enemy of x"], 
+      ["He Laoliu", "co workers of x, acquaintances of x, suspicious of x each other, rivalry of x"], 
+      ["Second Sister", "acquaintance of x, co wives of x, suspicious of x, dislike of x, rival of x"], 
+      ["Neighbor Wang", "husband of x, superior/employer of x, friend/acquaintance of x"], 
+      ["Big Brother Wang", "acquaintance of x, colleague of x, suspicious of x, dislike of x, adversary of x, enemy of x"]
+    ],
+    "ZHANG JIE": [
+      ["Zhang Jie", "wife of x, romantic relationships with x"], 
+      ["Wife of Neighbor Wang", "acquaintance of x, suspicious of x, rival of x, enemy of x"], 
+      ["MU BEI", "colleague of x, friend of x, romantic interest of x, enemy of x"], 
+      ["Li Guofu", "acquaintance of x, co worker of x, suspicious of x, rival of x, enemy of x, victim of x, perpetrator of x"], 
+      ["Mu Bei", "acquaintance of x, suspicious of x, rival of x, enemy of x, victim of x"], 
+      ["He Laoliu", "acquaintance of x, suspicious of x, rival of x, enemy of x, victim of x"], 
+      ["Second Sister", "sisterly love of x, romantic relationship of x, friendship of x, mentorship of x, rivalry of x"], 
+      ["Neighbor Wang", "acquaintance of x, suspicious of x, rival of x, enemy of x, manipulator of x"], 
+      ["Big Brother Wang", "acquaintance of x, suspicious of x, adversary of x, enemy of x"]
+    ],
+    "MU BEI": [
+      ["Zhang Jie", "lover of x, enemy of x, friend of x, rival of x"], 
+      ["ZHANG JIE", "colleague of x, friend of x, romantic interest of x, enemy of x"], 
+      ["Li Guofu", "rival of x"], 
+      ["Acquaintance", "colleague of x, suspicious of x, rival of x, enemy of x, victim of x, perpetrator of x"], 
+      ["He Laoliu", "colleague of x, business partner of x"], 
+      ["Neighbor Wang", "acquaintance of x"], 
+      ["Big Brother Wang", "suspect suspicious of x, adversary enemy of x, rival competitor of x, manipulator manipulated of x, superior subordinate of x"]
+    ],
+    "Li Guofu": [
+      ["Zhang Jie", "acquaintance of x, co workers of x, suspect investigator of x, adversary enemy of x, rival competitor of x"], 
+      ["Wife of Neighbor Wang", "suspect of x, enemy of x, adversary of x, rival of x, manipulator of x, manipulated by x, superior of x, employee of x, servant of x, colleague of x"], 
+      ["ZHANG JIE", "acquaintance of x, co worker of x, suspicious of x, rival of x, enemy of x, manipulator of x, victim of x"], 
+      ["MU BEI", "rival of x"], 
+      ["Mu Bei", "perpetrator of x, adversary of x"], 
+      ["He Laoliu", "romantic relationships of x, co workers of x, criminals of x"], 
+      ["Second Sister", "perpetrator of x, bully of x"], 
+      ["Neighbor Wang", "acquaintance of x, gambling partner of x"]
+    ],
+    "Mu Bei": [
+      ["Zhang Jie", "acquaintance of x, co worker of x, friend of x, suspicious of x, protective of x, rival of x, enemy of x"], 
+      ["Wife of Neighbor Wang", "acquaintance of x, co worker of x, suspicious of x, rival of x, enemy of x"], 
+      ["ZHANG JIE", "acquaintance of x, suspicious of x, rival of x, enemy of x, victim of x"], 
+      ["MU BEI", "acquaintance of x, colleague of x, suspicious of x, rival of x, enemy of x, victim of x, perpetrator of x"], 
+      ["Li Guofu", "victim of x, suspect of x"], 
+      ["Second Sister", "acquaintance of x, business partner of x"], 
+      ["Neighbor Wang", "acquaintance of x"], 
+      ["Big Brother Wang", "acquaintance of x, colleague of x"]
+    ],
+    "He Laoliu": [
+      ["Zhang Jie", "partner in crime of x, accomplice of x, co workers of x, friends of x, confidants of x"], 
+      ["Wife of Neighbor Wang", "co workers of x, acquaintances of x, suspicious of x each other, rivalry of x"], 
+      ["ZHANG JIE", "acquaintance of x, suspicious of x, rival of x, enemy of x, victim of x"], 
+      ["MU BEI", "colleague of x, business partner of x"], 
+      ["Li Guofu", "romantic relationships of x, co workers of x, criminals of x"], 
+      ["Second Sister", "acquaintance of x, colleague of x, friend of x, confidant of x"], 
+      ["Neighbor Wang", "acquaintance of x, gambling partner of x"], 
+      ["Big Brother Wang", "acquaintance of x, co worker of x, suspect of x, rival of x, friend of x, informant of x, helper of x, manipulator of x"]
+    ],
+    "Second Sister": [
+      ["Zhang Jie", "acquaintance of x, co worker of x, friend of x, confidant of x, love interest of x, rival of x, suspect of x, victim of x"], 
+      ["Wife of Neighbor Wang", "acquaintance of x, co wives of x, suspicious of x, dislike of x, rival of x"], 
+      ["ZHANG JIE", "sisterly love of x, romantic relationship of x, friendship of x, mentorship of x, rivalry of x"], 
+      ["Li Guofu", "victim of x, killed by x"], 
+      ["Mu Bei", "acquaintance of x, business partner of x"], 
+      ["He Laoliu", "acquaintance of x, colleague of x, friend of x, confidant of x"], 
+      ["Neighbor Wang", "acquaintance of x, colleague of x, suspicious of x, dislike of x, rival of x"], 
+      ["Big Brother Wang", "acquaintance of x, business partner of x"]
+    ],
+    "Neighbor Wang": [
+      ["Zhang Jie", "acquaintance of x, co worker of x, suspicious of x, rival of x, enemy of x"], 
+      ["Wife of Neighbor Wang", "husband of x, superior/employer of x, friend/acquaintance of x"], 
+      ["ZHANG JIE", "acquaintance of x, suspicious of x, rival of x, enemy of x, manipulatee of x"], 
+      ["MU BEI", "acquaintance of x"], 
+      ["Li Guofu", "acquaintance of x, gambling partner of x"], 
+      ["Mu Bei", "acquaintance of x"], 
+      ["He Laoliu", "acquaintance of x, gambling partner of x"], 
+      ["Second Sister", "acquaintance of x, colleague of x, suspicious of x, dislike of x, rival of x"], 
+      ["Big Brother Wang", "acquaintance of x, co worker of x, suspicious of x, adversary of x, enemy of x"]
+    ],
+    "Big Brother Wang": [
+      ["Zhang Jie", "acquaintance of x, colleague of x, suspicious of x, rival of x, enemy of x, manipulator of x, victim of x"], 
+      ["Wife of Neighbor Wang", "acquaintance of x, colleague of x, suspicious of x, dislike of x, adversary of x, enemy of x"], 
+      ["ZHANG JIE", "acquaintance of x, suspicious of x, adversary of x, enemy of x"], 
+      ["MU BEI", "suspect suspicious of x, adversary enemy of x, rival competitor of x, manipulator manipulated of x, superior subordinate of x"], 
+      ["Mu Bei", "acquaintance of x, colleague of x"], 
+      ["He Laoliu", "acquaintance of x, co worker of x, suspect of x, rival of x, friend of x, informant of x, helper of x, manipulator of x"], 
+      ["Second Sister", "acquaintance of x, business partner of x"], 
+      ["Neighbor Wang", "acquaintance of x, co worker of x, suspicious of x, adversary of x, enemy of x"]
+    ]
+}

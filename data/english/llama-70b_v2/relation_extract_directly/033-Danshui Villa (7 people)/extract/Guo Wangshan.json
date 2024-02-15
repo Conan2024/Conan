@@ -1,0 +1,40 @@
+{
+    "Guo Wangshan": [
+      ["Zhao Wanlei", "business partner of x, rival of x"], 
+      ["Liao Laoban", "acquaintance of x, colleague of x"], 
+      ["Yu Yichen", "friend of x, classmate of x"], 
+      ["Master Ren", "teacher of x, mentor of x"], 
+      ["Feng Shuangji", "acquaintance of x, investigator of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Guo Wangshan", "business partner of x, rival of x"], 
+      ["Liao Laoban", "enemy of x, adversary of x"], 
+      ["Feng Shuangji", "acquaintance of x, suspicious of x"]
+    ],
+    "Liao Laoban": [
+      ["Guo Wangshan", "acquaintance of x, colleague of x"], 
+      ["Zhao Wanlei", "enemy of x, adversary of x"], 
+      ["Yu Yichen", "son in law of x, relative of x"], 
+      ["Feng Shuangji", "acquaintance of x, suspicious of x"]
+    ],
+    "Yu Yichen": [
+      ["Guo Wangshan", "friend of x, classmate of x"], 
+      ["Liao Laoban", "father in law of x, relative of x"], 
+      ["QI Yue", "acquaintance of x, investigator of x"]
+    ],
+    "Master Ren": [
+      ["Guo Wangshan", "teacher of x, mentor of x"], 
+      ["Liao Laoban", "disciple of x, colleague of x"], 
+      ["Yu Yichen", "disciple of x, colleague of x"]
+    ],
+    "Feng Shuangji": [
+      ["Guo Wangshan", "acquaintance of x, investigator of x"], 
+      ["Liao Laoban", "acquaintance of x, investigator of x"], 
+      ["Zhao Wanlei", "acquaintance of x, suspicious of x"]
+    ],
+    "QI Yue": [
+      ["Guo Wangshan", "acquaintance of x, investigator of x"], 
+      ["Liao Laoban", "acquaintance of x, investigator of x"], 
+      ["Yu Yichen", "acquaintance of x, investigator of x"]
+    ]
+}

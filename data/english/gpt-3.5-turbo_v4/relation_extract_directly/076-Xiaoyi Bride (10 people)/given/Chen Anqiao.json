@@ -1,0 +1,56 @@
+{
+    "Chen Anqiao": [
+      ["Chen Junmeng", "same person as x (different reference)"], 
+      ["Chen Qingwu", "father of x, employer of x"], 
+      ["Chen Shitian", "father of x"], 
+      ["Yao Changshou", "husband of x, employer of x"], 
+      ["Yao Zhongyi", "employer of x, romantic relationships with x"], 
+      ["Lady Hong", "employer of x, mentor of x"], 
+      ["Doctor Fang", "information receiver from x"], 
+      ["Short-haired Woman", "suspicious of x, dislike of x"], 
+      ["Mysterious Man", "dislike of x, extramarital affair with x"], 
+      ["Physician Yu", "information receiver from x"]
+    ],
+    "Chen Qingwu": [
+      ["Chen Anqiao", "daughter of x, servant of x"], 
+      ["Chen Junmeng", "daughter of x"], 
+      ["Yao Changshou", "extramarital affair with x"]
+    ],
+    "Chen Junmeng": [
+      ["Chen Anqiao", "cousin of x"], 
+      ["Chen Qingwu", "father of x"], 
+      ["Yao Zhongyi", "brother in law of x"], 
+      ["Yao Changshou", "father in law of x"]
+    ],
+    "Chen Shitian": [
+      ["Chen Anqiao", "father of x"]
+    ],
+    "Yao Changshou": [
+      ["Chen Anqiao", "employer of x"], 
+      ["Chen Qingwu", "extramarital affair with x"], 
+      ["Yao Mengren", "child of x"], 
+      ["Yao Zhongyi", "son of x"], 
+      ["Doctor Fang", "patient of x"], 
+      ["Short-haired Woman", "dislike of x"], 
+      ["Mysterious Man", "dislike of x, acquaintance of x"], 
+      ["Physician Yu", "patient of x"]
+    ],
+    "Yao Mengren": [
+      ["Chen Junmeng", "husband of x"], 
+      ["Yao Changshou", "father in law of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Chen Anqiao", "romantic relationships with x"], 
+      ["Chen Junmeng", "brother in law of x"], 
+      ["Yao Changshou", "father of x"]
+    ],
+    "Lady Hong": [
+      ["Chen Anqiao", "employer of x, mentor of x"], 
+      ["Yao Changshou", "wife of x"]
+    ],
+    "Short-haired Woman": [
+      ["Chen Anqiao", "dislike of x"], 
+      ["Yao Changshou", "dislike of x"], 
+      ["Mysterious Man", "dislike of x"]
+    ]
+}

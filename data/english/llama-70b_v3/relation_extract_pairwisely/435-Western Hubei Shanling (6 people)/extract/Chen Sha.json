@@ -1,0 +1,68 @@
+{
+    "Zhou Chen Sha": [
+      ["Zhou Yuntang", "father of x, daughter of x"], 
+      ["Zheng Hanzhen", "friend of x, classmate of x, colleague of x"], 
+      ["Ba Mansion Mountain", "friend of x"], 
+      ["Falcon", "friend of x, classmate of x"], 
+      ["Gan Ma", "friend of x, acquaintance of x"], 
+      ["Li Demu", "friend of x, classmate of x"], 
+      ["Wizard", "friend of x, acquaintance of x"]
+    ],
+    "Zhou Yuntang": [
+      ["Zhou Chen Sha", "father of x, daughter of x"], 
+      ["Ba Mansion Mountain", "father of x, mentor of x, teacher of x"], 
+      ["Falcon", "friend of x"], 
+      ["Li Demu", "father of x, employer of x"]
+    ],
+    "Zheng Hanzhen": [
+      ["Zhou Chen Sha", "friend of x, classmate of x, colleague of x"], 
+      ["Ba Mansion Mountain", "friend of x, helper of x"], 
+      ["Falcon", "friend of x, classmate of x"], 
+      ["Gan Ma", "friend of x, classmate of x"], 
+      ["Li Demu", "friend of x, acquaintance of x"], 
+      ["Wizard", "friend of x, classmate of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Zhou Chen Sha", "friend of x"], 
+      ["Zhou Yuntang", "same person as x (different reference), same person as x (different identity)"], 
+      ["Zheng Hanzhen", "friend of x, helper of x"], 
+      ["Falcon", "friend of x, classmate of x"], 
+      ["Gan Ma", "friend of x, acquaintance of x"], 
+      ["Li Demu", "friend of x"], 
+      ["Wizard", "friend of x, informant of x"]
+    ],
+    "Falcon": [
+      ["Zhou Chen Sha", "friend of x, classmate of x"], 
+      ["Zhou Yuntang", "friend of x"], 
+      ["Zheng Hanzhen", "friend of x, classmate of x"], 
+      ["Ba Mansion Mountain", "friend of x, classmate of x"], 
+      ["Gan Ma", "friend of x, acquaintance of x"], 
+      ["Li Demu", "friend of x, acquaintance of x"], 
+      ["Wizard", "friend of x, acquaintance of x"]
+    ],
+    "Gan Ma": [
+      ["Zhou Chen Sha", "friend of x, acquaintance of x"], 
+      ["Zheng Hanzhen", "friend of x, classmate of x"], 
+      ["Ba Mansion Mountain", "friend of x, acquaintance of x"], 
+      ["Falcon", "friend of x, acquaintance of x"], 
+      ["Li Demu", "acquaintance of x, suspect of x"], 
+      ["Wizard", "sister of x, acquaintance of x"]
+    ],
+    "Li Demu": [
+      ["Zhou Chen Sha", "friend of x, classmate of x"], 
+      ["Zhou Yuntang", "son of x, employee of x"], 
+      ["Zheng Hanzhen", "friend of x, acquaintance of x"], 
+      ["Ba Mansion Mountain", "friend of x"], 
+      ["Falcon", "friend of x, acquaintance of x"], 
+      ["Gan Ma", "acquaintance of x, suspect of x"], 
+      ["Wizard", "perpetrator of x, bully of x"]
+    ],
+    "Wizard": [
+      ["Zhou Chen Sha", "friend of x, acquaintance of x"], 
+      ["Zheng Hanzhen", "friend of x, classmate of x"], 
+      ["Ba Mansion Mountain", "friend of x, informant of x"], 
+      ["Falcon", "friend of x, acquaintance of x"], 
+      ["Gan Ma", "sister of x, acquaintance of x"], 
+      ["Li Demu", "perpetrator of x, bully of x"]
+    ]
+}

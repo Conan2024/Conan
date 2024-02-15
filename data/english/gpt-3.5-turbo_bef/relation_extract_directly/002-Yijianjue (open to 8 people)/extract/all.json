@@ -1,0 +1,32 @@
+{
+    "Ling Xiao": [
+      ["Du Zhong", "friend of x, mentor of x"], 
+      ["Xuan Can", "friend of x"]
+    ],
+    "Du Zhong": [
+      ["Ling Xiao", "friend of x, mentor of x"], 
+      ["Xuan Can", "friend of x"], 
+      ["Wang You", "possibly family of x"], 
+      ["Fu Xian", "helper of x"]
+    ],
+    "Xuan Can": [
+      ["Ling Xiao", "friend of x"], 
+      ["Du Zhong", "friend of x"]
+    ],
+    "Fu Xian": [
+      ["Du Zhong", "helper of x"]
+    ],
+    "Wang You": [
+      ["Du Zhong", "possibly family of x"]
+    ],
+    "Wang Baixing": [
+      ["Jue Ming", "relative of x"]
+    ],
+    "Xu Xuanbing": [
+      ["Jue Ming", "relative of x"]
+    ],
+    "Jue Ming": [
+      ["Wang Baixing", "relative of x"], 
+      ["Xu Xuanbing", "relative of x"]
+    ]
+}

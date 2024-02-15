@@ -1,0 +1,44 @@
+{
+    "Ella": [
+      ["Gust", "employer of x, perpetrator of x"], 
+      ["Kevin", "friend of x, helper of x"], 
+      ["Griff", "acquaintance of x, deceiver of x"], 
+      ["Rowling", "friend of x"], 
+      ["David", "acquaintance of x, admirer of x"]
+    ],
+    "Gust": [
+      ["Ella", "employer of x, perpetrator of x"], 
+      ["Kevin", "friend of x, helper of x"], 
+      ["Griff", "acquaintance of x, deceiver of x"], 
+      ["Rowling", "friend of x"], 
+      ["David", "acquaintance of x, admirer of x"]
+    ],
+    "Kevin": [
+      ["Ella", "friend of x, helper of x"], 
+      ["Gust", "friend of x, employer of x"], 
+      ["Griff", "acquaintance of x"], 
+      ["Rowling", "acquaintance of x"], 
+      ["David", "acquaintance of x"]
+    ],
+    "Griff": [
+      ["Ella", "acquaintance of x, deceiver of x"], 
+      ["Gust", "acquaintance of x"], 
+      ["Kevin", "acquaintance of x"], 
+      ["Rowling", "acquaintance of x"], 
+      ["David", "acquaintance of x"]
+    ],
+    "Rowling": [
+      ["Ella", "friend of x"], 
+      ["Gust", "friend of x, employer of x"], 
+      ["Kevin", "acquaintance of x"], 
+      ["Griff", "acquaintance of x"], 
+      ["David", "acquaintance of x, admirer of x"]
+    ],
+    "David": [
+      ["Ella", "acquaintance of x, admirer of x"], 
+      ["Gust", "acquaintance of x, employer of x"], 
+      ["Kevin", "acquaintance of x"], 
+      ["Griff", "acquaintance of x"], 
+      ["Rowling", "acquaintance of x"]
+    ]
+}

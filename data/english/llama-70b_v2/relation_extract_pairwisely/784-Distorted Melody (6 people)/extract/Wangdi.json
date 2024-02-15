@@ -1,0 +1,93 @@
+{
+    "Ruan Wangdi": [
+      ["Mrs. Ruan", "sister of x, friend of x, acquaintance of x"], 
+      ["Zhaonan", "sister of x, informant of x"], 
+      ["Guilang", "brother of x, rival of x"], 
+      ["Luo Xiucai", "friend of x, acquaintance of x"], 
+      ["Qi Gu Fei", "acquaintance of x, colleague of x"], 
+      ["Hei Li", "sister of x, rival of x"], 
+      ["Wang Zimo", "acquaintance of x, romantic interest of x"], 
+      ["Baron Smith", "acquaintance of x, friend of x"]
+    ],
+    "Mrs. Ruan": [
+      ["Ruan Wangdi", "mother of x, landlord of x, employer of x"], 
+      ["Zhaonan", "landlord of x, mother of x"], 
+      ["Guilang", "mother of x, son of x"], 
+      ["Luo Xiucai", "landlord of x, tenant of x"], 
+      ["Qi Gu Fei", "landlord of x, dance teacher of x"], 
+      ["Hei Li", "landlord of x, mother in law of x"], 
+      ["Wang Zimo", "landlord of x, mother in law of x"], 
+      ["Baron Smith", "landlord of x, tenant of x"]
+    ],
+    "Zhaonan": [
+      ["Ruan Wangdi", "sister of x, informant of x"], 
+      ["Mrs. Ruan", "tenant of x, sister of x"], 
+      ["Guilang", "sister of x, friend of x"], 
+      ["Luo Xiucai", "same person as x (different identity)"], 
+      ["Qi Gu Fei", "sibling of x, rival of x"], 
+      ["Hei Li", "sister of x, friend of x"], 
+      ["Wang Zimo", "same person as x (different reference)"]
+    ],
+    "Guilang": [
+      ["Ruan Wangdi", "brother of x, rival of x"], 
+      ["Mrs. Ruan", "son of x, nephew of x"], 
+      ["Zhaonan", "brother of x, friend of x"], 
+      ["Luo Xiucai", "friend of x, mentor of x"], 
+      ["Qi Gu Fei", "childhood friend of x, classmate of x"], 
+      ["Hei Li", "childhood friend of x, classmate of x, schoolmate of x"], 
+      ["Wang Zimo", "brother of x, acquaintance of x"], 
+      ["Baron Smith", "friend of x, acquaintance of x"]
+    ],
+    "Luo Xiucai": [
+      ["Ruan Wangdi", "friend of x, acquaintance of x"], 
+      ["Mrs. Ruan", "landlord of x, tenant of x"], 
+      ["Zhaonan", "same person as x (different reference)"], 
+      ["Guilang", "friend of x, teacher of x"], 
+      ["Qi Gu Fei", "friend of x, mentor of x"], 
+      ["Hei Li", "friend of x, mentor of x"], 
+      ["Wang Zimo", "friend of x, acquaintance of x"], 
+      ["Baron Smith", "friend of x, mentor of x"]
+    ],
+    "Qi Gu Fei": [
+      ["Ruan Wangdi", "acquaintance of x, colleague of x"], 
+      ["Mrs. Ruan", "landlord of x, dance teacher of x"], 
+      ["Zhaonan", "sibling of x, rival of x"], 
+      ["Guilang", "childhood friend of x, classmate of x"], 
+      ["Luo Xiucai", "friend of x, mentor of x"], 
+      ["Hei Li", "same person as x (different reference), same person as x (different identity)"], 
+      ["Wang Zimo", "friend of x, colleague of x"], 
+      ["Baron Smith", "acquaintance of x, colleague of x"]
+    ],
+    "Hei Li": [
+      ["Ruan Wangdi", "sister of x, rival of x"], 
+      ["Mrs. Ruan", "tenant of x, daughter in law of x"], 
+      ["Zhaonan", "sister of x, friend of x"], 
+      ["Guilang", "childhood friend of x, classmate of x, schoolmate of x"], 
+      ["Luo Xiucai", "friend of x, mentee of x"], 
+      ["Qi Gu Fei", "same person as x (different reference), same person as x (different identity)"], 
+      ["Wang Zimo", "friend of x, acquaintance of x"], 
+      ["Baron Smith", "acquaintance of x, colleague of x"]
+    ],
+    "Wang Zimo": [
+      ["Ruan Wangdi", "acquaintance of x, romantic interest of x"], 
+      ["Mrs. Ruan", "tenant of x, son in law of x"], 
+      ["Zhaonan", "same person as x (different reference), lover of x"], 
+      ["Guilang", "brother of x, acquaintance of x"], 
+      ["Luo Xiucai", "friend of x, acquaintance of x"], 
+      ["Qi Gu Fei", "friend of x, colleague of x"], 
+      ["Hei Li", "friend of x, acquaintance of x"], 
+      ["Baron Smith", "friend of x, business partner of x"]
+    ],
+    "Baron Smith": [
+      ["Ruan Wangdi", "acquaintance of x, friend of x"], 
+      ["Mrs. Ruan", "landlord of x, tenant of x"], 
+      ["Guilang", "friend of x, acquaintance of x"], 
+      ["Luo Xiucai", "friend of x, mentor of x"], 
+      ["Qi Gu Fei", "acquaintance of x, colleague of x"], 
+      ["Hei Li", "acquaintance of x, colleague of x"], 
+      ["Wang Zimo", "friend of x, business partner of x"]
+    ],
+    "Wangdi": [
+      ["Zhaonan", "sister of x"]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "Yannan": [
+      ["Wang Xi Rong", "mother of x"], 
+      ["Cui Shouheng", "father of x"], 
+      ["Yu Shi", "mother of x"], 
+      ["Zhou Mengdang", "ex husband of x mother"], 
+      ["Wang Xi Yan", "sister of x"], 
+      ["Bao Gan", "personal maid of x mother"], 
+      ["Yu Su Nian", "younger brother of x yu shi"], 
+      ["Zhou Chitong", "younger brother of x yu shi"]
+    ],
+    "Xi Yan": [
+      ["Yu Shi", "sister of x"], 
+      ["Cui Shouheng", "husband of x"], 
+      ["Bao Gan", "secret lover of x"], 
+      ["Zhou Mengdang", "ex boyfriend of x"]
+    ],
+    "Lianyi": [
+      ["Zhou Mengdang", "father of x"], 
+      ["Su Nian", "uncle of x"], 
+      ["Yannan", "child of x zhou mengdang"], 
+      ["Su Nian", "mentor of x"]
+    ],
+    "Yu Shi": [
+      ["Yu Su Nian", "brother of x"], 
+      ["Zhou Mengdang", "boyfriend of x"], 
+      ["Lianyi", "mother of x"], 
+      ["Zhou Lianyi", "grandchild of x"], 
+      ["Yannan", "child of x"]
+    ],
+    "Bao Gan": [
+      ["Yannan", "helper of x"], 
+      ["Tian Chou", "secret lover of x"]
+    ],
+    "Tian Chou": [
+      ["Yannan", "helper of x"], 
+      ["Bao Gan", "secret lover of x"]
+    ],
+    "Zhou Mengdang": [
+      ["Yu Shi", "ex boyfriend of x"], 
+      ["Wang Xi Yan", "ex girlfriend of x"], 
+      ["Zhou Lianyi", "father of x"]
+    ],
+    "Su Nian": [
+      ["Yu Su Nian", "younger brother of x"], 
+      ["Lianyi", "mentor of x"], 
+      ["Yannan", "romantic relationships with of x"]
+    ],
+    "Zhou Chitong": [
+      ["Yu Su Nian", "brother of x"], 
+      ["Zhou Mengdang", "son of x"], 
+      ["Yannan", "friend of x"], 
+      ["Lianyi", "guest of x"]
+    ],
+    "Wang Xi Rong": [
+      ["Yannan", "mother of x"]
+    ],
+    "Wang Xi Yan": [
+      ["Yannan", "sister of x"], 
+      ["Xi Yan", "sister of x"], 
+      ["Zhou Mengdang", "ex girlfriend of x"]
+    ]
+}

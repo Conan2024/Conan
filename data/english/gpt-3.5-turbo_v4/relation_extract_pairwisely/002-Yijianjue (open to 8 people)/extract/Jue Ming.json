@@ -1,0 +1,32 @@
+{
+    "Xuan Bingjiao": [
+      ["Jue Ming", "romantic relationships with x, suspected by x"], 
+      ["Zi Su", "fondness of x, informant of x"], 
+      ["Lu Ying", "adversary of x"], 
+      ["Guizhuang owner", "secret lover of x, suspected by x"]
+    ],
+    "Jue Ming": [
+      ["Xuan Bingjiao", "romantic relationships with x"], 
+      ["Zi Su", "student of x"], 
+      ["Lu Ying", "colleague of x"], 
+      ["Guizhuang owner", "adversary of x, suspected by x"]
+    ],
+    "Zi Su": [
+      ["Xuan Bingjiao", "informant of x, admired by x"], 
+      ["Jue Ming", "teacher of x"], 
+      ["Lu Ying", "helper of x"], 
+      ["Guizhuang owner", "student of x"]
+    ],
+    "Lu Ying": [
+      ["Xuan Bingjiao", "adversary of x"], 
+      ["Jue Ming", "colleague of x"], 
+      ["Zi Su", "helper of x"], 
+      ["Guizhuang owner", "information receiver from x"]
+    ],
+    "Guizhuang owner": [
+      ["Xuan Bingjiao", "secret lover of x, suspected by x"], 
+      ["Jue Ming", "adversary of x, suspected by x"], 
+      ["Zi Su", "teacher of x"], 
+      ["Lu Ying", "informant of x"]
+    ]
+}

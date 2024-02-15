@@ -1,0 +1,40 @@
+{
+    "Wangdi": [
+      ["Zhaonan", "sister of x"], 
+      ["Ruan Qiande", "brother of x"], 
+      ["Xue Yan", "brother of x"], 
+      ["Guilang", "brother of x"]
+    ],
+    "Zhaonan": [
+      ["Wangdi", "sister of x"], 
+      ["Ruan Qiande", "father of x"]
+    ],
+    "Ruan Qiande": [
+      ["Wangdi", "son of x"], 
+      ["Mrs. Ruan", "husband of x"]
+    ],
+    "Mrs. Ruan": [
+      ["Wangdi", "mother of x"], 
+      ["Ruan Qiande", "wife of x"]
+    ],
+    "Luo Younuo": [
+      ["Xue Yan", "sister of x"]
+    ],
+    "Xue Yan": [
+      ["Luo Younuo", "brother of x"], 
+      ["Wangdi", "brother of x"]
+    ],
+    "Guilang": [
+      ["Wangdi", "brother of x"], 
+      ["Xue Yan", "brother of x"]
+    ],
+    "Qi Gufei": [
+      ["Hei Li", "friend of x"]
+    ],
+    "Hei Li": [
+      ["Qi Gufei", "friend of x"]
+    ],
+    "Ruan Wangdi": [
+      ["Wangdi", "brother in law of x"]
+    ]
+}

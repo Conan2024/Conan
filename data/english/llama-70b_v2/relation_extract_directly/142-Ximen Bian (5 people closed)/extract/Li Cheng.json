@@ -1,0 +1,23 @@
+{
+    "Li Cheng": [
+      ["Zhao ZHONGZHENG", "same person as x (different reference)"], 
+      ["Zhao Zhongyang", "same person as x (different identity)"], 
+      ["Chen Meier", "colleague of x"]
+    ],
+    "Zhao ZHONGZHENG": [
+      ["Li Cheng", "employer of x"], 
+      ["Zhao Zhongyang", "same person as x (different identity)"]
+    ],
+    "Zhao Zhongyang": [
+      ["Li Cheng", "friend of x"], 
+      ["Chen Meier", "colleague of x"]
+    ],
+    "Chen Meier": [
+      ["Li Cheng", "colleague of x"], 
+      ["Zhao Zhongyang", "colleague of x"]
+    ],
+    "ZHANG Wei": [
+      ["Zhao ZHONGZHENG", "employee of x"], 
+      ["Zhao Zhongyang", "guard of x"]
+    ]
+}

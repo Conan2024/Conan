@@ -1,0 +1,56 @@
+{
+    "Yao Zhongyi": [
+      ["Yao Changshou", "father of x"], 
+      ["Zhang Yadi", "mother of x"], 
+      ["Yao Mengren", "same person as x (different identity)"], 
+      ["Minyue Sister", "romantic relationships with x"], 
+      ["Zhang Decai", "acquaintance of x"], 
+      ["Yu Junhong", "friend of x, information receiver from x"], 
+      ["Chen Junmeng", "romantic relationships with x"], 
+      ["Doctor Fang", "doctor of x"]
+    ],
+    "Yao Changshou": [
+      ["Yao Zhongyi", "son of x"], 
+      ["Madam Xu", "wife of x"], 
+      ["Yao Mengren", "son of x"], 
+      ["Lady Hong", "wife of x"], 
+      ["Chen Junmeng", "husband of x"]
+    ],
+    "Zhang Yadi": [
+      ["Yao Zhongyi", "mother of x"], 
+      ["Madam Xu", "friend of x"]
+    ],
+    "Madam Xu": [
+      ["Yao Zhongyi", "same person as x (different reference)"], 
+      ["Yao Changshou", "wife of x"], 
+      ["Yao Mengren", "son of x"]
+    ],
+    "Yao Mengren": [
+      ["Yao Zhongyi", "same person as x (different reference)"], 
+      ["Yao Changshou", "son of x"], 
+      ["Minyue Sister", "romantic relationships with x"], 
+      ["Zhang Decai", "romantic relationships with x"], 
+      ["Chen Junmeng", "ex romantic relationships with x"]
+    ],
+    "Minyue Sister": [
+      ["Yao Zhongyi", "romantic relationships with x"], 
+      ["Zhang Decai", "romantic relationships with x"]
+    ],
+    "Zhang Decai": [
+      ["Yao Zhongyi", "acquaintance of x"], 
+      ["Minyue Sister", "romantic relationships with x"]
+    ],
+    "Yu Junhong": [
+      ["Yao Zhongyi", "friend of x"], 
+      ["Chen Junmeng", "information receiver from x"]
+    ],
+    "Chen Junmeng": [
+      ["Yao Zhongyi", "romantic relationships with x"], 
+      ["Yao Changshou", "wife of x"], 
+      ["Yao Mengren", "ex romantic relationships with x"], 
+      ["Yu Junhong", "information receiver from x"]
+    ],
+    "Doctor Fang": [
+      ["Yao Zhongyi", "doctor of x"]
+    ]
+}

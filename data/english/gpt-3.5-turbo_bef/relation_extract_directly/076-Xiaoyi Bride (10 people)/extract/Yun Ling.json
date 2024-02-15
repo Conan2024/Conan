@@ -1,0 +1,22 @@
+{
+    "Yun Ling": [
+      ["Liao Yiqiao", "father of x"], 
+      ["XU BOQING", "romantic relationships with x, attempted perpetrator of x, victim of x"], 
+      ["Uncle (xu Boqing's uncle)", "romantic relationships with x"]
+    ],
+    "Liao Yiqiao": [
+      ["Yun Ling", "child of x"]
+    ],
+    "Grandpa Ren": [
+      ["Yun Ling", "helper of x"]
+    ],
+    "XU BOQING": [
+      ["Yun Ling", "romantic relationships with x"], 
+      ["Uncle (xu Boqing's uncle)", "romantic relationships with x"], 
+      ["Yun Ling", "attempted perpetrator of x"], 
+      ["Yun Ling", "victim of x"]
+    ],
+    "Uncle (xu Boqing's uncle)": [
+      ["Yun Ling", "romantic relationships with x"]
+    ]
+}

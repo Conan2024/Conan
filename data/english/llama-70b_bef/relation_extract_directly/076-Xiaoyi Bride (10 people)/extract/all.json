@@ -1,0 +1,52 @@
+{
+    "Doctor Fang": [
+      ["Fang Chengshan", "father of x"], 
+      ["Steward Du", "colleague of x"], 
+      ["Yao Changshou", "colleague of x"], 
+      ["Yao Mengren", "nephew of x"], 
+      ["Yao Zhongyi", "nephew of x"], 
+      ["Zhang Yadi", "friend of x"], 
+      ["Zhang Decai", "lover of x"], 
+      ["Tian Hongjiao", "cousin of x"]
+    ],
+    "Fang Chengshan": [
+      ["Doctor Fang", "son of x"], 
+      ["Master Meng", "friend of x"]
+    ],
+    "Master Meng": [
+      ["Fang Chengshan", "friend of x"]
+    ],
+    "Steward Du": [
+      ["Doctor Fang", "colleague of x"], 
+      ["Fang Chengshan", "friend of x"]
+    ],
+    "Yao Changshou": [
+      ["Doctor Fang", "colleague of x"], 
+      ["Yao Mengren", "son of x"], 
+      ["Yao Zhongyi", "son of x"]
+    ],
+    "Yao Mengren": [
+      ["Yao Changshou", "father of x"], 
+      ["Doctor Fang", "uncle of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Yao Changshou", "father of x"], 
+      ["Doctor Fang", "uncle of x"]
+    ],
+    "Zhang Yadi": [
+      ["Doctor Fang", "friend of x"], 
+      ["Zhang Decai", "brother of x"]
+    ],
+    "Zhang Decai": [
+      ["Doctor Fang", "lover of x"], 
+      ["Zhang Yadi", "brother of x"]
+    ],
+    "Tian Hongjiao": [
+      ["Doctor Fang", "cousin of x"], 
+      ["Yao Changshou", "landlord of x"]
+    ],
+    "Mysterious Man": [
+      ["Yao Changshou", "acquaintance of x"], 
+      ["Doctor Fang", "suspect of x"]
+    ]
+}

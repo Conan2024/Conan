@@ -1,0 +1,98 @@
+{
+    "Xue Dacai": [
+        [
+            "Zhu Lingshan",
+            "friend of x, romantic relationships with x"
+        ],
+        [
+            "Ge Jixian",
+            "informant of x"
+        ],
+        [
+            "Ge Yueluo",
+            "sister of x"
+        ],
+        [
+            "Mrs. Zhang",
+            "extramarital affair with x"
+        ]
+    ],
+    "Zhu Lingshan": [
+        [
+            "Xue Dacai",
+            "friend of x, romantic relationships with x"
+        ],
+        [
+            "Ge Yueman",
+            "friend of x"
+        ],
+        [
+            "Yu Shangyong",
+            "fiance of x"
+        ],
+        [
+            "Ge Yueluo",
+            "sister of x"
+        ]
+    ],
+    "Ge Jixian": [
+        [
+            "Xue Dacai",
+            "informant of x"
+        ],
+        [
+            "Ge Yueluo",
+            "father of x, mother of x"
+        ]
+    ],
+    "Ge Yueman": [
+        [
+            "Zhu Lingshan",
+            "friend of x"
+        ],
+        [
+            "Yu Shangyong",
+            "husband of x"
+        ],
+        [
+            "Xue Yufan",
+            "father of x"
+        ]
+    ],
+    "Ge Yueluo": [
+        [
+            "Zhu Lingshan",
+            "sister of x"
+        ],
+        [
+            "Ge Jixian",
+            "father of x, mother of x"
+        ],
+        [
+            "Xue Dacai",
+            "sibling of x"
+        ]
+    ],
+    "Yu Shangyong": [
+        [
+            "Zhu Lingshan",
+            "fiance of x"
+        ],
+        [
+            "Ge Yueman",
+            "husband of x"
+        ]
+    ],
+    "Xue Yufan": [
+        [
+            "Ge Yueman",
+            "father of x"
+        ]
+    ],
+    "Mrs. Zhang": [
+        [
+            "Yu Shangyong",
+            "extramarital affair with x"
+        ]
+    ]
+}

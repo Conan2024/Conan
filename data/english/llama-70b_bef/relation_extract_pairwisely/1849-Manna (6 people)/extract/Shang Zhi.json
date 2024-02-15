@@ -1,0 +1,30 @@
+{
+    "Tan Shang Zhi": [
+      ["Lv Mingran", "cousin of x, business partner of x"], 
+      ["Luo Hengli", "friend of x, acquaintance of x"], 
+      ["Hai You", "friend of x, classmate of x, schoolmate of x"], 
+      ["Zina", "friend of x, mentor of x"]
+    ],
+    "Lv Mingran": [
+      ["Tan Shang Zhi", "cousin of x, business partner of x"], 
+      ["Luo Hengli", "friend of x, mentor of x"], 
+      ["Zina", "friend of x, mentor of x"]
+    ],
+    "Luo Hengli": [
+      ["Tan Shang Zhi", "friend of x, acquaintance of x"], 
+      ["Lv Mingran", "friend of x, mentor of x"], 
+      ["Hai You", "friend of x, acquaintance of x"], 
+      ["Zina", "friend of x, mentor of x"]
+    ],
+    "Hai You": [
+      ["Tan Shang Zhi", "friend of x, classmate of x, schoolmate of x"], 
+      ["Luo Hengli", "friend of x, acquaintance of x"], 
+      ["Zina", "sister of x, friend of x"]
+    ],
+    "Zina": [
+      ["Tan Shang Zhi", "friend of x"], 
+      ["Lv Mingran", "friend of x"], 
+      ["Luo Hengli", "friend of x"], 
+      ["Hai You", "sister of x, friend of x"]
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "Gu Qing": [
+      ["Lin Xi", "friend of x, acquaintance of x"], 
+      ["Su Yang", "rival of x, adversary of x, enemy of x, suspect of x, suspicious of x, suspicion of x, victim of x, killed by x"], 
+      ["Gu Yu", "sibling of x, co wives of x"], 
+      ["Lin Yang", "rival of x, friend of x"], 
+      ["Gu Ming", "father daughter of x, president employee of x"], 
+      ["Lin Weiren", "friend of x, acquaintance of x"], 
+      ["Lin Tong", "friend of x, acquaintance of x"], 
+      ["Shen Cheng", "acquaintance of x, classmate of x"]
+    ],
+    "Lin Xi": [
+      ["Gu Qing", "friend of x, acquaintance of x"], 
+      ["Su Yang", "rival of x, suspect of x"], 
+      ["Gu Yu", "friend of x, acquaintance of x"], 
+      ["Lin Yang", "friend of x, acquaintance of x"], 
+      ["Gu Ming", "friend of x, acquaintance of x"], 
+      ["Lin Weiren", "friend of x, acquaintance of x"], 
+      ["Lin Tong", "friend of x, acquaintance of x"], 
+      ["Shen Cheng", "friend of x, acquaintance of x"]
+    ],
+    "Su Yang": [
+      ["Gu Qing", "rival of x, adversary of x, enemy of x, suspect of x, suspicious of x, suspicion of x, victim of x, killed by x"], 
+      ["Lin Xi", "rival of x, suspect of x"], 
+      ["Gu Yu", "ex romantic relationships with x, rival of x"], 
+      ["Lin Yang", "relationship 1: acquaintance of x, relationship 2: love interest of x"], 
+      ["Gu Ming", "relationship 1: acquaintance of x, relationship 2: suspect of x murder"], 
+      ["Lin Weiren", "relationship 1: attending doctor resident in lin's manor of x, relationship 2: love interest of x lin xi"], 
+      ["Lin Tong", "rival of x, adversary of x, enemy of x"], 
+      ["Shen Cheng", "acquaintance of x, suspect of x"]
+    ],
+    "Gu Yu": [
+      ["Gu Qing", "sibling of x, co wives of x"], 
+      ["Lin Xi", "friend of x, acquaintance of x"], 
+      ["Su Yang", "wife of x, rival of x"], 
+      ["Lin Yang", "friend of x, acquaintance of x"], 
+      ["Gu Ming", "brother of x, suspect of x murder"], 
+      ["Lin Weiren", "brother in law of x, suspect of x murder"], 
+      ["Lin Tong", "friend of x, acquaintance of x"], 
+      ["Shen Cheng", "friend of x, acquaintance of x"]
+    ],
+    "Lin Yang": [
+      ["Gu Qing", "rival of x, friend of x"], 
+      ["Lin Xi", "brother of x, suspect of x"], 
+      ["Su Yang", "relationship 1: brother of x, relationship 2: love interest of x"], 
+      ["Gu Yu", "friend of x, acquaintance of x"], 
+      ["Gu Ming", "friend of x"], 
+      ["Lin Weiren", "lin xi, gu qing of x, su yang of x"], 
+      ["Lin Tong", "relationship 1: friend of x, relationship 2: acquaintance of x"], 
+      ["Shen Cheng", "friend of x, acquaintance of x"]
+    ],
+    "Gu Ming": [
+      ["Gu Qing", "father daughter of x, president employee of x"], 
+      ["Lin Xi", "father of x, deceased of x"], 
+      ["Su Yang", "relationship 1: president of x company and father of x gu yu, relationship 2: victim of x murder"], 
+      ["Gu Yu", "father of x, murder victim of x"], 
+      ["Lin Yang", "father of x lin xi"], 
+      ["Lin Weiren", "employer of x"], 
+      ["Lin Tong", "friend of x"], 
+      ["Shen Cheng", "employer of x, master of x"]
+    ],
+    "Lin Weiren": [
+      ["Gu Qing", "friend of x, acquaintance of x"], 
+      ["Lin Xi", "father of x, superior of x"], 
+      ["Su Yang", "relationship 1: father of x lin xi, relationship 2: superior of x su yang"], 
+      ["Gu Yu", "father in law of x, victim of x murder"], 
+      ["Lin Yang", "lin xi, gu qing of x, su yang of x"], 
+      ["Gu Ming", "superior of x"], 
+      ["Lin Tong", "same person as x (different identity)"], 
+      ["Shen Cheng", "father of x, employer of x"]
+    ],
+    "Lin Tong": [
+      ["Gu Qing", "friend of x, acquaintance of x"], 
+      ["Lin Xi", "friend of x, acquaintance of x"], 
+      ["Su Yang", "rival of x, adversary of x, enemy of x"], 
+      ["Gu Yu", "friend of x, acquaintance of x"], 
+      ["Lin Yang", "relationship 1: friend of x, relationship 2: acquaintance of x"], 
+      ["Gu Ming", "friend of x"], 
+      ["Lin Weiren", "same person as x (different identity)"], 
+      ["Shen Cheng", "acquaintance of x"]
+    ],
+    "Shen Cheng": [
+      ["Gu Qing", "acquaintance of x, classmate of x"], 
+      ["Lin Xi", "friend of x, colleague of x"], 
+      ["Su Yang", "acquaintance of x, suspect of x"], 
+      ["Gu Yu", "friend of x, acquaintance of x"], 
+      ["Lin Yang", "friend of x, acquaintance of x"], 
+      ["Gu Ming", "employee of x, servant of x"], 
+      ["Lin Weiren", "father of x, employer of x"], 
+      ["Lin Tong", "acquaintance of x"]
+    ]
+}

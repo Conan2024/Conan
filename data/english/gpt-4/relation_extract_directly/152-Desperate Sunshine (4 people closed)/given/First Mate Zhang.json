@@ -1,0 +1,112 @@
+{
+    "First Mate Zhang": [
+        [
+            "Naive Hen",
+            "sibling of x, younger brother of x"
+        ],
+        [
+            "Boss Yang",
+            "colleague of x, business partner of x, victim of x, murdered by x"
+        ],
+        [
+            "Secretary Wen",
+            "acquaintance of x, colleague of x"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "employee of x, helper of x, quest companion of x, manipulated by x"
+        ],
+        [
+            "Ship Doctor Ling",
+            "acquaintance of x, informant of x, manipulator of x"
+        ],
+        [
+            "Worker Wang",
+            "subordinate of x, son of x's accomplice"
+        ]
+    ],
+    "Naive Hen": [
+        [
+            "First Mate Zhang",
+            "sibling of x, older brother of x"
+        ],
+        [
+            "Boss Yang",
+            "employer of x, admired by x"
+        ],
+        [
+            "Worker Wang",
+            "acquaintance of x"
+        ]
+    ],
+    "Boss Yang": [
+        [
+            "First Mate Zhang",
+            "colleague of x, business partner of x, perpetrator of x's family"
+        ],
+        [
+            "Naive Hen",
+            "employee of x, admirer of x"
+        ],
+        [
+            "Secretary Wen",
+            "subordinate of x, trusted by x"
+        ],
+        [
+            "Ship Doctor Ling",
+            "subordinate of x"
+        ]
+    ],
+    "Secretary Wen": [
+        [
+            "Boss Yang",
+            "superior of x, employer of x"
+        ],
+        [
+            "First Mate Zhang",
+            "acquaintance of x, colleague of x"
+        ]
+    ],
+    "Shipyard Worker Wang": [
+        [
+            "First Mate Zhang",
+            "employer of x, manipulated by x, quest companion of x"
+        ],
+        [
+            "Worker Wang",
+            "father of x"
+        ],
+        [
+            "Ship Doctor Ling",
+            "subject of investigation for x, acquaintance of x"
+        ]
+    ],
+    "Ship Doctor Ling": [
+        [
+            "First Mate Zhang",
+            "manipulator of x, service provider of x"
+        ],
+        [
+            "Worker Wang",
+            "romantic relationships with x, informant of x"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "information receiver from x, acquaintance of x"
+        ]
+    ],
+    "Worker Wang": [
+        [
+            "Ship Doctor Ling",
+            "romantic relationships with x, deceived by x"
+        ],
+        [
+            "First Mate Zhang",
+            "superior of x, son of x's accomplice"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "son of x"
+        ]
+    ]
+}

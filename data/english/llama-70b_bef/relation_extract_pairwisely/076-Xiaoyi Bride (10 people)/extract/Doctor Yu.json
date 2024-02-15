@@ -1,0 +1,71 @@
+{
+    "Yu Junhong": [
+      ["Yu Beichen", "son of x"], 
+      ["Ren Zhongyuan", "grandson of x"], 
+      ["Meng Shen", "friend of x, acquaintance of x"], 
+      ["Yao Zhongyi", "friend of x, classmate of x"], 
+      ["Yao Changshou", "friend of x, acquaintance of x"], 
+      ["Lady Hong", "acquaintance of x, colleague of x"], 
+      ["XU BOQING", "friend of x, colleague of x"]
+    ],
+    "Yu Beichen": [
+      ["Yu Junhong", "father of x, colleague of x"], 
+      ["Ren Zhongyuan", "acquaintance of x"], 
+      ["Meng Shen", "friend of x, acquaintance of x"], 
+      ["Yao Zhongyi", "friend of x, classmate of x"], 
+      ["Yao Changshou", "father in law of x, employer of x"], 
+      ["Lady Hong", "acquaintance of x, patient of x, employer of x, customer of x"], 
+      ["XU BOQING", "friend of x, colleague of x"]
+    ],
+    "Ren Zhongyuan": [
+      ["Yu Junhong", "grandfather of x, master of x"], 
+      ["Yu Beichen", "acquaintance of x"], 
+      ["Meng Shen", "father in law of x, employer of x"], 
+      ["Yao Zhongyi", "friend of x, classmate of x"], 
+      ["Yao Changshou", "father in law of x, employer of x"], 
+      ["Lady Hong", "husband of x, guest of x"], 
+      ["XU BOQING", "son in law of x"]
+    ],
+    "Meng Shen": [
+      ["Yu Junhong", "friend of x, acquaintance of x"], 
+      ["Yu Beichen", "friend of x, acquaintance of x"], 
+      ["Ren Zhongyuan", "father in law of x, employer of x"], 
+      ["Yao Zhongyi", "friend of x, mentor of x"], 
+      ["Yao Changshou", "friend of x, colleague of x"], 
+      ["Lady Hong", "friend of x, colleague of x"], 
+      ["XU BOQING", "friend of x, acquaintance of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Yu Junhong", "friend of x, classmate of x"], 
+      ["Yu Beichen", "friend of x, classmate of x"], 
+      ["Ren Zhongyuan", "friend of x, classmate of x"], 
+      ["Meng Shen", "friend of x, mentor of x"], 
+      ["Yao Changshou", "son of x"], 
+      ["Lady Hong", "friend of x, acquaintance of x"], 
+      ["XU BOQING", "friend of x, classmate of x"]
+    ],
+    "Yao Changshou": [
+      ["Yu Junhong", "friend of x, acquaintance of x"], 
+      ["Yu Beichen", "son in law of x, employee of x"], 
+      ["Ren Zhongyuan", "son in law of x, employee of x"], 
+      ["Meng Shen", "friend of x, colleague of x"], 
+      ["Yao Zhongyi", "father of x"], 
+      ["Lady Hong", "employer of x, master of x"]
+    ],
+    "Lady Hong": [
+      ["Yu Junhong", "acquaintance of x, colleague of x"], 
+      ["Yu Beichen", "acquaintance of x, employer of x, customer of x"], 
+      ["Ren Zhongyuan", "wife of x, employer of x"], 
+      ["Meng Shen", "friend of x, colleague of x"], 
+      ["Yao Zhongyi", "friend of x, acquaintance of x"], 
+      ["Yao Changshou", "employee of x, servant of x"], 
+      ["XU BOQING", "employer of x, customer of x"]
+    ],
+    "XU BOQING": [
+      ["Yu Junhong", "friend of x, colleague of x"], 
+      ["Yu Beichen", "friend of x, colleague of x"], 
+      ["Ren Zhongyuan", "son in law of x"], 
+      ["Meng Shen", "friend of x, acquaintance of x"], 
+      ["Yao Zhongyi", "friend of x, classmate of x"]
+    ]
+}

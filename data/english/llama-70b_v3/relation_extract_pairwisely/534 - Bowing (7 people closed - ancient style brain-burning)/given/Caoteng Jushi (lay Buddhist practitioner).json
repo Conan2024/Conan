@@ -1,0 +1,45 @@
+{
+    "Caoteng Jushi (lay Buddhist practitioner)": [
+      ["Chen Qian", "daughter of x, sister of x, friend of x"], 
+      ["Chen Zijing", "friend of x, colleague of x"], 
+      ["Daughter of Fang Ye", "daughter of x, sister in law of x"], 
+      ["Xiao Qian", "daughter of x"]
+    ],
+    "Chen Qian": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "adoptive mother of x, sister of x, friend of x"], 
+      ["Daughter of Fang Ye", "daughter of x, sister of x, friend of x"], 
+      ["Er Yisi Bada", "friend of x, business partner of x"], 
+      ["Fang Zhu", "friend of x, adoptive father of x, master of x, lover of x"]
+    ],
+    "Chen Zijing": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "friend of x, colleague of x"], 
+      ["Daughter of Fang Ye", "daughter of x, sister of x"], 
+      ["Er Yisi Bada", "friend of x, business partner of x"], 
+      ["Fang Zhu", "friend of x, lover of x"], 
+      ["Xiao Qian", "mentor of x"]
+    ],
+    "Daughter of Fang Ye": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "sister in law of x"], 
+      ["Chen Qian", "daughter of x, sister of x, friend of x"], 
+      ["Chen Zijing", "adoptive father of x, sister of x"], 
+      ["Er Yisi Bada", "daughter of x, sister in law of x"], 
+      ["Fang Zhu", "daughter of x, step daughter of x"], 
+      ["Xiao Qian", "daughter of x"]
+    ],
+    "Er Yisi Bada": [
+      ["Chen Qian", "friend of x, business partner of x"], 
+      ["Chen Zijing", "friend of x, business partner of x"], 
+      ["Daughter of Fang Ye", "adoptive father of x, brother in law of x"], 
+      ["Fang Zhu", "friend of x, lover of x"]
+    ],
+    "Fang Zhu": [
+      ["Chen Qian", "friend of x, adoptive son of x, rival of x, enemy of x"], 
+      ["Chen Zijing", "friend of x, lover of x"], 
+      ["Daughter of Fang Ye", "adoptive father of x, step father of x"], 
+      ["Er Yisi Bada", "friend of x, lover of x"]
+    ],
+    "Xiao Qian": [
+      ["Daughter of Fang Ye", "daughter of x"], 
+      ["Fang Zhu", "mentor of x"]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "Zhao Luoyi": [
+      ["Zhao Qiuer", "adoptive mother of x"], 
+      ["Zhao Wanlei", "daughter of x, employer of x"], 
+      ["Feng Shuangji", "employer of x, superior of x"], 
+      ["Feng Zhu", "employer of x, superior of x"], 
+      ["Qi Yue", "employee of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Zhao Luoyi", "father of x, master of x"], 
+      ["Zhao Qiuer", "adopted father of x"], 
+      ["Feng Shuangji", "employee of x, debtor of x, superior of x"], 
+      ["Feng Zhu", "debtor of x, superior of x"], 
+      ["Qi Yue", "employee of x, superior of x"]
+    ],
+    "Zhao Qiuer": [
+      ["Zhao Luoyi", "adopted daughter of x"], 
+      ["Zhao Wanlei", "adoptive mother of x"], 
+      ["Feng Shuangji", "employee of x, subordinate of x"], 
+      ["Feng Zhu", "employee of x, subordinate of x"], 
+      ["Qi Yue", "subject of x investigation for, manipulated by of x"]
+    ],
+    "Feng Shuangji": [
+      ["Zhao Luoyi", "employee of x, subordinate of x"], 
+      ["Zhao Wanlei", "employee of x, subordinate of x"], 
+      ["Zhao Qiuer", "employer of x, superior of x"], 
+      ["Feng Zhu", "colleague of x"], 
+      ["Qi Yue", "subordinate of x"]
+    ],
+    "Feng Zhu": [
+      ["Zhao Luoyi", "employee of x, subordinate of x"], 
+      ["Zhao Wanlei", "employee of x, subordinate of x"], 
+      ["Zhao Qiuer", "employer of x, superior of x"], 
+      ["Feng Shuangji", "colleague of x"], 
+      ["Qi Yue", "subordinate of x"]
+    ],
+    "Qi Yue": [
+      ["Zhao Luoyi", "superior of x"], 
+      ["Zhao Wanlei", "superior of x"], 
+      ["Zhao Qiuer", "manipulator of x"], 
+      ["Feng Shuangji", "superior of x"], 
+      ["Feng Zhu", "subordinate of x"]
+    ]
+}

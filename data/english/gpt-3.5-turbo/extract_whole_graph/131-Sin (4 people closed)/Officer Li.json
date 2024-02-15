@@ -1,0 +1,64 @@
+{
+    "Officer Li": [
+        [
+            "Superior",
+            "received order from, authority over"
+        ],
+        [
+            "Chief Wang",
+            "informant of, informant of"
+        ],
+        [
+            "Girlfriend",
+            "romantic relationships with, concern of"
+        ],
+        [
+            "Hu Investigate",
+            "acquaintance of, suspicious of"
+        ],
+        [
+            "Zhao Cishan",
+            "adversary of, victim of"
+        ],
+        [
+            "Murderer",
+            "subject of investigation for"
+        ]
+    ],
+    "Superior": [
+        [
+            "Officer Li",
+            "authority over, employer of"
+        ]
+    ],
+    "Chief Wang": [
+        [
+            "Officer Li",
+            "informant of, informant of"
+        ]
+    ],
+    "Girlfriend": [
+        [
+            "Officer Li",
+            "romantic relationships with, concern of"
+        ]
+    ],
+    "Hu Investigate": [
+        [
+            "Officer Li",
+            "acquaintance of, suspicious of"
+        ]
+    ],
+    "Zhao Cishan": [
+        [
+            "Officer Li",
+            "adversary of, perpetrator of"
+        ]
+    ],
+    "Murderer": [
+        [
+            "Officer Li",
+            "subject of investigation for"
+        ]
+    ]
+}

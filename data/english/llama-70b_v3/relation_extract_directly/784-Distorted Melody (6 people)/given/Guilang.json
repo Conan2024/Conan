@@ -1,0 +1,53 @@
+{
+    "Ruan Guilang": [
+      ["Hei Li", "sibling of x, friend of x"], 
+      ["Xue Yan", "sibling of x, friend of x"], 
+      ["Luo Xiucai", "mentor of x, teacher of x, friend of x"], 
+      ["Qi Gufei", "friend of x, classmate of x"], 
+      ["Wang Zimo", "friend of x, classmate of x"], 
+      ["Zhaonan", "sister of x, friend of x"]
+    ],
+    "Hei Li": [
+      ["Ruan Guilang", "sibling of x, friend of x"], 
+      ["Xue Yan", "sibling of x, friend of x"], 
+      ["Luo Younuo", "brother of x, friend of x"], 
+      ["Qi Gufei", "friend of x, classmate of x"], 
+      ["Wang Zimo", "friend of x, classmate of x"]
+    ],
+    "Xue Yan": [
+      ["Ruan Guilang", "sibling of x, friend of x"], 
+      ["Hei Li", "sibling of x, friend of x"], 
+      ["Luo Younuo", "brother of x, friend of x"], 
+      ["Qi Gufei", "friend of x, classmate of x"], 
+      ["Wang Zimo", "friend of x, classmate of x"]
+    ],
+    "Luo Xiucai": [
+      ["Ruan Guilang", "mentor of x, teacher of x, friend of x"], 
+      ["Hei Li", "sibling of x, friend of x"], 
+      ["Xue Yan", "sibling of x, friend of x"], 
+      ["Luo Younuo", "son of x, friend of x"]
+    ],
+    "Luo Younuo": [
+      ["Ruan Guilang", "mentor of x, teacher of x, friend of x"], 
+      ["Hei Li", "sibling of x, friend of x"], 
+      ["Xue Yan", "sibling of x, friend of x"], 
+      ["Qi Gufei", "friend of x, classmate of x"]
+    ],
+    "Qi Gufei": [
+      ["Ruan Guilang", "friend of x, classmate of x"], 
+      ["Hei Li", "friend of x, classmate of x"], 
+      ["Xue Yan", "friend of x, classmate of x"], 
+      ["Luo Younuo", "friend of x, classmate of x"]
+    ],
+    "Wang Zimo": [
+      ["Ruan Guilang", "friend of x, classmate of x"], 
+      ["Hei Li", "friend of x, classmate of x"], 
+      ["Xue Yan", "friend of x, classmate of x"], 
+      ["Luo Younuo", "friend of x, classmate of x"]
+    ],
+    "Zhaonan": [
+      ["Ruan Guilang", "sister of x, friend of x"], 
+      ["Hei Li", "sibling of x, friend of x"], 
+      ["Xue Yan", "sibling of x, friend of x"]
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "Hong Jiangshui": [
+        [
+            "Hong Zhaizhu",
+            "same person as x (different reference)"
+        ],
+        [
+            "Meng Sanchun",
+            "friend of x"
+        ],
+        [
+            "Zhang Jinyin",
+            "friend of x"
+        ],
+        [
+            "Zhang Hongsheng",
+            "friend of x"
+        ],
+        [
+            "Cai Siniang",
+            "acquaintance of x"
+        ]
+    ],
+    "Hong Zhaizhu": [
+        [
+            "Hong Jiangshui",
+            "same person as x (different identity)"
+        ]
+    ],
+    "Meng Sanchun": [
+        [
+            "Hong Jiangshui",
+            "friend of x"
+        ],
+        [
+            "Zhang Jinyin",
+            "friend of x"
+        ],
+        [
+            "Zhang Hongsheng",
+            "friend of x"
+        ]
+    ],
+    "Zhang Jinyin": [
+        [
+            "Hong Jiangshui",
+            "friend of x"
+        ],
+        [
+            "Meng Sanchun",
+            "friend of x"
+        ],
+        [
+            "Zhang Hongsheng",
+            "friend of x"
+        ]
+    ],
+    "Zhang Hongsheng": [
+        [
+            "Hong Jiangshui",
+            "friend of x"
+        ],
+        [
+            "Meng Sanchun",
+            "friend of x"
+        ],
+        [
+            "Zhang Jinyin",
+            "friend of x"
+        ]
+    ],
+    "Cai Siniang": [
+        [
+            "Hong Jiangshui",
+            "acquaintance of x"
+        ]
+    ]
+}

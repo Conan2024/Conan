@@ -1,0 +1,323 @@
+{
+    "Fang Minyue": [
+        [
+            "Fang Chengshan",
+            "father of x"
+        ],
+        [
+            "Master Meng",
+            "informant of x",
+            "information receiver from x"
+        ],
+        [
+            "Steward Du",
+            "helper of x"
+        ],
+        [
+            "Yao Changshou",
+            "helper of x"
+        ],
+        [
+            "Yao Mengren",
+            "mentored by x"
+        ],
+        [
+            "Yao Zhongyi",
+            "fiance of x"
+        ],
+        [
+            "Zhang Yadi",
+            "friend of x",
+            "admired by x"
+        ],
+        [
+            "Zhang Decai",
+            "romantic relationship with x"
+        ]
+    ],
+    "Fang Chengshan": [
+        [
+            "Fang Minyue",
+            "child of x"
+        ],
+        [
+            "Master Meng",
+            "father of x"
+        ],
+        [
+            "Steward Du",
+            "father of x"
+        ],
+        [
+            "Yao Changshou",
+            "father of x"
+        ],
+        [
+            "Yao Mengren",
+            "father of x"
+        ],
+        [
+            "Yao Zhongyi",
+            "child of x"
+        ],
+        [
+            "Zhang Yadi",
+            "friend of x"
+        ],
+        [
+            "Zhang Decai",
+            "fiance of x"
+        ]
+    ],
+    "Master Meng": [
+        [
+            "Fang Minyue",
+            "secret lover of x"
+        ],
+        [
+            "Fang Chengshan",
+            "colleague of x",
+            "missing person"
+        ],
+        [
+            "Steward Du",
+            "helper of x"
+        ],
+        [
+            "Yao Changshou",
+            "relative of x"
+        ],
+        [
+            "Yao Mengren",
+            "friend of x"
+        ],
+        [
+            "Yao Zhongyi",
+            "employer of x"
+        ],
+        [
+            "Zhang Yadi",
+            "possible family of x"
+        ],
+        [
+            "Zhang Decai",
+            "possible romantic relationships with x"
+        ]
+    ],
+    "Steward Du": [
+        [
+            "Fang Minyue",
+            "assistant of x"
+        ],
+        [
+            "Fang Chengshan",
+            "mentor of x"
+        ],
+        [
+            "Master Meng",
+            "employer of x"
+        ],
+        [
+            "Yao Changshou",
+            "romantic relationships with x"
+        ],
+        [
+            "Yao Mengren",
+            "mentor of x"
+        ],
+        [
+            "Yao Zhongyi",
+            "father of x"
+        ],
+        [
+            "Zhang Yadi",
+            "friend of x",
+            "possibly family of x"
+        ],
+        [
+            "Zhang Decai",
+            "informant of x",
+            "friend of x"
+        ]
+    ],
+    "Yao Changshou": [
+        [
+            "Fang Minyue",
+            "helper of x",
+            "suspected by x"
+        ],
+        [
+            "Fang Chengshan",
+            "colleague of x"
+        ],
+        [
+            "Master Meng",
+            "colleague of x"
+        ],
+        [
+            "Steward Du",
+            "romantic relationships with x"
+        ],
+        [
+            "Yao Mengren",
+            "father of x"
+        ],
+        [
+            "Yao Zhongyi",
+            "father of Yao Zhongyi"
+        ],
+        [
+            "relative of Zhang Yadi",
+            "acquaintance of Zhang Yadi"
+        ],
+        [
+            "Zhang Decai",
+            "romantic relationships with"
+        ]
+    ],
+    "Yao Mengren": [
+        [
+            "Fang Minyue",
+            "student of x"
+        ],
+        [
+            "Fang Chengshan",
+            "child of x"
+        ],
+        [
+            "Master Meng",
+            "friend of x"
+        ],
+        [
+            "Steward Du",
+            "student of x"
+        ],
+        [
+            "Yao Changshou",
+            "child of x"
+        ],
+        [
+            "Yao Zhongyi",
+            "mentor of x",
+            "student of x"
+        ],
+        [
+            "Zhang Yadi",
+            "romantic relationships with x"
+        ],
+        [
+            "Zhang Decai",
+            "romantic relationships with x"
+        ]
+    ],
+    "Yao Zhongyi": [
+        [
+            "Fang Minyue",
+            "fiancee of x"
+        ],
+        [
+            "Fang Chengshan",
+            "father of x"
+        ],
+        [
+            "Master Meng",
+            "employee of x"
+        ],
+        [
+            "Steward Du",
+            "child of x"
+        ],
+        [
+            "Yao Changshou",
+            "son of Yao Changshou"
+        ],
+        [
+            "Yao Mengren",
+            "student of x",
+            "mentor of x"
+        ],
+        [
+            "Zhang Yadi",
+            "romantic relationships with x",
+            "possibly family of x"
+        ],
+        [
+            "Zhang Decai",
+            "romantic relationships with x",
+            "friend of x"
+        ]
+    ],
+    "Zhang Yadi": [
+        [
+            "Fang Minyue",
+            "friend of x",
+            "admired by x"
+        ],
+        [
+            "Fang Chengshan",
+            "friend of x"
+        ],
+        [
+            "Master Meng",
+            "possible family of x"
+        ],
+        [
+            "Steward Du",
+            "friend of x",
+            "possibly family of x"
+        ],
+        [
+            "relative of Yao Changshou",
+            "acquaintance of Yao Changshou"
+        ],
+        [
+            "Yao Mengren",
+            "romantic relationships with x"
+        ],
+        [
+            "Yao Zhongyi",
+            "romantic relationships with x",
+            "possibly family of x"
+        ],
+        [
+            "Zhang Decai",
+            "ex-romantic relationships with x"
+        ]
+    ],
+    "Zhang Decai": [
+        [
+            "Fang Minyue",
+            "romantic relationship with x"
+        ],
+        [
+            "Fang Chengshan",
+            "fiancee of x"
+        ],
+        [
+            "Master Meng",
+            "possible romantic relationships with x"
+        ],
+        [
+            "Steward Du",
+            "informant of x",
+            "friend of x"
+        ],
+        [
+            "Yao Changshou",
+            "romantic relationships with"
+        ],
+        [
+            "Yao Mengren",
+            "romantic relationships with x"
+        ],
+        [
+            "Yao Zhongyi",
+            "romantic relationships with x",
+            "friend of x"
+        ],
+        [
+            "Zhang Yadi",
+            "ex-romantic relationships with x"
+        ]
+    ]
+}

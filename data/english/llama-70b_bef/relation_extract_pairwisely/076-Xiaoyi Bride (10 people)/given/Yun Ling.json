@@ -1,0 +1,86 @@
+{
+    "Lady Hong": [
+      ["Liao Yiqiao", "mother of x"], 
+      ["Physician Yu", "acquaintance of x"], 
+      ["Ren Zhongyuan", "employer of x, master of x"], 
+      ["Tang Maoguang", "employer of x, master of x"], 
+      ["Tang Wanfeng", "friend of x, acquaintance of x"], 
+      ["Xu Boqing", "friend of x"], 
+      ["Yao Zhongyi", "wife of x, sister in law of x"], 
+      ["Yun Ling", "acquaintance of x, colleague of x"]
+    ],
+    "Liao Yiqiao": [
+      ["Lady Hong", "father of x"], 
+      ["Physician Yu", "friend of x, colleague of x"], 
+      ["Tang Wanfeng", "acquaintance of x"], 
+      ["Xu Boqing", "friend of x, mentor of x"], 
+      ["Yao Zhongyi", "friend of x"], 
+      ["Yun Ling", "father of x"]
+    ],
+    "Physician Yu": [
+      ["Lady Hong", "acquaintance of x, helper of x"], 
+      ["Liao Yiqiao", "friend of x, colleague of x"], 
+      ["Ren Zhongyuan", "employee of x, master of x"], 
+      ["Tang Maoguang", "friend of x, mentor of x"], 
+      ["Tang Wanfeng", "friend of x, colleague of x"], 
+      ["Xu Boqing", "friend of x, colleague of x"], 
+      ["Yao Zhongyi", "friend of x"], 
+      ["Yun Ling", "friend of x, colleague of x"]
+    ],
+    "Ren Zhongyuan": [
+      ["Lady Hong", "employee of x, subordinate of x"], 
+      ["Physician Yu", "employer of x, superior of x"], 
+      ["Tang Maoguang", "friend of x, acquaintance of x"], 
+      ["Xu Boqing", "friend of x, mentor of x"], 
+      ["Yao Zhongyi", "grandfather of x, grandson of x"], 
+      ["Yun Ling", "grandfather of x"]
+    ],
+    "Tang Maoguang": [
+      ["Lady Hong", "employee of x, servant of x"], 
+      ["Physician Yu", "friend of x, mentor of x"], 
+      ["Ren Zhongyuan", "friend of x, acquaintance of x"], 
+      ["Tang Wanfeng", "acquaintance of x"], 
+      ["Xu Boqing", "friend of x, mentor of x"], 
+      ["Yao Zhongyi", "acquaintance of x, suspicious of x, helper of x"], 
+      ["Yun Ling", "friend of x, mentor of x"]
+    ],
+    "Tang Wanfeng": [
+      ["Lady Hong", "friend of x, acquaintance of x"], 
+      ["Liao Yiqiao", "acquaintance of x"], 
+      ["Physician Yu", "friend of x, colleague of x"], 
+      ["Tang Maoguang", "acquaintance of x"], 
+      ["Xu Boqing", "friend of x, mentor of x"], 
+      ["Yao Zhongyi", "acquaintance of x, helper of x, suspicious of x, friend of x"], 
+      ["Yun Ling", "friend of x, mentor of x"]
+    ],
+    "Xu Boqing": [
+      ["Lady Hong", "friend of x"], 
+      ["Liao Yiqiao", "friend of x"], 
+      ["Physician Yu", "friend of x, colleague of x"], 
+      ["Ren Zhongyuan", "lover of x, perpetrator of x"], 
+      ["Tang Maoguang", "friend of x"], 
+      ["Tang Wanfeng", "friend of x"], 
+      ["Yao Zhongyi", "friend of x"], 
+      ["Yun Ling", "friend of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Lady Hong", "husband of x, brother in law of x"], 
+      ["Liao Yiqiao", "friend of x"], 
+      ["Physician Yu", "friend of x"], 
+      ["Ren Zhongyuan", "grandson of x, nephew of x"], 
+      ["Tang Maoguang", "acquaintance of x, suspicious of x, patient of x"], 
+      ["Tang Wanfeng", "acquaintance of x, helper of x, suspicious of x, friend of x"], 
+      ["Xu Boqing", "friend of x"], 
+      ["Yun Ling", "acquaintance of x, helper of x"]
+    ],
+    "Yun Ling": [
+      ["Lady Hong", "acquaintance of x, colleague of x"], 
+      ["Liao Yiqiao", "daughter of x"], 
+      ["Physician Yu", "friend of x, colleague of x"], 
+      ["Ren Zhongyuan", "granddaughter of x"], 
+      ["Tang Maoguang", "friend of x"], 
+      ["Tang Wanfeng", "friend of x"], 
+      ["Xu Boqing", "friend of x"], 
+      ["Yao Zhongyi", "acquaintance of x"]
+    ]
+}

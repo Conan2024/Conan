@@ -1,0 +1,72 @@
+{
+    "Zhang Wenyuan": [
+      ["Liu Qi", "subordinate of x, adversary of x, enemy of x"], 
+      ["Hong Zilian", "subordinate of x, dissatisfied with x's promotion of x schoolmate, investigating error in x's work, wrote report to captain about x's mistake"], 
+      ["Han Yimu", "colleague of x, friend of x"], 
+      ["Xiu Renjie", "superior of x, employer of x"], 
+      ["Lin Ruotong", "colleague of x, adversary of x"], 
+      ["Yang Chenlin", "friend of x, mentor of x"], 
+      ["VVIP", "subordinate of x, acquaintance of x"]
+    ],
+    "Liu Qi": [
+      ["Zhang Wenyuan", "direct leader of x, arrogant to x, targeted at x"], 
+      ["Hong Zilian", "superior of x, disliked by x"], 
+      ["Han Yimu", "subordinate of x, rival of x"], 
+      ["Xiu Renjie", "superior of x, adversary of x"], 
+      ["Lin Ruotong", "rival of x, enemy of x"], 
+      ["Yang Chenlin", "superior of x, dislike of x"], 
+      ["VVIP", "superior of x, bully of x"]
+    ],
+    "Hong Zilian": [
+      ["Zhang Wenyuan", "direct leader of x, promoted schoolmate li qi of x, dissatisfied with x's investigation of x his work, targeted by x everywhere"], 
+      ["Liu Qi", "subordinate of x, dissatisfied with x"], 
+      ["Han Yimu", "superior of x, disliked by x"], 
+      ["Xiu Renjie", "superior of x, employer of x"], 
+      ["Lin Ruotong", "superior of x, disliked by x"], 
+      ["Yang Chenlin", "respect of x, mentorship of x"], 
+      ["VVIP", "superior of x, employer of x"]
+    ],
+    "Han Yimu": [
+      ["Zhang Wenyuan", "colleague of x, friend of x"], 
+      ["Liu Qi", "superior of x, acquaintance of x"], 
+      ["Hong Zilian", "subordinate of x, dissatisfied with x's promotion"], 
+      ["Xiu Renjie", "acquaintance of x, colleague of x"], 
+      ["Yang Chenlin", "friend of x, mentor of x"], 
+      ["VVIP", "superior of x, employer of x"]
+    ],
+    "Xiu Renjie": [
+      ["Zhang Wenyuan", "subordinate of x, employee of x"], 
+      ["Liu Qi", "subordinate of x, rival of x"], 
+      ["Hong Zilian", "subordinate of x, employee of x"], 
+      ["Han Yimu", "acquaintance of x, colleague of x"], 
+      ["Lin Ruotong", "superior of x, employer of x"], 
+      ["Yang Chenlin", "superior of x, employer of x"], 
+      ["VVIP", "superior of x, employer of x"]
+    ],
+    "Lin Ruotong": [
+      ["Zhang Wenyuan", "colleague of x, adversary of x"], 
+      ["Liu Qi", "rival of x, enemy of x"], 
+      ["Hong Zilian", "subordinate of x, dislike of x"], 
+      ["Xiu Renjie", "subordinate of x, employee of x"], 
+      ["Yang Chenlin", "respectful/admirer of x, father like figure of x"], 
+      ["VVIP", "ex romantic relationships with x"]
+    ],
+    "Yang Chenlin": [
+      ["Zhang Wenyuan", "friend of x, mentor of x"], 
+      ["Liu Qi", "subordinate of x, respected by x"], 
+      ["Hong Zilian", "respect of x, mentorship of x"], 
+      ["Han Yimu", "friend of x, mentor of x"], 
+      ["Xiu Renjie", "subordinate of x, employee of x"], 
+      ["Lin Ruotong", "respectful/admirer of x, mentor/second father of x"], 
+      ["VVIP", "superior of x"]
+    ],
+    "VVIP": [
+      ["Zhang Wenyuan", "customer of x, acquaintance of x"], 
+      ["Liu Qi", "subordinate of x, dislike of x"], 
+      ["Hong Zilian", "subordinate of x, employee of x"], 
+      ["Han Yimu", "superior of x, employer of x"], 
+      ["Xiu Renjie", "subordinate of x, employee of x"], 
+      ["Lin Ruotong", "ex romantic relationships with x"], 
+      ["Yang Chenlin", "subordinate of x"]
+    ]
+}

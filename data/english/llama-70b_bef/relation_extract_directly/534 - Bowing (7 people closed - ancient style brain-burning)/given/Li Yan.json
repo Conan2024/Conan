@@ -1,0 +1,24 @@
+{
+    "Li Yan": [
+      ["Chen Qian", "same person as x (different reference)"], 
+      ["Chen Zijing", "same person as x (different identity)"]
+    ],
+    "Chen Qian": [
+      ["Chen Zijing", "sister of x"]
+    ],
+    "Chen Zijing": [
+      ["Li Yan", "same person as x (different reference)"], 
+      ["Chen Qian", "sister of x"]
+    ],
+    "Li Wangye (Lord Li)": [
+      ["Li Yan", "father of x"], 
+      ["Chen Qian", "brother of x"]
+    ],
+    "Li Fu": [
+      ["Li Wangye (Lord Li)", "son of x"], 
+      ["Chen Qian", "brother of x"]
+    ],
+    "Li Zhong": [
+      ["Chen Qian", "sister of x"]
+    ]
+}

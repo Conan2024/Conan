@@ -1,0 +1,49 @@
+{
+    "Hai You": [
+      ["Wei Yangfeng", "mother of x"], 
+      ["Zhou Shi", "mother of x"], 
+      ["Wei Yangyao", "cousin of x"], 
+      ["Lv Caiqian", "cousin of x"], 
+      ["Mrs. Tan", "mentor of x"], 
+      ["Shang Zhi", "brother of x"], 
+      ["Lv Mingran", "cousin of x"], 
+      ["Cheng Ge", "son of x, fondness of x"]
+    ],
+    "Luo Mingsha": [
+      ["Mrs. Tan", "same person as x (different reference)"]
+    ],
+    "Woman": [
+      ["Cheng Ge", "mother of x"]
+    ],
+    "Wei Yangfeng": [
+      ["Hai You", "child of x"]
+    ],
+    "Zhou Shi": [
+      ["Hai You", "child of x"]
+    ],
+    "Lv Caiqian": [
+      ["Hai You", "dislike of x"]
+    ],
+    "Mrs. Tan": [
+      ["Hai You", "mentor of x"], 
+      ["Tan Renchang", "wife of x"]
+    ],
+    "Mrs. Tan (Luo Mingsha)": [
+      ["Hai You", "mentor of x"]
+    ],
+    "Tan Renchang": [
+      ["Hai You", "cousin of x"], 
+      ["Woman", "fiance of x, boyfriend of x"]
+    ],
+    "Shang Zhi": [
+      ["Hai You", "brother of x"], 
+      ["Tan Renchang", "business partner of x"]
+    ],
+    "Lv Mingran": [
+      ["Hai You", "cousin of x"]
+    ],
+    "Cheng Ge": [
+      ["Woman", "son of x, fondness of x"], 
+      ["Tan Renchang", "son of x"]
+    ]
+}

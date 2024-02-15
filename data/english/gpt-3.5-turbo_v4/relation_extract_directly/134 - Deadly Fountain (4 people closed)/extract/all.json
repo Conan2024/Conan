@@ -1,0 +1,40 @@
+{
+    "Mu bei": [
+      ["He Laoliu", "colleague of x"], 
+      ["Li Guofu", "colleague of x"], 
+      ["Li Guofu", "suspect of x"], 
+      ["ZHANG JIE", "friend of x"], 
+      ["ZHANG JIE", "informant of x"], 
+      ["He Laoliu", "informant of x"]
+    ],
+    "Li Guofu": [
+      ["Mu bei", "colleague of x"], 
+      ["ZHANG JIE", "colleague of x"], 
+      ["ZHANG JIE", "disliked by x"], 
+      ["ZHANG JIE", "suspect of x"], 
+      ["He Laoliu", "informant of x"], 
+      ["He Laoliu", "suspect of x"], 
+      ["Police", "victim of x"], 
+      ["Police", "perpetrator of x"]
+    ],
+    "ZHANG JIE": [
+      ["Mu bei", "friend of x"], 
+      ["Mu bei", "informant of x"], 
+      ["Li Guofu", "colleague of x"], 
+      ["Li Guofu", "disliked by x"], 
+      ["Li Guofu", "suspect of x"], 
+      ["He Laoliu", "colleague of x"]
+    ],
+    "He Laoliu": [
+      ["Mu bei", "colleague of x"], 
+      ["Mu bei", "informant of x"], 
+      ["Li Guofu", "informant of x"], 
+      ["Li Guofu", "suspect of x"], 
+      ["Police", "informant of x"], 
+      ["Police", "suspect of x"]
+    ],
+    "Police": [
+      ["Li Guofu", "victim of x"], 
+      ["Li Guofu", "perpetrator of x"]
+    ]
+}

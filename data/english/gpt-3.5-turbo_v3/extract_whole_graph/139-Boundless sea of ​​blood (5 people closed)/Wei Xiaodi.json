@@ -1,0 +1,64 @@
+{
+    "Wei Xiaodi": [
+        [
+            "Father",
+            "father of x, possibly family of x"
+        ],
+        [
+            "Mother",
+            "mother of x, possibly family of x"
+        ],
+        [
+            "Qin Expert",
+            "adversary of x, perpetrator of x"
+        ]
+    ],
+    "Qin Laoda": [
+        [
+            "Wei Xiaodi",
+            "friend of x, followed by of x"
+        ],
+        [
+            "Zheng Youhao",
+            "classmate of x, helped by x"
+        ],
+        [
+            "JIA Meili",
+            "girlfriend of x"
+        ],
+        [
+            "Xiao Tiyu",
+            "teacher of x"
+        ],
+        [
+            "Xue Meiniang",
+            "teacher of x"
+        ]
+    ],
+    "Zheng Youhao": [
+        [
+            "Qin Laoda",
+            "classmate of x, helped by x"
+        ],
+        [
+            "Wei Xiaodi",
+            "disliked by x"
+        ]
+    ],
+    "JIA Meili": [
+        [
+            "Qin Laoda",
+            "friend of x, romantic relationships with x"
+        ],
+        [
+            "Zhuang Qingchun",
+            "friend of x"
+        ]
+    ],
+    "Zhuang Qingchun": [
+        [
+            "Wei Xiaodi",
+            "admirer of x"
+        ]
+    ]
+}

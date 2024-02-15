@@ -1,0 +1,112 @@
+{
+    "Yue Dongwen": [
+      ["Yue Gu", "same person as x (different identity)"], 
+      ["Wu Baian", "classmate of x"], 
+      ["Yue Kesa", "father of x"], 
+      ["Xia Sanhu", "debtor of x"], 
+      ["Xia Zhongpeng", "friend of x"], 
+      ["Xia Shue", "friend of x"], 
+      ["Li Luoming", "friend of x, informant of x"], 
+      ["Aming", "friend of x, helper of x"], 
+      ["Li Zicai", "classmate of x"]
+    ],
+    "Yue Gu": [
+      ["Yue Dongwen", "same person as x (different identity)"], 
+      ["Wu Baian", "friend of x"], 
+      ["Yue Kesa", "father of x"], 
+      ["Xia Sanhu", "debtor of x"], 
+      ["Xia Zhongpeng", "possibly family of x"], 
+      ["Xia Shue", "romantic relationships with x"], 
+      ["Li Luoming", "same person as x (different identity)"], 
+      ["Aming", "same person as x (different reference)"], 
+      ["Li Zicai", "friend of x"]
+    ],
+    "Wu Baian": [
+      ["Yue Dongwen", "business partner of x"], 
+      ["Yue Gu", "friend of x"], 
+      ["Yue Kesa", "friend of x"], 
+      ["Xia Sanhu", "business partner of x"], 
+      ["Xia Zhongpeng", "business partner of x"], 
+      ["Xia Shue", "helper of x"], 
+      ["Li Luoming", "friend of x, business partner of x"], 
+      ["Aming", "friend of x"], 
+      ["Li Zicai", "business partner of x"]
+    ],
+    "Yue Kesa": [
+      ["Yue Dongwen", "son of x"], 
+      ["Yue Gu", "son of x"], 
+      ["Wu Baian", "friend of x"], 
+      ["Xia Sanhu", "fiance of x"], 
+      ["Xia Zhongpeng", "relative of x"], 
+      ["Xia Shue", "son of x"], 
+      ["Li Luoming", "son of x"], 
+      ["Aming", "friend of x"], 
+      ["Li Zicai", "son of x"]
+    ],
+    "Xia Sanhu": [
+      ["Yue Dongwen", "creditor of x"], 
+      ["Yue Gu", "creditor of x"], 
+      ["Wu Baian", "debtor of x"], 
+      ["Yue Kesa", "fiancee of x"], 
+      ["Xia Zhongpeng", "sibling of x"], 
+      ["Xia Shue", "niece of x"], 
+      ["Li Luoming", "student of x, debtor of x"], 
+      ["Aming", "helper of x"], 
+      ["Li Zicai", "classmate of x"]
+    ],
+    "Xia Zhongpeng": [
+      ["Yue Dongwen", "friend of x"], 
+      ["Yue Gu", "possibly family of x"], 
+      ["Wu Baian", "business partner of x"], 
+      ["Yue Kesa", "relative of x"], 
+      ["Xia Sanhu", "sibling of x"], 
+      ["Xia Shue", "niece of x"], 
+      ["Li Luoming", "brother of x"], 
+      ["Aming", "relative of x"], 
+      ["Li Zicai", "sibling of x"]
+    ],
+    "Xia Shue": [
+      ["Yue Dongwen", "friend of x"], 
+      ["Yue Gu", "romantic relationships with x"], 
+      ["Wu Baian", "helper of x"], 
+      ["Yue Kesa", "romantic relationships with x"], 
+      ["Xia Sanhu", "uncle of x"], 
+      ["Xia Zhongpeng", "uncle of x"], 
+      ["Li Luoming", "possibly family of x"], 
+      ["Aming", "guest of x"], 
+      ["Li Zicai", "fondness of x, future relative of x"]
+    ],
+    "Li Luoming": [
+      ["Yue Dongwen", "friend of x, informant of x"], 
+      ["Yue Gu", "same person as x (different identity)"], 
+      ["Wu Baian", "friend of x, business partner of x"], 
+      ["Yue Kesa", "father of x"], 
+      ["Xia Sanhu", "teacher of x, creditor of x"], 
+      ["Xia Zhongpeng", "brother of x"], 
+      ["Xia Shue", "possibly family of x"], 
+      ["Aming", "father of x"], 
+      ["Li Zicai", "classmate of x"]
+    ],
+    "Aming": [
+      ["Yue Dongwen", "friend of x, helped by x"], 
+      ["Yue Gu", "guard of x"], 
+      ["Wu Baian", "friend of x"], 
+      ["Yue Kesa", "acquaintance of x"], 
+      ["Xia Sanhu", "debtor of x"], 
+      ["Xia Zhongpeng", "relative of x"], 
+      ["Xia Shue", "host of x"], 
+      ["Li Luoming", "son of x"], 
+      ["Li Zicai", "child of x"]
+    ],
+    "Li Zicai": [
+      ["Yue Dongwen", "classmate of x"], 
+      ["Yue Gu", "friend of x"], 
+      ["Wu Baian", "business partner of x"], 
+      ["Yue Kesa", "father of x"], 
+      ["Xia Sanhu", "debtor of x"], 
+      ["Xia Zhongpeng", "sibling of x"], 
+      ["Xia Shue", "fondness of x, future relative of x"], 
+      ["Li Luoming", "classmate of x"], 
+      ["Aming", "father of x"]
+    ]
+}

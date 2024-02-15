@@ -1,0 +1,25 @@
+{
+    "Gu Yu": [
+      ["Lin Xi", "good friend of x, past love interest of x"], 
+      ["Chen Jingwen", "girlfriend of x, possibly connected to father's death of x"]
+    ],
+    "Lin Xi": [
+      ["Gu Yu", "good friend of x, past love interest of x"], 
+      ["Su Yang", "fiance of x"]
+    ],
+    "Chen Jingwen": [
+      ["Gu Yu", "girlfriend of x, possibly connected to father's death of x"], 
+      ["Qin Siqin", "mother of x, deceased of x"]
+    ],
+    "Su Yang": [
+      ["Lin Xi", "fiance of x"], 
+      ["Gu Yu", "rival of x, possibly connected to father's death of x"]
+    ],
+    "Qin Siqin": [
+      ["Chen Jingwen", "daughter of x, deceased of x"]
+    ],
+    "Gu Ming": [
+      ["Gu Yu", "father of x"], 
+      ["Qin Siqin", "wife of x, deceased of x"]
+    ]
+}

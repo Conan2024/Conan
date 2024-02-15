@@ -1,0 +1,19 @@
+{
+    "David": [
+      ["Griff", "acquaintance of x"]
+    ],
+    "Gust": [
+      ["Ella", "lover of x"]
+    ],
+    "Rowling": [
+      ["Ella", "friend of x"]
+    ],
+    "Ella": [
+      ["Gust", "lover of x"], 
+      ["Rowling", "friend of x"], 
+      ["David", "friend of x"]
+    ],
+    "Griff": [
+      ["David", "acquaintance of x"]
+    ]
+}

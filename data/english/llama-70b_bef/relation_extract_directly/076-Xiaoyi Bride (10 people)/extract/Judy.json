@@ -1,0 +1,40 @@
+{
+    "Judy": [
+      ["Short-haired Woman", "suspect of x"], 
+      ["Yao Zhongyi", "acquaintance of x"]
+    ],
+    "Short-haired Woman": [
+      ["Judy", "suspect of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Judy", "acquaintance of x"]
+    ],
+    "Fang Minyue": [
+      ["Fang Chengshan", "father of x"]
+    ],
+    "Fang Chengshan": [
+      ["Fang Minyue", "father of x"]
+    ],
+    "Yao Changshou": [
+      ["Lady Hong", "wife of x"], 
+      ["Yao Zhongyi", "son of x"]
+    ],
+    "Lady Hong": [
+      ["Yao Changshou", "husband of x"]
+    ],
+    "White-headed Snake": [
+      ["Judy", "acquaintance of x"]
+    ],
+    "Fan Jinkui": [
+      ["Fang Minyue", "acquaintance of x"]
+    ],
+    "Long-haired Girl": [
+      ["Judy", "suspect of x"]
+    ],
+    "Yao Mengren": [
+      ["Yao Changshou", "son of x"]
+    ],
+    "Zhang Yadi": [
+      ["Yao Zhongyi", "mother of x"]
+    ]
+}

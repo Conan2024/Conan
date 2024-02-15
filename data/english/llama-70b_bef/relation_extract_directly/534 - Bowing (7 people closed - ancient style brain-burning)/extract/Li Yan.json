@@ -1,0 +1,52 @@
+{
+    "Li Yan": [
+      ["Li Qinren", "father of x"], 
+      ["Li Zhong", "brother of x"], 
+      ["Madam Li or Li Family", "mother of x"], 
+      ["Chen Zijing", "sister in law of x"], 
+      ["Li Fu", "uncle of x"], 
+      ["Master Chen", "teacher of x"], 
+      ["Li Wangye ", "friend of x"], 
+      ["Fu Ru", "acquaintance of x"]
+    ],
+    "Li Qinren": [
+      ["Li Yan", "son of x"], 
+      ["Li Zhong", "son of x"], 
+      ["Madam Li or Li Family", "wife of x"]
+    ],
+    "Li Zhong": [
+      ["Li Yan", "brother of x"], 
+      ["Chen Qian", "fiance of x"], 
+      ["Madam Li or Li Family", "mother of x"], 
+      ["Li Fu", "uncle of x"]
+    ],
+    "Madam Li or Li Family": [
+      ["Li Yan", "son of x"], 
+      ["Li Zhong", "son of x"], 
+      ["Li Qinren", "husband of x"]
+    ],
+    "Chen Qian": [
+      ["Li Zhong", "fiance of x"], 
+      ["Chen Zijing", "sister of x"]
+    ],
+    "Chen Zijing": [
+      ["Chen Qian", "sister of x"], 
+      ["Li Yan", "acquaintance of x"]
+    ],
+    "Li Fu": [
+      ["Li Yan", "uncle of x"], 
+      ["Li Qinren", "brother of x"]
+    ],
+    "Master Chen": [
+      ["Li Yan", "teacher of x"], 
+      ["Li Qinren", "friend of x"]
+    ],
+    "Li Wangye ": [
+      ["Li Yan", "friend of x"], 
+      ["Li Qinren", "friend of x"]
+    ],
+    "Fu Ru": [
+      ["Li Yan", "acquaintance of x"], 
+      ["Li Qinren", "acquaintance of x"]
+    ]
+}

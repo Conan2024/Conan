@@ -1,0 +1,319 @@
+{
+    "Big Brother Wang": [
+        [
+            "He Laoliu",
+            "partner in crime",
+            "acquaintance",
+            "suspicious",
+            "rival",
+            "enemy"
+        ],
+        [
+            "Li Guofu",
+            "partners in crime",
+            "mentorship",
+            "protector",
+            "role model",
+            "co-dependent",
+            "friends"
+        ],
+        [
+            "Mu Bei",
+            "teammate",
+            "friend",
+            "romantic interest",
+            "rival",
+            "mentor"
+        ],
+        [
+            "Neighbor Wang",
+            "acquaintance",
+            "co-worker",
+            "suspicious",
+            "enemy",
+            "adversary"
+        ],
+        [
+            "Police",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Zhang Jie",
+            "acquaintance",
+            "suspicious",
+            "adversary",
+            "enemy"
+        ]
+    ],
+    "He Laoliu": [
+        [
+            "Big Brother Wang",
+            "partner in crime",
+            "acquaintance",
+            "suspicious",
+            "rival",
+            "enemy"
+        ],
+        [
+            "Li Guofu",
+            "Co-worker",
+            "Friend",
+            "Acquaintance",
+            "Same person as X "
+        ],
+        [
+            "Mu Bei",
+            "Co-workers",
+            "Friends",
+            "Acquaintances",
+            "Suspicious",
+            "Rival",
+            "Enemies"
+        ],
+        [
+            "Neighbor Wang",
+            "Acquaintance",
+            "Gambling Partner"
+        ],
+        [
+            "Police",
+            "Suspect-Police",
+            "Informant-Police",
+            "Accomplice-Police",
+            "Witness-Police"
+        ],
+        [
+            "Zhang Jie",
+            "partner in crime",
+            "accomplice",
+            "rival in love",
+            "co-worker",
+            "confidant"
+        ]
+    ],
+    "Li Guofu": [
+        [
+            "Big Brother Wang",
+            "partners in crime",
+            "mentorship",
+            "protector",
+            "role model",
+            "co-dependent",
+            "friends"
+        ],
+        [
+            "He Laoliu",
+            "Co-worker",
+            "Friend",
+            "Acquaintance",
+            "Same person as X "
+        ],
+        [
+            "Mu Bei",
+            "Perpetrator of X",
+            "Adversary of X"
+        ],
+        [
+            "Neighbor Wang",
+            "Acquaintance",
+            "Gambling Partner"
+        ],
+        [
+            "Suspect-Police",
+            "Perpetrator-Police",
+            "Informant-Police",
+            "Adversary-Police"
+        ],
+        [
+            "Zhang Jie",
+            "partner in crime",
+            "mentor",
+            "superior",
+            "enemy",
+            "rival",
+            "suspect",
+            "victim",
+            "acquaintance",
+            "colleague"
+        ]
+    ],
+    "Mu Bei": [
+        [
+            "Big Brother Wang",
+            "teammate",
+            "friend",
+            "romantic interest",
+            "rival",
+            "mentee"
+        ],
+        [
+            "He Laoliu",
+            "Co-workers",
+            "Friends",
+            "Acquaintances",
+            "Suspicious",
+            "Rival",
+            "Enemies"
+        ],
+        [
+            "Li Guofu",
+            "Victim of X",
+            "Suspect of X"
+        ],
+        [
+            "Neighbor Wang",
+            "Acquaintance"
+        ],
+        [
+            "Police",
+            "Suspect-Investigator",
+            "Witness-Investigator",
+            "Victim-Rescuer",
+            "Perpetrator-Victim",
+            "Informant-Investigator",
+            "Accomplice-Partner",
+            "Suspect-Accomplice",
+            "Victim-Suspect"
+        ],
+        [
+            "Zhang Jie",
+            "acquaintance",
+            "friend",
+            "confidant",
+            "partner in crime",
+            "ex-romantic relationship",
+            "current romantic relationship",
+            "suspicious"
+        ]
+    ],
+    "Neighbor Wang": [
+        [
+            "Big Brother Wang",
+            "acquaintance",
+            "co-worker",
+            "suspicious",
+            "enemy",
+            "adversary"
+        ],
+        [
+            "He Laoliu",
+            "Acquaintance",
+            "Gambling Partner"
+        ],
+        [
+            "Li Guofu",
+            "Acquaintance",
+            "Gambling Partner"
+        ],
+        [
+            "Mu Bei",
+            "Acquaintance"
+        ],
+        [
+            "Police",
+            "Suspect-Police",
+            "Informant-Police",
+            "Acquaintance-Police",
+            "Victim-Police"
+        ],
+        [
+            "Zhang Jie",
+            "acquaintance",
+            "suspicious",
+            "rival",
+            "enemy"
+        ]
+    ],
+    "Police": [
+        [
+            "Big Brother Wang",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "He Laoliu",
+            "Suspect-Police",
+            "Informant-Police",
+            "Accomplice-Police",
+            "Witness-Police"
+        ],
+        [
+            "Li Guofu",
+            "Suspect-Police",
+            "Perpetrator-Police",
+            "Informant-Police",
+            "Adversary-Police"
+        ],
+        [
+            "Mu Bei",
+            "Suspect-Investigator",
+            "Witness-Investigator",
+            "Victim-Rescuer",
+            "Perpetrator-Victim",
+            "Informant-Investigator",
+            "Accomplice-Partner",
+            "Suspect-Accomplice",
+            "Victim-Suspect"
+        ],
+        [
+            "Neighbor Wang",
+            "Suspect-Police",
+            "Informant-Police",
+            "Acquaintance-Police",
+            "Victim-Police"
+        ],
+        [
+            "Zhang Jie",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "Zhang Jie": [
+        [
+            "Big Brother Wang",
+            "acquaintance",
+            "suspicious",
+            "adversary",
+            "enemy"
+        ],
+        [
+            "He Laoliu",
+            "partner in crime",
+            "accomplice",
+            "rival in love",
+            "co-worker",
+            "confidant"
+        ],
+        [
+            "Li Guofu",
+            "partner in crime",
+            "mentee",
+            "subordinate",
+            "enemy",
+            "rival",
+            "suspect",
+            "victim",
+            "acquaintance",
+            "colleague"
+        ],
+        [
+            "Mu Bei",
+            "acquaintance",
+            "friend",
+            "confidant",
+            "partner in crime",
+            "ex-romantic relationship",
+            "current romantic relationship",
+            "suspicious"
+        ],
+        [
+            "Neighbor Wang",
+            "acquaintance",
+            "suspicious",
+            "rival",
+            "enemy"
+        ],
+        [
+            "Police",
+            "relationship 1, relationship 2"
+        ]
+    ]
+}

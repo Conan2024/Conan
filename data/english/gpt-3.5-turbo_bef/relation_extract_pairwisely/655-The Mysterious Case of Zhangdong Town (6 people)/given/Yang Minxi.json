@@ -1,0 +1,128 @@
+{
+    "Yang Minxi": [
+      ["Gu Chumeng", "romantic relationships with x"], 
+      ["Ms. Mei", "extramarital affair with x, romantic relationships with x"], 
+      ["Rou'er", "friend of x"], 
+      ["Yang Shuixun", "father of x"], 
+      ["Shen Wusheng", "fiance of x"], 
+      ["Zhang Fanghao", "friend of x, acquaintance of x"], 
+      ["Teacher Bai", "mentor of x"]
+    ],
+    "Gu Chumeng": [
+      ["Yang Minxi", "romantic relationships with x"], 
+      ["Brother Gu", "friend of x"], 
+      ["Ms. Mei", "romantic relationships with x"], 
+      ["Rou'er", "ex romantic relationships with x"], 
+      ["Yang Shuixun", "mentor of x"], 
+      ["Shen Wusheng", "fiance of x"], 
+      ["Uncle Zhang", "business partner of x"], 
+      ["Zhang Fanghao", "fiance of x"], 
+      ["Lan Rui", "friend of x"], 
+      ["Xiting", "romantic relationships with x"], 
+      ["mentee of", "student of x"]
+    ],
+    "Brother Gu": [
+      ["Gu Chumeng", "friend of x"], 
+      ["Ms. Mei", "ex romantic relationships with x"], 
+      ["Yang Shuixun", "friend of x"], 
+      ["Shen Wusheng", "friend of x, mentor of x"], 
+      ["Uncle Zhang", "mentor of x"], 
+      ["Zhang Fanghao", "friend of x"], 
+      ["Lan Rui", "romantic relationships with x"], 
+      ["Xiting", "friend of x"], 
+      ["Teacher Bai", "admired by x"]
+    ],
+    "Ms. Mei": [
+      ["Yang Minxi", "extramarital affair with x, romantic relationships with x"], 
+      ["Gu Chumeng", "romantic relationships with x"], 
+      ["Brother Gu", "ex romantic relationships with x"], 
+      ["Rou'er", "mother of x, daughter in law of x"], 
+      ["Yang Shuixun", "wife of x"], 
+      ["Shen Wusheng", "wife of x"], 
+      ["Uncle Zhang", "mother of x"], 
+      ["Zhang Fanghao", "romantic relationships with x"], 
+      ["Lan Rui", "future mother in law of x"], 
+      ["Xiting", "future relative of x"], 
+      ["Teacher Bai", "mentor of x"]
+    ],
+    "Rou'er": [
+      ["Yang Minxi", "friend of x"], 
+      ["Gu Chumeng", "ex romantic relationships with x"], 
+      ["Ms. Mei", "daughter of x, sibling of x"], 
+      ["Yang Shuixun", "father of x"], 
+      ["Shen Wusheng", "student of x, informant of x"], 
+      ["Uncle Zhang", "fiancee of x"], 
+      ["Zhang Fanghao", "romantic relationships with x, possibly family of x"], 
+      ["Lan Rui", "friend of x"], 
+      ["Teacher Bai", "student of x"]
+    ],
+    "Yang Shuixun": [
+      ["Yang Minxi", "child of x"], 
+      ["Gu Chumeng", "friend of x"], 
+      ["Brother Gu", "mentor of x"], 
+      ["Ms. Mei", "husband of x"], 
+      ["Rou'er", "child of x"], 
+      ["Shen Wusheng", "employer of x"], 
+      ["Lan Rui", "father of x"], 
+      ["Xiting", "fiancee of x"], 
+      ["Teacher Bai", "father of x"]
+    ],
+    "Shen Wusheng": [
+      ["Yang Minxi", "fiancee of x"], 
+      ["Gu Chumeng", "fiancee of x"], 
+      ["Brother Gu", "friend of x"], 
+      ["Ms. Mei", "husband of x"], 
+      ["Rou'er", "mentor of x, informant of x"], 
+      ["Yang Shuixun", "employee of x"], 
+      ["Uncle Zhang", "helper of x"], 
+      ["Zhang Fanghao", "friend of x"], 
+      ["Lan Rui", "student of x"], 
+      ["Xiting", "guard of x"], 
+      ["Teacher Bai", "teacher of x"]
+    ],
+    "Uncle Zhang": [
+      ["Yang Minxi", "adoptive brother of x"], 
+      ["Gu Chumeng", "business partner of x"], 
+      ["Brother Gu", "business partner of x"], 
+      ["Ms. Mei", "father in law of x"], 
+      ["Rou'er", "fiance of x"], 
+      ["Shen Wusheng", "employee of x"], 
+      ["Lan Rui", "adoptive father of x, daughter of x"], 
+      ["Xiting", "possibly family of x, mentor of x"]
+    ],
+    "Zhang Fanghao": [
+      ["Yang Minxi", "friend of x, acquaintance of x"], 
+      ["Gu Chumeng", "fiancee of x"], 
+      ["Brother Gu", "friend of x"], 
+      ["Ms. Mei", "romantic relationships with x"], 
+      ["Rou'er", "romantic relationships with x, possibly family of x"], 
+      ["Shen Wusheng", "friend of x"], 
+      ["Lan Rui", "fiance of x, romantic relationships with x"], 
+      ["Xiting", "friend of x, business partner of x"]
+    ],
+    "Lan Rui": [
+      ["Gu Chumeng", "friend of x"], 
+      ["Brother Gu", "romantic relationships with x"], 
+      ["Rou'er", "friend of x"], 
+      ["Yang Shuixun", "child of x"], 
+      ["Shen Wusheng", "teacher of x"], 
+      ["Uncle Zhang", "father of x"], 
+      ["Zhang Fanghao", "fiancee of x, romantic relationships with x"]
+    ],
+    "Xiting": [
+      ["Gu Chumeng", "romantic relationships with x"], 
+      ["Brother Gu", "friend of x"], 
+      ["Ms. Mei", "future relative of x"], 
+      ["Yang Shuixun", "fiance of x"], 
+      ["Uncle Zhang", "possibly family of x"], 
+      ["Zhang Fanghao", "friend of x, business partner of x"]
+    ],
+    "Teacher Bai": [
+      ["Yang Minxi", "student of x"], 
+      ["mentor of", "teacher of x"], 
+      ["Ms. Mei", "student of x"], 
+      ["Rou'er", "teacher of x"], 
+      ["Yang Shuixun", "student of x"], 
+      ["Shen Wusheng", "student of x"]
+    ]
+}

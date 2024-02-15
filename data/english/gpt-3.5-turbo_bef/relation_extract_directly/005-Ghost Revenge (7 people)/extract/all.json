@@ -1,0 +1,62 @@
+{
+    "Li Luo Ming (Aming)": [
+      ["Xia Bolong", "mentor of x"], 
+      ["Xia Sanhu", "perpetrator of x, suspect of x"], 
+      ["Xia Zhongpeng", "subordinate of x"], 
+      ["Xia Shue", "romantic relationships with x"], 
+      ["Yu Zu Chengmu", "informant of x"], 
+      ["Wu Baian", "deceiver of x, victim of x"], 
+      ["Anqi", "informant of x"], 
+      ["Duan Yuetong", "informant of x"], 
+      ["Xia Zhongpeng", "friend of x"], 
+      ["Xia Sanhu", "employer of x"], 
+      ["Xia Sanhu", "suspected by x"]
+    ],
+    "Li Zicai": [
+      ["Li Luo Ming (Aming)", "father of x"]
+    ],
+    "Xia Bolong": [
+      ["Li Luo Ming (Aming)", "student of x"], 
+      ["Xia Shue", "father of x"], 
+      ["Li Luo Ming (Aming)", "mentor of x"], 
+      ["Xia Shue", "mentor of x"], 
+      ["Xia Sanhu", "ex romantic relationships with x"]
+    ],
+    "Xia Zhongpeng": [
+      ["Xia Sanhu", "sibling of x"], 
+      ["Li Luo Ming (Aming)", "subordinate of x"], 
+      ["Xia Shue", "acquaintance of x"], 
+      ["Duan Yuetong", "friend of x"]
+    ],
+    "Xia Sanhu": [
+      ["Li Luo Ming (Aming)", "deceiver of x"], 
+      ["Xia Shue", "adversary of x"], 
+      ["Li Luo Ming (Aming)", "attempted perpetrator of x"], 
+      ["Xia Zhongpeng", "sibling of x"], 
+      ["Xia Zhongpeng", "superior of x"], 
+      ["Xia Sanhu's daughter", "grandchild of x"], 
+      ["Wu Baian", "perpetrator of x"]
+    ],
+    "Xia Shue": [
+      ["Li Luo Ming (Aming)", "romantic relationships with x"], 
+      ["Xia Bolong", "teacher of x"], 
+      ["Xia Sanhu", "ex romantic relationships with x"], 
+      ["Xia Zhongpeng", "friend of x"]
+    ],
+    "Yu Zu Chengmu": [
+      ["Li Luo Ming (Aming)", "informant of x"], 
+      ["Xia Sanhu", "suspect of x"]
+    ],
+    "Wu Baian": [
+      ["Li Luo Ming (Aming)", "perpetrator of x, victim of x"], 
+      ["Li Luo Ming (Aming)", "suspected by x"]
+    ],
+    "Anqi": [
+      ["Li Luo Ming (Aming)", "informant of x"], 
+      ["Yu Zu Chengmu", "information receiver from x"]
+    ],
+    "Duan Yuetong": [
+      ["Li Luo Ming (Aming)", "informant of x"], 
+      ["Xia Sanhu", "acquaintance of x"]
+    ]
+}

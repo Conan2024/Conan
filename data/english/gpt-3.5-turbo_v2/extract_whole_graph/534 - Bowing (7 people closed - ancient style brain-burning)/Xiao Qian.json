@@ -1,0 +1,58 @@
+{
+    "Xiao Qian": [
+      ["Fang Liu", "same person as fang liu (different identity) of x"], 
+      ["Grandma", "grandmother of x fang liu"], 
+      ["Fang Ye", "father of x fang liu"], 
+      ["Fang Xu", "aunt of x fang liu"], 
+      ["Fang Mian", "aunt of x fang liu"], 
+      ["Fang Zhu", "cousin of x fang liu"], 
+      ["Li Qinren", "rebel against fang liu's family of x"], 
+      ["Chen Qian", "friend of xiao qian"], 
+      ["Chen Zijing", "chen's house owner of x"], 
+      ["Li Zhong", "groom of x chen qian"], 
+      ["Li Yan", "romantic relationships with xiao qian"], 
+      ["Guests", "guest of x the wedding"], 
+      ["Madam Li", "li qinren's wife of x"], 
+      ["Mr. Chen", "chen's house owner of x"], 
+      ["Li Wangye", "husband of x chen qian"], 
+      ["Li Wangye", "perpetrator of x fang liu's family"], 
+      ["Li Wangye", "murderer of x fang liu's family"], 
+      ["Li Wangye", "killed by xiao qian"], 
+      ["Li Wangye", "suspect of x killing li wangye"], 
+      ["Chen Qian's family", "chen qian's family of x"], 
+      ["Li Zhong and Chen Qian", "future relatives of xiao qian"]
+    ],
+    "Li Yan": [
+      ["Xiao Qian", "romantic relationships with xiao qian"]
+    ],
+    "Chen Qian": [
+      ["Xiao Qian", "friend of xiao qian"], 
+      ["Li Zhong", "romantic relationships with chen qian of x"], 
+      ["Li Wangye", "husband of x chen qian"], 
+      ["Li Wangye", "raped chen qian of x"], 
+      ["Li Wangye", "killed by xiao qian"]
+    ],
+    "Li Zhong": [
+      ["Chen Qian", "romantic relationships with chen qian of x"], 
+      ["Chen Qian", "future husband of x chen qian"]
+    ],
+    "Li Qinren": [
+      ["Fang Liu", "rebel against fang liu's family of x"], 
+      ["Fang Liu's father", "father of x fang liu"], 
+      ["Li Wangye", "owner of x li fu"], 
+      ["Li Wangye", "father of x li zhong"], 
+      ["Li Wu", "eldest son of x li qinren"], 
+      ["Li Xing", "son of x li qinren"]
+    ],
+    "Chen Zijing": [
+      ["Chen Qian", "father of x chen qian"]
+    ],
+    "Madam Li": [
+      ["Li Qinren", "wife of x li qinren"], 
+      ["Li Zhong", "mother of x li zhong"]
+    ],
+    "Li Wangye": [
+      ["Chen Qian", "husband of x chen qian"], 
+      ["Xiao Qian", "killed by xiao qian"]
+    ]
+}

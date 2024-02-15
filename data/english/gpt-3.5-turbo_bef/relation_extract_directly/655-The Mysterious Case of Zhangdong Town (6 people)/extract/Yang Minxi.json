@@ -1,0 +1,46 @@
+{
+    "Yang Minxi": [
+      ["Yang Shuixun", "father of x, mentor of x"], 
+      ["Teacher Bai", "friend of x"], 
+      ["Uncle Zhang (Zhang Fanghao)", "relative of x"], 
+      ["Lan Rui", "adoptive sister of x"], 
+      ["Shen Wusheng", "helper of x"], 
+      ["Xinger", "acquaintance of x"], 
+      ["Lan Rui", "friend of x"]
+    ],
+    "Yang Shuixun": [
+      ["Yang Minxi", "child of x, student of x, debtor of x"], 
+      ["Gu Chumeng", "debtor of x"], 
+      ["Uncle Zhang (Zhang Fanghao)", "replaced x's identity"]
+    ],
+    "Gu Chumeng": [
+      ["Yang Shuixun", "debtor of x"], 
+      ["Mu (Xiting)", "lover of x"], 
+      ["Xiting", "lover of x"]
+    ],
+    "Lan Rui": [
+      ["Yang Minxi", "adoptive sister of x"], 
+      ["Uncle Zhang (Zhang Fanghao)", "daughter of x"]
+    ],
+    "Mu (Xiting)": [
+      ["Gu Chumeng", "lover of x"], 
+      ["Xiting", "lover of x"]
+    ],
+    "Teacher Bai": [
+      ["Yang Minxi", "friend of x"]
+    ],
+    "Uncle Zhang (Zhang Fanghao)": [
+      ["Yang Minxi", "relative of x"], 
+      ["Yang Shuixun", "replaced x's identity"], 
+      ["Lan Rui", "father of x"]
+    ],
+    "Ms. Mei": [
+      ["Gu Chumeng", "ex wife of x"]
+    ],
+    "Shen Wusheng": [
+      ["Yang Minxi", "helper of x"]
+    ],
+    "Xinger": [
+      ["Yang Minxi", "acquaintance of x"]
+    ]
+}

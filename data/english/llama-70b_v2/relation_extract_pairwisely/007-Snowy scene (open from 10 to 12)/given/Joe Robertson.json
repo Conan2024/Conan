@@ -1,0 +1,92 @@
+{
+    "Amy Morgan": [
+      ["Daniel Perry", "wife of x (different identity), ex romantic relationships with x"], 
+      ["Interpol", "wife of x (different identity)"], 
+      ["Joe Robertson", "acquaintance of x, potential witness of x"], 
+      ["John Morgan", "wife of x"], 
+      ["Jonathan Perry", "husband of x"], 
+      ["Lucy Harrison", "wife of x john morgan, acquaintance of x joe robertson"], 
+      ["Max Jones", "wife of x, husband of x"], 
+      ["Wife of John Morgan", "acquaintance of x max pike"]
+    ],
+    "Daniel Perry": [
+      ["Amy Morgan", "husband of x (different identity), ex romantic relationships with x"], 
+      ["Interpol", "acquaintance of x, informant of x"], 
+      ["Joe Robertson", "acquaintance of x, fellow musician of x"], 
+      ["John Morgan", "acquaintance of x, murderer of x"], 
+      ["Jonathan Perry", "friend of x, acquaintance of x"], 
+      ["Lucy Harrison", "husband of x, fiance of x"], 
+      ["Max Jones", "friend of x, fellow musician of x"], 
+      ["Sleer & Leech", "colleague of x, friend of x"]
+    ],
+    "Interpol": [
+      ["Amy Morgan", "investigation target of x"], 
+      ["Daniel Perry", "acquaintance of x, informant of x"], 
+      ["Joe Robertson", "employer of x, superior of x"], 
+      ["John Morgan", "victim of x, investigation of x"], 
+      ["Jonathan Perry", "acquaintance of x, informant of x"], 
+      ["Lucy Harrison", "friend of x, informant of x"], 
+      ["Max Jones", "friend of x, informant of x"], 
+      ["Sleer & Leech", "friend of x, informant of x, investigator of x"]
+    ],
+    "Joe Robertson": [
+      ["Amy Morgan", "acquaintance of x, potential witness of x"], 
+      ["Daniel Perry", "acquaintance of x, fellow ski coach of x"], 
+      ["Interpol", "plainclothes detective of x, undercover agent of x"], 
+      ["John Morgan", "friend of x, fellow ski coach of x"], 
+      ["Jonathan Perry", "friend of x, fellow investigator of x"], 
+      ["Lucy Harrison", "acquaintance of x, potential ally of x"], 
+      ["Max Jones", "friend of x, acquaintance of x"], 
+      ["Sleer & Leech", "friend of x, informant of x, helped by of x, co conspirator of x"]
+    ],
+    "John Morgan": [
+      ["Amy Morgan", "husband of x, victim of x"], 
+      ["Daniel Perry", "acquaintance of x, victim of x"], 
+      ["Interpol", "victim of x, investigation of x"], 
+      ["Joe Robertson", "friend of x, fellow ski coach of x"], 
+      ["Jonathan Perry", "acquaintance of x, fellow victim of x"], 
+      ["Lucy Harrison", "husband of x, killed by x"], 
+      ["Max Jones", "friend of x, fake friendship of x"], 
+      ["Sleer & Leech", "husband of x amy morgan, friend of x max pike, victim of x murder"]
+    ],
+    "Jonathan Perry": [
+      ["Amy Morgan", "wife of x"], 
+      ["Daniel Perry", "friend of x, acquaintance of x"], 
+      ["Interpol", "acquaintance of x, informant of x"], 
+      ["Joe Robertson", "friend of x, fellow investigator of x"], 
+      ["John Morgan", "acquaintance of x, fellow victim of x"], 
+      ["Lucy Harrison", "fiancé/fiancée of x"], 
+      ["Max Jones", "friend of x, acquaintance of x"], 
+      ["Sleer & Leech", "colleague of x, business partner of x"]
+    ],
+    "Lucy Harrison": [
+      ["Amy Morgan", "fiancee of x jonathan perry, acquaintance of x joe robertson"], 
+      ["Daniel Perry", "wife of x, fiancee of x"], 
+      ["Interpol", "friend of x, informant of x"], 
+      ["Joe Robertson", "acquaintance of x, potential ally of x"], 
+      ["John Morgan", "wife of x, killer of x"], 
+      ["Jonathan Perry", "fiancé/fiancée of x"], 
+      ["Max Jones", "wife of x, fiancee of x"], 
+      ["Sleer & Leech", "colleague of x, business partner of x"]
+    ],
+    "Max Jones": [
+      ["Amy Morgan", "husband of x, wife of x"], 
+      ["Daniel Perry", "friend of x, fellow musician of x"], 
+      ["Interpol", "friend of x, informant of x"], 
+      ["Joe Robertson", "friend of x, acquaintance of x"], 
+      ["John Morgan", "friend of x, fake friendship of x"], 
+      ["Jonathan Perry", "friend of x, acquaintance of x"], 
+      ["Lucy Harrison", "husband of x, fiance of x"], 
+      ["Sleer & Leech", "friend of x, acquaintance of x, colleague of x"]
+    ],
+    "Sleer & Leech": [
+      ["Employer of Max Pike", "business partner of x joe robertson, subject of x investigation for joe robertson"], 
+      ["Daniel Perry", "colleague of x, friend of x"], 
+      ["Interpol", "friend of x, informant of x, suspect of x"], 
+      ["Joe Robertson", "employer of x, master of x, business partner of x, co conspirator of x"], 
+      ["John Morgan", "max pike, employer of x max pike, involved in money laundering of x"], 
+      ["Jonathan Perry", "colleague of x, business partner of x"], 
+      ["Lucy Harrison", "colleague of x, business partner of x"], 
+      ["Max Jones", "employer of x, business partner of x, associate of x"]
+    ]
+}

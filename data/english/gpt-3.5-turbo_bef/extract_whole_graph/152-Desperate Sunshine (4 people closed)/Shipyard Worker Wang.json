@@ -1,0 +1,26 @@
+{
+    "Shipyard Worker Wang": [
+      ["Son", "child of x"], 
+      ["Ship Doctor Ling", "wife of x"], 
+      ["FIRST MATE ZHANG", "mentor of x"], 
+      ["Boss Yang", "business partner of x"], 
+      ["Naive Hen", "acquaintance of x"]
+    ],
+    "Ship Doctor Ling": [
+      ["Shipyard Worker Wang", "husband of x"], 
+      ["Boss Yang", "colleague of x"]
+    ],
+    "FIRST MATE ZHANG": [
+      ["Shipyard Worker Wang", "mentor of x"]
+    ],
+    "Boss Yang": [
+      ["Shipyard Worker Wang", "business partner of x"], 
+      ["Ship Doctor Ling", "colleague of x"]
+    ],
+    "Naive Hen": [
+      ["Shipyard Worker Wang", "acquaintance of x"]
+    ],
+    "Passer-by": [
+      ["Shipyard Worker Wang", "informant of x"]
+    ]
+}

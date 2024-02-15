@@ -1,0 +1,44 @@
+{
+    "Dr. Paloski": [
+      ["Drake Li Morette", "relationship 1: mentor mentee of x, relationship 2: co worker of x"], 
+      ["Elaine Carter", "relationship 1: mentor mentee of x, relationship 2: supervisor intern of x"], 
+      ["Hans Li Morette", "laine carter of x, dr of x, paloski of x, sylvia costa of x, father tom of x"], 
+      ["Richard Berkeley", "friend of x, colleague of x"], 
+      ["Sylvia Costa", "friend of x, colleague of x"]
+    ],
+    "Drake Li Morette": [
+      ["Dr. Paloski", "relationship 1: mentor mentee of x, relationship 2: co worker of x"], 
+      ["Elaine Carter", "hans li morette of x, dr of x, paloski of x, sylvia costa of x, father tom of x"], 
+      ["Hans Li Morette", "colleague of x, co worker of x"], 
+      ["Richard Berkeley", "friend of x, colleague of x"], 
+      ["Sylvia Costa", "hans li morette of x, dr of x, paloski of x, father tom of x, laine carter of x"]
+    ],
+    "Elaine Carter": [
+      ["Dr. Paloski", "relationship 1: mentor mentee of x, relationship 2: supervisor intern of x"], 
+      ["Drake Li Morette", "hans li morette of x, dr of x, paloski of x, sylvia costa of x, father tom of x"], 
+      ["Hans Li Morette", "co worker of x, friend of x"], 
+      ["Richard Berkeley", "hans li morette of x, dr of x, paloski of x, sylvia costa of x, father tom of x"], 
+      ["Sylvia Costa", "friend of x, colleague of x"]
+    ],
+    "Hans Li Morette": [
+      ["Dr. Paloski", "laine carter of x, dr of x, paloski of x, sylvia costa of x, father tom of x"], 
+      ["Drake Li Morette", "colleague of x, co worker of x"], 
+      ["Elaine Carter", "co worker of x, friend of x"], 
+      ["Richard Berkeley", "friend of x, colleague of x"], 
+      ["Sylvia Costa", "friend of x, colleague of x"]
+    ],
+    "Richard Berkeley": [
+      ["Dr. Paloski", "friend of x, colleague of x"], 
+      ["Drake Li Morette", "friend of x, colleague of x"], 
+      ["Elaine Carter", "hans li morette of x, dr of x, paloski of x, sylvia costa of x, father tom of x"], 
+      ["Hans Li Morette", "friend of x, colleague of x"], 
+      ["Sylvia Costa", "hans li morette of x, dr of x, paloski of x, father tom of x, laine carter of x"]
+    ],
+    "Sylvia Costa": [
+      ["Dr. Paloski", "friend of x, colleague of x"], 
+      ["Drake Li Morette", "hans li morette of x, dr of x, paloski of x, father tom of x, laine carter of x"], 
+      ["Elaine Carter", "friend of x, colleague of x"], 
+      ["Hans Li Morette", "friend of x, colleague of x"], 
+      ["Richard Berkeley", "hans li morette of x, dr of x, paloski of x, father tom of x, laine carter of x"]
+    ]
+}

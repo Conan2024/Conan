@@ -1,0 +1,79 @@
+{
+    "Emperor Guangxu": [
+      ["Li Shuxun", "father of x, mother of x, biological father of x"], 
+      ["Yu Fei", "biological father of x"], 
+      ["Zhao Luoyi", "father of x, mother of x"], 
+      ["Zhao Qiuer", "same person as x (different reference), same person as x (different identity)"], 
+      ["Zhao Wanlei", "father of x, mother of x, relative of x, nephew of x, aunt of x, uncle of x, niece of x, cousin of x, brother of x, sister of x, same person as x (different reference)"], 
+      ["Zhao Wei", "father of x, mother of x"]
+    ],
+    "Feng Shuangji": [
+      ["Li Shuxun", "acquaintance of x, informant of x"], 
+      ["Zhang Yuyi or Imperial Physician Zhang", "acquaintance of x, helper of x"], 
+      ["Zhao Luoyi", "acquaintance of x"], 
+      ["Zhao Qiuer", "acquaintance of x, informant of x"], 
+      ["Zhao Wei", "acquaintance of x"]
+    ],
+    "Li Shuxun": [
+      ["Emperor Guangxu", "brother of x, sister of x, nephew of x, aunt of x"], 
+      ["Feng Shuangji", "acquaintance of x, informant of x"], 
+      ["Zhang Yuyi or Imperial Physician Zhang", "acquaintance of x, informant of x"], 
+      ["Zhao Luoyi", "sister of x"], 
+      ["Zhao Qiuer", "acquaintance of x"], 
+      ["Zhao Wanlei", "enemy of x"], 
+      ["Zhao Wei", "father of x, master of x"]
+    ],
+    "Yu Fei": [
+      ["Emperor Guangxu", "biological mother of x"], 
+      ["Zhang Yuyi or Imperial Physician Zhang", "acquaintance of x, informant of x"], 
+      ["Zhao Luoyi", "mother of x, sister of x, enemy of x"], 
+      ["Zhao Qiuer", "mother of x, sister of x, enemy of x, victim of x"], 
+      ["Zhao Wei", "mother of x"]
+    ],
+    "Zhang Yuyi or Imperial Physician Zhang": [
+      ["Feng Shuangji", "acquaintance of x, helper of x"], 
+      ["Li Shuxun", "acquaintance of x, informant of x"], 
+      ["Yu Fei", "acquaintance of x, informant of x"], 
+      ["Zhao Luoyi", "same person as x (different reference), same person as x (different identity)"], 
+      ["Zhao Qiuer", "acquaintance of x"], 
+      ["Zhao Wanlei", "acquaintance of x"], 
+      ["Zhao Wei", "acquaintance of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Emperor Guangxu", "sister of x, son of x"], 
+      ["Feng Shuangji", "acquaintance of x"], 
+      ["Li Shuxun", "sister of x"], 
+      ["Yu Fei", "sister of x, enemy of x"], 
+      ["Zhang Yuyi or Imperial Physician Zhang", "same person as x (different reference), same person as x (different identity)"], 
+      ["Zhao Qiuer", "sister of x"], 
+      ["Zhao Wanlei", "enemy of x"], 
+      ["Zhao Wei", "sister of x"]
+    ],
+    "Zhao Qiuer": [
+      ["Emperor Guangxu", "same person as x (different reference), same person as x (different identity)"], 
+      ["Feng Shuangji", "acquaintance of x, informant of x"], 
+      ["Li Shuxun", "acquaintance of x"], 
+      ["Yu Fei", "sister of x, helper of x"], 
+      ["Zhang Yuyi or Imperial Physician Zhang", "acquaintance of x"], 
+      ["Zhao Luoyi", "sister of x"], 
+      ["Zhao Wanlei", "sister in law of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Emperor Guangxu", "father of x, mother of x, relative of x, nephew of x, aunt of x, uncle of x, niece of x, cousin of x, brother of x, sister of x, same person as x (different reference)"], 
+      ["Feng Shuangji", "enemy of x"], 
+      ["Li Shuxun", "enemy of x"], 
+      ["Zhang Yuyi or Imperial Physician Zhang", "acquaintance of x"], 
+      ["Zhao Luoyi", "enemy of x"], 
+      ["Zhao Qiuer", "husband of x, father in law of x"], 
+      ["Zhao Wei", "father of x, mother of x, same person as x (different reference)"]
+    ],
+    "Zhao Wei": [
+      ["Emperor Guangxu", "son of x, brother of x"], 
+      ["Feng Shuangji", "acquaintance of x"], 
+      ["Li Shuxun", "daughter of x"], 
+      ["Yu Fei", "father of x"], 
+      ["Zhang Yuyi or Imperial Physician Zhang", "acquaintance of x"], 
+      ["Zhao Luoyi", "sister of x"], 
+      ["Zhao Wanlei", "son of x, brother of x, same person as x (different identity)"]
+    ]
+}

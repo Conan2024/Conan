@@ -1,0 +1,46 @@
+{
+    "Lü Songnian": [
+      ["Yu Shangyong", "acquaintance of x, suspicious of x"], 
+      ["Le Wan", "acquaintance of x, met at the tavern of x"], 
+      ["Yu Yancheng", "brother of x, acquaintance of x"], 
+      ["Zhu Lingshan", "business partner of x, rival of x, unknown whereabouts of x"]
+    ],
+    "Yu Shangyong": [
+      ["Lü Songnian", "acquaintance of x, suspicious of x"], 
+      ["Le Wan", "close relationship of x, met at the tavern of x"], 
+      ["Yu Yancheng", "brother of x, acquaintance of x"], 
+      ["Zhu Lingshan", "business partner of x, rival of x, unknown whereabouts of x"]
+    ],
+    "Le Wan": [
+      ["Lü Songnian", "acquaintance of x, met at the tavern of x"], 
+      ["Yu Shangyong", "close relationship of x, met at the tavern of x"], 
+      ["Zhu Lingshan", "close relationship of x, lived in the same house of x"]
+    ],
+    "Yu Yancheng": [
+      ["Lü Songnian", "brother of x, acquaintance of x"], 
+      ["Yu Shangyong", "brother of x, acquaintance of x"], 
+      ["Zhu Lingshan", "business partner of x, rival of x, unknown whereabouts of x"]
+    ],
+    "Zhu Lingshan": [
+      ["Lü Songnian", "business partner of x, rival of x, unknown whereabouts of x"], 
+      ["Yu Shangyong", "business partner of x, rival of x, unknown whereabouts of x"], 
+      ["Le Wan", "close relationship of x, lived in the same house of x"]
+    ],
+    "Mrs. Zhang": [
+      ["Lü Songnian", "acquaintance of x, met at the tavern of x"], 
+      ["Yu Shangyong", "acquaintance of x, met at the tavern of x"], 
+      ["Ge Yueman", "acquaintance of x, met at the funeral of x"]
+    ],
+    "Ge Yueman": [
+      ["Lü Songnian", "acquaintance of x, met at the funeral of x"], 
+      ["Yu Shangyong", "acquaintance of x, met at the funeral of x"], 
+      ["Mrs. Zhang", "acquaintance of x, met at the funeral of x"]
+    ],
+    "Xue Yufan": [
+      ["Lü Songnian", "acquaintance of x, met at the tower of x"], 
+      ["Yu Shangyong", "acquaintance of x, met at the tower of x"]
+    ],
+    "Zhi Jun": [
+      ["Lü Songnian", "acquaintance of x, met at the tavern of x"]
+    ]
+}

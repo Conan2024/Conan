@@ -1,0 +1,39 @@
+{
+    "Xiu Renjie": [
+      ["Liu Qi", "ex romantic relationships with x, killed by x"], 
+      ["Han Yimu", "friend of x"], 
+      ["Lin Ruotong", "employee of x"], 
+      ["Zhang Wenyuan", "subordinate of x"], 
+      ["Yang Chenlin", "ex romantic relationships with x"]
+    ],
+    "Liu Qi": [
+      ["Xiu Renjie", "ex romantic relationships with x, killed by x"], 
+      ["Han Yimu", "friend of x"], 
+      ["Lin Ruotong", "employee of x"], 
+      ["Yang Chenlin", "ex romantic relationships with x, killed by x"]
+    ],
+    "Han Yimu": [
+      ["Xiu Renjie", "friend of x"], 
+      ["Liu Qi", "friend of x"]
+    ],
+    "Lin Ruotong": [
+      ["Xiu Renjie", "employer of x"], 
+      ["Liu Qi", "employee of x"], 
+      ["Zhang Wenyuan", "subordinate of x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Xiu Renjie", "superior of x"], 
+      ["Lin Ruotong", "subordinate of x"]
+    ],
+    "Yang Chenlin": [
+      ["Xiu Renjie", "ex romantic relationships with x"], 
+      ["Liu Qi", "ex romantic relationships with x, killed by x"]
+    ],
+    "Han ChenGwu": [
+      ["Xiu Renjie", "friend of x"], 
+      ["Liu Qi", "helper of x"]
+    ],
+    "Zhang Erfu": [
+      ["Xiu Renjie", "perpetrator of x"]
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Song Jie": [
+      ["Xuan Bingjiao", "messenger of x"], 
+      ["Du Zhong", "messenger of x"], 
+      ["Zi Su", "information receiver from x"], 
+      ["Ren Dong", "informant of x"], 
+      ["Lu Ying", "suspect of x"], 
+      ["Xuan Can", "helper of x"], 
+      ["Erxuan Can", "acquaintance of x"], 
+      ["Mizuki Hall members", "friend of x"]
+    ],
+    "Xuan Bingjiao": [
+      ["Song Jie", "messenger of x"]
+    ],
+    "Du Zhong": [
+      ["Song Jie", "messenger of x"]
+    ],
+    "Zi Su": [
+      ["Song Jie", "information receiver from x"]
+    ],
+    "Ren Dong": [
+      ["Song Jie", "acquaintance of x"]
+    ],
+    "Lu Ying": [
+      ["Erxuan Can", "adversary of x"]
+    ],
+    "Xuan Can": [
+      ["Song Jie", "helper of x"], 
+      ["Erxuan Can", "friend of x"]
+    ],
+    "Erxuan Can": [
+      ["Song Jie", "acquaintance of x"], 
+      ["Lu Ying", "friend of x"]
+    ],
+    "Mizuki Hall members": [
+      ["Song Jie", "friend of x"]
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "Shipyard Worker Wang": [
+        [
+            "First Mate Zhang",
+            "same person as x (different reference)"
+        ],
+        [
+            "Worker Wang",
+            "child of x"
+        ],
+        [
+            "Ship Doctor Ling",
+            "daughter in law of x, employee of x"
+        ],
+        [
+            "Boss Yang",
+            "buyer of x's drugs"
+        ],
+        [
+            "Naive Hen",
+            "acquaintance of x"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "same person as x (different reference)"
+        ]
+    ],
+    "First Mate Zhang": [
+        [
+            "Shipyard Worker Wang",
+            "same person as x (different reference)"
+        ],
+        [
+            "Worker Wang",
+            "mentor of x"
+        ],
+        [
+            "Boss Yang",
+            "business partner of x"
+        ],
+        [
+            "Naive Hen",
+            "acquaintance of x"
+        ],
+        [
+            "First Mate Zhang",
+            "same person as x (different reference)"
+        ]
+    ],
+    "Worker Wang": [
+        [
+            "Shipyard Worker Wang",
+            "child of x"
+        ],
+        [
+            "Ship Doctor Ling",
+            "wife of x"
+        ],
+        [
+            "Worker Wang",
+            "same person as x (different reference)"
+        ]
+    ],
+    "Ship Doctor Ling": [
+        [
+            "Shipyard Worker Wang",
+            "father of x"
+        ],
+        [
+            "Worker Wang",
+            "husband of x"
+        ],
+        [
+            "Ship Doctor Ling",
+            "same person as x (different reference)"
+        ]
+    ],
+    "Boss Yang": [
+        [
+            "Shipyard Worker Wang",
+            "replaced x's identity"
+        ],
+        [
+            "First Mate Zhang",
+            "customer of x"
+        ],
+        [
+            "Boss Yang",
+            "same person as x (different reference)"
+        ]
+    ]
+}

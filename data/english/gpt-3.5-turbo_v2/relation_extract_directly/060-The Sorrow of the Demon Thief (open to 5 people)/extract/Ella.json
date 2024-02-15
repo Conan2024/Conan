@@ -1,0 +1,24 @@
+{
+    "Ella": [
+      ["Gust", "romantic relationships with gust of x"], 
+      ["Kevin", "helper of x ella"], 
+      ["Rowling", "friend of x ella"], 
+      ["Griff", "deceiver of x ella"]
+    ],
+    "Gust": [
+      ["Ella", "romantic relationships with ella of x"]
+    ],
+    "Kevin": [
+      ["Ella", "helper of x ella"]
+    ],
+    "Rowling": [
+      ["Ella", "friend of x ella"], 
+      ["David", "subject of x investigation for david"]
+    ],
+    "David": [
+      ["Rowling", "subject of x investigation for rowling"]
+    ],
+    "Griff": [
+      ["Ella", "deceived by ella of x"]
+    ]
+}

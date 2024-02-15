@@ -1,0 +1,69 @@
+{
+    "Qin Ou": [
+        [
+            "Tian Zhuli",
+            "girlfriend",
+            "adversary"
+        ],
+        [
+            "Professor Jia",
+            "Ex-romantic relationships with X",
+            "Rival of X"
+        ],
+        [
+            "security guard",
+            " acquaintance",
+            "helper"
+        ]
+    ],
+    "Tian Zhuli": [
+        [
+            "Qin Ou",
+            "girlfriend",
+            "perpetrator"
+        ],
+        [
+            "Professor Jia",
+            "Superior-Subordinate Relationship",
+            "Mentor-Mentee Relationship",
+            "Adversarial Relationship"
+        ],
+        [
+            "security guard",
+            "boyfriend"
+        ]
+    ],
+    "Professor Jia": [
+        [
+            "Qin Ou",
+            "Ex-romantic relationships with X",
+            "Rival of X"
+        ],
+        [
+            "Tian Zhuli",
+            "Superior-Subordinate Relationship",
+            "Mentor-Mentee Relationship"
+        ],
+        [
+            "security guard",
+            "Acquaintance",
+            "Adversary"
+        ]
+    ],
+    "security guard": [
+        [
+            "Qin Ou",
+            "acquaintance",
+            "helped by"
+        ],
+        [
+            "Tian Zhuli",
+            "acquaintance"
+        ],
+        [
+            "Professor Jia",
+            "Acquaintance",
+            "Adversary"
+        ]
+    ]
+}

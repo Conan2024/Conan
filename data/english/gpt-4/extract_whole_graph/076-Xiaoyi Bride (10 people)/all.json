@@ -1,0 +1,102 @@
+{
+    "You": [
+        [
+            "Liao Yiqiao",
+            "father of x"
+        ],
+        [
+            "Grandpa Ren (Ren Zhongyuan)",
+            "employee of x"
+        ],
+        [
+            "XU BOQING",
+            "acquaintance of x, romantic relationships with x, victim of x"
+        ],
+        [
+            "Uncle",
+            "uncle of x"
+        ],
+        [
+            "Cousin",
+            "cousin of x"
+        ]
+    ],
+    "Liao Yiqiao": [
+        [
+            "You",
+            "child of x"
+        ],
+        [
+            "Grandpa Ren (Ren Zhongyuan)",
+            "employer of x"
+        ]
+    ],
+    "Grandpa Ren (Ren Zhongyuan)": [
+        [
+            "You",
+            "servant of x"
+        ],
+        [
+            "Liao Yiqiao",
+            "employee of x"
+        ]
+    ],
+    "XU BOQING": [
+        [
+            "You",
+            "acquaintance of x, romantic relationships with x, perpetrator of x"
+        ],
+        [
+            "Yao zhongyi",
+            "acquaintance of x"
+        ]
+    ],
+    "Uncle": [
+        [
+            "You",
+            "niece of x"
+        ]
+    ],
+    "Cousin": [
+        [
+            "You",
+            "cousin of x"
+        ]
+    ],
+    "Yao zhongyi": [
+        [
+            "XU BOQING",
+            "acquaintance of x"
+        ],
+        [
+            "Physician yu",
+            "friend of x"
+        ],
+        [
+            "Chen Junmeng",
+            "brother in law of x"
+        ],
+        [
+            "Lady Hong",
+            "sibling of x"
+        ]
+    ],
+    "Lady Hong": [
+        [
+            "Yao zhongyi",
+            "sibling of x"
+        ]
+    ],
+    "Physician yu": [
+        [
+            "Yao zhongyi",
+            "friend of x"
+        ]
+    ],
+    "Chen Junmeng": [
+        [
+            "Yao zhongyi",
+            "sister in law of x"
+        ]
+    ]
+}

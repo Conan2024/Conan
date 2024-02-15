@@ -1,0 +1,58 @@
+{
+    "XIA BOLONG": [
+      ["Luo Ming (AMING)", "mentor of x, acquaintance of x"], 
+      ["XIA SANHU", "father of xia sanhu"], 
+      ["Yue Kesa", "romantic relationships with x"], 
+      ["Wu Bobo", "fiance of x"], 
+      ["[Wu Bai] (Wu Baian)", "friend of x, business partner of x"], 
+      ["XIA ZHONGPENG", "father of x"]
+    ],
+    "Luo Ming (AMING)": [
+      ["XIA BOLONG", "student of x, friend of x"], 
+      ["XIA SANHU", "student of x"], 
+      ["Yue Kesa", "romantic relationships with x, friend of x"], 
+      ["Wu Bobo", "friend of x"], 
+      ["[Wu Bai] (Wu Baian)", "romantic relationships with x"], 
+      ["XIA ZHONGPENG", "mentor of x, student of x"]
+    ],
+    "XIA SANHU": [
+      ["XIA BOLONG", "son of xia bolong"], 
+      ["Luo Ming (AMING)", "mentor of x"], 
+      ["Yue Kesa", "mentor of x, student of x"], 
+      ["Wu Bobo", "romantic relationships with x"], 
+      ["[Wu Bai] (Wu Baian)", "friend of x, mentor of x"], 
+      ["XIA ZHONGPENG", "uncle of x"]
+    ],
+    "Yue Kesa": [
+      ["XIA BOLONG", "romantic relationships with x"], 
+      ["Luo Ming (AMING)", "romantic relationships with x, friend of x"], 
+      ["XIA SANHU", "mentee of x, teacher of x"], 
+      ["Wu Bobo", "friend of x"], 
+      ["[Wu Bai] (Wu Baian)", "friend of x, fellow disciple of x"], 
+      ["XIA ZHONGPENG", "friend of x, student of x"]
+    ],
+    "Wu Bobo": [
+      ["XIA BOLONG", "fiancee of x"], 
+      ["Luo Ming (AMING)", "friend of x"], 
+      ["XIA SANHU", "romantic relationships with x"], 
+      ["Yue Kesa", "friend of x"], 
+      ["[Wu Bai] (Wu Baian)", "informant of x, acquaintance of x"], 
+      ["XIA ZHONGPENG", "friend of x"]
+    ],
+    "[Wu Bai] (Wu Baian)": [
+      ["XIA BOLONG", "friend of x, business partner of x"], 
+      ["Luo Ming (AMING)", "romantic relationships with x"], 
+      ["XIA SANHU", "friend of x, student of x"], 
+      ["Yue Kesa", "friend of x, fellow disciple of x"], 
+      ["Wu Bobo", "informant of x, acquaintance of x"], 
+      ["XIA ZHONGPENG", "guard of x"]
+    ],
+    "XIA ZHONGPENG": [
+      ["XIA BOLONG", "son of x"], 
+      ["Luo Ming (AMING)", "student of x, mentor of x"], 
+      ["XIA SANHU", "nephew of x"], 
+      ["Yue Kesa", "mentor of x, helper of x"], 
+      ["Wu Bobo", "friend of x"], 
+      ["[Wu Bai] (Wu Baian)", "mentor of x, guard of x"]
+    ]
+}

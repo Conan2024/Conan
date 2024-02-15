@@ -1,0 +1,33 @@
+{
+    "Qi Yue": [
+      ["Shuang Mian Hu", "manipulated by x, enemy of x"], 
+      ["Feng Shuangji", "employer of x, victim of x"], 
+      ["Zhao Wanlei", "employee of x"], 
+      ["Zhao Luoyi", "sibling of x"], 
+      ["Zhao Qiuer", "sibling of x"], 
+      ["Guo Wangshan", "manipulator of x"]
+    ],
+    "Shuang Mian Hu": [
+      ["Qi Yue", "manipulator of x, enemy of x"], 
+      ["Guo Wangshan", "manipulated by x"]
+    ],
+    "Feng Shuangji": [
+      ["Qi Yue", "employer of x, victim of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Qi Yue", "employee of x"], 
+      ["Yin Shaoming", "cousin of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Qi Yue", "sibling of x"]
+    ],
+    "Zhao Qiuer": [
+      ["Qi Yue", "sibling of x"]
+    ],
+    "Guo Wangshan": [
+      ["Qi Yue", "manipulator of x"]
+    ],
+    "Yin Shaoming": [
+      ["Zhao Wanlei", "cousin of x"]
+    ]
+}

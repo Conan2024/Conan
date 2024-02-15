@@ -1,0 +1,14 @@
+{
+    "Kristin Dunn": [
+      ["Max Pike", "business partner of x, acquaintance of x"], 
+      ["Joe Robertson", "colleague of x, suspicious of x"]
+    ],
+    "Max Pike": [
+      ["Kristin Dunn", "business partner of x, friend of x"], 
+      ["Joe Robertson", "colleague of x, partner of x"]
+    ],
+    "Joe Robertson": [
+      ["Max Pike", "colleague of x, partner of x"], 
+      ["Kristin Dunn", "colleague of x, suspicious of x"]
+    ]
+}

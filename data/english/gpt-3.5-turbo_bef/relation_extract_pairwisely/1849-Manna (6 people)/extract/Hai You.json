@@ -1,0 +1,162 @@
+{
+    "Hai You": [
+      ["Wei Yangfeng", "daughter of x"], 
+      ["Lv Caiqian", "cousin of x"], 
+      ["Tan Renchang", "adoptive father of x"], 
+      ["[Shang Zhi] (Tan Shang Zhi)", "adoptive brother of x"], 
+      ["[Lv Mingran]", "adversary of x"], 
+      ["[Cheng Ge] (Tan Cheng Ge)", "friend of x"], 
+      ["Liao Gongzi", "romantic relationships with x, helper of x"], 
+      ["Valet", "secret lover of x"], 
+      ["Zhou Shi", "child of x"]
+    ],
+    "Wei Yangfeng": [
+      ["Hai You", "father of x"], 
+      ["Zhou Shi", "child of x"], 
+      ["Wei Yangyao", "adoptive sister of x"], 
+      ["Lv Caiqian", "fondness of x, helped by x"], 
+      ["Tan Renchang", "wife of x, fondness of x"], 
+      ["[Shang Zhi] (Tan Shang Zhi)", "student of x"], 
+      ["[Lv Mingran]", "child of x, secret lover of x"], 
+      ["[Cheng Ge] (Tan Cheng Ge)", "daughter in law of x"], 
+      ["A Ping", "romantic relationships with x"], 
+      ["Liao Gongzi", "romantic relationships with x"], 
+      ["Lawyer", "daughter in law of x, relative of x"], 
+      ["Valet", "fondness of x, secret crush of x"]
+    ],
+    "Zhou Shi": [
+      ["Wei Yangfeng", "mother of x"], 
+      ["Wei Yangyao", "mother of x, child of x"], 
+      ["Lv Caiqian", "wife of x"], 
+      ["[Shang Zhi] (Tan Shang Zhi)", "mother of x"], 
+      ["[Lv Mingran]", "mother of x"], 
+      ["[Cheng Ge] (Tan Cheng Ge)", "mother of x"], 
+      ["A Ping", "helper of x, helped by x"], 
+      ["Lawyer", "ex husband of x"], 
+      ["Valet", "helper of x"]
+    ],
+    "Wei Yangyao": [
+      ["Zhou Shi", "child of x"], 
+      ["Mrs. Tan (Luo Mingsha)", "adoptive daughter of x"], 
+      ["Tan Renchang", "friend of x"], 
+      ["[Shang Zhi] (Tan Shang Zhi)", "friend of x"], 
+      ["[Lv Mingran]", "child of x"], 
+      ["[Cheng Ge] (Tan Cheng Ge)", "student of x"], 
+      ["A Ping", "child of x"], 
+      ["Valet", "helper of x, helped by x"]
+    ],
+    "Lv Caiqian": [
+      ["Hai You", "cousin of x"], 
+      ["Wei Yangfeng", "fondness of x, helped by x"], 
+      ["Zhou Shi", "husband of x"], 
+      ["Mrs. Tan (Luo Mingsha)", "fondness of x, secret lover of x"], 
+      ["[Shang Zhi] (Tan Shang Zhi)", "romantic relationships with x, ex romantic relationships with x"], 
+      ["[Lv Mingran]", "wife of x"], 
+      ["[Cheng Ge] (Tan Cheng Ge)", "fiancee of x"], 
+      ["Liao Gongzi", "friend of x, acquaintance of x"], 
+      ["Valet", "daughter of x"]
+    ],
+    "Mrs. Tan (Luo Mingsha)": [
+      ["Hai You", "adoptive mother of x"], 
+      ["Zhou Shi", "adoptive mother of x"], 
+      ["Wei Yangyao", "adoptive mother of x"], 
+      ["Lv Caiqian", "fondness of x, secret lover of x"], 
+      ["[Shang Zhi] (Tan Shang Zhi)", "mentor of x"], 
+      ["[Lv Mingran]", "wife of x"], 
+      ["Liao Gongzi", "romantic relationships with x"], 
+      ["Valet", "helper of x"]
+    ],
+    "Tan Renchang": [
+      ["Hai You", "adoptive daughter of x"], 
+      ["Wei Yangfeng", "husband of x, fondness of x"], 
+      ["Wei Yangyao", "friend of x"], 
+      ["[Shang Zhi] (Tan Shang Zhi)", "husband of x"], 
+      ["[Lv Mingran]", "husband of x"], 
+      ["A Ping", "secret lover of x"], 
+      ["Lawyer", "business partner of x, employer of x"]
+    ],
+    "[Shang Zhi] (Tan Shang Zhi)": [
+      ["Wei Yangfeng", "mentor of x"], 
+      ["Wei Yangyao", "friend of x"], 
+      ["Lv Caiqian", "romantic relationships with x, ex romantic relationships with x"], 
+      ["Mrs. Tan (Luo Mingsha)", "student of x"], 
+      ["Tan Renchang", "wife of x"], 
+      ["[Cheng Ge] (Tan Cheng Ge)", "friend of x"], 
+      ["A Ping", "quest companion of x, informant of x"], 
+      ["Liao Gongzi", "romantic relationships with x"], 
+      ["Lawyer", "romantic relationships with x, acquaintance of x"]
+    ],
+    "[Lv Mingran]": [
+      ["Wei Yangfeng", "secret lover of x"], 
+      ["Zhou Shi", "child of x"], 
+      ["Wei Yangyao", "cousin of x"], 
+      ["Lv Caiqian", "husband of x"], 
+      ["Mrs. Tan (Luo Mingsha)", "husband of x"], 
+      ["Tan Renchang", "wife of x"], 
+      ["[Cheng Ge] (Tan Cheng Ge)", "friend of x"], 
+      ["A Ping", "romantic relationships with x"], 
+      ["Liao Gongzi", "romantic relationships with x, ex romantic relationships with x"], 
+      ["Lawyer", "ex husband of x"], 
+      ["Valet", "helper of x"]
+    ],
+    "[Cheng Ge] (Tan Cheng Ge)": [
+      ["Hai You", "friend of x"], 
+      ["Wei Yangfeng", "mother in law of x"], 
+      ["Zhou Shi", "child of x"], 
+      ["Wei Yangyao", "teacher of x"], 
+      ["Lv Caiqian", "fiance of x"], 
+      ["[Shang Zhi] (Tan Shang Zhi)", "friend of x"], 
+      ["[Lv Mingran]", "friend of x"], 
+      ["A Ping", "romantic relationships with x, informant of x"], 
+      ["Liao Gongzi", "fiance of x"], 
+      ["Lawyer", "informant of x, information receiver from x"], 
+      ["Valet", "servant of x, quest companion of x"]
+    ],
+    "A Ping": [
+      ["Wei Yangfeng", "romantic relationships with x"], 
+      ["Zhou Shi", "helper of x, helped by x"], 
+      ["Tan Renchang", "secret lover of x"], 
+      ["[Shang Zhi] (Tan Shang Zhi)", "quest companion of x, informant of x"], 
+      ["[Lv Mingran]", "romantic relationships with x"], 
+      ["[Cheng Ge] (Tan Cheng Ge)", "romantic relationships with x, informant of x"], 
+      ["Liao Gongzi", "informant of x, information receiver from x"], 
+      ["Lawyer", "information receiver from x, information receiver from x"], 
+      ["Valet", "information receiver from x"]
+    ],
+    "Liao Gongzi": [
+      ["Hai You", "romantic relationships with x"], 
+      ["Wei Yangfeng", "romantic relationships with x"], 
+      ["Lv Caiqian", "friend of x, acquaintance of x"], 
+      ["Mrs. Tan (Luo Mingsha)", "romantic relationships with x"], 
+      ["[Shang Zhi] (Tan Shang Zhi)", "romantic relationships with x"], 
+      ["[Lv Mingran]", "romantic relationships with x, ex romantic relationships with x"], 
+      ["[Cheng Ge] (Tan Cheng Ge)", "fiance of x"], 
+      ["A Ping", "informant of x, information receiver from x"], 
+      ["Lawyer", "fiance of x"], 
+      ["Valet", "helper of x"]
+    ],
+    "Lawyer": [
+      ["Wei Yangfeng", "father in law of x, relative of x"], 
+      ["Zhou Shi", "ex wife of x"], 
+      ["Tan Renchang", "business partner of x, employee of x"], 
+      ["[Shang Zhi] (Tan Shang Zhi)", "romantic relationships with x, acquaintance of x"], 
+      ["[Lv Mingran]", "ex wife of x"], 
+      ["[Cheng Ge] (Tan Cheng Ge)", "helper of x, helped by x"], 
+      ["A Ping", "informant of x, informant of x"], 
+      ["Liao Gongzi", "fiancee of x"], 
+      ["Valet", "helped by x"]
+    ],
+    "Valet": [
+      ["Hai You", "secret lover of x"], 
+      ["Wei Yangfeng", "fondness of x, secret crush of x"], 
+      ["Zhou Shi", "mentor of x"], 
+      ["Wei Yangyao", "master of x, employee of x"], 
+      ["Lv Caiqian", "employer of x"], 
+      ["Mrs. Tan (Luo Mingsha)", "helped by x"], 
+      ["[Lv Mingran]", "helped by x"], 
+      ["[Cheng Ge] (Tan Cheng Ge)", "employer of x"], 
+      ["A Ping", "informant of x"], 
+      ["Liao Gongzi", "helper of x"], 
+      ["Lawyer", "helper of x"]
+    ]
+}

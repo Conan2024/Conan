@@ -1,0 +1,36 @@
+{
+    "Lin Xiaohua": [
+      ["Zhang Eba", "fiancee of x, attempted murderer of x"], 
+      ["Zhao Shuaige", "fiancee of x, romantic relationships with x"], 
+      ["Hao Guimi", "friend of x, seeker of x help from x"], 
+      ["Li Xiaodi", "classmate of x, helper of x"], 
+      ["Wang Xuexi", "classmate of x, potential murderer of x"]
+    ],
+    "Zhang Eba": [
+      ["Lin Xiaohua", "fiance of x, victim of x"], 
+      ["Lin Xiaohua", "informant of x, victim of x"], 
+      ["Hao Guimi", "lover of x, attempted victim of x"], 
+      ["Lin Xiaohua", "fiance of x, perpetrator of x's family"], 
+      ["Lin Xiaohua", "romantic relationships with lin xiaohua, victim of x lin xiaohua"]
+    ],
+    "Zhao Shuaige": [
+      ["Lin Xiaohua", "admirer of x"], 
+      ["Lin Xiaohua", "helper of x, friend of x"], 
+      ["Hao Guimi", "admirer of x, helper of x"], 
+      ["Li Xiaodi", "mentored by of x"]
+    ],
+    "Hao Guimi": [
+      ["Lin Xiaohua", "friend of x, helper of x"], 
+      ["Zhang Eba", "lover of x, saviour of x"], 
+      ["Zhao Shuaige", "helper of x, informant of x"]
+    ],
+    "Li Xiaodi": [
+      ["Lin Xiaohua", "classmate of x, helped by x"], 
+      ["Lin Xiaohua", "romantic relationships with x, suspect to x"], 
+      ["Zhao Shuaige", "attempted perpetrator of x, informer of x"]
+    ],
+    "Wang Xuexi": [
+      ["Lin Xiaohua", "classmate of x, potential victim of x"], 
+      ["Zhang Eba", "classmate of x zhang eba, quest companion of x zhang eba"]
+    ]
+}

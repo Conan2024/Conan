@@ -1,0 +1,40 @@
+{
+    "Zhang Fanghao": [
+      ["Sai Chenyu", "adoptive brother of x, friend of x, business partner of x, colleague of x"], 
+      ["Yang Shuixun", "adoptive brother of x, friend of x"], 
+      ["Huan Ling", "wife of x, romantic relationships with x"], 
+      ["Lan Rui", "husband of x, father of x"], 
+      ["Minxi", "husband of x, father of x"]
+    ],
+    "Sai Chenyu": [
+      ["Zhang Fanghao", "adoptive brother of x, friend of x, business partner of x, colleague of x"], 
+      ["Yang Shuixun", "adoptive brother of x, friend of x"], 
+      ["Huan Ling", "romantic relationships with x, ex romantic relationships with x"]
+    ],
+    "Yang Shuixun": [
+      ["Zhang Fanghao", "adoptive brother of x, friend of x"], 
+      ["Sai Chenyu", "adoptive brother of x, friend of x"], 
+      ["Huan Ling", "adoptive brother of x, friend of x"], 
+      ["Lan Rui", "adoptive brother of x, friend of x"], 
+      ["Minxi", "adoptive brother of x, friend of x"]
+    ],
+    "Huan Ling": [
+      ["Zhang Fanghao", "husband of x, romantic relationships with x"], 
+      ["Sai Chenyu", "romantic relationships with x, ex romantic relationships with x"], 
+      ["Yang Shuixun", "adoptive brother of x, friend of x"], 
+      ["Lan Rui", "wife of x, mother of x"], 
+      ["Minxi", "wife of x"]
+    ],
+    "Lan Rui": [
+      ["Zhang Fanghao", "wife of x, mother of x"], 
+      ["Sai Chenyu", "daughter of x"], 
+      ["Yang Shuixun", "brother of x, friend of x"], 
+      ["Huan Ling", "daughter of x, sibling of x"]
+    ],
+    "Minxi": [
+      ["Zhang Fanghao", "wife of x, mother of x"], 
+      ["Yang Shuixun", "adoptive father of x, friend of x"], 
+      ["Huan Ling", "same person as x (different reference), daughter of x"], 
+      ["Lan Rui", "same person as x (different identity)"]
+    ]
+}

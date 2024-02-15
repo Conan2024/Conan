@@ -1,0 +1,95 @@
+{
+    "Jonathan Perry": [
+      ["Lucy Harrison", "romantic relationships with x, relative of x"], 
+      ["Jonathan's father (Daniel Perry)", "son of x, father of x"], 
+      ["Jonathan's mother (Jacqueline Perry)", "son of x"], 
+      ["Alex Harvey", "informant of x"], 
+      ["John Morgan", "romantic relationships with x, thief of x"], 
+      ["Uncle Harold", "nephew of x, child of x"], 
+      ["Davis Perry", "nephew of x, admired by x"]
+    ],
+    "Lucy's cousin": [
+      ["Lucy Harrison", "romantic relationships with x"], 
+      ["Jonathan's father (Daniel Perry)", "nephew of x, son of x"], 
+      ["Jonathan's mother (Jacqueline Perry)", "nephew of x, friend of x, romantic relationships with x"], 
+      ["Aunt Marina", "nephew of x, disliked by x"], 
+      ["Alex Harvey", "romantic relationships with x, informant of x"], 
+      ["John Morgan", "romantic relationships with x, suspected by x"], 
+      ["Uncle Harold", "sibling of x, child of x, neighbour of x"], 
+      ["Davis Perry", "romantic relationships with x, sibling of x"]
+    ],
+    "Lucy Harrison": [
+      ["Jonathan Perry", "romantic relationships with x, relative of x"], 
+      ["Lucy's cousin", "romantic relationships with x"], 
+      ["Jonathan's father (Daniel Perry)", "cousin of x, romantic relationships with x"], 
+      ["Jonathan's mother (Jacqueline Perry)", "admirer of x, wife of x"], 
+      ["Aunt Marina", "niece of x, disliked by x"], 
+      ["Alex Harvey", "disliked by x, dislike of x"], 
+      ["John Morgan", "cousin of x, romantic relationships with x"], 
+      ["Uncle Harold", "fiancee of x, relative of x"]
+    ],
+    "Jonathan's father (Daniel Perry)": [
+      ["Jonathan Perry", "father of x, son of x"], 
+      ["Lucy's cousin", "uncle of x, brother of x"], 
+      ["Lucy Harrison", "nephew of x, romantic relationships with x"], 
+      ["Alex Harvey", "informant of x, information receiver from x"], 
+      ["John Morgan", "child of x, victim of x"], 
+      ["Uncle Harold", "brother in law of x, uncle of x"], 
+      ["Davis Perry", "uncle of x, admirer of x"]
+    ],
+    "Jonathan's mother (Jacqueline Perry)": [
+      ["Jonathan Perry", "mother of x"], 
+      ["Lucy's cousin", "aunt of x, enemy of x, disliked by x"], 
+      ["Lucy Harrison", "disliked by x, host of x"], 
+      ["Aunt Marina", "sibling of x"], 
+      ["John Morgan", "adversary of x, disliked by x"], 
+      ["Uncle Harold", "sibling of x, colleague of x"], 
+      ["Davis Perry", "step brother of x, dislike of x"]
+    ],
+    "Aunt Marina": [
+      ["Jonathan Perry", "relative of x"], 
+      ["Lucy's cousin", "niece of x, disliked by x"], 
+      ["Lucy Harrison", "nephew of x, disliked by x"], 
+      ["Jonathan's mother (Jacqueline Perry)", "sibling of x"], 
+      ["Alex Harvey", "informant of x, adversary of x"], 
+      ["John Morgan", "dislike of x, victim of x"], 
+      ["Davis Perry", "sibling of x, enemy of x"]
+    ],
+    "Alex Harvey": [
+      ["Jonathan Perry", "informant of x"], 
+      ["Lucy's cousin", "romantic relationships with x, informant of x"], 
+      ["Lucy Harrison", "disliked by x, dislike of x"], 
+      ["Jonathan's father (Daniel Perry)", "informant of x, information receiver from x"], 
+      ["Jonathan's mother (Jacqueline Perry)", "disliked by x"], 
+      ["Aunt Marina", "informant of x, adversary of x"], 
+      ["John Morgan", "secret admirer of x, informant of x"], 
+      ["Uncle Harold", "friend of x"]
+    ],
+    "John Morgan": [
+      ["Jonathan Perry", "romantic relationships with x"], 
+      ["Lucy's cousin", "romantic relationships with x, suspected by x"], 
+      ["Lucy Harrison", "cousin of x, romantic relationships with x"], 
+      ["Jonathan's father (Daniel Perry)", "father of x, victim of x"], 
+      ["Jonathan's mother (Jacqueline Perry)", "adversary of x, disliked by x"], 
+      ["Aunt Marina", "disliked by x, perpetrator of x's family"], 
+      ["Alex Harvey", "secret admirer of x, informant of x"], 
+      ["Uncle Harold", "guard of x"], 
+      ["Davis Perry", "informant of x"]
+    ],
+    "Uncle Harold": [
+      ["Jonathan Perry", "uncle of x"], 
+      ["Lucy's cousin", "sibling of x, child of x, neighbour of x"], 
+      ["Lucy Harrison", "fiance of x, relative of x"], 
+      ["Jonathan's father (Daniel Perry)", "brother in law of x, brother of x"], 
+      ["Jonathan's mother (Jacqueline Perry)", "sibling of x, colleague of x"], 
+      ["Alex Harvey", "friend of x"]
+    ],
+    "Davis Perry": [
+      ["Jonathan Perry", "uncle of x"], 
+      ["Lucy's cousin", "romantic relationships with x, sibling of x"], 
+      ["Jonathan's father (Daniel Perry)", "nephew of x"], 
+      ["Jonathan's mother (Jacqueline Perry)", "step mother of x, dislike of x"], 
+      ["Aunt Marina", "sibling of x, enemy of x"], 
+      ["John Morgan", "nephew of x"]
+    ]
+}

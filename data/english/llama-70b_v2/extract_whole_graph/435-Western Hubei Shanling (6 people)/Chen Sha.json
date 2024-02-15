@@ -1,0 +1,21 @@
+{
+    "Chen Sha": [
+      ["Falcon", "friend of x, savior of x"], 
+      ["Gan Ma", "acquaintance of x, friend of x"]
+    ],
+    "Falcon": [
+      ["Chen Sha", "friend of x, savior of x"], 
+      ["Gan Ma", "fiance of x"]
+    ],
+    "Gan Ma": [
+      ["Chen Sha", "acquaintance of x, friend of x"], 
+      ["Falcon", "fiance of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Chen Sha", "landlord of x, employer of x"], 
+      ["Falcon", "friend of x, employer of x"]
+    ],
+    "Gui Yin": [
+      ["Ba Mansion Mountain", "colleague of x"]
+    ]
+}

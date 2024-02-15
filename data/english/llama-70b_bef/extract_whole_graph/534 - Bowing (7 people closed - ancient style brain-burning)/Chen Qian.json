@@ -1,0 +1,47 @@
+{
+    "Chen Qian": [
+      ["Li Zhong", "husband of x"], 
+      ["Xiao Qian", "friend of x"], 
+      ["Chen Zijing", "father of x"], 
+      ["Madam Chen", "mother of x"], 
+      ["Li Qinren", "father in law of x"], 
+      ["Li Wangye (Prince or Lord)", "enemy of x, attempted perpetrator of x"]
+    ],
+    "Li Zhong": [
+      ["Chen Qian", "wife of x"], 
+      ["Xiao Qian", "friend of x"], 
+      ["Li Qinren", "father of x"], 
+      ["Chen Zijing", "father in law of x"], 
+      ["Li Wangye (Prince or Lord)", "brother of x, enemy of x"]
+    ],
+    "Xiao Qian": [
+      ["Chen Qian", "friend of x"], 
+      ["Li Zhong", "friend of x"], 
+      ["Chen Zijing", "father in law of x"], 
+      ["Madam Chen", "mother of x"], 
+      ["Li Qinren", "father in law of x"]
+    ],
+    "Chen Zijing": [
+      ["Chen Qian", "daughter of x"], 
+      ["Li Zhong", "son in law of x"], 
+      ["Madam Chen", "wife of x"], 
+      ["Li Qinren", "friend of x, father in law of x"]
+    ],
+    "Li Qinren": [
+      ["Li Zhong", "son of x"], 
+      ["Chen Qian", "daughter in law of x"], 
+      ["Xiao Qian", "friend of x"], 
+      ["Chen Zijing", "friend of x, father in law of x"], 
+      ["Li Wangye (Prince or Lord)", "son of x, enemy of x"]
+    ],
+    "Madam Chen": [
+      ["Chen Qian", "daughter of x"], 
+      ["Chen Zijing", "husband of x"], 
+      ["Li Qinren", "friend of x, father in law of x"]
+    ],
+    "Li Wangye (Prince or Lord)": [
+      ["Li Qinren", "father of x"], 
+      ["Li Zhong", "brother of x, enemy of x"], 
+      ["Chen Qian", "enemy of x, attempted perpetrator of x"]
+    ]
+}

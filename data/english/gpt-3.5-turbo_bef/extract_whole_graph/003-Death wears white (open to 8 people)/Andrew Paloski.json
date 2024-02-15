@@ -1,0 +1,20 @@
+{
+    "Andrew Paloski": [
+      ["Hans Li Morette", "colleague of x"], 
+      ["Dean Berkeley", "superior of x"], 
+      ["Head Nurse Costa", "subordinate of x"], 
+      ["Father Tom", "informant of x"]
+    ],
+    "Hans Li Morette": [
+      ["Andrew Paloski", "colleague of x"]
+    ],
+    "Dean Berkeley": [
+      ["Andrew Paloski", "superior of x"]
+    ],
+    "Head Nurse Costa": [
+      ["Andrew Paloski", "subordinate of x"]
+    ],
+    "Father Tom": [
+      ["Andrew Paloski", "informant of x"]
+    ]
+}

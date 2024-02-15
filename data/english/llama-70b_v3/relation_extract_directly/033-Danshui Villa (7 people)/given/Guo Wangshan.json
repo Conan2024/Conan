@@ -1,0 +1,16 @@
+{
+    "Guo Wangshan": [
+      ["Feng Shuangji", "friend of x"], 
+      ["Qi Yue", "acquaintance of x"], 
+      ["Yin Shaoming", "cousin of x"]
+    ],
+    "Feng Shuangji": [
+      ["Guo Wangshan", "friend of x"]
+    ],
+    "Yin Shaoming": [
+      ["Feng Shuangji", "cousin of x"]
+    ],
+    "Qi Yue": [
+      ["Guo Wangshan", "acquaintance of x"]
+    ]
+}

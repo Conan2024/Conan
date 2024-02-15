@@ -1,0 +1,51 @@
+{
+    "Zhuang Qingchun": [
+      ["Qin Expert", "father in law of x"], 
+      ["Qin Laoda", "brother of x"], 
+      ["Jia Meili", "friend of x"], 
+      ["Xiao Tiyu", "secret lover of x"], 
+      ["Zheng Youhao", "acquaintance of x"], 
+      ["Wei Xiaodi", "acquaintance of x"], 
+      ["Zhuang Qingchun's Mother", "mother of x"], 
+      ["Qin Expert", "deceiver of x"]
+    ],
+    "Qin Expert": [
+      ["Zhuang Qingchun", "father in law of x"], 
+      ["Qin Laoda", "father of x"], 
+      ["Zheng Youhao", "acquaintance of x"], 
+      ["Wei Xiaodi", "acquaintance of x"], 
+      ["Jia Meili", "extramarital affair with x"], 
+      ["Zhuang Qingchun's Mother", "husband of x"], 
+      ["Zhuang Qingchun's Mother", "manipulator of x"], 
+      ["Zhuang Qingchun", "deceiver of x"]
+    ],
+    "Qin Laoda": [
+      ["Zhuang Qingchun", "brother of x"], 
+      ["Zhuang Qingchun", "rival in love of x"], 
+      ["Xiao Tiyu", "friend of x"], 
+      ["Zheng Youhao", "acquaintance of x"], 
+      ["Wei Xiaodi", "acquaintance of x"]
+    ],
+    "Jia Meili": [
+      ["Zhuang Qingchun", "friend of x"], 
+      ["Xiao Tiyu", "girlfriend of x"]
+    ],
+    "Xiao Tiyu": [
+      ["Zhuang Qingchun", "secret lover of x"], 
+      ["Jia Meili", "boyfriend of x"], 
+      ["Xue Meiniang", "girlfriend of x"]
+    ],
+    "Xue Meiniang": [
+      ["Xiao Tiyu", "girlfriend of x"]
+    ],
+    "Zheng Youhao": [
+      ["Zhuang Qingchun", "acquaintance of x"], 
+      ["Qin Expert", "acquaintance of x"], 
+      ["Qin Laoda", "acquaintance of x"]
+    ],
+    "Wei Xiaodi": [
+      ["Zhuang Qingchun", "acquaintance of x"], 
+      ["Qin Expert", "acquaintance of x"], 
+      ["Qin Laoda", "acquaintance of x"]
+    ]
+}

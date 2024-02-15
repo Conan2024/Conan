@@ -1,0 +1,471 @@
+{
+    "Guilang": [
+        [
+            "Hei Li",
+            "adopted sibling",
+            "childhood friend"
+        ],
+        [
+            "Luo Wanli",
+            "adopted son, student"
+        ],
+        [
+            "Luo Xueyan",
+            "Child of X",
+            "Sibling of X"
+        ],
+        [
+            "Luo Younuo",
+            "friend",
+            "colleague",
+            "crush"
+        ],
+        [
+            "Mrs. Ruan",
+            "adopted son, child of"
+        ],
+        [
+            "Qi Gufei",
+            "Child of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Wang Zimo",
+            "childhood friend, rival"
+        ],
+        [
+            "Wangdi",
+            "adopted sibling",
+            "childhood friend"
+        ],
+        [
+            "Zhaonan",
+            "Child of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Luo Xueyan",
+            "brother-like relationship"
+        ],
+        [
+            "Mrs. Ruan",
+            "Zhaonan",
+            "Xue Yan"
+        ]
+    ],
+    "Hei Li": [
+        [
+            "Guilang",
+            "adopted sibling",
+            "childhood friend"
+        ],
+        [
+            "Luo Wanli",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Luo Xueyan",
+            "friend, rival"
+        ],
+        [
+            "Luo Younuo",
+            "sibling, childhood friend"
+        ],
+        [
+            "Mrs. Ruan",
+            "adoptive mother, caregiver"
+        ],
+        [
+            "Qi Gufei",
+            "friend",
+            "dance partner"
+        ],
+        [
+            "Wang Zimo",
+            "friend, dance partner"
+        ],
+        [
+            "Wangdi",
+            "Acquaintance",
+            "Friend"
+        ],
+        [
+            "Zhaonan",
+            "friend",
+            "dance partner"
+        ]
+    ],
+    "Luo Wanli": [
+        [
+            "Guilang",
+            "adoptive father, teacher"
+        ],
+        [
+            "Hei Li",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Luo Xueyan",
+            "Father of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Luo Younuo",
+            "Father of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Mrs. Ruan",
+            "landlord, adoptive parent"
+        ],
+        [
+            "Qi Gufei",
+            "Father of X",
+            "Absent Parent"
+        ],
+        [
+            "Wang Zimo",
+            "father-in-law, employer"
+        ],
+        [
+            "Wangdi",
+            "Father of X",
+            "Absent parent"
+        ],
+        [
+            "Zhaonan",
+            "father-daughter",
+            "mentor-mentee"
+        ]
+    ],
+    "Luo Xueyan": [
+        [
+            "Guilang",
+            "Sibling of X",
+            "Child of X"
+        ],
+        [
+            "Hei Li",
+            "friend, rival"
+        ],
+        [
+            "Luo Wanli",
+            "Son of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Luo Younuo",
+            "Sibling of X",
+            "Friend of X"
+        ],
+        [
+            "Mrs. Ruan",
+            "Wangdi",
+            "Zhaonan",
+            "Guilang"
+        ],
+        [
+            "Qi Gufei",
+            "Childhood friend, Roommate, Classmate"
+        ],
+        [
+            "Wang Zimo",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Wangdi",
+            "Childhood friend, Roommate, Servant"
+        ],
+        [
+            "Zhaonan",
+            "friend, rival"
+        ]
+    ],
+    "Luo Younuo": [
+        [
+            "Guilang",
+            "friend",
+            "colleague"
+        ],
+        [
+            "Hei Li",
+            "sibling, childhood friend"
+        ],
+        [
+            "Luo Wanli",
+            "Son of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Luo Xueyan",
+            "Sibling of X",
+            "Friend of X"
+        ],
+        [
+            "Mrs. Ruan",
+            "adopted son, servant"
+        ],
+        [
+            "Qi Gufei",
+            "brother, friend"
+        ],
+        [
+            "Wang Zimo",
+            "brother, friend"
+        ],
+        [
+            "Wangdi",
+            "Childhood friend, Roommate"
+        ],
+        [
+            "Zhaonan",
+            "sibling, rival"
+        ]
+    ],
+    "Mrs. Ruan": [
+        [
+            "Guilang",
+            "adoptive mother, guardian"
+        ],
+        [
+            "Hei Li",
+            "adoptive daughter, ward"
+        ],
+        [
+            "Luo Wanli",
+            "tenant, adoptive child"
+        ],
+        [
+            "Luo Xueyan",
+            "adoptive daughter",
+            "daughter",
+            "son"
+        ],
+        [
+            "Luo Younuo",
+            "adoptive mother, employer"
+        ],
+        [
+            "Qi Gufei",
+            "landlord, adoptive mother, employer"
+        ],
+        [
+            "Wang Zimo",
+            "Landlord, Employer"
+        ],
+        [
+            "Wangdi",
+            "adoptive mother, caretaker"
+        ],
+        [
+            "Zhaonan",
+            "Guilang",
+            "Wangdi",
+            "Xue Yan"
+        ]
+    ],
+    "Qi Gufei": [
+        [
+            "Guilang",
+            "Brother of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Hei Li",
+            "friend",
+            "dance partner"
+        ],
+        [
+            "Luo Wanli",
+            "Son of X",
+            "Step-son"
+        ],
+        [
+            "Luo Xueyan",
+            "Childhood friend, Roommate, Classmate"
+        ],
+        [
+            "Luo Younuo",
+            "brother, friend"
+        ],
+        [
+            "Mrs. Ruan",
+            "landlady, adoptive father, employer"
+        ],
+        [
+            "Wang Zimo",
+            "Friend",
+            "Mentor"
+        ],
+        [
+            "Wangdi",
+            "Childhood friend, Roommate"
+        ],
+        [
+            "Zhaonan",
+            "Friend",
+            "Dance Partner"
+        ]
+    ],
+    "Wang Zimo": [
+        [
+            "Guilang",
+            "childhood friend, rival"
+        ],
+        [
+            "Hei Li",
+            "friend, dance partner"
+        ],
+        [
+            "Luo Wanli",
+            "son-in-law, employee"
+        ],
+        [
+            "Luo Xueyan",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Luo Younuo",
+            "brother, friend"
+        ],
+        [
+            "Mrs. Ruan",
+            "Tenant, Employee"
+        ],
+        [
+            "Qi Gufei",
+            "Friend",
+            "Mentor"
+        ],
+        [
+            "Wangdi",
+            "Husband of X",
+            "Same person as X (different identity)",
+            "Lover of X",
+            "Dancing partner of X",
+            "Drinking companion of X",
+            "Teacher of X",
+            "Promise breaker of X",
+            "Deceased",
+            "Victim of X (murdered)"
+        ],
+        [
+            "Zhaonan",
+            "Acquaintance",
+            "Friend"
+        ]
+    ],
+    "Wangdi": [
+        [
+            "Guilang",
+            "adopted sibling",
+            "childhood friend"
+        ],
+        [
+            "Hei Li",
+            "Acquaintance",
+            "Friend"
+        ],
+        [
+            "Luo Wanli",
+            "Daughter of X",
+            "Nephew of X",
+            "Cousin of X"
+        ],
+        [
+            "Luo Xueyan",
+            "sister-like relationship"
+        ],
+        [
+            "Luo Xueyan",
+            "Childhood friend, Roommate, Servant"
+        ],
+        [
+            "Luo Younuo",
+            "Childhood friend, Roommate"
+        ],
+        [
+            "Mrs. Ruan",
+            "adopted daughter, dependent"
+        ],
+        [
+            "Mrs. Ruan",
+            "Zhaonan",
+            "Xue Yan"
+        ],
+        [
+            "Qi Gufei",
+            "Childhood friend, Roommate"
+        ],
+        [
+            "Wang Zimo",
+            "Wife of X",
+            "Same person as X (different reference)",
+            "Lover of X",
+            "Dancing partner of X",
+            "Drinking companion of X",
+            "Student of X",
+            "Victim of X (broken promise)",
+            "Suspect of X (murder suspect)"
+        ],
+        [
+            "Zhaonan",
+            "sister",
+            "friend",
+            "roommate"
+        ]
+    ],
+    "Zhaonan": [
+        [
+            "Guilang",
+            "Child of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Hei Li",
+            "friend",
+            "dance partner"
+        ],
+        [
+            "Luo Wanli",
+            "daughter-father",
+            "mentee-mentor"
+        ],
+        [
+            "Luo Xueyan",
+            "sister-like relationship",
+            "bully"
+        ],
+        [
+            "Luo Xueyan",
+            "friend, rival"
+        ],
+        [
+            "Luo Younuo",
+            "sibling, rival"
+        ],
+        [
+            "Mrs. Ruan",
+            "Xue Yan",
+            "Guilang"
+        ],
+        [
+            "Qi Gufei",
+            "Friend",
+            "Dance Partner"
+        ],
+        [
+            "Wang Zimo",
+            "Acquaintance",
+            "Friend"
+        ],
+        [
+            "Wangdi",
+            "sister",
+            "friend",
+            "roommate"
+        ]
+    ]
+}

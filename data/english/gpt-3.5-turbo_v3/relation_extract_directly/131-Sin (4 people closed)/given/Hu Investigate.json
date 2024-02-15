@@ -1,0 +1,66 @@
+{
+    "Hu Investigate": [
+        [
+            "Chief Wang",
+            "same person as x (different identity)"
+        ],
+        [
+            "Chief Wang",
+            "authority over x"
+        ],
+        [
+            "Officer Li",
+            "same person as x (different identity)"
+        ],
+        [
+            "Officer Li",
+            "same person as x (different identity)"
+        ],
+        [
+            "Zhao Cishan",
+            "same person as x (different identity)"
+        ],
+        [
+            "Zhao Cishan",
+            "adversary of x"
+        ],
+        [
+            "Zhao Cishan",
+            "victim of x"
+        ]
+    ],
+    "Chief Wang": [
+        [
+            "Hu Investigate",
+            "same person as x (different identity)"
+        ],
+        [
+            "Hu Investigate",
+            "authority over x"
+        ]
+    ],
+    "Officer Li": [
+        [
+            "Hu Investigate",
+            "same person as x (different identity)"
+        ],
+        [
+            "Hu Investigate",
+            "same person as x (different identity)"
+        ]
+    ],
+    "Zhao Cishan": [
+        [
+            "Hu Investigate",
+            "same person as x (different identity)"
+        ],
+        [
+            "Hu Investigate",
+            "adversary of x"
+        ],
+        [
+            "Hu Investigate",
+            "victim of x"
+        ]
+    ]
+}

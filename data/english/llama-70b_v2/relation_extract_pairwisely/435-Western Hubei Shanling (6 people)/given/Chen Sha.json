@@ -1,0 +1,92 @@
+{
+    "Ba Falcon": [
+      ["Ba Mansion Mountain", "friend of x, cousin of x"], 
+      ["Gan Ma", "friend of x, acquaintance of x"], 
+      ["Li Demu", "friend of x, acquaintance of x"], 
+      ["Wang Shi", "friend of x, acquaintance of x"], 
+      ["Zheng Changmin", "friend of x, classmate of x"], 
+      ["Zhou Chensha", "friend of x, acquaintance of x"], 
+      ["Zhou Jingyu", "friend of x, classmate of x"], 
+      ["Zhou Yuntang", "friend of x, acquaintance of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Ba Falcon", "friend of x, cousin of x"], 
+      ["Gan Ma", "friend of x, acquaintance of x"], 
+      ["Li Demu", "co worker of x, friend of x"], 
+      ["Wang Shi", "mother of x, falcon's mother of x"], 
+      ["Zheng Changmin", "friend of x, helper of x"], 
+      ["Zhou Chensha", "friend of x, savior of x"], 
+      ["Zhou Jingyu", "friend of x, acquaintance of x"], 
+      ["Zhou Yuntang", "father of x, master of x"]
+    ],
+    "Gan Ma": [
+      ["Ba Falcon", "friend of x, acquaintance of x"], 
+      ["Ba Mansion Mountain", "friend of x, acquaintance of x"], 
+      ["Li Demu", "acquaintance of x, suspect of x"], 
+      ["Wang Shi", "friend of x, acquaintance of x"], 
+      ["Zheng Changmin", "friend of x, classmate of x"], 
+      ["Zhou Chensha", "friend of x, classmate of x"], 
+      ["Zhou Jingyu", "friend of x, classmate of x"], 
+      ["Zhou Yuntang", "friend of x, acquaintance of x"]
+    ],
+    "Li Demu": [
+      ["Ba Falcon", "friend of x, acquaintance of x"], 
+      ["Ba Mansion Mountain", "co worker of x, friend of x"], 
+      ["Gan Ma", "acquaintance of x, suspect of x"], 
+      ["Wang Shi", "husband of x, perpetrator of x"], 
+      ["Zheng Changmin", "friend of x, acquaintance of x"], 
+      ["Zhou Chensha", "acquaintance of x, suspect of x"], 
+      ["Zhou Jingyu", "suspect of x, perpetrator of x"], 
+      ["Zhou Yuntang", "suspect of x, perpetrator of x"]
+    ],
+    "Wang Shi": [
+      ["Ba Falcon", "friend of x, acquaintance of x"], 
+      ["Ba Mansion Mountain", "mother of x, falcon's mother of x"], 
+      ["Gan Ma", "friend of x, acquaintance of x"], 
+      ["Li Demu", "wife of x, victim of x"], 
+      ["Zheng Changmin", "mother of x, sibling of x"], 
+      ["Zhou Chensha", "mother of x, falcon's friend of x"], 
+      ["Zhou Jingyu", "mother of x, sibling of x"], 
+      ["Zhou Yuntang", "mother of x, wife of x"]
+    ],
+    "Zheng Changmin": [
+      ["Ba Falcon", "friend of x, classmate of x"], 
+      ["Ba Mansion Mountain", "friend of x, helper of x"], 
+      ["Gan Ma", "friend of x, classmate of x"], 
+      ["Li Demu", "friend of x, acquaintance of x"], 
+      ["Wang Shi", "son of x, brother of x"], 
+      ["Zhou Chensha", "friend of x, classmate of x"], 
+      ["Zhou Jingyu", "friend of x, classmate of x"], 
+      ["Zhou Yuntang", "friend of x, travel companion of x"]
+    ],
+    "Zhou Chensha": [
+      ["Ba Falcon", "friend of x, acquaintance of x"], 
+      ["Ba Mansion Mountain", "friend of x, saved of x"], 
+      ["Gan Ma", "friend of x, classmate of x"], 
+      ["Li Demu", "acquaintance of x, victim of x"], 
+      ["Wang Shi", "father of x, friend of x"], 
+      ["Zheng Changmin", "friend of x, classmate of x"], 
+      ["Zhou Jingyu", "brother of x, friend of x"], 
+      ["Zhou Yuntang", "father of x, daughter of x"]
+    ],
+    "Zhou Jingyu": [
+      ["Ba Falcon", "friend of x, classmate of x"], 
+      ["Ba Mansion Mountain", "friend of x, acquaintance of x"], 
+      ["Gan Ma", "friend of x, classmate of x"], 
+      ["Li Demu", "victim of x, suspicious of x"], 
+      ["Wang Shi", "son of x, sibling of x"], 
+      ["Zheng Changmin", "friend of x, classmate of x"], 
+      ["Zhou Chensha", "brother of x, friend of x"], 
+      ["Zhou Yuntang", "brother of x, son of x"]
+    ],
+    "Zhou Yuntang": [
+      ["Ba Falcon", "friend of x, acquaintance of x"], 
+      ["Ba Mansion Mountain", "father of x, master of x"], 
+      ["Gan Ma", "friend of x, acquaintance of x"], 
+      ["Li Demu", "victim of x, informant of x"], 
+      ["Wang Shi", "father of x, husband of x"], 
+      ["Zheng Changmin", "father of x, mentor of x"], 
+      ["Zhou Chensha", "father of x, daughter of x"], 
+      ["Zhou Jingyu", "father of x, relative of x"]
+    ]
+}

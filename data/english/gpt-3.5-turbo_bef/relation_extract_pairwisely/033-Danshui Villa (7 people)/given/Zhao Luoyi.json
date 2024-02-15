@@ -1,0 +1,61 @@
+{
+    "Zhao Luoyi": [
+      ["Zhao Wanlei", "daughter of x, child of x, victim of x"], 
+      ["Feng Shuangji", "informant of x"], 
+      ["Feng Zhu", "acquaintance of x"], 
+      ["Qi Yue", "informant of x, information receiver from x, student of x"], 
+      ["Yin Shaoming", "informant of x, information receiver from x"], 
+      ["Zhao Qiuer", "mentor of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Zhao Luoyi", "father of x, adversary of x"], 
+      ["Zhao Wei", "father of x"], 
+      ["Feng Zhu", "father of x, employer of x"], 
+      ["Qi Yue", "employer of x, patient of x"], 
+      ["Yin Shaoming", "host of x, adversary of x"], 
+      ["Zhao Qiuer", "father of x, employer of x"]
+    ],
+    "Zhao Wei": [
+      ["Zhao Wanlei", "child of x"], 
+      ["Feng Shuangji", "fiancee of x, child of x"], 
+      ["Feng Zhu", "sibling of x"], 
+      ["Qi Yue", "fiancee of x, friend of x"], 
+      ["Yin Shaoming", "helped by x, admirer of x"], 
+      ["Zhao Qiuer", "sibling of x, helper of x"]
+    ],
+    "Feng Shuangji": [
+      ["Zhao Luoyi", "in the lawsuit against x, servant of x"], 
+      ["Zhao Wei", "employer of x, master of x"], 
+      ["Feng Zhu", "mentor of x"], 
+      ["Qi Yue", "helper of x"]
+    ],
+    "Feng Zhu": [
+      ["Zhao Luoyi", "acquaintance of x"], 
+      ["Zhao Wanlei", "child of x, employee of x"], 
+      ["Zhao Wei", "sibling of x"], 
+      ["Feng Shuangji", "student of x"], 
+      ["Qi Yue", "adversary of x, suspected by x"], 
+      ["Zhao Qiuer", "friend of x, employee of x"]
+    ],
+    "Qi Yue": [
+      ["Zhao Luoyi", "informant of x, information receiver from x, teacher of x"], 
+      ["Zhao Wanlei", "employee of x, doctor of x"], 
+      ["Zhao Wei", "fiance of x, friend of x"], 
+      ["Feng Shuangji", "information receiver from x, helped by x"], 
+      ["Feng Zhu", "adversary of x, suspected by x"], 
+      ["Yin Shaoming", "informant of x, saved by x"]
+    ],
+    "Yin Shaoming": [
+      ["Zhao Wanlei", "guest of x, adversary of x"], 
+      ["Zhao Wei", "information receiver from x, saved by x"], 
+      ["Qi Yue", "information receiver from x, saviour of x"], 
+      ["Zhao Qiuer", "admirer of x, saved by x"]
+    ],
+    "Zhao Qiuer": [
+      ["Zhao Luoyi", "master of x, student of x, admirer of x"], 
+      ["Zhao Wanlei", "child of x, employee of x"], 
+      ["Zhao Wei", "sibling of x, helped by x"], 
+      ["Feng Zhu", "friend of x, employer of x"], 
+      ["Yin Shaoming", "admirer of x, saved by x"]
+    ]
+}

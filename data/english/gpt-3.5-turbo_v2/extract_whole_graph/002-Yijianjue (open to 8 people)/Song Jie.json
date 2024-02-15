@@ -1,0 +1,39 @@
+{
+    "Song Jie": [
+      ["Xuan Bingjiao", "messenger of x"], 
+      ["Du Zhong", "delivering letter to of x"], 
+      ["Zi Su", "convey message to of x"], 
+      ["Ren Dong", "contacted by of x"], 
+      ["Lu Ying", "suspected by of x"], 
+      ["Xuan Can", "handed over to of x"], 
+      ["Erxuan Can", "ran into of x"], 
+      ["Mizuki Hall members", "gathered with of x"]
+    ],
+    "Xuan Bingjiao": [
+      ["Song Jie", "messenger of x"]
+    ],
+    "Du Zhong": [
+      ["Song Jie", "receives letter from of x"]
+    ],
+    "Zi Su": [
+      ["Song Jie", "message conveyed by of x"]
+    ],
+    "Ren Dong": [
+      ["Song Jie", "contacts with of x"]
+    ],
+    "Lu Ying": [
+      ["Song Jie", "suspects of x"], 
+      ["Erxuan Can", "caught by of x"]
+    ],
+    "Xuan Can": [
+      ["Song Jie", "handed over to of x"], 
+      ["Erxuan Can", "discussed with of x"]
+    ],
+    "Erxuan Can": [
+      ["Song Jie", "ran into of x"], 
+      ["Lu Ying", "discussed with of x"]
+    ],
+    "Mizuki Hall members": [
+      ["Song Jie", "gathered with of x"]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "Dean Berkeley": [
+      ["Dr. Paloski", "superior of x, employee of x"], 
+      ["Drake Li Morette", "superior of x, employee of x, master of x, subordinate of x, colleague of x"], 
+      ["Elaine Carter", "superior of x, employer of x, master of x, supervisor of x"], 
+      ["Hans Li Morette", "superior of x, employee of x"], 
+      ["Head Nurse Costa", "superior of x, employer of x"], 
+      ["Jim Mason", "supervisor of x intern carter, employer of x intern carter"], 
+      ["Yilin Carter", "superior of x, employer of x, master of x, supervisor of x"]
+    ],
+    "Dr. Paloski": [
+      ["Dean Berkeley", "superior of x, employer of x"], 
+      ["Drake Li Morette", "supervisor of x intern elaine carter, strict and demanding of x"], 
+      ["Elaine Carter", "relationship 1: mentor mentee of x, relationship 2: supervisor intern of x"], 
+      ["Hans Li Morette", "supervisor of x intern elaine carter, strict and demanding of x"], 
+      ["Head Nurse Costa", "relationship 1: mentor of x, relationship 2: supervisor of x"], 
+      ["Jim Mason", "supervisor of x intern elaine carter, strict and demanding mentor of x"], 
+      ["Yilin Carter", "relationship 1: mentor mentee of x, relationship 2: supervisor intern of x"]
+    ],
+    "Drake Li Morette": [
+      ["Dean Berkeley", "superior of x, employee of x, master of x, subordinate of x, colleague of x"], 
+      ["Dr. Paloski", "twin brother and colleague of x, sympathetic towards patients and friendly towards nurses of x"], 
+      ["Elaine Carter", "colleague of x, friend of x"], 
+      ["Hans Li Morette", "relationship 1: twin brothers of x, relationship 2: colleagues of x"], 
+      ["Head Nurse Costa", "relationship 1: mentorship of x, relationship 2: colleague of x"], 
+      ["Jim Mason", "relationship 1: colleague of x, relationship 2: suspect in organ trafficking investigation of x"], 
+      ["Yilin Carter", "superior of x, employee of x, intern of x"]
+    ],
+    "Elaine Carter": [
+      ["Dean Berkeley", "undercover police of x, informant of x, acquaintance of x"], 
+      ["Dr. Paloski", "relationship 1: mentor mentee of x, relationship 2: supervisor intern of x"], 
+      ["Drake Li Morette", "colleague of x, friend of x"], 
+      ["Hans Li Morette", "superior of x, employee of x, intern of x, colleague of x"], 
+      ["Head Nurse Costa", "relationship 1: mentorship of x, relationship 2: friendship of x"], 
+      ["Jim Mason", "acquaintance of x, colleague of x"], 
+      ["Yilin Carter", "supervisor/supervisee of x, mentor/mentee of x, colleague of x, friend of x"]
+    ],
+    "Hans Li Morette": [
+      ["Dean Berkeley", "superior of x, employee of x"], 
+      ["Dr. Paloski", "twin brother and colleague of x, respected and admired of x"], 
+      ["Drake Li Morette", "relationship 1: twin brothers of x, relationship 2: colleagues of x"], 
+      ["Elaine Carter", "superior of x, employee of x, intern of x, colleague of x"], 
+      ["Head Nurse Costa", "colleague of x"], 
+      ["Jim Mason", "colleague of x, superior of x"], 
+      ["Yilin Carter", "superior of x, employee of x, intern of x"]
+    ],
+    "Head Nurse Costa": [
+      ["Dean Berkeley", "subordinate of x, employee of x"], 
+      ["Dr. Paloski", "relationship 1: mentor of x, relationship 2: supervisor of x"], 
+      ["Drake Li Morette", "relationship 1: mentorship of x, relationship 2: colleague of x"], 
+      ["Elaine Carter", "relationship 1: mentorship of x, relationship 2: friendship of x"], 
+      ["Hans Li Morette", "colleague of x"], 
+      ["Jim Mason", "colleague of x"], 
+      ["Yilin Carter", "friendly of x, considerate of x, helpful of x"]
+    ],
+    "Jim Mason": [
+      ["Dean Berkeley", "supervisor of x intern carter, employer of x intern carter"], 
+      ["Dr. Paloski", "dr of x, paloski's intern of x, incompetent intern of x"], 
+      ["Drake Li Morette", "relationship 1: colleague of x, relationship 2: suspect in organ trafficking investigation of x"], 
+      ["Elaine Carter", "acquaintance of x, colleague of x"], 
+      ["Hans Li Morette", "colleague of x, subordinate of x"], 
+      ["Head Nurse Costa", "colleague of x"], 
+      ["Yilin Carter", "acquaintance of x, colleague of x"]
+    ],
+    "Yilin Carter": [
+      ["Dean Berkeley", "intern of x dean berkeley, employee of x, subordinate of x, colleague of x"], 
+      ["Dr. Paloski", "relationship 1: mentor mentee of x, relationship 2: supervisor intern of x"], 
+      ["Drake Li Morette", "superior of x, employee of x, intern of x"], 
+      ["Elaine Carter", "supervisor/supervisee of x, mentor/mentee of x, colleague of x, friend of x"], 
+      ["Hans Li Morette", "superior of x, employee of x, intern of x"], 
+      ["Head Nurse Costa", "friendly of x, considerate of x, helpful of x"], 
+      ["Jim Mason", "acquaintance of x, colleague of x"]
+    ]
+}

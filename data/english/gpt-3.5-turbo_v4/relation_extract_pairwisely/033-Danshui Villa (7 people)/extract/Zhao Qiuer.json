@@ -1,0 +1,44 @@
+{
+    "Zhao Luoyi": [
+      ["Zhao Wanlei", "fondness of x, liked by x"], 
+      ["Zhao Wei", "friend of x"], 
+      ["Feng Shuangji", "employee of x"], 
+      ["Feng Zhu", "employee of x"], 
+      ["Qi Yue", "employee of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Zhao Luoyi", "fondness of x, liked by x"], 
+      ["Zhao Wei", "father of x"], 
+      ["Feng Shuangji", "father of x"], 
+      ["Feng Zhu", "fondness of x"], 
+      ["Qi Yue", "romantic relationships with x, extramarital affair with x"]
+    ],
+    "Zhao Wei": [
+      ["Zhao Luoyi", "friend of x"], 
+      ["Zhao Wanlei", "brother of x"], 
+      ["Feng Shuangji", "secret lover of x"], 
+      ["Feng Zhu", "brother of x"], 
+      ["Qi Yue", "extramarital affair with x"]
+    ],
+    "Feng Shuangji": [
+      ["Zhao Luoyi", "employer of x"], 
+      ["Zhao Wanlei", "servant of x"], 
+      ["Zhao Wei", "secret lover of x"], 
+      ["Feng Zhu", "guard of x, employee of x"], 
+      ["Qi Yue", "mentor of x"]
+    ],
+    "Feng Zhu": [
+      ["Zhao Luoyi", "employee of x"], 
+      ["Zhao Wanlei", "girlfriend of x"], 
+      ["Zhao Wei", "brother of x"], 
+      ["Feng Shuangji", "employer of x, master of x"], 
+      ["Qi Yue", "admired by x"]
+    ],
+    "Qi Yue": [
+      ["Zhao Luoyi", "employee of x"], 
+      ["Zhao Wanlei", "romantic relationships with x, extramarital affair with x"], 
+      ["Zhao Wei", "extramarital affair with x"], 
+      ["Feng Shuangji", "subordinate of x"], 
+      ["Feng Zhu", "friend of x, admired by x"]
+    ]
+}

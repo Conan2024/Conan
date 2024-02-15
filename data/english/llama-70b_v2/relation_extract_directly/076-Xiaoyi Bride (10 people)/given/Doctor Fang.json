@@ -1,0 +1,43 @@
+{
+    "Doctor Fang": [
+      ["Yao Zhongyi", "suspect of x, adversary of x"], 
+      ["Mysterious Man", "acquaintance of x, suspect of x"], 
+      ["Fang Chengshan", "father of x, deceased of x"]
+    ],
+    "Fang Chengshan": [
+      ["Doctor Fang", "daughter of x, deceased of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Doctor Fang", "suspect of x, adversary of x"], 
+      ["Mysterious Man", "friend of x, suspect of x"], 
+      ["Fang Chengshan", "father of x, deceased of x"]
+    ],
+    "Mysterious Man": [
+      ["Doctor Fang", "acquaintance of x, suspect of x"], 
+      ["Yao Zhongyi", "friend of x, suspect of x"]
+    ],
+    "Master Meng": [
+      ["Doctor Fang", "employer of x"], 
+      ["Fang Chengshan", "colleague of x"]
+    ],
+    "Tian Hongjiao": [
+      ["Master Meng", "father of x"], 
+      ["Fang Chengshan", "colleague of x"]
+    ],
+    "Yao Changshou": [
+      ["Yao Zhongyi", "brother of x"], 
+      ["Fang Chengshan", "colleague of x"]
+    ],
+    "Yao Mengren": [
+      ["Yao Changshou", "son of x"], 
+      ["Yao Zhongyi", "brother of x"]
+    ],
+    "Zhang Decai": [
+      ["Doctor Fang", "lover of x"], 
+      ["Zhang Yadi", "brother of x"]
+    ],
+    "Zhang Yadi": [
+      ["Zhang Decai", "brother of x"], 
+      ["Yao Changshou", "nephew of x"]
+    ]
+}

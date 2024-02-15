@@ -1,0 +1,92 @@
+{
+    "Shipyard Worker Wang": [
+        [
+            "First Mate Zhang",
+            "crime partner of x, informant of x, enemy of x"
+        ],
+        [
+            "Worker Wang",
+            "father of x"
+        ],
+        [
+            "Ship Doctor Ling",
+            "father in law of x, helped by x"
+        ],
+        [
+            "Boss Yang",
+            "acquaintance of x, perpetrator of x, deceived by x, enemy of x"
+        ]
+    ],
+    "First Mate Zhang": [
+        [
+            "Shipyard Worker Wang",
+            "business partner of x, superior of x, betrayed by x"
+        ],
+        [
+            "Worker Wang",
+            "superior of x, business partner of x, manipulator of x, perpetrator of x"
+        ],
+        [
+            "Ship Doctor Ling",
+            "father in law of x, superior of x"
+        ],
+        [
+            "Boss Yang",
+            "business partner of x, perpetrator of x"
+        ]
+    ],
+    "Worker Wang": [
+        [
+            "Shipyard Worker Wang",
+            "child of x"
+        ],
+        [
+            "First Mate Zhang",
+            "subordinate of x, business partner of x, manipulated by x, victim of x"
+        ],
+        [
+            "Ship Doctor Ling",
+            "father of x, father in law of x, concerned for x, victim of x, helper of x, helped by x"
+        ],
+        [
+            "Boss Yang",
+            "employed by x, suspect to x"
+        ]
+    ],
+    "Ship Doctor Ling": [
+        [
+            "Shipyard Worker Wang",
+            "daughter in law of x, helper of x"
+        ],
+        [
+            "First Mate Zhang",
+            "daughter in law of x, subordinate of x"
+        ],
+        [
+            "Worker Wang",
+            "child of x, daughter in law of x, helped by x, caring for x, employee of x"
+        ],
+        [
+            "Boss Yang",
+            "debtor of x, victim of x"
+        ]
+    ],
+    "Boss Yang": [
+        [
+            "Shipyard Worker Wang",
+            "acquaintance of x, victim of x"
+        ],
+        [
+            "First Mate Zhang",
+            "business partner of x, customer of x"
+        ],
+        [
+            "Worker Wang",
+            "employer of x, suspected by x"
+        ],
+        [
+            "Ship Doctor Ling",
+            "creditor of x, perpetrator of x"
+        ]
+    ]
+}

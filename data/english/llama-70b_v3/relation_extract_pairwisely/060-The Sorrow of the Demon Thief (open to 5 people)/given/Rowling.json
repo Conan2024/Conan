@@ -1,0 +1,139 @@
+{
+    "Assistant Ella": [
+      ["David", "friend of x"], 
+      ["Ella", "friend of x, colleague of x"], 
+      ["Griff", "friend of x, fiance of x"], 
+      ["Gust", "friend of x, colleague of x"], 
+      ["Kevin", "friend of x, colleague of x"], 
+      ["Magician Gust", "friend of x, suspect of x"], 
+      ["Publicity Rowling", "friend of x, colleague of x"], 
+      ["Rowling", "friend of x, acquaintance of x"], 
+      ["Security Kevin", "friend of x, colleague of x"], 
+      ["Theatrical Work David", "friend of x"]
+    ],
+    "David": [
+      ["Assistant Ella", "friend of x, business partner of x, rival of x"], 
+      ["Ella", "friend of x, rival of x"], 
+      ["Griff", "acquaintance of x, colleague of x"], 
+      ["Gust", "colleague of x, friend of x"], 
+      ["Kevin", "friend of x"], 
+      ["Publicity Rowling", "colleague of x"], 
+      ["Rowling", "acquaintance of x"], 
+      ["Security Kevin", "perpetrator of x, suspect of x"]
+    ],
+    "Ella": [
+      ["Assistant Ella", "friend of x, colleague of x"], 
+      ["David", "friend of x, rival of x"], 
+      ["Griff", "friend of x, acquaintance of x"], 
+      ["Gust", "friend of x"], 
+      ["Kevin", "friend of x"], 
+      ["Magician Gust", "friend of x, colleague of x"], 
+      ["Publicity Rowling", "friend of x, acquaintance of x"], 
+      ["Rowling", "friend of x, colleague of x"], 
+      ["Security Kevin", "friend of x, colleague of x"], 
+      ["Theatrical Work David", "friend of x, acquaintance of x"]
+    ],
+    "Griff": [
+      ["Assistant Ella", "friend of x, suspect of x"], 
+      ["David", "acquaintance of x, colleague of x"], 
+      ["Ella", "friend of x, acquaintance of x"], 
+      ["Gust", "employee of x, superior of x"], 
+      ["Kevin", "employee of x, friend of x"], 
+      ["Magician Gust", "employee of x, acquaintance of x"], 
+      ["Publicity Rowling", "employer of x, master of x, superior of x"], 
+      ["Rowling", "employee of x, friend of x"], 
+      ["Security Kevin", "brother of x"], 
+      ["Theatrical Work David", "brother of x"]
+    ],
+    "Gust": [
+      ["Assistant Ella", "fiance of x, colleague of x"], 
+      ["David", "colleague of x, friend of x"], 
+      ["Ella", "fiance of x"], 
+      ["Ella", "employer of x, acquaintance of x"], 
+      ["Griff", "employer of x, master of x"], 
+      ["Kevin", "employee of x, helped by x"], 
+      ["Magician Gust", "employer of x, master of x, superior of x, mentor of x, teacher of x, perpetrator of x, bully of x, murderer of x"], 
+      ["Publicity Rowling", "employer of x, master of x, superior of x"], 
+      ["Rowling", "employer of x, master of x, superior of x, perpetrator of x, bully of x"], 
+      ["Security Kevin", "employee of x, colleague of x, business partner of x"], 
+      ["Theatrical Work David", "friend of x, colleague of x"]
+    ],
+    "Kevin": [
+      ["Assistant Ella", "brother of x, colleague of x"], 
+      ["Assistant Ella", "brother of x, colleague of x"], 
+      ["David", "brother of x"], 
+      ["Ella", "brother of x, colleague of x"], 
+      ["Ella", "brother of x"], 
+      ["Griff", "brother of x, colleague of x"], 
+      ["Gust", "brother of x, helped by x"], 
+      ["Magician Gust", "brother of x, suspect of x"], 
+      ["Publicity Rowling", "brother of x, suspect of x"], 
+      ["Rowling", "brother of x, acquaintance of x"], 
+      ["Security Kevin", "brother of x, acquaintance of x"], 
+      ["Theatrical Work David", "brother of x, suspicious of x"]
+    ],
+    "Magician Gust": [
+      ["Assistant Ella", "fiance of x, victim of x"], 
+      ["Ella", "fiance of x, colleague of x"], 
+      ["Griff", "employer of x, superior of x, master of x"], 
+      ["Gust", "employer of x, master of x, superior of x, mentor of x, teacher of x, perpetrator of x, bully of x, murderer of x"], 
+      ["Kevin", "employer of x, victim of x"], 
+      ["Publicity Rowling", "employer of x, master of x, superior of x, manipulator of x, bully of x, perpetrator of x"], 
+      ["Rowling", "employer of x, master of x, superior of x, perpetrator of x, bully of x, murderer of x"], 
+      ["Security Kevin", "employer of x, master of x, superior of x, mentor of x, teacher of x, perpetrator of x, bully of x, murderer of x"], 
+      ["Theatrical Work David", "employee of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by x"]
+    ],
+    "Publicity Rowling": [
+      ["Assistant Ella", "employer of x, master of x"], 
+      ["David", "colleague of x"], 
+      ["Ella", "friend of x, acquaintance of x"], 
+      ["Griff", "employee of x, subordinate of x, servant of x"], 
+      ["Gust", "employee of x, subordinate of x, servant of x"], 
+      ["Kevin", "employer of x, victim of x"], 
+      ["Magician Gust", "employee of x, subordinate of x, helped by x, manipulated by x, victim of x, killed by x"], 
+      ["Rowling", "employer of x, master of x, superior of x"], 
+      ["Security Kevin", "brother of x"], 
+      ["Theatrical Work David", "friend of x"]
+    ],
+    "Rowling": [
+      ["Assistant Ella", "friend of x, acquaintance of x"], 
+      ["David", "acquaintance of x"], 
+      ["Ella", "friend of x, colleague of x"], 
+      ["Griff", "employer of x, mentor of x, superior of x"], 
+      ["Gust", "employee of x, subordinate of x, servant of x, victim of x, killed by x"], 
+      ["Kevin", "brother of x, acquaintance of x"], 
+      ["Magician Gust", "employee of x, subordinate of x, servant of x, victim of x, killed by x"], 
+      ["Publicity Rowling", "employee of x, subordinate of x, servant of x"], 
+      ["Security Kevin", "brother of x"], 
+      ["Theatrical Work David", "acquaintance of x"]
+    ],
+    "Security Kevin": [
+      ["Assistant Ella", "friend of x, colleague of x"], 
+      ["David", "victim of x"], 
+      ["Ella", "friend of x, colleague of x"], 
+      ["Griff", "brother of x"], 
+      ["Gust", "employee of x, colleague of x, business partner of x"], 
+      ["Kevin", "employer of x, colleague of x"], 
+      ["Magician Gust", "employee of x, subordinate of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x"], 
+      ["Publicity Rowling", "brother of x"], 
+      ["Rowling", "brother of x"], 
+      ["Theatrical Work David", "brother of x, friend of x"]
+    ],
+    "Theatrical Work David": [
+      ["Assistant Ella", "friend of x"], 
+      ["Ella", "friend of x, acquaintance of x"], 
+      ["Griff", "friend of x"], 
+      ["Gust", "friend of x, colleague of x"], 
+      ["Kevin", "suspicious of x"], 
+      ["Magician Gust", "employee of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by x"], 
+      ["Publicity Rowling", "friend of x"], 
+      ["Rowling", "acquaintance of x"], 
+      ["Security Kevin", "rival of x"]
+    ],
+    "Logistics Griff": [
+      ["Theatrical Work David", "acquaintance of x"]
+    ],
+    "Kevin Kevin": [
+      ["Theatrical Work David", "brother of x"]
+    ]
+}

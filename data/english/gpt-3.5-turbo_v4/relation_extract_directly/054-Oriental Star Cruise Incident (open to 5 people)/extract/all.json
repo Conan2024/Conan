@@ -1,0 +1,29 @@
+{
+    "Han Yimu": [
+      ["Liu Qi", "hate of x, disliked by x, victim of x"], 
+      ["Xiu Renjie", "admired by x"], 
+      ["Lin Ruotong", "suspicious of x"], 
+      ["Hong Zilian", "dislike of x"], 
+      ["ZHANG WENYUAN", "suspected by x"]
+    ],
+    "Liu Qi": [
+      ["Han Yimu", "disliked by x, manipulated by x"], 
+      ["Xiu Renjie", "acquaintance of x"], 
+      ["Hong Zilian", "dislike of x"], 
+      ["ZHANG WENYUAN", "acquaintance of x"]
+    ],
+    "Xiu Renjie": [
+      ["Han Yimu", "admired by x"], 
+      ["Liu Qi", "acquaintance of x"]
+    ],
+    "Lin Ruotong": [
+      ["Han Yimu", "suspicious of x"]
+    ],
+    "Hong Zilian": [
+      ["Han Yimu", "dislike of x"]
+    ],
+    "ZHANG WENYUAN": [
+      ["Han Yimu", "suspected by x"], 
+      ["Liu Qi", "acquaintance of x"]
+    ]
+}

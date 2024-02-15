@@ -1,0 +1,58 @@
+{
+    "He Laoliu": [
+      ["Li Guofu", "friend of x, colleague of x"], 
+      ["Zhang Jie", "friend of x, colleague of x"], 
+      ["Mu Bei", "friend of x"], 
+      ["Big Brother Wang", "friend of x"], 
+      ["Neighbor Wang", "neighbour of x"], 
+      ["Police", "colleague of x, colleague of x"]
+    ],
+    "Li Guofu": [
+      ["He Laoliu", "friend of x, colleague of x"], 
+      ["Mu Bei", "colleague of x"], 
+      ["Mu Bei", "friend of x, helper of x"], 
+      ["Big Brother Wang", "colleague of x"], 
+      ["Neighbor Wang", "neighbour of x"], 
+      ["Police", "colleague of x"]
+    ],
+    "Zhang Jie": [
+      ["He Laoliu", "friend of x, colleague of x"], 
+      ["Mu Bei", "colleague of x"], 
+      ["Mu Bei", "friend of x"], 
+      ["Mu Bei", "helper of x"], 
+      ["Neighbor Wang", "neighbour of x, acquaintance of x"], 
+      ["Police", "colleague of x"]
+    ],
+    "Mu Bei": [
+      ["He Laoliu", "colleague of x"], 
+      ["Li Guofu", "friend of x"], 
+      ["Zhang Jie", "friend of x"], 
+      ["Big Brother Wang", "friend of x"], 
+      ["Neighbor Wang", "acquaintance of x, helper of x"], 
+      ["Police", "colleague of x"]
+    ],
+    "Big Brother Wang": [
+      ["He Laoliu", "friend of x"], 
+      ["Li Guofu", "colleague of x"], 
+      ["Mu Bei", "colleague of x"], 
+      ["Mu Bei", "colleague of x"], 
+      ["Neighbor Wang", "friend of x"], 
+      ["Police", "colleague of x"]
+    ],
+    "Neighbor Wang": [
+      ["He Laoliu", "neighbour of x"], 
+      ["Li Guofu", "neighbour of x"], 
+      ["Zhang Jie", "neighbour of x, acquaintance of x"], 
+      ["Mu Bei", "acquaintance of x, helper of x"], 
+      ["Big Brother Wang", "friend of x"], 
+      ["Police", "neighbour of x"]
+    ],
+    "Police": [
+      ["He Laoliu", "colleague of x, colleague of x"], 
+      ["Li Guofu", "colleague of x"], 
+      ["Zhang Jie", "colleague of x"], 
+      ["Mu Bei", "colleague of x"], 
+      ["Big Brother Wang", "colleague of x"], 
+      ["Neighbor Wang", "neighbour of x"]
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "Gu Mengchu": [
+      ["Yang Shuixun", "mentor of x"], 
+      ["Minxi", "younger sister of x, friend of x"], 
+      ["Xiting", "wife of x"], 
+      ["Boss Zhang", "business partner of x"]
+    ],
+    "Yang Shuixun": [
+      ["Minxi", "daughter of x"]
+    ],
+    "Minxi": [
+      ["Gu Mengchu", "younger sister of x, friend of x"], 
+      ["Yang Shuixun", "father of x"]
+    ],
+    "Xiting": [
+      ["Gu Mengchu", "wife of x"], 
+      ["Mu family", "sister in law of x"]
+    ],
+    "Boss Zhang": [
+      ["Gu Mengchu", "business partner of x"]
+    ],
+    "Zhang Fanghao": [
+      ["Yang Shuixun", "acquaintance of x"], 
+      ["Lan Rui", "acquaintance of x"]
+    ],
+    "Lan Rui": [
+      ["Zhang Fanghao", "acquaintance of x"], 
+      ["Yang Shuixun", "acquaintance of x"]
+    ],
+    "Shen Wusheng": [
+      ["Zhang Fanghao", "acquaintance of x"], 
+      ["Yang Shuixun", "acquaintance of x"]
+    ],
+    "Xinger": [
+      ["Gu Mengchu", "acquaintance of x"]
+    ]
+}

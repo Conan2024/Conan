@@ -1,0 +1,62 @@
+{
+    "Kevin": [
+      ["Ella", "rowling of x, gust of x, david of x, griff of x, co worker of x, acquaintance of x"], 
+      ["Rowling", "sister of x, informant of x"], 
+      ["David", "rowling of x, gust of x, griff of x, ella of x"], 
+      ["Gust", "rowling of x, david of x, griff of x, ella of x"], 
+      ["GRIFF", "rowling of x, david of x, ella of x, gust of x"]
+    ],
+    "Ella": [
+      ["Kevin", "rowling of x, gust of x, david of x, griff of x, co worker of x, acquaintance of x"], 
+      ["Kevin", "gust of x"], 
+      ["Rowling", "sister of x, accomplice of x"], 
+      ["David", "rowling of x, sister of x, acquaintance of x"], 
+      ["Gust", "rowling of x, david of x, friend of x, acquaintance of x"], 
+      ["GRIFF", "rowling of x, sibling relationship of x"]
+    ],
+    "Rowling": [
+      ["Kevin", "ella of x, gust of x, david of x, griff of x, sister of x, thief of x"], 
+      ["Kevin", "brother of x, employee of x"], 
+      ["Kevin", "david of x, gust of x"], 
+      ["Ella", "sister of x, accomplice of x"], 
+      ["Ella", "david of x, kevin of x, sister of x"], 
+      ["Ella", "gust of x, david of x, sister of x, acquaintance of x"], 
+      ["Ella", "kevin of x, sisterly relationship of x"], 
+      ["David", "sister of x, co conspirator of x"], 
+      ["Gust", "sister of x, co conspirator of x"], 
+      ["GRIFF", "sister of x, co conspirator of x"]
+    ],
+    "Gust": [
+      ["Kevin", "ella of x, rowling of x, david of x, griff of x, boss of x, enemy of x"], 
+      ["Kevin", "david of x, rowling of x"], 
+      ["Kevin", "rowling of x, david of x, griff of x, ella of x"], 
+      ["Ella", "colleague of x, victim of x"], 
+      ["David", "ella of x, kevin of x, enemy of x"], 
+      ["Ella", "rowling of x, david of x, mentor of x, teacher of x"], 
+      ["Rowling", "sister of x, co conspirator of x"], 
+      ["David", "friend of x, acquaintance of x"], 
+      ["GRIFF", "employer of x, master of x, superior of x"]
+    ],
+    "David": [
+      ["Kevin", "ella of x, rowling of x, gust of x, griff of x, colleague of x, friend of x"], 
+      ["Kevin", "rowling of x, gust of x, griff of x, ella of x"], 
+      ["Ella", "colleague of x, love interest of x"], 
+      ["Ella", "rowling of x, gust of x, colleague of x"], 
+      ["Ella", "gust of x, rowling of x, friend of x, acquaintance of x"], 
+      ["Rowling", "love interest of x, co conspirator of x"], 
+      ["Gust", "friend of x, acquaintance of x"], 
+      ["GRIFF", "rowling of x, suspect of x, victim of x"]
+    ],
+    "Griff": [
+      ["Kevin", "ella of x, rowling of x, gust of x, david of x, colleague of x, acquaintance of x"], 
+      ["Kevin", "david of x, gust of x"], 
+      ["Ella", "colleague of x, suspicious of x"]
+    ],
+    "GRIFF": [
+      ["Kevin", "rowling of x, david of x, ella of x, gust of x"], 
+      ["Ella", "kevin of x, acquaintance relationship of x"], 
+      ["Rowling", "acquaintance of x, co conspirator of x"], 
+      ["David", "kevin of x, rowling of x, accomplice of x"], 
+      ["Gust", "employee of x, servant of x, subordinate of x"]
+    ]
+}

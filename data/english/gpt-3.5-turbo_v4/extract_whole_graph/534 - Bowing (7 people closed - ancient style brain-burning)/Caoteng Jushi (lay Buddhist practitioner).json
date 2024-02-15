@@ -1,0 +1,71 @@
+{
+    "Caoteng Jushi": [
+      ["Fangfu", "adoptive father of x"], 
+      ["Fang Mian", "hated by x"], 
+      ["Fang Xu", "romantic relationships with x, admirer of x"], 
+      ["Lang Zhong", "informant of x"], 
+      ["Mrs. Fangfang", "hated by x"], 
+      ["Li Qinren", "wife of x, seeker of help from x"], 
+      ["Li Fu", "wife of x, replaced x's identity, murderer of x"], 
+      ["Chen Zijing", "mentor of x"], 
+      ["Li Zhong", "son of x"], 
+      ["Li Yan", "son of x"], 
+      ["Xiao Qian", "adoptive daughter of x, sibling of x"], 
+      ["Chen Qian", "daughter of x, sibling of x"], 
+      ["Master Chen's wife", "mother of x, deceiver of x"], 
+      ["Fang Xu's brother", "father of x"]
+    ],
+    "Fang Mian": [
+      ["Caoteng Jushi", "hated by x"]
+    ],
+    "Fang Xu": [
+      ["Caoteng Jushi", "romantic relationships with x, admirer of x"], 
+      ["Lang Zhong", "informant of x"], 
+      ["Li Qinren", "wife of x"], 
+      ["Li Fu", "wife of x, seeker of help from x"], 
+      ["Li Zhong", "son of x"], 
+      ["Li Yan", "son of x"], 
+      ["Xiao Qian", "saviour of x, helper of x"], 
+      ["Chen Qian", "sibling of x"]
+    ],
+    "Lang Zhong": [
+      ["Caoteng Jushi", "informant of x"], 
+      ["Fang Xu", "informant of x"]
+    ],
+    "Mrs. Fangfang": [
+      ["Caoteng Jushi", "hated by x"]
+    ],
+    "Li Qinren": [
+      ["Fang Xu", "wife of x, seeker of help from x"]
+    ],
+    "Li Fu": [
+      ["Fang Xu", "wife of x, replaced x's identity, murderer of x"]
+    ],
+    "Chen Zijing": [
+      ["Caoteng Jushi", "mentor of x"]
+    ],
+    "Li Zhong": [
+      ["Caoteng Jushi", "son of x"], 
+      ["Fang Xu", "son of x"]
+    ],
+    "Li Yan": [
+      ["Caoteng Jushi", "son of x"], 
+      ["Fang Xu", "son of x"]
+    ],
+    "Xiao Qian": [
+      ["Caoteng Jushi", "adoptive daughter of x, sibling of x"], 
+      ["Fang Xu", "saviour of x, helper of x"], 
+      ["Fang Xu's brother", "father of x"]
+    ],
+    "Chen Qian": [
+      ["Caoteng Jushi", "daughter of x, sibling of x"], 
+      ["Xiao Qian", "sibling of x"], 
+      ["Master Chen's wife", "mother of x, deceiver of x"]
+    ],
+    "Master Chen's wife": [
+      ["Chen Qian", "mother of x, deceiver of x"]
+    ],
+    "Fang Xu's brother": [
+      ["Xiao Qian", "father of x"]
+    ]
+}

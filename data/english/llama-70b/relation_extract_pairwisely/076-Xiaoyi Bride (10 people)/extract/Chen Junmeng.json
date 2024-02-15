@@ -1,0 +1,411 @@
+{
+    "Chen Junmeng": [
+        [
+            "Yao Mengren",
+            "Husband of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Lady Hong",
+            "Wife of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Yao Zhongyi",
+            "Husband of X",
+            "Son of X",
+            "Brother of X",
+            "Sibling of X",
+            "Relative of X",
+            "Nephew of X",
+            "Aunt of X",
+            "Uncle of X"
+        ],
+        [
+            "Chen Anqiao",
+            "Wife of X",
+            "Sister of X",
+            "Daughter of X",
+            "Co-wives of X",
+            "Fiancee of X",
+            "Friend of X",
+            "Informant of X",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X",
+            "Neighbour of X",
+            "Helper of X",
+            "Helped by X",
+            "Perpetrator of X"
+        ],
+        [
+            "Master Meng",
+            "Husband of X",
+            "Son of X",
+            "Brother of X",
+            "Sibling of X",
+            "Relative of X",
+            "Nephew of X",
+            "Aunt of X",
+            "Uncle of X",
+            "Cousin of X",
+            "Friend of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Student of X",
+            "Informant of X",
+            "Information Receiver from X",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X",
+            "Neighbour of X",
+            "Helper of X",
+            "Helped by X",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X",
+            "Attempted Perpetrator of X",
+            "Attempted Murderer of X",
+            "Victim of X",
+            "Killed by X"
+        ],
+        [
+            "Uncle GUI",
+            "Husband of X",
+            "Son of X",
+            "Brother of X",
+            "Relative of X"
+        ]
+    ],
+    "Yao Mengren": [
+        [
+            "Chen Junmeng",
+            "Wife of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Yao Changshou",
+            "Husband of X",
+            "Son of X",
+            "Brother of X",
+            "Nephew of X",
+            "Cousin of X",
+            "Friend of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Student of X",
+            "Informant of X",
+            "Information Receiver from X"
+        ],
+        [
+            "Lady Hong",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Yao Zhongyi",
+            "Husband of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Chen Anqiao",
+            "Husband of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Master Meng",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Uncle GUI",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Lady Hong": [
+        [
+            "Chen Junmeng",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Yao Mengren",
+            "Wife of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Yao Changshou",
+            "Wife of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Yao Zhongyi",
+            "Wife of X",
+            "Suspect of X"
+        ],
+        [
+            "Chen Anqiao",
+            "Wife of X",
+            "Co-wife of X"
+        ],
+        [
+            "Master Meng",
+            "Wife of X",
+            "Daughter-in-law of X",
+            "Sister-in-law of X",
+            "Co-wife of X"
+        ],
+        [
+            "Uncle GUI",
+            "Husband of X (different identity)",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Yao Zhongyi": [
+        [
+            "Chen Junmeng",
+            "Wife of X",
+            "Sister of X",
+            "Brother of X",
+            "Sibling of X",
+            "Relative of X",
+            "Niece of X",
+            "Cousin of X",
+            "Friend of X"
+        ],
+        [
+            "Yao Mengren",
+            "Brother of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Yao Changshou",
+            "Brother of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Lady Hong",
+            "Husband of X",
+            "Suspicious of X"
+        ],
+        [
+            "Chen Anqiao",
+            "Husband of X",
+            "Son of X"
+        ],
+        [
+            "Master Meng",
+            "Suspicious",
+            "Adversary"
+        ],
+        [
+            "Uncle GUI",
+            "Brother of X",
+            "Son of X"
+        ]
+    ],
+    "Chen Anqiao": [
+        [
+            "Chen Junmeng",
+            "Husband of X",
+            "Brother of X",
+            "Son of X",
+            "Father of X",
+            "Mother of X",
+            "Child of X",
+            "Sibling of X",
+            "Co-wives of X",
+            "Fiance of X",
+            "Friend of X",
+            "Informant of X",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X",
+            "Neighbour of X",
+            "Helper of X",
+            "Helped by X"
+        ],
+        [
+            "Yao Mengren",
+            "Wife of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Yao Changshou",
+            "Wife of X",
+            "Servant of X"
+        ],
+        [
+            "Lady Hong",
+            "Husband of X",
+            "Co-husband of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Wife of X",
+            "Daughter-in-law of X"
+        ],
+        [
+            "Master Meng",
+            "Employee of",
+            "Informant of"
+        ],
+        [
+            "Uncle GUI",
+            "Friend",
+            "Acquaintance"
+        ]
+    ],
+    "Master Meng": [
+        [
+            "Chen Junmeng",
+            "Father of X",
+            "Mother of X",
+            "Child of X",
+            "Son of X",
+            "Daughter of X",
+            "Sibling of X",
+            "Brother of X",
+            "Sister of X",
+            "Relative of X",
+            "Nephew of X",
+            "Aunt of X",
+            "Uncle of X",
+            "Cousin of X",
+            "Friend of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Student of X",
+            "Informant of X",
+            "Information Receiver from X",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X",
+            "Neighbour of X",
+            "Helper of X",
+            "Helped by X",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X",
+            "Attempted Perpetrator of X",
+            "Attempted Murderer of X",
+            "Victim of X",
+            "Killed by X"
+        ],
+        [
+            "Yao Mengren",
+            "Father-in-law of X",
+            "Employer of X"
+        ],
+        [
+            "Yao Changshou",
+            "Father-in-law of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Lady Hong",
+            "Husband of X",
+            "Son of X",
+            "Brother-in-law of X",
+            "Co-husband of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Employer",
+            "Perpetrator"
+        ],
+        [
+            "Chen Anqiao",
+            "Employer of",
+            "Mentor of"
+        ],
+        [
+            "Uncle GUI",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ]
+    ],
+    "Uncle GUI": [
+        [
+            "Chen Junmeng",
+            "Father-in-law of X",
+            "Brother-in-law of X",
+            "Sister-in-law of X"
+        ],
+        [
+            "Yao Mengren",
+            "Father-in-law of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Yao Changshou",
+            "Father-in-law of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Lady Hong",
+            "Husband of X (different identity)",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Yao Zhongyi",
+            "Father of X",
+            "Mentor of X"
+        ],
+        [
+            "Chen Anqiao",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Master Meng",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ]
+    ],
+    "Yao Changshou": [
+        [
+            "Yao Mengren",
+            "Father of X",
+            "Grandfather of X",
+            "Brother of X",
+            "Uncle of X",
+            "Nephew of X",
+            "Cousin of X",
+            "Friend of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Student of X",
+            "Informant of X",
+            "Information Receiver from X"
+        ],
+        [
+            "Lady Hong",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Yao Zhongyi",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Chen Anqiao",
+            "Husband of X",
+            "Master of X"
+        ],
+        [
+            "Master Meng",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Uncle GUI",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ]
+    ]
+}

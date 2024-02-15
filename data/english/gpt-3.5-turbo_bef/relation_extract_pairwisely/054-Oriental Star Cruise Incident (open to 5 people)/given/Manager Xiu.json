@@ -1,0 +1,43 @@
+{
+    "Xiu Renjie": [
+      ["Liu Qi", "colleague of x"], 
+      ["Hong Zilian", "acquaintance of x, colleague of x"], 
+      ["Han Yimu", "admirer of x, romantic relationships with x"], 
+      ["Zhang Wenyuan", "friend of x, teacher of x"], 
+      ["Manager Xiu", "friend of x"]
+    ],
+    "Liu Qi": [
+      ["Xiu Renjie", "colleague of x"]
+    ],
+    "Hong Zilian": [
+      ["Xiu Renjie", "colleague of x"], 
+      ["Han Yimu", "friend of x, dislike of x"], 
+      ["Zhang Wenyuan", "acquaintance of x, subordinate of x"]
+    ],
+    "Han Yimu": [
+      ["Xiu Renjie", "admired by x, romantic relationships with x"], 
+      ["Liu Qi", "fondness of x"], 
+      ["Hong Zilian", "friend of x, dislike of x"], 
+      ["Lin Ruotong", "friend of x"], 
+      ["Zhang Wenyuan", "friend of x"], 
+      ["Manager Xiu", "friend of x, informant of x"]
+    ],
+    "Lin Ruotong": [
+      ["Liu Qi", "employer of x"], 
+      ["Zhang Wenyuan", "romantic relationships with x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Xiu Renjie", "student of x"], 
+      ["Hong Zilian", "acquaintance of x, superior of x"], 
+      ["Han Yimu", "friend of x"], 
+      ["Lin Ruotong", "romantic relationships with x"], 
+      ["Manager Xiu", "employer of x, murderer of x"]
+    ],
+    "Manager Xiu": [
+      ["Xiu Renjie", "secret lover of x"], 
+      ["Liu Qi", "murderer of x"], 
+      ["Han Yimu", "friend of x, informant of x"], 
+      ["Lin Ruotong", "subordinate of x"], 
+      ["Zhang Wenyuan", "employee of x, victim of x"]
+    ]
+}

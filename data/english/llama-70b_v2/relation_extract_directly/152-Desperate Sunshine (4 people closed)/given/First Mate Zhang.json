@@ -1,0 +1,31 @@
+{
+    "First Mate Zhang": [
+      ["Boss Yang", "drug transaction partner of x, deceiver of x, murderer of x"], 
+      ["Naive Hen", "brother of x, loyal subordinate of x"], 
+      ["Secretary Wen", "transaction assistant of x, informant of x"], 
+      ["Shipyard Worker Wang", "accomplice of x, loyal subordinate of x"], 
+      ["Ship Doctor Ling", "undercover of x, informant of x"]
+    ],
+    "Naive Hen": [
+      ["First Mate Zhang", "brother of x, leader of x"], 
+      ["Boss Yang", "boss of x, manipulator of x"]
+    ],
+    "Boss Yang": [
+      ["First Mate Zhang", "drug transaction partner of x, deceived of x, murdered of x"], 
+      ["Naive Hen", "loyal subordinate of x, deceased of x"], 
+      ["Secretary Wen", "transaction assistant of x, informant of x"], 
+      ["Shipyard Worker Wang", "accomplice of x"]
+    ],
+    "Secretary Wen": [
+      ["Boss Yang", "boss of x, manipulator of x"], 
+      ["First Mate Zhang", "transaction assistant of x, informant of x"]
+    ],
+    "Shipyard Worker Wang": [
+      ["First Mate Zhang", "accomplice of x, loyal subordinate of x"], 
+      ["Boss Yang", "drug transaction partner of x"]
+    ],
+    "Ship Doctor Ling": [
+      ["First Mate Zhang", "undercover of x, informant of x"], 
+      ["Shipyard Worker Wang", "love interest of x"]
+    ]
+}

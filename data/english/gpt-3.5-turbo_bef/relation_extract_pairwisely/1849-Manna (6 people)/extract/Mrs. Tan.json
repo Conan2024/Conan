@@ -1,0 +1,113 @@
+{
+    "Mrs. Tan": [
+      ["Luo Mingsha", "wife of x, lover of x"], 
+      ["Rosa", "wife of x"], 
+      ["Luo Hengli", "lover of x"], 
+      ["Tan Renchang", "husband of x"], 
+      ["Cai Qian", "romantic relationships with x"], 
+      ["Lv Mingran", "lover of x"]
+    ],
+    "Luo Mingsha": [
+      ["Mrs. Tan", "husband of x, lover of x"], 
+      ["Rosa", "lover of x"], 
+      ["Luo Hengli", "romantic relationships with x"], 
+      ["Tan Renchang", "secret lover of x, extramarital affair with x, romantic relationships with x"], 
+      ["Cai Qian", "secret lover of x"], 
+      ["Lv Mingran", "secret lover of x"], 
+      ["Hai You", "friend of x, teacher of x"], 
+      ["Shang Zhi", "friend of x"], 
+      ["Liao Gongzi", "secret lover of x"]
+    ],
+    "Rosa": [
+      ["Mrs. Tan", "husband of x"], 
+      ["Luo Mingsha", "lover of x"], 
+      ["Luo Hengli", "lover of x"], 
+      ["Tan Renchang", "wife of x"], 
+      ["Cai Qian", "lover of x"], 
+      ["Lv Mingran", "romantic relationships with x"], 
+      ["Shang Zhi", "secret lover of x"], 
+      ["A Ping", "helper of x"], 
+      ["Liao Gongzi", "husband of x"]
+    ],
+    "Luo Hengli": [
+      ["Mrs. Tan", "lover of x"], 
+      ["Luo Mingsha", "romantic relationships with x"], 
+      ["Rosa", "lover of x"], 
+      ["Xinya", "secret lover of x"], 
+      ["Tan Renchang", "secret lover of x"], 
+      ["Hai You", "secret lover of x"], 
+      ["Shang Zhi", "mentor of x, ex boyfriend of x"], 
+      ["A Ping", "friend of x"], 
+      ["Liao Gongzi", "romantic relationships with x"]
+    ],
+    "Xinya": [
+      ["Luo Hengli", "secret lover of x"], 
+      ["Lv Mingran", "helper of x, secret lover of x"], 
+      ["Cai Qian", "friend of x"]
+    ],
+    "Tan Renchang": [
+      ["Mrs. Tan", "wife of x"], 
+      ["Luo Mingsha", "secret lover of x, extramarital affair with x, romantic relationships with x"], 
+      ["Rosa", "husband of x"], 
+      ["Luo Hengli", "secret lover of x"], 
+      ["Cai Qian", "romantic relationships with x, fondness of x"], 
+      ["Hai You", "husband of x"], 
+      ["Shang Zhi", "fiance of x"], 
+      ["A Ping", "husband of x"]
+    ],
+    "Cai Qian": [
+      ["Mrs. Tan", "romantic relationships with x"], 
+      ["Luo Mingsha", "secret lover of x"], 
+      ["Rosa", "lover of x"], 
+      ["Tan Renchang", "romantic relationships with x, fondness of x"], 
+      ["Lv Mingran", "romantic relationships with x"], 
+      ["Hai You", "friend of x"], 
+      ["A Ping", "friend of x"], 
+      ["Liao Gongzi", "romantic relationships with x, secret lover of x"]
+    ],
+    "Lv Mingran": [
+      ["Luo Mingsha", "secret lover of x"], 
+      ["Rosa", "romantic relationships with x"], 
+      ["Xinya", "helper of x, secret lover of x"], 
+      ["Cai Qian", "romantic relationships with x"], 
+      ["Hai You", "secret lover of x"], 
+      ["Shang Zhi", "romantic relationships with x"], 
+      ["A Ping", "secret lover of x"]
+    ],
+    "Hai You": [
+      ["Luo Mingsha", "student of x, friend of x"], 
+      ["Luo Hengli", "secret lover of x"], 
+      ["Tan Renchang", "wife of x"], 
+      ["Cai Qian", "friend of x"], 
+      ["Lv Mingran", "secret lover of x"], 
+      ["Liao Gongzi", "helper of x"]
+    ],
+    "Shang Zhi": [
+      ["Luo Mingsha", "friend of x"], 
+      ["Rosa", "secret lover of x"], 
+      ["Luo Hengli", "student of x, ex girlfriend of x"], 
+      ["Xinya", "colleague of x"], 
+      ["Tan Renchang", "fiance of x"], 
+      ["Lv Mingran", "romantic relationships with x"], 
+      ["A Ping", "student of x"], 
+      ["Liao Gongzi", "friend of x"]
+    ],
+    "A Ping": [
+      ["Rosa", "helped by x"], 
+      ["Luo Hengli", "friend of x"], 
+      ["Tan Renchang", "wife of x"], 
+      ["Cai Qian", "friend of x"], 
+      ["Lv Mingran", "secret lover of x"], 
+      ["Shang Zhi", "mentor of x"], 
+      ["Liao Gongzi", "employee of x"]
+    ],
+    "Liao Gongzi": [
+      ["Luo Mingsha", "secret lover of x"], 
+      ["Rosa", "wife of x"], 
+      ["Luo Hengli", "romantic relationships with x"], 
+      ["Cai Qian", "romantic relationships with x, secret lover of x"], 
+      ["Hai You", "helped by x"], 
+      ["Shang Zhi", "friend of x"], 
+      ["A Ping", "employer of x"]
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "Luo Xue Yan": [
+      ["Luo Wanli", "father of x, daughter of x"], 
+      ["Sun", "mother of x"], 
+      ["Wangdi", "acquaintance of x"], 
+      ["Zhaonan", "sister of x, rival of x"], 
+      ["Qi Gu Fei", "classmate of x"], 
+      ["Baron Smith", "employer of x, master of x"], 
+      ["Wang Zimo", "friend of x, acquaintance of x"], 
+      ["Guangxu", "acquaintance of x, helper of x"], 
+      ["Zhaonan", "sibling of x"]
+    ],
+    "Luo Wanli": [
+      ["Luo Xue Yan", "father of x, daughter of x"], 
+      ["Mrs. Ruan", "landlord of x"], 
+      ["Wangdi", "father of x"], 
+      ["Guilang", "father of x, mentor of x"], 
+      ["Qi Gu Fei", "father of x"], 
+      ["Hei Li", "father of x"], 
+      ["Baron Smith", "father of x"], 
+      ["Wang Zimo", "father in law of x, employer of x"], 
+      ["Guangxu", "father of x, master of x"]
+    ],
+    "Sun": [
+      ["Luo Xue Yan", "mother of x"], 
+      ["Mrs. Ruan", "landlord of x"], 
+      ["Wangdi", "friend of x"], 
+      ["Qi Gu Fei", "wife of x, sister in law of x"], 
+      ["Hei Li", "wife of x"], 
+      ["Baron Smith", "wife of x"], 
+      ["Wang Zimo", "acquaintance of x, friend of x"], 
+      ["Guangxu", "mother of x, wife of x"]
+    ],
+    "Mrs. Ruan": [
+      ["Luo Wanli", "tenant of x"], 
+      ["Sun", "landlord of x"], 
+      ["Wangdi", "adoptive mother of x"], 
+      ["Guilang", "adoptive mother of x"], 
+      ["Qi Gu Fei", "landlord of x, adoptive mother of x, employer of x"], 
+      ["Hei Li", "adoptive mother of x"], 
+      ["Baron Smith", "landlord of x, employer of x"], 
+      ["Wang Zimo", "landlord of x, employer of x"], 
+      ["Guangxu", "landlord of x, mother in law of x"], 
+      ["Zhaonan", "tenant of x"]
+    ],
+    "Wangdi": [
+      ["Luo Xue Yan", "acquaintance of x"], 
+      ["Luo Wanli", "daughter of x, nephew of x, cousin of x"], 
+      ["Sun", "friend of x"], 
+      ["Mrs. Ruan", "daughter of x"], 
+      ["Zhaonan", "sister of x, friend of x"], 
+      ["Qi Gu Fei", "classmate of x"], 
+      ["Hei Li", "sister in law of x, acquaintance of x"], 
+      ["Baron Smith", "acquaintance of x, colleague of x"], 
+      ["Wang Zimo", "wife of x, husband of x, extramarital affair with x, romantic relationships with x, ex romantic relationships with x, fiance of x, fiancee of x, co wives of x, father of x, mother of x, child of x, son of x, daughter of x, sibling of x, brother of x, sister of x, relative of x, nephew of x, aunt of x, uncle of x, niece of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by x, dislike of x, disliked by x, deceiver of x, betrayer of x, deceived by x, betrayed by x, suspected by x, suspicious of x, suspect of x, adversary of x, enemy of x, rival of x, manipulator of x, manipulated by x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["Guangxu", "sister of x, daughter of x, co wives of x, fiancee of x, romantic relationships with x, ex romantic relationships with x"], 
+      ["Zhaonan", "cousin of x"]
+    ],
+    "Zhaonan": [
+      ["Luo Xue Yan", "sister of x, rival of x"], 
+      ["Luo Wanli", "father of x"], 
+      ["Wangdi", "sister of x, friend of x"], 
+      ["Qi Gu Fei", "rival of x"], 
+      ["Wang Zimo", "acquaintance of x"], 
+      ["Baron Smith", "friend of x, acquaintance of x"], 
+      ["Guangxu", "child of x, sibling of x"]
+    ],
+    "Guilang": [
+      ["Luo Wanli", "son of x, student of x"], 
+      ["Zhaonan", "friend of x"], 
+      ["Qi Gu Fei", "classmate of x"], 
+      ["Baron Smith", "friend of x, colleague of x"], 
+      ["Wang Zimo", "rival of x"], 
+      ["Guangxu", "child of x"]
+    ],
+    "Qi Gu Fei": [
+      ["Luo Xue Yan", "classmate of x"], 
+      ["Luo Wanli", "son of x, step son of x"], 
+      ["Sun", "husband of x, brother in law of x"], 
+      ["Mrs. Ruan", "landlord of x, adoptive mother of x, employer of x"], 
+      ["Wangdi", "classmate of x"], 
+      ["Zhaonan", "rival of x"], 
+      ["Guilang", "classmate of x"], 
+      ["Hei Li", "friend of x"], 
+      ["Baron Smith", "acquaintance of x, colleague of x"], 
+      ["Wang Zimo", "friend of x, acquaintance of x"]
+    ],
+    "Hei Li": [
+      ["Luo Wanli", "daughter of x"], 
+      ["Sun", "husband of x"], 
+      ["Mrs. Ruan", "daughter of x"], 
+      ["Wangdi", "sister in law of x, acquaintance of x"], 
+      ["Zhaonan", "same person as x (different reference)"], 
+      ["Qi Gu Fei", "friend of x"], 
+      ["Baron Smith", "friend of x, colleague of x"], 
+      ["Wang Zimo", "friend of x"], 
+      ["Guangxu", "friend of x"]
+    ],
+    "Baron Smith": [
+      ["Luo Xue Yan", "employer of x, master of x"], 
+      ["Luo Wanli", "employer of x"], 
+      ["Sun", "husband of x"], 
+      ["Mrs. Ruan", "tenant of x, employee of x"], 
+      ["Wangdi", "acquaintance of x, employer of x"], 
+      ["Zhaonan", "friend of x, acquaintance of x"], 
+      ["Guilang", "friend of x, colleague of x"], 
+      ["Qi Gu Fei", "acquaintance of x, employer of x"], 
+      ["Hei Li", "friend of x, colleague of x"], 
+      ["Wang Zimo", "employer of x, acquaintance of x"], 
+      ["Guangxu", "employer of x, master of x"]
+    ],
+    "Wang Zimo": [
+      ["Luo Xue Yan", "friend of x, acquaintance of x"], 
+      ["Luo Wanli", "son in law of x, employee of x"], 
+      ["Sun", "acquaintance of x, friend of x"], 
+      ["Mrs. Ruan", "tenant of x, employee of x"], 
+      ["Zhaonan", "acquaintance of x"], 
+      ["Guilang", "rival of x"], 
+      ["Qi Gu Fei", "friend of x, acquaintance of x"], 
+      ["Hei Li", "friend of x"], 
+      ["Baron Smith", "employee of x, acquaintance of x"], 
+      ["Guangxu", "acquaintance of x, friend of x"]
+    ],
+    "Guangxu": [
+      ["Luo Xue Yan", "acquaintance of x, helper of x"], 
+      ["Luo Wanli", "son of x, servant of x"], 
+      ["Sun", "father of x, husband of x"], 
+      ["Mrs. Ruan", "tenant of x, son in law of x"], 
+      ["Wangdi", "sister of x, mother of x, co wives of x, fiance of x, romantic relationships with x, ex romantic relationships with x"], 
+      ["Zhaonan", "sibling of x, child of x"], 
+      ["Guilang", "father of x"], 
+      ["Hei Li", "friend of x"], 
+      ["Baron Smith", "employee of x, servant of x"], 
+      ["Wang Zimo", "acquaintance of x, friend of x"]
+    ]
+}

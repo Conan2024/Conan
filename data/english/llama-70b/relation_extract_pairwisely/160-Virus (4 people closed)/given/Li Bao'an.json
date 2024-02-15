@@ -1,0 +1,112 @@
+{
+    "Li Bao'an": [
+        [
+            "Professor Jia",
+            "Adversary, Enemy, Rival"
+        ],
+        [
+            "Qin Ou",
+            "Friend",
+            "Ally"
+        ],
+        [
+            "Sun Qingjie",
+            "friend, helper, informant"
+        ],
+        [
+            "Tian Zhuli",
+            "Extramarital Affair with X",
+            "Romantic relationships with X",
+            "Ex-romantic relationships with X",
+            "Co-workers of X"
+        ]
+    ],
+    "Professor Jia": [
+        [
+            "Li Bao'an",
+            "Adversary, Enemy, Rival"
+        ],
+        [
+            "Qin Ou",
+            "Tian Zhuli"
+        ],
+        [
+            "Sun Qingjie",
+            "Teacher of X",
+            "Superior of X"
+        ],
+        [
+            "Tian Zhuli",
+            "Supervisor of X",
+            "Supervisee of X"
+        ]
+    ],
+    "Qin Ou": [
+        [
+            "Li Bao'an",
+            "Friend",
+            "Ally"
+        ],
+        [
+            "Professor Jia",
+            "Tian Zhuli"
+        ],
+        [
+            "Sun Qingjie",
+            "friend, ally"
+        ],
+        [
+            "Tian Zhuli",
+            "oppressed by",
+            "retaliate"
+        ]
+    ],
+    "Sun Qingjie": [
+        [
+            "Li Bao'an",
+            "friend, helped by, information receiver"
+        ],
+        [
+            "Professor Jia",
+            "Teacher of X",
+            "Subordinate of X"
+        ],
+        [
+            "Qin Ou",
+            "friend, ally"
+        ],
+        [
+            "Tian Zhuli",
+            " acquaintance",
+            "oppressor"
+        ]
+    ],
+    "Tian Zhuli": [
+        [
+            "Li Bao'an",
+            "Extramarital Affair with X",
+            "Romantic relationships with X",
+            "Ex-romantic relationships with X",
+            "Co-workers of X"
+        ],
+        [
+            "Professor Jia",
+            "Qin Ou"
+        ],
+        [
+            "Professor Jia",
+            "Supervisor of X",
+            "Supervisee of X"
+        ],
+        [
+            "Qin Ou",
+            "oppressor",
+            "blackmailer"
+        ],
+        [
+            "Sun Qingjie",
+            "acquaintance",
+            "oppressed"
+        ]
+    ]
+}

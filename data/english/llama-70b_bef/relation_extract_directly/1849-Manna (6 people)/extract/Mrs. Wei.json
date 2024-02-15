@@ -1,0 +1,69 @@
+{
+    "Mrs. Wei": [
+      ["Tan Renchang", "lover of x"], 
+      ["Lv Shouben", "father of x, grandfather of x"], 
+      ["Li Shi", "mother of x, grandmother of x"], 
+      ["Lv Mingran", "younger brother of x, perpetrator of x"]
+    ],
+    "Mingsha": [
+      ["Tan Renchang", "brother in law of x, acquaintance of x"], 
+      ["Xinya", "acquaintance of x, helper of x"], 
+      ["Lv Shouben", "father in law of x, grandfather of x"], 
+      ["Li Shi", "mother in law of x, grandmother of x"], 
+      ["Lv Mingran", "brother in law of x, perpetrator of x"]
+    ],
+    "Tan Renchang": [
+      ["Mingsha", "wife of x, acquaintance of x"], 
+      ["Mrs. Wei", "lover of x, friend of x"], 
+      ["Xinya", "acquaintance of x, helper of x"], 
+      ["Lv Shouben", "father in law of x, grandfather of x"], 
+      ["Li Shi", "mother in law of x, grandmother of x"], 
+      ["Lv Mingran", "nephew of x, perpetrator of x"]
+    ],
+    "Xinya": [
+      ["Mingsha", "acquaintance of x, helper of x"], 
+      ["Tan Renchang", "master of x, acquaintance of x"], 
+      ["Mrs. Wei", "acquaintance of x"], 
+      ["Lv Shouben", "father in law of x, grandfather of x"], 
+      ["Li Shi", "mother in law of x, grandmother of x"]
+    ],
+    "Lv Shouben": [
+      ["Mrs. Wei", "daughter of x, granddaughter of x"], 
+      ["Lv Mingran", "son of x, grandson of x"], 
+      ["Luo Hengli", "son in law of x, business partner of x"], 
+      ["Mingsha", "daughter in law of x, acquaintance of x"]
+    ],
+    "Li Shi": [
+      ["Mrs. Wei", "daughter of x, granddaughter of x"], 
+      ["Lv Mingran", "son of x, grandson of x"], 
+      ["Luo Hengli", "son in law of x, business partner of x"], 
+      ["Mingsha", "daughter in law of x, acquaintance of x"]
+    ],
+    "Lv Mingran": [
+      ["Mrs. Wei", "mother of x, grandmother of x"], 
+      ["Lv Shouben", "father of x, grandfather of x"], 
+      ["Luo Hengli", "brother in law of x, business partner of x"], 
+      ["Mingsha", "sister in law of x, acquaintance of x"]
+    ],
+    "Shang Zhi": [
+      ["Mingsha", "acquaintance of x"], 
+      ["Tan Renchang", "acquaintance of x, suspect of x"], 
+      ["Mrs. Wei", "acquaintance of x, victim of x"]
+    ],
+    "Hai You": [
+      ["Mingsha", "friend of x, helper of x"], 
+      ["Mrs. Wei", "friend of x"]
+    ],
+    "Cheng Ge": [
+      ["Mingsha", "friend of x, helper of x"], 
+      ["Mrs. Wei", "friend of x"]
+    ],
+    "Lawyer": [
+      ["Mingsha", "friend of x"], 
+      ["Lv Mingran", "friend of x"]
+    ],
+    "A Ping": [
+      ["Mingsha", "employer of x, acquaintance of x"], 
+      ["Mrs. Wei", "acquaintance of x, victim of x"]
+    ]
+}

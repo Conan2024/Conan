@@ -1,0 +1,58 @@
+{
+    "Captain Hong": [
+      ["Han Yimu", "lover of x, secret transaction of x"], 
+      ["Hong Zilian", "lover of x, business partner of x, co conspirator in drug smuggling of x"], 
+      ["Lin Ruotong", "lover of x, secret relationship of x"], 
+      ["Liu Qi", "relationship 1: mentor/teacher of x, relationship 2: superior/subordinate of x"], 
+      ["Xiu Renjie", "superior of xiu renjie, employer of xiu renjie, master of xiu renjie, perpetrator of xiu renjie"], 
+      ["Zhang Wenyuan", "superior of x, employer of x, master of x, subordinate of x, employee of x, business partner of x, customer of x, buyer of x, tenant of x"]
+    ],
+    "Han Yimu": [
+      ["Captain Hong", "lover of x, secret transaction of x"], 
+      ["Hong Zilian", "lover of x, secret partner of x"], 
+      ["Lin Ruotong", "lover of x, secret relationship of x"], 
+      ["Liu Qi", "superior of x, leader of x everyone"], 
+      ["Xiu Renjie", "superior/subordinate of x, employee/employer of x"], 
+      ["Zhang Wenyuan", "colleague of x, superior of x"]
+    ],
+    "Hong Zilian": [
+      ["Captain Hong", "lover of x, direct subordinate of x, co conspirator in drug smuggling of x"], 
+      ["Han Yimu", "lover of x, secret partner of x"], 
+      ["Lin Ruotong", "lover of x, secret relationship of x"], 
+      ["Liu Qi", "superior of x liu qi, mentor of x liu qi, leader of x liu qi"], 
+      ["Xiu Renjie", "superior of xiu renjie, employer of xiu renjie"], 
+      ["Zhang Wenyuan", "superior of x, employer of x, master of x, subordinate of x, employee of x"]
+    ],
+    "Lin Ruotong": [
+      ["Captain Hong", "lover of x, secret relationship of x"], 
+      ["Han Yimu", "lover of x, secret relationship of x"], 
+      ["Hong Zilian", "lover of x, secret relationship of x"], 
+      ["Liu Qi", "relationship 1: teacher student of x, relationship 2: lovers of x"], 
+      ["Xiu Renjie", "relationship 1: superior subordinate of x, relationship 2: lover of x"], 
+      ["Zhang Wenyuan", "lover of x, secret relationship of x"]
+    ],
+    "Liu Qi": [
+      ["Captain Hong", "relationship 1: student/teacher of x, relationship 2: subordinate/superior of x"], 
+      ["Han Yimu", "subordinate of x, colleague of x"], 
+      ["Hong Zilian", "student of x hong zilian, subordinate of x hong zilian, colleague of x hong zilian"], 
+      ["Lin Ruotong", "relationship 1: teacher student of x, relationship 2: lovers of x"], 
+      ["Xiu Renjie", "superior of x, employer of x"], 
+      ["Zhang Wenyuan", "student of x, teacher of x"]
+    ],
+    "Xiu Renjie": [
+      ["Captain Hong", "subordinate of x captain hong, employee of x captain hong, servant of x captain hong, victim of x captain hong"], 
+      ["Han Yimu", "superior/subordinate of x, employee/employer of x"], 
+      ["Hong Zilian", "subordinate of x hong zilian, employee of x hong zilian"], 
+      ["Lin Ruotong", "relationship 1: superior subordinate of x, relationship 2: lover of x"], 
+      ["Liu Qi", "subordinate of x, employee of x"], 
+      ["Zhang Wenyuan", "colleague of x, friend of x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Captain Hong", "two deputy of x, superior of x, employer of x, master of x, subordinate of x, employee of x, business partner of x, customer of x, buyer of x, tenant of x"], 
+      ["Han Yimu", "colleague of x, subordinate of x"], 
+      ["Hong Zilian", "two deputy of x, superior of x, employer of x, master of x, subordinate of x, employee of x"], 
+      ["Lin Ruotong", "lover of x, rival of x"], 
+      ["Liu Qi", "teacher of x, superior of x"], 
+      ["Xiu Renjie", "colleague of x, friend of x"]
+    ]
+}

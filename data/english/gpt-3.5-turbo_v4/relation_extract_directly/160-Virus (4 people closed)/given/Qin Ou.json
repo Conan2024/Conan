@@ -1,0 +1,14 @@
+{
+    "Qin Ou": [
+      ["Tian Zhuli", "girlfriend of x"], 
+      ["Professor Jia", "acquaintance of x"]
+    ],
+    "Tian Zhuli": [
+      ["Qin Ou", "girlfriend of x"], 
+      ["Professor Jia", "helper of x"]
+    ],
+    "Professor Jia": [
+      ["Tian Zhuli", "helper of x"], 
+      ["Qin Ou", "acquaintance of x"]
+    ]
+}

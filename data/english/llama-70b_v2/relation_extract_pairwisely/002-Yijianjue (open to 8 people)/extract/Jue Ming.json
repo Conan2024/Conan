@@ -1,0 +1,44 @@
+{
+    "Jue Ming": [
+      ["Xuan Bingjiao", "adversary of x, enemy of x"], 
+      ["Zi Su", "acquaintance of x, fellow thief of x"], 
+      ["TA", "adversary of x, enemy of x, rival of x"], 
+      ["Lu Ying", "acquaintance of x, colleague of x"], 
+      ["Wang Guan", "acquaintance of x, colleague of x"]
+    ],
+    "Xuan Bingjiao": [
+      ["Jue Ming", "adversary of x, enemy of x"], 
+      ["Zi Su", "acquaintance of x, suspect of x"], 
+      ["TA", "acquaintance of x, helper of x"], 
+      ["Lu Ying", "acquaintance of x, suspect of x"], 
+      ["Wang Guan", "acquaintance of x, colleague of x"]
+    ],
+    "Zi Su": [
+      ["Jue Ming", "acquaintance of x, fellow thief of x"], 
+      ["Xuan Bingjiao", "acquaintance of x, suspect of x"], 
+      ["TA", "acquaintance of x, classmate of x"], 
+      ["Lu Ying", "acquaintance of x"], 
+      ["Wang Guan", "acquaintance of x, classmate of x"]
+    ],
+    "TA": [
+      ["Jue Ming", "adversary of x, enemy of x, rival of x"], 
+      ["Xuan Bingjiao", "acquaintance of x, helper of x"], 
+      ["Zi Su", "acquaintance of x, classmate of x"], 
+      ["Lu Ying", "colleague of x, business partner of x"], 
+      ["Wang Guan", "acquaintance of x"]
+    ],
+    "Lu Ying": [
+      ["Jue Ming", "acquaintance of x, colleague of x"], 
+      ["Xuan Bingjiao", "acquaintance of x, suspect of x"], 
+      ["Zi Su", "acquaintance of x"], 
+      ["TA", "colleague of x, business partner of x"], 
+      ["Wang Guan", "acquaintance of x, colleague of x"]
+    ],
+    "Wang Guan": [
+      ["Jue Ming", "acquaintance of x, colleague of x"], 
+      ["Xuan Bingjiao", "acquaintance of x, colleague of x"], 
+      ["Zi Su", "acquaintance of x, classmate of x"], 
+      ["TA", "acquaintance of x"], 
+      ["Lu Ying", "acquaintance of x, colleague of x"]
+    ]
+}

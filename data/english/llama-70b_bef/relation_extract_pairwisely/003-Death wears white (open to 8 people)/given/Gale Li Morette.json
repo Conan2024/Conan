@@ -1,0 +1,39 @@
+{
+    "Drake Li Morette": [
+      ["Elaine Carter", "lover of x"], 
+      ["Gale Li Morette", "lover of x"], 
+      ["Hans Li Morette", "lover of x"], 
+      ["Head Nurse Costa", "lover of x"], 
+      ["James Lai Li", "lover of x"], 
+      ["Jim Mason", "lover of x"], 
+      ["Elaine Carter", "lover of x"], 
+      ["Hans Li Morette", "lover of x, father of x, brother of x"]
+    ],
+    "Elaine Carter": [
+      ["Drake Li Morette", "lover of x"], 
+      ["Gale Li Morette", "lover of x"], 
+      ["Jim Mason", "victim of x"]
+    ],
+    "Gale Li Morette": [
+      ["Drake Li Morette", "husband of x"], 
+      ["Elaine Carter", "husband of x"], 
+      ["Jim Mason", "husband of x, father of x"]
+    ],
+    "Hans Li Morette": [
+      ["Drake Li Morette", "brother of x, husband of x"], 
+      ["Head Nurse Costa", "victim of x, killed by x"], 
+      ["James Lai Li", "lover of x"]
+    ],
+    "Head Nurse Costa": [
+      ["Drake Li Morette", "acquaintance of x"]
+    ],
+    "James Lai Li": [
+      ["Drake Li Morette", "lover of x"], 
+      ["Hans Li Morette", "lover of x"]
+    ],
+    "Jim Mason": [
+      ["Drake Li Morette", "victim of x"], 
+      ["Elaine Carter", "suspect of x, murderer of x"], 
+      ["Gale Li Morette", "wife of x, victim of x"]
+    ]
+}

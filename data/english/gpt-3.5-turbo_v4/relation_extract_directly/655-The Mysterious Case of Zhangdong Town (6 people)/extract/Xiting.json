@@ -1,0 +1,89 @@
+{
+    "Mu Xiting": [
+      ["Xinger", "friend of x, helper of x"], 
+      ["Gu Chumeng", "wife of x"], 
+      ["Mu Zhongding", "brother of x"], 
+      ["Mu Shuyi", "brother of x"], 
+      ["Mu Boxuan", "brother of x"], 
+      ["Mu Cun", "father of x"], 
+      ["Ms. Lin", "mother of x"], 
+      ["Zhang Lan", "friend of x"], 
+      ["Minxi", "friend of x"], 
+      ["Shen Wusheng", "helper of x"], 
+      ["Yang Shuixun", "relative of x"], 
+      ["Zhang Fanghao", "relative of x"]
+    ],
+    "Xinger": [
+      ["Mu Xiting", "friend of x, helper of x"], 
+      ["Gu Chumeng", "friend of x"], 
+      ["Mu Zhongding", "friend of x"], 
+      ["Mu Shuyi", "friend of x"], 
+      ["Mu Boxuan", "friend of x"], 
+      ["Mu Cun", "employer of x"], 
+      ["Ms. Lin", "employer of x"], 
+      ["Zhang Lan", "friend of x"], 
+      ["Minxi", "friend of x"], 
+      ["Shen Wusheng", "employer of x"], 
+      ["Yang Shuixun", "friend of x"], 
+      ["Zhang Fanghao", "friend of x"]
+    ],
+    "Gu Chumeng": [
+      ["Mu Xiting", "husband of x"], 
+      ["Xinger", "friend of x"], 
+      ["Minxi", "friend of x"]
+    ],
+    "Mu Zhongding": [
+      ["Mu Xiting", "sibling of x"], 
+      ["Xinger", "friend of x"], 
+      ["Minxi", "friend of x"]
+    ],
+    "Mu Shuyi": [
+      ["Mu Xiting", "sibling of x"], 
+      ["Xinger", "friend of x"], 
+      ["Minxi", "friend of x"]
+    ],
+    "Mu Boxuan": [
+      ["Mu Xiting", "sibling of x"], 
+      ["Xinger", "friend of x"], 
+      ["Minxi", "friend of x"]
+    ],
+    "Mu Cun": [
+      ["Mu Xiting", "father of x"], 
+      ["Ms. Lin", "wife of x"]
+    ],
+    "Ms. Lin": [
+      ["Mu Xiting", "mother of x"], 
+      ["Mu Cun", "husband of x"]
+    ],
+    "Zhang Lan": [
+      ["Mu Xiting", "friend of x"], 
+      ["Xinger", "friend of x"], 
+      ["Minxi", "friend of x"]
+    ],
+    "Minxi": [
+      ["Mu Xiting", "friend of x"], 
+      ["Xinger", "friend of x"], 
+      ["Gu Chumeng", "friend of x"], 
+      ["Mu Zhongding", "friend of x"], 
+      ["Mu Shuyi", "friend of x"], 
+      ["Mu Boxuan", "friend of x"], 
+      ["Zhang Lan", "friend of x"], 
+      ["Shen Wusheng", "friend of x"], 
+      ["Yang Shuixun", "friend of x"], 
+      ["Zhang Fanghao", "relative of x"]
+    ],
+    "Shen Wusheng": [
+      ["Mu Xiting", "helper of x"], 
+      ["Xinger", "employer of x"], 
+      ["Minxi", "helper of x"]
+    ],
+    "Yang Shuixun": [
+      ["Xinger", "friend of x"], 
+      ["Minxi", "friend of x"]
+    ],
+    "Zhang Fanghao": [
+      ["Mu Xiting", "friend of x"], 
+      ["Xinger", "friend of x"], 
+      ["Minxi", "friend of x"]
+    ]
+}

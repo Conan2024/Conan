@@ -1,0 +1,22 @@
+{
+    "Zhang Wei": [
+      ["Li Cheng", "friend of x"], 
+      ["Zhao San", "business partner of x"], 
+      ["Ma Laoban", "customer of x"]
+    ],
+    "Zhao Zhongyang": [
+      ["Li Cheng", "patient of x"], 
+      ["Zhao San", "business partner of x"]
+    ],
+    "Li Cheng": [
+      ["Zhang Wei", "friend of x"], 
+      ["Zhao Zhongyang", "patient of x"]
+    ],
+    "Zhao San": [
+      ["Zhang Wei", "business partner of x"], 
+      ["Zhao Zhongyang", "business partner of x"]
+    ],
+    "Ma Laoban": [
+      ["Zhang Wei", "customer of x"]
+    ]
+}

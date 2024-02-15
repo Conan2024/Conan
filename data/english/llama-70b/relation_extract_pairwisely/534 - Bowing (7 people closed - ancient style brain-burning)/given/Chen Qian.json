@@ -1,0 +1,200 @@
+{
+    "Chen Qian": [
+        [
+            "Chen Zijing",
+            "father-son relationship"
+        ],
+        [
+            "Li Qinren",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Li Zhong",
+            "Husband of X",
+            "Lover of X"
+        ],
+        [
+            "Li's acquaintance",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Xiao Qian",
+            "relationship 1",
+            "relationship 2"
+        ]
+    ],
+    "Chen Zijing": [
+        [
+            "Chen Qian",
+            "father-son relationship"
+        ],
+        [
+            "Li Qinren",
+            "Father-in-law",
+            "Father of spouse"
+        ],
+        [
+            "Li Zhong",
+            "Father-in-law",
+            "Suspect of X"
+        ],
+        [
+            "Li's acquaintance",
+            "Father of X",
+            "Mentor of X",
+            "teacher of x",
+            "Student of X",
+            "Informant of X",
+            "Information Receiver from X",
+            "Acquaintance of X",
+            "classmate of x",
+            "Schoolmate of X",
+            "Neighbour of X",
+            "Helper of X",
+            "Helped by X",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X",
+            "Attempted Perpetrator of X",
+            "Attempted Murderer of X",
+            "Victim of X",
+            "killed by x"
+        ],
+        [
+            "Xiao Qian",
+            "Father of X",
+            "adoptive father of X"
+        ]
+    ],
+    "Li Qinren": [
+        [
+            "Chen Qian",
+            "Wife of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Chen Zijing",
+            "Son-in-law",
+            "Husband of daughter"
+        ],
+        [
+            "Li Zhong",
+            "Father-in-law",
+            "Guardian"
+        ],
+        [
+            "Li's acquaintance",
+            "Father-in-law",
+            "Friend"
+        ],
+        [
+            "Xiao Qian",
+            "Father-in-law",
+            "Wedding Banquet"
+        ]
+    ],
+    "Li Zhong": [
+        [
+            "Chen Qian",
+            "Wife of X",
+            "Lover of X"
+        ],
+        [
+            "Chen Zijing",
+            "Husband",
+            "Son-in-law"
+        ],
+        [
+            "Li Qinren",
+            "Husband",
+            "Son-in-law"
+        ],
+        [
+            "Acquaintance",
+            "Friend",
+            "Classmate"
+        ]
+    ],
+    "Li's acquaintance": [
+        [
+            "Chen Qian",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Chen Zijing",
+            "Brother of X",
+            "Sister of X",
+            "Relative of X",
+            "Nephew of X",
+            "Aunt of X",
+            "Uncle of X",
+            "Niece of X",
+            "Cousin of X",
+            "Friend of X",
+            "Mentor of X",
+            "teacher of x",
+            "Student of X",
+            "Informant of X",
+            "Information Receiver from X",
+            "Acquaintance of X",
+            "classmate of x",
+            "Schoolmate of X",
+            "Neighbour of X",
+            "Helper of X",
+            "Helped by X",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X",
+            "Attempted Perpetrator of X",
+            "Attempted Murderer of X",
+            "Victim of X",
+            "killed by x"
+        ],
+        [
+            "Li Qinren",
+            "Acquaintance",
+            "Friend"
+        ],
+        [
+            "Xiao Qian",
+            "Friend",
+            "Classmate",
+            "Schoolmate",
+            "Neighbour"
+        ]
+    ],
+    "Xiao Qian": [
+        [
+            "Chen Qian",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Chen Zijing",
+            "Daughter of X",
+            "adopted daughter of X"
+        ],
+        [
+            "Li Qinren",
+            "Mother-in-law",
+            "Wedding Banquet"
+        ],
+        [
+            "Li's acquaintance",
+            "Friend",
+            "Classmate",
+            "Schoolmate",
+            "Neighbour"
+        ]
+    ],
+    "Acquaintance": [
+        [
+            "Li Zhong",
+            "Friend",
+            "Classmate"
+        ]
+    ]
+}

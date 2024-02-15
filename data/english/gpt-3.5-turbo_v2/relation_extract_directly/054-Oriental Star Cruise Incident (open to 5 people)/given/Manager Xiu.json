@@ -1,0 +1,30 @@
+{
+    "Xiu Renjie": [
+      ["Liu Qi", "ex romantic relationships with x, drug dealer partner of x, killed by x"], 
+      ["Han Yimu", "admirer of x, dislikes liu qi of x"], 
+      ["Lin Ruotong", "employee of x"], 
+      ["Zhang Wenyuan", "superior of x"]
+    ],
+    "Liu Qi": [
+      ["Xiu Renjie", "ex romantic relationships with x, drug dealer partner of x"], 
+      ["Han Yimu", "disliked by x"], 
+      ["Zhang Wenyuan", "colleague of x"]
+    ],
+    "Han Yimu": [
+      ["Xiu Renjie", "admires x, dislikes liu qi of x"], 
+      ["Liu Qi", "disliked by x"]
+    ],
+    "Lin Ruotong": [
+      ["Xiu Renjie", "employee of x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Xiu Renjie", "superior of x"], 
+      ["Liu Qi", "colleague of x"]
+    ],
+    "Manager Xiu": [
+      ["Liu Qi", "ex romantic relationships with x, drug dealer partner of x, killed by x"], 
+      ["Han Yimu", "admirer of x, dislikes liu qi of x"], 
+      ["Lin Ruotong", "employee of x"], 
+      ["Zhang Wenyuan", "superior of x"]
+    ]
+}

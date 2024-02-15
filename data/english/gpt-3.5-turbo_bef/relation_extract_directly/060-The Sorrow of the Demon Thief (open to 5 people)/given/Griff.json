@@ -1,0 +1,28 @@
+{
+    "Logistics Griff": [
+      ["Assistant Ella", "helper of x"], 
+      ["Theatrical Work David", "friend of x"]
+    ],
+    "Magician Gust": [
+      ["Theatrical Work David", "friend of x"], 
+      ["Security Kevin", "secret lover of x"]
+    ],
+    "Assistant Ella": [
+      ["Logistics Griff", "helper of x"], 
+      ["Publicity Rowling", "student of x"]
+    ],
+    "Publicity Rowling": [
+      ["Assistant Ella", "student of x"], 
+      ["Theatrical Work David", "friend of x"]
+    ],
+    "Theatrical Work David": [
+      ["Logistics Griff", "friend of x"], 
+      ["Magician Gust", "friend of x"], 
+      ["Publicity Rowling", "friend of x"], 
+      ["Security Kevin", "suspect of x"]
+    ],
+    "Security Kevin": [
+      ["Magician Gust", "secret lover of x"], 
+      ["Theatrical Work David", "suspect of x"]
+    ]
+}

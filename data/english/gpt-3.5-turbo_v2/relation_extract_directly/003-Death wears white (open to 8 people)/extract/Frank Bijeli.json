@@ -1,0 +1,14 @@
+{
+    "Frank Bijeli": [
+      ["Tony", "brother of x, admired by x"], 
+      ["Father Tom", "deceiver of x, manipulated by x"]
+    ],
+    "Tony": [
+      ["Frank Bijeli", "brother of x, admires x"], 
+      ["Father Tom", "secret manipulator of x"]
+    ],
+    "Father Tom": [
+      ["Frank Bijeli", "manipulated by x"], 
+      ["Tony", "secret manipulator of x"]
+    ]
+}

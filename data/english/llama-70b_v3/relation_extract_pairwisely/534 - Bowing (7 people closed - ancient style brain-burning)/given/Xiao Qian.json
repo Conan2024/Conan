@@ -1,0 +1,144 @@
+{
+    "Caoteng Jushi (lay Buddhist practitioner)": [
+      ["Chen Qian", "friend of x"], 
+      ["Fang Liu", "friend of x"], 
+      ["Fang Mian", "mentor of x"], 
+      ["Fang Ye", "friend of x"], 
+      ["Fang Zhu", "friend of x"], 
+      ["Li Qinren", "friend of x, mentor of x, teacher of x, informant of x, acquaintance of x"], 
+      ["Li Zhong", "friend of x"], 
+      ["Xiao Qian", "mentor of x"]
+    ],
+    "Chen Qian": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "friend of x"], 
+      ["Fang Liu", "friend of x, acquaintance of x"], 
+      ["Fang Mian", "same person as x (different reference), same person as x (different identity)"], 
+      ["Fang Xu", "aunt of x, mother in law of x, mentor of x"], 
+      ["Fang Ye", "niece of x, adoptive father of x"], 
+      ["Fang Zhu", "cousin of x"], 
+      ["Grandma", "same person as x (different reference), same person as x (different identity)"], 
+      ["Li Wangye (Lord Li)", "wife of x, same person as x (different reference)"], 
+      ["Li Yan", "friend of x, acquaintance of x"], 
+      ["Li Zhong", "friend of x, classmate of x"], 
+      ["Xiao Qian", "same person as x (different reference)"]
+    ],
+    "Fang Liu": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "friend of x"], 
+      ["Chen Qian", "friend of x, acquaintance of x"], 
+      ["Fang Mian", "sister in law of x"], 
+      ["Fang Ye", "sibling of x, child of x, son of x, nephew of x, aunt of x, uncle of x, cousin of x"], 
+      ["Fang Zhu", "sibling of x, child of x, son of x"], 
+      ["Grandma", "same person as x (different reference), same person as x (different identity)"], 
+      ["Li Qinren", "enemy of x, rival of x"], 
+      ["Li Wangye (Lord Li)", "aunt of x, suspect of x"], 
+      ["Li Zhong", "friend of x, classmate of x"]
+    ],
+    "Fang Mian": [
+      ["Chen Qian", "same person as x (different reference), same person as x (different identity)"], 
+      ["Fang Liu", "brother in law of x"], 
+      ["Fang Xu", "sister in law of x"], 
+      ["Fang Ye", "sister of x, daughter of x, sibling of x, co wives of x"], 
+      ["Fang Zhu", "sibling of x, co wives of x"], 
+      ["Grandma", "same person as x (different reference), same person as x (different identity)"], 
+      ["Li Qinren", "enemy of x, victim of x, rival of x, suspect of x"], 
+      ["Li Wangye (Lord Li)", "wife of x, same person as x (different reference)"], 
+      ["Li Zhong", "friend of x, classmate of x"], 
+      ["Xiao Qian", "sister in law of x, friend of x"]
+    ],
+    "Fang Xu": [
+      ["Chen Qian", "niece of x, daughter in law of x"], 
+      ["Fang Mian", "husband of x, brother in law of x"], 
+      ["Fang Ye", "sister in law of x"], 
+      ["Fang Zhu", "sister in law of x"], 
+      ["Grandma", "same person as x (different reference), same person as x (different identity)"], 
+      ["Li Qinren", "sister in law of x, brother in law of x, enemy of x"], 
+      ["Li Wangye (Lord Li)", "wife of x, same person as x (different reference)"], 
+      ["Li Zhong", "same person as x (different reference), same person as x (different identity)"], 
+      ["Xiao Qian", "aunt of x, brother of x, cousin of x, uncle of x"]
+    ],
+    "Fang Ye": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "friend of x"], 
+      ["Chen Qian", "niece of x, adoptive father of x"], 
+      ["Fang Liu", "father of x, grandfather of x, master of x, employer of x, mentor of x, teacher of x"], 
+      ["Fang Mian", "father of x, husband of x, same person as x (different reference)"], 
+      ["Fang Xu", "husband of x, father in law of x"], 
+      ["Fang Zhu", "same person as x (different reference), same person as x (different identity)"], 
+      ["Grandma", "perpetrator of x, bully of x"], 
+      ["Li Qinren", "enemy of x"], 
+      ["Li Wangye (Lord Li)", "father of x, same person as x (different reference)"], 
+      ["Li Zhong", "friend of x, acquaintance of x"]
+    ],
+    "Fang Zhu": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "friend of x"], 
+      ["Chen Qian", "cousin of x"], 
+      ["Fang Liu", "sibling of x, child of x, son of x"], 
+      ["Fang Mian", "sibling of x, co wives of x"], 
+      ["Fang Xu", "brother in law of x"], 
+      ["Fang Ye", "same person as x (different reference), same person as x (different identity)"], 
+      ["Grandma", "same person as x (different reference), same person as x (different identity)"], 
+      ["Li Qinren", "enemy of x"], 
+      ["Li Wangye (Lord Li)", "granddaughter of x"], 
+      ["Li Zhong", "friend of x, classmate of x"]
+    ],
+    "Caoteng Jushi ": [
+      ["Grandma", "mentor of x, teacher of x"], 
+      ["Li Yan", "teacher of x, informant of x"]
+    ],
+    "Grandma": [
+      ["Caoteng Jushi ", "mentor of x, teacher of x"], 
+      ["Chen Qian", "same person as x (different reference), same person as x (different identity)"], 
+      ["Fang Liu", "mother of x"], 
+      ["Fang Mian", "same person as x (different reference), same person as x (different identity)"], 
+      ["Fang Xu", "same person as x (different reference), same person as x (different identity)"], 
+      ["Fang Ye", "victim of x, killed by x"], 
+      ["Fang Zhu", "same person as x (different reference), same person as x (different identity)"], 
+      ["Li Yan", "mentor of x"], 
+      ["Xiao Qian", "mentor of x"]
+    ],
+    "Li Qinren": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "friend of x, mentor of x, teacher of x, informant of x, acquaintance of x"], 
+      ["Fang Liu", "enemy of x, rival of x"], 
+      ["Fang Mian", "enemy of x, victim of x, rival of x, suspect of x"], 
+      ["Fang Xu", "sister in law of x, brother in law of x, enemy of x"], 
+      ["Fang Ye", "enemy of x"], 
+      ["Fang Zhu", "enemy of x, adversary of x"], 
+      ["Li Wangye (Lord Li)", "rival of x"], 
+      ["Li Yan", "rival of x, enemy of x"]
+    ],
+    "Li Wangye (Lord Li)": [
+      ["Chen Qian", "husband of x, same person as x (different identity)"], 
+      ["Fang Liu", "rival of x, enemy of x, bully of x"], 
+      ["Fang Mian", "husband of x, same person as x (different identity)"], 
+      ["Fang Xu", "husband of x, same person as x (different identity)"], 
+      ["Fang Ye", "son of x, same person as x (different identity)"], 
+      ["Fang Zhu", "father of x, grandfather of x"], 
+      ["Li Qinren", "rival of x"], 
+      ["Li Yan", "friend of x, mentor of x"]
+    ],
+    "Li Yan": [
+      ["Caoteng Jushi ", "friend of x"], 
+      ["Chen Qian", "friend of x, acquaintance of x"], 
+      ["Li Qinren", "rival of x, enemy of x"], 
+      ["Li Wangye (Lord Li)", "friend of x"], 
+      ["Li Zhong", "enemy of x, rival of x, acquaintance of x"], 
+      ["Suspect of X", "enemy of x, adversary of x, manipulator of x, victim of x, perpetrator of x, bully of x, helper of x, informant of x, friend of x"]
+    ],
+    "Li Zhong": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "friend of x"], 
+      ["Chen Qian", "friend of x, classmate of x"], 
+      ["Fang Liu", "friend of x, classmate of x"], 
+      ["Fang Mian", "friend of x, classmate of x"], 
+      ["Fang Xu", "husband of x, same person as x (different reference), same person as x (different identity)"], 
+      ["Fang Ye", "friend of x, acquaintance of x"], 
+      ["Fang Zhu", "friend of x, classmate of x"], 
+      ["Li Yan", "enemy of x, rival of x, acquaintance of x"]
+    ],
+    "Xiao Qian": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "friend of x"], 
+      ["Chen Qian", "same person as x (different reference)"], 
+      ["Fang Mian", "sister in law of x, friend of x"], 
+      ["Fang Xu", "aunt of x, father of x, cousin of x, uncle of x"], 
+      ["Grandma", "mentor of x"], 
+      ["Li Yan", "suspect of x, enemy of x, adversary of x, manipulator of x, victim of x, perpetrator of x, bully of x, helper of x, informant of x, friend of x"]
+    ]
+}

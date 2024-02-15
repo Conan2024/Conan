@@ -1,0 +1,38 @@
+{
+    "Xia Shue": [
+      ["Xia Sanhu", "uncle of x, mentor of x"], 
+      ["Xia Zhongpeng", "uncle of x, mentor of x"], 
+      ["Luo Ming", "teacher of x, friend of x"], 
+      ["Yue Kesa", "teacher of x, friend of x"], 
+      ["Wu Bobo", "acquaintance of x, suspect of x"], 
+      ["Wu Xiao", "acquaintance of x, suspect of x"]
+    ],
+    "Luo Ming": [
+      ["Xia Shue", "teacher of x, friend of x"], 
+      ["Yue Kesa", "friend of x, rival of x"]
+    ],
+    "Yue Kesa": [
+      ["Xia Shue", "teacher of x, friend of x"], 
+      ["Luo Ming", "friend of x, rival of x"]
+    ],
+    "Xia Sanhu": [
+      ["Xia Shue", "nephew of x, student of x"], 
+      ["Xia Zhongpeng", "brother of x, mentor of x"]
+    ],
+    "Xia Zhongpeng": [
+      ["Xia Shue", "nephew of x, student of x"], 
+      ["Xia Sanhu", "brother of x, mentor of x"]
+    ],
+    "Wu Bobo": [
+      ["Xia Shue", "acquaintance of x, suspect of x"], 
+      ["Wu Xiao", "son of x, accomplice of x"]
+    ],
+    "Wu Xiao": [
+      ["Wu Bobo", "father of x, accomplice of x"], 
+      ["Xia Shue", "acquaintance of x, suspect of x"]
+    ],
+    "Aming": [
+      ["Xia Shue", "disciple of x, friend of x"], 
+      ["Yue Kesa", "friend of x, rival of x"]
+    ]
+}

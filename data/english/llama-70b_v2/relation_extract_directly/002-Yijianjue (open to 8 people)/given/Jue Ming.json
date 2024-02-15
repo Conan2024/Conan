@@ -1,0 +1,22 @@
+{
+    "Jue Ming": [
+      ["Xuan Bingjiao", "same person as x (different reference)"], 
+      ["Zi Su", "suspect of x"]
+    ],
+    "Xuan Bingjiao": [
+      ["Jue Ming", "same person as x (different reference)"], 
+      ["Mysterious Ice Sect's Messenger", "disguise as x"]
+    ],
+    "Mysterious Ice Sect's Messenger": [
+      ["Jue Ming", "disguise as x"], 
+      ["Xuan Bingjiao", "real identity of x"]
+    ],
+    "Zi Su": [
+      ["Jue Ming", "suspect of x"], 
+      ["Xuan Bingjiao", "acquaintance of x"]
+    ],
+    "Lu Ying": [
+      ["Jue Ming", "colleague of x"], 
+      ["Xuan Bingjiao", "colleague of x"]
+    ]
+}

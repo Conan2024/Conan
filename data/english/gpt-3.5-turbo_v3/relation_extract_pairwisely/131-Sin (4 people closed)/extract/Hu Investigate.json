@@ -1,0 +1,134 @@
+{
+    "Hu Investigate": [
+        [
+            "Village Chief Wang",
+            "informant of x, suspicious of x"
+        ],
+        [
+            "Officer Li",
+            "informant of x, information receiver from x, adversary of x"
+        ],
+        [
+            "Zhao Cishan",
+            "victim of x, attempted perpetrator of x"
+        ],
+        [
+            "Hu Investigate's two sons",
+            "father of x, attempted perpetrator of x"
+        ],
+        [
+            "Zhang Villager",
+            "neighbour of x, informant of x"
+        ]
+    ],
+    "Village Chief Wang": [
+        [
+            "Hu Investigate",
+            "information receiver from x, subject of investigation for x"
+        ],
+        [
+            "Officer Li",
+            "helper of x, informant of x"
+        ],
+        [
+            "Zhao Cishan",
+            "suspected by x, murderer of x"
+        ],
+        [
+            "Hu Investigate's two sons",
+            "guard of x, in the lawsuit against x"
+        ],
+        [
+            "Hu Investigate",
+            "subject of investigation for x"
+        ]
+    ],
+    "Officer Li": [
+        [
+            "Hu Investigate",
+            "informant of x, information receiver from x, adversary of x"
+        ],
+        [
+            "Village Chief Wang",
+            "informant of x, information receiver from x"
+        ],
+        [
+            "Zhao Cishan",
+            "adversary of x, informant of x"
+        ],
+        [
+            "Hu Investigate's two sons",
+            "student of x, helper of x"
+        ],
+        [
+            "Zhang Villager",
+            "perpetrator of x, suspect to x"
+        ]
+    ],
+    "Zhao Cishan": [
+        [
+            "Hu Investigate",
+            "attempted perpetrator of x, victim of x"
+        ],
+        [
+            "Village Chief Wang",
+            "secret admirer of x, killed by x"
+        ],
+        [
+            "Officer Li",
+            "adversary of x, informant of x"
+        ],
+        [
+            "Hu Investigate's two sons",
+            "perpetrator of x, victim of x"
+        ],
+        [
+            "Zhang Villager",
+            "victim of x, possibly family of x"
+        ]
+    ],
+    "Hu Investigate's two sons": [
+        [
+            "Hu Investigate",
+            "son of x, victim of x"
+        ],
+        [
+            "Village Chief Wang",
+            "suspicious of x, victim of x"
+        ],
+        [
+            "Officer Li",
+            "mentor of x, helped by x"
+        ],
+        [
+            "Zhao Cishan",
+            "perpetrator of x, victim of x"
+        ],
+        [
+            "Zhang Villager",
+            "helper of x, neighbour of x"
+        ]
+    ],
+    "Zhang Villager": [
+        [
+            "Hu Investigate",
+            "neighbour of x, information receiver from x"
+        ],
+        [
+            "Village Chief Wang",
+            "neighbour of x"
+        ],
+        [
+            "Officer Li",
+            "victim of x, murderer of x"
+        ],
+        [
+            "Zhao Cishan",
+            "informant of x, helper of x"
+        ],
+        [
+            "Hu Investigate's two sons",
+            "neighbour of x, helped by x"
+        ]
+    ]
+}

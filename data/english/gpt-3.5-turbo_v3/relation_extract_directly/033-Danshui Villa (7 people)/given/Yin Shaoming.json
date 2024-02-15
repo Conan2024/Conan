@@ -1,0 +1,60 @@
+{
+    "Yin Shaoming": [
+        [
+            "Yu Beichen",
+            "father of x"
+        ],
+        [
+            "Ren",
+            "mother of x"
+        ],
+        [
+            "Zhao Luoyi",
+            "romantic relationships with x, informant of x"
+        ],
+        [
+            "Feng Shuangji",
+            "colleague of x, informant of x"
+        ]
+    ],
+    "Yu Beichen": [
+        [
+            "Yin Shaoming",
+            "child of x"
+        ],
+        [
+            "Ren",
+            "wife of x"
+        ]
+    ],
+    "Ren": [
+        [
+            "Yin Shaoming",
+            "child of x"
+        ],
+        [
+            "Yu Beichen",
+            "wife of x"
+        ]
+    ],
+    "Zhao Luoyi": [
+        [
+            "Yin Shaoming",
+            "romantic relationships with x, informant of x"
+        ],
+        [
+            "Feng Shuangji",
+            "romantic relationships with x"
+        ]
+    ],
+    "Feng Shuangji": [
+        [
+            "Yin Shaoming",
+            "colleague of x, informant of x"
+        ],
+        [
+            "Zhao Luoyi",
+            "romantic relationships with x"
+        ]
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "Yao Zhongyi": [
+      ["Yao Changshou", "father of x yao zhongyi"], 
+      ["Zhang Yadi", "mother of x yao zhongyi"], 
+      ["Madam Xu", "step mother of x yao zhongyi"], 
+      ["Yao Mengren", "half brother of x yao zhongyi, admired by yao zhongyi of x"], 
+      ["Minyue Sister", "acquaintance of x yao zhongyi"], 
+      ["Zhang Decai", "cousin of x yao zhongyi"], 
+      ["Yu Junhong", "friend of x yao zhongyi, information receiver from yao zhongyi of x"], 
+      ["Chen Junmeng", "romantic relationships with yao zhongyi of x, loved by yao zhongyi of x"], 
+      ["Chen Anqiao", "maid of x chen junmeng"], 
+      ["Yao Changshou", "employer of x yao zhongyi"], 
+      ["Doctor Fang", "doctor of x yao zhongyi"], 
+      ["Uncle Gui", "informant of x yao zhongyi"], 
+      ["Yun Ling", "helper of x yao zhongyi"], 
+      ["Lady Hong", "step mother of x yao zhongyi"], 
+      ["Yao Mengren", "romantic relationships with chen junmeng of x, husband of x chen junmeng"], 
+      ["Yao Mengren", "perpetrator of x yao zhongyi"], 
+      ["Yao Mengren", "murderer of x yu junhong"], 
+      ["Chen Junmeng", "daughter in law of x yao changshou"], 
+      ["Chen Junmeng", "fiancee of x yao zhongyi"], 
+      ["Chen Junmeng", "romantic relationships with yao mengren of x"], 
+      ["Chen Junmeng", "patient of x doctor fang"], 
+      ["Chen Junmeng", "helper of x yun ling"], 
+      ["Yu Junhong", "student of x yao zhongyi"], 
+      ["Yu Junhong", "information receiver from yao zhongyi of x"], 
+      ["Doctor Fang", "employer of x yu junhong"], 
+      ["Doctor Fang", "informant of x yu junhong"], 
+      ["Lady Hong", "patient of x doctor fang"], 
+      ["Yun Ling", "bedroom partner of x lady hong"], 
+      ["Yun Ling", "helper of x yao zhongyi"], 
+      ["Yun Ling", "patient of x yu junhong"]
+    ],
+    "Yao Mengren": [
+      ["Yao Zhongyi", "half brother of x yao zhongyi, admired by yao zhongyi of x"]
+    ],
+    "Chen Junmeng": [
+      ["Yao Zhongyi", "romantic relationships with chen junmeng of x, loved by chen junmeng of x"], 
+      ["Chen Anqiao", "maid of x chen junmeng"], 
+      ["Yao Mengren", "romantic relationships with chen junmeng of x, husband of x chen junmeng"], 
+      ["Yao Zhongyi", "fiancee of x chen junmeng"], 
+      ["Doctor Fang", "doctor of x chen junmeng"], 
+      ["Yun Ling", "helper of x chen junmeng"]
+    ],
+    "Yu Junhong": [
+      ["Yao Zhongyi", "friend of x yu junhong, mentor of x yu junhong"], 
+      ["Yao Zhongyi", "information receiver from yu junhong of x"], 
+      ["Doctor Fang", "doctor of x yu junhong"], 
+      ["Doctor Fang", "employer of x yu junhong"], 
+      ["Yao Mengren", "murderer of x yu junhong"], 
+      ["Yun Ling", "patient of x yu junhong"]
+    ],
+    "Yao Changshou": [
+      ["Yao Zhongyi", "father of x yao changshou"], 
+      ["Yao Mengren", "son of x yao changshou"], 
+      ["Chen Junmeng", "daughter in law of x yao changshou"]
+    ],
+    "Zhang Yadi": [
+      ["Yao Zhongyi", "mother of x zhang yadi"]
+    ],
+    "Madam Xu": [
+      ["Yao Zhongyi", "step mother of x madam xu"]
+    ],
+    "Minyue Sister": [
+      ["Yao Zhongyi", "acquaintance of x minyue sister"]
+    ],
+    "Zhang Decai": [
+      ["Yao Zhongyi", "cousin of x zhang decai"]
+    ],
+    "Chen Anqiao": [
+      ["Yao Zhongyi", "maid of x chen anqiao"]
+    ],
+    "Doctor Fang": [
+      ["Yao Zhongyi", "doctor of x yao zhongyi"], 
+      ["Yu Junhong", "employer of x doctor fang"], 
+      ["Yu Junhong", "informant of x doctor fang"], 
+      ["Lady Hong", "employer of x doctor fang"], 
+      ["Chen Junmeng", "patient of x doctor fang"]
+    ],
+    "Uncle Gui": [
+      ["Yao Zhongyi", "informant of x uncle gui"]
+    ],
+    "Yun Ling": [
+      ["Yao Zhongyi", "helper of x yun ling"], 
+      ["Chen Junmeng", "helper of x yun ling"], 
+      ["Lady Hong", "bedroom partner of x yun ling"], 
+      ["Yu Junhong", "patient of x yun ling"]
+    ],
+    "Lady Hong": [
+      ["Yao Zhongyi", "step mother of x lady hong"], 
+      ["Uncle Gui", "informant of x lady hong"], 
+      ["Yun Ling", "bedroom partner of x lady hong"], 
+      ["Doctor Fang", "patient of x lady hong"]
+    ]
+}

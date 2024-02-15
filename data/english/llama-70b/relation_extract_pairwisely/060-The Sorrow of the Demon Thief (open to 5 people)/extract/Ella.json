@@ -1,0 +1,195 @@
+{
+    "Ella": [
+        [
+            "Gust",
+            "Employee of X",
+            "Helped by X",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X"
+        ],
+        [
+            "Kevin",
+            "Relationship 1: Employer-Employee",
+            "Relationship 2: Helper-Helped"
+        ],
+        [
+            "Griff",
+            "Logistics Griff",
+            "Friend"
+        ],
+        [
+            "Rowling",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "David",
+            "Logistics Griff",
+            "Security Kevin",
+            "Thetrical work David",
+            "Publicity Rowling",
+            "Gust",
+            "Acquaintance",
+            "Business Partner",
+            "Co-worker",
+            "Friend",
+            "Informant",
+            "Mentor",
+            "Teacher",
+            "Student",
+            "Perpetrator",
+            "Victim"
+        ]
+    ],
+    "Gust": [
+        [
+            "Ella",
+            "Employer of X",
+            "Master of X",
+            "Superior of x",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X"
+        ],
+        [
+            "Kevin",
+            "Relationship 1: Employer-Employee",
+            "Relationship 2: Accomplice in crime"
+        ],
+        [
+            "Griff",
+            "Relationship 1: Employer-Employee",
+            "Relationship 2: Perpetrator-Victim"
+        ],
+        [
+            "Rowling",
+            "Relationship 1: Employer-Employee",
+            "Relationship 2: Prospective Lover"
+        ],
+        [
+            "David",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ]
+    ],
+    "Kevin": [
+        [
+            "Ella",
+            "Relationship 1: Employer-Employee",
+            "Relationship 2: Helper-Helped"
+        ],
+        [
+            "Gust",
+            "Relationship 1: Employee-Employer",
+            "Relationship 2: Accomplice in crime"
+        ],
+        [
+            "Griff",
+            "Acquaintance",
+            "Helped by"
+        ],
+        [
+            "Rowling",
+            "Friend"
+        ],
+        [
+            "David",
+            "friend, colleague"
+        ]
+    ],
+    "Griff": [
+        [
+            "Ella",
+            "Logistics Griff",
+            "Friend"
+        ],
+        [
+            "Gust",
+            "Relationship 1: Employer-Employee",
+            "Relationship 2: Perpetrator-Victim"
+        ],
+        [
+            "Kevin",
+            "Acquaintance",
+            "Helped by"
+        ],
+        [
+            "Rowling",
+            "Friend",
+            "Co-worker"
+        ],
+        [
+            "David",
+            "Perpetrator of X",
+            "Bully of X"
+        ]
+    ],
+    "Rowling": [
+        [
+            "Ella",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Gust",
+            "Relationship 1: Employer-Employee",
+            "Relationship 2: Prospective Lover"
+        ],
+        [
+            "Kevin",
+            "Friend"
+        ],
+        [
+            "Griff",
+            "Friend",
+            "Co-worker"
+        ],
+        [
+            "David",
+            "Friend",
+            "Colleague"
+        ]
+    ],
+    "David": [
+        [
+            "Ella",
+            "Logistics Griff",
+            "Security Kevin",
+            "Thetrical work David",
+            "Publicity Rowling",
+            "Gust",
+            "Acquaintance",
+            "Business Partner",
+            "Co-worker",
+            "Friend",
+            "Informant",
+            "Mentor",
+            "Teacher",
+            "Student",
+            "Perpetrator",
+            "Victim"
+        ],
+        [
+            "Gust",
+            "Employee of X",
+            "Subordinate of X",
+            "Performer of X"
+        ],
+        [
+            "Kevin",
+            "friend, colleague"
+        ],
+        [
+            "Griff",
+            "Victim of X",
+            "Bullied by X"
+        ],
+        [
+            "Rowling",
+            "Friend",
+            "Colleague"
+        ]
+    ]
+}

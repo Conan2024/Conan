@@ -1,0 +1,30 @@
+{
+    "Shen Cheng": [
+      ["Lin Tong", "father daughter of x"], 
+      ["Qin Siqin", "husband wife of x"], 
+      ["Lin Weiren", "enemy of x"], 
+      ["Su Yang", "friend of x, acquaintance of x"], 
+      ["Gu Minghe", "acquaintance of x"]
+    ],
+    "Lin Tong": [
+      ["Shen Cheng", "daughter father of x"], 
+      ["Lin Weiren", "mother daughter of x"], 
+      ["Su Yang", "boyfriend girlfriend of x"]
+    ],
+    "Qin Siqin": [
+      ["Shen Cheng", "wife husband of x"]
+    ],
+    "Lin Weiren": [
+      ["Shen Cheng", "enemy of x"], 
+      ["Lin Tong", "mother daughter of x"], 
+      ["Su Yang", "opponent of x"]
+    ],
+    "Su Yang": [
+      ["Shen Cheng", "acquaintance of x"], 
+      ["Lin Tong", "boyfriend girlfriend of x"], 
+      ["Lin Weiren", "opponent of x"]
+    ],
+    "Gu Minghe": [
+      ["Shen Cheng", "acquaintance of x"]
+    ]
+}

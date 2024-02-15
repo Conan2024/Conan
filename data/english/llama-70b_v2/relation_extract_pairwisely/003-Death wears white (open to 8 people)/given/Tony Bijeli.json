@@ -1,0 +1,14 @@
+{
+    "Father Tom": [
+      ["Frank Bijeli", "relationship 1 (mentor/protege) of x, relationship 2 (savior/beneficiary) of x"], 
+      ["Tony Bijeli", "relationship 1: belief in father tom's power of x, relationship 2: hostage situation of x"]
+    ],
+    "Frank Bijeli": [
+      ["Father Tom", "relationship 1 (mentor/protege) of x, relationship 2 (savior/beneficiary) of x"], 
+      ["Tony Bijeli", "brother of x, saved his life of x"]
+    ],
+    "Tony Bijeli": [
+      ["Father Tom", "relationship 1: belief in father tom's power of x, relationship 2: hostage situation of x"], 
+      ["Frank Bijeli", "brother of x, saved his life of x"]
+    ]
+}

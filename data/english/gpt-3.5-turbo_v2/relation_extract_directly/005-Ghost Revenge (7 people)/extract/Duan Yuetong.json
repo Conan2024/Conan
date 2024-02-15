@@ -1,0 +1,32 @@
+{
+    "Duan Yuetong": [
+      ["Bai Changgong", "step father of x duan yuetong"], 
+      ["Duan Hejun", "mother of x duan yuetong"], 
+      ["Anqi/Lan Qin", "girlfriend of x duan yuetong, childhood friend of x"], 
+      ["Yu Zu Chengmu", "classmate of x duan yuetong"], 
+      ["Yue Kesa", "friend of x duan yuetong"]
+    ],
+    "Bai Changgong": [
+      ["Duan Yuetong", "step son of x bai changgong"]
+    ],
+    "Duan Hejun": [
+      ["Duan Yuetong", "mother of x duan yuetong"], 
+      ["Bai Changgong", "husband of x duan hejun"]
+    ],
+    "Yue Kesa": [
+      ["Duan Yuetong", "friend of x duan yuetong"]
+    ],
+    "Anqi/Lan Qin": [
+      ["Duan Yuetong", "girlfriend of x duan yuetong, childhood friend of x"]
+    ],
+    "Li Zicai": [
+      ["Yu Zu Chengmu", "classmate of x li zicai"]
+    ],
+    "Yu Zu Chengmu": [
+      ["Li Zicai", "classmate of x yu zu chengmu"], 
+      ["Wu Baian", "classmate of x yu zu chengmu"]
+    ],
+    "Yue Dongwen": [
+      ["Yue Kesa", "father of x yue kesa"]
+    ]
+}

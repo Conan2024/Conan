@@ -1,0 +1,27 @@
+{
+    "Hong Jiangshui": [
+      ["Meng Sanchun", "colleague of x, acquaintance of x"], 
+      ["ZHANG JINYIN", "colleague of x, acquaintance of x"], 
+      ["ZHANG HONGSHENG", "boss of x, acquaintance of x"], 
+      ["Cai Siniang", "friend of x, love interest of x"]
+    ],
+    "Meng Sanchun": [
+      ["Hong Jiangshui", "colleague of x, acquaintance of x"], 
+      ["ZHANG JINYIN", "colleague of x, acquaintance of x"], 
+      ["ZHANG HONGSHENG", "boss of x, acquaintance of x"]
+    ],
+    "ZHANG JINYIN": [
+      ["Hong Jiangshui", "colleague of x, acquaintance of x"], 
+      ["Meng Sanchun", "colleague of x, acquaintance of x"], 
+      ["ZHANG HONGSHENG", "boss of x, acquaintance of x"]
+    ],
+    "ZHANG HONGSHENG": [
+      ["Hong Jiangshui", "boss of x, acquaintance of x"], 
+      ["Meng Sanchun", "boss of x, acquaintance of x"], 
+      ["ZHANG JINYIN", "boss of x, acquaintance of x"]
+    ],
+    "Cai Siniang": [
+      ["Hong Jiangshui", "friend of x, love interest of x"], 
+      ["Meng Sanchun", "acquaintance of x"]
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "Xiao Qian": [
+      ["Fang Liu", "same person as x (different reference)"], 
+      ["Fang Xu", "sibling of x"], 
+      ["Fang Mian", "sibling of x"], 
+      ["Li Wangye (Lord Li)", "husband of x"], 
+      ["Li Qinren", "enemy of x"], 
+      ["Chen Qian", "friend of x"], 
+      ["Li Yan", "romantic relationships with x"]
+    ],
+    "Fang Liu": [
+      ["Xiao Qian", "same person as x (different reference)"], 
+      ["Fang Ye", "father of x"], 
+      ["Fangfu (Grandma)", "grandmother of x"]
+    ],
+    "Fang Ye": [
+      ["Fang Liu", "daughter of x"], 
+      ["Fang Xu", "sibling of x"], 
+      ["Fang Mian", "sibling of x"], 
+      ["Li Qinren", "adversary of x"]
+    ],
+    "Grandma": [
+      ["Fang Liu", "granddaughter of x"]
+    ],
+    "Fang Xu": [
+      ["Fang Ye", "sibling of x"], 
+      ["Li Wangye (Lord Li)", "husband of x"], 
+      ["Fang Zhu", "child of x"]
+    ],
+    "Li Wangye (Lord Li)": [
+      ["Fang Xu", "wife of x"], 
+      ["Fang Zhu", "father of x"], 
+      ["Chen Qian", "extramarital affair with x"], 
+      ["Li Zhong", "brother in law of x"], 
+      ["Li Yan", "romantic relationships with x"]
+    ],
+    "Li Qinren": [
+      ["Fang Ye", "adversary of x"], 
+      ["Xiao Qian", "enemy of x"]
+    ],
+    "Fang Mian": [
+      ["Fang Ye", "sibling of x"], 
+      ["Fang Zhu", "child of x"]
+    ],
+    "Fang Zhu": [
+      ["Fang Xu", "child of x"], 
+      ["Fang Mian", "child of x"], 
+      ["Li Wangye (Lord Li)", "son of x"]
+    ],
+    "Caoteng Jushi (lay Buddhist practitioner)": [
+      ["Xiao Qian", "informant of x"], 
+      ["Chen Qian", "friend of x"]
+    ],
+    "Chen Qian": [
+      ["Xiao Qian", "friend of x"], 
+      ["Li Wangye (Lord Li)", "extramarital affair with x"], 
+      ["Li Yan", "romantic relationships with x"], 
+      ["Li Zhong", "romantic relationships with x"]
+    ],
+    "Li Yan": [
+      ["Xiao Qian", "romantic relationships with x"], 
+      ["Li Wangye (Lord Li)", "romantic relationships with x"]
+    ],
+    "Li Zhong": [
+      ["Li Wangye (Lord Li)", "romantic relationships with x"], 
+      ["Chen Qian", "romantic relationships with x"]
+    ]
+}

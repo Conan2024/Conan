@@ -1,0 +1,61 @@
+{
+    "Mrs. Tan": [
+      ["Luo Mingsha", "employee of x"], 
+      ["Rosa", "employee of x"], 
+      ["Luo Hengli", "husband of x"], 
+      ["Xinya", "daughter of x"], 
+      ["Tan Renchang", "father of x"], 
+      ["Cai Qian", "mother of x"], 
+      ["Lv Mingran", "sister of x"], 
+      ["Hai You", "brother of x"], 
+      ["Shang Zhi", "friend of x"], 
+      ["A Ping", "friend of x"], 
+      ["Liao Gongzi", "admirer of x"]
+    ],
+    "Luo Mingsha": [
+      ["Mrs. Tan", "employee of x"], 
+      ["Rosa", "employee of x"], 
+      ["Luo Hengli", "rival of x"], 
+      ["Xinya", "step daughter of x"]
+    ],
+    "Rosa": [
+      ["Mrs. Tan", "employer of x"], 
+      ["Luo Mingsha", "employee of x"], 
+      ["Luo Hengli", "seeker of help from x"]
+    ],
+    "Luo Hengli": [
+      ["Mrs. Tan", "husband of x"], 
+      ["Luo Mingsha", "rival of x"], 
+      ["Xinya", "father of x"]
+    ],
+    "Xinya": [
+      ["Mrs. Tan", "daughter of x"], 
+      ["Luo Hengli", "child of x"], 
+      ["Tan Renchang", "grandfather of x"], 
+      ["Cai Qian", "grandmother of x"]
+    ],
+    "Tan Renchang": [
+      ["Mrs. Tan", "father of x"], 
+      ["Xinya", "grandfather of x"]
+    ],
+    "Cai Qian": [
+      ["Mrs. Tan", "mother of x"], 
+      ["Xinya", "grandmother of x"]
+    ],
+    "Lv Mingran": [
+      ["Mrs. Tan", "sister of x"]
+    ],
+    "Hai You": [
+      ["Mrs. Tan", "brother of x"]
+    ],
+    "Shang Zhi": [
+      ["Mrs. Tan", "friend of x"]
+    ],
+    "A Ping": [
+      ["Mrs. Tan", "friend of x"]
+    ],
+    "Liao Gongzi": [
+      ["Mrs. Tan", "admirer of x"], 
+      ["Mrs. Tan", "lover of x"]
+    ]
+}

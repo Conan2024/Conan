@@ -1,0 +1,104 @@
+{
+    "DU Guicheng": [
+        [
+            "du Huixin",
+            "father of"
+        ],
+        [
+            "fangchenchenshan",
+            "mentor of"
+        ]
+    ],
+    "du Huixin": [
+        [
+            "DU Guicheng",
+            "child of"
+        ],
+        [
+            "Master Meng",
+            "employer of"
+        ]
+    ],
+    "Master Meng": [
+        [
+            "du Huixin",
+            "employee of"
+        ],
+        [
+            "DU Guicheng",
+            "business partner of"
+        ]
+    ],
+    "wife and children": [
+        [
+            "DU Guicheng",
+            "wife of"
+        ],
+        [
+            "DU Guicheng",
+            "children of"
+        ]
+    ],
+    "Yao Zhongyi": [
+        [
+            "Physician Yu",
+            "acquaintance of"
+        ],
+        [
+            "Chen Junmeng",
+            "brother of"
+        ]
+    ],
+    "Physician Yu": [
+        [
+            "Yao Zhongyi",
+            "acquaintance of"
+        ],
+        [
+            "DU Guicheng",
+            "admired by"
+        ]
+    ],
+    "Yun Ling": [
+        [
+            "DU Guicheng",
+            "helper of"
+        ]
+    ],
+    "Chen Junmeng": [
+        [
+            "Yao Zhongyi",
+            "sister-in-law of"
+        ]
+    ],
+    "Lady Hong": [
+        [
+            "Master Meng",
+            "wife of"
+        ],
+        [
+            "DU Guicheng",
+            "friend of"
+        ]
+    ],
+    "Yao Changshou": [
+        [
+            "Yao Zhongyi",
+            "father of"
+        ],
+        [
+            "DU Guicheng",
+            "patient of"
+        ],
+        [
+            "Lady Hong",
+            "patient of"
+        ]
+    ],
+    "fangchenchenshan": [
+        [
+            "DU Guicheng",
+            "student of"
+        ]
+    ]
+}

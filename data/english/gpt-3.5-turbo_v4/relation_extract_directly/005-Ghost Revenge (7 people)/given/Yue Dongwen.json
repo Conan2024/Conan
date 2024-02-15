@@ -1,0 +1,40 @@
+{
+    "Yue Dongwen": [
+      ["Wu Baian", "colleague of x"], 
+      ["Yue Kesa", "father of x"]
+    ],
+    "Yue Gu": [
+      ["Yue Dongwen", "same person as x (different identity)"]
+    ],
+    "Wu Baian": [
+      ["Yue Dongwen", "colleague of x"], 
+      ["Yue Kesa", "step father of x"]
+    ],
+    "Yue Kesa": [
+      ["Yue Dongwen", "son of x"], 
+      ["Wu Baian", "step father of x"]
+    ],
+    "Xia Sanhu": [
+      ["Yue Dongwen", "debtor of x"], 
+      ["Xia Zhongpeng", "brother of x"], 
+      ["Xia Shue", "niece of x"]
+    ],
+    "Xia Zhongpeng": [
+      ["Xia Sanhu", "brother of x"]
+    ],
+    "Xia Shue": [
+      ["Xia Sanhu", "niece of x"], 
+      ["Yue Dongwen", "possibly family of x"]
+    ],
+    "Li Luoming": [
+      ["Aming", "father of x"]
+    ],
+    "Aming": [
+      ["Li Luoming", "son of x"], 
+      ["Li Zicai", "father of x"]
+    ],
+    "Li Zicai": [
+      ["Aming", "father of x"], 
+      ["Yue Dongwen", "same person as x (different reference)"]
+    ]
+}

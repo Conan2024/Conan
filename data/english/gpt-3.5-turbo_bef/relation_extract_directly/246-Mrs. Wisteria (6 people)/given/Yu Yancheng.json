@@ -1,0 +1,38 @@
+{
+    "Yu Yancheng": [
+      ["Yu Shangyong", "same person as x (different reference)"], 
+      ["Zhang Junshi", "friend of x"], 
+      ["Mrs. Zhang", "acquaintance of x"], 
+      ["Ge Jixian", "victim of x"], 
+      ["Ge Yueluo", "acquaintance of x"], 
+      ["Ge Yueman", "acquaintance of x"], 
+      ["Zhu Lingshan", "friend of x"], 
+      ["Xue Yufan", "suspect of x"]
+    ],
+    "Yu Shangyong": [
+      ["Yu Yancheng", "same person as x (different reference)"]
+    ],
+    "Zhang Junshi": [
+      ["Yu Yancheng", "friend of x"], 
+      ["Mrs. Zhang", "acquaintance of x"]
+    ],
+    "Mrs. Zhang": [
+      ["Yu Yancheng", "acquaintance of x"], 
+      ["Zhang Junshi", "acquaintance of x"]
+    ],
+    "Ge Jixian": [
+      ["Yu Yancheng", "victim of x"]
+    ],
+    "Ge Yueluo": [
+      ["Yu Yancheng", "acquaintance of x"]
+    ],
+    "Ge Yueman": [
+      ["Yu Yancheng", "acquaintance of x"]
+    ],
+    "Zhu Lingshan": [
+      ["Yu Yancheng", "friend of x"]
+    ],
+    "Xue Yufan": [
+      ["Yu Yancheng", "suspect of x"]
+    ]
+}

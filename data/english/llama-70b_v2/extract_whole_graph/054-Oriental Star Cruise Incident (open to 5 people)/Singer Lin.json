@@ -1,0 +1,29 @@
+{
+    "Lin Ruotong": [
+      ["Liu Qi", "pursuer of x, acquaintance of x"], 
+      ["Hong Zilian", "lover of x, secret relationship of x"], 
+      ["Zhang Wenyuan", "acquaintance of x, gun custodian of x"], 
+      ["Han Yimu", "colleague of x, adversary of x"], 
+      ["Xiu Renjie", "direct leader of x, acquaintance of x"]
+    ],
+    "Liu Qi": [
+      ["Lin Ruotong", "pursuer of x, acquaintance of x"], 
+      ["Hong Zilian", "rival of x, enemy of x"]
+    ],
+    "Hong Zilian": [
+      ["Lin Ruotong", "lover of x, secret relationship of x"], 
+      ["Liu Qi", "rival of x, enemy of x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Lin Ruotong", "acquaintance of x, gun custodian of x"], 
+      ["Hong Zilian", "colleague of x, acquaintance of x"]
+    ],
+    "Han Yimu": [
+      ["Lin Ruotong", "colleague of x, adversary of x"], 
+      ["Xiu Renjie", "subordinate of x, employee of x"]
+    ],
+    "Xiu Renjie": [
+      ["Lin Ruotong", "direct leader of x, acquaintance of x"], 
+      ["Han Yimu", "subordinate of x, employee of x"]
+    ]
+}

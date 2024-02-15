@@ -1,0 +1,37 @@
+{
+    "Luo Younuo": [
+      ["Wangdi", "friend of x, lover of x"], 
+      ["Qi Gu Fei", "acquaintance of x"], 
+      ["Xue Yan", "sister of x"], 
+      ["Mrs. Ruan", "landlord of x"]
+    ],
+    "Wangdi": [
+      ["Luo Younuo", "friend of x, lover of x"], 
+      ["Mrs. Ruan", "mother of x"], 
+      ["Qi Gu Fei", "acquaintance of x"], 
+      ["Xue Yan", "sister of x"], 
+      ["Guilang", "brother of x"]
+    ],
+    "Xue Yan": [
+      ["Luo Younuo", "sister of x"], 
+      ["Mrs. Ruan", "landlord of x"], 
+      ["Guilang", "brother of x"]
+    ],
+    "Guilang": [
+      ["Mrs. Ruan", "mother of x"], 
+      ["Wangdi", "sister of x"], 
+      ["Qi Gu Fei", "acquaintance of x"]
+    ],
+    "Qi Gu Fei": [
+      ["Luo Younuo", "acquaintance of x"], 
+      ["Wangdi", "acquaintance of x"], 
+      ["Xue Yan", "acquaintance of x"]
+    ],
+    "Hei Li": [
+      ["Qi Gu Fei", "friend of x"]
+    ],
+    "Mrs. Ruan": [
+      ["Luo Younuo", "landlord of x"], 
+      ["Wangdi", "mother of x"]
+    ]
+}

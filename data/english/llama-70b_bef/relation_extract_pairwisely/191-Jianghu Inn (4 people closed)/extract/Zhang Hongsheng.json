@@ -1,0 +1,58 @@
+{
+    "Zhang Hongsheng": [
+      ["Meng Sanchun", "husband of x, enemy of x, deceiver of x, betrayer of x"], 
+      ["Zhang JinYin", "killed by x"], 
+      ["Zhang Jinyin", "wife of x, killed by x"], 
+      ["Hong Changlie", "wife of x, killed by x"], 
+      ["Cai Siniang", "wife of x, suspect of x, adversary of x, enemy of x, rival of x, manipulator of x, manipulated by x"], 
+      ["Hong Jiangshui", "wife of x, killed by x, deceiver of x, betrayer of x, suspect of x, suspicious of x, adversary of x, enemy of x, rival of x"]
+    ],
+    "Meng Sanchun": [
+      ["Zhang Hongsheng", "wife of x, victim of x, killed by x, betrayed by x, suspected by x"], 
+      ["Zhang JinYin", "husband of x, same person as x (different reference)"], 
+      ["Zhang Jinyin", "husband of x, same person as x (different identity)"], 
+      ["Hong Changlie", "adversary of x"], 
+      ["Cai Siniang", "wife of x, adversary of x"], 
+      ["Hong Jiangshui", "wife of x, killed by x"]
+    ],
+    "Zhang JinYin": [
+      ["Zhang Hongsheng", "betrayed by x"], 
+      ["Meng Sanchun", "wife of x, same person as x (different reference)"], 
+      ["Zhang Jinyin", "same person as x (different reference)"], 
+      ["Hong Changlie", "suspect of x, enemy of x"], 
+      ["Cai Siniang", "wife of x, same person as x (different identity)"], 
+      ["Hong Jiangshui", "brother in law of x, friend of x"]
+    ],
+    "Zhang Jinyin": [
+      ["Zhang Hongsheng", "husband of x, betrayed by x"], 
+      ["Meng Sanchun", "wife of x, same person as x (different identity)"], 
+      ["Zhang JinYin", "same person as x (different reference)"], 
+      ["Hong Changlie", "suspect of x, enemy of x"], 
+      ["Cai Siniang", "rival of x, enemy of x"], 
+      ["Hong Jiangshui", "suspect of x, adversary of x, enemy of x"]
+    ],
+    "Hong Changlie": [
+      ["Zhang Hongsheng", "father of x, murderer of x"], 
+      ["Meng Sanchun", "father of x, enemy of x"], 
+      ["Zhang JinYin", "suspicious of x, adversary of x"], 
+      ["Zhang Jinyin", "suspicious of x, adversary of x"], 
+      ["Cai Siniang", "wife of x, rival of x"], 
+      ["Hong Jiangshui", "father of x, same person as x (different reference)"]
+    ],
+    "Cai Siniang": [
+      ["Zhang Hongsheng", "husband of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x"], 
+      ["Meng Sanchun", "husband of x, rival of x"], 
+      ["Zhang JinYin", "husband of x, same person as x (different reference)"], 
+      ["Zhang Jinyin", "rival of x, enemy of x"], 
+      ["Hong Changlie", "husband of x, rival of x"], 
+      ["Hong Jiangshui", "rival of x, enemy of x"]
+    ],
+    "Hong Jiangshui": [
+      ["Zhang Hongsheng", "husband of x, killed by x, deceived by x, betrayed by x, suspect of x, suspicious of x, adversary of x, enemy of x, rival of x"], 
+      ["Meng Sanchun", "husband of x, killed by x"], 
+      ["Zhang JinYin", "brother in law of x, friend of x"], 
+      ["Zhang Jinyin", "suspicious of x, suspect of x, adversary of x, enemy of x"], 
+      ["Hong Changlie", "son of x, same person as x (different reference)"], 
+      ["Cai Siniang", "rival of x, enemy of x"]
+    ]
+}

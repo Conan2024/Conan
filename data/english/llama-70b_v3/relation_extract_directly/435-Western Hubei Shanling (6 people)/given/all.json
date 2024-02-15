@@ -1,0 +1,85 @@
+{
+    "Gan Ma": [
+      ["Ba Mansion Mountain", "brother of x"], 
+      ["Miao Shi", "sister in law of x, victim of x"], 
+      ["Gui Yin", "brother of x"], 
+      ["Juan Ge (Cuckoo Song)", "niece of x, victim of x"], 
+      ["Chen Sha", "friend of x, suspect of x"], 
+      ["Li Gaobai", "acquaintance of x, suspect of x"], 
+      ["Ruya", "sister of x, suspect of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Gan Ma", "brother of x"], 
+      ["Miao Shi", "wife of x, victim of x"], 
+      ["Juan Ge (Cuckoo Song)", "daughter of x, victim of x"], 
+      ["Chen Sha", "friend of x, suspect of x"], 
+      ["Li Gaobai", "acquaintance of x, suspect of x"], 
+      ["Ruya", "daughter of x, suspect of x"]
+    ],
+    "Miao Shi": [
+      ["Gan Ma", "sister in law of x, victim of x"], 
+      ["Ba Mansion Mountain", "husband of x, victim of x"], 
+      ["Gui Yin", "brother of x"], 
+      ["Juan Ge (Cuckoo Song)", "niece of x, victim of x"], 
+      ["Chen Sha", "friend of x, suspect of x"], 
+      ["Li Gaobai", "acquaintance of x, suspect of x"], 
+      ["Ruya", "sister of x, suspect of x"]
+    ],
+    "Gui Yin": [
+      ["Gan Ma", "brother of x"], 
+      ["Ba Mansion Mountain", "victim of x"], 
+      ["Juan Ge (Cuckoo Song)", "victim of x"], 
+      ["Chen Sha", "friend of x, suspect of x"], 
+      ["Li Gaobai", "acquaintance of x, suspect of x"], 
+      ["Ruya", "sister of x, suspect of x"]
+    ],
+    "Juan Ge (Cuckoo Song)": [
+      ["Gan Ma", "niece of x, victim of x"], 
+      ["Ba Mansion Mountain", "daughter of x, victim of x"], 
+      ["Miao Shi", "niece of x, victim of x"], 
+      ["Chen Sha", "friend of x, suspect of x"], 
+      ["Li Gaobai", "acquaintance of x, suspect of x"], 
+      ["Ruya", "sister of x, suspect of x"]
+    ],
+    "Chen Sha": [
+      ["Gan Ma", "friend of x, suspect of x"], 
+      ["Ba Mansion Mountain", "fiance of x, victim of x"], 
+      ["Juan Ge (Cuckoo Song)", "friend of x, victim of x"], 
+      ["Li Gaobai", "acquaintance of x, suspect of x"], 
+      ["Ruya", "sister of x, suspect of x"]
+    ],
+    "Li Gaobai": [
+      ["Gan Ma", "acquaintance of x, suspect of x"], 
+      ["Ba Mansion Mountain", "acquaintance of x, suspect of x"], 
+      ["Juan Ge (Cuckoo Song)", "acquaintance of x, victim of x"], 
+      ["Chen Sha", "friend of x, suspect of x"], 
+      ["Ruya", "acquaintance of x, suspect of x"]
+    ],
+    "Ruya": [
+      ["Gan Ma", "sister of x, suspect of x"], 
+      ["Ba Mansion Mountain", "daughter of x, suspect of x"], 
+      ["Miao Shi", "sister of x, victim of x"], 
+      ["Gui Yin", "brother of x"], 
+      ["Juan Ge (Cuckoo Song)", "sister of x, victim of x"], 
+      ["Chen Sha", "friend of x, suspect of x"], 
+      ["Li Gaobai", "acquaintance of x, suspect of x"]
+    ],
+    "Wang Jingji": [
+      ["Gan Ma", "lover of x"]
+    ],
+    "Falcon": [
+      ["Gan Ma", "friend of x, suspect of x"], 
+      ["Ba Mansion Mountain", "friend of x, suspect of x"], 
+      ["Li Gaobai", "acquaintance of x, suspect of x"], 
+      ["Ruya", "friend of x, suspect of x"]
+    ],
+    "Zheng Hanzhen": [
+      ["Falcon", "friend of x, suspect of x"]
+    ],
+    "Intern": [
+      ["Gan Ma", "friend of x, suspect of x"], 
+      ["Ba Mansion Mountain", "friend of x, suspect of x"], 
+      ["Li Gaobai", "acquaintance of x, suspect of x"], 
+      ["Ruya", "friend of x, suspect of x"]
+    ]
+}

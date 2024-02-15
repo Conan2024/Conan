@@ -1,0 +1,61 @@
+{
+    "Griff": [
+      ["magician Gust", "co worker of x gust"], 
+      ["magician Gust", "suspected by gust of x"], 
+      ["Assistant Ella", "helper of x ella"], 
+      ["TheTrical Work David", "informant of x david"], 
+      ["TheTrical Work David", "helper of x david"], 
+      ["magician Gust", "suspected by david of x"], 
+      ["magician Gust", "suspected by ella of x"], 
+      ["magician Gust", "victim of x unknown perpetrator"]
+    ],
+    "magician Gust": [
+      ["Griff", "co worker of x griff"], 
+      ["Griff", "suspected by griff of x"], 
+      ["Assistant Ella", "girlfriend of x gust"], 
+      ["TheTrical Work David", "rival of x gust in love"], 
+      ["TheTrical Work David", "enemy of x gust"], 
+      ["Assistant Ella", "co conspirator of x griff"], 
+      ["TheTrical Work David", "enemy of x ella"], 
+      ["Assistant Ella", "suspected by ella of x"], 
+      ["magician Gust", "victim of x unknown perpetrator"]
+    ],
+    "Publicity Rowling": [
+      ["TheTrical Work David", "romantic relationships with rowling of x"], 
+      ["Kevin", "romantic relationships with rowling of x"], 
+      ["TheTrical Work David", "ex romantic relationships with rowling"], 
+      ["Kevin", "ex romantic relationships with rowling"], 
+      ["magician Gust", "suspected by rowling of x"], 
+      ["Assistant Ella", "suspected by rowling of x"]
+    ],
+    "TheTrical Work David": [
+      ["Griff", "informant of x david"], 
+      ["Griff", "helper of x david"], 
+      ["magician Gust", "rival of x david in love"], 
+      ["magician Gust", "enemy of x david"], 
+      ["Assistant Ella", "enemy of x david"], 
+      ["Assistant Ella", "suspected by david of x"], 
+      ["Publicity Rowling", "romantic relationships with david of x"], 
+      ["Publicity Rowling", "ex romantic relationships with david"], 
+      ["TheTrical Work David", "suspected by ella of x"]
+    ],
+    "Kevin": [
+      ["magician Gust", "romantic relationships with kevin of x"], 
+      ["magician Gust", "romantic relationships with kevin of x"], 
+      ["Publicity Rowling", "romantic relationships with kevin of x"], 
+      ["Publicity Rowling", "ex romantic relationships with kevin"], 
+      ["magician Gust", "suspected by kevin of x"], 
+      ["Assistant Ella", "helper of x kevin"], 
+      ["TheTrical Work David", "suspected by kevin of x"]
+    ],
+    "Assistant Ella": [
+      ["Griff", "helper of x ella"], 
+      ["magician Gust", "girlfriend of x ella"], 
+      ["TheTrical Work David", "enemy of x ella"], 
+      ["magician Gust", "co conspirator of x griff"], 
+      ["TheTrical Work David", "enemy of x ella"], 
+      ["magician Gust", "suspected by ella of x"], 
+      ["Publicity Rowling", "suspected by ella of x"], 
+      ["TheTrical Work David", "suspected by ella of x"]
+    ]
+}

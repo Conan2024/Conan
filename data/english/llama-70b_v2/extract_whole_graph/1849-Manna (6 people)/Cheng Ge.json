@@ -1,0 +1,58 @@
+{
+    "Cheng Ge": [
+      ["Lv Mingran", "acquaintance of x, helper of x"], 
+      ["Xinya", "mother of x, deceased of x"], 
+      ["Tan Renchang", "father of x"], 
+      ["Julie", "benefactor of x"], 
+      ["Hai You", "sister of x, acquaintance of x"], 
+      ["Shang Zhi", "cousin of x, acquaintance of x"], 
+      ["Liao Gongzi", "acquaintance of x, suspicious of x"], 
+      ["Mrs. Tan", "acquaintance of x, suspicious of x"]
+    ],
+    "Lv Mingran": [
+      ["Cheng Ge", "acquaintance of x, helped of x"], 
+      ["Xinya", "friend of x, deceased of x"], 
+      ["Tan Renchang", "friend of x"], 
+      ["Hai You", "sister of x, acquaintance of x"]
+    ],
+    "Xinya": [
+      ["Cheng Ge", "daughter of x, acquaintance of x"], 
+      ["Lv Mingran", "friend of x, acquaintance of x"], 
+      ["Tan Renchang", "husband of x"], 
+      ["Hai You", "daughter of x, acquaintance of x"]
+    ],
+    "Tan Renchang": [
+      ["Cheng Ge", "father of x"], 
+      ["Lv Mingran", "friend of x"], 
+      ["Xinya", "wife of x, deceased of x"], 
+      ["Hai You", "daughter of x, acquaintance of x"]
+    ],
+    "Hai You": [
+      ["Cheng Ge", "sister of x, acquaintance of x"], 
+      ["Lv Mingran", "friend of x, acquaintance of x"], 
+      ["Xinya", "mother of x, deceased of x"], 
+      ["Tan Renchang", "father of x"]
+    ],
+    "Shang Zhi": [
+      ["Cheng Ge", "cousin of x, acquaintance of x"], 
+      ["Lv Mingran", "friend of x, acquaintance of x"], 
+      ["Xinya", "mother of x, deceased of x"], 
+      ["Tan Renchang", "father of x"]
+    ],
+    "Liao Gongzi": [
+      ["Cheng Ge", "acquaintance of x, suspicious of x"], 
+      ["Lv Mingran", "friend of x, acquaintance of x"], 
+      ["Xinya", "friend of x, deceased of x"], 
+      ["Tan Renchang", "friend of x"]
+    ],
+    "Mrs. Tan": [
+      ["Cheng Ge", "acquaintance of x, suspicious of x"], 
+      ["Lv Mingran", "friend of x, acquaintance of x"], 
+      ["Xinya", "friend of x, deceased of x"], 
+      ["Tan Renchang", "friend of x"]
+    ],
+    "Hong Er": [
+      ["Cheng Ge", "suspect of x, enemy of x"], 
+      ["Xinya", "daughter of x, deceased of x"]
+    ]
+}

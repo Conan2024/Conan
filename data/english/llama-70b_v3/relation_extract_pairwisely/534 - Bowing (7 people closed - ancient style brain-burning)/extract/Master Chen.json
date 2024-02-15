@@ -1,0 +1,102 @@
+{
+    "Master Chen": [
+      ["Li Wangye", "friend of x, business partner of x"], 
+      ["Chen Zijing", "friend of x, business partner of x"], 
+      ["Prince Jinu", "employer of x, mentor of x, teacher of x, informant of x, friend of x, acquaintance of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["Madam Li or Li Family", "wife of x, mother of x, fiancee of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["Fang XU", "acquaintance of x, business partner of x, informant of x, helper of x"], 
+      ["Li Gongzi", "acquaintance of x, business partner of x, friend of x, informant of x, mentor of x, student of x"]
+    ],
+    "Li Wangye": [
+      ["Master Chen", "friend of x, business partner of x"], 
+      ["Chen Zijing", "friend of x, mentor of x, business partner of x"], 
+      ["Prince Jinu", "friend of x, mentor of x, teacher of x"], 
+      ["Li Yan", "friend of x"], 
+      ["Li Zhong", "friend of x"], 
+      ["Madam Li or Li Family", "wife of x, sister of x, co wives of x, fiancee of x, fiance of x, ex romantic relationships with x, romantic relationships with x, extramarital affair with x, husband of x"], 
+      ["Xiao Qian", "wife of x, same person as x (different reference)"], 
+      ["Li Gongzi", "friend of x, mentor of x"]
+    ],
+    "Chen Zijing": [
+      ["Master Chen", "friend of x, business partner of x"], 
+      ["Li Wangye", "friend of x, mentor of x, business partner of x"], 
+      ["Prince Jinu", "friend of x, business partner of x, father in law of x, suspect of x, adversary of x, enemy of x, rival of x, manipulator of x, master of x, employee of x, servant of x, colleague of x, customer of x, buyer of x"], 
+      ["Li Yan", "friend of x, business partner of x"], 
+      ["Li Zhong", "business partner of x, friend of x"], 
+      ["Madam Li or Li Family", "wife of x, mother of x, informant of x, acquaintance of x"], 
+      ["Fang XU", "friend of x, business partner of x"], 
+      ["Xiao Qian", "friend of x, mentor of x"], 
+      ["Li Gongzi", "acquaintance of x, business partner of x, informant of x, helper of x, suspect of x, rival of x, enemy of x"]
+    ],
+    "Prince Jinu": [
+      ["Master Chen", "employer of x, mentor of x, teacher of x, informant of x, friend of x, acquaintance of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["Li Wangye", "friend of x, mentor of x, teacher of x"], 
+      ["Chen Zijing", "friend of x, business partner of x, son in law of x, suspect of x, adversary of x, enemy of x, rival of x, manipulator of x, master of x, employee of x, servant of x, colleague of x, customer of x, buyer of x"], 
+      ["Li Zhong", "brother in law of x, son in law of x"], 
+      ["Madam Li or Li Family", "wife of x, sister of x, daughter of x"], 
+      ["Fang XU", "acquaintance of x, friend of x"], 
+      ["Xiao Qian", "acquaintance of x"], 
+      ["Li Gongzi", "friend of x, classmate of x"]
+    ],
+    "Li Yan": [
+      ["Li Wangye", "friend of x"], 
+      ["Chen Zijing", "friend of x, business partner of x"], 
+      ["Li Zhong", "brother of x, rival of x"], 
+      ["Madam Li or Li Family", "brother of x, son of x"], 
+      ["Fang XU", "acquaintance of x, suspect of x, rival of x, enemy of x, friend of x, student of x, informant of x"], 
+      ["Xiao Qian", "brother in law of x, suspect of x"], 
+      ["Li Gongzi", "sibling of x, co wives of x, rival of x, acquaintance of x"]
+    ],
+    "Li Zhong": [
+      ["Li Wangye", "friend of x"], 
+      ["Chen Zijing", "business partner of x, friend of x"], 
+      ["Prince Jinu", "brother in law of x, husband of x"], 
+      ["Li Yan", "brother of x, rival of x"], 
+      ["Madam Li or Li Family", "brother of x, son of x"], 
+      ["Fang XU", "husband of x"], 
+      ["Xiao Qian", "husband of x"], 
+      ["Li Gongzi", "son in law of x"]
+    ],
+    "Madam Li or Li Family": [
+      ["Master Chen", "husband of x, father of x, mother of x, brother of x, sister of x, son of x, daughter of x, sibling of x, co wives of x, fiance of x, fiancee of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["Li Wangye", "husband of x, father of x, mother of x, child of x, son of x, daughter of x, sibling of x, brother of x, sister of x, relative of x, nephew of x, aunt of x, uncle of x, niece of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x"], 
+      ["Chen Zijing", "husband of x, father of x, brother of x, sister of x, co wives of x"], 
+      ["Prince Jinu", "husband of x, father of x, brother of x"], 
+      ["Li Yan", "mother of x, wife of x"], 
+      ["Li Zhong", "mother of x, wife of x"], 
+      ["Fang XU", "wife of x, mother of x"], 
+      ["Xiao Qian", "wife of x, sister of x"], 
+      ["Li Gongzi", "wife of x, mother of x, co wives of x"]
+    ],
+    "Fang XU": [
+      ["Master Chen", "acquaintance of x, business partner of x, informant of x, helper of x"], 
+      ["Li Wangye ", "acquaintance of x"], 
+      ["Chen Zijing", "friend of x, business partner of x"], 
+      ["Prince Jinu", "acquaintance of x, friend of x"], 
+      ["Li Yan", "acquaintance of x, suspect of x, rival of x, enemy of x, friend of x, student of x, informant of x"], 
+      ["Li Zhong", "wife of x"], 
+      ["Madam Li or Li Family", "husband of x, father of x"], 
+      ["Xiao Qian", "mentor of x"], 
+      ["Li Gongzi", "acquaintance of x"]
+    ],
+    "Li Gongzi": [
+      ["Master Chen", "acquaintance of x, business partner of x, friend of x, informant of x, mentor of x, student of x"], 
+      ["Li Wangye", "friend of x, mentor of x"], 
+      ["Chen Zijing", "acquaintance of x, business partner of x, informant of x, helper of x, suspect of x, rival of x, enemy of x"], 
+      ["Prince Jinu", "friend of x, classmate of x"], 
+      ["Li Yan", "sibling of x, co wives of x, rival of x, acquaintance of x"], 
+      ["Madam Li or Li Family", "son of x, brother of x, nephew of x, informant of x"], 
+      ["Fang XU", "acquaintance of x"]
+    ],
+    "Li Wangye ": [
+      ["Fang XU", "acquaintance of x"]
+    ],
+    "Xiao Qian": [
+      ["Li Wangye", "husband of x, same person as x (different reference)"], 
+      ["Chen Zijing", "friend of x"], 
+      ["Prince Jinu", "acquaintance of x"], 
+      ["Li Yan", "sister in law of x, victim of x"], 
+      ["Li Zhong", "wife of x"], 
+      ["Madam Li or Li Family", "daughter of x, sibling of x"]
+    ]
+}

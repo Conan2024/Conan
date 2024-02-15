@@ -1,0 +1,140 @@
+{
+    "Yu Junhong": [
+        [
+            "Yu Beichen",
+            "child of x"
+        ],
+        [
+            "Ren Zhongyuan",
+            "grandchild of x"
+        ],
+        [
+            "Ren",
+            "child of x"
+        ],
+        [
+            "Meng Shen",
+            "acquaintance of x, friend of x"
+        ],
+        [
+            "Yao Zhongyi",
+            "friend of x, guest of x"
+        ],
+        [
+            "Fang Chengshan",
+            "acquaintance of x"
+        ],
+        [
+            "Lady Hong",
+            "acquaintance of x, information receiver from x"
+        ]
+    ],
+    "Yu Beichen": [
+        [
+            "Yu Junhong",
+            "father of x"
+        ],
+        [
+            "Meng Shen",
+            "friend of x, colleague of x"
+        ]
+    ],
+    "Ren": [
+        [
+            "Yu Junhong",
+            "mother of x"
+        ],
+        [
+            "Ren Zhongyuan",
+            "child of x"
+        ]
+    ],
+    "Ren Zhongyuan": [
+        [
+            "Yu Junhong",
+            "grandparent of x"
+        ],
+        [
+            "Ren",
+            "parent of x"
+        ]
+    ],
+    "Yao Zhongyi": [
+        [
+            "Yao Changshou",
+            "child of x"
+        ],
+        [
+            "Yu Junhong",
+            "friend of x, host of x"
+        ],
+        [
+            "Yao Mengren",
+            "sibling of x"
+        ],
+        [
+            "Lady Hong",
+            "step mother of x or mother in law of x"
+        ]
+    ],
+    "Meng Shen": [
+        [
+            "Yu Beichen",
+            "friend of x, business partner of x"
+        ],
+        [
+            "Yu Junhong",
+            "friend of x, host of x"
+        ]
+    ],
+    "Fang Chengshan": [
+        [
+            "Meng Shen",
+            "employee of x or subordinate of x"
+        ]
+    ],
+    "Fan": [
+        [
+            "Fang Chengshan",
+            "acquaintance of x, colleague of x"
+        ]
+    ],
+    "Yao Changshou": [
+        [
+            "Yao Zhongyi",
+            "father of x"
+        ],
+        [
+            "Lady Hong",
+            "husband of x"
+        ],
+        [
+            "Yao Mengren",
+            "father of x"
+        ]
+    ],
+    "Lady Hong": [
+        [
+            "Yao Changshou",
+            "wife of x"
+        ],
+        [
+            "Yao Zhongyi",
+            "step mother of x or mother in law of x"
+        ],
+        [
+            "Yu Junhong",
+            "patient of x, acquaintance of x"
+        ]
+    ],
+    "Yao Mengren": [
+        [
+            "Yao Zhongyi",
+            "sibling of x"
+        ],
+        [
+            "Yao Changshou",
+            "child of x"
+        ]
+    ]
+}

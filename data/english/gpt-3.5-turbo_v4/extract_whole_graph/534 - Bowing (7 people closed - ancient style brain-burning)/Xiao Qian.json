@@ -1,0 +1,54 @@
+{
+    "Xiao Qian": [
+      ["Fang Liu", "same person as x (different identity)"], 
+      ["Grandma", "grandmother of x"], 
+      ["Fang Ye", "father of x"], 
+      ["Fang Xu", "aunt of x"], 
+      ["Fang Mian", "aunt of x"], 
+      ["Fang Zhu", "cousin of x"], 
+      ["Li Qinren", "rebellion against x"], 
+      ["Chen Qian", "friend of x"], 
+      ["Li Zhong", "fiance of x"], 
+      ["Li Yan", "romantic relationships with x"], 
+      ["Guests", "guest of x"], 
+      ["Madam Li", "wife of x"], 
+      ["Li Wangye", "husband of x"], 
+      ["Li Wangye", "perpetrator of x"], 
+      ["Li Wangye", "murderer of x"], 
+      ["Li Wangye", "killed by x"], 
+      ["Li Wangye", "suspected by x"], 
+      ["Chen Qian's family", "relative of x"], 
+      ["Li Zhong and Chen Qian", "future relative of x"]
+    ],
+    "Li Yan": [
+      ["Xiao Qian", "romantic relationships with x"]
+    ],
+    "Chen Qian": [
+      ["Xiao Qian", "friend of x"], 
+      ["Li Zhong", "romantic relationships with x"], 
+      ["Li Wangye", "husband of x"], 
+      ["Li Wangye", "crime partner of x"], 
+      ["Li Wangye", "killed by x"]
+    ],
+    "Li Zhong": [
+      ["Chen Qian", "romantic relationships with x"], 
+      ["Chen Qian", "fiance of x"]
+    ],
+    "Li Qinren": [
+      ["Fang Liu", "rebellion against x"], 
+      ["Fang Liu's father", "father of x"], 
+      ["Li Wangye", "father of x"], 
+      ["Li Xing", "son of x"]
+    ],
+    "Chen Zijing": [
+      ["Chen Qian", "father of x"]
+    ],
+    "Madam Li": [
+      ["Li Qinren", "wife of x"], 
+      ["Li Zhong", "mother of x"]
+    ],
+    "Li Wangye": [
+      ["Chen Qian", "husband of x"], 
+      ["Xiao Qian", "killed by x"]
+    ]
+}

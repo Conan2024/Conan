@@ -1,0 +1,81 @@
+{
+    "Yao Zhongyi": [
+      ["Yao Changshou", "father of x"], 
+      ["Zhang Yadi", "mother of x"], 
+      ["Yao Mengren", "half brother of x, admired by x"], 
+      ["Minyue Sister", "acquaintance of x"], 
+      ["Zhang Decai", "cousin of x"], 
+      ["Yu Junhong", "friend of x, information receiver from x"], 
+      ["Chen Junmeng", "romantic relationships with x, admirer of x"], 
+      ["Yao Changshou", "employer of x"], 
+      ["Doctor Fang", "doctor of x"], 
+      ["Uncle Gui", "informant of x"], 
+      ["Yun Ling", "helper of x"], 
+      ["Yao Mengren", "romantic relationships with x, husband of x"], 
+      ["Yao Mengren", "perpetrator of x"], 
+      ["Yao Mengren", "murderer of x"], 
+      ["Chen Junmeng", "daughter in law of x"], 
+      ["Chen Junmeng", "fiancee of x"], 
+      ["Chen Junmeng", "romantic relationships with x"], 
+      ["Chen Junmeng", "patient of x"], 
+      ["Chen Junmeng", "helper of x"], 
+      ["Yu Junhong", "student of x"], 
+      ["Yu Junhong", "information receiver from x"], 
+      ["Doctor Fang", "employer of x"], 
+      ["Doctor Fang", "informant of x"], 
+      ["Lady Hong", "patient of x"], 
+      ["Yun Ling", "helper of x"], 
+      ["Yun Ling", "patient of x"]
+    ],
+    "Yao Mengren": [
+      ["Yao Zhongyi", "half brother of x, admired by x"]
+    ],
+    "Chen Junmeng": [
+      ["Yao Zhongyi", "romantic relationships with x, admirer of x"], 
+      ["Yao Mengren", "romantic relationships with x, husband of x"], 
+      ["Yao Zhongyi", "fiancee of x"], 
+      ["Doctor Fang", "doctor of x"], 
+      ["Yun Ling", "helper of x"]
+    ],
+    "Yu Junhong": [
+      ["Yao Zhongyi", "friend of x, mentor of x"], 
+      ["Yao Zhongyi", "information receiver from x"], 
+      ["Doctor Fang", "doctor of x"], 
+      ["Doctor Fang", "employer of x"], 
+      ["Yao Mengren", "murderer of x"], 
+      ["Yun Ling", "patient of x"]
+    ],
+    "Yao Changshou": [
+      ["Yao Zhongyi", "father of x"], 
+      ["Yao Mengren", "son of x"], 
+      ["Chen Junmeng", "daughter in law of x"]
+    ],
+    "Zhang Yadi": [
+      ["Yao Zhongyi", "mother of x"]
+    ],
+    "Minyue Sister": [
+      ["Yao Zhongyi", "acquaintance of x"]
+    ],
+    "Zhang Decai": [
+      ["Yao Zhongyi", "cousin of x"]
+    ],
+    "Doctor Fang": [
+      ["Yao Zhongyi", "doctor of x"], 
+      ["Yu Junhong", "employer of x"], 
+      ["Yu Junhong", "informant of x"], 
+      ["Lady Hong", "employer of x"], 
+      ["Chen Junmeng", "patient of x"]
+    ],
+    "Uncle Gui": [
+      ["Yao Zhongyi", "informant of x"]
+    ],
+    "Yun Ling": [
+      ["Yao Zhongyi", "helper of x"], 
+      ["Chen Junmeng", "helper of x"], 
+      ["Yu Junhong", "patient of x"]
+    ],
+    "Lady Hong": [
+      ["Uncle Gui", "informant of x"], 
+      ["Doctor Fang", "patient of x"]
+    ]
+}

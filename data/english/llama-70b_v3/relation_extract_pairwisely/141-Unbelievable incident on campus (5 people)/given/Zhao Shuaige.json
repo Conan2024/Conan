@@ -1,0 +1,40 @@
+{
+    "Hao Guimi": [
+      ["Lin Xiaohua", "friend of x, acquaintance of x"], 
+      ["Wang Xuexi", "friend of x, acquaintance of x"], 
+      ["Zhang Eba", "friend of x, acquaintance of x"], 
+      ["Zhao Shuaige", "friend of x, acquaintance of x"]
+    ],
+    "Li Xiaodi": [
+      ["Lin Xiaohua", "friend of x, classmate of x"], 
+      ["Wang Xuexi", "acquaintance of x, classmate of x"], 
+      ["Zhang Eba", "friend of x, acquaintance of x"], 
+      ["Zhao Shuaige", "friend of x, acquaintance of x"]
+    ],
+    "Lin Xiaohua": [
+      ["Hao Guimi", "friend of x, acquaintance of x"], 
+      ["Li Xiaodi", "boyfriend of x, fiancee of x"], 
+      ["Wang Xuexi", "fiancee of x, victim of x"], 
+      ["Zhang Eba", "wife of x, same person as x (different identity)"], 
+      ["Zhao Shuaige", "acquaintance of x, classmate of x"]
+    ],
+    "Wang Xuexi": [
+      ["Hao Guimi", "friend of x, acquaintance of x"], 
+      ["Li Xiaodi", "acquaintance of x, classmate of x"], 
+      ["Lin Xiaohua", "fiance of x, perpetrator of x"], 
+      ["Zhang Eba", "friend of x, acquaintance of x"]
+    ],
+    "Zhang Eba": [
+      ["Hao Guimi", "friend of x, acquaintance of x"], 
+      ["Li Xiaodi", "friend of x, acquaintance of x"], 
+      ["Lin Xiaohua", "husband of x, same person as x (different reference)"], 
+      ["Wang Xuexi", "friend of x, acquaintance of x"], 
+      ["Zhao Shuaige", "friend of x, classmate of x"]
+    ],
+    "Zhao Shuaige": [
+      ["Hao Guimi", "friend of x, acquaintance of x"], 
+      ["Li Xiaodi", "friend of x, acquaintance of x"], 
+      ["Lin Xiaohua", "acquaintance of x, classmate of x"], 
+      ["Zhang Eba", "friend of x, classmate of x"]
+    ]
+}

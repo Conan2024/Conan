@@ -1,0 +1,26 @@
+{
+    "First Mate Zhang": [
+      ["Naive Hen", "brother of x"], 
+      ["Ship Doctor Ling", "helper of x"]
+    ],
+    "Naive Hen": [
+      ["First Mate Zhang", "brother of x"], 
+      ["Secretary Wen", "helper of x"], 
+      ["Ship Doctor Ling", "friend of x"]
+    ],
+    "Ship Doctor Ling": [
+      ["First Mate Zhang", "helper of x"], 
+      ["Naive Hen", "friend of x"], 
+      ["Secretary Wen", "friend of x"]
+    ],
+    "Secretary Wen": [
+      ["Naive Hen", "helper of x"], 
+      ["Ship Doctor Ling", "friend of x"]
+    ],
+    "Shipyard Worker Wang": [
+      ["Worker Wang", "friend of x"]
+    ],
+    "Worker Wang": [
+      ["Shipyard Worker Wang", "friend of x"]
+    ]
+}

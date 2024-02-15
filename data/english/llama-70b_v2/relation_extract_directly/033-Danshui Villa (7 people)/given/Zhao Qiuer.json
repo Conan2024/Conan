@@ -1,0 +1,28 @@
+{
+    "Zhao Qiuer": [
+      ["Zhao Luoyi", "personal girl of x, closest companion of x"], 
+      ["Zhao Wanlei", "master of x, intimate of x"], 
+      ["Feng Shuangji", "housekeeper of x, strict of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Zhao Qiuer", "personal girl of x, closest companion of x"], 
+      ["Zhao Wanlei", "father of x, affectionate of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Zhao Qiuer", "master of x, intimate of x"], 
+      ["Zhao Luoyi", "daughter of x, affectionate of x"]
+    ],
+    "Feng Shuangji": [
+      ["Zhao Qiuer", "housekeeper of x, strict of x"], 
+      ["Zhao Luoyi", "employer of x, authority of x"]
+    ],
+    "Feng Zhu": [
+      ["Zhao Qiuer", "cousin of x, acquaintance of x"]
+    ],
+    "Qi Yue": [
+      ["Zhao Qiuer", "head of x the nursing home, acquaintance of x"]
+    ],
+    "Zhao Wei": [
+      ["Zhao Luoyi", "brother of x, acquaintance of x"]
+    ]
+}

@@ -1,0 +1,537 @@
+{
+    "Li Gaobai": [
+        [
+            "Qian",
+            "Mother, Son"
+        ],
+        [
+            "Li Demu",
+            "brother, mentor"
+        ],
+        [
+            "Li Liangsong",
+            "brother, friend"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "employer of X, master of X"
+        ],
+        [
+            "Falcon",
+            "friend, classmate"
+        ],
+        [
+            "Ruya",
+            "friend, classmate"
+        ],
+        [
+            "Gui Yin",
+            "friend, colleague"
+        ],
+        [
+            "Gan Ma",
+            "friend, classmate"
+        ],
+        [
+            "Professor Zhou",
+            "Friend, Mentor"
+        ],
+        [
+            "Mountain Spirit",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5"
+        ]
+    ],
+    "Qian": [
+        [
+            "Li Gaobai",
+            "Mother, Son"
+        ],
+        [
+            "Li Demu",
+            "Mother, Son"
+        ],
+        [
+            "Li Liangsong",
+            "Mother, Son"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Mother of Li Gaobai"
+        ],
+        [
+            "Falcon",
+            "Wife of X",
+            "Stranger to X"
+        ],
+        [
+            "Ruya",
+            "Mother, Daughter"
+        ],
+        [
+            "Gui Yin",
+            "Mother of X",
+            "Wizard's sister"
+        ],
+        [
+            "Gan Ma",
+            "Mother, sister-in-law"
+        ],
+        [
+            "Professor Zhou",
+            "employer of X",
+            "Master of X"
+        ],
+        [
+            "Mountain Spirit",
+            "Mother of X",
+            "Wife of X"
+        ]
+    ],
+    "Li Demu": [
+        [
+            "Li Gaobai",
+            "brother, mentored"
+        ],
+        [
+            "Qian",
+            "Son, Brother"
+        ],
+        [
+            "Li Liangsong",
+            "Brother",
+            "Suspect"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Brother, Employee"
+        ],
+        [
+            "Falcon",
+            "Brother",
+            "Suspect"
+        ],
+        [
+            "Ruya",
+            "brother-in-law, friend"
+        ],
+        [
+            "Gui Yin",
+            "Brother-in-law",
+            "Suspect"
+        ],
+        [
+            "Gan Ma",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Professor Zhou",
+            "friend, mentor"
+        ],
+        [
+            "Mountain Spirit",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Li Liangsong": [
+        [
+            "Li Gaobai",
+            "brother, friend"
+        ],
+        [
+            "Qian",
+            "Son, Brother"
+        ],
+        [
+            "Li Demu",
+            "Brother",
+            "Suspect"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "friend, mentor"
+        ],
+        [
+            "Falcon",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Ruya",
+            "friend, classmate"
+        ],
+        [
+            "Gui Yin",
+            "Brother-in-law",
+            "Son-in-law"
+        ],
+        [
+            "Gan Ma",
+            "friend, classmate"
+        ],
+        [
+            "Professor Zhou",
+            "Friend, Mentor"
+        ],
+        [
+            "Mountain Spirit",
+            "friend, mentor"
+        ]
+    ],
+    "Ba Mansion Mountain": [
+        [
+            "Li Gaobai",
+            "employer of X, master of X"
+        ],
+        [
+            "Qian",
+            "Father of Li Gaobai"
+        ],
+        [
+            "Li Demu",
+            "Employer, Brother-in-law"
+        ],
+        [
+            "Li Liangsong",
+            "friend, mentor"
+        ],
+        [
+            "Falcon",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Ruya",
+            "Falcon",
+            "Gui Yin",
+            "Gan Ma"
+        ],
+        [
+            "Gui Yin",
+            "Falcon",
+            "Ruya"
+        ],
+        [
+            "Gan Ma",
+            "Falcon",
+            "Ruya",
+            "Gui Yin"
+        ],
+        [
+            "Professor Zhou",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Mountain Spirit",
+            "Employer of X",
+            "Master of X"
+        ]
+    ],
+    "Falcon": [
+        [
+            "Li Gaobai",
+            "friend, classmate"
+        ],
+        [
+            "Qian",
+            "Husband of X",
+            "Stranger to X"
+        ],
+        [
+            "Li Demu",
+            "Brother",
+            "Suspect"
+        ],
+        [
+            "Li Liangsong",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Employee of X",
+            "Servant of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Gui Yin"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Gan Ma",
+            "Ruya"
+        ],
+        [
+            "Ruya",
+            "Friend, Schoolmate"
+        ],
+        [
+            "Gui Yin",
+            "Brother-in-law",
+            "Son of Ba Mansion Mountain"
+        ],
+        [
+            "Gan Ma",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Professor Zhou",
+            "Friend, Mentor"
+        ],
+        [
+            "Mountain Spirit",
+            "Friend"
+        ],
+        [
+            "Ruya",
+            "Gui Yin",
+            "brother"
+        ]
+    ],
+    "Ruya": [
+        [
+            "Li Gaobai",
+            "friend, classmate"
+        ],
+        [
+            "Qian",
+            "Daughter, Sister"
+        ],
+        [
+            "Li Demu",
+            "sister-in-law, friend"
+        ],
+        [
+            "Li Liangsong",
+            "friend, classmate"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Falcon",
+            "Gui Yin",
+            "Gan Ma"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Gui Yin"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Gan Ma",
+            "Falcon"
+        ],
+        [
+            "Falcon",
+            "Friend, Schoolmate"
+        ],
+        [
+            "Gui Yin",
+            "Falcon",
+            "friend"
+        ],
+        [
+            "Gan Ma",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Professor Zhou",
+            "Friend, Mentor"
+        ],
+        [
+            "Mountain Spirit",
+            "Friend"
+        ]
+    ],
+    "Gui Yin": [
+        [
+            "Li Gaobai",
+            "friend, colleague"
+        ],
+        [
+            "Qian",
+            "Fiance of X",
+            "Wizard"
+        ],
+        [
+            "Li Demu",
+            "Fiance",
+            "Suspect"
+        ],
+        [
+            "Li Liangsong",
+            "Fiance",
+            "Brother-in-law"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Falcon",
+            "Ruya"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Gan Ma",
+            "Ruya",
+            "Falcon"
+        ],
+        [
+            "Falcon",
+            "Fiance",
+            "Brother of Ruya"
+        ],
+        [
+            "Ruya",
+            "Falcon",
+            "fiancee"
+        ],
+        [
+            "Gan Ma",
+            "Fiancee, Brother-in-law"
+        ],
+        [
+            "Professor Zhou",
+            "Friend, Mentor"
+        ],
+        [
+            "Mountain Spirit",
+            "Fiance"
+        ]
+    ],
+    "Gan Ma": [
+        [
+            "Li Gaobai",
+            "friend, classmate"
+        ],
+        [
+            "Qian",
+            "Sister, sister-in-law"
+        ],
+        [
+            "Li Demu",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Li Liangsong",
+            "friend, classmate"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Falcon",
+            "Ruya",
+            "Gui Yin"
+        ],
+        [
+            "Falcon",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Ruya",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Gui Yin",
+            "Fiance, Sister-in-law"
+        ],
+        [
+            "Professor Zhou",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Mountain Spirit",
+            "Sister of X",
+            "Friend of X"
+        ]
+    ],
+    "Professor Zhou": [
+        [
+            "Li Gaobai",
+            "Friend, Teacher"
+        ],
+        [
+            "Qian",
+            "employer of X",
+            "Master of X"
+        ],
+        [
+            "Li Demu",
+            "friend, mentor"
+        ],
+        [
+            "Li Liangsong",
+            "Friend, Teacher"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Employee of X",
+            "Servant of X"
+        ],
+        [
+            "Falcon",
+            "Friend, Mentor"
+        ],
+        [
+            "Ruya",
+            "Friend, Mentor"
+        ],
+        [
+            "Gui Yin",
+            "Friend, Mentor"
+        ],
+        [
+            "Gan Ma",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Mountain Spirit",
+            "Adversary, Rival"
+        ]
+    ],
+    "Mountain Spirit": [
+        [
+            "Li Gaobai",
+            "relationship 1, relationship 2, relationship 3, relationship 4, relationship 5"
+        ],
+        [
+            "Qian",
+            "Father of X",
+            "Husband of X"
+        ],
+        [
+            "Li Demu",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Li Liangsong",
+            "friend, mentor"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "Wizard",
+            "Fiance of X"
+        ],
+        [
+            "Falcon",
+            "Friend"
+        ],
+        [
+            "Ruya",
+            "Friend"
+        ],
+        [
+            "Gui Yin",
+            "Fiance"
+        ],
+        [
+            "Gan Ma",
+            "Sister of X",
+            "Friend of X"
+        ],
+        [
+            "Professor Zhou",
+            "Adversary, Rival"
+        ]
+    ]
+}

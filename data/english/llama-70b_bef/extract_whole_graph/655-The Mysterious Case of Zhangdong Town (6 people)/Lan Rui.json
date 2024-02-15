@@ -1,0 +1,29 @@
+{
+    "Lan Rui": [
+      ["Zhang Fanghao", "biological father of x"], 
+      ["Minxi", "friend of x"]
+    ],
+    "Shen Wusheng": [
+      ["Yang Shuixun", "friend of x, acquaintance of x"]
+    ],
+    "Xiting": [
+      ["Minxi", "friend of x"], 
+      ["Gu Chumeng", "husband of x, acquaintance of x"]
+    ],
+    "Minxi": [
+      ["Lan Rui", "friend of x"], 
+      ["Xiting", "friend of x"]
+    ],
+    "Yang Shuixun": [
+      ["Lan Rui", "friend of x, acquaintance of x"], 
+      ["Minxi", "daughter of x"], 
+      ["Gu Chumeng", "son in law of x, acquaintance of x"]
+    ],
+    "Zhang Fanghao": [
+      ["Lan Rui", "biological father of x"]
+    ],
+    "Gu Chumeng": [
+      ["Xiting", "husband of x, acquaintance of x"], 
+      ["Minxi", "father in law of x"]
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "Shipyard worker Wang": [
+        [
+            "Captain",
+            "acquaintance of x"
+        ],
+        [
+            "First Mate Zhang",
+            "accomplice of x, manipulated by x"
+        ],
+        [
+            "Worker Wang",
+            "son of x, victim of x"
+        ],
+        [
+            "Ship Doctor Ling",
+            "daughter in law of x, cared for by x"
+        ],
+        [
+            "Passers-by",
+            "acquaintance of x, information receiver from x"
+        ],
+        [
+            "Boss Yang",
+            "adversary of x, manipulator of x, deceiver of x"
+        ],
+        [
+            "Naive Hen",
+            "acquaintance of x, deceiver of x"
+        ]
+    ],
+    "Worker Wang": [
+        [
+            "Ship Doctor Ling",
+            "wife of x"
+        ],
+        [
+            "Shipyard worker Wang",
+            "father of x"
+        ],
+        [
+            "Boss Yang",
+            "creditor of x, deceiver of x"
+        ],
+        [
+            "First Mate Zhang",
+            "acquaintance of x"
+        ]
+    ],
+    "Ship Doctor Ling": [
+        [
+            "Worker Wang",
+            "husband of x"
+        ],
+        [
+            "Shipyard worker Wang",
+            "father in law of x, helper of x"
+        ],
+        [
+            "Boss Yang",
+            "debt collector of x, threatener of x"
+        ]
+    ],
+    "First Mate Zhang": [
+        [
+            "Shipyard worker Wang",
+            "business partner of x, manipulator of x"
+        ],
+        [
+            "Boss Yang",
+            "business partner of x, competitor of x"
+        ],
+        [
+            "Naive Hen",
+            "subordinate of x"
+        ]
+    ],
+    "Boss Yang": [
+        [
+            "First Mate Zhang",
+            "business partner of x, manipulated by x"
+        ],
+        [
+            "Naive Hen",
+            "employee of x, informant of x"
+        ],
+        [
+            "Shipyard worker Wang",
+            "business partner of x, threatened by x"
+        ],
+        [
+            "Ship Doctor Ling",
+            "debt collector of x, threatener of x"
+        ]
+    ],
+    "Naive Hen": [
+        [
+            "Shipyard worker Wang",
+            "acquaintance of x, deceived by x"
+        ],
+        [
+            "Boss Yang",
+            "superior of x, employer of x"
+        ]
+    ]
+}

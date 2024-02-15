@@ -1,0 +1,76 @@
+{
+    "Publicity Rowling": [
+        [
+            "Magician Gust",
+            "same person as x (different identity), romantic relationships with x"
+        ],
+        [
+            "Assistant Ella",
+            "friend of x"
+        ],
+        [
+            "Theatrical Work David",
+            "ex romantic relationships with x, mentor of x"
+        ],
+        [
+            "Security Kevin",
+            "brother of x, information receiver from x"
+        ]
+    ],
+    "Magician Gust": [
+        [
+            "Publicity Rowling",
+            "same person as x (different identity), romantic relationships with x"
+        ],
+        [
+            "Assistant Ella",
+            "romantic relationships with x"
+        ],
+        [
+            "Security Kevin",
+            "admired by x"
+        ]
+    ],
+    "Assistant Ella": [
+        [
+            "Publicity Rowling",
+            "friend of x"
+        ],
+        [
+            "Magician Gust",
+            "romantic relationships with x"
+        ],
+        [
+            "Theatrical Work David",
+            "ex romantic relationships with x, informant of x"
+        ],
+        [
+            "Security Kevin",
+            "informant of x"
+        ]
+    ],
+    "Theatrical Work David": [
+        [
+            "Publicity Rowling",
+            "ex romantic relationships with x, mentor of x"
+        ],
+        [
+            "Assistant Ella",
+            "ex romantic relationships with x, informant of x"
+        ]
+    ],
+    "Security Kevin": [
+        [
+            "Publicity Rowling",
+            "brother of x, information receiver from x"
+        ],
+        [
+            "Magician Gust",
+            "admired by x"
+        ],
+        [
+            "Assistant Ella",
+            "informant of x"
+        ]
+    ]
+}

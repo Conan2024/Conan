@@ -1,0 +1,44 @@
+{
+    "Cai Siniang": [
+      ["Hong Zhaizhu", "friend of x, acquaintance of x"], 
+      ["Meng Sanchun", "wife of x, romantic relationships with x"], 
+      ["Zhang Hongsheng", "wife of x, romantic relationships with x"], 
+      ["Zhang Jinyin", "wife of x, romantic relationships with x"], 
+      ["Hong Jiangshui", "roommate of x zhang hongsheng, colleague of x zhang jinyin"]
+    ],
+    "Hong Jiangshui": [
+      ["Hong Zhaizhu", "son of x"], 
+      ["Meng Sanchun", "friend/acquaintance of x, suspect/suspicious of x, murderer/victim of x"], 
+      ["Zhang Hongsheng", "employer of x, master of x"], 
+      ["Zhang Jinyin", "colleague of x, business partner of x"], 
+      ["Zhang Hongsheng", "zhang jinyin of x, colleague of x cai siniang"]
+    ],
+    "Hong Zhaizhu": [
+      ["Cai Siniang", "friend of x, acquaintance of x"], 
+      ["Hong Jiangshui", "father of x"], 
+      ["Meng Sanchun", "friend/acquaintance of x, suspect/suspicious of x, perpetrator/victim of x"], 
+      ["Zhang Hongsheng", "employer of x, master of x"], 
+      ["Zhang Jinyin", "friend/acquaintance of x, colleague of x"]
+    ],
+    "Meng Sanchun": [
+      ["Cai Siniang", "husband of x, romantic relationships with x"], 
+      ["Hong Jiangshui", "friend/acquaintance of x, suspect/suspicious of x, victim/killer of x"], 
+      ["Hong Zhaizhu", "friend/acquaintance of x, suspect/suspicious of x, perpetrator/victim of x"], 
+      ["Zhang Hongsheng", "employer of x, master of x"], 
+      ["Zhang Jinyin", "brother in law of x, business partner of x"]
+    ],
+    "Zhang Hongsheng": [
+      ["Cai Siniang", "husband of x, romantic relationships with x"], 
+      ["Hong Jiangshui", "employee of x, servant of x"], 
+      ["Hong Zhaizhu", "employee of x, servant of x"], 
+      ["Meng Sanchun", "employer of x, master of x"], 
+      ["Zhang Jinyin", "employer of x hong jiangshui, colleague of x hong jiangshui"]
+    ],
+    "Zhang Jinyin": [
+      ["Cai Siniang", "husband of x, romantic relationships with x"], 
+      ["Hong Jiangshui", "colleague of x, business partner of x"], 
+      ["Hong Zhaizhu", "friend/acquaintance of x, colleague of x"], 
+      ["Meng Sanchun", "brother in law of x, business partner of x"], 
+      ["Zhang Hongsheng", "colleague of x hong jiangshui, roommate of x cai siniang"]
+    ]
+}

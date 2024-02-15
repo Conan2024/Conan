@@ -1,0 +1,26 @@
+{
+    "Wang You": [
+      ["Du Zhong", "friend of x"], 
+      ["Xuan Can", "friend of x"], 
+      ["Du Zhong's Child", "father of x"]
+    ],
+    "Du Zhong": [
+      ["Wang You", "friend of x"], 
+      ["Xuan Can", "friend of x, business partner of x"], 
+      ["Du Zhong's Child", "father of x"]
+    ],
+    "Xuan Can": [
+      ["Wang You", "friend of x"], 
+      ["Du Zhong", "friend of x, business partner of x"], 
+      ["Lady Safflower", "extramarital affair with x"]
+    ],
+    "Du Zhong's Child": [
+      ["Wang You", "child of x"], 
+      ["Du Zhong", "child of x"], 
+      ["Lady Safflower", "mother of x"]
+    ],
+    "Lady Safflower": [
+      ["Xuan Can", "extramarital affair with x"], 
+      ["Du Zhong's Child", "child of x"]
+    ]
+}

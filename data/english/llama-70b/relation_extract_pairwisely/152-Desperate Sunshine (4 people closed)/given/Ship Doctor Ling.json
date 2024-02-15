@@ -1,0 +1,166 @@
+{
+    "Boss Yang": [
+        [
+            "First Mate Zhang",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Secretary Wen",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Ship Doctor Ling",
+            "Employer of X",
+            "Superior of X"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Worker Wang",
+            "Employer of X",
+            "Master of X"
+        ]
+    ],
+    "First Mate Zhang": [
+        [
+            "Boss Yang",
+            "Worker Wang",
+            "Superior of X"
+        ],
+        [
+            "Secretary Wen",
+            "Employer of X",
+            "Superior of X"
+        ],
+        [
+            "Ship Doctor Ling",
+            "Employer of X",
+            "Superior of X"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "Superior of x",
+            "Employer of X",
+            "Master of X",
+            "Subordinate of X",
+            "Employee of X"
+        ],
+        [
+            "Worker Wang",
+            "Employer of X",
+            "Superior of X"
+        ]
+    ],
+    "Secretary Wen": [
+        [
+            "Boss Yang",
+            "Employee of X",
+            "Subordinate of X"
+        ],
+        [
+            "First Mate Zhang",
+            "Employee of X",
+            "Subordinate of X"
+        ],
+        [
+            "Ship Doctor Ling",
+            "Employee of X",
+            "Informant of X"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "Friend",
+            "Informant"
+        ],
+        [
+            "Worker Wang",
+            "relationship 1: Supervisor-Employee",
+            "relationship 2: Spy-Informant"
+        ]
+    ],
+    "Ship Doctor Ling": [
+        [
+            "Boss Yang",
+            "Employee of X",
+            "Subordinate of X"
+        ],
+        [
+            "First Mate Zhang",
+            "Employee of X",
+            "Subordinate of X"
+        ],
+        [
+            "Secretary Wen",
+            "Employer of X",
+            "Superior of x"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Worker Wang",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "Shipyard Worker Wang": [
+        [
+            "Boss Yang",
+            "Employee of X",
+            "Subordinate of X"
+        ],
+        [
+            "First Mate Zhang",
+            "Superior of x",
+            "Employer of X",
+            "Master of X",
+            "Subordinate of X",
+            "Employee of X"
+        ],
+        [
+            "Secretary Wen",
+            "Friend",
+            "Informant"
+        ],
+        [
+            "Ship Doctor Ling",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Worker Wang",
+            "Husband of X",
+            "Extramarital Affair with X"
+        ]
+    ],
+    "Worker Wang": [
+        [
+            "Boss Yang",
+            "Employee of X",
+            "Subordinate of X"
+        ],
+        [
+            "First Mate Zhang",
+            "Employee of X",
+            "Subordinate of X"
+        ],
+        [
+            "Secretary Wen",
+            "relationship 1: Supervisor-Employee",
+            "relationship 2: Spy-Informant"
+        ],
+        [
+            "Ship Doctor Ling",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "Husband of X",
+            "Extramarital Affair with X"
+        ]
+    ]
+}

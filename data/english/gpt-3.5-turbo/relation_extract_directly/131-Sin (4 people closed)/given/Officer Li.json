@@ -1,0 +1,88 @@
+{
+    "Officer Li": [
+        [
+            "Chief Wang",
+            "stranger to x"
+        ],
+        [
+            "Hu Investigate",
+            "stranger to x"
+        ],
+        [
+            "Chief Wang",
+            "host of x"
+        ],
+        [
+            "Hu Investigate",
+            "stranger to x"
+        ],
+        [
+            "Officer Li's Girlfriend",
+            "girlfriend of x, helped by x"
+        ],
+        [
+            "Zhao Cishan",
+            "adversary of x, perpetrator of x's family"
+        ]
+    ],
+    "Officer Li's Girlfriend": [
+        [
+            "Officer Li",
+            "boyfriend of x, helped by x"
+        ],
+        [
+            "Zhao Cishan",
+            "adversary of x, perpetrator of x's family"
+        ]
+    ],
+    "Chief Wang": [
+        [
+            "Officer Li",
+            "stranger to x, quest companion of x"
+        ],
+        [
+            "Hu Investigate",
+            "stranger to x"
+        ],
+        [
+            "Hu Investigate",
+            "stranger to x"
+        ],
+        [
+            "Zhao Cishan",
+            "adversary of x"
+        ]
+    ],
+    "Hu Investigate": [
+        [
+            "Officer Li",
+            "stranger to x, guest of x"
+        ],
+        [
+            "Chief Wang",
+            "stranger to x, guest of x"
+        ],
+        [
+            "Zhao Cishan",
+            "manipulated by x"
+        ]
+    ],
+    "Zhao Cishan": [
+        [
+            "Officer Li",
+            "adversary of x"
+        ],
+        [
+            "Officer Li's Girlfriend",
+            "victim of x"
+        ],
+        [
+            "Chief Wang",
+            "adversary of x"
+        ],
+        [
+            "Hu Investigate",
+            "manipulated by x"
+        ]
+    ]
+}

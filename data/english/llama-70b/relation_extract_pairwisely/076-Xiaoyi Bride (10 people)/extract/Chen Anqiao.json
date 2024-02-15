@@ -1,0 +1,321 @@
+{
+    "Chen Anqiao": [
+        [
+            "Chen Junmeng",
+            "cousin",
+            "maid",
+            "acquaintance",
+            "classmate",
+            "schoolmate",
+            "neighbour",
+            "colleague",
+            "business partner",
+            "customer",
+            "buyer",
+            "tenant",
+            "patient"
+        ],
+        [
+            "Chen Qingwu",
+            "Cousin",
+            "Servant"
+        ],
+        [
+            "Yao Mengren",
+            "Cousin",
+            "Maid"
+        ],
+        [
+            "Yao Changshou",
+            "Acquaintance",
+            "Fiance's father"
+        ],
+        [
+            "Yao Zhongyi",
+            "Acquaintance",
+            "Friend"
+        ],
+        [
+            "Lady Hong",
+            "Servant",
+            "Informant",
+            "Co-conspirator"
+        ],
+        [
+            "Doctor Fang",
+            "acquaintance",
+            "information receiver from X"
+        ]
+    ],
+    "Chen Junmeng": [
+        [
+            "Chen Anqiao",
+            "cousin",
+            "employer",
+            "master",
+            "subordinate",
+            "employee",
+            "servant",
+            "colleague",
+            "business partner",
+            "customer",
+            "buyer",
+            "tenant",
+            "patient"
+        ],
+        [
+            "Chen Qingwu",
+            "Cousin",
+            "Servant"
+        ],
+        [
+            "Yao Mengren",
+            "Wife of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Yao Changshou",
+            "Wife of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Yao Zhongyi",
+            "Cousin",
+            "Friend"
+        ],
+        [
+            "Lady Hong",
+            "Wife of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Doctor Fang",
+            "Friend",
+            "Acquaintance"
+        ]
+    ],
+    "Chen Qingwu": [
+        [
+            "Chen Anqiao",
+            "Father",
+            "Employer"
+        ],
+        [
+            "Chen Junmeng",
+            "Father",
+            "Employer"
+        ],
+        [
+            "Yao Mengren",
+            "Father-in-law/Son-in-law",
+            "Murderer/Victim"
+        ],
+        [
+            "Yao Changshou",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Friend"
+        ],
+        [
+            "Lady Hong",
+            "Father-in-law/daughter-in-law",
+            "Master/servant"
+        ],
+        [
+            "Doctor Fang",
+            "Employer of X",
+            "Master of X",
+            "Superior of X",
+            "Business Partner of X"
+        ]
+    ],
+    "Yao Mengren": [
+        [
+            "Chen Anqiao",
+            "Husband",
+            "Deceased"
+        ],
+        [
+            "Chen Junmeng",
+            "Husband of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Chen Qingwu",
+            "Husband/Father",
+            "Deceased/Murdered"
+        ],
+        [
+            "Yao Changshou",
+            "Father-in-law/Son-in-law",
+            "Brother-in-law/Uncle"
+        ],
+        [
+            "Yao Zhongyi",
+            "brother-in-law",
+            "brother-in-law"
+        ],
+        [
+            "Lady Hong",
+            "Wife of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Doctor Fang",
+            "Husband of X",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Yao Changshou": [
+        [
+            "Chen Anqiao",
+            "Acquaintance",
+            "Father-in-law"
+        ],
+        [
+            "Chen Junmeng",
+            "Husband of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Chen Qingwu",
+            "Father-in-law of X",
+            "Brother-in-law of X"
+        ],
+        [
+            "Yao Mengren",
+            "Father-in-law/Son-in-law",
+            "Brother-in-law/Uncle"
+        ],
+        [
+            "Yao Zhongyi",
+            "Father-in-law",
+            "Stepfather"
+        ],
+        [
+            "Lady Hong",
+            "Husband of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Doctor Fang",
+            "Father-in-law",
+            "Husband of X"
+        ]
+    ],
+    "Yao Zhongyi": [
+        [
+            "Chen Anqiao",
+            "Acquaintance",
+            "Friend"
+        ],
+        [
+            "Chen Junmeng",
+            "Cousin",
+            "Friend"
+        ],
+        [
+            "Chen Qingwu",
+            "Friend"
+        ],
+        [
+            "Yao Mengren",
+            "brother-in-law",
+            "brother-in-law"
+        ],
+        [
+            "Yao Changshou",
+            "Son",
+            "Stepson"
+        ],
+        [
+            "Lady Hong",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Doctor Fang",
+            "Suspect of X"
+        ]
+    ],
+    "Lady Hong": [
+        [
+            "Chen Anqiao",
+            "Employer",
+            "Mentor",
+            "Co-conspirator"
+        ],
+        [
+            "Chen Junmeng",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Chen Qingwu",
+            "Father-in-law/daughter-in-law",
+            "Master/servant"
+        ],
+        [
+            "Yao Mengren",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Yao Changshou",
+            "Wife of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Yao Zhongyi",
+            "Wife of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Doctor Fang",
+            "employer of",
+            "master of"
+        ]
+    ],
+    "Doctor Fang": [
+        [
+            "Chen Anqiao",
+            "acquaintance",
+            "information provider to X"
+        ],
+        [
+            "Chen Junmeng",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Chen Qingwu",
+            "Employee of X",
+            "Servant of X",
+            "Subordinate of X",
+            "Colleague of X"
+        ],
+        [
+            "Yao Mengren",
+            "Wife of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Yao Changshou",
+            "Mother-in-law",
+            "Wife of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Suspect of X"
+        ],
+        [
+            "Lady Hong",
+            "employee of",
+            "subordinate of"
+        ]
+    ]
+}

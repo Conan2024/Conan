@@ -1,0 +1,34 @@
+{
+    "Hei Li": [
+      ["Qi Qingli", "romantic relationships with of x"], 
+      ["Qi Gufei", "father of x"], 
+      ["Wang Zimo", "ex romantic relationships with"], 
+      ["Guilang", "fondness of x"], 
+      ["Zhaonan", "sister of x"], 
+      ["Wangdi", "brother in law of x"]
+    ],
+    "Qi Qingli": [
+      ["Hei Li", "romantic relationships with of x"]
+    ],
+    "Qi Gufei": [
+      ["Hei Li", "father of x"]
+    ],
+    "Mrs. Ruan": [
+      ["Guilang", "mother of x"], 
+      ["Zhaonan", "mother of x"]
+    ],
+    "Zhaonan": [
+      ["Hei Li", "sister of x"], 
+      ["Wangdi", "brother of x"]
+    ],
+    "Wangdi": [
+      ["Zhaonan", "sister in law of x"]
+    ],
+    "Guilang": [
+      ["Hei Li", "fondness of x"]
+    ],
+    "Wang Zimo": [
+      ["Hei Li", "ex romantic relationships with"], 
+      ["Zhaonan", "brother in law of x"]
+    ]
+}

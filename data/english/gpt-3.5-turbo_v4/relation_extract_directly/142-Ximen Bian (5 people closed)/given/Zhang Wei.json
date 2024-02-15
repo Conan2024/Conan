@@ -1,0 +1,28 @@
+{
+    "Zhang Wei": [
+      ["Zhao Zhongyang", "guard of x"], 
+      ["Zhao ZHONGYANG", "employer of x"], 
+      ["Chen Meier", "romantic relationships with x"], 
+      ["Li Cheng", "acquaintance of x"], 
+      ["Zhao San", "friend of x"], 
+      ["Ma Laoban", "business partner of x"]
+    ],
+    "Zhao Zhongyang": [
+      ["Zhang Wei", "guard of x"], 
+      ["Chen Meier", "romantic relationships with x"]
+    ],
+    "Chen Meier": [
+      ["Zhao Zhongyang", "romantic relationships with x"], 
+      ["Zhang Wei", "romantic relationships with x"]
+    ],
+    "Li Cheng": [
+      ["Zhang Wei", "acquaintance of x"]
+    ],
+    "Zhao San": [
+      ["Zhang Wei", "friend of x"], 
+      ["Zhao Zhongyang", "business partner of x"]
+    ],
+    "Ma Laoban": [
+      ["Zhang Wei", "business partner of x"]
+    ]
+}

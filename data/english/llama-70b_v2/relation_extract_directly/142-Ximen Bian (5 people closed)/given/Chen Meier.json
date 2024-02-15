@@ -1,0 +1,14 @@
+{
+    "Chen Meier": [
+      ["Zhao Zhongyang", "lover of x, betrayer of x"], 
+      ["Zhao Zhongzheng", "friend of x, informant of x"]
+    ],
+    "Zhao Zhongyang": [
+      ["Chen Meier", "lover of x, betrayed of x"], 
+      ["Zhao Zhongzheng", "brother of x, rival of x"]
+    ],
+    "Zhao Zhongzheng": [
+      ["Chen Meier", "friend of x, informant of x"], 
+      ["Zhao Zhongyang", "brother of x, rival of x"]
+    ]
+}

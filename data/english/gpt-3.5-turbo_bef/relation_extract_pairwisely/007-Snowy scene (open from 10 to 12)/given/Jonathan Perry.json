@@ -1,0 +1,53 @@
+{
+    "Jonathan Perry": [
+      ["Daniel Perry", "cousin of x"], 
+      ["Lucy Harrison", "romantic relationships with x"], 
+      ["Davis Perry", "friend of x"], 
+      ["Lucy Harrison", "romantic relationships with x, secret lover of x"], 
+      ["John Morgan", "friend of x, romantic relationships with x"], 
+      ["Alex Harvey", "secret lover of x"]
+    ],
+    "Daniel Perry": [
+      ["Jonathan Perry", "cousin of x"], 
+      ["Jacqueline Perry", "son of x"], 
+      ["Davis Perry", "cousin of x"], 
+      ["Lucy Harrison", "fiancee of x, romantic relationships with x"]
+    ],
+    "Lucy Harrison": [
+      ["Jonathan Perry", "romantic relationships with x"], 
+      ["Jonathan Perry", "romantic relationships with x, secret lover of x"], 
+      ["Daniel Perry", "fiance of x, romantic relationships with x"], 
+      ["Jacqueline Perry", "child of x"], 
+      ["Davis Perry", "romantic relationships with x"], 
+      ["John Morgan", "cousin of x"], 
+      ["Alex Harvey", "fondness of x"]
+    ],
+    "Davis Perry": [
+      ["Jonathan Perry", "friend of x"], 
+      ["Daniel Perry", "uncle of x"], 
+      ["Jacqueline Perry", "child of x"], 
+      ["Lucy Harrison", "romantic relationships with x"], 
+      ["John Morgan", "secret lover of x"], 
+      ["Alex Harvey", "helper of x, informant of x"]
+    ],
+    "John Morgan": [
+      ["Jonathan Perry", "friend of x, romantic relationships with x"], 
+      ["Jacqueline Perry", "son of x"], 
+      ["Davis Perry", "secret lover of x"], 
+      ["Lucy Harrison", "romantic relationships with x"], 
+      ["Alex Harvey", "secret lover of x"]
+    ],
+    "Alex Harvey": [
+      ["Jonathan Perry", "admired by x"], 
+      ["Jacqueline Perry", "secret admirer of x"], 
+      ["Davis Perry", "informant of x, helper of x"], 
+      ["John Morgan", "secret lover of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Daniel Perry", "mother of x"], 
+      ["Davis Perry", "mother of x"], 
+      ["Lucy Harrison", "mother of x"], 
+      ["John Morgan", "mother of x"], 
+      ["Alex Harvey", "fondness of x"]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Zhang Jie": [
+      ["Li Guofu", "mentor of x"], 
+      ["Mu Bei", "colleague of x"]
+    ],
+    "He Laoliu": [
+      ["Li Guofu", "friend of x"]
+    ],
+    "Li Guofu": [
+      ["Zhang Jie", "mentor of x"], 
+      ["He Laoliu", "friend of x"], 
+      ["Mu Bei", "colleague of x"]
+    ],
+    "Mu Bei": [
+      ["Zhang Jie", "colleague of x"], 
+      ["Li Guofu", "colleague of x"]
+    ]
+}

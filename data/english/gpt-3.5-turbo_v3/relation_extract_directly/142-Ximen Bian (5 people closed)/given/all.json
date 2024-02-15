@@ -1,0 +1,72 @@
+{
+    "Zhang Wei": [
+        [
+            "Zhao Zhongyang",
+            "guard of x, guard of x"
+        ],
+        [
+            "Zhao Zhongyang",
+            "business partner of x, friend of x"
+        ],
+        [
+            "Zhao Zhongyang",
+            "employee of x, unsuccessful helper of x"
+        ],
+        [
+            "Li Cheng",
+            "colleague of x"
+        ],
+        [
+            "Zhao San",
+            "crime partner of x"
+        ],
+        [
+            "Ma Laoban",
+            "buyer of x"
+        ]
+    ],
+    "Zhao Zhongyang": [
+        [
+            "Zhang Wei",
+            "guard of x, guard of x"
+        ],
+        [
+            "Zhang Wei",
+            "employer of x, unsuccessful helper of x"
+        ],
+        [
+            "Li Cheng",
+            "colleague of x"
+        ],
+        [
+            "Zhao San",
+            "business partner of x"
+        ]
+    ],
+    "Zhao San": [
+        [
+            "Zhang Wei",
+            "crime partner of x"
+        ],
+        [
+            "Zhao Zhongyang",
+            "business partner of x"
+        ]
+    ],
+    "Li Cheng": [
+        [
+            "Zhang Wei",
+            "colleague of x"
+        ],
+        [
+            "Zhao Zhongyang",
+            "colleague of x"
+        ]
+    ],
+    "Ma Laoban": [
+        [
+            "Zhang Wei",
+            "buyer of x"
+        ]
+    ]
+}

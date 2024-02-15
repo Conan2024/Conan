@@ -1,0 +1,26 @@
+{
+    "Zhang Wei": [
+      ["Zhao Zhongyang", "suspect of x"], 
+      ["Zhao San", "acquaintance of x, business partner of x"], 
+      ["Ma Laoban", "customer of x, victim of x"], 
+      ["Li Cheng", "friend of x, helper of x"]
+    ],
+    "Zhao Zhongyang": [
+      ["Zhang Wei", "employer of x, suspect of x"], 
+      ["Zhao San", "friend of x, business partner of x"], 
+      ["Li Cheng", "friend of x, helper of x"]
+    ],
+    "Zhao San": [
+      ["Zhang Wei", "acquaintance of x, business partner of x"], 
+      ["Zhao Zhongyang", "friend of x, employer of x"], 
+      ["Ma Laoban", "business partner of x, victim of x"]
+    ],
+    "Ma Laoban": [
+      ["Zhang Wei", "customer of x, victim of x"], 
+      ["Zhao San", "business partner of x, acquaintance of x"]
+    ],
+    "Li Cheng": [
+      ["Zhang Wei", "friend of x, helper of x"], 
+      ["Zhao Zhongyang", "friend of x, employer of x"]
+    ]
+}

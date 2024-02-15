@@ -1,0 +1,73 @@
+{
+    "Xiting": [
+      ["Mu Zhongding", "brother of x"], 
+      ["Mu Shuyi", "brother of x"], 
+      ["Mu Cun", "father of x"], 
+      ["Ms. Lin", "mother of x"], 
+      ["Mu Boxuan", "older brother of x"], 
+      ["Gu Chumeng", "husband of x"], 
+      ["Minxi", "friend of x"], 
+      ["Lan Rui", "friend of x"], 
+      ["Xinger", "helper of x"], 
+      ["Shen Wusheng", "informant of x"], 
+      ["Yang Shuixun", "relative of x"], 
+      ["Zhang Fanghao", "relative of x"]
+    ],
+    "Mu Zhongding": [
+      ["Xiting", "sister of x"]
+    ],
+    "Mu Shuyi": [
+      ["Xiting", "sister of x"]
+    ],
+    "Mu Cun": [
+      ["Xiting", "daughter of x"], 
+      ["Ms. Lin", "wife of x"]
+    ],
+    "Ms. Lin": [
+      ["Mu Cun", "husband of x"], 
+      ["Xiting", "daughter of x"]
+    ],
+    "Mu Boxuan": [
+      ["Xiting", "sister of x"]
+    ],
+    "Gu Chumeng": [
+      ["Xiting", "wife of x"]
+    ],
+    "Minxi": [
+      ["Xiting", "friend of x"], 
+      ["Lan Rui", "friend of x"], 
+      ["Xinger", "helper of x"], 
+      ["Shen Wusheng", "informant of x"], 
+      ["Yang Shuixun", "relative of x"], 
+      ["Zhang Fanghao", "relative of x"]
+    ],
+    "Lan Rui": [
+      ["Xiting", "friend of x"], 
+      ["Minxi", "friend of x"], 
+      ["Xinger", "friend of x"], 
+      ["Shen Wusheng", "friend of x"], 
+      ["Yang Shuixun", "relative of x"], 
+      ["Zhang Fanghao", "relative of x"]
+    ],
+    "Xinger": [
+      ["Xiting", "friend of x"], 
+      ["Minxi", "friend of x"], 
+      ["Lan Rui", "friend of x"], 
+      ["Shen Wusheng", "friend of x"]
+    ],
+    "Shen Wusheng": [
+      ["Xiting", "informant of x"], 
+      ["Minxi", "informant of x"], 
+      ["Lan Rui", "informant of x"]
+    ],
+    "Yang Shuixun": [
+      ["Minxi", "friend of x"], 
+      ["Lan Rui", "relative of x"], 
+      ["Zhang Fanghao", "acquaintance of x"]
+    ],
+    "Zhang Fanghao": [
+      ["Minxi", "relative of x"], 
+      ["Lan Rui", "relative of x"], 
+      ["Yang Shuixun", "acquaintance of x"]
+    ]
+}

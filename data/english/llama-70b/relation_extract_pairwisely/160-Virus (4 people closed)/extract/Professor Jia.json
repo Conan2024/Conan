@@ -1,0 +1,214 @@
+{
+    "Professor Jia": [
+        [
+            "Tian Zhuli",
+            "Adversary, Rival, Enemy"
+        ],
+        [
+            "Qin OU",
+            "Adversary, Rival"
+        ],
+        [
+            "cleaner sister",
+            "Adversary of X",
+            "Enemy of X"
+        ],
+        [
+            "student",
+            "Adversary of X",
+            "Enemy of X"
+        ],
+        [
+            "elder sister",
+            "Adversary, Rival"
+        ],
+        [
+            "boss",
+            "adversary",
+            "enemy"
+        ]
+    ],
+    "Tian Zhuli": [
+        [
+            "Professor Jia",
+            "Adversary, Rival, Enemy"
+        ],
+        [
+            "Qin OU",
+            "Colleague of X",
+            "Rival of X",
+            "Adversary of X"
+        ],
+        [
+            "cleaner sister",
+            "adversary"
+        ],
+        [
+            "student",
+            "subordinate",
+            "adversary"
+        ],
+        [
+            "elder sister",
+            "rival",
+            "adversary"
+        ],
+        [
+            "boss",
+            "subordinate",
+            "adversary",
+            "rival"
+        ]
+    ],
+    "Qin OU": [
+        [
+            "Professor Jia",
+            "Adversary, Rival"
+        ],
+        [
+            "Tian Zhuli",
+            "Colleague of X",
+            "Rival of X",
+            "Adversary of X"
+        ],
+        [
+            " cleaner sister",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "student",
+            "ex-girlfriend"
+        ],
+        [
+            "elder sister",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "boss",
+            "Ex-romantic relationships with X"
+        ]
+    ],
+    "cleaner sister": [
+        [
+            "Professor Jia",
+            "Adversary of X",
+            "Enemy of X"
+        ],
+        [
+            "Tian Zhuli",
+            "adversary"
+        ],
+        [
+            "student",
+            "Ex-romantic relationships with X",
+            "Romantic relationships with X"
+        ],
+        [
+            "elder sister",
+            "acquaintance",
+            "classmate"
+        ],
+        [
+            "boss",
+            "Ex-romantic relationships with X",
+            "Helped by X"
+        ]
+    ],
+    "student": [
+        [
+            "Professor Jia",
+            "Adversary of X",
+            "Enemy of X"
+        ],
+        [
+            "Tian Zhuli",
+            "professor",
+            "victim"
+        ],
+        [
+            "Qin OU",
+            "ex-girlfriend"
+        ],
+        [
+            "cleaner sister",
+            "Ex-romantic relationships with X",
+            "Romantic relationships with X"
+        ],
+        [
+            "elder sister",
+            "Classmate"
+        ],
+        [
+            "boss",
+            "subordinate",
+            "adversary",
+            "manipulator"
+        ]
+    ],
+    "elder sister": [
+        [
+            "Professor Jia",
+            "Adversary, Rival"
+        ],
+        [
+            "Tian Zhuli",
+            "rival",
+            "adversary"
+        ],
+        [
+            "Qin OU",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "cleaner sister",
+            "acquaintance",
+            "classmate"
+        ],
+        [
+            "student",
+            "Classmate"
+        ],
+        [
+            "boss",
+            "colleague"
+        ]
+    ],
+    "boss": [
+        [
+            "Professor Jia",
+            "adversary",
+            "enemy"
+        ],
+        [
+            "Tian Zhuli",
+            "subordinate",
+            "adversary",
+            "rival"
+        ],
+        [
+            "Qin OU",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "cleaner sister",
+            "Ex-romantic relationships with X",
+            "Helped by X"
+        ],
+        [
+            "student",
+            "superior",
+            "employer",
+            "master"
+        ],
+        [
+            "elder sister",
+            "colleague"
+        ]
+    ],
+    " cleaner sister": [
+        [
+            "Qin OU",
+            "Ex-romantic relationships with X"
+        ]
+    ]
+}

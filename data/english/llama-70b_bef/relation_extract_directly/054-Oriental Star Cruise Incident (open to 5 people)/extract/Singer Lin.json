@@ -1,0 +1,44 @@
+{
+    "Lin Ruotong": [
+      ["Liu Qi", "acquaintance of x"], 
+      ["Hong Zilian", "lover of x"], 
+      ["Zhang Wenyuan", "acquaintance of x"], 
+      ["Han Yimu", "colleague of x, adversary of x"], 
+      ["Xiu Renjie", "acquaintance of x"]
+    ],
+    "Liu Qi": [
+      ["Lin Ruotong", "acquaintance of x"], 
+      ["Hong Zilian", "friend of x, deceiver of x"], 
+      ["Zhang Wenyuan", "acquaintance of x"], 
+      ["Han Yimu", "colleague of x, adversary of x"], 
+      ["Xiu Renjie", "friend of x, deceiver of x"]
+    ],
+    "Hong Zilian": [
+      ["Lin Ruotong", "lover of x"], 
+      ["Liu Qi", "friend of x, deceiver of x"], 
+      ["Zhang Wenyuan", "acquaintance of x"], 
+      ["Han Yimu", "colleague of x, adversary of x"], 
+      ["Xiu Renjie", "friend of x, deceiver of x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Lin Ruotong", "acquaintance of x"], 
+      ["Liu Qi", "acquaintance of x"], 
+      ["Hong Zilian", "acquaintance of x"], 
+      ["Han Yimu", "colleague of x, adversary of x"], 
+      ["Xiu Renjie", "acquaintance of x"]
+    ],
+    "Han Yimu": [
+      ["Lin Ruotong", "colleague of x, adversary of x"], 
+      ["Liu Qi", "colleague of x, adversary of x"], 
+      ["Hong Zilian", "colleague of x, adversary of x"], 
+      ["Zhang Wenyuan", "colleague of x, adversary of x"], 
+      ["Xiu Renjie", "colleague of x, adversary of x"]
+    ],
+    "Xiu Renjie": [
+      ["Lin Ruotong", "acquaintance of x"], 
+      ["Liu Qi", "friend of x, deceiver of x"], 
+      ["Hong Zilian", "friend of x, deceiver of x"], 
+      ["Zhang Wenyuan", "acquaintance of x"], 
+      ["Han Yimu", "colleague of x, adversary of x"]
+    ]
+}

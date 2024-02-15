@@ -1,0 +1,117 @@
+{
+    "Zhao Luoyi": [
+      ["Zhao Wanlei", "daughter of x, dislike of x, teacher of x, saved by x"], 
+      ["Zhao Men Li Shi", "daughter of x, rebellion against x"], 
+      ["Fang Shuangji", "servant of x, acquaintance of x"], 
+      ["FENG ZHU", "daughter of x"], 
+      ["Qi Yue", "informant of x, information receiver from x"], 
+      ["Zhao An", "employee of x, helper of x"], 
+      ["Zhao Wei", "sibling of x, disliked by x"], 
+      ["Zhao Qiuer", "daughter of x, mentor of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Zhao Luoyi", "father of x, disliked by x, patient of x, landlord of x, helper of x, disliked by x"], 
+      ["Zhao Men Li Shi", "father of x, husband of x"], 
+      ["FENG ZHU", "secret lover of x"], 
+      ["Yin Shaoming", "possibly family of x, guest of x"], 
+      ["Zhao An", "father of x, employer of x"], 
+      ["Zhao Wei", "father of x, father in law of x"], 
+      ["zhao Qiuer", "father of x, employer of x"], 
+      ["Guo Wangshan", "employer of x, landlord of x"]
+    ],
+    "Zhao Men Li Shi": [
+      ["Zhao Luoyi", "mother of x, unsuccessful helper of x"], 
+      ["Zhao Wanlei", "mother of x, wife of x"], 
+      ["Fang Shuangji", "servant of x, friend of x, employee of x"], 
+      ["FENG ZHU", "daughter of x"], 
+      ["Qi Yue", "employer of x, landlord of x"], 
+      ["Yin Shaoming", "acquaintance of x, informant of x"], 
+      ["Zhao An", "daughter of x, employer of x"], 
+      ["Zhao Wei", "mother of x, friend of x"], 
+      ["zhao Qiuer", "daughter of x"], 
+      ["Guo Wangshan", "informant of x"]
+    ],
+    "Fang Shuangji": [
+      ["Zhao Men Li Shi", "employer of x, employee of x, guard of x"], 
+      ["FENG ZHU", "servant of x, relative of x, daughter of x"], 
+      ["Qi Yue", "guard of x, helper of x"], 
+      ["Yin Shaoming", "saviour of x"], 
+      ["Zhao An", "informant of x, helper of x"], 
+      ["Zhao Wei", "guard of x, informant of x"], 
+      ["zhao Qiuer", "guard of x, helped by x"], 
+      ["Guo Wangshan", "admirer of x, helped by x"]
+    ],
+    "FENG ZHU": [
+      ["Zhao Luoyi", "romantic relationships with x"], 
+      ["Zhao Wanlei", "secret lover of x"], 
+      ["Zhao Men Li Shi", "daughter of x"], 
+      ["Fang Shuangji", "employer of x, relative of x, servant of x"], 
+      ["Qi Yue", "servant of x, friend of x"], 
+      ["Yin Shaoming", "acquaintance of x, guest of x"], 
+      ["Zhao An", "daughter of x"], 
+      ["Zhao Wei", "sibling of x, child of x"], 
+      ["zhao Qiuer", "child of x, sibling of x"], 
+      ["Guo Wangshan", "possibly family of x, friend of x"]
+    ],
+    "Qi Yue": [
+      ["Zhao Luoyi", "informant of x, information receiver from x"], 
+      ["Zhao Men Li Shi", "employee of x, tenant of x"], 
+      ["Fang Shuangji", "patient of x, servant of x"], 
+      ["FENG ZHU", "employer of x, father of x"], 
+      ["Zhao An", "employee of x, helper of x"], 
+      ["zhao Qiuer", "girlfriend of x"], 
+      ["Guo Wangshan", "admirer of x, helper of x"]
+    ],
+    "Zhao An": [
+      ["Zhao Luoyi", "employer of x, master of x"], 
+      ["Zhao Wanlei", "child of x, employee of x"], 
+      ["Zhao Men Li Shi", "mother of x, employee of x"], 
+      ["Fang Shuangji", "information receiver from x, helped by x"], 
+      ["FENG ZHU", "daughter of x"], 
+      ["Qi Yue", "employer of x, master of x"], 
+      ["zhao Qiuer", "servant of x, friend of x"], 
+      ["Guo Wangshan", "quest companion of x, informant of x"]
+    ],
+    "Zhao Wei": [
+      ["Zhao Luoyi", "sibling of x, disliked by x"], 
+      ["Zhao Wanlei", "son of x, son in law of x"], 
+      ["Zhao Men Li Shi", "son of x, friend of x"], 
+      ["Fang Shuangji", "guest of x, patient of x"], 
+      ["FENG ZHU", "sibling of x, child of x"], 
+      ["Yin Shaoming", "suspected by x"], 
+      ["zhao Qiuer", "sibling of x, mentor of x"], 
+      ["Guo Wangshan", "friend of x, admirer of x"]
+    ],
+    "zhao Qiuer": [
+      ["Zhao Luoyi", "helper of x, mentor of x"], 
+      ["Zhao Wanlei", "child of x, employee of x"], 
+      ["Zhao Men Li Shi", "mother of x"], 
+      ["Fang Shuangji", "servant of x, saved by x"], 
+      ["FENG ZHU", "sibling of x"], 
+      ["Qi Yue", "employer of x"], 
+      ["Yin Shaoming", "saved by x, helped by x"], 
+      ["Zhao An", "teacher of x, friend of x"], 
+      ["Zhao Wei", "sibling of x, student of x"], 
+      ["Guo Wangshan", "friend of x, helper of x"]
+    ],
+    "Yin Shaoming": [
+      ["Zhao Wanlei", "possibly family of x, host of x"], 
+      ["Zhao Men Li Shi", "acquaintance of x, informant of x"], 
+      ["Fang Shuangji", "saved by x"], 
+      ["FENG ZHU", "acquaintance of x, host of x"], 
+      ["Zhao Wei", "enemy of x"], 
+      ["Zhao Qiuer", "saviour of x, helper of x"], 
+      ["Guo Wangshan", "admirer of x, informant of x"]
+    ],
+    "Guo Wangshan": [
+      ["Zhao Wanlei", "employee of x, tenant of x"], 
+      ["Zhao Men Li Shi", "saviour of x"], 
+      ["Fang Shuangji", "admirer of x, helper of x"], 
+      ["FENG ZHU", "possibly family of x, friend of x"], 
+      ["Qi Yue", "admired by x, helped by x"], 
+      ["Yin Shaoming", "admired by x, information receiver from x"], 
+      ["Zhao An", "quest companion of x, informant of x"], 
+      ["Zhao Wei", "friend of x, admired by x"], 
+      ["zhao Qiuer", "friend of x, helper of x"]
+    ]
+}

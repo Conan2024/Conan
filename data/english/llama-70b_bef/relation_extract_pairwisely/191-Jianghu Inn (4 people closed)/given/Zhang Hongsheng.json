@@ -1,0 +1,90 @@
+{
+    "Cai Siniang": [
+      ["Hong Changlie", "friend of x, business partner of x"], 
+      ["Hong Erlang", "rival of x, enemy of x"], 
+      ["Hong Jiangshui", "rival of x, enemy of x"], 
+      ["Hong Sanmei", "wife of x, sister of x, rival of x, enemy of x"], 
+      ["Meng Sanchun", "wife of x, romantic relationships with x, ex romantic relationships with x, co wives of x, sister of x, brother of x, relative of x, niece of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x"], 
+      ["Zhang Hongsheng", "wife of x, rival of x"], 
+      ["Zhang Jinshan", "rival of x, enemy of x"], 
+      ["Zhang Jinyin", "rival of x, enemy of x"]
+    ],
+    "Hong Changlie": [
+      ["Cai Siniang", "daughter of x, business partner of x"], 
+      ["Hong Jiangshui", "father of x, same person as x (different reference)"], 
+      ["Hong Sanmei", "father of x, mentor of x"], 
+      ["Meng Sanchun", "wife of x, same person as x (different reference)"], 
+      ["Zhang Hongsheng", "father of x, same person as x (different reference)"], 
+      ["Zhang Jinshan", "father of x, same person as x (different reference)"], 
+      ["Zhang Jinyin", "father of x, same person as x (different reference)"]
+    ],
+    "Hong Erlang": [
+      ["Cai Siniang", "rival of x, enemy of x"], 
+      ["Hong Jiangshui", "wife of x, romantic relationships with x"], 
+      ["Hong Sanmei", "wife of x"], 
+      ["Meng Sanchun", "wife of x, husband of x, enemy of x"], 
+      ["Zhang Hongsheng", "wife of x, killed by x"], 
+      ["Zhang Jinshan", "wife of x, killed by x"], 
+      ["Zhang Jinyin", "wife of x, killed by x"]
+    ],
+    "Hong Jiangshui": [
+      ["Cai Siniang", "rival of x, enemy of x"], 
+      ["Hong Changlie", "son of x, same person as x (different reference)"], 
+      ["Hong Erlang", "husband of x, romantic relationships with x"], 
+      ["Hong Sanmei", "friend of x"], 
+      ["Meng Sanchun", "wife of x, romantic relationships with x"], 
+      ["Zhang Hongsheng", "friend of x, business partner of x"], 
+      ["Zhang Jinshan", "acquaintance of x, colleague of x"], 
+      ["Zhang Jinyin", "enemy of x, bully of x"]
+    ],
+    "Hong Sanmei": [
+      ["Cai Siniang", "husband of x, brother of x, rival of x, enemy of x"], 
+      ["Hong Changlie", "same person as x (different identity), same person as x (different reference)"], 
+      ["Hong Erlang", "husband of x"], 
+      ["Hong Jiangshui", "friend of x"], 
+      ["Meng Sanchun", "wife of x, same person as x (different identity)"], 
+      ["Zhang Hongsheng", "wife of x, killed by x"], 
+      ["Zhang Jinshan", "wife of x, suspect of x, adversary of x, enemy of x, rival of x"], 
+      ["Zhang Jinyin", "wife of x, killed by x"]
+    ],
+    "Meng Sanchun": [
+      ["Cai Siniang", "husband of x, romantic relationships with x, ex romantic relationships with x, co wives of x, sister of x, brother of x, relative of x, niece of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x"], 
+      ["Hong Changlie", "husband of x, same person as x (different reference)"], 
+      ["Hong Erlang", "husband of x, killed by x, betrayer of x, adversary of x"], 
+      ["Hong Jiangshui", "husband of x, romantic relationships with x"], 
+      ["Hong Sanmei", "husband of x, same person as x (different identity)"], 
+      ["Zhang Hongsheng", "husband of x, wife of x, same person as x (different reference)"], 
+      ["Zhang Jinshan", "husband of x, same person as x (different reference)"], 
+      ["Zhang Jinyin", "husband of x, same person as x (different identity)"]
+    ],
+    "Zhang Hongsheng": [
+      ["Cai Siniang", "husband of x, rival of x"], 
+      ["Hong Changlie", "husband of x, same person as x (different identity)"], 
+      ["Hong Erlang", "husband of x, suspect of x"], 
+      ["Hong Jiangshui", "friend of x, business partner of x"], 
+      ["Hong Sanmei", "husband of x, perpetrator of x"], 
+      ["Meng Sanchun", "husband of x, wife of x, same person as x (different reference)"], 
+      ["Zhang Jinshan", "killed by x"], 
+      ["Zhang Jinyin", "wife of x, killed by x"]
+    ],
+    "Zhang Jinshan": [
+      ["Cai Siniang", "rival of x, enemy of x"], 
+      ["Hong Changlie", "son of x, same person as x (different reference)"], 
+      ["Hong Erlang", "husband of x, betrayed by x"], 
+      ["Hong Jiangshui", "acquaintance of x, colleague of x"], 
+      ["Hong Sanmei", "husband of x, suspicious of x, suspect of x, adversary of x, enemy of x, rival of x"], 
+      ["Meng Sanchun", "wife of x, same person as x (different reference)"], 
+      ["Zhang Hongsheng", "betrayed by x"], 
+      ["Zhang Jinyin", "brother of x"]
+    ],
+    "Zhang Jinyin": [
+      ["Cai Siniang", "rival of x, enemy of x"], 
+      ["Hong Changlie", "son of x, same person as x (different identity)"], 
+      ["Hong Erlang", "husband of x, betrayed by x"], 
+      ["Hong Jiangshui", "enemy of x, bully of x"], 
+      ["Hong Sanmei", "husband of x, betrayed by x"], 
+      ["Meng Sanchun", "wife of x, same person as x (different identity)"], 
+      ["Zhang Hongsheng", "husband of x, betrayed by x"], 
+      ["Zhang Jinshan", "brother of x"]
+    ]
+}

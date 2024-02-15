@@ -1,0 +1,75 @@
+{
+    "ZHANG JINYIN": [
+      ["Meng Sanchun", "brother of x"], 
+      ["Meng Sanchun", "brothers of x the rivers and lakes"], 
+      ["Meng Sanchun", "partners in fighting against scum of x"], 
+      ["Meng Sanchun", "fellow members of x yanshan hall"], 
+      ["Zhang Jinshan", "brother of x"], 
+      ["Zhang Jinshan", "brothers of x the rivers and lakes"], 
+      ["Zhang Jinshan", "partners in fighting against scum of x"], 
+      ["Zhang Jinshan", "fellow members of x yanshan hall"]
+    ],
+    "Meng Sanchun": [
+      ["ZHANG JINYIN", "brother of x"], 
+      ["ZHANG JINYIN", "brothers of x the rivers and lakes"], 
+      ["ZHANG JINYIN", "partners in fighting against scum of x"], 
+      ["ZHANG JINYIN", "fellow members of x yanshan hall"], 
+      ["Zhang Jinshan", "brother of x"], 
+      ["Zhang Jinshan", "brothers of x the rivers and lakes"], 
+      ["Zhang Jinshan", "partners in fighting against scum of x"], 
+      ["Zhang Jinshan", "fellow members of x yanshan hall"], 
+      ["Hong Changlie", "adversary of x"], 
+      ["Hong Changlie", "enemies in battle of x"], 
+      ["Hong Changlie", "leader of x hongjiazhai"], 
+      ["Hong Erlang", "perpetrator of x"], 
+      ["Hong Erlang", "killed by x"], 
+      ["Cai Siniang", "acquaintance of x"], 
+      ["Cai Siniang", "guest of x"], 
+      ["hong jiangshui", "acquaintance of x"], 
+      ["hong jiangshui", "guest of x"]
+    ],
+    "Zhang Jinshan": [
+      ["ZHANG JINYIN", "brother of x"], 
+      ["ZHANG JINYIN", "brothers of x the rivers and lakes"], 
+      ["ZHANG JINYIN", "partners in fighting against scum of x"], 
+      ["ZHANG JINYIN", "fellow members of x yanshan hall"], 
+      ["Meng Sanchun", "brother of x"], 
+      ["Meng Sanchun", "brothers of x the rivers and lakes"], 
+      ["Meng Sanchun", "partners in fighting against scum of x"], 
+      ["Meng Sanchun", "fellow members of x yanshan hall"]
+    ],
+    "Hong Changlie": [
+      ["ZHANG JINYIN", "adversary of x"], 
+      ["ZHANG JINYIN", "enemies in battle of x"], 
+      ["ZHANG JINYIN", "leader of x yanshan hall"], 
+      ["Meng Sanchun", "adversary of x"], 
+      ["Meng Sanchun", "enemies in battle of x"], 
+      ["Meng Sanchun", "leader of x yanshan hall"], 
+      ["Hong Erlang", "relative of x"], 
+      ["Hong Erlang", "leader of x the hongjiazhai"]
+    ],
+    "Hong Erlang": [
+      ["ZHANG JINYIN", "perpetrator of x"], 
+      ["ZHANG JINYIN", "killed by x"], 
+      ["Meng Sanchun", "perpetrator of x"], 
+      ["Meng Sanchun", "killed by x"], 
+      ["Hong Changlie", "relative of x"], 
+      ["Hong Changlie", "leader of x hongjiazhai"]
+    ],
+    "ZHANG HONGSHENG": [
+      ["Meng Sanchun", "wife of x"], 
+      ["ZHANG JINYIN", "wife of x"]
+    ],
+    "hong jiangshui": [
+      ["ZHANG JINYIN", "acquaintance of x"], 
+      ["ZHANG JINYIN", "guest of x"], 
+      ["Meng Sanchun", "acquaintance of x"], 
+      ["Meng Sanchun", "guest of x"]
+    ],
+    "Cai Siniang": [
+      ["ZHANG JINYIN", "acquaintance of x"], 
+      ["ZHANG JINYIN", "guest of x"], 
+      ["Meng Sanchun", "acquaintance of x"], 
+      ["Meng Sanchun", "guest of x"]
+    ]
+}

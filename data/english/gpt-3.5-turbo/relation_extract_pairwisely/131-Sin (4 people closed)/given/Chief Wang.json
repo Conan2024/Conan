@@ -1,0 +1,92 @@
+{
+    "Chief Wang": [
+        [
+            "Zhang Villager",
+            "stranger to x",
+            "dislike of x"
+        ],
+        [
+            "Officer Li",
+            "informant of Officer Li",
+            "guarded by Officer Li"
+        ],
+        [
+            "Hu Investigate",
+            "suspect to x",
+            "helper of x"
+        ],
+        [
+            "Zhao Cishan",
+            "employer of x",
+            "murderer of x"
+        ]
+    ],
+    "Zhang Villager": [
+        [
+            "Chief Wang",
+            "stranger to x",
+            "disliked by x"
+        ],
+        [
+            "Officer Li",
+            "acquaintance of x",
+            "informant of x"
+        ],
+        [
+            "Hu Investigate",
+            "information receiver from x",
+            "suspicious of x"
+        ],
+        [
+            "Zhao Cishan",
+            "stranger to x",
+            "informant of x"
+        ]
+    ],
+    "Officer Li": [
+        [
+            "Chief Wang",
+            "informant of Chief Wang",
+            "guard of Chief Wang"
+        ],
+        [
+            "Zhang Villager",
+            "acquaintance of x",
+            "information receiver from x"
+        ],
+        [
+            "Zhao Cishan",
+            "subject of investigation for x",
+            "informant of x"
+        ]
+    ],
+    "Hu Investigate": [
+        [
+            "Chief Wang",
+            "information receiver from x",
+            "guest of x"
+        ],
+        [
+            "Zhang Villager",
+            "information receiver from x",
+            "suspect of x"
+        ]
+    ],
+    "Zhao Cishan": [
+        [
+            "Chief Wang",
+            "employee of x",
+            "victim of x"
+        ],
+        [
+            "Zhang Villager",
+            "stranger to x",
+            "information receiver from x"
+        ],
+        [
+            "Officer Li",
+            "suspect to x",
+            "information receiver from x"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "Davis Perry": [
+      ["Daniel Perry", "extramarital affair with x"], 
+      ["Marina Harrison", "extramarital affair with x"], 
+      ["John Morgan", "extramarital affair with x"], 
+      ["Marina Harrison", "extramarital affair with x"], 
+      ["Lucy Harrison", "romantic relationships with x"], 
+      ["Harold Harrison", "friend of x, possibly family of x"], 
+      ["Amy Morgan", "suspect of x"]
+    ],
+    "Daniel Perry": [
+      ["Davis Perry", "wife of x"], 
+      ["Jacqueline Perry", "wife of x"], 
+      ["John Morgan", "extramarital affair with x"], 
+      ["Marina Harrison", "extramarital affair with x"], 
+      ["Lucy Harrison", "ex wife of x"], 
+      ["Harold Harrison", "romantic relationships with x"]
+    ],
+    "Jacqueline Perry": [
+      ["Davis Perry", "disliked by x"], 
+      ["Daniel Perry", "husband of x"], 
+      ["Marina Harrison", "wife of x"], 
+      ["Lucy Harrison", "mother of x"], 
+      ["Harold Harrison", "wife of x"], 
+      ["Amy Morgan", "ex boyfriend of x, disliked by x"]
+    ],
+    "John Morgan": [
+      ["Davis Perry", "suspected by x"], 
+      ["Daniel Perry", "lover of x"], 
+      ["Marina Harrison", "romantic relationships with x, suspicious of x"], 
+      ["Lucy Harrison", "daughter of x"], 
+      ["Amy Morgan", "husband of x"]
+    ],
+    "Marina Harrison": [
+      ["Davis Perry", "extramarital affair with x"], 
+      ["Daniel Perry", "extramarital affair with x"], 
+      ["Jacqueline Perry", "extramarital affair with x"], 
+      ["John Morgan", "romantic relationships with x, suspicious of x"], 
+      ["Lucy Harrison", "mother of x, mentor of x"], 
+      ["Harold Harrison", "wife of x, sister of x"], 
+      ["Amy Morgan", "extramarital affair with x"]
+    ],
+    "Lucy Harrison": [
+      ["Jacqueline Perry", "daughter of x"], 
+      ["Marina Harrison", "child of x, student of x"], 
+      ["Harold Harrison", "child of x"]
+    ],
+    "Harold Harrison": [
+      ["Davis Perry", "friend of x, possibly family of x"], 
+      ["Daniel Perry", "ex husband of x"], 
+      ["Jacqueline Perry", "husband of x"], 
+      ["John Morgan", "brother in law of x"], 
+      ["Marina Harrison", "husband of x, brother of x"], 
+      ["Lucy Harrison", "father of x"], 
+      ["Amy Morgan", "wife of x"]
+    ],
+    "Amy Morgan": [
+      ["Davis Perry", "wife of x"], 
+      ["Jacqueline Perry", "ex wife of x, disliked by x"], 
+      ["John Morgan", "wife of x"], 
+      ["Harold Harrison", "husband of x"]
+    ]
+}

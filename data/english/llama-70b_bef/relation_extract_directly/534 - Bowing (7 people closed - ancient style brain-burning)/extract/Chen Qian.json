@@ -1,0 +1,34 @@
+{
+    "Chen Qian": [
+      ["Madam Chen or Chen Family", "mother of x"], 
+      ["Chen Zijing", "father of x"], 
+      ["Caotng Jushi", "adoptive mother of x"]
+    ],
+    "Madam Chen or Chen Family": [
+      ["Chen Qian", "daughter of x"]
+    ],
+    "Chen Zijing": [
+      ["Chen Qian", "daughter of x"]
+    ],
+    "Xiao Qian": [
+      ["Caotng Jushi", "mother of x"]
+    ],
+    "Caotng Jushi": [
+      ["Xiao Qian", "daughter of x"]
+    ],
+    "Li Zhong": [
+      ["Chen Qian", "husband of x"], 
+      ["Li Qinren", "father of x"]
+    ],
+    "Li Qinren": [
+      ["Li Zhong", "son of x"], 
+      ["Chen Qian", "father in law of x"]
+    ],
+    "Li Wangye (Prince or Lord)": [
+      ["Li Qinren", "son of x"], 
+      ["Chen Qian", "husband of x"]
+    ],
+    "Wangye (Prince or Lord)": [
+      ["Li Wangye (Prince or Lord)", "son of x"]
+    ]
+}

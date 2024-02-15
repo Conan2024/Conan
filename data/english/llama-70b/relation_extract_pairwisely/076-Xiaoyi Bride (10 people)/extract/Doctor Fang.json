@@ -1,0 +1,664 @@
+{
+    "Fang Minyue": [
+        [
+            "Fang Chengshan",
+            "father, son"
+        ],
+        [
+            "Master Meng",
+            "Suspect-Suspicious",
+            "Enemy-Adversary",
+            "Manipulator-Manipulated",
+            "Victim-Perpetrator"
+        ],
+        [
+            "Steward Du",
+            "Acquaintance",
+            "Colleague",
+            "Helper"
+        ],
+        [
+            "Yao Changshou",
+            "friend, rival"
+        ],
+        [
+            "Yao Zhongyi",
+            "Childhood friend, Classmate, Schoolmate"
+        ],
+        [
+            "Yao Mengren",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Zhang Yadi",
+            "Childhood sweethearts",
+            "Lost touch"
+        ],
+        [
+            "Zhang Decai",
+            "Friend",
+            "Romantic Relationship"
+        ],
+        [
+            "Tian Hongjiao",
+            "Cousin, Doctor-Patient"
+        ],
+        [
+            "Doctor Song",
+            "acquaintance, colleague, business partner, helper"
+        ],
+        [
+            "Mysterious Man",
+            "Suspect-Suspicious",
+            "Enemy-Adversary",
+            "Victim-Perpetrator",
+            "Informant-Information Receiver",
+            "Acquaintance-Colleague"
+        ]
+    ],
+    "Fang Chengshan": [
+        [
+            "Fang Minyue",
+            "father, son"
+        ],
+        [
+            "Master Meng",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ],
+        [
+            "Steward Du",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ],
+        [
+            "Yao Changshou",
+            "Colleague",
+            "Friend",
+            "Informant of X",
+            "Perpetrator of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "father"
+        ],
+        [
+            "Yao Mengren",
+            "Father-Son, Mentor-Mentee, Friend"
+        ],
+        [
+            "Zhang Yadi",
+            "Friend, Mentor, Teacher"
+        ],
+        [
+            "Zhang Decai",
+            "Friend, Mentor, and possibly romantic interest"
+        ],
+        [
+            "Tian Hongjiao",
+            "cousin, father-in-law"
+        ],
+        [
+            "Doctor Song",
+            "Acquaintance",
+            "Colleague"
+        ],
+        [
+            "Mysterious Man",
+            "father-son relationship, acquaintance"
+        ]
+    ],
+    "Master Meng": [
+        [
+            "Fang Minyue",
+            "Suspect-Suspicious",
+            "Enemy-Adversary",
+            "Manipulator-Manipulated",
+            "Perpetrator-Victim"
+        ],
+        [
+            "Fang Chengshan",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ],
+        [
+            "Steward Du",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ],
+        [
+            "Yao Changshou",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "father",
+            "owner",
+            "colleague's son",
+            "subordinate's nephew",
+            "patient"
+        ],
+        [
+            "Yao Mengren",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Zhang Yadi",
+            "Acquaintance",
+            "Informant"
+        ],
+        [
+            "Zhang Decai",
+            "Acquaintance",
+            "Informant"
+        ],
+        [
+            "Tian Hongjiao",
+            "Employer of X",
+            "Superior of X"
+        ],
+        [
+            "Doctor Song",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Mysterious Man",
+            "Perpetrator of X",
+            "Bully of X"
+        ]
+    ],
+    "Steward Du": [
+        [
+            "Fang Minyue",
+            "Acquaintance",
+            "Colleague",
+            "Helped"
+        ],
+        [
+            "Fang Chengshan",
+            "Employee of X",
+            "Servant of X",
+            "Subordinate of X"
+        ],
+        [
+            "Master Meng",
+            "Employee of X",
+            "Subordinate of X",
+            "Servant of X"
+        ],
+        [
+            "Yao Changshou",
+            "Master of X",
+            "Employer of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Acquaintance, Colleague"
+        ],
+        [
+            "Yao Mengren",
+            "Friend",
+            "Roommate"
+        ],
+        [
+            "Zhang Yadi",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Zhang Decai",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Tian Hongjiao",
+            "Acquaintance",
+            "Classmate"
+        ],
+        [
+            "Doctor Song",
+            "Acquaintance, Colleague"
+        ],
+        [
+            "Mysterious Man",
+            "Co-conspirator, Acquaintance"
+        ]
+    ],
+    "Yao Changshou": [
+        [
+            "Fang Minyue",
+            "friend, rival"
+        ],
+        [
+            "Fang Chengshan",
+            "Colleague",
+            "Friend",
+            "Informant of X",
+            "Perpetrator of X"
+        ],
+        [
+            "Master Meng",
+            "Colleague of X",
+            "Subordinate of X",
+            "Employee of X"
+        ],
+        [
+            "Steward Du",
+            "Master of X",
+            "Employer of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Uncle of X",
+            "Friend of X"
+        ],
+        [
+            "Yao Mengren",
+            "Father-Son, Guardian-Ward"
+        ],
+        [
+            "Zhang Yadi",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Zhang Decai",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Tian Hongjiao",
+            "Cousin, Landlord"
+        ],
+        [
+            "Doctor Song",
+            "Patient, Doctor-Patient"
+        ],
+        [
+            "Mysterious Man",
+            "Perpetrator of X",
+            "Victim of X"
+        ]
+    ],
+    "Yao Zhongyi": [
+        [
+            "Fang Minyue",
+            "Childhood friend, Classmate, Schoolmate"
+        ],
+        [
+            "Fang Chengshan",
+            "son"
+        ],
+        [
+            "Master Meng",
+            "father",
+            "owner",
+            "colleague's son",
+            "subordinate's nephew",
+            "patient"
+        ],
+        [
+            "Steward Du",
+            "Acquaintance, Colleague"
+        ],
+        [
+            "Yao Changshou",
+            "Nephew of X",
+            "Friend of X"
+        ],
+        [
+            "Yao Mengren",
+            "brother, friend"
+        ],
+        [
+            "Zhang Yadi",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Zhang Decai",
+            "childhood friend",
+            "romantic interest",
+            "business partner"
+        ],
+        [
+            "Tian Hongjiao",
+            "Cousin, Childhood Friend, and Business Partner"
+        ],
+        [
+            "Doctor Song",
+            "Acquaintance, Informant"
+        ],
+        [
+            "Mysterious Man",
+            "Suspect of X",
+            "Victim of X"
+        ]
+    ],
+    "Yao Mengren": [
+        [
+            "Fang Minyue",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Fang Chengshan",
+            "Father-Son, Mentor-Mentee, Friend"
+        ],
+        [
+            "Master Meng",
+            "Employee of X",
+            "Subordinate of X"
+        ],
+        [
+            "Steward Du",
+            "Friend",
+            "Roommate"
+        ],
+        [
+            "Yao Changshou",
+            "Son-Father, Ward-Guardian"
+        ],
+        [
+            "Yao Zhongyi",
+            "brother, friend"
+        ],
+        [
+            "Zhang Yadi",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Zhang Decai",
+            "Childhood sweethearts",
+            "Lost touch"
+        ],
+        [
+            "Tian Hongjiao",
+            "Cousin, Childhood Friend"
+        ],
+        [
+            "Doctor Song",
+            "Patient, Doctor-Patient"
+        ],
+        [
+            "Mysterious Man",
+            "Acquaintance",
+            "Suspect"
+        ]
+    ],
+    "Zhang Yadi": [
+        [
+            "Fang Minyue",
+            "Childhood sweethearts",
+            "Lost touch"
+        ],
+        [
+            "Fang Chengshan",
+            "Friend, Mentee, Student"
+        ],
+        [
+            "Master Meng",
+            "Acquaintance",
+            "Informant"
+        ],
+        [
+            "Steward Du",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Yao Changshou",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Yao Zhongyi",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Yao Mengren",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Zhang Decai",
+            "Childhood sweethearts",
+            "Cousins"
+        ],
+        [
+            "Tian Hongjiao",
+            "relationship 1: Cousin",
+            "relationship 2: Doctor-Patient"
+        ],
+        [
+            "Doctor Song",
+            "Acquaintance",
+            "Colleague"
+        ],
+        [
+            "Mysterious Man",
+            "Acquaintance",
+            "Suspect"
+        ]
+    ],
+    "Zhang Decai": [
+        [
+            "Fang Minyue",
+            "Friend",
+            "Romantic Relationship"
+        ],
+        [
+            "Fang Chengshan",
+            "Friend, Mentor, and possibly romantic interest"
+        ],
+        [
+            "Master Meng",
+            "Acquaintance",
+            "Informant"
+        ],
+        [
+            "Steward Du",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Yao Changshou",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Yao Zhongyi",
+            "childhood friend",
+            "romantic interest",
+            "business partner"
+        ],
+        [
+            "Yao Mengren",
+            "Childhood sweethearts",
+            "Lost touch"
+        ],
+        [
+            "Zhang Yadi",
+            "Childhood sweethearts",
+            "Cousins"
+        ],
+        [
+            "Tian Hongjiao",
+            "relationship 1: Childhood sweethearts",
+            "relationship 2: Cousins"
+        ],
+        [
+            "Doctor Song",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Mysterious Man",
+            "Acquaintance",
+            "Suspect"
+        ]
+    ],
+    "Tian Hongjiao": [
+        [
+            "Fang Minyue",
+            "Cousin, Doctor-Patient"
+        ],
+        [
+            "Fang Chengshan",
+            "cousin, mother-in-law"
+        ],
+        [
+            "Master Meng",
+            "Employee of X",
+            "Subordinate of X"
+        ],
+        [
+            "Steward Du",
+            "Acquaintance",
+            "Classmate"
+        ],
+        [
+            "Yao Changshou",
+            "Cousin, Tenant"
+        ],
+        [
+            "Yao Zhongyi",
+            "Cousin, Childhood Friend, and Business Partner"
+        ],
+        [
+            "Yao Mengren",
+            "Cousin, Childhood Friend"
+        ],
+        [
+            "Zhang Yadi",
+            "relationship 1: Cousin",
+            "relationship 2: Doctor-Patient"
+        ],
+        [
+            "Zhang Decai",
+            "relationship 1: Childhood sweethearts",
+            "relationship 2: Cousins"
+        ],
+        [
+            "Doctor Song",
+            "Acquaintance, Colleague"
+        ],
+        [
+            "Mysterious Man",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X"
+        ]
+    ],
+    "Doctor Song": [
+        [
+            "Fang Minyue",
+            "acquaintance, colleague, business partner, helper"
+        ],
+        [
+            "Fang Chengshan",
+            "Acquaintance",
+            "Colleague"
+        ],
+        [
+            "Master Meng",
+            "Employee of X",
+            "Servant of X"
+        ],
+        [
+            "Steward Du",
+            "Acquaintance, Colleague"
+        ],
+        [
+            "Yao Changshou",
+            "Doctor, Doctor-Patient"
+        ],
+        [
+            "Yao Zhongyi",
+            "Acquaintance, Informant"
+        ],
+        [
+            "Yao Mengren",
+            "Patient, Doctor-Patient"
+        ],
+        [
+            "Zhang Yadi",
+            "Acquaintance",
+            "Colleague"
+        ],
+        [
+            "Zhang Decai",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Tian Hongjiao",
+            "Acquaintance, Colleague"
+        ],
+        [
+            "Mysterious Man",
+            "Acquaintance",
+            "Informant"
+        ]
+    ],
+    "Mysterious Man": [
+        [
+            "Fang Minyue",
+            "Suspect-Suspicious",
+            "Enemy-Adversary",
+            "Victim-Perpetrator",
+            "Informant-Information Receiver",
+            "Acquaintance-Colleague"
+        ],
+        [
+            "Fang Chengshan",
+            "father-son relationship, acquaintance"
+        ],
+        [
+            "Master Meng",
+            "Perpetrator of X",
+            "Bully of X"
+        ],
+        [
+            "Steward Du",
+            "Co-conspirator, Acquaintance"
+        ],
+        [
+            "Yao Changshou",
+            "Perpetrator of X",
+            "Victim of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Perpetrator of X",
+            "Bully of X"
+        ],
+        [
+            "Yao Mengren",
+            "Acquaintance",
+            "Perpetrator"
+        ],
+        [
+            "Zhang Yadi",
+            "Acquaintance",
+            "Perpetrator"
+        ],
+        [
+            "Zhang Decai",
+            "Acquaintance",
+            "Perpetrator"
+        ],
+        [
+            "Tian Hongjiao",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X"
+        ],
+        [
+            "Doctor Song",
+            "Acquaintance",
+            "Informant"
+        ]
+    ]
+}

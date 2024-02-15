@@ -1,0 +1,33 @@
+{
+    "Lady Hong": [
+      ["Fan Jinkui", "fiance of x"], 
+      ["Yao Changshou", "husband of x"], 
+      ["Yao Mengren", "adversary of x"], 
+      ["Chen Junmeng", "fiancee of x"], 
+      ["Chen Anqiao", "helper of x"], 
+      ["Uncle Gui", "informant of x"]
+    ],
+    "Fan Jinkui": [
+      ["Lady Hong", "fiance of x"]
+    ],
+    "Yao Changshou": [
+      ["Lady Hong", "husband of x"], 
+      ["Yao Mengren", "son of x"], 
+      ["Yao Zhongyi", "son of x"]
+    ],
+    "Yao Mengren": [
+      ["Lady Hong", "adversary of x"], 
+      ["Chen Junmeng", "wife of x"]
+    ],
+    "Chen Junmeng": [
+      ["Yao Mengren", "wife of x"], 
+      ["Chen Anqiao", "helper of x"]
+    ],
+    "Chen Anqiao": [
+      ["Chen Junmeng", "helper of x"], 
+      ["Lady Hong", "helper of x"]
+    ],
+    "Uncle Gui": [
+      ["Lady Hong", "informant of x"]
+    ]
+}

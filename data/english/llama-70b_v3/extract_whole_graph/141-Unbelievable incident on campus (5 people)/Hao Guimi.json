@@ -1,0 +1,49 @@
+{
+    "Hao Guimi": [
+      ["ZHANG EBA", "suspect of x, enemy of x"], 
+      ["Lin Xiaohua", "friend of x"], 
+      ["Wang Xuexi", "acquaintance of x, classmate of x"], 
+      ["Li Xiaodi", "acquaintance of x, classmate of x"], 
+      ["Zhao Shuaige", "acquaintance of x, classmate of x"]
+    ],
+    "Cousin Sister": [
+      ["Hao Guimi", "sibling of x"], 
+      ["ZHANG EBA", "bully of x"]
+    ],
+    "ZHANG EBA": [
+      ["Hao Guimi", "suspect of x, enemy of x"], 
+      ["Cousin Sister", "bully of x"], 
+      ["Lin Xiaohua", "fiancee of x"], 
+      ["Wang Xuexi", "acquaintance of x, classmate of x"], 
+      ["Li Xiaodi", "acquaintance of x, classmate of x"], 
+      ["Zhao Shuaige", "acquaintance of x, classmate of x"]
+    ],
+    "Lin Xiaohua": [
+      ["Hao Guimi", "friend of x"], 
+      ["ZHANG EBA", "fiancee of x"], 
+      ["Wang Xuexi", "acquaintance of x, classmate of x"], 
+      ["Li Xiaodi", "acquaintance of x, classmate of x"], 
+      ["Zhao Shuaige", "acquaintance of x, classmate of x"]
+    ],
+    "Wang Xuexi": [
+      ["Hao Guimi", "acquaintance of x, classmate of x"], 
+      ["ZHANG EBA", "acquaintance of x, classmate of x"], 
+      ["Lin Xiaohua", "acquaintance of x, classmate of x"], 
+      ["Li Xiaodi", "acquaintance of x, classmate of x"], 
+      ["Zhao Shuaige", "acquaintance of x, classmate of x"]
+    ],
+    "Li Xiaodi": [
+      ["Hao Guimi", "acquaintance of x, classmate of x"], 
+      ["ZHANG EBA", "acquaintance of x, classmate of x"], 
+      ["Lin Xiaohua", "acquaintance of x, classmate of x"], 
+      ["Wang Xuexi", "acquaintance of x, classmate of x"], 
+      ["Zhao Shuaige", "acquaintance of x, classmate of x"]
+    ],
+    "Zhao Shuaige": [
+      ["Hao Guimi", "acquaintance of x, classmate of x"], 
+      ["ZHANG EBA", "acquaintance of x, classmate of x"], 
+      ["Lin Xiaohua", "acquaintance of x, classmate of x"], 
+      ["Wang Xuexi", "acquaintance of x, classmate of x"], 
+      ["Li Xiaodi", "acquaintance of x, classmate of x"]
+    ]
+}

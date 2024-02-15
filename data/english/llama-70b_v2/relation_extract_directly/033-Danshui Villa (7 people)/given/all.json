@@ -1,0 +1,62 @@
+{
+    "Zhao Wei": [
+      ["Zhao Luoyi", "sister of x, neuer/daughter of x"], 
+      ["Zhao Wanlei", "father of x, master of x"], 
+      ["Feng Shuangji", "friend of x, helper of x"], 
+      ["Feng Zhu", "sister of x, neuer/daughter of x"], 
+      ["Qi Yue", "acquaintance of x, benefactor of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Zhao Wei", "brother of x"], 
+      ["Zhao Wanlei", "father of x, master of x"], 
+      ["Feng Shuangji", "friend of x, helper of x"], 
+      ["Feng Zhu", "sister of x, neuer/daughter of x"], 
+      ["Qi Yue", "acquaintance of x, benefactor of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Zhao Luoyi", "daughter of x, neuer/daughter of x"], 
+      ["Zhao Wei", "son of x, master of x"], 
+      ["Feng Shuangji", "friend of x, helper of x"], 
+      ["Feng Zhu", "sister of x, neuer/daughter of x"], 
+      ["Qi Yue", "acquaintance of x, benefactor of x"]
+    ],
+    "Feng Shuangji": [
+      ["Zhao Luoyi", "friend of x, helper of x"], 
+      ["Zhao Wei", "friend of x, helper of x"], 
+      ["Zhao Wanlei", "friend of x, helper of x"], 
+      ["Feng Zhu", "daughter of x, neuer/daughter of x"], 
+      ["Qi Yue", "acquaintance of x, benefactor of x"]
+    ],
+    "Feng Zhu": [
+      ["Zhao Luoyi", "sister of x, neuer/daughter of x"], 
+      ["Zhao Wei", "brother of x"], 
+      ["Zhao Wanlei", "father of x, master of x"], 
+      ["Feng Shuangji", "mother of x, master of x"], 
+      ["Qi Yue", "acquaintance of x, benefactor of x"]
+    ],
+    "Qi Yue": [
+      ["Zhao Luoyi", "acquaintance of x, benefactor of x"], 
+      ["Zhao Wei", "acquaintance of x, benefactor of x"], 
+      ["Zhao Wanlei", "acquaintance of x, benefactor of x"], 
+      ["Feng Shuangji", "acquaintance of x, benefactor of x"], 
+      ["Feng Zhu", "sister of x, neuer/daughter of x"]
+    ],
+    "Yu Fei": [
+      ["Zhao Wei", "mother of x"]
+    ],
+    "Emperor Guangxu": [
+      ["Zhao Wei", "father of x"]
+    ],
+    "Li Shuxun": [
+      ["Zhao Wei", "uncle of x"]
+    ],
+    "Zhao Qiuer": [
+      ["Zhao Wei", "maid of x"]
+    ],
+    "Zhao Xue": [
+      ["Zhao Wanlei", "mother of x"]
+    ],
+    "Zhang Yuyi or Imperial Physician Zhang": [
+      ["Zhao Wei", "friend of x, helper of x"]
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "Feng Shuangji": [
+      ["Zhao Wanlei", "same person as x (different reference)"], 
+      ["Li Yu", "wife of x"], 
+      ["Zhao Luoyi", "daughter of x"], 
+      ["Feng Zhu", "child of x"], 
+      ["Yin Shaoming", "nephew of x"]
+    ],
+    "Master Ren": [
+      ["Feng Shuangji", "same person as x (different reference)"], 
+      ["Zhao Wanlei", "same person as x (different identity)"]
+    ],
+    "Li Yu": [
+      ["Feng Shuangji", "wife of x"], 
+      ["Zhao Wanlei", "husband of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Feng Shuangji", "same person as x (different identity)"], 
+      ["Li Yu", "husband of x"], 
+      ["Zhao Luoyi", "father of x"], 
+      ["Feng Zhu", "father of x"], 
+      ["Yin Shaoming", "nephew of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Feng Shuangji", "daughter of x"], 
+      ["Zhao Wanlei", "father of x"]
+    ],
+    "Feng Zhu": [
+      ["Feng Shuangji", "child of x"], 
+      ["Zhao Wanlei", "father of x"]
+    ],
+    "Yin Shaoming": [
+      ["Feng Shuangji", "nephew of x"], 
+      ["Zhao Wanlei", "uncle of x"]
+    ],
+    "Guo Wangshan": [
+      ["Zhao Wanlei", "business partner of x"]
+    ],
+    "Black Wolf": [
+      ["Zhao Wanlei", "acquaintance of x"]
+    ],
+    "Geng Zi": [
+      ["Zhao Wanlei", "friend of x"]
+    ],
+    "Qi Yue": [
+      ["Feng Shuangji", "friend of x"]
+    ],
+    "Zhang Xiangshuai": [
+      ["Zhao Wanlei", "business partner of x"]
+    ],
+    "Dr. Zhang": [
+      ["Zhao Wanlei", "doctor of x"]
+    ]
+}

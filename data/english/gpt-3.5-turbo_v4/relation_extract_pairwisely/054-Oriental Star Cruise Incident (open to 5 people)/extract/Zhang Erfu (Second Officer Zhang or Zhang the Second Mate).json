@@ -1,0 +1,44 @@
+{
+    "Zhang Erfu": [
+      ["Liu Qi", "enemy of x, rival of x"], 
+      ["Hong Zilian", "colleague of x"], 
+      ["Han Yimu", "acquaintance of x"], 
+      ["Xiu Renjie", "employee of x"], 
+      ["Yang Chenlin", "friend of x"]
+    ],
+    "Liu Qi": [
+      ["Zhang Erfu", "enemy of x, rival of x"], 
+      ["Hong Zilian", "colleague of x, subordinate of x"], 
+      ["Lin Ruotong", "colleague of x"], 
+      ["Yang Chenlin", "mentor of x"]
+    ],
+    "Hong Zilian": [
+      ["Zhang Erfu", "subordinate of x"], 
+      ["Liu Qi", "superior of x, mentor of x"], 
+      ["Lin Ruotong", "acquaintance of x"], 
+      ["Yang Chenlin", "mentor of x"]
+    ],
+    "Han Yimu": [
+      ["Zhang Erfu", "acquaintance of x"], 
+      ["Yang Chenlin", "mentor of x"]
+    ],
+    "Xiu Renjie": [
+      ["Zhang Erfu", "employer of x"], 
+      ["Lin Ruotong", "friend of x"], 
+      ["Yang Chenlin", "friend of x"]
+    ],
+    "Lin Ruotong": [
+      ["Liu Qi", "colleague of x"], 
+      ["Hong Zilian", "acquaintance of x"], 
+      ["Xiu Renjie", "friend of x"], 
+      ["Yang Chenlin", "mentor of x"]
+    ],
+    "Yang Chenlin": [
+      ["Zhang Erfu", "mentor of x"], 
+      ["Liu Qi", "subordinate of x"], 
+      ["Hong Zilian", "mentor of x"], 
+      ["Han Yimu", "friend of x"], 
+      ["Xiu Renjie", "mentor of x"], 
+      ["Lin Ruotong", "student of x"]
+    ]
+}

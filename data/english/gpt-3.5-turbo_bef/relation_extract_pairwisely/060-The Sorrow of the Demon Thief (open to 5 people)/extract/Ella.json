@@ -1,0 +1,33 @@
+{
+    "Ella": [
+      ["Gust", "ex romantic relationships with x"], 
+      ["Kevin", "friend of x, helper of x"], 
+      ["Rowling", "friend of x"]
+    ],
+    "Gust": [
+      ["Ella", "romantic relationships with x"], 
+      ["Kevin", "mentor of x"], 
+      ["Rowling", "romantic relationships with x"], 
+      ["David", "romantic relationships with x"]
+    ],
+    "Kevin": [
+      ["Ella", "mentor of x"], 
+      ["Rowling", "friend of x"], 
+      ["David", "acquaintance of x, helper of x"], 
+      ["Griff", "guard of x"]
+    ],
+    "Rowling": [
+      ["Ella", "friend of x"], 
+      ["Gust", "romantic relationships with x"], 
+      ["Kevin", "friend of x"], 
+      ["David", "friend of x"]
+    ],
+    "David": [
+      ["Gust", "romantic relationships with x"], 
+      ["Kevin", "neighbour of x"], 
+      ["Rowling", "admirer of x"]
+    ],
+    "Griff": [
+      ["Kevin", "employee of x"]
+    ]
+}

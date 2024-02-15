@@ -1,0 +1,20 @@
+{
+    "Lu Ying": [
+      ["Lover", "secret lover of x"], 
+      ["Du Zhong", "same person as x (different reference)"], 
+      ["Zi Su", "friend of x"], 
+      ["Xuan Can", "suspicious of x"]
+    ],
+    "Lover": [
+      ["Lu Ying", "secret lover of x"]
+    ],
+    "Du Zhong": [
+      ["Lu Ying", "same person as x (different reference)"]
+    ],
+    "Zi Su": [
+      ["Lu Ying", "friend of x"]
+    ],
+    "Xuan Can": [
+      ["Lu Ying", "suspicious of x"]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "Li Xiaodi": [
+      ["ZHANG EBA", "acquaintance of x, suspect of x"], 
+      ["Wang Xuexi", "friend of x, accomplice of x"], 
+      ["Zhao Shuaige", "friend of x, partner in crime of x"], 
+      ["Lin Xiaohua", "friend of x, rival of x"], 
+      ["Hao Guimi", "friend of x, rival of x"], 
+      ["Zhang Eba's wife", "potential victim of x"]
+    ],
+    "ZHANG EBA": [
+      ["Li Xiaodi", "acquaintance of x, suspect of x"], 
+      ["Wang Xuexi", "friend of x, accomplice of x"], 
+      ["Zhao Shuaige", "friend of x, partner in crime of x"], 
+      ["Lin Xiaohua", "friend of x, rival of x"], 
+      ["Hao Guimi", "friend of x, rival of x"], 
+      ["Zhang Eba's wife", "potential victim of x"]
+    ],
+    "Wang Xuexi": [
+      ["Li Xiaodi", "friend of x, accomplice of x"], 
+      ["ZHANG EBA", "friend of x, accomplice of x"], 
+      ["Zhao Shuaige", "friend of x, partner in crime of x"], 
+      ["Lin Xiaohua", "friend of x, rival of x"], 
+      ["Hao Guimi", "friend of x, rival of x"]
+    ],
+    "Zhao Shuaige": [
+      ["Li Xiaodi", "friend of x, partner in crime of x"], 
+      ["ZHANG EBA", "friend of x, partner in crime of x"], 
+      ["Wang Xuexi", "friend of x, accomplice of x"], 
+      ["Lin Xiaohua", "friend of x, rival of x"], 
+      ["Hao Guimi", "friend of x, rival of x"]
+    ],
+    "Lin Xiaohua": [
+      ["ZHANG EBA", "friend of x, rival of x"], 
+      ["Wang Xuexi", "friend of x, rival of x"], 
+      ["Zhao Shuaige", "friend of x, rival of x"], 
+      ["Li Xiaodi", "potential victim of x"]
+    ],
+    "Hao Guimi": [
+      ["ZHANG EBA", "friend of x, rival of x"], 
+      ["Wang Xuexi", "friend of x, rival of x"], 
+      ["Zhao Shuaige", "friend of x, rival of x"], 
+      ["Lin Xiaohua", "friend of x, rival of x"], 
+      ["Li Xiaodi", "potential victim of x"]
+    ],
+    "Zhang Eba's wife": [
+      ["ZHANG EBA", "potential victim of x"], 
+      ["Li Xiaodi", "potential victim of x"]
+    ]
+}

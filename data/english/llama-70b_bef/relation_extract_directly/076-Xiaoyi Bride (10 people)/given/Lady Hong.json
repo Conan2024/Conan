@@ -1,0 +1,49 @@
+{
+    "Tian Hongjiao": [
+      ["Uncle Gui", "acquaintance of x, colleague of x"], 
+      ["Yao Zhongyi", "adversary of x, acquaintance of x"]
+    ],
+    "Uncle Gui": [
+      ["Tian Hongjiao", "acquaintance of x, colleague of x"], 
+      ["Yao Zhongyi", "acquaintance of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Yao Changshou", "son of x"], 
+      ["Tian Hongjiao", "adversary of x, acquaintance of x"]
+    ],
+    "Chen Junmeng": [
+      ["Tian Hongjiao", "sister of x"], 
+      ["Uncle Gui", "patient of x"]
+    ],
+    "Yao Changshou": [
+      ["Tian Hongjiao", "husband of x"], 
+      ["Yao Zhongyi", "son of x"]
+    ],
+    "Physician Yu": [
+      ["Tian Hongjiao", "doctor of x, friend of x"], 
+      ["Yao Zhongyi", "acquaintance of x"]
+    ],
+    "Hu Renyu": [
+      ["Tian Hongjiao", "friend of x"], 
+      ["Yao Changshou", "friend of x"]
+    ],
+    "Yao Mengren": [
+      ["Yao Changshou", "son of x"], 
+      ["Chen Junmeng", "husband of x"]
+    ],
+    "Fan Jinkui": [
+      ["Yao Changshou", "friend of x"]
+    ],
+    "Judy": [
+      ["Tian Hongjiao", "relative of x"], 
+      ["Yao Changshou", "friend of x"]
+    ],
+    "Doctor Fang": [
+      ["Tian Hongjiao", "cousin of x"], 
+      ["Yao Changshou", "doctor of x"]
+    ],
+    "Short-haired Woman": [
+      ["Tian Hongjiao", "acquaintance of x"], 
+      ["Yao Changshou", "acquaintance of x"]
+    ]
+}

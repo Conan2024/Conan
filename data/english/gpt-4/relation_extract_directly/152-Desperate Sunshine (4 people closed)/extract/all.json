@@ -1,0 +1,134 @@
+{
+    "Shipyard Worker Wang": [
+        [
+            "First Mate Zhang",
+            "accomplice of x, enemy of x"
+        ],
+        [
+            "Worker Wang (son, also referred to as 'mental son' and 'small worker')",
+            "child of x, victim of x"
+        ],
+        [
+            "Ship Doctor Ling (daughter-in-law)",
+            "daughter in law of x, helped by x"
+        ],
+        [
+            "Boss Yang",
+            "business partner of x, enemy of x"
+        ],
+        [
+            "Passer-by",
+            "acquaintance of x, informant of x"
+        ],
+        [
+            "Naive Hen",
+            "acquaintance of x, possible enemy of x"
+        ],
+        [
+            "Boss Yang's bodyguard",
+            "acquaintance of x"
+        ]
+    ],
+    "First Mate Zhang": [
+        [
+            "Shipyard Worker Wang",
+            "accomplice of x, manipulated by x"
+        ],
+        [
+            "Worker Wang (son, also referred to as 'mental son' and 'small worker')",
+            "indirect victim of x"
+        ],
+        [
+            "Boss Yang",
+            "working relationship with x, business partner of x"
+        ],
+        [
+            "Naive Hen",
+            "colleague of x"
+        ]
+    ],
+    "Worker Wang (son, also referred to as 'mental son' and 'small worker')": [
+        [
+            "Shipyard Worker Wang",
+            "father of x"
+        ],
+        [
+            "Ship Doctor Ling (daughter-in-law)",
+            "wife of x"
+        ],
+        [
+            "First Mate Zhang",
+            "indirect perpetrator of x"
+        ],
+        [
+            "Boss Yang",
+            "victim of x"
+        ]
+    ],
+    "Ship Doctor Ling (daughter-in-law)": [
+        [
+            "Worker Wang (son, also referred to as 'mental son' and 'small worker')",
+            "husband of x"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "father in law of x, helper of x"
+        ],
+        [
+            "Boss Yang",
+            "creditor of x, threatened by x"
+        ]
+    ],
+    "Boss Yang": [
+        [
+            "Shipyard Worker Wang",
+            "business partner of x, target of x"
+        ],
+        [
+            "First Mate Zhang",
+            "business partner of x"
+        ],
+        [
+            "Ship Doctor Ling (daughter-in-law)",
+            "debtor of x"
+        ],
+        [
+            "Naive Hen",
+            "employer of x"
+        ],
+        [
+            "Boss Yang's bodyguard",
+            "employer of x"
+        ]
+    ],
+    "Passer-by": [
+        [
+            "Shipyard Worker Wang",
+            "information receiver from x"
+        ]
+    ],
+    "Naive Hen": [
+        [
+            "Shipyard Worker Wang",
+            "acquaintance of x, possible manipulator of x"
+        ],
+        [
+            "Boss Yang",
+            "subordinate of x"
+        ],
+        [
+            "First Mate Zhang",
+            "acquaintance of x"
+        ]
+    ],
+    "Boss Yang's bodyguard": [
+        [
+            "Boss Yang",
+            "employee of x"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "acquaintance of x"
+        ]
+    ]
+}

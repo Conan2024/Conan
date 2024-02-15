@@ -1,0 +1,32 @@
+{
+    "Lu Ying": [
+      ["Du Zhong", "master of x, suspicious of x"], 
+      ["Ling Xiao", "rival of x"], 
+      ["Lover", "lover of x"], 
+      ["Xuan Can", "suspicious of x, enemy of x"], 
+      ["Zi Su", "suspicious of x, acquaintance of x"]
+    ],
+    "Du Zhong": [
+      ["Lu Ying", "master of x, suspicious of x"], 
+      ["Ling Xiao", "rival of x"], 
+      ["Xuan Can", "suspicious of x, enemy of x"]
+    ],
+    "Ling Xiao": [
+      ["Lu Ying", "rival of x"], 
+      ["Du Zhong", "master of x, suspicious of x"], 
+      ["Xuan Can", "suspicious of x, enemy of x"]
+    ],
+    "Lover": [
+      ["Lu Ying", "lover of x"], 
+      ["Xuan Can", "suspicious of x, enemy of x"]
+    ],
+    "Xuan Can": [
+      ["Lu Ying", "suspicious of x, enemy of x"], 
+      ["Du Zhong", "suspicious of x, master of x"], 
+      ["Ling Xiao", "suspicious of x, rival of x"]
+    ],
+    "Zi Su": [
+      ["Lu Ying", "suspicious of x, acquaintance of x"], 
+      ["Xuan Can", "suspicious of x, enemy of x"]
+    ]
+}

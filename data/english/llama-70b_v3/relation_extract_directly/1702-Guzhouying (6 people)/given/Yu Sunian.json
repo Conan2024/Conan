@@ -1,0 +1,59 @@
+{
+    "Yu Sunian": [
+      ["Zhou Chitong", "brother in law of x"], 
+      ["Zhou Mengdang", "brother in law of x"], 
+      ["Yu Shi", "sister of x"], 
+      ["Cui Shouheng", "enemy of x"], 
+      ["Lianyi", "nephew of x"], 
+      ["Yannan", "niece of x"], 
+      ["Brother Tuesday", "acquaintance of x"]
+    ],
+    "Yu Shi": [
+      ["Yu Sunian", "sister of x"], 
+      ["Zhou Mengdang", "husband of x"], 
+      ["Cui Shouheng", "master of x"]
+    ],
+    "Zhou Chitong": [
+      ["Yu Sunian", "brother in law of x"], 
+      ["Zhou Mengdang", "brother of x"]
+    ],
+    "Zhou Mengdang": [
+      ["Yu Sunian", "brother in law of x"], 
+      ["Yu Shi", "wife of x"], 
+      ["Cui Shouheng", "master of x"]
+    ],
+    "Lianyi": [
+      ["Yu Sunian", "nephew of x"], 
+      ["Yu Shi", "mother of x"], 
+      ["Zhou Mengdang", "father of x"]
+    ],
+    "Yannan": [
+      ["Yu Sunian", "niece of x"], 
+      ["Yu Shi", "sister of x"], 
+      ["Cui Shouheng", "master of x"]
+    ],
+    "Cui Shouheng": [
+      ["Yu Sunian", "enemy of x"], 
+      ["Yu Shi", "master of x"], 
+      ["Zhou Mengdang", "master of x"]
+    ],
+    "He Sao": [
+      ["Xi Yan", "friend of x"]
+    ],
+    "Xi Yan": [
+      ["He Sao", "friend of x"], 
+      ["Cui Shouheng", "husband of x"]
+    ],
+    "Bao Gan": [
+      ["Yu Sunian", "acquaintance of x"], 
+      ["Cui Shouheng", "subordinate of x"]
+    ],
+    "Taitai": [
+      ["Yu Sunian", "victim of x"], 
+      ["Cui Shouheng", "suspect of x"]
+    ],
+    "Brother Tuesday": [
+      ["Yu Sunian", "acquaintance of x"], 
+      ["Lianyi", "brother of x"]
+    ]
+}

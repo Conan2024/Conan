@@ -1,0 +1,230 @@
+{
+    "Professor Jia": [
+        [
+            "Tian Zhuli",
+            "adversary of x, ex romantic relationships with x"
+        ],
+        [
+            "cleaner sister",
+            "suspect of x"
+        ],
+        [
+            "student",
+            "informant of x"
+        ],
+        [
+            "Qin OU (Tian Zhuli's girlfriend)",
+            "romantic relationships with x"
+        ],
+        [
+            "boss",
+            "employee of x"
+        ],
+        [
+            "person wearing a black rain poncho, hat, and mask",
+            "secret lover of x, murderer of x"
+        ],
+        [
+            "big sister",
+            "suspicious of x"
+        ]
+    ],
+    "Tian Zhuli": [
+        [
+            "Professor Jia",
+            "adversary of x, ex romantic relationships with x"
+        ],
+        [
+            "cleaner sister",
+            "helper of x, informant of x"
+        ],
+        [
+            "student",
+            "informant of x, victim of x"
+        ],
+        [
+            "Qin OU (Tian Zhuli's girlfriend)",
+            "romantic relationships with x"
+        ],
+        [
+            "person wearing a black rain poncho, hat, and mask",
+            "attempted perpetrator of x"
+        ],
+        [
+            "big sister",
+            "adversary of x, enemy of x, hated by x"
+        ]
+    ],
+    "cleaner sister": [
+        [
+            "Professor Jia",
+            "suspect of x"
+        ],
+        [
+            "Tian Zhuli",
+            "informant of x, helper of x"
+        ],
+        [
+            "student",
+            "helper of x"
+        ],
+        [
+            "suspected by Qin OU (Tian Zhuli's girlfriend)",
+            "information receiver from x"
+        ],
+        [
+            "boss",
+            "acquaintance of x"
+        ],
+        [
+            "suspicious of",
+            "jealous of x"
+        ],
+        [
+            "big sister",
+            "sister in law of x"
+        ]
+    ],
+    "student": [
+        [
+            "Professor Jia",
+            "informant of x"
+        ],
+        [
+            "Tian Zhuli",
+            "information receiver from x, victim of x"
+        ],
+        [
+            "cleaner sister",
+            "helped by x"
+        ],
+        [
+            "Qin OU (Tian Zhuli's girlfriend)",
+            "romantic relationships with x"
+        ],
+        [
+            "boss",
+            "acquaintance of x, information receiver from x"
+        ],
+        [
+            "person wearing a black rain poncho, hat, and mask",
+            "same person as x (different reference)"
+        ],
+        [
+            "big sister",
+            "helper of x"
+        ]
+    ],
+    "Qin OU (Tian Zhuli's girlfriend)": [
+        [
+            "Professor Jia",
+            "romantic relationships with x"
+        ],
+        [
+            "Tian Zhuli",
+            "romantic relationships with x"
+        ],
+        [
+            "suspect of cleaner sister",
+            "informant of x"
+        ],
+        [
+            "student",
+            "romantic relationships with x"
+        ],
+        [
+            "boss",
+            "adversary of x, jealous of x"
+        ],
+        [
+            "person wearing a black rain poncho, hat, and mask",
+            "romantic relationships with x, acquaintance of x"
+        ],
+        [
+            "big sister",
+            "romantic relationships with x"
+        ]
+    ],
+    "boss": [
+        [
+            "Professor Jia",
+            "employer of x"
+        ],
+        [
+            "cleaner sister",
+            "acquaintance of x"
+        ],
+        [
+            "student",
+            "teacher of x, informant of x"
+        ],
+        [
+            "Qin OU (Tian Zhuli's girlfriend)",
+            "adversary of x, jealous by x"
+        ],
+        [
+            "person wearing a black rain poncho, hat, and mask",
+            "helper of x"
+        ],
+        [
+            "big sister",
+            "colleague of x"
+        ]
+    ],
+    "person wearing a black rain poncho, hat, and mask": [
+        [
+            "Professor Jia",
+            "secret lover of x, murderer of x"
+        ],
+        [
+            "Tian Zhuli",
+            "victim of x"
+        ],
+        [
+            "suspicious of",
+            "jealous of x"
+        ],
+        [
+            "student",
+            "teacher of x"
+        ],
+        [
+            "boss",
+            "helped by x"
+        ],
+        [
+            "big sister",
+            "helper of x"
+        ]
+    ],
+    "big sister": [
+        [
+            "Professor Jia",
+            "suspicious of x"
+        ],
+        [
+            "Tian Zhuli",
+            "adversary of x, enemy of x, hated by x"
+        ],
+        [
+            "cleaner sister",
+            "sister in law of x"
+        ],
+        [
+            "student",
+            "helper of x"
+        ],
+        [
+            "Qin OU (Tian Zhuli's girlfriend)",
+            "romantic relationships with x"
+        ],
+        [
+            "boss",
+            "colleague of x"
+        ],
+        [
+            "person wearing a black rain poncho, hat, and mask",
+            "helper of x"
+        ]
+    ]
+}

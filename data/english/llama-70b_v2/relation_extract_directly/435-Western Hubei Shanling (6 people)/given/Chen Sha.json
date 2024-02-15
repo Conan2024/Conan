@@ -1,0 +1,56 @@
+{
+    "Zhou Chen Sha": [
+      ["Falcon", "brother of x"], 
+      ["Gan Ma", "sister in law of x"], 
+      ["Zhou Yuntang", "father of x"], 
+      ["Zhou Jingyu", "brother of x"], 
+      ["Wang Shi", "mother of x"], 
+      ["Zheng Changmin", "father in law of x"], 
+      ["Ruya", "acquaintance of x"]
+    ],
+    "Falcon": [
+      ["Ba Mansion Mountain", "brother of x"], 
+      ["Gan Ma", "sister of x"], 
+      ["Zhou Chen Sha", "brother in law of x"], 
+      ["Li Demu", "acquaintance of x"]
+    ],
+    "Gan Ma": [
+      ["Falcon", "brother of x"], 
+      ["Ba Mansion Mountain", "sister of x"], 
+      ["Zhou Chen Sha", "sister in law of x"], 
+      ["Ruya", "friend of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Falcon", "brother of x"], 
+      ["Gan Ma", "sister of x"], 
+      ["Zhou Chen Sha", "landlord of x"], 
+      ["Ruya", "acquaintance of x"]
+    ],
+    "Zhou Yuntang": [
+      ["Zhou Chen Sha", "son of x"], 
+      ["Zhou Jingyu", "brother of x"]
+    ],
+    "Zhou Jingyu": [
+      ["Zhou Chen Sha", "brother of x"], 
+      ["Zhou Yuntang", "father of x"]
+    ],
+    "Wang Shi": [
+      ["Zhou Chen Sha", "mother of x"], 
+      ["Zhou Yuntang", "wife of x"]
+    ],
+    "Zheng Changmin": [
+      ["Zheng Hanzhen", "son of x"], 
+      ["Zhou Chen Sha", "father in law of x"]
+    ],
+    "Ruya": [
+      ["Gan Ma", "friend of x"], 
+      ["Falcon", "acquaintance of x"]
+    ],
+    "Li Demu": [
+      ["Zhou Chen Sha", "acquaintance of x"]
+    ],
+    "Zheng Hanzhen": [
+      ["Zheng Changmin", "father of x"], 
+      ["Gan Ma", "fiancé of x"]
+    ]
+}

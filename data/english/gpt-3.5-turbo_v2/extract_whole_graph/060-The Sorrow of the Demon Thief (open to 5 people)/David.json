@@ -1,0 +1,26 @@
+{
+    "David": [
+      ["Gust", "co thieves of x"], 
+      ["Rowling", "former partner of x, romantic relationships of x"], 
+      ["Ella", "friend of x"], 
+      ["Kevin", "unusual relationship with rowling of x"], 
+      ["Griff", "good personal relationship of x, suspicion of x dealing with gust and rowling"]
+    ],
+    "Ella": [
+      ["Rowling", "good friend of x"], 
+      ["David", "friend of x"]
+    ],
+    "Rowling": [
+      ["David", "former partner of x, romantic relationships of x"], 
+      ["Ella", "good friend of x"], 
+      ["Kevin", "unusual relationship of x"], 
+      ["Gust", "object of x affection"]
+    ],
+    "Kevin": [
+      ["Rowling", "unusual relationship of x"], 
+      ["David", "unspecified relationship of x"]
+    ],
+    "Griff": [
+      ["David", "good personal relationship of x, suspicion of x dealing with gust and rowling"]
+    ]
+}

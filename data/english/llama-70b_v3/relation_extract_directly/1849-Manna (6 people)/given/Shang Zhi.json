@@ -1,0 +1,54 @@
+{
+    "Tan Shang Zhi": [
+      ["Zina", "friend of x"], 
+      ["Lv Mingran", "cousin of x, rival of x"], 
+      ["Luo Hengli", "acquaintance of x"]
+    ],
+    "Zina": [
+      ["Tan Shang Zhi", "friend of x"], 
+      ["Lv Mingran", "teacher of x"]
+    ],
+    "Lv Mingran": [
+      ["Tan Shang Zhi", "cousin of x, rival of x"], 
+      ["Zina", "teacher of x"], 
+      ["Mrs. Wei", "sister of x"]
+    ],
+    "Luo Hengli": [
+      ["Tan Shang Zhi", "acquaintance of x"]
+    ],
+    "Cheng Ge": [
+      ["Lv Mingran", "cousin of x"]
+    ],
+    "Mrs. Wei": [
+      ["Lv Mingran", "sister of x"], 
+      ["Tan Shang Zhi", "aunt of x"]
+    ],
+    "Hai You": [
+      ["Lv Mingran", "friend of x"], 
+      ["Tan Shang Zhi", "acquaintance of x"]
+    ],
+    "Xinya": [
+      ["Tan Shang Zhi", "friend of x"]
+    ],
+    "Liao Gongzi": [
+      ["Tan Shang Zhi", "acquaintance of x"], 
+      ["Zina", "bully of x"]
+    ],
+    "Cai Qian": [
+      ["Liao Gongzi", "friend of x"]
+    ],
+    "Tan Renchang": [
+      ["Tan Shang Zhi", "uncle of x"], 
+      ["Lv Mingran", "father of x"]
+    ],
+    "Tan Renxing": [
+      ["Tan Shang Zhi", "uncle of x"], 
+      ["Lv Mingran", "father of x"]
+    ],
+    "Tan Renxing's wife": [
+      ["Tan Renxing", "wife of x"]
+    ],
+    "Tan Mansion's lawyer": [
+      ["Tan Shang Zhi", "acquaintance of x"]
+    ]
+}

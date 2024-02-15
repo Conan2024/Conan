@@ -1,0 +1,20 @@
+{
+    "Lu Ying": [
+      ["Masterdu Zhong", "mentor of x"], 
+      ["Lover", "romantic relationships with x"], 
+      ["Second Senior Uncle", "colleague of x"], 
+      ["Xu Xuanbing", "enemy of x"]
+    ],
+    "Masterdu Zhong": [
+      ["Lu Ying", "student of x"]
+    ],
+    "Lover": [
+      ["Lu Ying", "romantic relationships with x"]
+    ],
+    "Second Senior Uncle": [
+      ["Lu Ying", "colleague of x"]
+    ],
+    "Xu Xuanbing": [
+      ["Lu Ying", "enemy of x"]
+    ]
+}

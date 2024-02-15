@@ -1,0 +1,227 @@
+{
+    "Gu Minghe": [
+        [
+            "Lin Tong",
+            "Perpetrator of X",
+            "Victim of X"
+        ],
+        [
+            "Lin Weiren",
+            "Business Partner",
+            "Rival"
+        ],
+        [
+            "Lin Xi",
+            "Enemy of X",
+            "Rival of X",
+            "Adversary of X",
+            "Manipulator of X",
+            "Manipulated by X"
+        ],
+        [
+            "Qin Siqin",
+            "Relationship 1: Employer-Employee",
+            "Relationship 2: Enemy"
+        ],
+        [
+            "Shen Cheng",
+            "Perpetrator of X",
+            "Rival of X"
+        ],
+        [
+            "Su Yang",
+            "business partner",
+            "acquaintance"
+        ]
+    ],
+    "Lin Tong": [
+        [
+            "Gu Minghe",
+            "Victim of X",
+            "Sibling of X"
+        ],
+        [
+            "Lin Weiren",
+            "Same person as X (different identity)",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Lin Xi",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Qin Siqin",
+            "relationship 1: Daughter, relationship 2: Wife"
+        ],
+        [
+            "Shen Cheng",
+            "Daughter of",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Su Yang",
+            "Wife of X (different identity)",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Lin Weiren": [
+        [
+            "Gu Minghe",
+            "Business Partner",
+            "Rival"
+        ],
+        [
+            "Lin Tong",
+            "Father of X",
+            "Murderer of X"
+        ],
+        [
+            "Qin Siqin",
+            "Wife of X (different identity)"
+        ],
+        [
+            "Shen Cheng",
+            "Employer of Shen Cheng",
+            "Master of Shen Cheng",
+            "Superior of Shen Cheng",
+            "Enemy of Shen Cheng"
+        ],
+        [
+            "Su Yang",
+            "Adversary, Enemy",
+            "Rival, Manipulator",
+            "Master, Employer",
+            "Superior, Subordinate"
+        ]
+    ],
+    "Lin Xi": [
+        [
+            "Gu Minghe",
+            "Daughter of X",
+            "Same person as X (different identity)",
+            "Same person as X (different reference)",
+            "Romantic relationships with X",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "Lin Tong",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Qin Siqin",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Shen Cheng",
+            "Enemy of X",
+            "Victim of X"
+        ],
+        [
+            "Su Yang",
+            "Wife of X (different identity)",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Qin Siqin": [
+        [
+            "Gu Minghe",
+            "Relationship 1: Employee-Employer",
+            "Relationship 2: Enemy"
+        ],
+        [
+            "Lin Tong",
+            "relationship 1: Mother, relationship 2: Wife of Shen Cheng"
+        ],
+        [
+            "Lin Weiren",
+            "Husband of X (different reference)"
+        ],
+        [
+            "Lin Xi",
+            "Wife of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Shen Cheng",
+            "Wife of X",
+            "Mother of X"
+        ],
+        [
+            "Su Yang",
+            "Wife of X (different identity)",
+            "Fiancee of X",
+            "Ex-romantic relationships with X",
+            "Romantic relationships with X"
+        ]
+    ],
+    "Shen Cheng": [
+        [
+            "Gu Minghe",
+            "Victim of X",
+            "Adversary of X"
+        ],
+        [
+            "Lin Tong",
+            "Father of",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Lin Weiren",
+            "Housekeeper of Lin's Manor",
+            "Servant of Lin Weiren",
+            "Subordinate of Lin Weiren",
+            "Adversary of Lin Weiren"
+        ],
+        [
+            "Lin Xi",
+            "Perpetrator of X",
+            "Adversary of X"
+        ],
+        [
+            "Qin Siqin",
+            "Husband of X",
+            "Father of X"
+        ],
+        [
+            "Su Yang",
+            " enemity, suspicion"
+        ]
+    ],
+    "Su Yang": [
+        [
+            "Gu Minghe",
+            "business partner",
+            "acquaintance"
+        ],
+        [
+            "Lin Tong",
+            "Husband of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Lin Weiren",
+            "Adversary, Enemy",
+            "Rival, Manipulated",
+            "Employee, Subordinate",
+            "Master, Employer"
+        ],
+        [
+            "Lin Xi",
+            "Husband of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Qin Siqin",
+            "Husband of X (different reference)",
+            "Boyfriend of X",
+            "Romantic relationships with X",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "Shen Cheng",
+            "enmity, suspicion"
+        ]
+    ]
+}

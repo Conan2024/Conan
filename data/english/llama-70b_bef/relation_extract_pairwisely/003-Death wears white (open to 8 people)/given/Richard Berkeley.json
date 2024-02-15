@@ -1,0 +1,30 @@
+{
+    "Dr. Paloski": [
+      ["Richard Berkeley", "friend of x, colleague of x"], 
+      ["Sylvia Costa", "friend of x, colleague of x"]
+    ],
+    "Drake Li Morette": [
+      ["Hans Li Morette", "colleague of x"], 
+      ["Richard Berkeley", "friend of x, colleague of x"]
+    ],
+    "Elaine Carter": [
+      ["Hans Li Morette", "friend of x"], 
+      ["Sylvia Costa", "friend of x, colleague of x"]
+    ],
+    "Hans Li Morette": [
+      ["Drake Li Morette", "colleague of x"], 
+      ["Elaine Carter", "friend of x"], 
+      ["Richard Berkeley", "friend of x, colleague of x"], 
+      ["Sylvia Costa", "friend of x, colleague of x"]
+    ],
+    "Richard Berkeley": [
+      ["Dr. Paloski", "friend of x, colleague of x"], 
+      ["Drake Li Morette", "friend of x, colleague of x"], 
+      ["Hans Li Morette", "friend of x, colleague of x"]
+    ],
+    "Sylvia Costa": [
+      ["Dr. Paloski", "friend of x, colleague of x"], 
+      ["Elaine Carter", "friend of x, colleague of x"], 
+      ["Hans Li Morette", "friend of x, colleague of x"]
+    ]
+}

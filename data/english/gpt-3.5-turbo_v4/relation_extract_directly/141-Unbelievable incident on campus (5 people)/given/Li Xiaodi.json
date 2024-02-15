@@ -1,0 +1,40 @@
+{
+    "Li Xiaodi": [
+      ["Li Dage", "cousin of x"], 
+      ["Zhang Eba", "victim of x, ex romantic relationships with x"], 
+      ["Wang Xuexi", "acquaintance of x"], 
+      ["Zhao Shuaige", "acquaintance of x"]
+    ],
+    "Li Dage": [
+      ["Li Xiaodi", "cousin of x, child of x"], 
+      ["Zhang Eba", "victim of x"], 
+      ["Wang Xuexi", "acquaintance of x"], 
+      ["Zhao Shuaige", "acquaintance of x"]
+    ],
+    "Zhang Eba": [
+      ["Li Xiaodi", "perpetrator of x, ex romantic relationships with x"], 
+      ["Li Dage", "perpetrator of x"], 
+      ["Wang Xuexi", "acquaintance of x, information receiver from x"], 
+      ["Zhao Shuaige", "acquaintance of x"], 
+      ["Lin Xiaohua", "romantic relationships with x"], 
+      ["Hao Guimi", "romantic relationships with x"]
+    ],
+    "Wang Xuexi": [
+      ["Li Xiaodi", "acquaintance of x, information receiver from x"], 
+      ["Li Dage", "acquaintance of x"], 
+      ["Zhang Eba", "acquaintance of x, information receiver from x"], 
+      ["Zhao Shuaige", "acquaintance of x"]
+    ],
+    "Zhao Shuaige": [
+      ["Li Xiaodi", "acquaintance of x"], 
+      ["Li Dage", "acquaintance of x"], 
+      ["Zhang Eba", "acquaintance of x"], 
+      ["Wang Xuexi", "acquaintance of x"]
+    ],
+    "Lin Xiaohua": [
+      ["Zhang Eba", "romantic relationships with x"]
+    ],
+    "Hao Guimi": [
+      ["Zhang Eba", "romantic relationships with x"]
+    ]
+}

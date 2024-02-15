@@ -1,0 +1,58 @@
+{
+    "Ling Xiao": [
+        [
+            "Master",
+            "student of x"
+        ],
+        [
+            "Feng",
+            "information receiver from x"
+        ],
+        [
+            "Eldest Senior Brother",
+            "stranger to x"
+        ]
+    ],
+    "Master": [
+        [
+            "Ling Xiao",
+            "teacher of x"
+        ],
+        [
+            "Feng",
+            "acquaintance of x"
+        ],
+        [
+            "Eldest Senior Brother",
+            "stranger to x"
+        ]
+    ],
+    "Feng": [
+        [
+            "Ling Xiao",
+            "informant of x"
+        ],
+        [
+            "Master",
+            "acquaintance of x"
+        ],
+        [
+            "Eldest Senior Brother",
+            "stranger to x"
+        ]
+    ],
+    "Eldest Senior Brother": [
+        [
+            "Ling Xiao",
+            "stranger to x"
+        ],
+        [
+            "Master",
+            "stranger to x"
+        ],
+        [
+            "Feng",
+            "stranger to x"
+        ]
+    ]
+}

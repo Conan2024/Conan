@@ -1,0 +1,64 @@
+{
+    "Zhang Jie": [
+      ["Zhang Jie's father", "child of x"], 
+      ["Zhang Jie's mother", "child of x"], 
+      ["The girl who rejected Zhang Jie", "romantic relationships with x"], 
+      ["Li Guofu", "helper of x"], 
+      ["Mu Bei", "romantic relationships with x, helper of x"], 
+      ["Neighbor Wang", "friend of x"]
+    ],
+    "Zhang Jie's father": [
+      ["Zhang Jie", "father of x"], 
+      ["Zhang Jie's mother", "husband of x"], 
+      ["The girl who rejected Zhang Jie", "father of x"], 
+      ["Li Guofu", "father of x"], 
+      ["He Laoliu", "colleague of x"], 
+      ["Mu Bei", "friend of x, mentor of x"], 
+      ["Neighbor Wang", "neighbour of x"]
+    ],
+    "Zhang Jie's mother": [
+      ["Zhang Jie", "mother of x"], 
+      ["Zhang Jie's father", "wife of x"], 
+      ["The girl who rejected Zhang Jie", "romantic relationships with x"], 
+      ["Li Guofu", "friend of x, replaced x's identity"], 
+      ["He Laoliu", "friend of x, helper of x"], 
+      ["Mu Bei", "helper of x, friend of x"], 
+      ["Neighbor Wang", "neighbour of x"]
+    ],
+    "The girl who rejected Zhang Jie": [
+      ["Zhang Jie", "romantic relationships with x"], 
+      ["He Laoliu", "helped by x"], 
+      ["Mu Bei", "romantic relationships with x, ex romantic relationships with x"], 
+      ["Neighbor Wang", "suspected by x, acquaintance of x"]
+    ],
+    "Li Guofu": [
+      ["Zhang Jie", "mentor of x"], 
+      ["Zhang Jie's father", "friend of x, mentor of x"], 
+      ["Zhang Jie's mother", "friend of x, replaced x's identity"], 
+      ["Mu Bei", "ex boyfriend of x"]
+    ],
+    "He Laoliu": [
+      ["Zhang Jie's father", "colleague of x"], 
+      ["Zhang Jie's mother", "friend of x, helped by x"], 
+      ["Mu Bei", "helped by x, helper of x"], 
+      ["Neighbor Wang", "friend of x"]
+    ],
+    "Mu Bei": [
+      ["Zhang Jie", "romantic relationships with x, helped by x"], 
+      ["Zhang Jie's father", "friend of x, student of x"], 
+      ["Zhang Jie's mother", "helper of x, friend of x"], 
+      ["The girl who rejected Zhang Jie", "romantic relationships with x, ex romantic relationships with x"], 
+      ["Li Guofu", "ex girlfriend of x"], 
+      ["He Laoliu", "helped by x, helper of x"], 
+      ["Neighbor Wang", "acquaintance of x"]
+    ],
+    "Neighbor Wang": [
+      ["Zhang Jie", "friend of x"], 
+      ["Zhang Jie's father", "neighbour of x"], 
+      ["Zhang Jie's mother", "neighbour of x"], 
+      ["The girl who rejected Zhang Jie", "acquaintance of x"], 
+      ["Li Guofu", "business partner of x"], 
+      ["He Laoliu", "friend of x"], 
+      ["Mu Bei", "acquaintance of x"]
+    ]
+}

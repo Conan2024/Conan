@@ -1,0 +1,73 @@
+{
+    "Caotng Jushi": [
+      ["Fangfu", "adoptive father of x caotng jushi"], 
+      ["Fang Mian", "sibling of x caotng jushi"], 
+      ["Fang Xu", "friend of x caotng jushi, romantic relationships with caotng jushi of x"], 
+      ["Chen Zijing", "mentor of x caotng jushi"], 
+      ["Master Chen", "mentor of x caotng jushi"], 
+      ["Fang Xu's brother", "sibling of x caotng jushi"], 
+      ["Lang Zhong", "romantic relationships with fang xu"], 
+      ["Li Qinren", "husband of x fang xu"], 
+      ["Li Fu", "step mother of x caotng jushi"], 
+      ["Li Zhong", "son of x fang xu and caotng jushi"], 
+      ["Li Yan", "son of x fang xu and caotng jushi"], 
+      ["Chen Qian", "daughter of x master chen and caotng jushi"], 
+      ["Xiao Qian", "adopted daughter of x caotng jushi"], 
+      ["Fang Ye", "father of xiao qian"], 
+      ["Chen Fu Qianjin", "friend of x caotng jushi"]
+    ],
+    "Fangfu": [
+      ["Caotng Jushi", "adopted son of x fangfu"]
+    ],
+    "Fang Mian": [
+      ["Caotng Jushi", "sibling of x fang mian"], 
+      ["Fang Xu", "ex romantic relationships with fang mian"]
+    ],
+    "Fang Xu": [
+      ["Caotng Jushi", "friend of x fang xu, romantic relationships with fang xu"], 
+      ["Fang Mian", "ex romantic relationships with fang xu"], 
+      ["Lang Zhong", "romantic relationships with fang xu"], 
+      ["Li Qinren", "husband of x fang xu"], 
+      ["Li Zhong", "son of x fang xu and caotng jushi"], 
+      ["Li Yan", "son of x fang xu and caotng jushi"]
+    ],
+    "Li Fu": [
+      ["Caotng Jushi", "step mother of x caotng jushi"]
+    ],
+    "Lang Zhong": [
+      ["Fang Xu", "romantic relationships with lang zhong of x"], 
+      ["Caotng Jushi", "romantic relationships with lang zhong of x"]
+    ],
+    "Master Chen": [
+      ["Caotng Jushi", "mentor of x caotng jushi"], 
+      ["Chen Qian", "mother of x chen qian"]
+    ],
+    "Fang Xu's brother": [
+      ["Caotng Jushi", "sibling of x fang xu's brother"]
+    ],
+    "Chen Zijing": [
+      ["Caotng Jushi", "mentor of x caotng jushi"]
+    ],
+    "Li Zhong": [
+      ["Fang Xu", "son of x fang xu and caotng jushi"], 
+      ["Caotng Jushi", "son of x fang xu and caotng jushi"]
+    ],
+    "Li Yan": [
+      ["Fang Xu", "son of x fang xu and caotng jushi"], 
+      ["Caotng Jushi", "son of x fang xu and caotng jushi"]
+    ],
+    "Chen Qian": [
+      ["Master Chen", "daughter of x master chen and caotng jushi"], 
+      ["Caotng Jushi", "sibling of x chen qian"]
+    ],
+    "Xiao Qian": [
+      ["Caotng Jushi", "adopted daughter of x caotng jushi"], 
+      ["Fang Ye", "father of xiao qian"]
+    ],
+    "Fang Ye": [
+      ["Xiao Qian", "father of xiao qian"]
+    ],
+    "Chen Fu Qianjin": [
+      ["Caotng Jushi", "friend of x chen fu qianjin"]
+    ]
+}

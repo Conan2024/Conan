@@ -1,0 +1,76 @@
+{
+    "Madam Li": [
+      ["Fang Xu", "mother of x, fangfu's great money of x"], 
+      ["Fang Ye", "brother of x, bully of x"], 
+      ["Fang Mian", "sister of x, bully of x"], 
+      ["Li Zhong", "son of x, li fu's successor of x"], 
+      ["Li Yan", "son of x, weak and sick of x"], 
+      ["Lang Zhong", "lover of x, saved by madam li of x"], 
+      ["Chen Fu Qianjin", "daughter in law of x, married to li zhong of x"], 
+      ["Chen Zijing", "daughter in law's father of x, gave 18 dowry and one shouli of x"]
+    ],
+    "Fang Xu": [
+      ["Madam Li", "mother of x"], 
+      ["Fang Ye", "brother of x"], 
+      ["Fang Mian", "sister of x"], 
+      ["Lang Zhong", "lover of x"], 
+      ["Li Zhong", "son of x, li fu's successor of x"], 
+      ["Li Yan", "son of x, weak and sick of x"]
+    ],
+    "Fang Ye": [
+      ["Madam Li", "mother of x"], 
+      ["Fang Xu", "brother of x"], 
+      ["Fang Mian", "sister of x"], 
+      ["Li Zhong", "nephew of x"], 
+      ["Li Yan", "nephew of x"]
+    ],
+    "Fang Mian": [
+      ["Madam Li", "mother of x"], 
+      ["Fang Xu", "brother of x"], 
+      ["Fang Ye", "brother of x"], 
+      ["Li Zhong", "nephew of x"], 
+      ["Li Yan", "nephew of x"]
+    ],
+    "Li Zhong": [
+      ["Madam Li", "mother of x"], 
+      ["Fang Xu", "father of x"], 
+      ["Fang Ye", "uncle of x"], 
+      ["Fang Mian", "aunt of x"], 
+      ["Chen Fu Qianjin", "wife of x"]
+    ],
+    "Li Yan": [
+      ["Madam Li", "mother of x"], 
+      ["Fang Xu", "father of x"], 
+      ["Fang Ye", "uncle of x"], 
+      ["Fang Mian", "aunt of x"], 
+      ["Chen Fu Qianjin", "wife of x"]
+    ],
+    "Lang Zhong": [
+      ["Madam Li", "lover of x"], 
+      ["Fang Xu", "savior of x"]
+    ],
+    "Chen Fu Qianjin": [
+      ["Madam Li", "daughter in law of x"], 
+      ["Li Zhong", "husband of x"], 
+      ["Li Yan", "husband of x"]
+    ],
+    "Chen Zijing": [
+      ["Chen Fu Qianjin", "father of x"], 
+      ["Madam Li", "father in law of x"]
+    ],
+    "Fang Zhu": [
+      ["Madam Li", "drinking companion of x"], 
+      ["Li Fu", "master of x"]
+    ],
+    "Li Fu": [
+      ["Madam Li", "husband of x"], 
+      ["Fang Zhu", "servant of x"]
+    ],
+    "Wangye (Lord Li)": [
+      ["Madam Li", "husband of x"], 
+      ["Li Zhong", "son of x"]
+    ],
+    "Fangfu": [
+      ["Madam Li", "great money of x"]
+    ]
+}

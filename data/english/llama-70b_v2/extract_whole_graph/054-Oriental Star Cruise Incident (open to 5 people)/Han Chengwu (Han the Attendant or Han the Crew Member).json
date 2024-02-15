@@ -1,0 +1,27 @@
+{
+    "Han Chengwu": [
+      ["Liu Qi", "hate of x, abnormality of x"], 
+      ["Xiu Renjie", "impressed of x, talkative of x"], 
+      ["Lin Ruotong", "helped of x, quarrelsome of x"], 
+      ["Hong Zilian", "punished of x, unconvinced of x"], 
+      ["ZHANG WENYUAN", "knows of x, gun keeper of x"]
+    ],
+    "Liu Qi": [
+      ["Han Chengwu", "hated of x, commander of x"], 
+      ["ZHANG WENYUAN", "gun keeper of x, accomplice of x"]
+    ],
+    "Xiu Renjie": [
+      ["Han Chengwu", "impressed of x, talkative of x"]
+    ],
+    "Lin Ruotong": [
+      ["Han Chengwu", "helped of x, quarrelsome of x"], 
+      ["Liu Qi", "dyeing of x, angry of x"]
+    ],
+    "Hong Zilian": [
+      ["Han Chengwu", "punished of x, unconvinced of x"]
+    ],
+    "ZHANG WENYUAN": [
+      ["Liu Qi", "gun keeper of x, accomplice of x"], 
+      ["Han Chengwu", "knows of x, gun keeper of x"]
+    ]
+}

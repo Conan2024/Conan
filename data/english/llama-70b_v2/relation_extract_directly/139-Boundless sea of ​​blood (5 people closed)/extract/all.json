@@ -1,0 +1,33 @@
+{
+    "Zhuang Qingchun": [
+      ["Jia Meili", "friend of x, confidant of x"], 
+      ["Xiao Tiyu", "lover of x, accomplice of x"], 
+      ["Qin Laoda", "stepbrother of x, enemy of x"], 
+      ["Qin Expert", "stepfather of x, nemesis of x"]
+    ],
+    "Xiao Tiyu": [
+      ["Zhuang Qingchun", "lover of x, accomplice of x"], 
+      ["Jia Meili", "classmate of x, friend of x"]
+    ],
+    "Jia Meili": [
+      ["Zhuang Qingchun", "friend of x, confidant of x"], 
+      ["Xiao Tiyu", "classmate of x, friend of x"]
+    ],
+    "Qin Laoda": [
+      ["Zhuang Qingchun", "stepbrother of x, enemy of x"], 
+      ["Qin Expert", "father of x, master of x"]
+    ],
+    "Qin Expert": [
+      ["Zhuang Qingchun", "stepfather of x, nemesis of x"], 
+      ["Qin Laoda", "son of x, student of x"]
+    ],
+    "Jia Meili's mother": [
+      ["Jia Meili", "daughter of x"]
+    ],
+    "Qin Laoda's mother": [
+      ["Qin Laoda", "son of x"]
+    ],
+    "Private detective": [
+      ["Zhuang Qingchun", "employer of x"]
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Zheng Youhao": [
+      ["Qin Laoda", "friend of x, classmate of x"]
+    ],
+    "Qin Laoda": [
+      ["Zheng Youhao", "friend of x, classmate of x"], 
+      ["Jia Meili", "friend of x, classmate of x"], 
+      ["Wei Xiaodi", "friend of x, acquaintance of x"], 
+      ["Qin Expert", "acquaintance of x, classmate of x"], 
+      ["Mother", "friend of x, classmate of x"]
+    ],
+    "Jia Meili": [
+      ["Qin Laoda", "friend of x, classmate of x"], 
+      ["Wei Xiaodi", "friend of x, classmate of x"], 
+      ["Qin Expert", "acquaintance of x, classmate of x"], 
+      ["Mother", "wife of x, sister of x, daughter of x"]
+    ],
+    "Wei Xiaodi": [
+      ["Qin Laoda", "friend of x, acquaintance of x"], 
+      ["Jia Meili", "friend of x, classmate of x"], 
+      ["Qin Expert", "friend of x, acquaintance of x"], 
+      ["Mother", "sibling of x, friend of x"]
+    ],
+    "Qin Expert": [
+      ["Qin Laoda", "father of x, murderer of x"], 
+      ["Jia Meili", "acquaintance of x, classmate of x"], 
+      ["Wei Xiaodi", "father of x, mentor of x"], 
+      ["Mother", "wife of x, victim of x"]
+    ],
+    "Mother": [
+      ["Qin Laoda", "son of x, victim of x"], 
+      ["Jia Meili", "wife of x, sister of x, daughter of x"], 
+      ["Wei Xiaodi", "son of x, brother of x"], 
+      ["Qin Expert", "husband of x, killed by x"]
+    ]
+}

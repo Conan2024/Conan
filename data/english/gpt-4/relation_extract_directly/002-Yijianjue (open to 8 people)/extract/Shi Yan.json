@@ -1,0 +1,50 @@
+{
+    "Shi Yan": [
+        [
+            "Lady Safflower",
+            "student of x, revenge seeker towards x, secret keeper for x"
+        ],
+        [
+            "Du Zhong",
+            "murderer of x, avenger against x, usurper of x's creation"
+        ],
+        [
+            "Lu Ying",
+            "deceiver of x, quest companion of x"
+        ]
+    ],
+    "Lady Safflower": [
+        [
+            "Shi Yan",
+            "mentor of x, avenger's origin, victim by association through x"
+        ],
+        [
+            "Du Zhong",
+            "victim of x, ex-romantic relationships with x, betrayed by x"
+        ]
+    ],
+    "Du Zhong": [
+        [
+            "Lady Safflower",
+            "betrayer of x, ex-romantic relationships with x"
+        ],
+        [
+            "Shi Yan",
+            "victim of x, deceived by x, betrayer to x"
+        ],
+        [
+            "Lu Ying",
+            "mentor of x, superior of x"
+        ]
+    ],
+    "Lu Ying": [
+        [
+            "Shi Yan",
+            "acquaintance of x, information receiver from x"
+        ],
+        [
+            "Du Zhong",
+            "student of x, subordinate of x"
+        ]
+    ]
+}

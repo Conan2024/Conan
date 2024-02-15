@@ -1,0 +1,42 @@
+{
+    "Feng": [
+      ["Jue Ming", "acquaintance of x, business partner of x"], 
+      ["Lu Ying", "adversary of x, enemy of x, rival of x"], 
+      ["Saint of Thieves", "adversary of x"], 
+      ["Zi Su", "perpetrator of x, victim of x"]
+    ],
+    "Jue Ming": [
+      ["Feng", "acquaintance of x, business partner of x"], 
+      ["Lu Ying", "acquaintance of x, colleague of x"], 
+      ["Mysterious Ice Sect's Messenger", "acquaintance of x"], 
+      ["Saint of Thieves", "perpetrator of x, adversary of x"], 
+      ["Zi Su", "acquaintance of x"]
+    ],
+    "Lu Ying": [
+      ["Feng", "adversary of x, enemy of x, rival of x"], 
+      ["Jue Ming", "acquaintance of x, colleague of x"], 
+      ["Mysterious Ice Sect's Messenger", "acquaintance of x"], 
+      ["Saint of Thieves", "acquaintance of x"], 
+      ["Zi Su", "acquaintance of x, suspect of x"]
+    ],
+    "Mysterious Ice Sect's Messenger": [
+      ["Jue Ming", "acquaintance of x"], 
+      ["Lu Ying", "acquaintance of x"], 
+      ["Saint of Thieves", "acquaintance of x"], 
+      ["Zi Su", "acquaintance of x, suspect of x"]
+    ],
+    "Saint of Thieves": [
+      ["Feng", "adversary of x"], 
+      ["Jue Ming", "perpetrator of x, adversary of x"], 
+      ["Lu Ying", "acquaintance of x"], 
+      ["Mysterious Ice Sect's Messenger", "acquaintance of x"], 
+      ["Zi Su", "perpetrator of x, victim of x"]
+    ],
+    "Zi Su": [
+      ["Feng", "perpetrator of x, victim of x"], 
+      ["Jue Ming", "acquaintance of x"], 
+      ["Lu Ying", "acquaintance of x, suspect of x"], 
+      ["Mysterious Ice Sect's Messenger", "acquaintance of x, suspect of x"], 
+      ["Saint of Thieves", "perpetrator of x, victim of x"]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "Xiting": [
+      ["Gu Chumeng", "wife of x"], 
+      ["Lan Rui", "friend of x"], 
+      ["Xinger", "friend of x"], 
+      ["Minxi", "friend/savior of x"], 
+      ["Yang Shuixun", "father in law of x"], 
+      ["Zhang Fanghao", "brother in law of x"]
+    ],
+    "Gu Chumeng": [
+      ["Xiting", "husband of x"]
+    ],
+    "Lan Rui": [
+      ["Xiting", "friend of x"], 
+      ["Minxi", "friend/savior of x"], 
+      ["Zhang Fanghao", "brother of x"]
+    ],
+    "Xinger": [
+      ["Xiting", "friend of x"], 
+      ["Minxi", "friend/savior of x"]
+    ],
+    "Minxi": [
+      ["Xiting", "friend/savior of x"], 
+      ["Lan Rui", "friend/savior of x"], 
+      ["Zhang Fanghao", "brother of x"], 
+      ["Yang Shuixun", "father of x"]
+    ],
+    "Yang Shuixun": [
+      ["Minxi", "daughter of x"], 
+      ["Zhang Fanghao", "son of x"]
+    ],
+    "Zhang Fanghao": [
+      ["Minxi", "sister of x"], 
+      ["Yang Shuixun", "father of x"]
+    ],
+    "Shen Wusheng": [
+      ["Xiting", "helper of x"], 
+      ["Minxi", "friend of x"]
+    ]
+}

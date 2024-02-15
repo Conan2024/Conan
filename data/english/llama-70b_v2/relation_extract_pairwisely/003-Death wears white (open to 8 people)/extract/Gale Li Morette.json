@@ -1,0 +1,44 @@
+{
+    "Drake Li Morette": [
+      ["Head NURSE COSTA", "lover of x, father of x child"], 
+      ["Leine Carter", "lover of x, father of x child"], 
+      ["Father Tom", "lover and real father of x child, relationship 1: lover of x, relationship 2: real father of x child"], 
+      ["Hans Li Morette", "lover of x, father of x child"], 
+      ["Jim Mason", "lover of x, future father of x"], 
+      ["Hans Li Morette", "head nurse costa of x"]
+    ],
+    "Head NURSE COSTA": [
+      ["Drake Li Morette", "defended her case of x, acquaintance of x"], 
+      ["Leine Carter", "relationship 1: acquaintance of x, relationship 2: suspect of x"], 
+      ["Father Tom", "relationship 1: defendant's lawyer of x, relationship 2: acquaintance of x"], 
+      ["Hans Li Morette", "drake li morette of x"], 
+      ["Jim Mason", "relationship 1: defendant and nurserelationship 2: acquaintance of x"]
+    ],
+    "Leine Carter": [
+      ["Drake Li Morette", "lover of x, mother of x child"], 
+      ["Head NURSE COSTA", "relationship 1: acquaintance of x, relationship 2: suspect of x"], 
+      ["Father Tom", "relationship 1: acquaintance of x, relationship 2: suspect of x"], 
+      ["Hans Li Morette", "drake li morette of x, head nurse costa of x, father tom of x"], 
+      ["Jim Mason", "same person as x (different reference), same person as x (different identity)"]
+    ],
+    "Father Tom": [
+      ["Drake Li Morette", "relationship 1: lover of x, relationship 2: real father of x child"], 
+      ["Head NURSE COSTA", "relationship 1: defendant's lawyer of x, relationship 2: acquaintance of x"], 
+      ["Leine Carter", "relationship 1: acquaintance of x, relationship 2: suspect of x"], 
+      ["Hans Li Morette", "relationship 1: murderer and victim of x, relationship 2: suspect and investigator of x"], 
+      ["Jim Mason", "relationship 1: father tom is jim mason's doctor of x, and jim mason is father tom's patient of x, relationship 2: father tom is jim mason's potential murderer of x, and jim mason is father tom's victim of x"]
+    ],
+    "Hans Li Morette": [
+      ["Drake Li Morette", "brother of x, husband of x"], 
+      ["Head NURSE COSTA", "drake li morette of x"], 
+      ["Leine Carter", "drake li morette of x, jim mason of x"], 
+      ["Father Tom", "relationship 1: murderer and victim of x, relationship 2: suspect and investigator of x"], 
+      ["Jim Mason", "drake li morette of x"]
+    ],
+    "Jim Mason": [
+      ["Drake Li Morette", "future son of x, victim of x"], 
+      ["Head NURSE COSTA", "relationship 1: patient and doctorrelationship 2: acquaintance of x"], 
+      ["Leine Carter", "victim of x, killed by x"], 
+      ["Father Tom", "relationship 1: jim mason is father tom's patient of x, and father tom is jim mason's doctor of x, relationship 2: jim mason is father tom's victim of x, and father tom is jim mason's potential murderer of x"]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "Ge Yueluo": [
+      ["Mrs. Zhang", "sister of x"], 
+      ["Yu Yancheng", "acquaintance of x"], 
+      ["Zhi Jun", "niece of x"], 
+      ["Xue Yufan", "acquaintance of x"], 
+      ["Lü Lusheng", "enemy of x"], 
+      ["Xue Dacai", "enemy of x"]
+    ],
+    "Mrs. Zhang": [
+      ["Ge Yueluo", "sister of x"], 
+      ["Yu Yancheng", "acquaintance of x"], 
+      ["Zhi Jun", "niece of x"], 
+      ["Le Wan", "subordinate of x"], 
+      ["Xue Yufan", "acquaintance of x"], 
+      ["Lü Lusheng", "enemy of x"], 
+      ["Xue Dacai", "enemy of x"]
+    ],
+    "Yu Yancheng": [
+      ["Ge Yueluo", "acquaintance of x"], 
+      ["Mrs. Zhang", "acquaintance of x"], 
+      ["Zhi Jun", "niece of x"], 
+      ["Le Wan", "subordinate of x"], 
+      ["Xue Yufan", "acquaintance of x"], 
+      ["Lü Lusheng", "enemy of x"], 
+      ["Xue Dacai", "enemy of x"]
+    ],
+    "Zhi Jun": [
+      ["Ge Yueluo", "aunt of x"], 
+      ["Mrs. Zhang", "niece of x"], 
+      ["Yu Yancheng", "acquaintance of x"], 
+      ["Le Wan", "subordinate of x"], 
+      ["Xue Yufan", "acquaintance of x"], 
+      ["Lü Lusheng", "enemy of x"], 
+      ["Xue Dacai", "enemy of x"]
+    ],
+    "Le Wan": [
+      ["Yu Yancheng", "subordinate of x, acquaintance of x"], 
+      ["Zhi Jun", "niece of x"], 
+      ["Xue Yufan", "acquaintance of x"], 
+      ["Lü Lusheng", "enemy of x"], 
+      ["Xue Dacai", "enemy of x"]
+    ],
+    "Xue Yufan": [
+      ["Ge Yueluo", "acquaintance of x"], 
+      ["Mrs. Zhang", "acquaintance of x"], 
+      ["Yu Yancheng", "acquaintance of x"], 
+      ["Le Wan", "subordinate of x"], 
+      ["Lü Lusheng", "enemy of x"], 
+      ["Xue Dacai", "enemy of x"]
+    ],
+    "Lü Lusheng": [
+      ["Ge Yueluo", "enemy of x"], 
+      ["Mrs. Zhang", "enemy of x"], 
+      ["Yu Yancheng", "enemy of x"], 
+      ["Zhi Jun", "niece of x"], 
+      ["Le Wan", "enemy of x"], 
+      ["Xue Yufan", "enemy of x"], 
+      ["Xue Dacai", "enemy of x"]
+    ],
+    "Xue Dacai": [
+      ["Ge Yueluo", "enemy of x"], 
+      ["Mrs. Zhang", "enemy of x"], 
+      ["Yu Yancheng", "enemy of x"], 
+      ["Zhi Jun", "niece of x"], 
+      ["Le Wan", "enemy of x"], 
+      ["Xue Yufan", "enemy of x"], 
+      ["Lü Lusheng", "enemy of x"]
+    ]
+}

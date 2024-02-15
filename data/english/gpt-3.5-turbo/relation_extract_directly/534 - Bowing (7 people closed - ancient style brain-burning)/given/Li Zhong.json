@@ -1,0 +1,66 @@
+{
+    "Li Zhong": [
+        [
+            "Li Qinren",
+            "father of x"
+        ],
+        [
+            "Madam Li or Li family",
+            "mother of x"
+        ],
+        [
+            "Li Yan",
+            "twin brother of x"
+        ],
+        [
+            "Chen Qian",
+            "wife of x"
+        ],
+        [
+            "Chen Zijing",
+            "father-in-law of x"
+        ]
+    ],
+    "Li Qinren": [
+        [
+            "Li Zhong",
+            "father of x"
+        ],
+        [
+            "Madam Li or Li family",
+            "husband of x"
+        ]
+    ],
+    "Madam Li or Li family": [
+        [
+            "Li Zhong",
+            "mother of x"
+        ],
+        [
+            "Li Qinren",
+            "wife of x"
+        ]
+    ],
+    "Li Yan": [
+        [
+            "Li Zhong",
+            "twin brother of x"
+        ]
+    ],
+    "Chen Qian": [
+        [
+            "Li Zhong",
+            "wife of x"
+        ],
+        [
+            "Chen Zijing",
+            "father of x"
+        ]
+    ],
+    "Chen Zijing": [
+        [
+            "Chen Qian",
+            "father-in-law of x"
+        ]
+    ]
+}

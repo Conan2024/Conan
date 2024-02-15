@@ -1,0 +1,62 @@
+{
+    "Hu Investigate": [
+        [
+            "Village Chief Wang",
+            "informant of x, information receiver from x"
+        ],
+        [
+            "Officer Li",
+            "acquaintance of x"
+        ],
+        [
+            "Zhao Cishan",
+            "adversary of x, victim of x, perpetrator of x"
+        ],
+        [
+            "Hu Investigate's two sons",
+            "child of x"
+        ],
+        [
+            "Zhang Villager",
+            "neighbour of x"
+        ]
+    ],
+    "Village Chief Wang": [
+        [
+            "Hu Investigate",
+            "informant of x, information receiver from x"
+        ]
+    ],
+    "Officer Li": [
+        [
+            "Hu Investigate",
+            "acquaintance of x"
+        ]
+    ],
+    "Zhao Cishan": [
+        [
+            "Hu Investigate",
+            "adversary of x, perpetrator of x"
+        ],
+        [
+            "Hu Investigate's two sons",
+            "perpetrator of x"
+        ]
+    ],
+    "Hu Investigate's two sons": [
+        [
+            "Hu Investigate",
+            "father of x"
+        ],
+        [
+            "Zhao Cishan",
+            "victim of x"
+        ]
+    ],
+    "Zhang Villager": [
+        [
+            "Hu Investigate",
+            "neighbour of x"
+        ]
+    ]
+}

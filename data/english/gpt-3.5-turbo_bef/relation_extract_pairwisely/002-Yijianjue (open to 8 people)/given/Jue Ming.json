@@ -1,0 +1,30 @@
+{
+    "Jue Ming": [
+      ["Lu Ying", "acquaintance of x, helper of x"], 
+      ["Feng", "helper of x"], 
+      ["Zi Su", "informant of x, information receiver from x"]
+    ],
+    "Mysterious Ice Sect's Messenger": [
+      ["Lu Ying", "deceiver of x, information receiver from x"], 
+      ["Feng", "information receiver from x, helper of x"], 
+      ["Zi Su", "helper of x"]
+    ],
+    "Lu Ying": [
+      ["Jue Ming", "acquaintance of x, helper of x"], 
+      ["Mysterious Ice Sect's Messenger", "deceived by x, informant of x"], 
+      ["Feng", "employee of x, helper of x"]
+    ],
+    "Feng": [
+      ["Jue Ming", "helped by x"], 
+      ["Saint of Thieves", "friend of x, deceived by x"], 
+      ["Mysterious Ice Sect's Messenger", "information receiver from x, helper of x"], 
+      ["Lu Ying", "employer of x, master of x"]
+    ],
+    "Zi Su": [
+      ["Jue Ming", "friend of x"]
+    ],
+    "Saint of Thieves": [
+      ["Lu Ying", "acquaintance of x"], 
+      ["Feng", "friend of x"]
+    ]
+}

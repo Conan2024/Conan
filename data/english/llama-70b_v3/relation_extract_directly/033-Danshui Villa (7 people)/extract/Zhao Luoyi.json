@@ -1,0 +1,49 @@
+{
+    "Zhao Luoyi": [
+      ["Zhao Wanlei", "father of x, mentor of x"], 
+      ["Zhao Men Li Shi", "mother of x, mentor of x"], 
+      ["Fang Shuangji", "friend of x, classmate of x"], 
+      ["FENG ZHU", "friend of x, classmate of x"], 
+      ["Qi Yue", "friend of x, classmate of x"], 
+      ["Yin Shaoming", "acquaintance of x"], 
+      ["Zhao An", "employee of x, subordinate of x"], 
+      ["Zhao Qiuer", "sister of x, friend of x"], 
+      ["Zhao Wei", "brother of x, acquaintance of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Zhao Luoyi", "daughter of x, student of x"], 
+      ["Zhao Men Li Shi", "wife of x, mentor of x"]
+    ],
+    "Zhao Men Li Shi": [
+      ["Zhao Luoyi", "daughter of x, student of x"], 
+      ["Zhao Wanlei", "husband of x, mentor of x"]
+    ],
+    "Fang Shuangji": [
+      ["Zhao Luoyi", "friend of x, classmate of x"], 
+      ["FENG ZHU", "friend of x, classmate of x"]
+    ],
+    "FENG ZHU": [
+      ["Zhao Luoyi", "friend of x, classmate of x"], 
+      ["Fang Shuangji", "friend of x, classmate of x"]
+    ],
+    "Qi Yue": [
+      ["Zhao Luoyi", "friend of x, classmate of x"]
+    ],
+    "Yin Shaoming": [
+      ["Zhao Luoyi", "acquaintance of x"]
+    ],
+    "Zhao An": [
+      ["Zhao Luoyi", "employee of x, subordinate of x"]
+    ],
+    "Zhao Qiuer": [
+      ["Zhao Luoyi", "sister of x, friend of x"], 
+      ["Zhao Wanlei", "daughter of x, student of x"]
+    ],
+    "Zhao Wei": [
+      ["Zhao Luoyi", "brother of x, acquaintance of x"]
+    ],
+    "Guo Wangshan": [
+      ["Zhao Luoyi", "acquaintance of x"], 
+      ["Qi Yue", "friend of x"]
+    ]
+}

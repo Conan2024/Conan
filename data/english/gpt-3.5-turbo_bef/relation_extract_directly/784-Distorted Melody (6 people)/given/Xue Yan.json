@@ -1,0 +1,70 @@
+{
+    "Luo Xueyan": [
+      ["Luo Wanli", "father of x"], 
+      ["Luo Younuo", "sibling of x"], 
+      ["Mrs. Ruan", "landlord of x"], 
+      ["Qi Gufei", "informant of x"], 
+      ["Zhaonan", "admirer of x"], 
+      ["Zhaonan", "student of x"], 
+      ["Hei Li", "student of x"]
+    ],
+    "Luo Wanli": [
+      ["Luo Xueyan", "child of x"], 
+      ["Luo Younuo", "sibling of x"], 
+      ["Mrs. Ruan", "landlord of x"], 
+      ["Qi Gufei", "student of x"]
+    ],
+    "Mrs. Ruan": [
+      ["Luo Xueyan", "tenant of x"], 
+      ["Luo Wanli", "tenant of x"], 
+      ["Luo Younuo", "tenant of x"], 
+      ["Wang Zimo", "customer of x"], 
+      ["Zhaonan", "customer of x"], 
+      ["Wangdi", "customer of x"], 
+      ["Guilang", "customer of x"], 
+      ["Hei Li", "customer of x"], 
+      ["Qi Gufei", "customer of x"], 
+      ["Zhaonan", "tenant of x"], 
+      ["Hei Li", "tenant of x"]
+    ],
+    "Wang Zimo": [
+      ["Hei Li", "business partner of x"], 
+      ["Zhaonan", "business partner of x"]
+    ],
+    "Zhaonan": [
+      ["Mrs. Ruan", "customer of x"], 
+      ["Qi Gufei", "informant of x"], 
+      ["Hei Li", "informant of x"]
+    ],
+    "Wangdi": [
+      ["Mrs. Ruan", "customer of x"], 
+      ["Qi Gufei", "informant of x"], 
+      ["Zhaonan", "informant of x"]
+    ],
+    "Guilang": [
+      ["Mrs. Ruan", "customer of x"], 
+      ["Qi Gufei", "informant of x"], 
+      ["Wang Zimo", "informant of x"]
+    ],
+    "Hei Li": [
+      ["Mrs. Ruan", "customer of x"], 
+      ["Qi Gufei", "informant of x"], 
+      ["Wangdi", "informant of x"]
+    ],
+    "Qi Gufei": [
+      ["Luo Xueyan", "informant of x"], 
+      ["Luo Wanli", "student of x"], 
+      ["Mrs. Ruan", "customer of x"]
+    ],
+    "Luo Younuo": [
+      ["Luo Xueyan", "sibling of x"], 
+      ["Luo Wanli", "sibling of x"], 
+      ["Mrs. Ruan", "tenant of x"], 
+      ["Wang Zimo", "customer of x"], 
+      ["Zhaonan", "customer of x"], 
+      ["Wangdi", "customer of x"], 
+      ["Guilang", "customer of x"], 
+      ["Hei Li", "customer of x"], 
+      ["Qi Gufei", "customer of x"]
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Worker Wang": [
+      ["FIRST MATE ZHANG", "superior of x worker wang, extramarital affair with worker wang"], 
+      ["Ship Doctor Ling", "child of x worker wang"], 
+      ["Shipyard worker Wang", "same person as worker wang (different identity) of x"]
+    ],
+    "Wang": [
+      ["Shipyard worker Wang", "same person as wang (different identity) of x"]
+    ],
+    "FIRST MATE ZHANG": [
+      ["Worker Wang", "subordinate of x first mate zhang, romantic relationships with worker wang of x"], 
+      ["Boss Yang", "business partner of x first mate zhang"], 
+      ["Naive Hen", "acquaintance of x first mate zhang"], 
+      ["Shipyard worker Wang", "extramarital affair with first mate zhang"]
+    ],
+    "Ship Doctor Ling": [
+      ["Worker Wang", "parent of x ship doctor ling"]
+    ],
+    "Boss Yang": [
+      ["FIRST MATE ZHANG", "business partner of x boss yang"], 
+      ["Wang", "employer of x boss yang"], 
+      ["Naive Hen", "acquaintance of x boss yang"]
+    ],
+    "Naive Hen": [
+      ["FIRST MATE ZHANG", "acquaintance of x naive hen"], 
+      ["Boss Yang", "acquaintance of x naive hen"]
+    ]
+}

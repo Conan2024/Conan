@@ -1,0 +1,14 @@
+{
+    "Ling Xiao": [
+      ["Master", "student of x"], 
+      ["Feng", "information receiver from x"]
+    ],
+    "Master": [
+      ["Ling Xiao", "teacher of x"], 
+      ["Feng", "acquaintance of x"]
+    ],
+    "Feng": [
+      ["Ling Xiao", "informant of x"], 
+      ["Master", "acquaintance of x"]
+    ]
+}

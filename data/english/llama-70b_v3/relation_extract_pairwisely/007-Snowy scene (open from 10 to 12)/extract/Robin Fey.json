@@ -1,0 +1,110 @@
+{
+    "Robin Fey": [
+      ["Perry", "friend of x, colleague of x"], 
+      ["Daniel", "friend of x, colleague of x, acquaintance of x"], 
+      ["Marina", "friend of x, colleague of x"], 
+      ["Jacqueline", "acquaintance of x, suspicious of x"], 
+      ["Harold", "friend of x, colleague of x"], 
+      ["Jonathan", "friend of x, suspect of x"], 
+      ["Lucy Harrison", "friend of x, mentor of x"], 
+      ["Amy Morgan", "friend of x"], 
+      ["Max", "friend of x"]
+    ],
+    "Perry": [
+      ["Robin Fey", "friend of x, colleague of x"], 
+      ["Daniel", "friend of x, suspect of x"], 
+      ["Marina", "friend of x, acquaintance of x"], 
+      ["Jacqueline", "friend of x, adversary of x"], 
+      ["Harold", "friend of x, adversary of x"], 
+      ["Jonathan", "friend of x, suspect of x"], 
+      ["Lucy Harrison", "friend of x, mentor of x"], 
+      ["Amy Morgan", "friend of x, business partner of x"], 
+      ["Max", "friend of x, colleague of x"]
+    ],
+    "Daniel": [
+      ["Robin Fey", "friend of x, colleague of x, acquaintance of x"], 
+      ["Perry", "friend of x"], 
+      ["Marina", "friend of x"], 
+      ["Jacqueline", "friend of x"], 
+      ["Harold", "friend of x, colleague of x"], 
+      ["Jonathan", "friend of x, colleague of x"], 
+      ["Lucy Harrison", "friend of x, mentor of x"], 
+      ["Amy Morgan", "friend of x"], 
+      ["Max", "friend of x, suspect of x"]
+    ],
+    "Marina": [
+      ["Robin Fey", "friend of x, colleague of x"], 
+      ["Perry", "friend of x, acquaintance of x"], 
+      ["Daniel", "friend of x, lover of x"], 
+      ["Jacqueline", "rival of x, adversary of x"], 
+      ["Harold", "wife of x, extramarital affair with x, romantic relationships with x, ex romantic relationships with x"], 
+      ["Jonathan", "husband of x, extramarital affair with x"], 
+      ["Lucy Harrison", "mother of x, sibling of x"], 
+      ["Amy Morgan", "co wives of x"], 
+      ["Max", "husband of x, ex romantic relationships with x, co wives of x"]
+    ],
+    "Jacqueline": [
+      ["Robin Fey", "acquaintance of x, suspicious of x"], 
+      ["Perry", "friend of x, adversary of x"], 
+      ["Daniel", "friend of x, suspect of x"], 
+      ["Marina", "rival of x, adversary of x"], 
+      ["Harold", "wife of x, extramarital affair with x, romantic relationships with x, co wives of x"], 
+      ["Jonathan", "sister in law of x, adversary of x"], 
+      ["Lucy Harrison", "rival of x, suspect of x"], 
+      ["Amy Morgan", "rival of x, enemy of x"], 
+      ["Max", "rival of x, adversary of x"]
+    ],
+    "Harold": [
+      ["Robin Fey", "friend of x, colleague of x"], 
+      ["Perry", "friend of x, adversary of x"], 
+      ["Daniel", "friend of x, colleague of x"], 
+      ["Marina", "husband of x, extramarital affair with x, romantic relationships with x, ex romantic relationships with x"], 
+      ["Jacqueline", "husband of x, extramarital affair with x, romantic relationships with x, co wives of x"], 
+      ["Jonathan", "son of x"], 
+      ["Lucy Harrison", "father of x, child of x"], 
+      ["Amy Morgan", "husband of x, ex romantic relationships with x"]
+    ],
+    "Jonathan": [
+      ["Robin Fey", "friend of x, suspect of x"], 
+      ["Perry", "friend of x, suspect of x"], 
+      ["Daniel", "son of x, friend of x"], 
+      ["Marina", "same person as x (different reference), son of x"], 
+      ["Jacqueline", "brother in law of x, suspect of x"], 
+      ["Harold", "son of x"], 
+      ["Lucy Harrison", "son of x, dislike of x"], 
+      ["Amy Morgan", "son of x, dislike of x"], 
+      ["Max", "son of x"]
+    ],
+    "Lucy Harrison": [
+      ["Robin Fey", "friend of x"], 
+      ["Perry", "friend of x"], 
+      ["Daniel", "friend of x"], 
+      ["Marina", "daughter of x, sister of x"], 
+      ["Jacqueline", "rival of x, suspect of x"], 
+      ["Harold", "daughter of x, sibling of x"], 
+      ["Jonathan", "daughter of x, disliked by x"], 
+      ["Amy Morgan", "friend of x"], 
+      ["Max", "friend of x"]
+    ],
+    "Amy Morgan": [
+      ["Robin Fey", "friend of x"], 
+      ["Perry", "friend of x, business partner of x"], 
+      ["Daniel", "friend of x"], 
+      ["Marina", "same person as x (different reference), same person as x (different identity)"], 
+      ["Jacqueline", "rival of x, enemy of x"], 
+      ["Harold", "wife of x, ex romantic relationships with x"], 
+      ["Jonathan", "wife of x, suspicious of x"], 
+      ["Lucy Harrison", "friend of x"], 
+      ["Max", "friend of x"]
+    ],
+    "Max": [
+      ["Robin Fey", "friend of x"], 
+      ["Perry", "friend of x, colleague of x"], 
+      ["Daniel", "friend of x, suspect of x"], 
+      ["Marina", "husband of x, ex romantic relationships with x, co wives of x"], 
+      ["Jacqueline", "rival of x, adversary of x"], 
+      ["Jonathan", "father of x, husband of x"], 
+      ["Lucy Harrison", "friend of x"], 
+      ["Amy Morgan", "friend of x"]
+    ]
+}

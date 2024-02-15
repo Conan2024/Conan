@@ -1,0 +1,39 @@
+{
+    "Madam Li or Li Family": [
+      ["Fang Xu", "personal story prelude of x"], 
+      ["Fang Ye", "brother of x"], 
+      ["Fang Mian", "sister of x"], 
+      ["Adopted Boy", "adopted brother of x"], 
+      ["Lang Zhong", "best confidant of x"], 
+      ["Li Fu", "husband of x"], 
+      ["Li Zhong", "eldest son of x"], 
+      ["Li Yan", "second son of x"], 
+      ["Fang Zhu", "father of x"], 
+      ["Chen Fu Qianjin", "daughter in law of x"]
+    ],
+    "Fang Zhu": [
+      ["Madam Li or Li Family", "same person as x (different reference)"], 
+      ["Wangye (Prince or Lord)", "acquaintance of x"]
+    ],
+    "Wangye (Prince or Lord)": [
+      ["Fang Zhu", "acquaintance of x"], 
+      ["Li Fu", "master of x"]
+    ],
+    "Li Fu": [
+      ["Madam Li or Li Family", "husband of x"], 
+      ["Fang Zhu", "master of x"], 
+      ["Wangye (Prince or Lord)", "master of x"]
+    ],
+    "Li Zhong": [
+      ["Madam Li or Li Family", "son of x"], 
+      ["Li Fu", "father of x"]
+    ],
+    "Li Yan": [
+      ["Madam Li or Li Family", "son of x"], 
+      ["Li Fu", "father of x"]
+    ],
+    "Chen Fu Qianjin": [
+      ["Madam Li or Li Family", "daughter in law of x"], 
+      ["Li Zhong", "wife of x"]
+    ]
+}

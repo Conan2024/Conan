@@ -1,0 +1,47 @@
+{
+    "Hu Renyu": [
+      ["Tian Hongjiao", "fiancee of x, wife of x"], 
+      ["Yao Changshou", "rival of x, enemy of x, murderer of x"], 
+      ["Fang Chengshan", "acquaintance of x, friend of x, victim of x"]
+    ],
+    "Tian Hongjiao": [
+      ["Hu Renyu", "fiancee of x, wife of x"], 
+      ["Yao Changshou", "husband of x, rival of x"]
+    ],
+    "Yao Changshou": [
+      ["Hu Renyu", "rival of x, enemy of x, murderer of x"], 
+      ["Tian Hongjiao", "husband of x, rival of x"]
+    ],
+    "Fang Chengshan": [
+      ["Hu Renyu", "acquaintance of x, friend of x, victim of x"], 
+      ["Yao Changshou", "acquaintance of x"]
+    ],
+    "Steward Du": [
+      ["Hu Renyu", "acquaintance of x, employer of x"], 
+      ["Fang Chengshan", "acquaintance of x"]
+    ],
+    "Yu Beichen": [
+      ["Hu Renyu", "acquaintance of x, colleague of x"]
+    ],
+    "Li Guangsheng": [
+      ["Hu Renyu", "brother of x, friend of x"]
+    ],
+    "Li Kuansheng": [
+      ["Hu Renyu", "brother of x, friend of x"]
+    ],
+    "Long-haired Girl": [
+      ["Hu Renyu", "acquaintance of x, colleague of x"]
+    ],
+    "Suzhou Girl": [
+      ["Hu Renyu", "acquaintance of x, colleague of x"]
+    ],
+    "White-headed Snake": [
+      ["Hu Renyu", "acquaintance of x, business partner of x"]
+    ],
+    "Fair-Skinned Youth": [
+      ["Hu Renyu", "acquaintance of x"]
+    ],
+    "Short-Han Woman": [
+      ["Hu Renyu", "acquaintance of x"]
+    ]
+}

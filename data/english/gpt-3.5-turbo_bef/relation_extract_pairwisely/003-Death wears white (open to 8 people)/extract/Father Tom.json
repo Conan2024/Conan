@@ -1,0 +1,50 @@
+{
+    "You (Tom)": [
+      ["Hans Li Morette", "romantic relationships with x"], 
+      ["Tony", "friend of x, helper of x"], 
+      ["Drake Li Morette", "informant of x, information receiver from x"], 
+      ["Dean Berkeley", "friend of x"]
+    ],
+    "Dr. Paloski": [
+      ["Hans Li Morette", "liked by x, jealous of x"], 
+      ["Tony", "friend of x"], 
+      ["Drake Li Morette", "mentor of x"], 
+      ["Dean Berkeley", "adversary of x"]
+    ],
+    "Hans Li Morette": [
+      ["You (Tom)", "business partner of x"], 
+      ["Dr. Paloski", "hated by x"], 
+      ["Frank", "helper of x, secret lover of x"], 
+      ["Tony", "brother of x"], 
+      ["Drake Li Morette", "brother of x"], 
+      ["Dean Berkeley", "doctor of x"]
+    ],
+    "Frank": [
+      ["Hans Li Morette", "employer of x"], 
+      ["Drake Li Morette", "patient of x"], 
+      ["Dean Berkeley", "acquaintance of x"]
+    ],
+    "Tony": [
+      ["You (Tom)", "patient of x"], 
+      ["Dr. Paloski", "friend of x"], 
+      ["Hans Li Morette", "brother of x"], 
+      ["Drake Li Morette", "friend of x"], 
+      ["Dean Berkeley", "patient of x"]
+    ],
+    "Drake Li Morette": [
+      ["You (Tom)", "doctor of x"], 
+      ["Dr. Paloski", "patient of x"], 
+      ["Hans Li Morette", "brother of x"], 
+      ["Frank", "doctor of x"], 
+      ["Tony", "patient of x"], 
+      ["Dean Berkeley", "doctor of x"]
+    ],
+    "Dean Berkeley": [
+      ["You (Tom)", "acquaintance of x"], 
+      ["Dr. Paloski", "adversary of x"], 
+      ["Hans Li Morette", "acquaintance of x"], 
+      ["Frank", "acquaintance of x"], 
+      ["Tony", "doctor of x, information receiver from x"], 
+      ["Drake Li Morette", "patient of x"]
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "Gu Qing": [
+      ["Gu Yu", "sibling of x"], 
+      ["Gu Minghe", "father of x"], 
+      ["Lin Xi", "friend of x"], 
+      ["Su Yang", "romantic relationships with x, dislike of x"], 
+      ["Lin Tong", "friend of x"], 
+      ["Lin Yang", "friend of x, manipulator of x"], 
+      ["Lin Weiren", "friend of x"]
+    ],
+    "Gu Yu": [
+      ["Gu Qing", "sibling of x"], 
+      ["Gu Minghe", "son of x"], 
+      ["Lin Xi", "friend of x"], 
+      ["Su Yang", "brother of x"], 
+      ["Lin Xi", "friend of x"], 
+      ["Lin Yang", "friend of x"], 
+      ["Lin Weiren", "friend of x"]
+    ],
+    "Gu Minghe": [
+      ["Gu Qing", "child of x"], 
+      ["Gu Yu", "father of x"], 
+      ["Lin Xi", "friend of x, mentor of x"], 
+      ["Su Yang", "husband of x"], 
+      ["Lin Tong", "romantic relationships with x"], 
+      ["Lin Yang", "colleague of x, employee of x"], 
+      ["Lin Weiren", "employer of x"]
+    ],
+    "Lin Xi": [
+      ["Gu Qing", "friend of x"], 
+      ["Gu Minghe", "friend of x, student of x"], 
+      ["Su Yang", "romantic relationships with x"], 
+      ["Lin Tong", "friend of x, same person as x (different identity)"], 
+      ["Lin Yang", "friend of x"], 
+      ["Lin Weiren", "friend of x"]
+    ],
+    "Su Yang": [
+      ["Gu Qing", "romantic relationships with x"], 
+      ["Gu Yu", "brother of x"], 
+      ["Gu Minghe", "wife of x"], 
+      ["Lin Xi", "romantic relationships with x"], 
+      ["Lin Tong", "extramarital affair with x"], 
+      ["Lin Yang", "friend of x"], 
+      ["Lin Weiren", "doctor of x"]
+    ],
+    "Lin Tong": [
+      ["Gu Qing", "acquaintance of x"], 
+      ["Gu Yu", "brother of x"], 
+      ["Gu Minghe", "extramarital affair with x"], 
+      ["Lin Xi", "friend of x, same person as x (different identity)"], 
+      ["Su Yang", "extramarital affair with x"], 
+      ["Lin Yang", "romantic relationships with x"], 
+      ["Lin Weiren", "father of x"]
+    ],
+    "Lin Yang": [
+      ["Gu Qing", "friend of x"], 
+      ["Gu Yu", "sibling of x"], 
+      ["Gu Minghe", "employer of x, superior of x"], 
+      ["Lin Xi", "friend of x"], 
+      ["Su Yang", "friend of x"], 
+      ["Lin Tong", "secret lover of x"], 
+      ["Lin Weiren", "friend of x"]
+    ],
+    "Lin Weiren": [
+      ["Gu Qing", "friend of x"], 
+      ["Gu Yu", "brother in law of x"], 
+      ["Gu Minghe", "employee of x"], 
+      ["Lin Xi", "father of x"], 
+      ["Su Yang", "fondness of x"], 
+      ["Lin Tong", "child of x"], 
+      ["Lin Yang", "friend of x"]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "You": [
+        [
+            "Gust",
+            "romantic relationships with Gust, betrayer of Gust"
+        ],
+        [
+            "Kevin",
+            "helper of You, helped by You"
+        ],
+        [
+            "Griff",
+            "deceived by You, creditor of You"
+        ],
+        [
+            "Rowling",
+            "friend of You"
+        ],
+        [
+            "David",
+            "friend of You"
+        ]
+    ],
+    "Gust": [
+        [
+            "You",
+            "romantic relationships with You, betrayed by You"
+        ],
+        [
+            "Kevin",
+            "mentor of Kevin"
+        ],
+        [
+            "Griff",
+            "debtor of Griff"
+        ]
+    ],
+    "Kevin": [
+        [
+            "You",
+            "helper of You, helped by You"
+        ],
+        [
+            "Gust",
+            "mentor of Kevin"
+        ]
+    ],
+    "Griff": [
+        [
+            "You",
+            "deceived by You, creditor of You"
+        ],
+        [
+            "Gust",
+            "creditor of Griff"
+        ]
+    ],
+    "Rowling": [
+        [
+            "You",
+            "friend of You"
+        ]
+    ],
+    "David": [
+        [
+            "You",
+            "friend of You"
+        ]
+    ]
+}

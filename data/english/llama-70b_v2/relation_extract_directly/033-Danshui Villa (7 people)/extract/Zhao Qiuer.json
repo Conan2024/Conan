@@ -1,0 +1,38 @@
+{
+    "Zhao Qiuer": [
+      ["Zhao Luoyi", "closest companion of x, intimate relationship of x"], 
+      ["Zhao Wanlei", "master of x, intimate relationship of x"], 
+      ["Fang Shuangji", "housekeeper of x, acquaintance of x"], 
+      ["Qi Yue", "terrible person of x, fearful of x"], 
+      ["Young Master Zhao Wei", "acquaintance of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Zhao Qiuer", "personal girl of x, closest companion of x"], 
+      ["Zhao Wanlei", "father of x, intimate relationship of x"], 
+      ["Fang Shuangji", "housekeeper of x, acquaintance of x"], 
+      ["Qi Yue", "terrible person of x, fearful of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Zhao Qiuer", "personal girl of x, intimate relationship of x"], 
+      ["Zhao Luoyi", "daughter of x, intimate relationship of x"], 
+      ["Fang Shuangji", "housekeeper of x, acquaintance of x"], 
+      ["Qi Yue", "terrible person of x, fearful of x"]
+    ],
+    "Fang Shuangji": [
+      ["Zhao Qiuer", "acquaintance of x"], 
+      ["Zhao Luoyi", "acquaintance of x"], 
+      ["Zhao Wanlei", "master of x, acquaintance of x"]
+    ],
+    "Qi Yue": [
+      ["Zhao Qiuer", "terrible person of x, fearful of x"], 
+      ["Zhao Luoyi", "terrible person of x, fearful of x"]
+    ],
+    "Young Master Zhao Wei": [
+      ["Zhao Qiuer", "acquaintance of x"], 
+      ["Zhao Luoyi", "young master of x, acquaintance of x"]
+    ],
+    "Nuer or Daughterfeng Zhu": [
+      ["Zhao Qiuer", "friend of x"], 
+      ["Zhao Luoyi", "friend of x"]
+    ]
+}

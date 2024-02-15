@@ -1,0 +1,65 @@
+{
+    "Gu Mengchu": [
+      ["Yang Shuixun", "father's friend of x, mentor of x"], 
+      ["Minxi", "younger sister of x, friend of x"], 
+      ["Xiting", "wife of x"], 
+      ["Mu family", "in laws of x"], 
+      ["Boss Zhang", "business partner of x"], 
+      ["Uncle Yu", "housekeeper of x zhangzhuang"]
+    ],
+    "Yang Shuixun": [
+      ["Gu Mengchu", "father's friend of x"], 
+      ["Minxi", "daughter of x"]
+    ],
+    "Minxi": [
+      ["Gu Mengchu", "younger sister of x, friend of x"], 
+      ["Yang Shuixun", "father of x"]
+    ],
+    "Xiting": [
+      ["Gu Mengchu", "wife of x"], 
+      ["Mu family", "sister in law of x"]
+    ],
+    "Mu family": [
+      ["Gu Mengchu", "in laws of x"], 
+      ["Mu Boxuan", "family of x"]
+    ],
+    "Boss Zhang": [
+      ["Gu Mengchu", "business partner of x"], 
+      ["Uncle Yu", "housekeeper of x zhangzhuang"]
+    ],
+    "Uncle Yu": [
+      ["Boss Zhang", "master of x zhangzhuang"], 
+      ["Gu Mengchu", "housekeeper of x zhangzhuang"]
+    ],
+    "Zhang Fanghao": [
+      ["Yang Shuixun", "acquaintance of x"], 
+      ["Lan Rui", "acquaintance of x"]
+    ],
+    "Lan Rui": [
+      ["Zhang Fanghao", "acquaintance of x"], 
+      ["Yang Shuixun", "acquaintance of x"]
+    ],
+    "Shen Wusheng": [
+      ["Zhang Fanghao", "acquaintance of x"], 
+      ["Yang Shuixun", "acquaintance of x"]
+    ],
+    "Zhangzhuang": [
+      ["Boss Zhang", "owner of x"]
+    ],
+    "South Room": [
+      ["Gu Mengchu", "visitor of x"]
+    ],
+    "North Room": [
+      ["Yang Shuixun", "owner of x"], 
+      ["Gu Mengchu", "visitor of x"]
+    ],
+    "Kitchen": [
+      ["Gu Mengchu", "visitor of x"]
+    ],
+    "Xinger": [
+      ["Gu Mengchu", "acquaintance of x"]
+    ],
+    "Mu Boxuan": [
+      ["Mu family", "family of x"]
+    ]
+}

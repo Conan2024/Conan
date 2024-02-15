@@ -1,0 +1,29 @@
+{
+    "Rowling": [
+      ["Gust", "colleague of x, adversary of x"], 
+      ["David", "colleague of x, rival of x"], 
+      ["Ellen", "friend of x"], 
+      ["Kevin", "brother of x"], 
+      ["Griff", "acquaintance of x, suspect of x"]
+    ],
+    "Gust": [
+      ["Rowling", "colleague of x, adversary of x"], 
+      ["David", "colleague of x, rival of x"], 
+      ["Kevin", "suspicious of x"]
+    ],
+    "David": [
+      ["Rowling", "colleague of x, rival of x"], 
+      ["Gust", "colleague of x, adversary of x"], 
+      ["Kevin", "suspicious of x"]
+    ],
+    "Ellen": [
+      ["Rowling", "friend of x"], 
+      ["Kevin", "suspicious of x"]
+    ],
+    "Kevin": [
+      ["Rowling", "brother of x"], 
+      ["Gust", "suspicious of x"], 
+      ["David", "suspicious of x"], 
+      ["Ellen", "friend of x"]
+    ]
+}

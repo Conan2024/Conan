@@ -1,0 +1,224 @@
+{
+    "Gu Qing": [
+        [
+            "Gu Yu",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Lin Weiren",
+            "Sibling of X",
+            "Friend of X",
+            "Acquaintance of X",
+            "Colleague of X"
+        ],
+        [
+            "Lin Xi",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Shen Cheng",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Su Yang",
+            "Rival",
+            "Frenemy"
+        ]
+    ],
+    "Gu Yu": [
+        [
+            "Gu Qing",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Lin Weiren",
+            "boyfriend",
+            "Ex-romantic relationships"
+        ],
+        [
+            "Lin Xi",
+            "boyfriend",
+            "ex-boyfriend"
+        ],
+        [
+            "Lin Yang",
+            "Boyfriend",
+            "Ex-boyfriend"
+        ],
+        [
+            "Shen Cheng",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X"
+        ],
+        [
+            "Su Yang",
+            "Ex-romantic relationships",
+            "Friend"
+        ]
+    ],
+    "Lin Weiren": [
+        [
+            "Gu Qing",
+            "Father of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Informant of X"
+        ],
+        [
+            "Gu Yu",
+            "father",
+            "Superior"
+        ],
+        [
+            "Lin Xi",
+            "Father of X",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ],
+        [
+            "Lin Yang",
+            "Father of X",
+            "Superior of X"
+        ],
+        [
+            "Shen Cheng",
+            "employer, superior, subordinate"
+        ],
+        [
+            "Su Yang",
+            "Father of X",
+            "Superior of X"
+        ]
+    ],
+    "Lin Xi": [
+        [
+            "Gu Qing",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Gu Yu",
+            "boyfriend",
+            "ex-boyfriend"
+        ],
+        [
+            "Lin Weiren",
+            "Son of X",
+            "Employee of X",
+            "Subordinate of X",
+            "Servant of X"
+        ],
+        [
+            "Lin Yang",
+            "Brother",
+            "Suspect"
+        ],
+        [
+            "Shen Cheng",
+            "Employer-Employee",
+            "Caregiver-Patient",
+            "Familiar Stranger",
+            "Confidant"
+        ],
+        [
+            "Su Yang",
+            "Boyfriend/Girlfriend, Doctor/Patient, Acquaintance/Friend, Confidant, Support System"
+        ]
+    ],
+    "Shen Cheng": [
+        [
+            "Gu Qing",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Gu Yu",
+            "Killed by X",
+            "Dislike of X",
+            "Disliked by X",
+            "Subordinate of X",
+            "Employee of X",
+            "Servant of X",
+            "Colleague of X"
+        ],
+        [
+            "Lin Weiren",
+            "employer, superior, subordinate"
+        ],
+        [
+            "Lin Xi",
+            "Employer-Employee",
+            "Caregiver-Patient",
+            "Familiar Stranger",
+            "Confidant"
+        ],
+        [
+            "Lin Yang",
+            "brother, loyal, trusted"
+        ],
+        [
+            "Su Yang",
+            "Employer-Employee",
+            "Familiar Stranger"
+        ]
+    ],
+    "Su Yang": [
+        [
+            "Gu Qing",
+            "Rival",
+            "Frenemy"
+        ],
+        [
+            "Gu Yu",
+            "Ex-romantic relationships",
+            "Friend"
+        ],
+        [
+            "Lin Weiren",
+            "Husband of X",
+            "Doctor of X"
+        ],
+        [
+            "Lin Xi",
+            "Boyfriend/Girlfriend, Doctor/Patient, Acquaintance/Friend, Confidant, Support System"
+        ],
+        [
+            "Lin Yang",
+            "boyfriend, colleague, friend"
+        ],
+        [
+            "Shen Cheng",
+            "Employer-Employee",
+            "Rival in Love"
+        ]
+    ],
+    "Lin Yang": [
+        [
+            "Gu Yu",
+            "Brother",
+            "Suspicious"
+        ],
+        [
+            "Lin Weiren",
+            "Brother of X",
+            "Psychologist of X"
+        ],
+        [
+            "Lin Xi",
+            "Brother",
+            "Suspect"
+        ],
+        [
+            "Shen Cheng",
+            "brother, loyal, trusted"
+        ],
+        [
+            "Su Yang",
+            "brother, colleague, friend"
+        ]
+    ]
+}

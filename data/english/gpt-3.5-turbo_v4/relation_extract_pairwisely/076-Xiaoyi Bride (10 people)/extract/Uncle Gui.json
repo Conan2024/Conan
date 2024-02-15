@@ -1,0 +1,124 @@
+{
+    "DU Guicheng": [
+      ["du Huixin", "father of x"], 
+      ["Master Meng", "employee of x"], 
+      ["wife and children", "husband of x, father of x"], 
+      ["Yao Zhongyi", "friend of x"], 
+      ["Physician Yu", "helper of x"], 
+      ["Yun Ling", "helper of x, helped by x"], 
+      ["Chen Junmeng", "father in law of x, daughter in law of x"], 
+      ["Lady Hong", "husband of x"], 
+      ["Yao Changshou", "friend of x"], 
+      ["fangchenchenshan", "friend of x"]
+    ],
+    "du Huixin": [
+      ["DU Guicheng", "child of x"], 
+      ["Master Meng", "employee of x"], 
+      ["wife and children", "father of x"], 
+      ["Yao Zhongyi", "fiancee of x, mentor of x"], 
+      ["Physician Yu", "suspicious of x, secret admirer of x"], 
+      ["Yun Ling", "helper of x"], 
+      ["Chen Junmeng", "romantic relationships with x"], 
+      ["Lady Hong", "husband of x"], 
+      ["Yao Changshou", "uncle of x"], 
+      ["fangchenchenshan", "student of x"]
+    ],
+    "Master Meng": [
+      ["DU Guicheng", "employer of x"], 
+      ["du Huixin", "employer of x"], 
+      ["wife and children", "husband of x"], 
+      ["Yao Zhongyi", "mentor of x"], 
+      ["Physician Yu", "employer of x"], 
+      ["Yun Ling", "informant of x"], 
+      ["Chen Junmeng", "fiancee of x"], 
+      ["Lady Hong", "husband of x"], 
+      ["Yao Changshou", "wife of x"], 
+      ["fangchenchenshan", "mentor of x"]
+    ],
+    "wife and children": [
+      ["DU Guicheng", "wife of x, mother of x"], 
+      ["du Huixin", "child of x"], 
+      ["Master Meng", "wife of x"], 
+      ["Physician Yu", "husband of x"], 
+      ["Yao Changshou", "husband of x"], 
+      ["fangchenchenshan", "child of x"]
+    ],
+    "Yao Zhongyi": [
+      ["DU Guicheng", "mentor of x"], 
+      ["du Huixin", "student of x"], 
+      ["Master Meng", "student of x"], 
+      ["wife and children", "husband of x"], 
+      ["Physician Yu", "friend of x, helper of x"], 
+      ["Yun Ling", "friend of x"], 
+      ["Chen Junmeng", "fiance of x"], 
+      ["Lady Hong", "husband of x"], 
+      ["Yao Changshou", "son of x"], 
+      ["fangchenchenshan", "romantic relationships with x, helper of x"]
+    ],
+    "Physician Yu": [
+      ["DU Guicheng", "helper of x"], 
+      ["du Huixin", "suspected by x"], 
+      ["Master Meng", "employee of x"], 
+      ["wife and children", "wife of x"], 
+      ["Yao Zhongyi", "friend of x, helped by x"], 
+      ["Yun Ling", "admirer of x, helped by x"], 
+      ["Chen Junmeng", "doctor of x"], 
+      ["Yao Changshou", "doctor of x"], 
+      ["fangchenchenshan", "student of x, patient of x"]
+    ],
+    "Yun Ling": [
+      ["DU Guicheng", "helper of x, helped by x"], 
+      ["du Huixin", "seeker of help from x"], 
+      ["Master Meng", "information receiver from x"], 
+      ["Yao Zhongyi", "friend of x"], 
+      ["Physician Yu", "admirer of x, helper of x"], 
+      ["Chen Junmeng", "friend of x"], 
+      ["Lady Hong", "helper of x"], 
+      ["Yao Changshou", "helper of x"]
+    ],
+    "Chen Junmeng": [
+      ["DU Guicheng", "son in law of x, father in law of x"], 
+      ["du Huixin", "romantic relationships with x"], 
+      ["Master Meng", "fiance of x"], 
+      ["wife and children", "mother of x"], 
+      ["Yao Zhongyi", "fiancee of x"], 
+      ["Physician Yu", "patient of x"], 
+      ["Yun Ling", "friend of x"], 
+      ["Lady Hong", "wife of x"], 
+      ["Yao Changshou", "wife of x"], 
+      ["fangchenchenshan", "possibly family of x, friend of x"]
+    ],
+    "Lady Hong": [
+      ["DU Guicheng", "wife of x"], 
+      ["du Huixin", "wife of x"], 
+      ["Master Meng", "wife of x"], 
+      ["Yao Zhongyi", "wife of x"], 
+      ["Yun Ling", "helped by x"], 
+      ["Chen Junmeng", "husband of x"], 
+      ["Yao Changshou", "wife of x"], 
+      ["fangchenchenshan", "helper of x"]
+    ],
+    "Yao Changshou": [
+      ["DU Guicheng", "friend of x"], 
+      ["du Huixin", "nephew of x"], 
+      ["Master Meng", "husband of x"], 
+      ["wife and children", "wife of x"], 
+      ["Yao Zhongyi", "father of x"], 
+      ["Physician Yu", "patient of x"], 
+      ["Yun Ling", "victim of x"], 
+      ["Chen Junmeng", "husband of x"], 
+      ["Lady Hong", "husband of x"], 
+      ["fangchenchenshan", "relative of x"]
+    ],
+    "fangchenchenshan": [
+      ["DU Guicheng", "friend of x"], 
+      ["du Huixin", "mentor of x"], 
+      ["Master Meng", "student of x"], 
+      ["wife and children", "father of x"], 
+      ["Yao Zhongyi", "romantic relationships with x, helper of x"], 
+      ["Physician Yu", "teacher of x, doctor of x"], 
+      ["Chen Junmeng", "possibly family of x, friend of x"], 
+      ["Lady Hong", "helper of x"], 
+      ["Yao Changshou", "relative of x"]
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "Wang You": [
+        [
+            "Du Zhong",
+            "acquaintance of x, quest companion of x, entrusted by x"
+        ],
+        [
+            "Xuan Can",
+            "acquaintance of x, quest companion of x"
+        ],
+        [
+            "Du Zhong's Child",
+            "informant of x, helper of x, entrusted by x"
+        ],
+        [
+            "Lady Safflower",
+            "acquaintance of x, information receiver from x"
+        ]
+    ],
+    "Du Zhong": [
+        [
+            "Wang You",
+            "acquaintance of x, quest companion of x, trusts x"
+        ],
+        [
+            "Xuan Can",
+            "friend of x, colleague of x, former superior of x"
+        ],
+        [
+            "Du Zhong's Child",
+            "father of x"
+        ],
+        [
+            "Lady Safflower",
+            "romantic relationships with x, child of x"
+        ]
+    ],
+    "Xuan Can": [
+        [
+            "Wang You",
+            "acquaintance of x, quest companion of x"
+        ],
+        [
+            "Du Zhong",
+            "friend of x, colleague of x, former subordinate of x"
+        ],
+        [
+            "Du Zhong's Child",
+            "sworn brother of x, uncle of x"
+        ],
+        [
+            "Lady Safflower",
+            "acquaintance of x, quest companion of x"
+        ]
+    ],
+    "Du Zhong's Child": [
+        [
+            "Wang You",
+            "information receiver from x, helped by x, trusts x"
+        ],
+        [
+            "Du Zhong",
+            "child of x"
+        ],
+        [
+            "Xuan Can",
+            "sworn brother's child of x, nephew of x"
+        ],
+        [
+            "Lady Safflower",
+            "son of x, biological son of x"
+        ]
+    ],
+    "Lady Safflower": [
+        [
+            "Wang You",
+            "acquaintance of x, informant of x"
+        ],
+        [
+            "Du Zhong",
+            "romantic relationships with x, child of x"
+        ],
+        [
+            "Xuan Can",
+            "acquaintance of x, quest companion of x"
+        ],
+        [
+            "Du Zhong's Child",
+            "mother of x, biological mother of x"
+        ]
+    ]
+}

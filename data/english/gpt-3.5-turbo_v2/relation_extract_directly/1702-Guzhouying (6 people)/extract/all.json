@@ -1,0 +1,79 @@
+{
+    "Cui Yannan": [
+      ["Wang Xi Rong", "mother of x"], 
+      ["Cui Shouheng", "father of x"], 
+      ["Xi Yan", "sister of x (aunt)"], 
+      ["Bao Gan", "maid of x (becomes ni sichong's wife)"], 
+      ["Yu Shi", "mother of x zhou lianyi"], 
+      ["Zhou Mengdang", "husband of x yu shi"], 
+      ["Zhou Mengdang", "husband of x yu shi"], 
+      ["Zhou Lianyi", "child of x yu shi and zhou mengdang"], 
+      ["Su Nian", "suitor of x"], 
+      ["Wang Xi Yan", "xi yan (aunt)"], 
+      ["Zhou Chitong", "younger brother of x yu shi"], 
+      ["Bao Gui", "maid of xi yanfang"], 
+      ["Tian Chou", "maid of x (later becomes cui shouheng's wife)"], 
+      ["Zhou Mengdang", "father of x zhou lianyi"], 
+      ["Cui Shouheng", "husband of x wang xi rong"], 
+      ["Tian Chou", "maid of x (later becomes cui shouheng's wife)"], 
+      ["Yannan", "yannan (cui yannan) of x"]
+    ],
+    "Wang Xi Rong": [
+      ["Cui Yannan", "daughter of x"], 
+      ["Cui Shouheng", "wife of x"], 
+      ["Bao Gan", "maid of xi yanfang"], 
+      ["Cui Shouheng", "husband of x"]
+    ],
+    "Cui Shouheng": [
+      ["Cui Yannan", "husband of x wang xi rong"], 
+      ["Wang Xi Rong", "husband of x"], 
+      ["Tian Chou", "husband of x"]
+    ],
+    "Xi Yan": [
+      ["Cui Yannan", "sister of x (aunt)"], 
+      ["Xi Yanfang", "owner of x cui village"], 
+      ["Bao Gan", "maid of xi yanfang"]
+    ],
+    "Bao Gan": [
+      ["Cui Yannan", "maid of x"], 
+      ["Zhou Mengdang", "husband of x (later becomes ni sichong's wife)"], 
+      ["Wang Xi Rong", "maid of xi yanfang"]
+    ],
+    "Yu Shi": [
+      ["Cui Yannan", "mother of x zhou lianyi"], 
+      ["Zhou Mengdang", "husband of x zhou lianyi"], 
+      ["Zhou Chitong", "brother of x"], 
+      ["Zhou Lianyi", "child of x"], 
+      ["Su Nian", "brother of x"]
+    ],
+    "Zhou Mengdang": [
+      ["Cui Yannan", "husband of x yu shi"], 
+      ["Yu Shi", "husband of x zhou lianyi"], 
+      ["Zhou Lianyi", "father of x"]
+    ],
+    "Zhou Lianyi": [
+      ["Cui Yannan", "child of x yu shi and zhou mengdang"], 
+      ["Yu Shi", "son of x"], 
+      ["Zhou Mengdang", "son of x"]
+    ],
+    "Su Nian": [
+      ["Cui Yannan", "suitor of x"], 
+      ["Yu Shi", "uncle of x"], 
+      ["Lianyi", "friend of x"]
+    ],
+    "Wang Xi Yan": [
+      ["Cui Yannan", "xi yan (aunt)"]
+    ],
+    "Zhou Chitong": [
+      ["Cui Yannan", "younger brother of x yu shi"], 
+      ["Yu Shi", "brother of x"], 
+      ["Lianyi", "friend of x"]
+    ],
+    "Bao Gui": [
+      ["Cui Yannan", "maid of xi yanfang"]
+    ],
+    "Tian Chou": [
+      ["Cui Yannan", "maid of x (later becomes cui shouheng's wife)"], 
+      ["Zhou Mengdang", "wife of x (later becomes ni sichong's wife)"]
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "Lan Rui": [
+      ["Zhang Fanghao", "father of x"], 
+      ["Ms. Yao", "mother of x"], 
+      ["Uncle Yu", "uncle of x"], 
+      ["Huan Ling", "sister of x"], 
+      ["Minxi", "friend of x"], 
+      ["Xiting", "friend of x"], 
+      ["Shen Wusheng", "friend of x"]
+    ],
+    "Zhang Fanghao": [
+      ["Yang Shuixun", "murderer of x"]
+    ],
+    "Ms. Yao": [
+      ["Lan Rui", "daughter of x"]
+    ],
+    "Uncle Yu": [
+      ["Lan Rui", "niece of x"]
+    ],
+    "Huan Ling": [
+      ["Lan Rui", "sister of x"]
+    ],
+    "Yang Shuixun": [
+      ["Minxi", "father of x"], 
+      ["Zhang Fanghao", "murderer of x"]
+    ],
+    "Minxi": [
+      ["Yang Shuixun", "father of x"], 
+      ["Zhang Fanghao", "murderer of x"]
+    ],
+    "Xiting": [
+      ["Yang Shuixun", "friend of x"]
+    ],
+    "Shen Wusheng": [
+      ["Yang Shuixun", "friend of x"]
+    ],
+    "Gu Chumeng": [
+      ["Yang Shuixun", "murderer of x"]
+    ],
+    "Teacher Bai": [
+      ["Xiting", "teacher of x"]
+    ]
+}

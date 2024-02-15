@@ -1,0 +1,320 @@
+{
+    "Chen Jingwen": [
+        [
+            "Gu Yu",
+            "Friend of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Student of X",
+            "Informant of X",
+            "Information Receiver from X",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X",
+            "Neighbour of X",
+            "Helper of X",
+            "Helped by X",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X",
+            "Attempted Perpetrator of X",
+            "Attempted Murderer of X",
+            "Victim of X",
+            "Killed by X"
+        ],
+        [
+            "Lin Xi",
+            "friend",
+            "acquaintance",
+            "classmate",
+            "schoolmate",
+            "neighbour",
+            "helper",
+            "helped",
+            "perpetrator",
+            "bully",
+            "murderer",
+            "attempted perpetrator",
+            "attempted murderer",
+            "victim",
+            "killed by",
+            "dislike",
+            "disliked by",
+            "subject of investigation",
+            "deceiver",
+            "betrayer",
+            "deceived",
+            "betrayed",
+            "suspected",
+            "suspicious",
+            "suspect",
+            "adversary",
+            "enemy",
+            "rival",
+            "manipulator",
+            "manipulated by",
+            "superior",
+            "subordinate",
+            "employee",
+            "servant",
+            "colleague",
+            "business partner",
+            "customer",
+            "buyer",
+            "tenant",
+            "patient"
+        ],
+        [
+            "Lin Weiren",
+            "Rival",
+            "Enemy"
+        ],
+        [
+            "Shen Cheng",
+            "acquaintance",
+            "suspect",
+            "informant"
+        ],
+        [
+            "Su Yang",
+            "acquaintance",
+            "suspect",
+            "rival"
+        ]
+    ],
+    "Gu Yu": [
+        [
+            "Chen Jingwen",
+            "Friend of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Student of X",
+            "Informant of X",
+            "Information Receiver from X",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X",
+            "Neighbour of X",
+            "Helper of X",
+            "Helped by X",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X",
+            "Attempted Perpetrator of X",
+            "Attempted Murderer of X",
+            "Victim of X",
+            "Killed by X"
+        ],
+        [
+            "Lin Xi",
+            "relationship 1"
+        ],
+        [
+            "Lin Weiren",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect of murder"
+        ],
+        [
+            "Shen Cheng",
+            "Acquaintance"
+        ],
+        [
+            "Su Yang",
+            "Relationship 1: Fiance",
+            "Relationship 2: Suspect of murder"
+        ],
+        [
+            "Zheng Xinmei",
+            "Relationship 1: Mother's killer",
+            "Relationship 2: Lover"
+        ]
+    ],
+    "Lin Xi": [
+        [
+            "Chen Jingwen",
+            "friend",
+            "acquaintance",
+            "classmate",
+            "schoolmate",
+            "neighbour",
+            "helper",
+            "helped",
+            "perpetrator",
+            "bully",
+            "murderer",
+            "attempted perpetrator",
+            "attempted murderer",
+            "victim",
+            "killed by",
+            "dislike",
+            "disliked by",
+            "subject of investigation",
+            "deceiver",
+            "betrayer",
+            "deceived",
+            "betrayed",
+            "suspected",
+            "suspicious",
+            "suspect",
+            "adversary",
+            "enemy",
+            "rival",
+            "manipulator",
+            "manipulated by",
+            "superior",
+            "subordinate",
+            "employee",
+            "servant",
+            "colleague",
+            "business partner",
+            "customer",
+            "buyer",
+            "tenant",
+            "patient"
+        ],
+        [
+            "Gu Yu",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Lin Weiren",
+            "Same person as X (different identity)",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Shen Cheng",
+            "Acquaintance"
+        ],
+        [
+            "Su Yang",
+            "fiancee of X",
+            "co-wives of X"
+        ],
+        [
+            "Zheng Xinmei",
+            "Same person as X "
+        ]
+    ],
+    "Lin Weiren": [
+        [
+            "Chen Jingwen",
+            "Rival",
+            "Enemy"
+        ],
+        [
+            "Gu Yu",
+            "relationship 1: Acquaintance",
+            "relationship 2: Victim of murder"
+        ],
+        [
+            "Lin Xi",
+            "Husband of X",
+            "Fiance of X"
+        ],
+        [
+            "Shen Cheng",
+            "Colleague"
+        ],
+        [
+            "Su Yang",
+            "Rival",
+            "Enemy"
+        ],
+        [
+            "Zheng Xinmei",
+            "Same person as X "
+        ]
+    ],
+    "Shen Cheng": [
+        [
+            "Chen Jingwen",
+            "acquaintance",
+            "suspect"
+        ],
+        [
+            "Gu Yu",
+            "Acquaintance"
+        ],
+        [
+            "Lin Xi",
+            "Acquaintance"
+        ],
+        [
+            "Lin Weiren",
+            "Colleague"
+        ],
+        [
+            "Su Yang",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Zheng Xinmei",
+            "housekeeper",
+            "acquaintance"
+        ]
+    ],
+    "Su Yang": [
+        [
+            "Chen Jingwen",
+            "acquaintance",
+            "suspect",
+            "rival"
+        ],
+        [
+            "Gu Yu",
+            "Relationship 1: Fiance",
+            "Relationship 2: Murderer of Lin Weiren"
+        ],
+        [
+            "Lin Xi",
+            "fiance of X",
+            "co-wives of X"
+        ],
+        [
+            "Lin Weiren",
+            "Rival",
+            "Enemy"
+        ],
+        [
+            "Shen Cheng",
+            "Employee of X",
+            "Servant of X"
+        ],
+        [
+            "Zheng Xinmei",
+            "Same person as X "
+        ]
+    ],
+    "Zheng Xinmei": [
+        [
+            "Chen Jingwen",
+            "Daughter",
+            "Killed by Gu's Group's medical device"
+        ],
+        [
+            "Gu Yu",
+            "Relationship 1: Daughter",
+            "Relationship 2: Victim"
+        ],
+        [
+            "Lin Xi",
+            "Same person as X ",
+            "Mother of X"
+        ],
+        [
+            "Lin Weiren",
+            "Same person as X "
+        ],
+        [
+            "Shen Cheng",
+            "housekeeper",
+            "acquaintance"
+        ],
+        [
+            "Su Yang",
+            "Same person as X "
+        ]
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Song Jie": [
+      ["Lu Ying", "helped by x"], 
+      ["Ren Dong", "friend of x, colleague of x"]
+    ],
+    "Martial Alliance's Messenger": [
+      ["Feng", "messenger of x"], 
+      ["Lu Ying", "informant of x, information receiver from x"], 
+      ["Ren Dong", "informant of x, information receiver from x"]
+    ],
+    "Feng": [
+      ["Lu Ying", "adversary of x, manipulated by x"], 
+      ["Ren Dong", "messenger of x"]
+    ],
+    "Lu Ying": [
+      ["Song Jie", "saved by x"], 
+      ["Martial Alliance's Messenger", "suspected by x"], 
+      ["Feng", "adversary of x, manipulator of x"], 
+      ["Xuan Can", "friend of x"], 
+      ["Ren Dong", "friend of x"]
+    ],
+    "Xuan Can": [
+      ["Lu Ying", "friend of x"], 
+      ["Ren Dong", "friend of x"]
+    ],
+    "Ren Dong": [
+      ["Song Jie", "friend of x, colleague of x"], 
+      ["Martial Alliance's Messenger", "informant of x, information receiver from x"], 
+      ["Feng", "messenger of x"], 
+      ["Lu Ying", "friend of x"], 
+      ["Xuan Can", "friend of x"]
+    ]
+}

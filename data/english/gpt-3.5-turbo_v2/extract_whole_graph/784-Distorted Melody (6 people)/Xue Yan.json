@@ -1,0 +1,81 @@
+{
+    "Xue Yan": [
+      ["Luo Younuo", "sibling of xue yan"], 
+      ["Mrs. Ruan", "employer of xue yan"], 
+      ["Wangdi", "sister of xue yan"], 
+      ["Zhaonan", "acquaintance of xue yan"], 
+      ["Guilang", "acquaintance of xue yan"], 
+      ["Qi Gu Fei", "acquaintance of xue yan"], 
+      ["Hei Li", "acquaintance of xue yan"], 
+      ["Baron Smith", "employer of xue yan"], 
+      ["Wang Zimo", "lover of xue yan"], 
+      ["Unspecified Widow", "enemy of xue yan"], 
+      ["Guilang", "friend of xue yan"], 
+      ["Hei Li", "friend of xue yan"], 
+      ["Qi Gu Fei", "friend of xue yan"]
+    ],
+    "Luo Younuo": [
+      ["Xue Yan", "sibling of x luo younuo"], 
+      ["Guilang", "friend of x luo younuo"], 
+      ["Hei Li", "friend of x luo younuo"], 
+      ["Qi Gu Fei", "friend of x luo younuo"]
+    ],
+    "Mrs. Ruan": [
+      ["Xue Yan", "employee of x mrs, ruan of x"], 
+      ["Wangdi", "employer of x mrs, ruan of x"], 
+      ["Zhaonan", "acquaintance of x mrs, ruan of x"], 
+      ["Guilang", "acquaintance of x mrs, ruan of x"], 
+      ["Baron Smith", "employer of x mrs, ruan of x"]
+    ],
+    "Wangdi": [
+      ["Xue Yan", "sister of x wangdi"], 
+      ["Zhaonan", "acquaintance of x wangdi"], 
+      ["Guilang", "acquaintance of x wangdi"], 
+      ["Hei Li", "acquaintance of x wangdi"], 
+      ["Qi Gu Fei", "acquaintance of x wangdi"]
+    ],
+    "Zhaonan": [
+      ["Xue Yan", "acquaintance of x zhaonan"], 
+      ["Wangdi", "sister of x zhaonan"], 
+      ["Guilang", "friend of x zhaonan"], 
+      ["Hei Li", "friend of x zhaonan"], 
+      ["Qi Gu Fei", "friend of x zhaonan"]
+    ],
+    "Guilang": [
+      ["Xue Yan", "acquaintance of x guilang"], 
+      ["Mrs. Ruan", "acquaintance of x guilang"], 
+      ["Luo Younuo", "acquaintance of x guilang"], 
+      ["Wangdi", "acquaintance of x guilang"], 
+      ["Zhaonan", "friend of x guilang"], 
+      ["Hei Li", "friend of x guilang"], 
+      ["Qi Gu Fei", "friend of x guilang"]
+    ],
+    "Hei Li": [
+      ["Xue Yan", "acquaintance of x hei li"], 
+      ["Luo Younuo", "acquaintance of x hei li"], 
+      ["Wangdi", "acquaintance of x hei li"], 
+      ["Zhaonan", "friend of x hei li"], 
+      ["Guilang", "friend of x hei li"], 
+      ["Qi Gu Fei", "friend of x hei li"]
+    ],
+    "Qi Gu Fei": [
+      ["Xue Yan", "acquaintance of x qi gu fei"], 
+      ["Luo Younuo", "acquaintance of x qi gu fei"], 
+      ["Wangdi", "acquaintance of x qi gu fei"], 
+      ["Zhaonan", "friend of x qi gu fei"], 
+      ["Guilang", "friend of x qi gu fei"], 
+      ["Hei Li", "friend of x qi gu fei"]
+    ],
+    "Baron Smith": [
+      ["Xue Yan", "employer of x baron smith"], 
+      ["Mrs. Ruan", "employer of x baron smith"]
+    ],
+    "Wang Zimo": [
+      ["Xue Yan", "lover of x wang zimo"], 
+      ["Unspecified Widow", "wife of x wang zimo"]
+    ],
+    "Unspecified Widow": [
+      ["Xue Yan", "enemy of x unspecified widow"], 
+      ["Wang Zimo", "wife of x unspecified widow"]
+    ]
+}

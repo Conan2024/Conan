@@ -1,0 +1,36 @@
+{
+    "Tony Bijeli": [
+      ["Frank Carmen", "brother of x"], 
+      ["James Riley", "friend of x, mentor of x"], 
+      ["Father Tom", "brother of x, friend of x"], 
+      ["Hospital staff", "brother of x, father of x"]
+    ],
+    "Frank Carmen": [
+      ["Tony Bijeli", "brother of x"], 
+      ["James Riley", "brother of x, friend of x"], 
+      ["Father Tom", "brother of x, friend of x"], 
+      ["Nurses", "brother of x"]
+    ],
+    "James Riley": [
+      ["Tony Bijeli", "friend of x, mentor of x"], 
+      ["Frank Carmen", "friend of x, mentor of x"], 
+      ["Father Tom", "friend of x"], 
+      ["Nurses", "friend of x"], 
+      ["Hospital staff", "employer of x, master of x, superior of x"]
+    ],
+    "Father Tom": [
+      ["Tony Bijeli", "mentor of x"], 
+      ["Frank Carmen", "mentor of x"], 
+      ["James Riley", "friend of x"]
+    ],
+    "Nurses": [
+      ["James Riley", "friend of x"], 
+      ["Hospital staff", "acquaintance of x, colleague of x"]
+    ],
+    "Hospital staff": [
+      ["Tony Bijeli", "colleague of x"], 
+      ["Frank Carmen", "colleague of x"], 
+      ["James Riley", "informant of x, acquaintance of x, colleague of x"], 
+      ["Nurses", "acquaintance of x, colleague of x"]
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "Tian Chou": [
+      ["Cui Yannan", "maid of x cui yannan"], 
+      ["Cui Shouheng", "future relative of x cui yannan"], 
+      ["Bao Gan", "maid of x wang xi yan (xi yan)"]
+    ],
+    "Bao Gan": [
+      ["Wang Xi Yan", "maid of x wang xi yan (aunt of x cui yannan)"], 
+      ["Cui Yannan", "maid of x cui yannan"], 
+      ["Cui Shouheng", "maid's master of x"]
+    ],
+    "Zhou Mengdang": [
+      ["Yu Shi", "husband of x yu shi"], 
+      ["Su Nian", "brother of x yu shi"], 
+      ["Zhou Chitong", "brother of x yu shi"], 
+      ["Lianyi", "father of x lianyi"], 
+      ["Bao Gan", "husband's master of x"]
+    ],
+    "Bao Liu": [
+      ["Bao Gan", "possible family of x bao gan"]
+    ],
+    "Yu Shi": [
+      ["Zhou Mengdang", "wife of x zhou mengdang"], 
+      ["Su Nian", "brother of x yu shi"], 
+      ["Zhou Chitong", "brother of x yu shi"], 
+      ["Lianyi", "mother of x lianyi"]
+    ],
+    "Zhou Chitong": [
+      ["Yu Shi", "brother of x yu shi"], 
+      ["Zhou Mengdang", "brother of x zhou mengdang"], 
+      ["Lianyi", "brother of x lianyi"]
+    ],
+    "Zhou Lianyi": [
+      ["Yu Shi", "son of x yu shi"], 
+      ["Zhou Mengdang", "son of x zhou mengdang"], 
+      ["Zhou Chitong", "brother of x zhou chitong"], 
+      ["Cui Yannan", "friend of x cui yannan"], 
+      ["Su Nian", "friend of x su nian"]
+    ],
+    "Lianyi": [
+      ["Zhou Mengdang", "son of x zhou mengdang"], 
+      ["Yu Shi", "son of x yu shi"], 
+      ["Zhou Chitong", "brother of x zhou chitong"], 
+      ["Cui Yannan", "friend of x cui yannan"], 
+      ["Su Nian", "friend of x su nian"], 
+      ["Bao Gan", "child of x bao gan"]
+    ],
+    "Wang Xi Rong": [
+      ["Cui Yannan", "mother of x cui yannan"], 
+      ["Xi Yan", "mother of x wang xi yan"]
+    ],
+    "Taitai": [
+      ["Cui Shouheng", "wife of x cui shouheng"], 
+      ["Bao Gan", "maid of xi yan"]
+    ],
+    "Wang Shi": [
+      ["Cui Yannan", "father of x cui yannan"]
+    ],
+    "Cui Shouheng": [
+      ["Taitai", "husband of x taitai"], 
+      ["Cui Yannan", "father of x cui yannan"], 
+      ["Bao Gan", "maid's master of x"]
+    ],
+    "Cui Yannan": [
+      ["Cui Yannan", "child of x cui yannan"]
+    ],
+    "Cui Shi": [
+      ["Cui Yannan", "father of x cui yannan"]
+    ],
+    "He Sao": [
+      ["Cui Yannan", "maid of x cui yannan"]
+    ],
+    "Bao Gui": [
+      ["Zhou Mengdang", "adopted by zhou mengdang of x"]
+    ]
+}

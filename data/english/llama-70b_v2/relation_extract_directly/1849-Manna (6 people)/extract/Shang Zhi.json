@@ -1,0 +1,55 @@
+{
+    "Tan Shang Zhi": [
+      ["Lv Mingran", "childhood friend of x, brother in law of x"], 
+      ["Luo Hengli", "cousin of x, business partner of x"], 
+      ["Hai You", "adopted sister of x, neighbour of x"], 
+      ["Zina", "acquaintance of x, student of x, love interest of x"]
+    ],
+    "Lv Mingran": [
+      ["Tan Shang Zhi", "childhood friend of x, brother in law of x"], 
+      ["Luo Hengli", "father in law of x, business partner of x"], 
+      ["Hai You", "niece of x, adopted sister of x"]
+    ],
+    "Luo Hengli": [
+      ["Tan Shang Zhi", "cousin of x, business partner of x"], 
+      ["Lv Mingran", "son in law of x, business partner of x"], 
+      ["Hai You", "daughter of x, adopted sister of x"]
+    ],
+    "Hai You": [
+      ["Tan Shang Zhi", "adopted sister of x, neighbour of x"], 
+      ["Lv Mingran", "uncle of x, adopted father of x"], 
+      ["Luo Hengli", "father of x, adopted father of x"]
+    ],
+    "Zina": [
+      ["Tan Shang Zhi", "acquaintance of x, student of x, love interest of x"], 
+      ["Lv Mingran", "teacher of x, brother in law of x"]
+    ],
+    "Cheng Ge": [
+      ["Tan Shang Zhi", "friend of x"], 
+      ["Hai You", "friend of x"]
+    ],
+    "Cai Qian": [
+      ["Tan Shang Zhi", "friend of x"], 
+      ["Lv Mingran", "friend of x"]
+    ],
+    "Liao Gongzi": [
+      ["Tan Shang Zhi", "acquaintance of x"], 
+      ["Lv Mingran", "acquaintance of x"]
+    ],
+    "Mrs. Wei": [
+      ["Tan Shang Zhi", "acquaintance of x"], 
+      ["Lv Mingran", "acquaintance of x"]
+    ],
+    "Tan Renchang": [
+      ["Tan Shang Zhi", "father of x"], 
+      ["Lv Mingran", "uncle of x"]
+    ],
+    "Lv Mingran's father": [
+      ["Lv Mingran", "father of x"], 
+      ["Tan Shang Zhi", "grandfather of x"]
+    ],
+    "Lv Mingran's mother": [
+      ["Lv Mingran", "mother of x"], 
+      ["Tan Shang Zhi", "grandmother of x"]
+    ]
+}

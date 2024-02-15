@@ -1,0 +1,100 @@
+{
+    "Hong Jiangshui": [
+        [
+            "Meng Sanchun",
+            "Friend/Acquaintance, Suspect/Suspicious, Murderer/Victim"
+        ],
+        [
+            "ZHANG JINYIN",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "ZHANG HONGSHENG",
+            "Friend, Employee"
+        ],
+        [
+            "Cai Siniang",
+            "friend, potential love interest"
+        ]
+    ],
+    "Meng Sanchun": [
+        [
+            "Hong Jiangshui",
+            "Friend/Acquaintance, Suspect/Suspicious, Victim/Killer"
+        ],
+        [
+            "ZHANG JINYIN",
+            "Brother, Business Partner"
+        ],
+        [
+            "ZHANG HONGSHENG",
+            "friend, business partner"
+        ],
+        [
+            "Cai Siniang",
+            "Husband of X",
+            "Stranger to X"
+        ]
+    ],
+    "ZHANG JINYIN": [
+        [
+            "Hong Jiangshui",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "Meng Sanchun",
+            "Brother, Business Partner"
+        ],
+        [
+            "ZHANG HONGSHENG",
+            "boss, sympathetic"
+        ],
+        [
+            "Cai Siniang",
+            "Friend",
+            "Business Partner"
+        ]
+    ],
+    "ZHANG HONGSHENG": [
+        [
+            "Hong Jiangshui",
+            "Employer, Friend"
+        ],
+        [
+            "Meng Sanchun",
+            "friend, business partner"
+        ],
+        [
+            "ZHANG JINYIN",
+            "boss, wise"
+        ],
+        [
+            "Cai Siniang",
+            "Employer of X",
+            "Master of X"
+        ]
+    ],
+    "Cai Siniang": [
+        [
+            "Hong Jiangshui",
+            "friend, potential love interest"
+        ],
+        [
+            "Meng Sanchun",
+            "Wife of X",
+            "Stranger to X"
+        ],
+        [
+            "ZHANG JINYIN",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "ZHANG HONGSHENG",
+            "Employee of X",
+            "Servant of X"
+        ]
+    ]
+}

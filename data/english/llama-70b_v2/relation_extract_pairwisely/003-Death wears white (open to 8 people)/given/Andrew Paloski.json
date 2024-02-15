@@ -1,0 +1,74 @@
+{
+    "Andrew Paloski": [
+      ["Dean Berkeley", "superior of x, employee of x, master of x, subordinate of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x"], 
+      ["Drake Li Morette", "hans li morette of x, father tom of x, head nurse costa of x, eleine carter of x, dean berkeley of x, gale li morette of x"], 
+      ["Elaine Carter", "teacher of x, mentor of x, supervisor of x, employer of x"], 
+      ["Father Tom", "mentor of x, teacher of x, informant of x, acquaintance of x, colleague of x"], 
+      ["Hans Li Morette", "rival of x, colleague of x"], 
+      ["Head Nurse Costa", "rival of x, mentor of x"], 
+      ["Scott", "son of x, deceased of x"]
+    ],
+    "Dean Berkeley": [
+      ["Andrew Paloski", "superior of x, employee of x, master of x, subordinate of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x"], 
+      ["Drake Li Morette", "hans li morette of x, eleine carter of x, head nurse costa of x, father tom of x, gale li morette of x"], 
+      ["Elaine Carter", "supervisor of x, employer of x"], 
+      ["Father Tom", "acquaintance of x"], 
+      ["Hans Li Morette", "mentor of x, teacher of x, supervisor of x, employer of x"], 
+      ["Head Nurse Costa", "superior of x, employer of x"], 
+      ["Scott", "friend of x"]
+    ],
+    "Drake Li Morette": [
+      ["Andrew Paloski", "hans li morette of x, father tom of x, head nurse costa of x, eleine carter of x, dean berkeley of x, gale li morette of x"], 
+      ["Dean Berkeley", "hans li morette of x, eleine carter of x, head nurse costa of x, father tom of x, gale li morette of x"], 
+      ["Elaine Carter", "mentor of x, teacher of x, employee of x"], 
+      ["Father Tom", "hans li morette of x, eleine carter of x, dean berkeley of x, head nurse costa of x"], 
+      ["Hans Li Morette", "brother of x, rival of x, colleague of x"], 
+      ["Head Nurse Costa", "colleague of x"], 
+      ["Scott", "hans li morette of x, eleine carter of x, dean berkeley of x, head nurse costa of x, father tom of x, gale li morette of x"]
+    ],
+    "Elaine Carter": [
+      ["Andrew Paloski", "student of x, mentee of x, subordinate of x, employee of x"], 
+      ["Dean Berkeley", "intern of x, employee of x"], 
+      ["Drake Li Morette", "mentee of x, student of x, subordinate of x"], 
+      ["Father Tom", "acquaintance of x"], 
+      ["Hans Li Morette", "rival of x, acquaintance of x"], 
+      ["Head Nurse Costa", "supervisor of x, mentor of x"], 
+      ["Scott", "son of x, victim of x"]
+    ],
+    "Father Tom": [
+      ["Andrew Paloski", "mentor of x, teacher of x, informant of x, acquaintance of x, colleague of x"], 
+      ["Dean Berkeley", "acquaintance of x"], 
+      ["Drake Li Morette", "hans li morette of x"], 
+      ["Elaine Carter", "acquaintance of x"], 
+      ["Hans Li Morette", "friend of x"], 
+      ["Head Nurse Costa", "friend of x"], 
+      ["Scott", "friend of x, confidant of x"]
+    ],
+    "Hans Li Morette": [
+      ["Andrew Paloski", "rival of x, colleague of x"], 
+      ["Dean Berkeley", "mentee of x, student of x, subordinate of x, employee of x"], 
+      ["Drake Li Morette", "brother of x, rival of x, colleague of x"], 
+      ["Elaine Carter", "rival of x, acquaintance of x"], 
+      ["Father Tom", "friend of x"], 
+      ["Head Nurse Costa", "colleague of x, rival of x"], 
+      ["Scott", "teacher student of x, rival of x"]
+    ],
+    "Head Nurse Costa": [
+      ["Andrew Paloski", "rival of x, mentee of x"], 
+      ["Dean Berkeley", "subordinate of x, employee of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Elaine Carter", "supervisor of x, mentor of x"], 
+      ["Father Tom", "colleague of x"], 
+      ["Hans Li Morette", "colleague of x, supervisor of x"], 
+      ["Scott", "same person as x (different reference), same person as x (different identity)"]
+    ],
+    "Scott": [
+      ["Andrew Paloski", "father of x, deceased of x"], 
+      ["Dean Berkeley", "friend of x"], 
+      ["Drake Li Morette", "hans li morette of x, eleine carter of x, dean berkeley of x, head nurse costa of x, father tom of x, gale li morette of x"], 
+      ["Elaine Carter", "son of x, victim of x"], 
+      ["Father Tom", "son of x, protege of x"], 
+      ["Hans Li Morette", "son of x, victim of x"], 
+      ["Head Nurse Costa", "son of x"]
+    ]
+}

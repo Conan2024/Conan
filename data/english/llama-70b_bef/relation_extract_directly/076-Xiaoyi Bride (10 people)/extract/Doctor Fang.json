@@ -1,0 +1,73 @@
+{
+    "Fang Minyue": [
+      ["Fang Chengshan", "father of x"], 
+      ["Master Meng", "employee of x"], 
+      ["Steward Du", "colleague of x"], 
+      ["Yao Changshou", "cousin of x, adversary of x"], 
+      ["Yao Zhongyi", "cousin of x, suspicious of x"], 
+      ["Zhang Yadi", "nephew of x, manipulator of x"], 
+      ["Zhang Decai", "friend of x"], 
+      ["Tian Hongjiao", "cousin of x, customer of x"]
+    ],
+    "Fang Chengshan": [
+      ["Fang Minyue", "daughter of x"], 
+      ["Master Meng", "employer of x"], 
+      ["Steward Du", "colleague of x"], 
+      ["Yao Changshou", "cousin of x, adversary of x"], 
+      ["Yao Zhongyi", "cousin of x, suspicious of x"]
+    ],
+    "Master Meng": [
+      ["Fang Chengshan", "employee of x"], 
+      ["Steward Du", "colleague of x"], 
+      ["Yao Changshou", "cousin of x, adversary of x"], 
+      ["Yao Zhongyi", "cousin of x, suspicious of x"]
+    ],
+    "Steward Du": [
+      ["Fang Chengshan", "colleague of x"], 
+      ["Master Meng", "employer of x"], 
+      ["Yao Changshou", "cousin of x, adversary of x"], 
+      ["Yao Zhongyi", "cousin of x, suspicious of x"]
+    ],
+    "Yao Changshou": [
+      ["Fang Minyue", "cousin of x, adversary of x"], 
+      ["Fang Chengshan", "cousin of x"], 
+      ["Master Meng", "employer of x"], 
+      ["Steward Du", "colleague of x"], 
+      ["Yao Zhongyi", "brother of x, suspicious of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Fang Minyue", "cousin of x, suspicious of x"], 
+      ["Fang Chengshan", "cousin of x"], 
+      ["Master Meng", "employer of x"], 
+      ["Steward Du", "colleague of x"], 
+      ["Yao Changshou", "brother of x, adversary of x"]
+    ],
+    "Zhang Yadi": [
+      ["Fang Minyue", "nephew of x, manipulator of x"], 
+      ["Fang Chengshan", "nephew of x, manipulator of x"]
+    ],
+    "Zhang Decai": [
+      ["Fang Minyue", "friend of x"], 
+      ["Fang Chengshan", "friend of x"]
+    ],
+    "Tian Hongjiao": [
+      ["Fang Minyue", "cousin of x, customer of x"], 
+      ["Fang Chengshan", "cousin of x, customer of x"]
+    ],
+    "Mysterious Man": [
+      ["Fang Minyue", "suspect of x, adversary of x"], 
+      ["Fang Chengshan", "suspect of x, adversary of x"]
+    ],
+    "Yao Mengren": [
+      ["Yao Changshou", "father of x"], 
+      ["Yao Zhongyi", "brother of x"]
+    ],
+    "Lady Hong": [
+      ["Yao Changshou", "sister in law of x"], 
+      ["Tian Hongjiao", "cousin of x"]
+    ],
+    "Fang ChenGshan": [
+      ["Fang Minyue", "father of x"], 
+      ["Fang Chengshan", "father of x"]
+    ]
+}

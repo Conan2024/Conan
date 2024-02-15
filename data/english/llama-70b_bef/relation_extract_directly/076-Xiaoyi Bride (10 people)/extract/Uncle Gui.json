@@ -1,0 +1,44 @@
+{
+    "Uncle Gui": [
+      ["Lady Hong", "employer of x, friend of x"], 
+      ["Yao Changshou", "master of x, victim of x"], 
+      ["Physician Yu", "colleague of x, helper of x"], 
+      ["Yao Zhongyi", "acquaintance of x, friend of x"], 
+      ["Chen Junmeng", "acquaintance of x, patient of x"]
+    ],
+    "Lady Hong": [
+      ["Uncle Gui", "employer of x, friend of x"], 
+      ["Yao Changshou", "husband of x, victim of x"], 
+      ["Physician Yu", "employer of x"], 
+      ["Yao Zhongyi", "mother of x, employer of x"], 
+      ["Chen Junmeng", "mother in law of x, employer of x"]
+    ],
+    "Yao Changshou": [
+      ["Uncle Gui", "master of x, victim of x"], 
+      ["Lady Hong", "wife of x, employer of x"], 
+      ["Physician Yu", "victim of x"], 
+      ["Yao Zhongyi", "father of x, victim of x"], 
+      ["Chen Junmeng", "father in law of x, victim of x"]
+    ],
+    "Physician Yu": [
+      ["Uncle Gui", "colleague of x, helper of x"], 
+      ["Lady Hong", "employer of x"], 
+      ["Yao Changshou", "victim of x"], 
+      ["Yao Zhongyi", "colleague of x"], 
+      ["Chen Junmeng", "patient of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Uncle Gui", "acquaintance of x, friend of x"], 
+      ["Lady Hong", "mother of x, employer of x"], 
+      ["Yao Changshou", "father of x, victim of x"], 
+      ["Physician Yu", "colleague of x"], 
+      ["Chen Junmeng", "sister in law of x, friend of x"]
+    ],
+    "Chen Junmeng": [
+      ["Uncle Gui", "acquaintance of x, patient of x"], 
+      ["Lady Hong", "mother in law of x, employer of x"], 
+      ["Yao Changshou", "father in law of x, victim of x"], 
+      ["Physician Yu", "doctor of x, helper of x"], 
+      ["Yao Zhongyi", "sister in law of x, friend of x"]
+    ]
+}

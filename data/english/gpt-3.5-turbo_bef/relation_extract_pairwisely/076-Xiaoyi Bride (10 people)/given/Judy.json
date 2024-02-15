@@ -1,0 +1,149 @@
+{
+    "Judy": [
+      ["Zhang Decai", "helper of x"], 
+      ["Zhang Yadi", "aunt of x"], 
+      ["Yao Changshou", "uncle of x"], 
+      ["Yao Mengren", "ex romantic relationships with x"], 
+      ["Yao Zhongyi", "wife of x"], 
+      ["Fang Minyue", "friend of x"], 
+      ["Fang Chengshan", "helper of x, informant of x"], 
+      ["Lady Hong", "friend of x"], 
+      ["White-headed Snake", "informant of x"], 
+      ["Fan Jinkui", "helper of x, quest companion of x"], 
+      ["Doctor Fang", "friend of x"]
+    ],
+    "Zhang Decai": [
+      ["Judy", "extramarital affair with x"], 
+      ["Yao Changshou", "concubine of x"], 
+      ["Yao Mengren", "helper of x"], 
+      ["Yao Zhongyi", "child of x"], 
+      ["Madam Xu", "romantic relationships with x"], 
+      ["Fang Minyue", "acquaintance of x"], 
+      ["White-headed Snake", "quest companion of x, suspected by x"], 
+      ["Fan Jinkui", "acquaintance of x"], 
+      ["Doctor Fang", "admirer of x, friend of x"]
+    ],
+    "Zhang Yadi": [
+      ["Judy", "niece of x"], 
+      ["Yao Changshou", "concubine of x, relative of x"], 
+      ["Yao Mengren", "concubine of x"], 
+      ["Yao Zhongyi", "child of x"], 
+      ["Madam Xu", "co wives of x"], 
+      ["Fang Minyue", "friend of x"], 
+      ["Fang Chengshan", "co wives of x"], 
+      ["Lady Hong", "concubine of x"], 
+      ["Fan Jinkui", "guard of x"], 
+      ["Doctor Fang", "aunt of x, helper of x"]
+    ],
+    "Yao Changshou": [
+      ["Judy", "niece of x"], 
+      ["Zhang Yadi", "husband of x, relative of x"], 
+      ["Yao Zhongyi", "father of x"], 
+      ["Madam Xu", "husband of x, wife of x"], 
+      ["Fang Minyue", "concubine of x"], 
+      ["Fang Chengshan", "extramarital affair with x"], 
+      ["Lady Hong", "husband of x"], 
+      ["White-headed Snake", "concubine of x"]
+    ],
+    "Yao Mengren": [
+      ["Judy", "attempted perpetrator of x"], 
+      ["Zhang Decai", "perpetrator of x"], 
+      ["Zhang Yadi", "child of x"], 
+      ["Yao Zhongyi", "husband of x"], 
+      ["Madam Xu", "extramarital affair with x"], 
+      ["Fang Minyue", "romantic relationships with x"], 
+      ["Fang Chengshan", "friend of x"], 
+      ["Lady Hong", "husband of x"], 
+      ["White-headed Snake", "business partner of x"], 
+      ["Doctor Fang", "wife of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Judy", "son of x"], 
+      ["Zhang Decai", "mother of x"], 
+      ["Zhang Yadi", "mother of x"], 
+      ["Yao Changshou", "son of x"], 
+      ["Yao Mengren", "child of x"], 
+      ["Madam Xu", "fiancee of x"], 
+      ["Fang Minyue", "child of x"], 
+      ["Fang Chengshan", "student of x"], 
+      ["Lady Hong", "husband of x"], 
+      ["White-headed Snake", "helper of x"], 
+      ["Fan Jinkui", "quest companion of x"], 
+      ["Doctor Fang", "child of x"]
+    ],
+    "Madam Xu": [
+      ["Zhang Decai", "romantic relationships with x"], 
+      ["Zhang Yadi", "co wives of x"], 
+      ["Yao Changshou", "wife of x, husband of x"], 
+      ["Yao Mengren", "extramarital affair with x"], 
+      ["Yao Zhongyi", "fiance of x"], 
+      ["Fang Minyue", "friend of x"], 
+      ["Lady Hong", "wife of x"], 
+      ["White-headed Snake", "helper of x"], 
+      ["Fan Jinkui", "host of x"]
+    ],
+    "Fang Minyue": [
+      ["Judy", "friend of x"], 
+      ["Zhang Decai", "acquaintance of x"], 
+      ["Zhang Yadi", "friend of x"], 
+      ["Yao Mengren", "romantic relationships with x"], 
+      ["Yao Zhongyi", "child of x"], 
+      ["Madam Xu", "friend of x"], 
+      ["Lady Hong", "friend of x"], 
+      ["Doctor Fang", "friend of x"]
+    ],
+    "Fang Chengshan": [
+      ["Judy", "friend of x"], 
+      ["Zhang Yadi", "co wives of x"], 
+      ["Yao Changshou", "extramarital affair with x"], 
+      ["Yao Mengren", "friend of x"], 
+      ["Yao Zhongyi", "mentor of x"], 
+      ["Lady Hong", "possibly family of x, possibly family of x"], 
+      ["White-headed Snake", "friend of x"], 
+      ["Doctor Fang", "informant of x"]
+    ],
+    "Lady Hong": [
+      ["Judy", "friend of x"], 
+      ["Yao Changshou", "wife of x"], 
+      ["Yao Mengren", "wife of x"], 
+      ["Yao Zhongyi", "wife of x"], 
+      ["Madam Xu", "husband of x"], 
+      ["Fang Minyue", "friend of x"], 
+      ["Fang Chengshan", "possibly family of x, possibly family of x"], 
+      ["stranger to x", "friend of x"], 
+      ["Doctor Fang", "co wives of x"]
+    ],
+    "White-headed Snake": [
+      ["Judy", "information receiver from x"], 
+      ["Zhang Decai", "quest companion of x, suspected by x"], 
+      ["Zhang Yadi", "employer of x"], 
+      ["Yao Changshou", "concubine of x"], 
+      ["Yao Mengren", "business partner of x"], 
+      ["Yao Zhongyi", "helped by x"], 
+      ["Madam Xu", "helped by x"], 
+      ["Fang Chengshan", "friend of x"], 
+      ["Fan Jinkui", "helper of x"], 
+      ["Doctor Fang", "romantic relationships with x"]
+    ],
+    "Fan Jinkui": [
+      ["Judy", "helper of x, quest companion of x"], 
+      ["Zhang Decai", "acquaintance of x"], 
+      ["Zhang Yadi", "employer of x"], 
+      ["Yao Zhongyi", "quest companion of x"], 
+      ["Madam Xu", "helper of x"], 
+      ["stranger to x", "friend of x"], 
+      ["White-headed Snake", "helper of x"], 
+      ["Doctor Fang", "friend of x"]
+    ],
+    "Doctor Fang": [
+      ["Judy", "friend of x"], 
+      ["Zhang Decai", "admirer of x, friend of x"], 
+      ["Zhang Yadi", "niece of x, helped by x"], 
+      ["Yao Mengren", "husband of x"], 
+      ["Yao Zhongyi", "mother of x"], 
+      ["Fang Minyue", "friend of x"], 
+      ["Lady Hong", "co wives of x"], 
+      ["White-headed Snake", "romantic relationships with x"], 
+      ["Fan Jinkui", "friend of x"]
+    ]
+}

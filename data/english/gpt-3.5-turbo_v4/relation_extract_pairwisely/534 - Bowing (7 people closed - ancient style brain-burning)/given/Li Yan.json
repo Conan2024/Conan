@@ -1,0 +1,14 @@
+{
+    "Li Yan": [
+      ["Chen Zijing", "romantic relationships with x"], 
+      ["Chen Qian", "friend of x, possibly family of x"]
+    ],
+    "Chen Zijing": [
+      ["Li Yan", "romantic relationships with x"], 
+      ["Chen Qian", "romantic relationships with x"]
+    ],
+    "Chen Qian": [
+      ["Li Yan", "friend of x, possibly family of x"], 
+      ["Chen Zijing", "romantic relationships with x"]
+    ]
+}

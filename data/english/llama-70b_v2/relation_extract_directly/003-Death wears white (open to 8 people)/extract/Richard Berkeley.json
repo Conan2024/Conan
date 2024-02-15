@@ -1,0 +1,29 @@
+{
+    "Dr. Richard Berkeley": [
+      ["Hans Li Morette", "colleague of x, potential adversary of x"], 
+      ["Laine Carter", "acquaintance of x, potential ally of x"], 
+      ["Dr. Paloski", "supervisor of x, mentor of x"], 
+      ["Sylvia Costa", "colleague of x, acquaintance of x"], 
+      ["Father Tom", "acquaintance of x, potential ally of x"]
+    ],
+    "Hans Li Morette": [
+      ["Dr. Richard Berkeley", "colleague of x, potential adversary of x"], 
+      ["Laine Carter", "acquaintance of x, potential ally of x"]
+    ],
+    "Laine Carter": [
+      ["Dr. Richard Berkeley", "acquaintance of x, potential ally of x"], 
+      ["Hans Li Morette", "acquaintance of x, potential ally of x"]
+    ],
+    "Dr. Paloski": [
+      ["Dr. Richard Berkeley", "supervisor of x, mentor of x"], 
+      ["Laine Carter", "intern of x, potential ally of x"], 
+      ["Father Tom", "colleague of x, acquaintance of x"]
+    ],
+    "Sylvia Costa": [
+      ["Dr. Richard Berkeley", "colleague of x, acquaintance of x"]
+    ],
+    "Father Tom": [
+      ["Dr. Richard Berkeley", "acquaintance of x, potential ally of x"], 
+      ["Dr. Paloski", "colleague of x, acquaintance of x"]
+    ]
+}

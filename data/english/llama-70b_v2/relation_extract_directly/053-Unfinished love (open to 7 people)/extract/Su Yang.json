@@ -1,0 +1,50 @@
+{
+    "Su Yang": [
+      ["Lin Xi", "lover of x, protector of x, and avenger of x"], 
+      ["Lin Tong", "former lover of x, deceased of x"], 
+      ["Dean Lin", "master of x, lin xi's father, and lin tong's killer of x"], 
+      ["Gu Qing", "rival in love of x, lin xi's suitor"], 
+      ["Shen Cheng", "housekeeper of x dean lin, lin tong's father of x"], 
+      ["Gu Ming", "murder victim of x, lin xi's enemy"]
+    ],
+    "Lin Tong": [
+      ["Su Yang", "lover of x, protector of x, and avenger of x"], 
+      ["Lin Xi", "heart donor of x, similar in appearance and behavior of x"], 
+      ["Dean Lin", "father of x, murderer of x, and adversary of x"], 
+      ["Shen Cheng", "housekeeper of x, father's assistant of x"], 
+      ["Gu Qing", "rival in love of x, su yang's enemy of x"]
+    ],
+    "Lin Xi": [
+      ["Su Yang", "lover of x, protector of x, and avenger of x"], 
+      ["Lin Tong", "heart donor of x, similar in appearance and behavior of x"], 
+      ["Dean Lin", "father of x, murderer of x"], 
+      ["Shen Cheng", "housekeeper of x, father's assistant of x"], 
+      ["Gu Qing", "rival in love of x, su yang's enemy of x"]
+    ],
+    "Dean Lin": [
+      ["Su Yang", "student of x, protege of x, and enemy of x"], 
+      ["Lin Tong", "daughter of x, murder victim of x"], 
+      ["Lin Xi", "daughter of x, heart recipient of x"], 
+      ["Shen Cheng", "housekeeper of x, assistant of x"], 
+      ["Gu Qing", "business partner of x, lin xi's suitor"]
+    ],
+    "Gu Qing": [
+      ["Su Yang", "rival in love of x, enemy of x"], 
+      ["Lin Xi", "suitor of x, lin tong's heart recipient of x"], 
+      ["Dean Lin", "business partner of x, lin xi's father"], 
+      ["Shen Cheng", "housekeeper of x, dean lin's assistant of x"]
+    ],
+    "Shen Cheng": [
+      ["Su Yang", "acquaintance of x, observer of x"], 
+      ["Lin Tong", "father's housekeeper of x, acquaintance of x"], 
+      ["Lin Xi", "father's housekeeper of x, acquaintance of x"], 
+      ["Dean Lin", "master of x, employer of x"], 
+      ["Gu Qing", "acquaintance of x, business partner's housekeeper of x"]
+    ],
+    "Gu Ming": [
+      ["Su Yang", "murderer of x, enemy of x"], 
+      ["Lin Xi", "enemy of x, heart recipient's killer of x"], 
+      ["Dean Lin", "business partner of x, murder victim's father of x"], 
+      ["Shen Cheng", "housekeeper of x, acquaintance of x"]
+    ]
+}

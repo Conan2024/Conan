@@ -1,0 +1,26 @@
+{
+    "David": [
+      ["Gust", "former partner of x, adversary of x"], 
+      ["Rowling", "former partner of x, pursuer of x"], 
+      ["Kevin", "security of x, acquaintance of x"], 
+      ["Ella", "assistant of x, friend of x rowling"]
+    ],
+    "Gust": [
+      ["David", "former partner of x, adversary of x"], 
+      ["Rowling", "former partner of x, manipulator of x"], 
+      ["Ella", "assistant of x, love interest of x"]
+    ],
+    "Rowling": [
+      ["David", "former partner of x, pursued of x"], 
+      ["Gust", "former partner of x, manipulated of x"], 
+      ["Kevin", "security of x, acquaintance of x"]
+    ],
+    "Kevin": [
+      ["David", "acquaintance of x"], 
+      ["Rowling", "security of x, unusual relationship of x"]
+    ],
+    "Ella": [
+      ["Gust", "assistant of x, love interest of x"], 
+      ["David", "friend of x, assistant of x"]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Yue Dongwen": [
+      ["XIA Sanhu", "debtor of x"], 
+      ["Wu Baian", "business partner of x"], 
+      ["Yue Kesa", "father of x"], 
+      ["XIA ZHONGPENG", "acquaintance of x"], 
+      ["XIA Shue", "acquaintance of x"]
+    ],
+    "XIA Sanhu": [
+      ["Yue Dongwen", "debtor of x"], 
+      ["Wu Baian", "friend of x"]
+    ],
+    "Wu Baian": [
+      ["Yue Dongwen", "business partner of x"], 
+      ["XIA Sanhu", "friend of x"]
+    ],
+    "Yue Kesa": [
+      ["Yue Dongwen", "son of x"], 
+      ["XIA Sanhu", "acquaintance of x"]
+    ],
+    "XIA ZHONGPENG": [
+      ["XIA Sanhu", "brother of x"]
+    ],
+    "XIA Shue": [
+      ["XIA Sanhu", "niece of x"], 
+      ["Yue Dongwen", "acquaintance of x"]
+    ],
+    "AMING": [
+      ["Yue Dongwen", "friend of x"]
+    ]
+}

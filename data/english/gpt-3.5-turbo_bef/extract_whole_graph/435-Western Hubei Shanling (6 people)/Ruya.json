@@ -1,0 +1,49 @@
+{
+    "Ruya": [
+      ["Ali", "lover of x"], 
+      ["Ayse", "sister of x"], 
+      ["Gui Yin", "husband of x"], 
+      ["Li Demu", "lover of x"]
+    ],
+    "Ali": [
+      ["Ruya", "lover of x"], 
+      ["Ayse", "brother in law of x"], 
+      ["Fatih", "friend of x"]
+    ],
+    "Ayse": [
+      ["Ruya", "sister of x"], 
+      ["Ali", "sister in law of x"]
+    ],
+    "Fatih": [
+      ["Ali", "friend of x"]
+    ],
+    "Gui Yin": [
+      ["Ruya", "wife of x"]
+    ],
+    "Gan Ma": [
+      ["Chen Sha", "acquaintance of x"]
+    ],
+    "Falcon": [
+      ["Li Demu", "brother of x"]
+    ],
+    "Chen Sha": [
+      ["Gan Ma", "acquaintance of x"], 
+      ["Zheng Hanzhen", "acquaintance of x"], 
+      ["Ba Mansion Mountain", "employer of x"]
+    ],
+    "Li Demu": [
+      ["Ruya", "lover of x"], 
+      ["Li Gaobai", "brother of x"], 
+      ["Falcon", "brother of x"]
+    ],
+    "Li Gaobai": [
+      ["Falcon", "brother of x"], 
+      ["Li Demu", "brother of x"]
+    ],
+    "Zheng Hanzhen": [
+      ["Chen Sha", "acquaintance of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Chen Sha", "employer of x"]
+    ]
+}

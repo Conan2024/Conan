@@ -1,0 +1,68 @@
+{
+    "Dr. Paloski": [
+      ["Hans Rymorite", "superior of x, teacher of x, mentor of x"], 
+      ["Head Nurse Costa", "mentor of x"], 
+      ["Father Tom", "mentor of x"], 
+      ["Gallimerret", "mentor of x"], 
+      ["Eric", "mentor of x"]
+    ],
+    "Hans Rymorite": [
+      ["Dr. Paloski", "superior of x, teacher of x, mentor of x"], 
+      ["Drake Rimerite", "brother of x, colleague of x"], 
+      ["Head Nurse Costa", "colleague of x, friend of x"], 
+      ["Hospital Dean Berkeley", "superior of x, employer of x, master of x"], 
+      ["Gallimerret", "friend of x, colleague of x"], 
+      ["Jim Mason", "colleague of x, friend of x"]
+    ],
+    "Drake Rimerite": [
+      ["Hans Rymorite", "brother of x, colleague of x"], 
+      ["Hospital Dean Berkeley", "superior of x, employee of x, servant of x"], 
+      ["Father Tom", "acquaintance of x"], 
+      ["Gallimerret", "colleague of x"], 
+      ["Jim Mason", "colleague of x, friend of x"]
+    ],
+    "Head Nurse Costa": [
+      ["Dr. Paloski", "mentor of x"], 
+      ["Hans Rymorite", "colleague of x, friend of x"], 
+      ["Hospital Dean Berkeley", "superior of x, employee of x"], 
+      ["Father Tom", "colleague of x"], 
+      ["Jim Mason", "colleague of x"]
+    ],
+    "Hospital Dean Berkeley": [
+      ["Hans Rymorite", "superior of x, employer of x, master of x"], 
+      ["Drake Rimerite", "superior of x, employer of x, master of x"], 
+      ["Head Nurse Costa", "superior of x, employer of x"], 
+      ["Father Tom", "superior of x, employer of x"], 
+      ["Gallimerret", "superior of x, employer of x"], 
+      ["Jim Mason", "acquaintance of x"]
+    ],
+    "Father Tom": [
+      ["Dr. Paloski", "mentor of x"], 
+      ["Drake Rimerite", "acquaintance of x"], 
+      ["Head Nurse Costa", "colleague of x"], 
+      ["Hospital Dean Berkeley", "superior of x, employer of x"], 
+      ["Gallimerret", "acquaintance of x"]
+    ],
+    "Gallimerret": [
+      ["Dr. Paloski", "subordinate of x"], 
+      ["Hans Rymorite", "wife of x, acquaintance of x"], 
+      ["Drake Rimerite", "colleague of x"], 
+      ["Hospital Dean Berkeley", "wife of x"], 
+      ["Father Tom", "acquaintance of x"], 
+      ["Jim Mason", "wife of x, co wives of x"], 
+      ["Eric", "wife of x, acquaintance of x"]
+    ],
+    "Jim Mason": [
+      ["Hans Rymorite", "colleague of x, friend of x"], 
+      ["Drake Rimerite", "colleague of x, friend of x"], 
+      ["Head Nurse Costa", "colleague of x"], 
+      ["Hospital Dean Berkeley", "acquaintance of x"], 
+      ["Gallimerret", "husband of x, ex romantic relationships with x"], 
+      ["Eric", "acquaintance of x, colleague of x"]
+    ],
+    "Eric": [
+      ["Dr. Paloski", "subordinate of x"], 
+      ["Gallimerret", "husband of x, acquaintance of x"], 
+      ["Jim Mason", "acquaintance of x, colleague of x"]
+    ]
+}

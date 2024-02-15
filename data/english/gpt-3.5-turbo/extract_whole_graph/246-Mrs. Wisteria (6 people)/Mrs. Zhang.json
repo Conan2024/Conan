@@ -1,0 +1,124 @@
+{
+    "Mrs. Zhang": [
+        [
+            "Mr. Zhang",
+            "husband of Mrs. Zhang"
+        ],
+        [
+            "Daughter",
+            "mother of Daughter, sister of Son"
+        ],
+        [
+            "Son",
+            "mother of Son, brother of Daughter"
+        ],
+        [
+            "Zhi Jun",
+            "aunt of Zhi Jun, mentor of Zhi Jun"
+        ],
+        [
+            "Yu Yancheng",
+            "informant of Mrs. Zhang, information receiver from Mrs. Zhang"
+        ],
+        [
+            "Le Wan",
+            "employee of Mrs. Zhang, helper of Mrs. Zhang"
+        ],
+        [
+            "Ge Yueman",
+            "friend of Mrs. Zhang"
+        ],
+        [
+            "Lü Lusheng",
+            "stranger to Mrs. Zhang"
+        ],
+        [
+            "Xue Yufan",
+            "stranger to Mrs. Zhang"
+        ]
+    ],
+    "Daughter": [
+        [
+            "Mrs. Zhang",
+            "daughter of Mrs. Zhang"
+        ],
+        [
+            "Son",
+            "sibling of Daughter"
+        ],
+        [
+            "Zhi Jun",
+            "informant of Daughter"
+        ]
+    ],
+    "Son": [
+        [
+            "Mrs. Zhang",
+            "son of Mrs. Zhang"
+        ],
+        [
+            "Daughter",
+            "sibling of Son"
+        ],
+        [
+            "Zhi Jun",
+            "informant of Son"
+        ]
+    ],
+    "Zhi Jun": [
+        [
+            "Mrs. Zhang",
+            "niece of Mrs. Zhang"
+        ],
+        [
+            "Yu Shangyong",
+            "informant of Zhi Jun, information receiver from Zhi Jun"
+        ],
+        [
+            "Daughter",
+            "informant of Zhi Jun"
+        ],
+        [
+            "Son",
+            "informant of Zhi Jun"
+        ]
+    ],
+    "Yu Yancheng": [
+        [
+            "Mrs. Zhang",
+            "informant of Yu Yancheng, information receiver from Yu Yancheng"
+        ],
+        [
+            "Zhi Jun",
+            "informant of Yu Yancheng, information receiver from Yu Yancheng"
+        ]
+    ],
+    "Le Wan": [
+        [
+            "Mrs. Zhang",
+            "employee of Le Wan, helper of Le Wan"
+        ],
+        [
+            "Yu Shangyong",
+            "informant of Le Wan, information receiver from Le Wan"
+        ]
+    ],
+    "Ge Yueman": [
+        [
+            "Mrs. Zhang",
+            "friend of Ge Yueman"
+        ]
+    ],
+    "Lü Lusheng": [
+        [
+            "Mrs. Zhang",
+            "stranger to Lü Lusheng"
+        ]
+    ],
+    "Xue Yufan": [
+        [
+            "Mrs. Zhang",
+            "stranger to Xue Yufan"
+        ]
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "Hu Investigate": [
+      ["Zhao Cishan", "adversary of x, enemy of x"], 
+      ["Office Li", "acquaintance of x, colleague of x"], 
+      ["Chief Wang", "suspect of x, possible murderer of x"]
+    ],
+    "Zhao Cishan": [
+      ["Hu Investigate", "adversary of x, enemy of x"], 
+      ["Chief Wang", "accomplice of x, collaborator of x"]
+    ],
+    "Office Li": [
+      ["Hu Investigate", "acquaintance of x, colleague of x"], 
+      ["Chief Wang", "superior of x, employer of x"]
+    ],
+    "Chief Wang": [
+      ["Hu Investigate", "suspect of x, possible murderer of x"], 
+      ["Zhao Cishan", "accomplice of x, collaborator of x"], 
+      ["Office Li", "superior of x, employer of x"]
+    ]
+}

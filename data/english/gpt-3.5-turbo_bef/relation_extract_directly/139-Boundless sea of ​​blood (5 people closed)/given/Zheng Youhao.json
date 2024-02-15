@@ -1,0 +1,19 @@
+{
+    "Zheng Youhao": [
+      ["Qin Laoda", "friend of x, helped by x"], 
+      ["Wei Xiaodi", "friend of x, helped by x"]
+    ],
+    "Qin Laoda": [
+      ["Zheng Youhao", "friend of x, helper of x"], 
+      ["Wei Xiaodi", "friend of x, helper of x"], 
+      ["Jia Meili", "romantic relationships with x"], 
+      ["Unknown", "victim of x"]
+    ],
+    "Jia Meili": [
+      ["Qin Laoda", "romantic relationships with x"]
+    ],
+    "Wei Xiaodi": [
+      ["Zheng Youhao", "friend of x, helper of x"], 
+      ["Qin Laoda", "friend of x, helper of x"]
+    ]
+}

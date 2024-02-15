@@ -1,0 +1,30 @@
+{
+    "Jia Meili": [
+      ["Qin Laoda", "acquaintance of x, classmate of x"], 
+      ["Wei Xiaodi", "friend of x, classmate of x"], 
+      ["Zheng Youhao", "friend of x, classmate of x"], 
+      ["Zhuang Qingchun", "friend of x, classmate of x"]
+    ],
+    "Qin Laoda": [
+      ["Jia Meili", "acquaintance of x, classmate of x"], 
+      ["Wei Xiaodi", "friend of x, acquaintance of x"], 
+      ["Zheng Youhao", "friend of x, savior of x, classmate of x"], 
+      ["Zhuang Qingchun", "friend of x, classmate of x"]
+    ],
+    "Wei Xiaodi": [
+      ["Jia Meili", "friend of x, classmate of x"], 
+      ["Qin Laoda", "friend of x, acquaintance of x"], 
+      ["Zheng Youhao", "friend of x, acquaintance of x"], 
+      ["Zhuang Qingchun", "friend of x, acquaintance of x"]
+    ],
+    "Zheng Youhao": [
+      ["Jia Meili", "friend of x, classmate of x"], 
+      ["Qin Laoda", "friend of x, saved of x, classmate of x"], 
+      ["Wei Xiaodi", "friend of x, acquaintance of x"]
+    ],
+    "Zhuang Qingchun": [
+      ["Jia Meili", "friend of x, classmate of x"], 
+      ["Qin Laoda", "friend of x, classmate of x"], 
+      ["Wei Xiaodi", "friend of x, acquaintance of x"]
+    ]
+}

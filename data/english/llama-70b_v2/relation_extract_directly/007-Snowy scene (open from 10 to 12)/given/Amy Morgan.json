@@ -1,0 +1,36 @@
+{
+    "Amy Morgan": [
+      ["Harold Harrison", "same person as x (different reference), brother of x"], 
+      ["Marina Harrison", "same person as x (different identity), sister of x"], 
+      ["Lucy Harrison", "same person as x (different reference), sister of x"], 
+      ["Max Pike", "acquaintance of x"], 
+      ["Alex Harvey", "friend of x, lender of x"]
+    ],
+    "Harold Harrison": [
+      ["Amy Morgan", "same person as x (different reference), sister of x"], 
+      ["Marina Harrison", "same person as x (different identity), wife of x"], 
+      ["Lucy Harrison", "same person as x (different reference), daughter of x"], 
+      ["John Morgan", "husband of x, ex romantic relationships with x"]
+    ],
+    "Marina Harrison": [
+      ["Amy Morgan", "same person as x (different reference), sister of x"], 
+      ["Harold Harrison", "same person as x (different identity), husband of x"], 
+      ["Lucy Harrison", "same person as x (different reference), daughter of x"]
+    ],
+    "Lucy Harrison": [
+      ["Amy Morgan", "same person as x (different reference), sister of x"], 
+      ["Harold Harrison", "same person as x (different reference), father of x"], 
+      ["Marina Harrison", "same person as x (different reference), mother of x"]
+    ],
+    "Max Pike": [
+      ["Amy Morgan", "acquaintance of x"]
+    ],
+    "Alex Harvey": [
+      ["Amy Morgan", "friend of x, borrower of x"]
+    ],
+    "John Morgan": [
+      ["Amy Morgan", "ex romantic relationships with x, husband of x"], 
+      ["Harold Harrison", "brother of x, son of x"], 
+      ["Marina Harrison", "wife of x, daughter in law of x"]
+    ]
+}

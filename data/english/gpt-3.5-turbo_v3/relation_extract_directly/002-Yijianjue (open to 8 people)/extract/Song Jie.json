@@ -1,0 +1,72 @@
+{
+    "Song Jie": [
+        [
+            "Xuan Bingjiao",
+            "informant of x, information receiver from x"
+        ],
+        [
+            "Du Zhong",
+            "informant of x, information receiver from x"
+        ],
+        [
+            "Zi Su",
+            "informant of x, information receiver from x"
+        ],
+        [
+            "Ren Dong",
+            "friend of x"
+        ],
+        [
+            "Lu Ying",
+            "suspect of x"
+        ],
+        [
+            "Xuan Can",
+            "stranger to x"
+        ]
+    ],
+    "Xuan Bingjiao": [
+        [
+            "Song Jie",
+            "informant of x, information receiver from x"
+        ]
+    ],
+    "Du Zhong": [
+        [
+            "Song Jie",
+            "informant of x, information receiver from x"
+        ]
+    ],
+    "Zi Su": [
+        [
+            "Song Jie",
+            "informant of x, information receiver from x"
+        ]
+    ],
+    "Ren Dong": [
+        [
+            "Song Jie",
+            "friend of x"
+        ]
+    ],
+    "Lu Ying": [
+        [
+            "Song Jie",
+            "suspected by x"
+        ],
+        [
+            "Xuan Can",
+            "stranger to x"
+        ]
+    ],
+    "Xuan Can": [
+        [
+            "Song Jie",
+            "stranger to x"
+        ],
+        [
+            "Lu Ying",
+            "stranger to x"
+        ]
+    ]
+}

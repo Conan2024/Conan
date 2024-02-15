@@ -1,0 +1,22 @@
+{
+    "Gust": [
+      ["Ella", "romantic relationships with gust of x"], 
+      ["David", "friend of x gust"], 
+      ["Kevin", "unknown relationship with gust of x"]
+    ],
+    "David": [
+      ["Ella", "admirer of x david"], 
+      ["Gust", "friend of x david"], 
+      ["Kevin", "unknown relationship with david of x"]
+    ],
+    "Kevin": [
+      ["Ella", "unknown relationship with kevin of x"], 
+      ["Gust", "unknown relationship with kevin of x"], 
+      ["David", "unknown relationship with kevin of x"]
+    ],
+    "Ella": [
+      ["Gust", "romantic relationships with ella of x"], 
+      ["David", "admirer of x ella"], 
+      ["Kevin", "unknown relationship with ella of x"]
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Richard Berkeley": [
+      ["Hans Li Morette", "fiance of x, master of x"], 
+      ["Elaine Carter", "employer of x"], 
+      ["Dr. Paloski", "mentor of x"], 
+      ["Father Tom", "mentor of x"]
+    ],
+    "Hans Li Morette": [
+      ["Richard Berkeley", "fiancee of x, servant of x"], 
+      ["Elaine Carter", "suspected by x"], 
+      ["Dr. Paloski", "colleague of x, employer of x"], 
+      ["Sylvia Costa", "employee of x"], 
+      ["Father Tom", "mentor of x"]
+    ],
+    "Elaine Carter": [
+      ["Richard Berkeley", "employee of x"], 
+      ["Hans Li Morette", "suspect of x"], 
+      ["Dr. Paloski", "student of x, helper of x"]
+    ],
+    "Dr. Paloski": [
+      ["Richard Berkeley", "student of x"], 
+      ["Hans Li Morette", "colleague of x, employee of x"], 
+      ["Elaine Carter", "mentor of x, teacher of x"], 
+      ["Sylvia Costa", "mentor of x"], 
+      ["Father Tom", "friend of x"]
+    ],
+    "Sylvia Costa": [
+      ["Hans Li Morette", "employer of x"], 
+      ["Dr. Paloski", "student of x"], 
+      ["Father Tom", "acquaintance of x, informant of x"]
+    ],
+    "Father Tom": [
+      ["Richard Berkeley", "acquaintance of x"], 
+      ["Hans Li Morette", "patient of x"], 
+      ["Dr. Paloski", "acquaintance of x"], 
+      ["Sylvia Costa", "acquaintance of x, informant of x"]
+    ]
+}

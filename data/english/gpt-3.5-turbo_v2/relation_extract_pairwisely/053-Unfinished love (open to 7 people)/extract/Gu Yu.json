@@ -1,0 +1,91 @@
+{
+    "Gu Yu": [
+      ["Gu Ming", "father of x gu yu"], 
+      ["Gu Qing", "sibling of x"], 
+      ["Lin Xi", "lover of x, ex boyfriend of x, suspicious of x"], 
+      ["Qin Siqin", "informant of x"], 
+      ["Chen Jingwen", "ex girlfriend of x"], 
+      ["Lin Weiren", "friend of x, subject of x investigation for x"], 
+      ["Chen Jingwen", "romantic relationships with x"], 
+      ["Su Yang", "ex girlfriend of x gu yu"]
+    ],
+    "Gu Ming": [
+      ["Gu Yu", "child of x gu ming"], 
+      ["Gu Qing", "father of x gu qing"], 
+      ["Lin Xi", "co worker of x, friend of x"], 
+      ["Qin Siqin", "suspected by x"], 
+      ["Zheng Xinmei", "extramarital affair with x"], 
+      ["Lin Weiren", "business partner of x"], 
+      ["Chen Jingwen", "extramarital affair with x"], 
+      ["Su Yang", "husband of x"]
+    ],
+    "Gu Qing": [
+      ["Gu Yu", "sibling of x"], 
+      ["Gu Ming", "daughter of x gu ming"], 
+      ["Lin Xi", "friend of x"], 
+      ["Qin Siqin", "ex romantic relationships with x"], 
+      ["Zheng Xinmei", "sister of x"], 
+      ["Lin Weiren", "friend of x"], 
+      ["Chen Jingwen", "extramarital affair with x"], 
+      ["Su Yang", "friend of x"]
+    ],
+    "Lin Xi": [
+      ["Gu Yu", "lover of x"], 
+      ["Gu Ming", "co worker of x, friend of x"], 
+      ["Gu Qing", "friend of x"], 
+      ["Qin Siqin", "fiance of x, patient of x"], 
+      ["Zheng Xinmei", "romantic relationships with x"], 
+      ["Chen Jingwen", "girlfriend of x"], 
+      ["Chen Jingwen", "romantic relationships with x"], 
+      ["Su Yang", "girlfriend of x"]
+    ],
+    "Qin Siqin": [
+      ["Gu Yu", "patient of x"], 
+      ["Gu Ming", "suspected by x"], 
+      ["Gu Qing", "ex romantic relationships with x"], 
+      ["Lin Xi", "fiancee of x, patient of x"], 
+      ["Zheng Xinmei", "romantic relationships with x"], 
+      ["Lin Weiren", "subject of x investigation for qin siqin"], 
+      ["Chen Jingwen", "patient of x"], 
+      ["Su Yang", "extramarital affair with x"]
+    ],
+    "Chen Jingwen": [
+      ["Gu Yu", "girlfriend of x"], 
+      ["Gu Yu", "romantic relationships with x"], 
+      ["Gu Ming", "extramarital affair with x"], 
+      ["Gu Qing", "extramarital affair with x"], 
+      ["Lin Xi", "romantic relationships with x"], 
+      ["Qin Siqin", "possibly family of x"], 
+      ["Zheng Xinmei", "child of x"], 
+      ["Lin Weiren", "fiancee of x"], 
+      ["Su Yang", "extramarital affair with x"]
+    ],
+    "Lin Weiren": [
+      ["Gu Yu", "superior of x"], 
+      ["Gu Ming", "business partner of x"], 
+      ["Lin Xi", "doctor of x lin xi"], 
+      ["Qin Siqin", "subject of x investigation for lin weiren"], 
+      ["Zheng Xinmei", "suspect of x"], 
+      ["Chen Jingwen", "fiance of x"], 
+      ["Su Yang", "employee of x"]
+    ],
+    "Su Yang": [
+      ["Gu Yu", "new girlfriend of x gu yu"], 
+      ["Gu Ming", "wife of x"], 
+      ["Gu Qing", "friend of x"], 
+      ["Lin Xi", "boyfriend of x"], 
+      ["Qin Siqin", "extramarital affair with x"], 
+      ["Zheng Xinmei", "extramarital affair with x"], 
+      ["Lin Weiren", "employer of x"], 
+      ["Chen Jingwen", "father of x"]
+    ],
+    "Zheng Xinmei": [
+      ["Gu Ming", "extramarital affair with x"], 
+      ["Gu Qing", "sister of x"], 
+      ["Lin Xi", "romantic relationships with x"], 
+      ["Qin Siqin", "romantic relationships with x"], 
+      ["Lin Weiren", "suspected by x"], 
+      ["Chen Jingwen", "extramarital affair with x"], 
+      ["Su Yang", "extramarital affair with x"]
+    ]
+}

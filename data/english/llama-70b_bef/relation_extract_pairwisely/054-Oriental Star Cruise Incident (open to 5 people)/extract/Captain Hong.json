@@ -1,0 +1,51 @@
+{
+    "Captain Hong Zi": [
+      ["Han Yimu", "superior of x, lover of x"], 
+      ["Lin Ruotong", "lover of x"], 
+      ["ZHANG ERFU", "superior of x, employer of x, master of x"]
+    ],
+    "Liu Qi": [
+      ["Xiu Renjie", "student of x"], 
+      ["Han Yimu", "student of x, romantic relationships with x"], 
+      ["Lin Ruotong", "lover of x, student of x"], 
+      ["ZHANG WENYUAN", "student of x"], 
+      ["ZHANG ERFU", "student of x, teacher of x"]
+    ],
+    "Xiu Renjie": [
+      ["Han Yimu", "lover of x"], 
+      ["Lin Ruotong", "lover of x"], 
+      ["ZHANG WENYUAN", "colleague of x, friend of x"], 
+      ["ZHANG ERFU", "colleague of x, lover of x"]
+    ],
+    "Han Yimu": [
+      ["Captain Hong Zi", "subordinate of x, lover of x"], 
+      ["Liu Qi", "teacher of x, romantic relationships with x"], 
+      ["Xiu Renjie", "subordinate of x, lover of x"], 
+      ["Lin Ruotong", "lover of x"], 
+      ["ZHANG WENYUAN", "colleague of x, business partner of x"], 
+      ["ZHANG ERFU", "superior of x, employer of x, master of x, subordinate of x"]
+    ],
+    "Lin Ruotong": [
+      ["Captain Hong Zi", "lover of x"], 
+      ["Liu Qi", "lover of x, teacher of x"], 
+      ["Xiu Renjie", "lover of x, subordinate of x"], 
+      ["Han Yimu", "lover of x"], 
+      ["ZHANG WENYUAN", "lover of x"], 
+      ["ZHANG ERFU", "lover of x"]
+    ],
+    "ZHANG WENYUAN": [
+      ["Liu Qi", "teacher of x, superior of x"], 
+      ["Xiu Renjie", "colleague of x, friend of x"], 
+      ["Han Yimu", "colleague of x, business partner of x"], 
+      ["Lin Ruotong", "lover of x"], 
+      ["ZHANG ERFU", "colleague of x, superior of x"]
+    ],
+    "ZHANG ERFU": [
+      ["Captain Hong Zi", "subordinate of x, employee of x, servant of x"], 
+      ["Liu Qi", "teacher of x, superior of x"], 
+      ["Xiu Renjie", "colleague of x, lover of x"], 
+      ["Han Yimu", "superior of x, employer of x, master of x, subordinate of x"], 
+      ["Lin Ruotong", "lover of x"], 
+      ["ZHANG WENYUAN", "colleague of x, subordinate of x"]
+    ]
+}

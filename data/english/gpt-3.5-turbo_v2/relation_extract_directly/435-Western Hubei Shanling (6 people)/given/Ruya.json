@@ -1,0 +1,70 @@
+{
+    "Miao Ruya": [
+      ["Ruya", "same person as ruya of x, replaced ruya's identity of x"], 
+      ["Mountain Spirit", "saviour of x miao ruya, enemy of x miao ruya"], 
+      ["Miao Na", "friend of x miao ruya"], 
+      ["Ba Mansion Mountain", "friend of x miao ruya"], 
+      ["Li Gaobai", "student of x li gaobai"], 
+      ["Li Demu", "student of x li demu"], 
+      ["Li Liangsong", "teacher of x li liangsong"], 
+      ["Middle-Aged Man", "murderer of x middle aged man"], 
+      ["Gui Yin", "admirer of x miao ruya"], 
+      ["Gan Ma", "admirer of x miao ruya"], 
+      ["Juan Ge", "ex romantic relationships with juan ge"], 
+      ["Falcon", "secret lover of x falcon"]
+    ],
+    "Ruya": [
+      ["Miao Ruya", "same person as miao ruya of x, replaced miao ruya's identity of x"]
+    ],
+    "Mountain Spirit": [
+      ["Miao Ruya", "saviour of x miao ruya"], 
+      ["Tian Shi", "enemy of x miao ruya"]
+    ],
+    "Tian Shi": [
+      ["Mountain Spirit", "enemy of x miao ruya"]
+    ],
+    "Miao Na": [
+      ["Miao Ruya", "friend of x miao ruya"]
+    ],
+    "Miao Shi": [
+      ["Miao Ruya", "brother of x miao ruya"], 
+      ["Miao Na", "brother of x miao ruya"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Miao Ruya", "friend of x miao ruya"], 
+      ["Mountain Spirit", "friend of x miao ruya"]
+    ],
+    "Gui Yin": [
+      ["Miao Ruya", "admirer of x miao ruya"], 
+      ["Falcon", "secret lover of x gui yin"], 
+      ["Gan Ma", "wife of x gui yin"]
+    ],
+    "Gan Ma": [
+      ["Miao Ruya", "admirer of x miao ruya"], 
+      ["Gui Yin", "husband of x gan ma"]
+    ],
+    "Juan Ge": [
+      ["Gan Ma", "ex romantic relationships with juan ge"], 
+      ["Falcon", "fiancé of x juan ge"]
+    ],
+    "Falcon": [
+      ["Gui Yin", "secret lover of x falcon"], 
+      ["Juan Ge", "fiancé of x falcon"], 
+      ["Gan Ma", "co wife of x falcon"]
+    ],
+    "Li Gaobai": [
+      ["Miao Ruya", "student of x li gaobai"]
+    ],
+    "Li Demu": [
+      ["Miao Ruya", "student of x li demu"]
+    ],
+    "Li Liangsong": [
+      ["Miao Ruya", "teacher of x li liangsong"]
+    ],
+    "Middle-Aged Man": [
+      ["Miao Ruya", "murderer of x middle aged man"]
+    ],
+    "Private Tutor": [
+      ["Miao Ruya", "teacher of x private tutor"]
+    ]
+}

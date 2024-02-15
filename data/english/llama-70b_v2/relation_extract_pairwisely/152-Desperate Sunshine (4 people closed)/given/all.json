@@ -1,0 +1,58 @@
+{
+    "Boss Yang": [
+      ["First Mate Zhang", "master of x, employer of x, business partner of x, drug transaction partner of x"], 
+      ["Naive Hen", "secretary wen of x, shipyard worker wang of x, ship doctor ling of x"], 
+      ["Secretary Wen", "extramarital affair"], 
+      ["Ship Doctor Ling", "employee of x, drug trafficker of x, victim of x"], 
+      ["Shipyard Worker Wang", "secretary wen of x, ship doctor ling of x, first mate zhang of x, naive hen of x, superior of x, employer of x, master of x, subordinate of x, perpetrator of x, victim of x"], 
+      ["Worker Wang", "ship doctor ling of x, shipyard worker wang's son of x, secretary wen of x, first mate zhang of x, naive hen of x"]
+    ],
+    "First Mate Zhang": [
+      ["Boss Yang", "subordinate of x, brother of x, drug transaction partner of x, accomplice of x"], 
+      ["Naive Hen", "brother of x, business partner of x, co conspirator of x"], 
+      ["Secretary Wen", "business partner of x, co worker of x"], 
+      ["Ship Doctor Ling", "friend of x, business partner of x, co conspirator of x"], 
+      ["Shipyard Worker Wang", "superior of x, employee of x, servant of x, colleague of x, business partner of x"], 
+      ["Worker Wang", "ship doctor ling of x, boss yang of x, naive hen of x, secretary wen of x"]
+    ],
+    "Naive Hen": [
+      ["Boss Yang", "shipyard worker wang of x, ship doctor ling of x"], 
+      ["First Mate Zhang", "brother of x, business partner of x, co conspirator of x"], 
+      ["Secretary Wen", "brother of x, friend of x"], 
+      ["Ship Doctor Ling", "brother of x, friend of x"], 
+      ["Shipyard Worker Wang", "brother of x, friend of x"], 
+      ["Worker Wang", "brother of x, friend of x"]
+    ],
+    "Secretary Wen": [
+      ["Boss Yang", "extramarital affair"], 
+      ["First Mate Zhang", "business partner of x, co worker of x"], 
+      ["Naive Hen", "boss yang of x, colleague of x"], 
+      ["Ship Doctor Ling", "friend of x, colleague of x"], 
+      ["Shipyard Worker Wang", "superior subordinate of x"], 
+      ["Worker Wang", "superior subordinate relationship of x, drug trade accomplice of x"]
+    ],
+    "Ship Doctor Ling": [
+      ["Boss Yang", "undercover of x, informant of x, co conspirator of x"], 
+      ["First Mate Zhang", "friend of x, business partner of x, co conspirator of x"], 
+      ["Naive Hen", "shipyard worker wang of x, informant of x"], 
+      ["Secretary Wen", "friend of x, colleague of x"], 
+      ["Shipyard Worker Wang", "acquaintance of x, undercover of x"], 
+      ["Worker Wang", "relationship 1: ship doctor ling is worker wang's girlfriend of x, relationship 2: ship doctor ling is an undercover agent working for first mate zhang of x"]
+    ],
+    "Shipyard Worker Wang": [
+      ["Boss Yang", "ship doctor ling of x, first mate zhang of x, naive hen of x, superior of x, employer of x, master of x, subordinate of x, perpetrator of x, victim of x"], 
+      ["First Mate Zhang", "subordinate of x, acquaintance of x"], 
+      ["Naive Hen", "friend of x, colleague of x"], 
+      ["Secretary Wen", "acquaintance of x"], 
+      ["Ship Doctor Ling", "friend of x, co worker of x"], 
+      ["Worker Wang", "relation 1 of x, relation 2 of x"]
+    ],
+    "Worker Wang": [
+      ["Boss Yang", "ship doctor ling of x, shipyard worker wang's son of x, first mate zhang of x, naive hen of x"], 
+      ["First Mate Zhang", "ship doctor ling of x, boss yang of x, naive hen of x, secretary wen of x"], 
+      ["Naive Hen", "friend of x, acquaintance of x"], 
+      ["Secretary Wen", "superior subordinate relationship of x, drug trade accomplice of x"], 
+      ["Ship Doctor Ling", "relationship 1: worker wang is ship doctor ling's boyfriend of x, relationship 2: worker wang is a suspect in the murder of x boss yang"], 
+      ["Shipyard Worker Wang", "relation 1 of x, relation 2 of x"]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "Fang Liu": [
+      ["Fang Mian", "ex romantic relationships with x, dislike of x"], 
+      ["Fang Xu", "romantic relationships with x, ex wife of x"], 
+      ["Li Zhong", "son of x"], 
+      ["Li Yan", "son of x"], 
+      ["Chen Qian", "daughter of x"], 
+      ["Li Qinren", "hated by x, victim of x"], 
+      ["Chen Zijing", "mentor of x"]
+    ],
+    "Li Zhong": [
+      ["Fang Liu", "father of x"], 
+      ["Li Yan", "sibling of x"]
+    ],
+    "Xiao Qian": [
+      ["Chen Qian", "sister of x"]
+    ],
+    "Chen Qian": [
+      ["Xiao Qian", "sister of x"]
+    ],
+    "Li Yan": [
+      ["Fang Liu", "father of x"], 
+      ["Li Zhong", "sibling of x"]
+    ],
+    "Er Yisi Bada": [
+      ["Fang Mian", "dislike of x"], 
+      ["Fang Xu", "romantic relationships with x"], 
+      ["Chen Zijing", "mentor of x"], 
+      ["Li Qinren", "adversary of x"], 
+      ["Li Zhong", "possibly family of x"], 
+      ["Li Yan", "possibly family of x"], 
+      ["Xiao Qian", "possibly family of x"]
+    ]
+}

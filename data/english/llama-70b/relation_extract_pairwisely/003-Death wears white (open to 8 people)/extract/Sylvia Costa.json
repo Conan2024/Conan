@@ -1,0 +1,166 @@
+{
+    "Hans Li Morette": [
+        [
+            "Gale Li Morette",
+            "Drake Li Morette",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Drake Li Morette",
+            "Relationship 1: Colleague",
+            "Relationship 2: Friend"
+        ],
+        [
+            "Dr. Paloski",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Elaine Carter",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Richard Berkeley",
+            "Friend",
+            "Colleague"
+        ]
+    ],
+    "Gale Li Morette": [
+        [
+            "Hans Li Morette",
+            "Drake Li Morette",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Drake Li Morette",
+            "Hans Li Morette",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Dr. Paloski",
+            "Relationship 1: Acquaintance",
+            "Relationship 2: Defense Lawyer"
+        ],
+        [
+            "Elaine Carter",
+            "Relationship 1: Colleague",
+            "Relationship 2: Friend"
+        ],
+        [
+            "Richard Berkeley",
+            "relationship 1: Supervisor-Employee",
+            "relationship 2: Acquaintance"
+        ]
+    ],
+    "Drake Li Morette": [
+        [
+            "Hans Li Morette",
+            "Gale Li Morette",
+            "Brother"
+        ],
+        [
+            "Hans Li Morette",
+            "Relationship 1: Colleague",
+            "Relationship 2: Friend"
+        ],
+        [
+            "Gale Li Morette",
+            "Hans Li Morette",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Dr. Paloski",
+            "Colleague"
+        ],
+        [
+            "Elaine Carter",
+            "Acquaintance"
+        ],
+        [
+            "Richard Berkeley",
+            "Colleague"
+        ]
+    ],
+    "Dr. Paloski": [
+        [
+            "Hans Li Morette",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Gale Li Morette",
+            "Relationship 1: Acquaintance",
+            "Relationship 2: Defense Lawyer"
+        ],
+        [
+            "Drake Li Morette",
+            "Colleague"
+        ],
+        [
+            "Elaine Carter",
+            "relationship 1: Mentor of X",
+            "relationship 2: Supervisor of X"
+        ],
+        [
+            "Richard Berkeley",
+            "Superior of x",
+            "Employee of X",
+            "servant of X"
+        ]
+    ],
+    "Elaine Carter": [
+        [
+            "Hans Li Morette",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Gale Li Morette",
+            "Relationship 1: Colleague",
+            "Relationship 2: Friend"
+        ],
+        [
+            "Drake Li Morette",
+            "Acquaintance"
+        ],
+        [
+            "Dr. Paloski",
+            "relationship 1: Mentee of X",
+            "relationship 2: Subordinate of X"
+        ],
+        [
+            "Richard Berkeley",
+            "Colleague"
+        ]
+    ],
+    "Richard Berkeley": [
+        [
+            "Hans Li Morette",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Gale Li Morette",
+            "relationship 1: Supervisor-Employee",
+            "relationship 2: Acquaintance"
+        ],
+        [
+            "Drake Li Morette",
+            "Colleague"
+        ],
+        [
+            "Dr. Paloski",
+            "Superior of x",
+            "Employer of X"
+        ],
+        [
+            "Elaine Carter",
+            "Colleague"
+        ]
+    ]
+}

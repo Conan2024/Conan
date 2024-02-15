@@ -1,0 +1,58 @@
+{
+    "Li Gaobai": [
+      ["Qian", "mother of x"], 
+      ["Ba Mansion Mountain", "employer of x"], 
+      ["Falcon", "friend of x"], 
+      ["Ruya", "friend of x"], 
+      ["Gui Yin", "acquaintance of x"], 
+      ["Gan Ma", "acquaintance of x"], 
+      ["Professor Zhou", "mentor of x"], 
+      ["Zheng Hanzhen", "friend of x"]
+    ],
+    "Qian": [
+      ["Li Gaobai", "son of x"]
+    ],
+    "Li Demu": [
+      ["Li Gaobai", "younger brother of x"], 
+      ["Ba Mansion Mountain", "son of x"]
+    ],
+    "Li Liangsong": [
+      ["Li Gaobai", "younger brother of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Li Gaobai", "employee of x"], 
+      ["Falcon", "son of x"], 
+      ["Zheng Hanzhen", "employer of x"]
+    ],
+    "Falcon": [
+      ["Li Gaobai", "friend of x"], 
+      ["Ba Mansion Mountain", "father of x"], 
+      ["Zheng Hanzhen", "friend of x"]
+    ],
+    "Ruya": [
+      ["Li Gaobai", "friend of x"], 
+      ["Zheng Hanzhen", "friend of x"]
+    ],
+    "Gui Yin": [
+      ["Li Gaobai", "acquaintance of x"], 
+      ["Ba Mansion Mountain", "brother in law of x"]
+    ],
+    "Gan Ma": [
+      ["Li Gaobai", "acquaintance of x"], 
+      ["Chen Sha", "friend of x"]
+    ],
+    "Professor Zhou": [
+      ["Li Gaobai", "mentor of x"]
+    ],
+    "Zheng Hanzhen": [
+      ["Li Gaobai", "employer of x"], 
+      ["Falcon", "friend of x"]
+    ],
+    "Ba Juan Ge (Cuckoo Song)": [
+      ["Li Gaobai", "daughter of x"]
+    ],
+    "Chen Sha": [
+      ["Li Gaobai", "friend of x"], 
+      ["Gan Ma", "friend of x"]
+    ]
+}

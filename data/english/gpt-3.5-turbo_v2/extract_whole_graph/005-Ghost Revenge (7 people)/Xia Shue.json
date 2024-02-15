@@ -1,0 +1,50 @@
+{
+    "Xia Shue": [
+      ["XIA BOLONG", "father of x"], 
+      ["XIA SANHU", "uncle of x"], 
+      ["XIA ZHONGPENG", "second uncle of x"], 
+      ["AMING (Luo Ming)", "friend of x, mentee of x"], 
+      ["Yue Kesa", "student of x"], 
+      ["Wu Bobo", "acquaintance of x"], 
+      ["Wu Xiaogang", "son of x wu bobo"], 
+      ["Second Uncle's Nurse", "helper of x"], 
+      ["Third Uncle's Nurse", "helper of x"], 
+      ["Police officers", "authority over x"]
+    ],
+    "XIA SANHU": [
+      ["Xia Shue", "niece of x"], 
+      ["XIA ZHONGPENG", "brother of x"], 
+      ["AMING (Luo Ming)", "acquaintance of x"], 
+      ["Third Uncle's Nurse", "helper of x"]
+    ],
+    "XIA ZHONGPENG": [
+      ["Xia Shue", "niece of x"], 
+      ["XIA SANHU", "brother of x"], 
+      ["Second Uncle's Nurse", "helper of x"]
+    ],
+    "AMING (Luo Ming)": [
+      ["Xia Shue", "friend of x, mentor of x"], 
+      ["XIA SANHU", "acquaintance of x"]
+    ],
+    "Yue Kesa": [
+      ["Xia Shue", "friend of x, mentor of x"]
+    ],
+    "Wu Bobo": [
+      ["Xia Shue", "acquaintance of x"], 
+      ["Wu Xiaogang", "father of x"]
+    ],
+    "Wu Xiaogang": [
+      ["Wu Bobo", "son of x"]
+    ],
+    "Second Uncle's Nurse": [
+      ["Xia Shue", "helper of x"], 
+      ["XIA ZHONGPENG", "helper of x"]
+    ],
+    "Third Uncle's Nurse": [
+      ["Xia Shue", "helper of x"], 
+      ["XIA SANHU", "helper of x"]
+    ],
+    "Police officers": [
+      ["Xia Shue", "authority over x"]
+    ]
+}

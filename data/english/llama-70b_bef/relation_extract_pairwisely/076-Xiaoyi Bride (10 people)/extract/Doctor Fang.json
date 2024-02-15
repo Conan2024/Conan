@@ -1,0 +1,142 @@
+{
+    "Fang Minyue": [
+      ["Fang Chengshan", "father of x, son of x"], 
+      ["Steward Du", "acquaintance of x, colleague of x, helper of x"], 
+      ["Yao Changshou", "friend of x, rival of x"], 
+      ["Yao Zhongyi", "classmate of x, schoolmate of x"], 
+      ["Yao Mengren", "friend of x, acquaintance of x"], 
+      ["Zhang Decai", "friend of x"], 
+      ["Tian Hongjiao", "cousin of x"], 
+      ["Doctor Song", "acquaintance of x, colleague of x, business partner of x, helper of x"]
+    ],
+    "Fang Chengshan": [
+      ["Fang Minyue", "father of x, son of x"], 
+      ["Master Meng", "employer of x, master of x, superior of x"], 
+      ["Steward Du", "employer of x, master of x, superior of x"], 
+      ["Yao Changshou", "colleague of x, friend of x, informant of x, perpetrator of x"], 
+      ["Yao Zhongyi", "father of x"], 
+      ["Yao Mengren", "friend of x"], 
+      ["Zhang Yadi", "friend of x, mentor of x, teacher of x"], 
+      ["Zhang Decai", "friend of x, mentor of x"], 
+      ["Tian Hongjiao", "cousin of x, father in law of x"], 
+      ["Doctor Song", "acquaintance of x, colleague of x"], 
+      ["Mysterious Man", "acquaintance of x"]
+    ],
+    "Master Meng": [
+      ["Fang Chengshan", "employer of x, master of x, superior of x"], 
+      ["Steward Du", "employer of x, master of x, superior of x"], 
+      ["Yao Changshou", "employer of x, master of x, superior of x"], 
+      ["Yao Zhongyi", "father of x, patient of x"], 
+      ["Yao Mengren", "employer of x, master of x"], 
+      ["Zhang Yadi", "acquaintance of x, informant of x"], 
+      ["Zhang Decai", "acquaintance of x, informant of x"], 
+      ["Tian Hongjiao", "employer of x, superior of x"], 
+      ["Doctor Song", "employer of x, master of x"], 
+      ["Mysterious Man", "perpetrator of x, bully of x"]
+    ],
+    "Steward Du": [
+      ["Fang Minyue", "acquaintance of x, colleague of x"], 
+      ["Fang Chengshan", "employee of x, servant of x, subordinate of x"], 
+      ["Master Meng", "employee of x, subordinate of x, servant of x"], 
+      ["Yao Changshou", "master of x, employer of x"], 
+      ["Yao Zhongyi", "acquaintance of x, colleague of x"], 
+      ["Yao Mengren", "friend of x"], 
+      ["Zhang Yadi", "friend of x, classmate of x"], 
+      ["Zhang Decai", "friend of x, classmate of x"], 
+      ["Tian Hongjiao", "acquaintance of x, classmate of x"], 
+      ["Doctor Song", "acquaintance of x, colleague of x"], 
+      ["Mysterious Man", "acquaintance of x"]
+    ],
+    "Yao Changshou": [
+      ["Fang Minyue", "friend of x, rival of x"], 
+      ["Fang Chengshan", "colleague of x, friend of x, informant of x, perpetrator of x"], 
+      ["Master Meng", "colleague of x, subordinate of x, employee of x"], 
+      ["Steward Du", "master of x, employer of x"], 
+      ["Yao Zhongyi", "uncle of x, friend of x"], 
+      ["Zhang Yadi", "friend of x, acquaintance of x"], 
+      ["Zhang Decai", "friend of x, acquaintance of x"], 
+      ["Tian Hongjiao", "cousin of x, landlord of x"], 
+      ["Doctor Song", "patient of x"], 
+      ["Mysterious Man", "perpetrator of x, victim of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Fang Minyue", "classmate of x, schoolmate of x"], 
+      ["Fang Chengshan", "son of x"], 
+      ["Master Meng", "father of x, patient of x"], 
+      ["Steward Du", "acquaintance of x, colleague of x"], 
+      ["Yao Changshou", "nephew of x, friend of x"], 
+      ["Yao Mengren", "brother of x, friend of x"], 
+      ["Zhang Yadi", "friend of x, acquaintance of x"], 
+      ["Zhang Decai", "business partner of x"], 
+      ["Tian Hongjiao", "cousin of x"], 
+      ["Doctor Song", "acquaintance of x, informant of x"], 
+      ["Mysterious Man", "suspect of x, victim of x"]
+    ],
+    "Yao Mengren": [
+      ["Fang Minyue", "friend of x, acquaintance of x"], 
+      ["Fang Chengshan", "friend of x"], 
+      ["Master Meng", "employee of x, subordinate of x"], 
+      ["Steward Du", "friend of x"], 
+      ["Yao Zhongyi", "brother of x, friend of x"], 
+      ["Zhang Yadi", "friend of x, acquaintance of x"], 
+      ["Tian Hongjiao", "cousin of x"], 
+      ["Doctor Song", "patient of x"], 
+      ["Mysterious Man", "acquaintance of x, suspect of x"]
+    ],
+    "Zhang Yadi": [
+      ["Fang Chengshan", "friend of x, student of x"], 
+      ["Master Meng", "acquaintance of x, informant of x"], 
+      ["Steward Du", "friend of x, classmate of x"], 
+      ["Yao Changshou", "friend of x, acquaintance of x"], 
+      ["Yao Zhongyi", "friend of x, acquaintance of x"], 
+      ["Yao Mengren", "friend of x, acquaintance of x"], 
+      ["Doctor Song", "acquaintance of x, colleague of x"], 
+      ["Mysterious Man", "acquaintance of x, suspect of x"]
+    ],
+    "Zhang Decai": [
+      ["Fang Minyue", "friend of x"], 
+      ["Fang Chengshan", "friend of x, mentor of x"], 
+      ["Master Meng", "acquaintance of x, informant of x"], 
+      ["Steward Du", "friend of x, classmate of x"], 
+      ["Yao Changshou", "friend of x, acquaintance of x"], 
+      ["Yao Zhongyi", "business partner of x"], 
+      ["Doctor Song", "friend of x, colleague of x"], 
+      ["Mysterious Man", "acquaintance of x, suspect of x"]
+    ],
+    "Tian Hongjiao": [
+      ["Fang Minyue", "cousin of x"], 
+      ["Fang Chengshan", "cousin of x, mother in law of x"], 
+      ["Master Meng", "employee of x, subordinate of x"], 
+      ["Steward Du", "acquaintance of x, classmate of x"], 
+      ["Yao Changshou", "cousin of x, tenant of x"], 
+      ["Yao Zhongyi", "cousin of x"], 
+      ["Yao Mengren", "cousin of x"], 
+      ["Doctor Song", "acquaintance of x, colleague of x"], 
+      ["Mysterious Man", "suspect of x, adversary of x, enemy of x"]
+    ],
+    "Doctor Song": [
+      ["Fang Minyue", "acquaintance of x, colleague of x, business partner of x, helper of x"], 
+      ["Fang Chengshan", "acquaintance of x, colleague of x"], 
+      ["Master Meng", "employee of x, servant of x"], 
+      ["Steward Du", "acquaintance of x, colleague of x"], 
+      ["Yao Changshou", "doctor of x"], 
+      ["Yao Zhongyi", "acquaintance of x, informant of x"], 
+      ["Yao Mengren", "patient of x"], 
+      ["Zhang Yadi", "acquaintance of x, colleague of x"], 
+      ["Zhang Decai", "friend of x, colleague of x"], 
+      ["Tian Hongjiao", "acquaintance of x, colleague of x"], 
+      ["Mysterious Man", "acquaintance of x, informant of x"]
+    ],
+    "Mysterious Man": [
+      ["Fang Chengshan", "acquaintance of x"], 
+      ["Master Meng", "perpetrator of x, bully of x"], 
+      ["Steward Du", "acquaintance of x"], 
+      ["Yao Changshou", "perpetrator of x, victim of x"], 
+      ["Yao Zhongyi", "perpetrator of x, bully of x"], 
+      ["Yao Mengren", "acquaintance of x, perpetrator of x"], 
+      ["Zhang Yadi", "acquaintance of x, perpetrator of x"], 
+      ["Zhang Decai", "acquaintance of x, perpetrator of x"], 
+      ["Tian Hongjiao", "suspect of x, adversary of x, enemy of x"], 
+      ["Doctor Song", "acquaintance of x, informant of x"]
+    ]
+}

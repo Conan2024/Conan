@@ -1,0 +1,56 @@
+{
+    "He Laoliu": [
+      ["Li Guofu", "perpetrator of x, accomplice of x"], 
+      ["ZHANG JIE", "co worker of x, accomplice of x, friend of x, confidant of x"], 
+      ["MU BEI", "co workers of x, partners in crime of x, suspects of x, accomplices of x, adversaries of x"], 
+      ["Big Brother Wang", "acquaintance of x, co worker of x, gambling partner of x, suspect of x"], 
+      ["Neighbor Wang", "acquaintance of x, suspicious of x, rival of x"], 
+      ["Second Sister", "acquaintance of x, business partner of x"]
+    ],
+    "Li Guofu": [
+      ["He Laoliu", "perpetrator of x, mastermind of x"], 
+      ["ZHANG JIE", "superior of x, colleague of x, business partner of x"], 
+      ["MU BEI", "relationship 1: supervisor/subordinate of x, relationship 2: partner in crime of x"], 
+      ["Big Brother Wang", "relationship 1: accomplice in crime of x, relationship 2: debtor/creditor of x"], 
+      ["Neighbor Wang", "acquaintance of x, business partner of x, gambling partner of x, debtor of x, murderer of x"]
+    ],
+    "ZHANG JIE": [
+      ["He Laoliu", "co worker of x, accomplice of x, friend of x, confidant of x"], 
+      ["Li Guofu", "superior of x, colleague of x, business partner of x"], 
+      ["MU BEI", "colleague of x, acquaintance of x"], 
+      ["Big Brother Wang", "colleague of x, acquaintance of x"], 
+      ["Neighbor Wang", "acquaintance of x, fellow gambler of x"], 
+      ["Second Sister", "acquaintance of x"]
+    ],
+    "MU BEI": [
+      ["He Laoliu", "co workers of x, partners in crime of x, suspects of x, accomplices of x, adversaries of x"], 
+      ["Li Guofu", "relationship 1: supervisor/subordinate of x, relationship 2: partner in crime of x"], 
+      ["ZHANG JIE", "colleague of x, acquaintance of x"], 
+      ["Big Brother Wang", "colleague of x"], 
+      ["Neighbor Wang", "colleague of x"], 
+      ["Second Sister", "colleague of x"]
+    ],
+    "Big Brother Wang": [
+      ["He Laoliu", "acquaintance of x, co worker of x, gambling partner of x, witness of x"], 
+      ["Li Guofu", "relationship 1: accomplice in crime of x, relationship 2: debtor/creditor of x"], 
+      ["ZHANG JIE", "colleague of x, acquaintance of x"], 
+      ["MU BEI", "colleague of x"], 
+      ["Neighbor Wang", "acquaintance of x, gambling partner of x"], 
+      ["Second Sister", "acquaintance of x, business partner of x"]
+    ],
+    "Neighbor Wang": [
+      ["He Laoliu", "acquaintance of x, suspicious of x, rival of x"], 
+      ["Li Guofu", "acquaintance of x, business partner of x, gambling partner of x, creditor of x, victim of x"], 
+      ["ZHANG JIE", "acquaintance of x, fellow gambler of x"], 
+      ["MU BEI", "colleague of x, adversary of x"], 
+      ["Big Brother Wang", "acquaintance of x, gambling partner of x"], 
+      ["Second Sister", "acquaintance of x, business partner of x"]
+    ],
+    "Second Sister": [
+      ["He Laoliu", "acquaintance of x, business partner of x"], 
+      ["ZHANG JIE", "acquaintance of x"], 
+      ["MU BEI", "colleague of x"], 
+      ["Big Brother Wang", "acquaintance of x, business partner of x"], 
+      ["Neighbor Wang", "acquaintance of x, business partner of x"]
+    ]
+}

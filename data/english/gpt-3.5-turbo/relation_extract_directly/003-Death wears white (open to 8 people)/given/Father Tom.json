@@ -1,0 +1,60 @@
+{
+    "Father Tom": [
+        [
+            "Drake Li Morette",
+            "doctor of x"
+        ],
+        [
+            "Hans Li Morette",
+            "possible business partner of x"
+        ],
+        [
+            "Frank",
+            "past patient of x"
+        ],
+        [
+            "Tony",
+            "past patient's brother of x"
+        ],
+        [
+            "Dr. Paloski",
+            "unknown relationship to x"
+        ]
+    ],
+    "Drake Li Morette": [
+        [
+            "Father Tom",
+            "patient of x"
+        ],
+        [
+            "Hans Li Morette",
+            "brother of x"
+        ]
+    ],
+    "Tony": [
+        [
+            "Father Tom",
+            "past patient of x"
+        ],
+        [
+            "Frank",
+            "brother of x"
+        ]
+    ],
+    "Frank": [
+        [
+            "Father Tom",
+            "actor hired by x"
+        ],
+        [
+            "Tony",
+            "brother of x"
+        ]
+    ],
+    "Dr. Paloski": [
+        [
+            "Father Tom",
+            "friend of x"
+        ]
+    ]
+}

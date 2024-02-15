@@ -1,0 +1,68 @@
+{
+    "Marina Harrison": [
+      ["Harold Harrison", "wife of x, mother of x, extramarital affair with x, lover of x"], 
+      ["Lucy Harrison", "mother of x"], 
+      ["Jacqueline Perry", "sister of x, business partner of x, rival of x, lover of x"], 
+      ["Amy Morgan", "sister in law of x, rival of x"], 
+      ["Alex Harvey", "cousin of x, friend of x"]
+    ],
+    "Harold Harrison": [
+      ["Marina Harrison", "husband of x, father of x, brother in law of x, brother in law of x"], 
+      ["Lucy Harrison", "father of x"], 
+      ["Jacqueline Perry", "brother in law of x, business partner of x"], 
+      ["Daniel Perry", "brother in law of x"], 
+      ["Davis Perry", "brother in law of x"], 
+      ["Amy Morgan", "wife of x, sister in law of x"], 
+      ["Alex Harvey", "husband of x, father of x, brother in law of x"]
+    ],
+    "Lucy Harrison": [
+      ["Marina Harrison", "daughter of x"], 
+      ["Harold Harrison", "daughter of x"], 
+      ["Jacqueline Perry", "sister of x"], 
+      ["Davis Perry", "friend of x, lover of x"], 
+      ["Amy Morgan", "daughter of x"], 
+      ["Alex Harvey", "cousin of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Marina Harrison", "sister of x, business partner of x, rival of x, lover of x"], 
+      ["Harold Harrison", "sister of x, business partner of x"], 
+      ["Lucy Harrison", "sister of x"], 
+      ["Daniel Perry", "sister in law of x"], 
+      ["Davis Perry", "sister in law of x, business partner of x"], 
+      ["Amy Morgan", "sister in law of x"], 
+      ["Alex Harvey", "sister in law of x"]
+    ],
+    "Daniel Perry": [
+      ["Harold Harrison", "sister in law of x"], 
+      ["Jacqueline Perry", "brother in law of x"], 
+      ["Davis Perry", "brother in law of x"], 
+      ["Amy Morgan", "brother in law of x"], 
+      ["Alex Harvey", "brother in law of x"]
+    ],
+    "Davis Perry": [
+      ["Harold Harrison", "sister in law of x"], 
+      ["Lucy Harrison", "lover of x, friend of x"], 
+      ["Jacqueline Perry", "brother in law of x, lover of x"], 
+      ["Daniel Perry", "brother in law of x"], 
+      ["Amy Morgan", "brother in law of x, lover of x"], 
+      ["Alex Harvey", "brother in law of x, lover of x"]
+    ],
+    "Amy Morgan": [
+      ["Marina Harrison", "sister in law of x, rival of x"], 
+      ["Harold Harrison", "brother in law of x, sister of x"], 
+      ["Lucy Harrison", "sister in law of x, friend of x"], 
+      ["Jacqueline Perry", "sister in law of x"], 
+      ["Daniel Perry", "sister in law of x"], 
+      ["Davis Perry", "sister in law of x, rival of x"], 
+      ["Alex Harvey", "cousin of x"]
+    ],
+    "Alex Harvey": [
+      ["Marina Harrison", "cousin of x, friend of x"], 
+      ["Harold Harrison", "cousin of x, friend of x"], 
+      ["Lucy Harrison", "cousin of x"], 
+      ["Jacqueline Perry", "cousin of x, friend of x"], 
+      ["Daniel Perry", "cousin of x, friend of x"], 
+      ["Davis Perry", "cousin of x, friend of x"], 
+      ["Amy Morgan", "cousin of x"]
+    ]
+}

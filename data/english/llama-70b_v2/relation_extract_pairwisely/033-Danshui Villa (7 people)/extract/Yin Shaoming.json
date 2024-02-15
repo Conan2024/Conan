@@ -1,0 +1,22 @@
+{
+    "Yin Shaoming": [
+      ["Zhao Luoyi", "friend of x, savior of x, and confidant of x"], 
+      ["Fang Shuangji", "savior of x, employer of x, acquaintance of x"], 
+      ["Feng Qiqi", "savior of x, rescuer of x, benefactor of x, confidant of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Yin Shaoming", "friend of x, savior of x, and confidant of x"], 
+      ["Fang Shuangji", "friend of x, acquaintance of x"], 
+      ["Feng Qiqi", "employer employee of x"]
+    ],
+    "Fang Shuangji": [
+      ["Yin Shaoming", "savior of x, employer of x, acquaintance of x"], 
+      ["Zhao Luoyi", "friend of x, acquaintance of x"], 
+      ["Feng Qiqi", "employer of x, master of x"]
+    ],
+    "Feng Qiqi": [
+      ["Yin Shaoming", "savior of x, rescued of x, beneficiary of x, confidante of x"], 
+      ["Zhao Luoyi", "employee employer of x"], 
+      ["Fang Shuangji", "employee of x, servant of x"]
+    ]
+}

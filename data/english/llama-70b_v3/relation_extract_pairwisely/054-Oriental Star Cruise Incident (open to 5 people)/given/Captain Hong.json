@@ -1,0 +1,46 @@
+{
+    "Captain Hong": [
+      ["Han Yimu", "lover of x"], 
+      ["Hong Zilian", "lover of x, business partner of x"], 
+      ["Lin Ruotong", "lover of x"], 
+      ["Zhang Wenyuan", "superior of x, employer of x, master of x, subordinate of x, employee of x, business partner of x, customer of x, buyer of x, tenant of x"]
+    ],
+    "Han Yimu": [
+      ["Captain Hong", "lover of x"], 
+      ["Hong Zilian", "lover of x"], 
+      ["Lin Ruotong", "lover of x"], 
+      ["Liu Qi", "superior of x"], 
+      ["Xiu Renjie", "superior of x, colleague of x"], 
+      ["Zhang Wenyuan", "colleague of x, superior of x"]
+    ],
+    "Hong Zilian": [
+      ["Captain Hong", "lover of x, subordinate of x"], 
+      ["Han Yimu", "lover of x"], 
+      ["Lin Ruotong", "lover of x"], 
+      ["Zhang Wenyuan", "superior of x, employer of x, master of x, subordinate of x, employee of x"]
+    ],
+    "Lin Ruotong": [
+      ["Captain Hong", "lover of x"], 
+      ["Han Yimu", "lover of x"], 
+      ["Hong Zilian", "lover of x"], 
+      ["Zhang Wenyuan", "lover of x"]
+    ],
+    "Liu Qi": [
+      ["Han Yimu", "subordinate of x, colleague of x"], 
+      ["Xiu Renjie", "superior of x, employer of x"], 
+      ["Zhang Wenyuan", "student of x, teacher of x"]
+    ],
+    "Xiu Renjie": [
+      ["Han Yimu", "superior of x, colleague of x"], 
+      ["Liu Qi", "subordinate of x, employee of x"], 
+      ["Zhang Wenyuan", "colleague of x, friend of x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Captain Hong", "superior of x, employer of x, master of x, subordinate of x, employee of x, business partner of x, customer of x, buyer of x, tenant of x"], 
+      ["Han Yimu", "colleague of x, subordinate of x"], 
+      ["Hong Zilian", "superior of x, employer of x, master of x, subordinate of x, employee of x"], 
+      ["Lin Ruotong", "lover of x, rival of x"], 
+      ["Liu Qi", "teacher of x, superior of x"], 
+      ["Xiu Renjie", "colleague of x, friend of x"]
+    ]
+}

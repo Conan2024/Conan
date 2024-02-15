@@ -1,0 +1,25 @@
+{
+    "Father Tom": [
+      ["Drake Li Morette", "doctor of x"], 
+      ["Hans Li Morette", "employee of x"], 
+      ["Tony", "admired by x"], 
+      ["Dr. Paloski", "admired by x"]
+    ],
+    "Drake Li Morette": [
+      ["Father Tom", "patient of x"]
+    ],
+    "Tony": [
+      ["Father Tom", "fondness of x"], 
+      ["Frank", "brother of x"]
+    ],
+    "Frank": [
+      ["Tony", "brother of x"]
+    ],
+    "Dr. Paloski": [
+      ["Father Tom", "admired by x"], 
+      ["Father Tom", "dislike of x"]
+    ],
+    "Dean Berkeley": [
+      ["Father Tom", "acquaintance of x"]
+    ]
+}

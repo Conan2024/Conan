@@ -1,0 +1,36 @@
+{
+    "Chen Anqiao": [
+      ["Chen Qingwu", "employer of x"], 
+      ["Chen Shitian", "father of x"], 
+      ["Yao Changshou", "employer of x"], 
+      ["Yao Zhongyi", "employer of x"], 
+      ["Lady Hong", "employer of x"], 
+      ["Short-haired Woman", "suspicious of x"]
+    ],
+    "Chen Qingwu": [
+      ["Chen Anqiao", "servant of x"]
+    ],
+    "Chen Junmeng": [
+      ["Chen Anqiao", "cousin of x"], 
+      ["Chen Qingwu", "father of x"], 
+      ["Yao Zhongyi", "brother in law of x"]
+    ],
+    "Chen Shitian": [
+      ["Chen Anqiao", "father of x"]
+    ],
+    "Yao Changshou": [
+      ["Chen Anqiao", "employer of x"], 
+      ["Yao Zhongyi", "son of x"]
+    ],
+    "Yao Mengren": [
+      ["Chen Junmeng", "husband of x"], 
+      ["Yao Changshou", "father in law of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Chen Junmeng", "brother in law of x"], 
+      ["Yao Changshou", "father of x"]
+    ],
+    "Lady Hong": [
+      ["Chen Anqiao", "employer of x"]
+    ]
+}

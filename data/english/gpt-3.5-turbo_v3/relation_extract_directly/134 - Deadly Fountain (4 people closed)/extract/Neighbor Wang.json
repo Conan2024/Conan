@@ -1,0 +1,106 @@
+{
+    "Neighbor Wang": [
+        [
+            "Neighbor Wang's wife",
+            "missing person (possibly deceased) of x"
+        ],
+        [
+            "Police",
+            "subject of investigation for x"
+        ],
+        [
+            "Reporters",
+            "informant of x"
+        ],
+        [
+            "Li Guofu",
+            "neighbour of x, acquaintance of x"
+        ],
+        [
+            "He Laoliu",
+            "neighbour of x, acquaintance of x"
+        ],
+        [
+            "Li Guofu",
+            "debtor of x"
+        ],
+        [
+            "Neighbor Wang's wife",
+            "possibly family of x neighbor wang"
+        ]
+    ],
+    "Neighbor Wang's wife": [
+        [
+            "Neighbor Wang",
+            "missing person (possibly deceased) of x"
+        ],
+        [
+            "Neighbor Wang",
+            "possibly family of x neighbor wang"
+        ],
+        [
+            "Neighbor Wang's wife",
+            "romantic relationships with x"
+        ]
+    ],
+    "Police": [
+        [
+            "Neighbor Wang",
+            "suspected by x"
+        ],
+        [
+            "Reporters",
+            "subject of investigation for x"
+        ],
+        [
+            "Police",
+            "authority over x"
+        ]
+    ],
+    "Reporters": [
+        [
+            "Neighbor Wang",
+            "admirer of x"
+        ],
+        [
+            "Police",
+            "information receiver from x"
+        ],
+        [
+            "Reporters",
+            "informant of x"
+        ]
+    ],
+    "Li Guofu": [
+        [
+            "Neighbor Wang",
+            "neighbour of x, acquaintance of x"
+        ],
+        [
+            "Neighbor Wang",
+            "debtor of x"
+        ],
+        [
+            "He Laoliu",
+            "rarely associated with li guofu of x"
+        ],
+        [
+            "Li Guofu",
+            "superior of x"
+        ]
+    ],
+    "He Laoliu": [
+        [
+            "Neighbor Wang",
+            "neighbour of x, acquaintance of x"
+        ],
+        [
+            "Li Guofu",
+            "rarely associated with he laoliu of x"
+        ],
+        [
+            "Li Guofu",
+            "subordinate of x"
+        ]
+    ]
+}

@@ -1,0 +1,581 @@
+{
+    "Andrew Paloski": [
+        [
+            "Drake Li Morette",
+            "Hans Li Morette",
+            "Gale Li Morette",
+            "Dr. Paloski",
+            "Elaine Carter",
+            "Richard Berkeley"
+        ],
+        [
+            "Elaine Carter",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Gale Li Morette",
+            "Hans Li Morette",
+            "Drake Li Morette",
+            "Dr. Paloski",
+            "Elaine Carter",
+            "Richard Berkeley"
+        ],
+        [
+            "Hans Li Morette",
+            "Drake Li Morette",
+            "Gale Li Morette",
+            "Dr. Paloski",
+            "Elaine Carter",
+            "Richard Berkeley"
+        ],
+        [
+            "Head Nurse Costa",
+            "relationship 1: Supervisor",
+            "relationship 2: Colleague"
+        ],
+        [
+            "James Lai Li",
+            "Relationship 1: Superior-Subordinate",
+            "Relationship 2: Business Partner"
+        ],
+        [
+            "Jim Mason",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Mother",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Richard Berkeley",
+            "Superior of x",
+            "Employer of X"
+        ],
+        [
+            "Sylvia Costa",
+            "Colleague",
+            "Friend"
+        ]
+    ],
+    "Drake Li Morette": [
+        [
+            "Andrew Paloski",
+            "Hans Li Morette",
+            "Gale Li Morette"
+        ],
+        [
+            "Elaine Carter",
+            "Acquaintance"
+        ],
+        [
+            "Gale Li Morette",
+            "Hans Li Morette",
+            "Elaine Carter",
+            "Richard Berkeley"
+        ],
+        [
+            "Hans Li Morette",
+            "Relationship 1: Colleague",
+            "Relationship 2: Suspect in investigation"
+        ],
+        [
+            "Head Nurse Costa",
+            "Relationship 1: Colleague",
+            "Relationship 2: Suspect in investigation"
+        ],
+        [
+            "James Lai Li",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect of murder"
+        ],
+        [
+            "Jim Mason",
+            "Relationship 1: Acquaintance",
+            "Relationship 2: Suspect of murder"
+        ],
+        [
+            "Mother",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Richard Berkeley",
+            "Colleague"
+        ],
+        [
+            "Sylvia Costa",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Gale Li Morette",
+            "Hans Li Morette",
+            "relationship 3"
+        ]
+    ],
+    "Elaine Carter": [
+        [
+            "Andrew Paloski",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Drake Li Morette",
+            "Acquaintance"
+        ],
+        [
+            "Gale Li Morette",
+            "Hans Li Morette"
+        ],
+        [
+            "Hans Li Morette",
+            "Drake Li Morette",
+            "Dr. Paloski",
+            "Richard Berkeley"
+        ],
+        [
+            "Head Nurse Costa",
+            "relationship 1: Mentorship",
+            "relationship 2: Colleague"
+        ],
+        [
+            "James Lai Li",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect of murder"
+        ],
+        [
+            "Jim Mason",
+            "Colleague"
+        ],
+        [
+            "Mother",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Richard Berkeley",
+            "Colleague"
+        ],
+        [
+            "Sylvia Costa",
+            "Colleague",
+            "Friend"
+        ]
+    ],
+    "Gale Li Morette": [
+        [
+            "Andrew Paloski",
+            "Hans Li Morette",
+            "Drake Li Morette"
+        ],
+        [
+            "Drake Li Morette",
+            "Hans Li Morette",
+            "Elaine Carter",
+            "Richard Berkeley"
+        ],
+        [
+            "Elaine Carter",
+            "Hans Li Morette"
+        ],
+        [
+            "Hans Li Morette",
+            "Drake Li Morette",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Head Nurse Costa",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "James Lai Li",
+            "Hans Li Morette",
+            "Drake Li Morette",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Jim Mason",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Mother",
+            "Relationship 1"
+        ],
+        [
+            "Richard Berkeley",
+            "relationship 1: Supervisor-Employee",
+            "relationship 2: Acquaintance"
+        ],
+        [
+            "Sylvia Costa",
+            "Acquaintance",
+            "Colleague"
+        ]
+    ],
+    "Hans Li Morette": [
+        [
+            "Andrew Paloski",
+            "Drake Li Morette",
+            "Gale Li Morette"
+        ],
+        [
+            "Drake Li Morette",
+            "Relationship 1: Colleague",
+            "Relationship 2: Suspect in investigation"
+        ],
+        [
+            "Elaine Carter",
+            "Drake Li Morette",
+            "Dr. Paloski",
+            "Richard Berkeley"
+        ],
+        [
+            "Gale Li Morette",
+            "Drake Li Morette",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Head Nurse Costa",
+            "relationship 1"
+        ],
+        [
+            "James Lai Li",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Jim Mason",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Mother",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Richard Berkeley",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Sylvia Costa",
+            "Colleague",
+            "Friend"
+        ]
+    ],
+    "Head Nurse Costa": [
+        [
+            "Andrew Paloski",
+            "relationship 1: Supervisee",
+            "relationship 2: Colleague"
+        ],
+        [
+            "Drake Li Morette",
+            "Relationship 1: Colleague",
+            "Relationship 2: Suspect in investigation"
+        ],
+        [
+            "Elaine Carter",
+            "relationship 1: Mentorship",
+            "relationship 2: Colleague"
+        ],
+        [
+            "Gale Li Morette",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Hans Li Morette",
+            "relationship 1"
+        ],
+        [
+            "James Lai Li",
+            "relationship 1: Perpetrator of X",
+            "relationship 2: Victim of X"
+        ],
+        [
+            "Jim Mason",
+            "relationship 1: Colleague",
+            "relationship 2: Suspect of X"
+        ],
+        [
+            "Mother",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Richard Berkeley",
+            "Supervisor/Subordinate"
+        ],
+        [
+            "Sylvia Costa",
+            "relationship 1: Supervisor-Employee",
+            "relationship 2: Confidant"
+        ]
+    ],
+    "James Lai Li": [
+        [
+            "Andrew Paloski",
+            "Relationship 1: Superior-Subordinate",
+            "Relationship 2: Business Partner"
+        ],
+        [
+            "Drake Li Morette",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect of murder"
+        ],
+        [
+            "Elaine Carter",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect of murder"
+        ],
+        [
+            "Gale Li Morette",
+            "Hans Li Morette",
+            "Drake Li Morette",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Hans Li Morette",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Head Nurse Costa",
+            "relationship 1: Perpetrator of X",
+            "relationship 2: Victim of X"
+        ],
+        [
+            "Jim Mason",
+            "relationship 1: Perpetrator of X",
+            "relationship 2: Victim of X"
+        ],
+        [
+            "Mother",
+            "Relationship 1: Professional, loyal, and reliable",
+            "Relationship 2: Head nurse of the emergency ward and a professional person"
+        ],
+        [
+            "Richard Berkeley",
+            "Business Partner",
+            "Co-worker"
+        ],
+        [
+            "Sylvia Costa",
+            "Business Partner",
+            "Co-worker"
+        ]
+    ],
+    "Jim Mason": [
+        [
+            "Andrew Paloski",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Drake Li Morette",
+            "Relationship 1: Acquaintance",
+            "Relationship 2: Suspect of murder"
+        ],
+        [
+            "Elaine Carter",
+            "Colleague"
+        ],
+        [
+            "Gale Li Morette",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Hans Li Morette",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Head Nurse Costa",
+            "relationship 1: Colleague",
+            "relationship 2: Suspect of X"
+        ],
+        [
+            "James Lai Li",
+            "relationship 1: Victim of X",
+            "relationship 2: Perpetrator of X"
+        ],
+        [
+            "Mother",
+            "Sibling of X",
+            "Relative of X",
+            "Nephew of X",
+            "Son of X"
+        ],
+        [
+            "Richard Berkeley",
+            "Acquaintance"
+        ],
+        [
+            "Sylvia Costa",
+            "Acquaintance",
+            "Colleague"
+        ]
+    ],
+    "Mother": [
+        [
+            "Andrew Paloski",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Drake Li Morette",
+            "Son",
+            "Patient"
+        ],
+        [
+            "Elaine Carter",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Gale Li Morette",
+            "Relationship 1"
+        ],
+        [
+            "Hans Li Morette",
+            "Son"
+        ],
+        [
+            "Head Nurse Costa",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "James Lai Li",
+            "Relationship 1: Patient and caregiver",
+            "Relationship 2: Dependent on James Lai Li for financial support"
+        ],
+        [
+            "Jim Mason",
+            "Sibling of X",
+            "Relative of X",
+            "Nephew of X",
+            "Son of X"
+        ],
+        [
+            "Richard Berkeley",
+            "relationship 1: Professional Colleague",
+            "relationship 2: Personal acquaintance"
+        ],
+        [
+            "Sylvia Costa",
+            "relationship 1: Professional, loyal, and reliable",
+            "relationship 2: Head nurse of the emergency ward"
+        ]
+    ],
+    "Richard Berkeley": [
+        [
+            "Andrew Paloski",
+            "Superior of x",
+            "Employer of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Colleague"
+        ],
+        [
+            "Elaine Carter",
+            "Colleague"
+        ],
+        [
+            "Gale Li Morette",
+            "relationship 1: Supervisor-Employee",
+            "relationship 2: Acquaintance"
+        ],
+        [
+            "Hans Li Morette",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Head Nurse Costa",
+            "Supervisor/Subordinate"
+        ],
+        [
+            "James Lai Li",
+            "Business Partner",
+            "Co-worker"
+        ],
+        [
+            "Jim Mason",
+            "Acquaintance"
+        ],
+        [
+            "Mother",
+            "relationship 1: Professional Colleague",
+            "relationship 2: Personal acquaintance"
+        ],
+        [
+            "Sylvia Costa",
+            "Superior of x",
+            "Employer of X"
+        ]
+    ],
+    "Sylvia Costa": [
+        [
+            "Andrew Paloski",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Drake Li Morette",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Elaine Carter",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Gale Li Morette",
+            "Acquaintance",
+            "Colleague"
+        ],
+        [
+            "Hans Li Morette",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Head Nurse Costa",
+            "relationship 1: Supervisor-Employee",
+            "relationship 2: Confidant"
+        ],
+        [
+            "James Lai Li",
+            "Business Partner",
+            "Co-worker"
+        ],
+        [
+            "Jim Mason",
+            "Acquaintance",
+            "Colleague"
+        ],
+        [
+            "Mother",
+            "relationship 1: Professional, loyal, and reliable",
+            "relationship 2: Head nurse of the emergency ward"
+        ],
+        [
+            "Richard Berkeley",
+            "Head nurse of the emergency ward",
+            "Professional, loyal, and reliable"
+        ]
+    ]
+}

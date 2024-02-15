@@ -1,0 +1,20 @@
+{
+    "Neighbor Wang": [
+      ["Li Guofu", "neighbor of x, acquaintance of x"], 
+      ["He Laoliu", "neighbor of x, acquaintance of x"]
+    ],
+    "Li Guofu": [
+      ["Neighbor Wang", "neighbor of x, acquaintance of x"], 
+      ["He Laoliu", "coworker of x, acquaintance of x"], 
+      ["Zhang Jie", "ex romantic relationship with x"]
+    ],
+    "He Laoliu": [
+      ["Neighbor Wang", "neighbor of x, acquaintance of x"], 
+      ["Li Guofu", "coworker of x, acquaintance of x"], 
+      ["Zhang Jie", "romantic relationships with x"]
+    ],
+    "Zhang Jie": [
+      ["Li Guofu", "ex romantic relationship with x"], 
+      ["He Laoliu", "romantic relationships with x"]
+    ]
+}

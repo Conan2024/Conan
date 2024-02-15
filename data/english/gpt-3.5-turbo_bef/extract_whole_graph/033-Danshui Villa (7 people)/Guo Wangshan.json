@@ -1,0 +1,43 @@
+{
+    "Guo Wangshan": [
+      ["Liao Laoban", "business partner of x, information receiver from x"], 
+      ["Huazi Li", "informant of x"], 
+      ["Master Ren", "business partner of x, mentor of x, employer of x"], 
+      ["Liao's Owner", "employer of x, mentor of x"], 
+      ["Liao's Nuer", "employee of x"]
+    ],
+    "Liao Laoban": [
+      ["Guo Wangshan", "business partner of x"], 
+      ["Master Ren", "business partner of x, employer of x"], 
+      ["Liao's Nuer", "employee of x"]
+    ],
+    "Huazi Li": [
+      ["Guo Wangshan", "informant of x"]
+    ],
+    "Master Ren": [
+      ["Guo Wangshan", "business partner of x, mentor of x, employer of x"]
+    ],
+    "Liao's Owner": [
+      ["Guo Wangshan", "employer of x, mentor of x"], 
+      ["Master Ren", "business partner of x"]
+    ],
+    "Liao's Nuer": [
+      ["Guo Wangshan", "employee of x"], 
+      ["Liao Laoban", "employee of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Guo Wangshan", "suspected by x, adversary of x"]
+    ],
+    "Feng Shuangji": [
+      ["Guo Wangshan", "dislike of x"]
+    ],
+    "Qi Yue": [
+      ["Guo Wangshan", "adversary of x"]
+    ],
+    "Housekeeper Fang Shuangji": [
+      ["Guo Wangshan", "dislike of x"]
+    ],
+    "Yin Shaoming": [
+      ["Guo Wangshan", "acquaintance of x"]
+    ]
+}

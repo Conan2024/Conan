@@ -1,0 +1,114 @@
+{
+    "Li Bao'an": [
+        [
+            "Professor Jia",
+            "Superior",
+            "Teacher",
+            "Employer",
+            "Friend"
+        ],
+        [
+            "Qin Ou",
+            "Ex-romantic relationships with X",
+            "Rival of X"
+        ],
+        [
+            "Sun Qingjie",
+            "Friend of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Tian Zhuli",
+            "Boyfriend",
+            "Ex-romantic relationships"
+        ]
+    ],
+    "Professor Jia": [
+        [
+            "Li Bao'an",
+            "Subordinate",
+            "Student",
+            "Employee",
+            "Friend"
+        ],
+        [
+            "Qin Ou",
+            "Tian Zhuli"
+        ],
+        [
+            "Sun Qingjie",
+            "Teacher of X",
+            "Superior of X"
+        ],
+        [
+            "Tian Zhuli",
+            "Superior of X",
+            "Employer of X"
+        ]
+    ],
+    "Qin Ou": [
+        [
+            "Li Bao'an",
+            "Ex-romantic relationships with X",
+            "Rival of X"
+        ],
+        [
+            "Professor Jia",
+            "Tian Zhuli"
+        ],
+        [
+            "Sun Qingjie",
+            "Wife of X",
+            "Romantic relationships with X"
+        ],
+        [
+            "Tian Zhuli",
+            "girlfriend",
+            "adversary"
+        ]
+    ],
+    "Sun Qingjie": [
+        [
+            "Li Bao'an",
+            "Friend of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Professor Jia",
+            "Tian Zhuli",
+            "Boyfriend of X"
+        ],
+        [
+            "Qin Ou",
+            "Husband of X",
+            "Romantic relationships with X"
+        ],
+        [
+            "Tian Zhuli",
+            "boyfriend",
+            "adversary"
+        ]
+    ],
+    "Tian Zhuli": [
+        [
+            "Li Bao'an",
+            "Girlfriend",
+            "Adversary"
+        ],
+        [
+            "Professor Jia",
+            "Subordinate of X",
+            "Employee of X"
+        ],
+        [
+            "Qin Ou",
+            "girlfriend",
+            "perpetrator"
+        ],
+        [
+            "Sun Qingjie",
+            "girlfriend",
+            "perpetrator"
+        ]
+    ]
+}

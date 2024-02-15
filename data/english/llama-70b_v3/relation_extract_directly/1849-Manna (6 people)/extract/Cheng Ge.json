@@ -1,0 +1,54 @@
+{
+    "Cheng Ge": [
+      ["Tan Renchang", "acquaintance of x"], 
+      ["Lv Mingran", "acquaintance of x, helper of x"], 
+      ["Xinya", "mother of x"], 
+      ["Hong Er", "friend of x, acquaintance of x"], 
+      ["Mrs. Tan", "acquaintance of x"]
+    ],
+    "Tan Renchang": [
+      ["Cheng Ge", "acquaintance of x"], 
+      ["Lv Mingran", "friend of x"]
+    ],
+    "Lv Mingran": [
+      ["Cheng Ge", "acquaintance of x, helper of x"], 
+      ["Tan Renchang", "friend of x"], 
+      ["Xinya", "friend of x"]
+    ],
+    "Xinya": [
+      ["Cheng Ge", "mother of x"], 
+      ["Lv Mingran", "friend of x"]
+    ],
+    "Hong Er": [
+      ["Cheng Ge", "friend of x, acquaintance of x"], 
+      ["Xinya", "daughter of x, acquaintance of x"]
+    ],
+    "Mrs. Tan": [
+      ["Cheng Ge", "acquaintance of x"], 
+      ["Tan Renchang", "mother of x"]
+    ],
+    "Liao Gongzi": [
+      ["Mrs. Tan", "friend of x"], 
+      ["Cheng Ge", "acquaintance of x"]
+    ],
+    "Mrs. Wei": [
+      ["Lv Mingran", "sister of x"], 
+      ["Mrs. Tan", "friend of x"]
+    ],
+    "Julie": [
+      ["Cheng Ge", "friend of x"]
+    ],
+    "Shang Zhi": [
+      ["Mrs. Tan", "friend of x"], 
+      ["Cheng Ge", "acquaintance of x"]
+    ],
+    "A Ping": [
+      ["Mrs. Tan", "employee of x"]
+    ],
+    "Tan Shang Zhi": [
+      ["Tan Renchang", "nephew of x"]
+    ],
+    "The lawyer": [
+      ["Tan Renchang", "lawyer of x"]
+    ]
+}

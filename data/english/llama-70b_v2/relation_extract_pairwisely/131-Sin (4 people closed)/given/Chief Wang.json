@@ -1,0 +1,32 @@
+{
+    "Chief Wang": [
+      ["Hu Investigate", "acquaintance of x, suspect of x, rival of x, victim of x"], 
+      ["Officer Li", "husband of x, perpetrator of x"], 
+      ["Zhang Villager", "acquaintance of x, fellow villager of x"], 
+      ["Zhao Cishan", "perpetrator of x, murderer of x"]
+    ],
+    "Hu Investigate": [
+      ["Chief Wang", "acquaintance of x, suspect of x, rival of x, victim of x"], 
+      ["Officer Li", "relationship 1: acquaintance of x, relationship 2: suspect of x"], 
+      ["Zhang Villager", "relationship 1: acquaintance of x, relationship 2: suspect of x"], 
+      ["Zhao Cishan", "relationship 1: suspect of x, relationship 2: victim of x"]
+    ],
+    "Officer Li": [
+      ["Chief Wang", "suspect of x, investigator of x"], 
+      ["Hu Investigate", "relationship 1: acquaintance of x, relationship 2: suspect of x"], 
+      ["Zhang Villager", "acquaintance of x, classmate of x"], 
+      ["Zhao Cishan", "suspect of x"]
+    ],
+    "Zhang Villager": [
+      ["Chief Wang", "acquaintance of x, fellow villager of x"], 
+      ["Hu Investigate", "relationship 1: acquaintance of x, relationship 2: suspect of x"], 
+      ["Officer Li", "acquaintance of x, classmate of x"], 
+      ["Zhao Cishan", "acquaintance of x"]
+    ],
+    "Zhao Cishan": [
+      ["Chief Wang", "victim of x, killed by of x"], 
+      ["Hu Investigate", "relationship 1: suspect of x, relationship 2: victim of x"], 
+      ["Officer Li", "suspect of x"], 
+      ["Zhang Villager", "acquaintance of x"]
+    ]
+}

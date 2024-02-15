@@ -1,0 +1,78 @@
+{
+    "Caoteng Jushi": [
+      ["Fangfu", "adoptive father of x caoteng jushi"], 
+      ["Fang Ye", "ex romantic relationships with caoteng jushi"], 
+      ["Fang Mian", "disliked by caoteng jushi of x"], 
+      ["Fang Xu", "romantic relationships with caoteng jushi of x, supported by caoteng jushi of x, mentioned in caoteng jushi's biography of x"], 
+      ["Lang Zhong", "informant of x caoteng jushi"], 
+      ["Mrs. Fangfang", "disliked by caoteng jushi of x, mentioned in caoteng jushi's biography of x"], 
+      ["Li Qinren", "married to fang xu, revenged by caoteng jushi of x"], 
+      ["Li Fu", "married to fang xu, impersonated by caoteng jushi of x, killed by caoteng jushi of x"], 
+      ["Chen Zijing", "mentor of x caoteng jushi"], 
+      ["Li Zhong", "son of x caoteng jushi"], 
+      ["Li Yan", "son of x caoteng jushi"], 
+      ["Xiao Qian", "adopted daughter of x caoteng jushi, sibling of x chen qian"], 
+      ["Chen Qian", "daughter of x caoteng jushi, sibling of xiao qian"], 
+      ["Master Chen's wife", "mother of x chen qian, deceased of x"], 
+      ["Fang Xu's brother", "father of xiao qian"]
+    ],
+    "Fangfu": [
+      ["Caoteng Jushi", "adoptive child of x fangfu"]
+    ],
+    "Fang Ye": [
+      ["Caoteng Jushi", "ex romantic relationships with caoteng jushi"]
+    ],
+    "Fang Mian": [
+      ["Caoteng Jushi", "disliked by caoteng jushi of x"]
+    ],
+    "Fang Xu": [
+      ["Caoteng Jushi", "romantic relationships with caoteng jushi of x, supported by caoteng jushi of x, mentioned in caoteng jushi's biography of x"], 
+      ["Lang Zhong", "informant of x fang xu"], 
+      ["Li Qinren", "married to li qinren of x, mentioned in caoteng jushi's biography of x"], 
+      ["Li Fu", "married to li fu of x, revenged by caoteng jushi of x"], 
+      ["Li Zhong", "son of x fang xu"], 
+      ["Li Yan", "son of x fang xu"], 
+      ["Xiao Qian", "cared for by fang xu, helped by fang xu"], 
+      ["Chen Qian", "sibling of xiao qian"]
+    ],
+    "Lang Zhong": [
+      ["Caoteng Jushi", "informant of x caoteng jushi"], 
+      ["Fang Xu", "informant of x fang xu"]
+    ],
+    "Mrs. Fangfang": [
+      ["Caoteng Jushi", "disliked by caoteng jushi of x, mentioned in caoteng jushi's biography of x"]
+    ],
+    "Li Qinren": [
+      ["Fang Xu", "married to fang xu, revenged by caoteng jushi of x"]
+    ],
+    "Li Fu": [
+      ["Fang Xu", "married to fang xu, impersonated by caoteng jushi of x, killed by caoteng jushi of x"]
+    ],
+    "Chen Zijing": [
+      ["Caoteng Jushi", "mentor of x caoteng jushi"]
+    ],
+    "Li Zhong": [
+      ["Caoteng Jushi", "son of x caoteng jushi"], 
+      ["Fang Xu", "son of x fang xu"]
+    ],
+    "Li Yan": [
+      ["Caoteng Jushi", "son of x caoteng jushi"], 
+      ["Fang Xu", "son of x fang xu"]
+    ],
+    "Xiao Qian": [
+      ["Caoteng Jushi", "adopted daughter of x caoteng jushi, sibling of x chen qian"], 
+      ["Fang Xu", "cared for by fang xu, helped by fang xu"], 
+      ["Fang Xu's brother", "father of xiao qian"]
+    ],
+    "Chen Qian": [
+      ["Caoteng Jushi", "daughter of x caoteng jushi, sibling of xiao qian"], 
+      ["Xiao Qian", "sibling of xiao qian"], 
+      ["Master Chen's wife", "mother of x chen qian, deceased of x"]
+    ],
+    "Master Chen's wife": [
+      ["Chen Qian", "mother of x chen qian, deceased of x"]
+    ],
+    "Fang Xu's brother": [
+      ["Xiao Qian", "father of xiao qian"]
+    ]
+}

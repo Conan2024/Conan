@@ -1,0 +1,182 @@
+{
+    "ZHANG EBA": [
+        [
+            "LI XIAODI",
+            "Hao Guimi",
+            "Lin Xiaohua",
+            "Zhao Shuai",
+            "classmate",
+            "schoolmate",
+            "bully",
+            "perpetrator",
+            "victim"
+        ],
+        [
+            "Hao Guimi",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Lin Xiaohua",
+            "Fiancee of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Zhao Shuai",
+            "Acquaintance",
+            "Classmate"
+        ],
+        [
+            "Beethoven",
+            "bully",
+            "tormentor",
+            "oppressor"
+        ]
+    ],
+    "LI XIAODI": [
+        [
+            "ZHANG EBA",
+            "Hao Guimi",
+            "Lin Xiaohua",
+            "Zhao Shuai",
+            "classmate",
+            "schoolmate",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Hao Guimi",
+            "ZHANG EBA",
+            "classmate",
+            "schoolmate",
+            "friend"
+        ],
+        [
+            "Lin Xiaohua",
+            "Fiancee of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Zhao Shuai",
+            "Acquaintance"
+        ],
+        [
+            "Beethoven",
+            "friend",
+            "acquaintance"
+        ]
+    ],
+    "Hao Guimi": [
+        [
+            "ZHANG EBA",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "LI XIAODI",
+            "ZHANG EBA",
+            "classmate",
+            "schoolmate",
+            "friend"
+        ],
+        [
+            "Lin Xiaohua",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Zhao Shuai",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Beethoven",
+            "friend",
+            "acquaintance"
+        ]
+    ],
+    "Lin Xiaohua": [
+        [
+            "ZHANG EBA",
+            "Fiance of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "LI XIAODI",
+            "Fiance of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Hao Guimi",
+            "Fiancee",
+            "Acquaintance"
+        ],
+        [
+            "Zhao Shuai",
+            "fiancee of X",
+            "acquaintance of X",
+            "classmate of X",
+            "schoolmate of X"
+        ],
+        [
+            "Beethoven",
+            "Fiancee of X",
+            "Co-wives of X"
+        ]
+    ],
+    "Zhao Shuai": [
+        [
+            "ZHANG EBA",
+            "Acquaintance",
+            "Classmate"
+        ],
+        [
+            "LI XIAODI",
+            "Acquaintance"
+        ],
+        [
+            "Hao Guimi",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Lin Xiaohua",
+            "friend of X",
+            "acquaintance of X",
+            "classmate of X",
+            "schoolmate of X"
+        ],
+        [
+            "Beethoven",
+            "Acquaintance",
+            "Suspect"
+        ]
+    ],
+    "Beethoven": [
+        [
+            "ZHANG EBA",
+            "victim",
+            "oppressed"
+        ],
+        [
+            "LI XIAODI",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Hao Guimi",
+            "friend",
+            "acquaintance"
+        ],
+        [
+            "Lin Xiaohua",
+            "Fiance of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Zhao Shuai",
+            "Acquaintance",
+            "Potential Witness"
+        ]
+    ]
+}

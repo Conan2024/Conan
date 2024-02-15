@@ -1,0 +1,44 @@
+{
+    "Ella": [
+      ["Gust", "employer of x, perpetrator of x"], 
+      ["Logistics Griff", "friend of x, deceiver of x"], 
+      ["Security Kevin", "acquaintance of x, helper of x"], 
+      ["Thetrical Work David", "colleague of x, friend of x"], 
+      ["Publicity Rowling", "friend of x"]
+    ],
+    "Gust": [
+      ["Ella", "employer of x, perpetrator of x"], 
+      ["Logistics Griff", "friend of x"], 
+      ["Security Kevin", "colleague of x, helper of x"], 
+      ["Thetrical Work David", "colleague of x, friend of x"], 
+      ["Publicity Rowling", "friend of x"]
+    ],
+    "Logistics Griff": [
+      ["Ella", "friend of x, deceiver of x"], 
+      ["Gust", "friend of x"], 
+      ["Security Kevin", "acquaintance of x, helper of x"], 
+      ["Thetrical Work David", "colleague of x"], 
+      ["Publicity Rowling", "colleague of x"]
+    ],
+    "Security Kevin": [
+      ["Ella", "acquaintance of x, helper of x"], 
+      ["Gust", "colleague of x, helper of x"], 
+      ["Logistics Griff", "friend of x"], 
+      ["Thetrical Work David", "colleague of x"], 
+      ["Publicity Rowling", "colleague of x"]
+    ],
+    "Thetrical Work David": [
+      ["Ella", "colleague of x, friend of x"], 
+      ["Gust", "colleague of x, friend of x"], 
+      ["Logistics Griff", "colleague of x"], 
+      ["Security Kevin", "colleague of x"], 
+      ["Publicity Rowling", "colleague of x"]
+    ],
+    "Publicity Rowling": [
+      ["Ella", "friend of x"], 
+      ["Gust", "friend of x"], 
+      ["Logistics Griff", "colleague of x"], 
+      ["Security Kevin", "colleague of x"], 
+      ["Thetrical Work David", "colleague of x"]
+    ]
+}

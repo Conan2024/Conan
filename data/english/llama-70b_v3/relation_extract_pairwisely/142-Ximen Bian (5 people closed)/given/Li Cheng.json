@@ -1,0 +1,30 @@
+{
+    "Chen Meier": [
+      ["Li Cheng", "friend of x"], 
+      ["Zhao Zhongyang", "wife of x, same person as x (different reference)"], 
+      ["Zhao Zhongzheng", "wife of x, same person as x (different reference)"]
+    ],
+    "Li Cheng": [
+      ["Chen Meier", "friend of x"], 
+      ["Zhang Wei", "friend of x, helper of x"], 
+      ["Zhao Zhongyang", "friend of x"], 
+      ["Zhao Zhongzheng", "friend of x"]
+    ],
+    "Zhao Zhongyang": [
+      ["Chen Meier", "husband of x, same person as x (different reference)"], 
+      ["Li Cheng", "friend of x"], 
+      ["Zhang Wei", "suspicious of x"], 
+      ["Zhao Zhongzheng", "brother of x, friend of x"]
+    ],
+    "Zhao Zhongzheng": [
+      ["Chen Meier", "husband of x, same person as x (different reference)"], 
+      ["Li Cheng", "friend of x"], 
+      ["Zhang Wei", "employer of x, manipulator of x"], 
+      ["Zhao Zhongyang", "brother of x, friend of x"]
+    ],
+    "Zhang Wei": [
+      ["Li Cheng", "friend of x, helper of x"], 
+      ["Zhao Zhongyang", "suspicious of x"], 
+      ["Zhao Zhongzheng", "subordinate of x"]
+    ]
+}

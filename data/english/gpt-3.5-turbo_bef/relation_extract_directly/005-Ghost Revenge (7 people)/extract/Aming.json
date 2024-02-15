@@ -1,0 +1,44 @@
+{
+    "Li Luo Ming": [
+      ["Li Zicai", "father of x"], 
+      ["Li Zijun", "uncle of x"], 
+      ["Xia Sanhu", "enemy of x"], 
+      ["Xia Shue", "teacher of x"]
+    ],
+    "Li Zicai": [
+      ["Li Luo Ming", "child of x"], 
+      ["Xia Sanhu", "perpetrator of x"], 
+      ["Xia Zhongpeng", "acquaintance of x"]
+    ],
+    "Xia Zhongpeng": [
+      ["Xia Sanhu", "brother of x"], 
+      ["Xia Shue", "acquaintance of x"], 
+      ["Duan Yuetong", "acquaintance of x"], 
+      ["Lu Dong", "master of x"], 
+      ["Abao", "master of x"]
+    ],
+    "Xia Sanhu": [
+      ["Li Luo Ming", "enemy of x"], 
+      ["Xia Bolong", "son of x"], 
+      ["Xia Shue", "nephew of x"], 
+      ["Xia Zhongpeng", "brother of x"], 
+      ["Xia Shue", "master of x"], 
+      ["Lu Dong", "master of x"], 
+      ["Abao", "master of x"]
+    ],
+    "Xia Shue": [
+      ["Li Luo Ming", "teacher of x"], 
+      ["Xia Bolong", "daughter of x"], 
+      ["Xia Sanhu", "niece of x"]
+    ],
+    "Li Zijun": [
+      ["Li Luo Ming", "uncle of x"], 
+      ["Yu Zu Chengmu", "uncle of x"]
+    ],
+    "Lu Dong": [
+      ["Xia Sanhu", "master of x"]
+    ],
+    "Abao": [
+      ["Xia Sanhu", "master of x"]
+    ]
+}

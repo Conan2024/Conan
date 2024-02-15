@@ -1,0 +1,47 @@
+{
+    "Fan Jinkui": [
+      ["Tian Hongjiao", "fiancee/wife of x"], 
+      ["Yao Changshou", "rival/enemy of x"]
+    ],
+    "Tian Hongjiao": [
+      ["Fan Jinkui", "fiancee/wife of x"], 
+      ["Yao Changshou", "husband of x"]
+    ],
+    "Yao Changshou": [
+      ["Fan Jinkui", "enemy/rival of x"], 
+      ["Tian Hongjiao", "husband/acquaintance of x"]
+    ],
+    "Steward Du": [
+      ["Fan Jinkui", "acquaintance/friend of x"], 
+      ["Yu Beichen", "colleague/business partner of x"]
+    ],
+    "Yu Beichen": [
+      ["Steward Du", "colleague/business partner of x"], 
+      ["Fan Jinkui", "acquaintance/friend of x"]
+    ],
+    "Fang Chengshan": [
+      ["Yao Changshou", "friend/acquaintance of x"]
+    ],
+    "Brother Li": [
+      ["Fan Jinkui", "friend/acquaintance of x"], 
+      ["Yu Beichen", "colleague/business partner of x"]
+    ],
+    "White-Headed Snake": [
+      ["Fan Jinkui", "business partner/acquaintance of x"]
+    ],
+    "Long-Hired Girl": [
+      ["Fan Jinkui", "friend/acquaintance of x"]
+    ],
+    "Fair-Skinned Youth": [
+      ["Long-Hired Girl", "friend/acquaintance of x"]
+    ],
+    "Lady Hong": [
+      ["Tian Hongjiao", "successor/friend of x"]
+    ],
+    "Du Huixin": [
+      ["Steward Du", "friend/acquaintance of x"]
+    ],
+    "Meng Ren": [
+      ["Tian Hongjiao", "friend/acquaintance of x"]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "Ba Falcon": [
+      ["Mountain Spirit", "mentor of x ba falcon"], 
+      ["Juan Ge", "friend of x ba falcon"], 
+      ["Li Gaobai", "colleague of x ba falcon"], 
+      ["Professor Zhou", "teacher of x ba falcon"], 
+      ["Gui Yin", "friend of x ba falcon"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Ba Falcon", "mentor of x ba mansion mountain"], 
+      ["Mountain Spirit", "helper of x ba mansion mountain"], 
+      ["Miao Na", "friend of x ba mansion mountain"], 
+      ["Juan Ge", "friend of x ba mansion mountain"], 
+      ["Gui Yin", "friend of x ba mansion mountain"]
+    ],
+    "Mountain Spirit": [
+      ["Ba Falcon", "mentor of x mountain spirit"], 
+      ["Ba Mansion Mountain", "mentor of x mountain spirit"], 
+      ["Miao Na", "friend of x mountain spirit"], 
+      ["Gui Yin", "friend of x mountain spirit"], 
+      ["Ruya", "saviour of x mountain spirit"], 
+      ["Juan Ge", "friend of x mountain spirit"]
+    ],
+    "Miao Na": [
+      ["Ba Mansion Mountain", "friend of x miao na"], 
+      ["Mountain Spirit", "friend of x miao na"], 
+      ["Ruya", "friend of x miao na"], 
+      ["Juan Ge", "friend of x miao na"]
+    ],
+    "Miao Shi": [
+      ["Intern", "colleague of x miao shi"], 
+      ["Adult Man", "colleague of x miao shi"]
+    ],
+    "Gui Yin": [
+      ["Mountain Spirit", "friend of x gui yin"], 
+      ["Ruya", "friend of x gui yin"], 
+      ["Ba Falcon", "friend of x gui yin"], 
+      ["Ba Mansion Mountain", "friend of x gui yin"]
+    ],
+    "Ruya": [
+      ["Mountain Spirit", "saviour of x ruya"], 
+      ["Miao Na", "friend of x ruya"], 
+      ["Gui Yin", "friend of x ruya"], 
+      ["Juan Ge", "friend of x ruya"]
+    ],
+    "Juan Ge": [
+      ["Ba Falcon", "friend of x juan ge"], 
+      ["Ba Mansion Mountain", "friend of x juan ge"], 
+      ["Miao Na", "friend of x juan ge"], 
+      ["Ruya", "friend of x juan ge"]
+    ],
+    "Li Gaobai": [
+      ["Ba Falcon", "colleague of x li gaobai"]
+    ],
+    "Professor Zhou": [
+      ["Ba Falcon", "teacher of x professor zhou"], 
+      ["Chen Sha", "acquaintance of x professor zhou"]
+    ],
+    "Chen Sha": [
+      ["Professor Zhou", "acquaintance of x chen sha"], 
+      ["Intern", "acquaintance of x chen sha"]
+    ],
+    "Intern": [
+      ["Miao Shi", "colleague of x intern"], 
+      ["Chen Sha", "acquaintance of x intern"]
+    ],
+    "Adult Man": [
+      ["Miao Shi", "colleague of x adult man"]
+    ]
+}

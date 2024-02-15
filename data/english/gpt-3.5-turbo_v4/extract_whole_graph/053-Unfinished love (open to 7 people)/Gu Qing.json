@@ -1,0 +1,41 @@
+{
+    "Gu Qing": [
+      ["Gu Ming", "father of x"], 
+      ["Gu Yu", "brother of x"], 
+      ["Lin Xi", "friend of x"], 
+      ["Su Yang", "romantic relationships with x"], 
+      ["Lin Tong", "disliked by x"], 
+      ["Lin Yang", "manipulator of x, ex boyfriend of x"], 
+      ["Shen Cheng", "informant of x"]
+    ],
+    "Gu Ming": [
+      ["Gu Qing", "daughter of x"]
+    ],
+    "Gu Yu": [
+      ["Gu Qing", "sibling of x"]
+    ],
+    "Lin Xi": [
+      ["Gu Qing", "friend of x"], 
+      ["Lin Tong", "replaced x's identity"], 
+      ["Su Yang", "romantic relationships with x"], 
+      ["Lin Yang", "sibling of x"], 
+      ["Shen Cheng", "informant of x"]
+    ],
+    "Su Yang": [
+      ["Gu Qing", "romantic relationships with x"], 
+      ["Lin Xi", "romantic relationships with x"]
+    ],
+    "Lin Tong": [
+      ["Gu Qing", "replaced x's identity"], 
+      ["Lin Xi", "replaced x's identity"]
+    ],
+    "Lin Yang": [
+      ["Gu Yu", "friend of x"], 
+      ["Lin Xi", "sibling of x, ex boyfriend of x"], 
+      ["Gu Qing", "ex boyfriend of x"]
+    ],
+    "Shen Cheng": [
+      ["Lin Xi", "informant of x"], 
+      ["Gu Qing", "informant of x"]
+    ]
+}

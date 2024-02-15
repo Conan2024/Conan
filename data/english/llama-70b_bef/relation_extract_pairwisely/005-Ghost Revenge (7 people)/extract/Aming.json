@@ -1,0 +1,130 @@
+{
+    "Li Luo Ming": [
+      ["Li Zicai", "father of x, son of x"], 
+      ["Xia Bolong", "friend of x, teacher of x, student of x, helper of x, acquaintance of x"], 
+      ["Xia Zhongpeng", "rival of x"], 
+      ["Xia Sanhu", "adversary of x, rival of x, enemy of x"], 
+      ["Yue Dongwen", "friend of x, mentor of x, teacher of x, helper of x"], 
+      ["Xia Shue", "friend of x, classmate of x"], 
+      ["Bai Changgong", "acquaintance of x, business partner of x"], 
+      ["Yu Zu Chengmu", "uncle of x, acquaintance of x"], 
+      ["Anqi", "friend of x"], 
+      ["Wu Baian", "acquaintance of x, colleague of x, classmate of x"]
+    ],
+    "Li Zicai": [
+      ["Li Luo Ming", "father of x, son of x"], 
+      ["Xia Bolong", "father of x"], 
+      ["Xia Zhongpeng", "father of x"], 
+      ["Xia Sanhu", "father of x"], 
+      ["Xia Shue", "father of x, mentor of x, teacher of x"], 
+      ["Bai Changgong", "father of x"], 
+      ["Yu Zu Chengmu", "father of x, uncle of x"], 
+      ["Anqi", "father of x"], 
+      ["Wu Baian", "father of x"]
+    ],
+    "Xia Bolong": [
+      ["Li Luo Ming", "friend of x, teacher of x, student of x, helper of x, acquaintance of x"], 
+      ["Li Zicai", "friend of x"], 
+      ["Xia Zhongpeng", "father of x, same person as x (different reference)"], 
+      ["Xia Sanhu", "brother of x, rival of x"], 
+      ["Xia Shue", "teacher of x, father of x"], 
+      ["Bai Changgong", "acquaintance of x, business partner of x"], 
+      ["Yu Zu Chengmu", "uncle of x, manipulator of x"], 
+      ["Anqi", "teacher of x, master of x"], 
+      ["Wu Baian", "teacher of x"]
+    ],
+    "Xia Zhongpeng": [
+      ["Li Luo Ming", "teacher of x, enemy of x"], 
+      ["Li Zicai", "father in law of x"], 
+      ["Xia Bolong", "brother of x, same person as x (different identity)"], 
+      ["Xia Sanhu", "brother of x"], 
+      ["Yue Dongwen", "friend of x, mentor of x"], 
+      ["Xia Shue", "master of x, mentor of x, teacher of x"], 
+      ["Bai Changgong", "acquaintance of x, business partner of x"], 
+      ["Yu Zu Chengmu", "brother of x, relative of x"], 
+      ["Anqi", "master of x, employer of x"], 
+      ["Wu Baian", "same person as x (different reference), same person as x (different identity)"]
+    ],
+    "Xia Sanhu": [
+      ["Li Luo Ming", "adversary of x, rival of x, enemy of x"], 
+      ["Li Zicai", "son of x"], 
+      ["Xia Bolong", "brother of x, rival of x"], 
+      ["Xia Zhongpeng", "brother of x"], 
+      ["Yue Dongwen", "acquaintance of x, business partner of x"], 
+      ["Xia Shue", "master of x, teacher of x, bully of x"], 
+      ["Bai Changgong", "acquaintance of x, business partner of x"], 
+      ["Yu Zu Chengmu", "acquaintance of x, business partner of x"], 
+      ["Anqi", "acquaintance of x, business partner of x"], 
+      ["Wu Baian", "acquaintance of x, colleague of x, business partner of x"]
+    ],
+    "Yue Dongwen": [
+      ["Li Luo Ming", "friend of x, mentor of x, teacher of x, helper of x"], 
+      ["Xia Zhongpeng", "friend of x, mentor of x"], 
+      ["Xia Sanhu", "acquaintance of x, business partner of x"], 
+      ["Xia Shue", "friend of x, mentor of x"], 
+      ["Bai Changgong", "employer of x, superior of x"], 
+      ["Yu Zu Chengmu", "friend of x, business partner of x"], 
+      ["Anqi", "friend of x, business partner of x"], 
+      ["Wu Baian", "friend of x, mentor of x"]
+    ],
+    "Xia Shue": [
+      ["Li Luo Ming", "friend of x, classmate of x"], 
+      ["Li Zicai", "student of x, friend of x"], 
+      ["Xia Bolong", "student of x, daughter of x"], 
+      ["Xia Zhongpeng", "student of x, friend of x"], 
+      ["Xia Sanhu", "student of x, victim of x"], 
+      ["Yue Dongwen", "friend of x, student of x"], 
+      ["Bai Changgong", "teacher of x, friend of x"], 
+      ["Yu Zu Chengmu", "teacher of x, friend of x"], 
+      ["Anqi", "teacher of x, friend of x"], 
+      ["Wu Baian", "teacher of x, mentor of x, friend of x"]
+    ],
+    "Bai Changgong": [
+      ["Li Luo Ming", "acquaintance of x, business partner of x"], 
+      ["Li Zicai", "son of x, informant of x"], 
+      ["Xia Bolong", "acquaintance of x, business partner of x"], 
+      ["Xia Zhongpeng", "acquaintance of x, business partner of x"], 
+      ["Xia Sanhu", "acquaintance of x, business partner of x"], 
+      ["Yue Dongwen", "employee of x, subordinate of x"], 
+      ["Xia Shue", "student of x, friend of x"], 
+      ["Yu Zu Chengmu", "business partner of x"], 
+      ["Anqi", "business partner of x, acquaintance of x"], 
+      ["Wu Baian", "acquaintance of x, business partner of x"]
+    ],
+    "Yu Zu Chengmu": [
+      ["Li Luo Ming", "nephew of x, friend of x"], 
+      ["Li Zicai", "son of x, nephew of x"], 
+      ["Xia Bolong", "nephew of x, manipulated by x"], 
+      ["Xia Zhongpeng", "brother of x, relative of x"], 
+      ["Xia Sanhu", "acquaintance of x, business partner of x"], 
+      ["Yue Dongwen", "friend of x, business partner of x"], 
+      ["Xia Shue", "student of x, friend of x"], 
+      ["Bai Changgong", "business partner of x"], 
+      ["Anqi", "acquaintance of x, business partner of x"], 
+      ["Wu Baian", "uncle of x, deceiver of x, manipulator of x, enemy of x"]
+    ],
+    "Anqi": [
+      ["Li Luo Ming", "friend of x"], 
+      ["Li Zicai", "son of x, victim of x"], 
+      ["Xia Bolong", "student of x"], 
+      ["Xia Zhongpeng", "employee of x, servant of x"], 
+      ["Xia Sanhu", "acquaintance of x, business partner of x"], 
+      ["Yue Dongwen", "friend of x, business partner of x"], 
+      ["Xia Shue", "friend of x, student of x"], 
+      ["Bai Changgong", "business partner of x, acquaintance of x"], 
+      ["Yu Zu Chengmu", "acquaintance of x, business partner of x"], 
+      ["Wu Baian", "friend of x, colleague of x"]
+    ],
+    "Wu Baian": [
+      ["Li Luo Ming", "acquaintance of x, colleague of x, classmate of x"], 
+      ["Li Zicai", "son of x, killed by x"], 
+      ["Xia Bolong", "student of x"], 
+      ["Xia Zhongpeng", "same person as x (different reference), same person as x (different identity)"], 
+      ["Xia Sanhu", "acquaintance of x, colleague of x, business partner of x"], 
+      ["Yue Dongwen", "friend of x"], 
+      ["Xia Shue", "student of x, friend of x"], 
+      ["Bai Changgong", "acquaintance of x, business partner of x"], 
+      ["Yu Zu Chengmu", "nephew of x, victim of x, disliked by x, suspect of x"], 
+      ["Anqi", "friend of x, colleague of x"]
+    ]
+}

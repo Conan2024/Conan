@@ -1,0 +1,58 @@
+{
+    "Xuan Can": [
+        [
+            "Du Zhong",
+            "business partner of x, colleague of x, friend of x, co-wives of x, suspect to x, deceiver of x, suspect of x"
+        ],
+        [
+            "Ren Dong",
+            "informant of x, acquaintance of x"
+        ],
+        [
+            "Lu Ying",
+            "superior of x, mentor of x"
+        ]
+    ],
+    "Du Zhong": [
+        [
+            "Xuan Can",
+            "business partner of x, colleague of x, friend of x, co-wives of x, deceived by x, victim of x, killed by x"
+        ],
+        [
+            "Ren Dong",
+            "colleague of x, acquaintance of x"
+        ],
+        [
+            "Lu Ying",
+            "superior of x, mentor of x"
+        ]
+    ],
+    "Ren Dong": [
+        [
+            "Xuan Can",
+            "information receiver from x, acquaintance of x"
+        ],
+        [
+            "Du Zhong",
+            "acquaintance of x, colleague of x"
+        ],
+        [
+            "Lu Ying",
+            "acquaintance of x"
+        ]
+    ],
+    "Lu Ying": [
+        [
+            "Xuan Can",
+            "subordinate of x, student of x"
+        ],
+        [
+            "Du Zhong",
+            "subordinate of x, student of x"
+        ],
+        [
+            "Ren Dong",
+            "acquaintance of x"
+        ]
+    ]
+}

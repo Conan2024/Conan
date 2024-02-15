@@ -1,0 +1,18 @@
+{
+    "Gale Li Morette": [
+      ["Drake Li Morette", "lover of x, father of x child"], 
+      ["Hans Li Morette", "husband of x, deceased of x"], 
+      ["Head Nurse Costa", "defendant of x, acquaintance of x"]
+    ],
+    "Drake Li Morette": [
+      ["Gale Li Morette", "lover of x, mother of x child"], 
+      ["Hans Li Morette", "brother of x, deceased of x"]
+    ],
+    "Hans Li Morette": [
+      ["Gale Li Morette", "wife of x, murderer of x"], 
+      ["Drake Li Morette", "brother of x"]
+    ],
+    "Head Nurse Costa": [
+      ["Gale Li Morette", "defendant of x, acquaintance of x"]
+    ]
+}

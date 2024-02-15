@@ -1,0 +1,131 @@
+{
+    "Falcon": [
+      ["Ba Mansion Mountain", "same person as x (different reference), same person as x (different identity)"], 
+      ["Miao Shi", "sister of x, friend of x"], 
+      ["Miao Na", "relative of x, friend of x"], 
+      ["Gui Yin", "brother in law of x, friend of x"], 
+      ["Ruya", "cousin of x"], 
+      ["Juan Ge", "sister of x, classmate of x, friend of x"], 
+      ["Li Gaobai", "friend of x"], 
+      ["Chen Sha", "friend of x, acquaintance of x"], 
+      ["Professor Zhou", "acquaintance of x, classmate of x"], 
+      ["Intern", "friend of x, classmate of x, schoolmate of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Falcon", "father of x, same person as x (different reference), same person as x (different identity)"], 
+      ["Miao Shi", "father of x, master of x"], 
+      ["Miao Na", "master of x"], 
+      ["Gui Yin", "father in law of x, friend of x"], 
+      ["Li Gaobai", "friend of x, classmate of x"], 
+      ["Chen Sha", "friend of x, classmate of x"], 
+      ["Professor Zhou", "employer of x, master of x, superior of x, father of x, uncle of x, nephew of x, cousin of x, informant of x, information receiver from x"], 
+      ["Intern", "father of x, master of x, employer of x"]
+    ],
+    "Miao Shi": [
+      ["Falcon", "brother of x, friend of x"], 
+      ["Ba Mansion Mountain", "mother of x, wife of x"], 
+      ["Miao Na", "sister of x, relative of x"], 
+      ["Gui Yin", "sister in law of x, aunt of x"], 
+      ["Ruya", "sister of x, aunt of x"], 
+      ["Juan Ge", "sister of x"], 
+      ["Li Gaobai", "friend of x, classmate of x"], 
+      ["Chen Sha", "sister in law of x, friend of x"], 
+      ["Professor Zhou", "mother of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x"], 
+      ["Intern", "wife of x, sister of x, cousin of x, friend of x"]
+    ],
+    "Miao Na": [
+      ["Falcon", "relative of x, friend of x"], 
+      ["Ba Mansion Mountain", "son of x"], 
+      ["Miao Shi", "sister of x, relative of x"], 
+      ["Gui Yin", "same person as x (different reference), same person as x (different identity)"], 
+      ["Ruya", "sister of x"], 
+      ["Juan Ge ", "sister of x"], 
+      ["Li Gaobai", "friend of x"], 
+      ["Chen Sha", "same person as x (different identity), friend of x"], 
+      ["Professor Zhou", "employer of x"], 
+      ["Intern", "same person as x (different reference), same person as x (different identity)"]
+    ],
+    "Gui Yin": [
+      ["Falcon", "brother in law of x, friend of x"], 
+      ["Ba Mansion Mountain", "son in law of x, friend of x"], 
+      ["Miao Shi", "husband of x, uncle of x"], 
+      ["Ruya", "same person as x (different identity), friend of x"], 
+      ["Juan Ge ", "same person as x (different reference), same person as x (different identity)"], 
+      ["Li Gaobai", "friend of x, mentor of x"], 
+      ["Chen Sha", "friend of x, mentor of x"], 
+      ["Professor Zhou", "friend of x, acquaintance of x"], 
+      ["Intern", "teacher of x, information receiver from x"]
+    ],
+    "Ruya": [
+      ["Falcon", "cousin of x"], 
+      ["Miao Shi", "cousin of x, nephew of x"], 
+      ["Miao Na", "sister of x"], 
+      ["Gui Yin", "same person as x (different reference), friend of x"], 
+      ["Juan Ge ", "sister of x, relative of x"], 
+      ["Li Gaobai", "friend of x, classmate of x"], 
+      ["Chen Sha", "same person as x (different identity), same person as x (different reference)"], 
+      ["Professor Zhou", "friend of x, classmate of x"], 
+      ["Intern", "friend of x, acquaintance of x"]
+    ],
+    "Juan Ge": [
+      ["Falcon", "brother of x, classmate of x, friend of x"], 
+      ["Miao Shi", "brother of x"], 
+      ["Li Gaobai", "friend of x"], 
+      ["Chen Sha", "friend of x"], 
+      ["Professor Zhou", "friend of x, classmate of x"], 
+      ["Intern", "friend of x, classmate of x"]
+    ],
+    "Li Gaobai": [
+      ["Falcon", "friend of x"], 
+      ["Ba Mansion Mountain", "friend of x, classmate of x"], 
+      ["Miao Shi", "friend of x, classmate of x"], 
+      ["Miao Na", "friend of x"], 
+      ["Gui Yin", "friend of x"], 
+      ["Ruya", "friend of x, classmate of x"], 
+      ["Juan Ge", "friend of x"], 
+      ["Chen Sha", "friend of x"], 
+      ["Professor Zhou", "friend of x"], 
+      ["Intern", "friend of x, classmate of x, schoolmate of x"]
+    ],
+    "Chen Sha": [
+      ["Falcon", "friend of x, acquaintance of x"], 
+      ["Ba Mansion Mountain", "friend of x, classmate of x"], 
+      ["Miao Shi", "brother in law of x, friend of x"], 
+      ["Miao Na", "same person as x (different reference), friend of x"], 
+      ["Gui Yin", "friend of x"], 
+      ["Ruya", "wife of x, same person as x (different identity)"], 
+      ["Juan Ge", "friend of x"], 
+      ["Li Gaobai", "friend of x"], 
+      ["Professor Zhou", "friend of x, classmate of x"], 
+      ["Intern", "friend of x"]
+    ],
+    "Professor Zhou": [
+      ["Falcon", "acquaintance of x, classmate of x"], 
+      ["Ba Mansion Mountain", "employer of x, master of x, superior of x, father of x, uncle of x, nephew of x, cousin of x, informant of x, information receiver from x"], 
+      ["Miao Shi", "father of x, mentor of x, teacher of x, informant of x, acquaintance of x, classmate of x, schoolmate of x"], 
+      ["Miao Na", "employer of x"], 
+      ["Gui Yin", "friend of x, acquaintance of x"], 
+      ["Ruya", "friend of x, classmate of x"], 
+      ["Juan Ge", "friend of x, classmate of x"], 
+      ["Li Gaobai", "friend of x"], 
+      ["Chen Sha", "father of x, teacher of x"], 
+      ["Intern", "employer of x, master of x"]
+    ],
+    "Intern": [
+      ["Falcon", "friend of x, classmate of x, schoolmate of x"], 
+      ["Ba Mansion Mountain", "son of x, employee of x, servant of x"], 
+      ["Miao Shi", "husband of x, brother of x, friend of x"], 
+      ["Miao Na", "same person as x (different reference), same person as x (different identity)"], 
+      ["Gui Yin", "fiance of x, informant of x"], 
+      ["Ruya", "friend of x, acquaintance of x"], 
+      ["Juan Ge", "friend of x, classmate of x"], 
+      ["Li Gaobai", "friend of x, classmate of x, schoolmate of x"], 
+      ["Chen Sha", "friend of x"], 
+      ["Professor Zhou", "employee of x, subordinate of x"]
+    ],
+    "Juan Ge ": [
+      ["Miao Na", "brother of x"], 
+      ["Gui Yin", "wife of x, sister of x, fiancee of x"], 
+      ["Ruya", "husband of x"]
+    ]
+}

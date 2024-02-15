@@ -1,0 +1,57 @@
+{
+    "Fang Liu": [
+      ["Li Zhong", "child of x"], 
+      ["Xiao Qian", "mentor of x"], 
+      ["Li Yan", "friend of x"], 
+      ["Er Yisi Bada", "possible family of x"], 
+      ["Chen Qian", "friend of x, romantic relationships with x"], 
+      ["Te'ertelafoerde (Old Trafford)", "romantic relationships with x, informant of x"]
+    ],
+    "Li Zhong": [
+      ["Fang Liu", "father of x"], 
+      ["Xiao Qian", "child of x"], 
+      ["Li Yan", "child of x, li yan of x, sibling of x"], 
+      ["Er Yisi Bada", "son of x"], 
+      ["Chen Qian", "child of x, step brother of x"], 
+      ["Friend of Te'ertelafoerde (Old Trafford)", "acquaintance of x te'ertelafoerde (old trafford)"]
+    ],
+    "Xiao Qian": [
+      ["Fang Liu", "student of x"], 
+      ["Li Zhong", "child of x"], 
+      ["Li Yan", "half sister of x"], 
+      ["Er Yisi Bada", "adopted daughter of x"], 
+      ["Chen Qian", "sibling of x"], 
+      ["Te'ertelafoerde (Old Trafford)", "helper of x"]
+    ],
+    "Li Yan": [
+      ["Fang Liu", "friend of x"], 
+      ["Li Zhong", "child of x, li zhong of x, sibling of x"], 
+      ["Xiao Qian", "half sister of x"], 
+      ["Er Yisi Bada", "adopted by of x"], 
+      ["Chen Qian", "foster parent of x chen qian"], 
+      ["Te'ertelafoerde (Old Trafford)", "friend of x, helped by x"]
+    ],
+    "Er Yisi Bada": [
+      ["Fang Liu", "possible family of x"], 
+      ["Xiao Qian", "adoptive parent of x"], 
+      ["Li Yan", "adopter of x"], 
+      ["Chen Qian", "adoptive daughter of x"], 
+      ["Te'ertelafoerde (Old Trafford)", "fiance of x, fiancee of x"]
+    ],
+    "Chen Qian": [
+      ["Fang Liu", "friend of x, romantic relationships with x"], 
+      ["Li Zhong", "step sister of x"], 
+      ["Xiao Qian", "sibling of x"], 
+      ["Li Yan", "adopted child of x li yan"], 
+      ["Er Yisi Bada", "adoptive father of x"], 
+      ["Te'ertelafoerde (Old Trafford)", "ex romantic relationships with x, possibly family of x"]
+    ],
+    "Te'ertelafoerde (Old Trafford)": [
+      ["Fang Liu", "romantic relationships with x, informant of x"], 
+      ["Friend of Li Zhong", "acquaintance of x li zhong"], 
+      ["Xiao Qian", "helped by x"], 
+      ["Li Yan", "friend of x, helped by x"], 
+      ["Er Yisi Bada", "fiance of x, fiancee of x"], 
+      ["Chen Qian", "ex romantic relationships with x, possibly family of x"]
+    ]
+}

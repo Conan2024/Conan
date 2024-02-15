@@ -1,0 +1,22 @@
+{
+    "Frank Bijeli": [
+      ["Tony", "brother of x"], 
+      ["Drake Li Morette", "helper of x"], 
+      ["Father Tom", "mentor of x, deceiver of x"]
+    ],
+    "Tony": [
+      ["Frank Bijeli", "brother of x"], 
+      ["Drake Li Morette", "brother of x"], 
+      ["Father Tom", "brother of x"]
+    ],
+    "Drake Li Morette": [
+      ["Frank Bijeli", "helped by x"], 
+      ["Tony", "brother of x"], 
+      ["Father Tom", "deceived by x"]
+    ],
+    "Father Tom": [
+      ["Frank Bijeli", "student of x, manipulator of x"], 
+      ["Tony", "deceiver of x"], 
+      ["Drake Li Morette", "deceiver of x"]
+    ]
+}

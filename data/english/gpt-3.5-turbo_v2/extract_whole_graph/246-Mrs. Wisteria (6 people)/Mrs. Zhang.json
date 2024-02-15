@@ -1,0 +1,40 @@
+{
+    "Mrs. Zhang": [
+      ["Mr. Zhang", "husband of x mrs, zhang of x"], 
+      ["Daughter", "mother of x daughter, sister of x son"], 
+      ["Son", "mother of x son, brother of x daughter"], 
+      ["Zhi Jun", "aunt of x zhi jun, mentor of x zhi jun"], 
+      ["Yu Yancheng", "informant of x mrs, zhang of x, information receiver from mrs of x, zhang of x"], 
+      ["Le Wan", "employee of x mrs, zhang of x, helper of x mrs, zhang of x"], 
+      ["Ge Yueman", "friend of x mrs, zhang of x"], 
+      ["Lü Lusheng", "zhang of x"], 
+      ["Xue Yufan", "zhang of x"]
+    ],
+    "Daughter": [
+      ["Mrs. Zhang", "daughter of x mrs, zhang of x"], 
+      ["Son", "sibling of x daughter"], 
+      ["Zhi Jun", "informant of x daughter"]
+    ],
+    "Son": [
+      ["Mrs. Zhang", "son of x mrs, zhang of x"], 
+      ["Daughter", "sibling of x son"], 
+      ["Zhi Jun", "informant of x son"]
+    ],
+    "Zhi Jun": [
+      ["Mrs. Zhang", "niece of x mrs, zhang of x"], 
+      ["Yu Shangyong", "informant of x zhi jun, information receiver from zhi jun of x"], 
+      ["Daughter", "informant of x zhi jun"], 
+      ["Son", "informant of x zhi jun"]
+    ],
+    "Yu Yancheng": [
+      ["Mrs. Zhang", "informant of x yu yancheng, information receiver from yu yancheng of x"], 
+      ["Zhi Jun", "informant of x yu yancheng, information receiver from yu yancheng of x"]
+    ],
+    "Le Wan": [
+      ["Mrs. Zhang", "employee of x le wan, helper of x le wan"], 
+      ["Yu Shangyong", "informant of x le wan, information receiver from le wan of x"]
+    ],
+    "Ge Yueman": [
+      ["Mrs. Zhang", "friend of x ge yueman"]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "Davis Perry": [
+      ["Marina Harrison", "extramarital affair, romantic relationships of x, ex romantic relationships"], 
+      ["Daniel Perry", "friend of x, confidant of x, adviser of x, co conspirator of x"], 
+      ["Jacqueline Perry", "husband of x"], 
+      ["Lucy Harrison", "mentor of x, friend of x"], 
+      ["Harold Harrison", "brother in law of x, rival of x, adversary of x"], 
+      ["Amy Morgan", "ex romantic relationships with x, rival of x"], 
+      ["John Morgan", "friend of x, business partner of x"]
+    ],
+    "Marina Harrison": [
+      ["Davis Perry", "extramarital affair, romantic relationships of x, ex romantic relationships"], 
+      ["Daniel Perry", "wife of x, extramarital affair with x, romantic relationships with x"], 
+      ["Jacqueline Perry", "wife of x, sister in law of x"], 
+      ["Lucy Harrison", "mother daughter relationship of x"], 
+      ["Harold Harrison", "wife of x, sister of x, romantic relationships with x, extramarital affair with x"], 
+      ["Amy Morgan", "sister in law of x, rival of x"], 
+      ["John Morgan", "wife of x, extramarital affair with x"]
+    ],
+    "Daniel Perry": [
+      ["Davis Perry", "friend of x, confidant of x, adviser of x, co conspirator of x"], 
+      ["Marina Harrison", "husband of x, extramarital affair with x, romantic relationships with x"], 
+      ["Jacqueline Perry", "spouse of x, adversary of x"], 
+      ["Lucy Harrison", "father in law of x, suspect of x murder"], 
+      ["Harold Harrison", "brother in law of x, rival of x, adversary of x"], 
+      ["Amy Morgan", "husband of x, ex romantic relationships with x"], 
+      ["John Morgan", "husband of x marina harrison, friend of x, business partner of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Davis Perry", "wife of x"], 
+      ["Marina Harrison", "husband of x, brother in law of x"], 
+      ["Daniel Perry", "spouse of x, adversary of x"], 
+      ["Lucy Harrison", "mother in law/daughter in law of x"], 
+      ["Harold Harrison", "sister in law of x, dislike of x"], 
+      ["Amy Morgan", "sister in law of x, rival of x"], 
+      ["John Morgan", "wife of x, dislike of x"]
+    ],
+    "Lucy Harrison": [
+      ["Davis Perry", "mentor of x, friend of x"], 
+      ["Marina Harrison", "daughter mother relationship of x"], 
+      ["Daniel Perry", "mother in law of x, victim of x murder"], 
+      ["Jacqueline Perry", "mother in law/daughter in law of x"], 
+      ["Harold Harrison", "father of x, mentor of x, teacher of x, adversary of x, rival of x"], 
+      ["Amy Morgan", "daughter of x, sibling of x"], 
+      ["John Morgan", "wife of x (different identity)"]
+    ],
+    "Harold Harrison": [
+      ["Davis Perry", "brother in law of x, rival of x, adversary of x"], 
+      ["Marina Harrison", "husband of x, brother of x, rival of x, adversary of x"], 
+      ["Daniel Perry", "brother in law of x, rival of x, adversary of x"], 
+      ["Jacqueline Perry", "brother in law of x, dislike of x"], 
+      ["Lucy Harrison", "father of x, mentor of x, teacher of x, adversary of x, rival of x"], 
+      ["Amy Morgan", "brother in law of x, suspect of x"], 
+      ["John Morgan", "rival of x, acquaintance of x"]
+    ],
+    "Amy Morgan": [
+      ["Davis Perry", "ex romantic relationships with x, rival of x"], 
+      ["Marina Harrison", "sister in law of x, rival of x"], 
+      ["Daniel Perry", "wife of x, ex romantic relationships with x"], 
+      ["Jacqueline Perry", "sister in law of x, rival of x"], 
+      ["Lucy Harrison", "sister of x, wife of x"], 
+      ["Harold Harrison", "sister in law of x, victim of x"], 
+      ["John Morgan", "wife of x, same person as x (different reference)"]
+    ],
+    "John Morgan": [
+      ["Davis Perry", "friend of x, business partner of x"], 
+      ["Marina Harrison", "husband of x, victim of x"], 
+      ["Daniel Perry", "marina harrison's husband of x, friend of x, business partner of x"], 
+      ["Jacqueline Perry", "husband of x, disliked by x"], 
+      ["Lucy Harrison", "husband of x (different identity)"], 
+      ["Harold Harrison", "rival of x, acquaintance of x"], 
+      ["Amy Morgan", "husband of x, same person as x (different reference)"]
+    ]
+}

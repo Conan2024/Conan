@@ -1,0 +1,389 @@
+{
+    "Chief Wang": [
+        [
+            "Father of Zhang Villager",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Hu Investigate",
+            "Acquaintance",
+            "Suspect"
+        ],
+        [
+            "Hu Research",
+            "Acquaintance",
+            "Neighbour"
+        ],
+        [
+            "Murderer",
+            "Acquaintance"
+        ],
+        [
+            "Officer Li",
+            "Acquaintance",
+            "Superior of x"
+        ],
+        [
+            "Officer Li's Girlfriend",
+            "Acquaintance"
+        ],
+        [
+            "Zhang Villager",
+            "Suspect-Investigator",
+            "Acquaintance-Acquaintance",
+            "Victim-Perpetrator",
+            "Informant-Informed",
+            "Adversary-Adversary",
+            "Deceiver-Deceived"
+        ],
+        [
+            "Zhao Cishan",
+            "Acquaintance",
+            "Helped by"
+        ]
+    ],
+    "Father of Zhang Villager": [
+        [
+            "Chief Wang",
+            "Employee of X",
+            "Servant of X"
+        ],
+        [
+            "Hu Investigate",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Hu Research",
+            "Suspect of X",
+            "Victim of X",
+            "Informant of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Murderer",
+            "Victim of X ",
+            "Suspect of X ",
+            "Acquaintance of X "
+        ],
+        [
+            "Officer Li",
+            "Suspect of X - Victim of X",
+            "Acquaintance of X - Acquaintance of X",
+            "Informant of X - Informant of X",
+            "Neighbour of X - Neighbour of X"
+        ],
+        [
+            "Officer Li's Girlfriend",
+            "Suspect of X - Victim of X",
+            "Acquaintance of X - Acquaintance of Y",
+            "Neighbour of X - Neighbour of Y",
+            "Helper of X - Helper of Y",
+            "Informant of X - Informant of Y"
+        ],
+        [
+            "Zhang Villager",
+            "Son of X",
+            "Victim of X"
+        ],
+        [
+            "Zhao Cishan",
+            "Victim of X",
+            "Perpetrator of X"
+        ]
+    ],
+    "Hu Investigate": [
+        [
+            "Chief Wang",
+            "Acquaintance",
+            "Suspect"
+        ],
+        [
+            "Father of Zhang Villager",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Hu Research",
+            "Acquaintance",
+            "Investigation Subject"
+        ],
+        [
+            "Murderer",
+            "Adversary, Enemy, Rival"
+        ],
+        [
+            "Officer Li",
+            "Acquaintance",
+            "Investigator of X"
+        ],
+        [
+            "Officer Li's Girlfriend",
+            "Acquaintance"
+        ],
+        [
+            "Zhang Villager",
+            "Suspect of X"
+        ],
+        [
+            "Zhao Cishan",
+            "Suspect of X",
+            "Investigation Subject of X"
+        ]
+    ],
+    "Hu Research": [
+        [
+            "Chief Wang",
+            "Acquaintance",
+            "Neighbour"
+        ],
+        [
+            "Father of Zhang Villager",
+            "Suspect of X",
+            "Victim of X",
+            "Informant of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Hu Investigate",
+            "Acquaintance",
+            "Investigation Subject"
+        ],
+        [
+            "Murderer",
+            "Acquaintance"
+        ],
+        [
+            "Officer Li",
+            "Acquaintance",
+            "Investigator of X"
+        ],
+        [
+            "Officer Li's Girlfriend",
+            "Acquaintance"
+        ],
+        [
+            "Zhang Villager",
+            "Investigator of X",
+            "Adversary of X"
+        ],
+        [
+            "Zhao Cishan",
+            "Acquaintance",
+            "Investigator of Zhao Cishan's death"
+        ]
+    ],
+    "Murderer": [
+        [
+            "Chief Wang",
+            "Acquaintance"
+        ],
+        [
+            "Father of Zhang Villager",
+            "Victim of X ",
+            "Suspect of X ",
+            "Acquaintance of X "
+        ],
+        [
+            "Hu Investigate",
+            "Adversary, Enemy, Rival"
+        ],
+        [
+            "Hu Research",
+            "Acquaintance"
+        ],
+        [
+            "Officer Li",
+            "Adversary",
+            "Enemy"
+        ],
+        [
+            "Officer Li's Girlfriend",
+            "Suspect-Investigator",
+            "Acquaintance-Acquaintance",
+            "Victim-Perpetrator"
+        ],
+        [
+            "Zhang Villager",
+            "Perpetrator of X"
+        ],
+        [
+            "Zhao Cishan",
+            "Victim"
+        ]
+    ],
+    "Officer Li": [
+        [
+            "Chief Wang",
+            "Acquaintance",
+            "Subordinate of X"
+        ],
+        [
+            "Father of Zhang Villager",
+            "Suspect of X - Victim of X",
+            "Acquaintance of X - Acquaintance of X",
+            "Informant of X - Informant of X",
+            "Neighbour of X - Neighbour of X"
+        ],
+        [
+            "Hu Investigate",
+            "Acquaintance",
+            "Informant of X"
+        ],
+        [
+            "Hu Research",
+            "Acquaintance",
+            "Informant of X"
+        ],
+        [
+            "Murderer",
+            "Suspect",
+            "Adversary"
+        ],
+        [
+            "Officer Li's Girlfriend",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Zhang Villager",
+            "Investigator of Murderer, Potential Witness"
+        ],
+        [
+            "Zhao Cishan",
+            "Suspect of X",
+            "Adversary of X"
+        ]
+    ],
+    "Officer Li's Girlfriend": [
+        [
+            "Chief Wang",
+            "Acquaintance"
+        ],
+        [
+            "Father of Zhang Villager",
+            "Victim of X - Suspect of X",
+            "Acquaintance of X - Acquaintance of Y",
+            "Neighbour of X - Neighbour of Y",
+            "Helper of X - Helper of Y",
+            "Informant of X - Informant of Y"
+        ],
+        [
+            "Hu Investigate",
+            "Acquaintance"
+        ],
+        [
+            "Hu Research",
+            "Acquaintance"
+        ],
+        [
+            "Murderer",
+            "Suspect-Investigator",
+            "Acquaintance-Acquaintance",
+            "Victim-Perpetrator"
+        ],
+        [
+            "Officer Li",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Zhang Villager",
+            "Suspect of X",
+            "Acquaintance of X",
+            "Helper of X",
+            "Victim of X"
+        ],
+        [
+            "Zhao Cishan",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "Zhang Villager": [
+        [
+            "Chief Wang",
+            "Suspect-Investigator",
+            "Acquaintance-Acquaintance",
+            "Victim-Perpetrator",
+            "Informant-Informed",
+            "Adversary-Adversary",
+            "Deceiver-Deceived"
+        ],
+        [
+            "Father of Zhang Villager",
+            "Son of X",
+            "Perpetrator of X"
+        ],
+        [
+            "Hu Investigate",
+            "Investigator of X"
+        ],
+        [
+            "Hu Research",
+            "Suspect of X",
+            "Manipulator of X"
+        ],
+        [
+            "Murderer",
+            "Perpetrator of X",
+            "Victim of X"
+        ],
+        [
+            "Officer Li",
+            "Suspect of Murderer, Potential Accomplice"
+        ],
+        [
+            "Officer Li's Girlfriend",
+            "Suspect of X",
+            "Acquaintance of X",
+            "Helper of X",
+            "Victim of X"
+        ],
+        [
+            "Zhao Cishan",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X"
+        ]
+    ],
+    "Zhao Cishan": [
+        [
+            "Chief Wang",
+            "Acquaintance",
+            "Helped by"
+        ],
+        [
+            "Father of Zhang Villager",
+            "Victim of X",
+            "Perpetrator of X"
+        ],
+        [
+            "Hu Investigate",
+            "Victim of X",
+            "Suspicious of X"
+        ],
+        [
+            "Hu Research",
+            "Acquaintance",
+            "Victim of Zhang Villager"
+        ],
+        [
+            "Murderer",
+            "Victim"
+        ],
+        [
+            "Officer Li",
+            "Suspect of X",
+            "Adversary of X"
+        ],
+        [
+            "Officer Li's Girlfriend",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Zhang Villager",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X"
+        ]
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "Luo Younuo": [
+      ["Luo Wanli", "brother of x"], 
+      ["Mrs. Ruan", "friend of x, father in law of x"], 
+      ["Wangdi", "ex boyfriend of x"], 
+      ["Zhaonan", "child of x, brother of x"], 
+      ["Guilang", "friend of x"], 
+      ["Qi Gufei", "friend of x, lover of x"], 
+      ["Hei Li", "girlfriend of x"]
+    ],
+    "Luo Wanli": [
+      ["Luo Younuo", "sibling of x"], 
+      ["Xue Yan", "child of x"], 
+      ["Wangdi", "romantic relationships with x"], 
+      ["Zhaonan", "mentor of x"], 
+      ["Guilang", "father of x"], 
+      ["Qi Gufei", "mentor of x"]
+    ],
+    "Xue Yan": [
+      ["Luo Wanli", "child of x"], 
+      ["Mrs. Ruan", "wife of x"], 
+      ["Wangdi", "romantic relationships with x, possibly family of x"], 
+      ["Guilang", "brother of x, ex romantic relationships with x"], 
+      ["Qi Gufei", "sister of x"], 
+      ["Hei Li", "romantic relationships with x"]
+    ],
+    "Mrs. Ruan": [
+      ["Luo Younuo", "friend of x, daughter in law of x"], 
+      ["Xue Yan", "husband of x"], 
+      ["Wangdi", "mother of x"], 
+      ["Zhaonan", "mother of x, same person as x (different identity)"], 
+      ["Guilang", "mother of x"], 
+      ["Qi Gufei", "husband of x, father in law of x"]
+    ],
+    "Wangdi": [
+      ["Luo Younuo", "ex girlfriend of x"], 
+      ["Luo Wanli", "romantic relationships with x"], 
+      ["Xue Yan", "romantic relationships with x, possibly family of x"], 
+      ["Mrs. Ruan", "daughter of x"], 
+      ["Guilang", "child of x"], 
+      ["Qi Gufei", "boyfriend of x"], 
+      ["Hei Li", "romantic relationships with x"]
+    ],
+    "Zhaonan": [
+      ["Luo Younuo", "sibling of x, sister of x"], 
+      ["Luo Wanli", "student of x"], 
+      ["Mrs. Ruan", "daughter of x, same person as x (different reference)"], 
+      ["Guilang", "sibling of x"]
+    ],
+    "Guilang": [
+      ["Luo Younuo", "friend of x"], 
+      ["Luo Wanli", "son of x"], 
+      ["Xue Yan", "sister of x, ex romantic relationships with x"], 
+      ["Mrs. Ruan", "son of x"], 
+      ["Wangdi", "child of x"], 
+      ["Zhaonan", "sibling of x"], 
+      ["Qi Gufei", "friend of x"], 
+      ["Hei Li", "informant of x"]
+    ],
+    "Qi Gufei": [
+      ["Luo Younuo", "friend of x, lover of x"], 
+      ["Luo Wanli", "student of x"], 
+      ["Xue Yan", "brother of x"], 
+      ["Mrs. Ruan", "wife of x, son in law of x"], 
+      ["Wangdi", "girlfriend of x"], 
+      ["Guilang", "friend of x"], 
+      ["Hei Li", "friend of x"]
+    ],
+    "Hei Li": [
+      ["Luo Younuo", "boyfriend of x"], 
+      ["Xue Yan", "romantic relationships with x"], 
+      ["Wangdi", "romantic relationships with x"], 
+      ["Guilang", "informant of x"], 
+      ["Qi Gufei", "friend of x"]
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "Zhou Lianyi": [
+        [
+            "Zhou Mengdang",
+            "father of x"
+        ],
+        [
+            "Yu Shi",
+            "mother of x"
+        ],
+        [
+            "Zhou Chitong",
+            "uncle of x"
+        ],
+        [
+            "Su Nian",
+            "uncle of x"
+        ],
+        [
+            "Taitai",
+            "wife of x"
+        ],
+        [
+            "Cui Shouheng",
+            "husband of x"
+        ],
+        [
+            "Cui Yannan",
+            "child of x, friend of x"
+        ],
+        [
+            "Xi Yan",
+            "sister of x"
+        ],
+        [
+            "Bao Gan",
+            "maid working in cui zhuang of x"
+        ],
+        [
+            "Ni Sichong",
+            "superior of x zhou lianyi's father"
+        ],
+        [
+            "Uncle Fu",
+            "employee of x"
+        ]
+    ],
+    "Cui Shouheng": [
+        [
+            "Taitai",
+            "husband of x"
+        ],
+        [
+            "Cui Yannan",
+            "child of x, friend of x"
+        ]
+    ],
+    "Cui Yannan": [
+        [
+            "Zhou Lianyi",
+            "friend of x"
+        ],
+        [
+            "Cui Shouheng",
+            "father of x"
+        ]
+    ],
+    "Zhou Chitong": [
+        [
+            "Zhou Lianyi",
+            "nephew of x"
+        ],
+        [
+            "Su Nian",
+            "older brother of x"
+        ]
+    ],
+    "Su Nian": [
+        [
+            "Zhou Lianyi",
+            "nephew of x"
+        ],
+        [
+            "Zhou Chitong",
+            "younger brother of x"
+        ]
+    ],
+    "Taitai": [
+        [
+            "Cui Shouheng",
+            "wife of x"
+        ],
+        [
+            "Xi Yan",
+            "sister of x"
+        ]
+    ],
+    "Xi Yan": [
+        [
+            "Taitai",
+            "sister of x"
+        ]
+    ]
+}

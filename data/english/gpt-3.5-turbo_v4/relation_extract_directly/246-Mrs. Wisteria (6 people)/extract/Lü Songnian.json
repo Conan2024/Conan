@@ -1,0 +1,58 @@
+{
+    "Lü Songnian": [
+      ["Lü Lusheng", "brother of x"], 
+      ["Emperor Xuantong", "relative of x"], 
+      ["Zhu Lingshan", "crime partner of x, lover of x"], 
+      ["Yan Yichong", "suspect of x"], 
+      ["Xue Dacai", "acquaintance of x"], 
+      ["Yu Shangyong", "acquaintance of x"], 
+      ["Yu Yancheng", "friend of x"], 
+      ["Le Wan", "daughter of x, friend of x"]
+    ],
+    "Lü Lusheng": [
+      ["Lü Songnian", "brother of x"], 
+      ["Emperor Xuantong", "relative of x"], 
+      ["Yu Yancheng", "acquaintance of x"]
+    ],
+    "Emperor Xuantong": [
+      ["Lü Songnian", "relative of x"], 
+      ["Lü Lusheng", "relative of x"], 
+      ["Yuan Shikai", "superior of x"]
+    ],
+    "Yuan Shikai": [
+      ["Emperor Xuantong", "superior of x"]
+    ],
+    "Ge Jixian": [
+      ["Yan Yichong", "enemy of x"]
+    ],
+    "Ge Yueluo": [
+      ["Le Wan", "daughter of x, friend of x"]
+    ],
+    "Zhu Lingshan": [
+      ["Lü Songnian", "crime partner of x, lover of x"], 
+      ["Xue Dacai", "acquaintance of x"]
+    ],
+    "Yan Yichong": [
+      ["Lü Songnian", "suspect of x"]
+    ],
+    "Xue Dacai": [
+      ["Lü Songnian", "acquaintance of x"], 
+      ["Zhu Lingshan", "acquaintance of x"], 
+      ["Mrs. Zhang", "employer of x"]
+    ],
+    "Yu Shangyong": [
+      ["Yu Yancheng", "brother of x"]
+    ],
+    "Yu Yancheng": [
+      ["Lü Songnian", "friend of x"], 
+      ["Lü Lusheng", "acquaintance of x"], 
+      ["Yu Shangyong", "brother of x"]
+    ],
+    "Le Wan": [
+      ["Ge Yueluo", "daughter of x, friend of x"]
+    ],
+    "Mrs. Zhang": [
+      ["Zhu Lingshan", "wife of x"], 
+      ["Xue Dacai", "employer of x"]
+    ]
+}

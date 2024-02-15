@@ -1,0 +1,88 @@
+{
+    "Qi Yue": [
+      ["Shuang Mian Hu", "friend of x, acquaintance of x"], 
+      ["Zhao Wanlei", "master of x, employer of x"], 
+      ["Zhao Qiuer", "acquaintance of x, colleague of x"], 
+      ["Fang Shuangji", "employer of x, acquaintance of x"], 
+      ["Feng Zhu", "acquaintance of x, colleague of x, friend of x"], 
+      ["Huazi Li or Skunk", "employer of x, master of x, perpetrator of x"], 
+      ["Zhao Luoyi", "servant of x, sister of x"], 
+      ["Zhao An", "master of x, friend of x"]
+    ],
+    "Shuang Mian Hu": [
+      ["Qi Yue", "friend of x, acquaintance of x"], 
+      ["Zhao Wanlei", "friend of x, acquaintance of x"], 
+      ["Zhao Qiuer", "acquaintance of x, helper of x"], 
+      ["Fang Shuangji", "friend of x, acquaintance of x"], 
+      ["Feng Zhu", "acquaintance of x, colleague of x"], 
+      ["Huazi Li or Skunk", "friend of x"], 
+      ["Zhao Luoyi", "friend of x"], 
+      ["Zhao An", "friend of x, informant of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Qi Yue", "servant of x"], 
+      ["Shuang Mian Hu", "friend of x, acquaintance of x"], 
+      ["Fang Shuangji", "employer of x"], 
+      ["Feng Zhu", "employer of x, master of x"], 
+      ["Huazi Li or Skunk", "employer of x, master of x"], 
+      ["Zhao An", "employer of x, master of x"]
+    ],
+    "Zhao Qiuer": [
+      ["Qi Yue", "acquaintance of x, colleague of x"], 
+      ["Shuang Mian Hu", "acquaintance of x, helper of x"], 
+      ["Fang Shuangji", "friend of x"], 
+      ["Feng Zhu", "acquaintance of x"], 
+      ["Huazi Li or Skunk", "sister of x"], 
+      ["Zhao Luoyi", "sister in law of x, enemy of x"], 
+      ["Zhao An", "sister of x, brother of x"]
+    ],
+    "Fang Shuangji": [
+      ["Qi Yue", "employee of x, acquaintance of x"], 
+      ["Shuang Mian Hu", "friend of x, acquaintance of x"], 
+      ["Zhao Wanlei", "employer of x"], 
+      ["Zhao Qiuer", "friend of x"], 
+      ["Feng Zhu", "employer of x, master of x"], 
+      ["Huazi Li or Skunk", "employer of x, master of x"], 
+      ["Zhao Luoyi", "employee of x, acquaintance of x"], 
+      ["Zhao An", "employer of x, master of x"]
+    ],
+    "Feng Zhu": [
+      ["Qi Yue", "acquaintance of x, colleague of x, friend of x"], 
+      ["Shuang Mian Hu", "acquaintance of x, colleague of x"], 
+      ["Zhao Wanlei", "employee of x, servant of x"], 
+      ["Zhao Qiuer", "acquaintance of x"], 
+      ["Fang Shuangji", "employee of x, servant of x"], 
+      ["Huazi Li or Skunk", "acquaintance of x, informant of x"], 
+      ["Zhao Luoyi", "acquaintance of x, colleague of x, friend of x, helper of x, suspect of x"], 
+      ["Zhao An", "acquaintance of x, colleague of x, friend of x, helper of x, informant of x, perpetrator of x, suspect of x, victim of x"]
+    ],
+    "Huazi Li or Skunk": [
+      ["Qi Yue", "employee of x, servant of x, victim of x"], 
+      ["Shuang Mian Hu", "friend of x"], 
+      ["Zhao Wanlei", "informant of x, acquaintance of x"], 
+      ["Zhao Qiuer", "sister of x"], 
+      ["Fang Shuangji", "employee of x, servant of x"], 
+      ["Feng Zhu", "acquaintance of x, informant of x"], 
+      ["Zhao Luoyi", "business partner of x"], 
+      ["Zhao An", "friend of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Qi Yue", "master of x, sister of x"], 
+      ["Shuang Mian Hu", "friend of x"], 
+      ["Zhao Qiuer", "sister in law of x, enemy of x"], 
+      ["Fang Shuangji", "employee of x, acquaintance of x"], 
+      ["Feng Zhu", "acquaintance of x, colleague of x, friend of x, helper of x, suspect of x"], 
+      ["Huazi Li or Skunk", "business partner of x"], 
+      ["Zhao An", "sister in law of x, friend of x"]
+    ],
+    "Zhao An": [
+      ["Qi Yue", "master of x, friend of x"], 
+      ["Shuang Mian Hu", "friend of x, informant of x"], 
+      ["Zhao Wanlei", "employee of x, servant of x"], 
+      ["Zhao Qiuer", "brother of x, sister of x"], 
+      ["Fang Shuangji", "employee of x, servant of x"], 
+      ["Feng Zhu", "acquaintance of x, colleague of x, friend of x, helper of x, informant of x, perpetrator of x, suspect of x, victim of x"], 
+      ["Huazi Li or Skunk", "friend of x"], 
+      ["Zhao Luoyi", "husband of x, friend of x"]
+    ]
+}

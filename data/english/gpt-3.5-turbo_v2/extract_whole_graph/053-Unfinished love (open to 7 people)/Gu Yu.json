@@ -1,0 +1,32 @@
+{
+    "Gu Yu": [
+      ["Gu Ming", "father of x gu yu"], 
+      ["Gu Qing", "sister of x gu yu"], 
+      ["Lin Xi", "romantic relationships with gu yu of x"], 
+      ["Chen Jingwen", "romantic relationships with gu yu of x, girlfriend of x gu yu, pregnant with gu yu's child of x"]
+    ],
+    "Gu Ming": [
+      ["Gu Yu", "child of x gu ming"], 
+      ["Gu Yu", "father of x gu yu"]
+    ],
+    "Gu Qing": [
+      ["Gu Yu", "sister of x gu yu"]
+    ],
+    "Lin Xi": [
+      ["Gu Yu", "romantic relationships with lin xi"], 
+      ["Su Yang", "romantic relationships with lin xi"], 
+      ["Lin Weiren", "pressed the matter of x gu yu's company"]
+    ],
+    "Chen Jingwen": [
+      ["Gu Yu", "romantic relationships with chen jingwen of x, girlfriend of x gu yu"], 
+      ["Gu Yu", "romantic relationships with chen jingwen of x, boyfriend of x chen jingwen"], 
+      ["Chen Jingwen", "pregnant with gu yu's child of x"]
+    ],
+    "Lin Weiren": [
+      ["Lin Xi", "pressed the matter of x gu yu's company"]
+    ],
+    "Su Yang": [
+      ["Lin Xi", "romantic relationships with su yang of x"], 
+      ["Su Yang", "romantic relationships with lin xi"]
+    ]
+}

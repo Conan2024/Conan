@@ -1,0 +1,109 @@
+{
+    "Ge Jixian": [
+      ["Ge Yueluo", "sibling of x, friend of x, mentor of x"], 
+      ["Ge Yueman", "sibling of x, friend of x, mentor of x"], 
+      ["Zhu Lingshan", "friend of x, mentor of x"], 
+      ["Le Wan", "friend of x"], 
+      ["Xue Yufan", "friend of x"], 
+      ["Yu Yancheng", "friend of x"], 
+      ["Zhu Li", "friend of x"]
+    ],
+    "Ge Yueluo": [
+      ["Ge Jixian", "sibling of x, friend of x, mentor of x"], 
+      ["Ge Yueman", "sibling of x, friend of x, mentor of x"], 
+      ["Zhu Lingshan", "friend of x, mentor of x"], 
+      ["Le Wan", "friend of x"], 
+      ["Xue Yufan", "friend of x"], 
+      ["Yu Yancheng", "friend of x"], 
+      ["Zhu Li", "friend of x"]
+    ],
+    "Ge Yueman": [
+      ["Ge Jixian", "sibling of x, friend of x, mentor of x"], 
+      ["Ge Yueluo", "sibling of x, friend of x, mentor of x"], 
+      ["Zhu Lingshan", "friend of x, mentor of x"], 
+      ["Le Wan", "friend of x"], 
+      ["Xue Yufan", "friend of x"], 
+      ["Yu Yancheng", "friend of x"], 
+      ["Zhu Li", "friend of x"]
+    ],
+    "Zhu Lingshan": [
+      ["Ge Jixian", "friend of x, mentor of x"], 
+      ["Ge Yueluo", "friend of x, mentor of x"], 
+      ["Ge Yueman", "friend of x, mentor of x"], 
+      ["Le Wan", "friend of x"], 
+      ["Xue Yufan", "friend of x"], 
+      ["Yu Yancheng", "friend of x"], 
+      ["Zhang Junshi", "friend of x, informant of x"], 
+      ["Zhi Jun", "friend of x"], 
+      ["Zhu Li", "friend of x"]
+    ],
+    "Le Wan": [
+      ["Ge Jixian", "friend of x"], 
+      ["Ge Yueluo", "friend of x"], 
+      ["Ge Yueman", "friend of x"], 
+      ["Zhu Lingshan", "friend of x"], 
+      ["Xue Yufan", "friend of x"], 
+      ["Yu Yancheng", "friend of x"], 
+      ["Zhang Junshi", "friend of x"], 
+      ["Yan Yichong", "friend of x"]
+    ],
+    "Mrs. Zhang": [
+      ["Mr. Zhang", "husband of x"], 
+      ["Zhang Junshi", "mother of x"]
+    ],
+    "Mr. Zhang": [
+      ["Mrs. Zhang", "wife of x"], 
+      ["Zhang Junshi", "father of x"]
+    ],
+    "Xue Yufan": [
+      ["Ge Jixian", "friend of x"], 
+      ["Ge Yueluo", "friend of x"], 
+      ["Ge Yueman", "friend of x"], 
+      ["Zhu Lingshan", "friend of x"], 
+      ["Le Wan", "friend of x"], 
+      ["Yu Yancheng", "friend of x"]
+    ],
+    "Yu Yancheng": [
+      ["Ge Jixian", "friend of x"], 
+      ["Ge Yueluo", "friend of x"], 
+      ["Ge Yueman", "friend of x"], 
+      ["Zhu Lingshan", "friend of x"], 
+      ["Le Wan", "friend of x"], 
+      ["Xue Yufan", "friend of x"]
+    ],
+    "Yu Shangyong": [
+      ["Zhang Junshi", "friend of x"], 
+      ["Zhi Jun", "friend of x"]
+    ],
+    "Zhang Junshi": [
+      ["Zhu Lingshan", "friend of x, informant of x"], 
+      ["Mr. Zhang", "son of x"], 
+      ["Mrs. Zhang", "daughter of x"], 
+      ["Yu Shangyong", "friend of x"], 
+      ["Yu Yancheng", "student of x"], 
+      ["Zhi Jun", "informant of x"]
+    ],
+    "Zhi Jun": [
+      ["Zhu Lingshan", "friend of x"], 
+      ["Yu Shangyong", "friend of x"], 
+      ["Zhang Junshi", "informant of x"]
+    ],
+    "Lü Songnian": [
+      ["Lü Lusheng", "father of x"]
+    ],
+    "Lü Lusheng": [
+      ["Lü Songnian", "son of x"]
+    ],
+    "Xue Dacai": [
+      ["Le Wan", "father of x"]
+    ],
+    "Yan Yichong": [
+      ["Le Wan", "friend of x"]
+    ],
+    "Zhu Li": [
+      ["Ge Jixian", "friend of x"], 
+      ["Ge Yueluo", "friend of x"], 
+      ["Ge Yueman", "friend of x"], 
+      ["Zhu Lingshan", "friend of x"]
+    ]
+}

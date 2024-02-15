@@ -1,0 +1,116 @@
+{
+    "Duan Yuetong": [
+        [
+            "Bai Changgong",
+            "step father of x"
+        ],
+        [
+            "Duan Hejun",
+            "mother of x"
+        ],
+        [
+            "Yue Kesa",
+            "friend of x"
+        ],
+        [
+            "Anqi",
+            "friend of x"
+        ],
+        [
+            "Li Zicai",
+            "classmate of x"
+        ],
+        [
+            "Yue Dongwen",
+            "father of x"
+        ],
+        [
+            "Wu Baian",
+            "victim of x"
+        ],
+        [
+            "Xia Bolong",
+            "perpetrator of x's family"
+        ],
+        [
+            "XIA SANHU",
+            "employer of x"
+        ],
+        [
+            "Yu Zu",
+            "stranger to x"
+        ]
+    ],
+    "Anqi": [
+        [
+            "Duan Yuetong",
+            "friend of x"
+        ],
+        [
+            "Yu Zu",
+            "stranger to x"
+        ]
+    ],
+    "Yue Kesa": [
+        [
+            "Duan Yuetong",
+            "friend of x"
+        ],
+        [
+            "Yue Dongwen",
+            "father of x"
+        ]
+    ],
+    "Li Zicai": [
+        [
+            "Wu Baian",
+            "classmate of x"
+        ]
+    ],
+    "Yue Dongwen": [
+        [
+            "Yue Kesa",
+            "son of x"
+        ],
+        [
+            "Duan Yuetong",
+            "father of x"
+        ]
+    ],
+    "Wu Baian": [
+        [
+            "Duan Yuetong",
+            "victim of x"
+        ],
+        [
+            "Li Zicai",
+            "colleague of x"
+        ]
+    ],
+    "Xia Bolong": [
+        [
+            "XIA SANHU",
+            "perpetrator of x's family"
+        ]
+    ],
+    "XIA SANHU": [
+        [
+            "Xia Bolong",
+            "employer of x"
+        ],
+        [
+            "Duan Yuetong",
+            "stranger to x"
+        ]
+    ],
+    "Yu Zu": [
+        [
+            "Duan Yuetong",
+            "stranger to x"
+        ],
+        [
+            "Anqi",
+            "stranger to x"
+        ]
+    ]
+}

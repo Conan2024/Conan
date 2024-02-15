@@ -1,0 +1,27 @@
+{
+    "Uncle Gui": [
+      ["Du Huixin", "father of x uncle gui"], 
+      ["Lady Hong", "employer of x uncle gui"], 
+      ["Chen Junmeng", "patient of x uncle gui"], 
+      ["Yao Changshou", "patient of x uncle gui"]
+    ],
+    "Yao Zhongyi": [
+      ["Chen Junmeng", "brother in law of x yao zhongyi"]
+    ],
+    "Chen Junmeng": [
+      ["Uncle Gui", "patient of x chen junmeng"], 
+      ["Yao Zhongyi", "sister in law of x chen junmeng"]
+    ],
+    "Physician Yu": [
+      ["Uncle Gui", "suspected by physician yu of x"], 
+      ["Yao Zhongyi", "mentored by physician yu of x"]
+    ],
+    "Yun Ling": [
+      ["Uncle Gui", "met yun ling of x"], 
+      ["Yao Changshou", "wife of x yao changshou"]
+    ],
+    "Lady Hong": [
+      ["Uncle Gui", "acquaintance of x lady hong"], 
+      ["Yao Changshou", "wife of x yao changshou"]
+    ]
+}

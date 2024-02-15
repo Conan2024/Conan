@@ -1,0 +1,45 @@
+{
+    "Wang Xi Yan": [
+      ["Wang Shunming", "father of x"], 
+      ["Xi Rong", "sister of x"], 
+      ["Cui Shouheng", "brother in law of x"], 
+      ["Zhou Mengdang", "romantic relationships with x, lover of x"], 
+      ["Cui Yannan", "niece of x"]
+    ],
+    "Wang Shunming": [
+      ["Wang Xi Yan", "child of x"]
+    ],
+    "Xi Rong": [
+      ["Cui Shouheng", "husband of x"], 
+      ["Wang Xi Yan", "sister of x"]
+    ],
+    "Cui Shouheng": [
+      ["Xi Rong", "wife of x"], 
+      ["Zhou Mengdang", "romantic relationships with x, romantic relationships with x"], 
+      ["Zhou Chitong", "brother in law of x"], 
+      ["Yannan", "daughter of x"], 
+      ["Tian Chou", "servant of x"], 
+      ["Lianyi", "son of x"]
+    ],
+    "Zhou Mengdang": [
+      ["Wang Xi Yan", "romantic relationships with x, lover of x"], 
+      ["Zhou Chitong", "brother of x"], 
+      ["Tian Chou", "romantic relationships with x"], 
+      ["Uncle Fu", "relative of x"]
+    ],
+    "Zhou Chitong": [
+      ["Zhou Mengdang", "sibling of x"], 
+      ["Cui Shouheng", "brother in law of x"], 
+      ["Yannan", "brother of x"]
+    ],
+    "Zhou Lianyi": [
+      ["Cui Shouheng", "son of x"]
+    ],
+    "Cui Yannan": [
+      ["Cui Shouheng", "nephew of x"], 
+      ["Zhou Chitong", "sibling of x"]
+    ],
+    "Su Nian": [
+      ["Zhou Mengdang", "servant of x"]
+    ]
+}

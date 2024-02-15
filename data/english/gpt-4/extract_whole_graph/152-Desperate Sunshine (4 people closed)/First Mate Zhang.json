@@ -1,0 +1,124 @@
+{
+    "First Mate Zhang": [
+        [
+            "Naive Hen",
+            "sibling of x, brother of x"
+        ],
+        [
+            "Boss Yang",
+            "business partner of x, victim of x"
+        ],
+        [
+            "Secretary Wen",
+            "acquaintance of x"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "helper of x, victim of x's family, colleague of x"
+        ],
+        [
+            "Ship Doctor Ling",
+            "informant of x, informant of x, helper of x"
+        ],
+        [
+            "Worker Wang",
+            "helper of x, child of x's helper, romantic partner of Ship Doctor Ling"
+        ]
+    ],
+    "Naive Hen": [
+        [
+            "First Mate Zhang",
+            "sibling of x, brother of x"
+        ],
+        [
+            "Boss Yang",
+            "employer of x, admired by x"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "acquaintance of x"
+        ]
+    ],
+    "Boss Yang": [
+        [
+            "First Mate Zhang",
+            "business partner of x, perpetrator of x"
+        ],
+        [
+            "Naive Hen",
+            "employee of x, admirer of x, perpetrator of x"
+        ],
+        [
+            "Secretary Wen",
+            "subordinate of x, trusted by x"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "employing x's son unknowingly due to x"
+        ],
+        [
+            "Ship Doctor Ling",
+            "stranger to x"
+        ]
+    ],
+    "Secretary Wen": [
+        [
+            "Boss Yang",
+            "superior of x, trust from x"
+        ],
+        [
+            "First Mate Zhang",
+            "acquaintance of x"
+        ]
+    ],
+    "Shipyard Worker Wang": [
+        [
+            "First Mate Zhang",
+            "employer of x, deceiving x"
+        ],
+        [
+            "Boss Yang",
+            "stranger to x, victim to x's actions"
+        ],
+        [
+            "Worker Wang",
+            "father of x"
+        ],
+        [
+            "Ship Doctor Ling",
+            "romantic interest of x, deceived by x"
+        ],
+        [
+            "Naive Hen",
+            "acquaintance of x"
+        ]
+    ],
+    "Ship Doctor Ling": [
+        [
+            "First Mate Zhang",
+            "employer of x, manipulated by x, admirer of x"
+        ],
+        [
+            "Worker Wang",
+            "romantic partner of x, manipulating x"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "target of investigation for x, deceived by x"
+        ]
+    ],
+    "Worker Wang": [
+        [
+            "First Mate Zhang",
+            "boss's employee, son of colleague"
+        ],
+        [
+            "Ship Doctor Ling",
+            "girlfriend of x"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "son of x"
+        ]
+    ]
+}

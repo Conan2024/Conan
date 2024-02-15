@@ -1,0 +1,44 @@
+{
+    "Ella": [
+      ["Gust", "ex romantic relationships with x"], 
+      ["Kevin", "friend of x, helper of x"], 
+      ["Rowling", "friend of x"], 
+      ["Gust", "employer of x ella"], 
+      ["Griff", "fondness of x griff"]
+    ],
+    "Gust": [
+      ["Ella", "romantic relationships with x"], 
+      ["Kevin", "mentor of x"], 
+      ["Rowling", "romantic relationships with x"], 
+      ["David", "romantic relationships with x"], 
+      ["Griff", "deceiver of x griff, cheated money from griff of x"]
+    ],
+    "Kevin": [
+      ["Ella", "mentor of x"], 
+      ["Gust", "mentee of x"], 
+      ["Rowling", "friend of x"], 
+      ["David", "acquaintance of x, helper of x"], 
+      ["Griff", "guard of x"]
+    ],
+    "Rowling": [
+      ["Ella", "friend of x"], 
+      ["Gust", "romantic relationships with x"], 
+      ["Kevin", "friend of x"], 
+      ["David", "friend of x"], 
+      ["Griff", "friend of x griff"]
+    ],
+    "David": [
+      ["Publicity Rowling", "admirer of x david"], 
+      ["Gust", "romantic relationships with x"], 
+      ["Kevin", "neighbour of x"], 
+      ["Rowling", "admirer of x"], 
+      ["Griff", "mentee of x griff"]
+    ],
+    "Griff": [
+      ["Ella", "victim of x ella's deception"], 
+      ["Gust", "victim of x gust's deception"], 
+      ["Kevin", "employee of x"], 
+      ["Rowling", "friend of x rowling"], 
+      ["David", "mentor of x david"]
+    ]
+}

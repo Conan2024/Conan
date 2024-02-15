@@ -1,0 +1,19 @@
+{
+    "Cai Siniang": [
+      ["Hong Jiangshui", "friend of x, acquaintance of x"], 
+      ["Zhang Hongsheng", "love interest of x, rival of x"], 
+      ["Meng Sanchun", "enemy of x, victim of x"]
+    ],
+    "Hong Jiangshui": [
+      ["Cai Siniang", "friend of x, acquaintance of x"], 
+      ["Zhang Hongsheng", "co worker of x, colleague of x"]
+    ],
+    "Zhang Hongsheng": [
+      ["Cai Siniang", "love interest of x, rival of x"], 
+      ["Meng Sanchun", "husband of x, enemy of x"]
+    ],
+    "Meng Sanchun": [
+      ["Cai Siniang", "enemy of x, victim of x"], 
+      ["Zhang Hongsheng", "husband of x, enemy of x"]
+    ]
+}

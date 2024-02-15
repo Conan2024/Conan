@@ -1,0 +1,92 @@
+{
+    "Lucy Harrison": [
+      ["Marina Harrison", "sibling of x"], 
+      ["Harold Harrison", "child of x"], 
+      ["Jacqueline Perry", "aunt of x"], 
+      ["Daniel Perry", "fiance of x, romantic relationships with x"], 
+      ["Davis Perry", "romantic relationships with x"], 
+      ["Jonathan Perry", "romantic relationships with x, ex romantic relationships with x"], 
+      ["Amy Morgan", "friend of x"], 
+      ["Jonathan Perry", "romantic relationships with x, fiance of x"]
+    ],
+    "Marina Harrison": [
+      ["Lucy Harrison", "sibling of x"], 
+      ["Harold Harrison", "child of x"], 
+      ["Jacqueline Perry", "mother of x"], 
+      ["Daniel Perry", "romantic relationship with x"], 
+      ["Davis Perry", "romantic relationships with x"], 
+      ["Jonathan Perry", "romantic relationships with x, fiance of x"], 
+      ["Amy Morgan", "sister in law of x"], 
+      ["John Morgan", "romantic relationships with x"]
+    ],
+    "Harold Harrison": [
+      ["Lucy Harrison", "parent of x"], 
+      ["Marina Harrison", "parent of x"], 
+      ["Jacqueline Perry", "co worker of x"], 
+      ["Daniel Perry", "uncle of x"], 
+      ["Davis Perry", "father in law of x"], 
+      ["Jonathan Perry", "father of x"], 
+      ["Amy Morgan", "father in law of x"], 
+      ["John Morgan", "father of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Lucy Harrison", "niece of x"], 
+      ["Marina Harrison", "sister of x"], 
+      ["Harold Harrison", "co worker of x"], 
+      ["Daniel Perry", "co wives of x"], 
+      ["Davis Perry", "sibling of x"], 
+      ["Jonathan Perry", "romantic relationships with x"], 
+      ["Amy Morgan", "neighbour of x"], 
+      ["John Morgan", "nephew of x"]
+    ],
+    "Daniel Perry": [
+      ["Lucy Harrison", "fiancee of x, romantic relationships with x"], 
+      ["Marina Harrison", "romantic relationship with x"], 
+      ["Harold Harrison", "nephew of x"], 
+      ["Jacqueline Perry", "co wives of x"], 
+      ["Davis Perry", "brother of x"], 
+      ["Jonathan Perry", "uncle of x"], 
+      ["Amy Morgan", "fiance of x"], 
+      ["John Morgan", "nephew of x"]
+    ],
+    "Davis Perry": [
+      ["Lucy Harrison", "romantic relationships with x"], 
+      ["Marina Harrison", "romantic relationships with x"], 
+      ["Harold Harrison", "son in law of x"], 
+      ["Jacqueline Perry", "sibling of x"], 
+      ["Daniel Perry", "brother of x"], 
+      ["Jonathan Perry", "brother of x"], 
+      ["Amy Morgan", "employer of x"], 
+      ["John Morgan", "uncle of x"]
+    ],
+    "Jonathan Perry": [
+      ["Lucy Harrison", "romantic relationships with x, ex romantic relationships with x"], 
+      ["Marina Harrison", "romantic relationships with x, fiancee of x"], 
+      ["Harold Harrison", "son of x"], 
+      ["Jacqueline Perry", "romantic relationships with x"], 
+      ["Daniel Perry", "nephew of x"], 
+      ["Davis Perry", "brother of x"], 
+      ["Amy Morgan", "ex romantic relationships with x"], 
+      ["John Morgan", "fiance of x, boyfriend of x"]
+    ],
+    "Amy Morgan": [
+      ["Lucy Harrison", "borrower from x"], 
+      ["Marina Harrison", "future relative of x"], 
+      ["Harold Harrison", "daughter in law of x"], 
+      ["Jacqueline Perry", "daughter of x"], 
+      ["Daniel Perry", "fiancee of x"], 
+      ["Davis Perry", "employee of x"], 
+      ["Jonathan Perry", "ex romantic relationships with x"], 
+      ["John Morgan", "fiance of x"]
+    ],
+    "John Morgan": [
+      ["Lucy Harrison", "romantic relationships with x, fiancee of x"], 
+      ["Marina Harrison", "romantic relationships with x"], 
+      ["Harold Harrison", "son of x"], 
+      ["Jacqueline Perry", "uncle of x"], 
+      ["Daniel Perry", "uncle of x"], 
+      ["Davis Perry", "nephew of x"], 
+      ["Jonathan Perry", "fiancee of x, girlfriend of x"], 
+      ["Amy Morgan", "fiancee of x"]
+    ]
+}

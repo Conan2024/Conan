@@ -1,0 +1,111 @@
+{
+    "Gu Chumeng": [
+      ["Xiting", "husband of x"], 
+      ["Xinger", "helper of x"], 
+      ["Gu Zhiyu", "husband of x"], 
+      ["Gu Lianshan", "child of x"], 
+      ["Yang Shuixun", "colleague of x"], 
+      ["Minxi", "friend of x"], 
+      ["Brother Gu", "brother of x"], 
+      ["Zhang Shanren", "friend of x"], 
+      ["Zhang Fanghao", "friend of x"]
+    ],
+    "Xiting": [
+      ["Gu Chumeng", "wife of x"], 
+      ["Xinger", "wife of x"], 
+      ["Gu Zhiyu", "wife of x"], 
+      ["Gu Lianshan", "wife of x"], 
+      ["Yang Shuixun", "friend of x"], 
+      ["Minxi", "wife of x"], 
+      ["Brother Gu", "husband of x"], 
+      ["wife of Zhang Shanren", "romantic relationships with zhang shanren of x"], 
+      ["Zhang Fanghao", "husband of x"]
+    ],
+    "Xinger": [
+      ["Gu Chumeng", "informant of x"], 
+      ["Xiting", "husband of x"], 
+      ["Gu Zhiyu", "maid of x gu zhiyu"], 
+      ["Gu Lianshan", "wife of x"], 
+      ["Yang Shuixun", "acquaintance of x"], 
+      ["Minxi", "maid of xinger"], 
+      ["Brother Gu", "helper of x, information receiver from x"], 
+      ["Zhang Shanren", "helper of x, helper of x"], 
+      ["Zhang Fanghao", "wife of x"]
+    ],
+    "Gu Zhiyu": [
+      ["Gu Chumeng", "wife of x"], 
+      ["Xiting", "husband of x"], 
+      ["Xinger", "employer of xinger"], 
+      ["Gu Lianshan", "husband of x"], 
+      ["Yang Shuixun", "acquaintance of x"], 
+      ["Minxi", "friend of x, quest companion of x"], 
+      ["Brother Gu", "sibling of x"], 
+      ["Zhang Shanren", "fellow workers of x"], 
+      ["Zhang Fanghao", "mentee of x"]
+    ],
+    "Gu Lianshan": [
+      ["Gu Chumeng", "father of x"], 
+      ["Xiting", "husband of x"], 
+      ["Xinger", "husband of x"], 
+      ["Gu Zhiyu", "wife of x"], 
+      ["Yang Shuixun", "friend of x, business partner of x"], 
+      ["Minxi", "friend of x, student of x"], 
+      ["Brother Gu", "brother of x"], 
+      ["Zhang Shanren", "acquaintance of x"], 
+      ["Zhang Fanghao", "acquaintance of x, water ghost marriage with x"]
+    ],
+    "Yang Shuixun": [
+      ["Gu Chumeng", "colleague of x"], 
+      ["Xiting", "friend of x"], 
+      ["Xinger", "acquaintance of x"], 
+      ["Gu Zhiyu", "friend of x"], 
+      ["Gu Lianshan", "friend of x, business partner of x"], 
+      ["Minxi", "romantic relationships with x"], 
+      ["Brother Gu", "friend of x"], 
+      ["friend of x", "possibly family of x"], 
+      ["Zhang Fanghao", "employer of x, adversary of x"]
+    ],
+    "Minxi": [
+      ["Gu Chumeng", "friend of x"], 
+      ["Xiting", "husband of x"], 
+      ["Xinger", "mistress of xinger"], 
+      ["Gu Zhiyu", "friend of x, quest companion of x"], 
+      ["Gu Lianshan", "friend of x, student of x"], 
+      ["Yang Shuixun", "romantic relationships with x"], 
+      ["Brother Gu", "friend of x, mentor of x"], 
+      ["Zhang Shanren", "family relationship of x"], 
+      ["Zhang Fanghao", "admirer of x"]
+    ],
+    "Brother Gu": [
+      ["Gu Chumeng", "brother of x"], 
+      ["Xiting", "wife of x"], 
+      ["Xinger", "helper of x, information receiver from x"], 
+      ["Gu Zhiyu", "sibling of x"], 
+      ["Gu Lianshan", "brother of x"], 
+      ["Yang Shuixun", "friend of x"], 
+      ["Minxi", "friend of x, mentee of x"], 
+      ["Zhang Shanren", "friend of x"], 
+      ["Zhang Fanghao", "friend of x, mentor of x"]
+    ],
+    "Zhang Shanren": [
+      ["Gu Chumeng", "friend of x"], 
+      ["husband of Xiting", "romantic relationships with xiting"], 
+      ["Gu Zhiyu", "mentor of x"], 
+      ["Gu Lianshan", "acquaintance of x"], 
+      ["friend of x", "possibly family of x"], 
+      ["Minxi", "family relationship of x"], 
+      ["Brother Gu", "friend of x"], 
+      ["Zhang Fanghao", "friend of x"]
+    ],
+    "Zhang Fanghao": [
+      ["Gu Chumeng", "friend of x"], 
+      ["Xiting", "wife of x"], 
+      ["Xinger", "husband of x"], 
+      ["Gu Zhiyu", "mentor of x"], 
+      ["Gu Lianshan", "acquaintance of x, water ghost marriage with x"], 
+      ["Yang Shuixun", "employee of x"], 
+      ["Minxi", "admirer of x"], 
+      ["Brother Gu", "friend of x, mentee of x"], 
+      ["Zhang Shanren", "friend of x"]
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Wei Xiaodi": [
+      ["Qin Expert", "same person as x (different reference)"], 
+      ["Qin Laoda", "same person as x (different identity)"]
+    ],
+    "Qin Laoda": [
+      ["Wei Xiaodi", "friend of x"], 
+      ["Zheng Youhao", "bully of x"]
+    ],
+    "Zheng Youhao": [
+      ["Qin Laoda", "victim of x"], 
+      ["Wei Xiaodi", "helper of x"]
+    ],
+    "Jia Meili": [
+      ["Qin Laoda", "romantic relationships with x"], 
+      ["Wei Xiaodi", "classmate of x"]
+    ],
+    "Zhuang Qingchun": [
+      ["Jia Meili", "friend of x"], 
+      ["Wei Xiaodi", "classmate of x"]
+    ],
+    "Qin Expert": [
+      ["Wei Xiaodi", "father of x"], 
+      ["Qin Laoda", "son of x"]
+    ]
+}

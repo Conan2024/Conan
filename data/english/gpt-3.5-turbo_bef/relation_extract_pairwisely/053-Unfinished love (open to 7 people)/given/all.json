@@ -1,0 +1,129 @@
+{
+    "Lin Xi": [
+      ["Lin Weiren", "lover of x"], 
+      ["Gu Yu", "romantic relationships with x"], 
+      ["Gu Qing", "romantic relationships with x"], 
+      ["Su Yang", "romantic relationships with x"], 
+      ["Shen Cheng", "guest of x, host of x"], 
+      ["Qin Siqin", "romantic relationships with x"], 
+      ["Chen Jingwen", "romantic relationships with x"]
+    ],
+    "Lin Weiren": [
+      ["Lin Xi", "lover of x"], 
+      ["Lin Yang", "lover of x, suspected by x"], 
+      ["Gu Yu", "ex romantic relationships with x"], 
+      ["Gu Qing", "romantic relationships with x"], 
+      ["Su Yang", "romantic relationships with x"], 
+      ["Shen Cheng", "host of x, helper of x"], 
+      ["Qin Siqin", "romantic relationships with x, lover of x"], 
+      ["Chen Jingwen", "informant of x"]
+    ],
+    "Lin Yang": [
+      ["Lin Weiren", "lover of x, suspected by x"], 
+      ["Gu Yu", "extramarital affair with x, romantic relationships with x"], 
+      ["Gu Qing", "girlfriend of x"], 
+      ["Su Yang", "romantic relationships with x"], 
+      ["Shen Cheng", "helper of x"], 
+      ["Lin Tong", "girlfriend of x"], 
+      ["Gu Minghe", "ex girlfriend of x"], 
+      ["Chen Jingwen", "romantic relationships with x"]
+    ],
+    "Gu Yu": [
+      ["Lin Xi", "romantic relationships with x"], 
+      ["Lin Weiren", "ex romantic relationships with x"], 
+      ["Lin Yang", "extramarital affair with x, romantic relationships with x"], 
+      ["Chen Jingwen", "romantic relationships with x"], 
+      ["Su Yang", "romantic relationships with x"], 
+      ["Shen Cheng", "helper of x, suspicious of x"], 
+      ["Qin Siqin", "ex wife of x"], 
+      ["Lin Tong", "lover of x"], 
+      ["Gu Minghe", "husband of x"], 
+      ["Chen Jingwen", "romantic relationships with x"], 
+      ["Zheng Xinmei", "lover of x, boyfriend of x, father of x"], 
+      ["Gu Qing", "romantic relationships with x"]
+    ],
+    "Gu Qing": [
+      ["Lin Xi", "romantic relationships with x"], 
+      ["Lin Weiren", "romantic relationships with x"], 
+      ["Lin Yang", "boyfriend of x"], 
+      ["Chen Jingwen", "ex boyfriend of x"], 
+      ["Gu Yu", "romantic relationships with x"], 
+      ["Shen Cheng", "acquaintance of x"], 
+      ["Qin Siqin", "romantic relationships with x"], 
+      ["Lin Tong", "girlfriend of x"], 
+      ["Gu Minghe", "romantic relationships with x"], 
+      ["Chen Jingwen", "romantic relationships with x"]
+    ],
+    "Su Yang": [
+      ["Lin Xi", "romantic relationships with x"], 
+      ["Lin Weiren", "romantic relationships with x"], 
+      ["Lin Yang", "romantic relationships with x"], 
+      ["Gu Yu", "romantic relationships with x"], 
+      ["Gu Qing", "romantic relationships with x"], 
+      ["Shen Cheng", "helper of x, informant of x"], 
+      ["Lin Tong", "girlfriend of x"], 
+      ["Gu Minghe", "ex boyfriend of x, father of x"], 
+      ["Chen Jingwen", "romantic relationships with x"], 
+      ["Zheng Xinmei", "lover of x, father of x"]
+    ],
+    "Shen Cheng": [
+      ["Lin Xi", "host of x, guest of x"], 
+      ["Lin Weiren", "guest of x, helped by x"], 
+      ["Lin Yang", "helper of x"], 
+      ["Gu Yu", "employer of x, guard of x"], 
+      ["Gu Qing", "acquaintance of x"], 
+      ["Su Yang", "friend of x"], 
+      ["Qin Siqin", "servant of x"], 
+      ["Lin Tong", "employee of x"], 
+      ["Gu Minghe", "employee of x"], 
+      ["Chen Jingwen", "helper of x, acquaintance of x"]
+    ],
+    "Qin Siqin": [
+      ["Lin Xi", "romantic relationships with x"], 
+      ["Lin Weiren", "romantic relationships with x, lover of x"], 
+      ["Gu Yu", "ex husband of x"], 
+      ["Gu Qing", "romantic relationships with x"], 
+      ["Shen Cheng", "employer of x"], 
+      ["Lin Tong", "extramarital affair with x, secret lover of x"], 
+      ["Chen Jingwen", "romantic relationships with x"]
+    ],
+    "Lin Tong": [
+      ["Lin Yang", "boyfriend of x"], 
+      ["Gu Yu", "girlfriend of x"], 
+      ["Gu Qing", "boyfriend of x"], 
+      ["Su Yang", "fiancee of x"], 
+      ["Shen Cheng", "employer of x"], 
+      ["Qin Siqin", "extramarital affair with x, secret lover of x"], 
+      ["Chen Jingwen", "girlfriend of x"], 
+      ["Zheng Xinmei", "romantic relationships with x"]
+    ],
+    "Gu Minghe": [
+      ["Lin Yang", "ex boyfriend of x"], 
+      ["Gu Yu", "wife of x"], 
+      ["Gu Qing", "romantic relationships with x"], 
+      ["Su Yang", "ex girlfriend of x, mother of x"], 
+      ["Shen Cheng", "guard of x"], 
+      ["Chen Jingwen", "fiance of x"], 
+      ["Zheng Xinmei", "wife of x"]
+    ],
+    "Chen Jingwen": [
+      ["Lin Xi", "romantic relationships with x"], 
+      ["Lin Weiren", "friend of x"], 
+      ["Lin Yang", "romantic relationships with x"], 
+      ["Gu Yu", "romantic relationships with x"], 
+      ["Gu Qing", "romantic relationships with x"], 
+      ["Su Yang", "informant of x"], 
+      ["Shen Cheng", "helper of x"], 
+      ["Qin Siqin", "romantic relationships with x"], 
+      ["Lin Tong", "boyfriend of x"], 
+      ["Gu Minghe", "fiancee of x"], 
+      ["Zheng Xinmei", "child of x"]
+    ],
+    "Zheng Xinmei": [
+      ["Gu Yu", "lover of x, girlfriend of x, mother of x"], 
+      ["Su Yang", "lover of x, mother of x"], 
+      ["Lin Tong", "romantic relationships with x"], 
+      ["Gu Minghe", "husband of x"], 
+      ["Chen Jingwen", "mother of x"]
+    ]
+}

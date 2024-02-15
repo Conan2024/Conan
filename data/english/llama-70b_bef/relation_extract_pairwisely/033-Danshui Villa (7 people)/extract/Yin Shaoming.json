@@ -1,0 +1,18 @@
+{
+    "Yin Shaoming": [
+      ["Zhao Luoyi", "friend of x"], 
+      ["Fang Shuangji", "employer of x, acquaintance of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Yin Shaoming", "friend of x"], 
+      ["Fang Shuangji", "friend of x, acquaintance of x"]
+    ],
+    "Fang Shuangji": [
+      ["Yin Shaoming", "employer of x, acquaintance of x"], 
+      ["Zhao Luoyi", "friend of x, acquaintance of x"], 
+      ["Feng Qiqi", "employer of x, master of x"]
+    ],
+    "Feng Qiqi": [
+      ["Fang Shuangji", "employee of x, servant of x"]
+    ]
+}

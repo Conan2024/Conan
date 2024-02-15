@@ -1,0 +1,69 @@
+{
+    "Yang Minxi": [
+      ["Yang Shuixun", "father of x, daughter of x"], 
+      ["Gu Chumeng", "classmate of x"], 
+      ["Lan Rui", "friend of x, schoolmate of x"], 
+      ["Xiting", "friend of x, classmate of x"], 
+      ["Shen Wusheng", "friend of x, classmate of x"], 
+      ["Uncle Zhang", "adoptive father of x, friend of x"]
+    ],
+    "Yang Shuixun": [
+      ["Yang Minxi", "father of x, daughter of x"], 
+      ["Gu Chumeng", "mentor of x"], 
+      ["Lan Rui", "father of x"], 
+      ["Zhang Fanghao", "business partner of x"], 
+      ["Xiting", "friend of x, mentor of x"], 
+      ["Shen Wusheng", "father of x, employer of x"], 
+      ["Uncle Zhang", "friend of x"]
+    ],
+    "Gu Chumeng": [
+      ["Yang Minxi", "classmate of x"], 
+      ["Yang Shuixun", "mentor of x"], 
+      ["Lan Rui", "cousin of x"], 
+      ["Zhang Fanghao", "friend of x, uncle of x"], 
+      ["Xiting", "friend of x, classmate of x"], 
+      ["Shen Wusheng", "friend of x, classmate of x"], 
+      ["Uncle Zhang", "friend of x, mentor of x"]
+    ],
+    "Lan Rui": [
+      ["Yang Minxi", "friend of x, schoolmate of x"], 
+      ["Yang Shuixun", "daughter of x, sibling of x"], 
+      ["Gu Chumeng", "cousin of x"], 
+      ["Zhang Fanghao", "friend of x"], 
+      ["Xiting", "friend of x, classmate of x"], 
+      ["Shen Wusheng", "friend of x"], 
+      ["Uncle Zhang", "servant of x"]
+    ],
+    "Zhang Fanghao": [
+      ["Yang Minxi", "nephew of x"], 
+      ["Yang Shuixun", "business partner of x"], 
+      ["Gu Chumeng", "friend of x"], 
+      ["Lan Rui", "friend of x"], 
+      ["Shen Wusheng", "uncle of x, friend of x"]
+    ],
+    "Xiting": [
+      ["Yang Minxi", "friend of x, classmate of x"], 
+      ["Yang Shuixun", "friend of x"], 
+      ["Gu Chumeng", "friend of x, classmate of x"], 
+      ["Lan Rui", "friend of x, classmate of x"], 
+      ["Shen Wusheng", "friend of x, classmate of x"], 
+      ["Uncle Zhang", "friend of x, classmate of x"]
+    ],
+    "Shen Wusheng": [
+      ["Yang Minxi", "friend of x, classmate of x"], 
+      ["Yang Shuixun", "friend of x, colleague of x"], 
+      ["Gu Chumeng", "friend of x, classmate of x"], 
+      ["Lan Rui", "friend of x"], 
+      ["Zhang Fanghao", "nephew of x, colleague of x"], 
+      ["Xiting", "friend of x, classmate of x"], 
+      ["Uncle Zhang", "friend of x, informant of x"]
+    ],
+    "Uncle Zhang": [
+      ["Yang Minxi", "adoptive daughter of x, friend of x"], 
+      ["Yang Shuixun", "friend of x"], 
+      ["Gu Chumeng", "friend of x, mentor of x"], 
+      ["Lan Rui", "servant of x"], 
+      ["Xiting", "father of x"], 
+      ["Shen Wusheng", "friend of x, informant of x"]
+    ]
+}

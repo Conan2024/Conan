@@ -1,0 +1,45 @@
+{
+    "Zhao Shuaige": [
+      ["Grandma", "relative of x, helper of x"], 
+      ["Mother", "relative of x, hated by x, admirer of x"], 
+      ["Father", "relative of x, deceiver of x, helper of x, deceived by x"], 
+      ["Rich man", "romantic relationships with x"], 
+      ["Zhang Eba", "enemy of x, victim of x, romantic relationships with x"], 
+      ["Lin Xiaohua", "romantic relationships with x, secret lover of x, admired by x, deceived by x, admirer of x"], 
+      ["Wang Xuexi", "quest companion of x"], 
+      ["Li Xiaodi", "quest companion of x"], 
+      ["Hao Guimi", "quest companion of x"], 
+      ["Gatekeeper", "suspicious of x"]
+    ],
+    "Grandma": [
+      ["Zhao Shuaige", "relative of x, guard of x"]
+    ],
+    "Mother": [
+      ["Zhao Shuaige", "relative of x"]
+    ],
+    "Father": [
+      ["Zhao Shuaige", "relative of x, deceiver of x, helper of x, deceived by x"]
+    ],
+    "Rich man": [
+      ["Zhao Shuaige", "romantic relationships with x"]
+    ],
+    "Zhang Eba": [
+      ["Zhao Shuaige", "enemy of x, victim of x"], 
+      ["Lin Xiaohua", "romantic relationships with x"]
+    ],
+    "Lin Xiaohua": [
+      ["Zhao Shuaige", "romantic relationships with x, secret lover of x, deceived by x, admirer of x"]
+    ],
+    "Wang Xuexi": [
+      ["Zhao Shuaige", "quest companion of x"]
+    ],
+    "Li Xiaodi": [
+      ["Zhao Shuaige", "quest companion of x"]
+    ],
+    "Hao Guimi": [
+      ["Zhao Shuaige", "quest companion of x"]
+    ],
+    "Gatekeeper": [
+      ["Zhao Shuaige", "suspicious of x"]
+    ]
+}

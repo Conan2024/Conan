@@ -1,0 +1,37 @@
+{
+    "Ruya": [
+      ["Falcon", "cousin of x"], 
+      ["Gui Yin", "husband of x"], 
+      ["Juan Ge (Cuckoo Song)", "cousin of x"], 
+      ["Ba Mansion Mountain", "uncle of x"], 
+      ["Gan Ma", "sister in law of x"], 
+      ["Li Demu", "boyfriend of x"], 
+      ["Zheng Hanzhen", "acquaintance of x"]
+    ],
+    "Falcon": [
+      ["Ruya", "cousin of x"], 
+      ["Gan Ma", "friend of x"]
+    ],
+    "Gui Yin": [
+      ["Ruya", "husband of x"], 
+      ["Juan Ge (Cuckoo Song)", "brother in law of x"]
+    ],
+    "Juan Ge (Cuckoo Song)": [
+      ["Ruya", "cousin of x"], 
+      ["Gui Yin", "brother in law of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Ruya", "uncle of x"], 
+      ["Juan Ge (Cuckoo Song)", "father in law of x"]
+    ],
+    "Gan Ma": [
+      ["Ruya", "sister in law of x"], 
+      ["Falcon", "friend of x"]
+    ],
+    "Li Demu": [
+      ["Ruya", "boyfriend of x"]
+    ],
+    "Zheng Hanzhen": [
+      ["Ruya", "acquaintance of x"]
+    ]
+}

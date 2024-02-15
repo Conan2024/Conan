@@ -1,0 +1,48 @@
+{
+    "Li Luo Ming": [
+      ["Xia Bolong", "teacher of x"], 
+      ["Xia Zhongpeng", "same person as x (different identity)"], 
+      ["Yue Dongwen", "friend of x"], 
+      ["Xia Sanhu", "adversary of x"]
+    ],
+    "Xia Bolong": [
+      ["Li Luo Ming", "teacher of x"], 
+      ["Xia Zhongpeng", "brother of x"], 
+      ["Xia Sanhu", "brother of x"]
+    ],
+    "Xia Zhongpeng": [
+      ["Li Luo Ming", "same person as x (different identity)"], 
+      ["Xia Bolong", "brother of x"], 
+      ["Xia Sanhu", "brother of x"]
+    ],
+    "Xia Sanhu": [
+      ["Li Luo Ming", "adversary of x"], 
+      ["Xia Bolong", "brother of x"], 
+      ["Xia Zhongpeng", "brother of x"], 
+      ["Wu Baian", "acquaintance of x"]
+    ],
+    "Yue Dongwen": [
+      ["Li Luo Ming", "friend of x"], 
+      ["Xia Sanhu", "acquaintance of x"]
+    ],
+    "Xia Shue": [
+      ["Li Luo Ming", "teacher of x"], 
+      ["Xia Sanhu", "sibling of x"]
+    ],
+    "Bai Changgong": [
+      ["Li Luo Ming", "business partner of x"], 
+      ["Xia Sanhu", "acquaintance of x"]
+    ],
+    "Yu Zu Chengmu": [
+      ["Li Luo Ming", "uncle of x"], 
+      ["Xia Sanhu", "friend of x"]
+    ],
+    "Anqi": [
+      ["Li Luo Ming", "relative of x"], 
+      ["Xia Sanhu", "acquaintance of x"]
+    ],
+    "Wu Baian": [
+      ["Li Luo Ming", "friend of x"], 
+      ["Xia Sanhu", "acquaintance of x"]
+    ]
+}

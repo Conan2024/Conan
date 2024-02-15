@@ -1,0 +1,39 @@
+{
+    "Yang Minxi": [
+      ["Gu Chumeng", "brother of x, friend of x"], 
+      ["Lan Rui", "classmate of x, friend of x"], 
+      ["Xiting", "friend of x"], 
+      ["Yang Shuixun", "father of x"], 
+      ["Zhang Fanghao", "acquaintance of x"]
+    ],
+    "Gu Chumeng": [
+      ["Yang Minxi", "brother of x, friend of x"], 
+      ["Lan Rui", "classmate of x"]
+    ],
+    "Lan Rui": [
+      ["Yang Minxi", "classmate of x, friend of x"], 
+      ["Gu Chumeng", "classmate of x"]
+    ],
+    "Yang Shuixun": [
+      ["Yang Minxi", "father of x"]
+    ],
+    "Xiting": [
+      ["Lan Rui", "classmate of x, friend of x"], 
+      ["Yang Minxi", "friend of x"]
+    ],
+    "Shen Wusheng": [
+      ["Yang Shuixun", "friend of x"]
+    ],
+    "Brother Gu": [
+      ["Yang Minxi", "brother of x"], 
+      ["Ms. Mei", "mother of x"], 
+      ["Rou'er", "sister of x"]
+    ],
+    "Zhang Fanghao": [
+      ["Yang Minxi", "acquaintance of x"], 
+      ["Xiting", "acquaintance of x"]
+    ],
+    "Uncle Zhang": [
+      ["Lan Rui", "father of x"]
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "Zhao San": [
+      ["Zhao Zhongzheng", "brother of x"], 
+      ["Zhao Zhongyang", "brother of x"]
+    ],
+    "Zhao Zhongzheng": [
+      ["Zhao San", "brother of x"], 
+      ["Zhao Zhongyang", "rival of x"], 
+      ["Zhang Wei", "associate of x"]
+    ],
+    "Zhao Zhongyang": [
+      ["Zhao San", "brother of x"], 
+      ["Zhao Zhongzheng", "rival of x"], 
+      ["Zhang Wei", "associate of x"]
+    ],
+    "Zhang Wei": [
+      ["Zhao Zhongyang", "associate of x"], 
+      ["Zhao San", "drinking companion of x"]
+    ],
+    "Ma Laoban": [
+      ["Zhao San", "customer of x"]
+    ]
+}

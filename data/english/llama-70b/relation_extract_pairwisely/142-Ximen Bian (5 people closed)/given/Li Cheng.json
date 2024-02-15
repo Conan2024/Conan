@@ -1,0 +1,88 @@
+{
+    "Chen Meier": [
+        [
+            "Li Cheng",
+            "friend, savior"
+        ],
+        [
+            "Zhao Zhongyang",
+            "Wife of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "Wife of X",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Li Cheng": [
+        [
+            "Chen Meier",
+            "friend, protector"
+        ],
+        [
+            "Zhang Wei",
+            "Friend, Helper"
+        ],
+        [
+            "Zhao Zhongyang",
+            "Friend, Savior"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "Friend, Savior"
+        ]
+    ],
+    "Zhao Zhongyang": [
+        [
+            "Chen Meier",
+            "Husband of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Li Cheng",
+            "Friend, Saved"
+        ],
+        [
+            "Zhang Wei",
+            "Guard and Protege, Suspicious of"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "brother, friend"
+        ]
+    ],
+    "Zhao Zhongzheng": [
+        [
+            "Chen Meier",
+            "Husband of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Li Cheng",
+            "Friend, Saved"
+        ],
+        [
+            "Zhang Wei",
+            "employer, manipulator"
+        ],
+        [
+            "Zhao Zhongyang",
+            "brother, friend"
+        ]
+    ],
+    "Zhang Wei": [
+        [
+            "Li Cheng",
+            "Friend, Helper"
+        ],
+        [
+            "Zhao Zhongyang",
+            "Guard and Protege, Suspicious of"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "subordinate, loyal"
+        ]
+    ]
+}

@@ -1,0 +1,882 @@
+{
+    "Assistant Ella": [
+        [
+            "David",
+            "Colleague",
+            "Business Partner"
+        ],
+        [
+            "Ella",
+            "Gust's assistant",
+            "Co-worker"
+        ],
+        [
+            "Griff",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Gust",
+            "Lla is Gust's assistant."
+        ],
+        [
+            "Kevin",
+            "Guster",
+            "David",
+            "Rowling",
+            "acquaintance",
+            "coworker"
+        ],
+        [
+            "Logistics Griff",
+            "Suspect",
+            "Victim"
+        ],
+        [
+            "Magician Gust",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)",
+            "Co-worker",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Publicity Rowling",
+            "Colleague",
+            "Co-worker"
+        ],
+        [
+            "Rowling",
+            "Co-worker",
+            "Friend"
+        ],
+        [
+            "Security Kevin",
+            "Co-worker",
+            "Friend"
+        ],
+        [
+            "Theatrical Work David",
+            "Guster",
+            "relationship 1",
+            "relationship 2"
+        ]
+    ],
+    "David": [
+        [
+            "Assistant Ella",
+            "Colleague",
+            "Business Partner"
+        ],
+        [
+            "Ella",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Griff",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Gust",
+            "Friend",
+            "Rival"
+        ],
+        [
+            "Kevin",
+            "Acquaintance",
+            "Rival"
+        ],
+        [
+            "Logistics Griff",
+            "Friend",
+            "Mentor"
+        ],
+        [
+            "Magician Gust",
+            "Friend",
+            "Rival"
+        ],
+        [
+            "Publicity Rowling",
+            "Friend",
+            "Informant of X"
+        ],
+        [
+            "Rowling",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Security Kevin",
+            "Acquaintance",
+            "Friend"
+        ],
+        [
+            "Theatrical Work David",
+            "Friend",
+            "Acquaintance"
+        ]
+    ],
+    "Ella": [
+        [
+            "Assistant Ella",
+            "Gust's assistant",
+            "Co-worker"
+        ],
+        [
+            "David",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Griff",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)",
+            "Romantic relationships with X",
+            "Fiance of X",
+            "Fiancee of X",
+            "Co-wives of X",
+            "Child of X",
+            "Son of X",
+            "Daughter of X",
+            "Sibling of X",
+            "Brother of X",
+            "Sister of X",
+            "Relative of X",
+            "Nephew of X",
+            "Aunt of X",
+            "Uncle of X",
+            "Niece of X",
+            "Cousin of X",
+            "Friend of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Student of X",
+            "Informant of X",
+            "Information Receiver from X",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X",
+            "Neighbour of X",
+            "Helper of X",
+            "Helped by X",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X",
+            "Attempted Perpetrator of X",
+            "Attempted Murderer of X",
+            "Victim of X",
+            "Killed by X"
+        ],
+        [
+            "Gust",
+            "Assistant",
+            "Co-worker"
+        ],
+        [
+            "Kevin",
+            "assistant",
+            "thief"
+        ],
+        [
+            "Logistics Griff",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)",
+            "Co-worker",
+            "Fellow performer"
+        ],
+        [
+            "Magician Gust",
+            "Assistant"
+        ],
+        [
+            "Publicity Rowling",
+            "Assistant",
+            "Acquaintance"
+        ],
+        [
+            "Rowling",
+            "Lla is Gust's assistant",
+            "You also know that Gust likes her",
+            "you have been cheated by her a lot of money"
+        ],
+        [
+            "Security Kevin",
+            "Co-workers",
+            "Accomplices"
+        ],
+        [
+            "Theatrical Work David",
+            "Acquaintance"
+        ]
+    ],
+    "Griff": [
+        [
+            "Assistant Ella",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "David",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Ella",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)",
+            "Romantic relationships with X",
+            "Fiance of X",
+            "Fiancee of X",
+            "Co-wives of X",
+            "Child of X",
+            "Son of X",
+            "Daughter of X",
+            "Sibling of X",
+            "Brother of X",
+            "Sister of X",
+            "Relative of X",
+            "Nephew of X",
+            "Aunt of X",
+            "Uncle of X",
+            "Niece of X",
+            "Cousin of X",
+            "Friend of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Student of X",
+            "Informant of X",
+            "Information Receiver from X",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X",
+            "Neighbour of X",
+            "Helper of X",
+            "Helped by X",
+            "Perpetrator of X",
+            "Bully of X",
+            "Murderer of X",
+            "Attempted Perpetrator of X",
+            "Attempted Murderer of X",
+            "Victim of X",
+            "Killed by X"
+        ],
+        [
+            "Gust",
+            "Undercover",
+            "Informant of X"
+        ],
+        [
+            "Kevin",
+            "Colleague",
+            "Fellow undercover"
+        ],
+        [
+            "Logistics Griff",
+            "Colleague"
+        ],
+        [
+            "Magician Gust",
+            "Colleague",
+            "Informant of X",
+            "Adversary of X",
+            "Enemy of X"
+        ],
+        [
+            "Publicity Rowling",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Rowling",
+            "Colleague",
+            "Friend",
+            "Informant",
+            "Investigation Subject"
+        ],
+        [
+            "Security Kevin",
+            "Colleague"
+        ],
+        [
+            "Theatrical Work David",
+            "Acquaintance",
+            "Colleague"
+        ]
+    ],
+    "Gust": [
+        [
+            "Assistant Ella",
+            "Lla is Gust's assistant."
+        ],
+        [
+            "David",
+            "Friend",
+            "Rival"
+        ],
+        [
+            "Ella",
+            "Assistant",
+            "Co-worker"
+        ],
+        [
+            "Griff",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Kevin",
+            "Acquaintance",
+            "Suspect"
+        ],
+        [
+            "Logistics Griff",
+            "Employer of X",
+            "Master of X",
+            "Superior of X",
+            "Informant of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Magician Gust",
+            "Employer of X",
+            "Master of X",
+            "Superior of X",
+            "Informant of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Publicity Rowling",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ],
+        [
+            "Rowling",
+            "Employee of X",
+            "Superior of X",
+            "Master of X",
+            "Subordinate of X",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "Security Kevin",
+            "Acquaintance",
+            "Colleague"
+        ],
+        [
+            "Theatrical Work David",
+            "Acquaintance",
+            "Co-worker"
+        ]
+    ],
+    "Theatrical Work David": [
+        [
+            "Gust",
+            "David has a better relationship with you."
+        ],
+        [
+            "Assistant Ella",
+            "Guster",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "David",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Ella",
+            "Acquaintance"
+        ],
+        [
+            "Griff",
+            "Acquaintance",
+            "Colleague"
+        ],
+        [
+            "Gust",
+            "Acquaintance",
+            "Co-worker"
+        ],
+        [
+            "Kevin",
+            "Acquaintance",
+            "Suspect"
+        ],
+        [
+            "Logistics Griff",
+            "Acquaintance",
+            "Classmate",
+            "Colleague"
+        ],
+        [
+            "Magician Gust",
+            "Acquaintance",
+            "Suspect"
+        ],
+        [
+            "Publicity Rowling",
+            "Acquaintance"
+        ],
+        [
+            "Rowling",
+            "Acquaintance"
+        ],
+        [
+            "Security Kevin",
+            "Colleague",
+            "Friend"
+        ]
+    ],
+    "Publicity Rowling": [
+        [
+            "Gust",
+            "You are not familiar with, she seems to have a close relationship with Kevin."
+        ],
+        [
+            "Assistant Ella",
+            "Colleague",
+            "Co-worker"
+        ],
+        [
+            "David",
+            "Friend",
+            "Informant of X"
+        ],
+        [
+            "Ella",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Griff",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Gust",
+            "Employee of X",
+            "Subordinate of X",
+            "Colleague of X"
+        ],
+        [
+            "Kevin",
+            "Colleague"
+        ],
+        [
+            "Logistics Griff",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Magician Gust",
+            "Acquaintance",
+            "Co-worker"
+        ],
+        [
+            "Rowling",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Security Kevin",
+            "Colleague"
+        ],
+        [
+            "Theatrical Work David",
+            "Acquaintance"
+        ]
+    ],
+    "Kevin": [
+        [
+            "Gust",
+            "Kevin is a person who has been pretending to be stupid."
+        ],
+        [
+            "Assistant Ella",
+            "Guster",
+            "Rowling",
+            "David",
+            "acquaintance",
+            "coworker"
+        ],
+        [
+            "David",
+            "Acquaintance",
+            "Rival"
+        ],
+        [
+            "Ella",
+            "thief",
+            "accomplice"
+        ],
+        [
+            "Griff",
+            "Colleague",
+            "Fellow undercover"
+        ],
+        [
+            "Gust",
+            "Acquaintance",
+            "Suspect"
+        ],
+        [
+            "Logistics Griff",
+            "Suspect of X",
+            "Bully of X",
+            "Perpetrator of X",
+            "Attempted Murderer of X"
+        ],
+        [
+            "Magician Gust",
+            "Suspect of X",
+            "Bully of X",
+            "Attempted Perpetrator of X"
+        ],
+        [
+            "Publicity Rowling",
+            "Colleague"
+        ],
+        [
+            "Rowling",
+            "Acquaintance",
+            "Suspect"
+        ],
+        [
+            "Security Kevin",
+            "Relationship 1: Suspect of theft",
+            "Relationship 2: Suspicious of true identity"
+        ],
+        [
+            "Theatrical Work David",
+            "Acquaintance",
+            "Suspect"
+        ]
+    ],
+    "Logistics Griff": [
+        [
+            "Assistant Ella",
+            "Suspect",
+            "Perpetrator"
+        ],
+        [
+            "David",
+            "Friend",
+            "Mentor"
+        ],
+        [
+            "Ella",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)",
+            "Co-worker",
+            "Fellow performer"
+        ],
+        [
+            "Griff",
+            "Colleague"
+        ],
+        [
+            "Gust",
+            "Employee of X",
+            "Subordinate of X",
+            "Business Partner of X",
+            "Customer of X",
+            "Tenant of X"
+        ],
+        [
+            "Kevin",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X",
+            "Neighbour of X"
+        ],
+        [
+            "Magician Gust",
+            "Perpetrator of X",
+            "Bully of X",
+            "Attempted Murderer of X",
+            "Adversary of X",
+            "Enemy of X",
+            "Rival of X",
+            "Manipulator of X",
+            "Superior of X",
+            "Employer of X",
+            "Master of X",
+            "Subordinate of X",
+            "Employee of X",
+            "servant of X",
+            "Colleague of X",
+            "Business Partner of X",
+            "Customer of X",
+            "Buyer of X",
+            "Tenant of X",
+            "Patient of X"
+        ],
+        [
+            "Publicity Rowling",
+            "Colleague",
+            "Friend"
+        ],
+        [
+            "Rowling",
+            "Colleague",
+            "Informant of X",
+            "Adversary of X",
+            "Enemy of X"
+        ],
+        [
+            "Security Kevin",
+            "Colleague",
+            "Fellow performer"
+        ],
+        [
+            "Theatrical Work David",
+            "Acquaintance",
+            "Classmate",
+            "Colleague"
+        ]
+    ],
+    "Magician Gust": [
+        [
+            "Assistant Ella",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ],
+        [
+            "David",
+            "Friend",
+            "Rival"
+        ],
+        [
+            "Ella",
+            "Employer"
+        ],
+        [
+            "Griff",
+            "Colleague",
+            "Informant of X",
+            "Adversary of X",
+            "Enemy of X"
+        ],
+        [
+            "Gust",
+            "Employer of X",
+            "Master of X",
+            "Superior of X",
+            "Informant of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Kevin",
+            "Employer of X",
+            "Master of X",
+            "Superior of x"
+        ],
+        [
+            "Logistics Griff",
+            "Victim of X",
+            "Killed by X",
+            "Dislike of X",
+            "Disliked by X",
+            "Subject of investigation for X",
+            "Deceiver of X",
+            "Betrayer of X",
+            "Deceived by X",
+            "Betrayed by X",
+            "Suspected by X",
+            "Suspicious of X",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X",
+            "Rival of X",
+            "Manipulator of X",
+            "Superior of X",
+            "Employer of X",
+            "Master of X",
+            "Subordinate of X",
+            "Employee of X",
+            "servant of X",
+            "Colleague of X",
+            "Business Partner of X",
+            "Customer of X",
+            "Buyer of X",
+            "Tenant of X",
+            "Patient of X"
+        ],
+        [
+            "Publicity Rowling",
+            "Acquaintance",
+            "Co-worker"
+        ],
+        [
+            "Rowling",
+            "Employer of X",
+            "Master of X",
+            "Superior of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Informant of X",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X",
+            "Neighbour of X",
+            "Helper of X",
+            "Suspicious of X",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X",
+            "Rival of X"
+        ],
+        [
+            "Security Kevin",
+            "Acquaintance",
+            "Suspect"
+        ],
+        [
+            "Theatrical Work David",
+            "Acquaintance",
+            "Suspect"
+        ]
+    ],
+    "Rowling": [
+        [
+            "Assistant Ella",
+            "Co-worker",
+            "Friend"
+        ],
+        [
+            "David",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Ella",
+            "Publicity Rowling",
+            "You are not familiar with",
+            "she seems to have a close relationship with Kevin",
+            "Is she also a thief?"
+        ],
+        [
+            "Griff",
+            "Colleague",
+            "Friend",
+            "Informant",
+            "Investigation Subject"
+        ],
+        [
+            "Gust",
+            "Employee of X",
+            "Superior of X",
+            "Master of X",
+            "Subordinate of X",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "Kevin",
+            "Acquaintance",
+            "Suspect"
+        ],
+        [
+            "Logistics Griff",
+            "Colleague",
+            "Informant of X",
+            "Adversary of X",
+            "Enemy of X"
+        ],
+        [
+            "Magician Gust",
+            "Employer of X",
+            "Master of X",
+            "Superior of X",
+            "Mentor of X",
+            "Teacher of X",
+            "Informant of X",
+            "Acquaintance of X",
+            "Classmate of X",
+            "Schoolmate of X",
+            "Neighbour of X",
+            "Helper of X",
+            "Suspicious of X",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X",
+            "Rival of X"
+        ],
+        [
+            "Publicity Rowling",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Security Kevin",
+            "Acquaintance"
+        ],
+        [
+            "Theatrical Work David",
+            "Acquaintance"
+        ]
+    ],
+    "Security Kevin": [
+        [
+            "Assistant Ella",
+            "Co-worker",
+            "Friend"
+        ],
+        [
+            "David",
+            "Acquaintance",
+            "Friend"
+        ],
+        [
+            "Ella",
+            "Guster",
+            "Enemies"
+        ],
+        [
+            "Griff",
+            "Colleague"
+        ],
+        [
+            "Gust",
+            "Acquaintance",
+            "Colleague"
+        ],
+        [
+            "Kevin",
+            "Relationship 1: Suspect of theft",
+            "Relationship 2: Suspicious of true identity"
+        ],
+        [
+            "Logistics Griff",
+            "Colleague",
+            "Fellow performer"
+        ],
+        [
+            "Magician Gust",
+            "Acquaintance",
+            "Suspect"
+        ],
+        [
+            "Publicity Rowling",
+            "Colleague"
+        ],
+        [
+            "Rowling",
+            "Acquaintance"
+        ],
+        [
+            "Theatrical Work David",
+            "Colleague",
+            "Friend"
+        ]
+    ]
+}

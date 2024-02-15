@@ -1,0 +1,28 @@
+{
+    "Gu Fei": [
+      ["Zhaonan", "friend of x"], 
+      ["Qi Qingli", "adoptive father of x"], 
+      ["Mrs. Ruan", "landlord of x"]
+    ],
+    "Qi Qingli": [
+      ["Gu Fei", "adoptive father of x"], 
+      ["Hei Li", "friend of x"], 
+      ["Mrs. Ruan", "friend of x"], 
+      ["Zhaonan", "friend of x"]
+    ],
+    "Hei Li": [
+      ["Qi Qingli", "friend of x"], 
+      ["Mrs. Ruan", "friend of x"], 
+      ["Zhaonan", "friend of x"]
+    ],
+    "Mrs. Ruan": [
+      ["Gu Fei", "landlord of x"], 
+      ["Qi Qingli", "friend of x"], 
+      ["Hei Li", "friend of x"]
+    ],
+    "Zhaonan": [
+      ["Gu Fei", "friend of x"], 
+      ["Hei Li", "friend of x"], 
+      ["Qi Qingli", "friend of x"]
+    ]
+}

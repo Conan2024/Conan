@@ -1,0 +1,39 @@
+{
+    "Ruan Guilang": [
+      ["Mrs. Ruan", "mother of x"], 
+      ["Zhaonan", "sibling of x"], 
+      ["Wangdi", "sibling of x"], 
+      ["Luo Xiucai", "informant of x"], 
+      ["Hei Li", "romantic relationships with x"]
+    ],
+    "Mrs. Ruan": [
+      ["Ruan Guilang", "child of x"], 
+      ["Zhaonan", "child of x"], 
+      ["Wangdi", "child of x"], 
+      ["Luo Xiucai", "informant of x"]
+    ],
+    "Zhaonan": [
+      ["Ruan Guilang", "sibling of x"], 
+      ["Wangdi", "sibling of x"]
+    ],
+    "Wangdi": [
+      ["Ruan Guilang", "sibling of x"], 
+      ["Zhaonan", "sibling of x"]
+    ],
+    "Luo Xiucai": [
+      ["Ruan Guilang", "informant of x"], 
+      ["Luo Younuo", "child of x"], 
+      ["Xue Yan", "child of x"]
+    ],
+    "Xue Yan": [
+      ["Ruan Guilang", "friend of x"], 
+      ["Luo Xiucai", "child of x"], 
+      ["Qi Gu Fei", "romantic relationships with x"]
+    ],
+    "Qi Gu Fei": [
+      ["Xue Yan", "romantic relationships with x"]
+    ],
+    "Hei Li": [
+      ["Ruan Guilang", "romantic relationships with x"]
+    ]
+}

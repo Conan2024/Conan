@@ -1,0 +1,22 @@
+{
+    "Jia Meili": [
+      ["Xiao Tiyu", "perpetrator of x, adversary of x"], 
+      ["Xue Meiniang", "wife of x"], 
+      ["Zhuang Qingchun", "adversary of x, suspect of x"]
+    ],
+    "Xiao Tiyu": [
+      ["Jia Meili", "victim of x, rival of x"], 
+      ["Xue Meiniang", "wife of x, lover of x"], 
+      ["Zhuang Qingchun", "same person as x (different reference), romantic relationships with x"]
+    ],
+    "Xue Meiniang": [
+      ["Jia Meili", "husband of x"], 
+      ["Xiao Tiyu", "husband of x, lover of x"], 
+      ["Zhuang Qingchun", "wife of x, lover of x"]
+    ],
+    "Zhuang Qingchun": [
+      ["Jia Meili", "adversary of x, suspect of x"], 
+      ["Xiao Tiyu", "same person as x (different reference), romantic relationships with x"], 
+      ["Xue Meiniang", "husband of x, lover of x"]
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "Wang You": [
+        [
+            "Du Zhong",
+            "friend of x, quest companion of x"
+        ],
+        [
+            "Xuan Can",
+            "friend of x, acquaintance of x"
+        ],
+        [
+            "Fu Xian",
+            "information receiver from x"
+        ],
+        [
+            "Lady Safflower",
+            "stranger to x"
+        ]
+    ],
+    "Du Zhong": [
+        [
+            "Wang You",
+            "friend of x, entrusted with x's item"
+        ],
+        [
+            "Xuan Can",
+            "colleague of x, subordinate of x"
+        ],
+        [
+            "Fu Xian",
+            "friend of x, subject of investigation for x"
+        ],
+        [
+            "Lady Safflower",
+            "extramarital affair with x, romantic relationships with x"
+        ],
+        [
+            "Fu Xian's son",
+            "child of x"
+        ]
+    ],
+    "Xuan Can": [
+        [
+            "Du Zhong",
+            "colleague of x, superior of x"
+        ],
+        [
+            "Wang You",
+            "friend of x, acquaintance of x"
+        ],
+        [
+            "Fu Xian",
+            "stranger to x"
+        ],
+        [
+            "Lady Safflower",
+            "stranger to x"
+        ]
+    ],
+    "Lady Safflower": [
+        [
+            "Du Zhong",
+            "extramarital affair with x, romantic relationships with x"
+        ],
+        [
+            "Fu Xian's son",
+            "mother of x"
+        ],
+        [
+            "Wang You",
+            "stranger to x"
+        ],
+        [
+            "Xuan Can",
+            "stranger to x"
+        ]
+    ],
+    "Fu Xian": [
+        [
+            "Du Zhong",
+            "friend of x, information receiver from x"
+        ],
+        [
+            "Wang You",
+            "informant of x"
+        ],
+        [
+            "Xuan Can",
+            "stranger to x"
+        ],
+        [
+            "Lady Safflower",
+            "mother in law of x"
+        ],
+        [
+            "Fu Xian's son",
+            "relative of x, possibly family of x"
+        ]
+    ],
+    "Fu Xian's son": [
+        [
+            "Du Zhong",
+            "father of x"
+        ],
+        [
+            "Lady Safflower",
+            "mother of x"
+        ],
+        [
+            "Fu Xian",
+            "relative of x, possibly family of x"
+        ],
+        [
+            "Wang You",
+            "stranger to x"
+        ],
+        [
+            "Xuan Can",
+            "stranger to x"
+        ]
+    ]
+}

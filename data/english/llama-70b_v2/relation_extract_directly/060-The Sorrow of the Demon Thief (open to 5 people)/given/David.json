@@ -1,0 +1,51 @@
+{
+    "Assistant Ella": [
+      ["Rowling", "good friend of x"], 
+      ["Gust", "object of x affection"]
+    ],
+    "David": [
+      ["Rowling", "former partner of x"], 
+      ["Gust", "rival of x"], 
+      ["Logistics Griff", "drinking buddy of x"]
+    ],
+    "Ella": [
+      ["Gust", "love interest of x"], 
+      ["Rowling", "friend of x"]
+    ],
+    "Griff": [
+      ["David", "drinking buddy of x"], 
+      ["Gust", "suspicious of x"]
+    ],
+    "Gust": [
+      ["David", "rival of x"], 
+      ["Rowling", "former partner of x"], 
+      ["Ella", "love interest of x"]
+    ],
+    "Kevin": [
+      ["Rowling", "unusual relationship of x"]
+    ],
+    "Logistics Griff": [
+      ["David", "suspicious of x"]
+    ],
+    "Magician Gust": [
+      ["David", "rival of x"], 
+      ["Rowling", "former partner of x"], 
+      ["Ella", "love interest of x"]
+    ],
+    "Publicity Rowling": [
+      ["David", "former partner of x"], 
+      ["Gust", "rival of x"]
+    ],
+    "Rowling": [
+      ["David", "former partner of x"], 
+      ["Gust", "rival of x"], 
+      ["Kevin", "unusual relationship of x"]
+    ],
+    "Security Kevin": [
+      ["Rowling", "unusual relationship of x"]
+    ],
+    "Theatrical Work David": [
+      ["Gust", "rival of x"], 
+      ["Rowling", "former partner of x"]
+    ]
+}

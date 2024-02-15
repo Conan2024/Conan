@@ -1,0 +1,74 @@
+{
+    "Jonathan Perry": [
+      ["Lucy Harrison", "cousin of x"], 
+      ["Daniel Perry", "son of x, nephew of x, cousin of x, romantic relationships with x, fiance of x"], 
+      ["Jacqueline Perry", "mother of x, dislike of x"], 
+      ["Davis Perry", "uncle of x, mentor of x, friend of x"], 
+      ["John Morgan", "friend of x"], 
+      ["Alex Harvey", "friend of x, classmate of x, business partner of x"], 
+      ["Marina", "cousin of x"]
+    ],
+    "Lucy Harrison": [
+      ["Jonathan Perry", "cousin of x"], 
+      ["Daniel Perry", "cousin of x"], 
+      ["Jacqueline Perry", "cousin of x"], 
+      ["Davis Perry", "cousin of x"], 
+      ["John Morgan", "cousin of x"], 
+      ["Alex Harvey", "cousin of x"], 
+      ["Marina", "cousin of x"]
+    ],
+    "Daniel Perry": [
+      ["Jonathan Perry", "father of x, uncle of x, relative of x, adversary of x, enemy of x"], 
+      ["Lucy Harrison", "cousin of x"], 
+      ["Jacqueline Perry", "father of x, mother of x"], 
+      ["Davis Perry", "uncle of x"], 
+      ["John Morgan", "cousin of x"], 
+      ["Alex Harvey", "friend of x, acquaintance of x"], 
+      ["Marina", "cousin of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Jonathan Perry", "son of x, dislike of x"], 
+      ["Lucy Harrison", "mother of x, disliked by x"], 
+      ["Daniel Perry", "mother of x, aunt of x"], 
+      ["Davis Perry", "mother of x, wife of x"], 
+      ["John Morgan", "mother of x, dislike of x, disliked by x"], 
+      ["Alex Harvey", "mother of x, aunt of x, dislike of x, disliked by x"], 
+      ["Marina", "adversary of x"]
+    ],
+    "Davis Perry": [
+      ["Jonathan Perry", "nephew of x, friend of x"], 
+      ["Lucy Harrison", "cousin of x"], 
+      ["Daniel Perry", "nephew of x, friend of x"], 
+      ["Jacqueline Perry", "father of x, husband of x"], 
+      ["John Morgan", "friend of x"], 
+      ["Alex Harvey", "friend of x"], 
+      ["Marina", "uncle of x, adversary of x"]
+    ],
+    "John Morgan": [
+      ["Jonathan Perry", "friend of x, victim of x"], 
+      ["Lucy Harrison", "cousin of x"], 
+      ["Daniel Perry", "cousin of x"], 
+      ["Jacqueline Perry", "son of x, brother of x, rival of x"], 
+      ["Davis Perry", "friend of x"], 
+      ["Alex Harvey", "friend of x, rival of x"], 
+      ["Marina", "friend of x, acquaintance of x"]
+    ],
+    "Alex Harvey": [
+      ["Jonathan Perry", "friend of x, classmate of x, business partner of x"], 
+      ["Lucy Harrison", "cousin of x"], 
+      ["Daniel Perry", "friend of x, acquaintance of x"], 
+      ["Jacqueline Perry", "husband of x, ex romantic relationships with x, rival of x, adversary of x, enemy of x"], 
+      ["Davis Perry", "friend of x"], 
+      ["John Morgan", "friend of x, rival of x"], 
+      ["Marina", "suspicious of x, adversary of x"]
+    ],
+    "Marina": [
+      ["Jonathan Perry", "cousin of x"], 
+      ["Lucy Harrison", "cousin of x, rival of x"], 
+      ["Daniel Perry", "cousin of x"], 
+      ["Jacqueline Perry", "adversary of x"], 
+      ["Davis Perry", "nephew of x, adversary of x"], 
+      ["John Morgan", "sister of x, aunt of x, adversary of x, enemy of x"], 
+      ["Alex Harvey", "suspicious of x, adversary of x"]
+    ]
+}

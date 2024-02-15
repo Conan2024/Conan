@@ -1,0 +1,42 @@
+{
+    "Xiu Renjie": [
+      ["Liu Qi", "ex romantic relationships with x, drug dealer of x, killed by x"], 
+      ["Han Yimu", "friend of x, dislikes x, harbors feelings of x killing liu qi"], 
+      ["Lin Ruotong", "employee of x"], 
+      ["Zhang Wenyuan", "subordinate of x"], 
+      ["Yang Chenlin", "ex romantic relationships with x, killed by liu qi of x"]
+    ],
+    "Liu Qi": [
+      ["Xiu Renjie", "ex romantic relationships with x, drug dealer of x, killed by x"], 
+      ["Han Yimu", "friend of x, dislikes x"], 
+      ["Lin Ruotong", "employee of x"], 
+      ["Zhang Wenyuan", "co worker of x"], 
+      ["Yang Chenlin", "ex romantic relationships with x, killed by x"]
+    ],
+    "Han Yimu": [
+      ["Xiu Renjie", "friend of x, drinks bad things about liu qi of x"], 
+      ["Liu Qi", "friend of x"]
+    ],
+    "Lin Ruotong": [
+      ["Xiu Renjie", "employer of x"], 
+      ["Liu Qi", "employee of x"], 
+      ["Zhang Wenyuan", "subordinate of x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Xiu Renjie", "superior of x"], 
+      ["Liu Qi", "co worker of x"], 
+      ["Lin Ruotong", "subordinate of x"]
+    ],
+    "Yang Chenlin": [
+      ["Xiu Renjie", "ex romantic relationships with x, killed by liu qi of x"], 
+      ["Liu Qi", "ex romantic relationships with x, killed by x"]
+    ],
+    "Han ChenGwu": [
+      ["Xiu Renjie", "friend of x"], 
+      ["Liu Qi", "helper of x"]
+    ],
+    "Zhang Erfu": [
+      ["Xiu Renjie", "perpetrator of x"], 
+      ["Zhang Wenyuan", "subject of x investigation for x"]
+    ]
+}

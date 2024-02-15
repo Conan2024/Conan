@@ -1,0 +1,69 @@
+{
+    "Zhao Wei": [
+      ["Zhao Wanlei", "father of x, enemy of x"], 
+      ["Yu Fei", "mother of x, deceased of x"], 
+      ["Emperor Guangxu", "biological father of x, superior of x"], 
+      ["Feng Shuangji", "acquaintance of x, protector of x"], 
+      ["Zhao Luoyi", "sister of x, alienated of x"], 
+      ["Zhao Qiuer", "sister's close fitting girl of x, unknown of x"], 
+      ["Zhang Yuyi or Imperial Physician Zhang", "medication provider of x, deceiver of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Zhao Wei", "daughter of x, enemy of x"], 
+      ["Yu Fei", "wife of x, deceased of x"], 
+      ["Emperor Guangxu", "master of x, superior of x"], 
+      ["Feng Shuangji", "subordinate of x, protector of x"], 
+      ["Zhao Luoyi", "daughter of x, alienated of x"], 
+      ["Zhao Qiuer", "daughter's close fitting girl of x, unknown of x"], 
+      ["Zhang Yuyi or Imperial Physician Zhang", "medication provider of x, deceiver of x"]
+    ],
+    "Yu Fei": [
+      ["Zhao Wei", "daughter of x, deceased of x"], 
+      ["Zhao Wanlei", "husband of x, enemy of x"], 
+      ["Emperor Guangxu", "lover of x, superior of x"], 
+      ["Feng Shuangji", "acquaintance of x, protector of x"], 
+      ["Zhao Luoyi", "daughter of x, alienated of x"], 
+      ["Zhao Qiuer", "daughter's close fitting girl of x, unknown of x"]
+    ],
+    "Emperor Guangxu": [
+      ["Zhao Wei", "biological daughter of x, orthodox heir"], 
+      ["Zhao Wanlei", "subordinate of x, enemy of x"], 
+      ["Yu Fei", "lover of x, deceased of x"], 
+      ["Feng Shuangji", "subordinate of x, protector of x"], 
+      ["Zhao Luoyi", "daughter of x, alienated of x"], 
+      ["Zhao Qiuer", "daughter's close fitting girl of x, unknown of x"]
+    ],
+    "Feng Shuangji": [
+      ["Zhao Wei", "acquaintance of x, protector of x"], 
+      ["Zhao Wanlei", "subordinate of x, enemy of x"], 
+      ["Yu Fei", "acquaintance of x, protector of x"], 
+      ["Emperor Guangxu", "superior of x, master of x"], 
+      ["Zhao Luoyi", "sister of x, alienated of x"], 
+      ["Zhao Qiuer", "sister's close fitting girl of x, unknown of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Zhao Wei", "sister of x, alienated of x"], 
+      ["Zhao Wanlei", "father of x, enemy of x"], 
+      ["Yu Fei", "mother of x, deceased of x"], 
+      ["Emperor Guangxu", "master of x, superior of x"], 
+      ["Feng Shuangji", "acquaintance of x, protector of x"], 
+      ["Zhao Qiuer", "close fitting girl of x, unknown of x"]
+    ],
+    "Zhao Qiuer": [
+      ["Zhao Wei", "sister's close fitting girl of x, unknown of x"], 
+      ["Zhao Wanlei", "father's close fitting girl of x, unknown of x"], 
+      ["Yu Fei", "mother's close fitting girl of x, deceased of x"], 
+      ["Emperor Guangxu", "master's close fitting girl of x, superior of x"], 
+      ["Feng Shuangji", "acquaintance of x, protector of x"], 
+      ["Zhao Luoyi", "close fitting girl of x, unknown of x"]
+    ],
+    "Zhang Yuyi or Imperial Physician Zhang": [
+      ["Zhao Wei", "medication provider of x, deceiver of x"], 
+      ["Zhao Wanlei", "medication provider of x, deceiver of x"], 
+      ["Yu Fei", "medication provider of x, deceased of x"], 
+      ["Emperor Guangxu", "medication provider of x, superior of x"], 
+      ["Feng Shuangji", "acquaintance of x, protector of x"], 
+      ["Zhao Luoyi", "medication provider of x, alienated of x"], 
+      ["Zhao Qiuer", "medication provider of x, unknown of x"]
+    ]
+}

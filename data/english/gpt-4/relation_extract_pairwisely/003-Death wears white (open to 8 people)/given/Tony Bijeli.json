@@ -1,0 +1,32 @@
+{
+    "Tony Bijeli": [
+        [
+            "Frank Bijeli",
+            "sibling of x, admired by x, helped by x, quest companion of x, brother of x"
+        ],
+        [
+            "Father Tom",
+            "admirer of x, helped by x, believer of x"
+        ]
+    ],
+    "Frank Bijeli": [
+        [
+            "Tony Bijeli",
+            "sibling of x, admirer of x, helper of x, quest companion of x, brother of x"
+        ],
+        [
+            "Father Tom",
+            "admired by x, patient of x, believer of x's powers"
+        ]
+    ],
+    "Father Tom": [
+        [
+            "Tony Bijeli",
+            "admired by x, helper of x"
+        ],
+        [
+            "Frank Bijeli",
+            "healer of x, admired by x"
+        ]
+    ]
+}

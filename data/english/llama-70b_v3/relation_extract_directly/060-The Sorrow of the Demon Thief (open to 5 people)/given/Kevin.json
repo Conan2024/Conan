@@ -1,0 +1,14 @@
+{
+    "Publicity Rowling": [
+      ["Kevin", "sister of x"], 
+      ["Gust", "thief of x"]
+    ],
+    "Gust": [
+      ["Kevin", "employer of x"], 
+      ["Rowling", "thief of x"]
+    ],
+    "Kevin": [
+      ["Rowling", "sister of x"], 
+      ["Gust", "employer of x"]
+    ]
+}

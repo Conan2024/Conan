@@ -1,0 +1,89 @@
+{
+    "Ling Xiao": [
+      ["Master", "colleague of x, employee of x, servant of x, business partner of x"], 
+      ["Eldest Senior Brother/Sister Du Zhong", "acquaintance of x, colleague of x, business partner of x, customer of x, helper of x"], 
+      ["Second Senior Uncle", "colleague of x, business partner of x, acquaintance of x"], 
+      ["VIPs", "acquaintance of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["Disciples of the Villa", "superior of x, master of x, teacher of x, mentor of x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x"], 
+      ["People from rivers and lakes posing as Wulin League messengers", "acquaintance of x, suspect of x"], 
+      ["Members of FENG", "superior of x, master of x, employer of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"]
+    ],
+    "Master": [
+      ["Ling Xiao", "teacher of x, employer of x, superior of x, mentor of x"], 
+      ["Eldest Senior Brother/Sister Du Zhong", "superior of x, teacher of x, mentor of x"], 
+      ["Second Senior Uncle", "teacher of x, mentor of x"], 
+      ["VIPs", "perpetrator of x, bully of x, attempted murderer of x"], 
+      ["Disciples of the Villa", "teacher of x, mentor of x, superior of x, employer of x"], 
+      ["People from rivers and lakes posing as Wulin League messengers", "employer of x, superior of x"], 
+      ["Members of FENG", "employer of x, superior of x"], 
+      ["Qianzhuang", "employer of x, master of x"]
+    ],
+    "Eldest Senior Brother/Sister Du Zhong": [
+      ["Ling Xiao", "acquaintance of x, colleague of x, business partner of x, customer of x, helper of x"], 
+      ["Master", "subordinate of x, student of x"], 
+      ["Second Senior Uncle", "acquaintance of x, colleague of x"], 
+      ["VIPs", "friend of x, colleague of x"], 
+      ["Disciples of the Villa", "master of x, teacher of x, superior of x, employer of x"], 
+      ["People from rivers and lakes posing as Wulin League messengers", "acquaintance of x"], 
+      ["Members of FENG", "friend of x, classmate of x"], 
+      ["Qianzhuang", "acquaintance of x, business partner of x, customer of x, informant of x, suspect of x"]
+    ],
+    "Second Senior Uncle": [
+      ["Ling Xiao", "colleague of x, business partner of x, acquaintance of x"], 
+      ["Master", "informant of x"], 
+      ["Eldest Senior Brother/Sister Du Zhong", "acquaintance of x, colleague of x"], 
+      ["VIPs", "acquaintance of x, business partner of x"], 
+      ["Disciples of the Villa", "teacher of x, master of x"], 
+      ["People from rivers and lakes posing as Wulin League messengers", "acquaintance of x, business partner of x"], 
+      ["Members of FENG", "employer of x, master of x, superior of x"], 
+      ["Qianzhuang", "acquaintance of x, business partner of x"]
+    ],
+    "VIPs": [
+      ["Ling Xiao", "acquaintance of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["Master", "suspect of x, adversary of x, enemy of x"], 
+      ["Eldest Senior Brother/Sister Du Zhong", "friend of x, colleague of x"], 
+      ["Second Senior Uncle", "acquaintance of x, business partner of x"], 
+      ["Disciples of the Villa", "master of x"], 
+      ["People from rivers and lakes posing as Wulin League messengers", "acquaintance of x"], 
+      ["Members of FENG", "master of x"], 
+      ["Qianzhuang", "master of x"]
+    ],
+    "Disciples of the Villa": [
+      ["Master", "student of x, subordinate of x, employee of x"], 
+      ["Eldest Senior Brother/Sister Du Zhong", "master of x, teacher of x, superior of x, employer of x"], 
+      ["Second Senior Uncle", "student of x"], 
+      ["VIPs", "master of x"], 
+      ["People from rivers and lakes posing as Wulin League messengers", "acquaintance of x, suspicious of x"], 
+      ["Members of FENG", "friend of x, acquaintance of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x"], 
+      ["Qianzhuang", "friend of x, colleague of x"]
+    ],
+    "People from rivers and lakes posing as Wulin League messengers": [
+      ["Ling Xiao", "acquaintance of x, suspect of x"], 
+      ["Master", "employee of x, subordinate of x"], 
+      ["Eldest Senior Brother/Sister Du Zhong", "acquaintance of x"], 
+      ["Second Senior Uncle", "acquaintance of x, business partner of x"], 
+      ["VIPs", "acquaintance of x"], 
+      ["Disciples of the Villa", "acquaintance of x, suspicious of x"], 
+      ["Members of FENG", "acquaintance of x, business partner of x"], 
+      ["Qianzhuang", "acquaintance of x, business partner of x"]
+    ],
+    "Members of FENG": [
+      ["Ling Xiao", "informant of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by x"], 
+      ["Master", "employee of x, colleague of x"], 
+      ["Eldest Senior Brother/Sister Du Zhong", "friend of x, classmate of x"], 
+      ["Second Senior Uncle", "employee of x, servant of x, colleague of x"], 
+      ["VIPs", "master of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by x, dislike of x, dislike of x, suspect of x, deceiver of x, betrayer of x, deceived by x, suspicious of x, suspect of x, adversary of x, enemy of x, rival of x, manipulator of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["Disciples of the Villa", "friend of x, acquaintance of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x"], 
+      ["People from rivers and lakes posing as Wulin League messengers", "acquaintance of x, business partner of x"], 
+      ["Qianzhuang", "perpetrator of x, victim of x"]
+    ],
+    "Qianzhuang": [
+      ["Master", "employee of x"], 
+      ["Eldest Senior Brother/Sister Du Zhong", "acquaintance of x, business partner of x, customer of x, informant of x, suspect of x"], 
+      ["Second Senior Uncle", "acquaintance of x, business partner of x"], 
+      ["VIPs", "master of x"], 
+      ["Disciples of the Villa", "friend of x, colleague of x"], 
+      ["People from rivers and lakes posing as Wulin League messengers", "acquaintance of x, business partner of x"], 
+      ["Members of FENG", "perpetrator of x, victim of x"]
+    ]
+}

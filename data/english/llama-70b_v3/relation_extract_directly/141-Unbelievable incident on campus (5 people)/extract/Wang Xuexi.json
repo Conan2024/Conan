@@ -1,0 +1,47 @@
+{
+    "Wang Xuexi": [
+      ["ZHANG EBA", "bully of x"], 
+      ["LI XIAODI", "acquaintance of x, classmate of x"], 
+      ["Hao Guimi", "acquaintance of x, classmate of x"], 
+      ["Lin Xiaohua", "fiancee of x, friend of x"], 
+      ["Zhao Shuai", "friend of x"]
+    ],
+    "ZHANG EBA": [
+      ["Wang Xuexi", "bully of x"], 
+      ["LI XIAODI", "minion of x"], 
+      ["Hao Guimi", "acquaintance of x, classmate of x"], 
+      ["Lin Xiaohua", "fiancee of x, friend of x"], 
+      ["Zhao Shuai", "friend of x"]
+    ],
+    "LI XIAODI": [
+      ["Wang Xuexi", "acquaintance of x, classmate of x"], 
+      ["ZHANG EBA", "minion of x"], 
+      ["Hao Guimi", "acquaintance of x, classmate of x"], 
+      ["Lin Xiaohua", "friend of x"]
+    ],
+    "Hao Guimi": [
+      ["Wang Xuexi", "acquaintance of x, classmate of x"], 
+      ["ZHANG EBA", "acquaintance of x, classmate of x"], 
+      ["LI XIAODI", "acquaintance of x, classmate of x"], 
+      ["Lin Xiaohua", "friend of x"]
+    ],
+    "Lin Xiaohua": [
+      ["Wang Xuexi", "fiancee of x, friend of x"], 
+      ["ZHANG EBA", "fiance of x, friend of x"], 
+      ["LI XIAODI", "friend of x"], 
+      ["Hao Guimi", "friend of x"]
+    ],
+    "Zhao Shuai": [
+      ["Wang Xuexi", "friend of x"], 
+      ["ZHANG EBA", "friend of x"], 
+      ["LI XIAODI", "acquaintance of x, classmate of x"], 
+      ["Hao Guimi", "acquaintance of x, classmate of x"]
+    ],
+    "Beethoven": [
+      ["Wang Xuexi", "acquaintance of x, classmate of x"], 
+      ["ZHANG EBA", "acquaintance of x, classmate of x"], 
+      ["LI XIAODI", "acquaintance of x, classmate of x"], 
+      ["Hao Guimi", "acquaintance of x, classmate of x"], 
+      ["Lin Xiaohua", "acquaintance of x, classmate of x"]
+    ]
+}

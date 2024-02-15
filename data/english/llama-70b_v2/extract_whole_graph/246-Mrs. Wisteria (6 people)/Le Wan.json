@@ -1,0 +1,52 @@
+{
+    "Le Wan": [
+      ["Yu Shangyong", "friend of x, confidant of x"], 
+      ["Mrs. Zhang", "employer of x, mentor of x"], 
+      ["Zhi Jun", "colleague of x, friend of x"], 
+      ["Yu Yancheng", "friend of x, confidant of x"], 
+      ["Ge Yueman", "acquaintance of x"], 
+      ["Lü Lusheng", "enemy of x, tormentor of x"], 
+      ["Xue Yufan", "weak young man of x, similar to xue dacai"]
+    ],
+    "Yu Shangyong": [
+      ["Le Wan", "friend of x, confidant of x"], 
+      ["Yu Yancheng", "brother of x, friend of x"], 
+      ["Mrs. Zhang", "caregiver of x, confidant of x"], 
+      ["Lü Lusheng", "enemy of x"]
+    ],
+    "Mrs. Zhang": [
+      ["Le Wan", "employer of x, mentor of x"], 
+      ["Yu Yancheng", "nephew of x, friend of x"], 
+      ["Yu Shangyong", "caregiver of x, confidant of x"], 
+      ["Ge Yueman", "colleague of x, friend of x"], 
+      ["Lü Lusheng", "enemy of x"]
+    ],
+    "Yu Yancheng": [
+      ["Le Wan", "friend of x, confidant of x"], 
+      ["Yu Shangyong", "brother of x, friend of x"], 
+      ["Mrs. Zhang", "aunt of x, mentor of x"], 
+      ["Ge Yueman", "colleague of x, friend of x"], 
+      ["Lü Lusheng", "enemy of x"]
+    ],
+    "Zhi Jun": [
+      ["Le Wan", "colleague of x, friend of x"], 
+      ["Mrs. Zhang", "mentor of x, friend of x"], 
+      ["Yu Yancheng", "friend of x"], 
+      ["Ge Yueman", "colleague of x"]
+    ],
+    "Ge Yueman": [
+      ["Le Wan", "acquaintance of x"], 
+      ["Mrs. Zhang", "colleague of x, friend of x"], 
+      ["Yu Yancheng", "friend of x"], 
+      ["Zhi Jun", "colleague of x"]
+    ],
+    "Lü Lusheng": [
+      ["Le Wan", "enemy of x, tormentor of x"], 
+      ["Yu Shangyong", "enemy of x"], 
+      ["Mrs. Zhang", "enemy of x"]
+    ],
+    "Xue Yufan": [
+      ["Le Wan", "weak young man of x, similar to xue dacai"], 
+      ["Yu Shangyong", "friend of x"]
+    ]
+}

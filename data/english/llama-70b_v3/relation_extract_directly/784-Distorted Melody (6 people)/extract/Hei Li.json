@@ -1,0 +1,50 @@
+{
+    "Hei Li": [
+      ["Qi Qingli", "adoptive father of x"], 
+      ["Qi Gu Fei", "adoptive brother of x"], 
+      ["Mrs. Ruan", "landlord of x"], 
+      ["Zhaonan", "friend of x, acquaintance of x"], 
+      ["Guilang", "adoptive brother of x, acquaintance of x"], 
+      ["Luo Xiucai", "acquaintance of x"], 
+      ["Luo Younuo", "acquaintance of x"], 
+      ["Xue Yan", "acquaintance of x"]
+    ],
+    "Qi Qingli": [
+      ["Qi Gu Fei", "son of x"]
+    ],
+    "Qi Gu Fei": [
+      ["Hei Li", "adoptive brother of x"], 
+      ["Qi Qingli", "father of x"]
+    ],
+    "Mrs. Ruan": [
+      ["Hei Li", "tenant of x"], 
+      ["Zhaonan", "daughter of x"], 
+      ["Guilang", "son of x"]
+    ],
+    "Zhaonan": [
+      ["Hei Li", "friend of x, acquaintance of x"], 
+      ["Mrs. Ruan", "mother of x"], 
+      ["Guilang", "brother of x"]
+    ],
+    "Guilang": [
+      ["Hei Li", "adoptive brother of x, acquaintance of x"], 
+      ["Mrs. Ruan", "son of x"], 
+      ["Zhaonan", "sister of x"]
+    ],
+    "Luo Xiucai": [
+      ["Hei Li", "acquaintance of x"], 
+      ["Luo Younuo", "father of x"]
+    ],
+    "Luo Younuo": [
+      ["Hei Li", "acquaintance of x"], 
+      ["Luo Xiucai", "son of x"]
+    ],
+    "Xue Yan": [
+      ["Hei Li", "acquaintance of x"], 
+      ["Luo Xiucai", "daughter of x"]
+    ],
+    "Wang Zimo": [
+      ["Hei Li", "boyfriend of x"], 
+      ["Zhaonan", "husband of x"]
+    ]
+}

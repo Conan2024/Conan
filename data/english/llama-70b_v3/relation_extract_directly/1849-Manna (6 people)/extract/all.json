@@ -1,0 +1,58 @@
+{
+    "Mrs. Tan": [
+      ["Liao Gongzi", "acquaintance of x"], 
+      ["Lv Mingran", "lover of x"], 
+      ["Shang Zhi", "nephew of x"], 
+      ["You", "daughter of x"], 
+      ["Tan Renchang", "husband of x"], 
+      ["Cai Qian", "friend of x"]
+    ],
+    "Liao Gongzi": [
+      ["Mrs. Tan", "acquaintance of x"]
+    ],
+    "Lv Mingran": [
+      ["Shang Zhi", "brother in law of x"]
+    ],
+    "Shang Zhi": [
+      ["Mrs. Tan", "nephew of x"], 
+      ["Lv Mingran", "brother in law of x"], 
+      ["Tan Renchang", "nephew of x"]
+    ],
+    "Hai You": [
+      ["Shang Zhi", "sister in law of x"]
+    ],
+    "You": [
+      ["Mrs. Tan", "daughter of x"], 
+      ["Lv Mingran", "brother in law of x"]
+    ],
+    "Tan Renchang": [
+      ["Lv Mingran", "business partner of x"]
+    ],
+    "Cai Qian": [
+      ["Lv Mingran", "business partner of x"]
+    ],
+    "Luo Mingsha": [
+      ["Mrs. Tan", "same person as x (different reference)"]
+    ],
+    "Rosa": [
+      ["Mrs. Tan", "same person as x (different identity)"]
+    ],
+    "Xinya": [
+      ["Lv Mingran", "same person as x (different reference)"]
+    ],
+    "Yuanheng Luo": [
+      ["Shang Zhi", "father of x"]
+    ],
+    "Wei Yangyao": [
+      ["Shang Zhi", "brother in law of x"]
+    ],
+    "Luo Hengli": [
+      ["Lv Mingran", "same person as x (different reference)"]
+    ],
+    "Cheng Ge": [
+      ["Cai Qian", "friend of x"]
+    ],
+    "A Ping": [
+      ["Mrs. Tan", "employee of x"]
+    ]
+}

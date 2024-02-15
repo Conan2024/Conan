@@ -1,0 +1,169 @@
+{
+    "Dr. Richard Berkeley": [
+        [
+            "Hans Li Morette",
+            "Laine Carter",
+            "Dr. Paloski",
+            "Sylvia Costa",
+            "Father Tom"
+        ],
+        [
+            "Laine Carter",
+            "Hans Li Morette",
+            "Dr. Paloski",
+            "Sylvia Costa",
+            "Father Tom"
+        ],
+        [
+            "Dr. Paloski",
+            "Relationship 1: Mentor-Mentee",
+            "Relationship 2: Supervisor-Intern"
+        ],
+        [
+            "Sylvia Costa",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Father Tom",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect"
+        ]
+    ],
+    "Hans Li Morette": [
+        [
+            "Dr. Richard Berkeley",
+            "Laine Carter"
+        ],
+        [
+            "Laine Carter",
+            "Relationship 1: Colleague",
+            "Relationship 2: Suspect in investigation"
+        ],
+        [
+            "Dr. Paloski",
+            "Colleague",
+            "Superior"
+        ],
+        [
+            "Sylvia Costa",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Father Tom",
+            "relationship 1: Mentorship",
+            "relationship 2: Suspicion"
+        ]
+    ],
+    "Laine Carter": [
+        [
+            "Dr. Richard Berkeley",
+            "Hans Li Morette",
+            "Dr. Paloski",
+            "Sylvia Costa",
+            "Father Tom"
+        ],
+        [
+            "Hans Li Morette",
+            "Relationship 1: Colleague",
+            "Relationship 2: Suspect in investigation"
+        ],
+        [
+            "Dr. Paloski",
+            "Hans Li Morette",
+            "Sylvia Costa",
+            "Father Tom",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Sylvia Costa",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Father Tom",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Dr. Paloski": [
+        [
+            "Dr. Richard Berkeley",
+            "Relationship 1: Mentor-Mentee",
+            "Relationship 2: Supervisor-Intern"
+        ],
+        [
+            "Hans Li Morette",
+            "Colleague",
+            "Superior"
+        ],
+        [
+            "Laine Carter",
+            "Hans Li Morette",
+            "Sylvia Costa",
+            "Father Tom",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Sylvia Costa",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Father Tom",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Sylvia Costa": [
+        [
+            "Dr. Richard Berkeley",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Hans Li Morette",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Laine Carter",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Dr. Paloski",
+            "Friend",
+            "Colleague"
+        ],
+        [
+            "Father Tom",
+            "Friend"
+        ]
+    ],
+    "Father Tom": [
+        [
+            "Dr. Richard Berkeley",
+            "relationship 1: Acquaintance",
+            "relationship 2: Suspect"
+        ],
+        [
+            "Hans Li Morette",
+            "relationship 1: Mentorship",
+            "relationship 2: Suspicion"
+        ],
+        [
+            "Laine Carter",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Dr. Paloski",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Sylvia Costa",
+            "Friend"
+        ]
+    ]
+}

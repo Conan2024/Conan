@@ -1,0 +1,21 @@
+{
+    "Zhao Wei": [
+      ["Zhao Wanlei", "father of x, enemy of x"], 
+      ["Zhao Luoyi", "sister of x"], 
+      ["Zhao Qiuer", "acquaintance of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Zhao Wei", "father of x, enemy of x"], 
+      ["Feng Shuangji", "brother of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Zhao Wei", "sister of x"], 
+      ["Zhao Wanlei", "father of x, enemy of x"]
+    ],
+    "Feng Shuangji": [
+      ["Zhao Wanlei", "brother of x"]
+    ],
+    "Zhao Qiuer": [
+      ["Zhao Wei", "acquaintance of x"]
+    ]
+}

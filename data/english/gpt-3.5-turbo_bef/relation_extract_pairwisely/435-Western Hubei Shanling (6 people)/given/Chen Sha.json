@@ -1,0 +1,80 @@
+{
+    "Zhou Chensha": [
+      ["Zhou Jingyu", "sibling of x, lover of x, child of x"], 
+      ["Zhou Yuntang", "father of x"], 
+      ["Zheng Changmin", "sister in law of x, daughter in law of x"], 
+      ["Ba Mansion Mountain", "friend of x, quest companion of x, lover of x"], 
+      ["Ba Falcon", "lover of x, friend of x, classmate of x, romantic relationships with x, secret lover of x"], 
+      ["Li Demu", "friend of x, brother of x, classmate of x"], 
+      ["Gan Ma", "friend of x, romantic relationships with x, girlfriend of x"]
+    ],
+    "Zhou Jingyu": [
+      ["Zhou Chensha", "sibling of x, lover of x"], 
+      ["Zhou Yuntang", "brother of x, father in law of x"], 
+      ["Zheng Changmin", "brother in law of x"], 
+      ["Wang Shi", "romantic relationships with x, wife of x"], 
+      ["Ba Mansion Mountain", "brother of x, student of x"], 
+      ["Ba Falcon", "friend of x"], 
+      ["Li Demu", "brother of x"], 
+      ["Gan Ma", "friend of x, student of x"]
+    ],
+    "Zhou Yuntang": [
+      ["Zhou Chensha", "daughter of x"], 
+      ["Zhou Jingyu", "brother of x, son in law of x"], 
+      ["Zheng Changmin", "father of x"], 
+      ["Wang Shi", "acquaintance of x, business partner of x"], 
+      ["Ba Mansion Mountain", "father of x"], 
+      ["Ba Falcon", "friend of x, romantic relationships with x"], 
+      ["Li Demu", "friend of x"]
+    ],
+    "Zheng Changmin": [
+      ["Zhou Chensha", "brother in law of x, mother in law of x"], 
+      ["Zhou Jingyu", "brother in law of x"], 
+      ["Zhou Yuntang", "son of x"], 
+      ["Ba Mansion Mountain", "friend of x"], 
+      ["Ba Falcon", "friend of x, helper of x"], 
+      ["Li Demu", "father of x, friend of x"], 
+      ["Gan Ma", "romantic relationships with x"]
+    ],
+    "Wang Shi": [
+      ["Zhou Jingyu", "romantic relationships with x, husband of x"], 
+      ["Zhou Yuntang", "acquaintance of x, business partner of x"], 
+      ["Ba Falcon", "brother of x, lover of x, uncle of x"], 
+      ["Li Demu", "friend of x, employer of x, mentor of x"], 
+      ["Gan Ma", "friend of x, mother of x, employee of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Zhou Chensha", "friend of x, quest companion of x, lover of x"], 
+      ["Zhou Jingyu", "brother of x, mentor of x"], 
+      ["Zhou Yuntang", "father in law of x"], 
+      ["Zheng Changmin", "friend of x"], 
+      ["Li Demu", "brother of x, friend of x, father in law of x"]
+    ],
+    "Ba Falcon": [
+      ["Zhou Chensha", "lover of x, friend of x, classmate of x, romantic relationships with x, secret lover of x"], 
+      ["Zhou Jingyu", "friend of x"], 
+      ["Zhou Yuntang", "romantic relationships with x"], 
+      ["Zheng Changmin", "friend of x, helper of x"], 
+      ["Wang Shi", "brother of x, lover of x, nephew of x"], 
+      ["Li Demu", "friend of x, romantic relationships with x, adversary of x"], 
+      ["Gan Ma", "romantic relationships with x, employer of x"]
+    ],
+    "Li Demu": [
+      ["Zhou Chensha", "friend of x, brother of x, classmate of x"], 
+      ["Zhou Jingyu", "sibling of x"], 
+      ["Zhou Yuntang", "friend of x"], 
+      ["Zheng Changmin", "friend of x"], 
+      ["Wang Shi", "friend of x, employee of x, student of x"], 
+      ["Ba Mansion Mountain", "sister of x, friend of x, son in law of x"], 
+      ["Ba Falcon", "friend of x, romantic relationships with x, adversary of x"], 
+      ["Gan Ma", "ex husband of x"]
+    ],
+    "Gan Ma": [
+      ["Zhou Chensha", "friend of x, romantic relationships with x, boyfriend of x"], 
+      ["Zhou Jingyu", "friend of x, teacher of x"], 
+      ["Zheng Changmin", "romantic relationships with x"], 
+      ["Wang Shi", "friend of x, daughter of x, employer of x"], 
+      ["Ba Falcon", "romantic relationships with x, employee of x"], 
+      ["Li Demu", "ex wife of x"]
+    ]
+}

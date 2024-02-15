@@ -1,0 +1,44 @@
+{
+    "Feng": [
+      ["Lu Ying", "acquaintance of x, suspect of x"], 
+      ["Martial Alliance's Messenger", "colleague of x, business partner of x"], 
+      ["Ren Dong", "friend of x, business partner of x"], 
+      ["Song Jie", "superior of x, colleague of x, mentor of x, apprentice of x"], 
+      ["Xuan Can", "superior of x, employer of x"]
+    ],
+    "Lu Ying": [
+      ["Feng", "acquaintance of x, suspect of x"], 
+      ["Martial Alliance's Messenger", "suspicious of x, adversary of x"], 
+      ["Ren Dong", "friend and acquaintance of x, business partner of x"], 
+      ["Song Jie", "acquaintance of x, colleague of x"], 
+      ["Xuan Can", "acquaintance of x, suspicious of x"]
+    ],
+    "Martial Alliance's Messenger": [
+      ["Feng", "colleague of x, business partner of x"], 
+      ["Lu Ying", "suspicious of x, adversary of x"], 
+      ["Ren Dong", "friend of x, business partner of x"], 
+      ["Song Jie", "friend of x, acquaintance of x"], 
+      ["Xuan Can", "friend of x, acquaintance of x"]
+    ],
+    "Ren Dong": [
+      ["Feng", "friend of x, business partner of x"], 
+      ["Lu Ying", "friend and acquaintance of x, business partner of x"], 
+      ["Martial Alliance's Messenger", "friend of x, business partner of x"], 
+      ["Song Jie", "friend of x, business partner of x"], 
+      ["Xuan Can", "friend of x, fellow member of x feng"]
+    ],
+    "Song Jie": [
+      ["Feng", "subordinate of x, colleague of x, mentee of x, apprentice of x"], 
+      ["Lu Ying", "acquaintance of x, colleague of x"], 
+      ["Martial Alliance's Messenger", "friend of x, acquaintance of x"], 
+      ["Ren Dong", "friend of x, business partner of x"], 
+      ["Xuan Can", "acquaintance of x, colleague of x"]
+    ],
+    "Xuan Can": [
+      ["Feng", "superior of x, employer of x"], 
+      ["Lu Ying", "acquaintance of x, suspect of x"], 
+      ["Martial Alliance's Messenger", "friend of x, acquaintance of x"], 
+      ["Ren Dong", "friend of x, fellow member of x feng"], 
+      ["Song Jie", "acquaintance of x, colleague of x"]
+    ]
+}

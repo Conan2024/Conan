@@ -1,0 +1,59 @@
+{
+    "Li Gaobai": [
+      ["Professor Zhou", "mentor of x li gaobai"], 
+      ["Li Demu", "father of x li gaobai"], 
+      ["Mountain Spirit", "informant of x li gaobai"], 
+      ["Li Liangsong", "student of x li gaobai"], 
+      ["Gui Yin", "admired by li gaobai of x"], 
+      ["Gan Ma", "follower of x li gaobai"], 
+      ["Daughter of Ba Mansion Mountain", "acquaintance of x li gaobai"], 
+      ["Ruya", "romantic relationships with li gaobai of x"], 
+      ["Falcon", "friend of x li gaobai"], 
+      ["Zheng Hanzhen", "romantic relationships with li gaobai of x"]
+    ],
+    "Professor Zhou": [
+      ["Li Gaobai", "mentor of x professor zhou"]
+    ],
+    "Li Demu": [
+      ["Li Gaobai", "father of x li gaobai"]
+    ],
+    "Mountain Spirit": [
+      ["Li Gaobai", "informant of x mountain spirit"]
+    ],
+    "Li Liangsong": [
+      ["Li Gaobai", "student of x li gaobai"]
+    ],
+    "Gui Yin": [
+      ["Li Gaobai", "admired by gui yin of x"], 
+      ["Ruya", "husband of x gui yin"], 
+      ["Gan Ma", "brother of x gui yin"], 
+      ["Daughter of Ba Mansion Mountain", "fiance of x gui yin"], 
+      ["Chen Sha", "jealous of x gui yin"], 
+      ["Ba Mansion Mountain", "enemy of x gui yin"]
+    ],
+    "Gan Ma": [
+      ["Li Gaobai", "admired by gan ma of x"], 
+      ["Gui Yin", "brother of x gan ma"]
+    ],
+    "Daughter of Ba Mansion Mountain": [
+      ["Li Gaobai", "acquaintance of x daughter of x ba mansion mountain"], 
+      ["Gui Yin", "fiancee of x daughter of x ba mansion mountain"]
+    ],
+    "Ruya": [
+      ["Li Gaobai", "romantic relationships with ruya of x"], 
+      ["Gui Yin", "wife of x ruya"], 
+      ["Falcon", "brother in law of x ruya"]
+    ],
+    "Falcon": [
+      ["Li Gaobai", "friend of x falcon"], 
+      ["Ruya", "brother in law of x falcon"]
+    ],
+    "Zheng Hanzhen": [
+      ["Li Gaobai", "romantic relationships with zheng hanzhen of x"]
+    ],
+    "Chen Sha": [
+      ["Gui Yin", "ex romantic relationships with chen sha"], 
+      ["Gan Ma", "jealous of x chen sha"], 
+      ["Li Demu", "victim of x chen sha"]
+    ]
+}

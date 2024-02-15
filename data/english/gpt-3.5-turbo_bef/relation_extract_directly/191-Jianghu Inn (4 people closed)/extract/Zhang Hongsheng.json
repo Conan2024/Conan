@@ -1,0 +1,26 @@
+{
+    "Zhang Hongsheng": [
+      ["Meng Sanchun", "wife of x"], 
+      ["Hong Changlie", "father of x"], 
+      ["Hong Jiangshui", "employee of x"]
+    ],
+    "Meng Sanchun": [
+      ["Zhang Hongsheng", "husband of x"], 
+      ["Zhang Jinyin", "brother of x"], 
+      ["Zhang Jinshan", "brother of x"]
+    ],
+    "Hong Changlie": [
+      ["Zhang Hongsheng", "father of x"]
+    ],
+    "Zhang Jinyin": [
+      ["Zhang Hongsheng", "brother of x"], 
+      ["Meng Sanchun", "brother of x"]
+    ],
+    "Zhang Jinshan": [
+      ["Zhang Hongsheng", "brother of x"], 
+      ["Meng Sanchun", "brother of x"]
+    ],
+    "Hong Jiangshui": [
+      ["Zhang Hongsheng", "employee of x"]
+    ]
+}

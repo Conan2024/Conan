@@ -1,0 +1,33 @@
+{
+    "Xiu renjie": [
+      ["Hong Zilian", "acquaintance of x"], 
+      ["Han Yimu", "friend of x"], 
+      ["Lin Ruotong", "subordinate of x"]
+    ],
+    "Liu Qi": [
+      ["Xiu renjie", "acquaintance of x"], 
+      ["Hong Zilian", "subordinate of x"], 
+      ["Han Yimu", "acquaintance of x"]
+    ],
+    "Hong Zilian": [
+      ["Xiu renjie", "acquaintance of x"], 
+      ["Liu Qi", "subordinate of x"], 
+      ["Han Yimu", "acquaintance of x"]
+    ],
+    "Han Yimu": [
+      ["Xiu renjie", "friend of x"], 
+      ["Liu Qi", "acquaintance of x"], 
+      ["Hong Zilian", "acquaintance of x"]
+    ],
+    "ZHANG WENYUAN": [
+      ["Lin Ruotong", "subordinate of x"]
+    ],
+    "Yang Chenlin": [
+      ["Liu Qi", "victim of x"], 
+      ["Xiu renjie", "acquaintance of x"]
+    ],
+    "Han ChenGwu": [
+      ["Xiu renjie", "acquaintance of x"], 
+      ["Liu Qi", "acquaintance of x"]
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "Hong Jiangshui": [
+        [
+            "Hong Zhaizhu",
+            "child of x, dislike of x"
+        ],
+        [
+            "Meng Sanchun",
+            "colleague of Meng Sanchun, murderer of Meng Sanchun, thief of Meng Sanchun"
+        ],
+        [
+            "Zhang Jinyin",
+            "acquaintance of x, colleague of x, co-worker under the same boss (Zhang Hongsheng)"
+        ],
+        [
+            "Zhang Hongsheng",
+            "employee of x, acquaintance of x"
+        ],
+        [
+            "Cai Siniang",
+            "co-worker of x, admirer of x, deceiver of x"
+        ]
+    ],
+    "Hong Zhaizhu": [
+        [
+            "Hong Jiangshui",
+            "father of x, disliked by x"
+        ],
+        [
+            "Meng Sanchun",
+            "victim of x"
+        ],
+        [
+            "Zhang Jinyin",
+            "father of x, business partner of x"
+        ],
+        [
+            "Zhang Hongsheng",
+            "possibly family of x"
+        ],
+        [
+            "Hong Jiangshui",
+            "father of x"
+        ]
+    ],
+    "Meng Sanchun": [
+        [
+            "Hong Jiangshui",
+            "colleague of Hong Jiangshui, victim of Hong Jiangshui"
+        ],
+        [
+            "Hong Zhaizhu",
+            "perpetrator of x"
+        ],
+        [
+            "Zhang Jinyin",
+            "business partner of x, friend of x"
+        ],
+        [
+            "Zhang Hongsheng",
+            "business partner of x, victim of x"
+        ],
+        [
+            "Cai Siniang",
+            "colleague of x, acquaintance of x"
+        ]
+    ],
+    "Zhang Jinyin": [
+        [
+            "Hong Jiangshui",
+            "acquaintance of x, colleague of x, co-worker under the same boss (Zhang Hongsheng)"
+        ],
+        [
+            "Hong Zhaizhu",
+            "child of x, business partner of x"
+        ],
+        [
+            "Meng Sanchun",
+            "business partner of x, friend of x"
+        ],
+        [
+            "Zhang Hongsheng",
+            "business partner of x, friend of x"
+        ],
+        [
+            "Cai Siniang",
+            "business partner of x"
+        ]
+    ],
+    "Zhang Hongsheng": [
+        [
+            "Hong Jiangshui",
+            "employer of x, information receiver from x"
+        ],
+        [
+            "Hong Zhaizhu",
+            "possibly family of x"
+        ],
+        [
+            "Meng Sanchun",
+            "business partner of x"
+        ],
+        [
+            "Zhang Jinyin",
+            "business partner of x, friend of x"
+        ],
+        [
+            "Cai Siniang",
+            "business partner of x, co-wives of x"
+        ]
+    ],
+    "Cai Siniang": [
+        [
+            "Hong Jiangshui",
+            "co-worker of x, admired by x, deceived by x"
+        ],
+        [
+            "Hong Jiangshui",
+            "acquaintance of x, romantically rejected by x"
+        ],
+        [
+            "Meng Sanchun",
+            "colleague of x, acquaintance of x"
+        ],
+        [
+            "Zhang Jinyin",
+            "business partner of x"
+        ],
+        [
+            "Zhang Hongsheng",
+            "business partner of x, acquaintance of x"
+        ]
+    ]
+}

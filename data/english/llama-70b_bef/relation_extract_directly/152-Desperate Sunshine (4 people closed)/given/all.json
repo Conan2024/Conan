@@ -1,0 +1,27 @@
+{
+    "Shipyard Worker Wang": [
+      ["First Mate Zhang", "acquaintance of x"], 
+      ["Ship Doctor Ling", "acquaintance of x"], 
+      ["Worker Wang", "father of x"], 
+      ["Boss Yang", "acquaintance of x, enemy of x"]
+    ],
+    "First Mate Zhang": [
+      ["Shipyard Worker Wang", "subordinate of x"], 
+      ["Ship Doctor Ling", "acquaintance of x, informant of x"], 
+      ["Boss Yang", "business partner of x, deceiver of x, enemy of x"]
+    ],
+    "Ship Doctor Ling": [
+      ["Shipyard Worker Wang", "acquaintance of x"], 
+      ["First Mate Zhang", "acquaintance of x, informant of x"], 
+      ["Worker Wang", "boyfriend of x, fiance of x"]
+    ],
+    "Worker Wang": [
+      ["First Mate Zhang", "father of x"], 
+      ["Shipyard Worker Wang", "father of x"], 
+      ["Ship Doctor Ling", "girlfriend of x, fiance of x"]
+    ],
+    "Boss Yang": [
+      ["Shipyard Worker Wang", "acquaintance of x, enemy of x"], 
+      ["First Mate Zhang", "business partner of x, enemy of x"]
+    ]
+}

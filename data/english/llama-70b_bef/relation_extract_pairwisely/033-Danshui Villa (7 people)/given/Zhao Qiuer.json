@@ -1,0 +1,39 @@
+{
+    "Feng Shuangji": [
+      ["Feng Zhu", "employer of x"], 
+      ["Zhao Luoyi", "servant of x, friend of x"]
+    ],
+    "Feng Zhu": [
+      ["Feng Shuangji", "father of x"], 
+      ["Qi Yue", "servant of x"], 
+      ["Zhao Luoyi", "subordinate of x"], 
+      ["Zhao Qiuer", "subordinate of x"], 
+      ["Zhao Wanlei", "master of x, employer of x, mentor of x, friend of x"]
+    ],
+    "Qi Yue": [
+      ["Feng Zhu", "master of x"], 
+      ["Zhao Luoyi", "friend of x, mentor of x"], 
+      ["Zhao Wanlei", "friend of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Feng Shuangji", "servant of x, friend of x"], 
+      ["Feng Zhu", "superior of x, master of x"], 
+      ["Qi Yue", "friend of x, mentor of x"], 
+      ["Zhao Qiuer", "sister of x, friend of x"], 
+      ["Zhao Wei", "sister of x, friend of x"]
+    ],
+    "Zhao Qiuer": [
+      ["Feng Zhu", "master of x"], 
+      ["Zhao Luoyi", "sister of x, friend of x"], 
+      ["Zhao Wanlei", "employer of x, master of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Feng Zhu", "servant of x, employee of x"], 
+      ["Qi Yue", "friend of x"], 
+      ["Zhao Qiuer", "employer of x, master of x"]
+    ],
+    "Zhao Wei": [
+      ["Feng Zhu", "master of x"], 
+      ["Zhao Luoyi", "brother of x"]
+    ]
+}

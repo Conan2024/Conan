@@ -1,0 +1,44 @@
+{
+    "Chen Qian": [
+      ["Chen Zijing", "husband of x, same person as x (different identity)"], 
+      ["Li Qinren", "husband of x, lover of x"], 
+      ["Li Yan", "husband of x, lover of x"], 
+      ["Li Zhong", "husband of x, lover of x"], 
+      ["Madam Li or Li family", "wife of x"]
+    ],
+    "Chen Zijing": [
+      ["Chen Qian", "father of x, same person as x (different reference)"], 
+      ["Li Qinren", "father in law of x, master of x"], 
+      ["Li Yan", "brother in law of x, son in law of x"], 
+      ["Li Zhong", "husband of x, same person as x (different identity)"], 
+      ["Madam Li or Li family", "wife of x"]
+    ],
+    "Li Qinren": [
+      ["Chen Qian", "wife of x, father of x"], 
+      ["Chen Zijing", "father in law of x, master of x"], 
+      ["Li Yan", "son of x li qinren, brother of x li yan, same person as li yan (different reference) of x"], 
+      ["Li Zhong", "father of x, master of x"], 
+      ["Madam Li or Li family", "father of x"]
+    ],
+    "Li Yan": [
+      ["Chen Qian", "wife of x, lover of x"], 
+      ["Chen Zijing", "brother in law of x, son in law of x"], 
+      ["Li Qinren", "brother of x li qinren, son of x li qinren, same person as li qinren (different reference) of x"], 
+      ["Li Zhong", "brother of x, twin brother of x"], 
+      ["Madam Li or Li family", "brother of x, son of x"]
+    ],
+    "Li Zhong": [
+      ["Chen Qian", "wife of x, lover of x"], 
+      ["Chen Zijing", "wife of x, same person as x (different reference)"], 
+      ["Li Qinren", "son of x, disciple of x"], 
+      ["Li Yan", "brother of x, twin brother of x"], 
+      ["Madam Li or Li family", "brother of x, son of x"]
+    ],
+    "Madam Li or Li family": [
+      ["Chen Qian", "mother of x"], 
+      ["Chen Zijing", "mother of x"], 
+      ["Li Qinren", "mother of x"], 
+      ["Li Yan", "mother of x, wife of x"], 
+      ["Li Zhong", "mother of x, wife of x"]
+    ]
+}

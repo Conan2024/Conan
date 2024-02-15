@@ -1,0 +1,26 @@
+{
+    "Richard Berkeley": [
+      ["Hans Li Morette", "colleague of x"], 
+      ["Elaine Carter", "employee of x"], 
+      ["Dr. Paloski", "employee of x"], 
+      ["Sylvia Costa", "employee of x"], 
+      ["Father Tom", "friend of x"]
+    ],
+    "Hans Li Morette": [
+      ["Richard Berkeley", "colleague of x"], 
+      ["Elaine Carter", "colleague of x"]
+    ],
+    "Elaine Carter": [
+      ["Richard Berkeley", "employee of x"], 
+      ["Hans Li Morette", "colleague of x"]
+    ],
+    "Dr. Paloski": [
+      ["Richard Berkeley", "employee of x"]
+    ],
+    "Sylvia Costa": [
+      ["Richard Berkeley", "employee of x"]
+    ],
+    "Father Tom": [
+      ["Richard Berkeley", "friend of x"]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "Zi Su": [
+      ["Master", "teacher of x, suspicious of x"], 
+      ["Xuan Bingjiao", "friend of x, business partner of x"]
+    ],
+    "Master": [
+      ["Zi Su", "teacher of x, suspicious of x"], 
+      ["Xuan Bingjiao", "rival of x, enemy of x"]
+    ],
+    "Xuan Bingjiao": [
+      ["Zi Su", "friend of x, business partner of x"], 
+      ["Master", "rival of x, enemy of x"]
+    ]
+}

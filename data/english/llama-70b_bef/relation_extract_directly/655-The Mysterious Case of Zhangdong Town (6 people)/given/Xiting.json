@@ -1,0 +1,32 @@
+{
+    "Mu Xiting": [
+      ["Yang Shuixun", "acquaintance of x, suspect of x"], 
+      ["Gu Chumeng", "husband of x"], 
+      ["Minxi", "friend of x, classmate of x"], 
+      ["Shen Wusheng", "helper of x"], 
+      ["Zhang Fanghao", "father in law of x"]
+    ],
+    "Gu Chumeng": [
+      ["Mu Xiting", "wife of x"], 
+      ["Yang Shuixun", "acquaintance of x"]
+    ],
+    "Minxi": [
+      ["Mu Xiting", "friend of x, classmate of x"], 
+      ["Yang Shuixun", "acquaintance of x"]
+    ],
+    "Yang Shuixun": [
+      ["Mu Xiting", "acquaintance of x"], 
+      ["Gu Chumeng", "friend of x"]
+    ],
+    "Xinger": [
+      ["Minxi", "friend of x, classmate of x"]
+    ],
+    "Shen Wusheng": [
+      ["Mu Xiting", "helper of x"], 
+      ["Minxi", "friend of x, classmate of x"]
+    ],
+    "Zhang Fanghao": [
+      ["Mu Xiting", "father in law of x"], 
+      ["Gu Chumeng", "son in law of x"]
+    ]
+}

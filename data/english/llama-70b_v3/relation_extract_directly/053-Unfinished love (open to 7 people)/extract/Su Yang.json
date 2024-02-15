@@ -1,0 +1,40 @@
+{
+    "Su Yang": [
+      ["Lin Xi", "lover of x"], 
+      ["Dean Lin", "master of x"], 
+      ["Gu Qing", "rival in love of x"]
+    ],
+    "Lin Tong": [
+      ["Su Yang", "lover of x"], 
+      ["Dean Lin", "father of x, murderer of x"], 
+      ["Gu Qing", "rival in love of x"]
+    ],
+    "Lin Xi": [
+      ["Su Yang", "lover of x"], 
+      ["Dean Lin", "father of x, murderer of x"], 
+      ["Gu Qing", "rival in love of x"]
+    ],
+    "Dean Lin": [
+      ["Su Yang", "student of x"], 
+      ["Lin Tong", "daughter of x"], 
+      ["Lin Xi", "daughter of x"], 
+      ["Gu Qing", "business partner of x"]
+    ],
+    "Gu Qing": [
+      ["Su Yang", "rival in love of x, enemy of x"], 
+      ["Dean Lin", "business partner of x"]
+    ],
+    "Shen Cheng": [
+      ["Su Yang", "acquaintance of x"], 
+      ["Lin Tong", "acquaintance of x"], 
+      ["Lin Xi", "acquaintance of x"], 
+      ["Dean Lin", "master of x, employer of x"], 
+      ["Gu Qing", "acquaintance of x"]
+    ],
+    "Gu Ming": [
+      ["Su Yang", "murderer of x, enemy of x"], 
+      ["Lin Xi", "enemy of x"], 
+      ["Dean Lin", "business partner of x"], 
+      ["Shen Cheng", "acquaintance of x"]
+    ]
+}

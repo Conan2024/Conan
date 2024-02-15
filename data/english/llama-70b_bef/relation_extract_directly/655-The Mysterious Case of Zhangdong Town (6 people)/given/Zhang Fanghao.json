@@ -1,0 +1,37 @@
+{
+    "Zhang Fanghao": [
+      ["Caiya", "lover of x"], 
+      ["Yang Shuixun", "friend of x"], 
+      ["Sai Chenyu", "wife of x"], 
+      ["Lan Rui", "daughter of x, friend of x"]
+    ],
+    "Caiya": [
+      ["Zhang Fanghao", "lover of x"], 
+      ["Lan Rui", "friend of x"]
+    ],
+    "Yang Shuixun": [
+      ["Zhang Fanghao", "friend of x"], 
+      ["Minxi", "daughter of x"]
+    ],
+    "Sai Chenyu": [
+      ["Zhang Fanghao", "wife of x"]
+    ],
+    "Lan Rui": [
+      ["Zhang Fanghao", "daughter of x, friend of x"], 
+      ["Xiting", "friend of x"]
+    ],
+    "Xiting": [
+      ["Lan Rui", "friend of x"]
+    ],
+    "Minxi": [
+      ["Yang Shuixun", "daughter of x"], 
+      ["Lan Rui", "friend of x"]
+    ],
+    "Gu Chumeng": [
+      ["Xiting", "friend of x"], 
+      ["Yang Shuixun", "friend of x"]
+    ],
+    "Shen Wusheng": [
+      ["Xiting", "friend of x"]
+    ]
+}

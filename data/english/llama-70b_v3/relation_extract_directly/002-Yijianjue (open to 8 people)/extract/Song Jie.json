@@ -1,0 +1,22 @@
+{
+    "Song Jie": [
+      ["Xuan Bingjiao", "messenger of x, employer of x"], 
+      ["Ren Dong", "friend of x, business partner of x"]
+    ],
+    "Xuan Bingjiao": [
+      ["Song Jie", "employer of x, superior of x"], 
+      ["Lu Ying", "suspicious of x, enemy of x"]
+    ],
+    "Ren Dong": [
+      ["Song Jie", "friend of x, business partner of x"], 
+      ["Lu Ying", "acquaintance of x"]
+    ],
+    "Lu Ying": [
+      ["Xuan Bingjiao", "suspicious of x, enemy of x"], 
+      ["Erxuan Can", "subordinate of x, helper of x"]
+    ],
+    "Erxuan Can": [
+      ["Lu Ying", "subordinate of x, helper of x"], 
+      ["Song Jie", "acquaintance of x"]
+    ]
+}

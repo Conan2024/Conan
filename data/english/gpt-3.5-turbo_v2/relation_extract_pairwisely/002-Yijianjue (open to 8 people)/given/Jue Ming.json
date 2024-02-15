@@ -1,0 +1,42 @@
+{
+    "Jue Ming": [
+      ["Mysterious Ice Sect's Messenger", "deceiver of x mysterious ice sect's messenger, disguised as mysterious ice sect's messenger of x, suspicious of x mysterious ice sect's messenger"], 
+      ["Lu Ying", "acquaintance of x, helper of x"], 
+      ["Feng", "helper of x"], 
+      ["Zi Su", "informant of x, information receiver from x"]
+    ],
+    "Mysterious Ice Sect's Messenger": [
+      ["Jue Ming", "manipulated by jue ming of x, deceived by jue ming of x, suspicious of x jue ming"], 
+      ["Saint of Thieves", "romantic relationships with saint of x thieves, admirer of x saint of x thieves, informant of x saint of x thieves"], 
+      ["Lu Ying", "deceiver of x, information receiver from x"], 
+      ["Feng", "information receiver from x, helper of x"], 
+      ["Zi Su", "helper of x"]
+    ],
+    "Lu Ying": [
+      ["Jue Ming", "acquaintance of x, helper of x"], 
+      ["Saint of Thieves", "suspected by of x"], 
+      ["Mysterious Ice Sect's Messenger", "deceived by x, informant of x"], 
+      ["Feng", "employee of x, helper of x"], 
+      ["Zi Su", "friend of x zi su"]
+    ],
+    "Feng": [
+      ["Jue Ming", "helped by x"], 
+      ["Saint of Thieves", "friend of x, deceived by x"], 
+      ["Mysterious Ice Sect's Messenger", "information receiver from x, helper of x"], 
+      ["Lu Ying", "employer of x, master of x"], 
+      ["Zi Su", "informant of x zi su, information receiver from zi su of x, acquaintance of x zi su, helper of x zi su"]
+    ],
+    "Zi Su": [
+      ["Jue Ming", "friend of x"], 
+      ["acquaintance of Saint of Thieves", "suspect of x saint of x thieves"], 
+      ["Mysterious Ice Sect's Messenger", "suspected by of x"], 
+      ["Lu Ying", "friend of x lu ying"], 
+      ["Feng", "informant of x feng, information receiver from feng of x, acquaintance of x feng"]
+    ],
+    "Saint of Thieves": [
+      ["Mysterious Ice Sect's Messenger", "romantic relationships with mysterious ice sect's messenger of x, admirer of x mysterious ice sect's messenger, informant of x mysterious ice sect's messenger"], 
+      ["Lu Ying", "acquaintance of x"], 
+      ["Feng", "friend of x, disguised as x"], 
+      ["acquaintance of Zi Su", "suspected by zi su of x"]
+    ]
+}

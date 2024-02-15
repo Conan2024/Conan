@@ -1,0 +1,25 @@
+{
+    "Zhang Villager": [
+      ["Father of Zhang Villager", "child of x"], 
+      ["Chief Wang", "helped by x"], 
+      ["Hu Investigate", "informant of x"]
+    ],
+    "Father of Zhang Villager": [
+      ["Zhang Villager", "child of x"]
+    ],
+    "Chief Wang": [
+      ["Zhang Villager", "helped by x"]
+    ],
+    "Hu Investigate": [
+      ["Zhang Villager", "informant of x"]
+    ],
+    "Zhao Cishan": [
+      ["Zhang Villager", "perpetrator of x's family"]
+    ],
+    "Officer Li": [
+      ["Zhang Villager", "informant of x"]
+    ],
+    "Murderer": [
+      ["Zhang Villager", "victim of x"]
+    ]
+}

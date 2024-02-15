@@ -1,0 +1,52 @@
+{
+    "Zhang Wei": [
+      ["Zhao ZHONGYANG", "friend of x, acquaintance of x, colleague of x"], 
+      ["Zhao ZHONGZHENG", "employee of x, perpetrator of x"], 
+      ["Chen Meier", "subordinate of x, employee of x"], 
+      ["Zhao San", "acquaintance of x, business partner of x"], 
+      ["Ma Laoban", "business partner of x"]
+    ],
+    "Zhao ZHONGYANG": [
+      ["Zhang Wei", "friend of x, acquaintance of x, colleague of x"], 
+      ["Zhao ZHONGZHENG", "employer of x, master of x"], 
+      ["Chen Meier", "friend of x, mentor of x"], 
+      ["Li Cheng", "friend of x"], 
+      ["Ma Laoban", "business partner of x, employee of x"]
+    ],
+    "Zhao ZHONGZHENG": [
+      ["Zhang Wei", "employer of x, victim of x"], 
+      ["Zhao ZHONGYANG", "employee of x, servant of x"], 
+      ["Chen Meier", "superior of x, acquaintance of x"], 
+      ["Li Cheng", "acquaintance of x, business partner of x, customer of x"], 
+      ["Zhao San", "friend of x, business partner of x"], 
+      ["Ma Laoban", "business partner of x, customer of x, rival of x"]
+    ],
+    "Chen Meier": [
+      ["Zhang Wei", "superior of x, employer of x"], 
+      ["Zhao ZHONGYANG", "friend of x, mentor of x"], 
+      ["Zhao ZHONGZHENG", "superior of x, acquaintance of x"], 
+      ["Zhao San", "friend of x, business partner of x"], 
+      ["Ma Laoban", "business partner of x"]
+    ],
+    "Zhao San": [
+      ["Zhang Wei", "acquaintance of x, business partner of x"], 
+      ["Zhao ZHONGZHENG", "friend of x, business partner of x"], 
+      ["Chen Meier", "friend of x, business partner of x"], 
+      ["Li Cheng", "friend of x, business partner of x"], 
+      ["Ma Laoban", "business partner of x"]
+    ],
+    "Ma Laoban": [
+      ["Zhang Wei", "business partner of x"], 
+      ["Zhao ZHONGYANG", "business partner of x, employee of x"], 
+      ["Zhao ZHONGZHENG", "business partner of x, customer of x, rival of x"], 
+      ["Chen Meier", "business partner of x"], 
+      ["Li Cheng", "friend of x, business partner of x"], 
+      ["Zhao San", "business partner of x"]
+    ],
+    "Li Cheng": [
+      ["Zhao ZHONGYANG", "friend of x"], 
+      ["Zhao ZHONGZHENG", "acquaintance of x, business partner of x, customer of x"], 
+      ["Zhao San", "friend of x, business partner of x"], 
+      ["Ma Laoban", "friend of x, business partner of x"]
+    ]
+}

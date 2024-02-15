@@ -1,0 +1,23 @@
+{
+    "Gu Yu": [
+      ["Chen Jingwen", "girlfriend of x"]
+    ],
+    "Lin Xi": [
+      ["Su Yang", "fiance of x"]
+    ],
+    "Chen Jingwen": [
+      ["Gu Yu", "girlfriend of x"], 
+      ["Qin Siqin", "mother of x"]
+    ],
+    "Su Yang": [
+      ["Lin Xi", "fiance of x"], 
+      ["Gu Yu", "rival of x"]
+    ],
+    "Qin Siqin": [
+      ["Chen Jingwen", "daughter of x"]
+    ],
+    "Gu Ming": [
+      ["Gu Yu", "father of x"], 
+      ["Qin Siqin", "wife of x"]
+    ]
+}

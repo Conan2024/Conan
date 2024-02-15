@@ -1,0 +1,160 @@
+{
+    "Tom (you)": [
+        [
+            "Dr. Paloski",
+            "acquaintance of x"
+        ],
+        [
+            "Hans Li Morette",
+            "acquaintance of x, subject of investigation for x"
+        ],
+        [
+            "Frank",
+            "manipulator of x, employer of x, information receiver from x"
+        ],
+        [
+            "Tony",
+            "manipulator of x, admired by x"
+        ],
+        [
+            "Drake Li Morette",
+            "patient of x, helped by x, friend of x"
+        ],
+        [
+            "Dean Berkeley",
+            "acquaintance of x"
+        ]
+    ],
+    "Dr. Paloski": [
+        [
+            "Tom (you)",
+            "patient of x, helped by x"
+        ],
+        [
+            "Hans Li Morette",
+            "adversary of x, disliked by x"
+        ],
+        [
+            "Drake Li Morette",
+            "colleague of x, possibly friend of x or adversary of x due to sibling relationship with Hans"
+        ],
+        [
+            "Frank",
+            "stranger to x"
+        ],
+        [
+            "Tony",
+            "stranger to x"
+        ],
+        [
+            "Dean Berkeley",
+            "colleague of x, possibly friend of x"
+        ]
+    ],
+    "Hans Li Morette": [
+        [
+            "Drake Li Morette",
+            "twin brother of x"
+        ],
+        [
+            "Tom (you)",
+            "subject of manipulation by x"
+        ],
+        [
+            "Dr. Paloski",
+            "disliked by x, adversary of x"
+        ]
+    ],
+    "Frank": [
+        [
+            "Tony",
+            "brother of x, helped by x"
+        ],
+        [
+            "Tom (you)",
+            "employee of x, helped by x"
+        ],
+        [
+            "Dr. Paloski",
+            "stranger to x"
+        ],
+        [
+            "Drake Li Morette",
+            "stranger to x"
+        ],
+        [
+            "Hans Li Morette",
+            "stranger to x"
+        ]
+    ],
+    "Tony": [
+        [
+            "Frank",
+            "brother of x, admirer of x"
+        ],
+        [
+            "Tom (you)",
+            "deceived by x, admirer of x"
+        ],
+        [
+            "Dr. Paloski",
+            "stranger to x"
+        ],
+        [
+            "Hans Li Morette",
+            "stranger to x"
+        ],
+        [
+            "Drake Li Morette",
+            "stranger to x"
+        ]
+    ],
+    "Drake Li Morette": [
+        [
+            "Hans Li Morette",
+            "twin brother of x"
+        ],
+        [
+            "Tom (you)",
+            "service provider of x, confidant of x"
+        ],
+        [
+            "Dr. Paloski",
+            "colleague of x, possibly friend of x or adversary of x due to sibling relationship with Hans"
+        ],
+        [
+            "Tony",
+            "stranger to x"
+        ],
+        [
+            "Frank",
+            "stranger to x"
+        ]
+    ],
+    "Dean Berkeley": [
+        [
+            "Tom (you)",
+            "acquaintance of x, possibly manipulated by x due to allowing frequent visits"
+        ],
+        [
+            "Dr. Paloski",
+            "colleague of x"
+        ],
+        [
+            "Hans Li Morette",
+            "colleague of x"
+        ],
+        [
+            "Drake Li Morette",
+            "colleague of x"
+        ],
+        [
+            "Frank",
+            "stranger to x"
+        ],
+        [
+            "Tony",
+            "stranger to x"
+        ]
+    ]
+}

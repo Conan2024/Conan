@@ -1,0 +1,33 @@
+{
+    "Li Cheng": [
+      ["Zhao ZHONGZHENG", "employer of x"], 
+      ["Zhao Zhongyang", "friend of x, mentor of x"], 
+      ["Zhang Wei", "colleague of x"], 
+      ["Chen Meier", "colleague of x"], 
+      ["Uninvited guest", "assailant of x"], 
+      ["Zhao Zhongyang", "victim of x"]
+    ],
+    "Zhao ZHONGZHENG": [
+      ["Li Cheng", "employer of x"], 
+      ["Li Cheng's family", "possibly family of x"]
+    ],
+    "Zhao Zhongyang": [
+      ["Li Cheng", "friend of x, mentor of x"], 
+      ["Zhang Wei", "colleague of x"], 
+      ["Chen Meier", "colleague of x"], 
+      ["Uninvited guest", "assailant of x"], 
+      ["Zhao Zhongyang", "victim of x"]
+    ],
+    "Zhang Wei": [
+      ["Li Cheng", "colleague of x"], 
+      ["Zhao Zhongyang", "colleague of x"]
+    ],
+    "Chen Meier": [
+      ["Li Cheng", "colleague of x"], 
+      ["Zhao Zhongyang", "colleague of x"]
+    ],
+    "Uninvited guest": [
+      ["Li Cheng", "assailant of x"], 
+      ["Zhao Zhongyang", "victim of x"]
+    ]
+}

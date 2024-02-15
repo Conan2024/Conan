@@ -1,0 +1,26 @@
+{
+    "Feng Shuangji": [
+      ["Zhao Wanlei", "friend of x"], 
+      ["Zhao Luoyi", "niece of x"], 
+      ["Feng Zhu", "daughter of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Feng Shuangji", "friend of x"], 
+      ["Zhao Luoyi", "daughter of x"], 
+      ["Guo Wangshan", "business partner of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Feng Shuangji", "niece of x"], 
+      ["Zhao Wanlei", "father of x, master of x"]
+    ],
+    "Zhao Qiuer": [
+      ["Zhao Wanlei", "master of x"]
+    ],
+    "Feng Zhu": [
+      ["Feng Shuangji", "daughter of x"], 
+      ["Zhao Wanlei", "friend of x"]
+    ],
+    "Qi Yue": [
+      ["Zhao Wanlei", "business partner of x"]
+    ]
+}

@@ -1,0 +1,614 @@
+{
+    "Bao Gan": [
+        [
+            "Cui Shouheng",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Cui Yannan",
+            "Childhood friend, Playmate"
+        ],
+        [
+            "Su Nian",
+            "Friend, Colleague"
+        ],
+        [
+            "Wang Shi",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Xi Yan",
+            " acquaintance, colleague"
+        ],
+        [
+            "Yannan",
+            "Friend, Classmate"
+        ],
+        [
+            "Yu Shi",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Zhou Chitong",
+            "Uncle-Nephew",
+            "Informant of X"
+        ],
+        [
+            "Zhou Lianyi",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Zhou Mengdang",
+            "Uncle of X",
+            "Helped by X"
+        ]
+    ],
+    "Cui Shouheng": [
+        [
+            "Bao Gan",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Cui Yannan",
+            "Father of X",
+            "Employer of X"
+        ],
+        [
+            "Su Nian",
+            "Father of X",
+            "Employer of X"
+        ],
+        [
+            "Wang Shi",
+            "Father of X",
+            "Mother of X",
+            "Informant of X",
+            "Acquaintance of X",
+            "Neighbour of X"
+        ],
+        [
+            "Xi Yan",
+            "Husband of X",
+            "Father of X"
+        ],
+        [
+            "Yannan",
+            "Father of Yannan",
+            "Husband of Xi Yan",
+            "Manipulator of Zhou Lianyi's father",
+            "Employer of Zhou Lianyi's father"
+        ],
+        [
+            "Yu Shi",
+            "Husband of X",
+            "Father of X"
+        ],
+        [
+            "Zhou Chitong",
+            "Uncle of X",
+            "Manipulator of X",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Zhou Lianyi",
+            "Father of Zhou Lianyi",
+            "Employer of Zhou Lianyi"
+        ],
+        [
+            "Zhou Mengdang",
+            "Father of X",
+            "Employer of X",
+            "Master of X",
+            "Superior of X"
+        ]
+    ],
+    "Cui Yannan": [
+        [
+            "Bao Gan",
+            "Childhood friend, Playmate"
+        ],
+        [
+            "Cui Shouheng",
+            "Daughter of X",
+            "Employee of X"
+        ],
+        [
+            "Su Nian",
+            "Childhood friend, Playmate"
+        ],
+        [
+            "Wang Shi",
+            "Childhood friend",
+            "Playmate"
+        ],
+        [
+            "Xi Yan",
+            "Childhood friend",
+            "Playmate"
+        ],
+        [
+            "Yannan",
+            "Child of X",
+            "Sibling of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Yu Shi",
+            "Child of",
+            "Sibling of",
+            "Playmate of",
+            "Friend of"
+        ],
+        [
+            "Zhou Chitong",
+            "Childhood friend",
+            "Playmate"
+        ],
+        [
+            "Zhou Lianyi",
+            "Childhood friend",
+            "Playmate"
+        ],
+        [
+            "Zhou Mengdang",
+            "Zhou Lianyi",
+            "relationship 1: Child of Zhou Mengdang",
+            "relationship 2: Sibling of Zhou Lianyi"
+        ]
+    ],
+    "Su Nian": [
+        [
+            "Bao Gan",
+            "Friend, Colleague"
+        ],
+        [
+            "Cui Shouheng",
+            "Son of X",
+            "Employee of X"
+        ],
+        [
+            "Cui Yannan",
+            "Childhood friend, Playmate"
+        ],
+        [
+            "Wang Shi",
+            "uncle, Taitai"
+        ],
+        [
+            "Xi Yan",
+            "uncle, mentor"
+        ],
+        [
+            "Yannan",
+            "Childhood friend, Playmate"
+        ],
+        [
+            "Yu Shi",
+            "Uncle of X",
+            "Manipulated by X"
+        ],
+        [
+            "Zhou Chitong",
+            "Uncle",
+            "Mentor"
+        ],
+        [
+            "Zhou Lianyi",
+            "uncle, mentor"
+        ],
+        [
+            "Zhou Mengdang",
+            "uncle, friend"
+        ]
+    ],
+    "Wang Shi": [
+        [
+            "Bao Gan",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Cui Shouheng",
+            "Husband of X",
+            "Father-in-law of X",
+            "Mother-in-law of X",
+            "Informant of X",
+            "Acquaintance of X",
+            "Neighbour of X"
+        ],
+        [
+            "Cui Yannan",
+            "Childhood friend",
+            "Playmate"
+        ],
+        [
+            "Su Nian",
+            "Taitai, mother"
+        ],
+        [
+            "Xi Yan",
+            "Taitai",
+            "Cui Shouheng"
+        ],
+        [
+            "Yannan",
+            "Taitai",
+            "Cui Shouheng",
+            "Xi Yan",
+            "Cui Yannan",
+            "Zhou Lianyi",
+            "Zhou Mengdang",
+            "Zhou Chitong",
+            "Su Nian",
+            "Bao Gan",
+            "Ni Sichong"
+        ],
+        [
+            "Yu Shi",
+            "Mother",
+            "Father"
+        ],
+        [
+            "Zhou Chitong",
+            "Taitai (Wang Shi) of 'Cui Zhuang'",
+            "Acquaintance of X",
+            "Neighbour of X"
+        ],
+        [
+            "Zhou Lianyi",
+            "Taitai  of 'Cui Zhuang' who called for a midwife, saved Zhou Lianyi's life when she was born, and took care of her when her mother was pregnant."
+        ],
+        [
+            "Zhou Mengdang",
+            "Taitai (Wang Shi) of 'Cui Zhuang'",
+            "Zhou Lianyi"
+        ]
+    ],
+    "Xi Yan": [
+        [
+            "Bao Gan",
+            "acquaintance, colleague"
+        ],
+        [
+            "Cui Shouheng",
+            "Wife of X",
+            "Mother of X"
+        ],
+        [
+            "Cui Yannan",
+            "Childhood friend",
+            "Playmate"
+        ],
+        [
+            "Su Nian",
+            "nephew, mentee"
+        ],
+        [
+            "Wang Shi",
+            "Taitai",
+            "Cui Shouheng"
+        ],
+        [
+            "Yannan",
+            "Sister-in-law, Aunt"
+        ],
+        [
+            "Yu Shi",
+            "Sister-in-law, Aunt"
+        ],
+        [
+            "Zhou Chitong",
+            "Uncle of X",
+            "Manipulator of X",
+            "Bully of X"
+        ],
+        [
+            "Zhou Lianyi",
+            "older sister, caretaker"
+        ],
+        [
+            "Zhou Mengdang",
+            "father-in-law",
+            "brother-in-law"
+        ]
+    ],
+    "Yannan": [
+        [
+            "Bao Gan",
+            "Friend, Classmate"
+        ],
+        [
+            "Cui Shouheng",
+            "Daughter of Cui Shouheng",
+            "Sister of Zhou Lianyi's mother",
+            "Wife of Zhou Lianyi's father"
+        ],
+        [
+            "Cui Yannan",
+            "Child of X",
+            "Sibling of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Su Nian",
+            "Childhood friend, Playmate"
+        ],
+        [
+            "Wang Shi",
+            "Taitai",
+            "Cui Shouheng",
+            "Xi Yan",
+            "Cui Yannan",
+            "Zhou Lianyi",
+            "Zhou Mengdang",
+            "Zhou Chitong",
+            "Su Nian",
+            "Bao Gan",
+            "Ni Sichong"
+        ],
+        [
+            "Xi Yan",
+            "Sister-in-law, Aunt"
+        ],
+        [
+            "Yu Shi",
+            "childhood friend, playmate"
+        ],
+        [
+            "Zhou Chitong",
+            "Childhood friend",
+            "Playmate"
+        ],
+        [
+            "Zhou Lianyi",
+            "Childhood friend, Playmate"
+        ],
+        [
+            "Zhou Mengdang",
+            "Zhou Lianyi",
+            "Cui Yannan",
+            "Xi Yan",
+            "Cui Shouheng",
+            "Taitai",
+            "Bao Gan",
+            "Ni Sichong",
+            "Hefei City",
+            "Anwu Army",
+            "General's Administration",
+            "General's Mansion",
+            "Shanghai",
+            "Incandescent lamps",
+            "tungsten filament",
+            "carbon filament"
+        ]
+    ],
+    "Yu Shi": [
+        [
+            "Bao Gan",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Cui Shouheng",
+            "Wife of X",
+            "Mother of X"
+        ],
+        [
+            "Cui Yannan",
+            "Mother of",
+            "Sibling of",
+            "Playmate of",
+            "Friend of"
+        ],
+        [
+            "Su Nian",
+            "Mother of X",
+            "Helped by X"
+        ],
+        [
+            "Wang Shi",
+            "Daughter",
+            "Son"
+        ],
+        [
+            "Xi Yan",
+            "Sister-in-law, Aunt"
+        ],
+        [
+            "Yannan",
+            "childhood friend, playmate"
+        ],
+        [
+            "Zhou Chitong",
+            "Mother",
+            "Relative",
+            "Family Member"
+        ],
+        [
+            "Zhou Lianyi",
+            "Mother",
+            "Parent"
+        ],
+        [
+            "Zhou Mengdang",
+            "Mother",
+            "Parent",
+            "Caretaker"
+        ]
+    ],
+    "Zhou Chitong": [
+        [
+            "Bao Gan",
+            "Father of X",
+            "Informant of X"
+        ],
+        [
+            "Cui Shouheng",
+            "Nephew of X",
+            "Manipulated by X",
+            "Employee of X",
+            "Subordinate of X"
+        ],
+        [
+            "Cui Yannan",
+            "Childhood friend",
+            "Playmate"
+        ],
+        [
+            "Su Nian",
+            "Nephew",
+            "Protégé"
+        ],
+        [
+            "Wang Shi",
+            "Zhou Lianyi",
+            "Brother of X",
+            "Son of X"
+        ],
+        [
+            "Xi Yan",
+            "Nephew of X",
+            "Informant of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Yannan",
+            "Childhood friend",
+            "Playmate"
+        ],
+        [
+            "Yu Shi",
+            "Nephew",
+            "Relative",
+            "Family Member"
+        ],
+        [
+            "Zhou Lianyi",
+            "uncle, mentor"
+        ],
+        [
+            "Zhou Mengdang",
+            "Uncle",
+            "Helped by"
+        ]
+    ],
+    "Zhou Lianyi": [
+        [
+            "Bao Gan",
+            "Friend, Acquaintance"
+        ],
+        [
+            "Cui Shouheng",
+            "Son of Cui Shouheng",
+            "Employee of Cui Shouheng"
+        ],
+        [
+            "Cui Yannan",
+            "Childhood friend",
+            "Playmate"
+        ],
+        [
+            "Su Nian",
+            "nephew, mentee"
+        ],
+        [
+            "Wang Shi",
+            "Zhou Lianyi's mother worked as a maid in Taitai's house, and Taitai was also pregnant at the time of Zhou Lianyi's birth."
+        ],
+        [
+            "Xi Yan",
+            "younger brother, caretaker"
+        ],
+        [
+            "Yannan",
+            "Childhood friend, Playmate"
+        ],
+        [
+            "Yu Shi",
+            "Son",
+            "Child"
+        ],
+        [
+            "Zhou Chitong",
+            "uncle, mentor"
+        ],
+        [
+            "Zhou Mengdang",
+            "Father",
+            "Son"
+        ]
+    ],
+    "Zhou Mengdang": [
+        [
+            "Bao Gan",
+            "Father of X",
+            "Employer of X"
+        ],
+        [
+            "Cui Shouheng",
+            "Son of X",
+            "Subordinate of X",
+            "Employee of X",
+            "servant of X"
+        ],
+        [
+            "Cui Yannan",
+            "Zhou Lianyi",
+            "relationship 1: Father of Zhou Lianyi",
+            "relationship 2: Brother of Cui Yannan"
+        ],
+        [
+            "Su Nian",
+            "friend, brother-in-law"
+        ],
+        [
+            "Wang Shi",
+            "Taitai (Wang Shi) of 'Cui Zhuang'",
+            "Zhou Lianyi"
+        ],
+        [
+            "Xi Yan",
+            "father-in-law",
+            "brother-in-law"
+        ],
+        [
+            "Yannan",
+            "Zhou Lianyi",
+            "Cui Yannan",
+            "Xi Yan",
+            "Cui Shouheng",
+            "Taitai",
+            "Bao Gan",
+            "Ni Sichong",
+            "Hefei City",
+            "Anwu Army",
+            "General's Administration",
+            "General's Mansion",
+            "Shanghai",
+            "Incandescent lamps",
+            "tungsten filament",
+            "carbon filament"
+        ],
+        [
+            "Yu Shi",
+            "Father",
+            "Parent",
+            "Protector"
+        ],
+        [
+            "Zhou Chitong",
+            "Father",
+            "Helped"
+        ],
+        [
+            "Zhou Lianyi",
+            "Father",
+            "Son"
+        ]
+    ]
+}

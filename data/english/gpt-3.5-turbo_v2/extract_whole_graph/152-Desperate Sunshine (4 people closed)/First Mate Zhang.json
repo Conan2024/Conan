@@ -1,0 +1,64 @@
+{
+    "First Mate Zhang": [
+      ["Naive Hen", "brother of x"], 
+      ["Boss Yang", "co worker of x"], 
+      ["Secretary Wen", "colleague of x"], 
+      ["Shipyard Worker Wang", "colleague of x"], 
+      ["Ship Doctor Ling", "friend of x"], 
+      ["Worker Wang", "son of x"], 
+      ["Boss Yang", "ex romantic relationships with x"], 
+      ["Shipyard Worker Wang", "helper of x"], 
+      ["Ship Doctor Ling", "helper of x"], 
+      ["Worker Wang", "lover of x"], 
+      ["Boss Yang", "manipulated by x"], 
+      ["Boss Yang", "perpetrator of x"], 
+      ["Naive Hen", "possible family of x"], 
+      ["Naive Hen", "subject of x investigation for x"], 
+      ["Shipping Doctor Ling", "suspected by x"], 
+      ["Boss Yang", "suspected by x"]
+    ],
+    "Boss Yang": [
+      ["First Mate Zhang", "co worker of x"], 
+      ["Naive Hen", "co worker of x"], 
+      ["Secretary Wen", "co worker of x"], 
+      ["Shipyard Worker Wang", "co worker of x"], 
+      ["Ship Doctor Ling", "co worker of x"], 
+      ["Worker Wang", "employee of x"], 
+      ["First Mate Zhang", "ex romantic relationships with x"], 
+      ["Worker Wang", "fiance of x"], 
+      ["First Mate Zhang", "manipulated by x"], 
+      ["First Mate Zhang", "perpetrator of x"], 
+      ["Naive Hen", "subject of x investigation for x"], 
+      ["First Mate Zhang", "suspected by x"], 
+      ["Shipyard Worker Wang", "victim of x"]
+    ],
+    "Secretary Wen": [
+      ["First Mate Zhang", "colleague of x"], 
+      ["Boss Yang", "colleague of x"]
+    ],
+    "Shipyard Worker Wang": [
+      ["First Mate Zhang", "colleague of x"], 
+      ["Boss Yang", "colleague of x"], 
+      ["Worker Wang", "father of x"], 
+      ["First Mate Zhang", "helper of x"], 
+      ["First Mate Zhang", "manipulated by x"], 
+      ["Worker Wang", "son of x"]
+    ],
+    "Ship Doctor Ling": [
+      ["First Mate Zhang", "friend of x"], 
+      ["First Mate Zhang", "helper of x"], 
+      ["Worker Wang", "lover of x"], 
+      ["Shipyard Worker Wang", "victim of x"]
+    ],
+    "Worker Wang": [
+      ["First Mate Zhang", "son of x"], 
+      ["Shipyard Worker Wang", "son of x"], 
+      ["Boss Yang", "victim of x"]
+    ],
+    "Naive Hen": [
+      ["First Mate Zhang", "brother of x"], 
+      ["Boss Yang", "co worker of x"], 
+      ["First Mate Zhang", "possible family of x"], 
+      ["Boss Yang", "subject of x investigation for x"]
+    ]
+}

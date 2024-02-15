@@ -1,0 +1,47 @@
+{
+    "Xue Yan": [
+      ["Wang Zimo", "lover of x, thief of x"], 
+      ["Guilang", "adoptive brother of x, friend of x, acquaintance of x"], 
+      ["Qi Gu Fei", "friend of x"], 
+      ["Hei Li", "friend of x, rival of x"], 
+      ["Baron Smith", "employer of x, acquaintance of x"], 
+      ["Wangdi", "sister in law of x, acquaintance of x"]
+    ],
+    "Luo Wanli": [
+      ["Xue Yan", "daughter of x"], 
+      ["Luo Younuo", "son of x"]
+    ],
+    "Sun": [
+      ["Xue Yan", "mother of x"]
+    ],
+    "Luo Younuo": [
+      ["Xue Yan", "sister of x"]
+    ],
+    "Wang Zimo": [
+      ["Xue Yan", "lover of x"], 
+      ["Wangdi", "wife of x"]
+    ],
+    "Guilang": [
+      ["Xue Yan", "adoptive brother of x, friend of x"]
+    ],
+    "Zhaonan": [
+      ["Qi Gu Fei", "friend of x"]
+    ],
+    "Qi Gu Fei": [
+      ["Zhaonan", "friend of x"], 
+      ["Hei Li", "friend of x"]
+    ],
+    "Hei Li": [
+      ["Qi Gu Fei", "friend of x"], 
+      ["Xue Yan", "acquaintance of x"], 
+      ["Wang Zimo", "rival of x"]
+    ],
+    "Baron Smith": [
+      ["Xue Yan", "employer of x, acquaintance of x"], 
+      ["Wangdi", "sister in law of x, acquaintance of x"]
+    ],
+    "Wangdi": [
+      ["Wang Zimo", "husband of x"], 
+      ["Xue Yan", "sister in law of x, acquaintance of x"]
+    ]
+}

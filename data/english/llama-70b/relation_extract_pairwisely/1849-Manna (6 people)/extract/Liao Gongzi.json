@@ -1,0 +1,224 @@
+{
+    "Liao Xuehan": [
+        [
+            "Liao Yiqiao",
+            "Father, Son"
+        ],
+        [
+            "Julie",
+            "friend, benefactor"
+        ],
+        [
+            "Dr. Zhang",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Luo Hengli",
+            "Business Partner, Creditor, Acquaintance"
+        ],
+        [
+            "Lv Mingran",
+            "Rival, Enemy"
+        ],
+        [
+            "Hai You",
+            "Friend",
+            "Business Partner"
+        ]
+    ],
+    "Liao Yiqiao": [
+        [
+            "Liao Xuehan",
+            "Father, Son"
+        ],
+        [
+            "Julie",
+            "Husband of X",
+            "Stranger to X"
+        ],
+        [
+            "Dr. Zhang",
+            "Friend",
+            "Informant"
+        ],
+        [
+            "Luo Hengli",
+            "business partner, creditor"
+        ],
+        [
+            "Lv Mingran",
+            "Employer of",
+            "Master of"
+        ],
+        [
+            "Hai You",
+            "Friend of X",
+            "Mentor of X"
+        ]
+    ],
+    "Julie": [
+        [
+            "Liao Xuehan",
+            "friend, beneficiary"
+        ],
+        [
+            "Liao Yiqiao",
+            "Wife of X",
+            "Friend of X"
+        ],
+        [
+            "Dr. Zhang",
+            "Wife of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Luo Hengli",
+            "Wife of X",
+            "Sister of X"
+        ],
+        [
+            "Lv Mingran",
+            "Wife of X",
+            "Suspect of X"
+        ],
+        [
+            "Hai You",
+            "Wife of X",
+            "Stranger to X"
+        ],
+        [
+            "Dr. Zhang",
+            "Hai You",
+            "Liao Xuehan",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "Dr. Zhang": [
+        [
+            "Liao Xuehan",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Liao Yiqiao",
+            "Friend",
+            "Informant"
+        ],
+        [
+            "Julie",
+            "Husband of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Luo Hengli",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Lv Mingran",
+            "Friend of X",
+            "Colleague of X"
+        ],
+        [
+            "Hai You",
+            "Julie",
+            "Liao Xuehan",
+            "relationship 1, relationship 2"
+        ]
+    ],
+    "Luo Hengli": [
+        [
+            "Liao Xuehan",
+            "Business Partner, Debtor, Acquaintance"
+        ],
+        [
+            "Liao Yiqiao",
+            "business partner, debtor"
+        ],
+        [
+            "Julie",
+            "Husband of X",
+            "Brother of X"
+        ],
+        [
+            "Dr. Zhang",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Lv Mingran",
+            "Business Partner",
+            "Debtor"
+        ],
+        [
+            "Hai You",
+            "Business Partner",
+            "Debtor"
+        ]
+    ],
+    "Lv Mingran": [
+        [
+            "Liao Xuehan",
+            "Rival, Enemy"
+        ],
+        [
+            "Liao Yiqiao",
+            "Employee of",
+            "Subordinate of"
+        ],
+        [
+            "Julie",
+            "Husband of X",
+            "Suspect of X"
+        ],
+        [
+            "Dr. Zhang",
+            "Friend of X",
+            "Colleague of X"
+        ],
+        [
+            "Luo Hengli",
+            "Business Partner",
+            "Debtor"
+        ],
+        [
+            "Hai You",
+            "Business Partner",
+            "Co-worker"
+        ]
+    ],
+    "Hai You": [
+        [
+            "Liao Xuehan",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Liao Yiqiao",
+            "Friend of X",
+            "Mentee of X"
+        ],
+        [
+            "Julie",
+            "Same person as X (different reference)",
+            "Stranger to X"
+        ],
+        [
+            "Dr. Zhang",
+            "Julie",
+            "Liao Xuehan",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Luo Hengli",
+            "Business Partner",
+            "Creditor"
+        ],
+        [
+            "Lv Mingran",
+            "Business Partner",
+            "Co-worker"
+        ]
+    ]
+}

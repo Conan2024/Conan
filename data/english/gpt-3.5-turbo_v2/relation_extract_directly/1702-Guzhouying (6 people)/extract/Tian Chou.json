@@ -1,0 +1,61 @@
+{
+    "Sun Tian'er": [
+      ["Sun Xian'en", "father of x sun tian'er"], 
+      ["Zhou Mengdang", "fiancé of x sun tian'er"], 
+      ["Tian Chou", "child of x sun xian'en, replaced tian chou's identity of x"]
+    ],
+    "Sun Xian'en": [
+      ["Sun Tian'er", "child of x sun xian'en"], 
+      ["Tian Chou", "child of x sun xian'en, replaced tian chou's identity of x"]
+    ],
+    "Zhou Mengdang": [
+      ["Sun Tian'er", "fiancée of x sun tian'er"], 
+      ["Tian Chou", "child of x sun xian'en, replaced tian chou's identity of x"]
+    ],
+    "Zhang Pozai": [
+      ["Bao Liu", "friend of x zhang pozai"], 
+      ["Xi Yan", "friend of x zhang pozai"], 
+      ["Cui Shouheng", "friend of x zhang pozai"], 
+      ["Bao Gan", "friend of x zhang pozai"]
+    ],
+    "Bao Liu": [
+      ["Zhang Pozai", "friend of x bao liu"]
+    ],
+    "Xi Yan": [
+      ["Zhang Pozai", "friend of xi yan"]
+    ],
+    "Cui Shouheng": [
+      ["Zhang Pozai", "friend of x cui shouheng"]
+    ],
+    "Bao Gan": [
+      ["Zhang Pozai", "friend of x bao gan"]
+    ],
+    "Cui Yannan": [
+      ["Bao Yang", "wife of x cui yannan"]
+    ],
+    "Bao Yang": [
+      ["Cui Yannan", "husband of x bao yang"]
+    ],
+    "Bao Gui": [
+      ["Su Nian", "father of x bao gui"], 
+      ["Uncle Fu", "employer of x bao gui"]
+    ],
+    "Su Nian": [
+      ["Bao Gui", "son of x su nian"]
+    ],
+    "Uncle Fu": [
+      ["Bao Gui", "employer of x uncle fu"]
+    ],
+    "Zhou Chitong": [
+      ["Taitai", "husband of x zhou chitong"]
+    ],
+    "Taitai": [
+      ["Zhou Chitong", "wife of x taitai"]
+    ],
+    "Tian Chou": [
+      ["Sun Tian'er", "child of x sun xian'en"], 
+      ["Sun Xian'en", "father of x tian chou, replaced tian chou's identity of x"], 
+      ["Zhou Mengdang", "fiancée of x tian chou"], 
+      ["Tian Chou", "self of x"]
+    ]
+}

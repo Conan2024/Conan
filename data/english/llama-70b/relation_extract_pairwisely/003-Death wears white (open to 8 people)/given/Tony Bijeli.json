@@ -1,0 +1,38 @@
+{
+    "Father Tom": [
+        [
+            "Frank Bijeli",
+            "relationship 1 (Mentor/Protege)",
+            "relationship 2 (Savior/Beneficiary)"
+        ],
+        [
+            "Tony Bijeli",
+            "relationship 1: Belief in Father Tom's power",
+            "relationship 2: Hostage situation"
+        ]
+    ],
+    "Frank Bijeli": [
+        [
+            "Father Tom",
+            "relationship 1 (Mentor/Protege)",
+            "relationship 2 (Savior/Beneficiary)"
+        ],
+        [
+            "Tony Bijeli",
+            "Brother",
+            "Saved his life"
+        ]
+    ],
+    "Tony Bijeli": [
+        [
+            "Father Tom",
+            "relationship 1: Belief in Father Tom's power",
+            "relationship 2: Hostage situation"
+        ],
+        [
+            "Frank Bijeli",
+            "Brother",
+            "Saved his life"
+        ]
+    ]
+}

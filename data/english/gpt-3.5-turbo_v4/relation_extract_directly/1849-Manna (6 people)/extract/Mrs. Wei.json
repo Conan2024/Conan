@@ -1,0 +1,65 @@
+{
+    "Lv Caiqian": [
+      ["Lv Shouben", "father of x"], 
+      ["Li Shi", "mother of x"], 
+      ["Lv Mingran", "sibling of x"], 
+      ["Mingsha", "friend of x, extramarital affair with x"], 
+      ["Luo Hengli", "superior of x, employer of x"], 
+      ["Tan Renchang", "extramarital affair with x"], 
+      ["Xinya", "acquaintance of x"], 
+      ["Hai You", "daughter of x, wife of x"], 
+      ["Wei Yangyao", "husband of x"]
+    ],
+    "Lv Shouben": [
+      ["Lv Caiqian", "child of x"], 
+      ["Mingsha", "acquaintance of x"], 
+      ["Luo Hengli", "colleague of x"]
+    ],
+    "Li Shi": [
+      ["Lv Caiqian", "child of x"]
+    ],
+    "Lv Mingran": [
+      ["Lv Caiqian", "sibling of x"]
+    ],
+    "Mingsha": [
+      ["Lv Caiqian", "friend of x, extramarital affair with x"], 
+      ["Luo Hengli", "sibling of x"], 
+      ["Tan Renchang", "wife of x"], 
+      ["Xinya", "acquaintance of x"], 
+      ["Hai You", "adoptive mother of x"]
+    ],
+    "Luo Hengli": [
+      ["Lv Caiqian", "superior of x, employer of x"], 
+      ["Lv Shouben", "colleague of x"], 
+      ["Mingsha", "sibling of x"]
+    ],
+    "Tan Renchang": [
+      ["Mingsha", "extramarital affair with x"], 
+      ["Hai You", "husband of x"], 
+      ["Shang Zhi", "employer of x"]
+    ],
+    "Xinya": [
+      ["Lv Caiqian", "acquaintance of x"], 
+      ["Mingsha", "acquaintance of x"]
+    ],
+    "Hai You": [
+      ["Lv Caiqian", "daughter of x"], 
+      ["Mingsha", "adoptive mother of x"], 
+      ["Tan Renchang", "wife of x"]
+    ],
+    "Wei Yangyao": [
+      ["Lv Caiqian", "husband of x"]
+    ],
+    "A Ping": [
+      ["Mingsha", "acquaintance of x"]
+    ],
+    "Shang Zhi": [
+      ["Mingsha", "employer of x"]
+    ],
+    "Cheng Ge": [
+      ["Mingsha", "son of x"]
+    ],
+    "Lawyer": [
+      ["Tan Renchang", "informant of x"]
+    ]
+}

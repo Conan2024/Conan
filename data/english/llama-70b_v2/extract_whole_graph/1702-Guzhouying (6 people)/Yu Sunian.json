@@ -1,0 +1,43 @@
+{
+    "Yu Sunian": [
+      ["Yannan", "lover of x, passionate love of x"], 
+      ["Cui Shouheng", "enemy of x, deceased of x"], 
+      ["Taitai", "aunt of x, enemy of x"], 
+      ["Zhou Mengdang", "brother in law of x, friend of x"], 
+      ["Lianyi", "nephew of x, son of x"], 
+      ["Yu Shi", "sister of x, deceased of x"]
+    ],
+    "Yannan": [
+      ["Cui Shouheng", "father of x, deceased of x"], 
+      ["Yu Sunian", "lover of x, passionate love of x"]
+    ],
+    "Cui Shouheng": [
+      ["Yu Sunian", "enemy of x"], 
+      ["Yannan", "father of x, deceased of x"]
+    ],
+    "Taitai": [
+      ["Yu Sunian", "aunt of x, enemy of x"], 
+      ["Yannan", "daughter of x, deceased of x"], 
+      ["Cui Shouheng", "husband of x, enemy of x"]
+    ],
+    "Zhou Mengdang": [
+      ["Yu Sunian", "brother in law of x, friend of x"], 
+      ["Yu Shi", "sister in law of x"]
+    ],
+    "Lianyi": [
+      ["Yu Sunian", "nephew of x, son of x"], 
+      ["Yu Shi", "mother of x, deceased of x"]
+    ],
+    "Yu Shi": [
+      ["Yu Sunian", "sister of x, deceased of x"], 
+      ["Zhou Mengdang", "husband of x, friend of x"]
+    ],
+    "Xi Yan": [
+      ["Yu Sunian", "acquaintance of x"], 
+      ["Tian Chou", "friend of x"]
+    ],
+    "Tian Chou": [
+      ["Yu Sunian", "acquaintance of x"], 
+      ["Xi Yan", "friend of x"]
+    ]
+}

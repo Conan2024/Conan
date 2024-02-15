@@ -1,0 +1,42 @@
+{
+    "Xue Meiniang": [
+      ["Qin Laoda", "friend of x, acquaintance of x, colleague of x"], 
+      ["Mrs. Qin", "wife of x, same person as x (different identity)"], 
+      ["JIA Meili", "friend of x, mentor of x"], 
+      ["Xiao Tiyu", "wife of x, lover of x"], 
+      ["Qin Expert", "wife of x, lover of x, betrayed by x"]
+    ],
+    "Qin Laoda": [
+      ["Xue Meiniang", "friend of x, acquaintance of x, colleague of x"], 
+      ["Mrs. Qin", "son of x"], 
+      ["Xiao Tiyu", "friend of x, acquaintance of x"], 
+      ["Qin Expert", "same person as x (different reference), same person as x (different identity)"]
+    ],
+    "Mrs. Qin": [
+      ["Xue Meiniang", "husband of x, same person as x (different reference)"], 
+      ["Qin Laoda", "mother of x, wife of x"], 
+      ["JIA Meili", "wife of x"], 
+      ["Xiao Tiyu", "wife of x, ex romantic relationships with x"], 
+      ["Qin Expert", "wife of x"]
+    ],
+    "JIA Meili": [
+      ["Xue Meiniang", "friend of x, mentor of x"], 
+      ["Mrs. Qin", "same person as x (different reference), victim of x"], 
+      ["Xiao Tiyu", "wife of x, fiancee of x"], 
+      ["Qin Expert", "acquaintance of x"]
+    ],
+    "Xiao Tiyu": [
+      ["Xue Meiniang", "husband of x, lover of x"], 
+      ["Qin Laoda", "friend of x, acquaintance of x"], 
+      ["Mrs. Qin", "husband of x, romantic relationships with x"], 
+      ["JIA Meili", "husband of x, fiance of x"], 
+      ["Qin Expert", "same person as x (different reference)"]
+    ],
+    "Qin Expert": [
+      ["Xue Meiniang", "husband of x, lover of x, betrayer of x, deceiver of x"], 
+      ["Qin Laoda", "father of x, mentor of x"], 
+      ["Mrs. Qin", "husband of x"], 
+      ["JIA Meili", "acquaintance of x"], 
+      ["Xiao Tiyu", "same person as x (different reference)"]
+    ]
+}

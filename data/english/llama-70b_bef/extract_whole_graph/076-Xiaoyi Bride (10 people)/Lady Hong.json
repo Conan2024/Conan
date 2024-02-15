@@ -1,0 +1,35 @@
+{
+    "Lady Hong": [
+      ["Yao Changshou", "husband of x"], 
+      ["Yao Zhongyi", "suspicious of x"], 
+      ["Uncle Gui", "suspicious of x"], 
+      ["Doctor Fang", "cousin of x"], 
+      ["Judy", "relative of x"], 
+      ["Chen Anqiao", "acquaintance of x"]
+    ],
+    "Yao Changshou": [
+      ["Lady Hong", "wife of x"], 
+      ["Yao Zhongyi", "son of x, suspicious of x"], 
+      ["Uncle Gui", "suspicious of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Lady Hong", "suspicious of x"], 
+      ["Yao Changshou", "father of x"]
+    ],
+    "Uncle Gui": [
+      ["Lady Hong", "suspicious of x"], 
+      ["Yao Changshou", "suspicious of x"]
+    ],
+    "Doctor Fang": [
+      ["Lady Hong", "cousin of x"]
+    ],
+    "Judy": [
+      ["Lady Hong", "relative of x"]
+    ],
+    "Chen Junmeng": [
+      ["Chen Anqiao", "acquaintance of x"]
+    ],
+    "Chen Anqiao": [
+      ["Lady Hong", "acquaintance of x"]
+    ]
+}

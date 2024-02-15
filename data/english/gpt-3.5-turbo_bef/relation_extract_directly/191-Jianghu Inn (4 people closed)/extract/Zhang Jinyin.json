@@ -1,0 +1,49 @@
+{
+    "ZHANG JINYIN": [
+      ["Meng Sanchun", "brother of x"], 
+      ["Zhang Jinshan", "brother of x"]
+    ],
+    "Meng Sanchun": [
+      ["ZHANG JINYIN", "brother of x"], 
+      ["Zhang Jinshan", "brother of x"], 
+      ["Hong Changlie", "adversary of x"], 
+      ["Hong Erlang", "perpetrator of x"], 
+      ["Hong Erlang", "killed by x"], 
+      ["Cai Siniang", "acquaintance of x"], 
+      ["Cai Siniang", "guest of x"], 
+      ["hong jiangshui", "acquaintance of x"], 
+      ["hong jiangshui", "guest of x"]
+    ],
+    "Zhang Jinshan": [
+      ["ZHANG JINYIN", "brother of x"], 
+      ["Meng Sanchun", "brother of x"]
+    ],
+    "Hong Changlie": [
+      ["ZHANG JINYIN", "adversary of x"], 
+      ["Meng Sanchun", "adversary of x"], 
+      ["Hong Erlang", "relative of x"]
+    ],
+    "Hong Erlang": [
+      ["ZHANG JINYIN", "perpetrator of x"], 
+      ["ZHANG JINYIN", "killed by x"], 
+      ["Meng Sanchun", "perpetrator of x"], 
+      ["Meng Sanchun", "killed by x"], 
+      ["Hong Changlie", "relative of x"]
+    ],
+    "ZHANG HONGSHENG": [
+      ["Meng Sanchun", "wife of x"], 
+      ["ZHANG JINYIN", "wife of x"]
+    ],
+    "hong jiangshui": [
+      ["ZHANG JINYIN", "acquaintance of x"], 
+      ["ZHANG JINYIN", "guest of x"], 
+      ["Meng Sanchun", "acquaintance of x"], 
+      ["Meng Sanchun", "guest of x"]
+    ],
+    "Cai Siniang": [
+      ["ZHANG JINYIN", "acquaintance of x"], 
+      ["ZHANG JINYIN", "guest of x"], 
+      ["Meng Sanchun", "acquaintance of x"], 
+      ["Meng Sanchun", "guest of x"]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Zhang Jie": [
+      ["Li Guofu", "romantic relationships with x"], 
+      ["Li Guofu", "ex boyfriend of x"], 
+      ["Mu Bei", "fondness of x"], 
+      ["Mu Bei", "admired by x"], 
+      ["Neighbor Wang", "rival of x"]
+    ],
+    "Li Guofu": [
+      ["Zhang Jie", "romantic relationships with x"], 
+      ["Zhang Jie", "ex girlfriend of x"]
+    ],
+    "He Laoliu": [
+      ["Zhang Jie", "acquaintance of x"], 
+      ["Mu Bei", "acquaintance of x"]
+    ],
+    "Mu Bei": [
+      ["Zhang Jie", "fondness of x"], 
+      ["Zhang Jie", "admired by x"], 
+      ["He Laoliu", "acquaintance of x"]
+    ],
+    "Neighbor Wang": [
+      ["Zhang Jie", "rival of x"]
+    ]
+}

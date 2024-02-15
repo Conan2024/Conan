@@ -1,0 +1,43 @@
+{
+    "Cui Yannan": [
+      ["Su Nian", "classmate of x, friend of x"], 
+      ["Tian Chou", "aunt of x"], 
+      ["Zhou Chitong", "cousin of x, friend of x, helper of x"], 
+      ["Lianyi", "teacher of x, friend of x, mentor of x"], 
+      ["Zhou Mengdang", "uncle of x, employer of x"]
+    ],
+    "Su Nian": [
+      ["Cui Yannan", "classmate of x, friend of x"], 
+      ["Tian Chou", "aunt of x"], 
+      ["Zhou Chitong", "cousin of x, friend of x, helper of x"], 
+      ["Lianyi", "teacher of x, friend of x, mentor of x"]
+    ],
+    "Tian Chou": [
+      ["Cui Yannan", "aunt of x"], 
+      ["Su Nian", "classmate of x, friend of x"], 
+      ["Zhou Chitong", "cousin of x, friend of x, helper of x"]
+    ],
+    "Zhou Chitong": [
+      ["Cui Shouheng", "father of x"]
+    ],
+    "Lianyi": [
+      ["Cui Yannan", "teacher of x, friend of x, mentor of x"], 
+      ["Su Nian", "classmate of x, friend of x"], 
+      ["Tian Chou", "aunt of x"]
+    ],
+    "Zhou Mengdang": [
+      ["Cui Yannan", "uncle of x, employer of x"], 
+      ["Su Nian", "classmate of x, friend of x"], 
+      ["Tian Chou", "aunt of x"]
+    ],
+    "Cui Shouheng": [
+      ["Zhou Chitong", "son of x"]
+    ],
+    "Uncle Fu": [
+      ["Cui Yannan", "acquaintance of x"], 
+      ["Su Nian", "acquaintance of x"], 
+      ["Tian Chou", "acquaintance of x"], 
+      ["Zhou Chitong", "acquaintance of x"], 
+      ["Lianyi", "acquaintance of x"]
+    ]
+}

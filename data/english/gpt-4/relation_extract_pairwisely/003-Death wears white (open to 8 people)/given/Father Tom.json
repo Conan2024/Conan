@@ -1,0 +1,109 @@
+{
+    "Father Tom": [
+        [
+            "Drake Li Morette",
+            "patient of x, information receiver from x, secret holder of x, physician-patient confidentiality with x"
+        ],
+        [
+            "Tony",
+            "manipulator of x, informant of x"
+        ],
+        [
+            "Frank",
+            "information receiver from x, employer of x, manipulator of x, deceiver of x"
+        ],
+        [
+            "Dr. Paloski",
+            "informant of x, helper of x, mentor of x"
+        ],
+        [
+            "Frank",
+            [
+                "deceiver of x",
+                "employer of x",
+                "manipulator of x"
+            ]
+        ]
+    ],
+    "Drake Li Morette": [
+        [
+            "Father Tom",
+            "doctor of x, confidant of x, secret keeper for x"
+        ],
+        [
+            "Tony",
+            "victim of x, deceived by x"
+        ],
+        [
+            "Father Tom",
+            [
+                "patient of x",
+                "information receiver from x",
+                "helper of x",
+                "doctor of x"
+            ]
+        ],
+        [
+            "Dr. Paloski",
+            "acquaintance of x, doctor of x, information receiver from x"
+        ]
+    ],
+    "Tony": [
+        [
+            "Father Tom",
+            "information receiver from x, deceived by x, admirer of x, subject of investigation for x"
+        ],
+        [
+            "Drake Li Morette",
+            "subject of investigation for x, admirer of x"
+        ],
+        [
+            "Frank",
+            "brother of x"
+        ],
+        [
+            "Father Tom",
+            "victim of x"
+        ]
+    ],
+    "Frank": [
+        [
+            "Father Tom",
+            "informant of x, employee of x, manipulated by x, deceived by x"
+        ],
+        [
+            "Father Tom",
+            [
+                "deceived by x",
+                "employee of x",
+                "manipulated by x"
+            ]
+        ],
+        [
+            "Tony",
+            "brother of x"
+        ],
+        [
+            "Dr. Paloski",
+            "patient of x"
+        ]
+    ],
+    "Dr. Paloski": [
+        [
+            "Father Tom",
+            "information receiver from x, helped by x, student of x"
+        ],
+        [
+            "Drake Li Morette",
+            "patient of x, possibly family of x, disliked by x"
+        ],
+        [
+            "Father Tom",
+            "admirer of x"
+        ],
+        [
+            "Frank",
+            "doctor of x"
+        ]
+    ]
+}

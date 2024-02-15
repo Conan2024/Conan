@@ -1,0 +1,58 @@
+{
+    "Harold Harrison": [
+      ["Marina", "wife of x"], 
+      ["Lucy Harrison", "daughter of x"], 
+      ["Amy Morgan", "sister of x"], 
+      ["John Morgan", "brother in law of x, acquaintance of x"], 
+      ["Jacqueline Perry", "acquaintance of x"], 
+      ["Max Pike", "suspicious of x"]
+    ],
+    "Marina": [
+      ["Harold Harrison", "husband of x"], 
+      ["Lucy Harrison", "mother of x"], 
+      ["Amy Morgan", "sister of x"], 
+      ["John Morgan", "brother in law of x, acquaintance of x"], 
+      ["Jacqueline Perry", "sister of x"], 
+      ["Max Pike", "acquaintance of x"]
+    ],
+    "Lucy Harrison": [
+      ["Harold Harrison", "father of x"], 
+      ["Marina", "mother of x"], 
+      ["Amy Morgan", "aunt of x"], 
+      ["John Morgan", "uncle of x, acquaintance of x"], 
+      ["Jacqueline Perry", "aunt of x, acquaintance of x"], 
+      ["Max Pike", "acquaintance of x"]
+    ],
+    "Amy Morgan": [
+      ["Harold Harrison", "brother of x"], 
+      ["Marina", "sister in law of x"], 
+      ["Lucy Harrison", "niece of x"], 
+      ["John Morgan", "husband of x"], 
+      ["Jacqueline Perry", "sister of x"], 
+      ["Max Pike", "acquaintance of x"]
+    ],
+    "John Morgan": [
+      ["Harold Harrison", "brother in law of x, acquaintance of x"], 
+      ["Marina", "sister in law of x, acquaintance of x"], 
+      ["Lucy Harrison", "niece of x, acquaintance of x"], 
+      ["Amy Morgan", "wife of x"], 
+      ["Jacqueline Perry", "sister of x"], 
+      ["Max Pike", "acquaintance of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Harold Harrison", "uncle of x, acquaintance of x"], 
+      ["Marina", "sister of x"], 
+      ["Lucy Harrison", "niece of x, acquaintance of x"], 
+      ["Amy Morgan", "sister of x"], 
+      ["John Morgan", "brother in law of x, acquaintance of x"], 
+      ["Max Pike", "acquaintance of x"]
+    ],
+    "Max Pike": [
+      ["Harold Harrison", "suspicious of x"], 
+      ["Marina", "acquaintance of x"], 
+      ["Lucy Harrison", "acquaintance of x"], 
+      ["Amy Morgan", "acquaintance of x"], 
+      ["John Morgan", "acquaintance of x"], 
+      ["Jacqueline Perry", "acquaintance of x"]
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "David": [
+      ["Kevin", "dislike of x"], 
+      ["Griff", "friend of x, suspicious of x"]
+    ],
+    "Gust": [
+      ["Publicity Rowling", "romantic relationships with x"], 
+      ["Ella", "romantic relationships with x"]
+    ],
+    "Publicity Rowling": [
+      ["Gust", "romantic relationships with x"], 
+      ["Kevin", "romantic relationships with x"]
+    ],
+    "Ella": [
+      ["Gust", "romantic relationships with x"]
+    ],
+    "Kevin": [
+      ["Publicity Rowling", "romantic relationships with x"]
+    ],
+    "Griff": [
+      ["David", "friend of x, suspicious of x"]
+    ]
+}

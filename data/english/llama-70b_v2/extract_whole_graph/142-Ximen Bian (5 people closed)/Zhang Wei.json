@@ -1,0 +1,17 @@
+{
+    "Zhang Wei": [
+      ["Zhao Zhongyang", "friend of x, savior of x"], 
+      ["Zhao San", "acquaintance of x, business partner of x"]
+    ],
+    "Zhao Zhongyang": [
+      ["Zhang Wei", "friend of x, employer of x"], 
+      ["Zhao San", "friend of x, business partner of x"]
+    ],
+    "Zhao San": [
+      ["Zhang Wei", "acquaintance of x, business partner of x"], 
+      ["Zhao Zhongyang", "friend of x, business partner of x"]
+    ],
+    "Ma Laoban": [
+      ["Zhang Wei", "acquaintance of x, customer of x"]
+    ]
+}

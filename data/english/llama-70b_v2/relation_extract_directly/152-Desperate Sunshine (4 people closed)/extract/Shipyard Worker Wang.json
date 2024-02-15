@@ -1,0 +1,26 @@
+{
+    "Shipyard Worker Wang": [
+      ["First Mate Zhang", "colleague of x, drug partner of x"], 
+      ["Ship Doctor Ling", "son in law of x, drug supplier of x"], 
+      ["Boss Yang", "business partner of x, murderer of x"], 
+      ["Naive Hen", "acquaintance of x, messenger of x"], 
+      ["Ship Doctor Ling", "daughter in law of x"]
+    ],
+    "First Mate Zhang": [
+      ["Shipyard Worker Wang", "colleague of x, drug partner of x"], 
+      ["Boss Yang", "boss of x, drug receiver of x"]
+    ],
+    "Ship Doctor Ling": [
+      ["Shipyard Worker Wang", "father in law of x, drug supplier of x"], 
+      ["Boss Yang", "debtor of x, victim of x"], 
+      ["Shipyard Worker Wang", "son in law of x"]
+    ],
+    "Boss Yang": [
+      ["Shipyard Worker Wang", "business partner of x, murderer of x"], 
+      ["First Mate Zhang", "subordinate of x, drug receiver of x"]
+    ],
+    "Naive Hen": [
+      ["Shipyard Worker Wang", "acquaintance of x, messenger of x"], 
+      ["Boss Yang", "confidant of x, drug partner of x"]
+    ]
+}

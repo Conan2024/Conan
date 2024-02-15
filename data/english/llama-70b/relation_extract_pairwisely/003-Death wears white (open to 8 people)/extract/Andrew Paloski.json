@@ -1,0 +1,158 @@
+{
+    "Hans Li Morette": [
+        [
+            "Eleine Carter",
+            "Teacher-Student",
+            "Rival"
+        ],
+        [
+            "Dean Berkeley",
+            "Mentor of X",
+            "Teacher of X",
+            "Co-worker of X"
+        ],
+        [
+            "Head Nurse Costa",
+            "Colleague",
+            "Rival"
+        ],
+        [
+            "Father Tom",
+            "Mentor of X",
+            "Teacher of X",
+            "Superior of X",
+            "Employer of X"
+        ],
+        [
+            "Gale Li Morette",
+            "Colleague",
+            "Rival"
+        ]
+    ],
+    "Eleine Carter": [
+        [
+            "Hans Li Morette",
+            "Teacher-Student",
+            "Rival"
+        ],
+        [
+            "Dean Berkeley",
+            "Supervisor/Supervisee"
+        ],
+        [
+            "Head Nurse Costa",
+            "Supervisor of X",
+            "Mentor of X"
+        ],
+        [
+            "Father Tom",
+            "Acquaintance"
+        ],
+        [
+            "Gale Li Morette",
+            "Husband of X"
+        ]
+    ],
+    "Dean Berkeley": [
+        [
+            "Hans Li Morette",
+            "Mentor of X",
+            "Teacher of X",
+            "Co-worker of X"
+        ],
+        [
+            "Eleine Carter",
+            "Supervisor/Supervisee"
+        ],
+        [
+            "Head Nurse Costa",
+            "Superior of x",
+            "Employer of X"
+        ],
+        [
+            "Father Tom",
+            "Acquaintance"
+        ],
+        [
+            "Gale Li Morette",
+            "Hans Li Morette"
+        ]
+    ],
+    "Head Nurse Costa": [
+        [
+            "Hans Li Morette",
+            "Colleague",
+            "Supervisor"
+        ],
+        [
+            "Eleine Carter",
+            "Supervisee of X",
+            "Mentee of X"
+        ],
+        [
+            "Dean Berkeley",
+            "Subordinate of X",
+            "Employee of X"
+        ],
+        [
+            "Father Tom",
+            "Supervisor of X",
+            "Employer of X"
+        ],
+        [
+            "Gale Li Morette",
+            "Superior of x"
+        ]
+    ],
+    "Father Tom": [
+        [
+            "Hans Li Morette",
+            "Mentor of X",
+            "Teacher of X",
+            "Superior of X",
+            "Employer of X"
+        ],
+        [
+            "Eleine Carter",
+            "Acquaintance"
+        ],
+        [
+            "Dean Berkeley",
+            "Acquaintance"
+        ],
+        [
+            "Head Nurse Costa",
+            "Supervisor of X",
+            "Employer of X"
+        ],
+        [
+            "Gale Li Morette",
+            "Relationship 1: Acquaintance",
+            "Relationship 2: Confidant"
+        ]
+    ],
+    "Gale Li Morette": [
+        [
+            "Hans Li Morette",
+            "Spouse",
+            "Victim"
+        ],
+        [
+            "Eleine Carter",
+            "Wife of X"
+        ],
+        [
+            "Dean Berkeley",
+            "Hans Li Morette"
+        ],
+        [
+            "Head Nurse Costa",
+            "Wife of X"
+        ],
+        [
+            "Father Tom",
+            "Relationship 1: Acquaintance",
+            "Relationship 2: Confidant"
+        ]
+    ]
+}

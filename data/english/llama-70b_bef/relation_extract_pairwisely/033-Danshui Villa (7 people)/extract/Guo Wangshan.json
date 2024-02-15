@@ -1,0 +1,44 @@
+{
+    "Guo Wangshan": [
+      ["Zhao Wanlei", "acquaintance of x, business partner of x"], 
+      ["Liao Laoban", "employer of x, master of x, superior of x"], 
+      ["Yu Yichen", "acquaintance of x, business partner of x"], 
+      ["Master Ren", "friend of x, mentor of x, teacher of x, informant of x, acquaintance of x"], 
+      ["Huazi Li or Skunk", "friend of x, acquaintance of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Guo Wangshan", "acquaintance of x, business partner of x"], 
+      ["Liao Laoban", "business partner of x, adversary of x"], 
+      ["Yu Yichen", "business partner of x, rival of x"], 
+      ["Master Ren", "employer of x, business partner of x, customer of x, buyer of x"], 
+      ["Huazi Li or Skunk", "business partner of x, adversary of x"]
+    ],
+    "Liao Laoban": [
+      ["Guo Wangshan", "subordinate of x, employee of x"], 
+      ["Zhao Wanlei", "business partner of x, adversary of x"], 
+      ["Yu Yichen", "business partner of x, friend of x"], 
+      ["Master Ren", "employer of x, business partner of x"], 
+      ["Huazi Li or Skunk", "employer of x, master of x, superior of x"]
+    ],
+    "Yu Yichen": [
+      ["Guo Wangshan", "acquaintance of x, business partner of x"], 
+      ["Zhao Wanlei", "business partner of x, rival of x"], 
+      ["Liao Laoban", "business partner of x, friend of x"], 
+      ["Master Ren", "friend of x, acquaintance of x"], 
+      ["Huazi Li or Skunk", "friend of x"]
+    ],
+    "Master Ren": [
+      ["Guo Wangshan", "friend of x, mentor of x, teacher of x, informant of x, acquaintance of x"], 
+      ["Zhao Wanlei", "teacher of x, mentor of x, perpetrator of x, bully of x"], 
+      ["Liao Laoban", "teacher of x, mentor of x"], 
+      ["Yu Yichen", "friend of x, acquaintance of x"], 
+      ["Huazi Li or Skunk", "friend of x, mentor of x"]
+    ],
+    "Huazi Li or Skunk": [
+      ["Guo Wangshan", "friend of x, acquaintance of x"], 
+      ["Zhao Wanlei", "business partner of x, adversary of x"], 
+      ["Liao Laoban", "employee of x, servant of x"], 
+      ["Yu Yichen", "friend of x"], 
+      ["Master Ren", "friend of x"]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "Zhao Wei": [
+      ["Zhao Wanlei", "father of x, enemy of x"], 
+      ["Yu Fei", "mother of x"], 
+      ["Emperor Guangxu", "biological father of x, superior of x"], 
+      ["Feng Shuangji", "acquaintance of x"], 
+      ["Zhao Luoyi", "sister of x"], 
+      ["Zhang Yuyi or Imperial Physician Zhang", "deceiver of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Zhao Wei", "daughter of x, enemy of x"], 
+      ["Yu Fei", "wife of x"], 
+      ["Emperor Guangxu", "master of x, superior of x"], 
+      ["Feng Shuangji", "subordinate of x"], 
+      ["Zhao Luoyi", "daughter of x"], 
+      ["Zhang Yuyi or Imperial Physician Zhang", "deceiver of x"]
+    ],
+    "Yu Fei": [
+      ["Zhao Wei", "daughter of x"], 
+      ["Zhao Wanlei", "husband of x, enemy of x"], 
+      ["Emperor Guangxu", "lover of x, superior of x"], 
+      ["Feng Shuangji", "acquaintance of x"], 
+      ["Zhao Luoyi", "daughter of x"]
+    ],
+    "Emperor Guangxu": [
+      ["Zhao Wei", "biological daughter of x"], 
+      ["Zhao Wanlei", "subordinate of x, enemy of x"], 
+      ["Yu Fei", "lover of x"], 
+      ["Feng Shuangji", "subordinate of x"], 
+      ["Zhao Luoyi", "daughter of x"]
+    ],
+    "Feng Shuangji": [
+      ["Zhao Wei", "acquaintance of x"], 
+      ["Zhao Wanlei", "subordinate of x, enemy of x"], 
+      ["Yu Fei", "acquaintance of x"], 
+      ["Emperor Guangxu", "superior of x, master of x"], 
+      ["Zhao Luoyi", "sister of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Zhao Wei", "sister of x"], 
+      ["Zhao Wanlei", "father of x, enemy of x"], 
+      ["Yu Fei", "mother of x"], 
+      ["Emperor Guangxu", "master of x, superior of x"], 
+      ["Feng Shuangji", "acquaintance of x"]
+    ],
+    "Zhao Qiuer": [
+      ["Emperor Guangxu", "superior of x"], 
+      ["Feng Shuangji", "acquaintance of x"]
+    ],
+    "Zhang Yuyi or Imperial Physician Zhang": [
+      ["Zhao Wei", "deceiver of x"], 
+      ["Zhao Wanlei", "deceiver of x"], 
+      ["Emperor Guangxu", "superior of x"], 
+      ["Feng Shuangji", "acquaintance of x"]
+    ]
+}

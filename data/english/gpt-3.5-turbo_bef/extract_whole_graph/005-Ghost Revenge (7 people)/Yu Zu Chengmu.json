@@ -1,0 +1,39 @@
+{
+    "Yu Zu Chengmu": [
+      ["Xia Sanhu", "friend of x"], 
+      ["Tadayoshi Susumu", "employer of x"], 
+      ["Akihiro Imamura", "colleague of x"], 
+      ["Li Luo Ming", "nephew of x"], 
+      ["Xia Jinhe", "daughter of x"], 
+      ["Qian Tian", "friend of x"], 
+      ["Duan Hejun", "extramarital affair with x"]
+    ],
+    "Li Zicai": [
+      ["Duan Hejun", "extramarital affair with x"]
+    ],
+    "Duan Hejun": [
+      ["Li Zicai", "extramarital affair with x"], 
+      ["Xia Bolong", "husband of x"]
+    ],
+    "Xia Bolong": [
+      ["Duan Hejun", "husband of x"], 
+      ["Xia Sanhu", "brother of x"], 
+      ["Xia Jinhe", "father of x"]
+    ],
+    "Xia Sanhu": [
+      ["Yu Zu Chengmu", "friend of x"], 
+      ["Xia Bolong", "brother of x"]
+    ],
+    "Li Luo Ming": [
+      ["Yu Zu Chengmu", "nephew of x"]
+    ],
+    "Wu Baian": [
+      ["Yu Zu Chengmu", "acquaintance of x"]
+    ],
+    "Xia Jinhe": [
+      ["Xia Bolong", "daughter of x"]
+    ],
+    "Qian Tian": [
+      ["Yu Zu Chengmu", "friend of x"]
+    ]
+}

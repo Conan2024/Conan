@@ -1,0 +1,50 @@
+{
+    "Zhou Chitong": [
+      ["Zhou Mengdang", "sibling of x"], 
+      ["Cui Shouheng", "acquaintance of x"], 
+      ["Yu Sunian", "romantic relationships with x"], 
+      ["Taitai", "acquaintance of x"], 
+      ["Bao Liu", "acquaintance of x"], 
+      ["Lianyi", "acquaintance of x"], 
+      ["Zhou Lianyi", "sibling of x"], 
+      ["Wang Jiale", "acquaintance of x, business partner of x"], 
+      ["Lin Guoxiang", "acquaintance of x, mentor of x"]
+    ],
+    "Zhou Mengdang": [
+      ["Zhou Chitong", "sibling of x"]
+    ],
+    "Cui Shouheng": [
+      ["Zhou Chitong", "acquaintance of x"], 
+      ["Bao Gan", "concubine of x"], 
+      ["Tian Chou", "concubine of x"], 
+      ["Yannan", "father of x"], 
+      ["Xi Yan", "wife of x"]
+    ],
+    "Yu Sunian": [
+      ["Zhou Chitong", "romantic relationships with x"]
+    ],
+    "Taitai": [
+      ["Xi Yan", "wife of x"], 
+      ["Lin Guoxiang", "acquaintance of x"]
+    ],
+    "Bao Liu": [
+      ["Zhou Chitong", "acquaintance of x"]
+    ],
+    "Lianyi": [
+      ["Zhou Chitong", "acquaintance of x"]
+    ],
+    "Zhou Lianyi": [
+      ["Zhou Chitong", "sibling of x"]
+    ],
+    "Xi Yan": [
+      ["Cui Shouheng", "wife of x"], 
+      ["Wang Jiale", "acquaintance of x"], 
+      ["Lin Guoxiang", "acquaintance of x"]
+    ],
+    "Bao Gan": [
+      ["Cui Shouheng", "concubine of x"]
+    ],
+    "Tian Chou": [
+      ["Cui Shouheng", "concubine of x"]
+    ]
+}

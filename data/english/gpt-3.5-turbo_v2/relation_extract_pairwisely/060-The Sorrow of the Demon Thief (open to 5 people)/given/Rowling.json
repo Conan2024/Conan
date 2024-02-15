@@ -1,0 +1,130 @@
+{
+    "Publicity Rowling": [
+      ["Magician Gust", "friend of x, employee of x"], 
+      ["Assistant Ella", "friend of x"], 
+      ["Theatrical Work David", "co workers of x, thieves of x"], 
+      ["Security Kevin", "friend of x"], 
+      ["Ella", "friend of x"], 
+      ["Gust", "friend of x, attempted perpetrator of x"], 
+      ["Kevin", "mentor of x, helper of x"], 
+      ["Rowling", "helper of x, co worker of x"], 
+      ["David", "business partner of x"]
+    ],
+    "Magician Gust": [
+      ["Publicity Rowling", "employer of x"], 
+      ["Assistant Ella", "romantic relationships with x"], 
+      ["Theatrical Work David", "helper of x"], 
+      ["Security Kevin", "acquaintance of x, information receiver from x"], 
+      ["Ella", "romantic relationships with ella of x"], 
+      ["Gust", "fellow thieves with gust of x, employer of x gust"], 
+      ["Kevin", "fiance of x"], 
+      ["Griff", "employee of x"], 
+      ["Rowling", "employer of x rowling"], 
+      ["David", "thief of x, business partner of x"]
+    ],
+    "Assistant Ella": [
+      ["Publicity Rowling", "friend of x"], 
+      ["Magician Gust", "romantic relationships with x"], 
+      ["Theatrical Work David", "friend of x"], 
+      ["Security Kevin", "friend of x"], 
+      ["Ella", "friend of x"], 
+      ["Kevin", "friend of x, helper of x"], 
+      ["Griff", "helper of x"], 
+      ["Rowling", "friend of x"], 
+      ["David", "acquaintance of x"]
+    ],
+    "Theatrical Work David": [
+      ["Publicity Rowling", "co workers of x, thieves of x"], 
+      ["Magician Gust", "helped by x"], 
+      ["Assistant Ella", "friend of x"], 
+      ["Security Kevin", "student of x"], 
+      ["Ella", "romantic relationships with ella of x"], 
+      ["Gust", "helper of x gust, previous theft partner of x gust"], 
+      ["Kevin", "brother of x"], 
+      ["Griff", "business partner of x, employer of x"], 
+      ["Rowling", "business partner of x"], 
+      ["David", "thief of x, ex romantic relationships with x"]
+    ],
+    "Security Kevin": [
+      ["Publicity Rowling", "brother of x"], 
+      ["Magician Gust", "acquaintance of x, information receiver from x"], 
+      ["Assistant Ella", "brother of x, student of x"], 
+      ["Theatrical Work David", "mentor of x"], 
+      ["Ella", "friend of x"], 
+      ["Gust", "informed by of x"], 
+      ["Kevin", "brother of x"], 
+      ["Griff", "friend of x, secret lover of x"], 
+      ["Rowling", "friend of x"], 
+      ["David", "ex partner in crime"]
+    ],
+    "Ella": [
+      ["Publicity Rowling", "friend of x"], 
+      ["Magician Gust", "romantic relationships with magician gust of x"], 
+      ["Assistant Ella", "friend of x"], 
+      ["Theatrical Work David", "romantic relationships with david of x"], 
+      ["Security Kevin", "friend of x"], 
+      ["Gust", "romantic relationships with gust of x"], 
+      ["Kevin", "friend of x"], 
+      ["Griff", "friend of x"], 
+      ["Rowling", "informant of x"], 
+      ["David", "friend of x"], 
+      ["Gust", "employee of x"]
+    ],
+    "Gust": [
+      ["Publicity Rowling", "friend of x, attempted perpetrator of x"], 
+      ["Magician Gust", "fellow thieves with magician gust of x, employee of x magician gust"], 
+      ["Theatrical Work David", "employee of x theatrical work david"], 
+      ["Security Kevin", "employer of x"], 
+      ["Ella", "romantic relationships with ella of x"], 
+      ["David", "former theft partner of x"], 
+      ["Rowling", "co worker of x"], 
+      ["David", "business partner of x, co conspirator of x"]
+    ],
+    "Kevin": [
+      ["Publicity Rowling", "student of x, helped by x"], 
+      ["Magician Gust", "quest companion of x"], 
+      ["Assistant Ella", "friend of x, helper of x"], 
+      ["Theatrical Work David", "sibling of x"], 
+      ["Security Kevin", "brother of x"], 
+      ["Ella", "helper of x"], 
+      ["Gust", "employer of x"], 
+      ["Griff", "brother of x"], 
+      ["Rowling", "friend of x"], 
+      ["David", "brother of x"]
+    ],
+    "Griff": [
+      ["Magician Gust", "employer of x"], 
+      ["Assistant Ella", "friend of x"], 
+      ["Theatrical Work David", "business partner of x, employee of x"], 
+      ["Security Kevin", "secret lover of x"], 
+      ["Ella", "co worker of x"], 
+      ["Kevin", "sibling of x"], 
+      ["Rowling", "friend of x, secret lover of x"], 
+      ["David", "friend of x"]
+    ],
+    "Rowling": [
+      ["Publicity Rowling", "helper of x, co worker of x"], 
+      ["Magician Gust", "employee of x magician gust"], 
+      ["Assistant Ella", "best friend of x"], 
+      ["Theatrical Work David", "business partner of x"], 
+      ["Security Kevin", "friend of x"], 
+      ["Ella", "friend of x, mentor of x"], 
+      ["Gust", "co worker of x"], 
+      ["Kevin", "brother of x"], 
+      ["Griff", "friend of x"], 
+      ["David", "former theft partner of x"]
+    ],
+    "David": [
+      ["Publicity Rowling", "business partner of x"], 
+      ["Magician Gust", "thief of x, business partner of x"], 
+      ["Assistant Ella", "acquaintance of x"], 
+      ["Theatrical Work David", "mentor of x"], 
+      ["Security Kevin", "ex partner in crime"], 
+      ["Ella", "thief of x"], 
+      ["Gust", "former theft partner of x"], 
+      ["Gust", "business partner of x, co conspirator of x"], 
+      ["Kevin", "ex theft partner of x"], 
+      ["Griff", "friend of x"], 
+      ["Rowling", "former theft partner of x"]
+    ]
+}

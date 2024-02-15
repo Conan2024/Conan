@@ -1,0 +1,26 @@
+{
+    "Shipyard Worker Wang": [
+      ["First Mate Zhang", "replaced x's identity"], 
+      ["Ship Doctor Ling", "father of x, father in law of x"], 
+      ["Boss Yang", "acquaintance of x"]
+    ],
+    "First Mate Zhang": [
+      ["Shipyard Worker Wang", "romantic relationships with x"], 
+      ["Ship Doctor Ling", "romantic relationships with x"], 
+      ["Boss Yang", "customer of x"]
+    ],
+    "Worker Wang": [
+      ["Ship Doctor Ling", "father in law of x"], 
+      ["Boss Yang", "business partner of x"]
+    ],
+    "Ship Doctor Ling": [
+      ["Shipyard Worker Wang", "daughter in law of x, daughter of x"], 
+      ["First Mate Zhang", "romantic relationships with x"], 
+      ["Worker Wang", "daughter in law of x"]
+    ],
+    "Boss Yang": [
+      ["Shipyard Worker Wang", "acquaintance of x"], 
+      ["First Mate Zhang", "product provider of x"], 
+      ["Worker Wang", "business partner of x"]
+    ]
+}

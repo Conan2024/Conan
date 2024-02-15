@@ -1,0 +1,140 @@
+{
+    "Xia Zhongpeng": [
+      ["Xia Beigui", "brother of x"], 
+      ["Xia Sanhu", "brother of x"], 
+      ["Li Zicai", "friend of x, mentor of x"], 
+      ["Xia Shue", "brother of x, murderer of x"], 
+      ["A'e", "brother of x, colleague of x"], 
+      ["Aming", "brother of x, friend of x"], 
+      ["Abao", "brother of x"], 
+      ["Yu Zu Chengmu", "brother of x, friend of x"]
+    ],
+    "Xia Beigui": [
+      ["Xia Zhongpeng", "brother of x"], 
+      ["Xia Bolong", "brother of x"], 
+      ["Xia Sanhu", "father of x"], 
+      ["Xia Shue", "mentor of x, same person as x (different reference)"], 
+      ["Luo Ming", "brother of x"], 
+      ["Aming", "brother of x"], 
+      ["Lu Dong", "brother of x"], 
+      ["Abao", "brother of x"], 
+      ["Yu Zu Chengmu", "friend of x"], 
+      ["mentor of Duan Yuetong", "friend of x"]
+    ],
+    "Xia Bolong": [
+      ["Xia Beigui", "brother of x"], 
+      ["Li Zicai", "helper of x, doctor of x"], 
+      ["Xia Shue", "brother of x"], 
+      ["Luo Ming", "brother of x, student of x"], 
+      ["Lu Dong", "brother of x"], 
+      ["Abao", "brother of x"], 
+      ["Duan Yuetong", "friend of x"]
+    ],
+    "Xia Sanhu": [
+      ["Xia Zhongpeng", "brother of x"], 
+      ["Xia Beigui", "son of x"], 
+      ["Li Zicai", "mentor of x, doctor of x"], 
+      ["Xia Shue", "brother of x, uncle of x"], 
+      ["A'e", "brother of x"], 
+      ["Luo Ming", "brother of x, friend of x"], 
+      ["Aming", "murderer of x"], 
+      ["Lu Dong", "brother of x"], 
+      ["Yu Zu Chengmu", "murderer of x, manipulator of x"]
+    ],
+    "Li Zicai": [
+      ["Xia Zhongpeng", "friend of x, mentor of x"], 
+      ["Xia Bolong", "helped by x, patient of x"], 
+      ["Xia Sanhu", "student of x, patient of x"], 
+      ["Xia Shue", "friend of x, doctor of x"], 
+      ["A'e", "mentor of x"], 
+      ["familial relationship with Xia Sanhu", "mentor of x"], 
+      ["Yu Zu Chengmu", "mentor of x"], 
+      ["Duan Yuetong", "mentor of x"]
+    ],
+    "Xia Shue": [
+      ["Xia Zhongpeng", "sibling of x, victim of x"], 
+      ["Xia Beigui", "student of x, child of x"], 
+      ["Xia Bolong", "daughter of x"], 
+      ["Xia Sanhu", "niece of x"], 
+      ["Li Zicai", "friend of x, patient of x"], 
+      ["A'e", "child of x"], 
+      ["Luo Ming", "friend of x, student of x"], 
+      ["Aming", "patient of x"], 
+      ["Lu Dong", "friend of x, student of x"], 
+      ["Abao", "brother of x, friend of x"], 
+      ["Yu Zu Chengmu", "acquaintance of x"], 
+      ["Duan Yuetong", "friend of x, acquaintance of x"]
+    ],
+    "A'e": [
+      ["Xia Zhongpeng", "brother of x, colleague of x"], 
+      ["Xia Sanhu", "sister of x"], 
+      ["Li Zicai", "student of x"], 
+      ["Xia Shue", "father of x"], 
+      ["Aming", "helper of x, acquaintance of x"], 
+      ["Lu Dong", "helper of x"], 
+      ["Abao", "twin brother of x"], 
+      ["Yu Zu Chengmu", "lover of x, romantic relationships with x"], 
+      ["Duan Yuetong", "acquaintance of x, friend of x"]
+    ],
+    "Aming": [
+      ["Xia Zhongpeng", "master of x, student of x"], 
+      ["Xia Beigui", "student of x"], 
+      ["Xia Sanhu", "student of x"], 
+      ["Xia Shue", "helper of x"], 
+      ["A'e", "helped by x, acquaintance of x"], 
+      ["Lu Dong", "student of x"], 
+      ["Abao", "friend of x"], 
+      ["Duan Yuetong", "acquaintance of x, informant of x"]
+    ],
+    "Abao": [
+      ["Xia Zhongpeng", "brother of x"], 
+      ["Xia Beigui", "brother of x"], 
+      ["Xia Bolong", "brother of x"], 
+      ["Xia Shue", "brother of x, friend of x"], 
+      ["A'e", "twin brother of x"], 
+      ["Aming", "friend of x"], 
+      ["Lu Dong", "brother of x"], 
+      ["Yu Zu Chengmu", "mentor of x, ex romantic relationships with x"]
+    ],
+    "Yu Zu Chengmu": [
+      ["Xia Zhongpeng", "brother of x, friend of x"], 
+      ["Xia Beigui", "friend of x"], 
+      ["Xia Sanhu", "victim of x, manipulated by x"], 
+      ["Li Zicai", "student of x"], 
+      ["Xia Shue", "acquaintance of x"], 
+      ["A'e", "lover of x, romantic relationships with x"], 
+      ["Luo Ming", "adversary of x"], 
+      ["Lu Dong", "brother of x"], 
+      ["Abao", "mentor of x, ex romantic relationships with x"], 
+      ["Duan Yuetong", "friend of x, informant of x"]
+    ],
+    "Duan Yuetong": [
+      ["Xia Bolong", "friend of x"], 
+      ["Li Zicai", "student of x"], 
+      ["Xia Shue", "friend of x, acquaintance of x"], 
+      ["A'e", "acquaintance of x, friend of x"], 
+      ["Aming", "acquaintance of x, informant of x"], 
+      ["Lu Dong", "friend of x"], 
+      ["Yu Zu Chengmu", "friend of x, informant of x"]
+    ],
+    "Luo Ming": [
+      ["Xia Beigui", "brother of x"], 
+      ["Xia Bolong", "mentor of x, teacher of x"], 
+      ["Xia Sanhu", "brother of x, friend of x"], 
+      ["Xia Shue", "friend of x, teacher of x"], 
+      ["Lu Dong", "helped by x, helper of x"], 
+      ["Yu Zu Chengmu", "adversary of x"]
+    ],
+    "Lu Dong": [
+      ["Xia Beigui", "brother of x"], 
+      ["Xia Bolong", "brother of x"], 
+      ["Xia Sanhu", "brother of x"], 
+      ["Xia Shue", "friend of x, mentor of x"], 
+      ["A'e", "helper of x"], 
+      ["Luo Ming", "helped by x, helped by x"], 
+      ["Aming", "teacher of x"], 
+      ["Abao", "brother of x"], 
+      ["Yu Zu Chengmu", "brother of x"], 
+      ["Duan Yuetong", "friend of x"]
+    ]
+}

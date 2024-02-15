@@ -1,0 +1,36 @@
+{
+    "Xiao Qian": [
+      ["Chen Qian", "friend of x, acquaintance of x"], 
+      ["Li Wangye", "enemy of x, rival of x"], 
+      ["Li Zhong", "friend of x, helper of x"], 
+      ["Mrs. Li", "suspect of x, adversary of x"], 
+      ["Chen Qian", "murderer of x, attempted murderer of x"], 
+      ["Li Fu", "master of x, employer of x"]
+    ],
+    "Chen Qian": [
+      ["Xiao Qian", "friend of x, acquaintance of x"], 
+      ["Li Wangye", "husband of x, rapist of x"], 
+      ["Li Zhong", "friend of x, helper of x"], 
+      ["Mrs. Li", "suspect of x, adversary of x"]
+    ],
+    "Li Wangye": [
+      ["Xiao Qian", "enemy of x, rival of x"], 
+      ["Chen Qian", "husband of x, rapist of x"], 
+      ["Li Zhong", "friend of x, helper of x"], 
+      ["Mrs. Li", "wife of x, suspect of x"]
+    ],
+    "Li Zhong": [
+      ["Xiao Qian", "friend of x, helper of x"], 
+      ["Chen Qian", "friend of x, helper of x"], 
+      ["Li Wangye", "friend of x, employer of x"]
+    ],
+    "Mrs. Li": [
+      ["Xiao Qian", "suspect of x, adversary of x"], 
+      ["Chen Qian", "suspect of x, adversary of x"], 
+      ["Li Wangye", "wife of x, suspect of x"]
+    ],
+    "Li Fu": [
+      ["Xiao Qian", "master of x, employer of x"], 
+      ["Chen Qian", "master of x, employer of x"]
+    ]
+}

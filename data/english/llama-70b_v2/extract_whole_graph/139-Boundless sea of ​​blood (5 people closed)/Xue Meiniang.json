@@ -1,0 +1,18 @@
+{
+    "Xue Meiniang": [
+      ["JIA Meili", "suspect of x, art candidate of x"], 
+      ["Qin Laoda", "lover of x, underground music teacher of x"]
+    ],
+    "Qin Laoda": [
+      ["Xue Meiniang", "lover of x, music teacher of x"], 
+      ["JIA Meili", "enemy of x, art candidate of x"]
+    ],
+    "JIA Meili": [
+      ["Xue Meiniang", "suspect of x, art candidate of x"], 
+      ["Qin Laoda", "enemy of x, art candidate of x"]
+    ],
+    "Qin Expert": [
+      ["Xue Meiniang", "lover's father of x, well known musician of x"], 
+      ["Qin Laoda", "son of x, well known musician of x"]
+    ]
+}

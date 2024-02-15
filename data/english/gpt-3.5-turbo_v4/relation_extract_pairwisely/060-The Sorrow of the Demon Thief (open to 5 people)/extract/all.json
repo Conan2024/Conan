@@ -1,0 +1,106 @@
+{
+    "Assistant Ella": [
+      ["Ella", "colleague of x, friend of x"], 
+      ["magician Gust", "romantic relationships with x"], 
+      ["Griff", "employer of x, crime partner of x"], 
+      ["Logistics Griff", "guard of x"], 
+      ["TheTrical Work David", "friend of x"], 
+      ["Kevin", "helper of x"], 
+      ["David", "friend of x, informant of x"], 
+      ["Gust", "romantic relationships with x, deceiver of x"], 
+      ["Publicity Rowling", "friend of x, acquaintance of x"]
+    ],
+    "Ella": [
+      ["Assistant Ella", "colleague of x, friend of x"], 
+      ["magician Gust", "fondness of x, perpetrator of x"], 
+      ["Rowling", "friend of x, informant of x"], 
+      ["TheTrical Work David", "romantic relationships with x"], 
+      ["Kevin", "helper of x"], 
+      ["David", "informant of x"], 
+      ["Gust", "romantic relationships with x"], 
+      ["Publicity Rowling", "friend of x"]
+    ],
+    "magician Gust": [
+      ["Assistant Ella", "romantic relationships with x"], 
+      ["Ella", "fondness of x, manipulator of x"], 
+      ["Griff", "employer of x"], 
+      ["Rowling", "romantic relationships with x, ex romantic relationships with x"], 
+      ["TheTrical Work David", "romantic relationships with x, admirer of x"], 
+      ["Kevin", "friend of x"], 
+      ["secret admirer of David", "business partner of x"], 
+      ["Gust", "romantic relationships with x"], 
+      ["Publicity Rowling", "admirer of x"]
+    ],
+    "Griff": [
+      ["Assistant Ella", "employee of x, victim of x"], 
+      ["magician Gust", "employee of x"], 
+      ["Rowling", "disliked by x"], 
+      ["TheTrical Work David", "suspected by x"], 
+      ["Kevin", "helper of x"], 
+      ["David", "suspected by x"], 
+      ["Publicity Rowling", "admirer of x"]
+    ],
+    "Publicity Rowling": [
+      ["Assistant Ella", "friend of x, acquaintance of x"], 
+      ["Ella", "friend of x"], 
+      ["magician Gust", "friend of x"], 
+      ["Griff", "admirer of x"], 
+      ["Rowling", "friend of x"], 
+      ["TheTrical Work David", "attempted perpetrator of x"], 
+      ["Kevin", "friend of x"], 
+      ["David", "friend of x"], 
+      ["Gust", "romantic relationships with x"]
+    ],
+    "TheTrical Work David": [
+      ["Assistant Ella", "friend of x"], 
+      ["Ella", "friend of x"], 
+      ["magician Gust", "romantic relationships with x"], 
+      ["Rowling", "romantic relationships with x"], 
+      ["Kevin", "friend of x"], 
+      ["David", "friend of x"], 
+      ["Gust", "romantic relationships with x"], 
+      ["Publicity Rowling", "romantic relationships with x"]
+    ],
+    "Kevin": [
+      ["Assistant Ella", "helped by x"], 
+      ["Ella", "helper of x"], 
+      ["magician Gust", "friend of x, helper of x"], 
+      ["Griff", "helped by x"], 
+      ["Rowling", "friend of x"], 
+      ["TheTrical Work David", "friend of x"], 
+      ["David", "friend of x"], 
+      ["Gust", "friend of x, acquaintance of x"], 
+      ["Publicity Rowling", "friend of x"]
+    ],
+    "David": [
+      ["Assistant Ella", "fondness of x"], 
+      ["Ella", "informant of x"], 
+      ["secret admirer of magician Gust", "business partner of x"], 
+      ["Griff", "suspect of x"], 
+      ["Rowling", "admirer of x"], 
+      ["TheTrical Work David", "friend of x"], 
+      ["Kevin", "friend of x"], 
+      ["Gust", "friend of x, informant of x"], 
+      ["Publicity Rowling", "admirer of x"]
+    ],
+    "Gust": [
+      ["Assistant Ella", "lover of x, manipulated by x"], 
+      ["Ella", "romantic relationships with x"], 
+      ["magician Gust", "romantic relationships with x"], 
+      ["Rowling", "romantic relationships with x"], 
+      ["TheTrical Work David", "romantic relationships with x"], 
+      ["Kevin", "employer of x, authority over x"], 
+      ["David", "friend of x, informant of x"], 
+      ["Publicity Rowling", "romantic relationships with x, buyer of x"]
+    ],
+    "Rowling": [
+      ["Ella", "friend of x"], 
+      ["magician Gust", "romantic relationships with x, ex romantic relationships with x"], 
+      ["Griff", "dislike of x"], 
+      ["TheTrical Work David", "romantic relationships with x"], 
+      ["Kevin", "friend of x"], 
+      ["David", "friend of x"], 
+      ["Gust", "romantic relationships with x"], 
+      ["Publicity Rowling", "friend of x"]
+    ]
+}

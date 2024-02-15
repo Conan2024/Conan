@@ -1,0 +1,72 @@
+{
+    "Harold Harrison": [
+      ["Marina Harrison", "husband of x"], 
+      ["Lucy Harrison", "father of x"], 
+      ["Amy Morgan", "brother of x"], 
+      ["John Morgan", "brother in law of x"], 
+      ["Jacqueline Perry", "sister in law of x, co worker of x"], 
+      ["Max Pike", "business partner of x"], 
+      ["Anna", "ex wife of x"]
+    ],
+    "Marina Harrison": [
+      ["Harold Harrison", "wife of x"], 
+      ["Lucy Harrison", "mother of x"], 
+      ["Amy Morgan", "sister in law of x"], 
+      ["John Morgan", "husband of x"], 
+      ["Jacqueline Perry", "sister in law of x, business partner of x"], 
+      ["Max Pike", "friend of x"], 
+      ["Anna", "ex wife of x, sister in law of x"]
+    ],
+    "Lucy Harrison": [
+      ["Harold Harrison", "child of x"], 
+      ["Marina Harrison", "child of x"], 
+      ["Amy Morgan", "daughter in law of x"], 
+      ["John Morgan", "child of x"], 
+      ["Jacqueline Perry", "sister in law of x"], 
+      ["Max Pike", "acquaintance of x"], 
+      ["Anna", "sister of x"]
+    ],
+    "Amy Morgan": [
+      ["Harold Harrison", "sister of x"], 
+      ["Marina Harrison", "sister in law of x"], 
+      ["Lucy Harrison", "sister of x, ex wife of x"], 
+      ["John Morgan", "brother in law of x john morgan"], 
+      ["Jacqueline Perry", "sister in law of x"], 
+      ["Max Pike", "friend of x, adversary of x"], 
+      ["Anna", "sister of x"]
+    ],
+    "John Morgan": [
+      ["Harold Harrison", "brother in law of x"], 
+      ["Marina Harrison", "husband of x"], 
+      ["Lucy Harrison", "step father of x"], 
+      ["Amy Morgan", "brother in law of x amy morgan"], 
+      ["Jacqueline Perry", "brother in law of x"], 
+      ["Max Pike", "colleague of x john morgan"], 
+      ["Anna", "ex wife of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Harold Harrison", "brother in law of x, co worker of x"], 
+      ["Marina Harrison", "sister of x, business partner of x"], 
+      ["Lucy Harrison", "niece of x"], 
+      ["Amy Morgan", "sister in law of x"], 
+      ["John Morgan", "sister in law of x"], 
+      ["Max Pike", "business partner of x"], 
+      ["Anna", "sister in law of x"]
+    ],
+    "Max Pike": [
+      ["Harold Harrison", "acquaintance of x"], 
+      ["Marina Harrison", "acquaintance of x"], 
+      ["Lucy Harrison", "suspected by of x"], 
+      ["Amy Morgan", "friend of x, adversary of x"], 
+      ["John Morgan", "colleague of x max pike"], 
+      ["Jacqueline Perry", "business partner of x"]
+    ],
+    "Anna": [
+      ["Harold Harrison", "ex husband of x"], 
+      ["Marina Harrison", "ex wife of x, sister in law of x"], 
+      ["Lucy Harrison", "sister of x"], 
+      ["Amy Morgan", "sister in law of x"], 
+      ["John Morgan", "ex husband of x"], 
+      ["Jacqueline Perry", "sister in law of x"]
+    ]
+}

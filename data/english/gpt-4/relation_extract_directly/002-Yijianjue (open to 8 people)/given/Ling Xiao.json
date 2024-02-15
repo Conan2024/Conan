@@ -1,0 +1,58 @@
+{
+    "Ling Xiao": [
+        [
+            "Master",
+            "student of x, informant of x, deceiver of x, suspected by x"
+        ],
+        [
+            "Feng",
+            "information receiver from x, business partner of x"
+        ],
+        [
+            "Eldest Senior Brother",
+            "sibling of x, colleague of x"
+        ]
+    ],
+    "Master": [
+        [
+            "Ling Xiao",
+            "mentor of x, superior of x, deceived by x, suspecting x"
+        ],
+        [
+            "Feng",
+            "unaware of x"
+        ],
+        [
+            "Eldest Senior Brother",
+            "mentor of x, superior of x"
+        ]
+    ],
+    "Feng": [
+        [
+            "Ling Xiao",
+            "service provider of x, business partner of x"
+        ],
+        [
+            "Master",
+            "unaware of x"
+        ],
+        [
+            "Eldest Senior Brother",
+            "unaware of x"
+        ]
+    ],
+    "Eldest Senior Brother": [
+        [
+            "Ling Xiao",
+            "sibling of x, colleague of x"
+        ],
+        [
+            "Master",
+            "student of x, subordinate of x"
+        ],
+        [
+            "Feng",
+            "unaware of x"
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Captain Hong": [
+      ["Liu Qi", "student of x"], 
+      ["Liu Qi", "former colleague of x"], 
+      ["Liu Qi", "drug smuggler of x"], 
+      ["Han Chengwu", "caused trouble for x"], 
+      ["Singer Lin", "lover of x"], 
+      ["Singer Lin", "lover (secret relationship) of x"], 
+      ["ZHANG WENYUAN", "dissatisfied with x's promotion"], 
+      ["ZHANG WENYUAN", "accused x of x job error"], 
+      ["ZHANG ERFU", "involved in incident with x"], 
+      ["ZHANG ERFU", "apologized to x"], 
+      ["Board of Directors", "received report from x"], 
+      ["Trinity", "received fax from x"], 
+      ["Nicotine addiction", "affected x"]
+    ],
+    "Liu Qi": [
+      ["Captain Hong", "teacher/student relationship with x"], 
+      ["Captain Hong", "former colleague of x"], 
+      ["Captain Hong", "drug smuggler of x"], 
+      ["ZHANG WENYUAN", "dissatisfied with x's promotion"], 
+      ["ZHANG WENYUAN", "reported job error by x"], 
+      ["ZHANG ERFU", "involved in incident with x"], 
+      ["ZHANG ERFU", "apologized to x"]
+    ],
+    "Han Chengwu": [
+      ["Captain Hong", "caused trouble for x"]
+    ],
+    "Singer Lin": [
+      ["Captain Hong", "lover of x"], 
+      ["Captain Hong", "lover (secret relationship) of x"]
+    ],
+    "ZHANG WENYUAN": [
+      ["Captain Hong", "dissatisfied with x's promotion"], 
+      ["Captain Hong", "accused job error by x"], 
+      ["Liu Qi", "dissatisfied with x's promotion"], 
+      ["Liu Qi", "reported job error by x"]
+    ],
+    "ZHANG ERFU": [
+      ["Captain Hong", "involved in incident with x"], 
+      ["Captain Hong", "apologized to x"], 
+      ["Liu Qi", "involved in incident with x"], 
+      ["Liu Qi", "apologized to x"]
+    ],
+    "Board of Directors": [
+      ["Captain Hong", "received report from x"]
+    ],
+    "Trinity": [
+      ["Captain Hong", "received fax from x"]
+    ]
+}

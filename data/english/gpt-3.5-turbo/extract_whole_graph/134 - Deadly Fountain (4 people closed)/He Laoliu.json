@@ -1,0 +1,196 @@
+{
+    "He Laoliu": [
+        [
+            "Li Guofu",
+            "partner in crime"
+        ],
+        [
+            "Zhang Jie",
+            "partner in crime"
+        ],
+        [
+            "Mu Bei",
+            "colleague"
+        ],
+        [
+            "Neighbor Wang",
+            "acquaintance"
+        ],
+        [
+            "Second sister",
+            "family member"
+        ],
+        [
+            "Dad",
+            "family member"
+        ],
+        [
+            "Father-in-law",
+            "future relative"
+        ],
+        [
+            "Li Guofu",
+            "murderer"
+        ],
+        [
+            "Mu Bei",
+            "murder victim"
+        ]
+    ],
+    "Li Guofu": [
+        [
+            "He Laoliu",
+            "partner in crime"
+        ],
+        [
+            "Zhang Jie",
+            "partner in crime"
+        ],
+        [
+            "Mu Bei",
+            "colleague"
+        ],
+        [
+            "Neighbor Wang",
+            "acquaintance"
+        ],
+        [
+            "Second sister",
+            "acquaintance"
+        ],
+        [
+            "Dad",
+            "acquaintance"
+        ],
+        [
+            "He Laoliu",
+            "murderer"
+        ],
+        [
+            "Mu Bei",
+            "murder victim"
+        ]
+    ],
+    "Zhang Jie": [
+        [
+            "He Laoliu",
+            "partner in crime"
+        ],
+        [
+            "Li Guofu",
+            "partner in crime"
+        ],
+        [
+            "Mu Bei",
+            "colleague"
+        ],
+        [
+            "Second sister",
+            "acquaintance"
+        ],
+        [
+            "Dad",
+            "acquaintance"
+        ],
+        [
+            "He Laoliu",
+            "murderer"
+        ],
+        [
+            "Mu Bei",
+            "murder victim"
+        ]
+    ],
+    "Mu Bei": [
+        [
+            "He Laoliu",
+            "colleague"
+        ],
+        [
+            "Li Guofu",
+            "colleague"
+        ],
+        [
+            "Zhang Jie",
+            "colleague"
+        ],
+        [
+            "He Laoliu",
+            "murder victim"
+        ],
+        [
+            "Li Guofu",
+            "murderer"
+        ],
+        [
+            "Zhang Jie",
+            "murderer"
+        ]
+    ],
+    "Neighbor Wang": [
+        [
+            "He Laoliu",
+            "acquaintance"
+        ],
+        [
+            "Li Guofu",
+            "acquaintance"
+        ],
+        [
+            "He Laoliu",
+            "attempted murder victim"
+        ],
+        [
+            "Li Guofu",
+            "attempted murderer"
+        ],
+        [
+            "Police",
+            "authority over"
+        ]
+    ],
+    "Second sister": [
+        [
+            "He Laoliu",
+            "family member"
+        ],
+        [
+            "Li Guofu",
+            "acquaintance"
+        ],
+        [
+            "Dad",
+            "family member"
+        ],
+        [
+            "Father-in-law",
+            "future relative"
+        ]
+    ],
+    "Dad": [
+        [
+            "He Laoliu",
+            "family member"
+        ],
+        [
+            "Second sister",
+            "family member"
+        ]
+    ],
+    "Father-in-law": [
+        [
+            "He Laoliu",
+            "future relative"
+        ],
+        [
+            "Second sister",
+            "future relative"
+        ]
+    ],
+    "Police": [
+        [
+            "Neighbor Wang",
+            "authority over"
+        ]
+    ]
+}

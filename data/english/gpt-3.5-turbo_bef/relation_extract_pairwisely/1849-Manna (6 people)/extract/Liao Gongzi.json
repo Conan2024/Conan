@@ -1,0 +1,163 @@
+{
+    "Liao Xuehan": [
+      ["Liao Yiqiao", "child of x"], 
+      ["Julie", "friend of x"], 
+      ["Hai You", "adoptive daughter of x"], 
+      ["Tan Renchang", "acquaintance of x"], 
+      ["Tan Mingsha", "helped by x, adversary of x"], 
+      ["Cheng Ge", "helper of x"], 
+      ["Lv Mingran", "fondness of x"], 
+      ["Mrs. Wei", "helper of x"], 
+      ["Shang Zhi", "friend of x, helper of x"], 
+      ["Lawyer", "adversary of x"]
+    ],
+    "Liao Yiqiao": [
+      ["Liao Xuehan", "father of x"], 
+      ["Dr. Zhang", "informant of x, information receiver from x"], 
+      ["Julie", "friend of x"], 
+      ["Hai You", "helper of x"], 
+      ["Tan Renchang", "employer of x"], 
+      ["Tan Mingsha", "helper of x, employer of x"], 
+      ["Lv Mingran", "business partner of x"], 
+      ["Mrs. Wei", "husband of x"], 
+      ["Shang Zhi", "possibly family of x, helper of x"], 
+      ["A Ping", "friend of x"]
+    ],
+    "Liao's Trading Company": [
+      ["Dr. Zhang", "guest of x"], 
+      ["Julie", "helper of x, saved by x"], 
+      ["Tan Renchang", "business partner of x"], 
+      ["Tan Mingsha", "business partner of x"], 
+      ["Cheng Ge", "business partner of x"], 
+      ["Mrs. Wei", "business partner of x"], 
+      ["Shang Zhi", "business partner of x, customer of x"], 
+      ["Lawyer", "customer of x"]
+    ],
+    "Dr. Zhang": [
+      ["Liao Yiqiao", "helper of x, helped by x"], 
+      ["Liao's Trading Company", "helper of x"], 
+      ["Hai You", "informant of x, helper of x"], 
+      ["Tan Renchang", "doctor of x"], 
+      ["Tan Mingsha", "helper of x"], 
+      ["Cheng Ge", "helper of x, informant of x"], 
+      ["Lv Mingran", "helper of x"], 
+      ["Mrs. Wei", "helper of x"], 
+      ["Lawyer", "friend of x"]
+    ],
+    "Julie": [
+      ["Liao Xuehan", "friend of x"], 
+      ["Liao Yiqiao", "friend of x"], 
+      ["Liao's Trading Company", "guest of x"], 
+      ["Dr. Zhang", "patient of x"], 
+      ["Tan Renchang", "wife of x"], 
+      ["Cheng Ge", "friend of x"], 
+      ["Lv Mingran", "helper of x, romantic relationships with x"], 
+      ["Mrs. Wei", "helper of x"], 
+      ["Shang Zhi", "helped by x"], 
+      ["Lawyer", "wife of x"]
+    ],
+    "Hai You": [
+      ["Liao Xuehan", "adoptive father of x"], 
+      ["Liao Yiqiao", "helped by x"], 
+      ["Dr. Zhang", "informant of x, helper of x"], 
+      ["Tan Renchang", "helper of x, helped by x"], 
+      ["Tan Mingsha", "employer of x"], 
+      ["Cheng Ge", "guard of x, student of x"], 
+      ["Lv Mingran", "helper of x"], 
+      ["Mrs. Wei", "helper of x, helped by x"], 
+      ["Lawyer", "friend of x"], 
+      ["A Ping", "helper of x"]
+    ],
+    "Tan Renchang": [
+      ["Liao Xuehan", "acquaintance of x"], 
+      ["Liao Yiqiao", "employee of x"], 
+      ["Liao's Trading Company", "business partner of x"], 
+      ["Dr. Zhang", "patient of x"], 
+      ["Julie", "husband of x"], 
+      ["Hai You", "helper of x, helped by x"], 
+      ["Tan Mingsha", "husband of x"], 
+      ["Lv Mingran", "business partner of x"], 
+      ["Mrs. Wei", "husband of x"], 
+      ["Shang Zhi", "husband of x"], 
+      ["Lawyer", "customer of x, lawyer of x"], 
+      ["A Ping", "employee of x"]
+    ],
+    "Tan Mingsha": [
+      ["Liao Xuehan", "helped by x, adversary of x"], 
+      ["Liao Yiqiao", "hate of x, suspect of x"], 
+      ["Liao's Trading Company", "business partner of x"], 
+      ["Dr. Zhang", "patient of x"], 
+      ["Hai You", "employee of x"], 
+      ["Tan Renchang", "wife of x"], 
+      ["Mrs. Wei", "helper of x, acquaintance of x"], 
+      ["Shang Zhi", "romantic relationships with x"], 
+      ["Lawyer", "suspected by x"]
+    ],
+    "Cheng Ge": [
+      ["Liao's Trading Company", "business partner of x"], 
+      ["Dr. Zhang", "helped by x, information receiver from x"], 
+      ["Julie", "child of x"], 
+      ["Hai You", "helper of x, informant of x"], 
+      ["Lv Mingran", "adoptive father of x"], 
+      ["Mrs. Wei", "helper of x"], 
+      ["Lawyer", "adversary of x"], 
+      ["A Ping", "helper of x"]
+    ],
+    "Lv Mingran": [
+      ["Liao Xuehan", "admired by x"], 
+      ["Liao Yiqiao", "business partner of x"], 
+      ["Dr. Zhang", "patient of x"], 
+      ["Julie", "informant of x"], 
+      ["Tan Renchang", "employee of x"], 
+      ["Tan Mingsha", "employee of x"], 
+      ["Mrs. Wei", "concubine of x"], 
+      ["Shang Zhi", "fiance of x"], 
+      ["A Ping", "fondness of x"]
+    ],
+    "Mrs. Wei": [
+      ["Liao Xuehan", "helper of x"], 
+      ["Liao Yiqiao", "wife of x"], 
+      ["Liao's Trading Company", "business partner of x"], 
+      ["Dr. Zhang", "helped by x"], 
+      ["Julie", "host of x"], 
+      ["Hai You", "helper of x, helped by x"], 
+      ["Tan Renchang", "wife of x"], 
+      ["Tan Mingsha", "helper of x, acquaintance of x"], 
+      ["Cheng Ge", "helped by x"], 
+      ["Lv Mingran", "secret lover of x"], 
+      ["Shang Zhi", "friend of x"], 
+      ["A Ping", "guard of x"]
+    ],
+    "Shang Zhi": [
+      ["Liao Xuehan", "employer of x, master of x"], 
+      ["Liao Yiqiao", "possibly family of x, helper of x"], 
+      ["Liao's Trading Company", "business partner of x, seller of x"], 
+      ["Tan Renchang", "wife of x"], 
+      ["Tan Mingsha", "romantic relationships with x"], 
+      ["Lv Mingran", "fiancee of x"], 
+      ["Mrs. Wei", "friend of x"], 
+      ["Lawyer", "friend of x"], 
+      ["A Ping", "informant of x, information receiver from x"]
+    ],
+    "Lawyer": [
+      ["Liao Xuehan", "adversary of x"], 
+      ["Liao's Trading Company", "lawyer of x"], 
+      ["Dr. Zhang", "friend of x"], 
+      ["Julie", "husband of x"], 
+      ["Hai You", "friend of x"], 
+      ["Cheng Ge", "perpetrator of x"], 
+      ["Mrs. Wei", "service provider of x"], 
+      ["Shang Zhi", "friend of x"], 
+      ["A Ping", "informant of x"]
+    ],
+    "A Ping": [
+      ["Liao Yiqiao", "friend of x"], 
+      ["Hai You", "helper of x"], 
+      ["Tan Renchang", "employer of x"], 
+      ["Cheng Ge", "informant of x"], 
+      ["Lv Mingran", "ex boyfriend of x"], 
+      ["Mrs. Wei", "employer of x"], 
+      ["Shang Zhi", "informant of x, information receiver from x"], 
+      ["Lawyer", "information receiver from x"]
+    ]
+}

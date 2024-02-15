@@ -1,0 +1,58 @@
+{
+    "Falcon": [
+      ["Ba Mansion Mountain", "father of x"], 
+      ["Miao Shi", "mother of x"], 
+      ["Gui Yin", "uncle of x"], 
+      ["Ruya", "cousin of x"], 
+      ["Juan Ge (Cuckoo Song)", "sister of x"], 
+      ["Li Gaobai", "friend of x"], 
+      ["Professor Zhou", "acquaintance of x"], 
+      ["Chen Sha", "love interest of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Falcon", "son of x"], 
+      ["Miao Shi", "wife of x"]
+    ],
+    "Miao Shi": [
+      ["Falcon", "mother of x"], 
+      ["Gui Yin", "brother of x"]
+    ],
+    "Gui Yin": [
+      ["Falcon", "uncle of x"], 
+      ["Ruya", "father of x"]
+    ],
+    "Ruya": [
+      ["Falcon", "cousin of x"], 
+      ["Gui Yin", "daughter of x"]
+    ],
+    "Juan Ge (Cuckoo Song)": [
+      ["Falcon", "sister of x"], 
+      ["Li Gaobai", "husband of x"]
+    ],
+    "Li Gaobai": [
+      ["Falcon", "friend of x"], 
+      ["Juan Ge (Cuckoo Song)", "wife of x"]
+    ],
+    "Professor Zhou": [
+      ["Falcon", "acquaintance of x"]
+    ],
+    "Chen Sha": [
+      ["Falcon", "love interest of x"]
+    ],
+    "Zhou Yuntang": [
+      ["Chen Sha", "father of x"]
+    ],
+    "Youth": [
+      ["Li Gaobai", "son of x"]
+    ],
+    "Zheng Hanzhen": [
+      ["Juan Ge (Cuckoo Song)", "sister of x"]
+    ],
+    "Gan Ma": [
+      ["Falcon", "friend of x"], 
+      ["Ruya", "sister of x"]
+    ],
+    "Li Demu": [
+      ["Chen Sha", "father of x"]
+    ]
+}

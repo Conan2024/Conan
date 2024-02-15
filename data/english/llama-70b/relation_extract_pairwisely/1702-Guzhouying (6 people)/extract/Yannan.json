@@ -1,0 +1,654 @@
+{
+    "Cui Yannan": [
+        [
+            "Wang Xi Rong",
+            "Mother, Daughter"
+        ],
+        [
+            "Cui Shouheng",
+            "Father, Son"
+        ],
+        [
+            "Xi Yan",
+            "sister",
+            "aunt"
+        ],
+        [
+            "Bao Gan",
+            "Friend, Caregiver"
+        ],
+        [
+            "Zhou Mengdang",
+            "Friend, Childhood friend, Classmate"
+        ],
+        [
+            "Yu Shi",
+            "Friend, Childhood friend"
+        ],
+        [
+            "Lianyi",
+            "Child of X",
+            "Sibling of X"
+        ],
+        [
+            "Su Nian",
+            "Childhood Friend, Playmate"
+        ],
+        [
+            "Zhou Chitong",
+            "Child of X, Stranger to X"
+        ],
+        [
+            "Yu Shi",
+            "Friend, Childhood friend"
+        ],
+        [
+            "Zhou Mengdang",
+            "Friend, Childhood friend, Classmate"
+        ]
+    ],
+    "Wang Xi Rong": [
+        [
+            "Cui Yannan",
+            "Mother, Daughter"
+        ],
+        [
+            "Cui Shouheng",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Xi Yan",
+            "Mother",
+            "Aunt"
+        ],
+        [
+            "Bao Gan",
+            "relationship 1",
+            "relationship 2",
+            "relationship 3",
+            "relationship 4",
+            "relationship 5",
+            "relationship 6"
+        ],
+        [
+            "Zhou Mengdang",
+            "Mother-in-law",
+            "Aunt"
+        ],
+        [
+            "Yu Shi",
+            "Mother-in-law",
+            "Aunt"
+        ],
+        [
+            "Lianyi",
+            "relationship 1",
+            "relationship 2",
+            "Acquaintance",
+            "Teacher",
+            "Mentor"
+        ],
+        [
+            "Su Nian",
+            "Cousin, Friend"
+        ],
+        [
+            "Zhou Chitong",
+            "Su Nian",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Yu Shi",
+            "Mother-in-law",
+            "Aunt"
+        ],
+        [
+            "Zhou Mengdang",
+            "Mother-in-law",
+            "Aunt"
+        ]
+    ],
+    "Cui Shouheng": [
+        [
+            "Cui Yannan",
+            "Father, Son"
+        ],
+        [
+            "Wang Xi Rong",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Xi Yan",
+            "Father of Xi Yan",
+            "Husband of Xi Yan's mother"
+        ],
+        [
+            "Bao Gan",
+            "employer of X",
+            "master of X"
+        ],
+        [
+            "Zhou Mengdang",
+            "Father-in-law",
+            "Master of Xi Yanfang"
+        ],
+        [
+            "Yu Shi",
+            "Husband of X",
+            "Father of X"
+        ],
+        [
+            "Lianyi",
+            "Father of X",
+            "Master of X"
+        ],
+        [
+            "Su Nian",
+            "brother-in-law, friend"
+        ],
+        [
+            "Zhou Chitong",
+            "Father-in-law",
+            "Stepfather"
+        ],
+        [
+            "Yu Shi",
+            "Husband of X",
+            "Father of X"
+        ],
+        [
+            "Zhou Mengdang",
+            "Father-in-law",
+            "Master of Xi Yanfang"
+        ]
+    ],
+    "Xi Yan": [
+        [
+            "Cui Yannan",
+            "sister",
+            "aunt"
+        ],
+        [
+            "Wang Xi Rong",
+            "Sister",
+            "Niece"
+        ],
+        [
+            "Cui Shouheng",
+            "Daughter of Cui Shouheng",
+            "Sister of Cui Yannan"
+        ],
+        [
+            "Bao Gan",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Zhou Mengdang",
+            " Husband of X",
+            "Father of X"
+        ],
+        [
+            "Yu Shi",
+            "Sister, Aunt"
+        ],
+        [
+            "Lianyi",
+            "Sister, Friend"
+        ],
+        [
+            "Su Nian",
+            "Cousin, Friend"
+        ],
+        [
+            "Zhou Chitong",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Yu Shi",
+            "Sister, Aunt"
+        ],
+        [
+            "Zhou Mengdang",
+            " Husband of X",
+            "Father of X"
+        ]
+    ],
+    "Bao Gan": [
+        [
+            "Cui Yannan",
+            "Friend, Caregiver"
+        ],
+        [
+            "Wang Xi Rong",
+            "relationship 1",
+            "relationship 2",
+            "relationship 3",
+            "relationship 4",
+            "relationship 5",
+            "relationship 6"
+        ],
+        [
+            "Cui Shouheng",
+            "employee of X",
+            "servant of X"
+        ],
+        [
+            "Xi Yan",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Zhou Mengdang",
+            "Master of X",
+            "Informant of X"
+        ],
+        [
+            "Yu Shi",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Lianyi",
+            "Friend of X",
+            "Informant of X"
+        ],
+        [
+            "Su Nian",
+            "friend, acquaintance"
+        ],
+        [
+            "Zhou Chitong",
+            "Master of X, Employee of X"
+        ],
+        [
+            "Yu Shi",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Zhou Mengdang",
+            "Master of X",
+            "Informant of X"
+        ]
+    ],
+    "Zhou Mengdang": [
+        [
+            "Cui Yannan",
+            "Friend, Childhood friend, Classmate"
+        ],
+        [
+            "Cui Yannan",
+            "Friend, Childhood friend, Classmate"
+        ],
+        [
+            "Wang Xi Rong",
+            "Father-in-law",
+            "Uncle"
+        ],
+        [
+            "Wang Xi Rong",
+            "Father-in-law",
+            "Uncle"
+        ],
+        [
+            "Cui Shouheng",
+            "Son-in-law",
+            "Husband of Xi Yanfang"
+        ],
+        [
+            "Cui Shouheng",
+            "Son-in-law",
+            "Husband of Xi Yanfang"
+        ],
+        [
+            "Xi Yan",
+            "Wife of X",
+            "Mother of X"
+        ],
+        [
+            "Xi Yan",
+            "Wife of X",
+            "Mother of X"
+        ],
+        [
+            "Bao Gan",
+            "Master of X",
+            "Informant of X"
+        ],
+        [
+            "Bao Gan",
+            "Master of X",
+            "Informant of X"
+        ],
+        [
+            "Yu Shi",
+            "Husband of X",
+            "Father of X"
+        ],
+        [
+            "Lianyi",
+            "Father of Lianyi",
+            "Husband of Yu Shi"
+        ],
+        [
+            "Su Nian",
+            "Lianyi",
+            "Yu Shi",
+            "Cousin",
+            "In-law"
+        ],
+        [
+            "Zhou Chitong",
+            "Father of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Yu Shi",
+            "Husband of X",
+            "Father of X"
+        ],
+        [
+            "Zhou Mengdang",
+            "Father of X",
+            "Husband of X"
+        ],
+        [
+            "Yu Shi",
+            "Husband of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Lianyi",
+            "Father of X",
+            "Husband of X"
+        ],
+        [
+            "Su Nian",
+            "brother-in-law, friend"
+        ],
+        [
+            "Zhou Chitong",
+            "Husband of X",
+            "Father of X"
+        ],
+        [
+            "Yu Shi",
+            "Husband of X",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Yu Shi": [
+        [
+            "Cui Yannan",
+            "Friend, Childhood friend"
+        ],
+        [
+            "Cui Yannan",
+            "Friend, Childhood friend"
+        ],
+        [
+            "Wang Xi Rong",
+            "Sister-in-law",
+            "Daughter-in-law"
+        ],
+        [
+            "Wang Xi Rong",
+            "Sister-in-law",
+            "Daughter-in-law"
+        ],
+        [
+            "Cui Shouheng",
+            "Wife of X",
+            "Mother of X"
+        ],
+        [
+            "Cui Shouheng",
+            "Wife of X",
+            "Mother of X"
+        ],
+        [
+            "Xi Yan",
+            "Sister, Aunt"
+        ],
+        [
+            "Xi Yan",
+            "Sister, Aunt"
+        ],
+        [
+            "Bao Gan",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Bao Gan",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Zhou Mengdang",
+            "Wife of X",
+            "Mother of X"
+        ],
+        [
+            "Zhou Mengdang",
+            "Wife of X",
+            "Mother of X"
+        ],
+        [
+            "Lianyi",
+            "Mother-Son",
+            "Absent Family Member"
+        ],
+        [
+            "Su Nian",
+            "brother-in-law, friend"
+        ],
+        [
+            "Zhou Chitong",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Yu Shi",
+            "Stranger to X",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhou Mengdang",
+            "Wife of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Lianyi",
+            "childhood friend, playmate"
+        ],
+        [
+            "Su Nian",
+            "Lianyi",
+            "Sister",
+            "Aunt"
+        ],
+        [
+            "Zhou Chitong",
+            "Sister-in-law",
+            "Mother-in-law"
+        ],
+        [
+            "Zhou Mengdang",
+            "Wife of X",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Lianyi": [
+        [
+            "Cui Yannan",
+            "Sibling of X",
+            "Child of X"
+        ],
+        [
+            "Wang Xi Rong",
+            "relationship 1",
+            "relationship 2",
+            "Childhood friend",
+            "Student",
+            "Mentee"
+        ],
+        [
+            "Cui Shouheng",
+            "Son of X",
+            "Employee of X"
+        ],
+        [
+            "Xi Yan",
+            "Sister, Friend"
+        ],
+        [
+            "Bao Gan",
+            "Friend of X",
+            "Informant of X"
+        ],
+        [
+            "Zhou Mengdang",
+            "Son of Zhou Mengdang",
+            "Brother of Su Nian"
+        ],
+        [
+            "Yu Shi",
+            "Son",
+            "Absent Family Member"
+        ],
+        [
+            "Su Nian",
+            "Childhood Friend, Playmate"
+        ],
+        [
+            "Zhou Chitong",
+            "Child of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Yu Shi",
+            "childhood friend, playmate"
+        ],
+        [
+            "Zhou Mengdang",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Su Nian": [
+        [
+            "Cui Yannan",
+            "Childhood Friend, Playmate"
+        ],
+        [
+            "Wang Xi Rong",
+            "Cousin, Friend"
+        ],
+        [
+            "Cui Shouheng",
+            "brother-in-law, friend"
+        ],
+        [
+            "Xi Yan",
+            "Cousin, Friend"
+        ],
+        [
+            "Bao Gan",
+            "friend, acquaintance"
+        ],
+        [
+            "Zhou Mengdang",
+            "Lianyi",
+            "Yu Shi",
+            "Cousin",
+            "In-law"
+        ],
+        [
+            "Yu Shi",
+            "sister-in-law, friend"
+        ],
+        [
+            "Lianyi",
+            "Childhood Friend, Playmate"
+        ],
+        [
+            "Zhou Chitong",
+            "Lianyi",
+            "Yu Shi",
+            "Cousin",
+            "Friend"
+        ],
+        [
+            "Yu Shi",
+            "Lianyi",
+            "Cousin",
+            "Friend"
+        ],
+        [
+            "Zhou Mengdang",
+            "brother-in-law, friend"
+        ]
+    ],
+    "Zhou Chitong": [
+        [
+            "Cui Yannan",
+            "Child of X, Stranger to X"
+        ],
+        [
+            "Wang Xi Rong",
+            "Su Nian",
+            "brother-in-law",
+            "nephew"
+        ],
+        [
+            "Cui Shouheng",
+            "Son-in-law",
+            "Stepson"
+        ],
+        [
+            "Xi Yan",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Bao Gan",
+            "Master of X, Employee of X"
+        ],
+        [
+            "Zhou Mengdang",
+            "Son of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Yu Shi",
+            "Husband of X",
+            "Father of X"
+        ],
+        [
+            "Lianyi",
+            "Same person as X (different reference)",
+            "Father of X"
+        ],
+        [
+            "Su Nian",
+            "Lianyi",
+            "Yu Shi",
+            "Cousin",
+            "Friend"
+        ],
+        [
+            "Yu Shi",
+            "Brother-in-law",
+            "Son-in-law"
+        ],
+        [
+            "Zhou Mengdang",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ]
+    ]
+}

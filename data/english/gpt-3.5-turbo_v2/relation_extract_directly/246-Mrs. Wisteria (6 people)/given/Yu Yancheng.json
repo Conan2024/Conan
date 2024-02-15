@@ -1,0 +1,50 @@
+{
+    "Yu Yancheng": [
+      ["Yu Shangyong", "same person as x (different reference)"], 
+      ["Zhang Junshi", "friend of x, co worker of x"], 
+      ["Mrs. Zhang", "acquaintance of x, potential matchmaker of x"], 
+      ["Ge Jixian", "victim of x"], 
+      ["Ge Yueluo", "former housemate of x, acquaintance of x"], 
+      ["Ge Yueman", "acquaintance of x"], 
+      ["Zhu Lingshan", "possible family of x, friend of x, potential father in law of x"], 
+      ["Le Wan", "former housemate of x, potential sister in law of x, romantic interest of x"], 
+      ["Zhi Jun", "potential marriage candidate of x"], 
+      ["Lü Songnian", "restaurant owner of x, potential witness of x"], 
+      ["Xue Yufan", "suspect of x, potential adversary of x"]
+    ],
+    "Yu Shangyong": [
+      ["Yu Yancheng", "same person as x (different reference)"]
+    ],
+    "Zhang Junshi": [
+      ["Yu Yancheng", "friend of x, co worker of x"], 
+      ["Mrs. Zhang", "acquaintance of x, potential matchmaker of x"]
+    ],
+    "Mrs. Zhang": [
+      ["Yu Yancheng", "acquaintance of x, potential matchmaker of x"], 
+      ["Zhang Junshi", "acquaintance of x, potential matchmaker of x"]
+    ],
+    "Ge Jixian": [
+      ["Yu Yancheng", "victim of x"]
+    ],
+    "Ge Yueluo": [
+      ["Yu Yancheng", "former housemate of x, acquaintance of x"]
+    ],
+    "Ge Yueman": [
+      ["Yu Yancheng", "acquaintance of x"]
+    ],
+    "Zhu Lingshan": [
+      ["Yu Yancheng", "possible family of x, friend of x, potential father in law of x"]
+    ],
+    "Le Wan": [
+      ["Yu Yancheng", "former housemate of x, potential sister in law of x, romantic interest of x"]
+    ],
+    "Zhi Jun": [
+      ["Yu Yancheng", "potential marriage candidate of x"]
+    ],
+    "Lü Songnian": [
+      ["Yu Yancheng", "restaurant owner of x, potential witness of x"]
+    ],
+    "Xue Yufan": [
+      ["Yu Yancheng", "suspect of x, potential adversary of x"]
+    ]
+}

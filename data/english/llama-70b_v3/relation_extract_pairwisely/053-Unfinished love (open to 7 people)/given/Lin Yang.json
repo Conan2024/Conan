@@ -1,0 +1,55 @@
+{
+    "Gu Qing": [
+      ["Gu Yu", "rival of x, enemy of x"], 
+      ["Lin Xi", "sister in law of x, acquaintance of x, friend of x"], 
+      ["Lin Yang", "rival of x, fiancee of x"], 
+      ["Shen Cheng", "acquaintance of x, colleague of x"], 
+      ["Su Yang", "rival of x, fiancee of x"]
+    ],
+    "Gu Yu": [
+      ["Gu Qing", "rival of x, enemy of x"], 
+      ["Lin Xi", "brother in law of x, suspect of x"], 
+      ["Lin Yang", "adoptive father of x, suspect of x"], 
+      ["Shen Cheng", "acquaintance of x, classmate of x"], 
+      ["Su Yang", "rival of x, enemy of x"]
+    ],
+    "Lin Xi": [
+      ["Gu Qing", "sister in law of x, acquaintance of x, friend of x"], 
+      ["Gu Yu", "sister of x, victim of x"], 
+      ["Lin Weiren", "daughter of x, daughter of x"], 
+      ["Lin Yang", "sister of x, sister of x"], 
+      ["Shen Cheng", "sister of x, sister of x"], 
+      ["Su Yang", "fiance of x, co wives of x, fiancee of x, ex romantic relationships with x"]
+    ],
+    "Lin Yang": [
+      ["Gu Qing", "rival of x, fiance of x"], 
+      ["Gu Yu", "adoptive son of x"], 
+      ["Lin Weiren", "son of x"], 
+      ["Lin Xi", "brother of x, adoptive brother of x"], 
+      ["Shen Cheng", "employer of x, master of x, superior of x, manipulator of x, deceiver of x, betrayer of x, suspect of x, adversary of x, enemy of x, rival of x"], 
+      ["Su Yang", "brother in law of x, suspect of x"]
+    ],
+    "Shen Cheng": [
+      ["Gu Qing", "acquaintance of x, colleague of x"], 
+      ["Gu Yu", "acquaintance of x, classmate of x"], 
+      ["Lin Weiren", "informant of x"], 
+      ["Lin Xi", "informant of x"], 
+      ["Lin Yang", "employee of x, subordinate of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["Su Yang", "perpetrator of x, bully of x, murderer of x"]
+    ],
+    "Su Yang": [
+      ["Gu Qing", "rival of x, fiance of x"], 
+      ["Gu Yu", "rival of x, enemy of x"], 
+      ["Lin Weiren", "husband of x, son in law of x, perpetrator of x"], 
+      ["Lin Xi", "fiance of x, co wives of x, fiancee of x, ex romantic relationships with x"], 
+      ["Lin Yang", "fiance of x, murderer of x"], 
+      ["Shen Cheng", "victim of x, killed by x"]
+    ],
+    "Lin Weiren": [
+      ["Gu Yu", "adoptive father of x, victim of x"], 
+      ["Lin Xi", "father of x, adoptive father of x"], 
+      ["Lin Yang", "father of x, adoptive father of x"], 
+      ["Shen Cheng", "father in law of x, adoptive father of x"], 
+      ["Su Yang", "father in law of x, adoptive father of x, victim of x"]
+    ]
+}

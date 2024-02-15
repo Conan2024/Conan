@@ -1,0 +1,50 @@
+{
+    "Zhang Hongsheng": [
+      ["Hong Jiangshui", "employer of x hong jiangshui"], 
+      ["Meng Sanchun", "boss of x inns"], 
+      ["Zheng", "admired by zheng of x"], 
+      ["Cai Siniang", "admirer of x cai siniang"]
+    ],
+    "ZHANG JINYIN": [
+      ["Hong Jiangshui", "employer of x hong jiangshui"], 
+      ["Meng Sanchun", "boss of x inns"], 
+      ["Hong Zhaizhu", "admired by hong zhaizhu of x"]
+    ],
+    "Hong Jiangshui": [
+      ["ZHANG HONGSHENG", "employee of x zhang hongsheng"], 
+      ["ZHANG JINYIN", "employee of x zhang jinyin"], 
+      ["Meng Sanchun", "co workers with meng sanchun of x"], 
+      ["Cai Siniang", "love interest turned down by cai siniang of x"]
+    ],
+    "Meng Sanchun": [
+      ["ZHANG HONGSHENG", "co workers with zhang hongsheng of x"], 
+      ["ZHANG JINYIN", "co workers with zhang jinyin of x"], 
+      ["Hong Jiangshui", "co workers with hong jiangshui of x"]
+    ],
+    "Hong Zhaizhu": [
+      ["Hong Jiangshui", "father of x hong jiangshui"]
+    ],
+    "Hong Changlie": [
+      ["Hong Jiangshui", "possibly family of x hong jiangshui"]
+    ],
+    "ZHANG HONGSHENG": [
+      ["Hong Jiangshui", "employer of x hong jiangshui"], 
+      ["Meng Sanchun", "boss of x inns"]
+    ],
+    "Zhang Jinyin": [
+      ["Hong Jiangshui", "employer of x hong jiangshui"], 
+      ["Meng Sanchun", "boss of x inns"], 
+      ["Hong Zhaizhu", "admired by hong zhaizhu of x"]
+    ],
+    "Hong Erlang": [
+      ["Hong Jiangshui", "possibly family of x hong jiangshui"]
+    ],
+    "Zhang Jinshan": [
+      ["Hong Jiangshui", "possibly family of x hong jiangshui"]
+    ],
+    "Cai Siniang": [
+      ["Hong Jiangshui", "love interest turned down by hong jiangshui of x"], 
+      ["ZHANG HONGSHENG", "admired by zhang hongsheng of x"], 
+      ["ZHANG JINYIN", "admired by zhang jinyin of x"]
+    ]
+}

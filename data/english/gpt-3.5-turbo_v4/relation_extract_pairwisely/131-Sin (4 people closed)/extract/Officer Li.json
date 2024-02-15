@@ -1,0 +1,55 @@
+{
+    "Officer Li": [
+      ["Superior", "student of x"], 
+      ["Murderer", "victim of x"], 
+      ["Chief Wang", "informant of x, suspicious of x"], 
+      ["Officer Li's girlfriend", "romantic relationships with x, information receiver from x"], 
+      ["Hu Investigate", "informant of x, information receiver from x, acquaintance of x"], 
+      ["Zhao Cishan", "suspected by x, victim of x"]
+    ],
+    "Superior": [
+      ["Officer Li", "mentor of x, authority over x"], 
+      ["Chief Wang", "employer of x, authority over x"], 
+      ["Officer Li's girlfriend", "admirer of x"], 
+      ["Hu Investigate", "informant of x, information receiver from x"], 
+      ["Zhao Cishan", "suspected by x, manipulated by x"]
+    ],
+    "Murderer": [
+      ["Officer Li", "perpetrator of x"], 
+      ["Superior", "victim of x"], 
+      ["Chief Wang", "suspect of x"], 
+      ["Officer Li's girlfriend", "romantic relationships with x, admired by x"], 
+      ["Hu Investigate", "suspect of x, manipulator of x"]
+    ],
+    "Chief Wang": [
+      ["Officer Li", "informant of x, suspicious of x"], 
+      ["Superior", "employee of x, subordinate of x"], 
+      ["Murderer", "suspect of x"], 
+      ["Officer Li's girlfriend", "romantic relationships with x, victim of x"], 
+      ["Hu Investigate", "perpetrator of x, adversary of x"], 
+      ["Zhao Cishan", "host of x, helper of x"]
+    ],
+    "Officer Li's girlfriend": [
+      ["Officer Li", "romantic relationships with x, helper of x"], 
+      ["Superior", "admired by x, suspected by x"], 
+      ["Murderer", "victim of x, disliked by x"], 
+      ["Chief Wang", "romantic relationships with x, victim of x"], 
+      ["Hu Investigate", "romantic relationships with x, seeker of help from x"], 
+      ["Zhao Cishan", "romantic relationships with x, disliked by x"]
+    ],
+    "Hu Investigate": [
+      ["Officer Li", "informant of x, information receiver from x, acquaintance of x"], 
+      ["Superior", "superior of x, subordinate of x"], 
+      ["Murderer", "victim of x, manipulated by x"], 
+      ["Chief Wang", "victim of x, adversary of x"], 
+      ["Officer Li's girlfriend", "seeker of help from x, helper of x"], 
+      ["Zhao Cishan", "quest companion of x, informant of x"]
+    ],
+    "Zhao Cishan": [
+      ["Officer Li", "manipulated by x, manipulator of x"], 
+      ["Superior", "adversary of x, manipulator of x"], 
+      ["Chief Wang", "guest of x, helped by x"], 
+      ["Officer Li's girlfriend", "romantic relationships with x, disliked by x"], 
+      ["Hu Investigate", "quest companion of x, informant of x"]
+    ]
+}

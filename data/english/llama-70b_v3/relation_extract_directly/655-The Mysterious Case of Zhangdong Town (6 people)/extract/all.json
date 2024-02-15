@@ -1,0 +1,61 @@
+{
+    "Gu Mengchu": [
+      ["Yuan Shikai", "acquaintance of x"]
+    ],
+    "Xiting": [
+      ["Gu Mengchu", "husband of x"], 
+      ["Mu family", "son in law of x"]
+    ],
+    "Mu family": [
+      ["Xiting", "daughter of x"]
+    ],
+    "County Magistrate Mu": [
+      ["Mu family", "father of x"]
+    ],
+    "Yuan Shikai": [
+      ["Gu Mengchu", "acquaintance of x"], 
+      ["Yang Shuixun", "friend of x"]
+    ],
+    "Xinger": [
+      ["Xiting", "friend of x"], 
+      ["Gu Mengchu", "colleague of x"]
+    ],
+    "Caiya": [
+      ["Gu Mengchu", "victim of x"]
+    ],
+    "Zhang Fanghao": [
+      ["Gu Mengchu", "acquaintance of x"]
+    ],
+    "Yang Shuixun": [
+      ["Minxi", "father of x"], 
+      ["Gu Mengchu", "friend of x"]
+    ],
+    "Minxi": [
+      ["Yang Shuixun", "daughter of x"], 
+      ["Gu Mengchu", "wife of x"]
+    ],
+    "Ms. Mei": [
+      ["Gu Lianshan", "mother of x"], 
+      ["Gu Mengchu", "son of x"]
+    ],
+    "Gu Lianshan": [
+      ["Ms. Mei", "mother of x"], 
+      ["Gu Mengchu", "father of x"]
+    ],
+    "Rou'er": [
+      ["Mu Boxuan", "sister of x"], 
+      ["Gu Mengchu", "friend of x"]
+    ],
+    "Lan Rui": [
+      ["Minxi", "friend of x"], 
+      ["Zhang Fanghao", "friend of x"]
+    ],
+    "Shen Wusheng": [
+      ["Lan Rui", "friend of x"], 
+      ["Zhang Fanghao", "friend of x"]
+    ],
+    "Mu Boxuan": [
+      ["Rou'er", "sister of x"], 
+      ["Gu Mengchu", "brother in law of x"]
+    ]
+}

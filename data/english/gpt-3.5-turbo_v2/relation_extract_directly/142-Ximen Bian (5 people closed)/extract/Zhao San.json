@@ -1,0 +1,32 @@
+{
+    "Zhao San": [
+      ["Zhao ZHONGZHENG", "adopted child of x, friend of x, helper of x"], 
+      ["Zhao Zhongzhongyang", "adoptive brother of x"], 
+      ["Zhang Wei", "acquaintance of x, accomplice of x"], 
+      ["Ma Laoban", "business partner of x"]
+    ],
+    "Zhao ZHONGZHENG": [
+      ["Zhao San", "adoptive parent of x, friend of x"], 
+      ["Zhao Zhongzhongyang", "brother of x"], 
+      ["Zhang Wei", "accomplice of x"], 
+      ["Ma Laoban", "possibly family of x"]
+    ],
+    "Zhao Zhongzhongyang": [
+      ["Zhao San", "adoptive brother of x"], 
+      ["Zhao ZHONGZHENG", "brother of x"], 
+      ["Zhang Wei", "acquaintance of x"], 
+      ["Ma Laoban", "unknown relationship to of x"]
+    ],
+    "Zhang Wei": [
+      ["Zhao San", "acquaintance of x, accomplice of x"], 
+      ["Zhao ZHONGZHENG", "accomplice of x"], 
+      ["Zhao Zhongzhongyang", "acquaintance of x"], 
+      ["Ma Laoban", "unknown relationship to of x"]
+    ],
+    "Ma Laoban": [
+      ["Zhao San", "business partner of x"], 
+      ["Zhao ZHONGZHENG", "possibly family of x"], 
+      ["Zhao Zhongzhongyang", "unknown relationship to of x"], 
+      ["Zhang Wei", "unknown relationship to of x"]
+    ]
+}

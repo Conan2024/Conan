@@ -1,0 +1,43 @@
+{
+    "Xia Zhongpeng": [
+      ["Xia Bolong", "older brother of x"], 
+      ["Xia Sanhu", "brother of x"]
+    ],
+    "Xia Bolong": [
+      ["Xia Zhongpeng", "younger brother of x"], 
+      ["Xia Sanhu", "brother of x"], 
+      ["Xia Shue", "niece of x"]
+    ],
+    "Xia Sanhu": [
+      ["Xia Zhongpeng", "younger brother of x"], 
+      ["Xia Bolong", "brother of x"], 
+      ["Xia Shue", "niece of x"]
+    ],
+    "Xia Shue": [
+      ["Xia Zhongpeng", "uncle of x"], 
+      ["Xia Bolong", "uncle of x"], 
+      ["Xia Sanhu", "uncle of x"], 
+      ["Aming", "helped by x"]
+    ],
+    "Aming": [
+      ["Xia Shue", "helped by x"]
+    ],
+    "Yu Zu Chengmu": [
+      ["Duan Yuetong", "acquaintance of x"], 
+      ["Luo Ming", "acquaintance of x"], 
+      ["Yue Dongwen", "acquaintance of x"]
+    ],
+    "Duan Yuetong": [
+      ["Yu Zu Chengmu", "acquaintance of x"], 
+      ["Luo Ming", "acquaintance of x"], 
+      ["Yue Dongwen", "acquaintance of x"]
+    ],
+    "Luo Ming": [
+      ["Yu Zu Chengmu", "acquaintance of x"], 
+      ["Duan Yuetong", "acquaintance of x"], 
+      ["Yue Dongwen", "acquaintance of x"]
+    ],
+    "Yue Dongwen": [
+      ["Duan Yuetong", "acquaintance of x"]
+    ]
+}

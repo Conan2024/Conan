@@ -1,0 +1,34 @@
+{
+    "Uncle Gui": [
+      ["Yao Zhongyi", "friend of x"], 
+      ["Chen Junmeng", "patient of x"], 
+      ["Physician Yu", "acquaintance of x, colleague of x"], 
+      ["Lady Hong", "acquaintance of x, host of x"], 
+      ["Yao Changshou", "acquaintance of x, patient of x"], 
+      ["Yun Ling", "acquaintance of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Uncle Gui", "friend of x"], 
+      ["Yao Changshou", "father of x, patient of x"]
+    ],
+    "Chen Junmeng": [
+      ["Uncle Gui", "patient of x"], 
+      ["Yao Zhongyi", "friend of x, patient of x"]
+    ],
+    "Physician Yu": [
+      ["Uncle Gui", "acquaintance of x, colleague of x"], 
+      ["Yao Changshou", "colleague of x, patient of x"]
+    ],
+    "Lady Hong": [
+      ["Uncle Gui", "acquaintance of x, host of x"], 
+      ["Yao Changshou", "wife of x"]
+    ],
+    "Yao Changshou": [
+      ["Uncle Gui", "acquaintance of x, patient of x"], 
+      ["Lady Hong", "husband of x"], 
+      ["Yao Zhongyi", "son of x"]
+    ],
+    "Yun Ling": [
+      ["Uncle Gui", "acquaintance of x"]
+    ]
+}

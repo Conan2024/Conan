@@ -1,0 +1,22 @@
+{
+    "Gust": [
+      ["David", "employee of x"]
+    ],
+    "David": [
+      ["Kevin", "friend of x"], 
+      ["Griff", "romantic relationships with x"]
+    ],
+    "Kevin": [
+      ["David", "friend of x"], 
+      ["Ella", "brother of x"], 
+      ["Griff", "brother of x"]
+    ],
+    "Ella": [
+      ["Kevin", "sister of x"], 
+      ["Griff", "friend of x"]
+    ],
+    "Griff": [
+      ["David", "romantic relationships with x"], 
+      ["Kevin", "brother of x"]
+    ]
+}

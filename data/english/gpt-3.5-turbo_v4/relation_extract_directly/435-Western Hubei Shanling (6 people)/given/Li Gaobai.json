@@ -1,0 +1,57 @@
+{
+    "Li Gaobai": [
+      ["Professor Zhou", "mentor of x"], 
+      ["Li Demu", "father of x"], 
+      ["Mountain Spirit", "informant of x"], 
+      ["Li Liangsong", "student of x"], 
+      ["Gui Yin", "admired by x"], 
+      ["Daughter of Ba Mansion Mountain", "acquaintance of x"], 
+      ["Ruya", "romantic relationships with x"], 
+      ["Falcon", "friend of x"], 
+      ["Zheng Hanzhen", "romantic relationships with x"]
+    ],
+    "Professor Zhou": [
+      ["Li Gaobai", "mentor of x"]
+    ],
+    "Li Demu": [
+      ["Li Gaobai", "father of x"]
+    ],
+    "Mountain Spirit": [
+      ["Li Gaobai", "informant of x"]
+    ],
+    "Li Liangsong": [
+      ["Li Gaobai", "student of x"]
+    ],
+    "Gui Yin": [
+      ["Li Gaobai", "admired by x"], 
+      ["Ruya", "husband of x"], 
+      ["Gan Ma", "sibling of x"], 
+      ["Daughter of Ba Mansion Mountain", "fiance of x"], 
+      ["Chen Sha", "jealous of x"], 
+      ["Ba Mansion Mountain", "enemy of x"]
+    ],
+    "Gan Ma": [
+      ["Li Gaobai", "admirer of x"], 
+      ["Gui Yin", "brother of x"]
+    ],
+    "Daughter of Ba Mansion Mountain": [
+      ["Li Gaobai", "acquaintance of x"], 
+      ["Gui Yin", "fiancee of x"]
+    ],
+    "Ruya": [
+      ["Li Gaobai", "romantic relationships with x"], 
+      ["Gui Yin", "wife of x"], 
+      ["Falcon", "brother in law of x"]
+    ],
+    "Falcon": [
+      ["Li Gaobai", "friend of x"], 
+      ["Ruya", "brother in law of x"]
+    ],
+    "Zheng Hanzhen": [
+      ["Li Gaobai", "romantic relationships with x"]
+    ],
+    "Chen Sha": [
+      ["Gan Ma", "jealous of x"], 
+      ["Li Demu", "victim of x"]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "Le Wan": [
+      ["Yu Yancheng", "friend of x, helper of x"], 
+      ["Yu Shangyong", "friend of x, helper of x"], 
+      ["Mrs. Zhang", "employer of x, friend of x"], 
+      ["Ge Yueman", "same person as x (different reference)"], 
+      ["Xue Yufan", "acquaintance of x"]
+    ],
+    "Ge Yueluo": [
+      ["Le Wan", "employee of x, servant of x"], 
+      ["Zhu Lingshan", "husband of x, employer of x"], 
+      ["Yu Shangyong", "friend of x"], 
+      ["Yu Yancheng", "friend of x"]
+    ],
+    "Zhu Lingshan": [
+      ["Le Wan", "employee of x, servant of x"], 
+      ["Ge Yueluo", "wife of x, employer of x"], 
+      ["Yu Shangyong", "friend of x"], 
+      ["Yu Yancheng", "friend of x"]
+    ],
+    "Yu Shangyong": [
+      ["Le Wan", "friend of x, helper of x"], 
+      ["Yu Yancheng", "brother of x, friend of x"], 
+      ["Ge Jixian", "employer of x"], 
+      ["Ge Yueluo", "friend of x"]
+    ],
+    "Yu Yancheng": [
+      ["Le Wan", "friend of x, helper of x"], 
+      ["Yu Shangyong", "brother of x, friend of x"], 
+      ["Ge Jixian", "employer of x"], 
+      ["Ge Yueluo", "friend of x"]
+    ],
+    "Mrs. Zhang": [
+      ["Le Wan", "employer of x, friend of x"], 
+      ["Ge Jixian", "friend of x"], 
+      ["Ge Yueluo", "friend of x"], 
+      ["Zhu Lingshan", "friend of x"]
+    ],
+    "Ge Yueman": [
+      ["Le Wan", "same person as x (different reference)"], 
+      ["Ge Yueluo", "sister of x"]
+    ],
+    "Xue Yufan": [
+      ["Yu Yancheng", "friend of x"]
+    ],
+    "Mr. Zhang": [
+      ["Mrs. Zhang", "husband of x"]
+    ]
+}

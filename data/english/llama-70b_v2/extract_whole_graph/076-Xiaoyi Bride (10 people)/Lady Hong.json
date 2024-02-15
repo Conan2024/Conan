@@ -1,0 +1,46 @@
+{
+    "Lady Hong": [
+      ["Yao Changshou", "husband of x, abuser of x"], 
+      ["Yao Zhongyi", "stepson of x, suspicious of x"], 
+      ["Uncle Gui", "suspicious of x, claims to know medical skills of x"], 
+      ["Hu Renyu", "land visitor of x, reliable of x"], 
+      ["Doctor Fang", "cousin of x, western medicine doctor of x"], 
+      ["Judy", "relative of x, comprador of x"], 
+      ["Fan Jinkui", "fiancé of x, deceased of x"], 
+      ["Chen Junmeng", "maid of x, ill of x"], 
+      ["Chen Anqiao", "maid of x, acquaintance of x"]
+    ],
+    "Yao Changshou": [
+      ["Lady Hong", "wife of x, abuser of x"], 
+      ["Yao Zhongyi", "son of x, suspicious of x"], 
+      ["Uncle Gui", "suspicious of x, claims to know medical skills of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Lady Hong", "stepson of x, suspicious of x"], 
+      ["Yao Changshou", "father of x, abuser of x"]
+    ],
+    "Uncle Gui": [
+      ["Lady Hong", "suspicious of x, claims to know medical skills of x"], 
+      ["Yao Changshou", "suspicious of x, claims to know medical skills of x"]
+    ],
+    "Hu Renyu": [
+      ["Lady Hong", "land visitor of x, reliable of x"]
+    ],
+    "Doctor Fang": [
+      ["Lady Hong", "cousin of x, western medicine doctor of x"]
+    ],
+    "Judy": [
+      ["Lady Hong", "relative of x, comprador of x"]
+    ],
+    "Fan Jinkui": [
+      ["Lady Hong", "fiancé of x, deceased of x"]
+    ],
+    "Chen Junmeng": [
+      ["Lady Hong", "maid of x, ill of x"], 
+      ["Chen Anqiao", "maid of x, acquaintance of x"]
+    ],
+    "Chen Anqiao": [
+      ["Lady Hong", "maid of x, acquaintance of x"], 
+      ["Chen Junmeng", "maid of x, ill of x"]
+    ]
+}

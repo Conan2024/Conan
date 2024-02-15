@@ -1,0 +1,53 @@
+{
+    "Master Chen": [
+      ["Chen Qian", "father of x"], 
+      ["Chen Zijing", "sister in law of x"], 
+      ["Li Zhong", "love interest of x"], 
+      ["Li Yan", "brother in law of x"]
+    ],
+    "Chen Qian": [
+      ["Master Chen", "daughter of x"], 
+      ["Chen Zijing", "sister of x"], 
+      ["Li Zhong", "sister in law of x"]
+    ],
+    "Chen Zijing": [
+      ["Master Chen", "sister in law of x"], 
+      ["Chen Qian", "sister of x"], 
+      ["Li Zhong", "friend of x"]
+    ],
+    "Li Zhong": [
+      ["Master Chen", "love interest of x"], 
+      ["Chen Qian", "sister in law of x"], 
+      ["Li Yan", "twin brother of x"]
+    ],
+    "Li Yan": [
+      ["Li Zhong", "twin brother of x"], 
+      ["Master Chen", "brother in law of x"]
+    ],
+    "Fang XU": [
+      ["Master Chen", "acquaintance of x"], 
+      ["Chen Qian", "uncle of x"]
+    ],
+    "Li Wangye (Lord Li)": [
+      ["Master Chen", "business partner of x"], 
+      ["Fang XU", "husband of x"]
+    ],
+    "Fangfang": [
+      ["Fang XU", "wife of x"]
+    ],
+    "Madam Li or Li Family": [
+      ["Li Zhong", "mother of x"], 
+      ["Li Yan", "mother of x"]
+    ],
+    "Li Qinren": [
+      ["Li Zhong", "son of x"], 
+      ["Chen Qian", "father in law of x"]
+    ],
+    "Xiao Qian": [
+      ["Chen Qian", "daughter of x"], 
+      ["Li Wangye (Lord Li)", "rapist of x"]
+    ],
+    "Li Gongzi": [
+      ["Master Chen", "subordinate of x"]
+    ]
+}

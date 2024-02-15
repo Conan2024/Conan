@@ -1,0 +1,32 @@
+{
+    "Han Yimu": [
+      ["Liu Qi", "hate of x, disliked by x, victim of x"], 
+      ["Xiu Renjie", "impressed by x"], 
+      ["Lin Ruotong", "suspicious of x"], 
+      ["Hong Zilian", "quarreled with x"], 
+      ["ZHANG WENYUAN", "knows about x being the gun keeper"]
+    ],
+    "Liu Qi": [
+      ["Han Yimu", "disliked by x, manipulated by x"], 
+      ["Xiu Renjie", "mentioned in conversation with x"], 
+      ["Hong Zilian", "quarreled with x"], 
+      ["ZHANG WENYUAN", "mentioned in conversation with x"]
+    ],
+    "Xiu Renjie": [
+      ["Han Yimu", "impressed by x"], 
+      ["Liu Qi", "mentioned in conversation with x"]
+    ],
+    "Lin Ruotong": [
+      ["Han Yimu", "suspicious of x"]
+    ],
+    "Hong Zilian": [
+      ["Han Yimu", "quarreled with x"]
+    ],
+    "ZHANG WENYUAN": [
+      ["Han Yimu", "knows about x being the gun keeper"], 
+      ["Liu Qi", "mentioned in conversation with x"]
+    ],
+    "ZHANG ERFU": [
+      ["Han Yimu", "mentioned in video of x"]
+    ]
+}

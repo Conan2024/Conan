@@ -1,0 +1,55 @@
+{
+    "Sylvia Costa": [
+      ["James Lai Li", "debtor of x, informant of x"], 
+      ["Hans Li Morette", "colleague of x, friend of x"], 
+      ["Gail Li Morette", "friend of x"], 
+      ["Drake Li Morette", "patient of x"], 
+      ["Dr. Parosky", "colleague of x"], 
+      ["Jim Mason", "victim of x"], 
+      ["Robert Casey", "crime partner of x"], 
+      ["Dr. Paloski", "colleague of x"], 
+      ["Elaine Carter", "colleague of x, mentor of x"], 
+      ["Richard Berkeley", "superior of x"]
+    ],
+    "Mother": [
+      ["Sylvia Costa", "child of x"]
+    ],
+    "James Lai Li": [
+      ["Sylvia Costa", "creditor of x"]
+    ],
+    "Dr. Parosky": [
+      ["Sylvia Costa", "colleague of x"]
+    ],
+    "Jim Mason": [
+      ["Sylvia Costa", "victim of x"]
+    ],
+    "Robert Casey": [
+      ["Sylvia Costa", "crime partner of x"], 
+      ["Dr. Parosky", "patient of x"]
+    ],
+    "Hans Li Morette": [
+      ["Sylvia Costa", "colleague of x, friend of x"], 
+      ["Gail Li Morette", "husband of x"], 
+      ["Drake Li Morette", "brother of x"], 
+      ["Elaine Carter", "colleague of x"]
+    ],
+    "Gail Li Morette": [
+      ["Sylvia Costa", "friend of x"], 
+      ["Hans Li Morette", "wife of x"]
+    ],
+    "Drake Li Morette": [
+      ["Sylvia Costa", "patient of x"], 
+      ["Hans Li Morette", "brother of x"]
+    ],
+    "Dr. Paloski": [
+      ["Sylvia Costa", "colleague of x"], 
+      ["Elaine Carter", "mentor of x"]
+    ],
+    "Elaine Carter": [
+      ["Sylvia Costa", "colleague of x, mentor of x"], 
+      ["Dr. Paloski", "student of x"]
+    ],
+    "Richard Berkeley": [
+      ["Sylvia Costa", "superior of x"]
+    ]
+}

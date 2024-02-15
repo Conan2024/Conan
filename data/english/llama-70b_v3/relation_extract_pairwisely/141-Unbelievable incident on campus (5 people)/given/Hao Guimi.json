@@ -1,0 +1,14 @@
+{
+    "Cousin Sister": [
+      ["Hao Guimi", "sister of x, friend of x, classmate of x, schoolmate of x"], 
+      ["Lin Xiaohua", "friend of x, acquaintance of x"]
+    ],
+    "Hao Guimi": [
+      ["Cousin Sister", "sister of x, friend of x, classmate of x, schoolmate of x"], 
+      ["Lin Xiaohua", "friend of x, classmate of x, business partner of x"]
+    ],
+    "Lin Xiaohua": [
+      ["Cousin Sister", "friend of x, acquaintance of x"], 
+      ["Hao Guimi", "friend of x, classmate of x, business partner of x"]
+    ]
+}

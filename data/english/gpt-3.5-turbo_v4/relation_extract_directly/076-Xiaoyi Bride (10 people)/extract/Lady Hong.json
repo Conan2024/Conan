@@ -1,0 +1,65 @@
+{
+    "Tian Hongjiao": [
+      ["Fan Jinkui", "fiance of x"]
+    ],
+    "Yao Changshou": [
+      ["Yao Mengren", "son of x"], 
+      ["Yao Zhongyi", "son of x"], 
+      ["Chen Junmeng", "wife of x"], 
+      ["Uncle Gui", "information receiver from x"], 
+      ["Physical Yu", "information receiver from x"]
+    ],
+    "Fan Jinkui": [
+      ["Tian Hongjiao", "fiancee of x"], 
+      ["Li Kuansheng", "sibling of x"], 
+      ["Li Guangsheng", "sibling of x"], 
+      ["Fang Chengshan", "uncle of x"], 
+      ["Fang Minyue", "cousin of x"]
+    ],
+    "Li Kuansheng": [
+      ["Tian Hongjiao", "sibling of x"], 
+      ["Fan Jinkui", "sibling of x"], 
+      ["Li Guangsheng", "sibling of x"], 
+      ["Fang Chengshan", "uncle of x"], 
+      ["Fang Minyue", "cousin of x"]
+    ],
+    "Li Guangsheng": [
+      ["Tian Hongjiao", "sibling of x"], 
+      ["Fan Jinkui", "sibling of x"], 
+      ["Li Kuansheng", "sibling of x"], 
+      ["Fang Chengshan", "uncle of x"], 
+      ["Fang Minyue", "cousin of x"]
+    ],
+    "Fang Chengshan": [
+      ["Tian Hongjiao", "uncle of x"], 
+      ["Fan Jinkui", "uncle of x"], 
+      ["Li Kuansheng", "nephew of x"], 
+      ["Li Guangsheng", "nephew of x"], 
+      ["Fang Minyue", "daughter of x"]
+    ],
+    "Yao Mengren": [
+      ["Yao Changshou", "father of x"], 
+      ["Yao Zhongyi", "sibling of x"], 
+      ["Chen Junmeng", "wife of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Yao Changshou", "father of x"], 
+      ["Yao Mengren", "sibling of x"]
+    ],
+    "Chen Junmeng": [
+      ["Yao Changshou", "husband of x"]
+    ],
+    "Fang Minyue": [
+      ["Tian Hongjiao", "cousin of x"], 
+      ["Fan Jinkui", "cousin of x"], 
+      ["Li Kuansheng", "cousin of x"], 
+      ["Li Guangsheng", "cousin of x"], 
+      ["Fang Chengshan", "father of x"]
+    ],
+    "Uncle Gui": [
+      ["Yao Changshou", "informant of x"]
+    ],
+    "Physician Yu": [
+      ["Uncle Gui", "information receiver from x"]
+    ]
+}

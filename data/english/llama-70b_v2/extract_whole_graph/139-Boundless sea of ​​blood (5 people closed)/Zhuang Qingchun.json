@@ -1,0 +1,23 @@
+{
+    "Zhuang Qingchun": [
+      ["Jia Meili", "friend of x, enemy of x"], 
+      ["Qin Laoda", "brother of x, rival of x"], 
+      ["Xiao Tiyu", "lover of x, pursuer of x"]
+    ],
+    "Qin Expert": [
+      ["Zhuang Qingchun", "stepdaughter of x, victim of x"], 
+      ["Qin Laoda", "son of x, accomplice of x"]
+    ],
+    "Qin Laoda": [
+      ["Zhuang Qingchun", "sister of x, rival of x"], 
+      ["Jia Meili", "acquaintance of x, potential enemy of x"]
+    ],
+    "Jia Meili": [
+      ["Zhuang Qingchun", "friend of x, potential enemy of x"], 
+      ["Qin Expert", "lover of x, manipulator of x"]
+    ],
+    "Xiao Tiyu": [
+      ["Zhuang Qingchun", "lover of x, pursued of x"], 
+      ["Jia Meili", "acquaintance of x, potential enemy of x"]
+    ]
+}

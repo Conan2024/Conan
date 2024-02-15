@@ -1,0 +1,33 @@
+{
+    "Elaine Carter": [
+      ["Dr. Paloski", "mentor of x"], 
+      ["Head Nurse Costa", "helper of x"], 
+      ["Hospital Dean Berkeley", "employer of x"]
+    ],
+    "James Lai Li": [
+      ["Elaine Carter", "same person as x (different reference)"]
+    ],
+    "Berkeley": [
+      ["Elaine Carter", "employer of x"]
+    ],
+    "Dr. Paloski": [
+      ["Elaine Carter", "mentor of x"]
+    ],
+    "Dr. Drake Rimerite": [
+      ["Hans Rymorite", "acquaintance of x, relative of x"], 
+      ["Head Nurse Costa", "friend of x, relative of x"]
+    ],
+    "Head Nurse Costa": [
+      ["Elaine Carter", "helper of x"], 
+      ["Dr. Drake Rimerite", "friend of x"]
+    ],
+    "Dr. Hans Rimerite": [
+      ["Drake Rimerite", "sibling of x, same person as x (different identity)"]
+    ],
+    "Mr. Mason": [
+      ["Dr. Hans Rymorite", "in the lawsuit against x, employee of x"]
+    ],
+    "Gallimerret": [
+      ["Dr. Hans Rymorite", "wife of x, relative of x"]
+    ]
+}

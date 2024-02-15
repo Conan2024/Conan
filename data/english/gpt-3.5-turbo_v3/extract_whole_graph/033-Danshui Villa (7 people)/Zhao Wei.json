@@ -1,0 +1,68 @@
+{
+    "Zhao Wei": [
+        [
+            "Fang Shuangji",
+            "superior of x, helper of x"
+        ],
+        [
+            "Zhao Wanlei",
+            "enemy of x, helper of x"
+        ],
+        [
+            "Zhao Luoyi",
+            "sister of x"
+        ],
+        [
+            "Zhao Qiuer",
+            "acquaintance of x"
+        ]
+    ],
+    "Fang Shuangji": [
+        [
+            "Zhao Wei",
+            "superior of x, helper of x"
+        ],
+        [
+            "Zhao Wanlei",
+            "colleague of x"
+        ],
+        [
+            "Zhao Luoyi",
+            "acquaintance of x"
+        ]
+    ],
+    "Zhao Wanlei": [
+        [
+            "Zhao Wei",
+            "enemy of x, helper of x"
+        ],
+        [
+            "Fang Shuangji",
+            "colleague of x"
+        ],
+        [
+            "Zhao Luoyi",
+            "estranged niece of x"
+        ]
+    ],
+    "Zhao Luoyi": [
+        [
+            "Zhao Wei",
+            "sister of x"
+        ],
+        [
+            "Fang Shuangji",
+            "acquaintance of x"
+        ],
+        [
+            "Zhao Wanlei",
+            "estranged uncle of x"
+        ]
+    ],
+    "Zhao Qiuer": [
+        [
+            "Zhao Wei",
+            "acquaintance of x"
+        ]
+    ]
+}

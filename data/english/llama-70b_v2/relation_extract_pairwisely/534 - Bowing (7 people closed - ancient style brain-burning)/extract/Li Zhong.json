@@ -1,0 +1,74 @@
+{
+    "Li Zhong": [
+      ["Li Qinren", "son of x, twin brother of x"], 
+      ["Madam Li", "mother of x, son of x"], 
+      ["Chen Qian", "brother in law of x, son in law of x"], 
+      ["Li Yan", "brother of x, twin brother of x"], 
+      ["Chen Zijing", "father in law of x, business partner of x, friend of x"], 
+      ["Master Chen", "father in law of x, mentor of x"], 
+      ["Li Family", "son of x li family, brother of x li yan, husband of x chen qian"]
+    ],
+    "Li Qinren": [
+      ["Li Zhong", "father of x, twin brother of x"], 
+      ["Madam Li", "father of x, master of x"], 
+      ["Chen Qian", "father in law of x, father of x the bride"], 
+      ["Li Yan", "son of x li qinren, brother of x li yan, same person as li yan (different reference) of x"], 
+      ["Chen Zijing", "father in law of x, father of x spouse"], 
+      ["Master Chen", "father in law of x, master of x chen qian"], 
+      ["Li Family", "father of x, master of x, employer of x"]
+    ],
+    "Madam Li": [
+      ["Li Zhong", "mother of x, son of x"], 
+      ["Li Qinren", "mother of x, wife of x"], 
+      ["Chen Qian", "mother of x, informant of x"], 
+      ["Li Yan", "mother of x, sibling of x"], 
+      ["Chen Zijing", "mother in law of x, wife of x"], 
+      ["Master Chen", "mother in law of x, co wife of x"], 
+      ["Li Family", "mother of x, wife of x"]
+    ],
+    "Chen Qian": [
+      ["Li Zhong", "sister in law of x, wife of x"], 
+      ["Li Qinren", "husband of x, son in law of x"], 
+      ["Madam Li", "wife of x, friend of x"], 
+      ["Li Yan", "husband of x, lover of x"], 
+      ["Chen Zijing", "husband of x, same person as x (different identity)"], 
+      ["Master Chen", "husband of x, lover of x, friend of x"], 
+      ["Li Family", "wife of x, same person as x (different reference)"]
+    ],
+    "Li Yan": [
+      ["Li Zhong", "brother of x, twin brother of x"], 
+      ["Li Qinren", "brother of x li qinren, son of x li qinren, same person as li qinren (different reference) of x"], 
+      ["Madam Li", "brother of x, sibling of x"], 
+      ["Chen Qian", "wife of x, lover of x"], 
+      ["Chen Zijing", "suspect suspicious of x, rival enemy of x, victim perpetrator of x"], 
+      ["Master Chen", "brother in law of x, rival of x"], 
+      ["Li Family", "brother of x, twin brother of x, sibling of x, son of x"]
+    ],
+    "Chen Zijing": [
+      ["Li Zhong", "father in law of x, business partner of x, friend of x"], 
+      ["Li Qinren", "father in law of x, father of x spouse"], 
+      ["Madam Li", "father in law of x, husband of x"], 
+      ["Chen Qian", "father of x, same person as x (different reference)"], 
+      ["Li Yan", "suspect suspicious of x, rival enemy of x, victim perpetrator of x"], 
+      ["Master Chen", "father in law of x, marriage partner's father of x"], 
+      ["Li Family", "father in law of x, master of x li zhong"]
+    ],
+    "Master Chen": [
+      ["Li Zhong", "son in law of x, protege of x"], 
+      ["Li Qinren", "father in law of x, master of x li zhong"], 
+      ["Madam Li", "father in law of x, husband of x madam li"], 
+      ["Chen Qian", "father of x, master of x, employer of x"], 
+      ["Li Yan", "brother in law of x, rival of x"], 
+      ["Chen Zijing", "father in law of x, marriage partner's father of x"], 
+      ["Li Family", "father in law of x, mother in law of x, brother in law of x, sister in law of x, uncle of x, aunt of x, nephew of x, niece of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped of x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by of x, dislike of x, disliked by of x, subject of x investigation, deceiver of x, betrayer of x, deceived of x, betrayed of x, suspected of x, suspicious of x, suspect of x, adversary of x, enemy of x, rival of x, manipulator of x, manipulated of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"]
+    ],
+    "Li Family": [
+      ["Li Zhong", "father of x li zhong, mother of x li zhong, brother of x li yan, son in law of x chen family"], 
+      ["Li Qinren", "mother of x, wife of x, sibling of x"], 
+      ["Madam Li", "father of x, husband of x"], 
+      ["Chen Qian", "father of x, mother of x, son of x, daughter of x, brother of x, sister of x, relative of x"], 
+      ["Li Yan", "brother of x, twin brother of x, sibling of x, son of x"], 
+      ["Chen Zijing", "father in law of x, master of x li zhong"], 
+      ["Master Chen", "father in law of x, mother in law of x, brother in law of x, sister in law of x, uncle of x, aunt of x, nephew of x, niece of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped of x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by of x, dislike of x, disliked by of x, subject of x investigation, deceiver of x, betrayer of x, deceived of x, betrayed of x, suspected of x, suspicious of x, suspect of x, adversary of x, enemy of x, rival of x, manipulator of x, manipulated of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"]
+    ]
+}

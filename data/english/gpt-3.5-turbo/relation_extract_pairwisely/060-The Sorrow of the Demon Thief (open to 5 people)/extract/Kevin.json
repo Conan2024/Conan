@@ -1,0 +1,146 @@
+{
+    "Kevin": [
+        [
+            "Ella",
+            "helper of x",
+            "ally of x"
+        ],
+        [
+            "Rowling",
+            "co-wives of x"
+        ],
+        [
+            "Gust",
+            "security guard of Gust",
+            "employee of Gust",
+            "possible adversary of Gust",
+            "possibly manipulated by Gust"
+        ],
+        [
+            "David",
+            "friend of x",
+            "romantic relationships with x"
+        ],
+        [
+            "Griff",
+            "guard of x",
+            "possible adversary of x",
+            "suspect to x"
+        ]
+    ],
+    "Ella": [
+        [
+            "Kevin",
+            "information receiver from x",
+            "ally of x"
+        ],
+        [
+            "Rowling",
+            "assistant of Rowling"
+        ],
+        [
+            "Gust",
+            "romantic relationships with x"
+        ],
+        [
+            "David",
+            "fondness of x"
+        ],
+        [
+            "Griff",
+            "helper of x",
+            "admirer of x"
+        ]
+    ],
+    "Rowling": [
+        [
+            "Kevin",
+            "co-wives of x"
+        ],
+        [
+            "Ella",
+            "sister of Ella"
+        ],
+        [
+            "Gust",
+            "extramarital affair with x"
+        ],
+        [
+            "David",
+            "extramarital affair with x"
+        ],
+        [
+            "Griff",
+            "secret lover of x"
+        ]
+    ],
+    "Gust": [
+        [
+            "Kevin",
+            "possible employer of Kevin",
+            "possibly manipulated Kevin"
+        ],
+        [
+            "Ella",
+            "romantic relationships with x"
+        ],
+        [
+            "Rowling",
+            "extramarital affair with x"
+        ],
+        [
+            "David",
+            "romantic relationships with David"
+        ],
+        [
+            "Griff",
+            "employee of x"
+        ]
+    ],
+    "David": [
+        [
+            "Kevin",
+            "acquaintance of x"
+        ],
+        [
+            "Ella",
+            "romantic relationships with x"
+        ],
+        [
+            "Rowling",
+            "extramarital affair with x"
+        ],
+        [
+            "Gust",
+            "romantic relationships with Gust"
+        ],
+        [
+            "Griff",
+            "suspected by x"
+        ]
+    ],
+    "Griff": [
+        [
+            "Kevin",
+            "colleague of x",
+            "possible adversary of x",
+            "suspect of x"
+        ],
+        [
+            "Ella",
+            "helper of x"
+        ],
+        [
+            "Rowling",
+            "suspicious of x"
+        ],
+        [
+            "Gust",
+            "employer of x"
+        ],
+        [
+            "David",
+            "suspected by x"
+        ]
+    ]
+}

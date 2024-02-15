@@ -1,0 +1,26 @@
+{
+    "Jue Ming": [
+      ["Xuan Bingjiao", "same person as x (different reference)"], 
+      ["Zi Su", "suspect of x"]
+    ],
+    "Xuan Bingjiao": [
+      ["Jue Ming", "same person as x (different reference)"], 
+      ["TA", "acquaintance of x"]
+    ],
+    "Zi Su": [
+      ["Jue Ming", "suspect of x"], 
+      ["TA", "acquaintance of x"]
+    ],
+    "TA": [
+      ["Xuan Bingjiao", "acquaintance of x"], 
+      ["Zi Su", "acquaintance of x"]
+    ],
+    "Lu Ying": [
+      ["Jue Ming", "adversary of x"], 
+      ["Xuan Bingjiao", "rival of x"]
+    ],
+    "Wang Guan": [
+      ["Jue Ming", "enemy of x"], 
+      ["Xuan Bingjiao", "manipulator of x"]
+    ]
+}

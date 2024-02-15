@@ -1,0 +1,37 @@
+{
+    "Hans Li Morette": [
+      ["Eleine Carter", "rival of x"], 
+      ["Dean Berkeley", "mentor of x, teacher of x"], 
+      ["Head Nurse Costa", "colleague of x, rival of x"], 
+      ["Father Tom", "mentor of x, teacher of x, superior of x, employer of x"], 
+      ["Gale Li Morette", "colleague of x, rival of x"]
+    ],
+    "Eleine Carter": [
+      ["Hans Li Morette", "rival of x"], 
+      ["Head Nurse Costa", "mentor of x"], 
+      ["Father Tom", "acquaintance of x"], 
+      ["Gale Li Morette", "husband of x"]
+    ],
+    "Dean Berkeley": [
+      ["Hans Li Morette", "mentor of x, teacher of x"], 
+      ["Head Nurse Costa", "superior of x, employer of x"], 
+      ["Father Tom", "acquaintance of x"]
+    ],
+    "Head Nurse Costa": [
+      ["Hans Li Morette", "colleague of x"], 
+      ["Dean Berkeley", "subordinate of x, employee of x"], 
+      ["Father Tom", "employer of x"], 
+      ["Gale Li Morette", "superior of x"]
+    ],
+    "Father Tom": [
+      ["Hans Li Morette", "mentor of x, teacher of x, superior of x, employer of x"], 
+      ["Eleine Carter", "acquaintance of x"], 
+      ["Dean Berkeley", "acquaintance of x"], 
+      ["Head Nurse Costa", "employer of x"]
+    ],
+    "Gale Li Morette": [
+      ["Hans Li Morette", "victim of x"], 
+      ["Eleine Carter", "wife of x"], 
+      ["Head Nurse Costa", "wife of x"]
+    ]
+}

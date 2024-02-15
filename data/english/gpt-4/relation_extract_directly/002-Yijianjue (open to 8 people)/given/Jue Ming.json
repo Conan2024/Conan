@@ -1,0 +1,64 @@
+{
+    "Jue Ming": [
+        [
+            "Saint of Thieves",
+            "same person as x (different identity)"
+        ],
+        [
+            "Mysterious Ice Sect's Messenger",
+            "same person as x (different reference), deceiver of x, victim of x"
+        ],
+        [
+            "Zi Su",
+            "acquaintance of x, suspected by x"
+        ],
+        [
+            "Lu Ying",
+            "acquaintance of x"
+        ]
+    ],
+    "Saint of Thieves": [
+        [
+            "Jue Ming",
+            "same person as x (different identity)"
+        ],
+        [
+            "Mysterious Ice Sect's Messenger",
+            "deceiver of x, victim of x"
+        ],
+        [
+            "Zi Su",
+            "acquaintance of x, suspected by x"
+        ],
+        [
+            "Lu Ying",
+            "acquaintance of x"
+        ]
+    ],
+    "Mysterious Ice Sect's Messenger": [
+        [
+            "Jue Ming",
+            "same person as x (different reference), deceived by x, perpetrator of x"
+        ],
+        [
+            "Saint of Thieves",
+            "deceived by x, perpetrator of x"
+        ]
+    ],
+    "Zi Su": [
+        [
+            "Jue Ming",
+            "acquaintance of x, suspected by x"
+        ],
+        [
+            "Saint of Thieves",
+            "acquaintance of x, suspected by x"
+        ]
+    ],
+    "Lu Ying": [
+        [
+            "Jue Ming",
+            "acquaintance of x"
+        ]
+    ]
+}

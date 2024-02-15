@@ -1,0 +1,414 @@
+{
+    "Zhuang Qingchun": [
+        [
+            "Qin Expert",
+            "stepfather",
+            "enemy",
+            "rival",
+            "manipulator",
+            "Qin Laoda",
+            "brother",
+            "acquaintance",
+            "classmate",
+            "schoolmate",
+            "neighbour",
+            "helper",
+            "bully",
+            "murderer",
+            "attempted perpetrator",
+            "victim",
+            "killed by"
+        ],
+        [
+            "Qin Laoda",
+            "Acquaintance",
+            "Classmate",
+            "Schoolmate",
+            "Neighbour",
+            "Suspect",
+            "Adversary"
+        ],
+        [
+            "Jia Meili",
+            "friend",
+            "classmate"
+        ],
+        [
+            "Xiao Tiyu",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Xue Meiniang",
+            "classmate",
+            "acquaintance"
+        ],
+        [
+            "Jia Meili's mother",
+            "Friend of X",
+            "Classmate of X"
+        ],
+        [
+            "Qin Laoda's mother",
+            "stepmother",
+            "adversary",
+            "enemy"
+        ],
+        [
+            "Private detective",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Qin Expert",
+            "Jia Meili"
+        ]
+    ],
+    "Qin Expert": [
+        [
+            "Zhuang Qingchun",
+            "stepdaughter",
+            "music student",
+            "colleague",
+            "business partner",
+            "customer",
+            "tenant",
+            "patient",
+            "suspect",
+            "adversary",
+            "enemy",
+            "rival",
+            "manipulator",
+            "Qin Laoda",
+            "son",
+            "brother",
+            "acquaintance",
+            "classmate",
+            "schoolmate",
+            "neighbour",
+            "helper",
+            "bully",
+            "murderer",
+            "attempted perpetrator",
+            "victim",
+            "killed by"
+        ],
+        [
+            "Qin Laoda",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Jia Meili",
+            "Zhuang Qingchun"
+        ],
+        [
+            "Xiao Tiyu",
+            "Relationship 1: Stepfather-Stepson",
+            "Relationship 2: Accomplice in Crime"
+        ],
+        [
+            "Xue Meiniang",
+            "Wife of X"
+        ],
+        [
+            "Jia Meili's mother",
+            "Relationship 1: Stepfather",
+            "Relationship 2: Mastermind behind Jia Meili's mother's death"
+        ],
+        [
+            "Qin Laoda's mother",
+            "stepfather",
+            "mastermind of mother's death"
+        ],
+        [
+            "Private detective",
+            "Perpetrator of X",
+            "Master of X",
+            "Subordinate of X",
+            "Employee of X",
+            "Servant of X"
+        ]
+    ],
+    "Qin Laoda": [
+        [
+            "Zhuang Qingchun",
+            "Acquaintance",
+            "Classmate",
+            "Schoolmate",
+            "Neighbour",
+            "Suspect",
+            "Adversary"
+        ],
+        [
+            "Qin Expert",
+            "Son of X",
+            "Stranger to X"
+        ],
+        [
+            "Jia Meili",
+            "Zhuang Qingchun"
+        ],
+        [
+            "Xiao Tiyu",
+            "brother",
+            "classmate"
+        ],
+        [
+            "Xue Meiniang",
+            "classmate",
+            "schoolmate"
+        ],
+        [
+            "Jia Meili's mother",
+            "Wife of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Qin Laoda's mother",
+            "Sibling"
+        ],
+        [
+            "Private detective",
+            "Sibling of X",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Jia Meili": [
+        [
+            "Zhuang Qingchun",
+            "friend",
+            "classmate"
+        ],
+        [
+            "Qin Expert",
+            "Zhuang Qingchun"
+        ],
+        [
+            "Qin Laoda",
+            "Zhuang Qingchun"
+        ],
+        [
+            "Xiao Tiyu",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Xue Meiniang",
+            "classmate",
+            "friend"
+        ],
+        [
+            "Jia Meili's mother",
+            "Acquaintance"
+        ],
+        [
+            "Qin Laoda's mother",
+            "Acquaintance",
+            "Classmate"
+        ],
+        [
+            "Private detective",
+            "Acquaintance",
+            "Classmate"
+        ]
+    ],
+    "Xiao Tiyu": [
+        [
+            "Zhuang Qingchun",
+            "Friend",
+            "Classmate"
+        ],
+        [
+            "Qin Expert",
+            "Relationship 1: Stepson-Stepfather",
+            "Relationship 2: Accomplice in Crime"
+        ],
+        [
+            "Qin Laoda",
+            "boyfriend",
+            "teacher"
+        ],
+        [
+            "Jia Meili",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Xue Meiniang",
+            "romantic relationships"
+        ],
+        [
+            "Jia Meili's mother",
+            "Relationship 1: Teacher-Student, Relationship 2: Acquaintance"
+        ],
+        [
+            "Qin Laoda's mother",
+            "Stranger to X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Private detective",
+            "Husband of X"
+        ]
+    ],
+    "Xue Meiniang": [
+        [
+            "Zhuang Qingchun",
+            "classmate",
+            "acquaintance"
+        ],
+        [
+            "Qin Expert",
+            "Husband of X"
+        ],
+        [
+            "Qin Laoda",
+            "music teacher",
+            "colleague"
+        ],
+        [
+            "Jia Meili",
+            "classmate",
+            "friend"
+        ],
+        [
+            "Xiao Tiyu",
+            "romantic relationships"
+        ],
+        [
+            "Jia Meili's mother",
+            "Stranger to X"
+        ],
+        [
+            "Qin Laoda's mother",
+            "Stranger to X"
+        ],
+        [
+            "Private detective",
+            "Relationship 1: Acquaintance",
+            "Relationship 2: Employer of X"
+        ]
+    ],
+    "Jia Meili's mother": [
+        [
+            "Zhuang Qingchun",
+            "Friend of X",
+            "Classmate of X"
+        ],
+        [
+            "Qin Expert",
+            "Relationship 1: Wife",
+            "Relationship 2: Victim of Qin Expert's scheme"
+        ],
+        [
+            "Qin Laoda",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Jia Meili",
+            "Mother of X"
+        ],
+        [
+            "Xiao Tiyu",
+            "Relationship 1: Teacher-Student, Relationship 2: Acquaintance"
+        ],
+        [
+            "Xue Meiniang",
+            "Stranger to X"
+        ],
+        [
+            "Qin Laoda's mother",
+            "Wife of X",
+            "Mother of X"
+        ],
+        [
+            "Private detective",
+            "Acquaintance",
+            "Colleague"
+        ]
+    ],
+    "Qin Laoda's mother": [
+        [
+            "Zhuang Qingchun",
+            "stepdaughter",
+            "adversary",
+            "enemy"
+        ],
+        [
+            "Qin Expert",
+            "co-wife of X",
+            "murderer of X"
+        ],
+        [
+            "Qin Laoda",
+            "Mother of X",
+            "Son of X"
+        ],
+        [
+            "Jia Meili",
+            "Acquaintance",
+            "Classmate"
+        ],
+        [
+            "Xiao Tiyu",
+            "Stranger to X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Xue Meiniang",
+            "Stranger to X"
+        ],
+        [
+            "Jia Meili's mother",
+            "Wife of X",
+            "Mother of X"
+        ],
+        [
+            "Private detective",
+            "Suspect of X"
+        ]
+    ],
+    "Private detective": [
+        [
+            "Zhuang Qingchun",
+            "Friend",
+            "Acquaintance"
+        ],
+        [
+            "Qin Expert",
+            "Informant of X",
+            "Investigation target of X"
+        ],
+        [
+            "Qin Laoda",
+            "Sibling of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Jia Meili",
+            "Investigator",
+            "Informant"
+        ],
+        [
+            "Xiao Tiyu",
+            "Husband of X"
+        ],
+        [
+            "Xue Meiniang",
+            "Relationship 1: Acquaintance",
+            "Relationship 2: Employer of X"
+        ],
+        [
+            "Jia Meili's mother",
+            "Acquaintance",
+            "Colleague"
+        ],
+        [
+            "Qin Laoda's mother",
+            "Informant of X",
+            "Acquaintance of X"
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "Luo Xue Yan": [
+      ["Wang Zimo", "friend of x, dance partner of x, love interest of x, thief of x"], 
+      ["Zhaonan", "rival of x, acquaintance of x, widow of x wang zimo"], 
+      ["Hei Li", "acquaintance of x, dance partner of x"], 
+      ["Qi Gu Fei", "acquaintance of x, dance partner of x"], 
+      ["Baron Smith", "acquaintance of x, employer of x"], 
+      ["Mrs. Ruan", "landlady of x, acquaintance of x"]
+    ],
+    "Wang Zimo": [
+      ["Luo Xue Yan", "friend of x, dance partner of x, love interest of x, victim of x"], 
+      ["Wangdi", "acquaintance of x"], 
+      ["Guilang", "friend of x"], 
+      ["Zhaonan", "widow of x"], 
+      ["Baron Smith", "acquaintance of x"]
+    ],
+    "Zhaonan": [
+      ["Wang Zimo", "husband of x, deceased of x"], 
+      ["Luo Xue Yan", "rival of x, acquaintance of x"]
+    ],
+    "Guilang": [
+      ["Wang Zimo", "friend of x"], 
+      ["Wangdi", "acquaintance of x"], 
+      ["Luo Xue Yan", "acquaintance of x"]
+    ],
+    "Hei Li": [
+      ["Qi Gu Fei", "friend of x, dance partner of x"], 
+      ["Baron Smith", "acquaintance of x"], 
+      ["Luo Xue Yan", "acquaintance of x"], 
+      ["Zhaonan", "suspect of x, acquaintance of x"]
+    ],
+    "Qi Gu Fei": [
+      ["Hei Li", "friend of x, dance partner of x"], 
+      ["Baron Smith", "acquaintance of x"], 
+      ["Luo Xue Yan", "acquaintance of x"], 
+      ["Zhaonan", "suspect of x, acquaintance of x"]
+    ],
+    "Baron Smith": [
+      ["Hei Li", "acquaintance of x"], 
+      ["Qi Gu Fei", "acquaintance of x"], 
+      ["Luo Xue Yan", "acquaintance of x"]
+    ],
+    "Mrs. Ruan": [
+      ["Luo Xue Yan", "landlady of x, acquaintance of x"], 
+      ["Luo Younuo", "son of x, acquaintance of x"]
+    ],
+    "Luo Younuo": [
+      ["Mrs. Ruan", "mother of x, acquaintance of x"], 
+      ["Luo Xue Yan", "sister of x, acquaintance of x"]
+    ],
+    "Wangdi": [
+      ["Wang Zimo", "friend of x"], 
+      ["Zhaonan", "sister of x, acquaintance of x"], 
+      ["Guilang", "acquaintance of x"]
+    ]
+}

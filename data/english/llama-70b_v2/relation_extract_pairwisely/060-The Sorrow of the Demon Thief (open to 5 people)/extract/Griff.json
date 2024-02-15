@@ -1,0 +1,32 @@
+{
+    "Gust": [
+      ["Ella", "relationship 1: assistant of x, relationship 2: suspicious of x cheating"], 
+      ["David", "employee of x, master of x, superior of x"], 
+      ["Rowling", "employee of x, superior of x, master of x, subordinate of x, colleague of x, business partner of x"], 
+      ["Kevin", "acquaintance of x, suspect of x"]
+    ],
+    "Ella": [
+      ["Gust", "relationship 1: assistant of x, relationship 2: suspicious of x cheating"], 
+      ["David", "guster of x, coworker of x, accomplice of x"], 
+      ["Rowling", "lla is gust's assistant of x, you also know that gust likes her of x, you have been cheated by her a lot of x x money"], 
+      ["Kevin", "assistant of x, thief of x"]
+    ],
+    "David": [
+      ["Gust", "employee of x, master of x, superior of x"], 
+      ["Ella", "guster of x, coworker of x, accomplice of x"], 
+      ["Rowling", "friend of x, acquaintance of x"], 
+      ["Kevin", "acquaintance of x, rival of x"]
+    ],
+    "Rowling": [
+      ["Gust", "employee of x, superior of x, master of x, subordinate of x, colleague of x, business partner of x"], 
+      ["Ella", "publicity rowling of x, you are not familiar with of x, she seems to have a close relationship with kevin of x, is she also a thief? of x"], 
+      ["David", "friend of x, acquaintance of x"], 
+      ["Kevin", "acquaintance of x"]
+    ],
+    "Kevin": [
+      ["Gust", "acquaintance of x, suspect of x"], 
+      ["Ella", "thief of x, accomplice of x"], 
+      ["David", "acquaintance of x, rival of x"], 
+      ["Rowling", "acquaintance of x"]
+    ]
+}

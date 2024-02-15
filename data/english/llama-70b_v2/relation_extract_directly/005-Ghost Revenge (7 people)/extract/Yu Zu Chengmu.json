@@ -1,0 +1,58 @@
+{
+    "Yu Zu Chengmu": [
+      ["Duan Yuetong", "suspect of x, interviewee of x"], 
+      ["Wu Baian", "acquaintance of x, classmate of x eldest brother"], 
+      ["Yue Gu", "acquaintance of x, classmate of x eldest brother"], 
+      ["Li Zicai", "brother of x, real name of x"], 
+      ["Anqi", "colleague of x, business partner of x, acquaintance of x"], 
+      ["Aming", "acquaintance of x, colleague of x"]
+    ],
+    "Duan Yuetong": [
+      ["Yu Zu Chengmu", "suspect of x, interviewee of x"], 
+      ["Wu Baian", "acquaintance of x, suspect of x"], 
+      ["Yue Gu", "acquaintance of x, suspect of x"]
+    ],
+    "Wu Baian": [
+      ["Yu Zu Chengmu", "classmate of x eldest brother, acquaintance of x"], 
+      ["Duan Yuetong", "acquaintance of x, suspect of x"], 
+      ["Yue Gu", "classmate of x eldest brother, acquaintance of x"]
+    ],
+    "Yue Gu": [
+      ["Yu Zu Chengmu", "classmate of x eldest brother, acquaintance of x"], 
+      ["Duan Yuetong", "acquaintance of x, suspect of x"], 
+      ["Wu Baian", "classmate of x eldest brother, acquaintance of x"]
+    ],
+    "Li Zicai": [
+      ["Yu Zu Chengmu", "brother of x, real name of x"], 
+      ["Wu Baian", "classmate of x, acquaintance of x"]
+    ],
+    "Anqi": [
+      ["Yu Zu Chengmu", "colleague of x, business partner of x, acquaintance of x"], 
+      ["Duan Yuetong", "acquaintance of x"]
+    ],
+    "Aming": [
+      ["Yu Zu Chengmu", "acquaintance of x, colleague of x"]
+    ],
+    "Xia Bolong": [
+      ["Yu Zu Chengmu", "friend of x"]
+    ],
+    "Xia Sanhu": [
+      ["Yu Zu Chengmu", "friend of x"], 
+      ["Xia Bolong", "brother of x"]
+    ],
+    "Tadayoshi Susumu": [
+      ["Yu Zu Chengmu", "boss of x, superior of x"]
+    ],
+    "Tadayoshi Tsukimatsu": [
+      ["Yu Zu Chengmu", "subordinate of x, employee of x"]
+    ],
+    "Kido": [
+      ["Yu Zu Chengmu", "colleague of x, acquaintance of x"]
+    ],
+    "Ito": [
+      ["Yu Zu Chengmu", "colleague of x, acquaintance of x"]
+    ],
+    "Naluqi": [
+      ["Yu Zu Chengmu", "acquaintance of x"]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Lin Xi": [
+      ["Lin Weiren", "father of x lin xi"], 
+      ["Lin Yang", "brother of x lin xi"], 
+      ["Gu Yu", "ex boyfriend of x lin xi"], 
+      ["Gu Qing", "girlfriend of x lin yang, friend of x lin xi"], 
+      ["Su Yang", "current partner of x, boyfriend of x lin xi"], 
+      ["Shen Cheng", "housekeeper of x lin xi's family"]
+    ],
+    "Lin Weiren": [
+      ["Lin Xi", "child of x lin weiren"]
+    ],
+    "Lin Yang": [
+      ["Lin Xi", "sibling of x lin yang"], 
+      ["Gu Qing", "girlfriend of x lin yang"]
+    ],
+    "Gu Yu": [
+      ["Lin Xi", "ex boyfriend of x lin xi"], 
+      ["Gu Qing", "brother of x gu yu"]
+    ],
+    "Gu Qing": [
+      ["Lin Xi", "friend of x lin xi"], 
+      ["Lin Yang", "boyfriend of x gu qing"], 
+      ["Gu Yu", "brother of x gu qing"]
+    ],
+    "Su Yang": [
+      ["Lin Xi", "current partner of x, girlfriend of x su yang"]
+    ],
+    "Shen Cheng": [
+      ["Lin Xi", "housekeeper of x lin xi's family"]
+    ]
+}

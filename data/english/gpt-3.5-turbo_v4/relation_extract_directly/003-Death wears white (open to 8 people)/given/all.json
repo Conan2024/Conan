@@ -1,0 +1,51 @@
+{
+    "Sylvia Costa": [
+      ["Head Nurse Costa", "colleague of x"], 
+      ["Jim Mason", "perpetrator of x"], 
+      ["Gale Li Morette", "wife of x"], 
+      ["Drake Li Morette", "brother of x"], 
+      ["Yilin Carter", "colleague of x"], 
+      ["Elaine Carter", "colleague of x"], 
+      ["Richard Berkeley", "superior of x"]
+    ],
+    "Head Nurse Costa": [
+      ["Sylvia Costa", "colleague of x"], 
+      ["Jim Mason", "perpetrator of x"], 
+      ["Gale Li Morette", "wife of x"], 
+      ["Drake Li Morette", "brother of x"], 
+      ["Yilin Carter", "colleague of x"], 
+      ["Elaine Carter", "colleague of x"], 
+      ["Richard Berkeley", "superior of x"]
+    ],
+    "Sylvia Costa's mother": [
+      ["Sylvia Costa", "child of x"]
+    ],
+    "Hans Li Morette": [
+      ["Gale Li Morette", "husband of x"], 
+      ["Drake Li Morette", "brother of x"]
+    ],
+    "Jim Mason": [
+      ["Sylvia Costa", "perpetrator of x"]
+    ],
+    "Gale Li Morette": [
+      ["Sylvia Costa", "wife of x"], 
+      ["Head Nurse Costa", "wife of x"], 
+      ["Hans Li Morette", "husband of x"], 
+      ["Drake Li Morette", "wife of x"]
+    ],
+    "Drake Li Morette": [
+      ["Sylvia Costa", "brother of x"], 
+      ["Head Nurse Costa", "brother of x"], 
+      ["Hans Li Morette", "brother of x"], 
+      ["Gale Li Morette", "brother of x"]
+    ],
+    "Yilin Carter": [
+      ["Sylvia Costa", "colleague of x"]
+    ],
+    "Elaine Carter": [
+      ["Sylvia Costa", "colleague of x"]
+    ],
+    "Richard Berkeley": [
+      ["Sylvia Costa", "superior of x"]
+    ]
+}

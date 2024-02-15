@@ -1,0 +1,46 @@
+{
+    "Captain Hong Zi": [
+      ["Liu Qi", "teacher of x, smuggling partner of x"], 
+      ["Xiu Renjie", "acquaintance of x"], 
+      ["Han Yimu", "supervisor of x"], 
+      ["Lin Ruotong", "lover of x"], 
+      ["ZHANG WENYUAN", "subordinate of x, rival of x"], 
+      ["ZHANG ERFU", "subordinate of x"]
+    ],
+    "Liu Qi": [
+      ["Captain Hong Zi", "student of x, smuggling partner of x"], 
+      ["Xiu Renjie", "colleague of x"], 
+      ["Han Yimu", "colleague of x"], 
+      ["Lin Ruotong", "acquaintance of x"]
+    ],
+    "Xiu Renjie": [
+      ["Captain Hong Zi", "acquaintance of x"], 
+      ["Liu Qi", "colleague of x"], 
+      ["Han Yimu", "colleague of x"], 
+      ["Lin Ruotong", "colleague of x"]
+    ],
+    "Han Yimu": [
+      ["Captain Hong Zi", "subordinate of x"], 
+      ["Liu Qi", "colleague of x"], 
+      ["Xiu Renjie", "colleague of x"], 
+      ["Lin Ruotong", "acquaintance of x"]
+    ],
+    "Lin Ruotong": [
+      ["Captain Hong Zi", "lover of x"], 
+      ["Liu Qi", "acquaintance of x"], 
+      ["Xiu Renjie", "colleague of x"], 
+      ["Han Yimu", "acquaintance of x"]
+    ],
+    "ZHANG WENYUAN": [
+      ["Captain Hong Zi", "subordinate of x, rival of x"], 
+      ["Liu Qi", "colleague of x"], 
+      ["Xiu Renjie", "colleague of x"], 
+      ["Han Yimu", "colleague of x"]
+    ],
+    "ZHANG ERFU": [
+      ["Captain Hong Zi", "subordinate of x"], 
+      ["Liu Qi", "colleague of x"], 
+      ["Xiu Renjie", "colleague of x"], 
+      ["Han Yimu", "colleague of x"]
+    ]
+}

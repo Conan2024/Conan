@@ -1,0 +1,98 @@
+{
+    "Xia Zhongpeng": [
+      ["Xia Beigui", "father of x"], 
+      ["Xia Bolong", "brother of x"], 
+      ["Xia Sanhu", "brother of x"], 
+      ["Tian Jixiu Yi", "suspected by x"], 
+      ["Xia Shue", "mentor of x, helped by x"], 
+      ["Li Zicai", "doctor of x"], 
+      ["Yu Jin", "wife of x"], 
+      ["Duan Yuetong", "informant of x"], 
+      ["Yue Dongwen", "suspect of x"], 
+      ["Aming", "deceiver of x"], 
+      ["Lu Dong", "student of x"], 
+      ["Abao", "student of x"], 
+      ["Xia Bolong", "murderer of x"], 
+      ["Xia Sanhu", "attempted murderer of x"], 
+      ["Xia Bolong", "victim of x"], 
+      ["Xia Sanhu", "disliked by x, manipulated by x"], 
+      ["Xia Beigui", "suspect of x"]
+    ],
+    "Xia Beigui": [
+      ["Xia Zhongpeng", "child of x"], 
+      ["Xia Bolong", "same person as x (different reference)"], 
+      ["Xia Sanhu", "son of x"], 
+      ["Xia Zhongpeng", "father of x"]
+    ],
+    "Xia Bolong": [
+      ["Xia Zhongpeng", "brother of x"], 
+      ["Xia Sanhu", "same person as x (different reference)"], 
+      ["Xia Zhongpeng", "husband of x"], 
+      ["Xia Sanhu", "friend of x"], 
+      ["Xia Sanhu", "deceiver of x"], 
+      ["Li Zicai", "doctor of x"], 
+      ["Xia Sanhu", "manipulated by x, attempted perpetrator of x"], 
+      ["Xia Zhongpeng", "murderer of x"], 
+      ["Xia Sanhu", "victim of x"]
+    ],
+    "Xia Sanhu": [
+      ["Xia Zhongpeng", "brother of x"], 
+      ["Xia Bolong", "same person as x (different reference)"], 
+      ["Xia Zhongpeng", "fiance of x"], 
+      ["Yue Dongwen", "friend of x"], 
+      ["Xia Shue", "student of x"], 
+      ["Xia Bolong", "ex romantic relationships with x"], 
+      ["Li Zicai", "informant of x, helped by x"], 
+      ["Duan Yuetong", "adversary of x"], 
+      ["Xia Zhongpeng", "attempted perpetrator of x"], 
+      ["Yu Jin", "attempted murderer of x"], 
+      ["Xia Zhongpeng", "disliked by x"], 
+      ["Xia Shue", "suspected by x"], 
+      ["Aming", "colleague of x, helped by x"], 
+      ["Lu Dong", "mentor of x"], 
+      ["Abao", "mentor of x"], 
+      ["Xia Zhongpeng", "victim of x"], 
+      ["Xia Bolong", "manipulator of x"]
+    ],
+    "Tian Jixiu Yi": [
+      ["Xia Sanhu", "same person as x (different reference)"], 
+      ["Xia Sanhu", "ex romantic relationships with x"]
+    ],
+    "Xia Shue": [
+      ["Xia Zhongpeng", "student of x"], 
+      ["Xia Bolong", "daughter of x"], 
+      ["Xia Bolong", "student of x"]
+    ],
+    "Li Zicai": [
+      ["Xia Bolong", "doctor of x"]
+    ],
+    "Yu Jin": [
+      ["Xia Sanhu", "wife of x"]
+    ],
+    "Duan Yuetong": [
+      ["Xia Zhongpeng", "informant of x"], 
+      ["Xia Bolong", "spy of x"]
+    ],
+    "Yue Dongwen": [
+      ["Xia Sanhu", "suspect of x"]
+    ],
+    "Aming": [
+      ["Xia Zhongpeng", "helper of x"], 
+      ["Xia Bolong", "friend of x"], 
+      ["Xia Sanhu", "colleague of x, helped by x"], 
+      ["Xia Sanhu", "attempted murderer of x"], 
+      ["Xia Bolong", "dislike of x"], 
+      ["Xia Sanhu", "betrayer of x"], 
+      ["Li Zicai", "saviour of x"], 
+      ["Xia Zhongpeng", "saviour of x"], 
+      ["Xia Bolong", "thief of x"], 
+      ["Xia Sanhu", "suspicious of x"], 
+      ["Duan Yuetong", "patient of x"]
+    ],
+    "Lu Dong": [
+      ["Xia Sanhu", "student of x"]
+    ],
+    "Abao": [
+      ["Xia Sanhu", "student of x"]
+    ]
+}

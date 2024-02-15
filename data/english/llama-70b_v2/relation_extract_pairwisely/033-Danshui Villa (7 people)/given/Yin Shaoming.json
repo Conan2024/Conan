@@ -1,0 +1,42 @@
+{
+    "Feng Shuangji": [
+      ["Ren", "master of x, business partner of x"], 
+      ["Yin Shaoming", "acquaintance of x, helped by of x"], 
+      ["Zhao Luoyi", "acquaintance of x, informant of x"], 
+      ["Zhao Wanlei", "employer of x, master of x"]
+    ],
+    "Ren": [
+      ["Feng Shuangji", "master of x, business partner of x"], 
+      ["Yin Shaoming", "family of x, upbringing of x, rescue of x, trust of x, connection of x"], 
+      ["Yu Beichen", "father daughter of x"], 
+      ["Zhao Luoyi", "mother's family name of x, father's name of x, grandfather of x, friend of x, travel companion of x, rescuer of x, confidant of x, carriage companion of x, benefactor of x"], 
+      ["Zhao Wanlei", "daughter of x"]
+    ],
+    "Yin Shaoming": [
+      ["Feng Shuangji", "acquaintance of x, helped by of x"], 
+      ["Ren", "family of x, upbringing of x, rescue of x, trust of x, connection of x"], 
+      ["Yu Beichen", "father son of x, employer employee of x, mentor mentee of x, acquaintance of x"], 
+      ["Zhao Luoyi", "friend of x, savior of x, and confidant of x"], 
+      ["Zhao Wanlei", "friend of x, savior of x"]
+    ],
+    "Yu Beichen": [
+      ["Ren", "father daughter of x"], 
+      ["Yin Shaoming", "father son of x, employer employee of x, mentor mentee of x, acquaintance of x"], 
+      ["Zhao Luoyi", "father of x, background character of x"], 
+      ["Zhao Wanlei", "father of x, background character of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Feng Shuangji", "acquaintance of x, informant of x"], 
+      ["Ren", "mother's family name of x, father's name of x, grandfather of x, friend of x, travel companion of x, rescued person of x, confidant of x, carriage companion of x, beneficiary of x"], 
+      ["Yin Shaoming", "friend of x, savior of x, and confidant of x"], 
+      ["Yu Beichen", "daughter of x, rescued victim of x"], 
+      ["Zhao Wanlei", "daughter of x, nuer or daughter of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Feng Shuangji", "employee of x, servant of x"], 
+      ["Ren", "father of x"], 
+      ["Yin Shaoming", "friend of x, saved of x"], 
+      ["Yu Beichen", "son of x, background character of x"], 
+      ["Zhao Luoyi", "father of x, zhao luoyi's father of x"]
+    ]
+}

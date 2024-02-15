@@ -1,0 +1,136 @@
+{
+    "Song Jie": [
+        [
+            "Martial Alliance's Messenger",
+            "disguised as, contact of"
+        ],
+        [
+            "Feng",
+            "informant of x, employee of x"
+        ],
+        [
+            "Lu Ying",
+            "informant of x",
+            "suspected by x"
+        ],
+        [
+            "Xuan Can",
+            "informant of x, suspect to x"
+        ],
+        [
+            "Ren Dong",
+            "informant of x, acquaintance of x"
+        ]
+    ],
+    "Martial Alliance's Messenger": [
+        [
+            "Song Jie",
+            "disguised by, helped by"
+        ],
+        [
+            "Feng",
+            "acquaintance of x, colleague of x"
+        ],
+        [
+            "Lu Ying",
+            "acquaintance of x, informant of x"
+        ],
+        [
+            "Xuan Can",
+            "acquaintance of x, information receiver from x"
+        ],
+        [
+            "Song Jie",
+            "helper of x, informant of x, acquaintance of x"
+        ]
+    ],
+    "Feng": [
+        [
+            "Song Jie",
+            "information receiver from x, employer of x"
+        ],
+        [
+            "Martial Alliance's Messenger",
+            "acquaintance of x, colleague of x"
+        ],
+        [
+            "Lu Ying",
+            "acquaintance of x, information receiver from x"
+        ],
+        [
+            "Xuan Can",
+            "acquaintance of x, messenger of x, informant of x, information receiver from x"
+        ],
+        [
+            "Song Jie",
+            "same person as x (different identity), informant of x, helped by x"
+        ]
+    ],
+    "Lu Ying": [
+        [
+            "Song Jie",
+            "suspect of x",
+            "information receiver from x"
+        ],
+        [
+            "Martial Alliance's Messenger",
+            "acquaintance of x, information receiver from x"
+        ],
+        [
+            "Feng",
+            "acquaintance of x, informant of x"
+        ],
+        [
+            "Xuan Can",
+            "acquaintance of x, information receiver from x"
+        ],
+        [
+            "Ren Dong",
+            "acquaintance of x, information receiver from x"
+        ]
+    ],
+    "Xuan Can": [
+        [
+            "Song Jie",
+            "information receiver from x, suspect of x"
+        ],
+        [
+            "Martial Alliance's Messenger",
+            "acquaintance of x, informant of x"
+        ],
+        [
+            "Feng",
+            "acquaintance of x, information receiver from x, superior of x"
+        ],
+        [
+            "Lu Ying",
+            "acquaintance of x, informant of x"
+        ],
+        [
+            "Ren Dong",
+            "acquaintance of x, possibly family of x"
+        ]
+    ],
+    "Ren Dong": [
+        [
+            "Song Jie",
+            "information receiver from x, acquaintance of x"
+        ],
+        [
+            "Song Jie",
+            "information receiver from x, friend of x"
+        ],
+        [
+            "Song Jie",
+            "colleague of x, information receiver from x"
+        ],
+        [
+            "Lu Ying",
+            "acquaintance of x, informant of x"
+        ],
+        [
+            "Xuan Can",
+            "acquaintance of x, possibly family of x, informant of x"
+        ]
+    ]
+}

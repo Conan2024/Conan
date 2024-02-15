@@ -1,0 +1,89 @@
+{
+    "Zhang Wei": [
+      ["Zhao Zhongyang", "guard of x"], 
+      ["Zhao Zhongyang", "admired by x"], 
+      ["Zhao Zhongyang", "admired by x"], 
+      ["Zhao Zhongyang", "disliked by x"], 
+      ["Zhao San", "friend of x"], 
+      ["Zhao San", "business partner of x"], 
+      ["Ma Laoban", "customer of x"], 
+      ["Zhao ZHONGYANG", "employer of x"], 
+      ["Zhao ZHONGYANG", "superior of x"], 
+      ["Zhao ZHONGYANG", "dislike of x"], 
+      ["Zhao ZHONGYANG", "victim of x"], 
+      ["Zhao ZHONGYANG", "host of x"], 
+      ["Zhao ZHONGYANG", "murderer of x"], 
+      ["Zhao ZHONGYANG", "attempted murderer of x"], 
+      ["Zhao ZHONGYANG", "suspected by x"], 
+      ["Zhao ZHONGYANG", "enemy of x"], 
+      ["Zhao ZHONGYANG", "suspicious of x"], 
+      ["Zhao ZHONGYANG", "bully of x"], 
+      ["Zhao ZHONGYANG", "manipulated by x"], 
+      ["Zhao ZHONGYANG", "rival of x"], 
+      ["Zhao ZHONGYANG", "rival in love of x"], 
+      ["Li Cheng", "patient of x"], 
+      ["Li Cheng", "information receiver from x"], 
+      ["Langzhong", "doctor of x"]
+    ],
+    "Zhao Zhongyang": [
+      ["Chen Meier", "romantic relationships with x"], 
+      ["Li Cheng", "same person as x (different identity)"], 
+      ["Zhang Wei", "guard of x"], 
+      ["Zhang Wei", "betrayed by x"], 
+      ["Zhao San", "suspected by x"], 
+      ["Zhao San", "manipulator of x"], 
+      ["Zhao San", "debtor of x"], 
+      ["Zhao San", "secret lover of x"], 
+      ["Ma Laoban", "customer of x"], 
+      ["Zhao ZHONGYANG", "superior of x"], 
+      ["Zhao ZHONGYANG", "victim of x"], 
+      ["Zhao ZHONGYANG", "attempted perpetrator of x"], 
+      ["Zhao ZHONGZHENG", "master of x"], 
+      ["Zhao ZHONGZHENG", "business partner of x"], 
+      ["Zhao ZHONGZHENG", "master of x"], 
+      ["Zhao ZHONGZHENG", "business partner of x"], 
+      ["Zhao ZHONGZHENG", "friend of x"], 
+      ["Zhao ZHONGZHENG", "betrayed by x"]
+    ],
+    "Chen Meier": [
+      ["Zhao Zhongyang", "romantic relationships with x"]
+    ],
+    "Li Cheng": [
+      ["Zhang Wei", "information receiver from x"], 
+      ["Zhao Zhongyang", "same person as x (different identity)"], 
+      ["Zhao Zhongyang", "patient of x"]
+    ],
+    "Zhao San": [
+      ["Zhao Zhongyang", "friend of x"], 
+      ["Zhang Wei", "friend of x"], 
+      ["Zhang Wei", "business partner of x"], 
+      ["Ma Laoban", "customer of x"], 
+      ["Zhao Zhongyang", "suspected by x"], 
+      ["Zhao Zhongyang", "manipulator of x"], 
+      ["Zhao Zhongyang", "debtor of x"], 
+      ["Zhao Zhongyang", "secret lover of x"], 
+      ["Zhao ZHONGZHENG", "master of x"], 
+      ["Zhao ZHONGZHENG", "business partner of x"], 
+      ["Zhao ZHONGZHENG", "friend of x"], 
+      ["Zhao ZHONGZHENG", "betrayed by x"], 
+      ["Zhang Wei", "employer of x"], 
+      ["Zhang Wei", "superior of x"]
+    ],
+    "Ma Laoban": [
+      ["Zhao San", "customer of x"], 
+      ["Zhang Wei", "seller of x"]
+    ],
+    "Zhao ZHONGZHENG": [
+      ["Zhao Zhongyang", "master of x"], 
+      ["Zhao Zhongyang", "business partner of x"], 
+      ["Zhao Zhongyang", "friend of x"], 
+      ["Zhao Zhongyang", "betrayed by x"], 
+      ["Zhao San", "master of x"], 
+      ["Zhao San", "business partner of x"], 
+      ["Zhao San", "friend of x"], 
+      ["Zhao San", "betrayed by x"]
+    ],
+    "Langzhong": [
+      ["Li Cheng", "doctor of x"]
+    ]
+}

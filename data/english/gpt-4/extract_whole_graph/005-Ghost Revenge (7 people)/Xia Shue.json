@@ -1,0 +1,122 @@
+{
+    "Xia Shue": [
+        [
+            "Xia Bolong",
+            "child of x"
+        ],
+        [
+            "Xia Zhongpeng",
+            "uncle of x"
+        ],
+        [
+            "Xia Sanhu",
+            "uncle of x"
+        ],
+        [
+            "Luo Ming",
+            "student of x, friend of x"
+        ],
+        [
+            "Yue Kesa",
+            "student of x, accidental perpetrator of x"
+        ],
+        [
+            "Wu Baian",
+            "acquaintance of x"
+        ],
+        [
+            "Luo YISI",
+            "friend of x"
+        ],
+        [
+            "Wu Bobo",
+            "informant of x"
+        ],
+        [
+            "Wu Xiao",
+            "acquaintance of x"
+        ]
+    ],
+    "Xia Bolong": [
+        [
+            "Xia Shue",
+            "father of x"
+        ]
+    ],
+    "Xia Zhongpeng": [
+        [
+            "Xia Shue",
+            "niece of x"
+        ],
+        [
+            "Xia Sanhu",
+            "sibling of x"
+        ]
+    ],
+    "Xia Sanhu": [
+        [
+            "Xia Shue",
+            "niece of x"
+        ],
+        [
+            "Luo Ming",
+            "debtor of x"
+        ],
+        [
+            "Xia Zhongpeng",
+            "sibling of x"
+        ],
+        [
+            "Yue Kesa",
+            "acquaintance of x"
+        ],
+        [
+            "Wu Baian",
+            "victim of x"
+        ]
+    ],
+    "Luo Ming": [
+        [
+            "Xia Shue",
+            "teacher of x, admired by x"
+        ],
+        [
+            "Xia Sanhu",
+            "creditor of x"
+        ]
+    ],
+    "Yue Kesa": [
+        [
+            "Xia Shue",
+            "teacher of x, accidental victim of x"
+        ]
+    ],
+    "Wu Baian": [
+        [
+            "Xia Shue",
+            "product provider of x, suspected by x"
+        ],
+        [
+            "Xia Sanhu",
+            "service provider of x"
+        ]
+    ],
+    "Luo YISI": [
+        [
+            "Xia Shue",
+            "friend of x"
+        ]
+    ],
+    "Wu Bobo": [
+        [
+            "Xia Shue",
+            "information receiver from x"
+        ]
+    ],
+    "Wu Xiao": [
+        [
+            "Xia Shue",
+            "acquaintance of x"
+        ]
+    ]
+}

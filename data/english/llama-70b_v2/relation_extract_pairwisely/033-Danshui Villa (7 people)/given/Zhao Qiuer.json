@@ -1,0 +1,53 @@
+{
+    "Feng Shuangji": [
+      ["Feng Zhu", "employer of x, strict of x"], 
+      ["Qi Yue", "employer employee of x, strict strict of x, fear fear of x"], 
+      ["Zhao Luoyi", "servant of x, personal girl of x, confidant of x, friend of x"], 
+      ["Zhao Wanlei", "employer employee of x, master servant of x, confidant confidante of x, strict disciplinarian of x, fond fondness of x"], 
+      ["Zhao Wei", "personal girl of x, caretaker of x, afraid of x, trying to make happy of x, worried about reaction of x"]
+    ],
+    "Feng Zhu": [
+      ["Feng Shuangji", "father of x, housekeeper of x"], 
+      ["Qi Yue", "servant of x, personal girl of x"], 
+      ["Zhao Luoyi", "subordinate of x, servant master of x, afraid of x"], 
+      ["Zhao Qiuer", "subordinate of x, caretaker of x, close friend of x"], 
+      ["Zhao Wanlei", "master of x, employer of x, mentor of x, friend of x"], 
+      ["Zhao Wei", "personal girl of x, caregiver of x, afraid of x, teasing of x"]
+    ],
+    "Qi Yue": [
+      ["Feng Shuangji", "employer employee of x, strict strict of x, fear fear of x"], 
+      ["Feng Zhu", "master of x"], 
+      ["Zhao Luoyi", "friend of x, mentor of x"], 
+      ["Zhao Qiuer", "personal girl of x, most familiar person of x, kissed by zhao wanlei of x, wanted by zhao wanlei of x"], 
+      ["Zhao Wanlei", "master/servant of x, friend of x"], 
+      ["Zhao Wei", "personal girl of x, most familiar person of x, caregiver of x, protector of x, kissing partner of x, stay with me partner of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Feng Shuangji", "servant of x, personal girl of x, confidant of x, friend of x"], 
+      ["Feng Zhu", "superior of x, master of x, ignores of x"], 
+      ["Qi Yue", "friend of x, mentor of x"], 
+      ["Zhao Qiuer", "sister of x, friend of x"], 
+      ["Zhao Wei", "sister of x, personal girl of x miss zhao luoyi, familiar of x, friend of x"]
+    ],
+    "Zhao Qiuer": [
+      ["Feng Zhu", "master of x, close friend of x"], 
+      ["Qi Yue", "personal girl of x, most familiar person of x, kissed by zhao wanlei of x, wanted by zhao wanlei of x"], 
+      ["Zhao Luoyi", "sister of x, friend of x"], 
+      ["Zhao Wanlei", "employer of x, master of x"], 
+      ["Zhao Wei", "personal girl of x, confidant of x, comfort of x, closest friend of x, companion of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Feng Shuangji", "employer employee of x, master servant of x, confidant confidante of x, strict disciplinarian of x, fond fondness of x"], 
+      ["Feng Zhu", "servant of x, employee of x, confidant of x"], 
+      ["Qi Yue", "master/servant of x, friend of x"], 
+      ["Zhao Qiuer", "employer of x, master of x"], 
+      ["Zhao Wei", "master servant of x, father daughter of x"]
+    ],
+    "Zhao Wei": [
+      ["Feng Shuangji", "personal girl of x, caretaker of x, afraid of x, trying to make happy of x, worried about reaction of x"], 
+      ["Feng Zhu", "personal girl of x, master of x, teasing of x, protector of x"], 
+      ["Zhao Luoyi", "brother of x, young master of x, terrible illness of x, emotions of x"], 
+      ["Zhao Qiuer", "personal girl of x, confidant of x, comfort of x, closest friend of x, companion of x"], 
+      ["Zhao Wanlei", "master servant of x, daughter father of x"]
+    ]
+}

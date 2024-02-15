@@ -1,0 +1,89 @@
+{
+    "Xiu Renjie": [
+      ["Liu Qi", "romantic relationships with x, murderer of x"], 
+      ["Hong Zilian", "acquaintance of x"], 
+      ["Han Yimu", "friend of x, admired by x"], 
+      ["Zhang Wenyuan", "student of x"], 
+      ["Yang Chenlin", "classmate of x"], 
+      ["Han ChenGwu", "acquaintance of x"], 
+      ["Zhang Erfu", "seller of x"]
+    ],
+    "Liu Qi": [
+      ["Xiu Renjie", "romantic relationships with x"], 
+      ["Hong Zilian", "schoolmate of x"], 
+      ["Han Yimu", "disliked by x"], 
+      ["Lin Ruotong", "schoolmate of x"], 
+      ["Zhang Wenyuan", "schoolmate of x"], 
+      ["Yang Chenlin", "classmate of x, authority over x"], 
+      ["Han ChenGwu", "schoolmate of x"], 
+      ["Zhang Erfu", "classmate of x"]
+    ],
+    "Hong Zilian": [
+      ["Xiu Renjie", "acquaintance of x"], 
+      ["Liu Qi", "schoolmate of x"], 
+      ["Han Yimu", "admired by x"], 
+      ["Lin Ruotong", "superior of x"], 
+      ["Zhang Wenyuan", "friend of x"], 
+      ["Yang Chenlin", "friend of x"], 
+      ["Han ChenGwu", "acquaintance of x, helper of x"], 
+      ["Zhang Erfu", "employee of x"]
+    ],
+    "Han Yimu": [
+      ["Xiu Renjie", "friend of x, fondness of x"], 
+      ["Liu Qi", "dislike of x"], 
+      ["Hong Zilian", "admired by x"], 
+      ["Lin Ruotong", "friend of x, informant of x"], 
+      ["Zhang Wenyuan", "admirer of x"], 
+      ["Yang Chenlin", "acquaintance of x"], 
+      ["Han ChenGwu", "friend of x"], 
+      ["Zhang Erfu", "romantic relationships with x"]
+    ],
+    "Lin Ruotong": [
+      ["Liu Qi", "superior of x"], 
+      ["Hong Zilian", "employee of x"], 
+      ["Han Yimu", "friend of x, information receiver from x"], 
+      ["Zhang Wenyuan", "romantic relationships with x"], 
+      ["Yang Chenlin", "friend of x"], 
+      ["Han ChenGwu", "friend of x, informant of x"], 
+      ["Zhang Erfu", "romantic relationships with x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Xiu Renjie", "mentor of x"], 
+      ["Liu Qi", "master of x"], 
+      ["Hong Zilian", "acquaintance of x"], 
+      ["Han Yimu", "admired by x"], 
+      ["Lin Ruotong", "romantic relationships with x"], 
+      ["Yang Chenlin", "schoolmate of x"], 
+      ["Han ChenGwu", "friend of x"], 
+      ["Zhang Erfu", "colleague of x"]
+    ],
+    "Yang Chenlin": [
+      ["Xiu Renjie", "classmate of x"], 
+      ["Liu Qi", "authority over x, suspected by x"], 
+      ["Hong Zilian", "rival of x"], 
+      ["Han Yimu", "friend of x"], 
+      ["Lin Ruotong", "acquaintance of x"], 
+      ["Zhang Wenyuan", "schoolmate of x"], 
+      ["Han ChenGwu", "schoolmate of x, colleague of x"], 
+      ["Zhang Erfu", "friend of x"]
+    ],
+    "Han ChenGwu": [
+      ["Xiu Renjie", "acquaintance of x"], 
+      ["Liu Qi", "schoolmate of x, helper of x"], 
+      ["Hong Zilian", "acquaintance of x, helper of x"], 
+      ["Han Yimu", "friend of x"], 
+      ["Lin Ruotong", "friend of x, information receiver from x"], 
+      ["Zhang Wenyuan", "acquaintance of x"], 
+      ["Yang Chenlin", "schoolmate of x, colleague of x"], 
+      ["Zhang Erfu", "colleague of x, acquaintance of x, suspicious of x"]
+    ],
+    "Zhang Erfu": [
+      ["Xiu Renjie", "seller of x"], 
+      ["Hong Zilian", "employer of x"], 
+      ["Han Yimu", "romantic relationships with x"], 
+      ["Lin Ruotong", "romantic relationships with x"], 
+      ["Zhang Wenyuan", "colleague of x"], 
+      ["Yang Chenlin", "friend of x"], 
+      ["Han ChenGwu", "colleague of x, acquaintance of x, suspected by x"]
+    ]
+}

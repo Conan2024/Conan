@@ -1,0 +1,44 @@
+{
+    "He Laoliu": [
+      ["Li Guofu", "friend of x"], 
+      ["Zhang Jie", "helper of x"], 
+      ["Father", "child of x, victim of x"], 
+      ["Second sister", "sibling of x"]
+    ],
+    "Li Guofu": [
+      ["He Laoliu", "mentor of x"], 
+      ["Zhang Jie", "romantic relationships with x, helper of x"], 
+      ["Mu Bei", "business partner of x"], 
+      ["Neighbor Wang", "rival of x"], 
+      ["Father", "employer of x"]
+    ],
+    "Zhang Jie": [
+      ["He Laoliu", "helper of x"], 
+      ["Li Guofu", "romantic relationships with x, helped by x"], 
+      ["Second sister", "friend of x, schoolmate of x"]
+    ],
+    "Mu Bei": [
+      ["Li Guofu", "business partner of x"], 
+      ["Father", "child of x"], 
+      ["Second sister", "sister of x, friend of x"]
+    ],
+    "Father": [
+      ["He Laoliu", "father of x"], 
+      ["Li Guofu", "employee of x"], 
+      ["Mu Bei", "father of x"], 
+      ["Neighbor Wang", "neighbour of x"], 
+      ["Second sister", "sibling of x"]
+    ],
+    "Second sister": [
+      ["He Laoliu", "sibling of x"], 
+      ["Zhang Jie", "friend of x, schoolmate of x"], 
+      ["Mu Bei", "sister in law of x, friend of x"], 
+      ["Father", "sibling of x"]
+    ],
+    "Neighbor Wang": [
+      ["Li Guofu", "rival of x"], 
+      ["Zhang Jie", "acquaintance of x"], 
+      ["Father", "neighbour of x"], 
+      ["Second sister", "fiancee of x"]
+    ]
+}

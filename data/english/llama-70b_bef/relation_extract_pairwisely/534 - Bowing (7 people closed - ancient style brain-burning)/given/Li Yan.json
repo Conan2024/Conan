@@ -1,0 +1,13 @@
+{
+    "Chen Zijing": [
+      ["Chen Qian", "husband of x"], 
+      ["Li Yan", "same person as x (different reference), same person as x (different identity)"]
+    ],
+    "Chen Qian": [
+      ["Li Yan", "acquaintance of x, classmate of x, neighbour of x, friend of x"]
+    ],
+    "Li Yan": [
+      ["Chen Qian", "acquaintance of x, classmate of x, neighbour of x, friend of x"], 
+      ["Chen Zijing", "same person as x (different reference), same person as x (different identity)"]
+    ]
+}

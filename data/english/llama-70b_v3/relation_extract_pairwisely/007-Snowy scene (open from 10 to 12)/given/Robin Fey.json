@@ -1,0 +1,92 @@
+{
+    "Amy Morgan": [
+      ["Daniel Perry", "friend of x"], 
+      ["Davis Perry", "friend of x"], 
+      ["Jacqueline Perry", "friend of x"], 
+      ["Jonathan Perry", "friend of x"], 
+      ["Lucy Harrison", "friend of x, colleague of x"], 
+      ["Marina Harrison", "friend of x"], 
+      ["Max Pike", "friend of x"], 
+      ["Robin Fey", "friend of x"]
+    ],
+    "Daniel Perry": [
+      ["Amy Morgan", "friend of x"], 
+      ["Davis Perry", "friend of x, colleague of x"], 
+      ["Jacqueline Perry", "husband of x, ex romantic relationships with x, lover of x"], 
+      ["Jonathan Perry", "father of x, suspect of x"], 
+      ["Lucy Harrison", "friend of x, mentor of x"], 
+      ["Marina Harrison", "friend of x, rival of x"], 
+      ["Max Pike", "friend of x"], 
+      ["Robin Fey", "friend of x, colleague of x"]
+    ],
+    "Davis Perry": [
+      ["Amy Morgan", "friend of x"], 
+      ["Daniel Perry", "friend of x, colleague of x"], 
+      ["Jacqueline Perry", "husband of x, ex romantic relationships with x"], 
+      ["Jonathan Perry", "father of x, son of x"], 
+      ["Lucy Harrison", "friend of x, mentor of x"], 
+      ["Marina Harrison", "friend of x, adversary of x"], 
+      ["Max Pike", "friend of x, suspect of x"], 
+      ["Robin Fey", "friend of x, colleague of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Amy Morgan", "friend of x"], 
+      ["Daniel Perry", "wife of x, same person as x (different identity), rival of x"], 
+      ["Davis Perry", "wife of x, ex romantic relationships with x"], 
+      ["Jonathan Perry", "sister in law of x, suspicious of x"], 
+      ["Lucy Harrison", "rival of x, enemy of x"], 
+      ["Marina Harrison", "enemy of x"], 
+      ["Max Pike", "friend of x, rival of x"], 
+      ["Robin Fey", "friend of x, rival of x"]
+    ],
+    "Jonathan Perry": [
+      ["Amy Morgan", "friend of x"], 
+      ["Daniel Perry", "son of x, perpetrator of x"], 
+      ["Davis Perry", "son of x, father of x"], 
+      ["Jacqueline Perry", "brother in law of x, suspect of x"], 
+      ["Lucy Harrison", "friend of x, suspect of x"], 
+      ["Marina Harrison", "friend of x, suspect of x"], 
+      ["Max Pike", "friend of x, suspect of x"], 
+      ["Robin Fey", "friend of x, suspect of x"]
+    ],
+    "Lucy Harrison": [
+      ["Amy Morgan", "friend of x, colleague of x"], 
+      ["Daniel Perry", "friend of x"], 
+      ["Davis Perry", "friend of x"], 
+      ["Jacqueline Perry", "rival of x, enemy of x"], 
+      ["Jonathan Perry", "friend of x, suspect of x"], 
+      ["Marina Harrison", "daughter of x, sibling of x"], 
+      ["Max Pike", "friend of x, colleague of x"], 
+      ["Robin Fey", "friend of x, mentor of x"]
+    ],
+    "Marina Harrison": [
+      ["Amy Morgan", "friend of x"], 
+      ["Daniel Perry", "friend of x, rival of x"], 
+      ["Davis Perry", "friend of x, adversary of x"], 
+      ["Jacqueline Perry", "enemy of x"], 
+      ["Jonathan Perry", "friend of x, suspect of x"], 
+      ["Lucy Harrison", "mother of x, sister of x"], 
+      ["Max Pike", "friend of x, acquaintance of x"], 
+      ["Robin Fey", "friend of x"]
+    ],
+    "Max Pike": [
+      ["Amy Morgan", "friend of x"], 
+      ["Daniel Perry", "friend of x"], 
+      ["Davis Perry", "friend of x, suspect of x"], 
+      ["Jacqueline Perry", "friend of x, rival of x"], 
+      ["Jonathan Perry", "friend of x, suspect of x"], 
+      ["Lucy Harrison", "friend of x, colleague of x"], 
+      ["Marina Harrison", "friend of x, acquaintance of x"], 
+      ["Robin Fey", "friend of x, acquaintance of x"]
+    ],
+    "Robin Fey": [
+      ["Amy Morgan", "friend of x"], 
+      ["Daniel Perry", "friend of x, colleague of x"], 
+      ["Davis Perry", "friend of x, colleague of x"], 
+      ["Jacqueline Perry", "friend of x, rival of x"], 
+      ["Jonathan Perry", "friend of x, suspect of x"], 
+      ["Lucy Harrison", "friend of x, mentor of x"], 
+      ["Marina Harrison", "friend of x"], 
+      ["Max Pike", "friend of x, acquaintance of x"]
+    ]
+}

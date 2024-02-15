@@ -1,0 +1,45 @@
+{
+    "Lucy Harrison": [
+      ["Jonathan Perry", "romantic relationship of x, cousin of x"], 
+      ["Harold Harrison", "father of x, distant of x"], 
+      ["Marina Harrison", "aunt of x, mentorship of x"], 
+      ["Daniel Perry", "uncle of x, music partner of x"], 
+      ["Jacqueline Perry", "mother of x, protective of x"], 
+      ["John Morgan", "friend of x, deceased of x"]
+    ],
+    "Jonathan Perry": [
+      ["Lucy Harrison", "romantic relationship of x, cousin of x"], 
+      ["Harold Harrison", "father of x, distant of x"], 
+      ["Marina Harrison", "mother of x, tense of x"], 
+      ["Daniel Perry", "uncle of x, music partner of x"], 
+      ["Jacqueline Perry", "aunt of x, protective of x"]
+    ],
+    "Harold Harrison": [
+      ["Lucy Harrison", "daughter of x, protective of x"], 
+      ["Marina Harrison", "wife of x, tense of x"], 
+      ["John Morgan", "acquaintance of x, involved in death of x"]
+    ],
+    "Marina Harrison": [
+      ["Lucy Harrison", "aunt of x, mentorship of x"], 
+      ["Jonathan Perry", "son of x, tense of x"], 
+      ["Daniel Perry", "brother of x, music partner of x"], 
+      ["Jacqueline Perry", "sister in law of x, tense of x"]
+    ],
+    "Daniel Perry": [
+      ["Lucy Harrison", "cousin of x, music partner of x"], 
+      ["Jonathan Perry", "nephew of x, music partner of x"], 
+      ["Harold Harrison", "brother of x, protective of x"], 
+      ["Marina Harrison", "sister in law of x, tense of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Lucy Harrison", "mother of x, protective of x"], 
+      ["Jonathan Perry", "aunt of x, protective of x"], 
+      ["Marina Harrison", "sister in law of x, tense of x"], 
+      ["Daniel Perry", "brother of x, music partner of x"]
+    ],
+    "John Morgan": [
+      ["Lucy Harrison", "friend of x, deceased of x"], 
+      ["Jonathan Perry", "friend of x, deceased of x"], 
+      ["Harold Harrison", "acquaintance of x, involved in death of x"]
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "Fan Jinkui": [
+      ["Tian Hongjiao", "fiancee of x, business partner of x"], 
+      ["Yao Changshou", "adversary of x, enemy of x"], 
+      ["Fang Chengshan", "friend of x, mentor of x"], 
+      ["Steward Du", "employer employee of x, acquaintance of x"], 
+      ["Yu Beichen", "adversary of x, enemy of x, rival of x, manipulator of x, informant of x"], 
+      ["Brother Li", "perpetrator of x, victim of x"], 
+      ["White-Headed Snake", "acquaintance of x, business partner of x"]
+    ],
+    "Tian Hongjiao": [
+      ["Fan Jinkui", "fiance of x, business partner of x"], 
+      ["Yao Changshou", "spouse of x, victim of x"], 
+      ["Fang Chengshan", "acquaintance of x, business partner of x"], 
+      ["Steward Du", "fiancee of x, wife of x"], 
+      ["Yu Beichen", "wife of x, selling wine red of x"], 
+      ["Brother Li", "fiancee of x, sister in law of x"], 
+      ["White-Headed Snake", "acquaintance of x, business partner of x"]
+    ],
+    "Yao Changshou": [
+      ["Fan Jinkui", "adversary of x, enemy of x"], 
+      ["Tian Hongjiao", "spouse of x, perpetrator of x"], 
+      ["Fang Chengshan", "enemy of x, rival of x"], 
+      ["Steward Du", "business partner of x, acquaintance of x"], 
+      ["Yu Beichen", "rival of x, enemy of x"], 
+      ["Brother Li", "husband of x"], 
+      ["White-Headed Snake", "business partner of x, rival of x"]
+    ],
+    "Fang Chengshan": [
+      ["Fan Jinkui", "friend of x, mentor of x"], 
+      ["Tian Hongjiao", "acquaintance of x, business partner of x"], 
+      ["Yao Changshou", "enemy of x, rival of x"], 
+      ["Yu Beichen", "acquaintance of x, classmate of x"], 
+      ["Brother Li", "acquaintance of x, business partner of x"], 
+      ["White-Headed Snake", "business partner of x, acquaintance of x"]
+    ],
+    "Steward Du": [
+      ["Fan Jinkui", "employer employee of x, acquaintance of x"], 
+      ["Tian Hongjiao", "fiance of x, husband of x"], 
+      ["Yao Changshou", "business partner of x, acquaintance of x"], 
+      ["Yu Beichen", "employer employee of x, acquaintance of x"], 
+      ["Brother Li", "employer of x, master of x"], 
+      ["White-Headed Snake", "employer of x, acquaintance of x"]
+    ],
+    "Yu Beichen": [
+      ["Fan Jinkui", "adversary of x, enemy of x, rival of x, manipulator of x, informant of x"], 
+      ["Tian Hongjiao", "husband of x, lascivious person of x"], 
+      ["Yao Changshou", "rival of x, enemy of x"], 
+      ["Fang Chengshan", "acquaintance of x, classmate of x"], 
+      ["Steward Du", "employer employee of x, acquaintance of x"], 
+      ["Brother Li", "colleague of x, business partner of x"], 
+      ["White-Headed Snake", "acquaintance of x, business partner of x"]
+    ],
+    "Brother Li": [
+      ["Fan Jinkui", "perpetrator of x, victim of x"], 
+      ["Tian Hongjiao", "fiance of x, brother in law of x"], 
+      ["Yao Changshou", "husband of x"], 
+      ["Fang Chengshan", "acquaintance of x, business partner of x"], 
+      ["Steward Du", "employer of x, master of x"], 
+      ["Yu Beichen", "colleague of x, business partner of x"], 
+      ["White-Headed Snake", "business partner of x, rival of x"]
+    ],
+    "White-Headed Snake": [
+      ["Fan Jinkui", "acquaintance of x, business partner of x"], 
+      ["Tian Hongjiao", "acquaintance of x, business partner of x"], 
+      ["Yao Changshou", "business partner of x, rival of x"], 
+      ["Fang Chengshan", "business partner of x, acquaintance of x"], 
+      ["Steward Du", "employer of x, acquaintance of x"], 
+      ["Yu Beichen", "acquaintance of x, business partner of x"], 
+      ["Brother Li", "business partner of x, rival of x"]
+    ]
+}

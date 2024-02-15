@@ -1,0 +1,44 @@
+{
+    "Master Chen": [
+      ["Xiao Qian", "father of x, protector of x"], 
+      ["Li Zhong", "stepson of x, rival of x"], 
+      ["Prince Jinu", "friend of x, savior of x"], 
+      ["Fang XU", "enemy of x, rival of x"], 
+      ["Li Wangye (Lord Li)", "business partner of x, co conspirator of x, attempted perpetrator of x"]
+    ],
+    "Li Wangye (Lord Li)": [
+      ["Master Chen", "business partner of x, co conspirator of x, attempted perpetrator of x"], 
+      ["Xiao Qian", "daughter of x, protege of x"], 
+      ["Li Zhong", "son of x, rival of x"], 
+      ["Fang XU", "enemy of x, rival of x"], 
+      ["Prince Jinu", "friend of x, savior of x"]
+    ],
+    "Xiao Qian": [
+      ["Master Chen", "daughter of x, protege of x"], 
+      ["Li Wangye (Lord Li)", "father of x, protector of x"], 
+      ["Li Zhong", "brother of x, rival of x"], 
+      ["Fang XU", "protege of x"], 
+      ["Prince Jinu", "protege of x"]
+    ],
+    "Li Zhong": [
+      ["Master Chen", "stepson of x, rival of x"], 
+      ["Li Wangye (Lord Li)", "son of x, rival of x"], 
+      ["Xiao Qian", "sister of x, protege of x"], 
+      ["Fang XU", "rival of x"], 
+      ["Prince Jinu", "rival of x"]
+    ],
+    "Fang XU": [
+      ["Master Chen", "enemy of x, rival of x"], 
+      ["Li Wangye (Lord Li)", "enemy of x, rival of x"], 
+      ["Xiao Qian", "protege of x"], 
+      ["Li Zhong", "rival of x"], 
+      ["Prince Jinu", "enemy of x"]
+    ],
+    "Prince Jinu": [
+      ["Master Chen", "friend of x, savior of x"], 
+      ["Li Wangye (Lord Li)", "friend of x, savior of x"], 
+      ["Xiao Qian", "protege of x"], 
+      ["Li Zhong", "rival of x"], 
+      ["Fang XU", "enemy of x"]
+    ]
+}

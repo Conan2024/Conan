@@ -1,0 +1,80 @@
+{
+    "Gu Fei": [
+      ["Zhaonan", "friend of x"], 
+      ["Hei Li", "sibling of x"], 
+      ["Qi Qingli", "adoptive father of x"], 
+      ["Mrs. Ruan", "landlord of x"]
+    ],
+    "Qi Qingli": [
+      ["Gu Fei", "adoptive father of x"], 
+      ["Hei Li", "friend of x"], 
+      ["Mrs. Ruan", "friend of x"], 
+      ["Zhaonan", "friend of x"], 
+      ["Luo Xiucai", "neighbour of x"]
+    ],
+    "Hei Li": [
+      ["Gu Fei", "sibling of x"], 
+      ["Qi Qingli", "friend of x"], 
+      ["Mrs. Ruan", "friend of x"], 
+      ["Zhaonan", "friend of x"]
+    ],
+    "Mrs. Ruan": [
+      ["Gu Fei", "landlord of x"], 
+      ["Qi Qingli", "friend of x"], 
+      ["Hei Li", "friend of x"]
+    ],
+    "Zhaonan": [
+      ["Gu Fei", "friend of x"], 
+      ["Hei Li", "friend of x"], 
+      ["Qi Qingli", "friend of x"]
+    ],
+    "Luo Xiucai": [
+      ["Zhaonan", "neighbour of x"], 
+      ["Luo Younuo", "neighbour of x"], 
+      ["Xue Yan", "neighbour of x"], 
+      ["Wangdi", "neighbour of x"], 
+      ["Guilang", "neighbour of x"], 
+      ["Wang Zimo", "neighbour of x"], 
+      ["Qi Qingli", "neighbour of x"]
+    ],
+    "Luo Younuo": [
+      ["Zhaonan", "neighbour of x"], 
+      ["Luo Xiucai", "neighbour of x"], 
+      ["Xue Yan", "neighbour of x"], 
+      ["Wangdi", "neighbour of x"], 
+      ["Guilang", "neighbour of x"], 
+      ["Wang Zimo", "neighbour of x"]
+    ],
+    "Xue Yan": [
+      ["Zhaonan", "neighbour of x"], 
+      ["Luo Xiucai", "neighbour of x"], 
+      ["Luo Younuo", "neighbour of x"], 
+      ["Wangdi", "neighbour of x"], 
+      ["Guilang", "neighbour of x"], 
+      ["Wang Zimo", "neighbour of x"]
+    ],
+    "Wangdi": [
+      ["Zhaonan", "neighbour of x"], 
+      ["Luo Xiucai", "neighbour of x"], 
+      ["Luo Younuo", "neighbour of x"], 
+      ["Xue Yan", "neighbour of x"], 
+      ["Guilang", "neighbour of x"], 
+      ["Wang Zimo", "neighbour of x"]
+    ],
+    "Guilang": [
+      ["Zhaonan", "neighbour of x"], 
+      ["Luo Xiucai", "neighbour of x"], 
+      ["Luo Younuo", "neighbour of x"], 
+      ["Xue Yan", "neighbour of x"], 
+      ["Wangdi", "neighbour of x"], 
+      ["Wang Zimo", "neighbour of x"]
+    ],
+    "Wang Zimo": [
+      ["Zhaonan", "neighbour of x"], 
+      ["Luo Xiucai", "neighbour of x"], 
+      ["Luo Younuo", "neighbour of x"], 
+      ["Xue Yan", "neighbour of x"], 
+      ["Wangdi", "neighbour of x"], 
+      ["Guilang", "neighbour of x"]
+    ]
+}

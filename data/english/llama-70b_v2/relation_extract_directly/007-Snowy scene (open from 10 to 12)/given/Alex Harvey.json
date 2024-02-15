@@ -1,0 +1,42 @@
+{
+    "Alex Harvey": [
+      ["Marina Harrison", "close friend of x, cousin of x"], 
+      ["Jacqueline Perry", "friend of x, acquaintance of x"], 
+      ["Harold Harrison", "acquaintance of x, marina's husband of x"], 
+      ["Davis Perry", "acquaintance of x, marina's sister's husband of x"], 
+      ["Amy Morgan", "good friend of x, borrowed money from of x"], 
+      ["John Morgan", "acquaintance of x, amy's brother of x"]
+    ],
+    "Marina Harrison": [
+      ["Alex Harvey", "close friend of x, cousin of x"], 
+      ["Jacqueline Perry", "sister of x, rival of x"], 
+      ["Harold Harrison", "husband of x, boring of x"], 
+      ["Davis Perry", "lover of x, interesting of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Alex Harvey", "friend of x, acquaintance of x"], 
+      ["Marina Harrison", "sister of x, jealous of x"], 
+      ["Harold Harrison", "brother in law of x, boring of x"], 
+      ["Davis Perry", "brother in law of x, interesting of x"]
+    ],
+    "Harold Harrison": [
+      ["Alex Harvey", "acquaintance of x, marina's friend of x"], 
+      ["Marina Harrison", "wife of x, center of x attention"], 
+      ["Jacqueline Perry", "sister in law of x, jealous of x"], 
+      ["Davis Perry", "brother in law of x, interesting of x"]
+    ],
+    "Davis Perry": [
+      ["Alex Harvey", "acquaintance of x, marina's friend of x"], 
+      ["Marina Harrison", "sister in law of x, close friend of x"], 
+      ["Jacqueline Perry", "sister in law of x, rival of x"], 
+      ["Harold Harrison", "brother in law of x, boring of x"]
+    ],
+    "Amy Morgan": [
+      ["Alex Harvey", "good friend of x, borrowed money from of x"], 
+      ["John Morgan", "brother of x, problematic marriage of x"]
+    ],
+    "John Morgan": [
+      ["Alex Harvey", "acquaintance of x, amy's brother of x"], 
+      ["Amy Morgan", "sister of x, problematic marriage of x"]
+    ]
+}

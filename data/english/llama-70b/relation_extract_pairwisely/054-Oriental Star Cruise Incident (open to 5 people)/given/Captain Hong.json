@@ -1,0 +1,246 @@
+{
+    "Captain Hong": [
+        [
+            "Han Yimu",
+            "Lover",
+            "Secret Transaction"
+        ],
+        [
+            "Hong Zilian",
+            "Lover",
+            "Business Partner",
+            "Co-conspirator in drug smuggling"
+        ],
+        [
+            "Lin Ruotong",
+            "Lover",
+            "Secret Relationship"
+        ],
+        [
+            "Liu Qi",
+            "relationship 1: Mentor/Teacher",
+            "relationship 2: Superior/Subordinate"
+        ],
+        [
+            "Xiu Renjie",
+            "Superior of Xiu Renjie",
+            "Employer of Xiu Renjie",
+            "Master of Xiu Renjie",
+            "Perpetrator of Xiu Renjie"
+        ],
+        [
+            "Zhang Wenyuan",
+            "Superior of",
+            "Employer of",
+            "Master of",
+            "Subordinate of",
+            "Employee of",
+            "Business Partner of",
+            "Customer of",
+            "Buyer of",
+            "Tenant of"
+        ]
+    ],
+    "Han Yimu": [
+        [
+            "Captain Hong",
+            "Lover",
+            "Secret Transaction"
+        ],
+        [
+            "Hong Zilian",
+            "Lover, Secret Partner"
+        ],
+        [
+            "Lin Ruotong",
+            "Lover, Secret Relationship"
+        ],
+        [
+            "Liu Qi",
+            "Superior of x",
+            "Leader of everyone"
+        ],
+        [
+            "Xiu Renjie",
+            "Superior/Subordinate, Employee/Employer"
+        ],
+        [
+            "Zhang Wenyuan",
+            "Colleague, Superior"
+        ]
+    ],
+    "Hong Zilian": [
+        [
+            "Captain Hong",
+            "Lover",
+            "Direct Subordinate",
+            "Co-conspirator in drug smuggling"
+        ],
+        [
+            "Han Yimu",
+            "Lover, Secret Partner"
+        ],
+        [
+            "Lin Ruotong",
+            "Lover",
+            "Secret Relationship"
+        ],
+        [
+            "Liu Qi",
+            "Superior of Liu Qi",
+            "Mentor of Liu Qi",
+            "Leader of Liu Qi"
+        ],
+        [
+            "Xiu Renjie",
+            "Superior of Xiu Renjie",
+            "Employer of Xiu Renjie"
+        ],
+        [
+            "Zhang Wenyuan",
+            "Superior of x",
+            "Employer of X",
+            "Master of X",
+            "Subordinate of X",
+            "Employee of X"
+        ]
+    ],
+    "Lin Ruotong": [
+        [
+            "Captain Hong",
+            "Lover",
+            "Secret Relationship"
+        ],
+        [
+            "Han Yimu",
+            "Lover, Secret Relationship"
+        ],
+        [
+            "Hong Zilian",
+            "Lover",
+            "Secret Relationship"
+        ],
+        [
+            "Liu Qi",
+            "relationship 1: Teacher-Student, relationship 2: Lovers"
+        ],
+        [
+            "Xiu Renjie",
+            "relationship 1: Superior-Subordinate",
+            "relationship 2: Lover"
+        ],
+        [
+            "Zhang Wenyuan",
+            "lover",
+            "secret relationship"
+        ]
+    ],
+    "Liu Qi": [
+        [
+            "Captain Hong",
+            "relationship 1: Student/Teacher",
+            "relationship 2: Subordinate/Superior"
+        ],
+        [
+            "Han Yimu",
+            "Subordinate of X",
+            "Colleague of X"
+        ],
+        [
+            "Hong Zilian",
+            "Student of Hong Zilian",
+            "Subordinate of Hong Zilian",
+            "Colleague of Hong Zilian"
+        ],
+        [
+            "Lin Ruotong",
+            "relationship 1: Teacher-Student, relationship 2: Lovers"
+        ],
+        [
+            "Xiu Renjie",
+            "Superior of",
+            "Employer of"
+        ],
+        [
+            "Zhang Wenyuan",
+            "Student of",
+            "Teacher of"
+        ]
+    ],
+    "Xiu Renjie": [
+        [
+            "Captain Hong",
+            "Subordinate of Captain Hong",
+            "Employee of Captain Hong",
+            "Servant of Captain Hong",
+            "Victim of Captain Hong"
+        ],
+        [
+            "Han Yimu",
+            "Superior/Subordinate, Employee/Employer"
+        ],
+        [
+            "Hong Zilian",
+            "Subordinate of Hong Zilian",
+            "Employee of Hong Zilian"
+        ],
+        [
+            "Lin Ruotong",
+            "relationship 1: Superior-Subordinate",
+            "relationship 2: Lover"
+        ],
+        [
+            "Liu Qi",
+            "Subordinate of",
+            "Employee of"
+        ],
+        [
+            "Zhang Wenyuan",
+            "Colleague",
+            "Friend"
+        ]
+    ],
+    "Zhang Wenyuan": [
+        [
+            "Captain Hong",
+            "Two Deputy",
+            "Superior of",
+            "Employer of",
+            "Master of",
+            "Subordinate of",
+            "Employee of",
+            "Business Partner of",
+            "Customer of",
+            "Buyer of",
+            "Tenant of"
+        ],
+        [
+            "Han Yimu",
+            "Colleague, Subordinate"
+        ],
+        [
+            "Hong Zilian",
+            "Two Deputy",
+            "Superior of x",
+            "Employer of X",
+            "Master of X",
+            "Subordinate of X",
+            "Employee of X"
+        ],
+        [
+            "Lin Ruotong",
+            "lover",
+            "rival"
+        ],
+        [
+            "Liu Qi",
+            "Teacher of",
+            "Superior of"
+        ],
+        [
+            "Xiu Renjie",
+            "Colleague",
+            "Friend"
+        ]
+    ]
+}

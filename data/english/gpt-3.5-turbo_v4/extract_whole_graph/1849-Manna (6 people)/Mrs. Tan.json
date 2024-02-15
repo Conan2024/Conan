@@ -1,0 +1,74 @@
+{
+    "Mrs. Tan": [
+      ["Luo Hengli", "child of x"], 
+      ["Tan Renchang", "husband of x"], 
+      ["Xinya", "helper of x"], 
+      ["Cai Qian", "friend of x, lover of x"], 
+      ["Lv Mingran", "lover of x"], 
+      ["Hai You", "daughter of x"], 
+      ["Shang Zhi", "nephew of x"], 
+      ["Cheng Ge", "son of x"], 
+      ["Manager Guo", "friend of x"], 
+      ["Liao Gongzi", "guest of x"], 
+      ["Lawyer appointed by Tan Renchang", "lawyer of x"], 
+      ["Valet", "servant of x"], 
+      ["A Ping", "servant of x"]
+    ],
+    "Xinya": [
+      ["Mrs. Tan", "helper of x"], 
+      ["Hai You", "same person as x (different identity)"], 
+      ["Lv Mingran", "employer of x"], 
+      ["Tan Renchang", "employer of x"], 
+      ["Cai Qian", "acquaintance of x"], 
+      ["Cheng Ge", "same person as x (different identity)"], 
+      ["A Ping", "colleague of x"]
+    ],
+    "Cai Qian": [
+      ["Mrs. Tan", "friend of x, lover of x"], 
+      ["Xinya", "acquaintance of x"], 
+      ["Hai You", "friend of x"], 
+      ["Shang Zhi", "brother of x"], 
+      ["Cheng Ge", "acquaintance of x"]
+    ],
+    "Lv Mingran": [
+      ["Mrs. Tan", "lover of x"], 
+      ["Tan Renchang", "employee of x"], 
+      ["Shang Zhi", "friend of x, employee of x"], 
+      ["Liao Gongzi", "acquaintance of x"]
+    ],
+    "Hai You": [
+      ["Mrs. Tan", "daughter of x"], 
+      ["Xinya", "same person as x (different identity)"], 
+      ["Cai Qian", "friend of x"], 
+      ["Cheng Ge", "friend of x"]
+    ],
+    "Shang Zhi": [
+      ["Mrs. Tan", "nephew of x"], 
+      ["Cai Qian", "brother of x"], 
+      ["Lv Mingran", "friend of x, employee of x"], 
+      ["Liao Gongzi", "acquaintance of x"]
+    ],
+    "Cheng Ge": [
+      ["Mrs. Tan", "son of x"], 
+      ["Xinya", "same person as x (different identity)"], 
+      ["Cai Qian", "friend of x, same person as x (different identity)"], 
+      ["Hai You", "friend of x"]
+    ],
+    "Manager Guo": [
+      ["Mrs. Tan", "friend of x"]
+    ],
+    "Liao Gongzi": [
+      ["Mrs. Tan", "guest of x"], 
+      ["Lv Mingran", "acquaintance of x"]
+    ],
+    "Lawyer appointed by Tan Renchang": [
+      ["Mrs. Tan", "lawyer of x"]
+    ],
+    "Valet": [
+      ["Mrs. Tan", "servant of x"]
+    ],
+    "A Ping": [
+      ["Mrs. Tan", "colleague of x"], 
+      ["Valet", "colleague of x"]
+    ]
+}

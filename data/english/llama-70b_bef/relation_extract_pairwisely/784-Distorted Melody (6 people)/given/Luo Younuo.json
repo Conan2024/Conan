@@ -1,0 +1,70 @@
+{
+    "Guilang": [
+      ["Luo Wanli", "student of x"], 
+      ["Qi Gufei", "brother in law of x, friend of x"], 
+      ["Wangdi", "brother of x, friend of x"]
+    ],
+    "Hei Li": [
+      ["Luo Wanli", "friend of x"], 
+      ["Qi Gufei", "same person as x (different reference), same person as x (different identity)"], 
+      ["Wangdi", "friend of x"], 
+      ["Xue Yan", "sister of x, friend of x"], 
+      ["Zhaonan", "sister in law of x"]
+    ],
+    "Luo Wanli": [
+      ["Guilang", "adoptive father of x, teacher of x"], 
+      ["Hei Li", "friend of x"], 
+      ["Luo Younuo", "father of x, teacher of x"], 
+      ["Mrs. Ruan", "landlord of x, friend of x"], 
+      ["Qi Gufei", "father of x, mentor of x"], 
+      ["Wangdi", "father of x, informant of x"], 
+      ["Xue Yan", "sibling of x, co wives of x"]
+    ],
+    "Luo Younuo": [
+      ["Luo Wanli", "son of x, student of x"], 
+      ["Mrs. Ruan", "wife of x, mother of x"], 
+      ["Xue Yan", "sister of x, friend of x"]
+    ],
+    "Mrs. Ruan": [
+      ["Luo Wanli", "tenant of x, friend of x"], 
+      ["Luo Younuo", "husband of x, father of x"], 
+      ["Qi Gufei", "landlord of x, adoptive mother of x"], 
+      ["Wangdi", "landlord of x"], 
+      ["Xue Yan", "landlord of x, mentor of x"], 
+      ["Zhaonan", "landlord of x"]
+    ],
+    "Qi Gufei": [
+      ["Guilang", "brother in law of x, friend of x"], 
+      ["Hei Li", "same person as x (different reference), same person as x (different identity)"], 
+      ["Luo Wanli", "son of x, student of x"], 
+      ["Mrs. Ruan", "adoptive son of x, tenant of x"], 
+      ["Wangdi", "acquaintance of x, classmate of x"], 
+      ["Xue Yan", "brother in law of x, uncle of x"], 
+      ["Zhaonan", "friend of x"]
+    ],
+    "Wangdi": [
+      ["Guilang", "brother of x, friend of x"], 
+      ["Hei Li", "friend of x"], 
+      ["Luo Wanli", "daughter of x, sibling of x"], 
+      ["Mrs. Ruan", "younger sister of x, daughter of x"], 
+      ["Qi Gufei", "acquaintance of x, classmate of x"], 
+      ["Xue Yan", "sister of x"], 
+      ["Zhaonan", "sister of x, rival of x"]
+    ],
+    "Xue Yan": [
+      ["Hei Li", "sister of x, friend of x"], 
+      ["Luo Wanli", "sibling of x, co wives of x"], 
+      ["Luo Younuo", "sister of x, friend of x"], 
+      ["Mrs. Ruan", "tenant of x"], 
+      ["Qi Gufei", "brother in law of x, nephew of x"], 
+      ["Wangdi", "sister of x"], 
+      ["Zhaonan", "sister of x, friend of x"]
+    ],
+    "Zhaonan": [
+      ["Hei Li", "sister in law of x"], 
+      ["Mrs. Ruan", "sister of x"], 
+      ["Qi Gufei", "friend of x"], 
+      ["Wangdi", "sister of x, rival of x"], 
+      ["Xue Yan", "sister of x, friend of x"]
+    ]
+}

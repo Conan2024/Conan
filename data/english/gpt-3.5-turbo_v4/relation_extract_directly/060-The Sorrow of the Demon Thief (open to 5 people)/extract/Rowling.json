@@ -1,0 +1,14 @@
+{
+    "Gust": [
+      ["Ella", "romantic relationships with x"], 
+      ["David", "friend of x"]
+    ],
+    "David": [
+      ["Ella", "admirer of x"], 
+      ["Gust", "friend of x"]
+    ],
+    "Ella": [
+      ["Gust", "romantic relationships with x"], 
+      ["David", "admirer of x"]
+    ]
+}

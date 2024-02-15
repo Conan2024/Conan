@@ -1,0 +1,48 @@
+{
+    "Doctor Fang": [
+      ["Fang Chengshan", "father of x doctor fang"], 
+      ["Yao Changshou", "colleague of x doctor fang's father, patient of x doctor fang"], 
+      ["Yao Zhongyi", "student of x doctor fang"], 
+      ["Yao Mengren", "student of x doctor fang"], 
+      ["Yao Zhongyi", "boyfriend of x doctor fang"], 
+      ["Yao Changshou", "murderer of x doctor fang's father"], 
+      ["Unknown Mysterious Man", "victim of x doctor fang"], 
+      ["Unknown Mysterious Man", "murderer of x yao changshou"], 
+      ["Yao Changshou", "deceased victim of x"], 
+      ["Tian Hongjiao", "cousin of x doctor fang"], 
+      ["Fang Chengshan", "deceased husband of x tian hongjiao"], 
+      ["Unknown Mysterious Man", "killer of x fang chengshan"]
+    ],
+    "Fang Chengshan": [
+      ["Doctor Fang", "daughter of x fang chengshan"], 
+      ["Yao Changshou", "colleague of x fang chengshan"], 
+      ["Unknown Mysterious Man", "victim of x fang chengshan"], 
+      ["Unknown Mysterious Man", "murderer of x fang chengshan"], 
+      ["Tian Hongjiao", "wife of x fang chengshan"]
+    ],
+    "Yao Changshou": [
+      ["Doctor Fang", "doctor of x yao changshou"], 
+      ["Yao Mengren", "son of x yao changshou"], 
+      ["Yao Zhongyi", "son of x yao changshou"], 
+      ["Unknown Mysterious Man", "murderer of x yao changshou"], 
+      ["Lady Hong", "wife of x yao changshou"]
+    ],
+    "Yao Mengren": [
+      ["Doctor Fang", "doctor of x yao mengren"], 
+      ["Doctor Fang", "former teacher of x yao mengren"]
+    ],
+    "Yao Zhongyi": [
+      ["Doctor Fang", "doctor of x yao zhongyi"], 
+      ["Doctor Fang", "former teacher of x yao zhongyi"], 
+      ["Doctor Fang", "girlfriend of x yao zhongyi"], 
+      ["Unknown Mysterious Man", "suspected by yao zhongyi of x"]
+    ],
+    "Lady Hong": [
+      ["Tian Hongjiao", "cousin of x lady hong"], 
+      ["Yao Changshou", "husband of x lady hong"]
+    ],
+    "Tian Hongjiao": [
+      ["Doctor Fang", "cousin of x tian hongjiao"], 
+      ["Fang Chengshan", "husband of x tian hongjiao"]
+    ]
+}

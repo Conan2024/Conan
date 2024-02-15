@@ -1,0 +1,56 @@
+{
+    "Mrs. Zhang": [
+      ["Yu Shangyong", "acquaintance of x"], 
+      ["Yu Yancheng", "friend of x"], 
+      ["Zhu Lingshan", "brother in law of x"], 
+      ["Ge Yueluo", "acquaintance of x"]
+    ],
+    "Zhang Junshi": [
+      ["Mrs. Zhang", "wife of x"], 
+      ["Yu Yancheng", "friend of x"], 
+      ["Zhu Lingshan", "brother in law of x"], 
+      ["Ge Yueluo", "acquaintance of x"]
+    ],
+    "Zhu Lingshan": [
+      ["Mrs. Zhang", "sister in law of x"], 
+      ["Zhang Junshi", "brother in law of x"], 
+      ["Ge Yueluo", "husband of x"], 
+      ["Ge Jixian", "father in law of x"]
+    ],
+    "Ge Yueluo": [
+      ["Mrs. Zhang", "acquaintance of x"], 
+      ["Zhang Junshi", "acquaintance of x"], 
+      ["Zhu Lingshan", "husband of x"], 
+      ["Ge Jixian", "father of x"]
+    ],
+    "Ge Jixian": [
+      ["Ge Yueluo", "daughter of x"], 
+      ["Zhu Lingshan", "son in law of x"]
+    ],
+    "Le Wan": [
+      ["Mrs. Zhang", "friend of x"], 
+      ["Yue Luo", "friend of x"]
+    ],
+    "Yue Luo": [
+      ["Mrs. Zhang", "friend of x"], 
+      ["Le Wan", "friend of x"], 
+      ["Ge Yueluo", "sister of x"]
+    ],
+    "Ge Yueman": [
+      ["Mrs. Zhang", "friend of x"], 
+      ["Yue Luo", "sister of x"]
+    ],
+    "Yu Shangyong": [
+      ["Mrs. Zhang", "niece of x"], 
+      ["Zhi Jun", "father of x"]
+    ],
+    "Zhi Jun": [
+      ["Mrs. Zhang", "niece of x"], 
+      ["Yu Shangyong", "father of x"]
+    ],
+    "Yu Yancheng": [
+      ["Mrs. Zhang", "friend of x"], 
+      ["Zhang Junshi", "friend of x"], 
+      ["Zhu Lingshan", "brother in law of x"]
+    ]
+}

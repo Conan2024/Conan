@@ -1,0 +1,25 @@
+{
+    "Bao Gan": [
+      ["Cui Shouheng", "master of x"]
+    ],
+    "Zhou Mengdang": [
+      ["Bao Gan", "master of x"]
+    ],
+    "Yu Shi": [
+      ["Zhou Mengdang", "wife of x"]
+    ],
+    "Taitai": [
+      ["Cui Shouheng", "wife of x"]
+    ],
+    "Wang Shi": [
+      ["Cui Yannan", "father of x"]
+    ],
+    "Cui Shouheng": [
+      ["Taitai", "husband of x"], 
+      ["Cui Yannan", "father of x"], 
+      ["Bao Gan", "master of x"]
+    ],
+    "Cui Shi": [
+      ["Cui Yannan", "father of x"]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Yao Zhongyi": [
+      ["Yu Junhong", "friend of x"], 
+      ["Chen Junmeng", "sweetheart of x"], 
+      ["Lady Hong", "stepmother of x"], 
+      ["Uncle Gui", "acquaintance of x"], 
+      ["Yao Changshou", "father of x"], 
+      ["Yao Mengren", "half brother of x"]
+    ],
+    "Yu Junhong": [
+      ["Yao Zhongyi", "friend of x"]
+    ],
+    "Chen Junmeng": [
+      ["Yao Zhongyi", "sweetheart of x"], 
+      ["Yao Mengren", "husband of x"]
+    ],
+    "Lady Hong": [
+      ["Yao Zhongyi", "stepmother of x"], 
+      ["Yao Mengren", "stepmother of x"]
+    ],
+    "Uncle Gui": [
+      ["Yao Zhongyi", "acquaintance of x"]
+    ],
+    "Yao Changshou": [
+      ["Yao Zhongyi", "father of x"]
+    ],
+    "Yao Mengren": [
+      ["Yao Zhongyi", "half brother of x"], 
+      ["Chen Junmeng", "husband of x"]
+    ]
+}

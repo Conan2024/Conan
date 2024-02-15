@@ -1,0 +1,72 @@
+{
+    "Chen Anqiao": [
+      ["Chen Qingwu", "servant of x"], 
+      ["Chen Junmeng", "relative of x"], 
+      ["Chen Shitian", "father of x, helper of x"], 
+      ["Yao Changshou", "maid of x yao changshou"], 
+      ["Yao Mengren", "colleague of x, informant of x"], 
+      ["Yao Zhongyi", "cousin of x"], 
+      ["Lady Hong", "servant of x lady hong"]
+    ],
+    "Chen Qingwu": [
+      ["Chen Anqiao", "employer of x"], 
+      ["Chen Junmeng", "mentor of x, information receiver from x"], 
+      ["Yao Changshou", "employer of x"], 
+      ["Yao Mengren", "informant of x"], 
+      ["Yao Zhongyi", "co conspirators of x"], 
+      ["Lady Hong", "helper of x"]
+    ],
+    "Chen Junmeng": [
+      ["Chen Anqiao", "relative of x"], 
+      ["Chen Qingwu", "student of x"], 
+      ["Chen Shitian", "friend of x"], 
+      ["Yao Changshou", "fiance of x, romantic relationships with x"], 
+      ["Yao Mengren", "fiance of x, romantic relationships with x"], 
+      ["Yao Zhongyi", "romantic relationships with x, fiance of x"], 
+      ["Lady Hong", "friend of x"]
+    ],
+    "Chen Shitian": [
+      ["Chen Anqiao", "child of x, helped by x"], 
+      ["Chen Junmeng", "maid of x"], 
+      ["Yao Changshou", "service provider of x"], 
+      ["Yao Mengren", "servant of x"], 
+      ["Yao Zhongyi", "father of x"], 
+      ["Lady Hong", "admired by of x"]
+    ],
+    "Yao Changshou": [
+      ["Chen Anqiao", "master of x chen anqiao"], 
+      ["Chen Qingwu", "employee of x"], 
+      ["Chen Junmeng", "fiancee of x, romantic relationships with x"], 
+      ["Chen Shitian", "master of x"], 
+      ["Yao Mengren", "husband of x"], 
+      ["Yao Zhongyi", "father of x yao zhongyi"], 
+      ["Lady Hong", "husband of x"]
+    ],
+    "Yao Mengren": [
+      ["Chen Anqiao", "colleague of x, informant of x"], 
+      ["Chen Qingwu", "informant of x"], 
+      ["Chen Junmeng", "fiancee of x, romantic relationships with x"], 
+      ["Chen Shitian", "employer of x"], 
+      ["Yao Changshou", "wife of x"], 
+      ["Yao Zhongyi", "husband of x"], 
+      ["Lady Hong", "husband of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Chen Anqiao", "cousin of x"], 
+      ["Chen Qingwu", "co conspirators of x"], 
+      ["Chen Junmeng", "romantic relationships with x, fiancee of x"], 
+      ["Chen Shitian", "daughter of x"], 
+      ["Yao Changshou", "son of x yao changshou"], 
+      ["Yao Mengren", "wife of x"], 
+      ["Lady Hong", "romantic relationships with x"]
+    ],
+    "Lady Hong": [
+      ["Chen Anqiao", "trusted servant of x"], 
+      ["Chen Qingwu", "helper of x"], 
+      ["Chen Junmeng", "friend of x"], 
+      ["Chen Shitian", "admires of x"], 
+      ["Yao Changshou", "wife of x"], 
+      ["Yao Mengren", "wife of x"], 
+      ["Yao Zhongyi", "romantic relationships with x"]
+    ]
+}

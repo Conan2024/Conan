@@ -1,0 +1,47 @@
+{
+    "Fang Liu": [
+      ["Li Zhong", "child of x"], 
+      ["Xiao Qian", "mentor of x"], 
+      ["Li Yan", "friend of x"], 
+      ["Chen Qian", "friend of x, romantic relationships with x"], 
+      ["Te'ertelafoerde (Old Trafford)", "romantic relationships with x, informant of x"]
+    ],
+    "Li Zhong": [
+      ["Fang Liu", "father of x"], 
+      ["Xiao Qian", "child of x"], 
+      ["Li Yan", "child of x, sibling of x"], 
+      ["Er Yisi Bada", "son of x"], 
+      ["Chen Qian", "child of x, step brother of x"]
+    ],
+    "Xiao Qian": [
+      ["Fang Liu", "student of x"], 
+      ["Li Zhong", "child of x"], 
+      ["Li Yan", "half sister of x"], 
+      ["Chen Qian", "sibling of x"], 
+      ["Te'ertelafoerde (Old Trafford)", "helper of x"]
+    ],
+    "Li Yan": [
+      ["Fang Liu", "friend of x"], 
+      ["Li Zhong", "child of x, sibling of x"], 
+      ["Xiao Qian", "half sister of x"], 
+      ["Te'ertelafoerde (Old Trafford)", "friend of x, helped by x"]
+    ],
+    "Er Yisi Bada": [
+      ["Chen Qian", "adoptive daughter of x"], 
+      ["Te'ertelafoerde (Old Trafford)", "fiance of x, fiancee of x"]
+    ],
+    "Chen Qian": [
+      ["Fang Liu", "friend of x, romantic relationships with x"], 
+      ["Li Zhong", "step sister of x"], 
+      ["Xiao Qian", "sibling of x"], 
+      ["Er Yisi Bada", "adoptive father of x"], 
+      ["Te'ertelafoerde (Old Trafford)", "ex romantic relationships with x, possibly family of x"]
+    ],
+    "Te'ertelafoerde (Old Trafford)": [
+      ["Fang Liu", "romantic relationships with x, informant of x"], 
+      ["Xiao Qian", "helped by x"], 
+      ["Li Yan", "friend of x, helped by x"], 
+      ["Er Yisi Bada", "fiance of x, fiancee of x"], 
+      ["Chen Qian", "ex romantic relationships with x, possibly family of x"]
+    ]
+}

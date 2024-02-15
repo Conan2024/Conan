@@ -1,0 +1,33 @@
+{
+    "Amy Morgan": [
+      ["Harold Harrison", "brother of x, protector of x"], 
+      ["Marina Harrison", "sister of x, dislike of x"], 
+      ["Lucy Harrison", "sister of x, don't understand of x"], 
+      ["Max Pike", "acquaintance of x, suspect of x"], 
+      ["Alex Harvey", "friend of x, borrowed money of x"]
+    ],
+    "Harold Harrison": [
+      ["Amy Morgan", "sister of x, close of x"], 
+      ["Marina Harrison", "wife of x, hidden secret of x"], 
+      ["Anna", "ex wife, disappointed of x"]
+    ],
+    "Marina Harrison": [
+      ["Harold Harrison", "husband of x, hidden secret of x"], 
+      ["Amy Morgan", "sister in law of x, dislike of x"]
+    ],
+    "Lucy Harrison": [
+      ["Amy Morgan", "sister of x, don't understand of x"], 
+      ["Harold Harrison", "father of x, disappointed of x"]
+    ],
+    "Max Pike": [
+      ["Amy Morgan", "acquaintance of x, suspect of x"], 
+      ["John Morgan", "friend of x, deceased of x"]
+    ],
+    "Alex Harvey": [
+      ["Amy Morgan", "friend of x, borrowed money of x"]
+    ],
+    "John Morgan": [
+      ["Amy Morgan", "friend of x, deceased of x"], 
+      ["Harold Harrison", "friend of x, deceased of x"]
+    ]
+}

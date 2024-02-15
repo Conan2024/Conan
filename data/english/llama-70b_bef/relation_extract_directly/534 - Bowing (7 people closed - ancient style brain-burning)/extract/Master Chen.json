@@ -1,0 +1,70 @@
+{
+    "Master Chen": [
+      ["Li Wangye", "friend of x, business partner of x"], 
+      ["Prince Jinu", "acquaintance of x, suspect of x"], 
+      ["Fang XU", "enemy of x, rival of x"], 
+      ["Xiao Qian", "daughter of x"], 
+      ["Madam Li or Li Family", "wife of x, mother of x"]
+    ],
+    "Li Wangye": [
+      ["Master Chen", "friend of x, business partner of x"], 
+      ["Prince Jinu", "acquaintance of x, suspect of x"], 
+      ["Fang XU", "enemy of x, rival of x"], 
+      ["Xiao Qian", "daughter of x"], 
+      ["Li Yan", "son of x"], 
+      ["Li Zhong", "son of x"], 
+      ["Madam Li or Li Family", "wife of x, mother of x"]
+    ],
+    "Prince Jinu": [
+      ["Master Chen", "acquaintance of x, suspect of x"], 
+      ["Li Wangye", "acquaintance of x, suspect of x"], 
+      ["Fang XU", "enemy of x, rival of x"], 
+      ["Xiao Qian", "daughter of x"], 
+      ["Li Yan", "son of x"], 
+      ["Li Zhong", "son of x"], 
+      ["Madam Li or Li Family", "wife of x, mother of x"]
+    ],
+    "Fang XU": [
+      ["Master Chen", "enemy of x, rival of x"], 
+      ["Li Wangye", "enemy of x, rival of x"], 
+      ["Prince Jinu", "enemy of x, rival of x"], 
+      ["Xiao Qian", "daughter of x"], 
+      ["Li Yan", "son of x"], 
+      ["Li Zhong", "son of x"], 
+      ["Madam Li or Li Family", "wife of x, mother of x"]
+    ],
+    "Xiao Qian": [
+      ["Master Chen", "daughter of x"], 
+      ["Li Wangye", "daughter of x"], 
+      ["Prince Jinu", "daughter of x"], 
+      ["Fang XU", "mother of x, enemy of x"], 
+      ["Li Yan", "brother of x"], 
+      ["Li Zhong", "brother of x"], 
+      ["Madam Li or Li Family", "mother of x, wife of x"]
+    ],
+    "Li Yan": [
+      ["Li Wangye", "son of x"], 
+      ["Prince Jinu", "son of x"], 
+      ["Fang XU", "sister of x"], 
+      ["Xiao Qian", "sister of x"], 
+      ["Li Zhong", "brother of x"], 
+      ["Madam Li or Li Family", "mother of x, wife of x"]
+    ],
+    "Li Zhong": [
+      ["Li Wangye", "son of x"], 
+      ["Prince Jinu", "son of x"], 
+      ["Fang XU", "sister of x"], 
+      ["Xiao Qian", "sister of x"], 
+      ["Li Yan", "brother of x"], 
+      ["Madam Li or Li Family", "mother of x, wife of x"]
+    ],
+    "Madam Li or Li Family": [
+      ["Master Chen", "wife of x, mother of x"], 
+      ["Li Wangye", "wife of x, mother of x"], 
+      ["Prince Jinu", "wife of x, mother of x"], 
+      ["Fang XU", "daughter of x, enemy of x"], 
+      ["Xiao Qian", "daughter of x"], 
+      ["Li Yan", "son of x"], 
+      ["Li Zhong", "son of x"]
+    ]
+}

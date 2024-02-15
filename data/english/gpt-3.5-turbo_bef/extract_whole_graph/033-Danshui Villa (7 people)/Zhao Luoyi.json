@@ -1,0 +1,87 @@
+{
+    "Zhao Luoyi": [
+      ["Zhao Wanlei", "father of x"], 
+      ["Zhao Wei", "sibling of x"], 
+      ["FENG Shuangji", "mentor of x"], 
+      ["zhao Qiuer", "sibling of x, student of x"], 
+      ["FENG ZHU", "sibling of x"], 
+      ["QI Yue", "helper of x"], 
+      ["Yin Shaoming", "acquaintance of x"], 
+      ["Guo Wangshan", "acquaintance of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Zhao Luoyi", "child of x"], 
+      ["Zhao Wei", "child of x"], 
+      ["FENG Shuangji", "employer of x"], 
+      ["zhao Qiuer", "employer of x"], 
+      ["FENG ZHU", "employee of x"], 
+      ["QI Yue", "acquaintance of x"], 
+      ["Yin Shaoming", "acquaintance of x"], 
+      ["Guo Wangshan", "acquaintance of x"]
+    ],
+    "Zhao Wei": [
+      ["Zhao Luoyi", "sibling of x"], 
+      ["Zhao Wanlei", "child of x"], 
+      ["FENG Shuangji", "mentor of x"], 
+      ["zhao Qiuer", "student of x"], 
+      ["FENG ZHU", "sibling of x"], 
+      ["QI Yue", "acquaintance of x"], 
+      ["Yin Shaoming", "acquaintance of x"], 
+      ["Guo Wangshan", "acquaintance of x"]
+    ],
+    "FENG Shuangji": [
+      ["Zhao Wanlei", "employee of x"], 
+      ["zhao Qiuer", "mentor of x"], 
+      ["QI Yue", "acquaintance of x"], 
+      ["Yin Shaoming", "acquaintance of x"], 
+      ["Guo Wangshan", "acquaintance of x"]
+    ],
+    "zhao Qiuer": [
+      ["Zhao Luoyi", "sibling of x, mentor of x"], 
+      ["Zhao Wei", "student of x"], 
+      ["FENG Shuangji", "student of x"], 
+      ["FENG ZHU", "sibling of x"], 
+      ["QI Yue", "acquaintance of x"], 
+      ["Yin Shaoming", "acquaintance of x"], 
+      ["Guo Wangshan", "acquaintance of x"]
+    ],
+    "FENG ZHU": [
+      ["Zhao Luoyi", "sibling of x"], 
+      ["Zhao Wanlei", "employee of x"], 
+      ["Zhao Wei", "sibling of x"], 
+      ["zhao Qiuer", "sibling of x"], 
+      ["QI Yue", "acquaintance of x"], 
+      ["Yin Shaoming", "acquaintance of x"], 
+      ["Guo Wangshan", "acquaintance of x"]
+    ],
+    "QI Yue": [
+      ["Zhao Luoyi", "helper of x"], 
+      ["Zhao Wanlei", "acquaintance of x"], 
+      ["Zhao Wei", "acquaintance of x"], 
+      ["FENG Shuangji", "acquaintance of x"], 
+      ["zhao Qiuer", "acquaintance of x"], 
+      ["FENG ZHU", "acquaintance of x"], 
+      ["Yin Shaoming", "acquaintance of x"], 
+      ["Guo Wangshan", "acquaintance of x"]
+    ],
+    "Yin Shaoming": [
+      ["Zhao Luoyi", "acquaintance of x"], 
+      ["Zhao Wanlei", "acquaintance of x"], 
+      ["Zhao Wei", "acquaintance of x"], 
+      ["FENG Shuangji", "acquaintance of x"], 
+      ["zhao Qiuer", "acquaintance of x"], 
+      ["FENG ZHU", "acquaintance of x"], 
+      ["QI Yue", "acquaintance of x"], 
+      ["Guo Wangshan", "acquaintance of x"]
+    ],
+    "Guo Wangshan": [
+      ["Zhao Luoyi", "acquaintance of x"], 
+      ["Zhao Wanlei", "acquaintance of x"], 
+      ["Zhao Wei", "acquaintance of x"], 
+      ["FENG Shuangji", "acquaintance of x"], 
+      ["zhao Qiuer", "acquaintance of x"], 
+      ["FENG ZHU", "acquaintance of x"], 
+      ["QI Yue", "acquaintance of x"], 
+      ["Yin Shaoming", "acquaintance of x"]
+    ]
+}

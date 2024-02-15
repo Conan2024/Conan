@@ -1,0 +1,314 @@
+{
+    "Zhang Villager": [
+        [
+            "Chief Wang",
+            "acquaintance",
+            "suspect",
+            "adversary"
+        ],
+        [
+            "Zhao Cishan",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X"
+        ],
+        [
+            "Officer Li's girlfriend",
+            "acquaintance",
+            "suspicious",
+            "victim"
+        ],
+        [
+            "Officer Li",
+            "acquaintance",
+            "suspect",
+            "enemy"
+        ],
+        [
+            "Office Li",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Hu Investigate",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Village Chief Wang",
+            "acquaintance",
+            "suspicious",
+            "manipulator/manipulated",
+            "adversary",
+            "enemy"
+        ]
+    ],
+    "Chief Wang": [
+        [
+            "Zhang Villager",
+            "acquaintance",
+            "suspect",
+            "adversary"
+        ],
+        [
+            "Zhao Cishan",
+            "Acquaintance",
+            "Helped by"
+        ],
+        [
+            "Officer Li's girlfriend",
+            "Acquaintance"
+        ],
+        [
+            "Officer Li",
+            "Acquaintance",
+            "Superior of x"
+        ],
+        [
+            "Office Li",
+            "Acquaintance",
+            "Neighbour"
+        ],
+        [
+            "Hu Investigate",
+            "Acquaintance",
+            "Suspect"
+        ],
+        [
+            "Village Chief Wang",
+            "Relationship 1: Superior of X",
+            "Relationship 2: Employer of X"
+        ]
+    ],
+    "Zhao Cishan": [
+        [
+            "Zhang Villager",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X"
+        ],
+        [
+            "Chief Wang",
+            "Acquaintance",
+            "Helped by"
+        ],
+        [
+            "Officer Li's girlfriend",
+            "acquaintance",
+            "suspect",
+            "victim"
+        ],
+        [
+            "Officer Li",
+            "relationship 1 ",
+            "relationship 2 "
+        ],
+        [
+            "Office Li",
+            "Acquaintance"
+        ],
+        [
+            "Hu Investigate",
+            "Victim of",
+            "Killed by"
+        ],
+        [
+            "Village Chief Wang",
+            "Acquaintance"
+        ]
+    ],
+    "Officer Li's girlfriend": [
+        [
+            "Zhang Villager",
+            "acquaintance",
+            "suspicious",
+            "victim"
+        ],
+        [
+            "Chief Wang",
+            "Acquaintance"
+        ],
+        [
+            "Zhao Cishan",
+            "acquaintance",
+            "suspect",
+            "victim"
+        ],
+        [
+            "Officer Li",
+            "Zhang Villager"
+        ],
+        [
+            "Office Li",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Hu Investigate",
+            "acquaintance",
+            "suspect",
+            "informant",
+            "helper"
+        ],
+        [
+            "Village Chief Wang",
+            "Suspect of X",
+            "Acquaintance of X",
+            "Neighbour of X"
+        ]
+    ],
+    "Officer Li": [
+        [
+            "Zhang Villager",
+            "acquaintance",
+            "suspect",
+            "enemy"
+        ],
+        [
+            "Chief Wang",
+            "Acquaintance",
+            "Subordinate of X"
+        ],
+        [
+            "Zhao Cishan",
+            "relationship 1 ",
+            "relationship 2 "
+        ],
+        [
+            "Officer Li's girlfriend",
+            "Zhang Villager"
+        ],
+        [
+            "Office Li",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X"
+        ],
+        [
+            "Hu Investigate",
+            "Suspect of X",
+            "Investigator of X",
+            "Acquaintance of X",
+            "Neighbour of X"
+        ],
+        [
+            "Village Chief Wang",
+            "Suspect of X",
+            "Acquaintance of X"
+        ]
+    ],
+    "Office Li": [
+        [
+            "Zhang Villager",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Chief Wang",
+            "Acquaintance",
+            "Neighbour"
+        ],
+        [
+            "Zhao Cishan",
+            "Acquaintance"
+        ],
+        [
+            "Officer Li's girlfriend",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Officer Li",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X"
+        ],
+        [
+            "Hu Investigate",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X",
+            "Perpetrator of X"
+        ],
+        [
+            "Village Chief Wang",
+            "Acquaintance",
+            "Suspicious"
+        ]
+    ],
+    "Hu Investigate": [
+        [
+            "Zhang Villager",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Chief Wang",
+            "Acquaintance",
+            "Suspect"
+        ],
+        [
+            "Zhao Cishan",
+            "Investigating",
+            "Suspect of"
+        ],
+        [
+            "Officer Li's girlfriend",
+            "acquaintance",
+            "suspect",
+            "informant",
+            "helper"
+        ],
+        [
+            "Officer Li",
+            "Suspect of X",
+            "Investigator of X",
+            "Acquaintance of X",
+            "Neighbour of X"
+        ],
+        [
+            "Office Li",
+            "Suspect of X",
+            "Adversary of X",
+            "Enemy of X",
+            "Victim of X"
+        ],
+        [
+            "Village Chief Wang",
+            "Acquaintance"
+        ]
+    ],
+    "Village Chief Wang": [
+        [
+            "Zhang Villager",
+            "acquaintance",
+            "suspect",
+            "manipulator/manipulated",
+            "adversary",
+            "enemy"
+        ],
+        [
+            "Chief Wang",
+            "Relationship 1: Subordinate of X",
+            "Relationship 2: Employee of X"
+        ],
+        [
+            "Zhao Cishan",
+            "Acquaintance"
+        ],
+        [
+            "Officer Li's girlfriend",
+            "Suspect of X",
+            "Acquaintance of X",
+            "Neighbour of X"
+        ],
+        [
+            "Officer Li",
+            "Suspect of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Office Li",
+            "Acquaintance",
+            "Suspicious"
+        ],
+        [
+            "Hu Investigate",
+            "Acquaintance"
+        ]
+    ]
+}

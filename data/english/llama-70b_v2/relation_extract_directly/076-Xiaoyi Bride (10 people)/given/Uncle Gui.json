@@ -1,0 +1,46 @@
+{
+    "Uncle Gui": [
+      ["Du Guicheng", "real name of x"], 
+      ["Du Huixin", "father of x"], 
+      ["Lady Hong", "acquaintance of x"], 
+      ["Long-haired Girl", "suspect of x"], 
+      ["Master Meng", "head of x fanzhuang"], 
+      ["Physician Yu", "colleague of x"], 
+      ["Yao Changshou", "patient of x"], 
+      ["Yao Zhongyi", "employer of x"], 
+      ["Yun Ling", "friend of x"]
+    ],
+    "Du Guicheng": [
+      ["Uncle Gui", "real name of x"], 
+      ["Du Huixin", "son of x"]
+    ],
+    "Du Huixin": [
+      ["Du Guicheng", "father of x"], 
+      ["Uncle Gui", "son of x"]
+    ],
+    "Lady Hong": [
+      ["Yao Changshou", "husband of x"], 
+      ["Uncle Gui", "acquaintance of x"]
+    ],
+    "Long-haired Girl": [
+      ["Uncle Gui", "suspect of x"]
+    ],
+    "Master Meng": [
+      ["Uncle Gui", "head of x fanzhuang"]
+    ],
+    "Physician Yu": [
+      ["Uncle Gui", "colleague of x"]
+    ],
+    "Yao Changshou": [
+      ["Lady Hong", "husband of x"], 
+      ["Yao Zhongyi", "father of x"], 
+      ["Uncle Gui", "patient of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Yao Changshou", "son of x"], 
+      ["Uncle Gui", "employer of x"]
+    ],
+    "Yun Ling": [
+      ["Uncle Gui", "friend of x"]
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "Logistics Griff": [
+      ["Theatrical Work David", "helper of x"], 
+      ["Security Kevin", "fondness of x, suspect of x"], 
+      ["Ella", "deceiver of x"], 
+      ["Kevin", "suspected by x, manipulator of x"], 
+      ["Griff", "spy of x, friend of x"], 
+      ["Publicity Rowling", "friend of x, friend of x"], 
+      ["David", "friend of x"]
+    ],
+    "Magician Gust": [
+      ["Publicity Rowling", "extramarital affair with x"], 
+      ["Security Kevin", "fondness of x"], 
+      ["Ella", "fondness of x, lover of x"]
+    ],
+    "Assistant Ella": [
+      ["Theatrical Work David", "friend of x, extramarital affair with x"], 
+      ["Ella", "helper of x"], 
+      ["Gust", "romantic relationships with x"], 
+      ["friend of x", "helper of x"], 
+      ["David", "romantic relationships with x"]
+    ],
+    "Publicity Rowling": [
+      ["Magician Gust", "extramarital affair with x"], 
+      ["Theatrical Work David", "romantic relationships with x, ex romantic relationships with x"], 
+      ["Security Kevin", "romantic relationships with x"], 
+      ["Ella", "romantic relationships with x"], 
+      ["Kevin", "romantic relationships with x"], 
+      ["Griff", "romantic relationships with x"], 
+      ["Rowling", "extramarital affair with x"], 
+      ["David", "romantic relationships with x"]
+    ],
+    "David": [
+      ["Logistics Griff", "friend of x, informant of x"], 
+      ["Assistant Ella", "romantic relationships with x"], 
+      ["Publicity Rowling", "romantic relationships with x"], 
+      ["Theatrical Work David", "friend of x"], 
+      ["Security Kevin", "friend of x"], 
+      ["Ella", "friend of x"], 
+      ["Griff", "friend of x"], 
+      ["Rowling", "friend of x"]
+    ],
+    "Kevin": [
+      ["Logistics Griff", "suspected by x"], 
+      ["Logistics Griff", "attempted murderer of x"], 
+      ["Magician Gust", "possibly family of x"], 
+      ["suspected by x", "acquaintance of x"], 
+      ["Publicity Rowling", "romantic relationships with x"], 
+      ["Theatrical Work David", "suspected by x"], 
+      ["Gust", "suspected by x"]
+    ],
+    "Theatrical Work David": [
+      ["Logistics Griff", "friend of x"], 
+      ["Assistant Ella", "friend of x"], 
+      ["Publicity Rowling", "romantic relationships with x, ex romantic relationships with x"], 
+      ["Security Kevin", "adversary of x"], 
+      ["Kevin", "suspected by x"], 
+      ["David", "friend of x"]
+    ],
+    "Security Kevin": [
+      ["Logistics Griff", "suspected by x"], 
+      ["Magician Gust", "fondness of x"], 
+      ["Publicity Rowling", "romantic relationships with x"], 
+      ["Theatrical Work David", "adversary of x"], 
+      ["Ella", "helper of x, perpetrator of x"], 
+      ["Rowling", "brother of x"], 
+      ["David", "friend of x"]
+    ],
+    "Ella": [
+      ["Logistics Griff", "debtor of x"], 
+      ["Magician Gust", "ex romantic relationships with x"], 
+      ["Assistant Ella", "debtor of x"], 
+      ["Publicity Rowling", "romantic relationships with x"], 
+      ["Security Kevin", "helper of x, attempted perpetrator of x"], 
+      ["Gust", "wife of x"], 
+      ["Rowling", "friend of x"], 
+      ["David", "romantic relationships with x"]
+    ],
+    "Gust": [
+      ["Assistant Ella", "romantic relationships with x"], 
+      ["Ella", "husband of x"], 
+      ["Kevin", "suspect of x"], 
+      ["Rowling", "friend of x, colleague of x"]
+    ],
+    "Griff": [
+      ["Logistics Griff", "information receiver from x"], 
+      ["Publicity Rowling", "romantic relationships with x"], 
+      ["Kevin", "attempted perpetrator of x"], 
+      ["Rowling", "friend of x"], 
+      ["David", "acquaintance of x, informant of x"]
+    ],
+    "Rowling": [
+      ["Logistics Griff", "friend of x, friend of x"], 
+      ["Publicity Rowling", "extramarital affair with x"], 
+      ["Security Kevin", "sister of x"], 
+      ["Ella", "friend of x"], 
+      ["Gust", "friend of x, colleague of x"], 
+      ["Griff", "friend of x"], 
+      ["David", "friend of x"]
+    ]
+}

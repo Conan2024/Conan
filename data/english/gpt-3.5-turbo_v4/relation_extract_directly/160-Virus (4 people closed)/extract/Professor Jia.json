@@ -1,0 +1,16 @@
+{
+    "Professor Jia": [
+      ["Tian Zhuli", "student of x"]
+    ],
+    "Tian Zhuli": [
+      ["Professor Jia", "teacher of x"], 
+      ["student", "same person as x (different reference)"], 
+      ["Qin OU (Tian Zhuli's girlfriend)", "romantic relationships with x"]
+    ],
+    "student": [
+      ["Tian Zhuli", "same person as x (different reference)"]
+    ],
+    "Qin OU (Tian Zhuli's girlfriend)": [
+      ["Tian Zhuli", "romantic relationships with x"]
+    ]
+}

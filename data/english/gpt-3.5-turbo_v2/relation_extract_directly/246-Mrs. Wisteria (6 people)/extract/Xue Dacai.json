@@ -1,0 +1,38 @@
+{
+    "Xue Dacai": [
+      ["Zhu Lingshan", "friend of xue dacai, romantic relationships with xue dacai"], 
+      ["Ge Jixian", "informant of xue dacai"], 
+      ["Ge Yueluo", "sister of xue dacai"], 
+      ["Mrs. Zhang", "extramarital affair with xue dacai"]
+    ],
+    "Zhu Lingshan": [
+      ["Xue Dacai", "friend of xue dacai, romantic relationships with xue dacai"], 
+      ["Ge Yueman", "friend of xue dacai"], 
+      ["Yu Shangyong", "fiance of xue dacai"], 
+      ["Ge Yueluo", "sister of xue dacai"]
+    ],
+    "Ge Jixian": [
+      ["Xue Dacai", "informant of xue dacai"], 
+      ["Ge Yueluo", "father of xue dacai, mother of xue dacai"]
+    ],
+    "Ge Yueman": [
+      ["Zhu Lingshan", "friend of xue dacai"], 
+      ["Yu Shangyong", "husband of xue dacai"], 
+      ["Xue Yufan", "father of xue dacai"]
+    ],
+    "Ge Yueluo": [
+      ["Zhu Lingshan", "sister of xue dacai"], 
+      ["Ge Jixian", "father of xue dacai, mother of xue dacai"], 
+      ["Xue Dacai", "sibling of x ge yueluo"]
+    ],
+    "Yu Shangyong": [
+      ["Zhu Lingshan", "fiance of xue dacai"], 
+      ["Ge Yueman", "husband of xue dacai"]
+    ],
+    "Xue Yufan": [
+      ["Ge Yueman", "father of xue dacai"]
+    ],
+    "Mrs. Zhang": [
+      ["Yu Shangyong", "extramarital affair with xue dacai"]
+    ]
+}

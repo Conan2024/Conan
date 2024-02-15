@@ -1,0 +1,50 @@
+{
+    "Xue Yan": [
+      ["Wang Zimo", "lover of x, potential husband of x, thief of x"], 
+      ["Guilang", "adoptive brother of x, friend of x, acquaintance of x"], 
+      ["Zhaonan", "childhood friend of x, dance teacher of x, confidant of x"], 
+      ["Qi Gu Fei", "dance student of x, friend of x"], 
+      ["Hei Li", "dance student of x, friend of x, rival of x"], 
+      ["Baron Smith", "employer of x, acquaintance of x"], 
+      ["Wangdi", "sister in law of x, acquaintance of x"]
+    ],
+    "Luo Wanli": [
+      ["Xue Yan", "daughter of x, confidant of x"], 
+      ["Luo Younuo", "son of x"]
+    ],
+    "Sun": [
+      ["Xue Yan", "mother of x, deceased of x"]
+    ],
+    "Luo Younuo": [
+      ["Xue Yan", "sister of x, confidant of x"]
+    ],
+    "Wang Zimo": [
+      ["Xue Yan", "lover of x, potential husband of x"], 
+      ["Wangdi", "wife of x, estranged of x"]
+    ],
+    "Guilang": [
+      ["Xue Yan", "adoptive brother of x, friend of x"], 
+      ["Zhaonan", "childhood friend of x, dance teacher of x, confidant of x"]
+    ],
+    "Zhaonan": [
+      ["Xue Yan", "childhood friend of x, dance teacher of x, confidant of x"], 
+      ["Qi Gu Fei", "dance student of x, friend of x"]
+    ],
+    "Qi Gu Fei": [
+      ["Zhaonan", "dance student of x, friend of x"], 
+      ["Hei Li", "dance student of x, friend of x"]
+    ],
+    "Hei Li": [
+      ["Qi Gu Fei", "dance student of x, friend of x"], 
+      ["Xue Yan", "dance student of x, acquaintance of x"], 
+      ["Wang Zimo", "rival of x"]
+    ],
+    "Baron Smith": [
+      ["Xue Yan", "employer of x, acquaintance of x"], 
+      ["Wangdi", "sister in law of x, acquaintance of x"]
+    ],
+    "Wangdi": [
+      ["Wang Zimo", "husband of x, estranged of x"], 
+      ["Xue Yan", "sister in law of x, acquaintance of x"]
+    ]
+}

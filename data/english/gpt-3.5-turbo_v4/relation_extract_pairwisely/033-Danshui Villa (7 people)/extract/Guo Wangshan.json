@@ -1,0 +1,122 @@
+{
+    "Guo Wangshan": [
+      ["SHUANG MIAN Hu", "informant of x, acquaintance of x"], 
+      ["Fang Shuangji", "employee of x, betrayer of x"], 
+      ["Yin Shaoming", "informant of x, information receiver from x"], 
+      ["Zhao Luoyi", "quest companion of x, suspected by x"], 
+      ["Ren (Master REN)", "business partner of x, acquaintance of x"], 
+      ["Yue Laiju", "acquaintance of x, colleague of x"], 
+      ["Huaizi Li", "adversary of x, suspected by x"], 
+      ["Yu Yichen", "quest companion of x, information receiver from x"]
+    ],
+    "SHUANG MIAN Hu": [
+      ["Guo Wangshan", "information receiver from x, acquaintance of x"], 
+      ["Master Zhao (Zhao Wanlei)", "informant of x, victim of x"], 
+      ["Fang Shuangji", "employee of x, manipulated by x"], 
+      ["Qi Yue", "adversary of x, victim of x"], 
+      ["Yin Shaoming", "colleague of x, quest companion of x"], 
+      ["Zhao Luoyi", "employer of x"], 
+      ["Ren (Master REN)", "acquaintance of x, helper of x"], 
+      ["Yue Laiju", "helper of x, saviour of x"], 
+      ["Huaizi Li", "adversary of x, suspected by x"], 
+      ["Yu Yichen", "informant of x, helper of x"]
+    ],
+    "Fang Shuangji": [
+      ["Guo Wangshan", "employer of x, deceiver of x"], 
+      ["SHUANG MIAN Hu", "employer of x, manipulator of x"], 
+      ["Master Zhao (Zhao Wanlei)", "employee of x, suspected by x"], 
+      ["Qi Yue", "informant of x, information receiver from x, suspicious of x"], 
+      ["Yin Shaoming", "cousin of x, servant of x"], 
+      ["Zhao Luoyi", "servant of x"], 
+      ["Yue Laiju", "quest companion of x, informant of x"], 
+      ["Yu Yichen", "employee of x, son in law of x"]
+    ],
+    "Yin Shaoming": [
+      ["Guo Wangshan", "quest companion of x, crime partner of x"], 
+      ["SHUANG MIAN Hu", "colleague of x, quest companion of x"], 
+      ["Master Zhao (Zhao Wanlei)", "employee of x, employer of x"], 
+      ["Fang Shuangji", "cousin of x, son of x"], 
+      ["Qi Yue", "information receiver from x, adversary of x"], 
+      ["Zhao Luoyi", "employee of x"], 
+      ["Ren (Master REN)", "business partner of x, customer of x"], 
+      ["Yue Laiju", "business partner of x, employee of x"], 
+      ["Huaizi Li", "crime partner of x, acquaintance of x"], 
+      ["Yu Yichen", "business partner of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Guo Wangshan", "quest companion of x, suspect to x"], 
+      ["SHUANG MIAN Hu", "employee of x"], 
+      ["Master Zhao (Zhao Wanlei)", "daughter of x"], 
+      ["Fang Shuangji", "employer of x"], 
+      ["Yin Shaoming", "employee of x"], 
+      ["Ren (Master REN)", "fondness of x, possibly family of x"], 
+      ["Yue Laiju", "colleague of x, business partner of x"], 
+      ["Huaizi Li", "acquaintance of x, rebellion against x"]
+    ],
+    "Ren (Master REN)": [
+      ["Guo Wangshan", "business partner of x, acquaintance of x"], 
+      ["SHUANG MIAN Hu", "acquaintance of x, helped by x"], 
+      ["Master Zhao (Zhao Wanlei)", "employer of x, master of x"], 
+      ["Qi Yue", "employer of x, host of x"], 
+      ["Yin Shaoming", "business partner of x, employer of x"], 
+      ["Zhao Luoyi", "admirer of x, possibly family of x"], 
+      ["Yue Laiju", "employee of x, acquaintance of x"], 
+      ["Huaizi Li", "business partner of x, helper of x"], 
+      ["Yu Yichen", "possibly family of x"]
+    ],
+    "Yue Laiju": [
+      ["Guo Wangshan", "acquaintance of x, colleague of x"], 
+      ["SHUANG MIAN Hu", "information receiver from x, acquaintance of x"], 
+      ["Master Zhao (Zhao Wanlei)", "helped by x, host of x"], 
+      ["Fang Shuangji", "quest companion of x, information receiver from x"], 
+      ["Qi Yue", "employer of x, master of x"], 
+      ["Yin Shaoming", "employer of x, business partner of x"], 
+      ["Zhao Luoyi", "colleague of x, business partner of x"], 
+      ["Ren (Master REN)", "employer of x, colleague of x"], 
+      ["Huaizi Li", "employer of x, deceiver of x"], 
+      ["Yu Yichen", "adversary of x, business partner of x"]
+    ],
+    "Huaizi Li": [
+      ["Guo Wangshan", "adversary of x, suspect of x"], 
+      ["SHUANG MIAN Hu", "adversary of x, in the lawsuit against x"], 
+      ["Master Zhao (Zhao Wanlei)", "employee of x, manipulator of x"], 
+      ["Qi Yue", "adversary of x, suspected by x"], 
+      ["Yin Shaoming", "crime partner of x, acquaintance of x"], 
+      ["Zhao Luoyi", "employer of x, employee of x"], 
+      ["Ren (Master REN)", "customer of x, friend of x"], 
+      ["Yue Laiju", "employee of x, deceived by x"], 
+      ["Yu Yichen", "business partner of x, student of x"]
+    ],
+    "Yu Yichen": [
+      ["Guo Wangshan", "quest companion of x, helper of x"], 
+      ["SHUANG MIAN Hu", "information receiver from x, helped by x"], 
+      ["Master Zhao (Zhao Wanlei)", "employee of x, manipulated by x"], 
+      ["Fang Shuangji", "employer of x, father in law of x"], 
+      ["Qi Yue", "manipulator of x, manipulated by x"], 
+      ["Yin Shaoming", "business partner of x"], 
+      ["Ren (Master REN)", "fiance of x"], 
+      ["Yue Laiju", "adversary of x, business partner of x"], 
+      ["Huaizi Li", "employer of x, teacher of x"]
+    ],
+    "Master Zhao (Zhao Wanlei)": [
+      ["SHUANG MIAN Hu", "suspected by x, adversary of x"], 
+      ["Fang Shuangji", "employer of x, suspicious of x"], 
+      ["Qi Yue", "guard of x, suspicious of x"], 
+      ["Yin Shaoming", "employer of x, employee of x"], 
+      ["Feng Shuangji", "suspected by x"], 
+      ["Ren (Master REN)", "employee of x, employee of x"], 
+      ["Yue Laiju", "helper of x, guest of x"], 
+      ["Huaizi Li", "employer of x, manipulated by x"], 
+      ["Yu Yichen", "employer of x, manipulator of x"]
+    ],
+    "Qi Yue": [
+      ["SHUANG MIAN Hu", "adversary of x, manipulator of x"], 
+      ["Master Zhao (Zhao Wanlei)", "employer of x, suspect of x"], 
+      ["Fang Shuangji", "informant of x, information receiver from x, suspicious of x"], 
+      ["Yin Shaoming", "informant of x, adversary of x"], 
+      ["Ren (Master REN)", "employee of x, guest of x"], 
+      ["Yue Laiju", "employee of x, helper of x"], 
+      ["Huaizi Li", "adversary of x"], 
+      ["Yu Yichen", "informant of x, information receiver from x"]
+    ]
+}

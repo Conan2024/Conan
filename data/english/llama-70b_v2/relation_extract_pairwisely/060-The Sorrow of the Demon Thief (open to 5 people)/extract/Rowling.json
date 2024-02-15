@@ -1,0 +1,23 @@
+{
+    "Assistant Ella": [
+      ["Thetrical Work David", "friend of x, gust's proposal target of x"], 
+      ["Logistics Griff", "friend of x, gust's intended proposal target of x"], 
+      ["Kevin Kevin", "friend of x"]
+    ],
+    "Thetrical Work David": [
+      ["Assistant Ella", "friend of x, interested in her of x"], 
+      ["Logistics Griff", "colleague of x, business partner of x"], 
+      ["Kevin Kevin", "suspicious of x, adversary of x"]
+    ],
+    "Logistics Griff": [
+      ["Assistant Ella", "employer of x, suspect in gust's murder of x"], 
+      ["Thetrical Work David", "colleague of x, business partner of x"], 
+      ["Kevin Kevin", "employer of x, master of x, superior of x"]
+    ],
+    "Kevin Kevin": [
+      ["brother", "instructed by you of x"], 
+      ["Assistant Ella", "friend of x"], 
+      ["Thetrical Work David", "suspicious of x, adversary of x"], 
+      ["Logistics Griff", "brother of x, sibling of x"]
+    ]
+}

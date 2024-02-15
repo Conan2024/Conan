@@ -1,0 +1,46 @@
+{
+    "Yu Junhong": [
+      ["Yu Beichen", "father of x"], 
+      ["Ren Zhongyuan", "grandfather of x"], 
+      ["Ren", "mother of x"], 
+      ["Yao Zhongyi", "friend of x"], 
+      ["Yao Mengren", "deceased brother of x"], 
+      ["Fang Chengshan", "acquaintance of x"], 
+      ["Yao Changshou", "acquaintance of x"], 
+      ["Lady Hong", "possible employer of x"]
+    ],
+    "Yu Beichen": [
+      ["Yu Junhong", "son of x"]
+    ],
+    "Ren": [
+      ["Yu Junhong", "son of x"]
+    ],
+    "Ren Zhongyuan": [
+      ["Yu Junhong", "grandson of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Yu Junhong", "friend of x"], 
+      ["Yao Mengren", "brother of x"], 
+      ["Yao Changshou", "son of x"], 
+      ["Lady Hong", "possible employer of x"]
+    ],
+    "Meng Shen": [
+      ["Yu Junhong", "father's friend of x"]
+    ],
+    "Fang Chengshan": [
+      ["Yu Junhong", "acquaintance of x"]
+    ],
+    "Yao Changshou": [
+      ["Yu Junhong", "acquaintance of x"], 
+      ["Yao Zhongyi", "father of x"], 
+      ["Lady Hong", "possible adversary of x"]
+    ],
+    "Lady Hong": [
+      ["Yu Junhong", "possible employer of x"], 
+      ["Yao Changshou", "possible adversary of x"], 
+      ["Yao Zhongyi", "possible employer of x"]
+    ],
+    "Yao Mengren": [
+      ["Yao Zhongyi", "deceased brother of x"]
+    ]
+}

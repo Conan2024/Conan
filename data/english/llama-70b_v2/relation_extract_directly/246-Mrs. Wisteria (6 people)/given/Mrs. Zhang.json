@@ -1,0 +1,39 @@
+{
+    "Mrs. Zhang": [
+      ["Zhi Jun", "niece of x, friend of x"], 
+      ["Yu Shangyong", "acquaintance of x, colleague of x"], 
+      ["Le Wan", "friend of x, drinking buddy of x"]
+    ],
+    "Zhi Jun": [
+      ["Mrs. Zhang", "niece of x, friend of x"], 
+      ["Yu Yancheng", "friend of x, confidant of x"]
+    ],
+    "Yu Shangyong": [
+      ["Mrs. Zhang", "acquaintance of x, colleague of x"], 
+      ["Yu Yancheng", "friend of x, confidant of x"], 
+      ["Le Wan", "friend of x, drinking buddy of x"]
+    ],
+    "Yu Yancheng": [
+      ["Zhi Jun", "friend of x, confidant of x"], 
+      ["Yu Shangyong", "friend of x, confidant of x"], 
+      ["Le Wan", "friend of x, drinking buddy of x"]
+    ],
+    "Ge Yueman": [
+      ["Yu Yancheng", "sister of x, deceased of x"], 
+      ["Mrs. Zhang", "friend of x, sympathizer of x"]
+    ],
+    "Ge Jixian": [
+      ["Ge Yueman", "sister of x, deceased of x"]
+    ],
+    "Lü Lusheng": [
+      ["Mrs. Zhang", "acquaintance of x, suspicious of x"], 
+      ["Lü Songnian", "brother of x, deceased of x"]
+    ],
+    "Lü Songnian": [
+      ["Lü Lusheng", "brother of x, deceased of x"]
+    ],
+    "Zhang Junshi": [
+      ["Mrs. Zhang", "husband of x, love interest of x"], 
+      ["Yu Yancheng", "friend of x, colleague of x"]
+    ]
+}

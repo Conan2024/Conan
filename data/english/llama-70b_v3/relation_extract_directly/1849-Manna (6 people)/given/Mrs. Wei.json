@@ -1,0 +1,69 @@
+{
+    "Mrs. Wei": [
+      ["Tan Renchang", "husband of x"], 
+      ["Mingsha", "wife of x"], 
+      ["Xinya", "friend of x"], 
+      ["Luo Hengli", "employer of x"], 
+      ["Hai You", "daughter of x"]
+    ],
+    "Tan Renchang": [
+      ["Mrs. Wei", "wife of x"], 
+      ["Mingsha", "wife of x"], 
+      ["Xinya", "friend of x"], 
+      ["Luo Hengli", "employer of x"]
+    ],
+    "Mingsha": [
+      ["Mrs. Wei", "wife of x"], 
+      ["Tan Renchang", "husband of x"], 
+      ["Xinya", "friend of x"], 
+      ["Luo Hengli", "employer of x"]
+    ],
+    "Xinya": [
+      ["Mrs. Wei", "friend of x"], 
+      ["Tan Renchang", "friend of x"], 
+      ["Mingsha", "friend of x"], 
+      ["Luo Hengli", "employer of x"]
+    ],
+    "Luo Hengli": [
+      ["Mrs. Wei", "employer of x"], 
+      ["Tan Renchang", "employer of x"], 
+      ["Mingsha", "employer of x"], 
+      ["Xinya", "employer of x"]
+    ],
+    "Hai You": [
+      ["Mrs. Wei", "daughter of x"], 
+      ["Tan Renchang", "daughter of x"], 
+      ["Mingsha", "daughter of x"], 
+      ["Xinya", "daughter of x"]
+    ],
+    "Shang Zhi": [
+      ["Mrs. Wei", "nephew of x"], 
+      ["Tan Renchang", "nephew of x"], 
+      ["Mingsha", "nephew of x"], 
+      ["Xinya", "nephew of x"]
+    ],
+    "Cheng Ge": [
+      ["Mingsha", "same person as x (different reference)"], 
+      ["Tan Renchang", "same person as x (different reference)"]
+    ],
+    "Lv Mingran": [
+      ["Mrs. Wei", "brother of x"], 
+      ["Tan Renchang", "brother of x"], 
+      ["Mingsha", "brother of x"], 
+      ["Xinya", "brother of x"]
+    ],
+    "Lv Caiqian": [
+      ["Mrs. Wei", "sister of x"], 
+      ["Tan Renchang", "sister of x"], 
+      ["Mingsha", "sister of x"], 
+      ["Xinya", "sister of x"]
+    ],
+    "A Ping": [
+      ["Mingsha", "employee of x"], 
+      ["Xinya", "employee of x"]
+    ],
+    "Liao Gongzi": [
+      ["Shang Zhi", "friend of x"], 
+      ["Mingsha", "friend of x"]
+    ]
+}

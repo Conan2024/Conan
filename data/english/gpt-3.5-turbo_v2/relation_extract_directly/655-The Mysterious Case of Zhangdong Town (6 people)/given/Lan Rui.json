@@ -1,0 +1,63 @@
+{
+    "Lan Rui": [
+      ["Zhang Fanghao", "father of x, replaced x's identity"], 
+      ["Zhang Shanren", "father of x, replaced x's identity"], 
+      ["Ms. Yao", "mother of x"], 
+      ["Xiting", "ex romantic relationships with x"], 
+      ["Mu Xiting", "friend of x"], 
+      ["Gu Chumeng", "unknown relationship of x"], 
+      ["Mu Boxuan", "unknown relationship of x"], 
+      ["Xinger", "unknown relationship of x"], 
+      ["Yang Shuixun", "mentor of x, swown brother of x, friend of x"], 
+      ["Shen Wusheng", "informant of x, helper of x, quest companion of x"], 
+      ["Minxi", "friend of x, romantic relationships with x"]
+    ],
+    "Zhang Fanghao": [
+      ["Lan Rui", "daughter of x, replaced x's identity"], 
+      ["Yang Shuixun", "friend of x"], 
+      ["Uncle Yu", "unknown relationship of x"]
+    ],
+    "Zhang Shanren": [
+      ["Lan Rui", "father of x, replaced x's identity"]
+    ],
+    "Ms. Yao": [
+      ["Lan Rui", "daughter of x"]
+    ],
+    "Xiting": [
+      ["Lan Rui", "ex romantic relationships with x"], 
+      ["Mu Xiting", "friend of x"], 
+      ["Xinger", "unknown relationship of x"], 
+      ["Minxi", "friend of x, romantic relationships with x"]
+    ],
+    "Mu Xiting": [
+      ["Lan Rui", "friend of x"], 
+      ["Xiting", "friend of x"], 
+      ["Xinger", "unknown relationship of x"], 
+      ["Minxi", "friend of x, romantic relationships with x"]
+    ],
+    "Gu Chumeng": [
+      ["Xiting", "unknown relationship of x"]
+    ],
+    "Mu Boxuan": [
+      ["Xiting", "unknown relationship of x"]
+    ],
+    "Xinger": [
+      ["Xiting", "unknown relationship of x"], 
+      ["Mu Xiting", "unknown relationship of x"]
+    ],
+    "Yang Shuixun": [
+      ["Zhang Fanghao", "friend of x"], 
+      ["Lan Rui", "mentor of x, swown brother of x, friend of x"], 
+      ["Shen Wusheng", "informant of x, helper of x, quest companion of x"], 
+      ["Minxi", "daughter of x, romantic relationships with x"]
+    ],
+    "Shen Wusheng": [
+      ["Lan Rui", "informant of x, helper of x, quest companion of x"], 
+      ["Yang Shuixun", "informant of x, helper of x, quest companion of x"]
+    ],
+    "Minxi": [
+      ["Lan Rui", "friend of x, romantic relationships with x"], 
+      ["Xiting", "friend of x, romantic relationships with x"], 
+      ["Yang Shuixun", "daughter of x, romantic relationships with x"]
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Du Zhong": [
+      ["Ling Xiao", "master disciple of x, suspicious acquaintance of x"], 
+      ["Lover", "rival of x, suspect of x, enemy of x"], 
+      ["Lu Ying", "master of x, teacher of x, superior of x"], 
+      ["Xuan Can", "master disciple of x, suspicious of x"], 
+      ["Zi Su", "master of x, mentor of x, teacher of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x"]
+    ],
+    "Ling Xiao": [
+      ["Du Zhong", "disciple master of x, suspicious acquaintance of x"], 
+      ["Lover", "friend of x, mentor of x, teacher of x, master of x"], 
+      ["Lu Ying", "master of x, suspect of x"], 
+      ["Zi Su", "acquaintance of x, colleague of x"]
+    ],
+    "Lover": [
+      ["Du Zhong", "rival of x, suspect of x, enemy of x"], 
+      ["Ling Xiao", "friend of x, mentor of x, teacher of x, master of x"], 
+      ["Lu Ying", "romantic relationships of x, extramarital affair"], 
+      ["Xuan Can", "romantic relationships with x"], 
+      ["Zi Su", "romantic relationships with x"]
+    ],
+    "Lu Ying": [
+      ["Du Zhong", "big disciple of x, first disciple of x, respectful to of x"], 
+      ["Ling Xiao", "disciple of x, suspicious of x"], 
+      ["Lover", "romantic relationships of x, extramarital affair, suspicious of x"], 
+      ["Xuan Can", "same person as x (different reference), same person as x (different identity)"], 
+      ["Zi Su", "friend of x, colleague of x"]
+    ],
+    "Xuan Can": [
+      ["Du Zhong", "disciple master of x, suspect of x"], 
+      ["Lover", "romantic relationships with x"], 
+      ["Lu Ying", "same person as x (different reference), same person as x (different identity)"], 
+      ["Zi Su", "same person as x (different reference), same person as x (different identity)"]
+    ],
+    "Zi Su": [
+      ["Du Zhong", "disciple of x, student of x, informant of x, information receiver from of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by of x, perpetrator of x, bully of x, murderer of x"], 
+      ["Ling Xiao", "acquaintance of x, colleague of x"], 
+      ["Lover", "romantic relationships with x"], 
+      ["Lu Ying", "friend of x, colleague of x"], 
+      ["Xuan Can", "same person as x (different reference), same person as x (different identity)"]
+    ]
+}

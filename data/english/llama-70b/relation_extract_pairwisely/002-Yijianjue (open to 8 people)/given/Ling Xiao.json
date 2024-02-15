@@ -1,0 +1,88 @@
+{
+    "Eldest Senior Brother": [
+        [
+            "Feng",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Ling Xiao",
+            "Rival, Enemy"
+        ],
+        [
+            "Master",
+            "Acquaintance",
+            "Colleague"
+        ]
+    ],
+    "Feng": [
+        [
+            "Eldest Senior Brother",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Ling Xiao",
+            "acquaintance",
+            "business partner",
+            "colleague",
+            "helper",
+            "informant",
+            "mentor",
+            "perpetrator",
+            "rival",
+            "suspect",
+            "victim"
+        ],
+        [
+            "Master",
+            "Informant of X",
+            "Helped by X"
+        ]
+    ],
+    "Ling Xiao": [
+        [
+            "Eldest Senior Brother",
+            "Rival, Enemy"
+        ],
+        [
+            "Feng",
+            "acquaintance",
+            "business partner",
+            "colleague",
+            "helper",
+            "informant",
+            "mentor",
+            "perpetrator",
+            "rival",
+            "suspect",
+            "victim"
+        ],
+        [
+            "Master",
+            "Colleague",
+            "Employee",
+            "Servant",
+            "Business Partner"
+        ]
+    ],
+    "Master": [
+        [
+            "Eldest Senior Brother",
+            "Teacher",
+            "Mentor"
+        ],
+        [
+            "Feng",
+            "Employer of X",
+            "Superior of X"
+        ],
+        [
+            "Ling Xiao",
+            "Teacher",
+            "Employer",
+            "Superior",
+            "Mentor"
+        ]
+    ]
+}

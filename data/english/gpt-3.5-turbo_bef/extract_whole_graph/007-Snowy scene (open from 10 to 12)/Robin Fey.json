@@ -1,0 +1,39 @@
+{
+    "Robin Fey": [
+      ["Perry Family", "friend of x"], 
+      ["Daniel Perry", "friend of x"], 
+      ["Marina Perry", "disliked by x"], 
+      ["Harrison Perry", "disliked by x"], 
+      ["Jonathan Perry", "acquaintance of x"], 
+      ["Harold Harrison", "acquaintance of x"], 
+      ["Jacqueline Perry", "disliked by x"]
+    ],
+    "Daniel Perry": [
+      ["Robin Fey", "friend of x"]
+    ],
+    "Marina Perry": [
+      ["Robin Fey", "disliked by x"], 
+      ["Jacqueline Perry", "rival in love of x"], 
+      ["Lucy Harrison", "mother of x"]
+    ],
+    "Harrison Perry": [
+      ["Robin Fey", "disliked by x"]
+    ],
+    "Jonathan Perry": [
+      ["Robin Fey", "acquaintance of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Robin Fey", "disliked by x"], 
+      ["Marina Perry", "rival in love of x"], 
+      ["Lucy Harrison", "sibling of x"]
+    ],
+    "Harold Harrison": [
+      ["Robin Fey", "acquaintance of x"], 
+      ["Lucy Harrison", "father of x"]
+    ],
+    "Lucy Harrison": [
+      ["Marina Perry", "mother of x"], 
+      ["Jacqueline Perry", "sibling of x"], 
+      ["Harold Harrison", "son of x"]
+    ]
+}

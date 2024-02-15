@@ -1,0 +1,58 @@
+{
+    "Frank Bijeli": [
+        [
+            "Tony",
+            "older brother of x, deceiver of x, quest companion of x, helper of x, patient of x"
+        ],
+        [
+            "Drake Li Morette",
+            "suspected by x, suspect of x, secret admirer of x"
+        ],
+        [
+            "Father Tom",
+            "helper of x, deceiver of x, employee of x, saviour of x"
+        ]
+    ],
+    "Tony": [
+        [
+            "Frank Bijeli",
+            "younger brother of x, admired by x, victim of x, helped by x"
+        ],
+        [
+            "Drake Li Morette",
+            "sibling of x"
+        ],
+        [
+            "Father Tom",
+            "sibling of x, admired by x"
+        ]
+    ],
+    "Drake Li Morette": [
+        [
+            "Frank Bijeli",
+            "suspect to x, suspicious of x, admirer of x"
+        ],
+        [
+            "Tony",
+            "sibling of x"
+        ],
+        [
+            "Father Tom",
+            "deceiver of x, accomplice in deception, information receiver from x"
+        ]
+    ],
+    "Father Tom": [
+        [
+            "Frank Bijeli",
+            "employer of x, deceiver of x, helped by x"
+        ],
+        [
+            "Tony",
+            "deceiver of x, information receiver from x"
+        ],
+        [
+            "Drake Li Morette",
+            "employee of x, accomplice in deception, information provider to x"
+        ]
+    ]
+}

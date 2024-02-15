@@ -1,0 +1,64 @@
+{
+    "Li Luoming": [
+      ["Li Zicai", "father of x"], 
+      ["Yu Zu Chengmu", "uncle of x"], 
+      ["Xia Sanhu", "adversary of x"], 
+      ["Xia Zhongpeng", "acquaintance of x"], 
+      ["Xia Shue", "mentor of x"]
+    ],
+    "Aming": [
+      ["Li Zicai", "father of x"], 
+      ["Yu Zu Chengmu", "uncle of x"], 
+      ["Xia Sanhu", "adversary of x"], 
+      ["Xia Zhongpeng", "acquaintance of x"], 
+      ["Xia Shue", "mentor of x"], 
+      ["Wu Baian", "murderer of x"]
+    ],
+    "Luo Ming": [
+      ["Li Zicai", "father of x"], 
+      ["Yu Zu Chengmu", "uncle of x"], 
+      ["Xia Sanhu", "adversary of x"], 
+      ["Xia Zhongpeng", "acquaintance of x"], 
+      ["Xia Shue", "mentor of x"]
+    ],
+    "Li Zicai": [
+      ["Li Luo Ming", "child of x"], 
+      ["Aming", "father of x"], 
+      ["Yu Zu Chengmu", "brother in law of x"]
+    ],
+    "Li Zijun": [
+      ["Aming", "uncle of x"]
+    ],
+    "Yu Zu Chengmu": [
+      ["Li Luo Ming", "friend of x"], 
+      ["Aming", "friend of x"], 
+      ["Li Zicai", "brother in law of x"]
+    ],
+    "Xia Bolong": [
+      ["Xia Shue", "father of x"]
+    ],
+    "Xia Zhongpeng": [
+      ["Xia Sanhu", "brother of x"], 
+      ["Xia Shue", "acquaintance of x"], 
+      ["Aming", "acquaintance of x"]
+    ],
+    "Xia Sanhu": [
+      ["Xia Zhongpeng", "brother of x"], 
+      ["Aming", "adversary of x"], 
+      ["Li Zicai", "adversary of x"], 
+      ["Xia Shue", "acquaintance of x"], 
+      ["Wu Baian", "victim of x"]
+    ],
+    "Xia Shue": [
+      ["Xia Bolong", "daughter of x"], 
+      ["Xia Zhongpeng", "acquaintance of x"], 
+      ["Xia Sanhu", "acquaintance of x"], 
+      ["Aming", "mentor of x"]
+    ],
+    "Duan Yuetong": [
+      ["Xia Sanhu", "informant of x"]
+    ],
+    "Wu Baian": [
+      ["Aming", "murderer of x"]
+    ]
+}

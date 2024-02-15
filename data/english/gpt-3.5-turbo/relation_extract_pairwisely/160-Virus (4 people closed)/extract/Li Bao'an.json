@@ -1,0 +1,148 @@
+{
+    "Li Bao'an": [
+        [
+            "Tian Zhuli",
+            "employee of x"
+        ],
+        [
+            "Professor JIA",
+            "colleague of x",
+            "business partner of x"
+        ],
+        [
+            "girl dressed as a student",
+            "informant of girl dressed as a student"
+        ],
+        [
+            "Sun Qingjie",
+            "friend of x",
+            "helper of x"
+        ],
+        [
+            "Qin OU",
+            "suspicious of x",
+            "information receiver from x"
+        ]
+    ],
+    "Tian Zhuli": [
+        [
+            "Li Bao'an",
+            "employer of x"
+        ],
+        [
+            "Professor JIA",
+            "co-worker"
+        ],
+        [
+            "girl dressed as a student",
+            "extramarital affair with x"
+        ],
+        [
+            "Sun Qingjie",
+            "friend of x"
+        ],
+        [
+            "Qin OU",
+            "extramarital affair with x",
+            "dislike of x"
+        ]
+    ],
+    "Professor JIA": [
+        [
+            "Li Bao'an",
+            "colleague of x",
+            "business partner of x"
+        ],
+        [
+            "Tian Zhuli",
+            "assistant"
+        ],
+        [
+            "girl dressed as a student",
+            "romantic relationships with girl dressed as a student",
+            "lover of girl dressed as a student"
+        ],
+        [
+            "Sun Qingjie",
+            "friend of x",
+            "colleague of x"
+        ],
+        [
+            "Qin OU",
+            "romantic relationship with x",
+            "colleague of x"
+        ]
+    ],
+    "girl dressed as a student": [
+        [
+            "Li Bao'an",
+            "information receiver from Li Bao'an"
+        ],
+        [
+            "Tian Zhuli",
+            "extramarital affair with x"
+        ],
+        [
+            "Professor JIA",
+            "romantic relationships with Professor JIA",
+            "lover of Professor JIA"
+        ],
+        [
+            "Sun Qingjie",
+            "student of x"
+        ],
+        [
+            "Qin OU",
+            "student of Qin OU"
+        ]
+    ],
+    "Sun Qingjie": [
+        [
+            "Li Bao'an",
+            "friend of x",
+            "helper of x"
+        ],
+        [
+            "Tian Zhuli",
+            "friend of x"
+        ],
+        [
+            "Professor JIA",
+            "friend of x",
+            "colleague of x"
+        ],
+        [
+            "girl dressed as a student",
+            "friend of x"
+        ],
+        [
+            "Qin OU",
+            "friend of x"
+        ]
+    ],
+    "Qin OU": [
+        [
+            "Li Bao'an",
+            "subject of investigation for x",
+            "helper of x"
+        ],
+        [
+            "Tian Zhuli",
+            "extramarital affair with x",
+            "dislike of x"
+        ],
+        [
+            "Professor JIA",
+            "romantic relationship with x",
+            "colleague of x"
+        ],
+        [
+            "girl dressed as a student",
+            "student of Qin OU"
+        ],
+        [
+            "Sun Qingjie",
+            "friend of x"
+        ]
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "Xue Meiniang": [
+      ["middle-aged woman", "saviour of x"], 
+      ["Yu Zhen", "saviour of x"], 
+      ["Qin Laoda", "student of x"], 
+      ["Zheng Youhao", "classmate of x"], 
+      ["Wei Xiaodi", "classmate of x"], 
+      ["Xiao Tiyu", "romantic relationships with x"], 
+      ["JIA Meili", "student of x"]
+    ],
+    "middle-aged woman": [
+      ["Yu Zhen", "saviour of x"]
+    ],
+    "Yu Zhen": [
+      ["Xue Meiniang", "saviour of x"], 
+      ["middle-aged woman", "saviour of x"]
+    ],
+    "Qin Laoda": [
+      ["Xue Meiniang", "romantic relationships with x"], 
+      ["Zheng Youhao", "classmate of x"], 
+      ["Wei Xiaodi", "classmate of x"], 
+      ["Xiao Tiyu", "hate of x"], 
+      ["Mrs. Qin", "mother of x"]
+    ],
+    "Zheng Youhao": [
+      ["Xue Meiniang", "classmate of x"], 
+      ["Qin Laoda", "classmate of x"], 
+      ["Wei Xiaodi", "classmate of x"]
+    ],
+    "Wei Xiaodi": [
+      ["Xue Meiniang", "classmate of x"], 
+      ["Qin Laoda", "classmate of x"], 
+      ["Zheng Youhao", "classmate of x"]
+    ],
+    "Xiao Tiyu": [
+      ["Xue Meiniang", "romantic relationships with x"], 
+      ["Qin Laoda", "hate of x"]
+    ],
+    "Mrs. Qin": [
+      ["Qin Laoda", "mother of x"]
+    ],
+    "JIA Meili": [
+      ["Xue Meiniang", "student of x"]
+    ]
+}

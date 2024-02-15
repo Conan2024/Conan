@@ -1,0 +1,96 @@
+{
+    "He Laoliu": [
+        [
+            "Li Guofu",
+            "Acquaintance, Suspect"
+        ],
+        [
+            "Mu Bei",
+            "Suspect of X",
+            "Adversary of X"
+        ],
+        [
+            "Neighbor Wang",
+            "Acquaintance, Suspect"
+        ],
+        [
+            "Zhang Jie",
+            "Acquaintance, Suspect"
+        ]
+    ],
+    "Li Guofu": [
+        [
+            "He Laoliu",
+            "Acquaintance, Suspect"
+        ],
+        [
+            "Mu Bei",
+            "Adversary,Rival"
+        ],
+        [
+            "Neighbor Wang",
+            "Adversary, Enemy"
+        ],
+        [
+            "Zhang Jie",
+            "Adversary, Rival"
+        ]
+    ],
+    "Mu Bei": [
+        [
+            "He Laoliu",
+            "Suspect of X",
+            "Adversary of X"
+        ],
+        [
+            "Li Guofu",
+            "Adversary,Rival"
+        ],
+        [
+            "Neighbor Wang",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Zhang Jie",
+            "Neighbor, Suspect"
+        ]
+    ],
+    "Neighbor Wang": [
+        [
+            "He Laoliu",
+            "Acquaintance, Victim"
+        ],
+        [
+            "Li Guofu",
+            "Adversary, Enemy"
+        ],
+        [
+            "Mu Bei",
+            "Acquaintance",
+            "Business Partner"
+        ],
+        [
+            "Zhang Jie",
+            "Acquaintance, Suspect"
+        ]
+    ],
+    "Zhang Jie": [
+        [
+            "He Laoliu",
+            "Acquaintance, Suspect"
+        ],
+        [
+            "Li Guofu",
+            "Adversary, Rival"
+        ],
+        [
+            "Mu Bei",
+            "Neighbor, Suspect"
+        ],
+        [
+            "Neighbor Wang",
+            "Acquaintance, Suspect"
+        ]
+    ]
+}

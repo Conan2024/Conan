@@ -1,0 +1,32 @@
+{
+    "Boss Yang": [
+      ["First Mate Zhang", "acquaintance of x, business partner of x"], 
+      ["Ship Doctor Ling", "employer of x, master of x"], 
+      ["Shipyard Worker Wang", "employer of x, master of x, superior of x, business partner of x"], 
+      ["Worker Wang", "employer of x, master of x, superior of x"]
+    ],
+    "First Mate Zhang": [
+      ["Boss Yang", "acquaintance of x, business partner of x"], 
+      ["Ship Doctor Ling", "son in law of x, business partner of x"], 
+      ["Shipyard Worker Wang", "superior of x, business partner of x"], 
+      ["Worker Wang", "same person as x (different reference), same person as x (different identity)"]
+    ],
+    "Ship Doctor Ling": [
+      ["Boss Yang", "employee of x, subordinate of x"], 
+      ["First Mate Zhang", "daughter in law of x, colleague of x"], 
+      ["Shipyard Worker Wang", "son in law of x, informant of x"], 
+      ["Worker Wang", "son in law of x, friend of x"]
+    ],
+    "Shipyard Worker Wang": [
+      ["Boss Yang", "employee of x, subordinate of x, helped by x, manipulated by x"], 
+      ["First Mate Zhang", "subordinate of x, employee of x"], 
+      ["Ship Doctor Ling", "father in law of x, acquaintance of x"], 
+      ["Worker Wang", "son of x, father of x, informant of x, adversary of x, enemy of x, rival of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x"]
+    ],
+    "Worker Wang": [
+      ["Boss Yang", "employee of x, subordinate of x"], 
+      ["First Mate Zhang", "father of x, mentor of x, teacher of x, student of x, informant of x, acquaintance of x, colleague of x, business partner of x, customer of x"], 
+      ["Ship Doctor Ling", "father in law of x, friend of x"], 
+      ["Shipyard Worker Wang", "son of x, father of x, informant of x, adversary of x, enemy of x, rival of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x"]
+    ]
+}

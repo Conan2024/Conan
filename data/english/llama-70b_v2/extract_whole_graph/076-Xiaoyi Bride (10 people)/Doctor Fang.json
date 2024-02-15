@@ -1,0 +1,46 @@
+{
+    "Doctor Fang": [
+      ["Yao Changshou", "colleague of x, acquaintance of x"], 
+      ["Fang ChenGshan", "father of x, deceased of x"], 
+      ["Yao Zhongyi", "acquaintance of x, friend of x"], 
+      ["Mysterious Man", "acquaintance of x, adversary of x"], 
+      ["Steward Du", "teacher of x, mentor of x"], 
+      ["Zhang Yadi", "acquaintance of x, friend of x"], 
+      ["Zhang Decai", "acquaintance of x, friend of x"], 
+      ["Tian Hongjiao", "cousin of x"]
+    ],
+    "Fang ChenGshan": [
+      ["Doctor Fang", "son of x, deceased of x"], 
+      ["Yao Changshou", "colleague of x, friend of x"], 
+      ["Steward Du", "employer of x"]
+    ],
+    "Yao Changshou": [
+      ["Doctor Fang", "colleague of x, acquaintance of x"], 
+      ["Fang ChenGshan", "colleague of x, friend of x"], 
+      ["Yao Zhongyi", "son of x"], 
+      ["Mysterious Man", "acquaintance of x, adversary of x"], 
+      ["Steward Du", "employer of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Yao Changshou", "father of x"], 
+      ["Doctor Fang", "acquaintance of x"], 
+      ["Mysterious Man", "acquaintance of x, adversary of x"]
+    ],
+    "Mysterious Man": [
+      ["Yao Changshou", "acquaintance of x, adversary of x"], 
+      ["Doctor Fang", "acquaintance of x"]
+    ],
+    "Steward Du": [
+      ["Doctor Fang", "teacher of x, mentor of x"], 
+      ["Yao Changshou", "employer of x"]
+    ],
+    "Zhang Yadi": [
+      ["Doctor Fang", "acquaintance of x, friend of x"]
+    ],
+    "Zhang Decai": [
+      ["Doctor Fang", "acquaintance of x, friend of x"]
+    ],
+    "Tian Hongjiao": [
+      ["Doctor Fang", "cousin of x"]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Joe Robertson": [
+      ["Max Jones", "friend of x"], 
+      ["Interpol", "colleague of x"], 
+      ["Sleer & Leech", "business partner of x"], 
+      ["Max Jones", "romantic relationships with x"], 
+      ["Max Jones", "suspected by x"], 
+      ["Daniel Perry", "acquaintance of x"], 
+      ["John Morgan", "victim of x"]
+    ],
+    "Interpol": [
+      ["Joe Robertson", "colleague of x"]
+    ],
+    "Sleer & Leech": [
+      ["Joe Robertson", "business partner of x"]
+    ],
+    "Max Jones": [
+      ["Joe Robertson", "friend of x"], 
+      ["Joe Robertson", "romantic relationships with x"], 
+      ["Joe Robertson", "suspected by x"], 
+      ["John Morgan", "perpetrator of x"]
+    ],
+    "Daniel Perry": [
+      ["Joe Robertson", "acquaintance of x"]
+    ],
+    "John Morgan": [
+      ["Joe Robertson", "victim of x"]
+    ]
+}

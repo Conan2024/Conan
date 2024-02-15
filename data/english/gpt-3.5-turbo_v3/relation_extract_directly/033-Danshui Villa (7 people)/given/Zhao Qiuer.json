@@ -1,0 +1,80 @@
+{
+    "Zhao Qiuer": [
+        [
+            "Zhao Luoyi",
+            "servant of x, mentor of x, friend of x, guard of x"
+        ],
+        [
+            "Zhao Wanlei",
+            "saviour of x, attempted perpetrator of x"
+        ],
+        [
+            "Feng Shuangji",
+            "jealous of x"
+        ],
+        [
+            "Qi Yue",
+            "jealous of x"
+        ]
+    ],
+    "Zhao Luoyi": [
+        [
+            "Zhao Qiuer",
+            "employer of x, mentor of x, friend of x, saviour of x"
+        ],
+        [
+            "Zhao Wanlei",
+            "guard of x, guard of x"
+        ],
+        [
+            "Qi Yue",
+            "jealous of x"
+        ]
+    ],
+    "Zhao Wanlei": [
+        [
+            "Zhao Qiuer",
+            "saviour of x, attempted perpetrator of x"
+        ],
+        [
+            "Zhao Luoyi",
+            "guard of x, guard of x"
+        ],
+        [
+            "Feng Shuangji",
+            "colleague of x"
+        ],
+        [
+            "Qi Yue",
+            "colleague of x, friend of x"
+        ]
+    ],
+    "Feng Shuangji": [
+        [
+            "Zhao Qiuer",
+            "superior of x, superior of x"
+        ],
+        [
+            "Zhao Wanlei",
+            "colleague of x"
+        ],
+        [
+            "Qi Yue",
+            "colleague of x"
+        ]
+    ],
+    "Qi Yue": [
+        [
+            "Zhao Qiuer",
+            "superior of x, superior of x"
+        ],
+        [
+            "Zhao Luoyi",
+            "jealous of x, colleague of x, friend of x"
+        ],
+        [
+            "Zhao Wanlei",
+            "colleague of x, friend of x"
+        ]
+    ]
+}

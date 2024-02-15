@@ -1,0 +1,56 @@
+{
+    "Liao Xuehan": [
+      ["Liao Yiqiao", "parent of x"], 
+      ["Dr. Zhang", "informant of x"], 
+      ["Julie", "informant of x"], 
+      ["Hai You", "inmate of x julie orphanage"], 
+      ["Luo Hengli", "debtor of x"], 
+      ["Lv Mingran", "debtor of x"], 
+      ["Tan Shangzhi", "secret trust beneficiary of x tan renchang"], 
+      ["Tan Renchang", "sibling of x tan shangzhi"], 
+      ["Mrs. Wei", "suspicious of x"], 
+      ["Cheng Ge", "inmate of x julie orphanage"], 
+      ["A Ping", "personal maid of x mrs, tan of x"]
+    ],
+    "Liao Yiqiao": [
+      ["Liao Xuehan", "child of x"]
+    ],
+    "Dr. Zhang": [
+      ["Liao Xuehan", "information receiver from of x"]
+    ],
+    "Julie": [
+      ["Liao Xuehan", "information receiver from of x"], 
+      ["Hai You", "takes care of x"], 
+      ["Cheng Ge", "adopts of x"]
+    ],
+    "Hai You": [
+      ["Julie", "taken care of x x by"], 
+      ["Cheng Ge", "inmate of x julie orphanage"]
+    ],
+    "Luo Hengli": [
+      ["Liao Xuehan", "debtor of x"], 
+      ["Lv Mingran", "brother in law of x"]
+    ],
+    "Lv Mingran": [
+      ["Liao Xuehan", "debtor of x"], 
+      ["Luo Hengli", "brother in law of x"]
+    ],
+    "Tan Shangzhi": [
+      ["Liao Xuehan", "secret trust beneficiary of x tan renchang"], 
+      ["Tan Renchang", "sibling of x"]
+    ],
+    "Tan Renchang": [
+      ["Liao Xuehan", "secret trust beneficiary of x tan shangzhi"], 
+      ["Tan Shangzhi", "sibling of x"]
+    ],
+    "Mrs. Wei": [
+      ["Liao Xuehan", "suspicious of x"]
+    ],
+    "Cheng Ge": [
+      ["Liao Xuehan", "inmate of x julie orphanage"], 
+      ["Julie", "adopted by of x"]
+    ],
+    "A Ping": [
+      ["Liao Xuehan", "personal maid of x mrs, tan of x"]
+    ]
+}

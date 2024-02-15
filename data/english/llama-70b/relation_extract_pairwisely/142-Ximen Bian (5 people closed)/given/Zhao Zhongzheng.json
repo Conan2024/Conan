@@ -1,0 +1,64 @@
+{
+    "Chen Meier": [
+        [
+            "Zhao Zhongyang",
+            "Wife of X",
+            "Romantic relationships with X"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "Same person as X (different reference)",
+            "Romantic relationships with X",
+            "Ex-romantic relationships with X"
+        ]
+    ],
+    "Zhao Zhongyang": [
+        [
+            "Chen Meier",
+            "Husband of X",
+            "Romantic relationships with X"
+        ],
+        [
+            "Li Cheng",
+            "Friend, Informant"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "brother, rival"
+        ]
+    ],
+    "Zhao Zhongzheng": [
+        [
+            "Chen Meier",
+            "Same person as X (different reference)",
+            "Romantic relationships with X",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "Li Cheng",
+            "acquaintance",
+            "suspicious of",
+            "adversary",
+            "enemy",
+            "attempted murderer"
+        ],
+        [
+            "Zhao Zhongyang",
+            "brother, enemy"
+        ]
+    ],
+    "Li Cheng": [
+        [
+            "Zhao Zhongyang",
+            "Friend, Informant"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "acquaintance",
+            "suspicious of",
+            "adversary",
+            "enemy",
+            "attempted murderer"
+        ]
+    ]
+}

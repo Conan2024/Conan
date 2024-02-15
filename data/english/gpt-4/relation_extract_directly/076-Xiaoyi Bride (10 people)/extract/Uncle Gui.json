@@ -1,0 +1,246 @@
+{
+    "DU Guicheng": [
+        [
+            "Father of DU Guicheng (implicitly mentioned as Du Huixin)",
+            "father of DU Guicheng"
+        ],
+        [
+            "Wife of DU Guicheng (implicitly mentioned)",
+            "wife of DU Guicheng"
+        ],
+        [
+            "Children of DU Guicheng (implicitly mentioned)",
+            "child of DU Guicheng"
+        ],
+        [
+            "Master Meng",
+            "employer of DU Guicheng"
+        ],
+        [
+            "Short-Haired Woman",
+            "stranger to DU Guicheng"
+        ],
+        [
+            "Young Man",
+            "stranger to DU Guicheng"
+        ],
+        [
+            "Long-Haired Girl",
+            "stranger to DU Guicheng"
+        ],
+        [
+            "Fair-Skinned Youth (Yao Zhongyi)",
+            "stranger to DU Guicheng"
+        ],
+        [
+            "Yao Zhongyi",
+            "stranger to DU Guicheng"
+        ],
+        [
+            "Physician Yu",
+            "helper of DU Guicheng"
+        ],
+        [
+            "Chen Junmeng",
+            "victim of DU Guicheng"
+        ],
+        [
+            "Yun Ling",
+            "stranger to DU Guicheng"
+        ],
+        [
+            "Lady Hong",
+            "stranger to DU Guicheng"
+        ],
+        [
+            "Yao Changshou",
+            "stranger to DU Guicheng"
+        ],
+        [
+            "Maid (implicitly mentioned)",
+            "stranger to DU Guicheng"
+        ],
+        [
+            "Fang Chenchenshan (implicitly mentioned)",
+            "acquaintance of DU Guicheng"
+        ]
+    ],
+    "Father of DU Guicheng (implicitly mentioned as Du Huixin)": [
+        [
+            "DU Guicheng",
+            "child of Father of DU Guicheng"
+        ],
+        [
+            "Master Meng",
+            "subordinate of Father of DU Guicheng"
+        ]
+    ],
+    "Master Meng": [
+        [
+            "Father of DU Guicheng (implicitly mentioned as Du Huixin)",
+            "superior of Master Meng"
+        ],
+        [
+            "DU Guicheng",
+            "superior of Master Meng"
+        ],
+        [
+            "Meng Family Owner (implicitly Master Meng)",
+            "same person as Master Meng (different identity)"
+        ]
+    ],
+    "Meng Family Owner (implicitly Master Meng)": [
+        [
+            "Master Meng",
+            "same person as Meng Family Owner (different identity)"
+        ]
+    ],
+    "Wife of DU Guicheng (implicitly mentioned)": [
+        [
+            "DU Guicheng",
+            "husband of Wife of DU Guicheng"
+        ],
+        [
+            "Children of DU Guicheng (implicitly mentioned)",
+            "mother of Children of DU Guicheng"
+        ]
+    ],
+    "Children of DU Guicheng (implicitly mentioned)": [
+        [
+            "DU Guicheng",
+            "father of Children of DU Guicheng"
+        ],
+        [
+            "Wife of DU Guicheng (implicitly mentioned)",
+            "child of Wife of DU Guicheng"
+        ]
+    ],
+    "Short-Haired Woman": [
+        [
+            "DU Guicheng",
+            "helper of Short-Haired Woman"
+        ],
+        [
+            "Young Man",
+            "acquaintance of Short-Haired Woman"
+        ],
+        [
+            "Long-Haired Girl",
+            "helper of Short-Haired Woman"
+        ],
+        [
+            "Yao Zhongyi",
+            "acquaintance of Short-Haired Woman"
+        ]
+    ],
+    "Young Man": [
+        [
+            "DU Guicheng",
+            "victim of Young Man"
+        ],
+        [
+            "Short-Haired Woman",
+            "acquaintance of Young Man"
+        ]
+    ],
+    "Long-Haired Girl": [
+        [
+            "DU Guicheng",
+            "victim of Long-Haired Girl"
+        ],
+        [
+            "Short-Haired Woman",
+            "acquaintance of Long-Haired Girl"
+        ]
+    ],
+    "Fair-Skinned Youth (Yao Zhongyi)": [
+        [
+            "DU Guicheng",
+            "stranger to Fair-Skinned Youth (Yao Zhongyi)"
+        ]
+    ],
+    "Yao Zhongyi": [
+        [
+            "DU Guicheng",
+            "stranger to Yao Zhongyi"
+        ],
+        [
+            "Physician Yu",
+            "employer of Yao Zhongyi"
+        ],
+        [
+            "Chen Junmeng",
+            "brother in law of Yao Zhongyi"
+        ]
+    ],
+    "Physician Yu": [
+        [
+            "DU Guicheng",
+            "helped by Physician Yu"
+        ]
+    ],
+    "Chen Junmeng": [
+        [
+            "DU Guicheng",
+            "patient of Chen Junmeng"
+        ]
+    ],
+    "Yun Ling": [
+        [
+            "Long-Haired Girl",
+            "friend of Yun Ling"
+        ],
+        [
+            "DU Guicheng",
+            "discovered by Yun Ling"
+        ]
+    ],
+    "Lady Hong": [
+        [
+            "Yao Changshou",
+            "wife of Lady Hong"
+        ],
+        [
+            "DU Guicheng",
+            "stranger to Lady Hong"
+        ]
+    ],
+    "Yao Changshou": [
+        [
+            "Lady Hong",
+            "husband of Lady Hong"
+        ],
+        [
+            "Yao Zhongyi",
+            "father of Yao Zhongyi"
+        ],
+        [
+            "DU Guicheng",
+            "stranger to Yao Changshou"
+        ]
+    ],
+    "Maid (implicitly mentioned)": [
+        [
+            "Lady Hong",
+            "helper of Maid"
+        ],
+        [
+            "Yao Changshou",
+            "helper of Maid"
+        ],
+        [
+            "DU Guicheng",
+            "stranger to Maid"
+        ]
+    ],
+    "Fang Chenchenshan (implicitly mentioned)": [
+        [
+            "Father of DU Guicheng (implicitly mentioned as Du Huixin)",
+            "acquaintance of Fang Chenchenshan"
+        ],
+        [
+            "Master Meng",
+            "acquaintance of Fang Chenchenshan"
+        ]
+    ]
+}

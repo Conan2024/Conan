@@ -1,0 +1,102 @@
+{
+    "Hong Jiangshui": [
+        [
+            "Hong Zhaizhu",
+            "father of Hong Jiangshui, same person as Hong Jiangshui (different identity)"
+        ],
+        [
+            "Meng Sanchun",
+            "acquaintance of Hong Jiangshui, victim of Hong Jiangshui, killed by Hong Jiangshui"
+        ],
+        [
+            "Zhang Jinyin",
+            "acquaintance of Hong Jiangshui"
+        ],
+        [
+            "Zhang Hongsheng",
+            "acquaintance of Hong Jiangshui, information receiver from Hong Jiangshui"
+        ],
+        [
+            "Cai Siniang",
+            "dislike of Hong Jiangshui, deceived by Hong Jiangshui, acquaintance of Hong Jiangshui"
+        ]
+    ],
+    "Hong Zhaizhu": [
+        [
+            "Hong Jiangshui",
+            "same person as Hong Zhaizhu (different reference), child of Hong Zhaizhu"
+        ]
+    ],
+    "Meng Sanchun": [
+        [
+            "Hong Jiangshui",
+            "acquaintance of Meng Sanchun, perpetrator of Meng Sanchun"
+        ],
+        [
+            "Zhang Jinyin",
+            "colleague of Meng Sanchun, business partner of Meng Sanchun, friend of Meng Sanchun"
+        ],
+        [
+            "Zhang Hongsheng",
+            "colleague of Meng Sanchun, business partner of Meng Sanchun"
+        ],
+        [
+            "Cai Siniang",
+            "colleague of Meng Sanchun, business partner of Meng Sanchun"
+        ]
+    ],
+    "Zhang Jinyin": [
+        [
+            "Meng Sanchun",
+            "business partner of Zhang Jinyin, friend of Zhang Jinyin, colleague of Zhang Jinyin"
+        ],
+        [
+            "Zhang Hongsheng",
+            "sibling of Zhang Jinyin"
+        ],
+        [
+            "Cai Siniang",
+            "acquaintance of Zhang Jinyin"
+        ],
+        [
+            "Hong Jiangshui",
+            "acquaintance of Zhang Jinyin"
+        ]
+    ],
+    "Zhang Hongsheng": [
+        [
+            "Meng Sanchun",
+            "business partner of Zhang Hongsheng, colleague of Zhang Hongsheng"
+        ],
+        [
+            "Zhang Jinyin",
+            "sibling of Zhang Hongsheng"
+        ],
+        [
+            "Cai Siniang",
+            "acquaintance of Zhang Hongsheng"
+        ],
+        [
+            "Hong Jiangshui",
+            "acquaintance of Zhang Hongsheng, informant of Zhang Hongsheng"
+        ]
+    ],
+    "Cai Siniang": [
+        [
+            "Meng Sanchun",
+            "colleague of Cai Siniang, business partner of Cai Siniang"
+        ],
+        [
+            "Zhang Jinyin",
+            "acquaintance of Cai Siniang"
+        ],
+        [
+            "Zhang Hongsheng",
+            "acquaintance of Cai Siniang"
+        ],
+        [
+            "Hong Jiangshui",
+            "disliked by Cai Siniang, deceived by Cai Siniang"
+        ]
+    ]
+}

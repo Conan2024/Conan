@@ -1,0 +1,82 @@
+{
+    "Hei Li": [
+      ["Qi Qingli", "friend of x"], 
+      ["Qi Gu Fei", "enemy of x"], 
+      ["Mrs. Ruan", "acquaintance of x"], 
+      ["Zhaonan", "friend of x"], 
+      ["Wangdi", "friend of x"], 
+      ["Guilang", "friend of x"], 
+      ["Luo Xiucai", "friend of x"], 
+      ["Luo Younuo", "friend of x"], 
+      ["Xue Yan", "lover of x"], 
+      ["Wang Zimo", "ex boyfriend of x"], 
+      ["Baron Smith", "neighbour of x"], 
+      ["Zhaonan", "possible suicide due to romantic relationship of x"], 
+      ["Mrs. Ruan", "dead of x"], 
+      ["Baron Smith", "extramarital affair with x"]
+    ],
+    "Qi Qingli": [
+      ["Hei Li", "friend of x"], 
+      ["Qi Gu Fei", "enemy of x"], 
+      ["Mrs. Ruan", "acquaintance of x"]
+    ],
+    "Qi Gu Fei": [
+      ["Hei Li", "enemy of x"], 
+      ["Qi Qingli", "enemy of x"], 
+      ["Mrs. Ruan", "acquaintance of x"]
+    ],
+    "Mrs. Ruan": [
+      ["Hei Li", "acquaintance of x"], 
+      ["Qi Qingli", "acquaintance of x"], 
+      ["Qi Gu Fei", "acquaintance of x"], 
+      ["Zhaonan", "possible suicide due to romantic relationship of x"], 
+      ["Hei Li", "extramarital affair with x"]
+    ],
+    "Zhaonan": [
+      ["Hei Li", "friend of x"], 
+      ["Wangdi", "sister of x"], 
+      ["Guilang", "brother of x"], 
+      ["Luo Xiucai", "friend of x"], 
+      ["Luo Younuo", "friend of x"], 
+      ["Hei Li", "possible suicide due to romantic relationship of x"]
+    ],
+    "Wangdi": [
+      ["Zhaonan", "sister of x"], 
+      ["Guilang", "friend of x"]
+    ],
+    "Guilang": [
+      ["Zhaonan", "brother of x"], 
+      ["Wangdi", "friend of x"], 
+      ["Hei Li", "friend of x"], 
+      ["Mrs. Ruan", "future relative of x"]
+    ],
+    "Luo Xiucai": [
+      ["Zhaonan", "friend of x"], 
+      ["Luo Younuo", "son of x"], 
+      ["Xue Yan", "daughter of x"], 
+      ["Mrs. Ruan", "adoptive mother of x"]
+    ],
+    "Luo Younuo": [
+      ["Zhaonan", "friend of x"], 
+      ["Luo Xiucai", "father of x"]
+    ],
+    "Xue Yan": [
+      ["Luo Xiucai", "daughter of x"], 
+      ["Wang Zimo", "ex boyfriend of x"], 
+      ["Baron Smith", "neighbour of x"], 
+      ["Wang Zimo", "secret lover of x"], 
+      ["Hei Li", "lover of x"]
+    ],
+    "Wang Zimo": [
+      ["Xue Yan", "ex boyfriend of x"], 
+      ["Baron Smith", "neighbour of x"], 
+      ["Zhaonan", "possible romantic relationship of x"], 
+      ["Hei Li", "ex boyfriend of x"], 
+      ["Xue Yan", "secret lover of x"]
+    ],
+    "Baron Smith": [
+      ["Xue Yan", "neighbour of x"], 
+      ["Wang Zimo", "neighbour of x"], 
+      ["Baron Smith", "extramarital affair with x"]
+    ]
+}

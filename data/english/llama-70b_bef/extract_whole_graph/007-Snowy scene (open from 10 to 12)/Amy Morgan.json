@@ -1,0 +1,32 @@
+{
+    "Amy Morgan": [
+      ["Harold Harrison", "brother of x"], 
+      ["Marina Harrison", "sister of x, dislike of x"], 
+      ["Lucy Harrison", "sister of x"], 
+      ["Max Pike", "acquaintance of x, suspect of x"], 
+      ["Alex Harvey", "friend of x"]
+    ],
+    "Harold Harrison": [
+      ["Amy Morgan", "sister of x"], 
+      ["Marina Harrison", "wife of x"]
+    ],
+    "Marina Harrison": [
+      ["Harold Harrison", "husband of x"], 
+      ["Amy Morgan", "sister in law of x, dislike of x"]
+    ],
+    "Lucy Harrison": [
+      ["Amy Morgan", "sister of x"], 
+      ["Harold Harrison", "father of x"]
+    ],
+    "Max Pike": [
+      ["Amy Morgan", "acquaintance of x, suspect of x"], 
+      ["John Morgan", "friend of x"]
+    ],
+    "Alex Harvey": [
+      ["Amy Morgan", "friend of x"]
+    ],
+    "John Morgan": [
+      ["Amy Morgan", "friend of x"], 
+      ["Harold Harrison", "friend of x"]
+    ]
+}

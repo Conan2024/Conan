@@ -1,0 +1,94 @@
+{
+    "You": [
+        [
+            "Du Zhong",
+            "friend of x, acquaintance of x, informant of x, quest companion of x, information receiver from x"
+        ],
+        [
+            "Xuan Can",
+            "friend of x, acquaintance of x, quest companion of x"
+        ],
+        [
+            "Fu Xian",
+            "acquaintance of x"
+        ],
+        [
+            "Lady Safflower",
+            "stranger to x"
+        ]
+    ],
+    "Du Zhong": [
+        [
+            "You",
+            "friend of x, acquaintance of x, superior of x, quest companion of x"
+        ],
+        [
+            "Xuan Can",
+            "friend of x, subordinate of x, quest companion of x"
+        ],
+        [
+            "Fu Xian",
+            "acquaintance of x, quest companion of x, helper of x"
+        ],
+        [
+            "Lady Safflower",
+            "romantic relationships with x, child of x"
+        ],
+        [
+            "Son",
+            "father of x"
+        ]
+    ],
+    "Xuan Can": [
+        [
+            "You",
+            "friend of x, acquaintance of x, quest companion of x"
+        ],
+        [
+            "Du Zhong",
+            "friend of x, superior of x, quest companion of x"
+        ],
+        [
+            "Fu Xian",
+            "acquaintance of x"
+        ]
+    ],
+    "Lady Safflower": [
+        [
+            "Du Zhong",
+            "romantic relationships with x, child of x"
+        ],
+        [
+            "Son",
+            "mother of x"
+        ]
+    ],
+    "Fu Xian": [
+        [
+            "You",
+            "acquaintance of x"
+        ],
+        [
+            "Du Zhong",
+            "acquaintance of x, helped by x"
+        ],
+        [
+            "Xuan Can",
+            "acquaintance of x"
+        ],
+        [
+            "Lady Safflower",
+            "stranger to x"
+        ]
+    ],
+    "Son": [
+        [
+            "Du Zhong",
+            "father of x"
+        ],
+        [
+            "Lady Safflower",
+            "mother of x"
+        ]
+    ]
+}

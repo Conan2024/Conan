@@ -1,0 +1,17 @@
+{
+    "Father Tom": [
+      ["Dr. Paloski", "acquaintance of x"], 
+      ["Frank", "friend of x"], 
+      ["Tony", "acquaintance of x, manipulator of x"]
+    ],
+    "Dr. Paloski": [
+      ["Father Tom", "acquaintance of x"], 
+      ["Dr. Hans Li Morette", "enemy of x, rival of x"]
+    ],
+    "Dean Berkeley": [
+      ["Father Tom", "acquaintance of x"]
+    ],
+    "Frank": [
+      ["Father Tom", "friend of x"]
+    ]
+}

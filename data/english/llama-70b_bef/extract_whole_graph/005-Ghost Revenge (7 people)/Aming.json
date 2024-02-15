@@ -1,0 +1,18 @@
+{
+    "Aming": [
+      ["Xia Sanhu", "adversary of x, enemy of x"], 
+      ["Xia Zhongpeng", "friend of x, employer of x"], 
+      ["Yue Dongwen", "friend of x, mentor of x"]
+    ],
+    "Xia Sanhu": [
+      ["Aming", "adversary of x, enemy of x"], 
+      ["Xia Zhongpeng", "brother of x"]
+    ],
+    "Xia Zhongpeng": [
+      ["Aming", "employer of x, friend of x"], 
+      ["Xia Sanhu", "brother of x"]
+    ],
+    "Yue Dongwen": [
+      ["Aming", "mentor of x, friend of x"]
+    ]
+}

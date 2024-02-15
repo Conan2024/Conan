@@ -1,0 +1,112 @@
+{
+    "Ge Jixian": [
+      ["Le Wan", "husband of x, fiance of x"], 
+      ["Lü Lusheng", "business partner of x"], 
+      ["Lü Songnian", "business partner of x, informant of x"], 
+      ["Xue Dacai", "business partner of x, acquaintance of x"], 
+      ["Xue Yufan", "husband of xue yufan, wife of x ge jixian"], 
+      ["Yan Yichong", "acquaintance of x, co conspirator of x"], 
+      ["Yu Shangyong", "business partner of x, acquaintance of x"], 
+      ["Yu Yancheng", "husband of x"], 
+      ["Zhu Lingshan", "father in law of x, mayor of x x baoshu town"]
+    ],
+    "Le Wan": [
+      ["Ge Jixian", "wife of x, fiancee of x"], 
+      ["Lü Lusheng", "brother of x, business partner of x"], 
+      ["Lü Songnian", "business partner of x, co conspirator of x"], 
+      ["Xue Dacai", "friend of x, business partner of x"], 
+      ["Xue Yufan", "acquaintance of x, business partner of x, suspect of x, co conspirator of x"], 
+      ["Yan Yichong", "acquaintance of x, co conspirator of x"], 
+      ["Yu Shangyong", "business partner of x, co conspirator of x"], 
+      ["Yu Yancheng", "sister in law of x, brother in law of x"], 
+      ["Zhu Lingshan", "friend of x, business partner of x"]
+    ],
+    "Lü Lusheng": [
+      ["Ge Jixian", "business partner of x"], 
+      ["Le Wan", "brother of x, business partner of x"], 
+      ["Lü Songnian", "brother of x, co owner of x the tavern"], 
+      ["Xue Dacai", "friend of x, business partner of x"], 
+      ["Xue Yufan", "brother in law of x, business partner of x"], 
+      ["Yan Yichong", "relationship 1: acquaintance of x, relationship 2: co conspirator in searching for the 'treasure of x heaven'"], 
+      ["Yu Shangyong", "co conspirator in searching for the treasure of x heaven, business partner in running the tavern of x"], 
+      ["Yu Yancheng", "co conspirator in searching for the treasure of x heaven, business partner in running the tavern of x"], 
+      ["Zhu Lingshan", "business partner of x, friend of x"]
+    ],
+    "Lü Songnian": [
+      ["Ge Jixian", "business partner of x, informant of x"], 
+      ["Le Wan", "business partner of x, co conspirator of x"], 
+      ["Lü Lusheng", "brother of x, co owner of x the tavern"], 
+      ["Xue Dacai", "business partner of x, co conspirator of x"], 
+      ["Xue Yufan", "friend of x, business partner of x"], 
+      ["Yan Yichong", "acquaintance of x, business partner of x"], 
+      ["Yu Shangyong", "acquaintance of x, business partner of x"], 
+      ["Yu Yancheng", "friend of x, business partner of x"], 
+      ["Zhu Lingshan", "business partner of x, friend of x"]
+    ],
+    "Xue Dacai": [
+      ["Ge Jixian", "business partner of x, acquaintance of x"], 
+      ["Le Wan", "friend of x, business partner of x"], 
+      ["Lü Lusheng", "friend of x, business partner of x"], 
+      ["Lü Songnian", "business partner of x, co conspirator of x"], 
+      ["Xue Yufan", "cousin of x, business partner of x"], 
+      ["Yan Yichong", "relationship 1: acquaintance of x, relationship 2: business partner of x"], 
+      ["Yu Shangyong", "friend of x, business partner of x"], 
+      ["Yu Yancheng", "friend of x, business partner of x"], 
+      ["Zhu Lingshan", "friend of x, business partner of x"]
+    ],
+    "Xue Yufan": [
+      ["Ge Jixian", "husband of x ge jixian, wife of xue yufan"], 
+      ["Le Wan", "acquaintance of x, business partner of x, suspect of x, co conspirator of x"], 
+      ["Lü Lusheng", "brother in law of x, business partner of x"], 
+      ["Lü Songnian", "friend of x, business partner of x"], 
+      ["Xue Dacai", "cousin of x, business partner of x"], 
+      ["Yan Yichong", "friend of x, business partner of x"], 
+      ["Yu Shangyong", "friend of x, business partner of x"], 
+      ["Yu Yancheng", "friend of x, classmate of x"], 
+      ["Zhu Lingshan", "friend of x, business partner of x"]
+    ],
+    "Yan Yichong": [
+      ["Ge Jixian", "acquaintance of x, co conspirator of x"], 
+      ["Le Wan", "acquaintance of x, co conspirator of x"], 
+      ["Lü Lusheng", "relationship 1: acquaintance of x, relationship 2: co conspirator in searching for the 'treasure of x heaven'"], 
+      ["Lü Songnian", "acquaintance of x, business partner of x"], 
+      ["Xue Dacai", "relationship 1: acquaintance of x, relationship 2: business partner of x"], 
+      ["Xue Yufan", "friend of x, business partner of x"], 
+      ["Yu Shangyong", "friend of x, business partner of x"], 
+      ["Yu Yancheng", "friend of x, business partner of x"], 
+      ["Zhu Lingshan", "acquaintance of x, fellow adventurer of x"]
+    ],
+    "Yu Shangyong": [
+      ["Ge Jixian", "business partner of x, acquaintance of x"], 
+      ["Le Wan", "business partner of x, co conspirator of x"], 
+      ["Lü Lusheng", "co conspirator in searching for the treasure of x heaven, friend and regular customer at the tavern of x"], 
+      ["Lü Songnian", "acquaintance of x, business partner of x"], 
+      ["Xue Dacai", "friend of x, business partner of x"], 
+      ["Xue Yufan", "friend of x, business partner of x"], 
+      ["Yan Yichong", "friend of x, business partner of x"], 
+      ["Yu Yancheng", "acquaintance of x, business partner of x, co conspirators of x"], 
+      ["Zhu Lingshan", "friend of x, business partner of x"]
+    ],
+    "Yu Yancheng": [
+      ["Ge Jixian", "wife of x, same person as x, brother of x yu shangyong, lover of x le wan"], 
+      ["Le Wan", "brother in law of x, sister in law of x"], 
+      ["Lü Lusheng", "co conspirator in searching for the treasure of x heaven, business partner in running the tavern of x"], 
+      ["Lü Songnian", "friend of x, business partner of x"], 
+      ["Xue Dacai", "friend of x, business partner of x"], 
+      ["Xue Yufan", "friend of x, classmate of x"], 
+      ["Yan Yichong", "friend of x, business partner of x"], 
+      ["Yu Shangyong", "acquaintance of x, business partner of x, co conspirators of x"], 
+      ["Zhu Lingshan", "friend of x, business partner of x"]
+    ],
+    "Zhu Lingshan": [
+      ["Ge Jixian", "father in law of x, mayor of x x baoshu town, business partner of x"], 
+      ["Le Wan", "friend of x, business partner of x"], 
+      ["Lü Lusheng", "business partner of x, friend of x"], 
+      ["Lü Songnian", "business partner of x, friend of x"], 
+      ["Xue Dacai", "friend of x, business partner of x"], 
+      ["Xue Yufan", "friend of x, business partner of x"], 
+      ["Yan Yichong", "acquaintance of x, fellow adventurer of x"], 
+      ["Yu Shangyong", "friend of x, business partner of x"], 
+      ["Yu Yancheng", "friend of x, business partner of x"]
+    ]
+}

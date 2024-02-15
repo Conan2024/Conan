@@ -1,0 +1,146 @@
+{
+    "Liao Xuehan": [
+        [
+            "Liao Yiqiao",
+            "parent of"
+        ],
+        [
+            "Dr. Zhang",
+            "informant of"
+        ],
+        [
+            "Julie",
+            "informant of"
+        ],
+        [
+            "Hai You",
+            "inmate of Julie Orphanage"
+        ],
+        [
+            "Luo Hengli",
+            "debtor of"
+        ],
+        [
+            "Lv Mingran",
+            "debtor of"
+        ],
+        [
+            "Tan Shangzhi",
+            "secret trust beneficiary of Tan Renchang"
+        ],
+        [
+            "Tan Renchang",
+            "sibling of Tan Shangzhi"
+        ],
+        [
+            "Mrs. Wei",
+            "suspicious of"
+        ],
+        [
+            "Cheng Ge",
+            "inmate of Julie Orphanage"
+        ],
+        [
+            "A Ping",
+            "personal maid of Mrs. Tan"
+        ]
+    ],
+    "Liao Yiqiao": [
+        [
+            "Liao Xuehan",
+            "child of"
+        ]
+    ],
+    "Dr. Zhang": [
+        [
+            "Liao Xuehan",
+            "information receiver from"
+        ]
+    ],
+    "Julie": [
+        [
+            "Liao Xuehan",
+            "information receiver from"
+        ],
+        [
+            "Hai You",
+            "takes care of"
+        ],
+        [
+            "Cheng Ge",
+            "adopts"
+        ]
+    ],
+    "Hai You": [
+        [
+            "Julie",
+            "taken care of by"
+        ],
+        [
+            "Cheng Ge",
+            "inmate of Julie Orphanage"
+        ]
+    ],
+    "Luo Hengli": [
+        [
+            "Liao Xuehan",
+            "debtor of"
+        ],
+        [
+            "Lv Mingran",
+            "brother-in-law of"
+        ]
+    ],
+    "Lv Mingran": [
+        [
+            "Liao Xuehan",
+            "debtor of"
+        ],
+        [
+            "Luo Hengli",
+            "brother-in-law of"
+        ]
+    ],
+    "Tan Shangzhi": [
+        [
+            "Liao Xuehan",
+            "secret trust beneficiary of Tan Renchang"
+        ],
+        [
+            "Tan Renchang",
+            "sibling of"
+        ]
+    ],
+    "Tan Renchang": [
+        [
+            "Liao Xuehan",
+            "secret trust beneficiary of Tan Shangzhi"
+        ],
+        [
+            "Tan Shangzhi",
+            "sibling of"
+        ]
+    ],
+    "Mrs. Wei": [
+        [
+            "Liao Xuehan",
+            "suspicious of"
+        ]
+    ],
+    "Cheng Ge": [
+        [
+            "Liao Xuehan",
+            "inmate of Julie Orphanage"
+        ],
+        [
+            "Julie",
+            "adopted by"
+        ]
+    ],
+    "A Ping": [
+        [
+            "Liao Xuehan",
+            "personal maid of Mrs. Tan"
+        ]
+    ]
+}

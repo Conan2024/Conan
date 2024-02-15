@@ -1,0 +1,41 @@
+{
+    "Gan Ma": [
+      ["Gan Yin", "brother of x gan ma, sibling of x gan yin"], 
+      ["Ba Mansion Mountain", "employer of x gan ma, employee of x ba mansion mountain"], 
+      ["Juan Ge (Cuckoo Song)", "friend of x gan ma, friend of x juan ge (cuckoo song)"], 
+      ["Chen Sha", "friend of x gan ma"], 
+      ["Li Gaobai", "friend and co worker of x gan ma, friend and co worker of x li gaobai"], 
+      ["Ruya", "daughter of x wizard, friend and co worker of x gan ma"], 
+      ["Wang Jingji", "former romantic partner of x gan ma"]
+    ],
+    "Gan Yin": [
+      ["Gan Ma", "sibling of x gan yin, brother of x gan ma"], 
+      ["Juan Ge (Cuckoo Song)", "betrothed to gan yin of x, betrothed to juan ge (cuckoo song) of x"], 
+      ["Ba Mansion Mountain", "employer of x gan yin, employer of x ba mansion mountain"], 
+      ["Ruya", "friend and co worker of x gan yin"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Gan Ma", "employee of x ba mansion mountain, employee of x ba mansion mountain"], 
+      ["Juan Ge (Cuckoo Song)", "daughter of x ba mansion mountain, daughter of x ba mansion mountain, betrothed to gan yin of x"], 
+      ["Gan Yin", "employer of x ba mansion mountain, employer of x gan yin"]
+    ],
+    "Juan Ge (Cuckoo Song)": [
+      ["Gan Ma", "friend of x juan ge (cuckoo song), friend of x gan ma"], 
+      ["Gan Yin", "betrothed to juan ge (cuckoo song) of x, betrothed to gan yin of x"], 
+      ["Ba Mansion Mountain", "father of x juan ge (cuckoo song)"]
+    ],
+    "Chen Sha": [
+      ["Gan Ma", "friend of x chen sha"]
+    ],
+    "Li Gaobai": [
+      ["Gan Ma", "friend and co worker of x li gaobai, friend and co worker of x gan ma"], 
+      ["Wizard", "co worker of x li gaobai"]
+    ],
+    "Ruya": [
+      ["Gan Ma", "friend and co worker of x ruya, friend and co worker of x gan ma"], 
+      ["Wizard", "father of x ruya"]
+    ],
+    "Wang Jingji": [
+      ["Gan Ma", "former romantic partner of x wang jingji"]
+    ]
+}

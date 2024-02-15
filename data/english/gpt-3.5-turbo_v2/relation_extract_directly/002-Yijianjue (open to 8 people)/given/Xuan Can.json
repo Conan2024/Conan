@@ -1,0 +1,22 @@
+{
+    "Xuan Can": [
+      ["Du Zhong", "sworn brother of x, colleague of x"], 
+      ["Ren Dong", "informant of x"], 
+      ["Lu Ying", "helper of x"]
+    ],
+    "Du Zhong": [
+      ["Xuan Can", "sworn brother of x, colleague of x"], 
+      ["Ren Dong", "informant of x"], 
+      ["Lu Ying", "helper of x"]
+    ],
+    "Ren Dong": [
+      ["Xuan Can", "informant of x"], 
+      ["Du Zhong", "informant of x"], 
+      ["Lu Ying", "saviour of x"]
+    ],
+    "Lu Ying": [
+      ["Xuan Can", "helper of x"], 
+      ["Du Zhong", "helper of x"], 
+      ["Ren Dong", "saviour of x"]
+    ]
+}

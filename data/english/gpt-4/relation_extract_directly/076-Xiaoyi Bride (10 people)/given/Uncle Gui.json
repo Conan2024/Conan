@@ -1,0 +1,226 @@
+{
+    "Uncle Gui": [
+        [
+            "Du Guicheng",
+            "same person as x (different identity)"
+        ],
+        [
+            "Master Meng",
+            "superior of x, acquaintance of x"
+        ],
+        [
+            "Short-Haired Woman",
+            "stranger to x"
+        ],
+        [
+            "Young Man",
+            "stranger to x"
+        ],
+        [
+            "Long-Haired Girl",
+            "stranger to x"
+        ],
+        [
+            "Yao Zhongyi",
+            "acquaintance of x"
+        ],
+        [
+            "Chen Junmeng",
+            "victim of x, helped by x"
+        ],
+        [
+            "Lady Hong",
+            "acquaintance of x"
+        ],
+        [
+            "Yao Changshou",
+            "patient of x"
+        ]
+    ],
+    "Du Guicheng": [
+        [
+            "Uncle Gui",
+            "same person as x (different reference)"
+        ],
+        [
+            "Du Huixin",
+            "son of x"
+        ],
+        [
+            "Master Meng",
+            "subordinate of x, student of x"
+        ],
+        [
+            "Physician Yu",
+            "classmate of x, acquaintance of x"
+        ],
+        [
+            "Yun Ling",
+            "stranger to x"
+        ],
+        [
+            "Yao Zhongyi",
+            "acquaintance of x"
+        ],
+        [
+            "Chen Junmeng",
+            "victim of x, helped by x"
+        ],
+        [
+            "Lady Hong",
+            "acquaintance of x"
+        ],
+        [
+            "Yao Changshou",
+            "patient of x"
+        ]
+    ],
+    "Du Huixin": [
+        [
+            "Du Guicheng",
+            "father of x"
+        ],
+        [
+            "Master Meng",
+            "relative of x, possible friend of x"
+        ]
+    ],
+    "Master Meng": [
+        [
+            "Uncle Gui",
+            "subordinate of x"
+        ],
+        [
+            "Du Guicheng",
+            "superior of x"
+        ]
+    ],
+    "Physician Yu": [
+        [
+            "Du Guicheng",
+            "classmate of x, colleague of x"
+        ],
+        [
+            "Yao Zhongyi",
+            "employee of x"
+        ],
+        [
+            "Chen Junmeng",
+            "attempted helper of x, helped by x"
+        ],
+        [
+            "Uncle Gui",
+            "attempted helper of x, patient of x"
+        ]
+    ],
+    "Yun Ling": [
+        [
+            "Chen Junmeng",
+            "acquaintance of x"
+        ],
+        [
+            "Physician Yu",
+            "victim of x"
+        ]
+    ],
+    "Yao Zhongyi": [
+        [
+            "Yao Changshou",
+            "son of x"
+        ],
+        [
+            "Chen Junmeng",
+            "brother in law of x"
+        ],
+        [
+            "Physician Yu",
+            "employer of x"
+        ],
+        [
+            "Uncle Gui",
+            "acquaintance of x"
+        ],
+        [
+            "Lady Hong",
+            "son of x"
+        ]
+    ],
+    "Chen Junmeng": [
+        [
+            "Yao Zhongyi",
+            "sister of x"
+        ],
+        [
+            "Yun Ling",
+            "acquaintance of x"
+        ],
+        [
+            "Physician Yu",
+            "physician of x, helped by x"
+        ],
+        [
+            "Uncle Gui",
+            "helper of x, perpetrator of x"
+        ]
+    ],
+    "Lady Hong": [
+        [
+            "Yao Changshou",
+            "wife of x"
+        ],
+        [
+            "Uncle Gui",
+            "acquaintance of x"
+        ],
+        [
+            "Yao Zhongyi",
+            "mother of x"
+        ],
+        [
+            "Chen Junmeng",
+            "daughter in law of x"
+        ]
+    ],
+    "Yao Changshou": [
+        [
+            "Lady Hong",
+            "husband of x"
+        ],
+        [
+            "Yao Zhongyi",
+            "father of x"
+        ],
+        [
+            "Chen Junmeng",
+            "father in law of x"
+        ],
+        [
+            "Uncle Gui",
+            "patient of x"
+        ]
+    ],
+    "Long-haired Girl": [
+        [
+            "Young Man",
+            "stranger to x"
+        ],
+        [
+            "Uncle Gui",
+            "victim of x"
+        ],
+        [
+            "Yao Zhongyi",
+            "acquaintance of x"
+        ]
+    ],
+    "Short-haired Woman": [
+        [
+            "Uncle Gui",
+            "acquaintance of x"
+        ],
+        [
+            "Young Man",
+            "acquaintance of x"
+        ]
+    ]
+}

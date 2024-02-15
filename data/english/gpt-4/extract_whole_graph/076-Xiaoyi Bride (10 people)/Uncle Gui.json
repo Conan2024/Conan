@@ -1,0 +1,136 @@
+{
+    "DU Guicheng": [
+        [
+            "DU Huixin",
+            "child of x"
+        ],
+        [
+            "Master Meng",
+            "employee of x"
+        ],
+        [
+            "Lady Hong",
+            "acquaintance of x, helper of x"
+        ],
+        [
+            "Yao Changshou",
+            "acquaintance of x, helped by x"
+        ],
+        [
+            "Yao Zhongyi",
+            "acquaintance of x"
+        ],
+        [
+            "Chen Junmeng",
+            "patient of x"
+        ],
+        [
+            "Physician Yu",
+            "helper of x, suspect of x"
+        ],
+        [
+            "Yun Ling",
+            "acquaintance of x"
+        ],
+        [
+            "Steward Du",
+            "same person as x (different identity)"
+        ]
+    ],
+    "DU Huixin": [
+        [
+            "DU Guicheng",
+            "father of x"
+        ],
+        [
+            "Master Meng",
+            "employee of x"
+        ],
+        [
+            "fangchenchenshan",
+            "colleague of x"
+        ]
+    ],
+    "Master Meng": [
+        [
+            "DU Guicheng",
+            "employer of x"
+        ],
+        [
+            "DU Huixin",
+            "employer of x"
+        ],
+        [
+            "Yao Changshou",
+            "business partner of x"
+        ]
+    ],
+    "Yao Changshou": [
+        [
+            "DU Guicheng",
+            "patient of x"
+        ],
+        [
+            "Chen Junmeng",
+            "father in law of x"
+        ],
+        [
+            "Lady Hong",
+            "husband of x"
+        ],
+        [
+            "Yao Zhongyi",
+            "father of x"
+        ]
+    ],
+    "Yao Zhongyi": [
+        [
+            "DU Guicheng",
+            "acquaintance of x"
+        ],
+        [
+            "Chen Junmeng",
+            "brother in law of x"
+        ],
+        [
+            "Yao Changshou",
+            "son of x"
+        ]
+    ],
+    "Lady Hong": [
+        [
+            "DU Guicheng",
+            "helper of x"
+        ],
+        [
+            "Yao Changshou",
+            "wife of x"
+        ]
+    ],
+    "Chen Junmeng": [
+        [
+            "DU Guicheng",
+            "patient of x"
+        ],
+        [
+            "Yao Changshou",
+            "daughter in law of x"
+        ]
+    ],
+    "Physician Yu": [
+        [
+            "DU Guicheng",
+            "patient of x, helped by x, suspicious of x"
+        ],
+        [
+            "Yao Zhongyi",
+            "helper of x"
+        ]
+    ],
+    "Yun Ling": [
+        [
+            "DU Guicheng",
+            "acquaintance of x"
+        ]
+    ]
+}

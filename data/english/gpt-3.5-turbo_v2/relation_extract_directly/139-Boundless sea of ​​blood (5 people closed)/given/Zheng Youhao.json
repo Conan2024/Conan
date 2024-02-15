@@ -1,0 +1,23 @@
+{
+    "Zheng Youhao": [
+      ["Qin Laoda", "friend of x, helped by x"], 
+      ["Wei Xiaodi", "friend of x, helped by x"]
+    ],
+    "Qin Laoda": [
+      ["Zheng Youhao", "friend of x, helper of x"], 
+      ["Wei Xiaodi", "friend of x, helper of x"], 
+      ["Jia Meili", "romantic relationships with x"], 
+      ["Unknown", "victim of x, murdered by x"]
+    ],
+    "Jia Meili": [
+      ["Zheng Youhao", "relationship_category of x, relationship_category of x"], 
+      ["Qin Laoda", "romantic relationships with x"]
+    ],
+    "Zhuang Qingchun": [
+      ["Jia Meili", "relationship_category of x, relationship_category of x"]
+    ],
+    "Wei Xiaodi": [
+      ["Zheng Youhao", "friend of x, helper of x"], 
+      ["Qin Laoda", "friend of x, helper of x"]
+    ]
+}

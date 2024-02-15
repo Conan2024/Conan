@@ -1,0 +1,34 @@
+{
+    "Duan Yuetong": [
+      ["Wu Baian", "suspect of x"], 
+      ["XIA SANHU", "investigation target of x"], 
+      ["Anqi", "girlfriend of x"], 
+      ["Yue Kesa", "acquaintance of x"]
+    ],
+    "Wu Baian": [
+      ["Duan Yuetong", "investigator of x"], 
+      ["Yue Kesa", "friend of x"]
+    ],
+    "XIA SANHU": [
+      ["Duan Yuetong", "investigator of x"], 
+      ["Wu Baian", "classmate of x"]
+    ],
+    "Anqi": [
+      ["Duan Yuetong", "girlfriend of x"], 
+      ["Yue Kesa", "acquaintance of x"]
+    ],
+    "Yue Kesa": [
+      ["Duan Yuetong", "acquaintance of x"], 
+      ["Wu Baian", "friend of x"]
+    ],
+    "Yue Dongwen": [
+      ["Yue Kesa", "father of x"]
+    ],
+    "Li Zicai": [
+      ["Yu Zu Chengmu", "classmate of x"]
+    ],
+    "Yu Zu Chengmu": [
+      ["Li Zicai", "classmate of x"], 
+      ["Wu Baian", "classmate of x"]
+    ]
+}

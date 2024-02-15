@@ -1,0 +1,102 @@
+{
+    "Officer Li": [
+        [
+            "Superior",
+            "superior of x"
+        ],
+        [
+            "Hu Investigate",
+            "friend of x"
+        ],
+        [
+            "Murderer",
+            "subject of investigation for x"
+        ],
+        [
+            "Zhao Cishan",
+            "suspect of x"
+        ],
+        [
+            "Chief Wang",
+            "stranger to x"
+        ],
+        [
+            "Village Chief Wang",
+            "stranger to x"
+        ],
+        [
+            "Office Li's girlfriend",
+            "girlfriend of x, victim of x"
+        ],
+        [
+            "Zhang Villager's father",
+            "stranger to x"
+        ],
+        [
+            "Zhang Villager",
+            "stranger to x"
+        ]
+    ],
+    "Superior": [
+        [
+            "Officer Li",
+            "subordinate of x"
+        ]
+    ],
+    "Chief Wang": [
+        [
+            "Officer Li",
+            "acquaintance of x"
+        ]
+    ],
+    "Village Chief Wang": [
+        [
+            "Officer Li",
+            "acquaintance of x"
+        ]
+    ],
+    "Office Li": [
+        [
+            "Girlfriend",
+            "girlfriend of x, victim of x"
+        ],
+        [
+            "Chief Wang",
+            "acquaintance of x"
+        ],
+        [
+            "Village Chief Wang",
+            "acquaintance of x"
+        ]
+    ],
+    "Hu Investigate": [
+        [
+            "Officer Li",
+            "friend of x"
+        ],
+        [
+            "Murderer",
+            "suspected by x"
+        ],
+        [
+            "Zhao Cishan",
+            "suspicious of x"
+        ]
+    ],
+    "Murderer": [
+        [
+            "Officer Li",
+            "subject of investigation for x"
+        ]
+    ],
+    "Zhao Cishan": [
+        [
+            "Officer Li",
+            "suspected by x, perpetrator of x's family"
+        ],
+        [
+            "Girlfriend",
+            "manipulator of x"
+        ]
+    ]
+}

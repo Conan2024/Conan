@@ -1,0 +1,22 @@
+{
+    "Du Zhong": [
+      ["Lu Ying", "second senior uncle of x, suspicious of x"], 
+      ["Ren Dong", "second senior uncle of x, master of xuan can"], 
+      ["Xuan Can", "second senior uncle of x, suspicious of x"]
+    ],
+    "Lu Ying": [
+      ["Du Zhong", "second senior uncle of x, suspicious of x"], 
+      ["Ren Dong", "acquaintance of x, fellow disciple of x"], 
+      ["Xuan Can", "acquaintance of x, suspect of x, adversary of x, enemy of x"]
+    ],
+    "Ren Dong": [
+      ["Du Zhong", "second senior uncle of x, friend of xuan can"], 
+      ["Lu Ying", "acquaintance of x, fellow disciple of x"], 
+      ["Xuan Can", "acquaintance of x, suspicious of x, untrustworthy of x, adversary of x, enemy of x"]
+    ],
+    "Xuan Can": [
+      ["Du Zhong", "second senior uncle of x, suspicious of x"], 
+      ["Lu Ying", "acquaintance of x, suspect of x, adversary of x, enemy of x"], 
+      ["Ren Dong", "acquaintance of x, suspicious of x, untrustworthy of x, adversary of x, enemy of x"]
+    ]
+}

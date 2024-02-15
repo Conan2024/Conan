@@ -1,0 +1,28 @@
+{
+    "Neighbor Wang": [
+      ["Neighbor Wang's wife", "husband of x"], 
+      ["Reporters", "friend of x"], 
+      ["Li Guofu", "friend of x"], 
+      ["He Laoliu", "neighbour of x"]
+    ],
+    "Neighbor Wang's wife": [
+      ["Neighbor Wang", "wife of x"], 
+      ["Police", "suspicious of x, victim of x"], 
+      ["Reporters", "informant of x"]
+    ],
+    "Police": [
+      ["Neighbor Wang", "suspected by x"]
+    ],
+    "Reporters": [
+      ["Li Guofu", "debtor of x"], 
+      ["He Laoliu", "acquaintance of x"]
+    ],
+    "Li Guofu": [
+      ["Neighbor Wang", "friend of x"], 
+      ["Reporters", "creditor of x"]
+    ],
+    "He Laoliu": [
+      ["Neighbor Wang", "neighbour of x"], 
+      ["Reporters", "acquaintance of x"]
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "Singer Lin": [
+      ["Hong Zilian", "lover of x"], 
+      ["Liu Qi", "acquaintance of x"], 
+      ["Han Yimu", "colleague of x, rival of x"], 
+      ["Zhang Wenyuan", "acquaintance of x"]
+    ],
+    "Hong Zilian": [
+      ["Singer Lin", "lover of x"], 
+      ["Liu Qi", "rival of x"]
+    ],
+    "Liu Qi": [
+      ["Singer Lin", "acquaintance of x"], 
+      ["Hong Zilian", "rival of x"]
+    ],
+    "Han Yimu": [
+      ["Singer Lin", "colleague of x, rival of x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Singer Lin", "acquaintance of x"]
+    ]
+}

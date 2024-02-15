@@ -1,0 +1,56 @@
+{
+    "Gu Mengchu": [
+      ["Yang Shuixun", "friend of x"], 
+      ["Minxi", "wife of x"], 
+      ["Xinger", "wife of x"], 
+      ["Brother Gu", "brother of x"], 
+      ["Gu Chumeng", "father of x"], 
+      ["Gu Lianshan", "grandfather of x"], 
+      ["Gu Zhiyu", "grandfather of x"], 
+      ["Zhang Fanghao", "friend of x"], 
+      ["Lan Rui", "acquaintance of x"]
+    ],
+    "Yang Shuixun": [
+      ["Gu Mengchu", "friend of x"], 
+      ["Minxi", "daughter of x"], 
+      ["Zhang Fanghao", "acquaintance of x"]
+    ],
+    "Minxi": [
+      ["Gu Mengchu", "wife of x"], 
+      ["Yang Shuixun", "father of x"], 
+      ["Zhang Fanghao", "acquaintance of x"]
+    ],
+    "Xinger": [
+      ["Gu Mengchu", "wife of x"], 
+      ["Brother Gu", "sister in law of x"]
+    ],
+    "Brother Gu": [
+      ["Gu Mengchu", "brother of x"], 
+      ["Gu Chumeng", "son of x"], 
+      ["Gu Lianshan", "grandson of x"], 
+      ["Gu Zhiyu", "grandson of x"]
+    ],
+    "Gu Chumeng": [
+      ["Brother Gu", "father of x"], 
+      ["Gu Mengchu", "uncle of x"]
+    ],
+    "Gu Lianshan": [
+      ["Brother Gu", "grandfather of x"], 
+      ["Gu Mengchu", "great uncle of x"]
+    ],
+    "Gu Zhiyu": [
+      ["Brother Gu", "grandfather of x"], 
+      ["Gu Mengchu", "great uncle of x"]
+    ],
+    "Zhang Fanghao": [
+      ["Yang Shuixun", "acquaintance of x"], 
+      ["Lan Rui", "acquaintance of x"]
+    ],
+    "Lan Rui": [
+      ["Zhang Fanghao", "acquaintance of x"], 
+      ["Yang Shuixun", "enemy of x"]
+    ],
+    "Shen Wusheng": [
+      ["Zhang Fanghao", "acquaintance of x"]
+    ]
+}

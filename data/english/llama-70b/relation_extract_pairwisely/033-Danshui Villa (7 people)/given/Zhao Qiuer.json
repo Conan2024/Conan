@@ -1,0 +1,255 @@
+{
+    "Feng Shuangji": [
+        [
+            "Feng Zhu",
+            "Employer",
+            "Strict"
+        ],
+        [
+            "Qi Yue",
+            "Employer-Employee",
+            "Strict-Strict",
+            "Fear-Fear"
+        ],
+        [
+            "Zhao Luoyi",
+            "servant",
+            "personal girl",
+            "confidant",
+            "friend"
+        ],
+        [
+            "Zhao Qiuer",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Zhao Wanlei",
+            "Employer-Employee",
+            "Master-Servant",
+            "Confidant-Confidante",
+            "Strict-Disciplinarian",
+            "Fond-Fondness"
+        ],
+        [
+            "Zhao Wei",
+            "Personal Girl",
+            "Caretaker",
+            "Afraid",
+            "Trying to make happy",
+            "Worried about reaction"
+        ]
+    ],
+    "Feng Zhu": [
+        [
+            "Feng Shuangji",
+            "Father",
+            "Housekeeper"
+        ],
+        [
+            "Qi Yue",
+            "Servant",
+            "Personal girl"
+        ],
+        [
+            "Zhao Luoyi",
+            "subordinate",
+            "servant-master",
+            "afraid"
+        ],
+        [
+            "Zhao Qiuer",
+            "subordinate, caretaker, close friend"
+        ],
+        [
+            "Zhao Wanlei",
+            "Master",
+            "Employer",
+            "Mentor",
+            "Friend"
+        ],
+        [
+            "Zhao Wei",
+            "Personal Girl",
+            "Caregiver",
+            "Afraid",
+            "Teasing"
+        ]
+    ],
+    "Qi Yue": [
+        [
+            "Feng Shuangji",
+            "Employer-Employee",
+            "Strict-Strict",
+            "Fear-Fear"
+        ],
+        [
+            "Feng Zhu",
+            "Master"
+        ],
+        [
+            "Zhao Luoyi",
+            "Friend, Mentor"
+        ],
+        [
+            "Zhao Qiuer",
+            "Personal Girl",
+            "Most Familiar Person",
+            "Kissed by Zhao Wanlei",
+            "Wanted by Zhao Wanlei"
+        ],
+        [
+            "Zhao Wanlei",
+            "Master/Servant, Friend"
+        ],
+        [
+            "Zhao Wei",
+            "Personal Girl",
+            "Most Familiar Person",
+            "Caregiver",
+            "Protector",
+            "Kissing Partner",
+            "Stay-with-me Partner"
+        ]
+    ],
+    "Zhao Luoyi": [
+        [
+            "Feng Shuangji",
+            "servant",
+            "personal girl",
+            "confidant",
+            "friend"
+        ],
+        [
+            "Feng Zhu",
+            "superior",
+            "master",
+            "ignores"
+        ],
+        [
+            "Qi Yue",
+            "Friend, Mentor"
+        ],
+        [
+            "Zhao Qiuer",
+            "sister, friend"
+        ],
+        [
+            "Zhao Wanlei",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Zhao Wei",
+            "Sister of X",
+            "Personal girl of Miss Zhao Luoyi",
+            "Familiar",
+            "Friend"
+        ]
+    ],
+    "Zhao Qiuer": [
+        [
+            "Feng Shuangji",
+            "relationship 1, relationship 2"
+        ],
+        [
+            "Feng Zhu",
+            "master, close friend"
+        ],
+        [
+            "Qi Yue",
+            "Personal Girl",
+            "Most Familiar Person",
+            "Kissed by Zhao Wanlei",
+            "Wanted by Zhao Wanlei"
+        ],
+        [
+            "Zhao Luoyi",
+            "sister, friend"
+        ],
+        [
+            "Zhao Wanlei",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Zhao Wei",
+            "personal girl",
+            "confidant",
+            "comfort",
+            "closest friend",
+            "companion"
+        ]
+    ],
+    "Zhao Wanlei": [
+        [
+            "Feng Shuangji",
+            "Employer-Employee",
+            "Master-Servant",
+            "Confidant-Confidante",
+            "Strict-Disciplinarian",
+            "Fond-Fondness"
+        ],
+        [
+            "Feng Zhu",
+            "Servant",
+            "Employee",
+            "Confidant"
+        ],
+        [
+            "Qi Yue",
+            "Master/Servant, Friend"
+        ],
+        [
+            "Zhao Luoyi",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Zhao Qiuer",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Zhao Wei",
+            "Master-Servant",
+            "Father-Daughter"
+        ]
+    ],
+    "Zhao Wei": [
+        [
+            "Feng Shuangji",
+            "Personal Girl",
+            "Caretaker",
+            "Afraid",
+            "Trying to make happy",
+            "Worried about reaction"
+        ],
+        [
+            "Feng Zhu",
+            "Personal Girl",
+            "Master",
+            "Teasing",
+            "Protector"
+        ],
+        [
+            "Zhao Luoyi",
+            "Brother of X",
+            "Young master",
+            "Terrible illness",
+            "Emotions"
+        ],
+        [
+            "Zhao Qiuer",
+            "personal girl",
+            "confidant",
+            "comfort",
+            "closest friend",
+            "companion"
+        ],
+        [
+            "Zhao Wanlei",
+            "Master-Servant",
+            "Daughter-Father"
+        ]
+    ]
+}

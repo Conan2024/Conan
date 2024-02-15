@@ -1,0 +1,68 @@
+{
+    "Andrew Paloski": [
+      ["Hans Li Morette", "adversary of x"], 
+      ["Drake Li Morette", "ex romantic relationships with x"], 
+      ["Eleine Carter", "mentor of x"], 
+      ["Dean Berkeley", "student of x"], 
+      ["Head Nurse Costa", "colleague of x"], 
+      ["Father Tom", "mentor of x"], 
+      ["Gale Li Morette", "friend of x"], 
+      ["Hans Li Morette", "attempted murderer of x"]
+    ],
+    "Hans Li Morette": [
+      ["Andrew Paloski", "mentor of x"], 
+      ["Drake Li Morette", "teacher of x"], 
+      ["Dean Berkeley", "teacher of x"], 
+      ["Head Nurse Costa", "superior of x"], 
+      ["Gale Li Morette", "doctor of x, helper of x"]
+    ],
+    "Drake Li Morette": [
+      ["Andrew Paloski", "ex romantic relationships with x"], 
+      ["Hans Li Morette", "student of x"], 
+      ["Eleine Carter", "mentor of x"], 
+      ["Dean Berkeley", "mentor of x"], 
+      ["Head Nurse Costa", "colleague of x"], 
+      ["Father Tom", "mentor of x"], 
+      ["Gale Li Morette", "husband of x"]
+    ],
+    "Eleine Carter": [
+      ["Andrew Paloski", "student of x"], 
+      ["Hans Li Morette", "student of x"], 
+      ["Drake Li Morette", "employee of x"], 
+      ["Dean Berkeley", "employee of x, mentor of x"], 
+      ["Head Nurse Costa", "mentor of x"], 
+      ["Father Tom", "mentor of x"], 
+      ["Gale Li Morette", "mentor of x, informant of x"]
+    ],
+    "Dean Berkeley": [
+      ["Andrew Paloski", "mentor of x"], 
+      ["Hans Li Morette", "student of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Eleine Carter", "employer of x, teacher of x"], 
+      ["Head Nurse Costa", "colleague of x"], 
+      ["Gale Li Morette", "colleague of x"]
+    ],
+    "Head Nurse Costa": [
+      ["Andrew Paloski", "colleague of x"], 
+      ["Hans Li Morette", "colleague of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Eleine Carter", "student of x"], 
+      ["Dean Berkeley", "colleague of x"], 
+      ["Friend of x", "informant of x"]
+    ],
+    "Father Tom": [
+      ["Andrew Paloski", "informant of x"], 
+      ["Drake Li Morette", "admirer of x"], 
+      ["Eleine Carter", "student of x"], 
+      ["Helper of x", "information receiver from x"], 
+      ["Gale Li Morette", "friend of x"]
+    ],
+    "Gale Li Morette": [
+      ["Andrew Paloski", "friend of x"], 
+      ["Hans Li Morette", "wife of x, same person as x (different reference)"], 
+      ["Drake Li Morette", "wife of x"], 
+      ["Eleine Carter", "student of x, information receiver from x"], 
+      ["Dean Berkeley", "colleague of x"], 
+      ["Father Tom", "friend of x"]
+    ]
+}

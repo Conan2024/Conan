@@ -1,0 +1,63 @@
+{
+    "Gan Ma": [
+      ["Ba Mansion Mountain", "brother in law of x"], 
+      ["Gan Yin", "brother of x"], 
+      ["Miao Shi", "sister in law of x"], 
+      ["Wizard", "master of x"], 
+      ["Ruya", "friend of x"], 
+      ["Li Gaobai", "friend of x"], 
+      ["Juan Ge", "sister in law of x"], 
+      ["Chen Sha", "friend of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Gan Ma", "brother in law of x"], 
+      ["Gan Yin", "brother of x"], 
+      ["Miao Shi", "wife of x"], 
+      ["Wizard", "friend of x"]
+    ],
+    "Gan Yin": [
+      ["Gan Ma", "brother of x"], 
+      ["Ba Mansion Mountain", "brother in law of x"], 
+      ["Miao Shi", "sister in law of x"], 
+      ["Wizard", "master of x"]
+    ],
+    "Miao Shi": [
+      ["Ba Mansion Mountain", "wife of x"], 
+      ["Gan Ma", "sister in law of x"], 
+      ["Gan Yin", "sister in law of x"], 
+      ["Wizard", "friend of x"]
+    ],
+    "Wizard": [
+      ["Gan Ma", "master of x"], 
+      ["Gan Yin", "master of x"], 
+      ["Miao Shi", "friend of x"], 
+      ["Ruya", "daughter of x"]
+    ],
+    "Ruya": [
+      ["Wizard", "daughter of x"], 
+      ["Gan Ma", "friend of x"], 
+      ["Gan Yin", "friend of x"], 
+      ["Miao Shi", "friend of x"]
+    ],
+    "Li Gaobai": [
+      ["Gan Ma", "friend of x"], 
+      ["Juan Ge", "friend of x"]
+    ],
+    "Juan Ge": [
+      ["Gan Ma", "sister in law of x"], 
+      ["Gan Yin", "brother in law of x"], 
+      ["Ba Mansion Mountain", "father in law of x"], 
+      ["Miao Shi", "mother in law of x"]
+    ],
+    "Chen Sha": [
+      ["Gan Ma", "friend of x"], 
+      ["Li Gaobai", "friend of x"]
+    ],
+    "Wang Jingji": [
+      ["Gan Ma", "acquaintance of x"], 
+      ["Wizard", "friend of x"]
+    ],
+    "Youth": [
+      ["Wang Jingji", "friend of x"]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "Shang Zhi": [
+      ["Tan Shang Zhi", "same person as x (different reference)"], 
+      ["Tan Renxing", "father of x"], 
+      ["Jicai Medicine Store", "colleague of x"], 
+      ["Lv Mingran", "friend of x"], 
+      ["Hai You", "child of x"], 
+      ["Zina", "romantic relationships with x"], 
+      ["Professor He", "employer of x"]
+    ],
+    "Tan Shang Zhi": [
+      ["Shang Zhi", "same person as x (different reference)"]
+    ],
+    "Shang Zhifang": [
+      ["Shang Zhi", "same person as x (different identity)"]
+    ],
+    "Tan Renxing": [
+      ["Shang Zhi", "child of x"]
+    ],
+    "Jicai Medicine Store": [
+      ["Shang Zhi", "colleague of x"]
+    ],
+    "Tan Renchang": [
+      ["Shang Zhi", "relative of x"]
+    ],
+    "Luo Family": [
+      ["Shang Zhi", "colleague of x"]
+    ],
+    "Luo Hengli": [
+      ["Yuanheng Luo", "sibling of x"]
+    ],
+    "Lv Mingran": [
+      ["Shang Zhi", "friend of x"]
+    ],
+    "Hai You": [
+      ["Shang Zhi", "sibling of x"], 
+      ["Lv Mingran", "relative of x"]
+    ],
+    "Zina": [
+      ["Shang Zhi", "romantic relationships with x"], 
+      ["Lv Mingran", "romantic relationships with x"], 
+      ["Hai You", "acquaintance of x"]
+    ],
+    "Mrs. Wei": [
+      ["Lv Mingran", "romantic relationships with x"]
+    ],
+    "Professor He": [
+      ["Shang Zhi", "employer of x"]
+    ]
+}

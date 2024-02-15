@@ -1,0 +1,66 @@
+{
+    "Zhuang Qingchun": [
+        [
+            "Qin Expert",
+            "stepfather of x"
+        ],
+        [
+            "Qin Laoda",
+            "half brother of x"
+        ],
+        [
+            "Jia Meili",
+            "girlfriend of x"
+        ],
+        [
+            "Xiao Tiyu",
+            "secret lover of x"
+        ],
+        [
+            "Zhuang Qingchun",
+            "self"
+        ]
+    ],
+    "Qin Expert": [
+        [
+            "Zhuang Qingchun",
+            "stepfather of x"
+        ],
+        [
+            "Qin Laoda",
+            "father of x"
+        ]
+    ],
+    "Qin Laoda": [
+        [
+            "Zhuang Qingchun",
+            "half brother of x"
+        ],
+        [
+            "Qin Expert",
+            "father of x"
+        ]
+    ],
+    "Jia Meili": [
+        [
+            "Zhuang Qingchun",
+            "girlfriend of x"
+        ]
+    ],
+    "Xiao Tiyu": [
+        [
+            "Zhuang Qingchun",
+            "secret lover of x"
+        ],
+        [
+            "Xue Meiniang",
+            "boyfriend of x"
+        ]
+    ],
+    "Xue Meiniang": [
+        [
+            "Xiao Tiyu",
+            "girlfriend of x"
+        ]
+    ]
+}

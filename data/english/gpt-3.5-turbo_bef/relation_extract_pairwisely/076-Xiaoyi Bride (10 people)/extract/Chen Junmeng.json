@@ -1,0 +1,80 @@
+{
+    "Chen Junmeng": [
+      ["Yao", "wife of x, child of x"], 
+      ["Chen Qingwu", "father of x"], 
+      ["Yao Changshou", "father in law of x"], 
+      ["Chen Shitian", "friend of x"], 
+      ["Lady Hong", "wife of x"], 
+      ["Yao Zhongyi", "friend of x"], 
+      ["Uncle GUI", "helper of x, information receiver from x"]
+    ],
+    "Yao": [
+      ["Chen Junmeng", "husband of x"], 
+      ["Yao Mengren", "husband of x"], 
+      ["Yao Changshou", "husband of x"], 
+      ["Chen Shitian", "servant of x"], 
+      ["Lady Hong", "wife of x"], 
+      ["Yao Zhongyi", "husband of x, father in law of x"]
+    ],
+    "Yao Mengren": [
+      ["Yao", "wife of x"], 
+      ["Chen Qingwu", "father of x"], 
+      ["Chen Shitian", "husband of x"], 
+      ["Lady Hong", "husband of x"], 
+      ["Yao Zhongyi", "husband of x"], 
+      ["Uncle GUI", "fiance of x"]
+    ],
+    "Chen Qingwu": [
+      ["Chen Junmeng", "daughter of x"], 
+      ["Yao Mengren", "son of x"], 
+      ["Chen Shitian", "father of x"], 
+      ["Lady Hong", "husband of x"], 
+      ["Uncle GUI", "mentor of x"]
+    ],
+    "Yao Changshou": [
+      ["Chen Junmeng", "daughter in law of x"], 
+      ["Yao", "father in law of x"], 
+      ["Chen Shitian", "employer of x"], 
+      ["Lady Hong", "romantic relationships with x, extramarital affair with x"], 
+      ["Yao Zhongyi", "father in law of x"], 
+      ["Uncle GUI", "colleague of x"]
+    ],
+    "Chen Shitian": [
+      ["Chen Junmeng", "servant of x"], 
+      ["Yao", "wife of x"], 
+      ["Yao Mengren", "wife of x"], 
+      ["Chen Qingwu", "daughter of x"], 
+      ["Yao Changshou", "employee of x"], 
+      ["Lady Hong", "husband of x, host of x"], 
+      ["Yao Zhongyi", "father in law of x"], 
+      ["Uncle GUI", "mentor of x, helper of x"]
+    ],
+    "Lady Hong": [
+      ["Chen Junmeng", "husband of x"], 
+      ["Yao", "husband of x"], 
+      ["Yao Mengren", "wife of x"], 
+      ["Chen Qingwu", "wife of x"], 
+      ["Yao Changshou", "romantic relationships with x, extramarital affair with x"], 
+      ["Chen Shitian", "wife of x, guest of x"], 
+      ["Yao Zhongyi", "wife of x, romantic relationships with x"], 
+      ["Uncle GUI", "husband of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Yao", "brother of x, brother in law of x"], 
+      ["Yao Mengren", "brother of x"], 
+      ["Chen Qingwu", "son of x"], 
+      ["Yao Changshou", "brother of x"], 
+      ["Chen Shitian", "brother in law of x"], 
+      ["Lady Hong", "husband of x, romantic relationships with x"], 
+      ["Uncle GUI", "mentor of x"]
+    ],
+    "Uncle GUI": [
+      ["Chen Junmeng", "mentor of x"], 
+      ["Yao Mengren", "fiancee of x"], 
+      ["Chen Qingwu", "helper of x"], 
+      ["Yao Changshou", "doctor of x"], 
+      ["Chen Shitian", "mentor of x, information receiver from x"], 
+      ["Lady Hong", "wife of x"], 
+      ["Yao Zhongyi", "student of x"]
+    ]
+}

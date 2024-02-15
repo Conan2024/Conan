@@ -1,0 +1,168 @@
+{
+    "Cai Siniang": [
+        [
+            "Hong Jiangshui",
+            "Stranger to X"
+        ],
+        [
+            "Hong Zhaizhu",
+            "Stranger to X",
+            "Friend of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Meng Sanchun",
+            "Wife of X",
+            "Romantic relationships with X"
+        ],
+        [
+            "Zhang Hongsheng",
+            "Wife of X",
+            "Romantic relationships with X"
+        ],
+        [
+            "Zhang Jinyin",
+            "Wife of X",
+            "Romantic relationships with X"
+        ],
+        [
+            "Hong Jiangshui",
+            "roommate of Zhang Hongsheng",
+            "colleague of Zhang Jinyin"
+        ]
+    ],
+    "Hong Jiangshui": [
+        [
+            "Cai Siniang",
+            "Stranger to X"
+        ],
+        [
+            "Hong Zhaizhu",
+            "Son of X",
+            "Stranger to X"
+        ],
+        [
+            "Meng Sanchun",
+            "Friend/Acquaintance, Suspect/Suspicious, Murderer/Victim"
+        ],
+        [
+            "Zhang Hongsheng",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Zhang Jinyin",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "Zhang Hongsheng",
+            "Zhang Jinyin",
+            "colleague of Cai Siniang"
+        ]
+    ],
+    "Hong Zhaizhu": [
+        [
+            "Cai Siniang",
+            "Stranger to X",
+            "Friend of X",
+            "Acquaintance of X"
+        ],
+        [
+            "Hong Jiangshui",
+            "Father of X",
+            "Stranger to X"
+        ],
+        [
+            "Meng Sanchun",
+            "Friend/Acquaintance, Suspect/Suspicious, Perpetrator/Victim"
+        ],
+        [
+            "Zhang Hongsheng",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Zhang Jinyin",
+            "Friend/Acquaintance, Colleague"
+        ]
+    ],
+    "Meng Sanchun": [
+        [
+            "Cai Siniang",
+            "Husband of X",
+            "Romantic relationships with X"
+        ],
+        [
+            "Hong Jiangshui",
+            "Friend/Acquaintance, Suspect/Suspicious, Victim/Killer"
+        ],
+        [
+            "Hong Zhaizhu",
+            "Friend/Acquaintance, Suspect/Suspicious, Perpetrator/Victim"
+        ],
+        [
+            "Zhang Hongsheng",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Zhang Jinyin",
+            "Brother-in-law",
+            "Business Partner"
+        ]
+    ],
+    "Zhang Hongsheng": [
+        [
+            "Cai Siniang",
+            "Husband of X",
+            "Romantic relationships with X"
+        ],
+        [
+            "Hong Jiangshui",
+            "Employee of X",
+            "Servant of X"
+        ],
+        [
+            "Hong Zhaizhu",
+            "Employee of X",
+            "Servant of X"
+        ],
+        [
+            "Meng Sanchun",
+            "Employer of X",
+            "Master of X"
+        ],
+        [
+            "Zhang Jinyin",
+            "employer of Hong Jiangshui",
+            "colleague of Hong Jiangshui"
+        ]
+    ],
+    "Zhang Jinyin": [
+        [
+            "Cai Siniang",
+            "Husband of X",
+            "Romantic relationships with X"
+        ],
+        [
+            "Hong Jiangshui",
+            "Colleague of X",
+            "Business Partner of X"
+        ],
+        [
+            "Hong Zhaizhu",
+            "Friend/Acquaintance, Colleague"
+        ],
+        [
+            "Meng Sanchun",
+            "Brother-in-law",
+            "Business Partner"
+        ],
+        [
+            "Zhang Hongsheng",
+            "colleague of Hong Jiangshui",
+            "roommate of Cai Siniang"
+        ]
+    ]
+}

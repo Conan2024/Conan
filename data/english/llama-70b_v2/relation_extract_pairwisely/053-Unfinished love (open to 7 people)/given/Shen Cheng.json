@@ -1,0 +1,56 @@
+{
+    "Gu Minghe": [
+      ["Lin Tong", "perpetrator of x, victim of x"], 
+      ["Lin Weiren", "business partner of x, rival of x"], 
+      ["Lin Xi", "enemy of x, rival of x, adversary of x, manipulator of x, manipulated by x"], 
+      ["Qin Siqin", "relationship 1: employer employee of x, relationship 2: enemy of x"], 
+      ["Shen Cheng", "perpetrator of x, rival of x"], 
+      ["Su Yang", "business partner of x, acquaintance of x"]
+    ],
+    "Lin Tong": [
+      ["Gu Minghe", "victim of x, sibling of x"], 
+      ["Lin Weiren", "same person as x (different identity), same person as x (different reference)"], 
+      ["Lin Xi", "same person as x (different reference), same person as x (different identity)"], 
+      ["Qin Siqin", "relationship 1: daughter of x, relationship 2: wife of x"], 
+      ["Shen Cheng", "daughter of x, same person as x (different identity)"], 
+      ["Su Yang", "wife of x (different identity), same person as x (different reference)"]
+    ],
+    "Lin Weiren": [
+      ["Gu Minghe", "business partner of x, rival of x"], 
+      ["Lin Tong", "father of x, murderer of x"], 
+      ["Qin Siqin", "wife of x (different identity)"], 
+      ["Shen Cheng", "employer of x shen cheng, master of x shen cheng, superior of x shen cheng, enemy of x shen cheng"], 
+      ["Su Yang", "adversary of x, enemy of x, rival of x, manipulator of x, master of x, employer of x, superior of x, subordinate of x"]
+    ],
+    "Lin Xi": [
+      ["Gu Minghe", "daughter of x, same person as x (different identity), same person as x (different reference), romantic relationships with x, ex romantic relationships with x"], 
+      ["Lin Tong", "same person as x (different reference), same person as x (different identity)"], 
+      ["Qin Siqin", "same person as x (different reference)"], 
+      ["Shen Cheng", "enemy of x, victim of x"], 
+      ["Su Yang", "wife of x (different identity), same person as x (different reference)"]
+    ],
+    "Qin Siqin": [
+      ["Gu Minghe", "relationship 1: employee employer of x, relationship 2: enemy of x"], 
+      ["Lin Tong", "relationship 1: mother of x, relationship 2: wife of x shen cheng"], 
+      ["Lin Weiren", "husband of x (different reference)"], 
+      ["Lin Xi", "wife of x, same person as x (different reference)"], 
+      ["Shen Cheng", "wife of x, mother of x"], 
+      ["Su Yang", "wife of x (different identity), fiancee of x, ex romantic relationships with x, romantic relationships with x"]
+    ],
+    "Shen Cheng": [
+      ["Gu Minghe", "victim of x, adversary of x"], 
+      ["Lin Tong", "father of x, same person as x (different reference)"], 
+      ["Lin Weiren", "housekeeper of x lin's manor, servant of x lin weiren, subordinate of x lin weiren, adversary of x lin weiren"], 
+      ["Lin Xi", "perpetrator of x, adversary of x"], 
+      ["Qin Siqin", "husband of x, father of x"], 
+      ["Su Yang", "enemity of x, suspicion of x"]
+    ],
+    "Su Yang": [
+      ["Gu Minghe", "business partner of x, acquaintance of x"], 
+      ["Lin Tong", "husband of x, same person as x (different reference)"], 
+      ["Lin Weiren", "adversary of x, enemy of x, rival of x, manipulated of x, employee of x, subordinate of x, master of x, employer of x"], 
+      ["Lin Xi", "husband of x, same person as x (different reference)"], 
+      ["Qin Siqin", "husband of x (different reference), boyfriend of x, romantic relationships with x, ex romantic relationships with x"], 
+      ["Shen Cheng", "enmity of x, suspicion of x"]
+    ]
+}

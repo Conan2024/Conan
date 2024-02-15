@@ -1,0 +1,48 @@
+{
+    "Zhao Wei": [
+      ["Zhao Wanlei", "father of x, enemy of x"], 
+      ["YU Fei", "mother of x"], 
+      ["Emperor Guangxu", "biological father of x, superior of x"], 
+      ["Zhao Luoyi", "sister of x"], 
+      ["Zhang Yuyi", "acquaintance of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Zhao Wei", "daughter of x, enemy of x"], 
+      ["YU Fei", "wife of x"], 
+      ["Emperor Guangxu", "master of x, superior of x"], 
+      ["FENG Shuangji", "subordinate of x"], 
+      ["Zhao Luoyi", "daughter of x"]
+    ],
+    "YU Fei": [
+      ["Zhao Wei", "daughter of x"], 
+      ["Zhao Wanlei", "husband of x, enemy of x"], 
+      ["Emperor Guangxu", "lover of x, superior of x"]
+    ],
+    "Emperor Guangxu": [
+      ["Zhao Wei", "superior of x"], 
+      ["YU Fei", "lover of x"], 
+      ["Zhao Wanlei", "subordinate of x, enemy of x"]
+    ],
+    "FENG Shuangji": [
+      ["Zhao Wei", "acquaintance of x"], 
+      ["Zhao Wanlei", "subordinate of x"], 
+      ["YU Fei", "friend of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Zhao Wei", "sister of x"], 
+      ["Zhao Wanlei", "father of x, enemy of x"], 
+      ["YU Fei", "mother of x"]
+    ],
+    "Zhang Yuyi": [
+      ["Zhao Wei", "acquaintance of x"], 
+      ["Zhao Wanlei", "acquaintance of x"]
+    ],
+    "Zhao Qiuer": [
+      ["Zhao Wei", "acquaintance of x"], 
+      ["Zhao Luoyi", "sister of x"]
+    ],
+    "Imperial Physician Zhang": [
+      ["Zhao Wei", "acquaintance of x"], 
+      ["Zhao Wanlei", "acquaintance of x"]
+    ]
+}

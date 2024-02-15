@@ -1,0 +1,46 @@
+{
+    "Zhang Wei": [
+      ["Zhao Zhongyang", "guard of x"], 
+      ["Zhao Zhongzheng", "guard of x"], 
+      ["Zhao San", "guard of x, business partner of x"], 
+      ["Chen Meier", "guard of x"], 
+      ["Li Cheng", "guard of x"], 
+      ["Ma Laoban", "betrayed by x"]
+    ],
+    "Zhao Zhongyang": [
+      ["Zhao Zhongzheng", "friend of x"], 
+      ["Zhao San", "friend of x"], 
+      ["Chen Meier", "fiance of x"], 
+      ["Li Cheng", "guard of x"], 
+      ["Ma Laoban", "employer of x, customer of x"]
+    ],
+    "Zhao Zhongzheng": [
+      ["Zhao Zhongyang", "friend of x"], 
+      ["Zhao San", "friend of x"], 
+      ["Li Cheng", "guard of x"], 
+      ["Ma Laoban", "buyer of x"]
+    ],
+    "Zhao San": [
+      ["Zhao Zhongyang", "friend of x"], 
+      ["Zhao Zhongzheng", "business partner of x"], 
+      ["Chen Meier", "friend of x"], 
+      ["Li Cheng", "romantic relationships with x"], 
+      ["Ma Laoban", "helper of x, replaced x's identity"]
+    ],
+    "Chen Meier": [
+      ["Zhang Wei", "employer of x"], 
+      ["Zhao Zhongyang", "fiancee of x"], 
+      ["Zhao San", "friend of x"]
+    ],
+    "Ma Laoban": [
+      ["Zhang Wei", "victim of x"], 
+      ["Zhao Zhongyang", "employee of x, business partner of x"], 
+      ["Zhao Zhongzheng", "seller of x"], 
+      ["Zhao San", "helper of x, replaced x's identity"], 
+      ["Li Cheng", "business partner of x"]
+    ],
+    "Li Cheng": [
+      ["Zhao San", "romantic relationships with x"], 
+      ["Ma Laoban", "business partner of x"]
+    ]
+}

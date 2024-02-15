@@ -1,0 +1,58 @@
+{
+    "Li Xiaodi": [
+      ["Li Dage", "cousin of x, informant of x, admirer of x, helper of x, perpetrator of x, attempted perpetrator of x, dislike of x, adversary of x, rival of x, adversary of x's family, suspect to x"], 
+      ["Zhang Eba", "informant of x, admirer of x"], 
+      ["Wang Xuexi", "admirer of x, informant of x"], 
+      ["Zhao Shuai", "friend of x, acquaintance of x"], 
+      ["Lin Xiaohua", "fiancee of x, admirer of x"], 
+      ["Hao Guimi", "classmate of x, acquaintance of x"]
+    ],
+    "Li Dage": [
+      ["Li Xiaodi", "cousin of x, information receiver from x, admired by x, helped by x, victim of x, deceived by x, jealous of x, rival of x, adversary of x's family, subject of x investigation for x"], 
+      ["Zhang Eba", "admirer of x, manipulator of x"], 
+      ["Wang Xuexi", "friend of x, informant of x"], 
+      ["Zhao Shuai", "friend of x, mentor of x"], 
+      ["Lin Xiaohua", "friend of x, student of x"], 
+      ["Hao Guimi", "sibling of x, friend of x"]
+    ],
+    "Zhang Eba": [
+      ["Li Xiaodi", "suspect to x, informant of x"], 
+      ["Li Dage", "manipulated by x, victim of x"], 
+      ["Wang Xuexi", "romantic relationships with x, quest companion of x"], 
+      ["Zhao Shuai", "friend of x, acquaintance of x"], 
+      ["Lin Xiaohua", "ex husband of x, wife of x"], 
+      ["Hao Guimi", "romantic relationships with x, friend of x"]
+    ],
+    "Wang Xuexi": [
+      ["Li Xiaodi", "admirer of x, informant of x"], 
+      ["Li Dage", "friend of x, informant of x"], 
+      ["Zhang Eba", "romantic relationships with x, quest companion of x"], 
+      ["Li Xiaodi", "informant of x"], 
+      ["Lin Xiaohua", "informant of x lin xiaohua, acquaintance of x lin xiaohua"], 
+      ["Hao Guimi", "informant of x, information receiver from x"]
+    ],
+    "Zhao Shuai": [
+      ["Li Xiaodi", "friend of x, acquaintance of x"], 
+      ["Li Dage", "friend of x, student of x"], 
+      ["Zhang Eba", "friend of x, acquaintance of x"], 
+      ["Li Xiaodi", "informant of x"], 
+      ["Lin Xiaohua", "friend of x, romantic relationships with x"], 
+      ["Hao Guimi", "friend of x, quest companion of x"]
+    ],
+    "Lin Xiaohua": [
+      ["Li Xiaodi", "fiance of x, friend of x"], 
+      ["Li Dage", "friend of x, mentor of x"], 
+      ["Zhang Eba", "husband of x, ex wife of x"], 
+      ["Wang Xuexi", "informant of x wang xuexi, acquaintance of x wang xuexi"], 
+      ["Zhao Shuai", "friend of x, romantic relationships with x"], 
+      ["Hao Guimi", "friend of x, explorer with x"]
+    ],
+    "Hao Guimi": [
+      ["Li Xiaodi", "classmate of x, acquaintance of x"], 
+      ["Li Dage", "sibling of x, friend of x"], 
+      ["Zhang Eba", "romantic relationships with x, friend of x"], 
+      ["Wang Xuexi", "informant of x, information receiver from x"], 
+      ["Zhao Shuai", "friend of x, quest companion of x"], 
+      ["Lin Xiaohua", "friend of x, explorer with x"]
+    ]
+}

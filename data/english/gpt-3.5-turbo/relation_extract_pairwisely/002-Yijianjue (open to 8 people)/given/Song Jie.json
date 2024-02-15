@@ -1,0 +1,143 @@
+{
+    "Song Jie": [
+        [
+            "Martial Alliance's Messenger",
+            "informant of Martial Alliance's Messenger"
+        ],
+        [
+            "Feng",
+            "messenger of Xuan Bingjiao"
+        ],
+        [
+            "Lu Ying",
+            "helped by x"
+        ],
+        [
+            "Xuan Can",
+            "co-worker from [FENG]"
+        ],
+        [
+            "Ren Dong",
+            "friend of x",
+            "colleague of x"
+        ]
+    ],
+    "Martial Alliance's Messenger": [
+        [
+            "Song Jie",
+            "informed by Song Jie"
+        ],
+        [
+            "Feng",
+            "messenger of x"
+        ],
+        [
+            "Lu Ying",
+            "informant of x",
+            "information receiver from x"
+        ],
+        [
+            "Xuan Can",
+            "informant of Xuan Can",
+            "helped by Xuan Can"
+        ],
+        [
+            "Ren Dong",
+            "informant of x",
+            "information receiver from x"
+        ]
+    ],
+    "Feng": [
+        [
+            "Song Jie",
+            "organizing delivery task"
+        ],
+        [
+            "Martial Alliance's Messenger",
+            "delivery task sent by x"
+        ],
+        [
+            "Lu Ying",
+            "adversary of x",
+            "manipulated by x"
+        ],
+        [
+            "Xuan Can",
+            "intimate relationship"
+        ],
+        [
+            "Ren Dong",
+            "messenger of x"
+        ]
+    ],
+    "Lu Ying": [
+        [
+            "Song Jie",
+            "saved by x"
+        ],
+        [
+            "Martial Alliance's Messenger",
+            "suspected by x"
+        ],
+        [
+            "Feng",
+            "adversary of x",
+            "manipulator of x"
+        ],
+        [
+            "Xuan Can",
+            "friend of x"
+        ],
+        [
+            "Ren Dong",
+            "friend of x"
+        ]
+    ],
+    "Xuan Can": [
+        [
+            "Song Jie",
+            "co-worker from [FENG]"
+        ],
+        [
+            "Martial Alliance's Messenger",
+            "helper of Martial Alliance's Messenger",
+            "saved by Martial Alliance's Messenger"
+        ],
+        [
+            "Feng",
+            "intimate relationship"
+        ],
+        [
+            "Lu Ying",
+            "friend of x"
+        ],
+        [
+            "Ren Dong",
+            "friend of x"
+        ]
+    ],
+    "Ren Dong": [
+        [
+            "Song Jie",
+            "friend of x",
+            "colleague of x"
+        ],
+        [
+            "Martial Alliance's Messenger",
+            "informant of x",
+            "information receiver from x"
+        ],
+        [
+            "Feng",
+            "messenger of x"
+        ],
+        [
+            "Lu Ying",
+            "friend of x"
+        ],
+        [
+            "Xuan Can",
+            "friend of x"
+        ]
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Dr. Paloski": [
+      ["Father Tom", "acquaintance of x"], 
+      ["Hans Li Morette", "rival of x"], 
+      ["Frank", "murder suspect of x"]
+    ],
+    "Father Tom": [
+      ["Dr. Paloski", "acquaintance of x"], 
+      ["Hans Li Morette", "doctor patient relationship of x"], 
+      ["Tony", "friend of x"], 
+      ["Frank", "acquaintance of x"], 
+      ["Dean Berkeley", "attracted to of x"]
+    ],
+    "Hans Li Morette": [
+      ["Dr. Paloski", "rival of x"], 
+      ["Father Tom", "deceiver of x"], 
+      ["Drake Li Morette", "twin brother of x"]
+    ],
+    "Drake Li Morette": [
+      ["Father Tom", "doctor patient relationship of x"], 
+      ["Hans Li Morette", "twin brother of x"], 
+      ["Frank", "brother of x"]
+    ],
+    "Tony": [
+      ["Father Tom", "friend of x"], 
+      ["Frank", "brother of x"], 
+      ["Dean Berkeley", "adversary of x"]
+    ],
+    "Frank": [
+      ["Father Tom", "acquaintance of x"], 
+      ["Tony", "brother of x"], 
+      ["Dr. Paloski", "murder suspect of x"]
+    ],
+    "Dean Berkeley": [
+      ["Father Tom", "attracted to of x"], 
+      ["Tony", "adversary of x"]
+    ]
+}

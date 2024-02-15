@@ -1,0 +1,27 @@
+{
+    "Captain Hong": [
+      ["Han Yimu", "acquaintance of x, suspicious of x"], 
+      ["Lin Ruotong", "lover of x"], 
+      ["Liu Qi", "colleague of x, mentor of x"], 
+      ["Xiu Renjie", "colleague of x, superior of x"], 
+      ["Zhang Wenyuan", "colleague of x, rival of x"]
+    ],
+    "Han Yimu": [
+      ["Captain Hong", "acquaintance of x, suspicious of x"]
+    ],
+    "Lin Ruotong": [
+      ["Captain Hong", "lover of x"]
+    ],
+    "Liu Qi": [
+      ["Captain Hong", "colleague of x, mentor of x"], 
+      ["Zhang Wenyuan", "colleague of x, rival of x"]
+    ],
+    "Xiu Renjie": [
+      ["Captain Hong", "colleague of x, superior of x"], 
+      ["Zhang Wenyuan", "colleague of x, rival of x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Captain Hong", "colleague of x, rival of x"], 
+      ["Liu Qi", "colleague of x, rival of x"]
+    ]
+}

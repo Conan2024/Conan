@@ -1,0 +1,40 @@
+{
+    "Li Xiaodi": [
+      ["Li Dage", "cousin of x, quest companion of x"], 
+      ["Zhang Eba", "attempted perpetrator of x, quest companion of x, dislike of x"], 
+      ["Wang Xuexi", "quest companion of x, manipulated by x"], 
+      ["Zhao Shuai", "friend of x, quest companion of x"], 
+      ["Lin Xiaohua", "wife of x"], 
+      ["Hao Guimi", "friend of x"]
+    ],
+    "Li Dage": [
+      ["Li Xiaodi", "cousin of x, quest companion of x"], 
+      ["Zhang Eba", "manipulated by x, attempted perpetrator of x"], 
+      ["Wang Xuexi", "manipulated by x, quest companion of x"], 
+      ["Zhao Shuai", "friend of x, quest companion of x"]
+    ],
+    "Zhang Eba": [
+      ["Li Xiaodi", "attempted perpetrator of x, quest companion of x"], 
+      ["Wang Xuexi", "subordinate of x"], 
+      ["Zhao Shuai", "friend of x, quest companion of x"], 
+      ["Lin Xiaohua", "wife of x"], 
+      ["Hao Guimi", "quest companion of x"]
+    ],
+    "Wang Xuexi": [
+      ["Li Xiaodi", "quest companion of x, manipulated by x"], 
+      ["Zhang Eba", "superior of x"], 
+      ["Zhao Shuai", "friend of x, quest companion of x"]
+    ],
+    "Zhao Shuai": [
+      ["Li Xiaodi", "friend of x, quest companion of x"], 
+      ["Li Dage", "friend of x, quest companion of x"], 
+      ["Zhang Eba", "friend of x, quest companion of x"]
+    ],
+    "Lin Xiaohua": [
+      ["Zhang Eba", "husband of x"]
+    ],
+    "Hao Guimi": [
+      ["Li Xiaodi", "friend of x"], 
+      ["Zhang Eba", "quest companion of x"]
+    ]
+}

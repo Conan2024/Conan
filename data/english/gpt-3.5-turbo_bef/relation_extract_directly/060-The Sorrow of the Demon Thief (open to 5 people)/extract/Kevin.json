@@ -1,0 +1,35 @@
+{
+    "Kevin": [
+      ["Rowling", "sibling of x"], 
+      ["David", "ex romantic relationships with x"], 
+      ["Griff", "acquaintance of x"]
+    ],
+    "Ella": [
+      ["Kevin", "helper of x"], 
+      ["Gust", "fiance of x"], 
+      ["Rowling", "acquaintance of x"]
+    ],
+    "Rowling": [
+      ["Kevin", "sibling of x"], 
+      ["Ella", "acquaintance of x"], 
+      ["Gust", "attempted perpetrator of x"], 
+      ["David", "co wives of x"]
+    ],
+    "Gust": [
+      ["Ella", "fiancee of x"], 
+      ["Rowling", "attempted perpetrator of x"], 
+      ["David", "co wives of x"], 
+      ["Griff", "acquaintance of x"]
+    ],
+    "David": [
+      ["Kevin", "ex romantic relationships with x"], 
+      ["Rowling", "co wives of x"], 
+      ["Gust", "co wives of x"], 
+      ["Griff", "acquaintance of x"]
+    ],
+    "Griff": [
+      ["Kevin", "acquaintance of x"], 
+      ["Gust", "acquaintance of x"], 
+      ["David", "acquaintance of x"]
+    ]
+}

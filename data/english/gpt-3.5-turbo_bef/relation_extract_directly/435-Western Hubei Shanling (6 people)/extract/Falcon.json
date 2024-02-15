@@ -1,0 +1,90 @@
+{
+    "Sam Wilson/Falcon": [
+      ["Sarah Wilson", "sibling of x"], 
+      ["Riley Wilson", "sibling of x"], 
+      ["Joaquin Torres", "friend of x"], 
+      ["Miao Shi", "friend of x"], 
+      ["Miao Na", "friend of x"], 
+      ["Gui Yin", "same person as x (different identity), replaced x's identity"], 
+      ["Juan Ge (Cuckoo Song)", "enemy of x"], 
+      ["Professor Zhou", "mentor of x"], 
+      ["Chen Sha", "same person as x (different identity), replaced x's identity"], 
+      ["Leia Wilson", "sister of x"], 
+      ["Paul Wilson", "fiance of x"]
+    ],
+    "Sarah Wilson": [
+      ["Sam Wilson/Falcon", "sibling of x"], 
+      ["Riley Wilson", "sibling of x"], 
+      ["Gui Yin", "same person as x (different identity), replaced x's identity"], 
+      ["Leia Wilson", "sister of x"]
+    ],
+    "Riley Wilson": [
+      ["Sam Wilson/Falcon", "sibling of x"], 
+      ["Sarah Wilson", "sibling of x"], 
+      ["Gui Yin", "same person as x (different identity), replaced x's identity"], 
+      ["Leia Wilson", "sister of x"]
+    ],
+    "Joaquin Torres": [
+      ["Sam Wilson/Falcon", "friend of x"], 
+      ["Gui Yin", "same person as x (different identity), replaced x's identity"]
+    ],
+    "Redwing": [
+      ["Gui Yin", "same person as x (different identity), replaced x's identity"]
+    ],
+    "Ba Falcon": [
+      ["Gui Yin", "same person as x (different identity), replaced x's identity"]
+    ],
+    "Miao Shi": [
+      ["Sam Wilson/Falcon", "friend of x"]
+    ],
+    "Miao Na": [
+      ["Sam Wilson/Falcon", "friend of x"]
+    ],
+    "Gui Yin": [
+      ["Sam Wilson/Falcon", "same person as x (different identity), replaced x's identity"], 
+      ["Sarah Wilson", "same person as x (different identity), replaced x's identity"], 
+      ["Riley Wilson", "same person as x (different identity), replaced x's identity"], 
+      ["Joaquin Torres", "same person as x (different identity), replaced x's identity"], 
+      ["Redwing", "same person as x (different identity), replaced x's identity"], 
+      ["Ba Falcon", "same person as x (different identity), replaced x's identity"], 
+      ["Miao Na", "same person as x (different identity), replaced x's identity"], 
+      ["Juan Ge (Cuckoo Song)", "same person as x (different reference)"], 
+      ["Leia Wilson", "same person as x (different identity), replaced x's identity"], 
+      ["Paul Wilson", "same person as x (different identity), replaced x's identity"]
+    ],
+    "Juan Ge (Cuckoo Song)": [
+      ["Sam Wilson/Falcon", "same person as x (different reference)"], 
+      ["Sarah Wilson", "same person as x (different reference)"], 
+      ["Riley Wilson", "same person as x (different reference)"], 
+      ["Joaquin Torres", "same person as x (different reference)"], 
+      ["Redwing", "same person as x (different reference)"], 
+      ["Miao Shi", "same person as x (different reference)"], 
+      ["Miao Na", "same person as x (different reference)"], 
+      ["Gui Yin", "same person as x (different reference)"], 
+      ["Ruya", "same person as x (different reference)"], 
+      ["Leia Wilson", "same person as x (different reference)"]
+    ],
+    "Professor Zhou": [
+      ["Sam Wilson/Falcon", "mentor of x"]
+    ],
+    "Chen Sha": [
+      ["Sam Wilson/Falcon", "same person as x (different identity)"], 
+      ["Sarah Wilson", "same person as x (different identity)"], 
+      ["Riley Wilson", "same person as x (different identity)"], 
+      ["Joaquin Torres", "same person as x (different identity)"], 
+      ["Redwing", "same person as x (different identity)"], 
+      ["Miao Na", "same person as x (different identity)"], 
+      ["Leia Wilson", "same person as x (different identity)"], 
+      ["Paul Wilson", "same person as x (different identity)"]
+    ],
+    "Leia Wilson": [
+      ["Sam Wilson/Falcon", "sister of x"], 
+      ["Sarah Wilson", "sister of x"], 
+      ["Riley Wilson", "sister of x"], 
+      ["Chen Sha", "same person as x (different identity), replaced x's identity"]
+    ],
+    "Paul Wilson": [
+      ["Sam Wilson/Falcon", "fiance of x"], 
+      ["Chen Sha", "same person as x (different identity), replaced x's identity"]
+    ]
+}

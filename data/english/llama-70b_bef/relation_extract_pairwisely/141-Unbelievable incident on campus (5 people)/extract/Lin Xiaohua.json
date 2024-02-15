@@ -1,0 +1,58 @@
+{
+    "Lin Xiaohua": [
+      ["Zhang Eba", "fiancee of x, suspect of x"], 
+      ["Hao Guimi", "friend of x"], 
+      ["Wang Xuexi", "suspect of x"], 
+      ["Li Xiaodi", "wife of x, fiancee of x, co wives of x, sister of x, daughter of x, son of x, nephew of x, aunt of x, uncle of x, niece of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by x"], 
+      ["Zhao Shuai", "fiancee of x, adversary of x, enemy of x, rival of x"], 
+      ["Chairman Zhang", "fiancee of x, suspect of x, adversary of x"]
+    ],
+    "Zhang Eba": [
+      ["Lin Xiaohua", "fiance of x, victim of x"], 
+      ["Hao Guimi", "fiance of x, classmate of x"], 
+      ["Wang Xuexi", "fiance of x, victim of x"], 
+      ["Li Xiaodi", "fiance of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, dislike of x, deceiver of x, betrayer of x, suspicious of x, suspect of x, adversary of x, enemy of x, rival of x, manipulator of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["Zhao Shuai", "fiance of x, friend of x"], 
+      ["Chairman Zhang", "fiance of x, co wives of x, husband of x, same person as x (different reference), same person as x (different identity)"]
+    ],
+    "Hao Guimi": [
+      ["Lin Xiaohua", "friend of x"], 
+      ["Zhang Eba", "fiancee of x, friend of x"], 
+      ["Wang Xuexi", "friend of x, acquaintance of x"], 
+      ["Li Xiaodi", "friend of x"], 
+      ["Zhao Shuai", "friend of x, acquaintance of x"], 
+      ["Chairman Zhang", "friend of x, acquaintance of x"]
+    ],
+    "Wang Xuexi": [
+      ["Lin Xiaohua", "suspect of x"], 
+      ["Zhang Eba", "fiance of x, suspect of x"], 
+      ["Hao Guimi", "friend of x, acquaintance of x"], 
+      ["Li Xiaodi", "suspect of x"], 
+      ["Zhao Shuai", "acquaintance of x, classmate of x"], 
+      ["Chairman Zhang", "acquaintance of x, classmate of x"]
+    ],
+    "Li Xiaodi": [
+      ["Lin Xiaohua", "wife of x, fiancee of x, co wives of x, sister of x, daughter of x, son of x, nephew of x, aunt of x, uncle of x, niece of x, cousin of x, friend of x, mentor of x, teacher of x, student of x, informant of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, killed by x"], 
+      ["Zhang Eba", "fiance of x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x, dislike of x, deceiver of x, betrayer of x, suspicious of x, suspect of x, adversary of x, enemy of x, rival of x, manipulator of x, superior of x, employer of x, master of x, subordinate of x, employee of x, servant of x, colleague of x, business partner of x, customer of x, buyer of x, tenant of x, patient of x"], 
+      ["Hao Guimi", "friend of x"], 
+      ["Wang Xuexi", "suspect of x"], 
+      ["Zhao Shuai", "friend of x, classmate of x"], 
+      ["Chairman Zhang", "acquaintance of x, classmate of x"]
+    ],
+    "Zhao Shuai": [
+      ["Lin Xiaohua", "fiance of x, friend of x, acquaintance of x"], 
+      ["Zhang Eba", "friend of x, suspect of x"], 
+      ["Hao Guimi", "friend of x, acquaintance of x"], 
+      ["Wang Xuexi", "acquaintance of x, classmate of x"], 
+      ["Li Xiaodi", "friend of x, classmate of x"], 
+      ["Chairman Zhang", "acquaintance of x, friend of x"]
+    ],
+    "Chairman Zhang": [
+      ["Lin Xiaohua", "father of x, employer of x, master of x, superior of x"], 
+      ["Zhang Eba", "father of x, mother of x, brother of x, sister of x, relative of x, nephew of x, aunt of x, uncle of x, niece of x, cousin of x, informant of x, information receiver from x, acquaintance of x, classmate of x, schoolmate of x, neighbour of x, helper of x, helped by x, perpetrator of x, bully of x, murderer of x, attempted perpetrator of x, attempted murderer of x, victim of x"], 
+      ["Hao Guimi", "friend of x, acquaintance of x"], 
+      ["Wang Xuexi", "acquaintance of x, classmate of x"], 
+      ["Li Xiaodi", "employer of x, master of x"], 
+      ["Zhao Shuai", "employer of x, master of x"]
+    ]
+}

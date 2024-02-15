@@ -1,0 +1,47 @@
+{
+    "Davis Perry": [
+      ["Marina Harrison", "extramarital affair with x"], 
+      ["Jacqueline Perry", "disliked by x"], 
+      ["John Morgan", "possible perpetrator of x's death"], 
+      ["Amy Morgan", "possible suspect of x john's death"]
+    ],
+    "Marina Harrison": [
+      ["Davis Perry", "extramarital affair with x"], 
+      ["Daniel", "husband of x"], 
+      ["Jacqueline Perry", "enemy of x"], 
+      ["Lucy Harrison", "mother of x"], 
+      ["Harold Harrison", "enemy of x"]
+    ],
+    "Daniel": [
+      ["Marina Harrison", "husband of x"], 
+      ["Jacqueline Perry", "wife of x"], 
+      ["Lucy Harrison", "father of x"], 
+      ["Harold Harrison", "business partner of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Davis Perry", "disliked by x"], 
+      ["Marina Harrison", "enemy of x"], 
+      ["Daniel", "wife of x"], 
+      ["Lucy Harrison", "step mother of x"], 
+      ["Harold Harrison", "wife of x"]
+    ],
+    "John Morgan": [
+      ["Davis Perry", "possible victim of x"], 
+      ["Amy Morgan", "husband of x"]
+    ],
+    "Amy Morgan": [
+      ["John Morgan", "wife of x"], 
+      ["Harold Harrison", "sister of x"]
+    ],
+    "Lucy Harrison": [
+      ["Marina Harrison", "daughter of x"], 
+      ["Daniel", "daughter of x"]
+    ],
+    "Harold Harrison": [
+      ["Marina Harrison", "enemy of x"], 
+      ["Daniel", "business partner of x"], 
+      ["Jacqueline Perry", "wife of x"], 
+      ["Amy Morgan", "sister of x"], 
+      ["Lucy Harrison", "father of x"]
+    ]
+}

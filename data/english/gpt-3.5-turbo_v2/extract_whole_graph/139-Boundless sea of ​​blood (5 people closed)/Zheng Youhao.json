@@ -1,0 +1,21 @@
+{
+    "Zheng Youhao": [
+      ["Qin Laoda", "friend of x, helper of x, killed by x"], 
+      ["Jia Meili", "acquaintance of x"]
+    ],
+    "Qin Laoda": [
+      ["Zheng Youhao", "friend of x, helper of x, killed by x"], 
+      ["Jia Meili", "romantic relationships with x"]
+    ],
+    "Jia Meili": [
+      ["Qin Laoda", "romantic relationships with x"], 
+      ["Zheng Youhao", "acquaintance of x"]
+    ],
+    "Wei Xiaodi": [
+      ["Zheng Youhao", "friend of x"]
+    ],
+    "Qin Expert": [
+      ["Zheng Youhao's mother", "extramarital affair with x, raped by x"], 
+      ["Qin Laoda", "father of x"]
+    ]
+}

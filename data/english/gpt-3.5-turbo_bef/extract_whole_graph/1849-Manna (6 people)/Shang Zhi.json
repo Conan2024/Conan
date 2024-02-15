@@ -1,0 +1,44 @@
+{
+    "Shang Zhi": [
+      ["Lv Mingran", "friend of x"], 
+      ["Hai You", "friend of x"], 
+      ["Zina", "romantic relationships with x"], 
+      ["Tan Renxing", "father of x"], 
+      ["Tan Renchang", "cousin of x"], 
+      ["Luo Hengli", "business partner of x"], 
+      ["Mrs. Wei", "business partner of x"], 
+      ["Cai Qian", "acquaintance of x"], 
+      ["He Shizhen", "teacher of x"]
+    ],
+    "Lv Mingran": [
+      ["Shang Zhi", "friend of x"], 
+      ["Zina", "romantic relationships with x"], 
+      ["He Shizhen", "employer of x"]
+    ],
+    "Zina": [
+      ["Shang Zhi", "romantic relationships with x"], 
+      ["Lv Mingran", "romantic relationships with x"]
+    ],
+    "Tan Renxing": [
+      ["Shang Zhi", "father of x"]
+    ],
+    "Tan Renchang": [
+      ["Shang Zhi", "cousin of x"]
+    ],
+    "Luo Hengli": [
+      ["Shang Zhi", "business partner of x"]
+    ],
+    "Mrs. Wei": [
+      ["Shang Zhi", "business partner of x"]
+    ],
+    "He Shizhen": [
+      ["Shang Zhi", "teacher of x"], 
+      ["Lv Mingran", "employer of x"]
+    ],
+    "Hai You": [
+      ["Shang Zhi", "friend of x"]
+    ],
+    "Cai Qian": [
+      ["Shang Zhi", "acquaintance of x"]
+    ]
+}

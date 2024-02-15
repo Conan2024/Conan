@@ -1,0 +1,112 @@
+{
+    "Boss Zhang": [
+      ["Caiya", "husband of x, perpetrator of x"], 
+      ["Gu Chumeng", "business partner of x, informant of x"], 
+      ["Lan Rui", "employer of x, superior of x"], 
+      ["Li Shijia", "employer of x, master of x"], 
+      ["Master Yang", "employer of x, superior of x"], 
+      ["Minxi", "employer of x, master of x"], 
+      ["Shen Wusheng", "employer of x, master of x"], 
+      ["Xiting", "acquaintance of x, friend of x"], 
+      ["Yang Shuixun", "employer of x, master of x"]
+    ],
+    "Caiya": [
+      ["Boss Zhang", "wife of x, victim of x"], 
+      ["Gu Chumeng", "husband of x, same person as x (different reference)"], 
+      ["Lan Rui", "wife of x"], 
+      ["Li Shijia", "husband of x, killed by x"], 
+      ["Master Yang", "husband of x, same person as x (different reference)"], 
+      ["Minxi", "wife of x"], 
+      ["Shen Wusheng", "husband of x"], 
+      ["Yang Shuixun", "husband of x"]
+    ],
+    "Gu Chumeng": [
+      ["Boss Zhang", "business partner of x, informant of x"], 
+      ["Caiya", "wife of x, same person as x (different identity)"], 
+      ["Lan Rui", "acquaintance of x, classmate of x"], 
+      ["Li Shijia", "acquaintance of x, colleague of x"], 
+      ["Master Yang", "acquaintance of x, classmate of x"], 
+      ["Minxi", "acquaintance of x, friend of x"], 
+      ["Shen Wusheng", "acquaintance of x, colleague of x"], 
+      ["Xiting", "acquaintance of x, colleague of x"], 
+      ["Yang Shuixun", "acquaintance of x, friend of x"]
+    ],
+    "Lan Rui": [
+      ["Boss Zhang", "employee of x, subordinate of x"], 
+      ["Caiya", "husband of x"], 
+      ["Gu Chumeng", "acquaintance of x, classmate of x"], 
+      ["Li Shijia", "friend of x, acquaintance of x"], 
+      ["Master Yang", "friend of x, acquaintance of x"], 
+      ["Minxi", "friend of x"], 
+      ["Shen Wusheng", "friend of x, acquaintance of x"], 
+      ["Xiting", "friend of x, acquaintance of x"], 
+      ["Yang Shuixun", "friend of x, acquaintance of x"]
+    ],
+    "Li Shijia": [
+      ["Boss Zhang", "employee of x, servant of x"], 
+      ["Caiya", "wife of x, victim of x"], 
+      ["Gu Chumeng", "acquaintance of x, colleague of x"], 
+      ["Lan Rui", "friend of x, acquaintance of x"], 
+      ["Master Yang", "employee of x, informant of x"], 
+      ["Minxi", "husband of x"], 
+      ["Shen Wusheng", "husband of x, same person as x (different reference)"], 
+      ["Xiting", "friend of x, helper of x"], 
+      ["Yang Shuixun", "employee of x, informant of x"]
+    ],
+    "Master Yang": [
+      ["Boss Zhang", "employee of x, subordinate of x"], 
+      ["Caiya", "husband of x, same person as x (different reference)"], 
+      ["Gu Chumeng", "employer of x, friend of x"], 
+      ["Lan Rui", "friend of x, acquaintance of x"], 
+      ["Li Shijia", "employer of x, informant of x"], 
+      ["Minxi", "employer of x, informant of x"], 
+      ["Shen Wusheng", "employer of x, informant of x"], 
+      ["Xiting", "friend of x, acquaintance of x"], 
+      ["Yang Shuixun", "employer of x, master of x"]
+    ],
+    "Minxi": [
+      ["Boss Zhang", "employee of x, servant of x"], 
+      ["Shen Wusheng", "lover of x, same person as x (different identity)"], 
+      ["Caiya", "husband of x"], 
+      ["Gu Chumeng", "acquaintance of x, friend of x"], 
+      ["Lan Rui", "friend of x"], 
+      ["Li Shijia", "wife of x"], 
+      ["Master Yang", "employee of x, informant of x"], 
+      ["Shen Wusheng", "friend of x, classmate of x"], 
+      ["Xiting", "friend of x, acquaintance of x"], 
+      ["Yang Shuixun", "student of x"]
+    ],
+    "Shen Wusheng": [
+      ["Boss Zhang", "employee of x, servant of x"], 
+      ["Caiya", "husband of x, same person as x (different reference)"], 
+      ["Caiya", "wife of x"], 
+      ["Gu Chumeng", "acquaintance of x, colleague of x"], 
+      ["Lan Rui", "friend of x, acquaintance of x"], 
+      ["Li Shijia", "wife of x, same person as x (different identity)"], 
+      ["Master Yang", "employee of x, informant of x"], 
+      ["Minxi", "friend of x, classmate of x"], 
+      ["Xiting", "friend of x, helper of x"], 
+      ["Yang Shuixun", "employee of x, informant of x"]
+    ],
+    "Xiting": [
+      ["Boss Zhang", "acquaintance of x, friend of x"], 
+      ["Gu Chumeng", "acquaintance of x, colleague of x"], 
+      ["Lan Rui", "friend of x, acquaintance of x"], 
+      ["Li Shijia", "friend of x, helper of x"], 
+      ["Master Yang", "friend of x, acquaintance of x"], 
+      ["Minxi", "friend of x, acquaintance of x"], 
+      ["Shen Wusheng", "friend of x"], 
+      ["Yang Shuixun", "friend of x, acquaintance of x"]
+    ],
+    "Yang Shuixun": [
+      ["Boss Zhang", "subordinate of x, informant of x"], 
+      ["Caiya", "wife of x"], 
+      ["Gu Chumeng", "employer of x, friend of x"], 
+      ["Lan Rui", "friend of x, acquaintance of x"], 
+      ["Li Shijia", "employer of x, superior of x"], 
+      ["Master Yang", "subordinate of x, informant of x"], 
+      ["Minxi", "master of x, employer of x"], 
+      ["Shen Wusheng", "employer of x, superior of x"], 
+      ["Xiting", "friend of x, acquaintance of x"]
+    ]
+}

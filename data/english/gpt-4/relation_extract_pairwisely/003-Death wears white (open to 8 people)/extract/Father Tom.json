@@ -1,0 +1,202 @@
+{
+    "Tom (you)": [
+        [
+            "Dr. Paloski",
+            "acquaintance of x, patient of x, information receiver from x, seeker of help from x"
+        ],
+        [
+            "Hans Li Morette",
+            "customer of x, quest companion of x, information receiver from x, suspected by x, suspect of x, disliked by x"
+        ],
+        [
+            "Frank",
+            "manipulator of x, helper of x, secret lover of x, helped by x, business partner of x, colleague of x, former employer of x, admired by x, deceiver of x, information receiver from x, quest companion of x"
+        ],
+        [
+            "Tony",
+            "deceiver of x, admired by x, manipulator of x, subject of investigation for x, quest companion of x"
+        ],
+        [
+            "Drake Li Morette",
+            "patient of x, information receiver from x, secret keeper with x, beneficiary of x's service, admirer of x"
+        ],
+        [
+            "Dean Berkeley",
+            "acquaintance of x, guest of x, manipulator of x, deceiver of x, suspected by x"
+        ]
+    ],
+    "Dr. Paloski": [
+        [
+            "Tom (you)",
+            "acquaintance of x, doctor of x, information provider to x, helper of x"
+        ],
+        [
+            "Hans Li Morette",
+            "enemy of x, possible perpetrator of x"
+        ],
+        [
+            "Frank",
+            "acquaintance of x"
+        ],
+        [
+            "Tony",
+            "same person as x (different identity), stranger to x, dislike of x, disliked by x"
+        ],
+        [
+            "Drake Li Morette",
+            "acquaintance of x, disliked by x"
+        ],
+        [
+            "Dean Berkeley",
+            "patient of x, victim of x, disliked by x"
+        ],
+        [
+            "Father Tom",
+            "acquaintance of x"
+        ]
+    ],
+    "Hans Li Morette": [
+        [
+            "Tom (you)",
+            "product provider of x, quest companion of x, informant of x, suspect to x, dislike of x, deceiver of x"
+        ],
+        [
+            "Dr. Paloski",
+            "victim of x"
+        ],
+        [
+            "Tom (you)",
+            "acquaintance of x, information receiver from x, subject of investigation for x"
+        ],
+        [
+            "Father Tom",
+            "same person as x (different identity), quest companion of x, employer of x"
+        ],
+        [
+            "Drake Li Morette",
+            "twin brother of x"
+        ],
+        [
+            "Dean Berkeley",
+            "stranger to x"
+        ],
+        [
+            "Father Tom",
+            "stranger to x"
+        ]
+    ],
+    "Frank": [
+        [
+            "Tom (you)",
+            "manipulated by x, helped by x, secret lover of x, business partner of x, colleague of x, admirer of x, deceived by x, informant of x, quest companion of x"
+        ],
+        [
+            "Dr. Paloski",
+            "patient of x"
+        ],
+        [
+            "Tom (you)",
+            "employee of x, helped by x, informant of x"
+        ],
+        [
+            "Tony",
+            "sibling of x, patient of x, blackmailed by x"
+        ],
+        [
+            "Drake Li Morette",
+            "deceiver of x, suspect of x"
+        ],
+        [
+            "Dean Berkeley",
+            "helper of x, helped by x"
+        ],
+        [
+            "Father Tom",
+            "helped by x, information receiver from x, employee of x, victim of x"
+        ]
+    ],
+    "Tony": [
+        [
+            "Tom (you)",
+            "deceived by x, admirer of x, manipulated by x, information receiver from x, victim of x"
+        ],
+        [
+            "Dr. Paloski",
+            "same person as x (different identity), stranger to x, dislike of x, disliked by x"
+        ],
+        [
+            "Hans Li Morette",
+            "manipulated by x, admirer of x, helped by x, patient of x"
+        ],
+        [
+            "Frank",
+            "sibling of x, has a secret helper in x"
+        ],
+        [
+            "Father Tom",
+            "admired by x, deceiver of x, helped by x, secret admirer of x, romantic relationships with x"
+        ],
+        [
+            "Dean Berkeley",
+            "unknown"
+        ]
+    ],
+    "Drake Li Morette": [
+        [
+            "Tom (you)",
+            "doctor of x, service provider of x, information holder about x, deceived by x, helper of x"
+        ],
+        [
+            "Dr. Paloski",
+            "acquaintance of x, possibly family of x"
+        ],
+        [
+            "Hans Li Morette",
+            "twin brother of x"
+        ],
+        [
+            "Frank",
+            "deceived by x, patient of x"
+        ],
+        [
+            "Father Tom",
+            "doctor of x, information receiver from x, helper of x, acquaintance of x"
+        ],
+        [
+            "Father Tom",
+            "doctor of x, information receiver from x, helped by x"
+        ]
+    ],
+    "Dean Berkeley": [
+        [
+            "Tom (you)",
+            "host of x, deceived by x, suspicious of x"
+        ],
+        [
+            "Dr. Paloski",
+            "doctor of x, perpetrator of x, disliked by x"
+        ],
+        [
+            "Hans Li Morette",
+            "stranger to x"
+        ],
+        [
+            "Frank",
+            "informant of x, information receiver from x"
+        ],
+        [
+            "Tony",
+            "unknown"
+        ],
+        [
+            "Father Tom",
+            "acquaintance of x"
+        ]
+    ],
+    "Father Tom": [
+        [
+            "Drake Li Morette",
+            "patient of x, informant of x"
+        ]
+    ]
+}

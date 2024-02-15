@@ -1,0 +1,20 @@
+{
+    "Assistant Ella": [
+      ["Gust", "friend of x, suspect of x"], 
+      ["David", "friend of x, suspect of x"]
+    ],
+    "Theatrical Work David": [
+      ["Rowling", "partner of x, suspect of x"], 
+      ["Gust", "partner of x, suspect of x"]
+    ],
+    "Kevin": [
+      ["Rowling", "brother of x, helper of x"], 
+      ["Gust", "suspect of x"]
+    ],
+    "Gust": [
+      ["Rowling", "boss of x, enemy of x"], 
+      ["Assistant Ella", "lover of x, victim of x"], 
+      ["Theatrical Work David", "partner of x, suspect of x"], 
+      ["Kevin", "suspect of x"]
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "Du Zhong": [
+      ["Lu Ying", "suspicious of x"], 
+      ["Xuan Can", "suspicious of x"]
+    ],
+    "Lu Ying": [
+      ["Du Zhong", "suspicious of x"], 
+      ["Ren Dong", "acquaintance of x"], 
+      ["Xuan Can", "acquaintance of x, suspect of x, adversary of x, enemy of x"]
+    ],
+    "Ren Dong": [
+      ["Lu Ying", "acquaintance of x"], 
+      ["Xuan Can", "acquaintance of x, suspicious of x, adversary of x, enemy of x"]
+    ],
+    "Xuan Can": [
+      ["Du Zhong", "suspicious of x"], 
+      ["Lu Ying", "acquaintance of x, suspect of x, adversary of x, enemy of x"], 
+      ["Ren Dong", "acquaintance of x, suspicious of x, adversary of x, enemy of x"]
+    ]
+}

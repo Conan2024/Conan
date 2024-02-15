@@ -1,0 +1,49 @@
+{
+    "Zhao Qiuer": [
+      ["Zhao Luoyi", "buyer of x, guard of x, friend of x"], 
+      ["Zhao Wanlei", "master of x, helped by x, admired by x, friend of x"], 
+      ["Feng Shuangji", "servant of x, guard of x, superior of x"], 
+      ["Feng Zhu", "colleague of x"], 
+      ["Qi Yue", "employer of x, hated by x, acquaintance of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Zhao Qiuer", "girlfriend of x, guard of x, friend of x"], 
+      ["Zhao Wanlei", "daughter of x, friend of x"], 
+      ["Zhao Wei", "brother of x"], 
+      ["Feng Shuangji", "servant of x, superior of x"], 
+      ["Feng Zhu", "colleague of x"], 
+      ["Qi Yue", "employer of x, hated by x"], 
+      ["Unknown Guests", "neighbour of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Zhao Qiuer", "girlfriend of x, helped by x, admired by x, friend of x"], 
+      ["Zhao Luoyi", "father of x, friend of x"], 
+      ["Feng Shuangji", "subordinate of x, acquaintance of x"], 
+      ["Qi Yue", "subordinate of x, acquaintance of x"], 
+      ["Unknown Guests", "acquaintance of x"]
+    ],
+    "Feng Shuangji": [
+      ["Zhao Qiuer", "guard of x, superior of x, employer of x"], 
+      ["Zhao Luoyi", "subordinate of x, superior of x"], 
+      ["Zhao Wanlei", "subordinate of x"], 
+      ["Feng Zhu", "colleague of x"], 
+      ["Qi Yue", "subordinate of x, acquaintance of x"], 
+      ["Unknown Guests", "guest of x"]
+    ],
+    "Feng Zhu": [
+      ["Zhao Qiuer", "colleague of x"], 
+      ["Zhao Luoyi", "colleague of x"], 
+      ["Zhao Wanlei", "colleague of x"], 
+      ["Feng Shuangji", "colleague of x"], 
+      ["Qi Yue", "acquaintance of x"], 
+      ["Unknown Guests", "guest of x"]
+    ],
+    "Qi Yue": [
+      ["Zhao Qiuer", "employer of x, hated by x, acquaintance of x"], 
+      ["Zhao Luoyi", "employer of x, hated by x"], 
+      ["Zhao Wanlei", "subordinate of x, acquaintance of x"], 
+      ["Feng Shuangji", "subordinate of x, acquaintance of x"], 
+      ["Feng Zhu", "acquaintance of x"], 
+      ["Unknown Guests", "service provider of x"]
+    ]
+}

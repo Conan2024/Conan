@@ -1,0 +1,41 @@
+{
+    "Qi Yue": [
+      ["Feng Shuangji", "friend of x, acquaintance of x"], 
+      ["Feng Zhu", "colleague of x, friend of x"], 
+      ["Zhao Luoyi", "sister of x, victim of x"], 
+      ["Zhao Qiuer", "sister of x, victim of x"], 
+      ["Zhao Wanlei", "employer of x, enemy of x"], 
+      ["Guo Wangshan", "acquaintance of x, suspect of x"]
+    ],
+    "Feng Shuangji": [
+      ["Qi Yue", "friend of x, acquaintance of x"], 
+      ["Feng Zhu", "colleague of x, friend of x"]
+    ],
+    "Feng Zhu": [
+      ["Qi Yue", "colleague of x, friend of x"], 
+      ["Feng Shuangji", "colleague of x, friend of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Qi Yue", "sister of x, victim of x"], 
+      ["Feng Zhu", "colleague of x, friend of x"]
+    ],
+    "Zhao Qiuer": [
+      ["Qi Yue", "sister of x, victim of x"], 
+      ["Feng Zhu", "colleague of x, friend of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Qi Yue", "employer of x, enemy of x"], 
+      ["Feng Zhu", "colleague of x, friend of x"]
+    ],
+    "Guo Wangshan": [
+      ["Qi Yue", "acquaintance of x, suspect of x"], 
+      ["Feng Zhu", "colleague of x, friend of x"]
+    ],
+    "Yin Shaoming": [
+      ["Guo Wangshan", "cousin of x"]
+    ],
+    "Shuang Mian Hu": [
+      ["Qi Yue", "acquaintance of x, suspect of x"], 
+      ["Feng Zhu", "colleague of x, friend of x"]
+    ]
+}

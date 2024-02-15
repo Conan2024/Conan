@@ -1,0 +1,32 @@
+{
+    "Alex Harvey": [
+      ["Marina Harrison", "friend of x"], 
+      ["Marina Harrison", "lover of x"], 
+      ["Amy Morgan", "acquaintance of x"], 
+      ["Amy Morgan", "friend of x"], 
+      ["Max Pike", "suspicious of x"]
+    ],
+    "Marina Harrison": [
+      ["Alex Harvey", "friend of x"], 
+      ["Alex Harvey", "lover of x"], 
+      ["Jacqueline Perry", "sister of x"], 
+      ["Harold Harrison", "husband of x"], 
+      ["Davis Perry", "secret lover of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Marina Harrison", "sister of x"]
+    ],
+    "Harold Harrison": [
+      ["Marina Harrison", "husband of x"]
+    ],
+    "Davis Perry": [
+      ["Marina Harrison", "secret lover of x"]
+    ],
+    "Amy Morgan": [
+      ["Alex Harvey", "acquaintance of x"], 
+      ["Alex Harvey", "friend of x"]
+    ],
+    "Max Pike": [
+      ["Alex Harvey", "suspicious of x"]
+    ]
+}

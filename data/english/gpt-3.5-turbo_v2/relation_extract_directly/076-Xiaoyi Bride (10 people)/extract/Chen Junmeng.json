@@ -1,0 +1,81 @@
+{
+    "Chen Junmeng": [
+      ["Yao", "employer of x chen junmeng"], 
+      ["Yao Mengren", "husband of x chen junmeng"], 
+      ["Chen Qingwu", "father of x chen junmeng"], 
+      ["Yao Changshou", "employer of x chen junmeng's father"], 
+      ["Chen Shitian", "servant of x chen junmeng"], 
+      ["Lady Hong", "wife of x yao changshou"], 
+      ["Yao Zhongyi", "brother of x yao mengren"], 
+      ["Uncle GUI", "doctor of x chen junmeng"]
+    ],
+    "Yao": [
+      ["Chen Junmeng", "employee of x yao"], 
+      ["Yao Mengren", "employer of x chen junmeng"], 
+      ["Chen Qingwu", "colleague of x yao"], 
+      ["Yao Changshou", "employer of x yao"], 
+      ["Chen Shitian", "servant of x yao"], 
+      ["Yao Zhongyi", "brother of x yao mengren"], 
+      ["Uncle GUI", "doctor of x yao"]
+    ],
+    "Yao Mengren": [
+      ["Chen Junmeng", "wife of x yao mengren"], 
+      ["Yao", "employee of x yao mengren"], 
+      ["Chen Qingwu", "colleague of x yao mengren"], 
+      ["Yao Changshou", "father of x yao mengren"], 
+      ["Chen Shitian", "servant of x yao mengren"], 
+      ["Yao Zhongyi", "brother of x yao mengren"], 
+      ["Uncle GUI", "doctor of x yao mengren"]
+    ],
+    "Chen Qingwu": [
+      ["Chen Junmeng", "father of x chen junmeng"], 
+      ["Yao", "colleague of x chen qingwu"], 
+      ["Yao Mengren", "colleague of x chen qingwu"], 
+      ["Yao Changshou", "colleague of x chen qingwu"], 
+      ["Chen Shitian", "colleague of x chen qingwu"], 
+      ["Yao Zhongyi", "colleague of x chen qingwu"], 
+      ["Uncle GUI", "friend of x chen qingwu"]
+    ],
+    "Yao Changshou": [
+      ["Chen Junmeng", "employer of x yao changshou"], 
+      ["Yao", "employer of x yao changshou"], 
+      ["Yao Mengren", "father of x yao changshou"], 
+      ["Chen Qingwu", "colleague of x yao changshou"], 
+      ["Chen Shitian", "servant of x yao changshou"], 
+      ["Yao Zhongyi", "son of x yao changshou"], 
+      ["Lady Hong", "wife of x yao changshou"], 
+      ["Uncle GUI", "friend of x yao changshou"]
+    ],
+    "Chen Shitian": [
+      ["Chen Junmeng", "servant of x chen junmeng"], 
+      ["Yao", "servant of x chen shitian"], 
+      ["Yao Mengren", "servant of x chen shitian"], 
+      ["Chen Qingwu", "colleague of x chen shitian"], 
+      ["Yao Changshou", "servant of x chen shitian"], 
+      ["Yao Zhongyi", "colleague of x chen shitian"], 
+      ["Uncle GUI", "friend of x chen shitian"]
+    ],
+    "Lady Hong": [
+      ["Yao Changshou", "wife of x yao changshou"], 
+      ["Uncle GUI", "friend of x lady hong"]
+    ],
+    "Yao Zhongyi": [
+      ["Chen Junmeng", "brother of x yao zhongyi"], 
+      ["Yao", "brother of x yao zhongyi"], 
+      ["Yao Mengren", "brother of x yao zhongyi"], 
+      ["Chen Qingwu", "colleague of x yao zhongyi"], 
+      ["Yao Changshou", "son of x yao zhongyi"], 
+      ["Chen Shitian", "colleague of x yao zhongyi"], 
+      ["Uncle GUI", "friend of x yao zhongyi"]
+    ],
+    "Uncle GUI": [
+      ["Chen Junmeng", "doctor of x uncle gui"], 
+      ["Yao", "doctor of x uncle gui"], 
+      ["Yao Mengren", "doctor of x uncle gui"], 
+      ["Chen Qingwu", "friend of x uncle gui"], 
+      ["Yao Changshou", "friend of x uncle gui"], 
+      ["Chen Shitian", "friend of x uncle gui"], 
+      ["Lady Hong", "friend of x uncle gui"], 
+      ["Yao Zhongyi", "friend of x uncle gui"]
+    ]
+}

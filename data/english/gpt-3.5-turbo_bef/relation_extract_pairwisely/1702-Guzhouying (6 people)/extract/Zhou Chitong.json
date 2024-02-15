@@ -1,0 +1,137 @@
+{
+    "Zhou Chitong": [
+      ["Zhou Mengdang", "brother of x, employer of x, student of x"], 
+      ["Cui Shouheng", "brother in law of x"], 
+      ["Bao Gan", "helper of x"], 
+      ["Yu", "romantic relationships with x"], 
+      ["Su Nian", "brother of x, romantic relationships with x"], 
+      ["Xi Yan Fang", "friend of x, brother in law of x, ex boyfriend of x"], 
+      ["Cui Yannan", "brother in law of x, friend of x"], 
+      ["Ni Sichong", "friend of x"], 
+      ["Uncle Fu", "guard of x"]
+    ],
+    "Zhou Mengdang": [
+      ["Zhou Chitong", "brother of x, employee of x, teacher of x"], 
+      ["Xi Yan", "sister in law of x, friend of x, wife of x"], 
+      ["Bao Gan", "fondness of x, father of x"], 
+      ["Yu", "wife of x, sister in law of x"], 
+      ["Su Nian", "brother of x, master of x"], 
+      ["Cuizhuang", "brother in law of x"], 
+      ["Taitai", "brother in law of x, mentor of x"], 
+      ["Zhou Lianyi", "sibling of x, patient of x"], 
+      ["Ni Sichong", "sibling of x"], 
+      ["Uncle Fu", "brother in law of x, step brother of x, friend of x"]
+    ],
+    "Cui Shouheng": [
+      ["Zhou Chitong", "brother in law of x"], 
+      ["Xi Yan", "romantic relationships with x, mentor of x, teacher of x"], 
+      ["Bao Gan", "brother in law of x, fondness of x, classmate of x"], 
+      ["Yu", "friend of x, mentor of x, lover of x"], 
+      ["Wang Shi", "friend of x, lover of x, mentor of x"], 
+      ["Xi Yan Fang", "romantic relationships with x, friend of x"], 
+      ["Cuizhuang", "brother in law of x, uncle of x"], 
+      ["Cui Yannan", "brother in law of x, employer of x"], 
+      ["Ni Sichong", "brother in law of x, mentor of x"]
+    ],
+    "Xi Yan": [
+      ["Zhou Mengdang", "brother in law of x, friend of x, husband of x"], 
+      ["Cui Shouheng", "romantic relationships with x, student of x"], 
+      ["Su Nian", "friend of x"], 
+      ["Cuizhuang", "wife of x"], 
+      ["Taitai", "fondness of x"], 
+      ["Cui Yannan", "wife of x"]
+    ],
+    "Bao Gan": [
+      ["Zhou Mengdang", "fondness of x, child of x"], 
+      ["Cui Shouheng", "brother in law of x, fondness of x, classmate of x"], 
+      ["Yu", "friend of x, helper of x"], 
+      ["Cuizhuang", "concubine of x"], 
+      ["Taitai", "husband of x, friend of x"], 
+      ["Zhou Lianyi", "friend of x, mentor of x"], 
+      ["Ni Sichong", "friend of x"], 
+      ["Uncle Fu", "helper of x, mentor of x"]
+    ],
+    "Yu": [
+      ["Zhou Chitong", "romantic relationships with x"], 
+      ["Zhou Mengdang", "husband of x, brother of x"], 
+      ["Cui Shouheng", "friend of x, student of x, lover of x"], 
+      ["Bao Gan", "friend of x, helped by x"], 
+      ["Su Nian", "husband of x"], 
+      ["Taitai", "wife of x"], 
+      ["Cui Yannan", "friend of x, possibly family of x, mentor of x"], 
+      ["Ni Sichong", "sibling of x, friend of x"]
+    ],
+    "Su Nian": [
+      ["Zhou Chitong", "brother of x, romantic relationships with x"], 
+      ["Zhou Mengdang", "brother of x, servant of x"], 
+      ["Xi Yan", "friend of x"], 
+      ["Yu", "wife of x"], 
+      ["Cuizhuang", "sister of x"], 
+      ["Cui Yannan", "sister in law of x"]
+    ],
+    "Wang Shi": [
+      ["Cui Shouheng", "friend of x, lover of x"], 
+      ["Xi Yan Fang", "husband of x, lover of x"], 
+      ["Cuizhuang", "friend of x, colleague of x"], 
+      ["Ni Sichong", "co wives of x, son in law of x, ex romantic relationships with x"]
+    ],
+    "Xi Yan Fang": [
+      ["Zhou Chitong", "friend of x, sister in law of x, ex girlfriend of x"], 
+      ["Cui Shouheng", "romantic relationships with x, friend of x"], 
+      ["Wang Shi", "wife of x, romantic relationships with x"], 
+      ["Cuizhuang", "acquaintance of x"], 
+      ["Zhou Lianyi", "friend of x"], 
+      ["Ni Sichong", "teacher of x"], 
+      ["Uncle Fu", "helper of x, guard of x"]
+    ],
+    "Cuizhuang": [
+      ["Zhou Mengdang", "brother in law of x"], 
+      ["Cui Shouheng", "brother in law of x, nephew of x"], 
+      ["Xi Yan", "husband of x"], 
+      ["Su Nian", "brother of x"], 
+      ["Wang Shi", "friend of x, colleague of x"], 
+      ["Xi Yan Fang", "acquaintance of x, friend of x"], 
+      ["Ni Sichong", "employer of x, mentor of x"]
+    ],
+    "Taitai": [
+      ["Zhou Mengdang", "sister in law of x"], 
+      ["Xi Yan", "fondness of x"], 
+      ["Bao Gan", "wife of x, friend of x"], 
+      ["Yu", "husband of x"], 
+      ["Zhou Lianyi", "ex husband of x, ex romantic relationships with x"]
+    ],
+    "Zhou Lianyi": [
+      ["Zhou Mengdang", "sibling of x, doctor of x"], 
+      ["Bao Gan", "friend of x, student of x"], 
+      ["Xi Yan Fang", "friend of x"], 
+      ["Taitai", "ex wife of x, ex romantic relationships with x"], 
+      ["Cui Yannan", "friend of x, father of x"], 
+      ["Uncle Fu", "nephew of x, helper of x"]
+    ],
+    "Cui Yannan": [
+      ["Zhou Chitong", "brother in law of x, friend of x"], 
+      ["Cui Shouheng", "sister in law of x, employee of x"], 
+      ["Xi Yan", "husband of x"], 
+      ["Yu", "friend of x, possibly family of x, student of x"], 
+      ["Su Nian", "brother of x"], 
+      ["Zhou Lianyi", "friend of x, son of x"], 
+      ["Ni Sichong", "brother in law of x"]
+    ],
+    "Ni Sichong": [
+      ["Zhou Chitong", "friend of x"], 
+      ["Zhou Mengdang", "sibling of x"], 
+      ["Cui Shouheng", "brother in law of x, student of x"], 
+      ["Bao Gan", "friend of x"], 
+      ["Yu", "sibling of x, friend of x"], 
+      ["Wang Shi", "co wives of x, father in law of x, ex romantic relationships with x"], 
+      ["Xi Yan Fang", "student of x"], 
+      ["Cuizhuang", "employee of x, student of x"], 
+      ["Cui Yannan", "sister in law of x"]
+    ],
+    "Uncle Fu": [
+      ["Zhou Mengdang", "brother in law of x, step brother of x, friend of x"], 
+      ["Bao Gan", "helper of x"], 
+      ["Xi Yan Fang", "helper of x"], 
+      ["Zhou Lianyi", "uncle of x, helper of x"]
+    ]
+}

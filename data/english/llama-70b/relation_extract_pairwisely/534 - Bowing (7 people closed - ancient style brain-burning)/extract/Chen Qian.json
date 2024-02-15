@@ -1,0 +1,426 @@
+{
+    "Chen Qian": [
+        [
+            "Madam Chen or Chen Family",
+            "Wife of X"
+        ],
+        [
+            "Chen Zijing",
+            "father-son relationship"
+        ],
+        [
+            "Xiao Qian",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Caotng Jushi",
+            "adopted sibling",
+            "childhood friend",
+            "business partner"
+        ],
+        [
+            "Li Zhong",
+            "Husband of X",
+            "Lover of X"
+        ],
+        [
+            "Li Qinren",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Wangye",
+            "Husband of X",
+            "Stranger to X"
+        ],
+        [
+            "Xiao Qian",
+            "relationship 1",
+            "relationship 2"
+        ]
+    ],
+    "Madam Chen or Chen Family": [
+        [
+            "Chen Qian",
+            "Mother of X"
+        ],
+        [
+            "Chen Zijing",
+            "Mother of X",
+            "Father of X"
+        ],
+        [
+            "Xiao Qian",
+            "Mother of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Caotng Jushi",
+            "Mother-in-law",
+            "Adoptive Mother"
+        ],
+        [
+            "Li Zhong",
+            "Mother-in-law",
+            "Father-in-law"
+        ],
+        [
+            "Li Qinren",
+            "Mother-in-law",
+            "Wife of X"
+        ],
+        [
+            "Li Wangye",
+            "Wife of X",
+            "Mother of X",
+            "Female Relative of X"
+        ],
+        [
+            "Wangye",
+            "Mother-in-law"
+        ],
+        [
+            "Xiao Qian",
+            "Mother of X",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Chen Zijing": [
+        [
+            "Chen Qian",
+            "father-son relationship"
+        ],
+        [
+            "Madam Chen or Chen Family",
+            "Father of X",
+            "Husband of X"
+        ],
+        [
+            "Xiao Qian",
+            "Father of X",
+            "adoptive father of X"
+        ],
+        [
+            "Caotng Jushi",
+            "Father-in-law",
+            " Guardian"
+        ],
+        [
+            "Li Zhong",
+            "Father-in-law",
+            "Suspect of X"
+        ],
+        [
+            "Li Qinren",
+            "Father-in-law",
+            "Father of spouse"
+        ],
+        [
+            "Li Wangye",
+            "Father-in-law",
+            "Perpetrator of X"
+        ],
+        [
+            "Wangye",
+            "Father-in-law",
+            "Perpetrator of X"
+        ],
+        [
+            "Xiao Qian",
+            "Father of X",
+            "adoptive father of X"
+        ]
+    ],
+    "Xiao Qian": [
+        [
+            "Chen Qian",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Chen Qian",
+            "relationship 1",
+            "relationship 2"
+        ],
+        [
+            "Madam Chen or Chen Family",
+            "Daughter of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Madam Chen or Chen Family",
+            "Daughter of X",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Chen Zijing",
+            "Daughter of X",
+            "adopted daughter of X"
+        ],
+        [
+            "Chen Zijing",
+            "Daughter of X",
+            "adopted daughter of X"
+        ],
+        [
+            "Caotng Jushi",
+            "adopted siblings",
+            "childhood friends",
+            "servant-master relationship"
+        ],
+        [
+            "Li Zhong",
+            "friend, rival"
+        ],
+        [
+            "Li Qinren",
+            "Wife of X",
+            "Fiancee of X"
+        ],
+        [
+            "Li Wangye",
+            "Wife of X",
+            "Same person as X "
+        ],
+        [
+            "Wangye",
+            "Friend"
+        ],
+        [
+            "Xiao Qian",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Caotng Jushi",
+            "Adoptive Daughter",
+            "Friend"
+        ],
+        [
+            "Li Qinren",
+            "Mother-in-law",
+            "Wedding Banquet"
+        ],
+        [
+            "Li Wangye",
+            "Husband of X",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Caotng Jushi": [
+        [
+            "Chen Qian",
+            "adopted sibling",
+            "childhood friend",
+            "business partner"
+        ],
+        [
+            "Madam Chen or Chen Family",
+            "Mother-in-law",
+            "Adoptive Mother"
+        ],
+        [
+            "Chen Zijing",
+            "Father-in-law",
+            "Guardian"
+        ],
+        [
+            "Xiao Qian",
+            "adopted siblings",
+            "childhood friends",
+            "master-servant relationship"
+        ],
+        [
+            "Li Zhong",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Li Qinren",
+            "Wife of X",
+            "Fiancee of X"
+        ],
+        [
+            "Li Wangye",
+            "Wife of X",
+            "Stranger to X"
+        ],
+        [
+            "Wangye ",
+            "Perpetrator of X",
+            "Adversary of X",
+            "Enemy of X"
+        ],
+        [
+            "Xiao Qian",
+            "Adoptive Mother",
+            "Friend"
+        ]
+    ],
+    "Li Zhong": [
+        [
+            "Chen Qian",
+            "Wife of X",
+            "Lover of X"
+        ],
+        [
+            "Madam Chen or Chen Family",
+            "Husband",
+            "Son-in-law"
+        ],
+        [
+            "Chen Zijing",
+            "Husband",
+            "Son-in-law"
+        ],
+        [
+            "Xiao Qian",
+            "friend, rival"
+        ],
+        [
+            "Caotng Jushi",
+            "Friend",
+            "Business Partner"
+        ],
+        [
+            "Li Qinren",
+            "Husband of X",
+            "Stranger to X",
+            "Romantic relationships with X",
+            "Fiance of X",
+            "Fiancee of X"
+        ],
+        [
+            "Wangye",
+            "Husband of X",
+            "Stranger to X"
+        ]
+    ],
+    "Li Qinren": [
+        [
+            "Chen Qian",
+            "Wife of X",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Madam Chen or Chen Family",
+            "Father-in-law",
+            "Husband of X"
+        ],
+        [
+            "Chen Zijing",
+            "Son-in-law",
+            "Husband of daughter"
+        ],
+        [
+            "Xiao Qian",
+            "Husband of X",
+            "Fiance of X"
+        ],
+        [
+            "Caotng Jushi",
+            "Husband of X",
+            "Fiance of X"
+        ],
+        [
+            "Li Zhong",
+            "Father of X",
+            "Mentor of X",
+            "teacher of x",
+            "Student of X"
+        ],
+        [
+            "Li Wangye",
+            "Father-in-law",
+            "Relative of X"
+        ],
+        [
+            "Wangye",
+            "Father-in-law"
+        ],
+        [
+            "Xiao Qian",
+            "Father-in-law",
+            "Wedding Banquet"
+        ]
+    ],
+    "Wangye": [
+        [
+            "Chen Qian",
+            "Wife of X",
+            "Same person as X "
+        ],
+        [
+            "Madam Chen or Chen Family",
+            "Father-in-law"
+        ],
+        [
+            "Chen Zijing",
+            "Father-in-law",
+            "Victim of X"
+        ],
+        [
+            "Xiao Qian",
+            "Friend"
+        ],
+        [
+            "Li Zhong",
+            "Wife of X",
+            "Stranger to X"
+        ],
+        [
+            "Li Qinren",
+            "Son-in-law"
+        ],
+        [
+            "Li Wangye",
+            "Same person as X (different reference)",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Li Wangye": [
+        [
+            "Madam Chen or Chen Family",
+            "Husband of X",
+            "Male Relative of X"
+        ],
+        [
+            "Chen Zijing",
+            "Son-in-law",
+            "Victim of X"
+        ],
+        [
+            "Xiao Qian",
+            "Husband of X",
+            "Same person as X "
+        ],
+        [
+            "Caotng Jushi",
+            "Husband of X",
+            "Stranger to X"
+        ],
+        [
+            "Li Qinren",
+            "Son-in-law",
+            "Relative of X"
+        ],
+        [
+            "Wangye ",
+            "Husband of X",
+            "Stranger to X"
+        ],
+        [
+            "Xiao Qian",
+            "Wife of X",
+            "Stranger to X"
+        ]
+    ],
+    "Wangye ": [
+        [
+            "Caotng Jushi",
+            "Perpetrator of X",
+            "Adversary of X",
+            "Enemy of X"
+        ]
+    ]
+}

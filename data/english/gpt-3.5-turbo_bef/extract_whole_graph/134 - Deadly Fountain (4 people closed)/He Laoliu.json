@@ -1,0 +1,41 @@
+{
+    "He Laoliu": [
+      ["Mu Bei", "colleague of x"], 
+      ["Neighbor Wang", "acquaintance of x"], 
+      ["Father-in-law", "future relative of x"], 
+      ["Li Guofu", "murderer of x"]
+    ],
+    "Li Guofu": [
+      ["Mu Bei", "colleague of x"], 
+      ["Neighbor Wang", "acquaintance of x"], 
+      ["Second sister", "acquaintance of x"], 
+      ["Dad", "acquaintance of x"], 
+      ["He Laoliu", "murderer of x"]
+    ],
+    "Zhang Jie": [
+      ["Mu Bei", "colleague of x"], 
+      ["Second sister", "acquaintance of x"], 
+      ["Dad", "acquaintance of x"], 
+      ["He Laoliu", "murderer of x"]
+    ],
+    "Mu Bei": [
+      ["He Laoliu", "colleague of x"], 
+      ["Li Guofu", "colleague of x"], 
+      ["Zhang Jie", "colleague of x"], 
+      ["Li Guofu", "murderer of x"], 
+      ["Zhang Jie", "murderer of x"]
+    ],
+    "Neighbor Wang": [
+      ["He Laoliu", "acquaintance of x"], 
+      ["Li Guofu", "acquaintance of x"], 
+      ["Li Guofu", "attempted murderer of x"]
+    ],
+    "Second sister": [
+      ["Li Guofu", "acquaintance of x"], 
+      ["Father-in-law", "future relative of x"]
+    ],
+    "Father-in-law": [
+      ["He Laoliu", "future relative of x"], 
+      ["Second sister", "future relative of x"]
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "He Laoliu": [
+      ["Li Guofu", "colleague of x, mentor of x"], 
+      ["Zhang Jie", "colleague of x"], 
+      ["Mu Bei", "colleague of x, rival of x"], 
+      ["Big Brother Wang", "acquaintance of x"]
+    ],
+    "Li Guofu": [
+      ["He Laoliu", "mentor of x, colleague of x"], 
+      ["Zhang Jie", "colleague of x"], 
+      ["Mu Bei", "colleague of x, rival of x"], 
+      ["Big Brother Wang", "acquaintance of x"]
+    ],
+    "Zhang Jie": [
+      ["He Laoliu", "colleague of x"], 
+      ["Li Guofu", "colleague of x, mentor of x"], 
+      ["Mu Bei", "colleague of x, rival of x"]
+    ],
+    "Mu Bei": [
+      ["He Laoliu", "rival of x, colleague of x"], 
+      ["Li Guofu", "colleague of x, mentor of x"], 
+      ["Zhang Jie", "colleague of x, rival of x"]
+    ],
+    "Big Brother Wang": [
+      ["He Laoliu", "acquaintance of x"], 
+      ["Li Guofu", "acquaintance of x"]
+    ]
+}

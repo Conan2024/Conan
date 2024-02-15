@@ -1,0 +1,90 @@
+{
+    "Alex Harvey": [
+      ["Amy Morgan", "friend of x, business partner of x"], 
+      ["Anna", "friend of x, business partner of x"], 
+      ["Harold Harrison", "friend of x, business partner of x"], 
+      ["Joe Robertson", "friend of x, business partner of x"], 
+      ["John Morgan", "friend of x, business partner of x"], 
+      ["Lucy Harrison", "friend of x, business partner of x"], 
+      ["Marina Harrison", "friend of x, business partner of x"], 
+      ["Max Pike", "friend of x, business partner of x"]
+    ],
+    "Amy Morgan": [
+      ["Alex Harvey", "friend of x, business partner of x"], 
+      ["Anna", "friend of x, business partner of x"], 
+      ["Harold Harrison", "sister of x, friend of x"], 
+      ["Joe Robertson", "friend of x, business partner of x"], 
+      ["John Morgan", "wife of x, friend of x"], 
+      ["Lucy Harrison", "friend of x, business partner of x"], 
+      ["Marina Harrison", "sister of x, dislike of x"], 
+      ["Max Pike", "friend of x, business partner of x"]
+    ],
+    "Anna": [
+      ["Alex Harvey", "friend of x, business partner of x"], 
+      ["Amy Morgan", "friend of x, business partner of x"], 
+      ["Harold Harrison", "wife of x, same person as x (different reference)"], 
+      ["Joe Robertson", "wife of x, same person as x (different identity)"], 
+      ["John Morgan", "wife of x, ex wife of x"], 
+      ["Lucy Harrison", "sister of x, rival of x"], 
+      ["Marina Harrison", "sister in law of x, dislike of x"]
+    ],
+    "Harold Harrison": [
+      ["Alex Harvey", "sibling of x"], 
+      ["Amy Morgan", "brother of x, friend of x"], 
+      ["Anna", "husband of x, same person as x (different reference)"], 
+      ["Joe Robertson", "brother of x, friend of x"], 
+      ["John Morgan", "brother of x, friend of x"], 
+      ["Lucy Harrison", "brother of x"], 
+      ["Marina Harrison", "brother of x, friend of x"], 
+      ["Max Pike", "brother of x, suspect of x"]
+    ],
+    "Joe Robertson": [
+      ["Alex Harvey", "friend of x, business partner of x"], 
+      ["Amy Morgan", "friend of x, business partner of x"], 
+      ["Anna", "husband of x, same person as x (different identity)"], 
+      ["Harold Harrison", "brother of x, friend of x"], 
+      ["John Morgan", "friend of x"], 
+      ["Lucy Harrison", "friend of x, business partner of x"], 
+      ["Marina Harrison", "brother in law of x, friend of x"], 
+      ["Max Pike", "friend of x, business partner of x"]
+    ],
+    "John Morgan": [
+      ["Alex Harvey", "friend of x, business partner of x"], 
+      ["Amy Morgan", "husband of x, friend of x"], 
+      ["Anna", "husband of x, ex husband of x"], 
+      ["Harold Harrison", "brother in law of x, friend of x"], 
+      ["Joe Robertson", "friend of x"], 
+      ["Lucy Harrison", "husband of x"], 
+      ["Marina Harrison", "husband of x, wife of x"], 
+      ["Max Pike", "husband of x, ex husband of x"]
+    ],
+    "Lucy Harrison": [
+      ["Alex Harvey", "friend of x, business partner of x"], 
+      ["Amy Morgan", "friend of x, business partner of x"], 
+      ["Anna", "sister of x, rival of x"], 
+      ["Harold Harrison", "brother of x"], 
+      ["Joe Robertson", "friend of x, business partner of x"], 
+      ["John Morgan", "wife of x"], 
+      ["Marina Harrison", "sister of x, dislike of x"], 
+      ["Max Pike", "friend of x, business partner of x"]
+    ],
+    "Marina Harrison": [
+      ["Alex Harvey", "friend of x, business partner of x"], 
+      ["Amy Morgan", "sister of x, dislike of x"], 
+      ["Anna", "brother in law of x, dislike of x"], 
+      ["Harold Harrison", "sister of x, friend of x"], 
+      ["Joe Robertson", "sister in law of x, friend of x"], 
+      ["John Morgan", "husband of x, wife of x"], 
+      ["Lucy Harrison", "sister of x, dislike of x"], 
+      ["Max Pike", "same person as x (different reference), ex romantic relationships with x"]
+    ],
+    "Max Pike": [
+      ["Alex Harvey", "friend of x, business partner of x"], 
+      ["Amy Morgan", "friend of x, business partner of x"], 
+      ["Harold Harrison", "brother in law of x, suspect of x"], 
+      ["Joe Robertson", "friend of x, business partner of x"], 
+      ["John Morgan", "husband of x, ex husband of x"], 
+      ["Lucy Harrison", "friend of x, business partner of x"], 
+      ["Marina Harrison", "same person as x (different reference), ex romantic relationships with x"]
+    ]
+}

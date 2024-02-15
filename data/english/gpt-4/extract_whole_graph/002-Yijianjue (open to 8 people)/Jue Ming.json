@@ -1,0 +1,78 @@
+{
+    "Jue Ming": [
+        [
+            "Xuan Bingjiao's Messenger",
+            "replaced x's identity"
+        ],
+        [
+            "Zi Su",
+            "acquaintance of x"
+        ],
+        [
+            "Owner of Yijian Villa",
+            "thief of x"
+        ],
+        [
+            "Lu Ying",
+            "acquaintance of x"
+        ]
+    ],
+    "Xuan Bingjiao's Messenger": [
+        [
+            "Jue Ming",
+            "victim of x"
+        ],
+        [
+            "Owner of Yijian Villa",
+            "guest of x"
+        ],
+        [
+            "Banxia Qianzhuang",
+            "customer of x"
+        ]
+    ],
+    "Zi Su": [
+        [
+            "Jue Ming",
+            "information receiver from x"
+        ],
+        [
+            "Owner of Yijian Villa",
+            "subordinate of x"
+        ]
+    ],
+    "Owner of Yijian Villa": [
+        [
+            "Jue Ming",
+            "deceived by x"
+        ],
+        [
+            "Xuan Bingjiao's Messenger",
+            "host of x"
+        ],
+        [
+            "Zi Su",
+            "superior of x"
+        ],
+        [
+            "Lu Ying",
+            "superior of x"
+        ]
+    ],
+    "Lu Ying": [
+        [
+            "Jue Ming",
+            "acquaintance of x"
+        ],
+        [
+            "Owner of Yijian Villa",
+            "subordinate of x"
+        ]
+    ],
+    "Banxia Qianzhuang": [
+        [
+            "Xuan Bingjiao's Messenger",
+            "service provider of x"
+        ]
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "Chen Sha": [
+      ["Chen Zhi", "father of x chen sha"], 
+      ["Li Meimei", "mother of x chen sha"], 
+      ["Chen Wei", "twin brother of x chen sha"], 
+      ["Chen Jing", "sister of x chen sha"], 
+      ["Chen Li", "sister of x chen sha"], 
+      ["Chen Yu", "sister of x chen sha"], 
+      ["Chen Hua", "sister of x chen sha"], 
+      ["Chen Min", "sister of x chen sha"], 
+      ["Zhou Yuntang", "father of x"], 
+      ["Zhou Chen Sha", "same person as chen sha (different identity) of x"], 
+      ["Zhou Jingyu", "brother of x"], 
+      ["Gan Ma", "romantic relationships with chen sha of x"], 
+      ["Ba Mansion Mountain", "adversary of x chen sha"], 
+      ["Falcon", "lover of x chen sha"], 
+      ["Gui Yin", "manipulated by chen sha of x"]
+    ],
+    "Zhou Chen Sha": [
+      ["Chen Zhi", "father of x"], 
+      ["Li Meimei", "mother of x"], 
+      ["Zhou Jingyu", "brother of x"], 
+      ["Gan Ma", "romantic relationships of x"], 
+      ["Falcon", "lover of x"], 
+      ["Chen Wei", "sibling of x"], 
+      ["Chen Jing", "sibling of x"], 
+      ["Chen Li", "sibling of x"], 
+      ["Chen Yu", "sibling of x"], 
+      ["Chen Hua", "sibling of x"], 
+      ["Chen Min", "sibling of x"]
+    ],
+    "Zhou Jingyu": [
+      ["Zhou Chen Sha", "brother of x"], 
+      ["Zhou Yuntang", "father of x"], 
+      ["Li Meimei", "mother of x"], 
+      ["Ba Mansion Mountain", "adversary of x"], 
+      ["Gui Yin", "manipulated by of x"]
+    ],
+    "Zhou Yuntang": [
+      ["Zhou Chen Sha", "father of x"], 
+      ["Zhou Jingyu", "father of x"], 
+      ["Li Meimei", "wife of x"]
+    ],
+    "Gan Ma": [
+      ["Chen Sha", "romantic relationships of x"], 
+      ["Falcon", "romantic relationships of x"], 
+      ["Gui Yin", "brother of x"], 
+      ["Zhou Chen Sha", "sibling of x"], 
+      ["Chen Wei", "sibling of x"], 
+      ["Chen Jing", "sibling of x"], 
+      ["Chen Li", "sibling of x"], 
+      ["Chen Yu", "sibling of x"], 
+      ["Chen Hua", "sibling of x"], 
+      ["Chen Min", "sibling of x"]
+    ],
+    "Falcon": [
+      ["Chen Sha", "lover of x"], 
+      ["Gan Ma", "romantic relationships of x"], 
+      ["Zhou Chen Sha", "lover of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Chen Sha", "adversary of x"], 
+      ["Gui Yin", "deceived by of x"], 
+      ["Zhou Jingyu", "adversary of x"]
+    ],
+    "Gui Yin": [
+      ["Chen Sha", "manipulated by of x"], 
+      ["Gan Ma", "brother of x"], 
+      ["Zhou Jingyu", "manipulated by of x"], 
+      ["Ba Mansion Mountain", "deceived by of x"], 
+      ["Zhou Chen Sha", "manipulated by of x"]
+    ]
+}
